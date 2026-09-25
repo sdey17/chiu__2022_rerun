@@ -1,254 +1,213 @@
-# PFAS toxicokinetics: a from-scratch Python replication
+# PFAS half-lives: Chiu et al. 2022 in Python
 
-> **Update:** the gaps described below (including the "open" PFOA gap) are
-> explained in [`ANALYSIS.md`](ANALYSIS.md). The `model_*.py` scripts drop
-> the t = 0 serum observations and share one background/initial-concentration
-> scale across all studies, where Chiu's model uses one per study. The PFNA
-> priors are also wrong. `model_corrected.py` fixes these and reproduces the
-> published half-lives for all four PFAS (PFOA 3.16, PFOS 3.36, PFNA 2.27,
-> PFHxS 8.51 yr).
+This repository re-fits the Bayesian toxicokinetic model of Chiu et al. 2022
+(*Environ Health Perspect* 130(12):127001) for four PFAS: PFOA, PFOS, PFNA and
+PFHxS. The original work used MCSim, a C-based simulation tool driven by
+R-like input files ([original repository](https://github.com/wachiuphd/2022-Bayes-PFAS-PK)).
+This version uses [PyMC](https://www.pymc.io/).
 
-This folder replicates the population human elimination half-life
-estimates from Chiu et al. 2022, a Bayesian toxicokinetic analysis of
-four PFAS ("forever chemicals") — PFOA, PFOS, PFNA, and PFHxS — using
-PyMC instead of Chiu's original tool (MCSim, a program driven by R-like
-configuration scripts). Everything here was built and run directly
-against Chiu's own published input data files; nothing is simulated or
-invented.
+It reproduces the published half-lives:
 
-If you are new to Bayesian modeling, MCMC, or toxicokinetics, **start
-with `model_pfna.py`** — it has the longest, most complete explanation
-of every concept used, and the other three scripts point back to it
-instead of repeating themselves.
+| PFAS  | This code, median (95% CI) | Paper, Table 3 |
+|-------|----------------------------|----------------|
+| PFOA  | 3.16 (2.65–3.77)  | 3.14 (2.69–3.73) |
+| PFOS  | 3.34 (2.45–4.45)  | 3.36 (2.52–4.42) |
+| PFNA  | 2.28 (1.53–3.19)  | 2.35 (1.65–3.16) |
+| PFHxS | 8.52 (5.66–13.01) | 8.30 (5.38–13.5) |
+
+The half-life here is for the population geometric mean (GM), i.e. a
+"typical" person. MCMC is random, so your numbers can differ from these in
+the second decimal place.
 
 ## Quick start
 
 ```bash
 pip install -r requirements.txt
-python model_pfna.py       # ~1-3 min, simplest model, start here
-python model_pfhxs.py      # ~2-3 min
-python model_pfos.py       # ~3-5 min
-python model_pfoa.py       # ~8-12 min, largest/slowest model
+python parse_chiu_data.py      # optional: see which data are used
+python model.py PFNA           # about 1 minute
+python model.py all            # all four; PFOA takes about 4 minutes
 ```
 
-or run all four back-to-back with `python run_all.py`.
+Each run prints the half-life next to the paper's value and saves the full
+posterior to `results_<chem>.nc` (open it with `arviz.from_netcdf`).
 
-Each script is fully self-contained once you've `pip install`ed the
-requirements — it reads its chemical's data straight out of the
-`data/` folder, builds the model, samples the posterior, prints a
-results table to your terminal, and saves a `.nc` file (the full
-posterior, reloadable with `arviz.from_netcdf`) and a `.png` diagnostic
-plot.
-
-## What's in this folder
+## Files
 
 ```
-README.md                  <- you are here
-requirements.txt
-parse_chiu_data.py          <- reads Chiu's raw data files into a table
-model_pfna.py                <- START HERE. Simplest model.
-model_pfhxs.py               <- same structure as PFNA, different numbers
-model_pfos.py                <- adds pytensor.scan for time-varying exposure
-model_pfoa.py                <- largest model, same ideas at bigger scale
-run_all.py                   <- convenience: runs all four in sequence
-data/
-  PFOA_1cpt_v8.MCMC_TrainTest.in.R
-  PFOS_1cpt_v8.PopMCMC_MeanIndivTrainTest.in.R
-  PFNA_1cpt_v8.PopMCMC_MeanIndivTrainTest.in.R
-  PFHxS_1cpt_v8.PopMCMC_MeanIndivTrainTest.in.r
+model.py               the model (one file for all four chemicals)
+parse_chiu_data.py     reads Chiu's input files into a table
+data/                  Chiu's MCSim input files, unmodified (GPLv3, see LICENSE-chiu-GPLv3)
+*.pdf                  the paper and its supplement
 ```
 
-The four files in `data/` are copied, unmodified, from Chiu et al.'s own
-public GitHub repository (GPLv3-licensed). They are MCSim's own
-configuration-script format (not real R code, despite the extension) —
-`parse_chiu_data.py`'s module docstring explains the format in detail if
-you're curious, but you don't need to read or understand these files
-directly; the model scripts do that for you.
+---
 
-## The concept, in one paragraph
+## 1. The model in plain words
 
-PFAS chemicals accumulate in the body and leave slowly. If you know how
-much someone drinks and how contaminated their water is, and you measure
-their blood level, you can work out how fast their body eliminates the
-chemical — that elimination rate, converted to a half-life
-(`ln(2) / rate`), is the number regulators use to set health guidance.
-No single person's data is precise enough to pin this down alone, so
-Chiu pooled many people from several contaminated communities into one
-**hierarchical Bayesian model**: everyone's own personal elimination
-rate is treated as a random draw from one shared population
-distribution, and the data from ALL the people at once tells us what
-that shared distribution must have been. This is the same idea as a
-mixed-effects model in classical statistics — just solved by full
-Bayesian sampling (MCMC) instead of maximum likelihood.
+Treat the body as one well-mixed bucket. PFAS comes in with drinking water
+and leaves at a rate proportional to how much is there:
 
-## Results you should expect
+```
+dC/dt = DWI · DWC / Vd  −  k · (C − Cbgd)
+```
 
-| Chemical | Our replication (median, 90% CI) | Chiu's actual published value (median, 95% CI)* | How close |
+| symbol | meaning | units |
+|---|---|---|
+| C    | serum concentration | µg/L |
+| DWC  | drinking-water concentration | µg/L |
+| DWI  | water intake per kg body weight (fixed, not fitted) | L/kg/day |
+| Vd   | volume of distribution | L/kg |
+| k    | elimination rate — **what we want** | 1/year |
+| Cbgd | background level from food, dust, etc. | µg/L |
+
+Half-life = ln(2) / k. With constant water, the level moves exponentially
+from its starting value C0 towards the steady state `Cbgd + DWI·DWC/(k·Vd)`.
+
+**Try it:** how the serum level approaches steady state.
+
+```python
+import numpy as np
+k, Vd, DWI, DWC, Cbgd, C0 = 0.3, 0.2, 0.0123 * 365.25, 0.05, 0.6, 5.0
+Css = Cbgd + DWI * DWC / (k * Vd)
+for t in [0, 1, 2, 5, 10, 20]:
+    C = Css + (C0 - Css) * np.exp(-k * t)
+    print(f"year {t:2d}: {C:5.2f} ug/L   (steady state {Css:.2f})")
+```
+
+## 2. The hierarchy: three levels of parameters
+
+Nobody's k is known, and one person's data can't pin it down. The model
+therefore assumes each person's value is drawn from a population
+distribution and estimates that distribution from everyone at once.
+
+```
+Population   M_ln_k, V_ln_k, M_ln_Vd, SD_ln_Vd        one set, shared by everyone
+   │
+Study        M_ln_Cbgd_sc, M_ln_C_0_sc,               one set PER STUDY
+   │         (DWC below MRL)                          (Decatur, Arnsberg, Minnesota, ...)
+   │
+Person       k, Vd, DWI, Cbgd, C0                     one set PER PERSON
+```
+
+Each person's value is written as *population value + person's z-score*:
+
+```python
+k = exp(M_ln_k + sqrt(V_ln_k) * z_k)      # z_k ~ Normal(0, 1), one per person
+```
+
+This is called a *non-centred* parameterisation, and it makes MCMC sample
+much more smoothly.
+
+In MCSim, a `Distrib()` placed inside a `Level { }` creates **one copy for
+each child** of that Level. In PyMC you get the same thing by giving the
+parameter a `shape`:
+
+```python
+M_ln_Cbgd_sc = pm.Normal("M_ln_Cbgd_sc", -0.22, 0.41, shape=n_studies)  # one per study
+Cbgd = Cbgd_gm * exp(M_ln_Cbgd_sc[study_of_each_person] + ...)          # pick your study's value
+```
+
+## 3. Four kinds of data
+
+| kind | what was measured | where | formula in `model.py` |
 |---|---|---|---|
-| PFNA  | 2.89 yr [1.92, 4.87] | 2.31 yr [1.62, 3.15] | Good — overlapping intervals |
-| PFOS  | 3.10 yr [2.28, 4.37] | 3.41 yr [2.63, 4.40] | Best match of the four |
-| PFHxS | 6.59 yr [4.58, 10.31] | 8.47 yr [5.69, 13.46] | Reasonable — overlapping, low side |
-| PFOA  | 4.30 yr [3.52, 5.24] | 3.15 yr [2.62, 3.74] | Weakest — genuine open gap, see below |
+| `Cserum`     | two blood samples, constant water | PFNA, PFHxS Decatur | section 3(a) |
+| `Cserum_t`   | two blood samples, water level changing over time | PFOA Decatur and Arnsberg, PFOS Decatur | section 3(b) |
+| `Cbgd_Css`   | one blood sample at steady state | Minnesota (PFOA, PFOS) | section 3(c) |
+| `M_...`      | community **average** only | Paulsboro, Horsham, Lubeck, Little Hocking | section 4 |
 
-\* "Chiu's actual published value" was computed directly from his own
-raw saved MCMC chains (the `.out` files in his repository), not copied
-from the narrative text in his write-up. That text turned out to be
-stale, copy-pasted boilerplate identical across three different
-chemicals' reports (all three claimed "3.06 [2.16-4.37]" verbatim) — a
-real error we caught by cross-checking against the primary output
-instead of trusting the prose summary. **Lesson: when validating a
-model against a published paper, always go to the paper's raw output
-data if it's available, not just its narrative sentences.**
+For community averages we need the *mean* over people, not the value for an
+average person. For a lognormal variable, `E[X] = exp(mu + sigma²/2)`, which
+is larger than `exp(mu)`.
 
-Your own run will land close to these numbers but not identically —
-MCMC sampling uses randomness, and even with a fixed random seed,
-results can vary slightly by machine/library version. Small differences
-(a few percent) are normal; large differences may mean something is
-misconfigured. If you're not sure which is which, the `r_hat` and
-"divergences" diagnostics each script prints are your first check (see
-"How to tell if it worked" below).
+Only records inside a `Level` that has a `Likelihood()` are used for fitting
+(the "training" set). The rest are the paper's test set.
 
-## Should I run Chiu's original R/MCSim script too, to check agreement?
+---
 
-**No, you don't need to.** Every comparison number above already comes
-from Chiu's own raw saved MCMC output, which is stronger ground truth
-than re-running his script yourself would give you — it's his actual
-published posterior, not a fresh re-derivation of it. The only reason to
-learn MCSim/R at this point is if your day-to-day work will actually run
-on that tool going forward, in which case it's worth knowing as a
-separate skill — but it isn't needed to trust these results.
+## 4. Why an earlier Python version disagreed with the paper
 
-## Key concepts worth having solid
+An earlier version of this repository (see git history) gave PFOA 4.30,
+PFOS 3.10, PFNA 2.89 and PFHxS 6.59 years. Comparing it line by line with
+Chiu's input files turned up four differences. All four are fixed in
+`model.py`.
 
-**Bayesian inference, in one sentence.** You start with a *prior* belief
-about each unknown quantity (a probability distribution reflecting
-what's plausible before seeing data), combine it with a *likelihood*
-(how probable the observed data would be under different parameter
-values), and get out a *posterior* — an updated distribution reflecting
-what you now believe, given both the prior and the data.
+| # | difference | effect |
+|---|---|---|
+| 1 | Only the **last** blood sample of each person was used. The t = 0 sample was dropped. | Major, all four chemicals |
+| 2 | **One** background scale (`M_ln_Cbgd_sc`, `M_ln_C_0_sc`) for all studies instead of one per study | Major for PFOA |
+| 3 | PFNA priors did not match Chiu's PFNA file | Small |
+| 4 | Water-level changes after the blood draw were simulated | Small (1–2%) |
 
-**MCMC / NUTS.** We can't write down the posterior distribution in
-closed form for a model this complex, so we *sample* from it instead.
-NUTS (the No-U-Turn Sampler, what PyMC uses by default) explores the
-posterior by simulating physics — treating the negative log-posterior
-as a landscape and "rolling a ball" across it using the gradient to know
-which way is downhill — and is dramatically more efficient at this than
-older methods like plain Metropolis-Hastings, especially in high
-dimensions (our smallest model here has ~100 dimensions; PFOA has 840).
+Median half-life (years) when each difference is added back **on its own**
+to the correct model:
 
-**Divergences.** A "divergence" is a specific NUTS warning: the
-simulated trajectory's energy blew up locally, usually because the
-posterior is "stiff" or funnel-shaped in some direction. A handful of
-divergences isn't automatically fatal — you can check whether raising
-`target_accept` (which makes NUTS take smaller, more careful steps)
-makes them go away; if it does, it was mild stiffness, not a real
-structural problem with the model.
+| PFAS  | correct | + #1 | + #2 | + #3 | + #4 | all four |
+|-------|--------:|-----:|-----:|-----:|-----:|---------:|
+| PFOA  | 3.16 | 2.94 | 3.36 | –    | 3.18 | **4.30** |
+| PFOS  | 3.36 | 3.22 | 3.32 | –    | 3.28 | 3.10 |
+| PFNA  | 2.27 | **2.89** | 2.30 | 2.28 | – | 2.74 |
+| PFHxS | 8.51 | **6.69** | 8.48 | – | – | 6.62 |
 
-**r_hat and convergence.** Each script runs 4 independent MCMC chains,
-started from different random points. If they've all converged to the
-same posterior, their between-chain and within-chain variance should
-roughly agree — that's what `r_hat` measures. Values very close to 1.00
-(the usual rule of thumb is `< 1.01`) mean the chains agree with each
-other, which is strong (though not 100% ironclad) evidence of
-convergence.
+For PFOA, neither #1 nor #2 matters much alone, but together they move the
+answer by more than a year. When errors interact like this, fixing one at a
+time can make each look harmless. All of them have to be fixed together.
 
-**Hierarchical / non-centered parameterization.** Rather than sampling
-each person's own elimination rate directly, we sample a
-standard-normal "z-score" per person (`z_k[i] ~ Normal(0,1)`) and build
-their actual rate as `k[i] = exp(M_ln_k + SD_ln_k * z_k[i])`. This
-"non-centered" trick is standard practice for hierarchical Bayesian
-models — it makes the geometry NUTS has to explore much friendlier, and
-is usually the first thing to try if a hierarchical model is sampling
-badly.
+### Why dropping the t = 0 sample matters
 
-**Log-space everywhere.** Concentrations, rates, and volumes are all
-positive and tend to vary multiplicatively rather than additively, so
-every quantity here is parameterized as the log of itself. When you see
-`M_ln_k`, read it as "the log of the population's typical elimination
-rate," not the rate itself.
+Each person's file entry has two samples, for example
+`Data(Cserum, 1.9, 1.1)` at t = 0 and t = 5.8 years. Only the *difference*
+between them tells you k. Without the first sample, the starting level C0
+is known only roughly (its prior allows about ±50%), and a lower start needs
+less decay:
 
-**Population-summary rows and Jensen's inequality.** A few data points
-in this dataset are not one person's blood level, but the *average*
-blood level across an entire exposed population. You can't just plug
-population-average parameters into the single-person formula and call
-it the population average — because `E[exp(X)] != exp(E[X])` for a
-random variable X (Jensen's inequality). Each model script includes a
-closed-form correction for this (`E[Y] = exp(mu + sigma^2/2)` for a
-lognormal Y), matching Chiu's own formula exactly. **This mattered a
-lot in practice** — an earlier version of this replication that
-accidentally skipped these rows for PFNA came out to 3.60 years instead
-of the 2.89 years shown above; simply adding those 2 extra data points
-closed most of the gap to the real 2.31-year answer.
-
-## How to tell if it worked
-
-Each script prints, near the bottom:
-
-```
-Worst r_hat: 1.0040 (want < 1.01) | divergences: 0
+```python
+import numpy as np
+C_start, C_end, T, Cbgd = 1.9, 1.1, 5.802, 0.5    # one PFNA person
+for fraction in [1.0, 0.8, 0.67]:
+    C0 = C_start * fraction
+    k = -np.log((C_end - Cbgd) / (C0 - Cbgd)) / T
+    print(f"start = {fraction:.0%} of measured -> half-life {np.log(2)/k:.1f} yr")
+# 100% -> 4.7 yr,  80% -> 7.6 yr,  67% -> 15.9 yr
 ```
 
-- `r_hat < 1.01` and `divergences: 0` (or a small handful, especially
-  if you already used a high `target_accept`) → healthy run, trust the
-  result.
-- `r_hat` well above 1.01, or dozens+ of divergences → something is off;
-  the posterior summary table's `ess_bulk`/`ess_tail` columns (effective
-  sample size) are the next thing to check — very low values mean the
-  chains aren't exploring efficiently.
+In the full fit without the t = 0 samples, PFNA's starting-level scale
+drifted to −0.40 (a start about 33% too low) and became correlated with k
+(r = +0.49). With them it stays at 0.00 ± 0.10 and is uncorrelated.
 
-## What's still open: PFOA's gap
+### Why one shared background scale matters
 
-PFOA is the one chemical where our replication doesn't close the gap to
-Chiu's published number (4.30 vs. his 3.15 years). This was investigated
-at length. What we found and ruled out:
+In Chiu's fitted chains, the background scale is very different between
+studies: Decatur **+0.57**, Arnsberg **−0.69**, Minnesota **−0.77**. A single
+shared value can't fit all three. The model then compensates by distorting
+k and its spread between people (GSD 1.36 instead of the paper's 1.57).
 
-1. **Not a missing-data issue** — adding PFOA's 4 population-summary
-   rows (the same fix that worked well for PFNA) barely moved the
-   estimate (4.23 → 4.30 years).
-2. **Not a fixed-vs-free exposure-rate parameter issue** — checked
-   Chiu's source directly; he fixes the same daily-water-intake
-   parameters we do.
-3. **Not a site-grouping/hierarchy issue** — checked Chiu's source
-   directly; Decatur and Arnsberg (PFOA's two individual-level study
-   sites) draw from the exact same flat population distribution, with
-   no site-level hierarchy in his model either.
-4. **Not an MCMC convergence problem on our side** — forcibly
-   re-initializing our chains at Chiu's own real fitted parameter
-   values, they migrated back to our answer rather than staying there,
-   meaning our result is a genuine higher-posterior-density region under
-   our model and data, not a sampler that got stuck in a worse local
-   answer.
-5. **Not a measurement-noise-budget difference** — Chiu's real fitted
-   noise parameters (GSDs) are close to or tighter than ours, not
-   looser, so "he just tolerates messier data" doesn't explain it.
+---
 
-What the gap actually traces to: our fit ends up with substantially LESS
-individual-to-individual variability in elimination rate (the
-`V_ln_k` parameter) than Chiu's own real posterior shows — our
-population's range of per-person half-lives is much narrower than his.
-We were not able to identify WHY our model and his diverge on this one
-specific quantity, despite both starting from what appears to be the
-same formula and the same data as parsed from his own input file. This
-is left as a genuinely open question rather than papered over — further
-progress would likely require either instrumenting MCSim itself to
-compare its internal per-person calculations directly, or a much deeper
-line-by-line audit of the ~6300-line PFOA input file.
+## 5. How to tell if a run worked
 
-## Gotchas if you extend this yourself
+`pm.sample` prints warnings if something went wrong. Check two things:
 
-- **Trust raw MCMC output over narrative report text.** See "Results you
-  should expect" above.
-- **MCSim's `LogNormal`/`Distrib(..., LogNormal, p1, p2)` convention is
-  (median, GSD), not (mean-of-log, sd-of-log).** Converting to PyMC:
-  `sigma = log(GSD)`, and the `mu` you pass to `pm.LogNormal` is the log
-  of the median directly.
-- **`cores=1` is required** in a sandboxed/containerized environment —
-  PyMC's multiprocessing can hang there. On your own machine, you can
-  likely set `cores=4` to run the 4 chains in parallel and go faster.
-- **The `k`-`Vd` identifiability ridge is real, not a bug.** For anyone
-  with constant lifetime exposure, only the *product* `k * Vd` is
-  constrained by their steady-state blood level — so the model's
-  posterior naturally shows a negative correlation between the fitted
-  `M_ln_k` and `M_ln_Vd` (around -0.55 in both our replication and in
-  Chiu's own real posterior). This is an inherent feature of what the
-  data can and can't tell you, not something to try to "fix."
+- **r_hat** below about 1.01: the 4 chains agree. `arviz.summary(idata)` shows it.
+- **divergences** of 0, or a handful: printed by `model.py`. Many divergences
+  mean the sampler could not explore the posterior properly.
+
+Expect a PyMC warning that some r_hat values are above 1.01. In our runs that
+comes from nuisance parameters such as the Minnesota measurement error
+(r_hat 1.02). The half-life, its spread between people and Vd all had
+r_hat = 1.00. To remove the warning, run longer: `fit(chem, draws=2000)`.
+
+```python
+import arviz as az
+idata = az.from_netcdf("results_PFNA.nc")
+print(az.summary(idata, var_names=["halflife", "halflife_GSD", "Vd"]))
+```
+
+## 6. Conventions worth knowing
+
+- MCSim writes `LogNormal(GM, GSD)`. In PyMC that is
+  `pm.LogNormal(mu=log(GM), sigma=log(GSD))`.
+- `LogUniform(1.1, 10)` becomes `Uniform` on `log(GSD)` between `log(1.1)` and `log(10)`.
+- The paper reports **95%** intervals, so compare against 95% intervals.
+- On some sandboxed machines PyMC's parallel chains hang. If that happens,
+  change `cores=4` to `cores=1` in `fit()`.
