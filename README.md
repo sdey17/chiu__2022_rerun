@@ -1,5 +1,13 @@
 # PFAS toxicokinetics: a from-scratch Python replication
 
+> **Update:** the gaps described below (including the "open" PFOA gap) are
+> explained in [`ANALYSIS.md`](ANALYSIS.md). The `model_*.py` scripts drop
+> the t = 0 serum observations and share one background/initial-concentration
+> scale across all studies, where Chiu's model uses one per study. The PFNA
+> priors are also wrong. `model_corrected.py` fixes these and reproduces the
+> published half-lives for all four PFAS (PFOA 3.16, PFOS 3.36, PFNA 2.27,
+> PFHxS 8.51 yr).
+
 This folder replicates the population human elimination half-life
 estimates from Chiu et al. 2022, a Bayesian toxicokinetic analysis of
 four PFAS ("forever chemicals") — PFOA, PFOS, PFNA, and PFHxS — using
