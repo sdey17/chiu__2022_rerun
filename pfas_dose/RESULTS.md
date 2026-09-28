@@ -50,6 +50,37 @@ saturation, and it is what PFOA in male rats is known for: PFOA is
 reabsorbed from urine back into blood by kidney transporters, and
 saturating that reabsorption at high dose lets more escape in urine.
 
+## Follow-up duration does not explain it
+
+The main worry was that high-dose arms might be followed longer, capturing
+more of the slow terminal phase. Checked directly (`duration_check.py`):
+
+| study | doses | follow-up | ln(dose) vs ln(follow-up) |
+|---|---|---|---|
+| 5916078 | 6, 12, 48 mg/kg | **50 d for all three** | no variation to confound |
+| 6302380 | 0.1, 1, 5, 25 | 84 d at 0.1; 22 d for the rest | r = -0.83 |
+
+The correlation in 6302380 runs the *wrong* way for comfort: its lowest
+dose was followed nearly 4x longer, which by itself would depress the
+low-dose clearance and manufacture a positive slope. So restrict to dose
+contrasts where follow-up is identical:
+
+| study | follow-up | doses | beta (90% CI) |
+|---|---|---|---|
+| 5916078 | 50 d | 6-48 | +0.358 (-0.037, +0.730) |
+| 6302380 | 22 d | 1-25 | +0.097 (-0.168, +0.383) |
+| pooled | - | 6 datasets | **+0.171 (-0.004, +0.355)** |
+
+Both remain positive, and the study with *perfectly constant* follow-up
+shows the steepest slope. The trend is not a duration artefact. Each
+subset alone is under-powered (3 doses), so the individual intervals now
+straddle zero; the pooled estimate is slightly steeper than the headline
++0.11 and about as certain.
+
+Also checked: 13 of 14 datasets observed at least one fitted half-life
+(median 2.4). The exception is study 3859701, at 0.5 half-lives, and it
+is single-dose so it contributes only an intercept.
+
 ## What would undermine it
 
 - **Only 2 of 6 studies have more than one dose level.** The slope rests on
@@ -57,14 +88,11 @@ saturating that reabsorption at high dose lets more escape in urine.
 - **Study effects dwarf the dose effect.** Clearance across studies spans
   0.003 to 0.057 L/kg/d, about 17x, against ~1.3x per decade of dose. If
   dose correlates with anything else a lab does, that is the bigger lever.
-- **Follow-up duration is not controlled for.** A study that stops earlier
-  relative to the half-life may miss the terminal phase and understate
-  clearance. Low-dose arms are the more likely to be cut short.
 - Digitised-from-figures data, and the 2-compartment fit's marginal ESS.
 
 ## Next
 
-1. Check whether follow-up duration tracks dose within these studies.
+1. ~~Check whether follow-up duration tracks dose.~~ Done, see above.
 2. PFHxA male rat: 9 dose levels over 3000x, the strongest available test.
 3. Then PFOS, PFNA, PFBS, PFDA in rats; compare slopes across chain length.
 4. Mice where 2-3 dose levels exist. Primates cannot contribute (single IV

@@ -1,7 +1,10 @@
 """
-Fit the EPA animal-PK model to PFOA in male rats, then keep the
-per-dataset clearance estimates so we can ask whether clearance
-depends on dose.
+Fit the EPA animal-PK model to one chemical / sex / species, keeping the
+per-dataset clearance estimates so we can ask whether clearance depends
+on dose.
+
+    python fit_animal.py PFOA Male rat
+    python fit_animal.py PFHxA Male rat
 
 Their hierarchy's bottom level is the "dataset" = one (study, dose, route),
 and each dataset gets its own clearance. So a single fit already gives us
@@ -24,10 +27,11 @@ from pfas_prep import PFAS
 from PyPKMC import PyPKMC
 
 OUT = os.path.dirname(os.path.abspath(__file__))
-CHEM, SEX, SPECIES = "PFOA", "Male", "rat"
+CHEM, SEX, SPECIES = (sys.argv[1:4] + ["PFOA", "Male", "rat"][len(sys.argv[1:4]):])
 CLC_prior = {"mu": -2.89, "sd": 2.68}      # from their fit_pfoa notebook
 Vdss_prior = {"mu": -1.5, "sd": 1.5}
 
+print(f"=== {CHEM} {SEX} {SPECIES}")
 prep = PFAS("../PFAS.db", pfas_file="../auxiliary/pfas_master.csv")
 data = prep.get_processed_data(chemical=CHEM, sex=SEX, species=SPECIES)
 print(f"{len(data)} observations, {data.hero_id.nunique()} studies, "
