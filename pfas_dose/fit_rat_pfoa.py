@@ -1,0 +1,55 @@
+"""
+Fit the EPA animal-PK model to PFOA in male rats, then keep the
+per-dataset clearance estimates so we can ask whether clearance
+depends on dose.
+
+Their hierarchy's bottom level is the "dataset" = one (study, dose, route),
+and each dataset gets its own clearance. So a single fit already gives us
+a clearance estimate per dose level, with uncertainty.
+"""
+import sys, os, warnings
+warnings.filterwarnings("ignore")
+
+EPA = os.environ["EPA_REPO"]          # checkout of USEPA/CPHEA-Animal-PFAS-PK
+sys.path.insert(0, EPA)
+os.chdir(os.path.join(EPA, "pfas_notebooks"))   # their code uses ../ paths
+
+import pymc as pm
+# Their code targets an older PyMC, where pm.Data took mutable=True.
+_orig_Data = pm.Data
+pm.Data = lambda *a, **kw: (kw.pop("mutable", None), _orig_Data(*a, **kw))[1]
+
+import arviz as az
+from pfas_prep import PFAS
+from PyPKMC import PyPKMC
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+CHEM, SEX, SPECIES = "PFOA", "Male", "rat"
+CLC_prior = {"mu": -2.89, "sd": 2.68}      # from their fit_pfoa notebook
+Vdss_prior = {"mu": -1.5, "sd": 1.5}
+
+prep = PFAS("../PFAS.db", pfas_file="../auxiliary/pfas_master.csv")
+data = prep.get_processed_data(chemical=CHEM, sex=SEX, species=SPECIES)
+print(f"{len(data)} observations, {data.hero_id.nunique()} studies, "
+      f"{data.dataset_str.nunique()} datasets")
+
+traces = {}
+for mtype in ["1-compartment", "2-compartment"]:
+    m = PyPKMC(data, time_label="time_cor", y_obs_label="conc_mean_cor",
+               sd_obs_label="conc_sd_cor", route_label="route_idx",
+               dose_label="dose_mg", BW_label="BW_cor", study_label="hero_id",
+               dataset_label="dataset_str", indiv_label="aidx",
+               CLC_prior=CLC_prior, Vdss_prior=Vdss_prior)
+    m.sample(model_type=mtype, target_accept=0.99, nuts_sampler="numpyro",
+             load_trace=False, tune=10000, draws=5000, likelihood="Lognormal",
+             sample_prior=False, sample_posterior=True)
+    traces[mtype] = m._trace
+    print(f"\n=== {mtype}: divergences={m.N_divergences} ok={m.pass_all_metrics}")
+    print(m.get_pk_stats().to_string())
+    m._trace.to_netcdf(f"{OUT}/{CHEM}_{SEX}_{SPECIES}_{mtype[0]}cmpt.nc")
+
+cmp = az.compare({"1-compartment": traces["1-compartment"],
+                  "2-compartment": traces["2-compartment"]},
+                 var_name="combined", ic="loo")
+print("\n=== LOO\n", cmp.to_string())
+cmp.to_csv(f"{OUT}/{CHEM}_{SEX}_{SPECIES}_loo.csv")
