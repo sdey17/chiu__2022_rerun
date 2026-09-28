@@ -1,4 +1,4 @@
 *.nc
 *.log
 __pycache__/
-*.png
+results.txt

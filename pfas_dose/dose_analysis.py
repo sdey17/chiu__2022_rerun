@@ -97,10 +97,11 @@ def dose_slope(df, route=None):
         beta = pm.Normal("beta", 0, 1)                     # the slope we care about
         tau = pm.HalfNormal("tau", 0.5)                    # extra dataset scatter
         mu = alpha[sidx] + beta * x
-        pm.Normal("obs", mu=mu, sigma=np.hypot(d.ln_clc_sd.values, tau),
-                  observed=d.ln_clc_mean.values)
+        # each dataset's own PK uncertainty, plus a shared between-dataset term
+        sigma = pm.math.sqrt(d.ln_clc_sd.values ** 2 + tau ** 2)
+        pm.Normal("obs", mu=mu, sigma=sigma, observed=d.ln_clc_mean.values)
         idata = pm.sample(2000, tune=2000, chains=4, cores=4,
-                          target_accept=0.95, random_seed=1, progressbar=False)
+                          target_accept=0.99, random_seed=1, progressbar=False)
     return idata, d
 
 
