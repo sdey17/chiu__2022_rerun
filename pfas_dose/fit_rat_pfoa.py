@@ -40,13 +40,22 @@ for mtype in ["1-compartment", "2-compartment"]:
                dose_label="dose_mg", BW_label="BW_cor", study_label="hero_id",
                dataset_label="dataset_str", indiv_label="aidx",
                CLC_prior=CLC_prior, Vdss_prior=Vdss_prior)
-    m.sample(model_type=mtype, target_accept=0.99, nuts_sampler="numpyro",
-             load_trace=False, tune=10000, draws=5000, likelihood="Lognormal",
-             sample_prior=False, sample_posterior=True)
+    try:
+        m.sample(model_type=mtype, target_accept=0.99, nuts_sampler="numpyro",
+                 load_trace=False, tune=10000, draws=5000, likelihood="Lognormal",
+                 sample_prior=False, sample_posterior=True)
+    except Exception as e:
+        # Their post-sampling bookkeeping assumes older xarray/PyMC dim names.
+        # The samples themselves are fine, so keep them rather than lose the run.
+        print(f"!! {mtype}: sampling finished but their post-processing failed: {e}")
     traces[mtype] = m._trace
-    print(f"\n=== {mtype}: divergences={m.N_divergences} ok={m.pass_all_metrics}")
-    print(m.get_pk_stats().to_string())
     m._trace.to_netcdf(f"{OUT}/{CHEM}_{SEX}_{SPECIES}_{mtype[0]}cmpt.nc")
+    print(f"\n=== {mtype}: divergences={getattr(m, 'N_divergences', '?')} "
+          f"ok={getattr(m, 'pass_all_metrics', '?')}")
+    try:
+        print(m.get_pk_stats().to_string())
+    except Exception as e:
+        print(f"   (pk stats unavailable: {e})")
 
 cmp = az.compare({"1-compartment": traces["1-compartment"],
                   "2-compartment": traces["2-compartment"]},

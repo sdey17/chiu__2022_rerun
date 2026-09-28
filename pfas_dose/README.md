@@ -33,6 +33,15 @@ affecting the science:
   in `pfas_prep.py`)
 - `pm.Data(..., mutable=True)` was removed from PyMC; `fit_rat_pfoa.py`
   wraps `pm.Data` to drop the argument
+- `PyPKMC.py` line ~1143 hardcodes the posterior-predictive dimension name
+  `conc_indiv_dim_2`, which newer PyMC no longer produces. Replace the two
+  hardcoded names with `post_pred.conc_indiv.dims[-1]` and
+  `post_pred.conc_summary.dims[-1]`, or sampling results are discarded by
+  their own post-processing
+
+`fit_rat_pfoa.py` saves each trace to disk immediately after sampling,
+before that post-processing runs, so a failure there cannot throw away an
+hour of sampling.
 
 ## Method notes
 
