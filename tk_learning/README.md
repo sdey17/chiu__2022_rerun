@@ -1,6 +1,6 @@
 # Learning toxicokinetic modelling, from one compartment to PBPK
 
-Nine runnable lessons on real PFAS animal data, building from
+Twelve runnable lessons on real PFAS animal data, building from
 `C(t) = C0·exp(-k·t)` to the point where you can see for yourself why
 physiologically based models exist.
 
@@ -21,7 +21,15 @@ python 06_bayes.py             # the same model in PyMC; hierarchy      (~1 min)
 python 07_two_compartment.py   # 1 vs 2 compartments, chosen by LOO     (~3 min)
 python 08_ode.py               # numerical integration -> PBPK
 python 09_volumes.py           # volume of distribution: there are four
+python 10_sex_and_species.py   # where the big differences actually are
+python 11_continuous_dosing.py # drinking water -> Chiu's human model
+python 12_pbpk.py              # compartments that are organs
+python test_lessons.py         # 35 checks, a few seconds
 ```
+
+Answers to every question and exercise are in
+[`ANSWERS.md`](ANSWERS.md). Try them first — most take two minutes of
+thought or three lines of code, and the reasoning is what transfers.
 
 Lessons 6 and 7 cache their MCMC traces to `trace_*.nc`, so re-running
 to tweak a figure is instant. Delete them to force a refit.
@@ -75,6 +83,9 @@ cd notebooks && jupyter nbconvert --to notebook --execute --inplace 0*.ipynb
 | 07 | choose between structures by LOO | a fitted compartment is not an organ — which is what PBPK fixes |
 | 08 | write and fit models as ODEs | the closed form runs out; `solve_ivp` does not, and that is how PBPK is built |
 | 09 | say which Vd you mean, and why | a two-compartment model has four volumes spanning 17×; picking the wrong one is the 17-fold human PFOA controversy |
+| 10 | design a comparison that isolates one cause | sex changes clearance 28× with dose held exactly fixed — biology beats dose by two orders of magnitude |
+| 11 | model continuous exposure | serum lags and smooths water by years; this is Chiu's human model |
+| 12 | build and verify a PBPK model | organ volumes and blood flows from a table, one fitted parameter — and allometry still fails by 3–11× |
 
 ## The figures
 
@@ -95,6 +106,11 @@ look before running anything. The ones that carry the most weight:
 | `08_saturation.png` | four doses, four different curve *shapes* — nonlinear kinetics, which no compartment count fixes |
 | `09_volume_intercepts.png` | four volumes as four intercepts on one curve |
 | `09_halflife_from_volume.png` | **same clearance, three volumes, three half-lives (5.0 / 6.5 / 15.9 d)** |
+| `10_sex_difference.png` | 7 matched pairs, every line sloping the same way |
+| `10_effect_sizes.png` | **dose 1.3× vs species 7.7× vs sex 28×, on one log axis** |
+| `11_continuous_dosing.png` | serum lagging water by years after a cleanup |
+| `12_pbpk_organs.png` | where the dose actually sits, organ by organ |
+| `12_species_extrapolation.png` | predicted vs observed half-life in three species |
 
 ## The data
 
@@ -188,7 +204,11 @@ C(t) = A·exp(-alpha·t) + B·exp(-beta·t),   alpha > beta
 8. **A fitted compartment is not an organ.** Which is where PBPK starts.
 9. **Check every new ODE against a case you can solve by hand** before
    trusting it, and check mass balance every time. Lesson 08 does both.
-10. **"Volume of distribution" is ambiguous** the moment there is more
+10. **Match your comparison, do not adjust it.** Lesson 10's 7 matched
+    pairs settle a question that 21 unmatched experiments could not.
+11. **A PBPK model does not remove the need to know the biology, it
+    isolates it.** Scaling anatomy correctly still missed by 3–11×.
+12. **"Volume of distribution" is ambiguous** the moment there is more
     than one compartment. Vss and Vz are the same formula
     `V1·(1 + A2/A1)` at two different tissue/plasma ratios, and they
     differ 2.5× here. Say which one you mean.
@@ -206,6 +226,10 @@ The parent repository is what these lessons are preparation for:
 - `../species_dose/` — using those fits to test whether the human/rodent
   half-life gap is really a dose gap. (It is not.)
 - `../SUMMARY.md` — what the whole project found.
+
+Lesson 12 builds a working four-compartment PBPK model and verifies it
+three ways, so the step beyond this course is adding organs and real
+in-vitro parameters rather than learning a new method.
 
 Lesson 08 is the bridge: once a model is a right-hand side handed to
 `solve_ivp`, adding organs is bookkeeping rather than new mathematics.

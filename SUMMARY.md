@@ -242,10 +242,26 @@ scoring. Note the I² split: community-water cohorts agree with each other
 ## Where to go next
 
 `tk_learning/` builds toxicokinetic modelling up from first principles on
-the animal data used above, in nine runnable lessons with figures:
+the animal data used above, in twelve runnable lessons with figures,
+worked answers and a regression test suite:
 forward simulation, log-linear fitting, nonlinear least squares, oral
 absorption, Bayesian hierarchical fitting, one-vs-two compartments by
-LOO, numerical ODE solving (the bridge to PBPK), and volume of
-distribution — where it shows that the 17-fold human PFOA controversy
-in phase 5 above is, mechanically, a choice between four different
-volumes that a two-compartment model defines.
+LOO, numerical ODE solving, volume of distribution, and a working
+four-compartment PBPK model.
+
+Three of those lessons re-derive this project's own conclusions from
+scratch, which is the best check on them there is:
+
+- **Lesson 09** shows the 17-fold human PFOA controversy of phase 5 is,
+  mechanically, a choice between four different volumes that any
+  two-compartment model defines — `t½ = ln2·V/CL` gives 5.0, 6.5 or
+  15.9 days on one dataset depending on which V you use.
+- **Lesson 10** reaches phase 4's conclusion from data alone: across 7
+  experiments matched on study, dose and route, female rats clear PFOA
+  **28× faster** than males. Dose, at the measured slope of 0.11, would
+  need a 10¹³-fold change to do that. Biology beats dose by two orders
+  of magnitude.
+- **Lesson 12** reaches phase 2's conclusion from mechanism: a PBPK
+  model with correct organ volumes and blood flows, calibrated only on
+  the rat, over-predicts the monkey half-life by 11× and the human by
+  3×. Anatomy scales; renal transporters do not.
