@@ -6,6 +6,11 @@ full texts were then pulled from PMC (`fetch_pmc.py`, files in
 `studies.csv` records which is which. Nothing here is quoted from
 memory.
 
+> **Second update: Zhang 2013 and Li 2022 added.** The central
+> controversy now has a quantitative resolution (see "Resolving the
+> Zhang disagreement"), and Li 2022 supplies the individual-level test
+> of the dose hypothesis.
+>
 > **Updated after four PDFs were added** (Rosato 2024, Andersson 2025,
 > Fischer 2024, Fischer 2025). Three things changed: there are now
 > pooled meta-analytic estimates to anchor on, the study at the centre
@@ -284,6 +289,98 @@ citation count:
   Pharmacology* and the shorter half-life would relax regulatory limits -
   worth knowing when weighing the argument, though it does not make the
   argument wrong.
+
+## Resolving the Zhang disagreement
+
+Zhang 2013's Methods, now read directly, explain the whole thing:
+
+    T-half = 0.693 * V / CL_total          one-compartment mass balance
+    CL_total := CL_renal                   urine only (+ menstrual, young females)
+    V        := ASSUMED 170 mL/kg (PFOA), 230 (PFOS), from Thompson et al.
+
+**Vd is an assumption, and half-life scales linearly with it.** Published
+Vd values for PFOA span almost sixfold, so rescaling Zhang's own number:
+
+| Vd source | Vd (mL/kg) | implied PFOA half-life |
+|---|---|---|
+| Andersson 2025 (measured) | 74 | 0.57 y |
+| **Zhang's assumption** | **170** | **1.30 y** |
+| Chiu 2022 (fitted) | 430 | **3.29 y** |
+
+Substituting Chiu's fitted Vd into Zhang's own clearance data gives
+3.29 y - against Chiu's independent serum-decay estimate of 3.14 y. The
+two methods, held up as contradicting each other, **agree to within 5%
+once they use the same Vd**. The disagreement was never about the data.
+
+Zhang's second assumption pushes the other way. It sets total clearance
+equal to renal clearance, and Andersson 2025 shows PFOA is only about
+1.7:1 urinary, so true clearance is higher and the half-life lower.
+Applying both corrections:
+
+| | PFOA half-life |
+|---|---|
+| Zhang as published | 1.30 y |
+| + Chiu's fitted Vd | 3.29 y |
+| + non-renal elimination | **1.93 y** |
+| *Rosato pooled, general populations* | *2.35 y* |
+
+Zhang's own paper says as much: its estimates "should be considered as
+**upper limit** estimates of the biological half-life" because non-renal
+routes were not accounted for. The ARA collaboration adopted 1.3 y as a
+central tendency; the authors offered it as a bound.
+
+### The practical rule this yields
+
+**Serum-decay designs never need Vd.** They read the elimination rate
+straight off the slope of log concentration against time. Mass-balance
+designs need both a Vd and a complete accounting of excretion routes,
+and both are uncertain by factors of 2-6.
+
+That is the clearest single criterion for which estimates to trust, and
+it is structural rather than a judgement about any author.
+
+## The dose hypothesis, now testable at four levels
+
+Li 2022 provides what was missing - the individual-level test, inside
+one cohort, with study, lab, cessation date and background all held
+constant:
+
+> "Initial PFAS levels were relevant as well, with **positive
+> associations between higher initial PFAS levels and shorter
+> half-lives** in some of the PFAS substances, especially in PFHxS and
+> PFHpS."
+
+It also reports time-dependency: elimination estimated from early
+samples was faster than from late samples, which is what concentration
+dependence looks like when concentrations fall over a follow-up.
+
+Putting every level of evidence together:
+
+| level of comparison | source | finding |
+|---|---|---|
+| within a person over time | Li 2022 | early samples clear faster than late |
+| between people, one cohort | Li 2022 | higher initial level -> shorter half-life, **strongest for PFHxS** |
+| between human cohorts | `human_dose_test.py` | PFHxS +0.27, PFOA +0.09, PFOS -0.12 |
+| within rats across doses | `../pfas_dose` | PFOA +0.11, PFHxA +0.04 (null) |
+| between water districts | Seals 2011 | +1.55, above the mechanistic ceiling |
+
+Four independent designs, and **PFHxS is the standout in both human
+analyses that can separate chemicals** - Li 2022 at the individual level
+and our cross-cohort slope, which had PFHxS steepest at +0.27 with
+r = 0.94. That agreement was not built in; the two analyses share no
+data beyond Li's own cohort appearing in both.
+
+So concentration-dependent elimination in humans is real, reproducible
+across four designs, chemical-specific, and small - of order 0.1 to 0.3
+on a log-log slope, against the ceiling of 1 that saturable reabsorption
+allows. Seals' +1.55 remains the outlier and remains best explained by
+its truncation bias.
+
+Li 2022 adds a mechanism for the fecal route too: higher calprotectin (a
+marker of intestinal inflammation) went with shorter half-lives, which
+the authors read as inflammation reducing intestinal reabsorption. That
+dovetails with Andersson's finding that faeces dominates PFOS
+elimination.
 
 ## Mechanism: why chain length decides everything
 
