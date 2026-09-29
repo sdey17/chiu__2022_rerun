@@ -1,0 +1,4998 @@
+Article
+
+pubs.acs.org/est
+
+Biomonitoring of Perﬂuoroalkyl Acids in Human Urine and Estimates
+of Biological Half-Life
+†,‡
+Sanjay Beesoon,
+Yifeng Zhang,
+†
+Key Laboratory of Pollution Processes and Environmental Criteria, Ministry of Education, College of Environmental Science and
+Engineering, Nankai University, Tianjin 300071, P.R. China
+‡
+Division of Analytical and Environmental Toxicology, Department of Laboratory Medicine and Pathology, University of Alberta,
+Edmonton, Alberta, Canada, T6G 2G3
+*S Supporting Information
+
+and Jonathan W. Martin*,‡
+
+Lingyan Zhu,*,†
+
+‡
+
+ABSTRACT: Perﬂuoroalkyl acids (PFAAs) are persistent and bioaccumula-
+tive compounds that have been associated with adverse health outcomes. In
+human blood, PFAAs exist as both linear and branched isomers, yet for most
+linear homologues, and for all branched isomers, elimination rates are
+unknown. Paired blood and urine samples (n = 86) were collected from adults
+in China. They were analyzed by a sensitive isomer-speciﬁc method that
+permitted the detection of many PFAAs in human urine for the ﬁrst time. For
+all PFAAs except perﬂuoroundecanoate (PFUnA), levels in urine correlated
+positively with levels in blood. Perﬂuoroalkyl carboxylates (PFCAs) were
+excreted more eﬃciently than perﬂuoroalkane sulfonates (PFSAs) of the same
+carbon chain-length. In general, shorter PFCAs were excreted more eﬃciently
+than longer ones, but for PFSAs, perﬂuorooctanesulfonate (PFOS, a C8
+compound) was excreted more eﬃciently than perﬂuorohexanesulfonate
+(PFHxS, a C6 compound). Among PFOS and perﬂuorooctanoate (PFOA) isomers, major branched isomers were more
+eﬃciently excreted than the corresponding linear isomer. A one-compartment model was used to estimate the biological
+elimination half-lives of PFAAs. Among all PFAAs, the estimated arithmetic mean elimination half-lives ranged from 0.5 ± 0.1
+years (for one branched PFOA isomer, 5m-PFOA) to 90 ± 11 years (for one branched PFOS isomer, 1m-PFOS). Urinary
+excretion was the major elimination route for short PFCAs (C ≤ 8), but for longer PFCAs, PFOS and PFHxS, other routes of
+excretion likely contribute to overall elimination. Urinary concentrations are good biomarkers of the internal dose, and this less
+invasive strategy can therefore be used in future epidemiological and biomonitoring studies. The very long half-lives of long-chain
+PFCAs, PFHxS, and PFOS isomers in humans stress the importance of global and domestic exposure mitigation strategies.
+
+■ INTRODUCTION
+
+After decades of production and applications, perﬂuoroalkyl
+acids (PFAAs) are ubiquitous in the environment and have
+been detected in humans all around the world.1,2 The most
+commonly detected PFAAs in human samples are perﬂuor-
+ooctanesulfonate (PFOS), perﬂuorooctanoate (PFOA), and
+perﬂuorohexanesulfonate (PFHxS). Studies have shown that
+exposure to PFOS and PFOA can be associated with adverse
+eﬀects including lower birth weight,3 hyperuricemia,4 chronic
+kidney disease,5 and immunotoxicity.6 Fewer studies have
+examined adverse health eﬀects of PFHxS, although recently it
+has been associated with attention deﬁcit hyperactivity disorder
+in children.7,8
+
+The rate at which a chemical is eliminated from human body
+(i.e.,
+the biological half-life, or clearance) is an important
+consideration in its respective hazard proﬁle. A toxicant with a
+longer elimination half-life generally indicates a greater
+potential to bioaccumulate following repeated exposures, or
+that it will take longer to be eliminated from the body after
+exposure cessation. Thus, elimination half-lives data are
+for many PFAAs
+important pharmacokinetic parameters
+
+which are still undergoing regulatory scrutiny, or which are
+already regulated in some jurisdictions.
+
+The arithmetic mean serum elimination half-lives of PFOS,
+PFOA, and PFHxS in humans were estimated to be 5.4, 3.8,
+and 8.5 years, respectively, in a highly exposed occupational
+cohort of 24 males and 2 females.9 Likewise,
+the serum
+elimination half-life of PFOA in residents exposed through a
+contaminated public water supply was estimated to be 2.3 or
+2.9 years.10,11 However, there are currently no human clearance
+including various other
+data for most other PFAAs,
+perﬂuoroalkyl carboxylates (PFCAs,
+i.e., C7 and C9−C11)
+and some PFOS-precursors, such as perﬂuorooctanesulfona-
+mide (PFOSA). Furthermore, although data are available on
+PFOS and PFOA elimination half-lives, these studies did not
+discriminate between the linear and various branched isomers,
+known to be present in human blood,12−15 and which displayed
+
+Received: April 29, 2013
+Revised:
+Accepted: August 7, 2013
+Published: August 7, 2013
+
+July 9, 2013
+
+© 2013 American Chemical Society
+
+10619
+
+dx.doi.org/10.1021/es401905e | Environ. Sci. Technol. 2013, 47, 10619−10627
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+p
+u
+b
+s
+.
+a
+c
+s
+.​
+o
+r
+g
+e
+s
+t
+h
+a
+g
+a
+r
+t
+i
+c
+e
+-
+p
+d
+
+/​
+
+/
+
+l
+
+f
+/
+
+/
+
+/
+
+/
+
+4
+7
+1
+8
+1
+0
+6
+1
+9
+1
+5
+7
+8
+7
+7
+0
+2
+e
+s
+4
+0
+1
+9
+0
+5
+e
+p
+d
+
+/
+
+.
+
+f
+
+I
+
+b
+y
+C
+A
+L
+E
+P
+A
+A
+R
+R
+E
+S
+O
+U
+R
+C
+E
+S
+B
+O
+A
+R
+D
+u
+s
+e
+r
+o
+n
+2
+9
+S
+e
+p
+e
+m
+b
+e
+r
+2
+0
+2
+6
+
+t
+
+ 
+ 
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Environmental Science & Technology
+
+Article
+
+a wide range of pharmacokinetic behaviors
+studies.16−19
+
+in animal
+
+The isomers of PFOA and PFOS result
+
+from the
+electrochemical ﬂuorination (ECF) manufacturing method.
+ECF was used to produce PFOA beginning in 1947 and PFOS
+and its precursors beginning in 1949.20,21 This process was
+known to yield a complex, yet rather consistent, mixture of
+linear (ca. 70% for PFOS, 80% for PFOA) and branched
+isomers (ca. 30% for PFOS, 20% for PFOA) in ﬁnal products.22
+Curiously, for PFOS, all studies on the isomer compositions in
+human blood have consistently shown that the proportion of
+total branched PFOS isomers is higher than that (∼30%) in
+commercial PFOS mixtures.13,14 This apparent preferential
+bioaccumulation of branched PFOS isomers in humans is
+is anticipated from PFOS isomer
+opposite to what
+in rodents,16,17 whereby PFOS
+pharmacokinetic studies
+branched isomers are excreted more eﬃciently in urine than
+their linear counterparts; thus a study on human renal clearance
+of PFOS isomers is required before sources of human
+contamination will be fully understood.
+
+Previous animal studies have demonstrated that urine was
+the primary elimination route for PFOA and PFOS in rats and
+for PFOA in monkeys,23,24 and fecal elimination became
+increasingly important for PFCAs with longer carbon chain
+length (C > 8) in rats,25 whereas in humans the main mode(s)
+of elimination have not yet been conﬁrmed, although recently
+Beesoon et al.26 reported urine as one mode of PFHxS
+excretion in a highly exposed Canadian family. No other studies
+have compared excretion pathways in the same participants,
+and few studies have even reported PFAA concentrations in
+urine even though it was known as one of the excretion modes
+for humans in 1980.27 In a study of 20 participants,28 renal
+clearance rates of PFOA and PFOS were estimated, however,
+the isomers of PFOS and PFOA were not examined separately,
+and no other PFAAs were examined. Other elimination routes,
+including hair and nail growth are likely minor,29,30 whereas in
+premenopausal women menstrual bleeding,28 pregnancy,31 and
+lactation2 are likely important excretion modes.
+
+Here we developed a highly sensitive analytical method for
+urine and analyzed the concentrations of various PFAAs,
+including individual isomers of PFOS and PFOA, in 86 paired
+Chinese human blood and urine samples for the ﬁrst time.
+Correlations between urine and blood levels were examined,
+while rates of renal clearance and half-lives were estimated and
+were discussed with respect to human exposure.
+
+■ MATERIALS AND METHODS
+
+Nomenclature and Acronyms. The acronyms of all
+PFAAs and PFOSA used here are listed in Table S1 of the
+Supporting Information (SI). For speciﬁc isomers of PFOA and
+PFOS, previous nomenclature was adopted.32 Using PFOS as
+linear and perﬂuoroisopropyl branches are
+an example,
+abbreviated as n- and iso-PFOS, respectively. For the remaining
+monoperﬂuoromethyl isomers, m refers to the perﬂuoromethyl
+branch and the preceding number indicates the carbon position
+of the branching point (e.g., 3m-PFOS, 5m-PFOS). For total
+dimethyl-substituted-branched isomers,
+these could not be
+distinguished and are labeled as ∑m2-PFOS. Branched isomers
+of all other perﬂuoroalkyl sulfonates (PFSAs) and PFCAs were
+rarely detected,
+thus reported concentrations of PFHxS,
+perﬂuoroheptanoate (PFHpA), perﬂuorononanoate (PFNA),
+perﬂuorodecanoate (PFDA), and perﬂuoroundecanoate
+(PFUnA) are exclusively for the linear isomer.
+
+PFAA and PFOSA Standards. The 3M Co. donated
+authentic ECF PFOS [ca. 70% linear and 30% branched
+isomers, by 19F nuclear magnetic resonance (NMR)] and
+PFOA (ca. 78% linear and 22% branched, by 19F NMR)
+standards. All other PFAA and PFOSA standards,
+including
+brPFOSK, TPFOA, PFAC-MXB, MPFAC-MXA, PFOSA, and
+M8FOSA-M were purchased from Wellington Laboratories
+(Guelph, ON, Canada). The relative percentages of linear and
+branched components, as determined by 19F NMR,
+in
+brPFOSK (78.8% linear, 10% iso-PFOS, 1.2% 1m-PFOS, 1.9%
+3m-PFOS, 2.2% 4m-PFOS, 4.5% 5m-PFOS, 0.71% ∑m2-PFOS)
+and TPFOA (79% linear, 9% iso-PFOA, 3% 3m-PFOA, 4% 4m-
+PFOA, 4.5% 5m-PFOA) were provided by Wellington
+Laboratories. PFAC-MXB is a mixture of
+linear standards,
+including PFHpA, PFOA, PFNA, PFDA, PFUnA, PFHxS, and
+PFOS. MPFAC-MXA is a mixture of
+linear mass labeled
+internal standards for those PFAAs except PFHpA, and the
+internal standard of PFOA was used for the quantiﬁcation of
+PFHpA. M8FOSA-M is a linear mass labeled internal standard
+for PFOSA. No standards were available for branched PFOSA
+isomers.
+
+Sample Collection. The College of Environmental Science
+and Engineering, Nankai University, China, and the Health
+Research Ethics Board, University of Alberta, Canada, approved
+this research. Eighty-six paired blood (56 serum and 30 whole
+blood) and morning urine samples were collected from healthy
+volunteers in Shijiazhuang and Handan, Hebei province, China,
+in April−May 2010. Shijiazhuang is the capital city, while
+Handan is an industrial city, both with estimated populations of
+10 million. Demographic information of the participants is
+given in SI Table S2.
+
+Sample Extraction. Solid-phase extraction cartridges,
+Oasis-HLB (Waters, 150 mg/6 mL) and Oasis-WAX (Waters,
+150 mg/6 mL), were used for serum and urine samples,
+respectively. Brieﬂy, 0.5 mL of serum or 50 mL of urine was
+spiked with mass labeled internal standards (1 ng of each) and
+the mixture was thoroughly mixed on a vortex. The cartridges
+were conditioned with 2 mL of methanol (high-performance
+liquid chromatography (HPLC) grade) followed by 2 mL of 0.1
+M formic acid. The serum or urine was then loaded to the
+column and washed successively with 3 mL of 0.1 M formic
+acid, 5 mL of 50% 0.1 M formic acid/50% methanol, and 1 mL
+of 1% ammonium hydroxide. The cartridge was dried by
+vacuum and PFAAs and PFOSA were eluted with 3.0 mL of 1%
+ammonium hydroxide in methanol. The eluate was evaporated
+to near-dryness under a gentle stream of high-purity nitrogen at
+55 °C and then reconstituted with a mixture of 300 μL of
+methanol and 200 μL of HPLC grade water. The extract was
+transferred to a polypropylene tube and centrifuged at 12 000
+rpm for 20 min. Finally, the supernatant was transferred to an
+autosampler vial for HPLC-tandem mass spectrometry (MS/
+MS) analysis.
+
+The ion-pairing method of Hansen et al.33 was used with
+minor modiﬁcations to extract PFAAs and PFOSA from the 30
+whole blood samples. In brief, 1 ng of mass labeled internal
+standards was spiked in 0.5 mL of blood in a 15-mL
+polypropylene tube, followed by addition of 1 mL of 0.5 M
+tetrabutylammonium hydrogensulfate (TBAH, pH 10), and 2
+mL of 0.25 M sodium carbonate buﬀer. After mixing on a
+vortex, 5 mL of methyl tert-butyl ether (MTBE) was added,
+and the mixture was shaken for 20 min. The organic and the
+aqueous phases were separated by centrifugation at 3000 rpm
+for 10 min. Four mL of MTBE was removed and transferred to
+
+10620
+
+dx.doi.org/10.1021/es401905e | Environ. Sci. Technol. 2013, 47, 10619−10627
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+p
+u
+b
+s
+.
+a
+c
+s
+.​
+o
+r
+g
+e
+s
+t
+h
+a
+g
+a
+r
+t
+i
+c
+e
+-
+p
+d
+
+/​
+
+/
+
+l
+
+f
+/
+
+/
+
+/
+
+/
+
+4
+7
+1
+8
+1
+0
+6
+1
+9
+1
+5
+7
+8
+7
+7
+0
+2
+e
+s
+4
+0
+1
+9
+0
+5
+e
+p
+d
+
+/
+
+.
+
+f
+
+I
+
+b
+y
+C
+A
+L
+E
+P
+A
+A
+R
+R
+E
+S
+O
+U
+R
+C
+E
+S
+B
+O
+A
+R
+D
+u
+s
+e
+r
+o
+n
+2
+9
+S
+e
+p
+e
+m
+b
+e
+r
+2
+0
+2
+6
+
+t
+
+ 
+ 
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Environmental Science & Technology
+
+Article
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+Figure 1. Isomer compositions of (A) PFOS and (B) PFOA in the paired blood−urine samples.
+
+f
+r
+o
+m
+p
+u
+b
+s
+.
+a
+c
+s
+.​
+o
+r
+g
+e
+s
+t
+h
+a
+g
+a
+r
+t
+i
+c
+e
+-
+p
+d
+
+/​
+
+/
+
+l
+
+f
+/
+
+a new 15-mL polypropylene tube. The extraction procedure
+was repeated two more times as described above. All the
+organic phases were combined and the solvent was evaporated
+to near-dryness under gentle nitrogen ﬂow, then reconstituted
+with a mixture of 300 μL of methanol and 200 μL of pure
+water. The mixture was centrifuged at 12 000 rpm for 20 min at
+4 °C, and 400 μL of supernatant was collected for HPLC-MS/
+MS analysis.
+
+Urinary creatinine concentrations were measured using a
+picric acid method. The detailed descriptions of urinary
+creatinine analysis, and the HPLC-MS/MS method for
+PFAAs and PFOSA analysis are provided in the SI. The
+chromatograms of PFOS, PFOA, and PFOSA isomers are
+shown in SI Figure S1.
+
+Quality Control. A method blank (HPLC grade water) was
+extracted with each batch of 10 samples to check background
+contamination, and one solvent blank (HPLC grade methanol)
+was injected after every ﬁve samples to monitor any instrument
+carryover. Triplicate recovery experiments were performed with
+calf serum or blood, and with synthetic urine at three levels (2,
+20, and 200 ng/L). The recoveries of all 16 PFAAs (including
+isomers) and linear PFOSA, and the method limit of detection
+(LOD) were satisfactory (see SI Table S3). The calf serum and
+blood, as well as the synthetic urine, were purchased from
+Lampire Biological Laboratories (Pipersville, PA, USA). The
+results indicate that 3M ECF PFOS and PFOA at 10 ng/mL
+constituted 70.26 and 74.29% linear isomers (Figure 1), which
+were very consistent with the reports of Kestner (3M ECF
+PFOS, 70% linear) by 19F NMR and Stevenson (3M ECF
+PFOA, 10 ng/mL, 74.7% linear) by LC-MS/MS.34,35
+
+Renal Clearance Estimation. Renal clearance can be
+deﬁned as the volume of serum from which a chemical
+is
+completely removed in a given time period. Daily renal
+clearance of individual PFAAs was calculated based on the
+paired serum and urinary concentrations (eq 1).
+
+CLrenal
+
+=
+
+C
+C
+
+urine
+
+blood
+
+×
+×
+
+V
+W
+
+(1)
+
+is
+
+is
+
+renal clearance (mL/day/kg), Curine
+
+CLrenal
+the
+concentration of individual PFAA or PFOSA in urine (ng/L
+or ng/g creatinine), and V is daily urine excretion volume (L/
+day) or daily creatinine excretion value (g/day). Normal
+females and males excrete about 1.2 and 1.4 L urine every
+day,36 and excrete about 0.9 and 1.1 g creatinine every day.37
+Cblood is individual serum concentration (ng/mL). W is body
+weight (kg);
+females and males are
+estimated as 55 and 65 kg, respectively.
+
+the body weights of
+
+Estimation of Half-lives of PFAAs. A one-compartment
+model (eq 2) was used to estimate the biological elimination
+half-lives of PFAAs.
+
+T
+1/2
+
+=
+
+×
+
+V
+
+0.693
+CL
+
+total
+
+(2)
+
+T1/2 is biological half-life (days), CLtotal is total clearance (mL/
+day/kg), and V (mL/kg bw) is the volume of distribution,
+deﬁned as the total amount of a substance in the body divided
+by its concentration in serum. Thompson et al.38 reported that
+V was 170 and 230 mL/kg for PFOA and PFOS in humans,
+while Ohmori et al.39 reported that V was not much diﬀerent
+between PFCAs, or between sexes in rats, although the V value
+of PFDA was larger than those of other PFCAs. In addition,
+Han et al.40 summarized the V values for diﬀerent mammals
+and found that the V of PFOA was quite consistent among the
+mammals with a mean value of 191 ± 67 mL/kg. Thus, to
+simplify the estimation, the V values of 170 and 230 mL/kg
+were used to estimate the half-lives for all PFCAs and PFSAs,
+respectively.
+
+Statistical Analysis. For
+
+the purpose of descriptive
+statistics, concentrations below the LOD were substituted by
+LOD divided by the square root of 2.41 All the data were log
+transformed before applying statistical tests. ANOVA, followed
+by Bonferroni’s test was used to assess diﬀerences in the PFAA
+concentrations in blood and matched urine samples among
+gender and age groups. Paired t tests were used to assess the
+diﬀerence in isomer proportions in blood and urine samples,
+the diﬀerence in renal clearance between urinary PFAA
+
+10621
+
+dx.doi.org/10.1021/es401905e | Environ. Sci. Technol. 2013, 47, 10619−10627
+
+/
+
+/
+
+/
+
+4
+7
+1
+8
+1
+0
+6
+1
+9
+1
+5
+7
+8
+7
+7
+0
+2
+e
+s
+4
+0
+1
+9
+0
+5
+e
+p
+d
+
+/
+
+.
+
+f
+
+I
+
+b
+y
+C
+A
+L
+E
+P
+A
+A
+R
+R
+E
+S
+O
+U
+R
+C
+E
+S
+B
+O
+A
+R
+D
+u
+s
+e
+r
+o
+n
+2
+9
+S
+e
+p
+e
+m
+b
+e
+r
+2
+0
+2
+6
+
+t
+
+ 
+ 
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Environmental Science & Technology
+
+concentrations normalized by volume or creatinine, and the
+diﬀerence in renal clearance between diﬀerent PFAAs. To
+assess any relationship between PFAA concentrations in blood
+and the matched urine samples, we calculated Spearman rank-
+order correlations. IBM SPSS Statistics version 20 (Chicago,
+IL) was used to analyze these data, and signiﬁcance was set to p
+
+< 0.05.■ RESULTS
+
+Total PFAA Concentrations in Blood and Urine. For
+the 30 participants for whom whole blood was analyzed, serum
+concentrations were estimated by accounting for the average
+hematocrit content of whole blood in the Chinese population:
+41.0% for females and 45.8% for males.42 Thus, whole blood
+PFAA concentrations were divided by a factor of 0.590 or 0.542
+to give a reliable estimate of the serum concentrations of
+females and males, respectively. The major PFAAs detected in
+the blood samples, reported here as median concentrations,
+were total PFOS (∑PFOS, 19 ng/mL), ∑PFOA (2.3 ng/mL),
+PFHxS (1.2 ng/mL), PFNA (0.37 ng/mL), PFUnA (0.18 ng/
+mL), and PFDA (0.15 ng/mL). Descriptive statistics on other
+PFAAs and PFOSA detected in the blood samples are given in
+Table 1. It is notable that linear PFOSA was detected in all
+whole blood samples (median 0.029 ng/mL), but was not
+detected in any serum samples.
+
+To examine if PFAA blood concentrations were aﬀected by
+age or gender, the 86 participants were divided into four
+categories, namely, young females (age ≤50 years, N = 20),
+older females (> 50 years, N = 19), young males (≤ 50 years, N
+= 32), and older males (> 50 years, N = 15) (see SI Figure S2).
+The mean concentrations of PFHxS (p < 0.001), ∑PFOS (p <
+0.05), and PFNA (p < 0.05) in the young female group were
+signiﬁcantly lower than in the other three groups. No signiﬁcant
+diﬀerence was observed among the other three groups for all
+PFAAs. Thus, the older female group and male groups were
+combined for subsequent discussion.
+
+The concentrations of PFAAs in urine were normalized to
+both urinary volume (ng PFAA/L urine) and creatinine content
+(ng PFAA/g urinary creatinine) (see Table 1). Strong
+correlations (p < 0.001, r = 0.517−0.932) were observed
+between the concentrations of each PFAA (including individual
+isomers) expressed with either units (see SI Table S4). The
+four major PFAAs in urine were ∑PFOS and ∑PFOA,
+followed by PFNA and PFHxS. For most PFAAs, a very good
+correlation (i.e., p < 0.05) was observed between the blood and
+urine concentrations (see SI Table S4). The weakest
+correlations were observed for PFUnA (p > 0.05), which is
+the longest chain-length PFCA that could be routinely detected
+in urine (detection frequency 98%), and for the branched
+isomer 3m-PFOA, which was only detected in 23% of samples
+(versus >75% for all other PFOA isomers). Among all urine
+samples, the predominant PFAAs (median values were reported
+and normalized by urinary volume) were PFOS (25 ng/L),
+followed by PFOA (19 ng/L), PFNA (1.7 ng/L), PFHxS (1.1
+ng/L), PFHpA (0.82 ng/L), PFUnA (0.30 ng/L), and PFDA
+(0.22 ng/L). Linear PFOSA was detected in most urine
+samples with median concentration of 0.44 ng/L (see Table 1).
+Isomer-Speciﬁc Analysis of PFOS and PFOA. Figure 1
+shows the isomer compositions of PFOS and PFOA in human
+samples compared to authentic 3M ECF manufactured
+standards. For PFOS, the major isomer in the blood samples
+was n-PFOS, with a mean percentage of 53%, which is
+signiﬁcantly lower than in the ECF standard (70%). The other
+
+a
+
+)
+6
+8
+
+=
+
+n
+
+(
+
+s
+e
+l
+p
+m
+a
+S
+
+e
+n
+
+i
+r
+U
+d
+e
+h
+c
+t
+a
+M
+d
+n
+a
+
+,
+)
+0
+3
+
+=
+
+n
+
+(
+
+d
+o
+o
+B
+
+l
+
+e
+l
+o
+h
+W
+
+,
+)
+6
+5
+
+=
+
+n
+
+(
+m
+u
+r
+e
+S
+
+n
+a
+m
+u
+H
+n
+i
+
+s
+n
+o
+i
+t
+a
+r
+t
+n
+e
+c
+n
+o
+C
+
+A
+S
+O
+F
+P
+
+d
+n
+a
+
+s
+A
+A
+F
+P
+
+f
+o
+
+s
+c
+i
+t
+s
+i
+t
+a
+t
+S
+
+y
+r
+a
+m
+m
+u
+S
+
+.
+
+1
+
+e
+l
+
+b
+a
+T
+
+r
+a
+e
+n
+
+i
+l
+
+A
+S
+O
+F
+P
+
+b
+1
+3
+0
+0
+
+.
+
+b
+9
+2
+0
+0
+
+.
+
+b
+3
+2
+0
+0
+
+.
+
+b
+7
+7
+0
+0
+
+.
+
+b
+0
+0
+1
+
+8
+8
+0
+
+.
+
+4
+4
+0
+
+.
+
+L
+D
+B
+
+2
+9
+0
+
+.
+
+1
+6
+0
+
+.
+
+2
+7
+
+.
+
+L
+D
+B
+
+5
+5
+
+.
+
+9
+9
+
+A
+O
+F
+P
+
+l
+a
+t
+o
+t
+
+m
+5
+
+.
+
+1
+3
+
+3
+2
+
+.
+
+6
+2
+0
+
+.
+
+0
+0
+1
+
+9
+2
+
+1
+8
+
+9
+1
+
+6
+2
+
+.
+
+6
+3
+0
+1
+
+2
+2
+1
+
+3
+2
+
+5
+3
+
+.
+
+9
+6
+8
+1
+
+0
+0
+1
+
+7
+5
+0
+0
+0
+
+.
+
+2
+1
+0
+0
+
+.
+
+L
+D
+B
+
+1
+1
+0
+
+.
+
+3
+7
+
+4
+3
+0
+
+.
+
+9
+1
+0
+
+.
+
+L
+D
+B
+
+3
+4
+0
+
+.
+
+7
+2
+0
+
+.
+
+1
+4
+
+.
+
+L
+D
+B
+
+0
+6
+
+.
+
+9
+9
+
+m
+4
+
+9
+8
+0
+0
+0
+
+.
+
+4
+4
+0
+0
+0
+
+.
+
+L
+D
+B
+
+7
+0
+0
+
+.
+
+2
+7
+
+8
+2
+0
+
+.
+
+7
+1
+0
+
+.
+
+L
+D
+B
+
+5
+3
+0
+
+.
+
+0
+2
+0
+
+.
+
+.
+
+7
+2
+
+L
+D
+B
+
+8
+3
+
+.
+
+9
+9
+
+m
+3
+
+5
+3
+0
+0
+
+.
+
+L
+D
+B
+
+L
+D
+B
+
+5
+3
+0
+
+.
+
+3
+3
+
+5
+4
+0
+
+.
+
+L
+D
+B
+
+L
+D
+B
+
+5
+5
+0
+
+.
+
+8
+1
+0
+
+.
+
+.
+
+1
+7
+
+L
+D
+B
+
+.
+
+0
+7
+
+3
+2
+
+o
+s
+i
+
+8
+6
+0
+0
+
+.
+
+7
+3
+0
+0
+
+.
+
+L
+D
+B
+
+9
+7
+0
+
+.
+
+3
+7
+0
+
+.
+
+5
+3
+0
+
+.
+
+L
+D
+B
+
+3
+9
+0
+
+.
+
+4
+3
+0
+
+.
+
+1
+4
+
+.
+
+L
+D
+B
+
+1
+9
+
+.
+
+4
+9
+
+6
+7
+
+n
+
+0
+3
+
+.
+
+2
+2
+
+.
+
+4
+2
+0
+
+.
+
+0
+0
+1
+
+8
+2
+
+9
+7
+
+7
+1
+
+.
+
+3
+2
+
+3
+3
+0
+1
+
+0
+2
+1
+
+9
+1
+
+0
+3
+
+.
+
+4
+6
+8
+1
+
+0
+0
+1
+
+A
+n
+U
+F
+P
+
+A
+D
+F
+P
+
+A
+N
+F
+P
+
+A
+p
+H
+F
+P
+
+l
+a
+t
+o
+t
+
+1
+2
+0
+
+.
+
+8
+1
+0
+
+.
+
+L
+D
+B
+
+2
+8
+0
+
+.
+
+8
+9
+
+2
+4
+0
+
+.
+
+0
+3
+0
+
+.
+
+L
+D
+B
+
+3
+4
+2
+
+.
+
+0
+7
+0
+
+.
+
+6
+3
+0
+
+.
+
+L
+D
+B
+
+2
+9
+
+.
+
+8
+9
+
+2
+9
+0
+0
+0
+
+.
+
+9
+1
+0
+
+.
+
+5
+1
+0
+
+.
+
+7
+9
+0
+
+.
+
+0
+0
+1
+
+6
+4
+0
+
+.
+
+2
+2
+0
+
+.
+
+L
+D
+B
+
+1
+1
+
+1
+1
+
+.
+
+7
+2
+0
+
+.
+
+L
+D
+B
+
+2
+4
+
+2
+9
+
+5
+4
+0
+
+.
+
+7
+3
+0
+
+.
+
+L
+D
+B
+
+7
+5
+1
+
+.
+
+2
+9
+
+2
+2
+
+.
+
+7
+1
+
+.
+
+L
+D
+B
+
+.
+
+1
+2
+2
+
+6
+3
+
+.
+
+8
+1
+
+.
+
+5
+8
+0
+0
+
+.
+
+8
+5
+0
+0
+
+.
+
+L
+D
+B
+
+7
+3
+0
+
+.
+
+0
+7
+
+.
+
+9
+1
+
+2
+8
+0
+
+.
+
+L
+D
+B
+
+9
+1
+
+.
+
+4
+3
+
+.
+
+0
+1
+
+L
+D
+B
+
+L
+D
+B
+
+4
+8
+
+5
+8
+
+3
+7
+
+7
+6
+
+1
+3
+
+9
+1
+
+4
+1
+
+.
+
+0
+8
+1
+
+0
+0
+1
+
+7
+3
+
+5
+2
+
+0
+2
+
+.
+
+4
+8
+1
+
+7
+4
+
+8
+2
+
+8
+2
+
+.
+
+2
+3
+2
+
+0
+0
+1
+
+2
+
+m
+
+9
+4
+0
+
+.
+
+5
+3
+0
+
+.
+
+0
+2
+0
+0
+0
+
+.
+
+0
+0
+1
+
+3
+9
+0
+
+.
+
+4
+6
+0
+
+.
+
+.
+
+9
+6
+
+L
+D
+B
+
+8
+5
+
+.
+
+1
+1
+
+.
+
+0
+7
+0
+
+.
+
+L
+D
+B
+
+8
+5
+
+.
+
+1
+9
+
+m
+5
++
+3
+
+.
+
+2
+7
+
+9
+2
+
+.
+
+1
+2
+0
+
+.
+
+0
+0
+1
+
+2
+6
+
+0
+1
+
+1
+7
+
+.
+
+6
+6
+0
+
+.
+
+.
+
+3
+0
+6
+
+3
+1
+
+.
+
+5
+7
+
+4
+9
+0
+
+.
+
+0
+0
+1
+
+9
+5
+
+S
+O
+F
+P
+
+m
+4
+
+5
+3
+
+.
+
+3
+1
+
+.
+
+0
+1
+0
+
+.
+
+0
+0
+1
+
+9
+2
+
+9
+3
+
+.
+
+4
+2
+
+.
+
+L
+D
+B
+
+4
+2
+
+8
+4
+
+.
+
+5
+2
+
+.
+
+L
+D
+B
+
+0
+2
+
+8
+9
+
+m
+1
+
+5
+6
+0
+
+.
+
+L
+D
+B
+
+.
+
+7
+1
+
+2
+1
+
+9
+9
+
+2
+6
+0
+
+.
+
+7
+2
+0
+
+.
+
+L
+D
+B
+
+4
+1
+
+2
+8
+0
+
+.
+
+8
+2
+0
+
+.
+
+L
+D
+B
+
+0
+2
+
+7
+7
+
+o
+s
+i
+
+0
+4
+
+.
+
+6
+2
+
+.
+
+3
+1
+0
+
+.
+
+0
+0
+1
+
+4
+2
+
+5
+5
+
+.
+
+3
+3
+
+.
+
+5
+4
+0
+
+.
+
+5
+3
+
+2
+7
+
+.
+
+0
+4
+
+.
+
+0
+6
+0
+
+.
+
+0
+0
+1
+
+7
+4
+
+n
+
+5
+1
+
+2
+1
+
+1
+9
+0
+
+.
+
+0
+0
+1
+
+0
+5
+
+6
+1
+
+2
+1
+
+S
+x
+H
+F
+P
+
+6
+2
+
+.
+
+2
+1
+
+.
+
+L
+D
+B
+
+6
+1
+
+8
+9
+
+4
+2
+
+.
+
+1
+1
+
+.
+
+2
+7
+0
+
+.
+
+L
+D
+B
+
+3
+8
+
+1
+2
+
+4
+1
+
+0
+1
+
+.
+
+9
+0
+1
+
+0
+0
+1
+
+5
+3
+
+1
+3
+
+.
+
+4
+1
+
+.
+
+L
+D
+B
+
+1
+5
+
+8
+9
+
+n
+a
+i
+d
+e
+m
+
+n
+a
+e
+m
+
+)
+%
+(
+F
+D
+
+n
+a
+e
+m
+
+n
+a
+i
+d
+e
+m
+
+i
+
+n
+m
+
+x
+a
+m
+
+n
+a
+i
+d
+e
+m
+
+n
+a
+e
+m
+
+)
+%
+(
+F
+D
+
+i
+
+n
+m
+
+x
+a
+m
+
+i
+
+n
+m
+
+x
+a
+m
+
+L
+m
+/
+g
+n
+
+)
+6
+8
+
+=
+
+n
+(
+
+d
+o
+o
+b
+
+l
+
+L
+/
+g
+n
+
+)
+6
+8
+
+=
+
+n
+(
+
+e
+n
+i
+r
+u
+
+g
+/
+g
+n
+
+)
+6
+8
+
+=
+
+n
+(
+
+e
+n
+i
+r
+u
+
+i
+
+e
+n
+n
+i
+t
+a
+e
+r
+c
+
+Article
+
+t
+u
+o
+b
+a
+
+a
+t
+a
+D
+b
+
+.
+t
+i
+
+m
+
+i
+l
+
+n
+o
+i
+t
+c
+e
+t
+e
+d
+w
+o
+l
+e
+b
+
+=
+
+L
+D
+B
+
+;
+
+ﬁ
+
+i
+
+m
+u
+m
+n
+m
+=
+
+i
+
+i
+
+n
+m
+
+;
+
+m
+u
+m
+i
+x
+a
+m
+=
+
+x
+a
+
+M
+
+.
+
+y
+c
+n
+e
+u
+q
+e
+r
+f
+
+n
+o
+i
+t
+c
+e
+t
+e
+d
+
+=
+
+F
+D
+
+.
+
+2
+√
+/
+D
+O
+L
+
+y
+b
+
+d
+e
+c
+a
+l
+p
+e
+r
+
+n
+e
+e
+b
+
+e
+v
+a
+h
+D
+O
+L
+
+n
+a
+h
+t
+
+s
+s
+e
+l
+
+s
+e
+u
+l
+a
+v
+
+,
+s
+c
+i
+t
+s
+i
+t
+a
+t
+s
+
+e
+v
+i
+t
+p
+i
+r
+c
+s
+e
+d
+
+e
+h
+t
+
+e
+t
+u
+p
+m
+o
+c
+
+o
+T
+a
+
+.
+s
+d
+r
+a
+d
+n
+a
+t
+s
+
+A
+S
+O
+F
+P
+
+d
+e
+h
+c
+n
+a
+r
+b
+
+f
+o
+
+k
+c
+a
+l
+
+f
+o
+
+e
+s
+u
+a
+c
+e
+b
+
+d
+e
+z
+y
+l
+a
+n
+a
+
+y
+l
+l
+a
+n
+o
+i
+t
+a
+c
+
+i
+t
+n
+a
+u
+q
+
+s
+a
+w
+
+A
+S
+O
+F
+P
+
+r
+a
+e
+n
+
+i
+l
+
+y
+l
+n
+o
+
+d
+n
+a
+
+s
+e
+l
+p
+m
+a
+s
+
+d
+o
+o
+b
+
+l
+
+e
+l
+o
+h
+w
+
+0
+3
+m
+o
+r
+f
+
+y
+l
+n
+o
+
+e
+r
+e
+w
+
+A
+S
+O
+F
+P
+
+10622
+
+dx.doi.org/10.1021/es401905e | Environ. Sci. Technol. 2013, 47, 10619−10627
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+p
+u
+b
+s
+.
+a
+c
+s
+.​
+o
+r
+g
+e
+s
+t
+h
+a
+g
+a
+r
+t
+i
+c
+e
+-
+p
+d
+
+/​
+
+/
+
+l
+
+f
+/
+
+/
+
+/
+
+/
+
+4
+7
+1
+8
+1
+0
+6
+1
+9
+1
+5
+7
+8
+7
+7
+0
+2
+e
+s
+4
+0
+1
+9
+0
+5
+e
+p
+d
+
+/
+
+.
+
+f
+
+I
+
+b
+y
+C
+A
+L
+E
+P
+A
+A
+R
+R
+E
+S
+O
+U
+R
+C
+E
+S
+B
+O
+A
+R
+D
+u
+s
+e
+r
+o
+n
+2
+9
+S
+e
+p
+e
+m
+b
+e
+r
+2
+0
+2
+6
+
+t
+
+ 
+ 
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Environmental Science & Technology
+
+Article
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+p
+u
+b
+s
+.
+a
+c
+s
+.​
+o
+r
+g
+e
+s
+t
+h
+a
+g
+a
+r
+t
+i
+c
+e
+-
+p
+d
+
+/​
+
+/
+
+l
+
+Figure 2. Distributions of estimated renal clearance for linear and branched (A) PFOS, (B) PFOA isomers, and (C) various chain-length PFAAs in
+human paired blood−urine samples. The lower and upper bounds of the boxes indicate the 25th and 75th percentiles, respectively. The horizontal
+lines within the boxes indicate median values. The lower and upper limits of the whiskers indicate 5% and 95% values, respectively, and circles below
+or above the whiskers indicate outlier values. S6 and S8 represent PFHxS and PFOS, respectively, while C7−C11 represent PFHpA−PFUnA.
+
+Table 2. PFAA Renal Clearance (mL/day/kg)
+
+young female group
+
+male and older female group
+
+compound
+
+mean
+
+GM
+
+median
+
+Nb
+
+mean
+
+PFHxS
+n-PFOS
+iso-PFOS
+1m-PFOS
+4m-PFOS
+3 + 5m-PFOS
+∑m2-PFOS
+∑PFOS
+PFHpA
+PFNA
+PFDA
+PFUnA
+n-PFOA
+iso-PFOA
+4m-PFOA
+5m-PFOA
+∑PFOA
+n-PFOSA
+
+0.028
+0.037
+0.047
+0.013
+0.048
+0.062
+0.064
+0.043
+0.27
+0.14
+0.047
+0.045
+0.15
+0.30
+0.59
+0.83
+0.17
+0.29
+aCI = conﬁdence interval. bNumber of blood−urine pairs that were available for estimating renal clearance.
+
+95% CIa
+0.020−0.057
+0.032−0.057
+0.040−0.083
+0.0081−0.030
+0.041−0.074
+0.051−0.094
+0.052−0.13
+0.037−0.064
+0.022−1.2
+0.13−0.37
+0.035−0.097
+0.033−0.095
+0.094−0.48
+0.13−1.0
+0.40−1.2
+0.67−1.7
+0.11−0.49
+0.10−0.76
+
+95% CIa
+0.018−0.037
+0.021−0.042
+0.032−0.059
+0.0092−0.023
+0.032−0.067
+0.035−0.071
+0.048−0.078
+0.026−0.049
+0.38−0.83
+0.099−0.20
+0.050−0.13
+0.050−0.080
+0.48−1.1
+0.22−0.56
+0.70−1.1
+0.57−0.92
+0.47−1.1
+0.22−0.69
+
+0.039
+0.045
+0.062
+0.019
+0.057
+0.072
+0.093
+0.050
+0.61
+0.25
+0.066
+0.064
+0.29
+0.57
+0.78
+1.2
+0.30
+0.43
+
+0.033
+0.038
+0.047
+0.015
+0.050
+0.069
+0.073
+0.044
+0.17
+0.20
+0.047
+0.045
+0.14
+0.26
+0.52
+1.0
+0.16
+0.32
+
+0.027
+0.031
+0.045
+0.016
+0.049
+0.053
+0.063
+0.037
+0.61
+0.15
+0.096
+0.065
+0.79
+0.39
+0.92
+0.75
+0.77
+0.46
+
+19
+20
+20
+13
+20
+20
+16
+20
+12
+16
+19
+19
+20
+15
+12
+15
+20
+7
+
+GM
+
+0.018
+0.020
+0.028
+0.0078
+0.027
+0.032
+0.044
+0.024
+0.39
+0.10
+0.045
+0.044
+0.26
+0.21
+0.61
+0.50
+0.27
+0.28
+
+median
+
+Nb
+
+0.015
+0.019
+0.027
+0.0061
+0.028
+0.033
+0.044
+0.024
+0.41
+0.094
+0.035
+0.042
+0.18
+0.22
+0.76
+0.64
+0.19
+0.22
+
+64
+66
+66
+53
+64
+66
+62
+66
+31
+50
+60
+63
+66
+47
+49
+48
+66
+23
+
+branched isomers detected in blood were 3+5m-PFOS (20%),
+iso-PFOS (12%), 4m-PFOS (9.3%), 1m-PFOS (4.4%), and
+∑m2-PFOS (1.4%). Note that 3m- and 5m-PFOS isomers
+could not be baseline separated and thus are reported as the
+sum. In urine samples, the mean percentage of n-PFOS was
+45%, followed by 28% 3+5m-PFOS, 15% iso-PFOS, 9.8% 4m-
+PFOS, 2.5% ∑m2-PFOS and 1.3% 1m-PFOS. Thus,
+the
+proportion of n-PFOS was signiﬁcantly lower in urine than in
+blood samples, as was 1m-PFOS (p < 0.001 in both cases).
+
+For PFOA, the dominant isomer in blood was n-PFOA
+(mean proportion 97%). Contrary to PFOS, but consistent
+with other literatures,9,12,15 the proportion of n-PFOA in blood
+was distinctly higher than in the ECF standard (74%). In the
+urine samples, n-PFOA was still the predominant PFOA isomer
+(mean proportion 94%) but was less prominent than in blood
+(97%). Thus,
+the relative
+for both PFOS and PFOA,
+proportions of the linear isomer in urine were lower (p <
+
+10623
+
+dx.doi.org/10.1021/es401905e | Environ. Sci. Technol. 2013, 47, 10619−10627
+
+f
+/
+
+/
+
+/
+
+/
+
+4
+7
+1
+8
+1
+0
+6
+1
+9
+1
+5
+7
+8
+7
+7
+0
+2
+e
+s
+4
+0
+1
+9
+0
+5
+e
+p
+d
+
+.
+
+/
+
+f
+
+I
+
+b
+y
+C
+A
+L
+E
+P
+A
+A
+R
+R
+E
+S
+O
+U
+R
+C
+E
+S
+B
+O
+A
+R
+D
+u
+s
+e
+r
+o
+n
+2
+9
+S
+e
+p
+e
+m
+b
+e
+r
+2
+0
+2
+6
+
+t
+
+ 
+ 
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Environmental Science & Technology
+
+Table 3. Estimated Biological Elimination Half-Lives of PFAAs (Years)
+
+young females
+
+all males and older females
+
+compound
+
+mean
+
+SE
+
+GM
+
+median
+
+min
+
+max
+
+Na
+
+mean
+
+SE
+
+PFHxS
+n-PFOS
+iso-PFOS
+1m-PFOS
+4m-PFOS
+3 + 5m-PFOS
+∑m2-PFOS
+∑PFOS
+PFHpA
+PFNA
+PFDA
+PFUnA
+n-PFOA
+iso-PFOA
+4m-PFOA
+5m-PFOA
+∑PFOA
+
+7.1
+3.9
+6.6
+4.3
+5.7
+2.8
+9.9
+11
+5.5
+3.4
+4.5
+2.6
+4.5
+1.8
+6.0
+3.1
+1.6
+0.2
+1.5
+0.5
+4.2
+1.5
+4.4
+2.0
+2.0
+0.4
+1.1
+0.4
+0.59
+0.6
+0.31
+0.3
+1.8
+0.4
+aNumber of blood−urine pairs that were available for estimating elimination half-lives of PFAAs.
+
+2.3
+3.1
+1.9
+4.5
+2.2
+1.7
+1.5
+3.2
+0.11
+0.38
+1.2
+1.1
+0.19
+0.11
+0.15
+0.10
+0.19
+
+7.7
+6.7
+5.9
+10
+5.8
+5.0
+5.1
+6.2
+1.5
+2.5
+4.5
+4.5
+2.3
+1.4
+0.64
+0.53
+2.1
+
+7.1
+6.3
+5.4
+9.6
+5.4
+4.6
+4.3
+5.8
+1.0
+1.7
+4.0
+4.0
+1.7
+0.92
+0.51
+0.37
+1.5
+
+0.6
+0.5
+0.6
+0.8
+0.5
+0.4
+0.8
+0.5
+0.3
+0.6
+0.4
+0.5
+0.4
+0.4
+0.1
+0.1
+0.3
+
+13
+11
+12
+14
+11
+10
+12
+10
+3.3
+7.7
+7.7
+7.8
+5.3
+6.0
+1.3
+1.4
+5.2
+
+35
+34
+24
+90
+27
+21
+14
+27
+1.2
+4.3
+12
+12
+2.8
+2.5
+1.4
+1.3
+2.6
+
+19
+20
+20
+13
+20
+20
+16
+20
+12
+16
+19
+19
+20
+15
+12
+15
+20
+
+GM
+
+25
+22
+16
+55
+16
+14
+9.8
+18
+0.82
+3.2
+7.1
+7.4
+1.2
+1.5
+0.53
+0.65
+1.2
+
+median
+
+29
+23
+16
+72
+16
+13
+10
+18
+0.79
+3.5
+9.2
+7.7
+1.8
+1.5
+0.42
+0.51
+1.7
+
+min
+
+1.6
+1.5
+1.4
+3.2
+0.93
+0.84
+1.2
+1.6
+0.12
+0.34
+0.58
+1.1
+0.058
+0.099
+0.093
+0.11
+0.059
+
+Article
+
+max
+
+Na
+
+182
+182
+102
+336
+115
+97
+75
+121
+5.1
+20
+60
+104
+16
+14
+29
+13
+14
+
+64
+66
+66
+53
+64
+66
+62
+66
+31
+50
+60
+63
+66
+47
+49
+48
+66
+
+0.001) than in paired blood samples, suggesting that branched
+isomers, in general, are preferentially excreted in urine.
+
+including the major
+
+Renal Clearance Estimation. We calculated the daily renal
+individual PFAAs based on the
+clearance (mL/day/kg) of
+paired serum and urinary concentrations. The calculated renal
+clearance using eq 1 was similar between volumetric and
+creatinine normalized urine data, with no signiﬁcant diﬀerences
+for all PFAAs except for iso-PFOA (paired t-test). Thus, to
+simplify the discussion we only report the results based on
+the renal clearance
+urinary volume. Figure 2 compares
+estimates for all PFAAs,
+isomers of
+PFOS and PFOA. PFHxS and PFOS showed much lower renal
+clearance eﬃciencies than PFHpA, PFOA, and PFNA (Figure
+2C), suggesting that PFSAs are excreted through urine much
+less eﬃciently than PFCAs of the same perﬂuorinated carbon
+chain length. Among PFCAs, the renal clearance eﬃciency
+decreased as the perﬂuorinated carbon chain length increased
+up to C9−C10, and then remained constant for PFDA and
+PFUnA. In contrast to this structure−activity for PFCAs, the
+renal clearance eﬃciency of PFHxS (a C6 compound) was
+signiﬁcantly lower than that of ∑PFOS (a C8 compound)
+(paired t-test, p = 0.002, N = 83). Among the major PFOS
+isomers (Figure 2A), 1m-PFOS had the lowest renal clearance
+eﬃciency, followed by n < iso ≈ 4m < 3+5m < ∑m2. The
+branched isomers of PFOA were all cleared more eﬃciently
+than n-PFOA, with the rank order being n < iso < 4m ≈ 5m
+(Figure 2B).
+
+The relative proportions of linear and total branched PFOSA
+isomers in 30 paired samples of whole blood and urine were
+estimated based on chromatographic peak areas. The
+proportion of n-PFOSA was signiﬁcantly higher
+in urine
+(median 84%) than in blood (65%) (p < 0.001) (see SI Figure
+S3), demonstrating that n-PFOSA is preferentially excreted via
+urine relative to branched isomers; opposite to the ﬁndings for
+urinary excretion of PFOS and PFOA isomers.
+
+Elimination Half-Lives of PFAAs. Based on the literature
+discussed above, and strong associations between urinary and
+blood concentrations (except PFUnA), renal clearance was
+assumed to be the major pathway for human elimination of the
+PFCAs and PFSAs, thus, CLtotal was set equal to CLrenal (mL/
+
+than CLrenal
+
+day/kg) in eq 2. However, considering that menstrual clearance
+is an important clearance pathway for PFAAs in young
+females,28 menstrual clearance was estimated and added to
+renal clearance for calculation of CLtotal in young females, using
+the same rate estimated by Harada et al.28 for Japanese women
+(0.029 mL/day/kg). This estimated menstrual clearance is
+lower
+for most PFAAs (Table 2) and is a
+reasonable estimate because it is in the range of CLrenal for
+PFHxS and PFOS, which are two PFAAs that were signiﬁcantly
+lower in younger females. Although other clearance mecha-
+nisms are acknowledged, as discussed above, they are believed
+to be minor and were not accounted for experimentally (albeit,
+fecal elimination might be important for some substances, see
+Discussion). Nevertheless, biological half-life estimates, which
+ranged from 0.5 to 10 years in young females, and from 1.2 to
+90 years in males and older females (Table 3), should be
+considered as upper limit estimates of the biological half-life.
+
+■ DISCUSSION
+
+We observed signiﬁcant correlations between PFAA concen-
+trations
+in paired blood (ng PFAA/mL) and urine
+(ng PFAA/L), except for PFUnA, which is notably the longest
+chain length PFCA examined (a C11 compound). Beesoon et
+al. observed long chain-length PFCAs (C13 and C14) in
+human stool, but not in urine and serum.26 Thus it is likely that
+fecal excretion becomes more important than urinary excretion
+for PFCAs longer than C10. Nevertheless, for the major PFAAs
+it
+that urine is an alternative matrix for
+biomonitoring, and can be considered in certain populations
+as it is less invasive and easier to collect than serum samples.
+Human nails were formerly suggested as a less invasive sample
+for human biomonitoring,30 but this approach does not seem
+feasible for PFHxS and PFOA, which are not detectable in nails
+or do not correlate with blood.
+
+is apparent
+
+Harada et al.28 previously studied the renal clearance of
+PFOA and PFOS in 20 Japanese people, including 5 young
+females and 15 males and old females, using paired serum and
+24-h pooled urine samples. The median renal clearance
+eﬃciencies of PFOS in younger females, males and older
+females were estimated to be 0.014 and 0.016 mL/day/kg,
+
+10624
+
+dx.doi.org/10.1021/es401905e | Environ. Sci. Technol. 2013, 47, 10619−10627
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+p
+u
+b
+s
+.
+a
+c
+s
+.​
+o
+r
+g
+e
+s
+t
+h
+a
+g
+a
+r
+t
+i
+c
+e
+-
+p
+d
+
+/​
+
+/
+
+l
+
+f
+/
+
+/
+
+/
+
+/
+
+4
+7
+1
+8
+1
+0
+6
+1
+9
+1
+5
+7
+8
+7
+7
+0
+2
+e
+s
+4
+0
+1
+9
+0
+5
+e
+p
+d
+
+.
+
+/
+
+f
+
+I
+
+b
+y
+C
+A
+L
+E
+P
+A
+A
+R
+R
+E
+S
+O
+U
+R
+C
+E
+S
+B
+O
+A
+R
+D
+u
+s
+e
+r
+o
+n
+2
+9
+S
+e
+p
+e
+m
+b
+e
+r
+2
+0
+2
+6
+
+t
+
+ 
+ 
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Environmental Science & Technology
+
+Article
+
+It
+
+respectively). The reason for
+
+respectively, which were lower than those in the current work
+(0.044 and 0.024 mL/day/kg, respectively). The median renal
+clearance eﬃciencies of PFOA were 0.046 and 0.022 mL/day/
+kg in younger females, males and older females,28 which were
+much lower than those in the present study (0.16 and 0.19 mL/
+these diﬀerences is
+day/kg,
+unclear (race and sampling size may be a factor), but in both
+cases the consistent ﬁnding was that PFOS is excreted more
+the
+slowly through urine than PFOA.
+estimated PFOA elimination half-life (∼ 2−3 years, Table 3) in
+the current study, which was derived from our clearance
+estimates, is similar to the actual PFOA serum elimination half-
+lives reported for highly exposed populations (i.e., 2.3 or 2.9
+years).10,11
+
+is notable that
+
+To our knowledge, this is the ﬁrst study investigating the
+excretion of long-chain PFCAs via urine in humans. It was
+demonstrated that PFCAs with increasingly longer carbon
+chain lengths (from C7 to C10) were generally more diﬃcult to
+excrete than shorter ones (Figure 2C). This is a sensible result,
+as shorter PFCAs are more water-soluble than longer ones.43 In
+addition, the aﬃnities of PFAAs to organic anion transport
+proteins could also aﬀect their excretion. It was reported that
+PFCAs with longer carbon chain length displayed stronger
+interaction with organic anion transport polypeptide (OATP)
+1a1,
+leading to lower elimination of these compounds with
+longer carbon chain length (from C6 to C10).44 Previous
+studies of PFCAs (from PFHpA to PFDA) have shown that
+urinary elimination from rats also becomes less eﬃcient as the
+perﬂuorocarbon chain length increases.25,39 What could not be
+explained by physical properties, however, was that PFHxS was
+more diﬃcult to excrete in urine than PFOS, even though it has
+a shorter carbon chain length than PFOS. Nevertheless, the
+current data are consistent with those of Olsen et al., who
+reported a longer serum elimination half-life for PFHxS (8.5
+years) than PFOS (5.4 years) in retired occupational workers.9
+The menstrual serum clearance rate (0.029 mL/day/kg) was
+lower than the renal clearance rate of most PFAAs but was
+comparable to the renal clearance estimated for PFHxS (0.033
+mg/day/kg) and PFOS (0.044 mL/day/kg) and longer carbon
+chain PFCAs, such as PFDA (0.047 mL/day/kg) and PFUnA
+(0.045 mL/day/kg) (Table 2). Menstruation may therefore be
+an important excretion route of PFAAs in young females, but
+only for those substances that are most diﬃcult to eliminate
+through urine.
+
+The estimated geometric mean elimination half-lives of
+PFHxS and PFOS for the young female group were 7.1 and 5.8
+years,
+respectively, while they were 25 and 18 years,
+respectively, for males and older females (Table 3). It has
+been reported that the geometric mean elimination half-lives of
+PFHxS and PFOS were 7.3 and 4.8 years, respectively, for older
+(age ≥55 years) occupational workers, including 24 males and
+2 females.9 As discussed, owing to the possibility that excretion
+pathways other than urine may be signiﬁcant, the estimated
+elimination half-lives reported in the current study can be
+viewed as upper limits. The relatively lower blood concen-
+trations of PFHxS, PFOS, and PFNA in the young female
+group can be partly explained by their relatively shorter half-
+lives in this group.
+
+For PFOA the estimated arithmetic mean half-lives were 2.1
+and 2.6 years in the young female, and male and older female
+groups, respectively (Table 3). These data are comparable with
+previously reported results of 3.8 years,9 and 2.3 or 2.9 years for
+people with high exposure.10,11 Thus, for PFOA it is likely that
+
+renal excretion is the dominant elimination mechanism, but for
+PFHxS and PFOS, and longer chain PFCAs (i.e., PFDA and
+PFUnA), other routes of elimination play a role and need to be
+examined quantitatively in future studies. More data on the
+volume of distribution for all analytes examined would also
+improve the current estimates of biological half-life.
+
+In general, the branched isomers of PFOS and PFOA were
+preferentially excreted in urine compared with n-PFOS and n-
+PFOA (Figure 2A and B). The remarkable exception was that
+the renal clearance eﬃciency of 1m-PFOS was lower than n-
+PFOS, and was the lowest among all PFOS isomers. In fact, its
+urinary elimination was even lower (p < 0.001) than PFHxS
+and was the most persistent of all PFAA compounds examined
+(Figure 2). These data are consistent with rodent data,16
+whereby branched PFOS and PFOA were also preferentially
+excreted, with the exception of 1m-PFOS which was also the
+most persistent PFOS isomer.
+
+Assuming that renal elimination is the primary pathway of
+PFOA and PFOS excretion, and that ECF PFOA (∼80%
+linear) and PFOS (∼70% linear) are important sources of
+human exposure, then the faster renal excretion of the major
+branched isomers should lead to enriched proportions of linear
+PFOA (i.e., >80%) and PFOS (i.e., >70%) in human blood.
+This was true for PFOA in the current study, and is consistent
+with other studies.12,15,32 However, the proportion of n-PFOS
+in Chinese human blood was signiﬁcantly lower (i.e., mean =
+53% linear) than historical ECF standards, similar to previous
+monitoring eﬀorts in other countries.13 This consistent ﬁnding
+cannot be explained by the PFOS isomer pharmacokinetic
+parameters reported in the current work. As previously
+discussed and proven in vitro,45 one plausible alternative
+explanation for the enriched branched PFOS content is that the
+metabolism of branched PFOS precursors to branched PFOS is
+more rapid and eﬃcient than the metabolism of linear PFOS
+precursors to linear PFOS. Data from the current work raises
+an additional mechanism whereby n-PFOSA was excreted in
+urine more rapidly than branched PFOSA. Thus, more
+branched PFOSA are bioavailable to be metabolized to
+branched PFOS. This is an important observation because a
+wide variety of PFOS precursors are metabolized to PFOS via
+PFOSA as the common intermediate metabolite.46 It is likely
+that the combination of preferential excretion of linear PFOS
+precursors, and the faster metabolism of branched PFOS
+precursors to PFOS, act cumulatively to produce an enriched
+branched PFOS proﬁle in human serum. Thus, enriched
+branched PFOS proﬁles in humans may indeed be a good
+biomarker of human exposure to PFOS precursors.
+
+■ ASSOCIATED CONTENT
+
+*S Supporting Information
+Detailed information on the urinary creatinine analysis method,
+isomers,
+HPLC-MS/MS analysis method, chromatogram of
+acronyms, summed demographic information about the 86
+participants, LOD and recoveries for PFAAs and PFOSA,
+relationship between the concentrations of each PFAA
+expressed with either units in urine, between the blood and
+paired urine concentrations, ﬁgures describing the levels of
+PFAAs in the four categories and n-PFOSA proportion with
+peak area in the 30 paired whole blood−urine samples. This
+material is available free of charge via the Internet at http://
+pubs.acs.org.
+
+10625
+
+dx.doi.org/10.1021/es401905e | Environ. Sci. Technol. 2013, 47, 10619−10627
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+p
+u
+b
+s
+.
+a
+c
+s
+.​
+o
+r
+g
+e
+s
+t
+h
+a
+g
+a
+r
+t
+i
+c
+e
+-
+p
+d
+
+/​
+
+/
+
+l
+
+f
+/
+
+/
+
+/
+
+/
+
+4
+7
+1
+8
+1
+0
+6
+1
+9
+1
+5
+7
+8
+7
+7
+0
+2
+e
+s
+4
+0
+1
+9
+0
+5
+e
+p
+d
+
+/
+
+.
+
+f
+
+I
+
+b
+y
+C
+A
+L
+E
+P
+A
+A
+R
+R
+E
+S
+O
+U
+R
+C
+E
+S
+B
+O
+A
+R
+D
+u
+s
+e
+r
+o
+n
+2
+9
+S
+e
+p
+e
+m
+b
+e
+r
+2
+0
+2
+6
+
+t
+
+ 
+ 
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Environmental Science & Technology
+
+■ AUTHOR INFORMATION
+
+Corresponding Author
+*E-mail: zhuly@nankai.edu.cn; phone: +86-22-23500791; fax:
+jon.martin@ualberta.ca;
++86-22-23503722 (L.Z.). E-mail:
+phone: (780) 492-1190; fax: (780) 492-7800 (J.W.M.).
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+We thank the participants for their contributions to the study.
+L.Z. acknowledges ﬁnancial support from the Natural Science
+Foundation of China (NSFC 21077060, 21050110427),
+Ministry of Environmental Protection (201009026), and the
+Fundamental Research Funds for the Central Universities. J.M.
+acknowledges ﬁnancial support for the research through the
+Natural Sciences and Engineering Research Council of Canada
+(NSERC Discovery Grant) and Alberta Health and Wellness
+for daily operations. Y.Z. acknowledges studentship support
+from China Scholarship Council, and S.B. acknowledges
+studentship support from Alberta Innovates Health Solutions.
+Dr. Jonathan P. Benskin and Dr. Matthew S. Ross (University
+of Alberta) are thanked for their signiﬁcant technical assistance.
+
+■ REFERENCES
+
+(1) Kannan, K.; Corsolini, S.; Falandysz, J.; Fillmann, G.; Kumar, K.
+S.; Loganathan, B. G.; Mohd, M. A.; Olivero, J.; Van Wouwe, N.; Yang,
+J. H.; Aldous, K. M. Perfluorooctanesulfonate and related
+fluorochemicals in human blood from several countries. Environ. Sci.
+Technol. 2004, 38, 4489−4495.
+(2) Liu, J.; Li, J.; Zhao, Y.; Wang, Y.; Zhang, L.; Wu, Y. The
+occurrence of perfluorinated alkyl compounds in human milk from
+different regions of China. Environ. Int. 2010, 36, 433−438.
+(3) Fei, C.; McLaughlin, J. K.; Tarone, R. E.; Olsen, J. Perfluorinated
+chemicals and fetal growth: A study within the Danish National Birth
+Cohort. Environ. Health Perspect. 2007, 115, 1677−1682.
+(4) Steenland, K.; Tinker, S.; Shankar, A.; Ducatman, A. Association
+of perfluorooctanoic acid (PFOA) and perfluorooctane sulfonate
+(PFOS) with uric acid among adults with elevated community
+exposure to PFOA. Environ. Health Perspect. 2010, 118, 229−233.
+(5) Shankar, A.; Xiao, J.; Ducatman, A. Perfluoroalkyl chemicals and
+chronic kidney disease in US adults. Am. J. Epidemiol. 2011, 174, 893−
+900.
+(6) Grandjean, P.; Andersen, E. W.; Budtz-Jorgensen, E.; Nielsen, F.;
+Molbak, K.; Weihe, P.; Heilmann, C. Serum vaccine antibody
+concentrations in children exposed to perfluorinated compounds. J.
+Am. Med. Assoc. 2012, 307, 391−397.
+(7) Hoffman, K.; Webster, T. F.; Weisskopf, M. G.; Weinberg, J.;
+Vieira, V. M. Exposure to polyfluoroalkyl chemicals and attention
+deficit/hyperactivity disorder in US children 12−15 years of age.
+Environ. Health Perspect. 2010, 118, 1762−1767.
+(8) Stein, C. R.; Savitz, D. A. Serum perfluorinated compound
+concentration and attention deficit/hyperactivity disorder in children
+5−18 years of age. Environ. Health Perspect. 2011, 119, 1466−1471.
+(9) Olsen, G. W.; Burris, J. M.; Ehresman, D. J.; Froehlich, J. W.;
+Seacat, A. M.; Butenhoff, J. L.; Zobel, L. R. Half-life of serum
+elimination of perfluorooctanesulfonate, perfluorohexanesulfonate, and
+perfluorooctanoate in retired fluorochemical production workers.
+Environ. Health Perspect. 2007, 115, 1298−1305.
+(10) Bartell, S. M.; Calafat, A. M.; Lyu, C.; Kato, K.; Ryan, P. B.;
+Steenland, K. Rate of decline in serum PFOA concentrations after
+granular activated carbon filtration at two public water systems in Ohio
+and West Virginia. Environ. Health Perspect. 2010, 118, 222−228.
+(11) Seals, R.; Bartell, S. M.; Steenland, K. Accumulation and
+clearance of perfluorooctanoic acid (PFOA) in current and former
+residents of an exposed community. Environ. Health Perspect. 2011,
+119, 119−124.
+
+Article
+
+transfer
+
+isomer-specific accumulation, and maternal
+
+(12) Beesoon, S.; Webster, G. M.; Shoeib, M.; Harner, T.; Benskin, J.
+P.; Martin, J. W. Isomer profiles of perfluorochemicals in matched
+maternal, cord, and house dust samples: Manufacturing sources and
+transplacental transfer. Environ. Health Perspect. 2011, 119, 1659−
+1664.
+(13) Kärrman, A.; Langlois, I.; van Bavel, B.; Lindstrom, G.; Oehme,
+M. Identification and pattern of perfluorooctane sulfonate (PFOS)
+isomers in human serum and plasma. Environ. Int. 2007, 33, 782−788.
+(14) Riddell, N.; Arsenault, G.; Benskin, J. P.; Chittim, B.; Martin, J.
+W.; McAlees, A.; McCrindle, R. Branched perfluorooctane sulfonate
+isomer qantification and characterization in blood serum samples by
+HPLC/ESI-MS(/MS). Environ. Sci. Technol. 2009, 43, 7902−7908.
+(15) De Silva, A. O.; Mabury, S. A.
+Isomer distribution of
+perfluorocarboxylates in human blood: Potential correlation to source.
+Environ. Sci. Technol. 2006, 40, 2903−2909.
+(16) Benskin, J. P.; De Silva, A. O.; Martin, L. J.; Arsenault, G.;
+McCrindle, R.; Riddell, N.; Mabury, S. A.; Martin, J. W. Disposition of
+perfluorinated acid isomers in Sprague-Dawley rats; Part 1: Single
+dose. Environ. Toxicol. Chem. 2009, 28, 542−554.
+(17) De Silva, A. O.; Benskin, J. P.; Martin, L. J.; Arsenault, G.;
+McCrindle, R.; Riddell, N.; Martin, J. W.; Mabury, S. A. Disposition of
+perfluorinated acid isomers in Sprague-Dawley rats; Part 2: Subchronic
+dose. Environ. Toxicol. Chem. 2009, 28, 555−567.
+(18) De Silva, A. O.; Tseng, P. J.; Mabury, S. A. Toxicokinetics of
+perfluorocarboxylate isomers in rainbow trout. Environ. Toxicol. Chem.
+2009, 28, 330−337.
+(19) Sharpe, R. L.; Benskin, J. P.; Laarman, A. H.; MacLeod, S. L.;
+Martin, J. W.; Wong, C. S.; Goss, G. G. Perfluorooctane sulfonate
+in
+toxicity,
+zebrafish (Danio rerio) and rainbow trout (Oncorhynchus mykiss).
+Environ. Toxicol. Chem. 2010, 29, 1957−1966.
+(20) Prevedouros, K.; Cousins, I. T.; Buck, R. C.; Korzeniowski, S. H.
+Sources,
+fate and transport of perfluorocarboxylates. Environ. Sci.
+Technol. 2006, 40, 32−44.
+(21) Paul, A. G.; Jones, K. C.; Sweetman, A. J. A first global
+production, emission, and environmental inventory for perfluorooc-
+tane sulfonate. Environ. Sci. Technol. 2009, 43, 386−392.
+(22) Benskin, J. P.; De Silva, A. O.; Martin, J. W. Isomer profiling of
+perfluorinated substances as a tool for source tracking: A review of
+early findings and future applications. Rev. Environ. Contam. Toxicol.
+2010, 208, 111−160.
+(23) Cui, L.; Liao, C.; Zhou, Q.; Xia, T.; Yun, Z.; Jiang, G. Excretion
+of PFOA and PFOS in male rats during a subchronic exposure. Arch.
+Environ. Contam. Toxicol. 2010, 58, 205−213.
+(24) Butenhoff, J. L.; Kennedy, G. L.; Hinderliter, P. M.; Lieder, P.
+H.; Jung, R.; Hansen, K. J.; Gorman, G. S.; Noker, P. E.; Thomford, P.
+J. Pharmacokinetics of perfluorooctanoate in cynomolgus monkeys.
+Toxicol. Sci. 2004, 82, 394−406.
+(25) Kudo, N.; Suzuki, E.; Katakura, M.; Ohmori, K.; Noshiro, R.;
+Kawashima, Y. Comparison of the elimination between perfluorinated
+fatty acids with different carbon chain length in rats. Chem. Biol.
+Interact. 2001, 134, 203−216.
+(26) Beesoon, S.; Genuis, S. J.; Benskin, J. P.; Martin, J. W.
+Exceptionally high serum concentrations of perfluorohexanesulfonate
+in a Canadian family are linked to home carpet treatment applications.
+Environ. Sci. Technol. 2012, 46, 12960−12967.
+(27) Ubel, F. A.; Sorenson, S. D.; Roach, D. E. Health status of plant
+workers exposed to fluorochemicals-A preliminary report. Am. Ind.
+Hyg. Assoc. J. 1980, 41, 584−9.
+(28) Harada, K.; Inoue, K.; Morikawa, A.; Yoshinaga, T.; Saito, N.;
+Koizumi, A. Renal clearance of perfluorooctane sulfonate and
+perfluorooctanoate in humans and their species-specific excretion.
+Environ. Res. 2005, 99, 253−261.
+(29) Li, J.; Guo, F.; Wang, Y.; Liu, J.; Cai, Z.; Zhang, J.; Zhao, Y.; Wu,
+Y. Development of extraction methods
+the analysis of
+perfluorinated compounds in human hair and nail by high perform-
+ance liquid chromatography tandem mass spectrometry. J. Chroma-
+togr., A 2012, 1219, 54−60.
+
+for
+
+10626
+
+dx.doi.org/10.1021/es401905e | Environ. Sci. Technol. 2013, 47, 10619−10627
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+p
+u
+b
+s
+.
+a
+c
+s
+.​
+o
+r
+g
+e
+s
+t
+h
+a
+g
+a
+r
+t
+i
+c
+e
+-
+p
+d
+
+/​
+
+/
+
+l
+
+f
+/
+
+/
+
+/
+
+/
+
+4
+7
+1
+8
+1
+0
+6
+1
+9
+1
+5
+7
+8
+7
+7
+0
+2
+e
+s
+4
+0
+1
+9
+0
+5
+e
+p
+d
+
+/
+
+.
+
+f
+
+I
+
+b
+y
+C
+A
+L
+E
+P
+A
+A
+R
+R
+E
+S
+O
+U
+R
+C
+E
+S
+B
+O
+A
+R
+D
+u
+s
+e
+r
+o
+n
+2
+9
+S
+e
+p
+e
+m
+b
+e
+r
+2
+0
+2
+6
+
+t
+
+ 
+ 
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Environmental Science & Technology
+
+Article
+
+(30) Liu, W.; Xu, L.; Li, X.; Jin, Y.; Sasaki, K.; Saito, N.; Sato, I.;
+Tsuda, S. Human nails analysis as biomarker of exposure to
+perfluoroalkyl compounds. Environ. Sci. Technol. 2011, 45, 8144−8150.
+(31) Fromme, H.; Mosch, C.; Morovitz, M.; Alba-Alejandre, I.;
+Boehmer, S.; Kiranoglu, M.; Faber, F.; Hannibal, I.; Genzel-Borovicze
+ny, O.; Koletzko, B. Pre-and postnatal exposure to perfluorinated
+compounds (PFCs). Environ. Sci. Technol. 2010, 44, 7123−7129.
+(32) Benskin, J. P.; Bataineh, M.; Martin, J. W. Simultaneous
+characterization of perfluoroalkyl carboxylate, sulfonate, and sulfona-
+mide isomers by liquid chromatography-tandem mass spectrometry.
+Anal. Chem. 2007, 79, 6455−6464.
+(33) Hansen, K. J.; Clemen, L. A.; Ellefson, M. E.; Johnson, H. O.
+Compound-specific, quantitative characterization of organic fluoro-
+chemicals in biological matrices. Environ. Sci. Technol. 2001, 35, 766−
+770.
+(34) Kestner, T. U.S. EPA Public Docket AR226-0564: Fluorochemical
+isomer distribution by 19F-NMR spectroscopy; U.S. Environmental
+Protection Agency, Oﬃce of Pollution Prevention and Toxic
+Substances: Washington, DC, 1997.
+(35) Stevenson, L.A. U.S. Environmental Protection Agency Public
+Docket AR-2261150: Comparative analysis of ﬂuorochemicals in human
+serum samples obtained commercially; U.S. Environmental Protection
+Agency, Oﬃce of Pollution Prevention and Toxic Substances:
+Washington, DC, 2002.
+(36) Borghi, L.; Meschi, T.; Amato, F.; Briganti, A.; Novarini, A.;
+Giannini, A. Urinary volume, water and recurrences in idiopathic
+calcium nephrolithiasis: A 5-year randomized prospective study. J.
+Urol. 1996, 155, 839−843.
+(37) Walser, M. Creatinine excretion as a measure of protein
+nutrition in adults of varying age. JPEN, J. Parenter. Enteral Nutr. 1987,
+11, 73S−78S.
+(38) Thompson, J.; Lorber, M.; Toms, L.-M. L.; Kato, K.; Calafat, A.
+M.; Mueller,
+J. F. Use of simple pharmacokinetic modeling to
+characterize exposure of Australians to perfluorooctanoic acid and
+perfluorooctane sulfonic acid. Environ. Int. 2010, 36, 390−397.
+(39) Ohmori, K.; Kudo, N.; Katayama, K.; Kawashima, Y.
+Comparison of the toxicokinetics between perfluorocarboxylic acids
+with different carbon chain length. Toxicology 2003, 184, 135−140.
+(40) Han, X.; Nabb, D. L.; Russell, M. H.; Kennedy, G. L.; Rickard,
+R. W. Renal elimination of perfluorocarboxylates (PFCAs). Chem. Res.
+Toxicol. 2012, 25, 35−46.
+(41) Calafat, A. M.; Wong, L.-Y.; Kuklenyik, Z.; Reidy, J. A.;
+Needham, L. L. Polyfluoroalkyl chemicals in the US population: Data
+from the National Health and Nutrition Examination Survey
+(NHANES) 2003−2004 and comparisons with NHANES 1999−
+2000. Environ. Health Perspect. 2007, 115, 1596−1602.
+(42) Ge, M.; Yan, Y.; Zhang, C.; Li, N. Discussion on the relationship
+between normal hematocrit and geographical factors in China. Clin.
+Hemorheol. Microcirc. 1997, 17, 459−465.
+(43) Bhhatarai, B.; Gramatica, P. Prediction of aqueous solubility,
+vapor pressure and critical micelle concentration for aquatic
+partitioning of perfluorinated chemicals. Environ. Sci. Technol. 2011,
+45, 8120−8128.
+(44) Yang, C.-H.; Glover, K. P.; Han, X. Organic anion transporting
+polypeptide (Oatp) 1a1-mediated perfluorooctanoate transport and
+evidence for a renal reabsorption mechanism of Oatp1a1 in renal
+elimination of perfluorocarboxylates in rats. Toxicol. Lett. 2009, 190,
+163−171.
+(45) Benskin,
+Isomer-specific
+biotransformation rates of a perfluorooctane sulfonate (PFOS)-
+precursor by cytochrome P450 isozymes and human liver microsomes.
+Environ. Sci. Technol. 2009, 43, 8566−8572.
+(46) Martin, J. W.; Asher, B. J.; Beesoon, S.; Benskin, J. P.; Ross, M.
+S. PFOS or PreFOS? Are perfluorooctane sulfonate precursors
+(PreFOS) important determinants of human and environmental
+perfluorooctane sulfonate (PFOS) exposure? J. Environ. Monit. 2010,
+12, 1979−2004.
+
+J. P.; Holt, A.; Martin,
+
+J. W.
+
+10627
+
+dx.doi.org/10.1021/es401905e | Environ. Sci. Technol. 2013, 47, 10619−10627
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+p
+u
+b
+s
+.
+a
+c
+s
+.​
+o
+r
+g
+e
+s
+t
+h
+a
+g
+a
+r
+t
+i
+c
+e
+-
+p
+d
+
+/​
+
+/
+
+l
+
+f
+/
+
+/
+
+/
+
+/
+
+4
+7
+1
+8
+1
+0
+6
+1
+9
+1
+5
+7
+8
+7
+7
+0
+2
+e
+s
+4
+0
+1
+9
+0
+5
+e
+p
+d
+
+.
+
+/
+
+f
+
+I
+
+b
+y
+C
+A
+L
+E
+P
+A
+A
+R
+R
+E
+S
+O
+U
+R
+C
+E
+S
+B
+O
+A
+R
+D
+u
+s
+e
+r
+o
+n
+2
+9
+S
+e
+p
+e
+m
+b
+e
+r
+2
+0
+2
+6
+
+t
+
+ 
+ 
+​
+​
+​
+​
+​
+​
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

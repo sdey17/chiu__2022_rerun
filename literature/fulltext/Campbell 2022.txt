@@ -1,0 +1,1329 @@
+Contents lists available at ScienceDirect 
+
+Regulatory Toxicology and Pharmacology 
+
+journal homepage: www.elsevier.com/locate/yrtph 
+
+The Conundrum of the PFOA human half-life, an 
+international collaboration 
+
+Jerry Campbell a, Harvey Clewell a, Tony Cox b, Michael Dourson c, *, Shannon Ethridge d, 
+Norman Forsberg e, Bernard Gadagbui c, Ali Hamade f, Ravi Naidu g, Nathan Pechacek h, Tiago 
+Severo Peixe i, Robyn Prueitt j, Mahesh Rachamalla k, Lorenz Rhomberg j, James Smith l, 
+Nitin Verma m 
+a Ramboll, US Corporation, USA 
+b Cox Associates, Colorado, USA 
+c Toxicology Excellence for Risk Assessment, Ohio, USA 
+d International Association of Plumbing and Mechanical Officials, California, USA 
+e Arcadis U.S. Inc, USA 
+f Oregon Health Authority, Oregon, USA 
+g CRC CARE, Callaghan, Australia 
+h Ecolab, Minnesota, USA 
+i State University of Londrina, Parana, Brazil 
+j Gradient, Massachusetts, USA 
+k Department of Biology, University of Saskatchewan, Saskatoon, Canada 
+l Navy and Marine Corps Public Health Center, Virginia, USA 
+m Chitkara University, School of Pharmacy, Himachal Pradesh, India   
+
+A R T I C L E  I N F O    
+
+A B S T R A C T    
+
+Handling Editor: Dr. Lesa Aylward  
+
+The  Steering  Committee  of  the  Alliance  for  Risk  Assessment  (ARA)  opened  a  call  for  scientists  interested  in 
+resolving  what  appeared  to  be  a  conundrum  in  estimating  of  the  half-life  of  perfluorooctanoate  (PFOA)  in 
+humans. An Advisory Committee was formed from nominations received and a subsequent invitation led to the 
+development of three small independent working groups to review appropriate information and attempt a res-
+olution.  Initial  findings  were  shared  among  these  groups  and  a  conclusion  developed  from  the  ensuing 
+discussions. 
+
+Many human observational studies have estimated the PFOA half-life. Most of these studies note the likely 
+occurrence of unmonitored PFOA exposures, which could inflate values of the estimated PFOA half-life. Also, few 
+of these studies estimated the half-life of PFOA isomers, the branched chains of which likely have shorter half- 
+lives. This could deflate values of the estimated linear PFOA half-life. Fortunately, several studies informed both 
+of these potential problems. The majority opinion of this international collaboration is that the studies striking 
+the  best  balance  in  addressing  some  of  these  uncertainties  indicate  the  likely  central  tendency  of  the  human 
+PFOA half-life is less than 2 years. The single best value appears to be the geometric mean (GM) of 1.3 years 
+(Zhang et al., 2013, Table 3), based on a GM = 1.7 years in young females (n = 20) and GM = 1.2 years in males 
+of all ages and older females (n = 66). However, a combined median value from Zhang et al. (2013) of 1.8 years 
+also  adds  value  to  this  range  of  central  tendency.  While  the  Collaboration  found  this  study  to  be  the  least 
+encumbered with unmonitored PFOA exposures and branched isomers, more studies of similar design would be 
+valuable.  Also  valuable  would  be  clarification  around  background  exposures  in  other  existing  studies  in  case 
+adjustments to half-life estimates are attempted.   
+
+* Corresponding author. 
+
+E-mail address: dourson@tera.org (M. Dourson).  
+
+https://doi.org/10.1016/j.yrtph.2022.105185 
+Received 2 February 2022; Received in revised form 26 April 2022; Accepted 1 May 2022   
+
+RegulatoryToxicologyandPharmacology132(2022)105185Availableonline7May20220273-2300/©2022ElsevierInc.Allrightsreserved.J. Campbell et al.                                                                                                                                                                                                                               
+
+1. Introduction 
+
+Estimated safe doses for PFOA vary by several hundred-fold among 
+government organizations (Dourson et al., 2019; Mikkonen et al., 2021; 
+Drinking  Water Inspectorate, 2021). This wide range is  due to differ-
+ences in both the judgment of PFOA’s critical effect and its elimination 
+in experimental animal versus humans or among humans. In particular, 
+elimination half-life estimates of PFOA in humans have been made in 
+numerous observational studies and are found to vary from a low of 1.2 
+years  to  a  high  of  14.9  years  (Dourson  and  Gadagbui,  2021).  This 
+elimination, when compared with daily excretion in experimental ani-
+mals or the amount of PFOA in the animal’s body over time [measured 
+as  the  Area-Under-the-Curve  (AUC)],  leads  to  adjustments  to  the 
+experimental  animal  No  Observed  Adverse  Effect  Level  (NOAEL)  or 
+Benchmark Dose (BMD) point of departure to determine difference safe 
+doses. 
+
+Most authors of human observational studies in which half-life es-
+timates  are  rendered  have  stated  that  unmonitored  PFOA  exposures 
+might exist in their studies, and that the corresponding estimates of half- 
+life may therefore be inflated. Russell et al. (2015) and Bartell (2012) 
+give  theoretical  underpinnings  for  this  inflation  and  show  how  ac-
+counting properly for unmonitored exposures results in smaller half-life 
+estimates.  For  example,  Bartell  (2012)  estimated  that  unmonitored 
+background  exposures  that  contribute  20%  of  the  total  exposure  will 
+greatly reduce  estimated half-life if more than two half-lives pass be-
+tween the sampling time points. Bartell (2012) provided a figure that 
+can  be  used  to  adjust  half-life  estimates  based  on  other  estimated 
+background  exposures  and  time  between  sampling  points.  A  clinical 
+study by Elcombe et al. (2013).1 that tested PFOA as a chemotherapeutic 
+agent has also been used to determine a PFOA half-life of 0.5 year in a 
+small  subset  (n  = 3)  of  the  whole  exposed  patient  cohort  (n  = 42) 
+(Dourson  and  Gadagbui,  2021).  While  helpful  because  of  the  clinical 
+nature of this study, this range adds to the disparity in estimated half-life 
+values. 
+
+This  disparity  was  recognized  by  the  Steering  Committee  of  the 
+Alliance  for  Risk  Assessment  (ARA)2  as  a  problem  that  might  be 
+resolvable  via  collaboration  of  interested  scientists,  similar  to  other, 
+seemingly  intractable,  problems  that  cross  multiple  jurisdictions.  An 
+example of the latter includes the development of a workshop series to 
+showcase research case studies in response to the 2009 National Acad-
+emy of Sciences publication entitled Science and Decisions (see: https 
+://tera.org/Alliance%20for%20Risk/ARA_Dose-Response.htm).  ARA 
+endorsed an international collaboration to meet and develop this brief 
+communication which explores reasons for the large range in values of 
+the  human  PFOA  half-life,  and  ways  to  reconcile  these  differences,  if 
+possible. 
+
+2. Methods 
+
+The Steering Committee of the Alliance for Risk Assessment (ARA) 
+solicited  nominations  from  interested  scientists  and  managers  in  the 
+early spring of 2021 to form an advisory committee that would shepherd 
+
+1  Elcombe et al. (2013) administered PFOA to 42 adult humans, both male 
+and female, in a phase 1, range-finding, clinical trial for cancer chemotherapy. 
+Doses were given once weekly as an oral tablet from 50 to 1200 mg for up to 6 
+weeks.  Blood  concentrations  of  PFOA  over  6  weeks  were  closely  monitored. 
+After the 6-week period, nine patients continued the therapy. Adequate kidney 
+and  liver  function  and  physical  integrity  of  the  gastrointestinal  tract  were 
+important criteria for acceptance of patients into the trial. No overt toxicity was 
+observed. The daily mg/kg-day doses were estimated by Dourson et al. (2019) 
+as 0.1–2.3 mg/kg-day and approximated exposures in the experimental animal 
+studies that caused toxicity.  
+
+the project entitled “The Conundrum of the PFOA Half-life” through to a 
+potential  resolution.3  After  reviewing  nominations,  the  following  sci-
+entists  were  selected  by  the  Steering  Committee  as  members  of  the 
+Advisory Committee:  
+
+⁃  Harvey Clewell, Ramboll  
+⁃  Tony Cox, Cox Associates  
+⁃  Michael Dourson, Toxicology Excellence for Risk Assessment 
+⁃ Shannon  Ethridge,  International  Association  of  Plumbing  and  Me-
+
+chanical Officials  
+
+⁃  Ali Hamade, Oregon Health Authority  
+⁃  Ravi Naidu, CRC CARE  
+⁃  Nitin Verma, Chitkara University 
+
+The Advisory Committee next assembled a list of relevant publica-
+tions on PFOA human half-life and opened a call for interested scientists 
+in the late spring of 2021 to participate in an international collaboration 
+to investigate this issue. After nominations from scientists interested in 
+this collaboration were reviewed, the following scientists were selected 
+and arranged into three independent groups, assuring that various sec-
+tors were represented in each group:  
+
+⁃  Jerry Campbell, Ramboll  
+⁃  Harvey Clewell, Ramboll  
+⁃  Norman Forsberg, Arcadis U.S., Inc.  
+⁃  Bernard Gadagbui, Toxicology Excellence for Risk Assessment  
+⁃  Ali Hamade, Oregon Health Authority  
+⁃  Ravi Naidu, CRC CARE  
+⁃  Nathan Pechacek, Ecolab  
+⁃  Tiago Severo Peixe, State University of Londrina, Parana, Brazil  
+⁃  Robyn Prueitt, Gradient  
+⁃  Andrew Prussia, Agency for Toxic Substances and Disease Registry  
+⁃  Mahesh Rachamalla, University of Saskatchewan  
+⁃  Lorenz Rhomberg, Gradient  
+⁃  James Smith, Navy and Marine Corps Public Health Center  
+⁃  Nitin Verma, Chitkara University 
+
+The  charge  to  the  Small  Groups  was  determined  by  the  Advisory 
+
+Committee to be as follows:  
+
+• Select  studies  from  the  list  of  studies  found  at  https://tera.or 
+for 
+g/Alliance%20for%20Risk/Projects/pfoahumanhalflife.html 
+further review and explain why certain studies were excluded. The 
+small groups were free to add studies as appropriate and explain why 
+they were added.  
+
+• Develop  a  Small  Group  consensus  on  PFOA  half-life,  discussing 
+critical issues, such as, volume of distribution, half-lives in different 
+populations, and how uncertainty factors for experimental animal to 
+human  extrapolation  and  within  human  variability  are  affected. 
+Small Groups were free to add critical issues as appropriate.  
+
+• No  inter-group  discussions  are  allowed  as  to  avoid  premature 
+
+closure.  
+
+• The deadline was August 31st, 2021 for this first round of review.  
+• First intergroup international discussion was held on September 7/8, 
+
+2021.  
+
+• A  second  round  of  reviews  occurred  through  an  interactive  web- 
+
+based discussion during October and early November of 2021. 
+• A  position  was  developed  and  shared  with  the  international  com-
+munity in December 2021 and is shown in the following results. 
+
+2  See: 
+
+html. 
+
+https://tera.org/Alliance%20for%20Risk/ARA_Steering_Committee. 
+
+3  See:  https://tera.org/Alliance%20for%20Risk/Projects/pfoahumanhalflife. 
+
+html. 
+
+RegulatoryToxicologyandPharmacology132(2022)1051852J. Campbell et al.                                                                                                                                                                                                                               
+
+3. Results 
+
+Table  1  summarizes  studies  and  or  analyses  of  studies  that  were 
+considered by the Small Groups to be of some use. Initial findings for two 
+of three Small Groups did not consider any one study as sufficient for 
+determining the PFOA half-life but selected a subset of better studies. 
+The third Small Group considered Xu et al. (2020) to be more credible 
+due to the reduced likelihood of unmonitored PFOA exposures. Initial 
+findings  were  summarized  in  brief  reports  that  are  available  at  https 
+://tera.org/Alliance%20for%20Risk/Projects/pfoahumanhalflife.html. 
+During the course of the Collaboration most studies were judged to 
+include unmonitored PFOA exposures, with the exception perhaps of the 
+clinical study by Elcombe et al. (2013), where doses were sufficiently 
+high  so  as  to  preclude  conflation  with  unmonitored  exposures.  For 
+studies with lower serum PFOA levels, up to ~25% bias in the half-life 
+was  considered  possible  due  to  these  unmonitored  PFOA  exposures 
+based on the work of De Silva et al. (2020) who stated that drinking 
+water “has been estimated to contribute up to 75% of exposures near 
+contaminated sites.”  The Collaboration thought an argument could be 
+made  for  a  20%  reduction  in  the  average  half-life  in  studies  that 
+otherwise mentioned or alluded to unmonitored PFOA exposures, but 
+also recognized that this adjustment would be study-dependent. Further 
+to this point, Russell et al. (2015) and Bartell (2012) found that esti-
+mates of PFOA half-lives that include unmonitored PFOA exposures are 
+inflated,  although  the  magnitude  is  difficult  to  determine  without 
+additional evaluation of individual studies. For example, Bartell (2012) 
+found the three studies they evaluated to include a bias ranging from 
+2.7% to 26% when compared with background exposures, although not 
+all exposures may have been monitored. However, the study by Zhang 
+et  al.  (2013)  was  found  by  the  Collaboration  to  be  insignificantly 
+encumbered  by  unmonitored  PFOA  exposures,  since  its  estimated 
+half-lives  were  based  on  estimates  of  renal  clearance  from  men  and 
+women of the general Chinese population (aged 20 years–88 years) with 
+no known point source of exposure to PFOA. 
+
+An issue also arose on whether reported PFOA half-lives were spe-
+cific to the straight chain isomer of PFOA, represented measurement and 
+summation  of  mixtures  of  several  PFOA  isomers,  or  accounted  for 
+exposure to PFOA precursors. Benskin et al. (2009) and De Silva et al. 
+(2009)  reported  faster  elimination  rates  and  shorter  half-lives  for 
+branched  isomers  of  PFOA  compared  to  linear  PFOA  in  rats  gavaged 
+with  an  electrochemically  fluorinated  PFOA  standard.  Beesoon  and 
+Martin (2015) provided a mechanistic explanation for the faster elimi-
+nation rate of branched isomers of PFOA that was related to dissociation 
+constants (Kd) of linear and branched PFOA isomers with human serum 
+albumin.  Beesoon  and  Martin  (2015)  showed  that  Kds  were  three  to 
+four-fold  higher  for  individual  branched  isomers  compared  to  linear 
+PFOA and that branched isomers were less protein bound than linear 
+PFOA  in  experiments  that  evaluated  a  technical  mixture  of  PFOA. 
+However, the analytical methods employed to analyze PFOA in blood 
+have  not  used  consistent  quantification  procedures  and  few  studies 
+reporting  serum  elimination  rates  in  human  populations  have  distin-
+guished  between  PFOA  isomers  in  their  analytical  methods  (Bartell 
+et al., 2010; Gomis et al., 2016; Li et al., 2018). An exception to this is the 
+study by Zhang et al. (2013) that analyzed and determined elimination 
+rates for branched and linear PFOA isomers. Since branched PFOA iso-
+mers were seen to be eliminated more quickly (see Zhang et al., 2013, 
+
+Table 3), this would lower the overall PFOA half-life in situations where 
+PFOA included a substantial percentage of branched isomers.4 Exposure 
+to PFOA precursors might also artificially inflate half-life estimates for 
+PFOA. The Collaboration considered this to be a critical issue for human 
+health risk assessment, where risk-based criteria and/or standards for 
+PFOA are often calculated using a single human PFOA half-life estimate 
+(for which the profile of PFOA isomers is not commonly reported), but 
+applied to samples quantified using analytical methods that sum isomers 
+to report a single PFOA value.5 
+
+The Collaboration discovered after a more careful reading of studies 
+in  Table  1  that  this  mixture  issue  was  poorly  addressed  in  almost  all 
+studies, with the exception of Zhang et al. (2013). In particular, Zhang 
+et al. (2013) monitored branched isomers of PFOA and estimated their 
+half-lives.  This  study  showed  little  variation  between  the  estimated 
+half-life of the linear isomer and that of the sum of all PFOA isomers 
+including the linear isomer due principally to the small proportion of 
+branched isomers in the mixture. Specifically, a geometric mean PFOA 
+half-life of 1.3 years was evident for both along with a median PFOA 
+half-life of approximately 1.8 years for both. However, the geometric 
+mean and median half-lives of the 4m- and 5m-PFOA branched isomers 
+were  commonly  40–70%  lower  than  the  linear  isomer  (Zhang  et  al., 
+2013). Uncertainties due to lack of isomer characterization were present 
+in the estimated PFOA half-lives in many of the other studies. Similarly 
+designed studies as  Zhang et al. (2013) could shed more light on the 
+range of half-lives for PFOA isomers, both straight and branched. The 
+Collaboration did not uncover any additional hypotheses beyond those 
+reported  by  Beesoon  and  Martin  (2015)  that  would  account  for  the 
+quicker half-lives of branched isomers when compared with the straight 
+chain.  However,  it  was  recognized  that  this  information  would  be  of 
+great use in human health risk assessment given the reports of differ-
+ential  biological  and  environmental  transport  and  fate  properties  be-
+tween linear and branched PFOA (Benskin et al., 2009; De Silva et al., 
+2009; Schulz et al., 2020). 
+
+Studies  from  Table  1  considered  by  the  Collaboration  to  have  the 
+least  amount  of  uncertainty  with  unmonitored  PFOA  exposures  and 
+isomer accountability are shown in Table 2. The first study by Elcombe 
+et al. (2013) was used by Dourson and Gadagbui (2021) to estimate a 
+half-life  of  0.5  years  based  on  3  individuals  who  were  monitored 
+extensively  over  6  weeks  in  this  clinical  trial  of  PFOA  given  as  a 
+chemotherapeutic  drug.  This  study  had  the  advantage  of  a  dose  high 
+enough  to  avoid  problems  with  unmonitored  PFOA  exposures  and 
+avoided branched-chain PFOA isomers since the administered PFOA was 
+straight chain. The half-life in this study was also determined from PFOA 
+serum concentrations that were at or lower than the estimated human 
+
+4  From  EPA  Method  533:  “A  quantitative  standard  for  PFOA  is  currently 
+available only for the linear isomer; however, a technical grade standard (Sect. 
+3.22)  is  available  for  PFOA  that  contains  the  linear  and  branched  isomers 
+(Wellington  Labs,  Cat.  No.  T-PFOA,  or  equivalent).  This  product  or  a  similar 
+technical-grade PFOA standard must be used to identify the retention times of 
+the  branched  and  linear  PFOA  isomers. However,  the  linear-only  PFOA  stan-
+dard  must  be  used  for  quantitation  until  a  quantitative  PFOA  standard  con-
+taining the branched and linear isomers becomes commercially available.”  
+
+5  From  the  U.S.  Department  of  Defense  and  Department  of  Energy  (2019) 
+Quality  Systems  Manual  (QSM)  for  Environmental  Laboratories:  “Standards 
+containing both branched and linear isomers must be used when commercially 
+available. PFAS method analytes may consist of both branched and linear iso-
+mers, but quantitative standards that contain the linear and branched isomers 
+do not exist for all method analytes. For PFAS that do not have a quantitative 
+branched  and  linear  standard,  identify  the  branched  isomers  by  analyzing  a 
+qualitative  standard  that  includes  both  linear  and  branched  isomers  and 
+determine  retention  times,  transitions  and  transition  ion  ratios.  Quantitate 
+samples by integrating the total response (i.e., accounting for peaks that 
+are identified as linear and branched isomers) and relying on the initial 
+calibration  that  uses  the  linear  isomer  quantitative  standard  [emphasis 
+added].” 
+
+RegulatoryToxicologyandPharmacology132(2022)1051853J. Campbell et al.                                                                                                                                                                                                                               
+
+Table 1 
+Selected Studies with PFOA half-life estimates.  
+
+Study population 
+
+Reported Half-life 
+(years)a 
+
+Comments 
+
+Dourson and Gadagbui (unpublished) 
+Analysis of Nilsson et al. (2010) 
+
+Elcombe et al. (2013) 
+
+Xu et al. (2020) 
+
+Airport employees in Sweden exposed to 
+PFAS through airport’s waterworks 
+
+Li et al. (2018) 
+
+Community: 106 Swedes in Ronneby, 
+Sweden, exposed to PFAS through 
+contaminated municipal drinking water: 
+2-year follow-up time 
+
+Gomis et al. (2017) 
+
+Population-based cross- sectional 
+biomonitoring data from USA (NHANES, 
+1999–2013) and Australia (2003–2011) 
+
+Gomis et al. (2016) 
+
+Ski waxers: 4 male technicians 
+occupationally exposed to airborne particles 
+and fumes from hot ski wax; followed after 
+marked reduction of occupational exposure 
+
+Zhang et al. (2013) 
+
+General population: healthy volunteers in 
+China 
+N = 86 
+
+Bartell et al. (2010) 
+
+200 Americans (172 public water drinkers 
+and 28 bottled water drinkers) 
+
+AM = 0.9 
+(+background) 
+AM = 0.6 
+(-background) 
+
+AM 
+0.5  
+
+GM = 1.77 
+(+background) 
+GM = 1.48 
+(-background)  
+AM = 2.7  
+
+Men: 
+AM = USA 2.4; 
+Australia 2.1 
+Women: 
+AM = USA 2.1; 
+Australia 1.8  
+AM = 2.4  
+
+AM = 2.3 
+GM = 1.7 
+Median = 2.0 
+Range (0.2–5.3) 
+(young females, n =
+20) 
+AM = 2.8 
+GM = 1.2 
+Median = 1.8 
+Range (0.1–16) 
+(all males and older 
+females, n = 66)  
+Median = 2.3 (all) 
+Median = 2.1 (group 
+eating homegrown 
+vegetables)  
+
+Olsen et al. (2007) Occupational workers: 26 
+retired fluorochemical production workers 
+
+GM = 3.5  
+
+• Based on the finding from 3 ski-waxers pre-
+sumably exposed to PFOA via inhalation of 
+airborne particles and fumes  
+
+• Modestly high serum levels but below 
+presumed renal resorption limit b  
+• Too few individuals for GM estimation 
+• Based on a new analysis of data from Elcombe 
+et al. (2013) by Dourson and Gadagbui (2021) 
+for 3 cancer patients  
+
+• Patients received a single dose of PFOA with 6 
+weeks of follow up with serum levels likely to 
+be below level of saturation of renal 
+resorption b 
+
+• Alternate exposures were unlikely.  
+• Small population (n = 17) and short follow up 
+
+(5 months)  
+
+• Exposures not greatly above background. 
+• Exposures in water, food, dust, air, and 
+household products not monitored.  
+
+• Study assumed exposure levels in the general 
+population from all sources were negligible 
+but excluded outliers that suggested ongoing 
+exposure greater than the background of the 
+control population.  
+
+• Geometric mean is likely smaller. 
+• Study noted that background human 
+
+exposure was likely dominated historically by 
+consumer products.  
+
+• Geometric mean is likely smaller. 
+
+• Average reported as intrinsic (i.e., corrected 
+for the ongoing background exposure from 
+diet and drinks only.  
+
+• Dermal exposure assumed negligible.  
+• Geometric mean is likely smaller. 
+• Study assumed volume of distribution of 170 
+
+ml/kg.  
+
+• Discussion of background or ongoing 
+
+exposures or exposures were not needed since 
+half-lives were based on renal clearance. 
+• Study notes that half-lives should be consid-
+ered as upper limit estimates since not all 
+elimination routes were studied. 
+
+• Water systems remained contaminated with 
+PFOA to some extent for days to weeks after 
+filtration began.  
+
+• Study indicates their mean half-life is heavily 
+influenced by the 12- month serum PFOA 
+measurements and should be viewed as a 
+preliminary estimate.  
+
+• Geometric mean is likely smaller. 
+• Study noted that it is unlikely that the 
+
+potential for non-occupational exposures 
+substantially distorted the elimination.  
+• Study discussed other sources of exposure, 
+but none was monitored in households of 
+participants. 
+
+Unmonitored Sources of 
+PFOA Exposure 
+Addressed? 
+
+PFOA Half-life 
+Accounted for 
+Isomers? 
+
+No, during off duty 
+assumed background 
+exposures only 
+
+No, isomers were 
+combined in 
+analysis 
+
+Not needed based on high 
+dose given 
+
+Not applicable, 
+dosing was with 
+linear isomer 
+
+No, assumed only 
+background exposures 
+from the referent 
+population 
+No, assumed only 
+background exposures 
+from the referent 
+population 
+
+Not clear from 
+description 
+
+No, all isomers were 
+combined 
+
+No, modeling conducted 
+on biomonitoring data 
+
+No distinction was 
+made among 
+isomers 
+
+No, during off duty 
+assumed background 
+exposures only 
+
+No mention was 
+made of isomers 
+
+Not needed since study was 
+based on estimated renal 
+clearance 
+
+Yes, separate 
+analysis done on 
+straight and 
+branched chains 
+
+No, assumed that “ongoing 
+PFOA exposures only 
+contribute negligible 
+amounts” 
+
+Not mentioned 
+
+Mentioned as possible but 
+not monitored 
+
+Analysis done but 
+separate half-lives 
+not estimated  
+
+a) AM = arithmetic mean; GM = geometric mean. 
+b) Saturation of resorption is likely to occur at plasma concentrations above 10 μMoles/L, based on an estimated renal transporter Km of 4 μg/ml from an analysis of 
+
+this clinical study of Elcombe et al. (2013) (Campbell et al., 2016; ARA, 2021). 
+
+renal resorption limit of Km of 4 μg/ml. Saturation of resorption is only 
+likely to occur at plasma concentrations above 10 μMoles/L, based on an 
+estimated renal transporter Km of 4 μg/ml from an analysis of Elcombe 
+et al. (2013) by Campbell et al. (2016). The Elcombe et al. (2013) study 
+had the disadvantages that only a very small number of individuals (n =
+
+3)  had  a  dose  that  was  not  expected  to  saturate  renal  resorption.  An 
+estimate  of  PFOA  half-life  including  all  42  patients  might  shed  more 
+
+RegulatoryToxicologyandPharmacology132(2022)1051854J. Campbell et al.                                                                                                                                                                                                                               
+
+Table 2 
+Studies selected with fewest issues of unmonitored sources of PFOA exposure, 
+elimination, or isomer uncertainties.   
+
+Study population 
+
+Comments 
+
+Reported 
+Half-life 
+(years)a 
+
+Elcombe et al. 
+
+(2013) 
+
+AM 
+0.5  
+
+• Based on a new 
+analysis of data 
+from Elcombe 
+et al. (2013) by 
+Dourson and 
+Gadagbui (2021) 
+for 3 cancer 
+patients  
+
+• Patients received 
+a single dose of 
+PFOA with a 6 
+week follow up 
+with serum levels 
+likely to be below 
+level of 
+saturation of 
+renal resorption  
+
+Exposure, Isomer or 
+Elimination 
+Uncertainty 
+
+• High dose in 
+
+Elcombe et al. 
+(2013) obviates 
+the need for 
+monitoring of 
+other PFOA 
+exposures  
+
+• Single isomer was 
+studied in Elcombe 
+et al. (2013), so no 
+uncertainty exists 
+with this issue 
+
+Xu et al. (2020) 
+
+GM = 1.5  
+
+• Alternate 
+
+• Other 
+
+Airport 
+employees in 
+Sweden exposed 
+to PFAS through 
+airport’s 
+waterworks 
+
+Zhang et al. 
+(2013) 
+General 
+population: 
+healthy 
+volunteers in 
+China 
+N = 86 
+
+unmonitored 
+exposures are 
+possible, and if 
+available would 
+result in a lower 
+intrinsic half-life.  
+• Some uncertainty 
+
+exists since 
+branched PFOA 
+isomers were 
+studied in drinking 
+water, but not 
+reported in serum. 
+• No uncertainty in 
+unmonitored 
+exposures since 
+renal clearance 
+studied  
+
+• Unmonitored 
+elimination by 
+other routes was 
+likely which, if 
+measured would 
+result in a lower 
+half-life  
+
+• Multiple isomers 
+were individually 
+studied so no 
+uncertainty exists 
+with this issue  
+
+exposures were 
+unlikely.  
+
+• Small population 
+(n = 17) and 5- 
+month follow up  
+
+• Exposures not 
+greatly above 
+background.  
+
+• Study assumed 
+volume of 
+distribution of 
+170 ml/kg.  
+• Discussion of 
+
+background or 
+ongoing 
+exposures or 
+exposures were 
+not needed since 
+half-lives were 
+based on renal 
+clearance.  
+• Study authors 
+note that half- 
+lives should be 
+considered as 
+upper limit esti-
+mates since not 
+all elimination 
+routes were 
+studied.  
+
+GM = 1.7 
+Median =
+2.0 (young 
+females, n =
+20) 
+GM = 1.2 
+Median =
+1.8 (all 
+males and 
+older 
+females, n =
+66) 
+Central 
+tendency 
+GM = 1.3 
+Median =
+1.8  
+
+light from this unique study. A potential additional problem with using 
+this study for estimating a PFOA half-life is its relatively short duration 
+of 6 weeks.6 
+
+The second study by Xu et al. (2020) showed a half-life geometric 
+mean  of  ~1.5  years  based  on  a  human  observational  study  of  17  in-
+dividuals monitored frequently over 5 months from a likely single source 
+of PFOA exposure. This study had the advantage of minimal additional 
+sources of PFOA exposure, some measurement of PFOA branch isomers, 
+and an estimate of background exposures from which a lower, and more 
+
+appropriate  half-life  could  be  determined.  This  study  had  the  disad-
+vantage of a small number of individuals and a rather short follow up 
+time, but certainly both were better than that found in Elcombe et al. 
+(2013).  Also,  although  this  study  measured  branched  PFOA  isomers, 
+they were not clearly distinguished in the estimated PFOA half-life. 
+
+The third study by Zhang et al. (2013) determined the PFOA half-life 
+from estimates of renal clearance from 86 men and women of the gen-
+eral Chinese population (aged 20–88 years) with no known point source 
+of  exposure  to  PFOA.  Specifically,  the  half-life  geometric  mean  was 
+estimated at 1.7 years in young females (n = 20) and 1.2 years in males 
+of all ages and older females (n = 66). The combined geometric mean 
+was 1.3 years. Median values of half-life were 2.0 years in young females 
+and 1.8 years in males of all ages and older females, or 1.8 years when 
+combined. Arithmetic mean values were not reliable since the clearance 
+values formed a skewed right distribution. This study had the advantage 
+of a half-life unencumbered by the problem of unmonitored PFOA ex-
+posures, since clearance from the blood integrates all sources of expo-
+sure.  Also,  PFOA  isomers  were  individually  quantified  and  separate 
+estimates of isomer half-lives were given. This study had the disadvan-
+tage that not all sources of elimination from the body were accounted 
+for, leading the authors to suggest that the half-lives determined were 
+likely upper limits. 
+
+After extensive email discussions,7 the Collaboration then considered 
+three options. Each scientist was asked to consider choosing a preferred 
+option along with reasons for the choice. Scientists were also encour-
+aged to indicate an option that could be lived with, but of course not 
+preferred, and, if appropriate, to select an option that could not be lived 
+with.  The  development  of  other  options  was  also  solicited.  Options 
+considered were:  
+
+• Select a single study to represent your best judgment of the PFOA 
+
+half-life.  
+
+• Select a range of the PFOA half-life from a small group of studies with 
+
+or without a single value, such as those found in Table 2.  
+
+• Select a range of the PFOA half-life from a larger group of studies 
+
+with or without a single value, such as those found in Table 1. 
+
+Scientists’ choices were sent to two members of the Advisory Com-
+mittee in a confidential manner and responses were collated as shown in 
+Table 3. Option 1 was preferred by the majority of scientists although 
+several  of  those  voting  for  option  1  could  also  live  with  option  2.  A 
+smaller number of scientists preferred option 2, with several of them also 
+able to live with option 1. Option 3 was preferred by two scientists, with 
+one able to live with this choice, judging that the choice  of only one 
+study (as in option 1), or even of a few studies (as in option 2), was not 
+sufficiently supportable at this point in the investigation. 
+
+During the course of this Collaboration three additional items were 
+discussed. First, the question of the appropriate averaging value for the 
+PFOA half-life arose. Several studies give the half-life as the geometric 
+mean, the arithmetic mean, or the median value. Zhang et al. (2013) 
+showed  that  arithmetic  mean  half-lives  based  on  arithmetic  mean 
+clearances did not match arithmetic mean half-lives based on individual 
+clearances. In contrast, the estimation of geometric mean half-lives from 
+either  geometric  mean  clearance  or  individual  geometric  mean  clear-
+ance did not differ to the same degree. This is because the distribution of 
+individual  clearances  and  corresponding  half-lives  were  found  to  be 
+skewed right (Zhang et al., 2013; ARA, 2021). Based on this finding, the 
+Collaboration  considered  the  geometric  mean  to  be  superior  to  the 
+arithmetic mean, and that the medians can add value to this range of 
+central tendency. 
+
+Second, the estimation of the volume of distribution was discussed. 
+
+6  Some  might  posit  that  the  individuals  in  this  study  were  sick  so  that  the 
+elimination measured in these individuals may not relate to the general pop-
+ulation, but clinical measures in study individuals demonstrated normal liver 
+and kidney function (Smith, 2021). 
+
+7  A summary of these email discussions can be found at: https://tera.org/Alli 
+ance%20for%20Risk/Projects/PFOA%20Groups/ARA_2021_Questions_%20Dis 
+cussion_on_SGSummaries_Fall%20_of_2021.pdf. 
+
+RegulatoryToxicologyandPharmacology132(2022)1051855J. Campbell et al.                                                                                                                                                                                                                               
+
+In  some  studies,  the  volume  of  distribution  was  based  on  measured 
+PFOA  exposures  in  humans,  but  such  estimations  would  be  inappro-
+priately  low  if  unmonitored  sources  of  exposure  are  occurring.  Other 
+studies or analyses estimated the volume of distribution from a small 
+population of humans in a clinical trial where PFOA was used as a cancer 
+chemotherapeutic drug and in subjects in whom the kinetics of PFOA 
+may  or  may  not  represent  that  expected  in  the  general  population 
+(Elcombe et al., 2013). Other investigators selected a volume of distri-
+bution from either a small group of monkeys (n = 3) by Butenhoff et al. 
+(2004) or from other experimental animals. Selecting one value for the 
+volume  of  distribution  from  this  assortment  of  values  is  challenging 
+given these different approaches. However, a value of around 0.18 L/kg 
+body weight was considered by the Collaboration to approximate the 
+likely value in humans. 
+
+Finally, some studies showed indications of the potential range for 
+inter-individual variability in PFOA clearance. In particular, instances of 
+blood loss and replacement appeared to lead to faster elimination, as the 
+lost blood removes part of the PFOA body burden and is replaced by 
+blood  without  added  burden.  This  includes  menstrual  blood  loss  and 
+episodes  of  blood  donation.  Pregnancy  and  breastfeeding  may  also 
+diminish body burden, although that burden is transferred to the fetus 
+and  infant,  respectively. Observations  of  somewhat faster  elimination 
+among reproductive-age women in some studies appeared to be expli-
+cable by menstrual and childbirth loss. The possible role of nutritional 
+differences among people, perhaps through an effect on fatty acid up-
+take, was also suggested in some studies but has not been clearly char-
+acterized. The Collaboration encourages additional research in this area. 
+
+4. Discussion 
+
+This Collaboration was an attempt to bridge the rather large differ-
+ences  in  estimated  PFOA  half-lives,  ranging  from  1.2  to  14.9  years, 
+shown by a number of investigators (e.g., Dourson and Gadagbui, 2021). 
+The  ARA  Steering  Committee  invited  a  wide  participation  in  the  de-
+liberations and discussions by an active list of over  100 international 
+colleagues from government, industry, academia and consulting, whom 
+received periodic summary emails, and several social media postings to 
+over 4000 individuals. The effort lasted the better part of 6 months and 
+included scientists from various sectors and countries. 
+
+The Collaboration’s majority opinion is that the study with the least 
+encumbrances  to  determine  the  PFOA  half-life  is  that  of  Zhang  et  al. 
+(2013)  with  a  geometric  mean  value  of  1.3  years  as  in  Option  1  of 
+Table 3. Eight members preferred this option and two members could 
+live  with  it.  Four  participants  preferred  Option  2  of  Table  3  with  a 
+half-life range of central tendency of between 0.5 and 1.5 years and six 
+participants could live with that option. It is possible that the lower part 
+of this range of central tendency might increase with the close moni-
+toring of additional individuals. It is also possible that the upper part of 
+this  range  might  decrease  if  additional  information  is  provided  on 
+possible unmonitored exposures or elimination. Regardless, this range of 
+central  tendency  not  exceeding  2  years  is  a  challenge  to  the  ongoing 
+convention that the half-life is in multiple years. Finally, two scientists 
+
+Table 3 
+Results from consensus polling of the international group.  
+
+Option 
+
+Preferred 
+
+8 
+
+4* 
+
+1 (single 
+study) 
+2 (small 
+
+group of 
+studies) 
+
+3 (larger 
+
+2 
+
+group of 
+studies) 
+
+Can 
+live 
+with 
+
+2 
+
+6 
+
+1 
+
+Cannot 
+live with 
+
+Comments 
+
+1 
+
+1 
+
+2 
+
+Zhang et al. (2013) 
+
+As in Table 2. *One vote 
+with a special emphasis on  
+Zhang et al. (2013) 
+As in Table 1.  
+
+opined  for  Option  3  of  Table  3  and  one  could  live  with  this  choice, 
+suggesting that while the fewer studies of Options 1 and 2 minimized 
+uncertainties from background exposures and branched isomers, these 
+studies also had limitations in terms of cohort size and or representation 
+of various populations; thus, other studies as in Option 3 are useful for 
+highlighting  the  inter-individual  variability  in  the  half-life  estimate 
+among members of the different cohorts. 
+
+Perhaps  most  important,  in  the  course  of  this  Collaboration,  two 
+uncertainties in the conventional thinking that the PFOA half-life is in 
+multiple years became more clear, specifically:  
+
+• The  uncertainty  in  the  amount  of  unmonitored  PFOA  exposures, 
+including precursors, expressed by nearly all authors in most studies, 
+and  
+
+• The  uncertainty  in  PFOA  half-life  estimates  due  to  the  unknown 
+proportion  of  branched-chain  isomers  versus  straight  chain  in  the 
+measured PFOA exposures. 
+
+The first uncertainty will inflate PFOA half-life estimates, the extent 
+of which could be determined by estimating the percent of unmonitored 
+PFOA exposures when compared with total PFOA exposure and using 
+the time between measurements to determine a downward adjustment 
+to the PFOA half-life as per Bartell (2012). That this first uncertainty is 
+likely occurring is evident in recent deliberations by the U.S. Environ-
+mental Protection Agency (2021) where the contribution of PFOA from 
+water  sources  in  communities  that  do  not  have  considerable  water 
+contamination could be around 10% overall.8 
+
+The second uncertainty deflates PFOA half-live estimates due to the 
+fact that branched isomers of PFOA are eliminated more quickly than 
+PFOA’s  straight-chain,  the  extent  of  which  would  be  determined  by 
+estimating the percent of branched PFOA isomers when compared with 
+total PFOA (see Zhang et al., 2013 for an example of this determination). 
+Although these two uncertainties work in opposite directions, the extent 
+of  these  changes  together  is  not  knowable  in  most  of  these  studies 
+without additional investigation of the PFOA mixture of interest. 
+
+Among the studies reviewed by the Collaboration, the study that is 
+least  encumbered  by  uncertainties  from  background  exposures  and 
+PFOA  isomers  appears  to  be  that  of  Zhang  et  al.  (2013).  The  in-
+vestigators estimated renal clearance values of several PFAS, including 
+PFOA and  several  of its  branched  isomers,  by  using paired  urine and 
+serum measurements. The use of paired measurements in this way does 
+not depend on determining sources of PFOA in the environment, since 
+the  blood  serum  concentration  integrates  all  exposures.  Thus,  uncer-
+tainty in potential unmonitored PFOA sources is minimal in this study. 
+However, clearance values in this study depended on determining total 
+PFOA excreted, which the authors acknowledged was not done, which 
+led them to suggest that their stated half-life values were upper limits.9 
+Research should continue to determine the proportion of PFOA that is 
+excreted in human urine versus other routes of human elimination, such 
+as feces, hair, sweat, bile, menstruation, and breast-feeding. This might 
+enable a change to the half-life proposed by Zhang et al. (2013). 
+
+8  Schulz et al. (2020) cites Hu et al. (2019), East et al. (2021), and Gebbink 
+et  al. (2015)  providing evidence that drinking  water only  accounts for about 
+10%  of  the  total  PFOA  exposures  at  both  low-  and  high-exposure  scenarios, 
+with house dust and diet being the primary sources. For example, the results 
+below are from Gebbink et al. (2015):o Low-exposure scenario: diet (~50%) >
+air  (~25%)  > dust  (~15%)  > water  (~10%);  o  Intermediate-exposure  sce-
+nario:  diet  (~45%)  > dust  (~35%)  > water  (~10%)  ≈ air  (~10%);  o 
+High-exposure  scenario:  dust  (~65%)  > diet  (~20%)  > water  (10%)  > air 
+(~5%).  
+
+9  Vanden Heuvel et al. (1991) reported differences in fecal excretion between 
+female and male rats and that the extent to which humans eliminate PFOA in 
+urine versus feces is not known. If there is significant fecal excretion of PFOA in 
+the  human,  the  intrinsic  PFOA  half-life  would  actually  be  shorter  than  that 
+estimated on the basis of renal clearance, as in Zhang et al. (2013). 
+
+RegulatoryToxicologyandPharmacology132(2022)1051856J. Campbell et al.                                                                                                                                                                                                                               
+
+The two other studies in Table 2 also avoid these two uncertainties to 
+some extent, although both of thems also have some uncertainties. The 
+clinical study by Elcombe et al. (2013) yields a lower half-life of ~0.5 
+years as determined by Dourson and Gadagbui (2021) based on three, 
+low, single dose patients. However, a similar analysis of 3 healthy in-
+dividuals from the study of Nilsson et al. (2010) shows a similar half-life, 
+~0.5 years, after exposure ceased and the background PFOA exposure is 
+subtracted, as shown in Appendix Fig. 1. 
+
+The  second  study  in  Table  2,  Xu  et  al.  (2020),  yields  a  geometric 
+mean half-life of 1.5 years based on 17 individuals with longer follow up 
+time than the Elcombe et al. (2013) study, and likely single dominant 
+source  of  exposure  similar  to  this  latter  study.  Xu  et  al.  (2020)  also 
+subtract  background  exposures,  which  ends  up  lowering  their  unad-
+justed half-life significantly, from 1.77 to 1.48 years. 
+
+A good number of studies reviewed by the Collaboration (Table 1) 
+are  well-conducted  and  adjust  for  background  exposures  and  other 
+sources of bias. They might extend the range of central tendency of half- 
+lives  identified  in  the minimally  encumbered  studies. However, there 
+remain  data  that  are  not  presented  or  are  unknown  relating  to  back-
+ground  exposures  and  branched  PFOA  isomers.  Additional  efforts  to 
+extend this work might include a meta-analysis of selected studies after a 
+follow  up  with  authors  for  individual  data  to  determine  potentially 
+unmonitored  exposures  and  branched-chain  isomers.  This  area  of 
+research may also benefit from additional clearance studies, like Zhang 
+et al. (2013), for confirmation. 
+
+Disclaimers 
+
+The views expressed in this article are those of the authors and do not 
+necessarily reflect the official policy or position of the Department of the 
+Navy,  Department  of  Defense,  nor  the  U.S.  Government.  JS  is  an 
+employee of the U.S. Government. This work was prepared as part of his 
+official duties. Title 17, U.S.C., §105 provides that copyright protection 
+under this title is not available for any work of the U.S. Government. 
+Title 17, U.S.C., §101 defines a U.S. Government work as a work pre-
+pared by a military Service member or employee of the U.S. Government 
+as part of that person’s official duties. 
+
+The views expressed in this article are those of the authors and do not 
+necessarily reflect the official policy or position of the Oregon Health 
+Authority. 
+
+RP and LR are employees of Gradient, a consulting firm serving a 
+variety  of  clients  in  the  private  and  public  sector.  Gradient  has  per-
+formed consulting and testifying work on matters involving PFAS. None 
+of the sponsors of those projects had any involvement with the present 
+work,  and  no  input  into  the  design,  conduct,  or  preparation  of  this 
+report, nor did the sponsors review the report prior to publication. The 
+time spent on this manuscript was either sponsored by Gradient or was 
+performed on the author’s own time. 
+
+NF is an employee of Arcadis U.S., Inc., a consulting firm serving a 
+variety of clients in the private and public sector. Arcadis has performed 
+consulting and testifying work on matters involving PFAS. None of the 
+sponsors of those projects had any involvement with the present work, 
+and no input into the design, conduct, or preparation of this report, nor 
+did the sponsors review the report prior to publication. The time spent 
+on this manuscript was either sponsored by Arcadis or was performed on 
+the author’s own time. 
+
+MD  and  BG  are  employees  of  Toxicology  Excellence  for  Risk 
+
+Assessment  (TERA)  that  has  worked  over  a  number  of  years  for  gov-
+ernment  and  nongovernment  sponsors  on  PFAS  issues.  However,  no 
+outside funding was accepted to do this work. 
+
+Unlisted references 
+
+Beesoon et al. (2015); Energy’s (2019); James Smith, 2021. 
+
+CRediT authorship contribution statement 
+
+Jerry Campbell: Conceptualization, Data curation, Formal analysis, 
+Investigation, Methodology, Visualization, Writing – review & editing. 
+Harvey  Clewell:  Conceptualization,  Data  curation,  Formal  analysis, 
+Investigation, Methodology, Visualization, Writing – review & editing. 
+Tony Cox: Conceptualization, Data curation, Formal analysis, Investi-
+gation,  Methodology, Visualization,  Writing  –  review &  editing, sum-
+marized  confidential  voting.  Michael  Dourson:  Conceptualization, 
+Data curation, Formal analysis, Investigation, Methodology, Visualiza-
+tion,  Writing  –  review  &  editing,  Project  administration.  Shannon 
+Ethridge:  Conceptualization,  Data  curation,  Formal  analysis,  Investi-
+gation,  Methodology,  Visualization,  Writing  –  review  &  editing.  Nor-
+man  Forsberg:  Conceptualization,  Data  curation,  Formal  analysis, 
+Investigation, Methodology, Visualization, Writing – review & editing. 
+Bernard Gadagbui: Conceptualization, Data curation, Formal analysis, 
+Investigation, Methodology, Visualization, Writing – review & editing. 
+Ali  Hamade:  Conceptualization,  Data  curation,  Formal  analysis, 
+Investigation, Methodology, Visualization, Writing – review & editing. 
+Ravi Naidu: Conceptualization, Data curation, Formal analysis, Inves-
+tigation, Methodology, Visualization, Writing – review & editing, sum-
+marized  confidential  voting.  Nathan  Pechacek:  Conceptualization, 
+Data curation, Formal analysis, Investigation, Methodology, Visualiza-
+tion, Writing –  review &  editing. Tiago Severo Peixe: Conceptualiza-
+tion,  Data  curation,  Formal  analysis,  Investigation,  Methodology, 
+Visualization, Writing – review & editing. Robyn Prueitt: Conceptual-
+ization,  Data  curation,  Formal  analysis,  Investigation,  Methodology, 
+Visualization,  Writing  –  review  &  editing.  Mahesh  Rachamalla: 
+Conceptualization,  Data  curation,  Formal  analysis,  Investigation, 
+Methodology,  Visualization,  Writing  –  review  &  editing.  Lorenz 
+Rhomberg:  Conceptualization,  Data  curation,  Formal  analysis,  Inves-
+tigation, Methodology, Visualization, Writing – review & editing. James 
+Smith:  Conceptualization,  Data  curation,  Formal  analysis,  Investiga-
+tion,  Methodology,  Visualization,  Writing  –  review  &  editing.  Nitin 
+Verma:  Conceptualization,  Data  curation,  Formal  analysis,  Investiga-
+tion, Methodology, Visualization, Writing – review & editing. 
+
+Declaration of competing interest 
+
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+
+Acknowledgements 
+
+The development of research and subsequent publication was under 
+the auspices of the Alliance for Risk Assessment (ARA). No funding was 
+accepted from any organization to do this work.  
+
+RegulatoryToxicologyandPharmacology132(2022)1051857J. Campbell et al.                                                                                                                                                                                                                               
+
+Appendix
+
+References 
+
+Alliance for Risk Assessment (ARA), 2021. Beyond science and Decisions workshop XII. 
+Meeting report available at. https://tera.org/Alliance%20for%20Risk/Workshop% 
+20Xll/Final%20Report.pdf. 
+
+Bartell, S., 2012. Bias in half-life estimates using log concentration regression in the 
+
+presence of background exposures, and potential solutions. J. Expo. Sci. Environ. 
+Epidemiol. 22, 299–303. 
+
+Bartell, S.M., Calafat, A.M., Lyu, C., Kato, K., Ryan, P.B., Steenland, K., 2010. Rate of 
+decline in serum PFOA concentrations after granular activated carbon filtration at 
+two public water systems in Ohio and West Virginia. Environ. Health Perspect. 118 
+(2), 222–228. https://doi.org/10.1289/ehp.0901252. PMID: 20123620.  
+
+Beesoon, S., Martin, J.W., 2015. Isomer-specific binding affinity of 
+
+perfluorooctanesulfonate (PFOS) and perfluorooctanoate (PFOA) to serum proteins. 
+Environ. Sci. Technol. 49 (9), 5722–5731. 
+
+Benskin, J.P., De Silva, A.O., Martin, L.J., Arsenault, G., McCrindle, R., Riddell, N., 
+Mabury, S.A., Martin, J.W., 2009. Disposition of perfluorinated acid isomers in 
+sprague-dawley rats; Part 1: single dose. Environ. Toxicol. Chem. 28 (3), 542–554. 
+Butenhoff, J.L., Kennedy Jr., G.L., Hinderliter, P.M., Lieder, P.H., Jung, R., Hansen, K.J., 
+
+Gorman, G.S., Noker, P.E., Thomford, P.J., 2004. Pharmacokinetics of 
+perfluorooctanoate in cynomolgus monkeys. Toxicol. Sci. 82 (2), 394–406. https:// 
+doi.org/10.1093/toxsci/kfh302. 
+
+Campbell, J., Allen, B., Olsen, G., Elcombe, C., Doyle, E., Evans, J., Clewell, H., 2016. 
+
+Evaluation of the short-term clearance of perflourooctanoic acid (PFOA) in a clinical 
+trial using a PBPK model and Markov chain Monte Carlo analysis. In: Poster at the 
+Society of Toxicology Annual Meeting. 
+
+De Silva, A.O., Benskin, J.P., Martin, L.J., Arsenault, G., McCrindle, R., Riddell, N., 
+Martin, J.W., Mabury, S.A., 2009. Disposition of perfluorinated acid isomers in 
+sprague-dawley rats; Part 2: subchronic dose. Environ. Toxicol. Chem. 28 (3), 
+555–567. 
+
+De Silva, A.O., Armitage, J.M., Bruton, T.A., Dassuncao, C., Heiger-Bernays, W., Hu, X.C., 
+K¨arrman, A., Kelly, B., Ng, C., Robuck, A., Sun, M., Webster, T.F., Sunderland, E.M., 
+2020. PFAS exposure pathways for humans and wildlife: a synthesis of current 
+knowledge and key gaps in understanding. Environ. Toxicol. Chem. 40 (3), 631–657. 
+https://doi.org/10.1002/etc.4935. 
+
+Dourson, M.L., Gadagbui, B., Onyema, C., McGinnis, P.M., York, R.G., 2019. Data 
+
+derived extrapolation factors for developmental toxicity: a preliminary research case 
+study with perfluorooctanoate (PFOA). Regul. Toxicol. Pharmacology 108, 104446. 
+
+Dourson, M., Gadagbui, B., 2021. The dilemma of perfluorooctanoate (PFOA) human 
+
+half-life. Regul. Toxicol. Pharmacology 126, 105025. 
+
+Drinking Water Inspectorate, 2021. Guidance on the Water Supply (Water Quality) 
+Regulations 20161 Specific to PFOS (Perfluorooctane Sulphonate) and PFOA 
+(Perfluorooctanoic Acid) Concentrations in Drinking Water (London, UK).  
+
+East, A., Egeghy, P.P., Hubal, E., Slover, R., Vallero, D.A., 2021. Computational estimates 
+of daily aggregate exposure to PFOA/PFOS from 2011 to 2017 using a basic intake 
+
+model. J Expo Sci Environ Epidemiol Online ahead of print na (na), na–na. https:// 
+doi.org/10.1038/s41370-021-00374-w. 
+
+Elcombe, C.R., Wolf, C.R., Westwood, A.L., 2013. US patent application publication. Pub. 
+No.: US 2013/0029928. Available at: https://patentimages.storage.googleapis. 
+Com/24/ee/73/f58267c7d70dde/WO2011101643A1.pdf. 
+
+Gebbink, W.A., Berger, U., Cousins, I.T., 2015. Estimating human exposure to PFOS 
+isomers and PFCA homologues: the relative importance of direct and indirect 
+(precursor) exposure. Environ. Int. 74, 160–169. 
+
+Gomis, M.I., Vestergren, R., MacLeod, M., Mueller, J.F., Cousins, I.T., 2017. Historical 
+
+human exposure to perfluoroalkyl acids in the United States and Australia 
+reconstructed from biomonitoring data using population-based pharmacokinetic 
+modelling. Environ. Int. 108, 92–102. https://doi.org/10.1016/j. 
+envint.2017.08.002. 
+
+Gomis, M.I., Vestergren, R., Nilsson, H., Cousins, I.T., 2016. Contribution of direct and 
+
+indirect exposure to human serum concentrations of perfluorooctanoic acid in an 
+occupationally exposed group of ski waxers. Environ. Sci. Technol. 50 (13), 
+7037–7046. 
+
+Hu, Y., Liu, G., Rood, J., Liang, L., Bray, G.A., de Jonge, L., Coull, B., Furtado, J.D., Qi, L., 
+Grandjean, P., Sun, Q., 2019. Perfluoroalkyl substances and changes in bone mineral 
+density: a prospective analysis in the POUNDS-LOST study. Environ. Res. 179, 
+108775. 
+
+Li, Y., Fletcher, T., Mucs, D., Scott, K., Lindh, C.H., Tallving, P., Jakobsson, K., 2018. 
+
+Half-lives of PFOS, PFHxS and PFOA after end of exposure to contaminated drinking 
+water. Occup. Environ. Med. 75 (1), 46–51. https://doi.org/10.1136/oemed-2017- 
+104651. PMID: 29133598.  
+
+Mikkonen, A.T., Martin, J., Dourson, M.L., Hinwood, A., Johnson, M.S., 2021. 
+
+Suggestions for improving the characterisation of risk from exposures to per and 
+polyfluorinated alkyl substances (PFAS). Environ. Toxicol. Chem. 40, 883–898. 
+https://doi.org/10.1002/etc.4931. 
+
+Nilsson, H., Karrman, A., Westberg, H., Rotander, A., Van Bavel, B., Lindstrom, G., 2010. 
+A time trend study of significantly elevated perfluorocarboxylate levels in humans 
+after using fluorinated ski wax. Environ. Sci. Technol. 44, 2150–2155. 
+
+Olsen, G.W., Burris, J.M., Ehresman, D.J., Froehlich, J.W., Seacat, A.M., Butenhoff, J.L., 
+Zobel, L.R., 2007. Half-life of serum elimination of perfluorooctanesulfonate, 
+perfluorohexanesulfonate, and perfluorooctanoate in retired fluorochemical 
+production workers. Environ. Health Perspect. 115 (9), 1298–1305. https://doi.org/ 
+10.1289/ehp.10009. PMID: 17805419.  
+
+Russell, M.H., Waterland, R.L., Wong, F., 2015. Calculation of chemical elimination 
+
+halflife from blood with an ongoing exposure source: the example of 
+perfluorooctanoic acid (PFOA). Chemosphere 129, 210–216. https://doi.org/ 
+10.1016/j.chemosphere.2014.07.061. PMID: 25149361.  
+
+Schulz, K., Silva, M.R., Klaper, R., 2020. Distribution and effects of branched versus 
+
+linear isomers of PFOA, PFOS, and PFHxS: a review of recent literature. Sci. Total 
+Environ. 733, 139186. 
+
+Smith, James, 2021. 2021. Personal communication between Geary Olsen and James 
+
+Smith. not applicable. 
+
+RegulatoryToxicologyandPharmacology132(2022)1051858J. Campbell et al.                                                                                                                                                                                                                               
+
+U.S. Department of Defense and Department of Energy, 2019. Consolidated quality 
+systems manual (QSM) for environmental Laboratories (ver. 5.3). Available at: 
+https://denix.osd.mil/edqw/documents/manuals/qsm-version-5-3-final/. 
+U.S. Environmental Protection Agency, 2021. EXTERNAL PEER REVIEW DRAFT: 
+
+Proposed Approaches to the Derivation of a Draft Maximum Contaminant Level Goal 
+for Perfluorooctanoic Acid (PFOA) (CASRN 335-67-1) in Drinking Water. EPA 
+Document No. 822 D21001.  
+
+Vanden Heuvel, J.P., Kuslikis, B.I., Van Rafelghem, M.J., Peterson, R.E., 1991. Tissue 
+
+distribution, metabolism, and elimination of perfluorooctanoic acid in male and 
+
+female rats. J. Biochem. Toxicol. 6 (2), 83–92. https://doi.org/10.1002/ 
+jbt.2570060202. PMID: 1941903.  
+
+Xu, Y., Fletcher, T., Pineda, D., Lindh, C.H., Nilsson, C., Glynn, A., Vogs, C., Norstr¨om, K., 
+Lilja, K., Jakobsson, K., Li, Y., 2020. Serum half-lives for short- and long-chain 
+perfluoroalkyl acids after ceasing exposure from drinking water contaminated by 
+firefighting foam. Environ. Health Perspect. 28 (7) https://doi.org/10.1289/ 
+EHP6785. CID: 077004.  
+
+Zhang, Y., Beesoon, S., Zhu, L., Martin, J.W., 2013. Biomonitoring of perfluoroalkyl acids 
+in human urine and estimates of biological half-life. Environ. Sci. Technol. 47 (18), 
+10619–10627. https://doi.org/10.1021/es401905e. PMID: 23980546.  
+
+RegulatoryToxicologyandPharmacology132(2022)1051859

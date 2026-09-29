@@ -1,0 +1,441 @@
+Occup Environ Med Occup Environ Med 694 bmjgroup 9422759 oem Occupational and Environmental Medicine 1351-0711 1470-7926 pmc-is-collection-domain yes pmc-collection-title BMJ Open Access PMC5749314 PMC5749314.1 5749314 5749314 29133598 10.1136/oemed-2017-104651 oemed-2017-104651 1 Exposure Assessment 1506 Original Article Half-lives of PFOS, PFHxS and PFOA after end of exposure to contaminated drinking water Li Ying 1 Fletcher Tony 2 Mucs Daniel 3 Scott Kristin 4 Lindh Christian H 4 Tallving Pia 4 Jakobsson Kristina 1 4 
+ 1 
+ Division of Occupational and Environmental Medicine, Department of Public Health and Community Medicine , University of Gothenburg , Gothenburg , Sweden 
+
+ 2 
+ Department of Social and Environmental Health Research , London School of Hygiene and Tropical Medicine , London , UK 
+
+ 3 
+ Swetox, Unit for Toxicological Sciences-Södertälje, Karolinska Institute , Stockholm , Sweden 
+
+ 4 
+ Division of Occupational and Environmental Medicine, Department of Laboratory Medicine , Lund University , Lund , Sweden 
+ Correspondence to Dr Ying Li, Occupational and Environmental Medicine, University of Gothenburg, SE 405 30 Gothenburg, Sweden; ying.li@gu.se 1 2018 13 11 2017 75 1 303853 46 51 11 7 2017 20 9 2017 07 10 2017 02 01 2018 12 02 2018 05 09 2026 © Article author(s) (or their employer(s) unless otherwise stated in the text of the article) 2018. All rights reserved. No commercial use is permitted unless otherwise expressly granted. 2018 https://creativecommons.org/licenses/by-nc/4.0/ This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See: http://creativecommons.org/licenses/by-nc/4.0/ 
+
+## Background
+ Municipal drinking water contaminated with perfluorinated alkyl acids had been distributed to one-third of households in Ronneby, Sweden. The source was firefighting foam used in a nearby airfield since the mid-1980s. Clean water was provided from 16 December 2013.
+
+## Objective
+ To determine the rates of decline in serum perfluorohexane sulfonate (PFHxS), perfluorooctane sulfonate (PFOS) and perfluorooctanoate (PFOA), and their corresponding half-lives.
+
+## Methods
+ Up to seven blood samples were collected between June 2014 and September 2016 from 106 participants (age 4–84 years, 53% female).
+
+## Results
+ Median initial serum concentrations were PFHxS, 277 ng/mL (range 12–1660); PFOS, 345 ng/mL (range 24–1500); and PFOA, 18 ng/mL (range 2.4–92). The covariate-adjusted average rates of decrease in serum were PFHxS, 13% per year (95% CI 12% to 15%); PFOS, 20% per year (95% CI 19% to 22%); and PFOA, 26% per year (95% CI 24% to 28%). The observed data are consistent with a first-order elimination model. The mean estimated half-life was 5.3 years (95% CI 4.6 to 6.0) for PFHxS, 3.4 years (95% CI 3.1 to 3.7) for PFOS and 2.7 years (95% CI 2.5 to 2.9) for PFOA. The interindividual variation of half-life was around threefold when comparing the 5th and 95th percentiles. There was a marked sex difference with more rapid elimination in women for PFHxS and PFOS, but only marginally for PFOA.
+
+## Conclusions
+ The estimated half-life for PFHxS was considerably longer than for PFOS and PFOA. For PFHxS and PFOS, the average half-life is shorter than the previously published estimates. For PFOA the half-life is in line with the range of published estimates.
+
+ pfoa pfhxs pfos half-life http://dx.doi.org/10.13039/501100001862 Svenska Forskningsrådet Formas pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access yes pmc-prop-olf no pmc-prop-manuscript no pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement yes pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes pmc-license-ref CC BY-NC special-feature unlocked 
+
+## What this paper adds
+ Limited information on the elimination of perfluorinated alkyl acids in humans after end of exposure has suggested half-lives of several years.
+ This study provides refined estimates of half-lives of perfluorohexane sulfonate (PFHxS) and perfluorooctane sulfonate (PFOS) from a highly exposed general population after end of exposure. There is substantial interindividual variability and slower excretion for men than women, for PFHxS and PFOS.
+ Future research to understand the determinants of elimination is needed in order to guide risk assessment and regulatory measures for perfluorinated chemicals.
+
+## Introduction
+ Perfluorinated and polyfluorinated substances (PFASs) comprise a group of many different synthetic substances that have been produced and widely used for approximately 50 years. They are found in industrial applications and household products mainly due to their properties of withstanding heat, oil, dirt and water. PFASs are also used as surfactants in firefighting foam of the aqueous film forming foam (AFFF) type. 1 
+
+ In the general population, the dominating sources of exposure are through diet and consumer products. 2 However, during the past decade it has become apparent that localised PFAS contamination to surface and groundwater occurs around military and civilian firefighting training facilities, where large quantities of AFFF foams have been used. These substances are further disseminated by means of groundwater flows, and may also reach drinking water wells.
+ PFASs are excreted via urine and faeces. In animals half-lives (T½) for PFASs vary markedly between species and are usually much shorter than in humans, with elimination half-life counted in hours or days. 3 Reabsorption by organic anion transporters (OATs) in the kidneys and extensive uptake from enterohepatic circulation for PFASs are believed to be more active processes in humans, slowing down the excretion of these substances. In observational studies, based on observations in individuals followed over time, T½ between 2 and 3 years was reported for perfluorooctanoic acid (PFOA), while longer half-lives for perfluorooctane sulfonic acid (PFOS) and perfluorohexane sulfonic acid (PFHxS), 4 and 7 years, respectively, have been observed ( table 1 ). Time-trend general population studies during periods of observed decay have reported half-lives in similar ranges.
+ Table 1 Half-lives for PFOS, PFHxS and PFOA in longitudinally followed humans
+ Reference
+ Setting
+ Model
+ Subjects
+ Initial PFAS level (ng/mL, serum)
+ Half-life (years)
+
+ PFOS
+ PFHxS
+ PFOA
+
+ Olsen  et al 
+ 4 
+
+ Retired fluorochemical workers, followed 5 years Repeated samplings with batch-wise analysis
+ First-order elimination First and last sample
+ 22 men, 2 women Age 55–75
+ Median (range) PFOS: 626 (145–3490) PFHxS: 193 (16–1295) PFOA: 408 (72–5100)
+ Median 4.6, range 2.4–21.7 GM 4.8 95% CI 4.0 to 5.8
+ Median 7.1, range 2.2–27.0 GM 7.3 95% CI 5.8 to 9.2
+ Median 3.4, range 1.5–9.1 GM 3.5 95% CI 3.0 to 4.1
+
+ Brede  et al 
+ 5 
+
+ Drinking water exposure to PFOA, follow-up 2 years after installation of charcoal filters
+ First-order elimination First and last sample
+ 20 children 22 mothers 23 men
+ Median (range) PFOS: ≈9 (2.6–33.3) PFHxS: ≈2.0 (<0.1–2.7) PFOA: ≈24 (6.4–77.5)
+ (Relative reduction 2006–2008, 22% in women, 25% in men)
+ (Relative reduction 2006–2008, 30% in women, 14% in men)
+ GM 3.26 years (range 1.03–14.67) (relative reduction 2006–2008, 39% in women, 25% in men)
+
+ Bartell  et al 
+ 12 
+
+ Drinking water exposure to PFOA, follow-up after installation of charcoal filter Repeated sampling, follow-up after 1 year
+ First-order elimination Mixed models, five samples per person
+ 100 men 100 women Age 53±15
+ Mean, SD PFOA 180±209
+ –
+ –
+ Average 2.3 95% CI 2.1 to 2.4 No sex-dependence
+
+ Gomis  et al 
+ 13 
+
+ Ski waxers, followed after marked reduction of occupational exposure
+ 4 men
+ Range 250–1050
+ –
+ –
+ Median 2.4, range 2.0–2.8
+
+ Worley  et al 
+ 11 
+
+ Drinking water exposure to PFAS, emanating from contaminated sewage sludge applied to agricultural fields; follow-up after 6 years
+ One-compartment pharmacokinetic model First and last sample
+ First sample: 63 men, 90 women Average 52 Last sample: 22 men, 23 women
+ GM PFHxS: 6.4 PFOS: 39.8 PFOA: 16.3
+ Average 3.3
+ Average 15.5
+ Average 3.9
+
+ PFHxS, perfluorohexane sulfonate; PFOA, perfluorooctanoate; PFOS, perfluorooctane sulfonate.
+ However, it should be noted that the interindividual variation in elimination of PFASs can be substantial in both high and low exposure ranges, as observed in retired fluorochemical workers and after drinking water exposure. 4 5 Observational data and pharmacokinetical modelling indicate that PFAS half-life is likely to be shorter in women, explained partly by menstrual blood losses, but there may also be other sex-specific elimination mechanisms. 6 Except for perfluorobutane sulfonic acid, which has a much shorter half-life, around 1 month, 7 there are no human data after end of exposure for other PFASs.
+
+## Ronneby: a case study from Sweden
+ In autumn 2013 a survey of groundwater quality in Blekinge county in southern Sweden showed alarmingly high levels of PFASs in groundwater from a glaciofluvial water reservoir, the Bredåkra delta, which has a military and civil airfield located in its centre. Extended water sampling revealed very high levels of PFASs in outgoing drinking water from Brantafors, one of the two municipal waterworks in Ronneby, a municipality with 28 000 inhabitants ( table 2 ). This waterworks provided drinking water to one-third of the households in Ronneby. The contaminated waterworks was closed on 16 December 2013, and clean water was promptly provided by Kärragården, the second waterworks in the municipality. After a few days no elevated levels of PFASs could be detected in the distribution network. Brantafors waterworks was reopened in May 2014, supplied with new coal filters and using water only from wells with low PFASs levels, but the trial was ended in October 2014. During this trial the levels of PFASs (sum of 11) were closely monitored, reaching at most 40 ng/L (ie, well below 90 ng/L, the present Swedish recommended action level).
+ Table 2 Perfluorinated and polyfluorinated substance levels (ng/L) in outgoing drinking water from the two waterworks in Ronneby, Sweden, on 10 December 2013
+ Brantafors
+ Kärragården
+
+ Perfluoropentanoic acid
+ 38
+ 10
+
+ Perfluorohexanoic acid
+ 320
+ 3.6
+
+ Perfluoroheptanoic acid
+ 32
+ 1.4
+
+ Perfluorooctanoic acid
+ 100
+ 1.0
+
+ Perfluorononanoic acid
+ <1
+ <1
+
+ Perfluorodecanoic acid
+ <1
+ <1
+
+ Perfluoroundecanoic acid
+ <10
+ <10
+
+ Perfluorododecanoic acid
+ <10
+ <10
+
+ Perfluorobutane sulfonic acid
+ 130
+ <2.6
+
+ Perfluorohexane sulfonic acid
+ 1700
+ 4.6
+
+ Perfluoroheptane sulfonic acid
+ 60
+ <1
+
+ Perfluorooctane sulfonic acid
+ 8000
+ 27
+
+ It was soon confirmed that the fire drill site at the nearby military airport localised within the aquifer area had leached PFASs to the environment. Despite considerable efforts from the Armed Forces, it has not been possible to reconstruct the detailed historical use of AFFF at the airfield, but the best estimate as to the start of the use of these foams is the mid-1980s. Very little information on past or current PFAS content in the foams used at the facility was available, only that PFOS-containing foams were not purchased since 2004. For a general overview of AFFFs, see refs  1 and 8 .
+ Extensive biomonitoring in the municipality population started in June 2014, approximately 6 months after end of exposure through drinking water, by open invitations and free of cost. Subjects living and working in the contaminated as well as in the uncontaminated district were invited. During the period 2014–2016 a  total of 3418 persons from Ronneby participated. Considerable efforts were made to recruit persons with little exposure to the contaminated water, in order to ensure a broad range of serum PFASs levels for further research on health effects. A reference group of 242 subjects from a nearby unexposed municipality (Karlshamn) was also examined in 2016.
+
+## Methods
+
+## Study group
+ From among the first participants in the screening programme, volunteers were invited to participate in the half-life study until the target of 100 subjects, evenly split by gender, was achieved. The panel study group (n=106) with a large age span, 4–83 years at baseline, was established in June 2014. The proportion of women was 53%. There were 20 men aged 15–50, and 30 women (menstruating ages). The participants have donated blood regularly, initially every third month, then with longer intervals. Analysis of PFASs in serum is performed after each sampling round and the individual results are immediately reported back to the participants.
+ We here report findings from the first seven sampling rounds (in June 2014, October 2014, January 2015, April 2015, September 2015, March 2016 and September 2016). The median number of samples per person was 6. Continued sampling twice a year is planned for several years to come.
+
+## Chemical analysis
+ Plasma concentrations of PFHxS, PFOS and PFOA were analysed at the Department of Occupational and Environmental Medicine in Lund, Sweden, using liquid chromatography-tandem mass spectrometry (LC/MS/MS). The samples were analysed according to a modified method 9 and determined as the total, non-isomer-specific compounds. The aliquots of 25 µL serum were added with 75 µL of water. A solution containing labelled internal standards were added and the proteins were precipitated using acetonitrile followed by vigorous shaking for 30 min. The samples were then centrifuged and 1 µL of the supernatant was analysed using an LC (UFLCXR, Shimadzu Corporation, Kyoto, Japan) connected to the MS/MS (QTRAP 5500, AB Sciex, Foster City, California, USA). Limits of detection determined as the concentrations corresponding to three times the SD of the responses in chemical blanks were 0.5 ng/mL for PFHxS and PFOS, and 0.4 ng/mL for PFOA. Coefficients of variation of quality control (QC)  samples at 100 ng/mL were 6% for PFHxS and PFOS, and 8% for PFOA. The analyses of PFOS and PFOA are part of a quality control programme between analytical laboratories coordinated by Professor Hans Drexler, Institute and Outpatient Clinic for Occupational, Social and Environmental Medicine, University of Erlangen-Nuremberg, Germany.
+
+## Modelling of half-life
+ A linear mixed-effect model was used to assess predictors of subject-specific serum PFAS concentrations over time, from which we derive excretion rate and serum elimination half-lives of each PFAS. The following mixed model was used to fit the panel data:
+
+ I n   C i j = α i + t i j k i + X i β + ε i j ,
+ where C i j is the serum PFAS concentrations for individual i and sampling round j , α i is the subject-specific intercept, t i j is the time elapsed between the clean water was provided and the blood sample collection, k i is the subject-specific slope, X i is a vector of fixed covariates for individual i , including age, gender and body mass index (BMI),   β is the fixed effect coefficient and ε i j is the random error term. The subject-specific intercept α i , the subject-specific slope k i and the random error term ε i j were modelled as random with normal distribution; others were treated as fixed effects.
+ The slope (k i ) is the excretion rate constant, and the mean value of k i derived from the model was converted to half-life (ln2/mean(k i )). The values of k i were predicted using the best linear unbiased prediction method. 10 To examine the variability of the half-life, the predicted k i values were converted to half-lives. A small number of observations were however excluded, with negative values (apparently increasing serum levels) or extremely high half-life (with minimal k i ). Summary half-life values have been presented as either a mean half-life (calculated from the mean elimination rate constant k) or as median half-life (the median value of the individually modelled half-life values). The 95% CI for mean(k i ) from the regression was used to derive the CI for the half-life, by converting as for the mean.
+ The analyses were repeated for the age group 15–50 (at the start), stratified by gender. An interaction term for gender and excretion rate constant was used to test the significance of a sex difference in excretion rate.
+ The general background exposure was not subtracted when modelling the half-life, since the PFAS levels of the last sample for all the individuals were far above what is expected in the background.
+
+## Results
+
+## Serum levels at baseline
+ The median serum level of PFHxS was 180 times higher in the investigated Ronneby population compared with the referents from a neighbouring municipality, 42 times higher for PFOS and 6 times higher for PFOA ( table 3 ). In the main Ronneby study group 98% of the 3418 participants had PFHxS levels over the 90th centile (2.58 ng/mL) of PFHxS levels observed in the Karlshamn group. A similar pattern was seen for PFOS, where 90% of the main Ronneby group had levels in excess of the 90th centile (9.85 ng/mL) in the Karlshamn group, and PFOA, where 85% of the main Ronneby group had levels in excess of the 90th centile (2.91 ng/mL).
+ Table 3 Summary statistics of PFAS concentrations (ng/mL) in 106 participants in a panel study 6 months after end of exposure through contaminated drinking water (baseline investigation)
+ PFAS
+ Group
+ Participants (n)
+ Mean±SD
+ (Min, median, max)
+
+ PFHxS
+ Panel study
+ 106
+ 353±260
+ (12.3, 277, 1660)
+
+ Main Ronneby
+ 3418
+ 228±232
+ (<0.5*, 152, 1790)
+
+ Karlshamn reference
+ 242
+ 1.91±5.27
+ (<0.5*, 0.84, 60.1)
+
+ PFOS
+ Panel study
+ 106
+ 387±259
+ (24.1, 345, 1500)
+
+ Main Ronneby
+ 3418
+ 245±234
+ (0.58, 176, 1870)
+
+ Karlshamn reference
+ 242
+ 5.68±6.19
+ (<0.5*, 4.21, 55.3)
+
+ PFOA
+ Panel study
+ 106
+ 21.1±14.7
+ (2.38, 17.5, 92)
+
+ Main Ronneby
+ 3418
+ 13.7±12.0
+ (<0.4*, 10.4, 91.9)
+
+ Karlshamn reference
+ 242
+ 1.77±0.81
+ (<0.4*, 1.59, 4.98)
+
+ *Limit of detection.
+ PFAS, perfluorinated and polyfluorinated substance; PFHxS, perfluorohexane sulfonate; PFOA, perfluorooctanoate; PFOS, perfluorooctane sulfonate.
+ The participants in the panel study initially had serum levels of PFHxS, PFOS and PFOA that were somewhat higher than in the main Ronneby study population. This difference reflected the fact that the main population, but not the panel group, included persons living in the non-exposed area of Ronneby. The baseline serum levels in the panel study group ranged from 12.3 to 1660 ng/mL for PFHxS, 24.1 to 1500 ng/mL for PFOS, and 2.38 to 92 ng/mL for PFOA ( table 3 ).
+ Age at baseline had a strong effect on serum PFHxS, PFOS and PFOA concentrations with average increases of 1.5%, 1.4% and 1.1% per year of age, respectively. Gender and BMI were not associated with any of the PFAS at baseline.
+
+## Decline of serum levels during follow-up
+ The average decreases in serum level were for PFHxS 25%, for PFOS 35% and for PFOA 38% from June 2014 to September 2016.
+
+ Table 4 shows the results for each excretion rate constant and the corresponding half-life in models for each PFAS. The mean excretion rate constant for PFHxS was 0.13, which is the annual change in log concentration, equivalent to the concentration of PFHxS in serum reducing by 13% per year since clear water was provided. This excretion rate constant is equivalent to a mean half-life of 5.3 (95% CI 4.6 to 6.0) years. For PFOS, the annual decrease was 20%, and the mean half-life was 3.4 years (95% CI 3.1 to 3.7 years). The average decrease in PFOA was 26% of its previous value each year, corresponding to a mean half-life of 2.7 years (95% CI 2.5 to 2.9 years).
+ Table 4 Excretion rate and half-lives for serum PFAS concentrations in 106 participants in a panel study after end of exposure through contaminated drinking water
+ All
+ Men aged 15–50
+ Women aged 15–50
+
+ Mean
+ 95% CI
+ Mean
+ 95% CI
+ Mean
+ 95% CI
+ p*
+
+ Excretion rate constant (per year)† 
+
+ PFHxS
+ 0.13
+ 0.12 to 0.15
+ 0.09
+ 0.07 to 0.11
+ 0.15
+ 0.12 to 0.18
+ 0.008
+
+ PFOS
+ 0.20
+ 0.19 to 0.22
+ 0.15
+ 0.11 to 0.18
+ 0.22
+ 0.19 to 0.26
+ 0.004
+
+ PFOA
+ 0.26
+ 0.24 to 0.28
+ 0.25
+ 0.19 to 0.26
+ 0.29
+ 0.23 to 0.34
+ 0.29
+
+ Half-life (years)‡ 
+
+ PFHxS
+ 5.3
+ 4.6 to 6.0
+ 7.4
+ 6.0 to 9.7
+ 4.7
+ 3.9 to 5.9
+ 0.008
+
+ PFOS
+ 3.4
+ 3.1 to 3.7
+ 4.6
+ 3.7 to 6.1
+ 3.1
+ 2.7 to 3.7
+ 0.004
+
+ PFOA
+ 2.7
+ 2.5 to 2.9
+ 2.8
+ 2.4 to 3.4
+ 2.4
+ 2.0 to 3.0
+ 0.29
+
+ The subgroup aged 15–50 includes 20 men and 30 women.
+ *p Values for the difference between genders in the model for excretion rate.
+ †The estimates in the table are adjusted for age, gender and body mass index in a mixed-effects model.
+ ‡Half-life values are all calculated from excretion rate constant.
+ PFAS, perfluorinated and polyfluorinated substance; PFHxS, perfluorohexane sulfonate; PFOA, perfluorooctanoate; PFOS, perfluorooctane sulfonate.
+ The distributions of half-lives are shown in figure 1 , after exclusion of outliers for the fitted estimated half-life as follows: one with a negative half-life (n=1 for PFHxS) and nine over 10 years (n=8 for PFHxS, n=1 for PFOS). The median value of the remaining half-lives for PFHxS was 5.5 years (5%–95% range: 3.0–9.2 years). For PFOS, the median half-life was 3.5 years (5%–95% range: 2.2–6.2 years). For PFOA, the median half-life for PFOA was 2.7 years (5%–95% range: 1.8–5.1 years).
+ Figure 1 The interindividual variation of half-lives for perfluorinated and polyfluorinated substances in 106 participants in a panel study after end of exposure through contaminated drinking water, excluding outliers. PFHxS, perfluorohexane sulfonate; PFOA, perfluorooctanoate; PFOS, perfluorooctane sulfonate.
+ Women aged 15–50 had a considerably shorter mean half-life for PFHxS compared with men ( table 3 ), with men 1.6-fold longer. For PFOS the pattern was similar, with men 1.5-fold longer. For PFOA the difference was small. The distributions of half-lives in women and men aged 15–50 are illustrated in online supplementary  figure S1 .
+ 10.1136/oemed-2017-104651.supp1 Supplementary file 1 
+
+## Discussion
+ Among 106 persons observed between 6 and 33 months after end of exposure to PFAS-contaminated drinking water, the shortest half-life was observed for PFOA with a mean of 2.7 years. The half-life for PFHxS was twice as long, 5.3 years, and for PFOS the mean was 3.4 years. These results are somewhat shorter than the prior results for PFOS and PFHxS, based on observations in 24 retired fluorocarbon workers, to our knowledge the only other study that hitherto has reported apparent half-lives for PFOS and PFHxS after end of exposure that was substantially higher than the general population background. 4 The retired workers, all but two men, were older than our population, had higher serum levels of PFOA and PFOS, and were followed for a longer period, 5 years. For PFHxS, the apparent half-life has been estimated to be 15.5 years in a recent study from a community with residential exposure to PFAS. 11 The PFHxS levels in serum in that study were much lower than in our study, that is, 6.4 ng/mL vs 152 ng/mL. Furthermore, their population still had ongoing exposure, and a pharmacokinetic modelling approach based only on water intake was used to account for ongoing exposure. In our study, the background exposure was not subtracted when modelling half-life since the exposure levels in the general population from all sources were negligible compared with earlier drinking water intake in the study population. Our estimate of apparent half-life, which was obtained after a documented abrupt end of the dominating source of exposure, is thus a reliable estimate of the actual half-life of PFHxS.
+ Our estimate of apparent half-life for PFOA is in the range of values reported from five studies with averages ranging from 2.3 to 3.94 years, observed in fluorocarbon workers 4 ; studies in populations living in PFOA-polluted areas around production plants, followed for 1–2 years after provision of clean drinking water 5 12 ; occupationally exposed ski waxers 13 ; and a study in a community exposed residentially to PFAS. 11 For PFOS, the population half-life has been estimated to be 4.3 years from studies in US blood donors reflecting general population reduction in exposure. 14 After an abrupt end of a dominating source of exposure, as in Ronneby, the finding of a shorter apparent half-life is as expected.
+ The interindividual variation in half-life was substantial, with a threefold difference between the 5th and 95th percentiles in each of the three PFAS, plus a few extreme outliers with extremely long half-lives. Large interindividual differences were also observed in retired fluorocarbon workers 4 and in the general population after end of drinking water exposure. 5 12 The variability between individuals, and between men and women, has not yet been adequately explained.
+ Blood loss due to menstruation accounts partly for a shorter elimination half-life in women, and was estimated to account for 30% of the discrepancy in elimination of PFOS between men and women. 6 In this respect, the marked gender difference in elimination of PFHxS, as observed in our study and by Brede et al 
+ 5 but not for PFOA (our study and Bartell et al 
+ 12 ), with PFOS in between, is intriguing. Elimination pathways that are sex-specific and substance-specific appear to exist.
+ Reabsorption by OATs in the kidneys and extensive uptake from enterohepatic circulation for PFOS and PFOA are active processes that may differ between individuals, but also between different PFASs. An increased renal PFAS elimination at high doses indicates a capacity-limited, saturable renal resorption process via high-efficiency OATs, 15 16 which may have sex-different expression. 17 Moreover, in a PFOA-exposed US population, the excretion rate was related to polymorphisms (single-nucleotide polymorphisms; SNPs) in tubular transporter proteins. 18 Faecal elimination is little studied in humans, with the exception of some case reports that indicate that cholestyramine, a lipid-lowering pharmaceutical, may enhance elimination. 19 
+
+ In addition to differences between individuals as to excretion capacity, recent data using paired human serum and urine samples for estimation of T½ have indicated marked differences between excretion of PFASs with different chain-length and isomers. 20 It is likely that linear isomers are preferentially retained, 21 but observational longitudinal human data on the excretion of linear versus branched chain isomers are absent. Thus, variation of T½ between populations and between individuals using total PFOS, PFOA and PFHxS determinations (as in this study) may in part reflect body burdens with different isomer composition.
+ Such differences are likely to be found in humans, given the varying production methods of PFAS over time. Synthesis of PFAS is by electrochemical fluorination or fluorotelomerisation. Electrochemical fluorination was used from the 1950s until the early 2000s and yielded branched and linear isomers. By contrast, fluorotelomerisation, which was later introduced, produces almost exclusively linear compounds. 22 The firefighting foams used over time have differed in composition, but there may also be varying fate of different PFAS structural isomers during soil and groundwater transportation. Thus, it is of importance to include determination of both linear and branched isomers of PFOS, PFHxS and PFOA in order to understand differences in observed half-lives. Refined estimates of the half-lives of PFAS compounds and the important denominators of variance are needed to reconstruct historical exposure for epidemiological studies as well as to project future exposures for risk assessment.
+ Out of the hundreds of PFAS compounds now available, only PFOS is internationally regulated according to the Stockholm Convention, and PFOA is on the candidate list. The human data on PFHxS uptake and elimination are hitherto very limited. The present observations confirm the long persistence of this compound after end of external exposure—a rough extrapolation based on the mean half-life indicates that 10-year-old children from the contaminated water district cannot expect to attain the same PFHxS levels as their peers in the neighbouring town of Karlshamn until the age of 60–70. Thus, even after prompt end of external exposure, AFFF contamination of drinking water can result in very high exposure levels in a life-course perspective in local general populations. Hence, the need for precautionary regulations for classes of PFASs is imperative.
+
+## Limitation
+ The main limitation of the present first analysis is that the serum samples were analysed during a 2-year period and each individual’s samples were not analysed in the same batch. All samples were analysed at the same laboratory with the same methods and work-up procedure. However, there is a need to reanalyse all samples from each individual in the same batch to reduce laboratory variation, especially when determinants for variation in half-lives are investigated. This is planned as a next step in our studies.
+
+ We acknowledge the work of the field team during serum samplings, and the study participants.
+ Contributors: YL carried out the statistical analyses, interpreted the results and wrote the manuscript. TF interpreted the results and wrote the manuscript. DM reviewed drafts of the manuscript and provided valuable comments for the manuscript. KS participated in the study design, communicated with study participants and managed the data, reviewed the drafts, and provided valuable comments. CHL is responsible for the chemical analysis in the study, reviewed the drafts and provided valuable comments for the manuscript. PT collected the serum samples, communicated with study participants and reviewed the draft. KJ is the principal investigator, led the conceptual and methodological design of the study, and wrote the manuscript. All authors have read and approved the final version of the manuscript.
+ Funding: The study was funded by the Swedish Research Council FORMAS (grant reference number 216-2017-1709) and Arbets-och miljömedicin Syd.
+ Competing interests: None declared.
+ Patient consent: Obtained.
+ Ethics approval: The studies have ethical approval from the Ethics Committee at Lund University, Sweden.
+ Provenance and peer review: Not commissioned; externally peer reviewed.
+
+## References
+ 1 
+ Board TR , National Academies of Sciences E, Medicine . : Thalheimer AH , McConney LB , Kalinovich IK , Use and Potential Impacts of AFFF Containing PFASs at Airports . Washington, DC : The National Academies Press , 2017 : 222 . 2 
+ Vestergren R , Cousins IT 
+ Tracking the pathways of human exposure to perfluorocarboxylates . Environ Sci Technol 
+ 2009 ; 43 : 5565 – 75 . 10.1021/es900228k 
+ 19731646 3 
+ Lau C , Anitole K , Hodes C , et al 
+ Perfluoroalkyl acids: a review of monitoring and toxicological findings . Toxicol Sci 
+ 2007 ; 99 : 366 – 94 . 10.1093/toxsci/kfm128 
+ 17519394 4 
+ Olsen GW , Burris JM , Ehresman DJ , et al 
+ Half-life of serum elimination of perfluorooctanesulfonate, perfluorohexanesulfonate, and perfluorooctanoate in retired fluorochemical production workers . Environ Health Perspect 
+ 2007 ; 115 : 1298 – 305 . 10.1289/ehp.10009 
+ 17805419 PMC1964923 5 
+ Brede E , Wilhelm M , Göen T , et al 
+ Two-year follow-up biomonitoring pilot study of residents' and controls' PFC plasma levels after PFOA reduction in public water system in Arnsberg, Germany . Int J Hyg Environ Health 
+ 2010 ; 213 : 217 – 23 . 10.1016/j.ijheh.2010.03.007 
+ 20488749 6 
+ Wong F , MacLeod M , Mueller JF , et al 
+ Enhanced elimination of perfluorooctane sulfonic acid by menstruating women: evidence from population-based pharmacokinetic modeling . Environ Sci Technol 
+ 2014 ; 48 : 8807 – 14 . 10.1021/es500796y 
+ 24943117 7 
+ Olsen GW , Chang SC , Noker PE , et al 
+ A comparison of the pharmacokinetics of perfluorobutanesulfonate (PFBS) in rats, monkeys, and humans . Toxicology 
+ 2009 ; 256 : 65 – 74 . 10.1016/j.tox.2008.11.008 
+ 19059455 8 
+ Survey of fire-fighting foam : Swedish Chemical Agency , 2015 . 9 
+ Lindh CH , Rylander L , Toft G , et al 
+ Blood serum concentrations of perfluorinated compounds in men from Greenlandic Inuit and European populations . Chemosphere 
+ 2012 ; 88 : 1269 – 75 . 10.1016/j.chemosphere.2012.03.049 
+ 22494529 10 
+ Robinson GK 
+ That BLUP is a good thing: the estimation of random effects . Statistical Science 
+ 1991 ; 6 : 15 – 32 . 10.1214/ss/1177011926 
+ 11 
+ Worley RR , Moore SM , Tierney BC , et al 
+ Per- and polyfluoroalkyl substances in human serum and urine samples from a residentially exposed community . Environ Int 
+ 2017 ; 106 : 135 – 43 . 10.1016/j.envint.2017.06.007 
+ 28645013 PMC5673082 12 
+ Bartell SM , Calafat AM , Lyu C , et al 
+ Rate of decline in serum PFOA concentrations after granular activated carbon filtration at two public water systems in Ohio and West Virginia . Environ Health Perspect 
+ 2010 ; 118 : 222 – 8 . 10.1289/ehp.0901252 
+ 20123620 PMC2831921 13 
+ Gomis MI , Vestergren R , Nilsson H , et al 
+ Contribution of direct and indirect exposure to human serum concentrations of perfluorooctanoic acid in an occupationally exposed group of ski waxers . Environ Sci Technol 
+ 2016 ; 50 : 7037 – 46 . 10.1021/acs.est.6b01477 
+ 27304840 14 
+ Olsen GW , Lange CC , Ellefson ME , et al 
+ Temporal trends of perfluoroalkyl concentrations in American Red Cross adult blood donors, 2000-2010 . Environ Sci Technol 
+ 2012 ; 46 : 6330 – 8 . 10.1021/es300604p 
+ 22554481 15 
+ Andersen ME , Clewell HJ , Tan YM , et al 
+ Pharmacokinetic modeling of saturable, renal resorption of perfluoroalkylacids in monkeys--probing the determinants of long plasma half-lives . Toxicology 
+ 2006 ; 227 : 156 – 64 . 10.1016/j.tox.2006.08.004 
+ 16978759 16 
+ Loccisano AE , Campbell JL , Andersen ME , et al 
+ Evaluation and prediction of pharmacokinetics of PFOA and PFOS in the monkey and human using a PBPK model . Regul Toxicol Pharmacol 
+ 2011 ; 59 : 157 – 75 . 10.1016/j.yrtph.2010.12.004 
+ 21168463 17 
+ Burckhardt G 
+ Drug transport by Organic Anion Transporters (OATs) . Pharmacol Ther 
+ 2012 ; 136 : 106 – 30 . 10.1016/j.pharmthera.2012.07.010 
+ 22841915 18 
+ Fletcher T , Yucesoy B , Bartell S , et al 
+ Genetic variations in kidney transporter proteins and Serum Half-lives of Perfluorooctanoic Acid (PFOA) and Perfluorooctane Sulfonic Acid (PFOS) . Epidemiology 
+ 2012 ; 23 : P-204 . 19 
+ Genuis SJ , Birkholz D , Ralitsch M , et al 
+ Human detoxification of perfluorinated compounds . Public Health 
+ 2010 ; 124 : 367 – 75 . 10.1016/j.puhe.2010.03.002 
+ 20621793 20 
+ Zhang Y , Beesoon S , Zhu L , et al 
+ Biomonitoring of perfluoroalkyl acids in human urine and estimates of biological half-life . Environ Sci Technol 
+ 2013 ; 47 : 10619 – 27 . 10.1021/es401905e 
+ 23980546 21 
+ Miralles-Marco A , Harrad S 
+ Perfluorooctane sulfonate: a review of human exposure, biomonitoring and the environmental forensics utility of its chirality and isomer distribution . Environ Int 
+ 2015 ; 77 : 148 – 59 . 10.1016/j.envint.2015.02.002 
+ 25728452 22 
+ Vyas SM , Kania-Korwel I , Lehmler HJ 
+ Differences in the isomer composition of perfluoroctanesulfonyl (PFOS) derivatives . J Environ Sci Health A Tox Hazard Subst Environ Eng 
+ 2007 ; 42 : 249 – 55 . 10.1080/10934520601134031 
+ 17365291

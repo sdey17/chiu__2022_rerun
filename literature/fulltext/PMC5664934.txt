@@ -1,0 +1,492 @@
+Toxicol Appl Pharmacol Toxicol. Appl. Pharmacol. 2530 hhspa 0416575 Toxicology and applied pharmacology 0041-008X 1096-0333 pmc-is-collection-domain yes pmc-collection-title HHS Author Manuscripts PMC5664934 PMC5664934.1 5664934 5664934 NIHMS915764 28684146 10.1016/j.taap.2017.07.001 NIHMS915764 HHSPA915764 1 Article Physiologically based pharmacokinetic modeling of human exposure to perfluorooctanoic acid suggests historical non drinking-water exposures are important for predicting current serum concentrations Worley Rachel Rogers a b * Yang Xiaoxia c Fisher Jeffrey b c 
+ a Division of Community Health Investigations, Agency for Toxic Substances and Disease Registry, Atlanta, GA, USA 
+ b Interdisciplinary Toxicology Program, University of Georgia, Athens, GA, USA 
+ c National Center for Toxicological Research, Food and Drug Administration, Jefferson, AR, USA * Corresponding author at: ATSDR Division of Community Health Investigations, 4770 Buford Highway, MS F59, Atlanta, GA 30341, USA. RWorley@cdc.gov , idz7@cdc.gov (R.R. Worley) 03 7 2017 01 9 2017 330 300779 9 21 26 10 2017 01 09 2018 01 09 2018 02 11 2017 16 04 2026 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law. Manufacturing of perfluorooctanoic acid (PFOA), a synthetic chemical with a long half-life in humans, peaked between 1970 and 2002, and has since diminished. In the United States, PFOA is detected in the blood of >99% of people tested, but serum concentrations have decreased since 1999. Much is known about exposure to PFOA in drinking water; however, the impact of non-drinking water PFOA exposure on serum PFOA concentrations is not well characterized.
+ The objective of this research is to apply physiologically based pharmacokinetic (PBPK) modeling and Monte Carlo analysis to evaluate the impact of historic non-drinking water PFOA exposure on serum PFOA concentrations.
+ In vitro to in vivo extrapolation was utilized to inform descriptions of PFOA transport in the kidney. Monte Carlo simulations were incorporated to evaluate factors that account for the large inter-individual variability of serum PFOA concentrations measured in individuals from North Alabama in 2010 and 2016, and the Mid-Ohio River Valley between 2005 and 2008.
+ Predicted serum PFOA concentrations were within two-fold of experimental data. With incorporation of Monte Carlo simulations, the model successfully tracked the large variability of serum PFOA concentrations measured in populations from the Mid-Ohio River Valley. Simulation of exposure in a population of 45 adults from North Alabama successfully predicted 98% of individual serum PFOA concentrations measured in 2010 and 2016, respectively, when non-drinking water ingestion of PFOA exposure was included.
+ Variation in serum PFOA concentrations may be due to inter-individual variability in the disposition of PFOA and potentially elevated historical non-drinking water exposures.
+
+ PFOA PBPK Human Monte Carlo pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access no pmc-prop-olf no pmc-prop-manuscript yes pmc-prop-open-manuscript yes pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement yes pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes 
+
+## 1. Introduction
+ Perfluorooctanoic acid (PFOA) is a synthetic chemical comprised of a fully fluorinated eight carbon chain with a carboxylic acid functional group. Interest in PFOA has increased since the turn of the century, in part due to evidence that PFOA is highly environmentally and biologically persistent and that it has a much longer biological half-life in humans than in laboratory animals. The discovery that people living near a PFOA manufacturing facility in the Mid-Ohio River Valley had serum PFOA concentrations higher than the general United States Population ( Frisbee et al., 2009 ) has also increased interest. Some, but not all studies in humans have shown that exposure to PFOA may affect the developing fetus and child, including possible changes in growth ( Darrow et al., 2013 ; Johnson et al., 2014 ), learning, and behavior ( Stein and Savitz, 2011 ; Stein et al., 2014 ). In addition, PFOA exposure may be associated with various reproductive effects ( Stein et al., 2009 ; Savitz et al., 2012 ; Darrow et al., 2013 ), increased cholesterol ( Steenland et al., 2009b ; Frisbee et al., 2010 ), altered immune function ( Grandjean et al., 2012 ; Steenland et al., 2013 ), and increased cancer risk ( Steenland et al., 2010 ; Steenland and Woskie, 2012 ; Barry et al., 2013 ; Nicole, 2013 ).
+ The manufacture and use of PFOA began in the 1950s, reached a peak between 1970 and 2002, and has diminished since then ( DeWitt, 2015 ). PFOA is both hydrophobic and lipophobic ( DeWitt, 2015 ) and has been used in the manufacture of many consumer products including fast food wrappers, pizza boxes, nonstick cookware, and stain resistant coatings used on carpets and other fabrics ( ATSDR, 2016b ). As a result, human PFOA exposure has historically occurred through contact with these products, consumption of foods and beverage packaged in these materials, and ingestion of contaminated drinking water. Additionally, precursor compounds including 1H,1H,2H,2H-perfluorodecanol (8:2 FTOH) have been shown to degrade to form PFOA ( Dinglasan et al., 2004 ). Therefore, past exposure to 8:2 FTOH could also result in the accumulation of PFOA in the serum ( Henderson et al., 2007 ). As production of PFOA and its precursors has decreased in the United States, PFOA serum concentrations measured in the general United States population have decreased ( Kato et al., 2011 ), indicating that these exposures have also decreased over time.
+ PFOA is highly stable, not readily degraded by strong acids or oxidizing agents, and does not undergo photolysis ( DeWitt, 2015 ). As a result, PFOA does not biodegrade in the environment ( Prevedouros et al., 2006 ). Although PFOA and its precursors are no longer manufactured or used in the United States, many communities are still exposed as a consequence of persisting environmental contamination that occurred when the chemical was made, used, or disposed of ( Frisbee et al., 2009 ). While exposures to PFOA via contact with consumer products appear to be decreasing, PFOA and other per- and polyfluoroalkyl substances (PFAS) are regularly detected in municipal drinking water supplies, private drinking water wells, and recreational waters located in areas where PFAS were manufactured or used ( Holzer et al., 2008 ; ATSDR, 2013 ; Winquist et al., 2013 ; USEPA, 2016 ).
+ PFOA is readily absorbed in the gastrointestinal tract ( Butenhoff et al., 2004b ; Andersen et al., 2006 ), highly bound to human serum albumin ( Wu et al., 2009 ; Salvalaglio et al., 2010 ), not metabolized ( Ophaug and Singer, 1980 ; Butenhoff et al., 2004a ; Kennedy et al., 2004 ; Fasano et al., 2006 ), and excreted unchanged primarily via the kidneys ( Han et al., 2012 ). The biological half-life of PFOA is much longer in humans (2–4 years) than in rats (2 h–6 days) ( Butenhoff et al., 2004b ; Andersen et al., 2006 ; Fasano et al., 2006 ; Olsen et al., 2007 ; Lou et al., 2009 ; Bartell et al., 2010 ; Tatum-Gibbs et al., 2011 ). This is thought to be the consequence of species-dependent differences in hormonal regulation of organic anion transporters (OATs) in the proximal tubule cells of the kidney. In vitro studies have demonstrated that OAT1 ( Slc22a6 ) and OAT3 ( Slc22a8 ) mediate transport of PFOA through the basolateral membrane of the proximal tubule cells and facilitate renal excretion ( Nakagawa et al., 2007 ). OAT4 ( Slc22a11 ) and urate transporter 1 (URAT1, Slc22a12 ) have been shown to mediate transport of PFOA through the apical membrane of the proximal tubule cells and to facilitate the reabsorption of PFOA back into the blood ( Nakagawa et al., 2009 ; Yang et al., 2010 ).
+ Because PFOA clearance from the serum is very slow in humans, past exposures may be an important determinant of current serum concentrations. Exposure to PFOA via contaminated drinking water is well characterized in many communities ( Holzer et al., 2008 ; Frisbee et al., 2009 ; Bartell et al., 2010 ; USEPA, 2016 ). However, data on PFOA exposure via air, dust, and food are sparse, in part due to the analytical challenges of measuring trace amounts of PFOA in environmental media ( Lorber and Egeghy, 2011 ). Thus characterization of past non-drinking water exposure to PFOA is challenging. Previous efforts include “forward-based” approaches in which concentrations are measured in environmental media and combined with contact rates to estimate intake ( Fromme et al., 2009 ), and market basket surveys ( Tittlemier et al., 2007 ; Ericson et al., 2008 ).
+ Pharmacokinetic modeling is a useful tool for a “backward-based” assessment of exposure to PFOA ( Lorber and Egeghy, 2011 ) by which measured serum PFOA concentrations can be analyzed to predict past exposure levels. Previous efforts to model PFOA exposure in humans include PBPK models that describe resorption kinetics by non-specific renal transporters in a filtrate compartment ( Loccisano et al., 2011 ; Fabrega et al., 2014 ). The work presented here improves upon these models through the incorporation of in vitro to in vivo informed extrapolation of experimentally measured kinetic descriptors of specific OATs that play a role in the renal excretion and reabsorption of PFOA.
+ Because of increased monitoring for PFAS in municipal drinking water systems and private wells, many communities have recently discovered that their drinking water supplies are contaminated with PFOA. Serum biomonitoring for PFOA and other PFAS has increased dramatically in response to demands from concerned communities. Interpretation of what these biomonitoring data suggest about mitigation needs is challenging. Through the application of Monte Carlo analysis, the PBPK model for human exposure to PFOA sheds light on the impact of historical non-drinking water PFOA exposures on current serum PFOA concentrations in two exposed populations in the United States. This work informs the interpretation of human biomonitoring data.
+
+## 2. Methods
+
+## 2.1. Key studies
+ Measured serum PFOA concentrations, collected from communities located near PFAS manufacturing facilities in North Alabama and the Mid-Ohio River Valley, were used for calibration and evaluation of the PBPK model for adult PFOA exposure.
+
+## 2.2. North Alabama
+ ATSDR measured serum PFOA concentrations in community members living in Lawrence, Morgan, and Limestone Counties in North Alabama ( ATSDR, 2013 ; ATSDR, 2016a ). Blood samples were collected in 2010 and again in 2016. Forty-five people provided blood samples at both sampling times. Thirty-nine of these participants reported that their primary drinking water source is the West Morgan East Lawrence Municipal Water Authority. The remaining six were excluded from PBPK analysis because they reported drinking primarily bottled water, or water from a municipal system without detectable level of PFOA. The West Morgan East Lawrence Municipal Water Authority is downstream of several PFAS manufacturing facilities and PFOA has been regularly detected in finished water samples. The average PFOA concentration in finished water samples collected between 2010 and 2016 as a part of the EPA’s Third Unregulated Contaminant Monitoring Rule (UCMR3) and through regular monitoring by the Alabama Department of Environmental Management was 0.04 μg/L ( USEPA, 2016 ).
+
+## 2.3. Mid-Ohio River Valley
+ The population living around the DuPont Washington Works facility in the Mid-Ohio River Valley is one of the most well studied PFOA-exposed human populations ( Frisbee et al., 2009 ). Evidence suggests that the water supplies in this area were contaminated with PFOA and other PFAS as a result of industrial releases from the Washington Works facility into the Ohio River, a primary source of public drinking water ( Frisbee et al., 2009 ). This also resulted in contamination of the water table and aquifer systems that feed private drinking water wells ( Frisbee et al., 2009 ). Measured serum PFOA concentrations from three large studies ( Emmett et al., 2006 ; Steenland et al., 2009a ; Bartell et al., 2010 ) in this area were used to develop the human PBPK model for PFOA exposure described here. Given that PFOA was manufactured in the Mid-Ohio River Valley beginning in 1951 and exposure has likely occurred in this community for several decades, measured serum PFOA concentrations were assumed to be at steady state prior to the introduction of granular activated carbon (GAC) filtration in 2007. When engineered and maintained properly, GAC filtration is an effective method for removal of PFOA. Concentrations of PFOA in drinking water were below detection limits in this community following GAC filtration implementation ( Bartell et al., 2010 ).
+ Bartell et al. (2010) collected blood samples from people in the Mid-Ohio River Valley between May 2007 and August 2008. Forty participants reported that the Little Hocking Water Association was their primary source of drinking water and 132 participants reported that the Lubeck Public Service District was their source of primary drinking water. Both of these water systems had detectable levels of PFOA. In 2007, both water systems implemented GAC filtration to remove PFOA from the water. Baseline blood samples were collected before the introduction of filtration and approximately 1, 2, 3, 6, and 12 months following the initial blood draw. Filtration was implemented at the Little Hocking Water Association approximately five months after baseline blood samples were collected. Filtration was implemented at the Lubeck Public Service district less than one month after baseline blood samples were collected. Pre-filtration water samples from the Little Hocking Water Association had PFOA concentrations ranging from 1.9 to 4.9 μg/L during the study period, while post-filtration concentrations were all nonquantifiable or nondetectable (<0.016 μg/L). Pre-filtration water samples from the Lubeck Public Service district had PFOA concentrations ranging from 0.41–1.0 μg/L, while post-filtration water concentrations were all below the quantification limit ( Bartell et al., 2010 ).
+ Steenland et al. (2009a) collected blood samples from 64,251 Mid-Ohio Valley residents in 2005–2006 as part of the C8 Health Project, a survey conducted in response to a class-action lawsuit alleging health damage as a result of human exposure to PFOA in the drinking water supply ( Frisbee et al., 2009 ; Steenland et al., 2009a ). Measured serum PFOA concentrations were stratified by drinking water district. 8390 participants resided in the Little Hocking Water district at the time of sample collection. All blood samples were collected before granular activated carbon filtration was implemented. Steenland et al. (2009a) did not report drinking water concentrations.
+ Emmett et al. (2006) measured serum PFOA concentrations in 371 residents of the Little Hocking Water Association district selected by stratified random sampling and lottery amongst volunteers. Blood samples were collected in 2005–2006. Emmett et al. (2006) reported concentrations of PFOA in drinking water ranging from 1.5 μg/L to 7.2 μg/L, with a mean concentration of 3.55 μg/L. All blood samples were collected prior to implementation of granular activated carbon at the Little Hocking Water Association.
+
+## 2.4. Human PBPK model development
+ A previously published PBPK model for PFOA exposure in male and female rats ( Worley and Fisher, 2015 ) was used as a starting point for development of a PBPK model for adult human exposure to PFOA. The rat model included physiologically based descriptions of the basolateral and apical transporters associated with renal excretion and renal reabsorption in order to predict PFOA serum kinetics in adult rats. To parameterize the human model, species-specific kinetic model parameters were scaled from rat to human based on data available in the literature.
+ Following calibration and evaluation of the deterministic model, Monte Carlo analysis was incorporated in order to account for variability of the most sensitive model parameters, including pharmacokinetic parameters, as well as measures of drinking water and non-drinking water exposure.
+
+## 2.5. PBPK model structure
+ The structure of the model is shown in Fig. 1 . The model contains compartments for plasma, liver, a lumped compartment representing the rest of the body tissues, a three-compartment kidney comprised of the kidney serum, proximal tubule cells, and kidney filtrate, and a non-physiological description of the gastrointestinal tract (stomach, small intestine).
+ PFOA is introduced via drinking water and non-drinking water ingestion directly into the stomach. Drinking water exposures are accounted for using measured drinking water concentrations ( exposeddw , μg/L). Drinking water intake rate ( drinktotal , L/day) was set to the consumer only mean estimate for adults (>21) as reported in the 2011 USEPA Exposure Factors Handbook ( USEPA, 2011 ). Non-drinking water exposure is treated as a continuous ingestion rate ( ingest , μg/h). Absorption occurs in the stomach and small intestine. Absorbed PFOA is carried to the liver in the serum and then enters systemic circulation. PFOA is excreted in the urine, bile, and feces.
+ Renal excretion and reabsorption is described with a three-compartment kidney. PFOA in the kidney blood moves directly into the filtrate via glomerular filtration ( GFR ) or undergoes active transport into the proximal tubule cells facilitated by basolateral transporters. Transport of PFOA from the kidney blood into the proximal tubule cells is a nonlinear process described using Michaelis-Menten parameters, Vmax_baso (μg/h) and Km_baso (μg/L). PFOA in the filtrate is either excreted in the urine via first-order rate constant, kurine (/h), or reabsorbed back into the proximal tubule cells via active transport through apical membrane transporters. Active transport of PFOA from the filtrate into the proximal tubule cells is also a non-linear process described using Michaelis-Menten parameters, Vmax_apical (μg/h) and Km_apical (μg/L). Diffusion of PFOA into and out of the proximal tubule cells is described by a first-order rate constant, kdif (L/h). Efflux of PFOA from the proximal tubule cells back into systemic circulation is described by a first-order rate constant, kefflux (/h).
+ Model code was written and simulations were performed using AcslX modeling software (AEgis Technologies, Huntsville, AL, version 3.1.4.2). Model code is available in the Supplementary materials .
+
+## 2.6. Physiological parameters
+ Physiological parameters used in the model are shown in Table 1 . Study-specific body weights ( BW , kg) were used for simulations when available. When not available, the default body weight (i.e., 80 kg) reported for the general US population (aged 21 and older) were used ( USEPA, 2011 ). Parameter values reported in the literature were used to parameterize fractional tissue volumes ( Davies and Morris, 1993 ; Brown et al., 1997 ) and plasma flows ( Brown et al., 1997 ), cardiac output ( Forsyth et al., 1968 ), and glomerular filtration ( Corley et al., 2005 ). Cardiac output was scaled to body weight raised to the ¾ power ( BW 0.75 ), tissue volumes were scaled to body weight ( BW ), and glomerular filtration was scaled to kidney weight. Because PFOA does not partition into red blood cells, blood flow rates were adjusted to plasma flow rates by multiplying blood flow by 1 – hematocrit to describe the kinetics of PFOA in plasma ( Davies and Morris, 1993 ; Brown et al., 1997 ).
+
+## 2.7. Chemical specific parameters
+ Chemical specific parameters used in the model are shown in Table 2 and described in detail below.
+
+## 2.8. Free Fraction
+ PFOA is highly bound (>90%) to human serum albumin ( Han et al., 2003 ). Only the free fraction is available for partitioning into tissues and distribution throughout the body ( Andersen et al., 2006 ; Tan et al., 2008 ). This was described in the model using a free fraction constant ( Free , unitless) that was multiplied by the amount of PFOA moving into and out of each compartment. Thus, only the unbound PFOA was able to partition into tissues, engage in active or passive transport, or be excreted from the body. The free fraction used in this model is consistent with past modeling efforts ( Andersen et al., 2006 ; Loccisano et al., 2011 ).
+
+## 2.9. Uptake and elimination
+ Uptake of PFOA was described using a two-compartment gastrointestinal tract. Uptake in the stomach and small intestine was described using first-order rate constants k0c (/h/kg −0.25 ) and kabsc (/h/kg −0.25 ), respectively. A gastric emptying rate ( GEc , /h/kg −0.25 ) reported in the literature ( Yang et al., 2014 ) was used to describe the rate at which PFOA was transferred from the stomach into the small intestine. Elimination occurred in the urine, feces, and bile. Renal excretion from the filtrate was described with a first-order rate constant, kurinec (/h/kg −0.25 ), which was fit to experimental data (see Model Calibration ). Unabsorbed PFOA was excreted in the feces, as described by first-order rate constant, kunabsc (/h/kg −0.25 ). PFOA is susceptible to biliary excretion. Experimental evidence suggests that this is not a significant excretion pathway ( Butenhoff et al., 2004b ); however, it was included in the model for completeness. Excretion of PFOA into the feces via the bile was described with first-order rate constant, kbilec (/h/kg −0.25 ). K0c, kabsc, kurinec, kunabsc, and kibilec were fit to experimental data (see Model Calibration ). K0c , kabsc, kunabsc, keffluxc, kbilec, kurinec, and GEC were scaled to body weight ( BW −0.25 ).
+
+## 2.10. Tissue partitioning
+ Tissue:plasma partition coefficients for PFOA in the kidney ( PK ) and liver ( PL ) were estimated from experimental data from autopsy tissues collected from people who lived in Tarragona County, Catalonia, Spain ( Perez et al., 2013 ; Fabrega et al., 2014 ). The tissue: plasma partition coefficient for PFOA in the rest of body ( PR ) was estimated from serum and tissue data collected from male Wistar rats ( Kudo et al., 2007 ). Rats were administered a single intravenous dose of either 0.041 mg/kg bodyweight or 16.56 mg/kg body weight [ 14 C] PFOA and serum and tissue samples were collected 2 h later. Concentrations measured in body tissues following the low dose administration were used to calculate PR for use in the model ( Kudo et al., 2007 ; Loccisano et al., 2011 ).
+
+## 2.11. Transport in the kidney compartment
+ In vitro to in vivo extrapolation was applied to inform the derivation of Michaelis-Menten parameters governing the active transport of PFOA by basolateral and apical membrane transporters in the proximal tubule cells, as described previously ( Worley and Fisher, 2015 ).
+ In vitro measurements of Vmax for uptake of [ 14 C] PFOA by recombinant OAT1 and OAT3 expressed in human embryonic kidney (HEK293) cells ( Nakagawa et al., 2007 ) were averaged and translated into an in vivo parameter ( Vmax_baso ) by multiplying with a relative activity factor ( RAFbaso ) and an estimated mass of proximal tubule cells ( protein ) based on an estimated 60 million proximal tubule cells/g kidney ( Hsu et al., 2014 ). The reported Km values for OAT1 and OAT3 uptake of [ 14 C] PFOA ( Nakagawa et al., 2007 ) were averaged and used directly in the model ( Km_baso ).
+ In vitro measurement of Vmax for uptake of [ 14 C] PFOA by OAT4 expressed in HEK293 cells ( Yang et al., 2010 ) was translated into an in vivo parameter ( Vmax_apical ) by multiplying with a relative activity factor ( RAFapical ) and an estimated mass of proximal tubule cells ( protein ) based on an estimated 60 million proximal tubule cells/g kidney ( Hsu et al., 2014 ). In vitro measurements of [ 14 C] PFOA uptake by URAT1 were only available on a per well basis and were not used to parameterize Vmax_baso . The reported Km values for uptake of [ 14 C]PFOA by OAT4, expressed in HEK293 cells, and URAT1, expressed in Chinese ovary (CHO) cells, were averaged and used directly in the model ( Km_apical ).
+ Experimental data was not available to parameterize RAFbaso and RAFapical ; these parameters were fit to experimental data (see Model Calibration ).
+
+## 2.12. Model calibration
+ Serum PFOA concentrations measured in community members living in North Alabama in 2010 and 2016 who reported drinking water from the West Morgan East Lawrence Municipal Water Authority ( ATSDR, 2016a ) were used to calibrate the deterministic PBPK model (n = 39). For all calibration simulations, the non-drinking water ingestion rate was set to 0.01 μg/h, equivalent to the background PFOA exposures estimated for the general population of western countries ( Fromme et al., 2009 ). The drinking water exposure concentration was set to 0.04 μg/L, the average PFOA concentration reported in finished water from the West Morgan East Lawrence Municipal Water Authority between 2010 and 2016 ( Poolos, 2016 ). Blood samples were collected in this population in April 2010 and January–February 2016, while granular activated carbon filtration was installed in September–October 2016. As a result, the PFOA drinking water concentration was held constant during model calibration.
+ To reduce the simulation time, preliminary simulations were run to near steady state (approximately 30 years). The amount of PFOA in each model compartment was then used as the initial condition for subsequent calibration simulations. Simulations were run to achieve serum PFOA concentrations at the beginning of the model simulation (time = 0) equal to the geometric mean serum PFOA concentrations measured in 2010. Body weight and urinary void rate ( kvoid , L/h) were set to the average values of people from whom blood samples were collected ( ATSDR, 2016a ). The model was then run for the duration between the collection of blood samples in 2010 and 2016 (5.75 years). Parameter values for which data were not available were adjusted in order to achieve predicted serum PFOA concentrations measured in 2016. Four parameters that govern renal excretion and reabsorption ( keffluxc , kurinec , RAFapical , and RAFbaso ), two parameters that govern absorption in the gastrointestinal tract ( k0c , kabsc ), and two parameters that govern biliary and fecal elimination ( kbilec , kunasbsc ) were fit to this experimental data.
+ The initial value for each of these parameters was set to the value used in the PBPK model for PFOA exposure in the male rat ( Worley and Fisher, 2015 ). Parameter values were then varied simultaneously in order to achieve a consistent description of the experimental data collected in North Alabama in 2010 and 2016.
+
+## 2.13. Model evaluation
+ The PBPK model for human exposure to PFOA was evaluated using serum PFOA concentrations measured in blood samples from people living in the Mid-Ohio River Valley. Three studies ( Emmett et al., 2006 ; Steenland et al., 2009a ; Bartell et al., 2010 ) were used for evaluation of the deterministic model.
+
+## 2.14. Bartell et al., 2010 
+ Serum PFOA concentrations measured in blood samples collected at six time points from people who drank water from the Little Hocking Water Association or the Lubeck Public Service District were used for evaluation of the model ( Bartell et al., 2010 ). Data from this study’s manuscript were digitized from using GetData Graph Digitizer version 2.26.0.20.
+ In the population who drank water from the Little Hocking Water Authority (n = 40), the first four blood samples were collected approximately 5, 4, 3, and 2 months prior to introduction of GAC filtration. The remaining two blood samples were collected approximately 1 and 7 months after the introduction of GAC filtration. To evaluate the ability of the model to predict these serum PFOA concentrations, the model was run to simulate exposure to PFOA in drinking water at the high (4.9 μg/L) and low (1.9 μg/L) end of the reported range of drinking water concentrations in this system for approximately 30 years. The drinking water concentration was then changed to 0.0 μg/L five months after the first blood sample was collected, corresponding to the point at which GAC filtration was introduced. Non-drinking water ingestion was set to 0.01 μg/h, equivalent to estimated background exposures for people living in western countries ( Fromme et al., 2009 ), and held constant. Measured time course serum PFOA concentrations were overlaid with model predictions.
+ In the population who drank water from the Lubeck Public Service District (n = 132), the first blood sample was collected less than one month prior to the introduction of GAC filtration, while the remaining five blood samples were collected approximately 1, 2, 3, 6 and 12 months later. To evaluate the ability of the model to predict these serum concentrations, the model was run to simulate a 30 year exposure to PFOA in drinking water at the high (1.0 μg/L) and low (0.41 μg/L) end of the reported range in the Lubeck Public Service District. The drinking water concentration was changed to 0.0 μg/L one week after the first blood sample was collected, corresponding to the introduction of GAC filtration. Non-drinking water ingestion was set to 0.01 μg/h, equivalent to estimated background exposures for people living in western countries ( Fromme et al., 2009 ), and held constant. The measured time course serum PFOA concentrations were overlaid with model predictions.
+
+## 2.15. Steenland et al., 2009a , b 
+ Serum PFOA concentrations measured in 8930 people who lived in the Little Hocking Water District ( Steenland et al., 2009b ) were used to validate the predictive ability of the model. The study authors did not report drinking water concentrations for the Little Hocking Water District, however estimates from other studies of this water system at the time of blood sample collection report that concentrations ranged from 1.5 to 7.2 μg/L, with a mean concentration of 3.55 μg/L ( Emmett et al., 2006 ). In order to evaluate the ability of the model to predict serum PFOA concentrations measured by Steenland et al. (2009a) , simulations were run with drinking water concentration equal to the high and low ends of this reported range, as well as the mean. Simulations were run for 50 years to simulate the likely long-term exposure that occurred in this community and to achieve steady-state serum PFOA concentrations. Non-drinking water ingestion was again set to 0.01 μg/h and held constant. The published data from ( Steenland et al., 2009a ) were digitized using GetData Graph Digitizer version 2.26.0.20. The measured serum PFOA concentrations were overlaid with model predictions.
+
+## 2.16. Emmett et al., 2006 
+ Emmett et al. (2006) measured serum PFOA concentrations in 371 residents of the Mid-Ohio River Valley who received drinking water from the Little Hocking Water Authority. The authors reported median PFOA serum concentrations for this population, as well as the interquartile range. Emmett et al. (2006) reported PFOA drinking water concentrations in the Little Hocking Water Authority between 1.5 and 7.2 μg/L, with a mean of 3.55 μg/L ( Emmett et al., 2006 ). To evaluate how well the model predicted the serum PFOA concentrations reported in this study, the measured PFOA serum concentrations were compared to simulations of exposure to drinking water concentrations at the low end (1.5 μg/L), mean (3.55 μg/L), and high end (7.2 μg/L) of the reported range. Simulations were run for over 30 years in order to replicate the long-term exposure that occurred in this community and to achieve steady-state serum PFOA concentrations. Non-drinking water ingestion was held constant at 0.01 μg/h for all simulations. The measured serum PFOA concentrations were overlaid with model predictions.
+
+## 2.17. Sensitivity analysis
+ A sensitivity analysis was performed in order to determine the impact of each parameter on the predicted serum PFOA concentration. Sensitivity coefficients were determined based on the steady-state serum concentrations resulting from a 1% change in the value of each parameter using the forward difference method. Sensitivity coefficients were normalized using the following equation
+
+ Sensitivity Coefficient = ( A - B ) B / ( C - D ) D where A is the steady-state serum concentration resulting from a 1% increase in the parameter value, B is the steady-state serum concentration resulting from the initial parameter value, C is the value of parameter increased by 1%, and D is the initial parameter value. Simulations were run for thirty years with drinking water concentration set to high (3.55 μg/L) and low (0.04 μg/L) levels and non-drinking water ingestion rate set to 0.01 μg/h.
+
+## 2.18. Monte Carlo analysis
+ Monte Carlo analysis was incorporated into the human PBPK model in order to evaluate the impact of parameter variability on predicted serum PFOA concentration in the populations under study. Parameters identified as sensitive and parameters that describe past and current drinking water and non-drinking water exposures were randomly varied based on a predefined distribution, with the mean values set to those determined during model calibration. The net effect to the model output because of the uncertainty of the sensitive parameter values and exposure levels could then be investigated in terms of probability distributions ( Zhang et al., 2007 ).
+ Parameter distributions can be seen in Table 3 . When information on the distribution of a parameter was lacking, a medium CV and lognormal distribution were assumed as suggested previously, which resulted in a wider range of parameter values and model outputs ( Zhang et al., 2007 ). Normal distributions, N(μ,σ 2 ) with mean μ and standard deviation σ, were assumed for the mass of protein in the proximal tubule cells ( protein ), the volume of the liver ( VLC ), and the volume of the filtrate ( VfilC ) ( Tan et al., 2006 ; Allen et al., 2007 ; Mielniczuk et al., 2008 ; Delanaye et al., 2012 ; Shankaran et al., 2013 ). Lower and upper bounds for normally distributed parameters were calculated as μ ± 1.96σ (95% of the distribution). Lognormal distributions were assumed for body weight ( BW ), glomerular filtration ( GFRC ), chemical specific parameters ( PL , Vmax_apical_invitro , Km_apical , RAFapi , kbilec , kurinec , and Free ) ( Burmaster and Crouch, 1997 ; Clewell et al., 1999 ; Delic et al., 2000 ; Nakagawa et al., 2007 ; Portier et al., 2007 ; Yang et al., 2010 ; Fabrega et al., 2014 ; Levey et al., 2014 ) and exposure parameters ( exposeddw , dwtotal , ingest ) ( Shumway et al., 2002 ; Bartell et al., 2010 ; USEPA, 2011 ; Poolos, 2016 ). For a skewed model parameter with mean and standard deviation of m and s, the log transformation yields a normally distributed variable with mean and standard deviation of μ p and σ p ( Zhang et al., 2007 ). The derivation of the 95% probability interval is the same as that for the normal distribution (μ p ± 1.96 σ p ), where
+ μ p = ln ( m / 1 + ( s / m ) 2 ) σ p = ln ( 1 + ( s / m ) 2 ) A minimum of 2000 iterations were adequate to ensure the reproducibility of the mean, median and SD of the output distributions.
+ For simulation of the exposure occurring in the Mid-Ohio Valley, body weights for adults aged 20 years and older as reported in the National Health and Nutrition Examination Survey (NHANES) ( Ogden et al., 2004 ) were truncated at the 2.5th and 97.5th percentiles and used to determine the 95% distribution for this parameter ( Tan et al., 2006 ; Shankaran et al., 2013 ; Sterner et al., 2013 ). For simulation of the exposure occurring in North Alabama, measured body weights ( ATSDR, 2016a ) were used to determine the probabilistic distribution.
+ To establish the probabilistic distributions for GFRC, protein, VLC, kurinec, and VfilC, a coefficient of variation (CV, the ratio of standard deviation to the mean) of 30% was assumed and used to calculate upper and lower bounds. Probabilistic distributions for Vmax_apical_invitro and Km_apical were determined using standard deviations reported in the literature ( Nakagawa et al., 2007 ; Yang et al., 2010 ). A CV of 20% was used to determine the distribution for PL , while a CV of 30% was used to determine the distributions for all other chemical specific parameters ( Delic et al., 2000 ; Tan et al., 2006 ; Shankaran et al., 2013 ).
+ For simulation of exposure occurring in the Little Hocking water district of the Mid-Ohio River Valley, the mean drinking water concentration reported by the Little Hocking Water Association (3.55 μg/L) was used as the central tendency for drinking water concentration ( exposeddw ) ( Emmett et al., 2006 ). A central tendency of 0.01 μg/h was used for non-drinking water ingestion ( ingest ). The probabilistic distribution for both was determined using a CV of 30%.
+ For simulation of exposure occurring in North Alabama, the average PFOA concentration in finished water samples collected at the West Morgan East Lawrence Municipal Water Association between 2010 and 2016 (0.04 μg/L) ( Poolos, 2016 ) was used as the central tendency for drinking water concentration ( exposeddw ) and the probabilistic distribution was determined using a CV of 30%. The drinking water concentration was held constant for all simulations.
+ In order to describe potential changes in non-drinking water exposures in North Alabama over time, distributions were determined separately for the non-drinking water ingestion occurring prior to the collection of the first blood sample in 2010 ( ingest_past ) and for the non-drinking water ingestion occurring between the collection of the first and second blood sample ( ingest_current ). To determine the central tendency of past non-drinking water ingestion exposure, ingest_past was fit to the geometric mean serum PFOA concentration measured in blood samples collected in 2010 from individuals with drinking water from the West Morgan East Lawrence system. A central tendency of 0.01 μg/h was used for non-drinking water ingestion occurring between 2010 and 2016 ( ingest_current ). The probabilistic distribution for both was determined using a CV of 30%. To determine upper and lower bounds for ingest_past , the non-drinking water ingestion rate was fit to the highest and lowest serum PFOA concentrations measured in the 2010 blood samples. Parameter distributions for ingest_past and ingest_current can be seen in Table 3 .
+ In order to evaluate the importance of the contribution of non-drinking water ingestion exposure to serum PFOA concentration, Monte Carlo analysis of exposure occurring in the North Alabama community was also conducted with non-drinking water exposures held constant over time. For these simulations, the central tendencies of ingest_past and ingest_current were both set to 0.01 μg/h, and the probabilistic distribution was determined using a CV of 30%.
+ For Monte Carlo analysis of simulation of exposure in the Mid-Ohio River Valley, model compartments were loaded such that serum PFOA serum concentrations were at steady state, with all parameter values set to central tendency estimates. The model was then run for 1000 h to ensure that steady-state had been reached. One thousand iterations were run and the 5th percentile, mean, and 95th percentile steady-state serum PFOA concentrations were determined.
+ For Monte Carlo analysis of simulation of exposure in North Alabama, the model was run for 60 years and 1000 iterations. In order to reduce computing demands, the 5th percentile, geometric mean, and 95th percentile serum PFOA concentrations were predicted only for the two time points that corresponded to the blood sample collection in 2010 and 2016.
+
+## 3. Results
+
+## 3.1. Model calibration
+ Model calibration was conducted using serum PFOA concentrations measured in individuals from North Alabama who reported that their primary source of drinking water was the West Morgan East Lawrence Water Authority in both 2010 and 2016 (n = 39). A comparison of the predicted and measured serum PFOA concentrations can be seen in Fig. 2 . The predicted serum PFOA concentrations were in excellent agreement with measured data at both time points following calibration. Calibrated values for RAFapi and RAFbaso were 0.007 and 1.0, respectively. The ratio of RAFapi to RAFbaso is smaller in the human model (0.007) than in similar models for PFOA in the male and female rat (8.6) ( Worley and Fisher, 2015 ); however, the rate of urinary excretion ( kurinec ) is much lower in the human model than in the rat model (0.063/h/kg −0.25 versus 1.6/h/kg −0.25 ).
+
+## 3.2. Model evaluation
+
+## 3.2.1. Bartell et al., 2010 
+ Model simulations of people exposed to drinking water from the Little Hocking Water Association before and after the introduction of GAC filtration were compared to measured serum PFOA concentrations collected at six time points. Results of this comparison can be seen in Fig. 3 . Simulated serum PFOA concentrations at both drinking water concentrations underestimated measured serum PFOA concentrations at all time points; however, simulation of exposure to drinking water with 4.9 μg/L PFOA were within two-fold of the measured 50th percentile and within the interquartile range.
+ Model simulations of people exposed to drinking water from the Lubeck Public Service District before and after the introduction of GAC filtration were compared to measured serum PFOA concentrations at six time points. The results of this comparison can be seen in Fig. 4 . Simulated serum PFOA concentrations at both drinking water concentrations underestimated measured serum PFOA concentrations at all time points. Predicted serum PFOA concentrations following simulation of exposure to drinking water concentrations of 1.0 μg/L were within two-fold of the measured 50th percentile.
+
+## 3.2.2. Steenland et al., 2009a , b 
+ Model simulations of people exposed to drinking water from the Little Hocking Water Authority were compared to serum PFOA concentrations measured in samples collected in 2005–2006 as reported by Steenland et al. (2009a) . The results of this comparison can be seen in Fig. 5 . Predicted serum PFOA concentrations resulting from simulation of exposure to drinking water concentrations of the mean level measured in the Little Hocking Water Authority (3.55 μg/L) were in good agreement with the measured mean serum PFOA concentration reported by the authors. Simulations of exposure to PFOA drinking water concentrations at the high end of the reported range (7.2 μg/L) overestimated measured serum PFOA concentrations, while simulations of exposure to PFOA drinking water concentrations at the low end of the reported range (1.5 μg/L) underestimated measured serum PFOA concentrations.
+
+## 3.2.3. Emmett et al., 2006 
+ Emmett et al. (2006) also reported serum PFOA concentrations measured in blood samples collected from people drinking water from the Little Hocking Water Authority. Like Steenland et al. (2009a) , these blood samples were collected in 2005–2006. However, the reported mean serum PFOA concentrations measured by Emmett et al. (2006) (mean = 354 μg/L) were significantly higher than those reported by Steenland et al. (2009a) (mean = 227 μg/L) despite being collected at the same time and analyzed by the same laboratory. The measured mean serum PFOA concentration reported by Emmett et al. (2006) was lower than the predicted serum PFOA concentration resulting from simulation of exposure to drinking water with PFOA concentrations at the high end of the reported range (7.2 μg/L), but higher than the predicted serum PFOA concentration resulting from simulation of exposure to drinking water with PFOA concentration equal to the mean reported for the water system (3.55 μg/L). A comparison of predicted and measured serum PFOA concentrations can be seen in Fig. 5 .
+
+## 3.3. Sensitivity analysis
+ Sensitivity coefficients determined with drinking water concentrations set to high and low levels were very similar. Model parameters with sensitivity coefficients >0.1 were considered sensitive. Physiological parameters with sensitivity coefficients >0.1 were body weight ( BW ), the volume of the liver ( VLC ), the volume of the filtrate ( VfilC ), the amount of protein in the proximal tubule cells ( protein ), and glomerular filtration rate ( GFRC ). Chemical-specific parameters with sensitivity coefficients >0.1 included parameters that govern renal excretion and reabsorption ( Vmax_apical_invitro , Km_apical , RAFapi , kurinec ), as well as the plasma:liver partition coefficient ( PL ) and the biliary excretion rate ( kbilec ), and the free fraction ( Free ). Drinking water concentration ( exposeddw ) and the total amount of drinking water consumed per day ( dwtotal ) were also determined to be sensitive. Sensitivity coefficients determined with the drinking water concentration set to both high and low concentrations are available in the Supplementary materials .
+
+## 3.4. Monte Carlo analysis
+ Monte Carlo simulation of exposure in the Mid-Ohio River Valley varying parameters to account for inter-individual variability and variability in drinking water and non-drinking water exposure can be seen in Fig. 6 .
+ At steady state, predicted mean serum PFOA concentrations were very similar to the measured mean serum PFOA concentrations reported by Steenland et al. (2009a) (226 μg/L predicted versus 224 μg/L measured). The 25th and 75th percentiles of measured serum PFOA concentrations reported by Steenland et al. (2009a) were within the 90% distribution predicted by the Monte Carlo simulation.
+ Monte Carlo simulation underpredicted measured serum PFOA concentrations reported by Emmett et al. (2006) . The predicted mean serum PFOA concentration was within two-fold of the measured mean serum PFOA concentration and the measured 25th percentile serum PFOA concentrations fell within the 90% distribution predicted by the Monte Carlo simulation. However, the measured 75th percentile serum PFOA concentration fell outside the 90% distribution predicted by the Monte Carlo simulation.
+ Measured serum PFOA concentrations reported by Bartell et al. (2010) exhibited a wide range of variability (IQR 91–757 μg/L). Monte Carlo prediction of the mean serum PFOA concentration was not within two-fold of the measured mean serum PFOA concentration (205 μg/L predicted versus 424 μg/L measured) and both the measured 25th percentile and 75th percentile fell outside of the predicted 90% distribution.
+ Monte Carlo simulation of exposure in North Alabama varying parameters to account for inter-individual variability and variability in drinking water and non-drinking water exposure can be seen in Fig. 7A . All but one individual measured serum PFOA concentrations from blood samples collected in 2010 fell within the predicted 90% distribution at that time point. Further, the predicted geometric mean serum PFOA concentration was consistent to the measured geometric mean serum PFOA concentration at this time point (24.4 μg/L predicted versus 24.3 μg/L measured). Similarly, all but one individual measured serum PFOA concentration from blood samples collected in 2016 fell within the predicted 90% distribution at that time point and the predicted geometric mean serum PFOA concentration was consistent with the measured geometric mean serum PFOA concentration at that time point (13.4 μg/L predicted versus 12.7 μg/L measured).
+ In contrast, Monte Carlo simulation of exposure in North Alabama while holding non-drinking water exposure constant over time can be seen in Fig. 7B . When elevated past non-drinking water exposures were not included in the simulation, the model’s ability to predict individual data points was reduced. Only 71% of individual data points from 2010 and 93% of individual data points from 2016 fell within the 90% distribution predicted by the Monte Carlo simulation. Additionally, the model underpredicted the mean serum PFOA concentrations in 2010 (10.9 μg/L predicted versus 24.3 μg/L measured) and 2016 (10.9 μg/L predicted versus 12.7 μg/L measured).
+
+## 4. Discussion
+ In an effort to clarify the significance of historical non-drinking water exposures on current serum PFOA concentrations in populations impacted by PFOA manufacturing, we developed a PBPK model for human exposure to PFOA. Monte Carlo simulations were incorporated in order to determine if variability in sensitive model parameters and historical non-drinking water exposures could account for the observed variability in human serum PFOA concentrations.
+ PFOA manufacturing and use has declined significantly in the United States since the early 2000s ( USEPA, 2014 ). As evidenced by declining serum PFOA concentrations reported by NHANES, exposure to PFOA in the United States was higher in the past, even in communities without contaminated drinking water supplies ( Kato et al., 2011 ); however, historic non-drinking water exposures have not been well characterized ( Lorber and Egeghy, 2011 ). It is also possible that past exposure to PFOA precursors such as 8:2 FTOH have resulted in accumulation of PFOA in human serum. This work demonstrates that these past exposures are important for predicting current PFOA serum concentrations. This important finding has significant implications for the interpretation of current biomonitoring data in the context of mitigation strategies.
+ Many municipal water suppliers, private well owners, and those identified as responsible for PFAS contamination have put significant effort and expense towards the clean-up of PFAS contaminated water supplies. These efforts have frequently resulted in the installation of granular activated carbon filters which have successfully reduced exposures to PFOA in drinking water ( Bartell et al., 2010 ). However, our data support previous findings that serum PFOA concentrations are declining ( Kato et al., 2011 ; Olsen et al., 2017 ) even in the absence of additional drinking water filtration. Additionally, recent evidence suggests that granular activated carbon filtration may not be as effective for the removal of other PFAS as they are for PFOA ( McCleaf et al., 2017 ; Xiao et al., 2017 ). Our data suggest that efforts over the last few decades to reduce the manufacture and use of long-chain PFAS have successfully reduced human exposure to PFOA. However, efforts to characterize and mitigate exposures to other PFAS warrant greater attention in the future.
+ This work also demonstrates that in vitro to in vivo extrapolation can inform parameter values for incorporation into a PBPK model to describe successfully human PFOA serum kinetics. Past efforts to develop PBPK models of human exposure to PFOA have not incorporated physiologically based descriptions of transporter kinetics. The work described here incorporates recently available in vitro descriptions of the transporters that govern the excretion and reabsorption of PFOA in humans and thereby expands on existing models ( Andersen et al., 2006 ; Loccisano et al., 2011 ; Fabrega et al., 2014 ). While simpler models have successfully predicted serum PFOA concentrations in populations presumed to be at steady-state ( Loccisano et al., 2011 ), this model allows for simulation of populations with changing patterns of exposure.
+ Given the important role that transporters play in the disposition of PFOA in the human, incorporation of physiologically based descriptions of global transporter mediated excretion and reabsorption has the potential to improve the utility of PBPK models to explore the behavior of PFOA in humans. Additionally, successful incorporation descriptions of transporter-mediated excretion and reabsorption of PFOA in the PBPK model corroborates previous findings that these processes are critical drivers of clearance and biological half-life in humans. Application of Monte Carlo analysis to account for uncertainty and variability in in vitro to in vivo scaling factors (RAFapi and RAFbaso) demonstrates that reducing uncertainty in the descriptions of transporter mediated excretion and reabsorption of PFOA could improve model predictions.
+ The model successfully predicted serum concentrations reported by Steenland et al. (2009a) , slightly under predicted serum concentrations reported by Emmett et al. (2006) , and under predicted serum concentrations reported by Bartell et al. (2010) . Despite the fact that blood samples were collected at roughly the same time from populations with the same drinking water source, measured serum PFOA concentrations reported in these three studies exhibited significant variation. Mean serum PFOA concentrations reported by Steenland et al. (2009a) were approximately half of the mean serum PFOA concentrations reported by Bartell et al. (2010) . Thus, a deterministic PBPK model could not successfully predict the central tendency serum PFOA concentrations reported in these three studies with the same model parameter values. This variation could be attributed to many potential differences amongst participants in each study. Differences in bottled water consumption, the source of drinking water provided at work, consumption of food contained in PFOA-containing materials, and proximity to PFOA manufacturing facilities could all contribute to discrepancies in the central tendency serum PFOA concentration across studies of this population. Ultimately, additional data to characterize and quantify both drinking water and non-drinking water exposures would improve model predictions. That said, model predictions were very similar to the mean serum PFOA concentrations reported in the largest study (n = 8390) and predictions were within two-fold of the central tendency serum PFOA concentrations reported in the other two studies. This suggests that the model can successfully describe human PFOA serum kinetics.
+ Estimates of biological half-life of PFOA in humans range from two to four years ( Olsen et al., 2007 ; Bartell et al., 2010 ; Zhang et al., 2013 ; Worley et al., 2017 ). The terminal half-life in the presented model was determined by simulating exposure to PFOA for a period of ten years (until steady-state was reached) followed by a period of no exposure. The time necessary for serum PFOA concentrations to decrease by half following interruption of exposure was approximately 2.1 years, which is in agreement with previous estimates. Additionally, evaluation of the amount of reabsorbed PFOA after simulation of exposure to a large range of drinking water concentrations demonstrates that PFOA reabsorption is linear in the range of PFOA drinking water concentrations observed in residential settings (<400 μg/L. This suggests that saturation of the transporters that mediate PFOA reabsorption does not occur in residential populations exposed to PFOA contaminated drinking water sources. This is similar to previously reported findings in rats, which suggested that very high doses (>40 mg/kg) were necessary to saturate reabsorption mechanisms ( Worley and Fisher, 2015 ).
+ The model output was highly sensitive (sensitivity coefficient > |0.5 |) to PFOA drinking water concentration, the rate of drinking water consumption, body weight, liver volume, and liver partitioning. Monte Carlo simulations varying sensitive model parameters including parameters that control drinking water and non-drinking water exposures improve upon the deterministic model predictions. Further, Monte Carlo simulations of exposure occurring in North Alabama that include elevated historic non-drinking water exposures predict measured data more successfully than simulations that do not include elevated historic non-drinking water exposures. Together, this suggests that variability in historical non-drinking water exposures may explain observed variation in individual measured serum PFOA concentrations, and that these non-drinking water exposures are an important predictor of serum PFOA concentrations. While drinking water exposures garner significant attention today, historical non-drinking water exposures including the use of consumer products, consumption of food packaged in PFOA-containing materials, as well as exposures to PFOA precursors that degrade to PFOA in the body may have had a larger impact on body burden than previously thought. Given the long biological half-life of PFOA, it is unsurprising that these historic exposures may have a significant impact on current serum concentrations. Thus, current serum PFOA concentrations may be driven by more than just the current concentration of PFOA in drinking water and are likely a product of a complex interaction of individual pharmacokinetic parameters and historical exposure.
+ Measured water PFOA concentrations, which are publicly available in many communities across the United States as a result of the UCMR3, are useful to determine if a population has been exposed to PFOA, and can help determine if exposure mitigation activities have been successful. However, our PBPK model indicates that these measured drinking water concentrations may not be ideal predictors of serum PFOA concentrations. These findings show that the relationship between current serum PFOA concentrations and current drinking water concentrations is complex and likely influenced by past non-drinking water exposures.
+
+## Supplementary Material
+ Supplemental 
+ The authors would like to thank Drs. Tammie Covington and Jeff Gearhart with the Air Force Research Laboratory and Dr. Jason Orlosky at Osaka University for assistance with Monte Carlo analysis. The authors would also like to thank Dr. Fred Beland, Dr. Marie-Emilie Willemin, and Dr. Lydia Bilinsky at the Food and Drug Administration’s National Center for Toxicological Research, and Dr. Eva McLanahan at the Agency for Toxic Substances and Disease Registry for their helpful review and comments.
+ Competing financial interests 
+ None.
+ Disclaimer 
+ The use of trade names is for identification only and does not constitute endorsement by the U.S. Department of Health and Human Services, the CDC, or the FDA. The findings and conclusions in this report are those of the authors and do not necessarily represent the official position of the CDC or FDA.
+ Addis T Poo LJ Lew W 1936 The quantities of protein lost by the various organs and tissues of the body during a fast J Biol Chem 115 111 116 Allen BC Hack CE Clewell HJ 2007 Use of Markov Chain Monte Carlo analysis with a physiologically-based pharmacokinetic model of methylmercury to estimate exposures in US women of childbearing age Risk Anal 27 947 959 17958503 10.1111/j.1539-6924.2007.00934.x Andersen ME Clewell HJ III Tan YM Butenhoff JL Olsen GW 2006 Pharmacokinetic modeling of saturable, renal resorption of perFLuoroalkylacids in monkeys–probing the determinants of long plasma half-lives Toxicology 227 156 164 16978759 10.1016/j.tox.2006.08.004 ATSDR 2013 Exposure Investigation Report - PerFLuorochemical Serum Sampling in the Vicinity of Decatur, AL, Morgan, Lawrence, and Limestone Counties Division of Community Health Investigation ATSDR 2016a Biological Sampling of Per- and PolyFLuoroalkyl Substances (PFAS) in the Vicinity of Lawrence, Morgan, and Limestone Counties Alabama, Division of Community Health Investigation ATSDR 2016b Fact Sheet: Per- and Polyfluoroalkyl Substances (PFAS) Frequently Asked Questions Barry V Winquist A Steenland K 2013 Perfluorooctanoic acid (PFOA) exposures and incident cancers among adults living near a chemical plant Environ Health Perspect 121 1313 1318 24007715 10.1289/ehp.1306615 PMC3855514 Bartell SM Calafat AM Lyu C Kato K Ryan PB Steenland K 2010 Rate of decline in serum PFOA concentrations after granular activated carbon filtration at two public water systems in Ohio and West Virginia Environ Health Perspect 118 222 228 20123620 10.1289/ehp.0901252 PMC2831921 Brown RP Delp MD Lindstedt SL Rhomberg LR Beliles RP 1997 Physiological parameter values for physiologically based pharmacokinetic models Toxicol Ind Health 13 407 484 9249929 10.1177/074823379701300401 Burmaster DE Crouch EAC 1997 Lognormal distributions for body weight as a function of age for males and females in the United States, 1976–1980 Risk Anal 17 499 505 9323875 10.1111/j.1539-6924.1997.tb00890.x Butenhoff JL Gaylor DW Moore JA Olsen GW Rodricks J Mandel JH Zobel LR 2004a Characterization of risk for general population exposure to perfluorooctanoate Regul Toxicol Pharmacol 39 363 380 15135214 10.1016/j.yrtph.2004.03.003 Butenhoff JL Kennedy GL Jr Hinderliter PM Lieder PH Jung R Hansen KJ Gorman GS Noker PE Thomford PJ 2004b Pharmacokinetics of perfluorooctanoate in cynomolgus monkeys Toxicol Sci 82 394 406 15470233 10.1093/toxsci/kfh302 Clewell HJ Gearhart JM Gentry PR Covington TR VanLandingham CB Crump KS Shipp AM 1999 Evaluation of the uncertainty in an oral reference dose for methyl-mercury due to interindividual variability in pharmacokinetics Risk Anal 19 547 558 10765421 10.1023/a:1007017116171 Corley RA Bartels MJ Carney EW Weitz KK Soelberg JJ Gies RA Thrall KD 2005 Development of a physiologically based pharmacokinetic model for ethylene glycol and its metabolite, glycolic acid, in rats and humans Toxicol Sci 85 476 490 15716482 10.1093/toxsci/kfi119 Darrow LA Stein CR Steenland K 2013 Serum perfluorooctanoic acid and perfluorooctane sulfonate concentrations in relation to birth outcomes in the Mid-Ohio Valley, 2005–2010 Environ Health Perspect 121 1207 1213 23838280 10.1289/ehp.1206372 PMC3801459 Davies B Morris T 1993 Physiological parameters in laboratory animals and humans Pharm Res 10 1093 1095 8378254 10.1023/a:1018943613122 Delanaye P Schaeffner E Ebert N Cavalier E Mariat C Krzesinski JM Moranne O 2012 Normal reference values for glomerular filtration rate: what do we really know? Nephrol Dial Transplant 27 2664 2672 22802582 10.1093/ndt/gfs265 Delic JI Lilly PD MacDonald AJ Loizou GD 2000 The utility of PBPK in the safety assessment of chloroform and carbon tetrachloride Regul Toxicol Pharmacol 32 144 155 11067771 10.1006/rtph.2000.1419 DeWitt JC 2015 Toxicological Effects of Perfluoroalkyl and Polyfluoroalkyl Substances Springer International Publishing Dinglasan MJ Ye Y Edwards EA Mabury SA 2004 Fluorotelomer alcohol biodegradation yields poly- and perfluorinated acids Environ Sci Technol 38 2857 2864 15212260 10.1021/es0350177 Emmett EA Zhang H Shofer FS Freeman D Rodway NV Desai C Shaw LM 2006 Community exposure to perfluorooctanoate: relationships between serum levels and certain health parameters J Occup Environ Med 48 771 779 16902369 10.1097/01.jom.0000233380.13087.37 PMC3038254 Ericson I Marti-Cid R Nadal M Van Bavel B Lindstrom G Domingo JL 2008 Human exposure to perfluorinated chemicals through the diet: intake of perfluorinated compounds in foods from the Catalan (Spain) market J Agric Food Chem 56 1787 1794 18251500 10.1021/jf0732408 Fabrega F Kumar V Schuhmacher M Domingo JL Nadal M 2014 PBPK modeling for PFOS and PFOA: validation with human experimental data Toxicology letters 230 244 251 24440341 10.1016/j.toxlet.2014.01.007 Fasano WJ Carpenter SC Gannon SA Snow TA Stadler JC Kennedy GL Buck RC Korzeniowski SH Hinderliter PM Kemper RA 2006 Absorption, distribution, metabolism, and elimination of 8-2 fluorotelomer alcohol in the rat Toxicol Sci 91 341 355 16543293 10.1093/toxsci/kfj160 Forsyth RP Nies AS Wyler F Neutze J Melmon KL 1968 Normal distribution of cardiac output in the unanesthetized, restrined rhesus monkey J Appl Physiol 25 736 741 4973253 10.1152/jappl.1968.25.6.736 Frisbee SJ Brooks AP Jr Maher A Flensborg P Arnold S Fletcher T Steenland K Shankar A Knox SS Pollard C Halverson JA Vieira VM Jin C Leyden KM Ducatman AM 2009 The C8 health project: design, methods, and participants Environ Health Perspect 117 1873 1882 20049206 10.1289/ehp.0800379 PMC2799461 Frisbee SJ Shankar A Knox SS Steenland K Savitz DA Fletcher T Ducatman AM 2010 Perfluorooctanoic acid, perfluorooctanesulfonate, and serum lipids in children and adolescents: results from the C8 Health Project Arch Pediatr Adolesc Med 164 860 869 20819969 10.1001/archpediatrics.2010.163 PMC3116641 Fromme H Tittlemier SA Volkel W Wilhelm M Twardella D 2009 Perfluorinated compounds–exposure assessment for the general population in Western countries Int J Hyg Environ Health 212 239 270 18565792 10.1016/j.ijheh.2008.04.007 Grandjean P Andersen EW Budtz-Jorgensen E Nielsen F Molbak K Weihe P Heilmann C 2012 Serum vaccine antibody concentrations in children exposed to perfluorinated compounds JAMA 307 391 397 22274686 10.1001/jama.2011.2034 PMC4402650 Han X Nabb DL Russell MH Kennedy GL Rickard RW 2012 Renal elimination of perfluorocarboxylates (PFCAs) Chem Res Toxicol 25 35 46 21985250 10.1021/tx200363w Han X Snow T Kemper R Jepson G 2003 Binding of PFOA to rat and human plasm proteins Chem Res Toxicol 16 775 781 12807361 10.1021/tx034005w Henderson WM Weber EJ Duirk SE Washington JW Smith MA 2007 Quantification of fluorotelomer-based chemicals in mammalian matrices by monitoring perfluoroalkyl chain fragments with GC/MS J Chromatogr B Anal Technol Biomed Life Sci 846 155 161 10.1016/j.jchromb.2006.08.042 17000139 Holzer J Midasch O Rauchfuss K Kraft M Reupert R Angerer J Kleeschulte P Marschall N Wilhelm M 2008 Biomonitoring of perfluorinated compounds in children and adults exposed to perfluorooctanoate-contaminated drinking water Environ Health Perspect 116 651 657 18470314 10.1289/ehp.11064 PMC2367678 Hsu V de LTVM Zhao P Zhang L Zheng JH Nordmark A Berglund EG Giacomini KM Huang SM 2014 Towards quantitation of the effects of renal impairment and probenecid inhibition on kidney uptake and efflux transporters, using physiologically based pharmacokinetic modelling and simulations Clin Pharmacokinet 53 283 293 24214317 10.1007/s40262-013-0117-y PMC3927056 Johnson PI Sutton P Atchley DS Koustas E Lam J Sen S Robinson KA Axelrad DA Woodruff TJ 2014 The Navigation Guide - evidence-based medicine meets environmental health: systematic review of human evidence for PFOA effects on fetal growth Environ Health Perspect 122 1028 1039 24968388 10.1289/ehp.1307893 PMC4181929 Kato K Wong LY Jia LT Kuklenyik Z Calafat AM 2011 Trends in exposure to polyfluoroalkyl chemicals in the U.S. population: 1999–2008 Environ Sci Technol 45 8037 8045 21469664 10.1021/es1043613 Kennedy GL Jr Butenhoff JL Olsen GW O’Connor JC Seacat AM Perkins RG Biegel LB Murphy SR Farrar DG 2004 The toxicology of perfluorooctanoate Crit Rev Toxicol 34 351 384 15328768 10.1080/10408440490464705 Kudo N Sakai A Mitsumoto A Hibino Y Tsuda T Kawashima Y 2007 Tissue distribution and hepatic subcellular distribution of PFOA at low doses are different from those at high dose in rats Biol Pharm Bull 30 1535 1540 17666816 10.1248/bpb.30.1535 Levey AS Inker LA Coresh J 2014 GFR estimation: from physiology to public health Am J Kidney Dis 63 820 834 24485147 10.1053/j.ajkd.2013.12.006 PMC4001724 Loccisano AE Campbell JL Jr Andersen ME Clewell HJ III 2011 Evaluation and prediction of pharmacokinetics of PFOA and PFOS in the monkey and human using a PBPK model Regul Toxicol Pharmacol 59 157 175 21168463 10.1016/j.yrtph.2010.12.004 Lorber M Egeghy PP 2011 Simple intake and pharmacokinetic modeling to characterize exposure of Americans to perfluoroctanoic acid, PFOA Environ Sci Technol 45 8006 8014 21517063 10.1021/es103718h Lou I Wambaugh JF Lau C Hanson RG Lindstrom AB Strynar MJ Zehr RD Setzer RW Barton HA 2009 Modeling single and repeated dose pharmacokinetics of PFOA in mice Toxicol Sci 107 331 341 19005225 10.1093/toxsci/kfn234 McCleaf P Englund S Ostlund A Lindegren K Wiberg K Ahrens L 2017 Removal efficiency of multiple poly- and perfluoroalkyl substances (PFASs) in drinking water using granular activated carbon (GAC) and anion exchange (AE) column tests Water Res 120 77 87 28478297 10.1016/j.watres.2017.04.057 Mielniczuk LM Pfeffer MA Lewis EF Blazing MA de Lemos JA Shui A Mohanavelu S Califf RM Braunwald E 2008 Estimated glomerular filtration rate, inflammation, and cardiovascular events after an acute coronary syndrome Am Heart J 155 725 731 18371483 10.1016/j.ahj.2007.11.031 Milo R Jorgensen P Moran U Weber G Springer M 2010 BioNumbers–the database of key numbers in molecular and cell biology Nucleic Acids Res 38 D750 D753 19854939 10.1093/nar/gkp889 PMC2808940 Nakagawa H Hirata T Terada T Promsuk J Miura D Harada K Inoue K Anzai N Endou H Inui K-i Kanai Y Koizumi A 2007 Roles of OATs in the renal excretion of PFOA Basic Clin Pharamcol Toxicol 103 1 8 10.1111/j.1742-7843.2007.00155.x 18373647 Nakagawa H Terada T Harada K Hitomi T Inoue K Inui K-i Koizumi A 2009 Human OAT4 is a transporter of PFOA Basic Clin Pharamcol Toxicol 105 136 138 10.1111/j.1742-7843.2009.00409.x 19371258 Nicole W 2013 PFOA and cancer in a highly exposed community Environ Health Perspect 121 A340 24284021 10.1289/ehp.121-A340 PMC3855507 Ogden CL Fryar CD Carroll MD Flegal KM 2004 Mean body weight, height, and body mass index, United States 1960–2002 Adv Data 1 17 15544194 Olsen GW Burris JM Ehresman DJ Froehlich JW Seacat AM Butenhoff JL Zobel LR 2007 Half-life of serum elimination of perfluorooctanesulfonate, perfluorohexanesulfonate, and perfluorooctanoate in retired fluorochemical production workers Environ Health Perspect 115 1298 1305 17805419 10.1289/ehp.10009 PMC1964923 Olsen GW Mair DC Lange CC Harrington LM Church TR Goldberg CL Herron RM Hanna H Nobiletti JB Rios JA Reagen WK Ley CA 2017 Per- and polyfluoroalkyl substances (PFAS) in American Red Cross adult blood donors, 2000–2015 Environ Res 157 87 95 28528142 10.1016/j.envres.2017.05.013 Ophaug RH Singer L 1980 Metabolic handling of perfluorooctanoic acid in rats Soc Exp Biol Med (N Y) 163 19 23 10.3181/00379727-163-40715 7352143 Perez F Nadal M Navarro-Ortega A Fabrega F Domingo JL Barcelo D Farre M 2013 Accumulation of perfluoroalkyl substances in human tissues Environ Int 59 354 362 23892228 10.1016/j.envint.2013.06.004 Poolos E 2016 PFOA Concentrations in Finished Water From the West Morgan East Lawrence Municipal Water Authority 2005–2016 (reported in ADEM eFile) Portier K Tolson JK Roberts SM 2007 Body weight distributions for risk assessment Risk Anal 27 11 26 17362397 10.1111/j.1539-6924.2006.00856.x Prevedouros K Cousins IT Buck RC Korzeniowski SH 2006 Sources, fate and transport of perfluorocarboxylates Environ Sci Technol 40 32 44 16433330 10.1021/es0512475 Salvalaglio M Muscionico I Cavallotti C 2010 Determination of energies and sites of binding of PFOA and PFOS to human serum albumin J Phys Chem B 114 14860 14874 21028884 10.1021/jp106584b Savitz DA Stein CR Bartell SM Elston B Gong J Shin HM Wellenius GA 2012 Perfluorooctanoic acid exposure and pregnancy outcome in a highly exposed community Epidemiology 23 386 392 22370857 10.1097/EDE.0b013e31824cb93b PMC3321117 Shankaran H Adeshina F Teeguarden JG 2013 Physiologically-based pharmacokinetic model for fentanyl in support of the development of provisional advisory levels Toxicol Appl Pharmacol 273 464 476 23732079 10.1016/j.taap.2013.05.024 Shumway RH Azari RS Kayhanian M 2002 Statistical approaches to estimating mean water quality concentrations with detection limits Environ Sci Technol 36 3345 3353 12188364 10.1021/es0111129 Steenland K Fletcher T Savitz DA 2010 Epidemiologic evidence on the health effects of perfluorooctanoic acid (PFOA) Environ Health Perspect 118 1100 1108 20423814 10.1289/ehp.0901827 PMC2920088 Steenland K Jin C MacNeil J Lally C Ducatman A Vieira V Fletcher T 2009a Predictors of PFOA levels in a community surrounding a chemical plant Environ Health Perspect 117 1083 1088 19654917 10.1289/ehp.0800294 PMC2717134 Steenland K Tinker S Frisbee S Ducatman A Vaccarino V 2009b Association of perfluorooctanoic acid and perfluorooctane sulfonate with serum lipids among adults living near a chemical plant Am J Epidemiol 170 1268 1278 19846564 10.1093/aje/kwp279 Steenland K Woskie S 2012 Cohort mortality study of workers exposed to perfluorooctanoic acid Am J Epidemiol 176 909 917 23079607 10.1093/aje/kws171 Steenland K Zhao L Winquist A Parks C 2013 Ulcerative colitis and perfluorooctanoic acid (PFOA) in a highly exposed population of community residents and workers in the mid-Ohio valley Environ Health Perspect 121 900 905 23735465 10.1289/ehp.1206449 PMC3734500 Stein CR Savitz DA 2011 Serum perfluorinated compound concentration and attention deficit/hyperactivity disorder in children 5–18 years of age Environ Health Perspect 119 1466 1471 21665566 10.1289/ehp.1003538 PMC3230446 Stein CR Savitz DA Bellinger DC 2014 Perfluorooctanoate exposure in a highly exposed community and parent and teacher reports of behaviour in 6–12-year-old children Paediatr Perinat Epidemiol 28 146 156 24320613 10.1111/ppe.12097 PMC4617562 Stein CR Savitz DA Dougan M 2009 Serum levels of perfluorooctanoic acid and perfluorooctane sulfonate and pregnancy outcome Am J Epidemiol 170 837 846 19692329 10.1093/aje/kwp212 Sterner TR Ruark CD Covington TR Yu KO Gearhart JM 2013 A physiologically based pharmacokinetic model for the oxime TMB-4: simulation of rodent and human data Arch Toxicol 87 661 680 23314320 10.1007/s00204-012-0987-z Tan YM Clewell HJ 3rd Andersen ME 2008 Time dependencies in perfluorooctylacids disposition in rat and monkeys: a kinetic analysis Toxicol Lett 177 38 47 18242015 10.1016/j.toxlet.2007.12.007 Tan YM Liao KH Conolly RB Blount BC Mason AM Clewell HJ 2006 Use of a physiologically based pharmacokinetic model to identify exposures consistent with human biomonitoring data for chloroform J Toxicol Environ Health A 69 1727 1756 16864423 10.1080/15287390600631367 Tatum-Gibbs K Wambaugh JF Das KP Zehr RD Strynar MJ Lindstrom AB Delinsky A Lau C 2011 Comparative pharmacokinetics of perfluorononanoic acid in rat and mouse Toxicology 281 48 55 21237237 10.1016/j.tox.2011.01.003 Tittlemier SA Pepper K Seymour C Moisey J Bronson R Cao XL Dabeka RW 2007 Dietary exposure of Canadians to perfluorinated carboxylates and perfluorooctane sulfonate via consumption of meat, fish, fast foods, and food items prepared in their packaging J Agric Food Chem 55 3203 3210 17381114 10.1021/jf0634045 USEPA 2011 Exposure Factors Handbook 2011 Edition (Final) U.S. Environmental Protection Agency (EPA/600/R-09/052F) USEPA 2014 Contaminants of Emerging Concern USEPA 2016 Occurrence Data for the Unregulated Contaminant Monitoring Rule (pp) 10.1016/j.scitotenv.2017.04.085 28433766 Winquist A Lally C Shin HM Steenland K 2013 Design, methods, and population for a study of PFOA health effects among highly exposed mid-Ohio valley community residents and workers Environ Health Perspect 121 893 899 23735518 10.1289/ehp.1206450 PMC3734501 Worley RR Fisher J 2015 Application of physiologically-based pharmacokinetic modeling to explore the role of kidney transporters in renal reabsorption of perfluorooctanoic acid in the rat Toxicol Appl Pharmacol 289 428 441 26522833 10.1016/j.taap.2015.10.017 PMC4662604 Worley RR Moore SM Tierney BC Ye X Calafat AM Campbell S Woudneh MB Fisher J 2017 Per- and polyfluoroalkyl substances in human serum and urine samples from a residentially exposed community Environ Int 106 135 143 28645013 10.1016/j.envint.2017.06.007 PMC5673082 Wu LL Gao HW Gao NY Chen FF Chen L 2009 Interaction of perfluorooctanoic acid with human serum albumin BMC Struct Biol 9 31 19442292 10.1186/1472-6807-9-31 PMC2688008 Xiao X Ulrich BA Chen B Higgins CP 2017 Sorption of poly- and perfluoroalkyl substances (PFASs) relevant to aqueous film-forming foam (AFFF)-impacted groundwater by biochars and activated carbon Environ Sci Technol 51 6342 6351 28582977 10.1021/acs.est.7b00970 Yang CH Glover KP Han X 2010 Characterization of cellular uptake of perfluorooctanoate via organic anion-transporting polypeptide 1A2, organic anion transporter 4, and urate transporter 1 for their potential roles in mediating human renal reabsorption of perfluorocarboxylates Toxicol Sci 117 294 302 20639259 10.1093/toxsci/kfq219 Yang X Morris SM Gearhart JM Ruark CD Paule MG Slikker W Jr Mattison DR Vitiello B Twaddle NC Doerge DR Young JF Fisher JW 2014 Development of a physiologically based model to describe the pharmacokinetics of methylphenidate in juvenile and adult humans and nonhuman primates PLoS One 9 e106101 25184666 10.1371/journal.pone.0106101 PMC4153582 Zhang X Tsang AM Okino MS Power FW Knaak JB Harrison LS Dary CC 2007 A physiologically based pharmacokinetic/pharmacodynamic model for carbofuran in Sprague-Dawley rats using the exposure-related dose estimating model Toxicological sciences: an official journal of the society of Toxicol Sci 100 345 359 10.1093/toxsci/kfm232 17804862 Zhang Y Beesoon S Zhu L Martin JW 2013 Biomonitoring of perfluoroalkyl acids in human urine and estimates of biological half-life Environ Sci Technol 47 10619 10627 23980546 10.1021/es401905e 
+
+## Appendix A. Supplementary data 
+ Model code and additional sensitivity analysis information is available in the Supplementary materials .
+
+## Appendix A. Supplementary data 
+ Supplementary data associated with this article can be found in the online version, at http://dx.doi.org/10.1016/j.taap.2017.07.001 .
+
+## Appendix B. Supplementary data 
+ Supplementary data to this article can be found online at http://dx.doi.org/10.1016/j.taap.2017.07.001 .
+ Fig. 1 Structure of PBPK model for PFOA in the adult human. PFOA is introduced via drinking water and non-drinking water ingestion into the stomach.
+ Fig. 2 Calibration of PBPK model for PFOA in the adult human using measured serum PFOA concentrations from a community in North Alabama ( ATSDR, 2016a ). Geometric mean serum PFOA concentrations measured in the same individuals in 2010 and 2016 (black circles, n = 39) compared to model predicted serum PFOA concentrations (black line). Drinking water concentration = 0.04 μg/L, Non-drinking water ingestion rate = 0.01 μg/h.
+ Fig. 3 Model evaluation with time course data collected from people drinking water from the Little Hocking Water Association (n = 40) before and after introduction of GAC filtration ( Bartell et al., 2010 ). Predicted serum PFOA concentrations following exposure to drinking water with PFOA concentrations at the high (4.9 μg/L) and low (1.9 μg/L) end of the reported range are shown as long and short dashed lines, respectively. 50th percentile of measured serum PFOA concentrations from samples collected at baseline (time = 30 years) and 1, 2, 3, 6, and 12 months later are shown as black circles. Vertical black lines indicate the interquartile range.
+ Fig. 4 Model evaluation with time course data collected from people drinking water from the Lubeck Public Service District (n = 132) before and after introduction of GAC filtration ( Bartell et al., 2010 ). Predicted serum PFOA concentrations following exposure to drinking water with PFOA concentrations at the high (1.0 μg/L) and low (0.41 μg/L) end of the reported range are shown as long and short dashed lines, respectively. 50th percentile of measured serum PFOA concentrations from samples collected at baseline (time = 30 years) and 1, 2, 3, 6, and 12 months later are shown as black circles. Black lines indicate the interquartile range.
+ Fig. 5 Model evaluation with data collected from people drinking water from the Little Hocking Water Authority before introduction of GAC filtration ( Emmett et al., 2006 ; Steenland et al., 2009a ). Predicted serum PFOA concentrations following exposure to PFOA drinking water concentrations equal to the high end (7.2 μg/L), low end (1.5 μg/L), and mean (3.55 μg/L) of the reported range for the Little Hocking Water Association are shown as solid and dashed black lines. Mean serum PFOA concentrations measured by Steenland et al. (2009a) and Emmett et al. (2006) are shown as the black circle and x, respectively. Corresponding solid black lines indicate the interquartile range.
+ Fig. 6 Monte Carlo simulations of inter-individual variability and variability in exposure in Mid-Ohio River Valley ( Emmett et al., 2006 ; Steenland et al., 2009a ; Bartell et al., 2010 ). Model predicted steady-state serum PFOA concentrations (5th and 95th percentiles of 1000 iterations shown as dashed lines, mean shown as solid line) compared to measured serum PFOA concentrations in the Mid-Ohio River Valley prior to introduction of GAC filtration (Steenland (●), Bartell (▲), Emmett ( × ). Extending vertical lines show IQR.
+ Fig. 7 Monte Carlo simulations of inter-individual variability and variability in exposure in North Alabama. Model predicted steady-state serum PFOA concentrations in 2010 and 2016 (5th percentile, geometric mean, and 95th percentile of 1000 iterations shown as black diamonds) compared to measured serum PFOA concentrations (individual data points shown as pink circles, geometric mean shown as pink filled circles). Panel A shows simulation with elevated past non-drinking water exposure, Panel B shows simulation with non-drinking water exposure held constant over time.
+ Table 1 Physiological parameters for adult human PBPK model for PFOA.
+ Parameter Definition Units Value Source 
+ QCC
+ Cardiac output
+ L/h/kg 0.75 
+ 12.5
+ Forsyth et al., 1968 
+
+ QLC
+ Fraction blood flow to liver
+ Unitless
+ 0.25
+ Brown et al., 1997 
+
+ QKC
+ Fraction blood flow to kidney
+ Unitless
+ 0.175
+ Brown et al., 1997 
+
+ Htc
+ Hematocrit
+ Unitless
+ 0.44
+ Davies and Morris (1993) and Brown et al. (1997) 
+
+ VplasC
+ Fraction volume of plasma
+ L/kg BW
+ 0.0428
+ Davies and Morris, 1993 
+
+ VLC
+ Fraction volume of liver
+ L/kg BW
+ 0.026
+ Brown et al., 1997 
+
+ VKC
+ Fraction volume of kidney
+ L/kg BW
+ 0.004
+ Brown et al., 1997 
+
+ VfilC
+ Fraction volume of filtrate
+ L/kg BW
+ 0.0004
+ 10% kidney volume, Loccisano et al., 2011 
+
+ VPTCC
+ Fraction volume of proximal tubule cells (PTC)
+ L/g kidney
+ 1.35 × 10 −4 
+ calculated based on 60 million PTC/g kidney ( Hsu et al., 2014 ), 1 PTC = 2250 um 3 ( Milo et al., 2010 )
+
+ Protein
+ Amount of protein in proximal tubule cells
+ mg protein/PTC
+ 2.0 × 10 −6 
+ Addis et al., 1936 
+
+ GFRC
+ Glomerular filtration rate
+ L/h/kg kidney
+ 24.19
+ Corley et al., 2005 
+
+ Table 2 Chemical Specific parameters for adult human PBPK model for PFOA.
+ Parameter Definition Units Value Source 
+ Free
+ Free fraction of PFOA in plasma
+ Unitless
+ 0.02
+ Loccisano et al., 2011 
+
+ Vmax_baso_invitro
+ Vmax of basolateral transporters measured in in vitro studies (average of OAT1 and OAT3)
+ pmol/mg Protein/min
+ 439.2
+ Calculated from Nakagawa et al., 2007 
+
+ Km_baso
+ Km of basolateral transporters (OAT1 and OAT3)
+ μg/L
+ 20.1
+ Nakagawa et al., 2007 
+
+ Vmax_apical_invitro
+ Vmax of apical transporters measured in in vitro studies (OAT4)
+ pmol/mg protein/min
+ 37,400.0
+ Calculated from Yang et al., 2010 
+
+ Km_apical
+ Km of apical transporters (OAT4 and URAT1)
+ μg/L
+ 77.5
+ Calculated from Yang et al., 2010 
+
+ RAFapi
+ Relative activity factor of apical transporters
+ Unitless
+ 0.0007
+ Fit to ATSDR, 2016a 
+
+ RAFbaso
+ Relative activity factor of basolateral transporters
+ Unitless
+ 1
+ Fit to ATSDR, 2016a 
+
+ PL
+ Liver:blood partition coefficient
+ Unitless
+ 1.03
+ Fabrega et al., 2014 and Perez et al., 2013 
+
+ PK
+ Kidney:blood partition coefficient
+ Unitless
+ 1.17
+ Fabrega et al., 2014 and Perez et al., 2013 
+
+ PR
+ Rest of body:blood partition coefficient
+ Unitless
+ 0.11
+ Kudo et al., 2007 
+
+ k0c
+ Rate of absorption of PFOA in stomach
+ /h/kg −0.25 
+ 1.0
+ Fit to ATSDR, 2016a 
+
+ kabsc
+ Rate of absorption of PFOA in small intestines
+ /h/kg −0.25 
+ 2.12
+ Fit to ATSDR, 2016a 
+
+ kunabsc
+ Rate of unabsorbed dose to appear in feces
+ /h/kg −0.25 
+ 7.06 × 10 −5 
+ Fit to ATSDR, 2016a 
+
+ keffluxc
+ Rate of clearance of PFOA from proximal tubule cells into blood
+ /h/kg −0.25 
+ 0.1
+ Fit to ATSDR, 2016a 
+
+ kbilec
+ Biliary elimination rate
+ /h/kg −0.25 
+ 0.0001
+ Fit to ATSDR, 2016a 
+
+ kurinec
+ Urinary elimination rate
+ /h/kg −0.25 
+ 0.062
+ Fit to ATSDR, 2016a 
+
+ Table 3 Parameter Distributions used in Monte Carlo Analysis. For normally distributed model parameters, mean, SD, lower and upper bounds listed are on natural scale; while for lognormal parameters, mean, SD, lower and upper bounds listed are on log scale. All distributions were truncated at 1.96 SD above and below the mean to exclude physiologically implausible values unless otherwise specified.
+ Parameter Units Mean SD Lower bound Upper bound Distribution 
+ Physiological parameters
+
+ BW
+ Kg
+ 4.36
+ 0.313
+ 3.747
+ 4.973
+ Lognormal
+
+ GFRC
+ L/h/kg kidney
+ 3.14
+ 0.294
+ 2.564
+ 3.716
+ Lognormal
+
+ Protein
+ mg protein/proximal tubule cell
+ 0.000002
+ 0.0000006
+ 0.000000824
+ 0.00000318
+ Normal
+
+ VLC
+ L/kg BW
+ 0.026
+ 0.0078
+ 0.0107
+ 0.0413
+ Normal
+
+ VfilC
+ L/kg BW
+ 0.0004
+ 0.00012
+ 0.000165
+ 0.000635
+ Normal
+
+ Chemical-specific parameters
+
+ PL
+ Unitless
+ 0.01
+ 0.198
+ −0.378
+ 0.398
+ Lognormal
+
+ Vmax_apical_invitro
+ pmol/mg protein/min
+ 10.48
+ 0.325
+ 9.843
+ 11.117
+ Lognormal
+
+ Km_apical
+ μg/Ml
+ 11.25
+ 0.161
+ 10.929
+ 11.561
+ Lognormal
+
+ RAFapi
+ Unitless
+ −7.31
+ 0.294
+ −7.886
+ −6.734
+ Lognormal
+
+ KbileC
+ /h/kg −0.25 
+ −9.25
+ 0.294
+ −9.826
+ −8.674
+ Lognormal
+
+ KurineC
+ /h/kg −0.25 
+ −2.81
+ 0.294
+ −3.386
+ −2.234
+ Lognormal
+
+ Free
+ Unitless
+ −3.96
+ 0.294
+ −4.536
+ −3.384
+ Lognormal
+
+ Mid-Ohio River Valley exposure parameters
+
+ ExposedDW
+ μg/L
+ 1.22
+ 0.294
+ 0.648
+ 1.800
+ Lognormal
+
+ DWtotal
+ L/day
+ 0.181
+ 0.503
+ −0.805
+ 1.167
+ Lognormal
+
+ Ingest
+ μg/h
+ −4.65
+ 0.294
+ −5.226
+ −4.074
+ Lognormal
+
+ Decatur exposure parameters
+
+ ExposedDW
+ μg/L
+ −3.26
+ 0.294
+ −3.836
+ −2.684
+ Lognormal
+
+ DWtotal
+ L/day
+ 0.181
+ 0.503
+ −0.805
+ 1.167
+ Lognormal
+
+ ingest_past
+ μg/h
+ −3.69
+ 0.294
+ −5.570
+ −3.270
+ Lognormal
+
+ ingest_current
+ μg/h
+ −4.65
+ 0.294
+ −5.226
+ −4.074
+ Lognormal

@@ -1,0 +1,2200 @@
+pubs.acs.org/est
+
+Article
+
+Binding of Per- and Polyfluoroalkyl Substances (PFAS) to Serum
+Proteins: Implications for Toxicokinetics in Humans
+Fabian Christoph Fischer,* Sophia Ludtke, Colin Thackray, Heidi M. Pickard, Faiz Haque,
+Clifton Dassuncao, Satoshi Endo, Laurel Schaider, and Elsie M. Sunderland
+
+Cite This: Environ. Sci. Technol. 2024, 58, 1055−1063
+
+Read Online
+
+ACCESS
+
+Metrics & More
+
+Article Recommendations
+
+*sı Supporting Information
+
+ABSTRACT: Per- and polyfluoroalkyl substances (PFAS) are a
+diverse class of highly persistent anthropogenic chemicals that are
+detectable in the serum of most humans. PFAS exposure has been
+associated with many adverse effects on human health including
+immunotoxicity, increased risk of certain cancers, and metabolic
+disruption. PFAS binding to the most abundant blood serum
+proteins (human serum albumin [HSA] and globulins) is thought
+to affect transport to active sites, toxicity, and elimination half-lives.
+However, few studies have investigated the competitive binding of
+PFAS to these proteins in human serum. Here, we use C18 solid-
+phase microextraction fibers to measure HSA−water and globulin−
+water distribution coefficients (DHSA/w, Dglob/w) for PFAS with
+carbon chains containing 4 to 13 perfluorinated carbons (ηpfc = 4−
+13) and several functional head-groups. PFAS with ηpfc < 7 were highly bound to HSA relative to globulins, whereas PFAS with ηpfc
+≥ 7 showed a greater propensity for binding to globulins. Experimentally measured DHSA/w and Dglob/w and concentrations of serum
+proteins successfully predicted the variability in PFAS binding in human serum. We estimated that the unbound fraction of serum
+PFAS varied by up to a factor of 2.5 among individuals participating in the 2017−2018 U.S. National Health and Nutrition
+Examination Survey. These results suggest that serum HSA and globulins are important covariates for epidemiological studies aimed
+at understanding the effects of PFAS exposure.
+KEYWORDS: exposure, unbound fraction, interindividual variability, solid-phase microextraction, human serum albumin, globulins
+
+1. INTRODUCTION
+
+Exposures to per- and polyfluoroalkyl substances (PFAS), a
+diverse class of highly fluorinated anthropogenic chemicals,
+have been linked to many adverse health effects in humans.1−6
+The extreme resistance of the perfluorinated carbon bond to
+degradation and high production volumes used by industry
+and in consumer products have resulted in their ubiquitous
+presence in the environment and detection in the serum of
+98−99% of United States (U.S.) individuals.7−9 PFAS binding
+to serum proteins is known to affect
+their accumulation,
+circulatory distribution, and elimination in humans.10−15
+Specifically, the unbound fraction of a toxicant in blood is
+typically more available for transport to organs and more likely
+to reach molecular targets that elicit toxic effects.15,16 PFAS
+bound to proteins are thought
+to be inaccessible to
+biomolecules involved in transformation and elimination
+processes and are recirculated in the bloodstream, thereby
+extending elimination half-lives.17,18 Two of the most abundant
+proteins in blood are human serum albumin (HSA) and
+globulins. However, competitive binding of diverse PFAS to
+for
+these proteins
+
+in human serum and implications
+
+toxicokinetics in the human body are poorly understood and
+are the focus of this work.
+
+PFAS binding to serum proteins can be expressed by the
+distribution coefficient (D), which encompasses the binding of
+both charged and neutral PFAS to the protein.19 Past work has
+reported distribution coefficients for human serum albumin
+(HSA, i.e., DHSA/w).20 However, binding of PFAS to globulins,
+the second most abundant class of blood proteins, is poorly
+characterized (i.e., globulin−water distribution coefficients,
+Dglob/w), as is competitive interactions between these two
+proteins and PFAS. PFAS are strongly bound to
+HSA10,12−15,21,22 and DHSA/w generally increases with greater
+perfluorinated carbon-chain length (ηpfc) and hydrophobic-
+ity.11,14,23,24 These properties may explain the long elimination
+half-lives for longer chain PFAS (ηpfc ≥ 6) in humans.25−27
+
+Received: September 12, 2023
+Revised:
+December 18, 2023
+Accepted: December 19, 2023
+Published: January 3, 2024
+
+© 2024 American Chemical Society
+
+1055
+
+https://doi.org/10.1021/acs.est.3c07415
+Environ. Sci. Technol. 2024, 58, 1055−1063
+
+Downloaded via UNIV OF CALIFORNIA DAVIS on September 23, 2024 at 22:40:13 (UTC).See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.Environmental Science & Technology
+
+pubs.acs.org/est
+
+Article
+
+The unbound fraction of PFAS in blood (f unbound) can be
+estimated from the distribution coefficients for HSA and
+globulins and measured serum protein levels. Protein
+concentrations measured in human serum (i.e., the liquid
+component of blood after the blood has clotted) are known to
+vary based on environmental and longitudinal factors28 and
+disease status.29,30 Quantifying the unbound fraction of PFAS
+in blood is useful for understanding their tissue distribution in
+the human body31 and variability in elimination half-lives for
+PFAS across individuals.27 Epidemiological studies investigat-
+ing associations between PFAS serum concentrations and
+health outcomes in humans may also benefit from accounting
+for variability in blood protein concentrations and binding
+affinities for different PFAS as additional covariates.
+
+Distribution coefficients of chemicals to blood proteins and
+other biomolecules can be measured using solid-phase
+microextraction (SPME) techniques.32 The difference in
+chemical mass sampled by an SPME fiber in the presence
+and absence of biomolecules in solution represents the
+chemical fraction bound to the biomolecules of interest. A
+distribution coefficient can be derived from this fraction and
+the mass of the biomolecule in solution. This approach avoids
+extractions of chemicals from biomolecules, thereby minimiz-
+ing laboratory work and matrix effects during chemical analysis.
+The utility of C18 SPME fibers for measuring PFAS serum
+protein binding has been demonstrated in past work that used
+them to measure binding of
+four PFAS to bovine serum
+albumin (BSA), human plasma, and in vitro cell homoge-
+nates.16
+
+The main objectives of this work were to (1) investigate
+competitive binding of PFAS to two major proteins (HSA and
+γ-globulin) in human serum using SPME techniques and (2)
+characterize variability in the unbound fraction of PFAS in the
+human body. We focused on distribution of PFAS to γ-
+globulin because it is the most abundant protein within the
+class of globulins in human serum.33 We also compared
+binding of PFAS to HSA and bovine serum albumin (BSA)
+because it is often used as a proxy for HSA.12,16,21 To do this,
+we adapted and modified a previously developed C18 SPME
+fiber method17 to measure distribution coefficients of PFAS
+with ηpfc = 4−13 and different
+functional head groups
+(carboxylic acids, sulfonic acids, and sulfonamides) to proteins
+in human serum. We chose these PFAS because preliminary
+studies of extractable organofluorine (EOF) as a proxy for total
+PFAS suggest that they account for most PFAS in human
+serum, despite production of diverse chemicals in this
+class.34,35 We evaluated whether PFAS distribution to HSA
+and globulins is a reasonable predictor for the unbound
+fraction of PFAS in serum ( f unbound) by comparing
+experimental results to measured serum−water distribution
+coefficients (Dserum/w). To better understand potential
+variability in the unbound fraction of PFAS in blood at the
+population level, we examined variability in HSA and globulin
+in the 2017−2018 National Health and Nutrition Examination
+Survey (NHANES) data.9 We discuss how experimental
+distribution coefficients for blood proteins and associated
+proxies for the unbound fraction of PFAS in blood can be
+leveraged to improve toxicokinetic (TK) models and to assess
+susceptibility to PFAS exposures.
+
+2. MATERIALS & METHODS
+
+2.1. Materials and Chemicals. C18 SPME fibers with a
+calculated coating volume of 520 nL were purchased from
+
+Supelco (#57281-U).32 PFAS purchased from Wellington
+Laboratories were tested as single chemicals or in batch
+experiments as mixtures. A mixture of five PFAS was used for
+method development, while a 32 PFAS mixture was used for
+protein binding experiments. For batch experiments with 32
+PFAS, the PFAC−24PAR mixture from Wellington Labo-
+ratories was combined with additional PFAS that were not
+included in the mixture. Mass-labeled mixtures of PFAS were
+used as internal standards (Wellington Laboratories). Addi-
+tional information on native and labeled PFAS standards is
+provided in the Supporting Information (SI, Table S1).
+Methanol (MeOH) and deionized water (DI) were used as
+solvents. Phosphate buffered saline (PBS: 0.01 M, NaCl: 0.138
+M; KCl: 0.0027 M) yielding a pH of 7.4 at 25 °C was
+purchased from Sigma (#P3813).
+
+Human serum albumin (Sigma, no. A1887) and γ-globulins
+(Sigma, no. G4386) were used as reference serum proteins. A
+serum standard from a human male residing in the U.S. was
+used for experiments and contained a total protein
+concentration of 40−90 g/L (Sigma, #H4522, see Supporting
+Information (SI) Section S1 for product specifications).
+
+2.2. Preparation and Storage of C18 Fibers. SPME
+fibers were stored in 5 mL polypropylene (PP) tubes
+containing 4 mL of a MeOH/DI mixture (50:50) until use
+in experiments. During storage, preconditioning, and experi-
+ments, the fiber holders were stabilized in prepunctured caps
+to avoid damaging the fiber coating (see Section S2, Figures S1
+and S2). SPME fibers were incubated in 100% MeOH and
+100% DI at room temperature for ≥2 h and ≥10 min,
+respectively, to precondition them for binding experiments
+before transfer to 50 mL falcon tubes for binding experiments.
+Rapid transfer of SPME fibers among storage, preconditioning,
+and experimental tubes avoided drying of the C18 polymer
+coating.
+
+2.3. Setup of Binding Experiments. The molar ratio of
+PFAS to proteins was kept below 0.004 (HSA, BSA) and 0.009
+(γ-globulin) in all binding experiments (i.e., 261 and 111 mol
+of protein per mol of PFAS, respectively), which is well below
+where saturation of serum proteins was observed in previous
+studies that measured binding isotherms for PFAS11,16,36−38
+and other chemicals.19,24,32 For example, nonlinearity of BSA
+binding has been observed for PFBA, PFOA, PFHxS, and
+ratios of ≥0.39,16 emphasizing that our
+PFOS at molar
+experiments were conducted at concentrations within the
+linear binding range. Low molar ratios were selected to mimic
+binding in serum at PFAS concentrations relevant to human
+exposure, based on ratios of ≤0.0005 that were estimated from
+PFAS concentrations reported in human sera.9
+
+The BSA, HSA, γ-globulins, and human serum were
+dissolved in defined amounts (varied among experiments) in
+40 mL of PBS in a 50 mL falcon tube and incubated in a
+horizontal shaker at 37 °C and 100 rpm for ≥15 min. A 40 mL
+PBS solution free of proteins/serum was prepared and treated
+similarly as a control. Defined amounts of PFAS stock
+solutions in MeOH were added to 50 mL falcon tubes and
+evaporated to dryness to avoid MeOH contamination in PBS
+samples. The PBS and protein solutions were added to the
+falcon tubes and incubated on the horizontal shaker at 37 °C
+and 100 rpm for ≥1 h. The solution was evenly distributed in 4
+mL aliquots to PP tubes (n = 3 to 5 replicates). Preconditioned
+SPME fibers were transferred to the tubes while ensuring that
+the fiber coating was completely immersed in the liquid.
+Recovery controls containing PFAS in PBS without SPME
+
+1056
+
+https://doi.org/10.1021/acs.est.3c07415
+Environ. Sci. Technol. 2024, 58, 1055−1063
+
+Environmental Science & Technology
+
+pubs.acs.org/est
+
+Article
+
+fibers were prepared to assess loss processes other than binding
+to the SPME fiber (e.g., binding to vial materials, degradation).
+Fiber controls containing PBS, proteins, and serum without
+PFAS were prepared to assess PFAS background and cross
+contamination between vials and/or experiments. At the end of
+the binding experiments (24−96 h), the fibers were removed
+from the tubes and transferred to a defined volume of MeOH
+for extraction (volume varied between experiments). The
+fibers were extracted for 2−12 h. Overnight extraction was
+performed for lower volumes of MeOH. For HPLC measure-
+ments,
+the extract was diluted 1:1 with DI and internal
+standards were added. PBS solutions were diluted 1:1 with
+MeOH and internal standards were added. All solutions were
+vortexed for ≥15 s before HPLC measurements.
+
+In experiments containing HSA, BSA, γ-globulins, or human
+serum, distribution coefficients were determined from the
+difference in the chemical amount sampled by the C18 fibers in
+the absence and presence of proteins (eq 1),32 provided that
+no other loss processes were observed in the recovery controls
+(≥75% recovery). The general equation used to calculate the
+protein−water distribution coefficient (Dprotein/w, L kg−1) was
+as follows:
+
+(1)
+
+where ntotal (mol) is the total amount of PFAS added to the
+system, nC18 (mol) is the amount of PFAS sampled in the C18
+fiber in the presence of the protein, DC18/w (L L−1) is the C18
+fiber−water distribution coefficient determined in the absence
+of protein, Vw (L) is the volume of water (i.e., PBS buffer) in
+the system, VC18 is the volume of the SPME fiber (520 nL),
+and mprotein is the mass of protein (kg) added to the test
+system. Binding of chemicals to proteins is typically reported as
+an association constant (Ka, M−1), which is determined from
+the molar concentrations of bound and free chemicals and
+unbound proteins. Here, we report Dprotein/w because it is more
+convenient for mass balance calculations that involve phase
+volumes (eq 2). If binding of the chemical to the protein is
+well-below saturation, Dprotein/w can be converted to Ka using
+the molecular weight of the protein, as explained in detail in
+Endo and Goss.19
+
+2.4. C18 Fiber Binding Experiments. We first performed
+distribution experiments between the C18 fiber and PBS buffer
+(i.e., protein-free water) using three perfluoroalkyl carboxylates
+(PFCA: perfluoroheptanoate: PFHpA, perfluorooctanoate:
+PFOA, and perfluorononanoate: PFNA), and two perfluor-
+oalkyl sulfonates (PFSA: perfluorohexanesulfonate: PFHxS
+and perfluorooctanesulfonate: PFOS) as the test chemicals. To
+assess the reproducibility of distribution experiments, the C18-
+water distribution coefficient (DC18/w) of PFOA was measured
+after 24 h of fiber−water incubation at 37 °C and 100 rpm
+horizontal agitation (n = 10). All subsequent experiments were
+performed at 37 °C and 100 rpm. DC18/w for PFHpA, PFOA,
+PFNA, PFHxS, and PFOS were determined after 0.5, 1, 2, 4, 8,
+24, and 48 h of incubation (n = 3 per time point) to determine
+the time until fiber-water equilibrium was achieved. We tested
+for variability in DC18/w across three log units in water
+concentrations (0.2−42 μg L−1) of the five PFAS to assess if
+saturation of the C18 fiber material occurred (n = 3 per
+concentration, 48 h incubation). DC18/w were determined for
+each PFAS in the 32 PFAS mixture after 48 and 96 h to
+confirm that fiber−water equilibrium was achieved for all study
+
+chemicals (n = 4 per time point). Recoveries were measured in
+all experiments in vials containing PBS buffer only (n = 3 to 5)
+to confirm that no significant binding or loss processes other
+than to C18 fibers and dissolved proteins occurred.
+
+2.5. Protein Binding Experiments. We compared
+distribution coefficients for PFHpA, PFOA, PFNA, PFHxS,
+and PFOS to bovine serum albumin (DBSA/w) after 48 h
+incubations (n = 4) against previously measured literature
+values11,16 to validate the methodology used in this study.
+Fiber−water−protein equilibrium was assessed for the 32
+PFAS by measuring DHSA/w after 48 and 96 h (n = 4 per time
+point). Notably, the distribution coefficients reported in this
+study were determined at molar ratios of PFAS to proteins
+≤0.01, which is approximately 100 times lower than the molar
+ratio at which saturation was observed for BSA.16 This should
+be considered when applying these distribution coefficients to
+systems with higher PFAS-to-protein ratios, such as in vitro
+toxicity tests. Binding to proteins was not expected to be rate-
+limiting based on previous work.39 However, binding proper-
+ties of proteins may change as denaturation of proteins, such as
+albumin and globulins occurs. Hence, our reported Dprotein/w
+were not measured in test durations of >48 h. Following
+method validation with BSA, distribution coefficients of the
+PFAS mixture to HSA (DHSA/w), γ-globulins (Dglob/w), and
+human serum (Dserum/w) were measured (n = 4 per type of
+protein).
+
+2.6. Chemical Analysis using HPLC-MS/MS. Targeted
+PFAS in this study were measured using an online SPE method
+on an Agilent (Santa Clara, CA) 6460 triple quadrupole liquid
+chromatography−tandem mass
+spectrometer at Harvard
+University.40,41 Additional
+information on chemical analysis
+is summarized in Section S4, SI. Linear and branched isomers
+were individually measured, and the reported distribution
+coefficients integrate the sum of isomers in the mixture.
+
+2.7. Prediction of Binding to Human Serum.
+Empirically measured DHSA/w and Dglob/w values for each
+PFAS were used to predict Dserum/w (L L−1, eq 2), f unbound (eq
+3), and Cunbound (mol L−1, eq 4) in human serum by
+considering concentrations of globulins and serum albumin
+levels.
+
+(2)
+
+(3)
+
+(4)
+
+where VFHSA, VFglob, and VFw are the volume fractions of HSA,
+in human serum (L L−1),
+total globulins, and water
+respectively. Cserum is the total chemical concentration in
+serum (mol L−1). DHSA/w and Dglob/w were transformed to
+volumetric units assuming protein densities of 1.36 and 1.20
+kg/L for albumin and globulins, respectively. Dw/w is assumed
+to be 1 (i.e., no differences in solubility are expected between
+the aqueous phase in human serum and pure water).
+
+2.8. NHANES Survey Data. The U.S. Center for Disease
+Control and Prevention (CDC) conducts the NHANES survey
+every two years as a statically representative cross-sectional
+survey of the general population.9 We downloaded data on
+serum concentrations of PFAS, albumin, and total proteins
+from participants in the 2017−2018 NHANES survey cycle.
+
+1057
+
+https://doi.org/10.1021/acs.est.3c07415
+Environ. Sci. Technol. 2024, 58, 1055−1063
+
+DDVVDVmnnprotein/wC18/wC18wC18/wC18proteintotalC18=DDDVFVFVFserum/wHSA/wHSAglob/wglobw=++()fDD11unboundHSA/wVFVFglob/wVFVFHSAwglobw=++CfC1VFunboundunboundserumw=Environmental Science & Technology
+
+pubs.acs.org/est
+
+Article
+
+We used these data to quantify variability in blood protein
+concentrations among individuals, and how this affects f unbound
+and Cunbound for different PFAS.9 The limit of detection (LOD)
+was 0.10 ng mL−1 for serum PFAS, and 0.3 g dL−1 for albumin
+and total proteins. Globulin concentrations were estimated
+from the difference between albumin and total protein
+concentrations. For measurements below detection, NHANES
+assigns a default value of the LOD ×
+, which we retained.
+Blood proteins were measured as part of
+the standard
+biochemistry profile, while serum PFAS were measured in a
+one-third subsample of persons 12 years and over (n = 1919
+individuals).
+
+3. RESULTS AND DISCUSSION
+
+3.1. Method Development and Validation. We
+observed good reproducibility (relative standard deviation,
+RSD = 1−11%) across replicate fiber−water distribution
+experiments (Table S2; Figures S3 and S4). Recoveries of 90−
+110% were observed for PFAS with ηpfc ≤ 9 and 75−110% for
+PFAS with ηpfc > 9 (Figures S5 and S6). These results confirm
+losses of PFAS due to binding or
+negligible to small
+denaturation processes during fiber−water distribution experi-
+ments. Kinetic experiments with five PFAS showed equilibrium
+in the C18 SPME fibers was achieved within 48 h (Figure 1A).
+Rapid uptake of PFAS by the SPME fibers reduces the
+likelihood that biological materials degrade over the duration
+of the experiment.
+
+DC18/w deviated by <30% between 48 and 96 h for all PFAS
+(Table S3). DHSA/w decreased between 48 and 96 h,
+particularly for ηpfc > 9 PFAS (Table S4). This may reflect
+denaturation of the proteins and hence reduced sorption of
+
+Figure 1. Results of solid-phase microextraction (SPME) C18 fiber-
+for PFAS. Panel (A) shows
+water distribution experiments
+concentration ratios in phosphate buffered saline (PBS) and fibers
+for five PFAS measured over 48 h in batch experiments (n = 3 per
+time point). The solid lines represent a first-order model fit. Panel (B)
+shows sorption isotherms for five PFAS and corresponding slopes of
+the linear isotherm fits (n = 4 per concentration), where m denotes
+the fitted slope of linear isotherms.
+
+PFAS to the specific binding sites of albumin.13 We therefore
+recommend performing protein and/or tissue binding experi-
+ments with the fibers within 48 h because binding to dissolved
+proteins is not expected to be rate-limited.42 We performed all
+subsequent experiments with a test duration of 48 h.
+
+Linearity of sorption to fibers was observed for the five initial
+PFAS tested across a large range of concentrations (Figure 1B,
+slope (m) ≈ 1 for all tested chemicals). These results reinforce
+the utility of SPME C18 fibers for sampling PFAS across a
+wide range of concentrations expected in human blood and
+spiking experiments with mammalian tissues.
+
+3.2. Binding to C18 Fibers, Serum Albumin, Glob-
+ulins, and Human Serum. Binding to C18 fibers (i.e., log
+DC18/w) increased with increasing molecular weight (Mw) of
+the PFAS up to ∼600 g/mol (Figure 2A and Table S2). No
+differences were observed for PFAS with different functional
+groups (carboxylates, sulfonates, sulfonamides) or carbon
+chain structures (fluorotelomers) that had similar molecular
+weight. These results suggest that the sorption affinity of PFAS
+for the C18 polymer is predominantly size-dependent (i.e.,
+dependent on the chain length of the perfluorinated tail and
+the size of the functional group of the molecule).
+
+Bovine serum albumin (BSA) has been previously used as a
+surrogate for HSA in toxicokinetic models for PFAS.12,16,21
+Our experiments reproduced literature values for DBSA/w within
+0.5 log units (Figures S7 and S8). DHSA/w and DBSA/w agreed
+within 0.25 log units for 23 out of 27 PFAS. However, we
+found sorption to HSA was 0.5−1 log units higher than BSA
+for perfluorohexanoate (PFHxA), 5:3 fluorotelomer carbox-
+ylate (5:3 FTCA), perfluorobutanesulfonate (PFBS), and
+perfluoroheptanesulfonate (PFHpS) (Figure S9). This may
+reflect relatively more favorable electrostatic interactions with
+binding sites on HSA compared to those on BSA for PFAS
+with ηpfc = 3−7. These results suggest DBSA/w may not be a
+good proxy for predicting the distribution to HSA for PFHxA,
+5:3 FTCA, PFBS, and PFHpS.
+
+PFAS binding to HSA (DHSA/w) generally increased with
+higher Mw up until ∼400 g/mol, followed by a plateau above
+this level (Figure 2B, Table S2). This result agrees with past
+mechanistic studies that showed a strong increase in HSA
+binding driven by electrostatic interactions (polar headgroup)
+and hydrophobic effects (nonpolar C−F chain) with PFAS
+carbon chain lengths up to ηpfc = 8.11,13 Both types of
+interactions are accommodated in HSA cavities for ηpfc ≤ 8
+PFAS. For ηpfc > 8 PFAS, reduced molecular flexibility limits
+their accessibility to the HSA binding pockets.13 A relatively
+higher DHSA/w for PFHpS compared to PFNA (Figure 2B)
+could be explained by the additional hydrogen bond
+established by the sulfonic headgroup.13
+
+PFAS to γ-globulins differed from patterns observed for
+HSA. PFAS with a Mw < 400 exhibit relatively weak binding
+(Dglob/w < 100). Distribution coefficients for globulins (log
+Dglob/w) increased linearly for Mw between 400−600 g/mol but
+declined at Mw > 600 g/mol. γ-Globulins are larger than HSA
+(Mw of γ-globulins = 1193 kDa; Mw of HSA = 67 kDa) and are
+not known to bind with fatty acids. Binding of small molecules
+(<1 kDa) to blood globulins is generally considered to be of
+minor importance for the unbound fraction in human blood,43
+with the exception of α1-acid glycoprotein binding of basic
+drugs like propranolol.44 While γ-globulins possess binding
+sites for endogenous macromolecules like antigens (Mw ≈ 150
+kDa),45 binding of <1 kDa molecules is thought to be driven
+by hydrophobic effects with the relatively large surface area of
+
+1058
+
+https://doi.org/10.1021/acs.est.3c07415
+Environ. Sci. Technol. 2024, 58, 1055−1063
+
+1/2Environmental Science & Technology
+
+pubs.acs.org/est
+
+Article
+
+Figure 2. Variability in PFAS distribution coefficients to C18 fibers (DC18/w), human serum albumin (DHSA/w), γ-globulins (Dglob/w), and human
+serum (Dserum/w) as a function of their molecular weight (Mw). Panels show distribution coefficients of PFAS to (A) the C18 fiber; (B) human
+serum albumin (HSA); (C) γ-globulins; and (D) human serum. PFAS classes are indicated by the color and shape of symbols with orange circles
+for carboxylates, blue triangles for sulfonates, yellow squares for sulfonamides, and gray hexagons for fluorotelomers. Turquoise diamonds =
+ADONA.
+
+the protein.46 This may explain the linear increase in log
+Dglob/w for PFAS of up to a Mw of 600 g/mol (Figure 2C),
+where a size-dependent cutoff occurs.
+
+3.3. Distribution of PFAS in Human Serum. Binding to
+human serum measured using the C18 fiber method (Dserum/w)
+increased linearly with Mw up to a peak of around 600 g/mol
+(Figure 2D). This trend is similar to that observed for HSA
+and γ-globulins (Figure 2B,C). Albumin appears to drive the
+distribution of PFAS with a Mw < 500 in the serum as
+illustrated by Dglob/w/DHSA/w ratios < 0.1 (Figure S10). The
+importance of PFAS binding to globulins (and related
+cotransport) increases with Mw until Dglob/w/DHSA/w ratios of
+∼1 for PFAS with ηpfc = 12−13. Thus, globulins should be
+considered when assessing bioaccumulation of PFAS with
+Dglob/w/DHSA/w ratios of >0.1. HSA and globulins constitute the
+majority of serum biomolecules47 but several other bio-
+molecules, such as phospholipid-like fats, are present at lower
+concentrations and could also act as binding substrates for
+PFAS.48,49
+
+Values for Dserum/w suggest that PFAS are generally strongly
+bound to proteins in human serum (f unbound 0.01−1.2%). The
+estimated unbound fraction of PFAS decreased with an
+increasing molecular weight up to an inflection point at 600
+g/mol, after which it
+increased again (Figure 3A). The
+unbound fraction of PFAS in serum was lower (0.035%) for
+PFHpS (ηpfc = 7 sulfonate), compared to PFOA (ηpfc = 7
+carboxylate = 0.061%), PFHxS (ηpfc = 6 sulfonate = 0.041%),
+and PFOS (ηpfc = 8 sulfonate PFOS = 0.042%) (Figure 3A).
+We attribute this to the stronger relative binding of PFHpS to
+HSA (Figure 2B). Longer elimination half-lives in human
+serum have been reported for the PFAS with the greatest
+binding to serum proteins (lowest f unbound) reported in this
+work (PFHpS ≈ PFHxS > PFOS > PFOA).26,50,51
+
+We tested whether distribution coefficients of PFAS to the
+most abundant blood proteins (albumin, globulins) reasonably
+the distribution of PFAS in human serum (i.e.,
+predict
+
+Figure 3. Panel (A) shows average fractions unbound of the study
+PFAS in the surrogate human serum (see SI section S1) measured
+with C18 fibers. Panel (B) shows the comparison of experimentally
+measured distribution coefficients of PFAS to serum (log Dserum/w) to
+distribution coefficients predicted by serum protein concentrations
+and distribution coefficients for globulins and human serum albumin
+(HSA). Serum protein concentrations were based on the average
+concentrations measured in the NHANES 2017−18 survey cycle (n =
+1919). Turquoise diamond = ADONA.
+
+Dserum/w) (Figure 3B). Experimentally measured DHSA/w and
+Dglob/w values were combined with average albumin and
+
+1059
+
+https://doi.org/10.1021/acs.est.3c07415
+Environ. Sci. Technol. 2024, 58, 1055−1063
+
+Environmental Science & Technology
+
+pubs.acs.org/est
+
+Article
+
+Figure 4. Variability in the unbound fraction of PFAS in serum ( f unbound). Center plot shows the range in f unbound of PFAS for individuals
+participating in the NHANES 2017−18 survey cycle (n = 1919) predicted from measured albumin and globulin concentrations in blood and
+corresponding PFAS distribution coefficients. Left and right panels show the estimated f unbound of perfluoroheptanoate (PFHpA) and
+perfluorotridecanoate (PFTriDA) in serum for the same individuals. Black horizontal lines indicate the median and 75th and 25th percentiles of
+f unbound. Coefficients of variation (CV) and maximum/minimum ratios of f unbound are reported. Turquoise diamond = ADONA.
+
+globulin blood levels reported in the NHANES 2017−18
+survey cycle for this analysis (VFHSA = 4.1%, VFglob = 3.1%,
+VFw = 92.8%; Figure S11).9 Experimental log Dserum/w agreed
+well with predicted values using eq 2 (Figure 3B, slope = 0.97,
+95%-CI = 0.94−1.01, R2 = 0.99). Three fluorotelomers (5:3
+FTCA, 7:3 FTCA, 6:2 FtS) were underpredicted by the
+binding equation, suggesting that binding to other serum
+constituents (e.g., α-globulins, phospholipids) may be
+important. In contrast, PFHpS was overpredicted, potentially
+due to competitive binding between these PFAS and fatty acids
+contained in human serum. Good agreement between Dserum/w
+that was directedly measured and that predicted from protein
+binding for most PFAS reinforces the utility of blood protein
+concentrations for predicting their f unbound and Cunbound in
+human populations.
+
+3.4. Variability in PFAS Distribution among Individ-
+uals. We examined variability in the concentrations and
+fractions of unbound PFAS in blood across individuals based
+on differences
+in albumin and globulin concentrations
+measured in individuals participating in the 2017−18
+NHANES survey cycle.9 Median NHANES serum concen-
+trations were 41 g/L albumin and 31 g/L globulins, which is
+similar to serum protein levels reported for other popula-
+tions.47 Albumin and globulin concentrations ranged from 21
+to 52 g/L and 20−55 g/L in the 2017−18 NHANES data,
+with coefficients of variation (CV) of 8.5 and 14%, respectively
+(Figure S12A). Individuals with lower globulin concentrations
+exhibited higher albumin concentrations (Figure S12B/C).
+The lowest observed albumin levels (below the 25th percentile
+or <29 g/L) may be related to common diseases like diabetes
+and fatty liver.29,52 Elevated serum globulins (Figure S12) have
+been associated with cardiovascular disease in other
+populations.30
+
+We estimated that differences in blood protein concen-
+trations among individuals participating in the 2017−18
+NHANES survey cycle contributed to a maximum variability
+in unbound PFAS fraction of 1.6 (for the 10:2 fluorotelomer
+sulfonate [10:2 FtS]) and 2.5 (PFHxS) (Figure 4).9 Compared
+to the first percentile, the 99th percentile fraction of unbound
+PFAS was a maximum of 1.3 times higher for perfluoro-
+tridecanoate (PFTriDA) and 1.6 times higher for PFHxS.
+Coefficients of variation for
+ranged from 6.3
+(PFTriDA) and 9.5% (PFHpS) (Figure S13). Variability in
+the unbound fraction of PFAS in serum was greatest for those
+with a Mw of <500 g/mol (factor of 2.0 to 2.5 variability; CV:
+
+f unbound
+
+8.1−9.5%) but was smaller for those between Mw ≈ 500−600
+g/mol (1.6 and 6.3%) (Figure 4, center plot).
+
+An illustration of variability in the estimated unbound
+fractions for two PFAS in serum among NHANES individuals
+is shown in the left and right plots in Figure 4. Comparing
+PFHpA (ηpfc = 6; Mw = 364 g/mol) and PFTriDA (ηpfc = 12;
+Mw = 664 g/mol), we see that relatively more individuals had a
+higher fraction unbound than the median for the shorter chain-
+length PFAS (PFHpA). The unbound fraction of PFHpA is
+mainly driven by serum albumin concentrations (i.e., Dglob/w/
+DHSA/w ratios are less than 0.1 for PFAS with Mw < 500 g/mol;
+Figure S11). In contrast, for PFTriDA and other PFAS with
+higher molecular weights (Mw > 500 g/mol), we observed
+lower variability in the unbound fractions in serum (CV < 7%).
+This can be explained by competitive binding between albumin
+and globulins (Dglob/w/DHSA/w ratios 0.1−2; Figure S11).
+Albumin and globulin concentrations in serum exhibit an
+inverse pattern in the NHANES data set (Figure S13). PFAS
+binding to globulins is thus more important for individuals
+with albumin deficiency and vice versa. Variability in blood
+protein concentrations affect differences in the unbound
+fractions of shorter chain PFAS (Mw < 500 g/mol) more
+than for PFAS with higher molecular weights (Mw > 500 g/
+mol) (Figure 4). This could lead to greater interindividual
+variability in elimination half-lives and effects of exposures to
+PFAS with Mw < 500 g/mol. Substantial variability in
+elimination half-lives among individuals has been previously
+reported (factor of 5.6 for PFHxS and 3.5 for PFOS) and our
+results suggest variability in f unbound may help to explain such
+differences.53
+
+Accounting for differences in serum protein concentrations
+can be helpful for interpreting the individual PFAS exposures.
+We used f unbound
+from total serum
+to predict Cunbound
+concentrations of PFOA, PFHxS, PFNA, and PFOS measured
+in the 2017−18 NHANES survey cycle (eq 4).9 Lower
+albumin/globulin ratios (<1.4) of individuals could lead to
+higher bioavailable Cunbound of PFOA, PFHxS, PFNA, and
+PFOS relative to their total Cserum (up to 12% difference in
+ranks among individuals, Figures S14 and S15). Lower serum
+protein concentrations may enable more PFAS to reach
+molecular targets and trigger toxic effects.14−16 In contrast,
+individuals with higher protein concentrations and lower
+Cunbound may experience delayed PFAS elimination and
+prolonged exposures due to enhanced protein binding and
+recirculation of PFAS.17,18
+
+1060
+
+https://doi.org/10.1021/acs.est.3c07415
+Environ. Sci. Technol. 2024, 58, 1055−1063
+
+Environmental Science & Technology
+
+pubs.acs.org/est
+
+Article
+
+3.5.
+
+Implications for Toxicokinetic Modeling and
+Epidemiological Studies. Results of this study show that
+distribution coefficients for diverse PFAS to serum proteins
+and other blood constituents can be measured using the C18
+SPME fiber method. Further, PFAS binding in human serum
+can be approximated by distribution coefficients (Dglob/w and
+DHSA/w) and concentrations of globulins and HSA. Less than
+1.2% of PFAS were estimated to be unbound in human serum
+in this study because they are strongly bound to proteins. Mw <
+500 PFAS mainly bind to albumin (fraction bound to albumin
+>98%). Binding to globulin becomes more significant as Mw
+increases, with approximately equal contributions of the two
+proteins to the total binding expected for Mw > 600 PFAS.
+Based on albumin and globulin concentrations of individuals,
+we estimated that f unbound of PFAS varied by up to a factor of
+2.5 among individuals participating in the 2017−18 NHANES
+survey cycle.9 While f unbound of Mw < 500 PFAS is driven by the
+presence of albumin, lower variability in f unbound of Mw > 500
+PFAS is expected due to comparable protein binding strengths
+and inversely correlated concentrations of albumin and
+globulins in human serum.
+
+The strong agreement between predicted and experimental
+Dserum/w in this study suggests that our method is suitable for
+predicting the unbound fraction of PFAS in the serum of
+individuals. Given the simplicity and low costs of protein
+assays, serum proteins could be more routinely measured
+concurrently with PFAS exposures in human biomonitoring
+studies to develop such estimates at an individual level. While
+we compared predicted and experimental Dserum/w for serum of
+a single donor, concurrent measurements of blood protein and
+PFAS concentrations in human biomonitoring studies could
+further evaluate the accuracy of our approach in predicting
+Dserum/w and f unbound. We used γ-globulins as a reference protein
+for the entire class of serum globulins. Future studies should
+aim to investigate variances in PFAS binding to other blood
+proteins to evaluate this assumption. Measuring additional
+serum proteins and biomarkers (e.g., hepatic enzymes and
+membrane transporters)54 may explain the differences in
+predicted and experimental Dserum/w observed for 6:2 FtS, 5:3
+FTCA, 7:3 FTCA, and PFHpS (Figure 3B).
+
+Our results suggest the relationship between external PFAS
+exposure and internal body burdens could be refined by
+accounting for variabilities in blood protein concentrations
+among individuals.55,56 Such refinements may also strengthen
+relationships between PFAS exposure and adverse health
+effects by improving estimates of internal dose and should be
+investigated in future work. Binding data reported in this study
+are useful for parametrizing physiologically based toxicokinetic
+(PBTK) models that can help elucidate the mechanisms
+underlying accumulation, elimination, and toxicity of PFAS. In
+combination with PBTK models, analyses of individual Cunbound
+could reveal the role of variable blood protein concentrations
+attributed to genetic, environmental, and longitudinal factors28
+to susceptibility to PFAS toxicity and elimination half-lives in
+humans.56,57 Diseases that alter blood protein levels, such as
+albumin deficiency in nonalcohol fatty liver disease,29 could
+potentially trigger a feedback effect by allowing higher
+bioactive concentrations to reach already impaired target
+organs like a fatty liver and such hypotheses should be
+examined in future work. The SPME fiber method developed
+in this work could be used to investigate the binding of PFAS
+to tissue homogenates derived from target organs, such as the
+liver and kidneys. Resulting blood-tissue distribution coef-
+
+ficients can be compared to organ concentrations in humans to
+assess the relevance of toxicokinetic processes beyond tissue
+binding such as enterohepatic recirculation and renal tubular
+reabsorption.58,59
+
+■ ASSOCIATED CONTENT
+
+*sı Supporting Information
+The Supporting Information is available free of charge at
+https://pubs.acs.org/doi/10.1021/acs.est.3c07415.
+
+Product specifications of the human serum measured in
+the study; photos of the experimental setup; list of study
+chemicals; summary of analytical methods; method
+validation and quality assurance; distribution coefficients
+measured in the study and comparison to literature
+values;
+temporal changes in distribution coefficients
+between 48 and 96 h incubation times; distribution of
+PFAS between different proteins in human serum; and
+distribution modeling based on the NHANES survey
+data (PDF)
+
+■ AUTHOR INFORMATION
+
+Corresponding Author
+
+Fabian Christoph Fischer − Harvard John A. Paulson School
+of Engineering and Applied Sciences, Harvard University,
+Cambridge, Massachusetts 02138, United States;
+
+orcid.org/0000-0002-9511-0506;
+
+Email: fabian.chr.fischer@gmail.com, fabian.fischer@
+uri.edu
+
+Authors
+
+Sophia Ludtke − Harvard John A. Paulson School of
+
+Engineering and Applied Sciences, Harvard University,
+Cambridge, Massachusetts 02138, United States
+
+Colin Thackray − Harvard John A. Paulson School of
+Engineering and Applied Sciences, Harvard University,
+Cambridge, Massachusetts 02138, United States
+
+Heidi M. Pickard − Harvard John A. Paulson School of
+Engineering and Applied Sciences, Harvard University,
+Cambridge, Massachusetts 02138, United States
+
+Faiz Haque − Harvard John A. Paulson School of Engineering
+
+and Applied Sciences, Harvard University, Cambridge,
+Massachusetts 02138, United States
+
+Clifton Dassuncao − Eastern Research Group, Inc. (ERG),
+
+Arlington, Virginia 22201, United States
+
+Satoshi Endo − National Institute for Environmental Studies
+(NIES), Health and Environmental Risk Division, Tsukuba,
+Ibaraki 305-8506, Japan
+
+Laurel Schaider − Silent Spring Institute, Newton,
+
+Massachusetts 02460, United States;
+0003-1988-0012
+
+orcid.org/0000-
+
+Elsie M. Sunderland − Harvard John A. Paulson School of
+
+Engineering and Applied Sciences and Department of
+Environmental Health, Harvard T.H. Chan School of Public
+Health, Harvard University, Cambridge, Massachusetts
+02138, United States;
+
+orcid.org/0000-0003-0386-9548
+
+Complete contact information is available at:
+https://pubs.acs.org/10.1021/acs.est.3c07415
+
+Notes
+The authors declare no competing financial interest.
+
+1061
+
+https://doi.org/10.1021/acs.est.3c07415
+Environ. Sci. Technol. 2024, 58, 1055−1063
+
+Environmental Science & Technology
+
+pubs.acs.org/est
+
+Article
+
+■ ACKNOWLEDGMENTS
+
+Research reported in this publication was supported by the
+National Institute of Environmental Health Sciences (NIEHS)
+under Award Number P42ES027706. The content is solely the
+responsibility of the authors and does not necessarily represent
+the official views of NIEHS. We thank Prof. Beate Escher, Dr.
+Luise Henneberger, and Weiping Qin for supporting the C18
+fiber method development.
+
+■ REFERENCES
+
+J.; Scheringer, M.; Cousins,
+
+(1) Steenland, K.; Winquist, A. PFAS and cancer, a scoping review of
+the epidemiologic evidence. Environmental Research 2021, 194,
+No. 110690.
+(2) Corsini, E.; Luebke, R. W.; Germolec, D. R.; DeWitt, J. C.
+Perfluorinated compounds: Emerging POPs with potential immuno-
+toxicity. Toxicol. Lett. 2014, 230 (2), 263−270.
+(3) Chen, Z.; Yang, T.; Walker, D. I.; Thomas, D. C.; Qiu, C.;
+Chatzi, L.; Alderete, T. L.; Kim, J. S.; Conti, D. V.; Breton, C. V.;
+Liang, D.; Hauser, E. R.; Jones, D. P.; Gilliland, F. D. Dysregulated
+lipid and fatty acid metabolism link perfluoroalkyl substances
+exposure and impaired glucose metabolism in young adults. Environ.
+Int. 2020, 145, No. 106091.
+(4) Meneguzzi, A.; Fava, C.; Castelli, M.; Minuz, P. Exposure to
+Perfluoroalkyl Chemicals and Cardiovascular Disease: Experimental
+and Epidemiological Evidence. Front. Endocrinol. 2021, 12,
+No. 706352, DOI: 10.3389/fendo.2021.706352.
+(5) Costello, E.; Rock, S.; Stratakis, N.; Eckel, S. P.; Walker, D. I.;
+Valvi, D.; Cserbik, D.; Jenkins, T.; Xanthakos, S. A.; Kohli, R.; Sisley,
+S.; Vasiliou, V.; La Merrill, M. A.; Rosen, H.; Conti, D. V.;
+McConnell, R.; Chatzi, L. Exposure to per- and Polyfluoroalkyl
+Substances and Markers of Liver Injury: A Systematic Review and
+Meta-Analysis. Environ. Health Perspect. 2022, 130 (4), 46001.
+(6) Fenton, S. E.; Ducatman, A.; Boobis, A.; DeWitt, J. C.; Lau, C.;
+Ng, C.; Smith, J. S.; Roberts, S. M. Per- and Polyfluoroalkyl Substance
+Toxicity and Human Health Review: Current State of Knowledge and
+Strategies for Informing Future Research. Environ. Toxicol. Chem.
+2021, 40 (3), 606−630.
+(7) Glüge,
+J. C.;
+Goldenman, G.; Herzke, D.; Lohmann, R.; Ng, C. A.; Trier, X.; Wang,
+Z. An overview of the uses of per- and polyfluoroalkyl substances
+(PFAS). Environmental Science: Processes & Impacts 2020, 22 (12),
+2345−2373.
+(8) Calafat, A. M.; Wong, L.-Y.; Kuklenyik, Z.; Reidy, J. A.;
+Needham, L. L. Polyfluoroalkyl chemicals in the U.S. population: data
+from the National Health and Nutrition Examination Survey
+(NHANES) 2003−2004 and comparisons with NHANES 1999−
+2000. Environ. Health Perspect. 2007, 115 (11), 1596−1602.
+(9) Centers for Disease Control and Prevention (CDC), National
+Center for Health Statistics (NCHS). National Health and Nutrition
+Examination Survey Data; U.S. Department of Health and Human
+Services, Centers for Disease Control and Prevention: Hyattsville,
+MD, 2017−2018.
+[https://wwwn.cdc.gov/nchs/nhanes/
+continuousnhanes/default.aspx?BeginYear=2017].
+(10) Forsthuber, M.; Kaiser, A. M.; Granitzer, S.; Hassl,
+I.;
+Hengstschläger, M.; Stangl, H.; Gundacker, C. Albumin is the
+major carrier protein for PFOS, PFOA, PFHxS, PFNA and PFDA in
+human plasma. Environ. Int. 2020, 137, No. 105324.
+(11) Allendorf, F.; Berger, U.; Goss, K. U.; Ulrich, N. Partition
+coefficients of four perfluoroalkyl acid alternatives between bovine
+serum albumin (BSA) and water in comparison to ten classical
+perfluoroalkyl acids. Environ. Sci-Proc. Imp 2019, 21 (11), 1852−
+1863.
+(12) Bischel, H. N.; MacManus-Spencer, L. A.; Zhang, C. J.; Luthy,
+R. G. Strong Associations of Short-Chain Perfluoroalkyl Acids with
+Serum Albumin and Investigation of Binding Mechanisms. Environ.
+Toxicol. Chem. 2011, 30 (11), 2423−2430.
+(13) Crisalli, A. M.; Cai, A.; Cho, B. P. Probing the Interactions of
+Perfluorocarboxylic Acids of Various Chain Lengths with Human
+
+I. T.; DeWitt,
+
+J.-H.; Lee, H.-J.; Escher, B.
+
+Serum Albumin: Calorimetric and Spectroscopic Investigations.
+Chem. Res. Toxicol. 2023, 36 (4), 703−713.
+(14) Alesio, J. L.; Slitt, A.; Bothun, G. D. Critical new insights into
+the binding of poly- and perfluoroalkyl substances (PFAS) to albumin
+protein. Chemosphere 2022, 287, No. 131979.
+(15) Smeltz, M.; Wambaugh, J. F.; Wetmore, B. A. Plasma Protein
+Binding Evaluations of Per- and Polyfluoroalkyl Substances for
+Category-Based Toxicokinetic Assessment. Chem. Res. Toxicol. 2023,
+36 (6), 870−881.
+(16) Qin, W.; Henneberger, L.; Huchthausen, J.; König, M.; Escher,
+B. I. Role of bioavailability and protein binding of
+four anionic
+perfluoroalkyl substances in cell-based bioassays for quantitative in
+vitro to in vivo extrapolations. Environ. Int. 2023, 173, No. 107857.
+(17) Watanabe, R.; Esaki, T.; Kawashima, H.; Natsume-Kitatani, Y.;
+Nagao, C.; Ohashi, R.; Mizuguchi, K. Predicting Fraction Unbound in
+Human Plasma from Chemical Structure: Improved Accuracy in the
+Low Value Ranges. Mol. Pharmaceutics 2018, 15 (11), 5302−5311.
+(18) Kwon,
+I. Bioavailability of
+hydrophobic organic chemicals on an in vitro metabolic trans-
+formation using rat liver S9 fraction. Toxicol
+in Vitro 2020, 66,
+No. 104835.
+(19) Endo, S.; Goss, K. U. Serum Albumin Binding of Structurally
+Diverse Neutral Organic Compounds: Data and Models. Chem. Res.
+Toxicol. 2011, 45 (24), 2293−2301.
+(20) Li, W.; Hu, Y.; Bischel, H. N. In-Vitro and In-Silico Assessment
+of Per- and Polyfluoroalkyl Substances (PFAS) in Aqueous Film-
+Forming Foam (AFFF) Binding to Human Serum Albumin. Toxics
+2021, 9 (3), 63 DOI: 10.3390/toxics9030063.
+(21) Allendorf, F.; Goss, K.-U.; Ulrich, N. Estimating the
+Equilibrium Distribution of Perfluoroalkyl Acids and 4 of Their
+Alternatives in Mammals. Environ. Toxicol. Chem. 2021, 40 (3), 910−
+920.
+(22) Lu, Y.; Meng, L.; Ma, D.; Cao, H.; Liang, Y.; Liu, H.; Wang, Y.;
+Jiang, G. The occurrence of PFAS in human placenta and their
+binding abilities to human serum albumin and organic anion
+transporter 4. Environ. Pollut. 2021, 273, No. 116460.
+(23) Bischel, H. N.; MacManus-Spencer, L. A.; Luthy, R. G.
+Noncovalent Interactions of Long-Chain Perfluoroalkyl Acids with
+Serum Albumin. Environ. Sci. Technol. 2010, 44 (13), 5263−5269.
+(24) Bischel, H. N.; MacManus-Spencer, L. A.; Zhang, C.; Luthy, R.
+G. Strong associations of short-chain perfluoroalkyl acids with serum
+albumin and investigation of binding mechanisms. Environ. Toxicol.
+Chem. 2011, 30 (11), 2423−2430.
+(25) Fu, J.; Gao, Y.; Cui, L.; Wang, T.; Liang, Y.; Qu, G.; Yuan, B.;
+Wang, Y.; Zhang, A.; Jiang, G. Occurrence, temporal trends, and half-
+lives of perfluoroalkyl acids (PFAAs) in occupational workers in
+China. Sci. Rep. 2016, 6 (1), 38039.
+(26) Li, Y.; Fletcher, T.; Mucs, D.; Scott, K.; Lindh, C. H.; Tallving,
+P.; Jakobsson, K. Half-lives of PFOS, PFHxS and PFOA after end of
+exposure to contaminated drinking water. Occup Environ. Med. 2018,
+75 (1), 46−51.
+(27) Olsen, G. W.; Burris, J. M.; Ehresman, D. J.; Froehlich, J. W.;
+Seacat, A. M.; Butenhoff, J. L.; Zobel, L. R. Half-Life of Serum
+Elimination of Perfluorooctanesulfonate,Perfluorohexanesulfonate,
+and Perfluorooctanoate in Retired Fluorochemical Production
+Workers. Environ. Health Perspect. 2007, 115 (9), 1298−1305.
+(28) Liu, Y.; Buil, A.; Collins, B. C.; Gillet, L. C.; Blum, L. C.;
+Cheng, L.-Y.; Vitek, O.; Mouritsen, J.; Lachance, G.; Spector, T. D.;
+Dermitzakis, E. T.; Aebersold, R. Quantitative variability of 342
+plasma proteins in a human twin population. Mol. Syst. Biol. 2015, 11
+(2), 786.
+(29) Zaccherini, G.; Bernardi, M. The role and indications of
+albumin in advanced liver disease. Acta Gastro-Enterol. Belg. 2019, 82
+(2), 301−308.
+(30) Gyawali, P.; Martin, S. A.; Heilbronn, L. K.; Vincent, A. D.;
+Jenkins, A. J.; Januszewski, A. S.; Adams, R. J. T.; O’Loughlin, P. D.;
+Wittert, G. A. Higher Serum Sex Hormone−Binding Globulin Levels
+Are Associated With Incident Cardiovascular Disease in Men. Journal
+of Clinical Endocrinology & Metabolism 2019, 104 (12), 6301−6315.
+
+1062
+
+https://doi.org/10.1021/acs.est.3c07415
+Environ. Sci. Technol. 2024, 58, 1055−1063
+
+Environmental Science & Technology
+
+pubs.acs.org/est
+
+Article
+
+(31) Pérez, F.; Nadal, M.; Navarro-Ortega, A.; Fàbrega, F.;
+Domingo, J. L.; Barceló, D.; Farré, M. Accumulation of perfluoroalkyl
+substances in human tissues. Environ. Int. 2013, 59, 354−62.
+(32) Henneberger, L.; Mühlenbrink, M.; Fischer, F. C.; Escher, B. I.
+C18-Coated Solid-Phase Microextraction Fibers for the Quantifica-
+tion of Partitioning of Organic Acids to Proteins, Lipids, and Cells.
+Chem. Res. Toxicol. 2019, 32 (1), 168−178.
+(33) Gonzalez-Quintela, A.; Alende, R.; Gude, F.; Campos, J.; Rey,
+J.; Meijide, L. M.; Fernandez-Merino, C.; Vidal, C. Serum levels of
+immunoglobulins (IgG, IgA, IgM) in a general adult population and
+their relationship with alcohol consumption, smoking and common
+metabolic abnormalities. Clin. Exp. Immunol. 2007, 151 (1), 42−50.
+(34) Cioni, L.; Plassmann, M.; Benskin, J. P.; Coêlho, A. C. M. F.;
+No̷st, T. H.; Rylander, C.; Nikiforov, V.; Sandanger, T. M.; Herzke, D.
+Fluorine Mass Balance, including Total Fluorine, Extractable Organic
+Fluorine, Oxidizable Precursors, and Target Per- and Polyfluoroalkyl
+Substances, in Pooled Human Serum from the Tromso̷ Population in
+1986, 2007, and 2015. Environ. Sci. Technol. 2023, 57 (40), 14849−
+14860.
+(35) Miaz, L. T.; Plassmann, M. M.; Gyllenhammar, I.; Bignert, A.;
+Sandblom, O.; Lignell, S.; Glynn, A.; Benskin, J. P. Temporal trends of
+suspect- and target-per/polyfluoroalkyl substances (PFAS), extract-
+able organic fluorine (EOF) and total fluorine (TF) in pooled serum
+from first-time mothers in Uppsala, Sweden, 1996−2017. Environ. Sci-
+Proc. Imp 2020, 22 (4), 1071−1083.
+(36) Moro, G.; Liberi, S.; Vascon, F.; Linciano, S.; De Felice, S.;
+Fasolato, S.; Foresta, C.; De Toni, L.; Di Nisio, A.; Cendron, L.;
+Angelini, A. Investigation of the Interaction between Human Serum
+Albumin and Branched Short-Chain Perfluoroalkyl Compounds.
+Chem. Res. Toxicol. 2022, 35 (11), 2049−2058.
+(37) Li, W.; Hu, Y.; Bischel, H. N. In-Vitro and In-Silico Assessment
+of Per- and Polyfluoroalkyl Substances (PFAS) in Aqueous Film-
+Forming Foam (AFFF) Binding to Human Serum Albumin. Toxics
+2021, 9 (3), 63.
+(38) Xia, X.; Rabearisoa, A. H.; Jiang, X.; Dai, Z. Bioaccumulation of
+Perfluoroalkyl Substances by Daphnia magna in Water with Different
+Types and Concentrations of Protein. Environ. Sci. Technol. 2013, 47
+(19), 10955−10963.
+(39) Krause, S.; Ulrich, N.; Goss, K. U. Desorption kinetics of
+organic chemicals from albumin. Arch. Toxicol. 2018, 92 (3), 1065−
+1074.
+(40) Ruyle, B. J.; Thackray, C. P.; Butt, C. M.; LeBlanc, D. R.;
+Tokranov, A. K.; Vecitis, C. D.; Sunderland, E. M. Centurial
+Persistence of Forever Chemicals at Military Fire Training Sites.
+Environ. Sci. Technol. 2023, 57 (21), 8096−8106.
+(41) Pickard, H. M.; Ruyle, B. J.; Thackray, C. P.; Chovancova, A.;
+Dassuncao, C.; Becanova, J.; Vojta, S.; Lohmann, R.; Sunderland, E.
+M. PFAS and Precursor Bioaccumulation in Freshwater Recreational
+Fish: Implications for Fish Advisories. Environ. Sci. Technol. 2022, 56
+(22), 15573−15583.
+(42) Krause, S.; Goss, K.-U. The impact of desorption kinetics from
+albumin on hepatic extraction efficiency and hepatic clearance: a
+model study. Arch. Toxicol. 2018, 92 (7), 2175−2182.
+(43) Pellegatti, M.; Pagliarusco, S.; Solazzo, L.; Colato, D. Plasma
+protein binding and blood-free concentrations: which studies are
+needed to develop a drug? Expert Opin Drug Met 2011, 7 (8), 1009−
+1020.
+(44) Ravis, W. R.; Parsons, D. L.; Wang, S. J. Buffer and pH Effects
+on Propranolol Binding by Human Albumin and α1-Acid
+Glycoprotein. J. Pharm. Pharmacol. 2011, 40 (7), 459−463.
+(45) Janeway, C. A., Jr; Travers, P.; Walport, M., Immunobiology:
+The Immune System in Health and Disease. Garland Science: New York
+2001.
+(46) Parker, C. W.; Osterland, C. K. Hydrophobic binding sites on
+immunoglobulins. Biochemistry 1970, 9 (5), 1074−1082.
+(47) Leeman, M.; Choi, J.; Hansson, S.; Storm, M. U.; Nilsson, L.
+Proteins and antibodies in serum, plasma, and whole blood-size
+flow field-flow fractionation
+characterization using asymmetrical
+(AF4). Anal Bioanal Chem. 2018, 410 (20), 4867−4873.
+
+(48) Ebert, A.; Allendorf, F.; Berger, U.; Goss, K. U.; Ulrich, N.
+Membrane/Water Partitioning and Permeabilities of Perfluoroalkyl
+Acids and Four of their Alternatives and the Effects on Toxicokinetic
+Behavior. Environ. Sci. Technol. 2020, 54 (8), 5051−5061.
+(49) Dassuncao, C.; Pickard, H.; Pfohl, M.; Tokranov, A. K.; Li, M.;
+Mikkelsen, B.; Slitt, A.; Sunderland, E. M. Phospholipid Levels Predict
+the Tissue Distribution of Poly- and Perfluoroalkyl Substances in a
+Marine Mammal. Environ. Sci. Tech Let 2019, 6 (3), 119−125.
+(50) Olsen, G. W.; Burris, J. M.; Ehresman, D. J.; Froehlich, J. W.;
+Seacat, A. M.; Butenhoff, J. L.; Zobel, L. R. Half-life of serum
+elimination of perfluorooctanesulfonate,perfluorohexanesulfonate, and
+perfluorooctanoate in retired fluorochemical production workers.
+Environ. Health Perspect 2007, 115 (9), 1298−305.
+(51) Li, Y.; Andersson, A.; Xu, Y.; Pineda, D.; Nilsson, C. A.; Lindh,
+C. H.; Jakobsson, K.; Fletcher, T. Determinants of serum half-lives for
+linear and branched perfluoroalkyl substances after long-term high
+exposure�A study in Ronneby. Sweden. Environ. Int. 2022, 163,
+No. 107198.
+(52) Jefferson, L. S.; Liao, W. S.; Peavy, D. E.; Miller, T. B.; Appel,
+M. C.; Taylor, J. M. Diabetes-induced alterations in liver protein
+synthesis. Changes in the relative abundance of mRNAs for albumin
+and other plasma proteins. J. Biol. Chem. 1983, 258 (2), 1369−75.
+(53) Zhang, Y.; Beesoon, S.; Zhu, L.; Martin, J. W. Biomonitoring of
+Perfluoroalkyl Acids in Human Urine and Estimates of Biological
+Half-Life. Environ. Sci. Technol. 2013, 47 (18), 10619−10627.
+(54) Achour, B.; Al-Majdoub, Z. M.; Grybos-Gajniak, A.; Lea, K.;
+Kilford, P.; Zhang, M.; Knight, D.; Barber, J.; Schageman, J.; Rostami-
+Hodjegan, A. Liquid Biopsy Enables Quantification of the Abundance
+and Interindividual Variability of Hepatic Enzymes and Transporters.
+Clin Pharmacol Ther 2021, 109 (1), 222−232.
+(55) Hu, X. C.; Andrews, D. Q.; Lindstrom, A. B.; Bruton, T. A.;
+Schaider, L. A.; Grandjean, P.; Lohmann, R.; Carignan, C. C.; Blum,
+A.; Balan, S. A.; Higgins, C. P.; Sunderland, E. M. Detection of Poly-
+and Perfluoroalkyl Substances (PFASs) in U.S. Drinking Water
+Linked to Industrial Sites, Military Fire Training Areas, and
+Wastewater Treatment Plants. Environ. Sci. Tech Let 2016, 3 (10),
+344−350.
+(56) Lin, J.; Chin, S. Y.; Tan, S. P. F.; Koh, H. C.; Cheong, E. J. Y.;
+Chan, E. C. Y.; Chan, J. C. Y. Mechanistic Middle-Out Physiologically
+Based Toxicokinetic Modeling of Transporter-Dependent Disposition
+of Perfluorooctanoic Acid in Humans. Environ. Sci. Technol. 2023, 57
+(17), 6825−6834.
+(57) Cheng, W.; Ng, C. A. A Permeability-Limited Physiologically
+Based Pharmacokinetic (PBPK) Model for Perfluorooctanoic acid
+(PFOA) in Male Rats. Environ. Sci. Technol. 2017, 51 (17), 9930−
+9939.
+(58) Worley, R. R.; Fisher, J. Application of physiologically-based
+pharmacokinetic modeling to explore the role of kidney transporters
+in renal reabsorption of perfluorooctanoic acid in the rat. Toxicol.
+Appl. Pharmacol. 2015, 289 (3), 428−441.
+(59) Cao, H.; Zhou, Z.; Hu, Z.; Wei, C.; Li, J.; Wang, L.; Liu, G.;
+Zhang, J.; Wang, Y.; Wang, T.; Liang, Y. Effect of Enterohepatic
+Circulation on the Accumulation of Per- and Polyfluoroalkyl
+Substances: Evidence from Experimental and Computational Studies.
+Environ. Sci. Technol. 2022, 56 (5), 3214−3224.
+
+1063
+
+https://doi.org/10.1021/acs.est.3c07415
+Environ. Sci. Technol. 2024, 58, 1055−1063
+
+Supporting Information
+
+Binding of per- and polyfluoroalkyl substances (PFAS) to serum proteins: 
+
+Implications for toxicokinetics in humans
+
+Fabian Christoph Fischer1,*, Sophia Ludtke1, Colin Thackray1, Heidi M. 
+
+Pickard1, Faiz Haque1, Clifton Dassuncao2, Satoshi Endo3, Laurel Schaider4, 
+
+Elsie M. Sunderland1,5
+
+1 Harvard John A. Paulson School of Engineering and Applied Sciences, Harvard University, 
+
+Cambridge, Massachusetts 02138, United States
+
+2 Eastern Research Group, Inc. (ERG), Arlington, Virginia  22201, United States
+
+3 National Institute for Environmental Studies (NIES), Health and Environmental Risk 
+
+Division, Onogawa 16-2, 305-8506 Tsukuba, Ibaraki, Japan
+
+4 Silent Spring Institute, Newton, Massachusetts 02460, United States
+
+5 Department of Environmental Health, Harvard T.H. Chan School of Public Health, Harvard 
+
+University, Cambridge, Massachusetts 02138, United States
+
+*Address correspondence to: fabian.chr.fischer@gmail.com; fabian.fischer@uri.edu 
+
+S-1
+
+Content overview: 15 Pages, 15 Figures, 4 Tables
+
+Section Contents
+
+S-1.
+
+S-2.
+
+S-3.
+
+S-4.
+
+S-5.
+
+S-6.
+
+S-7.
+
+S-8.
+
+S-9.
+
+Product specifications of the human serum measured in the study
+
+Photos of the experimental setup
+
+List of study chemicals
+
+Summary of analytical methods
+
+Method validation and quality assurance
+Distribution coefficients measured in the study and comparison to 
+literature values
+Temporal changes in distribution coefficients between 48 and 96 
+hours incubation times
+Distribution of PFAS between different proteins in human serum
+
+Distribution modeling based on the NHANES survey data
+
+Page
+
+S-3
+
+S-4
+
+S-5
+
+S-6
+
+S-6
+
+S-8
+
+S-10
+
+S-12
+
+S-13
+
+S-2
+
+S-1. Product specifications of the human serum measured in the study.
+
+S-3
+
+S-2. Photos of the experimental setup.
+
+Figure S1. C18 SPME fibers used for binding experiments. The coating (white area) was completely 
+immersed in PBS (+protein) and the syringes were stabilized by penetrating the vial cap.
+
+Figure S2. SPME fiber setup using polypropylene vials containing PBS and a defined amount of blood 
+protein or human serum. 
+
+S-4
+
+S-3. List of study chemicals.
+
+Table S1. Chemicals tested in the 32 PFAS batch experiments and the respective isotopically 
+labeled standards used for quantification.
+
+Compound Name
+Perfluoroalkyl Carboxylates
+Perfluorobutanoate
+Perfluoropentanoate
+Perfluorohexanoate
+Perfluoroheptanoate
+Perfluorooctanoate
+Perfluorononanoate
+Perfluorodecanoate
+Perfluoroundecanoate
+Perfluorododecanoate
+Perfluorotridecanoate
+Perfluorotetradecanoate
+Perfluoroalkyl Sulfonates
+Perfluorobutane sulfonate
+Perfluoropentane sulfonate
+Perfluorohexane sulfonate 
+Perfluoroheptane sulfonate
+Perfluorooctane sulfonate 
+Perfluorononane sulfonate
+Perfluorodecane sulfonate
+Perfluoroalkyl Sulfonamides
+Perfluoro-1-octanesulfonamide
+Perfluoro-1-hexanesulfonamide
+Perfluoro-1-butanesulfonamide
+Perfluoro-1-decanesulfonamide
+Perfluoroalkyl Sulfonamidoacetic Acids
+Perfluoro-1-octanesulfonamidoacetic acid
+N-methyl perfluoro-1-octanesulfonamidoacetic acid
+N-ethyl perfluoro-1-octanesulfonamidoacetic acid
+Fluorotelomer Sulfonates
+4:2 fluorotelomer sulfonate
+6:2 fluorotelomer sulfonate
+8:2 fluorotelomer sulfonate
+10:2 fluorotelomer sulfonate
+Fluorotelomer Carboxylates
+7:3 fluorotelomer carboxylate
+5:3 fluorotelomer carboxylate
+Polyfluoroalkyl ether carboxylates
+Dodecafluoro-3H-4,8-dioxanonanoate
+
+Native 
+Abbreviation
+
+Isotope Labeled 
+Abbrev.
+
+PFBA
+PFPeA
+PFHxA
+PFHpA
+PFOA
+PFNA
+PFDA
+PFUnDA
+PFDoDA
+PFTriDA
+PFTeDA
+
+PFBS
+PFPeS
+PFHxS*
+PFHpS
+PFOS*
+PFNS
+PFDS
+
+FOSA
+FHxSA
+FBSA
+FDSA
+
+MPFBA
+M5PFPeA
+M5PFHxA
+M4PFHpA
+M8PFOA
+M9PFNA
+M6PFDA
+M7PFUnDA
+MPFDoDA
+M2PFTeDA
+M2PFTeDA
+
+M3PFBS
+M3PFHxS
+M3PFHxS
+M8PFOS
+M8PFOS
+M8PFOS
+M8PFOS
+
+M8FOSA
+M8FOSA
+M8FOSA
+M8FOSA
+
+FOSAA
+N-MeFOSAA*
+N-EtFOSAA*
+
+M8FOSA
+d3-N-MeFOSAA
+d5-N-EtFOSAA
+
+4:2 FtS
+6:2 FtS
+8:2 FtS
+10:2 FtS
+
+7:3 FTCA
+5:3 FTCA
+
+ADONA 
+*Analyte exists in the standard as the linear and branched isomers. 
+
+M2-4:2 FtS
+M2-6:2 FtS
+M2-8:2 FtS
+M2-8:2 FtS
+
+M5PFHxA
+M5PFHxA
+
+M8 FOSA
+
+S-5
+
+ 
+ 
+ 
+ 
+S-4. Summary of analytical methods.
+
+SPME  fiber  extracts  and  PBS  samples  were  analyzed  for  32  PFAS  with  an  Agilent  (Santa 
+
+Clara,  California,  U.S.)  6460 
+
+triple  quadrupole 
+
+liquid  chromatography-tandem  mass 
+
+spectrometer equipped with an Agilent 1290 Infinity Flex Cube online SPE located at Harvard 
+
+University.  PFAS concentrations were determined from a 12-point calibration curve ranging 
+
+from 1 to 8,000 ng L-1. Instrumental blanks (to monitor cross-contamination and carry-over) 
+
+and  the  calibration  curve  were  prepared  with  50:50  MeOH:DI  water  with  internal  standard 
+
+concentrations matching the samples. All analytes and internal standards were monitored for 
+
+in electrospray ionization (ESI) negative mode. The linear and branched isomers of PFHxS 
+
+and  PFOS  were  quantified  separately  using  calibration  curves  for  each  isomer.  Initial 
+
+conditions were 97% 2 mM ammonium acetate in water (A) and 3% 2 mM ammonium acetate 
+
+in methanol (B). From 0.85 to 3.5 minutes the gradient was linearly increased to 54% B. From 
+
+3.5 to 16 minutes the gradient was linearly increased to 85% B and then linearly increased to 
+
+100% B until the end of the run (16.5 minutes).
+
+S-5. Method validation and quality assurance.
+
+Variability  between  replicates.  Fiber-water  distribution  coefficients  (Dfiber/w)  of  PFOA  were 
+
+measured based on the methods described in section 2.3. and 2.4. of the main manuscript. 
+
+Fibers were incubated in PBS containing a PFOA for 24 hours. Fibers and PBS were extracted 
+
+as described in the main manuscript. Resulting Dfiber/w are presented in Figure S1.  
+
+Figure S3. Fiber-water distribution coefficients (Dfiber/w) of PFOA measured in ten replicate vials were 
+not significantly different, emphasizing the precision of the C18 fiber SPME method.
+
+S-6
+
+Figure  S4.  Fiber-water  distribution  coefficients  (Dfiber/w)  of  PFOA  measured  in  multiple  distribution 
+experiments at different chemical concentrations were not significantly different between experiments, 
+emphasizing the reproducibility of the C18 fiber SPME method.
+
+Figure S5. Chemical concentrations of PFOA in the water of the stock flask, in vials containing SPME 
+fibers, and in control vials without SPME fibers after 24 hours of incubation. The results demonstrate 
+that PFOA was not lost to other sorptive materials or degraded over the 24-hour experiment.
+
+S-7
+
+Figure S6. Recoveries of PFAS in PBS-fiber distribution experiments using the 32-PFAS batch. The 
+dashed line represents 75% recovery, which was achieved for all chemicals tested. Turquoise diamond 
+= ADONA.
+
+S-8
+
+S-6. Distribution coefficients measured in the study and comparison to literature values.
+
+Table S2. Distribution coefficients of 32 PFAS to C18 fibers, human serum albumin (HSA), 
+bovine serum albumin (BSA), γ-globulins (glob), and human serum, as measured in this study 
+(n = 4). SE = standard error; N.D. = not detected because of too high or too low binding or 
+insufficient method sensitivity.
+
+Chemical
+
+C-F 
+chain 
+length 
+
+Mol. 
+weight 
+(g/mol)
+
+log DC18/w
+(±SE, Lw/LC18)
+
+log DHSA/w
+(±SE, Lw/kgHSA)
+
+log DBSA/w 
+(±SE, Lw/kgBSA)
+
+log Dglob/w 
+(±SE, Lw/kgglob)
+
+log Dserum/w 
+(±SE, Lw/Lserum)
+
+PFBA
+PFPeA
+PFHxA
+PFHpA
+PFOA
+PFNA
+PFDA
+PFUnDA
+PFDoDA
+PFTriDA
+PFTeDA
+
+PFBS
+PFPeS
+PFHxS
+PFHpS
+PFOS
+PFNS
+PFDS
+
+FBSA
+FHxSA
+FOSA
+FOSAA
+N-
+MeFOSAA
+N-
+EtFOSAA
+FDSA
+
+4:2 FtS
+5:3 FTCA
+6:2 FtS
+7:3 FTCA
+8:2 FtS
+10:2 FtS
+ADONA
+
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+4
+5
+6
+7
+8
+9
+10
+
+4
+6
+8
+8
+
+8
+
+8
+
+10
+
+4
+5
+6
+7
+8
+10
+6
+
+214.04
+264.05
+314.05
+364.06
+414.07
+464.08
+514.08
+564.09
+614.10
+664.10
+714.11
+
+299.09
+349.10
+399.11
+450.12
+499.12
+549.13
+600.15
+
+299.11
+399.13
+499.15
+557.18
+
+1.10±0.05
+1.35±0.02
+1.53±0.06
+2.25±0.05
+3.03±0.08
+3.77±0.04
+4.34±0.12
+4.69±0.17
+4.70±0.21
+4.54±0.19
+4.46±0.03
+
+1.28±0.09
+2.09±0.08
+2.89±0.08
+3.54±0.05
+4.24±0.11
+4.74±0.21
+4.83±0.22
+
+N.D.
+2.57±0.04
+4.13±0.08
+4.28±0.12
+
+Carboxylates
+
+N.D.
+2.16±0.40
+3.20±0.06
+4.10±0.05
+4.48±0.04
+4.49±0.08
+4.73±0.10
+5.18±0.10
+5.05±0.07
+4.54±0.05
+3.87±0.07
+
+Sulfonates
+
+3.26±0.30
+3.98±0.10
+4.77±0.26
+5.49±0.15
+4.62±0.10
+4.99±0.08
+5.05±0.10
+Sulfonamides
+
+N.D.
+N.D.
+4.34±0.05
+4.31±0.14
+
+N.D.
+N.D.
+2.83±0.14
+3.93±0.21
+4.20±0.06
+4.54±0.12
+4.81±0.14
+5.17±0.13
+5.12±0.12
+4.47±0.13
+3.87±0.14
+
+2.28±0.27
+4.00±0.26
+4.61±0.08
+4.88±0.19
+4.76±0.10
+5.14±0.12
+5.13±0.09
+
+N.D.
+N.D.
+4.33±0.07
+4.30±0.16
+
+N.D.
+N.D.
+1.73±0.12
+1.81±0.12
+2.16±0.08
+2.81±0.05
+3.67±0.05
+4.64±0.11
+4.81±0.13
+4.33±0.15
+4.00±0.16
+
+2.03±0.20
+1.85±0.27
+1.95±0.08
+2.47±0.03
+3.33±0.02
+4.49±0.09
+4.96±0.14
+
+N.D.
+2.21±0.34
+3.03±0.16
+2.96±0.22
+
+N.D.
+2.21±0.25
+1.99±0.34
+2.49±0.25
+2.85±0.16
+2.99±0.10
+3.40±0.11
+3.87±0.10
+3.62±0.13
+3.08±0.09
+3.00±0.22
+
+N.D.
+2.40±0.29
+3.30±0.11
+3.38±0.06
+3.09±0.08
+3.74±0.13
+3.90±0.10
+
+N.D.
+3.01±0.21
+2.79±0.20
+3.01±0.24
+
+571.21
+
+4.55±0.15
+
+4.27±0.13
+
+4.29±0.13
+
+3.45±0.08
+
+3.02±0.13
+
+585.24
+
+4.61±0.17
+
+4.23±0.15
+
+4.29±0.11
+
+3.76±0.10
+
+3.06±0.12
+
+599.16
+
+4.93±0.18
+
+4.64±0.06
+Fluorotelomers
+
+4.69±0.06
+
+4.95±0.27
+
+3.65±0.17
+
+328.15
+342.11
+428.17
+439.10
+528.18
+628.20
+400.05
+
+1.85±0.21
+2.17±0.09
+3.08±0.10
+3.65±0.07
+4.44±0.15
+4.60±0.27
+2.46±0.06
+
+N.D.
+3.48±0.17
+3.35±0.05
+3.59±0.07
+4.39±0.13
+4.68±0.15
+3.98±0.04
+
+N.D.
+2.90±0.27
+3.44±0.11
+3.79±0.07
+4.49±0.15
+4.88±0.14
+3.84±0.07
+
+N.D.
+2.30±0.08
+2.43±0.17
+2.49±0.28
+3.52±0.04
+4.56±0.19
+2.34±0.30
+
+N.D.
+2.62±0.13
+2.55±0.16
+2.74±0.23
+3.08±0.16
+3.41±0.22
+2.75±0.34
+
+S-9
+
+Figure S7. Distribution coefficients of the study PFAS to bovine serum albumin (DBSA/w), plotted against 
+the  molecular  weight  of  the  chemicals.  The  chemicals  are  sorted  according  to  their  functional  head-
+groups. Turquoise diamond = ADONA.
+
+Figure  S8.  Bovine  serum  albumin-water  distribution  coefficients  (DBSA/w)  of  five  PFAS  measured  as 
+single chemicals in this study and in Allendorf et al. (2019) and Qin et al. (2023). DBSA/w measured in the 
+32  PFAS  batch  experiments  are  shown  in  comparison  to  emphasize  consistency  between  the 
+experiments and literature values. 
+
+S-10
+
+S-7. Temporal changes in distribution coefficients between 48 and 96 hours incubation 
+times.
+
+Table S3. Distribution coefficients of 32 PFAS to C18 fibers measured after 48 and 96 hours 
+of  incubation  (n  =  4).  SE  =  standard  error;  N.D.  =  not  detected  because  of  too  high  or  low 
+binding.
+
+Chemical 
+Abbr.
+
+PFBA
+PFPeA
+PFHxA
+PFHpA
+PFOA
+PFNA
+PFDA
+PFUnDA
+PFDoDA
+PFTriDA
+PFTeDA
+PFBS
+PFPeS
+PFHxS
+PFHpS
+PFOS
+PFNS
+PFDS
+FBSA
+FHxSA
+FOSA
+FOSAA
+N-MeFOSAA
+N-EtFOSAA
+FDSA
+4:2 FtS
+5:3 FTCA
+6:2 FtS
+7:3 FTCA
+8:2 FtS
+10:2 FtS
+ADONA
+
+log DC18/w
+(±SE, Lw/LC18)
+48 hours
+
+log DC18/w
+(±SE, Lw/LC18)
+96 hours
+
+% deviation 
+between time 
+points (antilog)
+
+1.10±0.05
+1.35±0.02
+1.53±0.06
+2.25±0.05
+3.03±0.08
+3.77±0.04
+4.34±0.12
+4.69±0.17
+4.70±0.21
+4.54±0.19
+4.46±0.03
+1.28±0.09
+2.09±0.08
+2.89±0.08
+3.54±0.05
+4.24±0.11
+4.74±0.21
+4.83±0.22
+N.D.
+2.57±0.04
+4.13±0.08
+4.28±0.12
+4.55±0.15
+4.61±0.17
+4.93±0.18
+1.85±0.21
+2.17±0.09
+3.08±0.10
+3.65±0.07
+4.44±0.15
+4.60±0.27
+2.46±0.06
+
+1.14±0.11
+1.29±0.15
+1.45±0.21
+2.18±0.24
+2.95±0.25
+3.70±0.23
+4.38±0.14
+4.77±0.04
+4.65±0.33
+4.49±0.24
+4.35±0.07
+1.19±0.30
+1.93±0.17
+2.74±0.13
+3.40±0.20
+4.17±0.22
+4.83±0.13
+4.88±0.11
+N.D.
+2.53±0.18
+4.12±0.10
+4.35±0.23
+4.67±0.20
+4.66±0.20
+4.94±0.22
+1.81±0.15
+2.16±0.22
+2.95±0.25
+3.65±0.11
+4.49±0.06
+4.61±0.11
+2.31±0.24
+
+9.65%
+-12.90%
+-16.82%
+-14.89%
+-22.38%
+-14.89%
+9.65%
+20.23%
+-10.87%
+-10.87%
+-22.38%
+-18.72%
+-30.82%
+-29.21%
+-27.56%
+-14.89%
+23.03%
+12.20%
+N.D.
+-8.80%
+-2.28%
+17.49%
+31.83%
+12.20%
+2.33%
+-8.80%
+-2.28%
+-25.87%
+0.00%
+12.20%
+2.33%
+-29.21%
+
+S-11
+
+Table S4. Distribution coefficients of 32 PFAS to human serum albumin measured after 48 
+and 96 hours of incubation (n = 4). SE = standard error; N.D. = not detected because of too 
+high or low binding.
+
+Chemical 
+Abbr.
+
+PFBA
+PFPeA
+PFHxA
+PFHpA
+PFOA
+PFNA
+PFDA
+PFUnDA
+PFDoDA
+PFTriDA
+PFTeDA
+PFBS
+PFPeS
+PFHxS
+PFHpS
+PFOS
+PFNS
+PFDS
+FBSA
+FHxSA
+FOSA
+FOSAA
+N-MeFOSAA
+N-EtFOSAA
+FDSA
+4:2 FtS
+5:3 FTCA
+6:2 FtS
+7:3 FTCA
+8:2 FtS
+10:2 FtS
+ADONA
+
+log DHSA/w
+(±SE, Lw/kgHSA)
+48 hours
+N.D.
+2.16±0.40
+3.20±0.06
+4.10±0.05
+4.48±0.04
+4.49±0.08
+4.73±0.10
+5.18±0.10
+5.05±0.07
+4.54±0.05
+3.87±0.07
+3.26±0.30
+3.98±0.10
+4.77±0.26
+5.49±0.15
+4.62±0.10
+4.99±0.08
+5.05±0.10
+N.D.
+N.D.
+4.34±0.05
+4.31±0.14
+4.27±0.13
+4.23±0.15
+4.64±0.06
+N.D.
+3.48±0.17
+3.35±0.05
+3.59±0.07
+4.39±0.13
+4.68±0.15
+3.98±0.04
+
+log DHSA/w
+(±SE, Lw/kgHSA)
+96 hours
+N.D.
+2.13±0.22
+3.23±0.13
+4.00±0.16
+4.52±0.11
+4.48±0.02
+4.61±0.05
+5.09±0.06
+4.81±0.10
+4.29±0.19
+3.66±0.16
+2.88±0.30
+4.12±0.37
+4.79±0.16
+5.44±0.11
+4.60±0.09
+4.71±0.16
+4.71±0.05
+N.D.
+N.D.
+4.28±0.04
+4.14±0.10
+4.33±0.14
+4.25±0.20
+4.79±0.08
+N.D.
+3.45±0.11
+3.33±0.05
+3.52±0.10
+4.23±0.07
+4.28±0.08
+3.87±0.07
+
+% deviation 
+between time 
+points (antilog)
+N.D.
+-6.67%
+7.15%
+-20.57%
+9.65%
+-2.28%
+-24.14%
+-18.72%
+-42.46%
+-43.77%
+-38.34%
+-58.31%
+38.04%
+4.71%
+-10.87%
+-4.50%
+-47.52%
+-54.29%
+N.D.
+N.D.
+-12.90%
+-32.39%
+14.82%
+4.71%
+41.25%
+N.D.
+-6.67%
+-4.50%
+-14.89%
+-30.82%
+-60.19%
+-22.38%
+
+S-12
+
+Figure  S9.  Bovine  serum  albumin-  against  human  serum  albumin-water  distribution  coefficients 
+measured by the C18 fiber method. PFAS deviating from the 1:1 line are highlighted. Turquoise diamond 
+= ADONA.
+
+S-8. Distribution of PFAS between different proteins in human serum.
+
+Figure S10. Ratios of globulin- and human serum albumin-water distribution coefficients of the study 
+PFAS.  The  chemicals  are  sorted  according  to  their  functional  head-groups.  Individual  PFAS  with 
+particularly high and low Dglob/w / DHSA/w ratios are highlighted. Turquoise diamond = ADONA.
+
+S-13
+
+Figure S11. Chemical fractions bound to individual components of human serum, predicted assuming 
+average  volume  fractions  of  4.8%  HSA,  3.2%  globulins,  and  92%  water.  Long  C-chained  PFAS  are 
+highlighted  in  the  red  circle  and  their  shorter  C-chained  alternatives  are  highlighted  as  abbreviated 
+chemical names.
+
+S-9. Distribution modeling based on the NHANES survey data.
+
+Figure S12. A. Albumin and globulin levels in human serum sampled in the years 2017-2018 of the 
+NHANES survey (n = 1919). The black lines and numbers indicate the medians as well as minimum and 
+maximum values. B. Albumin against globulin concentrations measured in the serum of 1919 individuals 
+in  the  2017-2018  NHANES  survey  cycle.  The  line  shows  the  resulting  linear  regression.  C.  Average 
+globulin  concentrations  for  albumin  bins  (bin  range  =  21  –  55  g/L)  measured  in  the  serum  of  1919 
+individuals in the 2017-2018 NHANES survey cycle. The solid line shows the resulting linear regression.
+
+S-14
+
+Figure  S13.  Coefficients  of  variation  (%)  of  funbound  of  the  study  PFAS  as  predicted  for  individuals 
+participating in the U.S. Center for Disease Control’s National Health and Nutrition Examination Survey 
+(NHANES 2017-2018 survey cycle; n=1919). Turquoise diamond = ADONA. 
+
+Figure S14. Minimum/maximum unbound fractions (funbound) of the study PFAS as predicted by individual 
+albumin and globulin concentrations measured in the NHANES 2017-18 survey cycle (n = 1919) and 
+corresponding distribution coefficients. a = funbound 
+
+S-15
+
+Figure S15. Differences in quantiles between Cserum and Cunbound of individuals as predicted by individual 
+albumin and globulin concentrations measured in the NHANES 2017-18 survey cycle (n = 1919) and 
+corresponding distribution coefficients.
+
+S-16
+
+

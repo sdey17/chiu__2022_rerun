@@ -1,0 +1,14 @@
+# lessons 01-05 and 08-09
+numpy
+scipy
+pandas
+matplotlib>=3.6        # height_ratios= in plt.subplots, set_yticks(pos, labels)
+
+# lessons 06-07 (Bayesian fitting)
+pymc>=5
+arviz>=0.17
+
+# only for the notebooks in notebooks/ -- the lessons themselves and
+# make_notebooks.py need none of this
+# jupyterlab
+# nbconvert

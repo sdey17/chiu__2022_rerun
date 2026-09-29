@@ -1,0 +1,1837 @@
+Contents lists available at ScienceDirect 
+
+Environment International 
+
+journal homepage: www.elsevier.com/locate/envint 
+
+Full length article 
+
+Determinants of serum half-lives for linear and branched perfluoroalkyl 
+substances after long-term high exposure—A study in Ronneby, Sweden 
+
+Ying Li a,*, Axel Andersson a, Yiyi Xu a, Daniela Pineda b, Carina A Nilsson b, Christian H. Lindh b, 
+Kristina Jakobsson a,c, Tony Fletcher d 
+a School of Public Health and Community Medicine, Institute of Medicine, University of Gothenburg, Gothenburg, Sweden 
+b Division of Occupational and Environmental Medicine, Department of Laboratory Medicine, Lund University, Lund, Sweden 
+c Occupational and Environmental Medicine, Sahlgrenska University Hospital, Gothenburg, Sweden 
+d London School of Hygiene and Tropical Medicine, London, UK   
+
+A R T I C L E  I N F O    
+
+A B S T R A C T    
+
+Handling Editor: Adrian Covaci  
+
+Keywords: 
+PFAS 
+Branched PFOS-isomers 
+Serum half-life 
+Determinants 
+
+Background: Per- and polyfluoroalkyl substances (PFAS) are persistent substances with surfactant and repellent 
+properties. Municipal drinking water contaminated with PFAS had been distributed for decades to one third of 
+households in Ronneby, Sweden. The source was firefighting foam used in a nearby airfield since the mid-1980s. 
+Clean water was provided from December 16, 2013. 
+Aims: The purpose was to estimate serum half-lives and their determinants in the study population for different 
+PFAS. 
+Methods: Up to ten blood samples were collected between 2014 and 2018 from 114 participants (age 4–84 years 
+at entry, 53% female). 19 PFAS were analysed. Linear mixed models were used to estimate the half-lives. 
+Results:  Eight  PFAS  were  increased  in  Ronneby:  perfluorooctanoic  acid  (PFOA),  perfluoropentane  sulfonate 
+(PFPeS),  perfluorohexane  sulfonate  (PFHxS),  perfluoroheptane  sulfonate  (PFHpS),  linear  perfluorooctane  sul-
+fonate (L-PFOS) and three branched perfluorooctane sulfonates (1 m-PFOS, 3/4/5m-PFOS and 2/6m-PFOS). The 
+mean estimated half-lives (in years) were 0.94 (95 %CI 0.86–1.02) for PFPeS, 2.47 (2.27–2.7) for PFOA, 2.67 
+(2.51–2.85) for 2/6m-PFOS, 2.73 (2.55–2.92) for L-PFOS, 3.43 (3.19–3.71) for 3/4/5m-PFOS, 4.52 (4.14–4.99) 
+for PFHxS, 4.55 (4.14–5.06) for PFHpS, and 5.01 (4.56–5.55) for 1 m-PFOS. 
+The most important determinants of a shorter half-life were young age, and better kidney function measured by 
+estimated  glomerular filtration  rate  and ratio  of  paired  urine and  serum PFAS  levels,  followed  by female  sex 
+during their fertile period aged 15–50. Markers of gut inflammation and reduced permeability i.e. zonulin and 
+calprotectin  were  also  possibly  associated  with  shorter  half-life.  The  results  also  suggested  a  time-dependent 
+PFAS elimination process, with more rapid elimination in the first year after the end of exposure. 
+Conclusion: The half-life estimates are in line with past estimates for some PFAS such as PFOA, and the novel 
+results for different PFOS isomers. These results provide observational support for elimination routes –  renal, 
+fecal and maternal.   
+
+1. Introduction 
+
+Per- and polyfluoroalkyl substances (PFAS) are persistent substances 
+with  surfactant  and  repellent  properties.  The  production  and  use  of 
+PFAS  has  led  to  global  environmental  contamination.  The  source  of 
+exposure  to  PFAS  in  the  general  population  may  include  food,  house 
+dust, drinking water, and, for infants, placental transfer and breast milk 
+(Begley et al., 2005; Berger et al., 2009; Falandysz et al., 2006; Shoeib 
+
+et  al.,  2005).  Locally,  drinking  water  contamination  is  a  significant 
+exposure source, particularly at very high exposure levels identified in 
+four  large  communities  in  the  mid-Ohio  Valley  US  (C8  population); 
+Arnsberg,  Germany;  Veneto,  Italy  cohort  and  in  Ronneby,  Sweden 
+(Brede et al., 2010; Frisbee et al., 2009; Pitter et al., 2020; Xu et al., 
+2021) but also at lower general population levels (Glynn et al., 2020; Hu 
+et al., 2019). A wide range of health effects of PFAS during development, 
+as well as later in life, are suspected even at present background human 
+
+* Corresponding author. 
+
+E-mail address: ying.li@gu.se (Y. Li).  
+
+https://doi.org/10.1016/j.envint.2022.107198 
+Received 9 September 2021; Received in revised form 18 March 2022; Accepted 18 March 2022   
+
+EnvironmentInternational163(2022)107198Availableonline18April20220160-4120/CrownCopyright©2022PublishedbyElsevierLtd.ThisisanopenaccessarticleundertheCCBY-NC-NDlicense(http://creativecommons.org/licenses/by-nc-nd/4.0/).Y. Li et al.                                                                                                                                                                                                                                        
+
+exposure (EFSA, 2018). 
+
+It is imperative to establish the rate of elimination of PFAS from the 
+body  after  cessation  of  exposure,  not  only  for  modelling  purpose  in 
+epidemiological studies, but also for risk assessment and risk commu-
+nication in affected areas worldwide. Various animal studies have esti-
+mated serum half-lives (t1/2) for PFAS in different species, and reported 
+half-lives  usually  in  hours  or  days  with  markedly  variation  between 
+species (Lau et al., 2007). Human half-lives for the few PFAS studied are 
+substantially longer than animals (Bartell et al., 2010; Li et al., 2018; 
+Olsen et al., 2007; Xu et al., 2020a). Half-lives in human have been re-
+ported for perfluorooctane sulfonic acid (PFOS) and perfluorooctanoic 
+acid (PFOA) for between 2 and 4 years, and perfluorohexane sulfonic 
+acid (PFHxS) for 5 up to 7, while some short-chain PFAS have consid-
+erably shorter half-lives (Xu et al., 2020a). There are some differences in 
+the average half-life reported between different human studies, and in 
+addition  we  have  demonstrated  there  is  substantial  inter-individual 
+variation for which there is very little explanation (Li et al., 2018). 
+
+However,  these  studies  have  provided  very  few  insights  into  the 
+determinants of PFAS elimination. For example, it is expected that fe-
+males in fertile ages have a shorter PFAS half-life than males due to by 
+menstrual  blood  losses,  pregnancies  and  breast-feeding  (Wong  et  al., 
+2014).  For  PFOA,  dose-or  time-dependent  elimination  has  been  sug-
+gested (Brede et al., 2010; Seals et al., 2011; Xu et al., 2020a). In a C8- 
+study,  the  elimination  rate  was  related  to  single  nucleotide  poly-
+morphisms (SNPs) in tubular transporter proteins (Fletcher et al., 2012), 
+indicating  that  renal  elimination  phenotypes  may  be  important, 
+although a smaller cross sectional analysis of PFOA levels in relation to 
+one of these SNPs in an Italian study did not find any significant asso-
+ciation (Ingelido et al., 2020). Therefore there remains a need for more 
+detailed  information  on  half-life  for  more  PFAS  than  the  few  most- 
+studied and the variation by age, sex, body mass index and other po-
+tential determinants. Given that elimination can be by both renal and 
+gut excretion, factors that affect these routes are of interest to explore 
+whether they may be reflected in individual PFAS half-life. 
+
+An  earlier  paper  on  this  same  population  derived  half-lives  for 
+PFHxS, PFOA and PFOS (Li et al., 2018), and the current paper provides 
+improved estimates for half-lives in this population with longer follow- 
+up and an extended analysis of other PFAS compounds. 
+
+The aims in this paper were to estimate serum half-lives of a range of 
+perfluoroalkyl  substances  with  varying  carbon  chain-length  after  the 
+abrupt cessation of long-term high exposure to contaminated drinking 
+water, and to characterize the individual determinants of serum half- 
+lives. 
+
+2. Material and method 
+
+2.1. Study group 
+
+In  2013,  it  was  found  out  that  drinking  water  from  one  of  two 
+municipal  waterworks  in  Ronneby,  a  municipality  with  28  000  in-
+habitants in southern Sweden, was contaminated with very high levels 
+of PFAS (Xu et al., 2021). This waterworks, which served approximately 
+one third of the households in the municipality, was closed on 16 Dec 
+2013  and  water  was  immediately  provided  from  the  other  non- 
+contaminated waterworks. It was soon confirmed that use of aqueous 
+film-forming foam (AFFF) for firefighting at the nearby military airport 
+since the mid-1980s was the source of contamination. 
+
+Extensive biomonitoring in the municipality started in June 2014, 
+approximately 6 months after end of the exposure, by open invitation 
+and free of cost. Subjects for a half-life study were recruited among the 
+first 1000 participants, until the target of 100 subjects was reached with 
+a wide range of serum levels and ages. These participants have donated 
+so far serum samples in 10 rounds: in June 2014, October 2014, January 
+2015, April 2015, September 2015, March 2016, September 2016, April 
+2017, September 2017 and May 2018. Urine samples were collected in 
+September 2015 (round 5), March 2016 (round 6) and May 2018 (round 
+
+10). Fecal samples were collected in September 2015. Ongoing sampling 
+is planned for several years to come. 
+
+A reference group from Karlshamn, a nearby municipality without 
+PFAS contamination in drinking water, was also examined in 2016 (Li 
+et  al.,  2018;  Xu  et  al.,  2021).  68  of  the  participants  in  the  reference 
+group, with age range 20–50 years, were randomly selected to estimate 
+the  background  exposure  level  for  an  extended  range  of  PFAS 
+compounds. 
+
+2.2. Chemical analysis 
+
+2.2.1. PFAS in serum and urine 
+
+Venous serum samples were obtained, left at room temperature for 
+30 min and then centrifuged for 10 min at 1500g to isolate the serum on 
+site. The samples were collected in 5 ml Becton Dickinson vacutainer 
+blood collection tubes without gel (BD, Belliver Industrial Estate, Ply-
+mouth, UK). Serum samples were stored in 2 ml micro tubes (Sarstedt, 
+Nümbrecht,  Germany).  Urine  samples  were  collected  in  13  ml  poly-
+propylene  screw  cap  tubes  (Sarstedt,  Nümbrecht,  Germany).  Serum 
+samples were kept on dry ice and urine samples were maintained cool by 
+ice blocks after sampling and transported to Lund using cold chain lo-
+gistics.  Serum and  urine samples were stored at (cid:0) 80 
+C, 
+respectively, before analysis. 
+
+C and  (cid:0) 20 
+
+◦
+
+◦
+
+Quantitative  analysis  of  PFAS  was  conducted  at  the  Division  of 
+Occupational  and  Environmental  Medicine,  Lund  University,  using 
+liquid  chromatography  -  triple  quadrupole  linear  ion  trap  mass  spec-
+trometry (LC/MS/MS; QTRAP 6500+; AB Sciex, Framingham, MA, USA) 
+according to Xu 2020a. In total, 19 PFAS compounds were quantitated in 
+the  panel  group:  perfluoropentanoic  acid  (PFPeA),  perfluorohexanoic 
+acid (PFHxA), perfluoroheptanoic acid (PFHpA), perfluorooctanoic acid 
+(PFOA),  perfluorononanoic  acid  (PFNA),  perfluorodecanoic  acid 
+(PFDA), perfluoroundecanoic acid (PFUnDA), perfluorododecanoic acid 
+(PFDoDA),  perfluorotridecanoic  acid  (PFTrDA),  perfluorobutane  sul-
+fonic  acid  (PFBS),  perfluoropentane  sulfonic  acid  (PFPeS),  per-
+fluorohexane  sulfonic  acid  (PFHxS),  perfluoroheptane  sulfonic  acid 
+(PFHpS),  linear  perfluorooctane  sulfonic  acid  (L-PFOS),  perfluoro-1- 
+perfluoro-3/4/5-methylheptane 
+methylheptanesulfonate(1m-PFOS), 
+sulfonate  (3/4/5m-PFOS),  perfluoro-2/6-methylheptanesulfonate  (2/ 
+6m-PFOS), perfluorononane sulfonic acid (PFNS) and perfluorodecane 
+sulfonic acid (PFDS). 2/6m-PFOS is the sum of 2 m-PFOS and 6 m-PFOS, 
+since  the  estimating  method  could  not  distinguish  them  from  one 
+another. Likewise, 3/4/5m-PFOS is the sum of 3 m-PFOS, 4 m-PFOS and 
+5  m-PFOS.  Briefly,  25  μL  of  serum  or  50  μL  of  urine  samples  were 
+precipitated using acetonitrile by vigorous shaking for 30 min prior to 
+analysis.  All  sample  batches  include  chemical  blanks  and  3  quality 
+control samples. The analyses of PFOS and PFOA are part of a quality 
+control  program  between  analytical  laboratories  coordinated  by  Pro-
+fessor  Hans  Drexler,  Institute  and  Outpatient  Clinic  for  Occupational, 
+Social and Environmental Medicine, University of Erlangen-Nuremberg, 
+Germany.  The  laboratory  also  participated  in  the  HBM4EU  QA/QC 
+program, and its successful performance has resulted in its qualification 
+as HBM4EU laboratory for the analysis of: PFPeA, PFHpA, PFOA, PFNA, 
+PFDA, PFUnDA, PFDoDA, PFBS, PFHxS, PFHpS and PFOS. The limit of 
+detection (LOD) in the serum and urine samples are listed in Table S1. 
+Density  was  used  to  compensate  for  urine  sample  dilution  and  was 
+measured using a digital refractometer (Hauser et al., 2004). For further 
+details  see  Chemical  analysis  in  (Xu  et  al.,  2021)  and  Supplementary 
+materials. 
+
+2.2.2. Biomarkers 
+
+Cystatin  C  were  analysed  in  serum  at  the  Department  of  Clinical 
+Chemistry of the Skåne University Hospital in Lund, Sweden, on a Cobas 
+8000 analyzer (Roche Diagnostics, Basel, Switzerland). The laboratory is 
+accredited according to ISO15189. 
+
+Calprotectin and zonulin were analysed in fecal samples, which were 
+C and analyzed within a few months after collection. The 
+
+◦
+stored at (cid:0) 80 
+
+EnvironmentInternational163(2022)1071982Y. Li et al.                                                                                                                                                                                                                                        
+
+calprotectin  concentration  was  determined  by  an  enzyme-linked 
+immunosorbent  assay  (ELISA)  kit  (Immundiagnostik  AG,  Bensheim, 
+Germany, Batch number K6927-161 124) based on the two site sand-
+wich technique The zonulin concentration was determined by an ELISA 
+kit  (Immundiagnostik  AG,  Batch  number  K5600-160  519)  using  the 
+competitive binding technique. For further description, see (Xu et al., 
+2020b). 
+
+2.3. Determinants 
+
+2.3.1. Age group 
+
+The  participants  were  divided  into  three  age  groups  i.e.  ≤ 14, 
+>14–50,  >50,  at  first  sampling,  broadly  reflecting  pre-and  early  pu-
+berty, menstruating ages and postmenopausal ages. 
+
+2.3.2. Body mass index (BMI) 
+
+For  those  above  14  years,  we  have  investigated  the  possible  BMI 
+effect on elimination. BMI was dichotomized at 25, i.e. normal weight vs 
+overweight. There was no one in the study group above 14 years that 
+was underweight i.e. BMI below 18.5. 
+
+2.3.3. Kidney and gastrointestinal function 
+
+For the kidney, the glomerular filtration rate is a marker of kidney 
+function,  and  for  the  gut,  calprotectin  and  zonulin  are  markers  of 
+inflammation and permeability, which may affect PFAS reabsorption. 
+
+Estimated glomerular filtration rate (eGFR) was used as indicator of 
+kidney function and based on equations using serum cystatin C based on 
+CAPA formula (Grubb  et al., 2014). eGFR was divided  into two cate-
+gories above or below 90 ml/min/1.73 m2. 
+
+For those having donated fecal samples (n = 57), measured zonulin 
+and  calprotectin  levels  were  used  as  indicators  of  gastrointestinal 
+permeability  and  inflammation  (Walsham  and  Sherwood,  2016; 
+Malíˇckov´a  et  al.,  2017).  Zonulin  was  dichotomized  at  their  median 
+levels.  A  conventional  cut-off  at  50  mg/kg  was  used  for  calprotectin 
+(Konikoff and Denson, 2006). 
+
+2.3.4. Urine/serum ratio 
+
+62 participants had donated urine samples in rounds 5, 6 and round 
+10. All of the 8 PFAS at higher concentrations with most above 1 ng/ml 
+(PFOA, PFPeS, PFHxS, PFHpS, L-PFOS, 1 m-PFOS, 3/4/5m-PFOS, 2/6m- 
+PFOS) were detected in the most of urine samples. Based on the paired 
+urine  and  serum  concentration,  their  ratios  were  calculated.  The  de-
+nominator is the serum concentration, a surrogate of the body burden of 
+PFAS.  The  numerator  is  the  urine  concentration,  reflecting  the  renal 
+excretion pathway. Based on the ratios, each participant could be clas-
+sified  as  having  high or  low  renal excretion  depending on  the  ratio’s 
+relation to the median of the specific round. Since there were up to three 
+rounds of urine samples, a participant who consistently remained in the 
+high ratio category in all the three rounds urine samples was classified as 
+having a ‘high’ ratio. We used the urine values measured even if below 
+the LOD. These were used in the numerator for the urine/serum ratio 
+and then they were classified into high vs low ratios. Thus those below 
+LOD were rightly placed in the low category. 
+
+2.4. Statistical analysis 
+
+and 10 measures of serum PFPeS from six participants were replaced in 
+this way. αi  is the subject-specific intercept, tij  is the time elapsed be-
+tween  the  end  of  distribution  of  contaminated  water  and  the  blood 
+sample collection, ki  is the subject-specific slope, Xi  is a vector of fixed 
+covariates for individual i, including age, gender and BMI, β is the fixed 
+effect coefficient and εij  is the random error term. For one child BMI at 
+baseline  was  not  reported,  and  thus  the  BMI  was  estimated  by  the 
+average of the participants in the same age. The subject-specific inter-
+cept αi, the subject-specific slope ki  and the random error term εij  were 
+modeled  as  random  with  normal  distribution;  others  were  treated  as 
+fixed effects. The slope ki  is the individual elimination rate and its mean 
+estimated  from  model  (i.e.  population  average  elimination  rate)  was 
+converted to half-life (ln2/mean(ki)) to derive the mean half-life. Indi-
+vidual values of ki  were predicted using the “best linear unbiased pre-
+diction” method, i.e. an individual elimination rate for each participant 
+derived  from  the  model  via  command  ‘random  /solution’  in  the  pro-
+cedure  ‘proc  mixed’  in  SAS.  Summary  half-life  values  have  been  pre-
+sented as either a mean half-life (calculated from the mean elimination 
+rate constant k: t1/2 = ln(2)/k) or as median half-life (the median value 
+of the individual predicted half-life values). The 95% CI for mean (ki) 
+from the regression was used to derive the CI for the half-life, by con-
+verting as for the mean. 
+
+We conducted additional analyses to determine whether elimination 
+rates depended on certain covariates. In addition to model 1, we added 
+interaction terms between age group (≤14, >14–50, >50) and elapsed 
+time, interactions between age group, gender and elapsed time, and the 
+interactions between initial total PFAS levels tertiles and elapsed time. 
+Since age group had a strong effect on elimination, the interaction 
+term  between  elapsed  time  and  age  groups  were  kept  in  following 
+analysis.  For  a  subgroup  with  age  over  14,  we  adding  interaction  of 
+dichotomous BMI variable (below or above 25) with elapsed time. 
+
+We also evaluated the potential dependence of elimination rates on 
+time elapsed after end of exposure by comparing the estimates based on 
+the samples from round 1 to round 3, (6–13 months after end of drinking 
+water exposure), round 3 to round 6 (13–25 months) and round 6 to 
+round 10 (25 to 53 months). 
+
+In  addition,  we  evaluated  whether  kidney  function  measured  by 
+eGFR,  gut  integrity  measured  by  zonulin  and  calprotectin,  and  urine 
+excretion  measured by  urine/serum ratio  have an  influence on elimi-
+nation  rate  by  adding  interaction  terms  between  these  dichotomous 
+variables and elapsed time. 
+
+Finally,  we  calculated  partial  R2,  as  a  measure  of  the  relative 
+importance of the determinants based on the linear model with the in-
+dividual predicted half-life as outcome and the determinants as cova-
+riates  i.e.  interaction  terms  between  age  and  sex,  categorical  eGFR, 
+zonulin,  calprotectin  and  initial  total  PFAS  levels,  all  in  the  model 
+together. 
+
+2.5. Ethics 
+
+The study has been carried out in accordance with the Declaration of 
+Helsinki. The study was approved by the Regional Ethical Board in Lund, 
+Sweden.  All  participants  have  given  informed  consent  prior  to  study 
+participation. 
+
+Serum PFAS half-lives were estimated based on linear mixed model 
+as in Li et al (2018). The following mixed model was used to fit the panel 
+data: 
+
+3. Results 
+
+3.1. Study participants. 
+
+lnCij = αi + tijki + Xiβ + εij
+
+(1) 
+
+where  Cij  is  the  serum  PFAS  concentrations  for  individual  i  and 
+sampling  round  j  after  subtracting  the  geometric  mean  of  the  back-
+ground levels. If the serum PFAS levels after subtraction were lower than 
+the half of the background levels, they were replaced with half of the 
+background levels. In all, 26 measures of PFOA from seven participants 
+
+The panel study group consisted of 114 participants (53% females) 
+with  a  wide  age  span,  from  4  to  84  years  at  baseline  (Table  1).  The 
+average number of serum samples was 8. There were 29 children with 
+age below 14, 52 participants aged 14–50 and 33 over age 50, at base-
+line. Out of those over age 14, there were 48% having BMI over 25. 109 
+participants  had  valid  Cystatin  C  levels.  There  were  53  participants 
+
+EnvironmentInternational163(2022)1071983Y. Li et al.                                                                                                                                                                                                                                        
+
+Table 1 
+Description for the 114 participants in Ronneby panel study.   
+
+Counts 
+
+Median (5,95 percentiles) 
+
+Counts in each category 
+
+Age (years) 
+BMI (kg/ m2) 
+
+eGFR (ml/min/1.73 m2) 
+Zonulin (ng/ml) 
+Calprotectin (mg/kg) 
+
+114 
+114 
+
+109 
+57 
+57 
+
+42 (7, 76) 
+24 (16, 32) 
+
+91 (47, 119) 
+106 (20, 323) 
+20 (2, 135) 
+
+<14: 29; 14–50: 52; >50: 33 
+>18.5: 17; 18.5–25: 55, >25 42 
+for age > 14: 
+BMI < 25: 43; >25: 40. 
+≥90:47; 60–90:53; <60: 9 
+≥106: 29; <106: 28 
+>50: 13; <50: 44  
+
+having eGFR < 90 ml/min/1.73 m2 and 9 participants with eGFR < 60 
+ml/min/1.73 m2. 
+
+3.2. Serum PFAS levels 
+
+In  total  19  PFAS  compounds  were  measured  in  the  panel  group 
+(Table 2). At 1st sampling, PFHxS showed the highest serum concen-
+tration,  with  geometric  mean  level  480  times  higher  than  the  level 
+observed  in  the  reference  population.  PFOA  and  PFHpS  also  showed 
+substantial higher levels. The levels of PFPeS>100 times higher than in 
+the reference. The linear and branched PFOS substances (L-PFOS, 1 m- 
+PFOS,  2/6m-PFOS  and  3/4/5m-PFOS)  were  substantially  higher  with 
+50–150  times  higher  levels  in  the  panel  group  than  in  the  reference 
+group.  We  focused  on  these  8  predominant  PFAS  compounds  in  the 
+following analyses. 
+
+3.3. Urinary PFAS levels 
+
+Compared to serum PFAS levels, the urinary PFAS levels were low, 
+with a median for PFHxS 0.13 ng/ml and for other PFAS medians were 
+below 0.08 ng/ml (Table 3). At the group level, the urine/serum ratios 
+for PFPeS were higher than the rest of PFAS compounds. 
+
+For each PFAS, there was a substantial between-individual variation 
+of the urine/serum ratio. The ratios were more consistent over time as 
+the  median  of ratios  were similar across times. Over 60%  of the  par-
+ticipants showed consistency in high or low urine/serum ratio over the 
+first two rounds, i.e. a participant had relatively high urine/serum ratio 
+
+Table 2 
+Serum PFAS levels (ng/ml) in panel group and reference group.   
+
+at sampling round 5 had also high ratio at the sampling round 6. Around 
+40–60% participants showed consistently high or low ratios in all three 
+rounds (Table S2). 
+
+There were indications of associations of a decreased urine/serum 
+ratio with increased serum PFAS levels (the scatter plots are shown in 
+supplementary Figure S1). There were no associations between urine/ 
+serum ratio and eGFR (Supplementary Figure S2). 
+
+3.4. Half-lives of PFAS 
+
+From  June  2014  to  May  2018,  a  four-year  period,  the  geometric 
+mean serum level decreased 56% PFOA, 92% for PFPeS, 43% for PFHxS, 
+38% for PFHpS, 60% for linear PFOS (L-PFOS), 40% for branched 1 m- 
+PFOS, 54% for branched 3/4/5m-PFOS and 64% for branched 2/6m- 
+PFOS. 
+
+Table 4 shows the elimination constant and the corresponding half- 
+lives  for  each  PFAS  compound.  PFPeS  showed  the  most  rapid  annual 
+decrease with 52%, which corresponds to a mean half-life of 0.94 years. 
+PFOA, L-PFOS and 2/6m-PFOS had half-lives around 2.5 to 3 years. 3/4/ 
+5m-PFOS showed a half-life of 3.4 years. PFHxS, PFHpS and 1 m-PFOS 
+showed relative longer half-lives than rest with 4.5 years, 4.6 years and 
+5.0 years respectively. 
+
+The  sensitivity  analysis  with  serum  PFAS  levels  not  subtracting 
+general  background  levels  are  listed  Table  S3.  The  estimates  without 
+subtraction  of  background  levels  were  very  close  to  estimates  after 
+subtraction of background exposure, except to an extent for PFOA (2.99 
+vs 2.47 years). 
+
+Panel Study group (n = 114) 
+
+Reference group (n = 68)  
+
+Initial PFAS levels (0.5 years) 
+GM 
+
+Median 
+
+min 
+
+PFPeA 
+PFHxA 
+PFHpA 
+PFOA 
+PFNA 
+PFDA 
+PFUnDA 
+PFDoDA 
+PFTrDA 
+PFBS 
+PFPeS 
+PFHxS 
+PFHpS 
+L-PFOS 
+1 m-PFOS 
+3/4/5m-PFOS 
+2/6m-PFOS 
+PFNS 
+PFDS 
+
+<0.08 
+0.099 
+0.085 
+16 
+0.64 
+0.27 
+0.27 
+<0.2 
+<0.2 
+<0.05 
+6.2 
+260 
+13 
+150 
+23 
+73 
+49 
+<0.05 
+<0.1 
+
+<0.08 
+0.094 
+0.095 
+16 
+0.63 
+0.26 
+0.27 
+<0.2 
+<0.2 
+<0.05 
+6.0 
+260 
+12 
+170 
+23 
+75 
+56 
+<0.05 
+<0.1 
+
+<0.08 
+<0.07 
+<0.05 
+1.7 
+0.19 
+0.11 
+<0.1 
+<0.2 
+<0.2 
+<0.05 
+0.083 
+15 
+0.91 
+12 
+1.7 
+6.4 
+4.3 
+<0.05 
+<0.1 
+
+max 
+
+0.090 
+1.2 
+2.4 
+78 
+3.9 
+1.6 
+1.3 
+0.29 
+0.33 
+1.6 
+49 
+1300 
+70 
+680 
+110 
+410 
+270 
+0.055 
+0.23 
+
+PFAS levels at 10th round (4.4 years)   
+GM 
+
+Median 
+
+min 
+
+<0.08 
+0.074 
+<0.05 
+7.1 
+0.51 
+0.24 
+0.23 
+<0.2 
+<0.2 
+<0.05 
+0.48 
+150 
+8.0 
+63 
+14 
+34 
+17 
+<0.05 
+<0.1 
+
+<0.08 
+0.082 
+<0.05 
+6.7 
+0.52 
+0.24 
+0.26 
+<0.2 
+<0.2 
+<0.05 
+0.51 
+140 
+8.0 
+67 
+13 
+34 
+20 
+<0.05 
+<0.1 
+
+<0.08 
+<0.07 
+<0.05 
+0.87 
+0.12 
+0.058 
+<0.1 
+<0.2 
+<0.2 
+<0.05 
+<0.02 
+12 
+0.55 
+10 
+1.0 
+3.5 
+2.7 
+<0.05 
+<0.1 
+
+max 
+
+GM 
+
+Median 
+
+min 
+
+<0.08  
+0.65  
+0.11  
+46  
+1.3  
+0.67  
+0.68  
+<0.2  
+<0.2  
+0.10  
+9.8  
+860  
+51  
+500  
+86  
+220  
+130  
+<0.05  
+<0.1  
+
+<0.2  
+<0.2  
+<0.1  
+1.4  
+0.63  
+0.27  
+0.23  
+<0.2  
+<0.2  
+<0.1  
+<0.02  
+0.54  
+0.059  
+3.0  
+0.17  
+0.76  
+0.47  
+<0.1  
+<0.1  
+
+<0.2  
+<0.2  
+<0.1  
+1.4  
+0.64  
+0.27  
+0.21  
+<0.2  
+<0.2  
+<0.1  
+<0.02  
+0.61  
+0.069  
+3.0  
+0.18  
+0.84  
+0.47  
+<0.1  
+<0.1  
+
+<0.2  
+<0.2  
+<0.1  
+0.26  
+0.22  
+0.11  
+0.098  
+
+<0.2  
+<0.2  
+<0.1  
+<0.02  
+<0.1  
+<0.1  
+0.30  
+<0.05  
+0.096  
+
+<0.3  
+<0.1  
+<0.1  
+
+max 
+
+<0.2 
+<0.2 
+<0.1 
+4.5 
+1.4 
+0.76 
+0.66 
+<0.2 
+<0.2 
+<0.1 
+
+0.018 
+1.2 
+0.16 
+9.8 
+0.59 
+2.2 
+1.4 
+<0.1 
+<0.1 
+
+Note: Perfluoropentanoic acid (PFPeA), Perfluorohexanoic acid (PFHxA), Perfluoroheptanoic acid (PFHpA), Perfluorooctanoic acid (PFOA), Perfluorononanoic acid 
+(PFNA),  Perfluorodecanoic  acid  (PFDA),  perfluoroundecanoic  acid  (PFUnDA),  perfluorododecanoic  acid  (PFDoDA),  perfluorotridecanoic  acid  (PFTrDA),  Per-
+fluorobutane sulfonic acid (PFBS), Perfluoropentane sulfonic acid (PFPeS), Perfluorohexane sulfonic acid (PFHxS), Perfluoroheptane sulfonic acid (PFHpS), Linear 
+perfluorooctane sulfonic acid (L-PFOS), Perfluorononane sulfonic acid (PFNS), Perfluorodecane sulfonic acid (PFDS), Perfluoro-1-methylheptanesulfonate (1 m-PFOS), 
+Perfluoro-3/4/5-methylheptanesulfonate (3/4/5m-PFOS), Perfluoro-2/6-methylheptanesulfonate (2/6m-PFOS). 
+
+EnvironmentInternational163(2022)1071984Y. Li et al.                                                                                                                                                                                                                                        
+
+Table 3 
+Density adjusted PFAS urinary levels (unit: ng/ml).    
+
+Density adjusted urine levels 
+
+Serum 
+levels 
+
+Urine/serum 
+ratio  
+
+Round  median  min 
+
+max 
+
+median 
+
+median 
+
+PFOA 
+
+PFPeS 
+
+PFHxS 
+
+PFHpS 
+
+L-PFOS 
+
+1 m-PFOS 
+
+3/4/5m- 
+PFOS 
+
+2/6m- 
+
+PFOS 
+
+5a  
+6b  
+10c  
+
+5  
+6  
+10  
+
+5  
+6  
+10  
+
+5  
+6  
+10  
+
+5  
+6  
+10  
+
+5  
+6  
+10  
+
+5  
+6  
+10  
+
+5  
+6  
+10  
+
+0.025   <0.01  
+0.025   <0.01  
+0.017   <0.01  
+
+0.16 
+0.12 
+0.092 
+
+12  
+10  
+6.7  
+
+0.028   <0.01  
+0.030   <0.01  
+0.012   <0.01  
+
+0.18 
+0.75 
+0.078 
+
+2.6  
+1.9  
+0.51  
+
+0.18  
+0.17  
+0.13  
+
+0.016  
+0.019  
+0.014  
+
+1.4 
+0.64 
+1.9 
+
+220  
+210  
+140  
+
+<0.01  
+
+<0.01  
+0.011   <0.01  
+<0.01  
+
+<0.01  
+
+0.071 
+0.036 
+0.057 
+
+11  
+10  
+8.0  
+
+0.073   <0.01  
+0.075   <0.01  
+0.050   <0.01  
+
+1.4 
+0.74 
+0.92 
+
+130  
+120  
+67  
+
+<0.01  
+<0.01  
+<0.01  
+
+<0.01  
+<0.01  
+<0.01  
+
+0.062 
+0.048 
+0.14 
+
+0.039   <0.02  
+0.035   <0.02  
+0.031   <0.02  
+
+<0.02  
+<0.02  
+<0.02  
+
+<0.02  
+<0.02  
+<0.02  
+
+0.42 
+0.25 
+0.48 
+
+0.23 
+0.11 
+0.15 
+
+20  
+19  
+13  
+
+60  
+59  
+34  
+
+42  
+38  
+19  
+
+0.0023 
+0.0021 
+0.0022  
+
+0.0098 
+0.0030 
+0.017  
+
+0.00072 
+0.00075 
+0.00075  
+
+0.00086 
+0.00099 
+0.00085  
+
+0.00070 
+0.00068 
+0.00073  
+
+0.00024 
+0.00021 
+0.00021  
+
+0.00073 
+0.00067 
+0.00086  
+
+0.00041 
+0.00045 
+0.00052 
+
+perfluorooctane 
+
+Note: Perfluorooctanoic acid (PFOA), Perfluoropentane sulfonic acid (PFPeS), 
+Perfluorohexane sulfonic acid (PFHxS), Perfluoroheptane sulfonic acid (PFHpS), 
+Linear 
+Perfluoro-1- 
+methylheptanesulfonate (1 m-PFOS), Perfluoro-3/4/5-methylheptanesulfonate 
+(3/4/5m-PFOS), Perfluoro-2/6-methylheptanesulfonate (2/6m-PFOS). a Round 
+5:  twenty-one  months  after  end  of  exposure  with  104  samples.  b  Round  6: 
+twenty-seven months after end of exposure with 93 samples. cRound 10: four 
+and half years after end of exposure with 73 samples. 
+
+(L-PFOS), 
+
+sulfonic 
+
+acid 
+
+There was a substantial inter-individual variation of the estimated 
+half-lives  with  the  three  to  five  fold  difference  from  the  5th  to  95th 
+percentiles (Table 4). 
+
+Half-life could not be estimated for the other 11 PFAS with at least 
+some measures above detection, for various reasons, including that they 
+were  nearly  all  below  detection  (e.g.  PFPeA),  or  not  present  in  the 
+contaminated water and so exposure must come from other routes such 
+as diet (e.g. PFDA) or they were in the contaminated water but excretion 
+is so rapid that nearly all samples were below detection by the time of 
+sampling the first round (e.g. PFBS). 
+
+3.5. Determinants of half-lives of PFAS 
+
+We explored the possibility of a change in elimination rate over time 
+since end of exposure (a combination of time- and dose-dependency). 
+The  elimination  rates  based  on  the  samples  during  the  first  year  of 
+observation after end of exposure were generally faster than the elimi-
+nation  based  on  the  late  samples,  indicating  the  possibility  of  time- 
+dependency  (Table  5).  A  time-dependency  of  elimination  was  not 
+obvious for the branched PFOS, i.e. 1 m-PFOS, 3/4/5m-PFOS and 2/6m- 
+PFOS. 
+
+Initial PFAS levels were relevant as well, with positive associations 
+between higher initial PFAS levels and shorter half-lives in some of the 
+PFAS substances (Fig. 1, Table S4), especially in PFHxS and PFHpS. 
+
+Age had a very strong effect on half-lives especially for the preteens, 
+as  shown in  Fig. 2 (details  in Table  S5). In general, shorter half-lives 
+were  associated  with  younger  ages.  The  preteens  showed  45%-60% 
+shorter half-lives for different PFAS, comparing with those older than 
+50, for all PFAS except PFPeS which showed the most rapid excretion in 
+the mid age range. There was also some evidence for the shorter half- 
+lives in adults aged below 50 than aged above 50. The scatter plot of 
+individual  elimination  rate  vs  age  suggest  a  fairly  steady  decline  in 
+excretion and consequent increase in half-life throughout the lifetime 
+(Supplementary Figure S3). 
+
+An effect of gender on half-life was only evident between 15 and 50 
+years with female having shorter half-lives (5–22%) for all PFAS com-
+pounds expect PFPeS (Fig. 3, details Table S6-8). There was no evidence 
+of BMI having an effect on half-lives in adults (Table S9). 
+
+It  is  evident  that  the  participants  with  lower  eGFR  have  12–27% 
+
+longer half-lives for all the PFAS compounds (Fig. 4, Table S10). 
+
+The participants with higher urine to serum ratio had short half-lives 
+
+for all the PFAS (Fig. 5, Table S11). 
+
+Fecal calprotectin levels (Fig. 6, Table S12) showed negative asso-
+ciations with half-lives, although the difference only reached statistical 
+significance for PFOA (p = 0.02). Participants with calprotectin > 50 
+
+Table 4 
+Population average constant elimination rate (per year) and half-life (in years) for each PFAS, n = 114.   
+
+Mean Elimination Rate a (95% CI) 
+
+Percent annual decrease 
+
+Mean half-lifeb (95% CI) 
+
+PFOA 
+PFPeS 
+PFHxS 
+PFHpS 
+L-PFOS 
+1 m-PFOS 
+3/4/5m-PFOS 
+2/6m-PFOS 
+
+(cid:0) 0.28(-0.31, (cid:0) 0.26)  
+(cid:0) 0.74(-0.8, (cid:0) 0.68)  
+(cid:0) 0.15(-0.17, (cid:0) 0.14)  
+(cid:0) 0.15(-0.17, (cid:0) 0.14)  
+(cid:0) 0.25(-0.27, (cid:0) 0.24)  
+(cid:0) 0.14(-0.15, (cid:0) 0.12)  
+(cid:0) 0.2(-0.22, (cid:0) 0.19)  
+(cid:0) 0.26(-0.28, (cid:0) 0.24)  
+
+24.50% 
+52.35% 
+14.20% 
+14.12% 
+22.45% 
+12.92% 
+18.28% 
+22.87% 
+
+2.47(2.27, 2.7) 
+0.94(0.86, 1.02) 
+4.52(4.14, 4.99) 
+4.55(4.14, 5.06) 
+2.73(2.55, 2.92) 
+5.01(4.56, 5.55) 
+3.43(3.19, 3.71) 
+2.67(2.51, 2.85) 
+
+Median half-life 
+(5th, 95th percentiles) c 
+
+2.69(1.37, 5.4) 
+1.03(0.47, 1.81) 
+5.4(2.34, 9.29) 
+5(2.3, 11.95) 
+2.89(1.62, 4.75) 
+5.57(2.65, 11.52) 
+3.83(2.01, 6.1) 
+2.87(1.67, 4.43) 
+
+Note: confident interval (CI), Perfluorooctanoic acid (PFOA), Perfluoropentane sulfonic acid (PFPeS), Perfluorohexane sulfonic acid (PFHxS), Perfluoroheptane sul-
+fonic acid (PFHpS), Linear perfluorooctane sulfonic acid (L-PFOS), Perfluoro-1-methylheptanesulfonate(1m-PFOS), Perfluoro-3/4/5-methylheptanesulfonate(3/4/ 
+5m-PFOS), Perfluoro-2/6-methylheptanesulfonate (2/6m-PFOS). 
+
+a Mean Elimination Rate: From linear mixed model with log-transformed PFAS levels as outcome, adjusted for age, gender, BMI, the coefficient for the variable of 
+
+time elapsed between the end of distribution of contaminated water and the blood sample collection is the elimination rate. 
+
+b Mean half-life: Converted from the elimination rate = ln(2)/mean elimination rate. 
+c Median half-life: The individual elimination rates were predicted using the best linear unbiased prediction method, i.e. each participant has an individual predicted 
+elimination rate derived from the model. Then median half-life and percentiles are converted from corresponding individual elimination rates: = ln(2)/ elimination 
+rate. 
+
+EnvironmentInternational163(2022)1071985Y. Li et al.                                                                                                                                                                                                                                        
+
+Table 5 
+Population average constant elimination rate (yearly) based different rounds of 
+sampling, n = 114.  
+
+PFAS 
+
+Rounds  Mean Elimination Rated (95% 
+
+PFOA 
+
+PFPeS 
+
+PFHxS 
+
+PFHpS 
+
+L-PFOS 
+
+1 m-PFOS 
+
+3/4/5m- 
+PFOS 
+
+2/6m-PFOS 
+
+CI) 
+
+(cid:0) 0.33(-0.39, (cid:0) 0.26) 
+(cid:0) 0.29(-0.32, (cid:0) 0.26) 
+(cid:0) 0.24(-0.27, (cid:0) 0.21) 
+
+(cid:0) 0.83(-0.95, (cid:0) 0.71) 
+(cid:0) 0.73(-0.79, (cid:0) 0.67) 
+(cid:0) 0.72(-0.79, (cid:0) 0.65) 
+
+(cid:0) 0.18(-0.22, (cid:0) 0.13) 
+(cid:0) 0.16(-0.18, (cid:0) 0.14) 
+(cid:0) 0.15(-0.17, (cid:0) 0.13) 
+
+(cid:0) 0.19(-0.23, (cid:0) 0.14) 
+(cid:0) 0.16(-0.18, (cid:0) 0.14) 
+(cid:0) 0.12(-0.15, (cid:0) 0.1) 
+
+(cid:0) 0.28(-0.33, (cid:0) 0.23) 
+(cid:0) 0.25(-0.27, (cid:0) 0.23) 
+(cid:0) 0.25(-0.27, (cid:0) 0.23) 
+
+(cid:0) 0.15(-0.2, (cid:0) 0.11) 
+(cid:0) 0.14(-0.16, (cid:0) 0.12) 
+(cid:0) 0.14(-0.16, (cid:0) 0.12) 
+
+(cid:0) 0.21(-0.26, (cid:0) 0.17) 
+(cid:0) 0.2(-0.22, (cid:0) 0.18) 
+(cid:0) 0.22(-0.24, (cid:0) 0.19) 
+
+(cid:0) 0.27(-0.32, (cid:0) 0.22) 
+(cid:0) 0.25(-0.27, (cid:0) 0.23) 
+(cid:0) 0.28(-0.3, (cid:0) 0.26) 
+
+1—3a 
+3—6b 
+6—10c 
+
+1—3a 
+3—6b 
+6—10c 
+
+1—3a 
+3—6b 
+6—10c 
+
+1—3a 
+3—6b 
+6—10c 
+
+1—3a 
+3—6b 
+6—10c 
+
+1—3a 
+3—6b 
+6—10c 
+
+1—3a 
+3—6b 
+6—10c 
+
+1—3a 
+3—6b 
+6—10c 
+
+Mean half-lifee (95% 
+CI) 
+
+2.1(1.78, 2.67) 
+2.39(2.17, 2.67) 
+2.89(2.57, 3.3)  
+
+0.84(0.73, 0.98) 
+0.95(0.88, 1.03) 
+0.96(0.88, 1.07)  
+
+3.85(3.15, 5.33) 
+4.33(3.85, 4.95) 
+4.62(4.08, 5.33)  
+
+3.65(3.01, 4.95) 
+4.33(3.85, 4.95) 
+5.78(4.62, 6.93)  
+
+2.48(2.1, 3.01) 
+2.77(2.57, 3.01) 
+2.77(2.57, 3.01)  
+
+4.62(3.47, 6.3) 
+4.95(4.33, 5.78) 
+4.95(4.33, 5.78)  
+
+3.3(2.67, 4.08) 
+3.47(3.15, 3.85) 
+3.15(2.89, 3.65)  
+
+2.57(2.17, 3.15) 
+2.77(2.57, 3.01) 
+2.48(2.31, 2.67) 
+
+Note: Perfluorooctanoic acid (PFOA), Perfluoropentane sulfonic acid (PFPeS), 
+Perfluorohexane sulfonic acid (PFHxS), Perfluoroheptane sulfonic acid (PFHpS), 
+Linear  perfluorooctane  sulfonic  acid  (L-PFOS),  Perfluoro-1-methylheptane 
+sulfonate  (1  m-PFOS),  Perfluoro-3/4/5-methylheptanesulfonate  (3/4/5m- 
+PFOS), Perfluoro-2/6-methylheptanesulfonate (2/6m-PFOS). 
+
+a 1–3 = between six months and one year after end of exposure. 
+b 3–6 = between one year and two and half years after end of exposure. 
+c 6–10  = between  two  and  half  years  and  four  and  half  years  after  end  of 
+
+exposure. 
+
+d Mean  Elimination  Rate:  From  linear  mixed  model  with  log-transformed 
+PFAS levels as outcome, adjusted for age, gender, BMI, the coefficient for the 
+variable of time elapsed between the end of distribution of contaminated water 
+and the blood sample collection are the elimination rate. 
+
+e Mean half-life: Converted from the elimination rate = ln(2)/mean elimina-
+
+tion rate. 
+
+mg/kg had 6–25% shorter half-lives than those with calprotectin < 50 
+mg/kg.  By  contrast,  increased  zonulin  levels  were  mostly  associated 
+with slightly longer half-lives (Fig. 7, Table S13), with only one differ-
+ence reaching significance, for PFHxS (p = 0.04). 
+
+Based on the partial R2, age contributed the most to variation of the 
+individual half-lives for all PFAS compounds expect PFPeS (Table S14). 
+
+4. Discussion 
+
+We  estimated  the  half-lives  of  eight  PFAS  in  114  participants, 
+recruited six months after long-term drinking water exposure stopped, 
+who were followed during a four-year period with up to 10 repeated 
+serum measures. The estimated half-lives varied from 0.94 to 5.01 years 
+for  different  compounds.  The  inter-individual  variations  in  half-lives 
+were  substantial  for  the  different  PFAS,  with  3  to  5  fold  differences 
+between 5th and 95th percentiles. In general, young age, female fertile 
+
+age,  normal  estimated  glomerular  filtration  rate,  and  possibly  gut 
+inflammation and lower gut permeability were associated with shorter 
+half-life. There was an evident trend that longer half-life was associated 
+with longer time elapse since end of drinking water exposure. For PFHxS 
+and PFHpS, a longer half-life was associated with higher initial PFHxS 
+levels. 
+
+The average half-life for PFHxS was 4.52 years in the current study, 
+with a threefold difference between the 5th and 95th percentiles. To our 
+knowledge, there are the only two other relatively small studies previ-
+ously reporting half-life for PFHxS after end of exposure. Olsen (2007) 
+reported an estimated half-life of PFHxS of geometric mean 7.3 years 
+based on 24 retired fluorocarbon workers with five-year follow up. This 
+is consistent with our findings as their study population aged 55 to 75 
+and the half-life in the older 50 + subgroup in our study was 7.25 years. 
+In contrast, Xu et al. (2020a) reported a mean half-life for PFHxS of 2.84 
+years  (95%  CI  2.03,  4.43)  from  17  airport  workers,  observed  from  2 
+weeks after end of exposure to 5 months later. Similarly, in the present 
+study we found a shorter half-life in the first period after end of expo-
+sure,  6–12  months  (3.9  years)  compared  to  the  later  stage,  so  still 
+findings fairly consistent between studies. 
+
+Our estimated half-life for PFOA with 2.47 years is in the range of 
+values reported in six other studies, with estimates ranging from 1.48 to 
+3.8  years  (Bartell  et  al.,  2010;  Brede  et  al.,  2010;  Olsen  et  al.,  2007; 
+Worley et al., 2017; Xu et al., 2021). The half-life reported by Bartell 2.3 
+years for the first year after end of exposure is close to our finding for the 
+first reporting rounds. The estimate by Xu et al. was even shorter, 1.48 
+years for the first 6 months after end of exposure. The longer half-life 
+values are generally found in cohorts with a longer follow-up, reflect-
+ing a possible time-dependent effect on excretion. The age differences 
+across the cohorts, varied background exposure levels and adjustment 
+methods may also contribute to the variation in estimated half-lives. 
+
+The half-life of L-PFOS was 2.73 years, whereas for branched isomer 
+1  m-PFOS,  3/4/5m-PFOS  and  2/6m-PFOS  were  5.01,  3.43  and  2.67 
+years,  respectively.  1  m-PFOS  had  the  highest  half-live  estimate,  a 
+finding consistent with result from a study in fish (Chen et al., 2015) and 
+a human study with paired urine and serum sample (Zhang et al., 2013). 
+However,  our  data  do  not  corroborate  previous  finding  of  a  higher 
+excretion of branched PFOS, with exception of 1 m-PFOS, which pre-
+viously has been reported (Xu et al., 2021; Zhang et al., 2013). 
+
+The estimated half-life for PFOA, PFHxS and linear PFOS were 2.47, 
+4.52  and  2.73  years.  These  results  are  slightly  different  from  the  re-
+ported value  based  on two-year  follow-up in the  same population (Li 
+et al., 2018) due to three reasons. Firstly, in the previous publication, 
+serum PFAS were analysed after each sampling round in order to provide 
+rapid  feedback  to  each  participant.  However,  this  may  have  allowed 
+some batch variation between laboratory analyses. In this paper, all the 
+serum sample in all the ten rounds were analysed in the same batch, thus 
+reducing laboratory variation. Secondly, branched and linear PFOS were 
+identified separately in current study but not in the two-year follow-up. 
+Thirdly, the half-lives presented in the current study are based on serum 
+PFAS  levels  after  subtracting  background  levels,  and  the  background 
+exposure were not considered in previous publication. Finally, we now 
+have ten rounds providing more data and half-lives could be derived for 
+PFPeS and PFHpS in addition. For these reasons the estimates here are 
+considered more certain than those in the earlier paper. 
+
+Our estimated half-life for PFPeS was a mean of 0.94 years (95% CI 
+0.86–1.02) was slightly longer than the estimate from a smaller cohort 
+with 17 airport workers with an average of 0.63 years (95% CI 0.46 to 
+1.01 years). For PFHpS with a seven carbon chain length, the estimated 
+half-life from our study (4.55 years, 95 %CI 4.14–5.06) was also much 
+longer than from 17 airport workers (1.35 95% CI 0.77–5.71) (Xu et al., 
+2021),  again  indicating  time-dependent  elimination.  However,  the 
+confidence intervals of the two studies overlapped. 
+
+Differences in elimination with elapsed time after end of exposure for 
+most PFAS were observed, with a greater elimination at the start of the 
+study  period  for  all  except  the  branched  PFOS.  Time-dependent 
+
+EnvironmentInternational163(2022)1071986Y. Li et al.                                                                                                                                                                                                                                        
+
+Fig. 1. The mean of estimated half-lives in low-medium–high initial total PFAS levels groups based on 114 participants. The confidence intervals are shown in error 
+bars. The corresponding numeric data of this figure are available in the table S4 Supplemental Material. Note: Perfluorooctanoic acid (PFOA), Perfluoropentane 
+sulfonic acid (PFPeS), Perfluorohexane sulfonic acid (PFHxS), Perfluoroheptane sulfonic acid (PFHpS), Linear perfluorooctane sulfonic acid (L-PFOS), Perfluoro-1- 
+methylheptanesulfonate (1 m-PFOS), Perfluoro-3/4/5-methylheptanesulfonate (3/4/5m-PFOS), Perfluoro-2/6-methylheptanesulfonate (2/6m-PFOS). 
+
+Fig. 2. The mean of estimated half-lives in age groups 1–14 years, 15–50 years and > 50 years based on 114 participants The confidence intervals are shown in error 
+bars. The corresponding numeric data of this figure are available in the table S5 Supplemental Material. Note: Perfluorooctanoic acid (PFOA), Perfluoropentane 
+sulfonic acid (PFPeS), Perfluorohexane sulfonic acid (PFHxS), Perfluoroheptane sulfonic acid (PFHpS), Linear perfluorooctane sulfonic acid (L-PFOS), Perfluoro-1- 
+methylheptanesulfonate (1 m-PFOS), Perfluoro-3/4/5-methylheptanesulfonate (3/4/5m-PFOS), Perfluoro-2/6-methylheptanesulfonate (2/6m-PFOS). 
+
+elimination had also been suggested from the C8 study of PFOA (Seals 
+et  al.,  2011).  In  the  airport  workers  cohort  in  Sweden  with  sampling 
+almost immediate follow-up after end of external exposure, between two 
+weeks to five months, a much shorter half-life of PFOA of 1.48 years was 
+observed  (Xu  et  al.,  2020a).  This  pattern  of  time-dependent  PFAS 
+elimination process with more rapid elimination earlier after the end of 
+exposure  could  be  explained  by  a  multi-compartments  mechanism  of 
+PFAS elimination, with the serum compartment being replenished from 
+other compartments (i.e. kidneys and liver) at a slow rate. 
+
+In a previous human study with C8 data for PFOA (Seals et al., 2011), 
+elimination rates appeared higher for the sub-group with higher prior 
+exposure,  but  the  estimate  in  this  study  was  limited  by  ongoing  low 
+exposure.  From  animal  studies  of  rat  and  monkeys,  the  differences 
+observed  in  elimination  with  increasing  dose  are  indicative  that  a 
+capacity-limited, saturable renal resorption process must be involved in 
+PFOA and PFOS (Loccisano et al., 2011; Andersen et al., 2006). How-
+ever,  these  animal  studies  involved  much  higher  concentrations  than 
+
+observed  in  the  exposed  communities.  In  our  study,  indications  of 
+increased elimination at lower serum levels of PFAS were observed for 
+most PFAS. We interpret this as likely due to reverse causation, i.e. for a 
+given  level  of  intake  those  with  higher  elimination  rates  would  as  a 
+consequence already have lower serum levels of PFAS at the start of the 
+observation period. 
+
+The  inter-individual  variations  of  half-life  were  substantial,  with 
+three to five fold differences across the range from 5th to 95th percen-
+tiles.  Inter-individual  variation  in  PFAS  elimination  rates  have  been 
+previously observed in other populations after end of exposure (Bartell 
+et al., 2010; Brede et al., 2010; Xu et al., 2020a) and  in retired  fluo-
+rochemical production workers (Olsen et al., 2007). 
+
+There  is  a  strong  effect  of  age  on  serum  half-life  for  PFAS.  It  was 
+expected that the half-life of preteens (≤14 years of age) would be lower 
+than adults’,  since  the  PFAS-concentration is  greatly reduced  as their 
+ongoing growth increases the volume of distribution (Vd) and thus di-
+lutes the PFAS already present in their bodies. However, the Vd for PFAS 
+
+EnvironmentInternational163(2022)1071987Y. Li et al.                                                                                                                                                                                                                                        
+
+Fig. 3. The mean of estimated  half-lives by 
+sex in age strata 1–14 years (n = 29), 15–50 
+years (n = 52) and > 50 years (n = 33). The 
+confidence intervals are shown as error bars. 
+The  corresponding  numeric  data  of  this 
+figure are available in the tables S6, S7 and 
+S8  Supplemental  Material.  Note:  Per-
+fluorooctanoic 
+Per-
+acid 
+(PFPeS), 
+sulfonic 
+fluoropentane 
+Perfluorohexane  sulfonic  acid  (PFHxS), Per-
+fluoroheptane  sulfonic  acid  (PFHpS),  Linear 
+perfluorooctane 
+(L-PFOS), 
+Perfluoro-1-methylheptanesulfonate  (1  m- 
+Perfluoro-3/4/5-methylheptane 
+PFOS), 
+sulfonate 
+(3/4/5m-PFOS),  Perfluoro-2/6- 
+methylheptanesulfonate (2/6m-PFOS).   
+
+(PFOA), 
+acid 
+
+sulfonic  acid 
+
+should  not  increase  or  decrease  for  adults,  since  PFAS  primarily  is 
+distributed in serum,  kidney and liver tissue (Loccisano et al., 2011), 
+which are not prone to major changes of Vd in adulthood. The trend for 
+elimination to decline with age continues at older age, suggesting that in 
+addition to growth-induced dilution, elimination of the substances de-
+pends on other age-related factors. Notably, differences in renal function 
+or gut excretion are unlikely the explanations for the age effect, since the 
+
+age effect persisted after adjustment for eGFR, the urine/serum ratio and 
+markers of gut inflammation and reduced permeability. Thus, there are 
+likely other age-associated factors to be explore. 
+
+Females in fertile ages had a shorter half-life for all analysed com-
+pounds except PFPeS. The longer PFPeS half-life for women unlike other 
+PFAS may be a chance finding or it might be explained if there were 
+some ongoing but unmeasured exposure in women more than men, for 
+
+EnvironmentInternational163(2022)1071988Y. Li et al.                                                                                                                                                                                                                                        
+
+Fig. 4. The mean of estimated half-lives in those eGFR below or above 90 based 109 participants. The confidence intervals are shown aserror bars. The corresponding 
+numeric  data  of  this  figure are  available  in  the  table  S10  Supplemental  Material.  Note:  Perfluorooctanoic  acid  (PFOA),  Perfluoropentane sulfonic  acid  (PFPeS), 
+Perfluorohexane sulfonic acid (PFHxS), Perfluoroheptane sulfonic acid (PFHpS), Linear perfluorooctane sulfonic acid (L-PFOS), Perfluoro-1-methylheptanesulfonate 
+(1 m-PFOS), Perfluoro-3/4/5-methylheptanesulfonate (3/4/5m-PFOS), Perfluoro-2/6-methylheptanesulfonate (2/6m-PFOS). 
+
+Fig. 5. The mean of estimated half-lives in high urine/serum ratio and low groups (n = 62). The confidence intervals are shown as error bars. The corresponding 
+numeric  data  of  this  figure are  available  in  the  table  S11  Supplemental  Material.  Note:  Perfluorooctanoic  acid  (PFOA),  Perfluoropentane sulfonic  acid  (PFPeS), 
+Perfluorohexane sulfonic acid (PFHxS), Perfluoroheptane sulfonic acid (PFHpS), Linear perfluorooctane sulfonic acid (L-PFOS), Perfluoro-1-methylheptanesulfonate 
+(1 m-PFOS), Perfluoro-3/4/5-methylheptanesulfonate (3/4/5m-PFOS), Perfluoro-2/6-methylheptanesulfonate (2/6m-PFOS). 
+
+example PFPeS has been reported in some lipsticks (Whitehead et al., 
+2021). Sex differences in renal excretion have been reported in animals 
+(Kudo  et  al.,  2002),  but  not  in  human  subjects  (Brede  et  al.,  2010; 
+Harada et al., 2005). There were no statistically significant sex differ-
+ences in the younger and older age groups. Therefore the differences in 
+elimination  in  the  fertile  ages  are  likely  due  to  maternal  elimination 
+route,  i.e.  losses  during  menstruation,  childbirth  and  breastfeeding 
+(Wong et al., 2014), but may also be influenced by other factors such as a 
+possible estrogenic induction of tubular secretion, as has been found in 
+rats (Han et al., 2012). We observed that higher eGFR was associated 
+with  shorter  half-lives  for  all  the  PFAS.  Pharmacokinetic  studies  has 
+demonstrated that PFOA and PFOS are distributed primarily in serum, 
+kidney and liver and are substantially excreted by the kidneys (Locci-
+sano  et  al.,  2011).  In  humans,  PFOA  is  both  freely  filtered  in  the 
+glomeruli and actively secreted from the blood into urine through the 
+proximal tubule cells. PFOA is then almost completely reabsorbed back 
+into the blood (Loccisano et al., 2011). Since the renal excretion is partly 
+
+dependent on glomerular filtration, it is understandable that a higher 
+eGFR contributes to a higher amount of urinary excretion and shorter 
+half-life. Similarly, it is understandable that a higher urine/serum ratio 
+is associated with a higher elimination rate, since a higher ratio means 
+that a higher fraction of PFAS is excreted through the urine. Increased 
+PFAS  levels  were  associated  with  decreased  urine  to  serum  ratio 
+reflecting a capacity-limited of urinary elimination. However, the fact 
+that urine/serum ratio is poorly correlated with eGFR strongly suggests 
+that there are other mechanisms determining the urine/serum ratio. One 
+such  mechanism  could  be  tubular  reabsorption  and  secretion,  which 
+could  differ  between  individuals,  for  example  through  genetic  or 
+epigenetic differences. 
+
+PFAS  can  pass into  the  gut  and  be  excreted,  though  most  is  reab-
+sorbed (Fragki et al., 2021). Variation in the efficiency of reabsorption 
+would thus be reflected in effects on elimination rates. We observed the 
+shorter  half-lives  of  PFAS,  especially  for  PFOA,  are  associated  with 
+higher calprotectin in faeces, a biomarker that is routinely used as an 
+
+EnvironmentInternational163(2022)1071989Y. Li et al.                                                                                                                                                                                                                                        
+
+Fig. 6. The mean of estimated half-lives in those calprotectin below or above 50 (n = 57). The confidence intervals are shown as error bars. The corresponding 
+numeric  data  of  this  figure are  available  in  the  table  S12  Supplemental  Material.  Note:  Perfluorooctanoic  acid  (PFOA),  Perfluoropentane sulfonic  acid  (PFPeS), 
+Perfluorohexane sulfonic acid (PFHxS), Perfluoroheptane sulfonic acid (PFHpS), Linear perfluorooctane sulfonic acid (L-PFOS), Perfluoro-1-methylheptanesulfonate 
+(1 m-PFOS), Perfluoro-3/4/5-methylheptanesulfonate (3/4/5m-PFOS), Perfluoro-2/6-methylheptanesulfonate (2/6m-PFOS). 
+
+Fig. 7. The mean of estimated half-lives in those zonulin below or above median (n = 57). The confidence intervals are shown as error bars. The corresponding 
+numeric  data  of  this  figure are  available  in  the  table  S13  Supplemental  Material.  Note:  Perfluorooctanoic  acid  (PFOA),  Perfluoropentane sulfonic  acid  (PFPeS), 
+Perfluorohexane sulfonic acid (PFHxS), Perfluoroheptane sulfonic acid (PFHpS), Linear perfluorooctane sulfonic acid (L-PFOS), Perfluoro-1-methylheptanesulfonate 
+(1 m-PFOS), Perfluoro-3/4/5-methylheptanesulfonate (3/4/5m-PFOS), Perfluoro-2/6-methylheptanesulfonate (2/6m-PFOS). 
+
+indicator of inflammation in the gastrointestinal tract (Erbayrak et al., 
+2009). This association suggests that intestinal inflammation is related 
+to  reduced  reabsorption,  increasing  the  fecal  PFAS-elimination.  In 
+contrast, though with weaker associations, a longer half-life was asso-
+ciated  with higher  levels of zonulin. Zonulin has been  suggested as a 
+marker of intestinal permeability (Malíˇckov´a et al., 2017), as it has been 
+found to be associated with increased intestinal permeability in in vitro 
+studies  (Fasano,  2012;  Sapone  et  al.,  2006).  However,  zonulin  is  not 
+commonly used for in vivo studies or as a clinical marker, so its use in 
+understanding  these  results  is  limited.  Further  studies  are  needed  to 
+understand the mechanisms of PFAS transport in the gut and their effects 
+on PFAS elimination. 
+
+5. Conclusions 
+
+The present study gives half-life estimates of eight PFAS, especially 
+including  the  branched  PFOS-isomers.  We  found  that  the  most 
+
+important determinants of a shorter half-life were young age and better 
+kidney  function,  followed  by  female  sex  during  their  fertile  period. 
+Markers of gut inflammation and reduced permeability were also asso-
+ciated with shorter half-life, but should be investigated further. These 
+results  provide  observational  support  for  elimination  routes  –  renal, 
+fecal and maternal. 
+
+The result also suggests a time-dependent PFAS elimination process, 
+with more rapid elimination in the first year after the end of exposure, 
+than later. 
+
+CRediT authorship contribution statement 
+
+Ying Li: Methodology, Software, Formal analysis, Writing – original 
+draft, Writing – review & editing. Axel Andersson: Writing – original 
+draft, Writing – review & editing. Yiyi Xu: Methodology, Writing – re-
+view  &  editing.  Daniela  Pineda:  Investigation,  Writing  –  review  & 
+editing. Carina A Nilsson: Investigation, Writing –  review &  editing. 
+
+EnvironmentInternational163(2022)10719810Y. Li et al.                                                                                                                                                                                                                                        
+
+Christian  H.  Lindh:  Resources,  Investigation,  Writing  –  review  & 
+editing.  Kristina  Jakobsson:  Conceptualization,  Writing  –  review  & 
+editing, Supervision, Funding acquisition. Tony Fletcher: Conceptual-
+ization, Writing – review & editing, Supervision, Funding acquisition. 
+
+Declaration of Competing Interest 
+
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+
+Acknowledgement 
+
+We acknowledge the work of the field team during serum samplings, 
+
+and the study participants. 
+
+Funding. 
+The study was funded by the Swedish Research Councils FORMAS 
+(Grant  Reference  Number  216-2014-1709,  2017-00875  and  2017- 
+01195). 
+
+Appendix A. Supplementary material 
+
+Supplementary data to this article can be found online at https://doi. 
+
+org/10.1016/j.envint.2022.107198. 
+
+References 
+
+Andersen, M.E., Clewell, H.J., Tan, Y.-M., Butenhoff, J.L., Olsen, G.W., 2006. 
+
+Pharmacokinetic modeling of saturable, renal resorption of perfluoroalkylacids in 
+monkeys—probing the determinants of long plasma half-lives. Toxicology 227 (1-2), 
+156–164. 
+
+Bartell, S.M., Calafat, A.M., Lyu, C., Kato, K., Ryan, P.B., Steenland, K., 2010. Rate of 
+decline in serum PFOA concentrations after granular activated carbon filtration at 
+two public water systems in Ohio and West Virginia. Environ. Health Perspect. 118 
+(2), 222–228. 
+
+Begley, T.H., White, K., Honigfort, P., Twaroski, M.L., Neches, R., Walker, R.A., 2005. 
+Perfluorochemicals: potential sources of and migration from food packaging. Food 
+Addit. Contam. 22 (10), 1023–1031. 
+
+Berger, U., Glynn, A., Holmstr¨om, K.E., Berglund, M., Ankarberg, E.H., T¨ornkvist, A., 
+2009. Fish consumption as a source of human exposure to perfluorinated alkyl 
+substances in Sweden-Analysis of edible fish from Lake V¨attern and the Baltic Sea. 
+Chemosphere 76 (6), 799–804. 
+
+Brede, E., Wilhelm, M., G¨oen, T., Müller, J., Rauchfuss, K., Kraft, M., H¨olzer, J., 2010. 
+Two-year follow-up biomonitoring pilot study of residents’ and controls’ PFC plasma 
+levels after PFOA reduction in public water system in Arnsberg, Germany. Int. J. 
+Hyg. Environ. Health 213 (3), 217–223. 
+
+Chen, M., Qiang, L., Pan, X., Fang, S., Han, Y., Zhu, L., 2015. In vivo and in vitro isomer- 
+
+specific biotransformation of perfluorooctane sulfonamide in common carp 
+(Cyprinus carpio). Environ. Sci. Technol. 49 (23), 13817–13824. 
+
+Knutsen, H.K., Alexander, J., Barregård, L., Bignami, M., Brüschweiler, B., Ceccatelli, S., 
+Cottrill, B., Dinovi, M., Edler, L., Grasl-Kraupp, B., Hogstrand, C., Hoogenboom, L.(., 
+Nebbia, C.S., Oswald, I.P., Petersen, A., Rose, M., Roudot, A.-C., Vleminckx, C., 
+Vollmer, G., Wallace, H., Bodin, L., Cravedi, J.-P., Halldorsson, T.I., Haug, L.S., 
+Johansson, N., van Loveren, H., Gergelova, P., Mackay, K., Levorato, S., van 
+Manen, M., Schwerdtle, T., 2018. Risk to human health related to the presence of 
+perfluorooctane sulfonic acid and perfluorooctanoic acid in food. EFSA J. 16 (12) 
+https://doi.org/10.2903/j.efsa:2018.5194. 
+
+Erbayrak, M., Turkay, C., Eraslan, E., Cetinkaya, H., Kasapoglu, B., Bektas, M., 2009. The 
+
+role of fecal calprotectin in investigating inflammatory bowel diseases. Clinics 64 
+(5), 421–425. 
+
+Falandysz, J., Taniyasu, S., Gulkowska, A., Yamashita, N., Schulte-Oehlmann, U., 2006. 
+Is fish a major source of fluorinated surfactants and repellents in humans living on 
+the Baltic Coast? Environ. Sci. Technol. 40 (3), 748–751. 
+
+Fasano, A., 2012. Intestinal permeability and its regulation by zonulin: diagnostic and 
+therapeutic implications. Clinical Gastroenterology and Hepatology 10 (10), 
+1096–1100. 
+
+Fletcher, T., Yucesoy, B., Bartell, S., Mondal, D., Fitz-Simon, N., Luster, M., 2012. P-204: 
+
+Genetic Variations in Kidney Transporter Proteins and Serum Half-lives of 
+Perfluorooctanoic Acid (PFOA) and Perfluorooctane Sulfonic Acid (PFOS). 
+Epidemiology 23, 1. https://doi.org/10.1097/01.ede.0000417207.31291.7e. 
+
+Fragki, S., Dirven, H., Fletcher, T., Grasl-Kraupp, B., Bjerve Gützkow, K., 
+
+Hoogenboom, R., Kersten, S., Lindeman, B., Louisse, J., Peijnenburg, A.d., 
+Piersma, A.H., Princen, H.M.G., Uhl, M., Westerhout, J., Zeilmaker, M.J., Luijten, M., 
+2021. Systemic PFOS and PFOA exposure and disturbed lipid homeostasis in 
+humans: what do we know and what not? Crit. Rev. Toxicol. 51 (2), 141–164. 
+Frisbee, S.J., Brooks, A.P., Maher, A., Flensborg, P., Arnold, S., Fletcher, T., Steenland, K., 
+Shankar, A., Knox, S.S., Pollard, C., Halverson, J.A., Vieira, V.M., Jin, C., Leyden, K. 
+
+M., Ducatman, A.M., 2009. The c8 health project: Design, methods, and participants. 
+Environ. Health Perspect. 117 (12), 1873–1882. 
+
+Glynn, A., Kotova, N., Dahlgren, E., Lindh, C., Jakobsson, K., Gyllenhammar, I., 
+
+Lignell, S., N¨als´en, C., 2020. Determinants of serum concentrations of perfluoroalkyl 
+acids (PFAAs) in school children and the contribution of low-level PFAA- 
+contaminated drinking water. Environ. Sci. Processes Impacts 22 (4), 930–944. 
+Grubb, A., Horio, M., Hansson, L.-O., Bj¨ork, J., Nyman, U., Flodin, M., Larsson, A., 
+B¨okenkamp, A., Yasuda, Y., Blufpand, H., Lindstr¨om, V., Zegers, I., Althaus, H., 
+Blirup-Jensen, S., Itoh, Y., Sj¨ostr¨om, P., Nordin, G., Christensson, A., Klima, H., 
+Sunde, K., Hjort-Christensen, P., Armbruster, D., Ferrero, C., 2014. Generation of a 
+new cystatin C–based estimating equation for glomerular filtration rate by use of 7 
+assays standardized to the international calibrator. Clin. Chem. 60 (7), 974–986. 
+Hauser, R., Meeker, J.D., Park, S., Silva, M.J., Calafat, A.M., 2004. Temporal variability 
+of urinary phthalate metabolite levels in men of reproductive age. Environ. Health 
+Perspect. 112 (17), 1734–1740. 
+
+Harada, K., Inoue, K., Morikawa, A., Yoshinaga, T., Saito, N., Koizumi, A., 2005. Renal 
+clearance of perfluorooctane sulfonate and perfluorooctanoate in humans and their 
+species-specific excretion. Environ. Res. 99 (2), 253–261. 
+
+Han, X., Nabb, D.L., Russell, M.H., Kennedy, G.L., Rickard, R.W., 2012. Renal elimination 
+
+of perfluorocarboxylates (PFCAs). Chem. Res. Toxicol. 25 (1), 35–46. 
+
+Hu, X.C., Tokranov, A.K., Liddie, J., Zhang, X., Grandjean, P., Hart, J.E., Laden, F., 
+
+Sun, Q.i., Yeung, L.W.Y., Sunderland, E.M., 2019. Tap water contributions to plasma 
+concentrations of poly-and perfluoroalkyl substances (PFAS) in a nationwide 
+prospective cohort of US women. Environ. Health Perspect. 127 (6), 067006. 
+https://doi.org/10.1289/EHP4093. 
+
+Ingelido, A.M., Abballe, A., Gemma, S., Dellatte, E., Iacovella, N., De Angelis, G., 
+Marra, V., Russo, F., Vazzoler, M., Testai, E., De Felip, E., 2020. Serum 
+concentrations of perfluorinated alkyl substances in farmers living in areas affected 
+by water contamination in the Veneto Region (Northern Italy). Environ. Int. 136, 
+105435. https://doi.org/10.1016/j.envint.2019.105435. 
+
+Kudo, N., Katakura, M., Sato, Y., Kawashima, Y., 2002. Sex hormone-regulated renal 
+transport of perfluorooctanoic acid. Chem. Biol. Interact. 139 (3), 301–316. 
+
+Konikoff, M.R., Denson, L.A., 2006. Role of fecal calprotectin as a biomarker of intestinal 
+inflammation in inflammatory bowel disease. Inflamm. Bowel Dis. 12 (6), 524–534. 
+
+Lau, C., Anitole, K., Hodes, C., Lai, D., Pfahles-Hutchens, A., Seed, J., 2007. 
+
+Perfluoroalkyl acids: a review of monitoring and toxicological findings. Toxicol. Sci. 
+99 (2), 366–394. 
+
+Li, Y., Fletcher, T., Mucs, D., Scott, K., Lindh, C.H., Tallving, P., Jakobsson, K., 2018. 
+
+Half-lives of PFOS, PFHxS and PFOA after end of exposure to contaminated drinking 
+water. Occup. Environ. Med. 75 (1), 46–51. 
+
+Loccisano, A.E., Campbell, J.L., Andersen, M.E., Clewell, H.J., 2011. Evaluation and 
+
+prediction of pharmacokinetics of PFOA and PFOS in the monkey and human using a 
+PBPK model. Regul. Toxicol. Pharm. 59 (1), 157–175. 
+
+Malíˇckov´a, K., Francov´a, I., Luk´aˇs, M., Kol´aˇr, M., Kr´alíkov´a, E., Bortlík, M., ˇDuricov´a, D., 
+ˇ
+Stˇep´ankov´a, L., Zvolsk´a, K., P´ankov´a, A., Zima, T., 2017. Fecal zonulin is elevated in 
+Crohn’s disease and in cigarette smokers. Practical laboratory medicine 9, 39–44. 
+
+Olsen, G.W., Burris, J.M., Ehresman, D.J., Froehlich, J.W., Seacat, A.M., Butenhoff, J.L., 
+Zobel, L.R., 2007. Half-life of serum elimination of perfluorooctanesulfonate, 
+perfluorohexanesulfonate, and perfluorooctanoate in retired fluorochemical 
+production workers. Environ. Health Perspect. 115 (9), 1298–1305. 
+
+Pitter, G., Da Re, F., Canova, C., Barbieri, G., Zare Jeddi, M., Dapr`a, F., Manea, F., 
+Zolin, R., Bettega, A.M., Stopazzolo, G., Vittorii, S., Zambelli, L., Martuzzi, M., 
+Mantoan, D., Russo, F., 2020. Serum levels of Perfluoroalkyl substances (PFAS) in 
+adolescents and young adults exposed to contaminated drinking water in the Veneto 
+region, Italy: A Cross-Sectional Study Based on a Health Surveillance Program. 
+Environ. Health Perspect. 128 (2), 027007. https://doi.org/10.1289/EHP5337. 
+
+Sapone, A., de Magistris, L., Pietzak, M., Clemente, M.G., Tripathi, A., Cucca, F., 
+
+Lampis, R., Kryszak, D., Carteni ̀, M., Generoso, M., Iafusco, D., Prisco, F., Laghi, F., 
+Riegler, G., Carratu, R., Counts, D., Fasano, A., 2006. Zonulin upregulation is 
+associated with increased gut permeability in subjects with type 1 diabetes and their 
+relatives. Diabetes 55 (5), 1443–1449. 
+
+Seals, R., Bartell, S.M., Steenland, K., 2011. Accumulation and clearance of 
+
+perfluorooctanoic acid (PFOA) in current and former residents of an exposed 
+community. Environ. Health Perspect. 119 (1), 119–124. 
+
+Shoeib, M., Harner, T., Wilford, B.H., Jones, K.C., Zhu, J., 2005. Perfluorinated 
+
+sulfonamides in indoor and outdoor air and indoor dust: occurrence, partitioning, 
+and human exposure. Environ. Sci. Technol. 39 (17), 6599–6606. 
+
+Walsham, N.E., Sherwood, R.A., 2016. Fecal calprotectin in inflammatory bowel disease. 
+
+Clinical and experimental gastroenterology 9, 21. 
+
+Whitehead, H.D., Venier, M., Wu, Y., Eastman, E., Urbanik, S., Diamond, M.L., Shalin, A., 
+Schwartz-Narbonne, H., Bruton, T.A., Blum, A., Wang, Z., Green, M., Tighe, M., 
+Wilkinson, J.T., McGuinness, S., Peaslee, G.F., 2021. Fluorinated Compounds in 
+North American Cosmetics. Environ. Sci. Technol. Lett. 8 (7), 538–544. 
+
+Wong, F., MacLeod, M., Mueller, J.F., Cousins, I.T., 2014. Enhanced elimination of 
+
+perfluorooctane sulfonic acid by menstruating women: evidence from population- 
+based pharmacokinetic modeling. Environ. Sci. Technol. 48 (15), 8807–8814. 
+
+Worley, R.R., Moore, S.M., Tierney, B.C., Ye, X., Calafat, A.M., Campbell, S., 
+
+Woudneh, M.B., Fisher, J., 2017. Per-and polyfluoroalkyl substances in human 
+serum and urine samples from a residentially exposed community. Environ. Int. 106, 
+135–143. 
+
+Xu, Y., Fletcher, T., Pineda, D., Lindh, C.H., Nilsson, C., Glynn, A., Vogs, C., Norstr¨om, K., 
+Lilja, K., Jakobsson, K., Li, Y., 2020a. Serum half-lives for short-and long-chain 
+perfluoroalkyl acids after ceasing exposure from drinking water contaminated by 
+firefighting foam. Environ. Health Perspect. 128 (7), 077004. https://doi.org/ 
+10.1289/EHP6785. 
+
+EnvironmentInternational163(2022)10719811Y. Li et al.                                                                                                                                                                                                                                        
+
+Xu, Y., Li, Y., Scott, K., Lindh, C.H., Jakobsson, K., Fletcher, T., Ohlsson, B., Andersson, E. 
+M., 2020b. Inflammatory bowel disease and biomarkers of gut inflammation and 
+permeability in a community with high exposure to perfluoroalkyl substances 
+through drinking water. Environ. Res. 181, 108923. https://doi.org/10.1016/j. 
+envres.2019.108923. 
+
+Xu, Y., Nielsen, C., Li, Y., Hammarstrand, S., Andersson, E.M., Li, H., Olsson, D.S., 
+Engstr¨om, K., Pineda, D., Lindh, C.H., Fletcher, T., Jakobsson, K., 2021. Serum 
+perfluoroalkyl substances in residents following long-term drinking water 
+contamination from firefighting foam in Ronneby. Sweden. Environment International 
+147, 106333. https://doi.org/10.1016/j.envint.2020.106333. 
+
+Zhang, Y., Beesoon, S., Zhu, L., Martin, J.W., 2013. Biomonitoring of perfluoroalkyl acids 
+in human urine and estimates of biological half-life. Environ. Sci. Technol. 47 (18), 
+10619–10627. 
+
+Further reading 
+
+Anderson, G.D., Lynn, A.M., 2009. Optimizing pediatric dosing: A developmental 
+
+pharmacologic approach. Pharmacotherapy 29 (6), 680–690. 
+
+Anderson, G.D., 2010. Developmental pharmacokinetics. Semin. Pediatric Neurol. 17 (4), 
+
+208–213. 
+
+Delanaye, P., Mariat, C., 2013. The applicability of eGFR equations to different 
+
+populations. Nat. Rev. Nephrol. 9 (9), 513–522. 
+
+Vestergren, R., Cousins, I.T., 2009. Tracking the pathways of human exposure to 
+
+perfluorocarboxylates. Environ. Sci. Technol. 43 (15), 5565–5575. 
+
+EnvironmentInternational163(2022)10719812
