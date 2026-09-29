@@ -27,8 +27,8 @@ Lessons 6 and 7 cache their MCMC traces to `trace_*.nc`, so re-running
 to tweak a figure is instant. Delete them to force a refit.
 
 `tk.py` holds the model equations and the data loader. Read it first —
-it is 150 lines and every one of them is something you should be able to
-derive.
+it is under 200 lines and every one of them is something you should be
+able to derive.
 
 ## Notebooks
 
@@ -38,7 +38,8 @@ read on GitHub, or walked through with someone, without running
 anything.
 
 ```bash
-jupyter lab notebooks/         # or: jupyter notebook notebooks/
+pip install jupyterlab         # not in requirements.txt; only the
+jupyter lab notebooks/         # notebooks need it, not the lessons
 ```
 
 **The `.py` files are the source of truth.** The notebooks are generated

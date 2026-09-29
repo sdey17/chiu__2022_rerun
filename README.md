@@ -36,7 +36,7 @@ posterior to `results_<chem>.nc` (open it with `arviz.from_netcdf`).
 ```
 model.py               the model (one file for all four chemicals)
 parse_chiu_data.py     reads Chiu's input files into a table
-data/                  Chiu's MCSim input files, unmodified (GPLv3, see LICENSE-chiu-GPLv3)
+data/                  Chiu's MCSim input files, unmodified (GPLv3, see data/LICENSE-chiu-GPLv3)
 *.pdf                  the paper and its supplement
 
 SUMMARY.md             what the whole project has found -- start here

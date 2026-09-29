@@ -262,11 +262,15 @@ def build(path):
         "outputs": [],
         "source": as_source(
             "# notebooks/ sits one level down, so point at the lesson "
-            "modules and data\n"
+            "modules and data.\n"
+            "# Written to be safe to re-run: it moves up only if it is "
+            "not already there.\n"
             "import sys, os\n"
-            "sys.path.insert(0, os.path.abspath('..'))\n"
-            "os.chdir(os.path.abspath('..'))\n"
-            "%matplotlib inline"),
+            "if os.path.basename(os.getcwd()) == 'notebooks':\n"
+            "    os.chdir('..')\n"
+            "sys.path.insert(0, os.getcwd())\n"
+            "%matplotlib inline\n"
+            "print('working directory:', os.getcwd())"),
     })
     for n, cell in enumerate(nb["cells"]):
         cell["id"] = f"{name}-{n:02d}"          # nbformat >= 4.5 requires ids
