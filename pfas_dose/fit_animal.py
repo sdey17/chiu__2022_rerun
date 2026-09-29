@@ -39,6 +39,14 @@ print(f"{len(data)} observations, {data.hero_id.nunique()} studies, "
 
 traces = {}
 for mtype in ["1-compartment", "2-compartment"]:
+    # Each fit takes tens of minutes, so reuse one already on disk. Delete the
+    # .nc file to force a refit.
+    path = f"{OUT}/{CHEM}_{SEX}_{SPECIES}_{mtype[0]}cmpt.nc"
+    if os.path.exists(path):
+        print(f"=== {mtype}: reusing {os.path.basename(path)}")
+        traces[mtype] = az.from_netcdf(path)
+        continue
+
     m = PyPKMC(data, time_label="time_cor", y_obs_label="conc_mean_cor",
                sd_obs_label="conc_sd_cor", route_label="route_idx",
                dose_label="dose_mg", BW_label="BW_cor", study_label="hero_id",
@@ -53,7 +61,7 @@ for mtype in ["1-compartment", "2-compartment"]:
         # The samples themselves are fine, so keep them rather than lose the run.
         print(f"!! {mtype}: sampling finished but their post-processing failed: {e}")
     traces[mtype] = m._trace
-    m._trace.to_netcdf(f"{OUT}/{CHEM}_{SEX}_{SPECIES}_{mtype[0]}cmpt.nc")
+    m._trace.to_netcdf(path)
     print(f"\n=== {mtype}: divergences={getattr(m, 'N_divergences', '?')} "
           f"ok={getattr(m, 'pass_all_metrics', '?')}")
     try:
