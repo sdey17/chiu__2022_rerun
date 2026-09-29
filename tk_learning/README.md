@@ -30,6 +30,37 @@ to tweak a figure is instant. Delete them to force a refit.
 it is 150 lines and every one of them is something you should be able to
 derive.
 
+## Notebooks
+
+The same nine lessons are also in `notebooks/`, as executed Jupyter
+notebooks with every output and figure already embedded — so they can be
+read on GitHub, or walked through with someone, without running
+anything.
+
+```bash
+jupyter lab notebooks/         # or: jupyter notebook notebooks/
+```
+
+**The `.py` files are the source of truth.** The notebooks are generated
+from them:
+
+```bash
+python make_notebooks.py        # rebuild all nine
+python make_notebooks.py 09     # rebuild just one
+```
+
+The converter turns each lesson's prose blocks into markdown cells and
+leaves the computation as code cells, so a notebook reads as explanation
+interleaved with runnable steps rather than as a script in one box. Edit
+the `.py`, re-run the converter, and the notebook follows — there is no
+second copy to keep in sync.
+
+To re-execute after rebuilding (this is what embeds the outputs):
+
+```bash
+cd notebooks && jupyter nbconvert --to notebook --execute --inplace 0*.ipynb
+```
+
 ## The arc
 
 | lesson | what you can do afterwards | the idea it lands |
@@ -134,7 +165,7 @@ C(t) = A·exp(-alpha·t) + B·exp(-beta·t),   alpha > beta
 | AUC (IV) | `dose / CL` | exact for any linear model, no shape assumption |
 | Vss (2-comp) | `V1·(1 + k12/k21)` | total distribution volume once tissue has filled |
 
-## Eight things the lessons will make you believe
+## Ten things the lessons will make you believe
 
 1. **Half-life is the robust number; clearance is the meaningful one.**
    k comes off the slope and needs neither dose nor volume. CL needs Vd,

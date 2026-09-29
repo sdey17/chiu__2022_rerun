@@ -115,11 +115,16 @@ def fit(m, name):
 
 
 if __name__ == "__main__":
+    # ------------------------------------------------------------------
+    # A. Fit both models
+    # ------------------------------------------------------------------
     print(f"PFOA, {na} monkeys, 10 mg/kg IV, {len(mk)} observations\n")
     i1 = fit(one_compartment(), "1compartment")
     i2 = fit(two_compartment(), "2compartment")
 
-    print("\nA. Parameter estimates\n")
+    # ------------------------------------------------------------------
+    # B. Parameter estimates
+    # ------------------------------------------------------------------
     print(az.summary(i1, var_names=["half_life_pop", "sigma"],
                      hdi_prob=0.95).to_string())
     print()
@@ -127,7 +132,9 @@ if __name__ == "__main__":
                                     "Vss", "CL", "sigma"],
                      hdi_prob=0.95).to_string())
 
-    print("\n\nB. Which model predicts better? (LOO)\n")
+    # ------------------------------------------------------------------
+    # C. Which model predicts better? (LOO)
+    # ------------------------------------------------------------------
     comp = az.compare({"1-compartment": i1, "2-compartment": i2}, ic="loo")
     print(comp.to_string())
 
@@ -138,7 +145,7 @@ if __name__ == "__main__":
           f"-- {'decisive' if diff > 4*dse else 'not decisive'}")
 
     # ------------------------------------------------------------------
-    # Figures
+    # D. Figures
     # ------------------------------------------------------------------
     print("\nFigures\n")
     grid = np.linspace(0.02, 95, 400)
@@ -232,7 +239,7 @@ if __name__ == "__main__":
            "half-life and calls it THE half-life.")
 
     print("""
-   Note the 'warning' column: True for both models. ArviZ is telling you
+Note the 'warning' column: True for both models. ArviZ is telling you
    that some observations have a Pareto k above 0.7, meaning the LOO
    approximation is shaky for those points -- with 43 observations and
    3 animals, dropping a single point really can move the posterior.
@@ -240,7 +247,7 @@ if __name__ == "__main__":
    but never report a marginal LOO difference with this flag set; rerun
    the flagged points with az.reloo, or use k-fold.
 
-C. What the second compartment bought you
+E. What the second compartment bought you
 
    Look at sigma. In the one-compartment fit it has to absorb the
    systematic curvature; in the two-compartment fit that curvature is
@@ -256,7 +263,7 @@ C. What the second compartment bought you
    it the half-life -- which is one concrete reason published PFAS
    half-lives disagree (lesson 03, trap 1).
 
-D. And now the honest limitation
+F. And now the honest limitation
 
    The two-compartment model fits. But ask what the peripheral
    compartment IS, and there is no answer. It is a mathematical

@@ -15,9 +15,16 @@ plots from lying to you:
 Import `setup()` once at the top of a lesson, then use the helpers.
 """
 import os
+import sys
 
 import matplotlib
-matplotlib.use("Agg")            # write files, no display needed
+
+# In a plain script there is no display, so write files with the Agg
+# backend. Inside Jupyter, leave the backend alone so figures render in
+# the notebook as well as being saved.
+IN_NOTEBOOK = "ipykernel" in sys.modules
+if not IN_NOTEBOOK:
+    matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -55,8 +62,11 @@ def save(fig, name, note=None):
         fig.text(0.01, -0.04, note, fontsize=7.5, color=SOFT, va="top")
     path = os.path.join(FIGDIR, name)
     fig.savefig(path, bbox_inches="tight")
-    plt.close(fig)
-    print(f"   [figure] figures/{name}")
+    if IN_NOTEBOOK:
+        plt.show()               # render inline as well as saving
+    else:
+        plt.close(fig)
+        print(f"   [figure] figures/{name}")
     return path
 
 
