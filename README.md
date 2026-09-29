@@ -38,7 +38,18 @@ model.py               the model (one file for all four chemicals)
 parse_chiu_data.py     reads Chiu's input files into a table
 data/                  Chiu's MCSim input files, unmodified (GPLv3, see LICENSE-chiu-GPLv3)
 *.pdf                  the paper and its supplement
+
+SUMMARY.md             what the whole project has found -- start here
+tk_learning/           seven runnable lessons: 1-compartment TK to PBPK
+pfas_dose/             EPA animal models; does clearance depend on dose?
+species_dose/          does dose explain the human/rodent half-life gap?
+literature/            20 sources appraised, with the numbers reconciled
 ```
+
+**New to toxicokinetics?** Read [`SUMMARY.md`](SUMMARY.md) for what the
+project found, then work through [`tk_learning/`](tk_learning/), which
+builds up from `C(t) = C0·exp(-k·t)` on real animal data and ends by
+showing exactly where the one-compartment model breaks.
 
 ---
 

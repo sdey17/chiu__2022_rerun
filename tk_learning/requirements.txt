@@ -1,0 +1,7 @@
+# lessons 01-05
+numpy
+scipy
+pandas
+# lessons 06-07
+pymc>=5
+arviz>=0.17

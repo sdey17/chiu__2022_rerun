@@ -9,8 +9,7 @@ at, and ends with questions and exercises. Do the questions — they are
 the point. The scripts are short enough to read in full, and you should.
 
 ```bash
-pip install numpy scipy pandas            # lessons 1-5
-pip install pymc arviz                    # lessons 6-7
+pip install -r requirements.txt           # or: numpy scipy pandas pymc arviz
 
 python 01_simulate.py          # no data yet: what the knobs do
 python 02_explore.py           # look at the data before modelling it

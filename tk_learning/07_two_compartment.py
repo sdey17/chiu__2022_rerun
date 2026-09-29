@@ -134,6 +134,14 @@ if __name__ == "__main__":
           f"-- {'decisive' if diff > 4*dse else 'not decisive'}")
 
     print("""
+   Note the 'warning' column: True for both models. ArviZ is telling you
+   that some observations have a Pareto k above 0.7, meaning the LOO
+   approximation is shaky for those points -- with 43 observations and
+   3 animals, dropping a single point really can move the posterior.
+   The ranking here is wide enough (5+ standard errors) to survive that,
+   but never report a marginal LOO difference with this flag set; rerun
+   the flagged points with az.reloo, or use k-fold.
+
 C. What the second compartment bought you
 
    Look at sigma. In the one-compartment fit it has to absorb the
