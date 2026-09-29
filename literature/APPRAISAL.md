@@ -339,48 +339,35 @@ and both are uncertain by factors of 2-6.
 That is the clearest single criterion for which estimates to trust, and
 it is structural rather than a judgement about any author.
 
-## The dose hypothesis, now testable at four levels
+## The dose hypothesis - CORRECTED
 
-Li 2022 provides what was missing - the individual-level test, inside
-one cohort, with study, lab, cessation date and background all held
-constant:
+An earlier version of this file reported that Li 2022 confirmed the dose
+hypothesis at the individual level, on the strength of its text. **Its
+supplementary Table S4 shows the opposite**, and the table wins. Full
+treatment in `SYNTHESIS.md` section 1; in brief, tertile 1 is the
+LOWEST initial level (per Fig. 1's caption) and it has the SHORTER
+half-life, so higher initial level goes with slower elimination -
+significant for PFHxS and PFHpS.
 
-> "Initial PFAS levels were relevant as well, with **positive
-> associations between higher initial PFAS levels and shorter
-> half-lives** in some of the PFAS substances, especially in PFHxS and
-> PFHpS."
+The evidence now splits by the level of comparison, not by chemical:
 
-It also reports time-dependency: elimination estimated from early
-samples was faster than from late samples, which is what concentration
-dependence looks like when concentrations fall over a follow-up.
-
-Putting every level of evidence together:
-
-| level of comparison | source | finding |
+| comparison | source | direction |
 |---|---|---|
-| within a person over time | Li 2022 | early samples clear faster than late |
-| between people, one cohort | Li 2022 | higher initial level -> shorter half-life, **strongest for PFHxS** |
-| between human cohorts | `human_dose_test.py` | PFHxS +0.27, PFOA +0.09, PFOS -0.12 |
-| within rats across doses | `../pfas_dose` | PFOA +0.11, PFHxA +0.04 (null) |
-| between water districts | Seals 2011 | +1.55, above the mechanistic ceiling |
+| within a person over time | Li 2022 Table 5 | **supports** saturation |
+| within a species across doses | our rat fits | **supports** (PFOA +0.11) |
+| between people, one cohort | Li 2022 Table S4 | **contradicts** (p=0.02) |
+| between human cohorts | `human_dose_test.py` | mixed |
+| between water districts | Seals 2011 | +1.55, above the ceiling |
 
-Four independent designs, and **PFHxS is the standout in both human
-analyses that can separate chemicals** - Li 2022 at the individual level
-and our cross-cohort slope, which had PFHxS steepest at +0.27 with
-r = 0.94. That agreement was not built in; the two analyses share no
-data beyond Li's own cohort appearing in both.
+Within-unit comparisons support it; between-unit comparisons do not.
+Li 2022 supplies the likely confounder: age has a very strong effect
+(preteens 45-60% shorter half-lives than over-50s) and also drives
+accumulated burden, so between people, higher initial level partly means
+older, and older means slower. Within-person and within-study contrasts
+are immune to that.
 
-So concentration-dependent elimination in humans is real, reproducible
-across four designs, chemical-specific, and small - of order 0.1 to 0.3
-on a log-log slope, against the ceiling of 1 that saturable reabsorption
-allows. Seals' +1.55 remains the outlier and remains best explained by
-its truncation bias.
-
-Li 2022 adds a mechanism for the fecal route too: higher calprotectin (a
-marker of intestinal inflammation) went with shorter half-lives, which
-the authors read as inflammation reducing intestinal reabsorption. That
-dovetails with Andersson's finding that faeces dominates PFOS
-elimination.
+Net: concentration dependence is real but small, of order 0.1 on a
+log-log slope against a mechanistic ceiling of 1.
 
 ## Mechanism: why chain length decides everything
 
