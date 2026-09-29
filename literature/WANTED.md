@@ -1,5 +1,13 @@
 # Papers to add as PDFs
 
+> **Status:** Rosato 2024 (item 1) has been added and extracted. Three
+> further PDFs were added that were not on this list - Andersson 2025,
+> Fischer 2024 and Fischer 2025 - and two of them changed the appraisal
+> more than anything still outstanding. See `APPRAISAL.md`.
+>
+> Still wanted: Zhang 2013, Li 2022 (only its summary rows are in hand,
+> via Rosato's table), and the two Regulatory Toxicology papers.
+
 Not in PubMed Central, so unreachable even with PMC access open. Drop
 the PDFs anywhere in the repo and they can be extracted the way the Chiu
 paper and SI were.
@@ -7,7 +15,7 @@ paper and SI were.
 Priority order: the value each adds to `studies.csv` and to the
 appraisal.
 
-## 1. The 2023 systematic review and meta-analysis  [BIGGEST WIN]
+## 1. ~~The 2023 systematic review and meta-analysis~~  [ADDED - Rosato 2024]
 
 Cavalieri d'Oro et al. (exact authorship to confirm from the PDF), 2023.
 "Estimation of per- and polyfluoroalkyl substances (PFAS) half-lives in

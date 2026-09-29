@@ -6,6 +6,13 @@ full texts were then pulled from PMC (`fetch_pmc.py`, files in
 `studies.csv` records which is which. Nothing here is quoted from
 memory.
 
+> **Updated after four PDFs were added** (Rosato 2024, Andersson 2025,
+> Fischer 2024, Fischer 2025). Three things changed: there are now
+> pooled meta-analytic estimates to anchor on, the study at the centre
+> of the short-half-life argument turns out to have been *excluded* from
+> the systematic review, and two further assumptions had to be added to
+> the list because a 2025 paper shows one of them is simply false.
+
 ## The disagreement is real and large
 
 Published central estimates for the **human PFOA half-life**:
@@ -49,6 +56,22 @@ was needed to reproduce observed serum levels.
 not.
 
 ### 2. Background exposure not subtracted — inflates half-life
+
+**Now measured.** Li 2022 (Ronneby) reports its estimates both ways.
+Subtracting background shortens the half-life by:
+
+| | no subtraction | background subtracted | change |
+|---|---|---|---|
+| PFOA | 2.99 y | 2.47 y | **-17%** |
+| L-PFOS | 2.87 y | 2.73 y | -5% |
+| PFHxS | 4.55 y | 4.52 y | -1% |
+
+So the bias is real, in the predicted direction, and modest - around 17%
+at worst, in a cohort whose levels were far above background. It does
+**not** account for the 17-fold spread on its own. Expect it to be much
+larger in cohorts whose levels approach background, which is exactly
+Seals' low-exposure district.
+
 Related but distinct. Serum decays toward a non-zero background, not
 zero. Fitting a pure exponential to a curve with a floor makes the decay
 look slower, and the bias grows as levels approach background. Chiu 2022
@@ -91,7 +114,44 @@ older females (GM 1.2 y). Menstruation is a genuine elimination route.
 Occupational cohorts are mostly male; community cohorts are mixed. Some
 of the between-study spread is real biology, not method.
 
-## A seventh, specific to this project: exposure level
+### 7. Which excretion routes are counted — invalidates urine-only methods
+
+**This assumption turns out to be false, not merely unverified.**
+Andersson et al. 2025 measured matched serum, urine and faeces in 147
+Ronneby subjects:
+
+| | urinary elimination | faecal elimination | dominant route |
+|---|---|---|---|
+| L-PFOS | 91 ng/day | **364 ng/day** | faeces, 4:1 |
+| PFOA | **26 ng/day** | 15 ng/day | urine, ~1.7:1 |
+
+Their opening line is that "most pharmacokinetic models assume that the
+urinary route dominates". For PFOS that is wrong by a factor of four.
+
+Any half-life estimated from renal clearance alone therefore counts only
+part of total elimination, underestimates clearance and **overestimates
+half-life** - badly for PFOS, moderately for PFOA. This retrospectively
+justifies Rosato's decision to exclude renal-clearance-only studies, and
+it is a specific, empirical strike against that whole method class.
+
+### 8. The assumed volume of distribution — scales clearance-based estimates directly
+
+Any mass-balance method computes t-half = ln2 x Vd / CL, so the assumed
+Vd multiplies straight through. Andersson's measured values are far
+below those in common use:
+
+| source | PFOA Vd | PFOS Vd |
+|---|---|---|
+| Andersson 2025 (measured) | **0.074 L/kg** | 0.093 L/kg |
+| Chiu 2022 (fitted) | 0.43 L/kg | 0.32 L/kg |
+| Commonly assumed | 0.17-0.20 L/kg | - |
+
+A 2-6x disagreement on Vd is a 2-6x disagreement on any half-life
+derived this way. When comparing a clearance-based estimate against a
+serum-decay estimate, this is often the real source of the difference,
+and it is rarely stated prominently.
+
+## A ninth, specific to this project: exposure level
 
 Now resolved against full text, and the answer is more interesting than
 the abstracts suggested.
@@ -201,7 +261,8 @@ citation count:
 
 **Tier 2 - good design, one uncontrolled bias**
 - Bartell 2010: clean cessation, but only ~half a half-life observed
-- Worley 2017: one-compartment model, no background term
+- ~~Worley 2017~~ - moved to Tier 3: Rosato excluded it because the main
+  exposure was still present or its cessation was not clearly defined
 - Chiu 2022: handles background and pools many sites, but assumes the
   same k applies across sites and relies on reconstructed exposure
   histories
@@ -224,17 +285,65 @@ citation count:
   worth knowing when weighing the argument, though it does not make the
   argument wrong.
 
+## Mechanism: why chain length decides everything
+
+The two Fischer papers give the physical basis, and it reframes the
+animal dose results.
+
+**Fischer 2024** measured PFAS binding to the two dominant serum
+proteins. There is a switch at seven perfluorinated carbons: PFAS with
+npfc < 7 bind mostly to albumin, npfc >= 7 bind preferentially to
+globulins. The unbound fraction varies up to 2.5-fold between
+individuals in NHANES - which is a mechanism for interindividual
+variability in half-life that no compartmental model represents.
+
+**Fischer 2025** built a PBTK model and ran sensitivity analysis:
+elimination of **short-chain** PFAA (npfc <= 6) is most sensitive to
+**renal transporters and albumin binding**, while **long-chain** PFAA
+(npfc >= 7) is governed by **membrane permeability and phospholipid
+binding**.
+
+### A tension worth chasing
+
+That cuts against our animal result. PFOA (npfc = 7) showed a dose
+dependence in male rats (clearance ~ dose^0.11) and PFHxA (npfc = 5)
+showed none - yet Fischer puts the *short*-chain compound in the
+transporter-controlled regime, where saturation should be easiest to
+provoke.
+
+Possible reconciliations, none tested here:
+- PFHxA is cleared roughly 200x faster, so concentrations at the
+  transporter may stay well below Km even at 300 mg/kg - transporter-
+  controlled but never saturated.
+- The relevant transporters differ in direction: saturating
+  *reabsorption* raises clearance, saturating *secretion* lowers it, and
+  the two could partly cancel.
+- Fischer's sensitivity analysis is parameterised to mice; rat
+  transporter expression differs sharply, which is the same
+  sex-and-species story as the 44x male/female rat gap.
+
+This is the most promising open thread in the whole project: a
+mechanistic prediction that our own data appear to contradict.
+
 ## The practical answer
 
-For a **central estimate**, Chiu 2022 is the most defensible for this
-project's purpose: it is the only one that pools multiple populations,
-carries background explicitly, and reports genuine uncertainty rather
-than a point estimate. Use 3.14 y for PFOA with the caveat that the
-plausible range across methods is roughly 1.5-5 y.
+For a **central estimate**, prefer **Rosato 2024's pooled general-
+population figure of 2.35 y (2.20-2.51) for PFOA**. It pools studies
+selected on an explicit cessation-of-exposure criterion, it is the
+subgroup where studies actually agree (I2 = 43%), and it comes with a
+risk-of-bias assessment. Chiu 2022's 3.14 y remains the best single
+*model-based* estimate and the right one when you need Vd and
+population variability alongside the half-life, but note it sits above
+the pooled value - consistent with its inclusion of cohorts with
+ongoing exposure.
 
-For **sensitivity analysis**, carry the ARA 1.3 y as a low anchor. If a
-conclusion flips between 1.3 y and 3.14 y, it is not robust to the
-current state of the literature.
+For PFOS use 4.77 y (3.26-6.29) and PFHxS 5.35 y (3.16-7.55), both with
+the caveat that I2 exceeds 90%.
+
+For **sensitivity analysis**, carry the ARA 1.3 y as a low anchor, but
+weight it knowing the study behind it was excluded from the systematic
+review. If a conclusion flips between 1.3 y and 3.14 y, it is not
+robust to the current state of the literature.
 
 For the **species/dose question**, none of this rescues the hypothesis.
 The human-animal gap is ~80x; the entire human literature disagrees

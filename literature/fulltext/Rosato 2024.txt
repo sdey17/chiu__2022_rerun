@@ -1,0 +1,2224 @@
+Contents lists available at ScienceDirect 
+
+Environmental Research 
+
+journal homepage: www.elsevier.com/locate/envres 
+
+Review article 
+
+Estimation of per- and polyfluoroalkyl substances (PFAS) half-lives in 
+human studies: a systematic review and meta-analysis 
+
+Isabella Rosato a, Tiziano Bonato a, Tony Fletcher b, Erich Batzella a, Cristina Canova a,* 
+a Unit of Biostatistics, Epidemiology and Public Health, Department of Cardio-Thoraco-Vascular Sciences and Public Health, Padova, Italy 
+b London School of Hygiene and Tropical Medicine, London, United Kingdom   
+
+A R T I C L E  I N F O    
+
+A B S T R A C T    
+
+Keywords: 
+Perfluoroalkyl substances 
+PFAS 
+Half-life 
+Toxicokinetics 
+One-compartment model 
+
+Background:  Per-  and  polyfluoroalkyl  substances  (PFAS)  constitute  a  heterogeneous  group  of  synthetic  com-
+pounds widely used in industrial applications. The estimation of PFAS half-life (t1/2) is essential to quantify their 
+persistence, their toxicity and mechanism of action in humans. 
+Objectives:  The  purpose  of  this  review  is  to  summarize  the  evidence  on  PFAS  half-lives  in  humans  from  the 
+available literature, and to investigate the limitations and uncertainties characterizing half-life estimation. 
+Methods: The search was conducted on PubMed, Scopus, and Embase databases up to July 03, 2023 and was 
+aimed  at  identifying  all  papers  that  estimated  PFAS  half-life  in  human  populations.  We  excluded  studies  on 
+temporal trends or providing estimates of half-life based solely on renal clearance. As persistent and ongoing 
+exposures can influence half-life estimation, we decided to include only studies that were conducted after the 
+main  source  of  exposure  to  PFAS  had  ceased.  A  random-effects  meta-analysis  was  conducted  on  studies  that 
+reported perfluorooctanoic acid (PFOA), perfluorooctane sulfonic acid (PFOS) or perfluorohexanesulfonic acid 
+(PFHxS) half-life estimation. Risk of bias was evaluated using the OHAT tool. 
+Results:  A total  of  13 articles  were  included in  the  review,  with  5  studies conducted  in  exposed  general  pop-
+ulations and 8 studies conducted in exposed workers; the estimated mean half-life ranged from 1.48 to 5.1 years 
+for PFOA, from 3.4 to 5.7 years for total PFOS, and from 2.84 to 8.5 years for PFHxS. High heterogeneity among 
+studies was observed; potential reasons include the variability among the investigated populations, discrepancies 
+in considering ongoing exposures, variability in PFAS isomeric compositions, accounting for background expo-
+sure, time since exposure stopped and methods used for half-life estimation. 
+Discussion:  Despite  the  efforts  made  to  better  understand  PFAS  toxicokinetics,  further  studies  are  needed  to 
+identify important characteristics of these persistent chemicals. Biomonitoring studies should focus on persistent 
+and unaccounted sources of exposure to PFAS and on individual characteristics potentially determining half-life, 
+to ensure accurate estimates.   
+
+1. Introduction 
+
+Per-  and  Polyfluoroalkyl  Substances  (PFAS)  constitute  a  heteroge-
+neous group of synthetic compounds characterized by the presence of at 
+least one perfluorinated methyl group or methylene group (Wang et al., 
+2021). Since the 1940s, PFAS have been widely used in industrial ap-
+plications and to produce various consumer products (Glüge et al., 2020; 
+Panieri et al., 2022). They were originally used for the manufacturing of 
+Teflon®  and  Scotchgard™  and  can  be  found  in  food  packaging,  cos-
+metics, waterproof textiles, and aqueous film forming foams (AFFF) used 
+
+to  suppress  flammable  liquid  fires  (Pelch  et  al.,  2019).  The  most 
+well-known  and  studied  PFAS  compounds  are  perfluorooctanoic  acid 
+(PFOA)  and  perfluorooctane  sulfonic  acid  (PFOS),  yet  the  PFAS  class 
+comprises more than 1000 chemicals (Kwiatkowski et al., 2020). 
+
+Common  features  of  all  PFAS  are  represented  by  their  chemical 
+stability  and  oil  and  water  repellence,  which  cause  environmental 
+persistence, together with a tendency to bioaccumulate in biota through 
+the  contamination  of  food  chains  (Giesy  and  Kannan,  2001;  Kwiat-
+kowski  et  al.,  2020;  Su  and  Rajan,  2021).  Human  exposure  to  PFAS 
+occurs primarily through food, drinking water, and occasionally through 
+
+* Corresponding author. Unit of Biostatistics, Epidemiology and Public Health, Department of Cardio-Thoraco-Vascular Sciences and Public Health, University of 
+
+Padua, Via Loredan 18, 35100, Padua, Italy. 
+
+E-mail address: cristina.canova@unipd.it (C. Canova).  
+
+https://doi.org/10.1016/j.envres.2023.117743 
+Received 12 September 2023; Received in revised form 15 November 2023; Accepted 18 November 2023   
+
+EnvironmentalResearch242(2024)117743Availableonline25November20230013-9351/©2023TheAuthors.PublishedbyElsevierInc.ThisisanopenaccessarticleundertheCCBYlicense(http://creativecommons.org/licenses/by/4.0/).I. Rosato et al.                                                                                                                                                                                                                                   
+
+air  and  dust  in  heavily  polluted  surroundings  (Domingo  and  Nadal, 
+2019). Exposure to PFAS is ubiquitous, and, as a result, many of these 
+substances have been detected in the serum of human populations in the 
+United States (Calafat et al., 2019; Rogers et al., 2021), China (Zhang 
+et al., 2019), Australia (Toms et al., 2019) and Europe (Gebbink et al., 
+2015;  G¨ockener  et  al.,  2020;  Pitter  et  al.,  2020).  Numerous  recent 
+epidemiological biomonitoring studies have associated PFAS exposure 
+with various adverse health effects, as these compounds can dysregulate 
+the functioning of the immune, endocrine, cardiometabolic and repro-
+ductive systems, and pose an increased risk of cancer and developmental 
+effects  (Sunderland  et  al.,  2019;  Fenton  et  al.,  2021;  US  EPA,  2021; 
+Schrenk et al., 2020). 
+
+Depending on their terminal functional group, PFAS can be distin-
+guished as perfluoroalkyl carboxylic acids (PFCAs) and perfluoroalkyl 
+sulfonic acids (PFSAs) (Buck et al., 2011). Commonly, PFAS subclasses 
+are also distinguished based on their carbon-chain length. According to 
+the Organization for Economic Co-operation and Development (OECD), 
+the  term  “long-chain  compound”  refers  to  PFCAs  with  eight  or  more 
+carbons and PFSAs with six or more carbons, while “short-chain” is used 
+for  PFCAs with seven or fewer carbons and  PFSAs with five  or fewer 
+carbons (OECD, 2013). 
+
+PFAS are easily absorbed and slowly excreted from the human body, 
+demonstrating  a  high  affinity  for  transport  proteins  found  in  serum, 
+nuclear  receptors  and  cell  membranes  (Fan  et  al.,  2020;  Zhao  et  al., 
+2023). Due to the slower elimination of long-chain PFAS compared to 
+short-chain PFAS, production of PFOA and PFOS in particular has been 
+regulated and gradually phased out since the 2000s (Post, 2021; Rickard 
+et al., 2022). However, various short-chain PFAS and PFAS mixtures are 
+still produced today, together with emerging replacement PFAS, raising 
+significant  environmental  and  public  health  concerns  (Brendel  et  al., 
+2018). 
+
+Estimation of PFAS half-life (t1/2), defined as the time required for 
+the  PFAS  concentrations  in  serum  or  plasma  to  fall  by  half  from  the 
+starting concentration (Hallare and Gerriets, 2022), is fundamental to 
+quantify  PFAS  persistence  in  people  and  to  better  investigate  their 
+toxicity and mechanism of action in humans (Fenton et al., 2021). The 
+rate  at  which  a  chemical  is  eliminated  from  the  human  body  is  an 
+important feature of its respective hazard profile. Toxicants with long 
+half-lives generally show a greater bioaccumulative potential following 
+repeated/continuous exposure (Tonnelier et al., 2012), exhibiting high 
+absorption  levels  and  low  excretion  rates  (Pasecnaja  et  al.,  2022). 
+Therefore,  data  on  elimination  half-lives  are  important  toxicokinetic 
+parameters for risk assessment of many PFAS compounds that are still 
+under regulatory scrutiny or are already regulated in some jurisdictions 
+(Cousins et al., 2020; Langenbach and Wilson, 2021). 
+
+Despite its relatively simple visualization and mathematical deriva-
+tion, the role of half-lives in PFAS toxicokinetics studies is surprisingly 
+complex (Smith et al., 2018). Knowledge of the various mechanisms of 
+PFAS toxicokinetics in humans, such as absorption, distribution, meta-
+bolism and excretion is still limited, as most available studies have been 
+carried out in animals and have shown high interspecies differences in 
+absorption  and  elimination  pathways  (Chou  and  Lin,  2019;  Pizzurro 
+et  al.,  2019;  Drew  et  al.,  2022).  Most  human  studies  on  PFAS  tox-
+icokinetic  processes  focused  on  long  chain  PFAS,  showing  heteroge-
+neous  estimates  among  chemical  compounds  and 
+investigated 
+populations  (Chiu  et  al.,  2022),  potentially  due  to  the  variability  of 
+exposure  settings  and  concentration  levels  (Worley  et  al.,  2017). 
+Another significant source of uncertainty in half-life estimation could be 
+due to the possible ongoing and/or unaccounted background exposures 
+(Dourson and Gadagbui, 2021), and to the possible role of individual 
+determinants (such as sex, age, genetics and general health), which may 
+contribute  to  interindividual  variation  (Bois  et  al.,  2010;  Chiu  et  al., 
+2022). For example, it appears that PFAS half-lives strongly vary among 
+sexes, with males generally showing longer half-lives compared to fe-
+males (DeWitt, 2015). 
+
+The  purpose  of  this  systematic  review  and  meta-analysis  is  to 
+
+summarize the evidence on PFAS half-lives in humans from the available 
+literature,  and  to  investigate  the  limitations  and  uncertainties  that 
+characterize half-life estimation, while providing suggestions for future 
+studies regarding this topic. 
+
+2. Materials and methods 
+
+A systematic review was conducted following the general method-
+ology of the Preferred Reporting Items for Systematic Reviews and Meta- 
+Analyses (PRISMA) guideline (Page et al., 2021). The search was carried 
+out in the PubMed, Scopus and Embase databases, using a string that 
+included a broad range of words and synonyms related to “PFAS” and 
+“half-life”  and  without  limitations  on  publication  date  (Table  S1). 
+Following the PEO framework (Munn et al., 2018) we aimed at identi-
+fying original studies conducted on human populations (P) exposed to 
+PFAS (E) in which estimates of PFAS half-lives were provided (O). The 
+search was performed up to March 7th, 2023. 
+
+We  decided  to  include  only  studies  that  were  conducted  after  the 
+cessation  of  the  most  substantial  exposure  to  PFAS  (i.e.  principally 
+contaminated  drinking  water  or  occupational  exposure),  as  persistent 
+and ongoing exposures can influence half-life estimation, leading to a 
+potential  overestimation  of  results  (Russell  et  al.,  2015;  Chiu  et  al., 
+2022). Additionally, we excluded all studies that provided an estimate of 
+half-life solely based on renal clearance, since PFAS are also excreted 
+through  blood  loss,  maternal  transfer  to  the  fetus,  breastfeeding, 
+menstruation (Rickard et al., 2022), as well as through bile and faeces 
+(Roberts,  2013;  Chambers  et  al.,  2021;  Fletcher  et  al.,  2022).  We 
+included  studies  that  calculated  half-lives  using  repeated  serum  mea-
+surements (at least two samples per participant) obtained on the same 
+population.  Furthermore,  we  excluded  studies  on  temporal  trends,  as 
+these  studies  measure  PFAS  concentrations  in  different  populations 
+using different time points. All PFAS were considered for inclusion. In-
+clusion and exclusion criteria are fully specified in Table 1. 
+
+The selection process was performed by two independent reviewers 
+(I.R. and T.B.), and conflicts were solved with the intervention of a third 
+reviewer (E.B.). Both reviewers checked the reference list of included 
+papers for potentially relevant additions. For each of the selected arti-
+cles, each reviewer independently collected the following information: 
+study  characteristics  (location,  setting,  years  of  sample  collection, 
+sampling intervals); population characteristics (sample size, sex, mean 
+age), half-life estimation details (model used, adjustments, stratification 
+
+Table 1 
+General and specific inclusion and exclusion criteria for papers’ selection.  
+
+Inclusion criteria 
+
+General criteria   
+
+• English language  
+• Original articles  
+• Human studies 
+Specific criteria   
+
+• Estimation of half-life with 2+ measurements performed on the same participants at 
+
+different time points  
+
+• Defined cessation of main exposure 
+
+Exclusion criteria 
+
+General criteria   
+
+• Languages different from English  
+• Reviews, commentaries, conference abstracts, editorials, letters, responses to 
+
+authors, protocols, pilot studies  
+• Animal or environmental studies 
+Specific criteria   
+
+• Estimation of half-life with measurements performed on different populations in 
+
+different time points (temporal trend studies)  
+• Estimation of half-life through renal clearance  
+
+EnvironmentalResearch242(2024)1177432I. Rosato et al.                                                                                                                                                                                                                                   
+
+groups);  exposure  information  (end  of  exposure,  initial  PFAS  levels), 
+along  with  the provided  estimates  for PFAS  half-lives, including  95% 
+confidence  intervals  (CI)  when  available.  When  relevant  information 
+was not directly available in the text, the reviewers contacted the cor-
+responding authors to request additional data. 
+
+Risk  of  bias  for  included  studies  was  independently  evaluated  by 
+both reviewers (I.R. and T.B.), using the US National Toxicology Pro-
+gram’s Office of Health Assessment and Translation (OHAT) risk of bias 
+tool  (OHAT,  2015),  which  comprises  different  domains  investigating 
+various  possible  sources  of  bias:  confounding,  attrition/exclusion, 
+detection,  selective  reporting  and  others  (Eick  et  al.,  2020).  Conflicts 
+among  the  reviewers  were  solved  with  the  intervention  of  a  third 
+reviewer (E.B.) 
+
+In  the  meta-analysis,  we  included  only  studies  that  provided  esti-
+mates of the mean half-life and the respective standard error, as well as 
+those  from  which  standard  errors  could  be  computed  using  the  pub-
+lished  95%  CI;  in  each  forest  plot,  we  focused  on  a  single  PFAS  sub-
+stance,  considering  the  studies  providing  the  most  comprehensive 
+information on the substance of interest, for example reporting half-lives 
+for  different  isomers  of  the  investigated  PFAS.  We  focused  on  PFAS 
+compounds for which half-life estimates were available in at least three 
+different studies, and when studies were conducted on the same pop-
+ulations, we included only the most recent publication. To account for 
+the variability in the degrees of exposure, the covariates considered for 
+the adjustment, and the statistical models used for half-life estimation, a 
+random-effects model was chosen for the meta-analysis. The heteroge-
+neity  among  the  studies  was  investigated  using  the  I2  statistic.  We 
+defined heterogeneity as moderate or high using the I2 cut-offs of 50% 
+and 75%, respectively (Higgins et al., 2003). When possible, stratified 
+meta-analyses  were  performed  for  studies  on  exposed  workers  or 
+exposed  general  populations.  In  addition,  as  sensitivity  analyses,  we 
+excluded  studies  in  which  half-life  was  estimated  for  a  PFAS  whose 
+measured  concentrations  were  not  the  highest  among  all  the  PFAS 
+investigated, and therefore that substance could not be considered the 
+
+principal exposure of interest and excluded studies that did not meet the 
+criteria for very low/low risk of bias for the domains used in the OHAT 
+risk of bias tool. We employed an informal narrative approach for cer-
+tainty assessment. Statistical analyses were performed using the “meta” 
+package in the statistical software R (R Core Team, 2022). The protocol 
+for this systematic review was not registered. 
+
+3. Results 
+
+After the screening process, a total of 13 studies were included in the 
+present  review,  with  5  studies  conducted  on  exposed  general  pop-
+ulations and 8 studies conducted on exposed workers (Fig. 1). 
+
+A total of 10 studies reporting temporal trends of serum concentra-
+tions of PFAS were excluded (Olsen et al., 2008, 2012; Spliethoff et al., 
+2008; Glynn et al., 2012; Wong et al., 2014; Gebbink et al., 2015; Gomis 
+et al., 2017; Nguyen et al., 2019; Kim et al., 2020; Nor´en et al., 2021), 
+along with 7 studies in which the main exposure was still present at the 
+time of blood sampling for half-life estimation, or cessation of exposure 
+was not clearly defined or explicitly stated (Ding et al., 2020; Fu et al., 
+2016;  Gribble  et  al.,  2015;  Harada  et  al.,  2005,  2007;  Worley  et  al., 
+2017; Zhang et al., 2013a, 2013b), and five studies that estimated PFAS 
+half-life based only on renal clearance (Zhou et al., 2014; Zhang et al., 
+2015; Gao et al., 2015; Fujii et al., 2015; Shi et al., 2016). In addition, a 
+total  of  83  studies  were  excluded  because  they  did  not  assess  PFAS 
+half-lives among the outcomes; 15 studies were excluded as they pro-
+vided theoretical estimates for half-life and 21 were excluded because 
+they were reviews or conference abstracts (Fig. 1). The characteristics of 
+the  included  studies  are  presented  in  Table  2  and  Table  3  (half-lives 
+reported for PFAS other than PFOA, PFOS, and PFHxS are instead re-
+ported in Table S2 and Table S3). Most studies were conducted in Europe 
+(53.8%) and the United States (30.8%), followed by Australia (15.4%). 
+The sample sizes were relatively small, especially for the workers sub-
+group,  ranging  from  4  to  200  subjects  (with  an  average  number  of 
+subjects of 69). 
+
+Fig. 1. Flowchart for studies’ selection.  
+
+EnvironmentalResearch242(2024)1177433Table 2 
+Studies conducted on exposed general populations.  
+
+I
+.
+
+R
+o
+s
+a
+t
+o
+
+e
+t
+
+a
+l
+.
+
+Setting 
+
+Follow-up duration 
+
+N (% 
+female) 
+
+Mean age, 
+years (SD) 
+
+Initial PFAS 
+concentrations 
+(ng/mL) 
+
+PFOS half-life (years) 
+
+PFOA half-life (years) 
+
+PFHxS half-life (years) 
+
+Adjustment 
+
+54.5 (15) 
+
+Mean PFOA: 180 
+
+– 
+
+mean 2.3 (95% CI 2.1–2.4) 
+
+– 
+
+Median PFOS: 9 
+Median PFOA: 24 
+Median PFHxS: 2 
+
+22% relative reduction 
+(women), 25% (men) 
+
+39% relative reduction 
+(women), 25% (men); GM 
+3.26 (range 1.03–14.67) 
+
+30% relative reduction 
+(women), 30% (men) 
+
+Water district, public/ 
+bottled water drinking, sex, 
+age, local or homegrown 
+produce consumer, public 
+water service at work 
+Age, gender, domicile, BMI, 
+estimated daily exposure in 
+the period between the 
+samplings 
+
+Mean PFOS: 387 
+Mean PFOA: 21.2 
+Mean PFHxS: 353 
+
+Mean 3.4 (95%CI: 3.1–3.7) 
+
+Mean 2.7 (95%CI: 2.5–2.9) 
+
+Mean 5.3 (95%CI: 4.6–6.0) 
+
+Age, gender, BMI 
+
+47.9 
+(13.3) 
+
+Median PFNA: 
+2,882, 
+GM PFNA 2979 
+
+– 
+
+– 
+
+– 
+
+Age, sex, BMI 
+
+114 
+(53% 
+female) 
+
+Median 
+42, range: 
+4-84 
+
+GM PFOS: 150 
+GM PFOA: 16 
+GM PFHxS: 260 
+
+L-PFOS. Original: mean 2.87 
+(95%CI: 2.7, 3.06). After 
+subtraction b.e.: mean 2.73 
+(95%CI: 2.55, 2.92); median 
+2.89 (95%CI: 1.62, 4.75) 
+
+Original: mean 2.99 (95% 
+CI: 2.79, 3.21). After 
+subtraction b.e.: mean 2.47 
+(95%CI: 2.27, 2.7); median 
+2.69 (95%CI: 1.37, 5.4) 
+
+Original: mean 4.55 (95% 
+CI: 4.17, 5.01). After 
+subtraction b.e.: mean 4.52 
+(95%CI: 4.14, 4.99); median 
+5.4 (95%CI: 2.34, 9.29) 
+
+Age, gender, BMI, time 
+elapsed between the end of 
+exposure and the blood 
+sample collection 
+
+Author, 
+year 
+
+Bartell 
+et al. 
+(2010) 
+
+Brede 
+
+et al. 
+(2010) 
+
+USA; drinking 
+water exposure, 
+installation of 
+charcoal filters 
+
+Germany; drinking 
+water exposure, 
+installation of 
+charcoal filters 
+
+1 year; 
+6 samples/ 
+participant, collected 
+at 1, 2, 3, 6, and 12 
+months 
+2 years; 
+2 samples/ 
+participant, collected 
+in 2006 and 2008 
+
+200 
+(50% 
+female) 
+
+65 
+(50.8% 
+female) 
+
+Li et al. 
+
+(2018) 
+
+Sweden; drinking 
+water exposure 
+
+Yu et al. 
+(2021) 
+
+USA; drinking 
+water exposure 
+
+Li et al. 
+
+(2022) 
+
+Sweden; drinking 
+water exposure 
+
+2 years; up to 7 
+samples per 
+participant, collected 
+between 2014 and 
+2016 
+3 years; 
+3 samples/ 
+participant, collected 
+between 2017 and 
+2020 
+4.4 years; up to 10 
+samples/participant, 
+collected between 
+2014 and 2018 
+
+106 
+(53% 
+female) 
+
+91 
+(69.2% 
+female) 
+
+GM: geometric mean; b.e.: background exposure; L: linear. 
+
+7.9 (0.3) 
+in 
+children, 
+38.1 (4.7) 
+in women, 
+55.3 
+(13.1) in 
+men 
+Range: 4- 
+84 
+
+EnvironmentalResearch242(2024)1177434 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+.
+
+R
+o
+s
+a
+t
+o
+
+e
+t
+
+a
+l
+.
+
+Table 3 
+Studies conducted on overexposed workers.  
+
+Author, 
+year 
+
+Setting 
+
+Follow-up duration 
+
+Olsen 
+
+et al. 
+(2007) 
+
+USA; retired 
+fluorochemical 
+workers 
+
+Costa 
+
+et al. 
+(2009) 
+
+Italy; 
+Formerly exposed 
+workers 
+
+Olsen 
+
+et al. 
+(2009) 
+
+Russell 
+et al. 
+(2013) 
+
+Gomis 
+et al. 
+(2016) 
+
+Xu et al. 
+(2020) 
+
+USA; 
+Workers exposed to 
+PFBS 
+Sweden; 
+Wax technicians 
+
+Sweden; 
+Ski waxers 
+
+Sweden; airport 
+employers provided 
+with clean water 
+
+Nilsson 
+et al. 
+(2022b) 
+
+Australia; 
+Firefighters exposed 
+to aqueous-film 
+forming foam 
+
+Nilsson 
+et al. 
+(2022a) 
+
+Australia; 
+Firefighters exposed 
+to aqueous-film 
+forming foam 
+
+Up to 5.3 years; 
+4 to 7 samples/ 
+participant 
+collected 
+
+7 years; 
+7 samples/ 
+participant 
+collected from 2000 
+to 2007 
+6 months; 
+10 samples/ 
+participant 
+5 years; 
+Samples collected 
+during and after ski 
+season between 
+2007 and 2011 
+1 year; 
+10 samples/ 
+participant 
+collected from 2007 
+to 2008 
+4 months; 
+5 samples/ 
+participant 
+collected in 2018 
+
+5 years; 
+2 samples/ 
+participant 
+collected in 
+2013–2014 and 
+2018–2019 
+5 years; 
+2 samples/ 
+participant 
+collected in 
+2013–2014 and 
+2018–2019 
+
+N (% 
+female) 
+
+Mean age, 
+years (SD) 
+
+26 (7.7 % 
+female) 
+
+61 range: 
+55–75 
+
+16 (0% 
+female) 
+
+52 (8.7) 
+
+6 (16.7% 
+female) 
+
+7 (0% 
+female) 
+
+4 (0% 
+female) 
+
+– 
+
+– 
+
+– 
+
+17 (35% 
+female) 
+
+Median 
+50, range: 
+24-62 
+
+120 
+(3.3% 
+female) 
+
+Range: 
+33-72 
+
+130 (3% 
+female) 
+
+– 
+
+Initial PFAS 
+concentrations 
+(ng/mL) 
+∑
+
+(L + B) mean 
+
+PFOS: 799 
+∑
+
+(L + B) mean 
+
+PFOA: 691 
+∑
+
+(L + B) PFHxS: 
+
+290 
+Median PFOA: 
+11.92; mean 
+PFOA: 18.8 
+
+Mean PFBS: 397, 
+median PFBS: 363 
+
+Mean PFHxA: 1.9; 
+median PFHxA: 
+0.68 
+
+PFOS range: 250- 
+1050 
+
+Median L PFOS: 11 
+Median T PFOA: 
+13 
+Median T PFHxS: 
+133 
+Mean L PFOS: 26 
+Median L PFOS: 21 
+Mean T PFOS: 60 
+
+∑
+
+(L + B) PFOS: 27 
+Mean L PFOA: 1.7 
+Mean L PFHxS: 14 
+
+T: total; L: linear; B: branched; b.e.: background exposure. 
+
+PFOS half-life (years) 
+
+PFOA half-life (years) 
+
+PFHxS half-life (years) 
+
+Adjustment 
+
+∑
+
+(L + B): mean 5.4 (95%CI 
+3.9–6.9) median 4.6, range 
+2.4–21.7 
+GM 4.8 (95%CI: 4.0–5.8) 
+
+∑
+
+(L + B): mean 3.8 (95% 
+
+CI 3.1–4.4) median 3.4, 
+range 1.5–9.1 
+GM 3.5 (95%CI: 3.0–4.1) 
+
+∑
+
+(L + B): mean 8.5 (95% 
+CI 6.4–10.6) median 7.1, 
+range 2.2–27.0 
+GM 7.3 (95% CI: 5.8–9.2) 
+
+Initial and end-of-study 
+perfluoro-chemical 
+concentration, age at study 
+onset, years worked, years 
+since retirement 
+
+– 
+
+– 
+
+– 
+
+– 
+
+mean 5.1 
+SD 1.7 range 2.6–9.7 
+GM 4.8 
+
+– 
+
+– 
+
+–  
+
+–  
+
+–  
+
+mean 2.4, range 2.0–2.8 
+
+–  
+
+L-PFOS: original levels: 
+mean 2.91 (95% CI 1.71 to 
+9.63); with subtraction of b. 
+e.: 1.69 (95% CI 0.98 to 
+6.04) 
+L: mean (SD) = 4.0 (1.4); 
+median = 3.8 (95%CI: 
+2.5–6.8) range: 0.8–10 
+∑
+
+B: mean (SD) = 5.5 (1.9); 
+
+median = 5.4; 95%CI: 
+2.7–8.8 
+∑
+
+(L + B). Original levels: 
+mean 6.5 (95% CI 6.1, 6.9); 
+with subtraction of 
+background exposure: mean 
+5.7 (95% CI 5.2, 6.2) 
+
+Total. Original levels: mean 
+1.77 (95% CI 1.43 to 2.31); 
+with subtraction of b.e.: 
+1.48 (95% CI 1.19 to 1.96) 
+
+Total. Original levels: mean 
+2.86 (95% CI 2.1 to 4.47); 
+with subtraction of b.e.: 
+2.84 (95% CI 2.08 to 4.43) 
+
+Age, sex, background 
+exposure 
+
+– 
+
+–  
+
+L. Original levels: mean 5.0 
+(95% CI 4.7, 5.4); with 
+subtraction of background 
+exposure: mean 2.0 (95% 
+CI 1.7, 2.2) 
+
+L. Original levels: mean 7.8 
+(95% CI 7.3, 8.3); with 
+subtraction of background 
+exposure: mean 6.0 (95% 
+CI 5.5, 6.5)  
+
+EnvironmentalResearch242(2024)1177435 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I. Rosato et al.                                                                                                                                                                                                                                   
+
+In  all  the  studies  involving  exposed  general  populations,  the 
+contamination of PFAS compounds occurred through drinking water. In 
+Sweden, the main source of contamination was the use of firefighting 
+foam in a nearby airfield (Li et al., 2018, 2022), while in other countries 
+it was attributed to local contamination generated by chemical plants 
+(Bartell et al., 2010; Yu et al., 2021) or to soil improvers mixed with 
+industrial waste applied in agricultural areas (Brede et al., 2010). In all 
+these  studies,  the  cessation  of  the  primary  exposure  was  achieved  by 
+implementing  granulated  activated  carbon  filters,  which  ensured  the 
+provision  of  clean  water.  In  studies  involving  exposed  workers,  the 
+participants  included  employees  working  in  fluorochemical  plants 
+(Olsen et al., 2007, 2009; Costa et al., 2009), technicians working with 
+fluorinated wax during the ski season (Russell et al., 2013; Gomis et al., 
+2016),  employees  at  airports  (Xu  et  al.,  2020)  and  firefighters  with 
+historical exposure to aqueous film forming foams (Nilsson et al., 2022a, 
+2022b). In occupational settings, cessation of exposure occurred when 
+workers  retired  or  were  transferred  (Olsen  et  al.,  2007,  2009;  Costa 
+et al., 2009), stopped working with ski wax (Russell et al., 2013; Gomis 
+et al., 2016), or when carbon filters were installed in the airport facilities 
+(Xu  et  al.,  2020).  For  the  studies  conducted  in  Australia,  the  main 
+exposure  to  PFAS  ceased  when  fluorine-containing  firefighting  foams 
+were replaced with alternative chemicals (Nilsson et al., 2022a, 2022b), 
+although “apparent” half-lives were estimated, as firefighters continued 
+to work in PFAS contaminated sites. 
+
+In  general  populations,  the  main  exposure  was  to  PFOA  (Bartell 
+et al., 2010; Brede et al., 2010), PFNA (Yu et al., 2021) or to PFOS and 
+PFHxS (Li et al., 2018, 2022). In workers, the primary exposure was to 
+PFOA  (Costa  et  al.,  2009;  Gomis  et  al.,  2016),  PFOS  (Nilsson  et  al., 
+2022a, 2022b), PFHxS (Xu et al., 2020) or to more than one of them 
+(Olsen et al., 2007), and median measured concentrations were gener-
+ally higher than those observed in general populations. In some studies, 
+half-life  was  estimated  only  for  a  single  compound  measured  in  the 
+participants’  serum;  it  is  the  case  of  PFOA,  with  concentrations  that 
+ranged from 18.8 ng/mL in Italian workers (Costa et al., 2009), to 180 
+ng/mL in exposed populations of the Ohio Valley (Bartell et al., 2010) 
+and  1050  ng/mL  in  occupationally  exposed  ski  waxers  (Gomis  et  al., 
+2016).  In  other  studies,  the  authors  estimated  half-lives  for  per-
+fluorononanoic acid (PFNA) (Yu et al., 2021), perfluorobutanesulfonic 
+acid  (PFBS)  (Olsen  et  al.,  2009)  and  perfluorohexanoic  acid  (PFHxA) 
+(Russell et al., 2013) only. In all the remaining studies, concentrations of 
+several PFAS were measured and half-life estimates were provided for 
+more  than  one  of  them;  in  some  cases,  half-lives  were  estimated  for 
+substances  that  had  relatively  low  initial  concentrations,  with  mean 
+PFOA levels of 1.7 ng/mL (Nilsson et al., 2022a), median PFOS levels of 
+11 ng/mL (Xu et al., 2020) and mean PFHxS levels 14 ng/mL (Nilsson 
+et al., 2022a). In the remaining studies, measured concentrations were 
+extremely  high,  with  mean  PFOA  levels  reaching  up  to  691  ng/mL 
+(Olsen et al., 2007), mean PFOS levels up to 387 ng/mL and mean PFHxS 
+levels up to 353 ng/mL (Li et al., 2018). In most of the included studies 
+(76.9%), with few exceptions (Li et al., 2022; Nilsson et al., 2022a; Xu 
+et  al.,  2020),  information  regarding  background  exposures  was  not 
+provided,  and  the  presence  of  ongoing  exposures  was  not  taken  into 
+account for half-life estimation. 
+
+In all the included studies, PFAS half-life was estimated using one- 
+compartment  models  with  first-order  elimination.  In  this  kinetic 
+model, the body is considered as one homogeneous volume from which 
+PFAS could be absorbed and eliminated according to a constant rate of 
+elimination  that  is  proportional  to  the  concentration  of  PFAS  in  the 
+body. Mathematically, the rate of elimination is described by an expo-
+nential  decay equation,  where  the  concentration  of  the  substance  de-
+creases over time exponentially (Xu et al., 2020). Most of the included 
+studies were evaluated as having “very low”  or “low”  risk of bias for 
+most of the domains presented in the OHAT risk of bias tool; four studies 
+(Costa et al., 2009; Olsen et al., 2009; Russell et al., 2013; Gomis et al., 
+2016) conducted on workers were evaluated as having “probably high” 
+or  “definitely  high”  risk  of  bias  in  3  different  domains:  confounding, 
+
+attrition and statistical methods applied (Table S4). 
+
+Forest  plots  were  made  only  for  the  main  studied  PFAS,  namely 
+PFOA, PFOS, and PFHxS. Moreover, some studies were excluded from 
+the meta-analysis due to their failure to provide all the essential infor-
+mation  required  for  the  estimation  of  half-life.  For  example,  a  study 
+reported only relative reductions in PFAS concentrations and the geo-
+metric mean of PFOA half-life (Brede et al., 2010), providing only its 
+corresponding  range  and  therefore  making  it  impossible  to  retrieve  a 
+confidence  interval  for  their  estimate.  For  PFOS,  the  information 
+available  in  three  studies  (Olsen  et  al.,  2007;  Li  et  al.,  2018;  Nilsson 
+et al., 2022a) regarded total PFOS, while other studies (Xu et al., 2020; 
+Li et al., 2022; Nilsson et al., 2022b) provided information on half-life 
+for  linear  PFOS  (L-PFOS) and  branched  perfluorooctane  sulfonates  (1 
+m-PFOS, 3/4/5 m-PFOS, 2/6 m-PFOS). Total PFOS is calculated as the 
+sum of both the branched and the linear isomers (Londhe et al., 2022), 
+but half-life’s estimates are not provided for the sum of different isomers 
+in all cases (Xu et al., 2020). Therefore, for PFOS isomers, individual 
+forest plots were created. 
+
+Fig.  2  shows  PFOA  half-life  stratified  according  to  the  population 
+category, with estimates of 2.35 years (95% CI: 2.20–2.51, I2 = 43%) in 
+exposed general populations and 2.92 years (95% CI: 1.66–4.19, I2  =
+93%) in exposed workers. Fig. 3 shows results for total PFOS and PFHxS 
+half-life  estimation,  with  half-life  estimates  of  4.77  years  (95%  CI: 
+3.26–6.29, I2  = 97%) and 5.35 years (95% CI: 3.16–7.55, I2  = 93%), 
+respectively.  Figure  S1  shows  the  results  for  different  PFOS  isomers, 
+with half-life estimates of 3.13 years (95% CI: 1.98–4.28) for L-PFOS, 
+3.94 years for 3,4,5 m PFOS, 2.55 years for 2,6 m PFOS and 5.86 years 
+for 1 m-PFOS. In almost all cases, a significant amount of heterogeneity 
+was observed, strongly limiting the interpretability and reliability of the 
+results.  For  PFOA,  a  sensitivity  analysis  was  conducted  excluding  the 
+studies  in  which,  according  to  serum  measured  PFAS  concentrations, 
+PFOA was not the PFAS present at highest concentrations (Figure S2, 1); 
+we also excluded from the forest plot on PFOA half-life those studies that 
+were evaluated as having high risk of bias in key domains of the OHAT 
+tool (Figure S2, 2). However, heterogeneity remained high in both cases. 
+
+4. Discussion 
+
+This systematic review and meta-analysis included 13 studies with 
+relatively small sample sizes, mainly conducted in Europe and USA and 
+involving both general populations and workers exposed to PFAS. Half- 
+life estimates were 2.73 years for PFOA (range: 1.48–5.1 years), 4.70 
+years for PFOS (range: 1.69–5.7 years), and 5.31 years for PFHxS (range: 
+2.84–8.5  years).  The  long  half-lives  observed  for  these  compounds 
+should  be  interpreted  considering  their  chemical  properties,  which 
+contribute to their resistance against metabolic degradation and varying 
+solubility (East et al., 2023). The defining feature of PFAS lies in the C–F 
+bond, recognized as the strongest covalent bond in organic chemistry, 
+which  confers  thermal  stability  to  these  substances.  Additionally,  the 
+hydrophobic and lipophobic nature of PFAS can be primarily attributed 
+to the low polarizability of fluorine atoms, combined with the presence 
+of a stable terminal functional group attached to the fluoroalkyl chain 
+(Gagliano  et  al.,  2020;  Meegoda  et  al.,  2020).  As  the  number  of 
+hydrogen atoms is replaced with fluorine atoms and the carbon-chain 
+length  increases,  PFAS  progressively  exhibit  heightened  chemical 
+inertness. Conversely, a decrease in the carbon-chain length is associ-
+ated with an increase in their water solubility (Kucharzyk et al., 2017). 
+Once  PFAS  enter  into  the  human  body,  they  do  not  undergo 
+metabolization (Kemper and Nabb, 2005) and can be detected in various 
+tissues (P´erez et al., 2013) and blood serum at concentrations typically 
+measured in  ng/mL. PFAS are  predominantly distributed  in the  liver, 
+lung,  serum  and  kidney,  but  they  can  also  be  found  in  fat  and  brain 
+tissues (Jian et al., 2018; Pizzurro et al., 2019). In blood, PFAS bind to 
+serum albumin and liver fatty acid-binding protein (L-FABP) (L. Zhang 
+et al., 2013a, 2013b). Elimination of PFAS from the body is limited, and 
+they do not form conjugates or metabolites. Instead, they are excreted 
+
+EnvironmentalResearch242(2024)1177436I. Rosato et al.                                                                                                                                                                                                                                   
+
+Fig. 2. PFOA mean half-life (years), stratified according to population type.  
+
+Fig. 3. Total PFOS and PFHxS mean half-life (years).  
+
+through  urine,  faeces,  bile,  lactation,  transfer  to  the  fetus  and 
+menstruation  in  women  (De  Silva  et  al.,  2021).  Urinary  excretion, 
+facilitated  by  renal  tubular  organic  anion  transporters  (OATs),  is 
+considered  the  predominant  elimination  route  for  most  PFAS  in  both 
+animal models and human studies (Kudo and Kawashima, 2003). The 
+extended  half-lives  of  long-chain  PFAS,  such  as  PFOA  and  PFOS,  are 
+hypothesized to results from a saturable transport process in the prox-
+imal tubule of the kidney and to the presence of active renal reabsorp-
+tion,  mediated  by  OATs  and  organic  anion-transporter  polypeptides 
+(Nakagawa et al., 2009; Yang et al., 2010; Ducatman et al., 2021). While 
+
+renal elimination processes have been shown to depend on factors like 
+sex,  species  and  PFAS  chain  length,  the  relationship  between  renal 
+secretion, reabsorption and excretion of these substances is complex and 
+has not been thoroughly explored yet (Han et al., 2012; Ducatman et al., 
+2021). 
+
+All included papers employed a first-order elimination model and the 
+interest was focused mostly around PFOA and PFOS, which is consistent 
+with the findings of a recent scoping review of toxicokinetic models that 
+have been put into practice (East et al., 2023). While a one-compartment 
+model  with  first-order  elimination  may  oversimplify  the  complex 
+
+EnvironmentalResearch242(2024)1177437I. Rosato et al.                                                                                                                                                                                                                                   
+
+processes occurring in real-world systems, it provides a useful approxi-
+mation for understanding and predicting the behaviour of substances in 
+terms of their change in concentrations over time. This model is often 
+adopted in pharmacokinetics, toxicology, and environmental science to 
+estimate parameters such as half-life, clearance, and steady-state con-
+centration,  aiding  in  the  interpretation  of  experimental  data  and  risk 
+assessment (Dawson et al., 2023; East et al., 2023). 
+
+additional  explanation  for  the  variations  in  PFOA  half-life  estimates 
+among  the  studies  included.  Despite  these  aspects,  the  results  of  the 
+meta-analysis  can  serve  as  a  starting  point  to  discuss  the  current  un-
+derstanding of PFAS elimination and the methods used to estimate PFAS 
+half-lives. 
+
+4.2. Studies’ limitations and future objectives 
+
+4.1. Sources of heterogeneity 
+
+The  results  of  the  meta-analysis  were  half-lives  of  2.73  (95%  CI: 
+1.99–3.47) years for PFOA, 4.70 (95% CI: 3.27–6.13) years for PFOS and 
+5.31 (95% CI: 3.68–6.94) years for PFHxS; these estimates demonstrate 
+limited interpretability and should be approached with caution, due to 
+the  substantial  level  of  observed  variability  (Imrey,  2020).  Potential 
+sources of heterogeneity were hypothesized, including different initial 
+serum  PFAS  levels,  different  elapsed  periods  of  time  between  the 
+cessation of exposure and the quantification of PFAS in serum samples, 
+and  variations  in  the  characteristics of  the  studied  populations. PFAS 
+toxicokinetic  has  proven  to  be  influenced  by  individual  features  (Li 
+et al., 2022; Nilsson et al., 2022a), and the variability in the specific set 
+of covariates examined across the included studies could contribute to 
+the observed differences in half-life estimates. Some of the most recent 
+studies  evaluated  the  differences  in  half-life  considering  sex,  kidney 
+function and markers of gut inflammation (Li et al., 2022; Nilsson et al., 
+2022a),  but  information  regarding  the  role  of  these  determinants  is 
+limited and needs further evaluation. The longer PFOA half-life that was 
+observed  among  workers  in  our  meta-analysis  could  potentially  be 
+attributed, for instance, to the predominance of males among the worker 
+participants;  as  previously  discussed,  males  typically  exhibit  longer 
+half-lives  compared  to  females  (DeWitt,  2015).  However,  even  when 
+conducting  stratified  analyses  for  PFOA,  differentiating  between 
+exposed  workers  and  exposed  general  population,  there  was  no  sub-
+stantial reduction in heterogeneity. Due to the limited pool of available 
+studies, unfortunately it was not possible to consider other potentially 
+relevant variables for stratified analyses. Additional sensitivity analyses 
+conducted on PFOA half-life with the aim of excluding studies where 
+PFOA  was  not  the  primary  exposure,  failed  to  reduce  the  observed 
+variability. 
+
+In addition, while we deliberately selected observational studies that 
+assessed  the  cessation  of  the  main  exposure  source  to  PFAS,  not  all 
+studies provided information on other sources of exposure (background 
+exposures). The presence of unaccounted sources of exposure makes it 
+challenging to determine the intrinsic half-life because PFAS are nearly 
+ubiquitous, and some degree of ongoing background exposures are ex-
+pected.  Studies  that  did  not  factor  in  background  exposure  by  sub-
+tracting background levels before estimating half-lives (Xu et al., 2020; 
+Li  et  al.,  2022;  Nilsson  et  al.,  2022a)  are  considered  to  provide  an 
+overestimated  result  (Dourson  and  Gadagbui,  2021;  Li  et  al.,  2022). 
+Therefore,  we  considered  estimates  that  incorporated  background 
+exposure subtraction in forest plots whenever feasible. 
+
+Moreover,  although  all  studies  adhered  to  a  shared  toxicokinetic 
+framework  (the  first-order  elimination  model),  it’s  important  to 
+acknowledge  the  possible  differences  in  the  statistical  approaches 
+employed  to  estimate  the  quantities  of  interest,  whether  they  had 
+different assumptions or utilized a different mathematical framework. 
+Furthermore, PFAS exist in various specific forms, including linear and 
+branched configurations, but information regarding the forms consid-
+ered for half-life estimation is not always available in the included pa-
+pers,  with  some  exceptions  (Nilsson  et  al.,  2022b).  Recent  studies 
+included  in  the  review  have  highlighted  marked  differences  in  the 
+half-lives  of  different  PFOS  isomers  (Li  et  al.,  2022;  Nilsson  et  al., 
+2022b),  emphasizing  the  importance  of  epidemiological  studies  that 
+specifically delve into PFAS isomeric configurations. The prevalence of 
+linear isomers over branched isomers might contribute to longer esti-
+mated  half-lives  (Zhang  et  al.,  2013a,  2013b), potentially  offering  an 
+
+The review identified  a limited number of studies  regarding PFAS 
+half-life, and some studies were excluded due to the lack of pertinent 
+information  regarding  the  cessation  of  the  main  exposure,  further 
+restricting the already scarce number of papers on this topic. Some of the 
+studies  conducted  on  workers  were  characterized  by  the  presence  of 
+high or extremely high risk when considering confounding bias. Addi-
+tionally, the number of subjects investigated is relatively modest. When 
+conducting studies to estimate PFAS half-lives, it is of utmost importance 
+to incorporate larger sample sizes, that are adequate to assess variations 
+in the elimination of these substances and the factors influencing their 
+excretion.  Also,  very  limited  information  is  available  regarding  PFAS 
+half-lives in specific subgroups, such as children and adolescents; sub-
+jects  under  18  years  of  age  were  considered  in  a  limited  number  of 
+studies, and none of the studies performed a separate analysis on this 
+specific  group.  Children  and  adolescents  should  be  considered  sepa-
+rately when estimating PFAS half-lives, as they likely have higher PFAS 
+body  burdens  (Lee  et  al.,  2021)  and  it  is  unknown  if  their  excretion 
+patterns are directly comparable with adults (Winkens et al., 2017). 
+
+The task of estimating half-lives of short-chain PFAS and other less- 
+represented compounds within observational studies poses even greater 
+challenges.  Currently,  very  little  information  is  available  for  these 
+compounds, and as a result, no meta-analysis could be performed. It is 
+important to note that PFAS toxicokinetics could also be shaped by the 
+combined  effect  of  joint  exposures.  Humans  are  exposed  to  complex 
+mixtures  of  these  substances,  with  their  combined  effects  potentially 
+being additive, synergistic or antagonistic (Glüge et al., 2020; Panieri 
+et  al.,  2022).  Nonetheless,  there  is  a  lack  of  thorough  investigation 
+regarding the interactions between PFAS compounds, as well as between 
+PFAS  and  other  substances,  which  could  potentially  influence  the 
+half-lives of PFAS within the human body (Ojo et al., 2020; Goodrum 
+et al., 2021). 
+
+5. Conclusion 
+
+Despite the ongoing efforts made to enhance our understanding of 
+PFAS  toxicokinetics,  further  studies  with  larger  sample  sizes  and 
+consistent  methodology  are  still needed to  identify important  charac-
+teristics of these persistent chemicals. The inaccurate reporting of half- 
+lives can carry significant implications, leading to imprecise regulato-
+ry decisions and ineffective methodological strategies in future epide-
+miological studies (Langenbach and Wilson, 2021). 
+
+When  reporting  estimates  for  PFAS  half-lives,  studies  should 
+consistently consider the presence of background and ongoing sources of 
+exposure, while also providing insights into the individual factors that 
+may  influence  PFAS  half-life.  We  strongly  recommend  taking  into 
+consideration  all  the  aspects  presented  in  this  review  to  ensure  the 
+achievement of more accurate estimations of PFAS half-lives. 
+
+Funding 
+
+This  research  did  not  receive  any  specific  grant  from  funding 
+
+agencies in the public, commercial, or not-for-profit sectors. 
+
+Authors contributions 
+
+Isabella Rosato: Conceptualization, Data curation, Formal Analysis, 
+Methodology,  Writing  -  original  draft;  Tiziano Bonato:  Data  curation, 
+Methodology,  Writing  -  original  draft;  Tony  Fletcher:  Methodology, 
+
+EnvironmentalResearch242(2024)1177438I. Rosato et al.                                                                                                                                                                                                                                   
+
+Writing  - review  &  editing;  Erich  Batzella:  Conceptualization,  Formal 
+Analysis,  Methodology,  Writing  -  review  &  editing;  Canova  Cristina: 
+Conceptualization,  Methodology,  Project  administration,  Writing  - re-
+view & editing. 
+
+Declaration of competing interest 
+
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+
+Data availability 
+
+No data was used for the research described in the article. 
+
+Appendix A. Supplementary data 
+
+Supplementary data to this article can be found online at https://doi. 
+
+org/10.1016/j.envres.2023.117743. 
+
+References 
+
+Bartell, S.M., Calafat, A.M., Lyu, C., Kato, K., Ryan, P.B., Steenland, K., 2010. Rate of 
+decline in serum PFOA concentrations after granular activated carbon filtration at 
+two public water systems in Ohio and West Virginia. Environ. Health Perspect. 118, 
+222–228. https://doi.org/10.1289/ehp.0901252. 
+
+Bois, F.Y., Jamei, M., Clewell, H.J., 2010. PBPK modelling of inter-individual variability 
+in the pharmacokinetics of environmental chemicals. Toxicology, Highlights of the 
+2010 Annual Congress of the British Toxicology Society. In: Includes the Abstracts of 
+the British Toxicology Society, vol. 278. Spring, pp. 256–267. https://doi.org/ 
+10.1016/j.tox.2010.06.007, 2010.  
+
+Brede, E., Wilhelm, M., G¨oen, T., Müller, J., Rauchfuss, K., Kraft, M., H¨olzer, J., 2010. 
+Two-year follow-up biomonitoring pilot study of residents’ and controls’ PFC plasma 
+levels after PFOA reduction in public water system in Arnsberg, Germany. Int. J. Hyg 
+Environ. Health 213, 217–223. https://doi.org/10.1016/j.ijheh.2010.03.007. 
+Brendel, S., Fetter, ´E., Staude, C., Vierke, L., Biegel-Engler, A., 2018. Short-chain 
+perfluoroalkyl acids: environmental concerns and a regulatory strategy under 
+REACH. Environ. Sci. Eur. 30, 9. https://doi.org/10.1186/s12302-018-0134-4. 
+Buck, R.C., Franklin, J., Berger, U., Conder, J.M., Cousins, I.T., de Voogt, P., Jensen, A.A., 
+
+Kannan, K., Mabury, S.A., van Leeuwen, S.P., 2011. Perfluoroalkyl and 
+polyfluoroalkyl substances in the environment: terminology, classification, and 
+origins. Integrated Environ. Assess. Manag. 7, 513–541. https://doi.org/10.1002/ 
+ieam.258. 
+
+Calafat, A.M., Kato, K., Hubbard, K., Jia, T., Botelho, J.C., Wong, L.-Y., 2019. Legacy and 
+alternative per- and polyfluoroalkyl substances in the U.S. general population: paired 
+serum-urine data from the 2013-2014 National Health and Nutrition Examination 
+Survey. Environ. Int. 131, 105048 https://doi.org/10.1016/j.envint.2019.105048. 
+
+Chambers, W.S., Hopkins, J.G., Richards, S.M., 2021. A review of per- and 
+
+polyfluorinated alkyl substance impairment of reproduction. Front. Toxicol. 3, 
+732436 https://doi.org/10.3389/ftox.2021.732436. 
+
+Chiu, W.A., Lynch, M.T., Lay, C.R., Antezana, A., Malek, P., Sokolinski, S., Rogers, R.D., 
+2022. Bayesian estimation of human population toxicokinetics of PFOA, PFOS, 
+PFHxS, and PFNA from studies of contaminated drinking water. Environ. Health 
+Perspect. 130, 127001 https://doi.org/10.1289/EHP10103. 
+
+Chou, W.-C., Lin, Z., 2019. Bayesian evaluation of a physiologically based 
+
+pharmacokinetic (PBPK) model for perfluorooctane sulfonate (PFOS) to characterize 
+the interspecies uncertainty between mice, rats, monkeys, and humans: 
+Development and performance verification. Environ. Int. 129, 408–422. https://doi. 
+org/10.1016/j.envint.2019.03.058. 
+
+Costa, G., Sartori, S., Consonni, D., 2009. Thirty years of medical surveillance in 
+
+perfluooctanoic acid production workers. J. Occup. Environ. Med. 51, 364–372. 
+https://doi.org/10.1097/JOM.0b013e3181965d80. 
+
+Cousins, I.T., DeWitt, J.C., Glüge, J., Goldenman, G., Herzke, D., Lohmann, R., Miller, M., 
+Ng, C.A., Scheringer, M., Vierke, L., Wang, Z., 2020. Strategies for grouping per- and 
+polyfluoroalkyl substances (PFAS) to protect human and environmental health. 
+Environ. Sci. Process. Impacts 22, 1444–1460. https://doi.org/10.1039/ 
+d0em00147c. 
+
+Dawson, D.E., Lau, C., Pradeep, P., Sayre, R.R., Judson, R.S., Tornero-Velez, R., 
+
+Wambaugh, J.F., 2023. A machine learning model to estimate toxicokinetic half- 
+lives of per- and polyfluoro-alkyl substances (PFAS) in multiple species. Toxics 11, 
+98. https://doi.org/10.3390/toxics11020098. 
+
+De Silva, A.O., Armitage, J.M., Bruton, T.A., Dassuncao, C., Heiger-Bernays, W., Hu, X.C., 
+K¨arrman, A., Kelly, B., Ng, C., Robuck, A., Sun, M., Webster, T.F., Sunderland, E.M., 
+2021. PFAS exposure pathways for humans and wildlife: a synthesis of current 
+knowledge and key gaps in understanding. Environ. Toxicol. Chem. 40, 631–657. 
+https://doi.org/10.1002/etc.4935. 
+
+DeWitt, J.C. (Ed.), 2015. Toxicological Effects of Perfluoroalkyl and Polyfluoroalkyl 
+
+Substances, Molecular and Integrative Toxicology. Springer International 
+Publishing, Cham. https://doi.org/10.1007/978-3-319-15518-0.  
+
+Ding, N., Harlow, S.D., Batterman, S., Mukherjee, B., Park, S.K., 2020. Longitudinal 
+
+trends in perfluoroalkyl and polyfluoroalkyl substances among multiethnic midlife 
+women from 1999 to 2011: the Study of Women’s Health across the Nation. Environ. 
+Int. 135, 105381 https://doi.org/10.1016/j.envint.2019.105381. 
+
+Domingo, J.L., Nadal, M., 2019. Human exposure to per- and polyfluoroalkyl substances 
+(PFAS) through drinking water: a review of the recent scientific literature. Environ. 
+Res. 177, 108648 https://doi.org/10.1016/j.envres.2019.108648. 
+
+Dourson, M., Gadagbui, B., 2021. The Dilemma of perfluorooctanoate (PFOA) human 
+half-life. Regul. Toxicol. Pharmacol. 126, 105025 https://doi.org/10.1016/j. 
+yrtph.2021.105025. 
+
+Drew, R., Hagen, T.G., Champness, D., Sellier, A., 2022. Half-lives of several 
+
+polyfluoroalkyl substances (PFAS) in cattle serum and tissues. Food Addit. Contam. 
+39, 320–340. https://doi.org/10.1080/19440049.2021.1991004. 
+
+Ducatman, A., Luster, M., Fletcher, T., 2021. Perfluoroalkyl substance excretion: effects 
+of organic anion-inhibiting and resin-binding drugs in a community setting. Environ. 
+Toxicol. Pharmacol. 85, 103650 https://doi.org/10.1016/j.etap.2021.103650. 
+East, A., Dawson, D.E., Brady, S., Vallero, D.A., Tornero-Velez, R., 2023. A scoping 
+assessment of implemented toxicokinetic models of per- and polyfluoro-alkyl 
+substances, with a focus on one-compartment models. Toxics 11, 163. https://doi. 
+org/10.3390/toxics11020163. 
+
+Eick, S.M., Goin, D.E., Chartres, N., Lam, J., Woodruff, T.J., 2020. Assessing risk of bias 
+
+in human environmental epidemiology studies using three tools: different 
+conclusions from different tools. Syst. Rev. 9, 249. https://doi.org/10.1186/s13643- 
+020-01490-8. 
+
+Fan, Y., Li, X., Xu, Q., Zhang, Y., Yang, X., Han, X., Du, G., Xia, Y., Wang, X., Lu, C., 2020. 
+Serum albumin mediates the effect of multiple per- and polyfluoroalkyl substances 
+on serum lipid levels. Environ. Pollut. Barking Essex 266, 115138. https://doi.org/ 
+10.1016/j.envpol.2020.115138, 1987.  
+
+Fenton, S.E., Ducatman, A., Boobis, A., DeWitt, J.C., Lau, C., Ng, C., Smith, J.S., 
+
+Roberts, S.M., 2021. Per- and polyfluoroalkyl substance toxicity and human health 
+review: current state of knowledge and strategies for informing future research. 
+Environ. Toxicol. Chem. 40, 606–630. https://doi.org/10.1002/etc.4890. 
+
+Fletcher, T., Andersson, A., Li, Y., Xu, Y., Lindh, C.H., K¨arrman, A., Jakobsson, K., 2022. 
+The relative importance of faecal and urinary excretion of PFAS and implications for 
+epidemiological studies. ISEE Conf. https://doi.org/10.1289/isee.2022.O-OP-024. 
+Abstr.  
+
+Fu, J., Gao, Y., Cui, L., Wang, T., Liang, Y., Qu, G., Yuan, B., Wang, Y., Zhang, A., 
+
+Jiang, G., 2016. Occurrence, temporal trends, and half-lives of perfluoroalkyl acids 
+(PFAAs) in occupational workers in China. Sci. Rep. 6, 38039 https://doi.org/ 
+10.1038/srep38039. 
+
+Fujii, Y., Niisoe, T., Harada, K.H., Uemoto, S., Ogura, Y., Takenaka, K., Koizumi, A., 
+
+2015. Toxicokinetics of perfluoroalkyl carboxylic acids with different carbon chain 
+lengths in mice and humans. J. Occup. Health 57, 1–12. https://doi.org/10.1539/ 
+joh.14-0136-OA. 
+
+Gagliano, E., Sgroi, M., Falciglia, P.P., Vagliasindi, F.G.A., Roccaro, P., 2020. Removal of 
+poly- and perfluoroalkyl substances (PFAS) from water by adsorption: role of PFAS 
+chain length, effect of organic matter and challenges in adsorbent regeneration. 
+Water Res. 171, 115381 https://doi.org/10.1016/j.watres.2019.115381. 
+
+Gao, Y., Fu, J., Cao, H., Wang, Y., Zhang, A., Liang, Y., Wang, T., Zhao, C., Jiang, G., 
+2015. Differential accumulation and elimination behavior of perfluoroalkyl Acid 
+isomers in occupational workers in a manufactory in China. Environ. Sci. Technol. 
+49, 6953–6962. https://doi.org/10.1021/acs.est.5b00778. 
+
+Gebbink, W.A., Glynn, A., Berger, U., 2015. Temporal changes (1997-2012) of 
+
+perfluoroalkyl acids and selected precursors (including isomers) in Swedish human 
+serum. Environ. Pollut. Barking Essex 199, 166–173. https://doi.org/10.1016/j. 
+envpol.2015.01.024, 1987.  
+
+Giesy, J.P., Kannan, K., 2001. Global distribution of perfluorooctane sulfonate in wildlife. 
+
+Environ. Sci. Technol. 35, 1339–1342. https://doi.org/10.1021/es001834k. 
+Glüge, J., Scheringer, M., Cousins, T., C, I., DeWitt, J., Goldenman, G., Herzke, D., 
+
+Lohmann, R., A Ng, C., Trier, X., Wang, Z., 2020. An overview of the uses of per- and 
+polyfluoroalkyl substances (PFAS). Environ. Sci. Process. Impacts 22, 2345–2373. 
+https://doi.org/10.1039/D0EM00291G. 
+
+Glynn, A., Berger, U., Bignert, A., Ullah, S., Aune, M., Lignell, S., Darnerud, P.O., 2012. 
+Perfluorinated alkyl acids in blood serum from primiparous women in Sweden: serial 
+sampling during pregnancy and nursing, and temporal trends 1996-2010. Environ. 
+Sci. Technol. 46, 9071–9079. https://doi.org/10.1021/es301168c. 
+
+G¨ockener, B., Weber, T., Rüdel, H., Bücking, M., Kolossa-Gehring, M., 2020. Human 
+biomonitoring of per- and polyfluoroalkyl substances in German blood plasma 
+samples from 1982 to 2019. Environ. Int. 145, 106123 https://doi.org/10.1016/j. 
+envint.2020.106123. 
+
+Gomis, M.I., Vestergren, R., MacLeod, M., Mueller, J.F., Cousins, I.T., 2017. Historical 
+
+human exposure to perfluoroalkyl acids in the United States and Australia 
+reconstructed from biomonitoring data using population-based pharmacokinetic 
+modelling. Environ. Int. 108, 92–102. https://doi.org/10.1016/j. 
+envint.2017.08.002. 
+
+Gomis, M.I., Vestergren, R., Nilsson, H., Cousins, I.T., 2016. Contribution of direct and 
+
+indirect exposure to human serum concentrations of perfluorooctanoic acid in an 
+occupationally exposed group of ski waxers. Environ. Sci. Technol. 50, 7037–7046. 
+https://doi.org/10.1021/acs.est.6b01477. 
+
+Goodrum, P.E., Anderson, J.K., Luz, A.L., Ansell, G.K., 2021. Application of a Framework 
+
+for Grouping and Mixtures Toxicity Assessment of PFAS: A Closer Examination of 
+Dose-Additivity Approaches. Toxicol. Sci. 179, 262–278. https://doi.org/10. 
+1093/toxsci/kfaa123. 
+
+Gribble, M.O., Bartell, S.M., Kannan, K., Wu, Q., Fair, P.A., Kamen, D.L., 2015. 
+
+Longitudinal measures of perfluoroalkyl substances (PFAS) in serum of Gullah 
+
+EnvironmentalResearch242(2024)1177439I. Rosato et al.                                                                                                                                                                                                                                   
+
+African Americans in South Carolina: 2003-2013. Environ. Res. 143, 82–88. https:// 
+doi.org/10.1016/j.envres.2015.03.012. 
+
+Swedish adolescents. Environ. Int. 155, 106716 https://doi.org/10.1016/j. 
+envint.2021.106716. 
+
+Hallare, J., Gerriets, V., 2022. Half life. In: StatPearls. StatPearls Publishing, Treasure 
+
+OHAT, N., 2015. OHAT Risk of Bias Rating Tool for Human and Animal Studies. US Dep. 
+
+Island (FL).  
+
+Health Hum, Serv.  
+
+Han, X., Nabb, D.L., Russell, M.H., Kennedy, G.L., Rickard, R.W., 2012. Renal elimination 
+of perfluorocarboxylates (PFCAs). Chem. Res. Toxicol. 25, 35–46. https://doi.org/ 
+10.1021/tx200363w. 
+
+Harada, K., Inoue, K., Morikawa, A., Yoshinaga, T., Saito, N., Koizumi, A., 2005. Renal 
+clearance of perfluorooctane sulfonate and perfluorooctanoate in humans and their 
+species-specific excretion. Environ. Res. 99, 253–261. https://doi.org/10.1016/j. 
+envres.2004.12.003. 
+
+Harada, K.H., Hashida, S., Kaneko, T., Takenaka, K., Minata, M., Inoue, K., Saito, N., 
+
+Koizumi, A., 2007. Biliary excretion and cerebrospinal fluid partition of 
+perfluorooctanoate and perfluorooctane sulfonate in humans. Environ. Toxicol. 
+Pharmacol. 24, 134–139. https://doi.org/10.1016/j.etap.2007.04.003. 
+
+Higgins, J.P.T., Thompson, S.G., Deeks, J.J., Altman, D.G., 2003. Measuring 
+
+inconsistency in meta-analyses. BMJ 327, 557–560. https://doi.org/10.1136/ 
+bmj.327.7414.557. 
+
+Imrey, P.B., 2020. Limitations of meta-analyses of studies with high heterogeneity. JAMA 
+Netw. Open 3, e1919325. https://doi.org/10.1001/jamanetworkopen.2019.19325. 
+Jian, J.-M., Chen, D., Han, F.-J., Guo, Y., Zeng, L., Lu, X., Wang, F., 2018. A short review 
+on human exposure to and tissue distribution of per- and polyfluoroalkyl substances 
+(PFASs). Sci. Total Environ. 636, 1058–1069. https://doi.org/10.1016/j. 
+scitotenv.2018.04.380. 
+
+Kemper, R.A., Nabb, D.L., 2005. In vitro studies in microsomes from rat and human liver, 
+kidney, and intestine suggest that perfluorooctanoic acid is not a substrate for 
+microsomal UDP-glucuronosyltransferases. Drug Chem. Toxicol. 28, 281–287. 
+https://doi.org/10.1081/dct-200064468. 
+
+Kim, K., Bennett, D.H., Calafat, A.M., Hertz-Picciotto, I., Shin, H.-M., 2020. Temporal 
+trends and determinants of serum concentrations of per- and polyfluoroalkyl 
+substances among Northern California mothers with a young child, 2009–2016. 
+Environ. Res. 186, 109491 https://doi.org/10.1016/j.envres.2020.109491. 
+
+Kucharzyk, K.H., Darlington, R., Benotti, M., Deeb, R., Hawley, E., 2017. Novel treatment 
+technologies for PFAS compounds: a critical review. J. Environ. Manag. 204, 
+757–764. https://doi.org/10.1016/j.jenvman.2017.08.016. 
+
+Kudo, N., Kawashima, Y., 2003. Toxicity and toxicokinetics of perfluorooctanoic acid in 
+humans and animals. J. Toxicol. Sci. 28, 49–57. https://doi.org/10.2131/jts.28.49. 
+Kwiatkowski, C.F., Andrews, D.Q., Birnbaum, L.S., Bruton, T.A., DeWitt, J.C., Knappe, D. 
+
+R.U., Maffini, M.V., Miller, M.F., Pelch, K.E., Reade, A., Soehl, A., Trier, X., 
+Venier, M., Wagner, C.C., Wang, Z., Blum, A., 2020. Scientific basis for managing 
+PFAS as a chemical class. Environ. Sci. Technol. Lett. 7, 532–543. https://doi.org/ 
+10.1021/acs.estlett.0c00255. 
+
+Langenbach, B., Wilson, M., 2021. Per- and polyfluoroalkyl substances (PFAS): 
+
+significance and considerations within the regulatory framework of the USA. Int. J. 
+Environ. Res. Publ. Health 18, 11142. https://doi.org/10.3390/ijerph182111142. 
+
+Lee, Y.J., Jung, H.W., Kim, H.Y., Choi, Y.-J., Lee, Y.A., 2021. Early-life exposure to per- 
+
+and poly-fluorinated alkyl substances and growth, adiposity, and puberty in 
+children: a systematic review. Front. Endocrinol. 12. 
+
+Li, Y., Andersson, A., Xu, Y., Pineda, D., Nilsson, C.A., Lindh, C.H., Jakobsson, K., 
+
+Fletcher, T., 2022. Determinants of serum half-lives for linear and branched 
+perfluoroalkyl substances after long-term high exposure—a study in Ronneby, 
+Sweden. Environ. Int. 163, 107198 https://doi.org/10.1016/j.envint.2022.107198. 
+
+Li, Y., Fletcher, T., Mucs, D., Scott, K., Lindh, C.H., Tallving, P., Jakobsson, K., 2018. 
+
+Half-lives of PFOS, PFHxS and PFOA after end of exposure to contaminated drinking 
+water. Occup. Environ. Med. 75, 46–51. https://doi.org/10.1136/oemed-2017- 
+104651. 
+
+Ojo, A.F., Peng, C., Ng, J.C., 2020. Combined effects and toxicological interactions of 
+perfluoroalkyl and polyfluoroalkyl substances mixtures in human liver cells 
+(HepG2). Environ. Pollut. Barking Essex. 263, 114182 https://doi.org/10.1016/j. 
+envpol.2020.114182, 1987.  
+
+Olsen, G.W., Burris, J.M., Ehresman, D.J., Froehlich, J.W., Seacat, A.M., Butenhoff, J.L., 
+Zobel, L.R., 2007. Half-life of serum elimination of perfluorooctanesulfonate, 
+perfluorohexanesulfonate, and perfluorooctanoate in retired fluorochemical 
+production workers. Environ. Health Perspect. 115, 1298–1305. https://doi.org/ 
+10.1289/ehp.10009. 
+
+Olsen, G.W., Chang, S.-C., Noker, P.E., Gorman, G.S., Ehresman, D.J., Lieder, P.H., 
+
+Butenhoff, J.L., 2009. A comparison of the pharmacokinetics of 
+perfluorobutanesulfonate (PFBS) in rats, monkeys, and humans. Toxicology 256, 
+65–74. https://doi.org/10.1016/j.tox.2008.11.008. 
+
+Olsen, G.W., Lange, C.C., Ellefson, M.E., Mair, D.C., Church, T.R., Goldberg, C.L., 
+Herron, R.M., Medhdizadehkashi, Z., Nobiletti, J.B., Rios, J.A., Reagen, W.K., 
+Zobel, L.R., 2012. Temporal trends of perfluoroalkyl concentrations in American Red 
+Cross adult blood donors, 2000-2010. Environ. Sci. Technol. 46, 6330–6338. https:// 
+doi.org/10.1021/es300604p. 
+
+Olsen, G.W., Mair, D.C., Church, T.R., Ellefson, M.E., Reagen, W.K., Boyd, T.M., 
+
+Herron, R.M., Medhdizadehkashi, Z., Nobiletti, J.B., Rios, J.A., Butenhoff, J.L., 
+Zobel, L.R., 2008. Decline in perfluorooctanesulfonate and other polyfluoroalkyl 
+chemicals in American Red Cross adult blood donors, 2000-2006. Environ. Sci. 
+Technol. 42, 4989–4995. https://doi.org/10.1021/es800071x. 
+
+Page, M.J., McKenzie, J.E., Bossuyt, P.M., Boutron, I., Hoffmann, T.C., Mulrow, C.D., 
+Shamseer, L., Tetzlaff, J.M., Akl, E.A., Brennan, S.E., Chou, R., Glanville, J., 
+Grimshaw, J.M., Hr´objartsson, A., Lalu, M.M., Li, T., Loder, E.W., Mayo-Wilson, E., 
+McDonald, S., McGuinness, L.A., Stewart, L.A., Thomas, J., Tricco, A.C., Welch, V.A., 
+Whiting, P., Moher, D., 2021. The PRISMA 2020 statement: an updated guideline for 
+reporting systematic reviews. BMJ 372, n71. https://doi.org/10.1136/bmj.n71. 
+
+Panieri, E., Baralic, K., Djukic-Cosic, D., Buha Djordjevic, A., Saso, L., 2022. PFAS 
+
+molecules: a major concern for the human health and the environment. Toxics 10, 
+44. https://doi.org/10.3390/toxics10020044. 
+
+Pasecnaja, E., Bartkevics, V., Zacs, D., 2022. Occurrence of selected per- and 
+
+polyfluorinated alkyl substances (PFASs) in food available on the European market – 
+a review on levels and human exposure assessment. Chemosphere 287, 132378. 
+https://doi.org/10.1016/j.chemosphere.2021.132378. 
+
+Pelch, K.E., Reade, A., Wolffe, T.A.M., Kwiatkowski, C.F., 2019. PFAS health effects 
+
+database: protocol for a systematic evidence map. Environ. Int. 130, 104851 https:// 
+doi.org/10.1016/j.envint.2019.05.045. 
+
+P´erez, F., Nadal, M., Navarro-Ortega, A., F`abrega, F., Domingo, J.L., Barcel´o, D., 
+Farr´e, M., 2013. Accumulation of perfluoroalkyl substances in human tissues. 
+Environ. Int. 59, 354–362. https://doi.org/10.1016/j.envint.2013.06.004. 
+Pitter, G., Da Re, F., Canova, C., Barbieri, G., Zare Jeddi, M., Dapr`a, F., Manea, F., 
+Zolin, R., Bettega, A.M., Stopazzolo, G., Vittorii, S., Zambelli, L., Martuzzi, M., 
+Mantoan, D., Russo, F., 2020. Serum levels of perfluoroalkyl substances (PFAS) in 
+adolescents and young adults exposed to contaminated drinking water in the veneto 
+region, Italy: a cross-sectional study based on a health surveillance program. 
+Environ. Health Perspect. 128, 27007 https://doi.org/10.1289/EHP5337. 
+
+Pizzurro, D.M., Seeley, M., Kerper, L.E., Beck, B.D., 2019. Interspecies differences in 
+perfluoroalkyl substances (PFAS) toxicokinetics and application to health-based 
+criteria. Regul. Toxicol. Pharmacol. 106, 239–250. https://doi.org/10.1016/j. 
+yrtph.2019.05.008. 
+
+Londhe, K., Lee, C.-S., McDonough, C.A., Venkatesan, A.K., 2022. The need for testing 
+isomer profiles of perfluoroalkyl substances to evaluate treatment processes. 
+Environ. Sci. Technol. 56, 15207–15219. https://doi.org/10.1021/acs.est.2c05518. 
+
+Post, G.B., 2021. Recent US state and federal drinking water guidelines for per- and 
+
+polyfluoroalkyl substances. Environ. Toxicol. Chem. 40, 550–563. https://doi.org/ 
+10.1002/etc.4863. 
+
+Meegoda, J.N., Kewalramani, J.A., Li, B., Marsh, R.W., 2020. A review of the 
+
+applications, environmental release, and remediation technologies of per- and 
+polyfluoroalkyl substances. Int. J. Environ. Res. Publ. Health 17, 8117. https://doi. 
+org/10.3390/ijerph17218117. 
+
+Munn, Z., Stern, C., Aromataris, E., Lockwood, C., Jordan, Z., 2018. What kind of 
+systematic review should I conduct? A proposed typology and guidance for 
+systematic reviewers in the medical and health sciences. BMC Med. Res. Methodol. 
+18, 5. https://doi.org/10.1186/s12874-017-0468-4. 
+
+Nakagawa, H., Terada, T., Harada, K.H., Hitomi, T., Inoue, K., Inui, K.-I., Koizumi, A., 
+2009. Human organic anion transporter hOAT4 is a transporter of perfluorooctanoic 
+acid. Basic Clin. Pharmacol. Toxicol. 105, 136–138. https://doi.org/10.1111/j.1742- 
+7843.2009.00409.x. 
+
+Nguyen, V.K., Colacino, J.A., Arnot, J.A., Kvasnicka, J.I., Jolliet, O., 2019. 
+
+Characterization of age-based trends to identify chemical biomarkers of higher levels 
+in children. Environ. Int. 122, 117–129. https://doi.org/10.1016/j. 
+envint.2018.10.042. 
+
+Nilsson, S., Smurthwaite, K., Aylward, L.L., Kay, M., Toms, L.M., King, L., Marrington, S., 
+Barnes, C., Kirk, M.D., Mueller, J.F., Br¨aunig, J., 2022a. Serum concentration trends 
+and apparent half-lives of per- and polyfluoroalkyl substances (PFAS) in Australian 
+firefighters. Int. J. Hyg Environ. Health 246, 114040. https://doi.org/10.1016/j. 
+ijheh.2022.114040. 
+
+Nilsson, S., Thompson, J., Mueller, J.F., Br¨aunig, J., 2022b. Apparent half-lives of 
+chlorinated-perfluorooctane sulfonate and perfluorooctane sulfonate isomers in 
+aviation firefighters. Environ. Sci. Technol. 56, 17052–17060. https://doi.org/ 
+10.1021/acs.est.2c04637. 
+
+Nor´en, E., Lindh, C., Glynn, A., Rylander, L., Pineda, D., Nielsen, C., 2021. Temporal 
+trends, 2000-2017, of perfluoroalkyl acid (PFAA) concentrations in serum of 
+
+R Core Team, 2022. R: A Language and Environment for Statistical Computing. 
+Rickard, B.P., Rizvi, I., Fenton, S.E., 2022. Per- and poly-fluoroalkyl substances (PFAS) 
+and female reproductive outcomes: PFAS elimination, endocrine-mediated effects, 
+and disease. Toxicology 465, 153031. https://doi.org/10.1016/j.tox.2021.153031. 
+Roberts, P.M., n.d. A Critical Review of Pharmacokinetic Modelling of PFOS and PFOA to 
+
+Assist in Establishing HGBVs for These Chemicals. 
+
+Rogers, R.D., Reh, C.M., Breysse, P., 2021. Advancing per- and polyfluoroalkyl 
+
+substances (PFAS) research: an overview of ATSDR and NCEH activities and 
+recommendations. J. Expo. Sci. Environ. Epidemiol. 31, 961–971. https://doi.org/ 
+10.1038/s41370-021-00316-6. 
+
+Russell, M.H., Nilsson, H., Buck, R.C., 2013. Elimination kinetics of perfluorohexanoic 
+acid in humans and comparison with mouse, rat and monkey. Chemosphere 93, 
+2419–2425. https://doi.org/10.1016/j.chemosphere.2013.08.060. 
+
+Russell, M.H., Waterland, R.L., Wong, F., 2015. Calculation of chemical elimination half- 
+life from blood with an ongoing exposure source: the example of perfluorooctanoic 
+acid (PFOA). Chemosphere 129, 210–216. https://doi.org/10.1016/j. 
+chemosphere.2014.07.061. 
+
+Schrenk, D., Bignami, M., Bodin, L., Chipman, J.K., del Mazo, J., Grasl-Kraupp, B., 
+Hogstrand, C., Hoogenboom, L. (Ron), Leblanc, J.-C., Nebbia, C.S., Nielsen, E., 
+Ntzani, E., Petersen, A., Sand, S., Vleminckx, C., Wallace, H., Barregård, L., 
+Ceccatelli, S., Cravedi, J.-P., Halldorsson, T.I., Haug, L.S., Johansson, N., Knutsen, H. 
+K., Rose, M., Roudot, A.-C., Van Loveren, H., Vollmer, G., Mackay, K., Riolo, F., 
+Schwerdtle, T., 2020. Risk to human health related to the presence of perfluoroalkyl 
+substances in food. EFSA J. 18, e06223 https://doi.org/10.2903/j.efsa.2020.6223. 
+Shi, Y., Vestergren, R., Xu, L., Zhou, Z., Li, C., Liang, Y., Cai, Y., 2016. Human exposure 
+and elimination kinetics of chlorinated polyfluoroalkyl ether sulfonic acids (Cl- 
+PFESAs). Environ. Sci. Technol. 50 https://doi.org/10.1021/acs.est.5b05849. 
+
+EnvironmentalResearch242(2024)11774310I. Rosato et al.                                                                                                                                                                                                                                   
+
+Smith, D.A., Beaumont, K., Maurer, T.S., Di, L., 2018. Relevance of half-life in drug 
+
+Worley, R.R., Moore, S.M., Tierney, B.C., Ye, X., Calafat, A.M., Campbell, S., 
+
+design. J. Med. Chem. 61, 4273–4282. https://doi.org/10.1021/acs. 
+jmedchem.7b00969. 
+
+Spliethoff, H.M., Tao, L., Shaver, S.M., Aldous, K.M., Pass, K.A., Kannan, K., Eadon, G.A., 
+2008. Use of newborn screening program blood spots for exposure assessment: 
+declining levels of perluorinated compounds in New York State infants. Environ. Sci. 
+Technol. 42, 5361–5367. https://doi.org/10.1021/es8006244. 
+
+Su, A., Rajan, K., 2021. A database framework for rapid screening of structure-function 
+relationships in PFAS chemistry. Sci. Data 8, 14. https://doi.org/10.1038/s41597- 
+021-00798-x. 
+
+Sunderland, E.M., Hu, X.C., Dassuncao, C., Tokranov, A.K., Wagner, C.C., Allen, J.G., 
+
+2019. A review of the pathways of human exposure to poly- and perfluoroalkyl 
+substances (PFASs) and present understanding of health effects. J. Expo. Sci. 
+Environ. Epidemiol. 29, 131–147. https://doi.org/10.1038/s41370-018-0094-1. 
+Synthesis paper on per and polyfluorinated chemicals - OECD [WWW Document], n.d. 
+
+URL https://www.oecd.org/chemicalsafety/risk-management/synthesis-paper-on- 
+per-and-polyfluorinated-chemicals.htm (accessed 6.26.23). 
+
+Toms, L.M.L., Br¨aunig, J., Vijayasarathy, S., Phillips, S., Hobson, P., Aylward, L.L., 
+Kirk, M.D., Mueller, J.F., 2019. Per- and polyfluoroalkyl substances (PFAS) in 
+Australia: current levels and estimated population reference values for selected 
+compounds. Int. J. Hyg Environ. Health 222, 387–394. https://doi.org/10.1016/j. 
+ijheh.2019.03.004. 
+
+Tonnelier, A., Coecke, S., Zaldívar, J.-M., 2012. Screening of chemicals for human 
+
+bioaccumulative potential with a physiologically based toxicokinetic model. Arch. 
+Toxicol. 86, 393–403. https://doi.org/10.1007/s00204-011-0768-0. 
+
+US EPA, O., 2021. Our Current Understanding of the Human Health and Environmental 
+Risks of PFAS [WWW Document]. URL. https://www.epa.gov/pfas/our-current 
+-understanding-human-health-and-environmental-risks-pfas. accessed 1.20.23.  
+Wang, Z., Buser, A.M., Cousins, I.T., Demattio, S., Drost, W., Johansson, O., Ohno, K., 
+Patlewicz, G., Richard, A.M., Walker, G.W., White, G.S., Leinala, E., 2021. A new 
+OECD definition for per- and polyfluoroalkyl substances. Environ. Sci. Technol. 55, 
+15575–15578. https://doi.org/10.1021/acs.est.1c06896. 
+
+Winkens, K., Vestergren, R., Berger, U., Cousins, I.T., 2017. Early life exposure to per- 
+and polyfluoroalkyl substances (PFASs): a critical review. Emerging Contam. 3, 
+55–68. https://doi.org/10.1016/j.emcon.2017.05.001. 
+
+Wong, F., MacLeod, M., Mueller, J.F., Cousins, I.T., 2014. Enhanced elimination of 
+
+perfluorooctane sulfonic acid by menstruating women: evidence from population- 
+based pharmacokinetic modeling. Environ. Sci. Technol. 48, 8807–8814. https:// 
+doi.org/10.1021/es500796y. 
+
+Woudneh, M.B., Fisher, J., 2017. Per- and polyfluoroalkyl substances in human 
+serum and urine samples from a residentially exposed community. Environ. Int. 106, 
+135–143. https://doi.org/10.1016/j.envint.2017.06.007. 
+
+Xu, Y., Fletcher, T., Pineda, D., Lindh, C.H., Nilsson, C., Glynn, A., Vogs, C., Norstr¨om, K., 
+Lilja, K., Jakobsson, K., Li, Y., 2020. Serum half-lives for short- and long-chain 
+perfluoroalkyl acids after ceasing exposure from drinking water contaminated by 
+firefighting foam. Environ. Health Perspect. 128, 77004 https://doi.org/10.1289/ 
+EHP6785. 
+
+Yang, C.-H., Glover, K.P., Han, X., 2010. Characterization of cellular uptake of 
+
+perfluorooctanoate via organic anion-transporting polypeptide 1A2, organic anion 
+transporter 4, and urate transporter 1 for their potential roles in mediating human 
+renal reabsorption of perfluorocarboxylates. Toxicol. Sci. Off. J. Soc. Toxicol. 117, 
+294–302. https://doi.org/10.1093/toxsci/kfq219. 
+
+Yu, C.H., Weisel, C.P., Alimokhtari, S., Georgopoulos, P.G., Fan, Z.T., 2021. 
+
+Biomonitoring: a tool to assess PFNA body burdens and evaluate the effectiveness of 
+drinking water intervention for communities in New Jersey. Int. J. Hyg Environ. 
+Health 235, 113757. https://doi.org/10.1016/j.ijheh.2021.113757. 
+
+Zhang, L., Ren, X.-M., Guo, L.-H., 2013a. Structure-based investigation on the interaction 
+of perfluorinated compounds with human liver fatty acid binding protein. Environ. 
+Sci. Technol. 47, 11293–11301. https://doi.org/10.1021/es4026722. 
+
+Zhang, S., Kang, Q., Peng, H., Ding, M., Zhao, F., Zhou, Y., Dong, Z., Zhang, H., Yang, M., 
+Tao, S., Hu, J., 2019. Relationship between perfluorooctanoate and perfluorooctane 
+sulfonate blood concentrations in the general population and routine drinking water 
+exposure. Environ. Int. 126, 54–60. https://doi.org/10.1016/j.envint.2019.02.009. 
+Zhang, T., Sun, H., Qin, X., Gan, Z., Kannan, K., 2015. PFOS and PFOA in paired urine 
+
+and blood from general adults and pregnant women: assessment of urinary 
+elimination. Environ. Sci. Pollut. Res. Int. 22, 5572–5579. https://doi.org/10.1007/ 
+s11356-014-3725-7. 
+
+Zhang, Y., Beesoon, S., Zhu, L., Martin, J.W., 2013b. Biomonitoring of perfluoroalkyl 
+
+acids in human urine and estimates of biological half-life. Environ. Sci. Technol. 47, 
+10619–10627. https://doi.org/10.1021/es401905e. 
+
+Zhao, L., Teng, M., Zhao, X., Li, Y., Sun, J., Zhao, W., Ruan, Y., Leung, K.M.Y., Wu, F., 
+2023. Insight into the binding model of per- and polyfluoroalkyl substances to 
+proteins and membranes. Environ. Int. 175, 107951 https://doi.org/10.1016/j. 
+envint.2023.107951. 
+
+Zhou, Z., Shi, Y., Vestergren, R., Wang, T., Liang, Y., Cai, Y., 2014. Highly elevated serum 
+concentrations of perfluoroalkyl substances in fishery employees from Tangxun lake, 
+China. Environ. Sci. Technol. 48, 3864–3874. https://doi.org/10.1021/es4057467. 
+
+EnvironmentalResearch242(2024)11774311

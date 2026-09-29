@@ -1,0 +1,2976 @@
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+HHS Public Access
+Author manuscript
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+Published in final edited form as:
+
+Environ Sci Technol. 2025 July 08; 59(26): 13240–13250. doi:10.1021/acs.est.5c05473.
+
+Understanding Mechanisms of PFAS Absorption, Distribution, 
+and Elimination Using a Physiologically Based Toxicokinetic 
+Model
+
+Fabian C. Fischer,
+Harvard John A. Paulson School of Engineering and Applied Sciences, Harvard University, 
+Cambridge, Massachusetts 02138, United States; Department of Biomedical and Pharmaceutical 
+Sciences, University of Rhode Island, Kingston, Rhode Island 02881, United States
+
+Colin Thackray,
+Harvard John A. Paulson School of Engineering and Applied Sciences, Harvard University, 
+Cambridge, Massachusetts 02138, United States
+
+Nicholas Ferguson,
+Department of Biomedical and Pharmaceutical Sciences, University of Rhode Island, Kingston, 
+Rhode Island 02881, United States
+
+Christian Chicoine,
+Department of Biomedical and Pharmaceutical Sciences, University of Rhode Island, Kingston, 
+Rhode Island 02881, United States
+
+Olga Skende,
+Department of Biomedical and Pharmaceutical Sciences, University of Rhode Island, Kingston, 
+Rhode Island 02881, United States
+
+Zhiji Hu,
+Harvard John A. Paulson School of Engineering and Applied Sciences, Harvard University, 
+Cambridge, Massachusetts 02138, United States
+
+Yumin Zhu,
+Harvard John A. Paulson School of Engineering and Applied Sciences, Harvard University, 
+Cambridge, Massachusetts 02138, United States
+
+Angela Slitt,
+Department of Biomedical and Pharmaceutical Sciences, University of Rhode Island, Kingston, 
+Rhode Island 02881, United States
+
+Elsie M. Sunderland
+Harvard John A. Paulson School of Engineering and Applied Sciences and Department of Earth 
+and Planetary Sciences, Harvard University, Cambridge, Massachusetts 02138, United States
+
+Corresponding Author: Fabian C. Fischer – Harvard John A. Paulson School of Engineering and Applied Sciences, Harvard 
+University, Cambridge, Massachusetts 02138, United States; Department of Biomedical and Pharmaceutical Sciences, University of 
+Rhode Island, Kingston, Rhode Island 02881, United States; fabian.fischer@uri.edu. 
+The authors declare no competing financial interest.
+
+Complete contact information is available at: https://pubs.acs.org/10.1021/acs.est.5c05473
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Abstract
+
+Page 2
+
+Exposures to some per- and polyfluoroalkyl substances (PFAS), including perfluoroalkyl acids 
+(PFAA), have been associated with diverse adverse health effects. Physicochemical properties of 
+PFAA are known to influence their toxicokinetics in mammals, but mechanistic models capable 
+of identifying the key drivers of absorption, distribution, and elimination are limited. Here, we 
+develop and evaluate a physiologically based toxicokinetic (PBTK) model parameterized to an 
+in vivo mouse model using data from in vitro studies. We simulated tissue concentrations of 
+9 PFAA with perfluorinated carbon chains  ηpfc  ranging from 4 to 10 in wild-type mice, and 
+for perfluorooctanesulfonic acid in knockout mice, following intravenous and oral exposures. 
+The PBTK model quantifies blood flow, binding to tissue proteins and phospholipids, membrane 
+permeability, hepatic and renal transporters, and fecal and urinary excretion. Model evaluation 
+comparing experimental and simulated mice blood and tissue concentrations showed R2 values 
+of ≥ 0.65 and relative root-mean-square errors of ≤ 122% for most PFAA. Model sensitivity 
+analyses showed that permeability and phospholipid binding strongly influenced the elimination 
+and distribution of long-chain PFAA  ηpfc ≥ 7 , while elimination for short-chain PFAA  ηpfc ≤ 6
+was more sensitive to renal transporters and albumin binding. This study illustrates how 
+integrating in vitro-derived parameters into PBTK models enables mechanistic evaluation of PFAS 
+toxicokinetics across diverse compounds and physiological conditions.
+
+Graphical Abstract
+
+Keywords
+
+PFAS; tissue distribution; toxicokinetic modeling; elimination; mouse model
+
+1. 
+
+INTRODUCTION
+
+Per- and polyfluoroalkyl substances (PFAS) are widely used in industrial and consumer 
+applications for their surfactant and other properties.1 Their ubiquitous presence in 
+drinking water, food packaging, and consumer products2 has resulted in detectable PFAS 
+concentrations in 98–99% of U.S. individuals.3,4 PFAS exposure has been linked to 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 3
+
+adverse effects on human health such as immunotoxicity,5 increased cancer risk,6 and 
+metabolic disruption.7 However, factors governing the relationship between external PFAS 
+exposures and internal concentrations at active sites where toxicity is elicited remain poorly 
+understood.
+
+Perfluoroalkyl acids (PFAA) are the most well-studied PFAS subclass. They 
+include perfluorosulfonic acids (PFSA) such as perfluorooctanesulfonate (PFOS) and 
+perfluorocarboxylic acids (PFCA) such as perfluorooctanoic acid (PFOA) and their 
+precursors. Some PFAA with perfluorinated carbon chain lengths  ηpfc  of 7 or more have 
+been shown to accumulate in humans, as evidenced by elimination half-lives of 3.5 years 
+for PFOA  ηpfc = 7  and 4.8 years for PFOS  ηpfc = 8 .8 In contrast, shorter chain PFAA 
+ηpfc ≤ 6 , such as perfluorobutanesulfonate (PFBS, ηpfc = 4), have elimination half-lives in 
+humans ranging from days to weeks,9 consistent with findings from animal studies.10,11 In 
+addition to physicochemical properties of PFAS, variability in measured human elimination 
+half-lives reflect interindividual physiological differences driven by disease and/or genetic 
+factors that are difficult to isolate. In contrast, time-dependent concentrations of PFAA in 
+blood, organs, and excreta can be measured in physiologically comparable rodents following 
+controlled doses.
+
+Rodents are widely used in pharmaceutical and medical research to study 
+pharmacokinetics.12 Numerous studies have examined PFAA toxicokinetics in mice 
+using single intravenous or oral doses to generate time dependent blood and tissue 
+concentrations.13–17 Knockout mouse models, such as albumin- and fatty acid binding 
+protein (FABP)-deficient C57BL mice, have been used to investigate specific toxicokinetic 
+mechanisms affecting PFAA exposure. For example, albumin-deficient mice exhibited 
+significantly elevated liver:blood concentration ratios,18 while FABP-deficient mice showed 
+PFAA toxicokinetics similar to wild-type mice.19 Availability of physiological parameters 
+for laboratory mouse strains, including organ volumes and blood flow rates,20,21 makes them 
+a well-suited model species for mechanistic physiologically based toxicokinetic (PBTK) 
+modeling.
+
+Many important mechanisms affecting tissue PFAA distribution, elimination, and 
+(re)absorption have been demonstrated in vitro. For example, PFAA with ηpfc ≥ 7 show 
+stronger binding to blood proteins such as albumin,22 and slower membrane permeability 
+than their ηpfc ≤ 6 counterparts.23 Binding to membrane transporters such as organic anion-
+transporting polypeptides (Oatp) and organic anion transporters (Oat)23–26 is thought to 
+drive PFAA uptake into liver and kidneys, respectively.27 Multiyear elimination half-lives 
+of ηpfc ≥ 7 PFAA in humans have been attributed to enterohepatic recirculation and renal 
+tubular reabsorption.28,29 PFAA with ηpfc ≥ 7 are substrates for bile acid transporters 
+such as apical sodium-dependent bile acid transporters (Asbt) and sodium/taurocholate 
+cotransporting polypeptides (Ntcp).30,31 These transport mechanisms occur concurrently 
+and interact dynamically under in vivo conditions and their overall importance for PFAA 
+toxicokinetics requires further evaluation.
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 4
+
+The main objective of this study was to better understand mechanisms affecting PFAS 
+toxicokinetics in mammals. To do this, we developed a PBTK modeling framework that 
+integrates in vitro data on permeability, tissue binding, and membrane transporters with 
+physiological data for two mouse strains previously used in PFAS toxicokinetic studies: 
+C57BL/6J (an inbred strain with minimal genetic variability) and CD-1 (an outbred strain 
+with greater genetic diversity). We used the model to evaluate mechanistic drivers for 
+variability in PFAA absorption, distribution, and elimination in wild-type and knockout 
+mice for nine PFAA with ηpfc = 4 − 10. We conducted sensitivity analyses to identify the 
+relative contributions of individual mechanisms to PFAA accumulation and elimination. We 
+use these findings aim to gain insights into processes that are most important for PFAS 
+toxicokinetics and highlight key knowledge and data gaps for extending findings to human 
+populations and emerging PFAS.
+
+2.  MODEL THEORY AND PARAMETERIZATION
+
+2.1.  General Model Structure.
+
+We developed a five-compartment PBTK model that includes: (1) central blood, (2) gut, 
+(3) liver, (4) kidneys, and (5) the rest of the body (Figure 1). The “rest” compartment 
+includes all other organs not specified. The model includes two exposure routes: oral PFAA 
+ingestion through the gut lumen, and intravenous PFAA administration into the central 
+blood compartment. Cells and interstitial fluid are represented as single organs, separated 
+from perfusing blood by bidirectionally permeable membranes. The model accounts for: 
+(a) blood flow to and from organs; (b) binding to proteins and phospholipids within 
+organs; (c) passive membrane diffusion; (d) active transport via membrane transporters; 
+(e) enterohepatic recirculation, (f) renal tubular reabsorption; and (g) excretion through feces 
+and urine. Chemical parameters were derived from in vitro studies, while physiological 
+parameters for CD-1 and C57BL mice were obtained from literature.
+
+2.2.  Description of the PBTK Model.
+
+In mammals, physiological blood flow rates determine PFAA transport from central blood 
+to organs. The model simulates temporal changes in blood and tissue concentrations 
+dC /dt, mol mL−1 s−1  based on chemical mass flows, representing PFAA absorption, 
+distribution to the systemic circulation, distribution to organs, and elimination. PFAA bind 
+to serum albumin, globulins, structural proteins, FABPs, and phospholipids in blood and 
+organs, while binding to storage lipids is considered negligible.32 The concentration of 
+freely dissolved PFAA  Cfree, mol mL−1  in blood is considered available for transport among 
+organs.33 PFAA bound to tissue components  Cbound, mol mL−1  are not available for inter-
+organ transport and elimination. We simulated concentrations in whole blood rather than 
+plasma to represent the full distribution of PFAS among plasma, cellular, and colloidal blood 
+components.
+
+We used desorption rate constants to account for PFAA dissociation from proteins and 
+phospholipids.34 Bidirectional chemical transport was assumed to occur via permeability. 
+We incorporated transporter-mediated uptake and efflux of PFAA for the liver, gut, and 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 5
+
+kidneys into the PBTK model to account for known transporter localization in mice. 
+Hepatic uptake was modeled as unidirectional transport of free PFAA from blood into 
+hepatocytes via Oatp1b2, Oatp2b1, and Ntcp. Enterohepatic recirculation was modeled by 
+including biliary excretion into the intestinal lumen, followed by reabsorption via passive 
+permeability and Oatp2b1-mediated uptake in enterocytes.28 Renal elimination was modeled 
+as a combination of glomerular filtration of free PFAA from the blood into the tubular 
+lumen and Oat1, Oat2, and Oat3-mediated uptake of free PFAA from peritubular capillaries 
+into proximal tubule cells,29 followed by permeability across the apical membrane into the 
+filtrate. The “rest” compartment was modeled as permeability-limited distribution without 
+transporter involvement. Section S1 of the Supporting Information contains a complete 
+description of model equations and parameter values.
+
+2.2.1.  Free and Bound Concentrations in Blood Perfusing Organ Tissues.  The 
+PBTK model simulates temporal changes in freely dissolved PFAA concentrations in blood 
+perfusing each organ  dCfree,blood/dt, mol mL−1 s−1  by the net balance of mass flows
+
+dCfree,blood
+dt
+
+= QfreeΔCfree, central − blood + BΔCbound, blood − free, blood
+
+− P ΔCfree, blood − organ−T Cfree,blood / V water,blood
+
+(1)
+
+Where molar mass flow is a function of: (1) Free PFAA entering the blood perfusing 
+the organ from the systemic circulation is described by QfreeΔCfree,central‐blood, where 
+Qfree mL s−1  is the perfusion-driven transport rate of free (unbound) PFAA and 
+ΔCfree,central‐blood mol mL−1  represents the concentration gradient of free PFAA between 
+the central compartment and the organ blood. (2) Desorption from blood proteins 
+and phospholipids is given by BΔCbound, blood‐free, blood, where B mL s−1  is the first-
+order desorption rate constant and ΔCbound, blood‐free, blood mol mL−1  is the concentration 
+gradient between bound free PFAA in blood, defined as Cbound,blood − Cfree,blood × Kblood/w. 
+(3) Permeability-driven transport into tissue is represented by P ΔCfree,blood‐tissue, 
+where P Papp × surface area, mL s−1  is the permeability-driven transport rate and 
+ΔCfree,blood‐tissue mol mL−1  is the concentration gradient of freely dissolved PFAA between 
+blood and tissue. (4) Membrane transporter-mediated uptake is described by T Cfree,blood, 
+where T mL s−1  is the unidirectional uptake rate. V water,blood mL  is the steady-state 
+volume of water in the blood. For comparison with literature data, simulated blood 
+concentrations were converted to plasma concentrations using a mass balance equation, 
+as described in Section S1.
+
+Temporal changes in concentrations of PFAA bound to blood proteins and phospholipids 
+(dCbound,blood/dt, mol mL−1s−1) are described as
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 6
+
+dCbound,blood
+dt
+
+=
+
+QboundΔCbound, central − blood − BΔCfree−bound
+V prot+lip,blood
+
+(2)
+
+Transport of bound PFAA from the systemic circulation is given by 
+QboundΔCbound,central‐blood, with Qbound mL s−1  as the perfusion-driven transport rate of 
+PFAA bound to blood proteins or phospholipids and ΔCbound,central‐blood mol mL−1  as the 
+concentration gradient of bound PFAA between the central compartment and the organ 
+blood. V prot+lip, blood mL  is the total volume of blood proteins and phospholipids, including 
+albumin, globulins, structural proteins, and phospholipids.
+
+2.2.2.  Free and Bound Concentrations in Organ Tissues.  The model simulates 
+temporal changes in freely dissolved concentrations of PFAA in organ tissues 
+dCfree,tissue/dt, mol mL−1 s−1  as
+
+dCfree,tissue
+dt
+
+= BΔCbound, tissue − free, tissue + P ΔCfree, blood − organ+T ΔCfree,blood
+
+− kΔCfree, tissue − lumen / V water,tissue
+
+(3)
+
+Desorption from tissue proteins and phospholipids is given by BΔCbound, tissue‐free, tissue, 
+where B mL s−1  is the first-order desorption rate constant and 
+ΔCbound, tissue‐free, tissue mol mL−1  is the concentration gradient between bound and free 
+PFAA in blood, defined as Cbound,tissue − Cfree,tissue × Ktissue/w. Elimination into the lumen 
+is described by kΔCfree,tissue‐lumen, where k mL s−1) is the clearance rate constant and 
+ΔCfree,tissue‐lumen mol mL−1) is the concentration gradient between the tissue its respective 
+lumen, which is the bile for liver, intestinal lumen for gut, and filtrate for kidneys. 
+V water,tissue mL  is the steady-state volume of water in organ tissue.
+
+Temporal concentration changes of PFAA bound to organ tissues 
+dCbound,tissue/dt, mol mL−1 s−1  are described as
+
+dCbound,tissue
+dt
+
+=
+
+−BΔCfree−bound
+V prot+lip, tissue
+
+(4)
+
+V prot+lip,tissue is the volume of proteins and phospholipids in the tissue (L).
+
+2.3.  Physiological Parameters.
+
+Physiological parameters for CD1 and C57BL/6J mice were sourced from the literature 
+when available, extrapolated from rat studies when unavailable, or predicted based on 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 7
+
+previous empirical data. Available physiological data included total body and organ weights 
+for a 30 g mouse,35,36 steady-state blood volumes in organs,35 blood and bile flow rates,35,37 
+capillary surface areas,38–40 excretion rates,41,42 and volume percentages of albumin, 
+globulins, structural proteins, FABPs, and phospholipids in blood and organs.21,32,43–45 
+Section S2 provides detailed descriptions of data sources and a full list of physiological 
+model input parameters. Physiological variability among mice was not incorporated into our 
+simulation as it is thought to be small among laboratory mice of similar strain, age, and sex 
+compared to the variability in chemical-specific input parameters.
+
+2.4.  Chemical Parameters.
+
+Major categories of parameters in the PBTK model are: (1) PFAA apparent membrane 
+permeabilities  Papp ,23 (2) partition coefficients for proteins and phospholipids,32,46–49 and 
+(3) membrane transporter affinities.23–27,30,31,50 Model algorithms represent mechanistic 
+processes that could be parameterized using reliable data derived in in vitro systems 
+with available scaling factors. Only pathways with compound-specific data were included, 
+and transporter rates were set to zero for compounds with no measurable activity or 
+missing data. We used Monte Carlo simulations (10,000 iterations) to quantify the 
+influence of measured variability/uncertainty in chemical parameters based on a detailed 
+literature review of published in vitro studies (Tables S7–S10). We assumed log-normal 
+distributions for partition coefficients and calculated μ and σ for each PFAS from the 
+means and standard deviations of reported log K values (Table S8). For permeabilities 
+and transporter affinities, we used normal distributions for each PFAS calculated from the 
+grand mean and pooled variance calculated from replicate measurements within two in 
+vitro studies,23,31 as summarized in Tables S9 and S10. Albumin desorption rates were 
+used to account for desorption kinetics (1/s).51 Partition coefficients for phospholipids,47,48 
+serum albumin,46,49,52,53 and FABPs53–55 were obtained from multiple sources. Association 
+and dissociation constants were transformed to partition coefficients following Endo et 
+al.56 In vitro permeabilities and transporter affinities were scaled to in vivo conditions 
+using relative activity factors specific to the cell lines employed.57 Section S3 of the 
+Supporting Information provides additional information on chemical parameters, including 
+their sources, variabilities, and methods for conversion and scaling.
+
+2.5.  Model Evaluation and Sensitivity Analysis.
+
+Single and repeated intravenous and oral dosing studies for mice were used to evaluate 
+model performance. We report the arithmetic mean of Monte Carlo simulations, and 
+confidence intervals spanning the 2.5th and 97.5th percentiles of the ensemble for modeled 
+time-dependent concentrations and elimination half-lives of each PFAA. Elimination half-
+lives were calculated by log–linear regression of the terminal phase blood concentration 
+time curves for each simulation. We compared measured mean blood and tissue PFAA 
+concentrations to the model expected values to calculate R2 and relative root mean squared 
+error (rRMSE). Specifically, we used data from three primary studies described below.
+
+Modaresi et al.19 administered 0.1–5 mg/kgbw PFOS to 5–6-month-old wild-type C57BL/6J 
+mice and mice with local (liver, intestines) or global deletion of FABP. Blood was sampled 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 8
+
+over 65 days, and liver, lung, kidney, intestine, brain, and muscle tissues were harvested 
+at the end of the experiments. Kaye et al.18 administered daily oral doses of 0.5 or 10 
+mg/kgbw PFOS to wild-type C57BL/6J mice and mice with global albumin deletion over 
+a 7-day period. Plasma, liver, kidney, lung, and intestine samples were collected on day 7. 
+Zhu et al.16 administered single oral or intravenous doses of 1 or 5 mg/kgbw PFOA, PFOS, 
+and perfluorohexanesulfonic acid (PFHxS) to male CD-1 mice, with plasma concentrations 
+measured over 32 days.
+
+We conducted a local sensitivity analysis by individually perturbing major parameters 
+(permeability, partition coefficients, transporter rates) by 10% and quantifying the resulting 
+changes in PFAA fractions absorbed, areas under the concentration–time curves (AUC) 
+for blood and tissues, and elimination half-lives. Normalized sensitivity coefficients in 
+percentages were calculated as the ratio of the relative change in toxicokinetic end points 
+(absorption, distribution, elimination) to the relative change in model parameter, defined as
+
+normalized sensitivity( % ) =
+
+Δoutcome/outcome
+Δparameter/parameter
+
+× 100
+
+(5)
+
+Parameters with the highest normalized sensitivity values were considered the most 
+influential for PFAA absorption, distribution, and elimination. We implemented the PBTK 
+model in R (v4.3.1) using the deSolve package. Monte Carlo sampling and global sensitivity 
+analyses were performed using custom scripts and the R packages mcmc, dplyr, and pracma. 
+The R code of the PBTK model is attached as a Supporting Information. All chemical and 
+physiological input values were directly obtained from experimental studies or literature 
+sources and were not calibrated to in vivo data.
+
+3.  RESULTS AND DISCUSSION
+
+3.1.  Model Evaluation.
+
+We compared simulated plasma and blood concentrations of PFOS, PFOA, and PFHxS after 
+single oral and intravenous (IV) doses to experimental data from C57BL/6J and CD-1 mice 
+(Figure 2A–C). R2 values ranged from 0.73 to 0.87 and rRMSE between 18% and 38% 
+between modeled and observed values16,19 plasma and blood PFOS concentrations after 
+single oral doses of 0.1–5 mg/kgbw. Similarly, R2 values ranged from 0.79–0.92 and rRMSE 
+between 35%–41% between modeled and observed16 PFOA plasma concentrations after oral 
+doses of 1 and 5 mg/kgbw. We found lower R2 values (0.045 and 0.01) and higher rRMSE 
+values (65% and 70%) between modeled and observed16 PFHxS plasma concentrations at 
+the same oral doses, primarily due to underestimation at early time points (Figure S3). For 
+IV dosing of PFHxS, the model better matched experimental data with R2 values of 0.71–
+0.90 and rRMSE ranging from 31% to 89%. However, plasma concentrations of PFOS and 
+PFOA were underestimated following IV administration of 1 mg/kgbw, with higher rRMSE 
+values of 487% and 292% for PFOS and PFOA, respectively (Figures S1 and S2). Notably, 
+in the study by Zhu et al.,16 maximum plasma concentrations of PFOS and PFOA at the high 
+dose (5 mg/kgbw) were unexpectedly higher following oral compared to IV administration, 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 9
+
+despite identical doses. This difference was not observed at lower doses or sustained across 
+the full concentration–time profile. These inconsistencies are likely driven by variability in 
+the in vivo data rather than systematic model bias, as the PBTK model performed well at 1 
+mg/kgbw IV doses with R2 values of 0.77 and 0.83 for PFOS and PFOA, respectively.
+
+Modeled elimination half-lives  t1/2  for long-chain PFAA  ηpfc ≥ 7  were consistent with 
+experimental values. The modeled t1/2 for PFOS was 42–58 days compared to an observed 
+range of 31–72 days.10,16,19 For PFOA, the modeled t1/2 range was 12–14 days compared 
+to observed ranges of 12–42 days.16 For PFNA, the modeled range in t1/2 was 27–55 days 
+compared to an observed range of 26–69 days.15 The modeled t1/2 for perfluorodecanoic 
+acid (PFDA) was 48–66 days compared to an observed range between 52–66 days58 
+(Figure 2 and Table 1). For PFHxS  ηpfc = 6 , modeled t1/2 was 28–34 days compared 
+to experimental values of 25–54 days.16,17 In contrast, the model overestimated t1/2 for 
+short-chain PFAS  ηpfc ≤ 5 . PFBS  ηpfc = 4  and perfluorohexanoic acid (PFHxA, ηpfc = 5) 
+had modeled t1/2 values of 3.2 and 3.8 days, respectively, compared to experimental values 
+of ~ 6 h. This discrepancy may reflect missing renal clearance mechanisms in the model. 
+PFBS and PFHxA exhibit high affinity for OAT1 and OAT3,23 indicating efficient uptake 
+into renal proximal tubule cells and suggesting they may also be substrates for apical efflux 
+transporters such as multidrug resistance-associated proteins, for which in vitro data are 
+currently lacking.
+
+Modeled PFOS concentrations in liver, kidneys, and the rest of the body fell within a 
+factor of 3 of experimental observations across all dosing regimens. These results included 
+single oral doses ranging from 0.1 to 5 mg/kgbw (sampled after 65 days)19 and repeated 
+daily oral doses of 0.5 or 10 mg/kgbw over 7 days (Figure 2D).18 Some deviations in 
+gut concentrations were observed, likely due to the assumption of constant oral uptake in 
+the model, whereas mice were fed at defined intervals in the experimental studies. Tissue 
+concentration data were only available for PFOS, limiting model evaluation for other PFAA.
+
+The PBTK model successfully captured differences in PFOS distribution and elimination 
+between knockout and wild-type mice. Previous studies showed that PFOS blood 
+concentrations were not significantly different in FABP knockout and wild-type mice 
+exposed to the same doses.19 Model results similarly indicated that deletion of liver-FABP 
+and intestinal-FABP did not influence PFOS blood concentrations (Figure S5). While 
+FABPs have been hypothesized to facilitate hepatic PFAS uptake based on in vitro studies,53 
+our findings suggest their contribution to PFOS toxicokinetics in vivo is minimal. In 
+knockout mice with global genetic deletion of albumin (Alb−/−), observed plasma PFOS 
+concentration were 52–65% lower and liver concentrations were 23–26% higher than 
+wild-type mice.18 Modeled results predicted a similar 48% reduction in plasma PFOS 
+concentrations, but lower increases compared to observed changes in liver concentrations 
+(4%) (Figure S6). This discrepancy likely reflects the dominant role of phospholipid binding 
+in hepatic PFOS retention,59 which may reduce the impact of albumin loss. Overall, we 
+find the model reasonably reproduced observed PFOS distribution patterns in knockout mice 
+with global albumin and FABP deletion.
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 10
+
+3.2.  Simulating Absorption, Distribution, and Elimination for PFAA.
+
+Model results illustrate a rapid increase in gut and liver concentrations of the nine PFAA 
+examined in this study within the first 24 h following a single oral dose (Figures 3A and S7). 
+Short-chain PFAA, such as PFBS  ηpfc = 4  and PFHxA  ηpfc = 5 , reach peak concentrations 
+in systemic blood, kidneys, and the rest compartment within 24 h, and decline thereafter 
+(Figure S7A–C). In contrast, maximum blood and kidney concentrations for ηpfc ≥ 7 PFAA 
+exhibit a 2–3 day delay after dosing (Figure S7D–H). Accumulation of ηpfc ≥ 9 PFAA in the 
+rest compartment continued throughout the 15-day simulation, underscoring their prolonged 
+tissue retention (Figure S7G,H).
+
+To simulate constant exposure conditions relevant to humans, we modeled repeated 
+daily dosing at 100 ng over two years. Under these conditions, short-chain carboxylates 
+ηpfc = 4 − 6 , including PFBS, PFHxA, and PFHpA, accumulated to significantly lower 
+body concentrations than long-chain sulfonates and carboxylates (Figure 3C). For example, 
+PFDA  ηpfc = 9  accumulated to levels approximately 100 times higher than PFBS  ηpfc = 4 . 
+Tissue distribution simulations showed high relative concentrations of all PFAA in blood, 
+liver, and kidneys (Figure 3C). Notably, PFHxS  ηpfc = 6  accumulated to higher tissue 
+concentrations and masses than PFOA  ηpfc = 7 , highlighting the greater bioaccumulation 
+potential of sulfonates compared to carboxylates. Longer chain length PFAA  ηpfc ≥ 7
+exhibited higher concentrations in the liver compared to shorter chain length PFAA 
+ηpfc ≤ 6 , which were more concentrated in the kidneys. Despite low concentrations, the 
+rest compartment was the dominant sink for PFAA mass due to its large volume (24 mL) 
+(Figure S9).
+
+The fraction of PFAA absorbed was calculated with respect to the total amount of each 
+compound in all compartments relative to the administered dose. Absorption across all 
+PFAA was high, ranging from 76% to 90% following a single oral dose (Figure 3D). Shorter 
+chain length PFAA exhibited slightly lower absorption  ηpfc ≤ 5 = 76 − 83 %  compared to 
+longer chain length PFAA  ηpfc ≥ 6 = 84 − 90 % . Between 70–92% of the total administered 
+dose over two years was eliminated through urinary excretion across all PFAA, making it 
+the primary elimination pathway. Fecal excretion was most prominent for ηpfc = 5 − 7 PFAA, 
+peaking at 30% for PFHxS. Notably, PFOS exhibited the highest urinary excretion (92%) 
+and the lowest fecal elimination (8%). Reduced fecal excretion of ηpfc ≥ 7 PFAA such as 
+PFOS (8%), PFDA (12%), and perfluoroundecanoic acid (PFUDA, 9%) is likely due to 
+enterohepatic recirculation,28 where compounds excreted into the gut via biliary transport 
+are reabsorbed in the gut lumen because of their high permeability.
+
+Intratissue distribution modeling revealed extensive binding of all PFAA to proteins and 
+phospholipids, with short-chain PFAA such as PFBS and PFHxA bound at ≥ 98% (Figures 
+3B and S8). In the liver, 7 of the 9 PFAA were predominantly bound to phospholipids, with 
+PFOS and PFDA showing over 80% phospholipid binding, while the remaining fraction 
+was mainly protein-bound (Figure 3B). A similar binding pattern was observed in the 
+kidney, gut, and rest compartments, where phospholipid binding accounted for ≥ 50% of 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 11
+
+PFAA binding (Figure S8). PFAA with ηpfc ≥ 7, such as PFOS and PFUnDA, demonstrated 
+particularly strong phospholipid binding, exceeding 80–90%. In contrast, more than 50% of 
+PFHxA  ηpfc = 5  and PFHpA  ηpfc = 6  were bound to proteins across all tissues. In blood, 
+all PFAA except PFOS were bound predominantly to albumin and globulins, with binding 
+exceeding 50% for all PFAA.
+
+3.3.  Sensitivity of Toxicokinetic Parameters.
+
+PBTK model sensitivity analyses showed that elimination half-lives of ηpfc ≥ 8 PFAA are 
+strongly driven by phospholipid binding and permeability. For these compounds, normalized 
+sensitivity coefficients – defined as the percent change in toxicokinetic outcome per percent 
+change in model parameter – ranged from 47% to 83% for membrane lipids and −73% to 
+−84% for permeability. In contrast, ηpfc ≤ 7 PFAA elimination showed greater sensitivity 
+to renal transporter activity, particularly Oat3, with coefficients of −37% for PFBS and 
+−35% for PFHpA. The pronounced sensitivity to phospholipid binding for ηpfc ≥ 7 PFAA 
+is driven by their strong affinity for phospholipids  log KPL/w: 3.51 − 4.88
+widespread presence of phospholipids in mouse tissues such as the liver (2.05%) and 
+kidneys (2.06%).21,32 This agrees with intratissue simulations showing that most PFAA 
+are primarily bound to phospholipids in tissues (Figure 3B).
+
+47,48 and the 
+
+Permeability acts as a rate-limiting factor for PFAS distribution from central blood to the 
+kidneys and liver, which facilitates renal and biliary excretion. PFAA with ηpfc ≥ 7 exhibit 
+higher apparent permeabilities, with values of 1.40 × 10−5 cm/s for PFOS and 8.44 × 10−6 
+cm/s for PFDA,23,47 reducing their reliance on renal transporters for excretion. In contrast, 
+ηpfc < 7 PFAA have lower permeabilities, with values of 1.38 × 10−6 cm/s for PFBS and 1.16 
+× 10−6 cm/s for PFHxA, increasing their dependence on renal transporters.23
+
+Albumin is the strongest driver of PFAA accumulation in blood of the tested model 
+parameters with sensitivity coefficients ranging from 21% to 64% (Figure 4B), due to 
+its dual role as the most abundant protein in mouse blood (1.43% by volume)32 and 
+its strong binding affinity for PFAA  log KSA/w: 3.61 − 4.71 .46,49,52,53 In contrast, albumin 
+is minimally present in tissues, with concentrations as low as 0.12% in the liver and 
+0.14% in the kidneys, therefore retaining PFAA in the blood and reducing distribution to 
+peripheral tissues. Globulins, the second most abundant class of blood proteins (1.33% by 
+volume)32 have a minor yet compound-specific impact on blood AUC. For ηpfc ≤ 9 PFAA, 
+sensitivity coefficients for globulin binding remain below 7%, but globulins contribute more 
+significantly to blood levels of PFUDA (ηpfc = 10, sensitivity: 26%), consistent with their 
+reported affinity to bind ηpfc ≥ 10 PFAS.46 Phospholipids negatively influence blood AUC 
+by promoting PFAA retention in tissues, with sensitivity coefficients of −25% for PFOS. 
+For ηpfc ≤ 6 PFAA, permeability positively affects blood AUC due to the contribution of 
+absorption within the simulated one elimination half-life. Conversely, for long-chain PFAA, 
+permeability negatively affects blood AUC as it promotes renal elimination.
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 12
+
+Structural proteins, such as actin, myosin, and collagen, are highly abundant in tissues, 
+constituting up to 21% of the liver and 18% of the kidney in mice (Table S6).32 However, 
+their contribution to PFAA accumulation in tissues is limited, with sensitivity coefficients 
+ranging from 1.2%–16%, compared to 8%–32% for phospholipids (Figure S10). This 
+difference is likely explained by the stronger binding affinity of PFAA to phospholipids47,48 
+compared to structural proteins  log KSP/w: 0.64 − 3.42 .32 FABPs, previously suggested 
+as key contributors to hepatic PFAA accumulation,53 show minimal sensitivity across 
+absorption, distribution, and elimination end points, with coefficients consistently below 
+3%. Their limited impact is explained by their low abundance in tissues, with 0.25% in 
+liver and 0.31% in kidney by volume,32 and their relatively low binding strength for PFAA 
+log KFABP/w: 2.30 − 3.94 .53–55
+
+Oatps and Ntcp only minorly influence PFAA toxicokinetics across absorption, blood 
+and tissue retention, and elimination, with sensitivity coefficients reaching up to 6% 
+for absorption (Figure S11). These transporters are located in the liver, where they 
+facilitate the active uptake of PFAA from the hepatic portal vein and hepatic artery into 
+hepatocytes.24,26,50 In addition, Oatp2b1 is present on the apical membrane of enterocytes, 
+facilitating PFAA influx from the gut lumen. These transport processes promote PFAA 
+distribution into the systemic circulation, retention in the liver, and biliary transport, 
+contributing to enterohepatic recirculation.28 Consequently, an increase in Oatp or Ntcp-
+mediated transport enhances absorption, tissue retention (particularly in the liver), and 
+elimination half-lives, while decreasing blood AUC.
+
+Oat-mediated transport influenced PFAA blood levels and clearance, particularly for ηpfc ≤ 7
+PFAA, with sensitivity coefficients for Oat1 and Oat3 ranging from −7.7% (Oat1) to 44% 
+(Oat3) (Figure 4). By contrast, Oat2 had minimal impact on toxicokinetic outcomes for all 
+PFAA, with sensitivity coefficients consistently below 1%. Located in the kidneys, Oat1–3 
+transport PFAA from the blood into renal tissues, thereby promoting renal elimination. 
+For ηpfc ≥ 8 PFAA, sensitivity coefficients for Oats ranged from −1.4% to −5%, indicating 
+negligible to moderate importance of these transporters and highlighting the role of passive 
+permeability for these highly permeable PFAA.23
+
+3.4. 
+
+Implications, Limitations, and Applicability to Humans.
+
+Several PBPK models have been developed to describe PFAS kinetics in rodents and 
+humans.60–62 These models rely on empirically fitted partition coefficients and clearance 
+terms to simulate tissue distribution and elimination. In contrast, our model uses in vitro-
+derived parameters, without calibration to in vivo data. This structure allows for mechanistic 
+evaluation of individual toxicokinetic mechanisms and facilitates refinement where key 
+pathways – such as transporter-mediated renal clearance of short-chain PFAS – remain 
+poorly defined.
+
+Our PBTK model accurately predicts toxicokinetic end points for most PFAA in mice across 
+single and repeated oral and intravenous dosing regimens, with R2 values ≥ 0.65 and rRMSE 
+≤ 122%. Exceptions included underestimation of early PFHxS plasma concentrations after 
+oral dosing and overestimation of PFOS and PFOA plasma levels at high IV doses of 5 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 13
+
+mg/kgbw.16 This was potentially due to saturation of clearance pathways, as oral dosing 
+at the same concentration was well predicted. The model reproduces observed changes 
+in PFAA exposures in FABP- and albumin-deficient knockout mice. Additional tissue 
+concentration data are needed to assess the performance of the PBTK model for PFAA other 
+than PFOS. The model overestimated elimination half-lives of short-chain PFBS  ηpfc = 4
+and PFHxA  ηpfc = 5 , highlighting the need for refining renal clearance mechanisms in the 
+model to better capture their rapid elimination. Emerging rodent and human toxicokinetic 
+data on short-chain PFAS alternatives such as GenX63 and F-53B64 can be combined with 
+in vitro-derived permeability, binding, and transporter parameters in our PBTK model to 
+identify compound-specific mechanisms driving elimination half-lives and tissue distribution 
+of emerging PFAS.
+
+Sensitivity analyses revealed that permeability and phospholipid binding were the most 
+important model parameters for ηpfc ≥ 7 PFAA, while renal transporters, particularly Oat3, 
+substantially impacted the clearance of ηpfc < 7 PFAA. Albumin and phospholipids were 
+the primary determinants of PFAA retention in blood and tissues, respectively. Structural 
+proteins played a minor role in tissue retention, while FABPs showed minimal sensitivity to 
+tissue accumulation and elimination. Interestingly, PFAA absorption was the toxicokinetic 
+outcome that was least influenced by shifts in model parameters (Figure S11). Alongside 
+Oats and Oatps, transporters like the fatty acid translocase or platelet glycoprotein 4 (CD36) 
+and the breast cancer resistance protein (Bcrp) may contribute to PFAS toxicokinetics,65,66 
+but their roles in absorption, distribution, and elimination remain unclear due to limited 
+quantitative data. Transporter data used in the current model version were from in vitro 
+cells genetically modified to overexpress the transporter of interest and literature scaling 
+factors.57 A source of uncertainty in the current model is the absence of experimentally 
+determined Michaelis–Menten parameters for the included membrane transporters, including 
+Km (affinity) and V max (maximum transport rate), which limits incorporation of transporter 
+saturation kinetics into uptake and efflux processes. In addition, limited data on transporter 
+expression in the in vitro cells used to generate these kinetics constrains accurate in vitro 
+to in vivo scaling. Addressing these gaps through targeted experiments and quantitative 
+proteomics could enhance model accuracy, especially for short-chain PFAS with transporter-
+dependent kinetics.
+
+Expanding the applicability domain of the model requires inclusion of additional exposure 
+routes, including inhalation and dermal absorption. The ongoing shift from legacy to 
+new PFAS with fewer fluorinated carbons and distinct functional groups emphasizes the 
+need for kinetic and binding data on emerging PFAS measured in vitro. The current 
+model was developed using uniform physiological parameters for laboratory mice. Future 
+applications in humans should incorporate interindividual variability in transporter and 
+protein expression, as well as physiological changes associated with genotype, age, or 
+disease states. As shown in prior work, variability in blood protein concentrations alone 
+can cause up to 3-fold differences in free PFAS fractions, potentially affecting blood 
+elimination and tissue accumulation.46 Noninvasive techniques, such as liquid biopsies,67 
+could provide personalized physiological data, enabling the development of individualized 
+human PBTK models. Such models could be used to explore how disease and genetic 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 14
+
+factors alter PFAS toxicokinetics. For example, fatty liver disease is associated with elevated 
+PFAS exposures,68 but it remains uncertain whether PFAS triggers fatty liver disease or 
+if the condition itself increases PFAS accumulation in the liver. Reduced blood albumin 
+levels observed in fatty liver disease69 could decrease PFAS retention in blood and increase 
+hepatic uptake. This mechanism is well-documented for highly albumin-bound drugs like 
+warfarin, where reduced albumin increases the unbound fraction, elevating anticoagulant 
+activity and risk for bleeding.70 Incorporating variations in PFAS exposures, physiological 
+changes (e.g., reduced albumin), and toxicological targets into a PBTK/TD (toxicodynamic) 
+framework can help disentangle these interactions and improve understanding of the 
+relationships between exposure and health outcomes. Future applications of this approach 
+could aid in identifying risk factors associated with elevated chemical accumulation 
+and heightened susceptibility to toxicity, while supporting the development of targeted 
+intervention strategies.
+
+Supplementary Material
+
+Refer to Web version on PubMed Central for supplementary material.
+
+ACKNOWLEDGMENTS
+
+Financial support for this work was provided by the National Institute for Environmental Health Science Superfund 
+Research Program (P42ES027706). The content is solely the responsibility of the authors and does not necessarily 
+represent the official views of NIEHS. We thank Dr. Tom Bartnikas for useful comments on the manuscript. The 
+TOC art was created by the authors with BioRender.com and Microsoft PowerPoint.
+
+REFERENCES
+
+(1). Glüge J; Scheringer M; Cousins IT; DeWitt JC; Goldenman G; Herzke D; Lohmann R; Ng 
+
+CA; Trier X; Wang Z An overview of the uses of per- and polyfluoroalkyl substances (PFAS). 
+Environ. Sci.:Processes Impacts 2020, 22 (12), 2345–2373.
+
+(2). Rodgers KM; Swartz CH; Occhialini J; Bassignani P; McCurdy M; Schaider LA How Well 
+
+Do Product Labels Indicate the Presence of PFAS in Consumer Items Used by Children and 
+Adolescents? Environ. Sci. Technol 2022, 56 (10), 6294–6304. [PubMed: 35506608] 
+
+(3). Calafat AM; Wong L-Y; Kuklenyik Z; Reidy JA; Needham LL Polyfluoroalkyl chemicals in the 
+U.S. population: data from the National Health and Nutrition Examination Survey (NHANES) 
+2003–2004 and comparisons with NHANES 1999–2000. Environ. Health Perspect 2007, 115 
+(11), 1596–1602. [PubMed: 18007991] 
+
+(4). Centers for Disease Control and Prevention (CDC), National Center for Health Statistics (NCHS). 
+National Health and Nutrition Examination Survey Data; U.S. Department of Health and Human 
+Services, Centers for Disease Control and Prevention: Hyattsville, MD, 2017–2018. https://
+wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2017. accessed February 
+24, 2024.
+
+(5). Corsini E; Luebke RW; Germolec DR; DeWitt JC Perfluorinated compounds: Emerging POPs 
+
+with potential immunotoxicity. Toxicol. Lett 2014, 230 (2), 263–270. [PubMed: 24503008] 
+(6). Steenland K; Winquist A PFAS and cancer, a scoping review of the epidemiologic evidence. 
+
+Environ. Res 2021, 194, No. 110690. [PubMed: 33385391] 
+
+(7). Roth K; Yang Z; Agarwal M; Liu W; Peng Z; Long Z; Birbeck J; Westrick J; Liu W; Petriello MC 
+Exposure to a mixture of legacy, alternative, and replacement per- and polyfluoroalkyl substances 
+(PFAS) results in sex-dependent modulation of cholesterol metabolism and liver injury. Environ. 
+Int 2021, 157, No. 106843. [PubMed: 34479135] 
+
+(8). Olsen GW; Burris JM; Ehresman DJ; Froehlich JW; Seacat AM; Butenhoff JL; Zobel 
+
+LR Half-life of serum elimination of perfluorooctanesulfonate,perfluorohexanesulfonate, and 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 15
+
+perfluorooctanoate in retired fluorochemical production workers. Environ. Health Perspect 2007, 
+115 (9), 1298–1305. [PubMed: 17805419] 
+
+(9). Abraham K; Mertens H; Richter L; Mielke H; Schwerdtle T; Monien BH Kinetics of 15 per- 
+
+and polyfluoroalkyl substances (PFAS) after single oral application as a mixture – A pilot 
+investigation in a male volunteer. Environ. Int 2024, 193, No. 109047. [PubMed: 39476597] 
+
+(10). Chang S-C; Noker PE; Gorman GS; Gibson SJ; Hart JA; Ehresman DJ; Butenhoff JL 
+
+Comparative pharmacokinetics of perfluorooctanesulfonate (PFOS) in rats, mice, and monkeys. 
+Reprod. Toxicol 2012, 33 (4), 428–440. [PubMed: 21889587] 
+
+(11). Olsen GW; Chang S-C; Noker PE; Gorman GS; Ehresman DJ; Lieder PH; Butenhoff JL A 
+
+comparison of the pharmacokinetics of perfluorobutanesulfonate (PFBS) in rats, monkeys, and 
+humans. Toxicology 2009, 256 (1), 65–74. [PubMed: 19059455] 
+
+(12). Lin JH Species similarities and differences in pharmacokinetics. Drug Metab. Dispos 1995, 23 
+
+(10), 1008–1021. [PubMed: 8654187] 
+
+(13). Lau C; Rumpler J; Das KP; Wood CR; Schmid JE; Strynar MJ; Wambaugh JF Pharmacokinetic 
+
+profile of Perfluorobutane Sulfonate and activation of hepatic nuclear receptor target genes in 
+mice. Toxicology 2020, 441, No. 152522. [PubMed: 32534104] 
+
+(14). Gannon SA; Johnson T; Nabb DL; Serex TL; Buck RC; Loveless SE Absorption, distribution, 
+metabolism, and excretion of [1–14C]-perfluorohexanoate ([14C]-PFHx) in rats and mice. 
+Toxicology 2011, 283 (1), 55–62. [PubMed: 21349313] 
+
+(15). Tatum-Gibbs K; Wambaugh JF; Das KP; Zehr RD; Strynar MJ; Lindstrom AB; Delinsky A; Lau 
+C Comparative pharmacokinetics of perfluorononanoic acid in rat and mouse. Toxicology 2011, 
+281 (1), 48–55. [PubMed: 21237237] 
+
+(16). Zhu Y; Pan X; Jia Y; Yang X; Song X; Ding J; Zhong W; Feng J; Zhu L Exploring Route-
+
+Specific Pharmacokinetics of PFAS in Mice by Coupling in Vivo Tests and Physiologically 
+Based Toxicokinetic Models. Environ. Health Perspect 2023, 131 (12), No. 127012. [PubMed: 
+38088889] 
+
+(17). Sundström M; Chang S-C; Noker PE; Gorman GS; Hart JA; Ehresman DJ; Bergman Å; 
+
+Butenhoff JL Comparative pharmacokinetics of perfluorohexanesulfonate (PFHxS) in rats, mice, 
+and monkeys. Reprod. Toxicol 2012, 33 (4), 441–451. [PubMed: 21856411] 
+(18). Kaye E; Becanova J; Vojta S; Lohmann R; Fischer FC; Slitt A Toxicokinetics and 
+
+perfluorooctanesulfonic acid (PFOS)-induced liver protein expression are markedly altered in 
+mice lacking albumin Chem. Res. Toxicol 2025 DOI: 10.1021/acs.chemrestox.4c00508.
+(19). Modaresi S; Becanova J; Vojta S; Ryu S; Kaye E; Agudelo J; Diolintzi A; Storch J; Fischer FC; 
+
+Slitt A Fatty acid binding protein (FABP) is not a critical factor for Perfluorooctane sulfonate 
+(PFOS) tissue distribution in mice Chem. Res. Toxicol.
+
+(20). Schmitt W General approach for the calculation of tissue to plasma partition coefficients. 
+
+Toxicol. In Vitro 2008, 22 (2), 457–467. [PubMed: 17981004] 
+
+(21). Ruark CD; Hack CE; Robinson PJ; Mahle DA; Gearhart JM Predicting Passive and Active 
+
+Tissue:Plasma Partition Coefficients: Interindividual and Interspecies Variability. J. Pharm. Sci 
+2014, 103 (7), 2189–2198. [PubMed: 24832575] 
+
+(22). Cheng W; Ng CA Predicting Relative Protein Affinity of Novel Per- and Polyfluoroalkyl 
+
+Substances (PFASs) by An Efficient Molecular Dynamics Approach. Environ. Sci. Technol 2018, 
+52 (14), 7972–7980. [PubMed: 29897239] 
+
+(23). Ryu S; Yamaguchi E; Modaresi SMS; Agudelo J; Costales C; West MA; Fischer F; Slitt 
+AL Evaluation of 14 PFAS for Permeability and Organic Anion Transporter Interactions: 
+Implications for Renal Clearance in Humans. Chemosphere 2024, 361, No. 142390. [PubMed: 
+38801906] 
+
+(24). Yang C-H; Glover KP; Han X Organic anion transporting polypeptide (Oatp) 1a1-mediated 
+
+perfluorooctanoate transport and evidence for a renal reabsorption mechanism of Oatp1a1 
+in renal elimination of perfluorocarboxylates in rats. Toxicol. Lett 2009, 190 (2), 163–171. 
+[PubMed: 19616083] 
+
+(25). Louisse J; Dellafiora L; van den Heuvel JJMW; Rijkers D; Leenders L; Dorne J-LCM; Punt 
+
+A; Russel FGM; Koenderink JB Perfluoroalkyl substances (PFASs) are substrates of the renal 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 16
+
+human organic anion transporter 4 (OAT4). Arch. Toxicol 2023, 97 (3), 685–696. [PubMed: 
+36436016] 
+
+(26). Zhao W; Zitzow JD; Weaver Y; Ehresman DJ; Chang S-C; Butenhoff JL; Hagenbuch B 
+
+Organic Anion Transporting Polypeptides Contribute to the Disposition of Perfluoroalkyl Acids 
+in Humans and Rats. Toxicol. Sci 2017, 156 (1), 84–95. [PubMed: 28013215] 
+
+(27). Weaver YM; Ehresman DJ; Butenhoff JL; Hagenbuch B Roles of Rat Renal Organic Anion 
+
+Transporters in Transporting Perfluorinated Carboxylates with Different Chain Lengths. Toxicol. 
+Sci 2010, 113 (2), 305–314. [PubMed: 19915082] 
+
+(28). Cao H; Zhou Z; Hu Z; Wei C.n.; Li J; Wang L; Liu G; Zhang J; Wang Y; Wang T; Liang Y 
+
+Effect of Enterohepatic Circulation on the Accumulation of Per- and Polyfluoroalkyl Substances: 
+Evidence from Experimental and Computational Studies. Environ. Sci. Technol 2022, 56 (5), 
+3214–3224. [PubMed: 35138827] 
+
+(29). Worley RR; Fisher J Application of physiologically-based pharmacokinetic modeling to explore 
+the role of kidney transporters in renal reabsorption of perfluorooctanoic acid in the rat. Toxicol. 
+Appl. Pharmacol 2015, 289 (3), 428–441. [PubMed: 26522833] 
+
+(30). Ruggiero MJ; Miller H; Idowu JY; Zitzow JD; Chang S-C; Hagenbuch B Perfluoroalkyl 
+
+Carboxylic Acids Interact with the Human Bile Acid Transporter NTCP. Livers 2021, 1 (4), 
+221–229. [PubMed: 34738093] 
+
+(31). Zhao W; Zitzow JD; Ehresman DJ; Chang S-C; Butenhoff JL; Forster J; Hagenbuch B Na+/
+
+Taurocholate Cotransporting Polypeptide and Apical Sodium-Dependent Bile Acid Transporter 
+Are Involved in the Disposition of Perfluoroalkyl Sulfonates in Humans and Rats. Toxicol. Sci 
+2015, 146 (2), 363–373. [PubMed: 26001962] 
+
+(32). Allendorf F; Goss K-U; Ulrich N Estimating the Equilibrium Distribution of Perfluoroalkyl 
+
+Acids and 4 of Their Alternatives in Mammals. Environ. Toxicol. Chem 2020, 40 (3), 910–920.
+
+(33). Summerfield SG; Yates JWT; Fairman DA Free Drug Theory - No Longer Just a Hypothesis? 
+
+Pharm. Res 2022, 39 (2), 213–222. [PubMed: 35112229] 
+
+(34). Krause S; Ulrich N; Goss KU Desorption kinetics of organic chemicals from albumin. Arch. 
+
+Toxicol 2018, 92 (3), 1065–1074. [PubMed: 29147723] 
+
+(35). Hall C; Lueshen E; Mošat A; Linninger AA Interspecies Scaling in Pharmacokinetics: A Novel 
+Whole-Body Physiologically Based Modeling Framework to Discover Drug Biodistribution 
+Mechanisms in vivo. J. Pharm. Sci 2012, 101 (3), 1221–1241. [PubMed: 22105643] 
+
+(36). Kong B; Rizzolo D; Taylor RE; Guo GLBile Acid Profiling in Mouse Biofluids and Tissues. In 
+Methods in Molecular Biology; Springer, 2022; Vol. 2455, pp 305–318. [PubMed: 35213003] 
+
+(37). Pedreira F; Tepperman J Bile flow rate and cholesterol content in mice fed a gallstone-inducing 
+
+diet. Am. J. Physiol.: Legacy Content 1964, 206 (3), 635–640.
+
+(38). Yoon YJ; Chang S; Kim OY; Kang BK; Park J; Lim JH; Yun Huang J; Kim YK; Byun JH; 
+
+Gho YS Three-dimensional imaging of hepatic sinusoids in mice using synchrotron radiation 
+micro-computed tomography. PLoS One 2013, 8 (7), No. e68600. [PubMed: 23861925] 
+
+(39). Casteleyn C; Rekecki A; Van Der Aa A; Simoens P; Van Den Broeck W Surface area assessment 
+
+of the murine intestinal tract as a prerequisite for oral dose translation from mouse to man. Lab. 
+Anim 2010, 44 (3), 176–183. [PubMed: 20007641] 
+
+(40). Guo M; Ricardo SD; Deane JA; Shi M; Cullen-McEwen L; Bertram JF A stereological study of 
+
+the renal glomerular vasculature in the db/db mouse model of diabetic nephropathy. J. Anat 2005, 
+207 (6), 813–821. [PubMed: 16367807] 
+
+(41). Kraus D; Yang Q; Kahn BB Lipid Extraction from Mouse Feces. Bio-Protocol 2015, 5 (1), No. 
+
+e1375. [PubMed: 27110587] 
+
+(42). Stechman MJ; Ahmad BN; Loh NY; Reed AAC; Stewart M; Wells S; Hough T; Bentley L; Cox 
+
+RD; Brown SDM; Thakker RV Establishing normal plasma and 24-h urinary biochemistry ranges 
+in C3H, BALB/c and C57BL/6J mice following acclimatization in metabolic cages. Lab. Anim 
+2010, 44 (3), 218–225. [PubMed: 20457824] 
+
+(43). Zaias J; Mineau M; Cray C; Yoon D; Altman NH Reference values for serum proteins of 
+common laboratory rodent strains. J. Am. Assoc. Lab Anim. Sci 2009, 48 (4), 387–390. 
+[PubMed: 19653947] 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 17
+
+(44). Storch J; Thumser AE The fatty acid transport function of fatty acid-binding proteins. Biochim. 
+
+Biophys. Acta, Mol. Cell Biol. Lipids 2000, 1486 (1), 28–44.
+
+(45). Wu MK; Hyogo H; Yadav SK; Novikoff PM; Cohen DE Impaired response of biliary lipid 
+
+secretion to a lithogenic diet in phosphatidylcholine transfer protein-deficient mice. J. Lipid Res 
+2005, 46 (3), 422–431. [PubMed: 15576839] 
+
+(46). Fischer FC; Ludtke S; Thackray C; Pickard HM; Haque F; Dassuncao C; Endo S; Schaider 
+
+L; Sunderland EM Binding of Per- and Polyfluoroalkyl Substances (PFAS) to Serum Proteins: 
+Implications for Toxicokinetics in Humans. Environ. Sci. Technol 2024, 58 (2), 1055–1063. 
+[PubMed: 38166384] 
+
+(47). Ebert A; Allendorf F; Berger U; Goss K-U; Ulrich N Membrane/Water Partitioning and 
+Permeabilities of Perfluoroalkyl Acids and Four of their Alternatives and the Effects on 
+Toxicokinetic Behavior. Environ. Sci. Technol 2020, 54 (8), 5051–5061. [PubMed: 32212724] 
+
+(48). Droge STJ Membrane-Water Partition Coefficients to Aid Risk Assessment of Perfluoroalkyl 
+
+Anions and Alkyl Sulfates. Environ. Sci. Technol 2019, 53 (2), 760–770. [PubMed: 30572703] 
+
+(49). Allendorf F; Berger U; Goss KU; Ulrich N Partition coefficients of four perfluoroalkyl acid 
+alternatives between bovine serum albumin (BSA) and water in comparison to ten classical 
+perfluoroalkyl acids. Environ. Sci.:Processes Impacts 2019, 21 (11), 1852–1863.
+
+(50). Yang C-H; Glover KP; Han X Characterization of Cellular Uptake of Perfluorooctanoate 
+
+via Organic Anion-Transporting Polypeptide 1A2, Organic Anion Transporter 4, and Urate 
+Transporter 1 for Their Potential Roles in Mediating Human Renal Reabsorption of 
+Perfluorocarboxylates. Toxicol. Sci 2010, 117 (2), 294–302. [PubMed: 20639259] 
+
+(51). Krause S; Goss K-U The impact of desorption kinetics from albumin on hepatic extraction 
+
+efficiency and hepatic clearance: a model study. Arch. Toxicol 2018, 92 (7), 2175–2182. 
+[PubMed: 29796692] 
+
+(52). Bischel HN; MacManus-Spencer LA; Zhang CJ; Luthy RG Strong Associations of Short-Chain 
+Perfluoroalkyl Acids with Serum Albumin and Investigation of Binding Mechanisms. Environ. 
+Toxicol. Chem 2011, 30 (11), 2423–2430. [PubMed: 21842491] 
+
+(53). Jia Y; Zhu Y; Xu D; Feng X; Yu X; Shan G; Zhu L Insights into the Competitive Mechanisms of 
+Per- and Polyfluoroalkyl Substances Partition in Liver and Blood. Environ. Sci. Technol 2022, 56 
+(10), 6192–6200. [PubMed: 35436088] 
+
+(54). Yang D; Han J; Hall DR; Sun J; Fu J; Kutarna S; Houck KA; LaLone CA; Doering JA; Ng 
+
+CA; Peng H Nontarget Screening of Per- and Polyfluoroalkyl Substances Binding to Human 
+Liver Fatty Acid Binding Protein. Environ. Sci. Technol 2020, 54 (9), 5676–5686. [PubMed: 
+32249562] 
+
+(55). Zhang L; Ren X-M; Guo L-H Structure-Based Investigation on the Interaction of Perfluorinated 
+Compounds with Human Liver Fatty Acid Binding Protein. Environ. Sci. Technol 2013, 47 (19), 
+11293–11301. [PubMed: 24006842] 
+
+(56). Endo S; Goss KU Serum Albumin Binding of Structurally Diverse Neutral Organic Compounds: 
+
+Data and Models. Chem. Res. Toxicol 2011, 24 (24), 2293–2301. [PubMed: 22070391] 
+(57). Mathialagan S; Piotrowski MA; Tess DA; Feng B; Litchfield J; Varma MV Quantitative 
+
+Prediction of Human Renal Clearance and Drug-Drug Interactions of Organic Anion Transporter 
+Substrates Using In Vitro Transport Data: A Relative Activity Factor Approach. Drug Metab. 
+Dispos 2017, 45 (4), 409–417. [PubMed: 28179375] 
+
+(58). Dzierlenga AL; Robinson VG; Waidyanatha S; DeVito MJ; Eifrid MA; Gibbs ST; Granville CA; 
+Blystone CR Toxicokinetics of perfluorohexanoic acid (PFHxA), perfluorooctanoic acid (PFOA) 
+and perfluorodecanoic acid (PFDA) in male and female Hsd:Sprague dawley SD rats following 
+intravenous or gavage administration. Xenobiotica 2020, 50 (6), 722–732. [PubMed: 31680603] 
+
+(59). Dassuncao C; Pickard H; Pfohl M; Tokranov AK; Li M; Mikkelsen B; Slitt A; Sunderland EM 
+Phospholipid Levels Predict the Tissue Distribution of Poly- and Perfluoroalkyl Substances in a 
+Marine Mammal. Environ. Sci. Technol. Lett 2019, 6 (3), 119–125. [PubMed: 33283018] 
+
+(60). Worley RR; Moore SM; Tierney BC; Ye X; Calafat AM; Campbell S; Woudneh MB; Fisher 
+J Per- and polyfluoroalkyl substances in human serum and urine samples from a residentially 
+exposed community. Environ. Int 2017, 106, 135–143. [PubMed: 28645013] 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 18
+
+(61). Loccisano AE; Campbell JL Jr.; Andersen ME; Clewell HJ 3rd Evaluation and prediction of 
+
+pharmacokinetics of PFOA and PFOS in the monkey and human using a PBPK model. Regul. 
+Toxicol. Pharmacol 2011, 59 (1), 157–175. [PubMed: 21168463] 
+
+(62). Chou W-C; Lin Z Bayesian evaluation of a physiologically based pharmacokinetic (PBPK) model 
+
+for perfluorooctane sulfonate (PFOS) to characterize the interspecies uncertainty between mice, 
+rats, monkeys, and humans: Development and performance verification. Environ. Int 2019, 129, 
+408–422. [PubMed: 31152982] 
+
+(63). Wallis DJ; Kotlarz N; Knappe DRU; Collier DN; Lea CS; Reif D; McCord J; Strynar M; DeWitt 
+JC; Hoppin JA Estimation of the Half-Lives of Recently Detected Per- and Polyfluorinated Alkyl 
+Ethers in an Exposed Community. Environ. Sci. Technol 2023, 57 (41), 15348–15355. [PubMed: 
+37801709] 
+
+(64). Zhang J; Li S-P; Li Q-Q; Zhang Y-T; Dong G-H; Canchola A; Zeng X; Chou W-C Development 
+of a Physiologically Based Pharmacokinetic (PBPK) Model for F-53B in Pregnant Mice and 
+Its Extrapolation to Humans. Environ. Sci. Technol 2024, 58 (42), 18928–18939. [PubMed: 
+39394996] 
+
+(65). Camdzic M; Aga DS; Atilla-Gokcumen GE Cellular Interactions and Fatty Acid Transporter 
+
+CD36-Mediated Uptake of Per- and Polyfluorinated Alkyl Substances (PFAS). Chem. Res. 
+Toxicol 2022, 35 (4), 694–702. [PubMed: 35380827] 
+
+(66). Dankers ACA; Roelofs MJE; Piersma AH; Sweep FCGJ; Russel FGM; van den Berg M; van 
+
+Duursen MBM; Masereeuw R Endocrine Disruptors Differentially Target ATP-Binding Cassette 
+Transporters in the Blood-Testis Barrier and Affect Leydig Cell Testosterone Secretion In Vitro. 
+Toxicol. Sci 2013, 136 (2), 382–391. [PubMed: 24014645] 
+
+(67). Rostami-Hodjegan A; Al-Majdoub ZM; von Grabowiecki Y; Yee KL; Sahoo S; Breitwieser 
+W; Galetin A; Gibson C; Achour B Dealing With Variable Drug Exposure Due to Variable 
+Hepatic Metabolism: A Proof-of-Concept Application of Liquid Biopsy in Renal Impairment. 
+Clin. Pharmacol. Ther 2024, 116 (3), 814–823. [PubMed: 38738484] 
+
+(68). David N; Antignac J-P; Roux M; Marchand P; Michalak S; Oberti F; Fouchard I; Lannes A; 
+
+Blanchet O; Cales P; Blanc EB; Boursier J; Canivet CM Associations between perfluoroalkyl 
+substances and the severity of non-alcoholic fatty liver disease. Environ. Int 2023, 180, No. 
+108235. [PubMed: 37776622] 
+
+(69). Kawaguchi K; Sakai Y; Terashima T; Shimode T; Seki A; Orita N; Takeshita Y; Shimakami 
+T; Takatori H; Arai K; Kitamura K; Yamashita T; Yamashita T; Takamura M; Mizukoshi E; 
+Takamura T; Honda M; Wada T; Kaneko S Decline in serum albumin concentration is a predictor 
+of serious events in nonalcoholic fatty liver disease. Medicine 2021, 100 (31), No. e26835. 
+[PubMed: 34397849] 
+
+(70). Idasiak-Piechocka I; Lewandowski D; Swigut W; Kalinowski J; Mikosza K; Suchowiejski 
+
+P; Szałek E; Karbownik A; Miedziaszczyk M Effect of hypoalbuminemia on drug 
+pharmacokinetics. Front. Pharmacol 2025, 16, No. 1546465. [PubMed: 40051558] 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 19
+
+Figure 1. 
+Schematic for the five-compartment PBTK model developed in this study that includes 
+blood, gut, liver, kidney, and rest of body. Intratissue distribution is driven by binding 
+to proteins and phospholipids. Blood transport, intertissue distribution, and excretion are 
+based on physiological flow rates  Q  and chemical transport rates (permeability, membrane 
+transporters). Rest: nonspecified organs; Qhep: hepatic artery blood flow; Qportal: portal vein 
+blood flow; Qbile: bile flow rate; Cfree: unbound chemical concentration in blood or tissue; 
+Cbile: chemical concentration in bile; Papp: apparent membrane permeability; Ntcp: sodium 
+taurocholate cotransporting polypeptide; Oatp: organic anion-transporting polypeptide; SA: 
+serum albumin; Glob: globulins; FABP: fatty acid-binding protein; Struc. protein: structural 
+proteins; PL: membrane phospholipids.
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 20
+
+Figure 2. 
+Evaluation of the physiologically based toxicokinetic model (PBTK) model developed 
+in this study against observations from three experimental mouse studies. Panels (A–C) 
+compare modeled and experimental blood or plasma concentrations of PFOS (A), PFOA 
+(B), and PFHxS (C) over time in C57BL/6J (A) or CD-1 mice (B, C) following single 
+oral (PO) or intravenous (IV) doses. Modeled and experimental elimination half-lives with 
+95% confidence intervals, along with rRMSE and R2 are provided in each plot. Panel (D) 
+compares modeled and experimental PFOS concentrations across blood, liver, kidney, gut, 
+and rest tissues after single or multiple oral doses, with solid and dashed lines representing 
+1:1, 3:1, and 1:3 agreement.
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 21
+
+Figure 3. 
+Panel (A) shows modeled temporal concentrations of PFOS across blood, liver, kidney, gut, 
+and rest tissues following a single oral dose. Panel (B) illustrates the distribution of 9 PFAA 
+among proteins, phospholipids, and water in mouse liver, with lines indicating 50%, 80%, 
+and 99% distribution thresholds. Panel (C) compares concentrations of 9 PFAA in blood, 
+liver, kidney, gut, and rest tissue following a repeated daily dose over 2 years. Panel (D) 
+shows the percentage of PFAA absorbed, excreted in urine, and excreted in feces following a 
+single oral exposure and after two years of simulation.
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Fischer et al.
+
+Page 22
+
+Figure 4. 
+Sensitivity analysis of toxicokinetic parameters for (A) elimination half-life and (B) 
+blood exposure (AUC) of nine PFAA in mice. Parameters were perturbed by +10%, and 
+normalized sensitivity coefficients were calculated as the ratio of the relative change in 
+the outcome Y  to the relative change in the parameter P (blue: positive, orange: negative). 
+Elimination half-life analyses used single oral doses with durations of ten half-lives of each 
+PFAA, while AUC analyses spanned one half-life to capture absorption, distribution, and 
+elimination. Diagonal lines indicate toxicokinetic parameters not included for a given PFAA 
+due to lack of measurable transporter-mediated uptake in vitro.
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+ 
+ 
+ 
+ 
+Fischer et al.
+
+Page 23
+
+Modeled (This Study) and Experimental Elimination Half-Lives  t1/2
+
+Table 1.
+
+chemicala
+
+modeled t1/2(95% CI)b measured t1/2 (range in literature)b
+
+PFBS (C4-SA)
+
+3.2d (2.7–4.0d)
+
+PFHxA (C5-CA)
+
+3.8d (3.2–5.2d)
+
+PFHpA (C6-CA)
+
+6.9d (5.9–8.1d)
+
+PFHxS (C6-SA)
+
+31d (28–34d)
+
+PFOA (C7-CA)
+
+13d (12–14d)
+
+PFOS (C8-SA)
+
+51d (42–58d)
+
+PFNA (C8-CA)
+
+38d (27–55d)
+
+PFDA (C9-CA)
+
+56d (48–66d)
+
+PFUDA (C10-CA)
+
+47d (28–88d)
+
+5.8h13
+
+<6h14
+
+N/A
+
+25–54d16,17
+
+12–42d16
+
+31–72d10,16,19
+
+26–69d15
+
+52–66d (rat)58
+
+N/A
+
+a
+
+Perfluoroalkyl acids (carboxylic acids: CA or sulfonic acids: SA) are indicated by their carbon chain lengths in parentheses (e.g., C4 = four 
+perfluorinated carbons).
+
+b
+Ranges indicate 95% confidence intervals (95% CI) determined by probabilistic modeling to experimentally measured t1/2
+studies for seven PFAA (N/A = not available).
+
+ ranges from various 
+
+Environ Sci Technol. Author manuscript; available in PMC 2026 March 02.
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+ 
+ 
+ 
+ 
+
