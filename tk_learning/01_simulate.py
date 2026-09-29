@@ -16,7 +16,10 @@ Run:  python 01_simulate.py
 """
 import numpy as np
 
+import plotting as P
 from tk import iv_1comp, half_life, clearance, steady_state
+
+P.setup()
 
 # ----------------------------------------------------------------------
 # A. One curve, printed as a table. Read it before looking at any plot.
@@ -95,6 +98,64 @@ print("""
 """)
 
 # ----------------------------------------------------------------------
+# D. The same three facts, as pictures
+# ----------------------------------------------------------------------
+print("D. Figures\n")
+import matplotlib.pyplot as plt
+
+# D1 -- the same curve on a linear and a log axis.
+grid = np.linspace(0, 100, 600)
+C = iv_1comp(grid, 10.0, 0.18, 0.06)
+fig, (a, b) = plt.subplots(1, 2, figsize=(8.4, 3.4), constrained_layout=True)
+for ax, logy in [(a, False), (b, True)]:
+    P.model_line(ax, grid, C, label="C(t)")
+    for n in range(1, 5):                      # mark each half-life
+        th = n * half_life(0.06)
+        ax.plot([th, th], [0 if not logy else 1e-3, iv_1comp(th, 10.0, 0.18, 0.06)],
+                color=P.GREY, lw=0.9, ls=":")
+        ax.plot(th, iv_1comp(th, 10.0, 0.18, 0.06), "o", color=P.ORANGE, ms=4)
+    ax.set_xlabel("days")
+    if logy:
+        ax.set_yscale("log")
+        ax.set_ylim(0.05, 100)
+    ax.set_ylabel("serum conc (mg/L)")
+a.set_title("linear axis: the tail looks like nothing")
+b.set_title("log axis: a straight line, and the tail is visible")
+P.save(fig, "01_linear_vs_log.png",
+       "Orange dots mark successive half-lives. Same data both panels.")
+
+# D2 -- which knob changes the shape.
+fig, ax = plt.subplots(figsize=(5.6, 3.8), constrained_layout=True)
+for (label, d, v, kk), col in zip(
+        [("baseline", 10.0, 0.18, 0.06), ("dose x2", 20.0, 0.18, 0.06),
+         ("Vd x2", 10.0, 0.36, 0.06), ("k x2", 10.0, 0.18, 0.12)], P.CYCLE):
+    P.model_line(ax, grid, iv_1comp(grid, d, v, kk), label=label, color=col,
+                 ls="--" if label == "k x2" else "-")
+ax.set(yscale="log", xlabel="days", ylabel="serum conc (mg/L)", ylim=(0.05, 200))
+ax.set_title("only k changes the SLOPE; dose and Vd shift the line up or down")
+ax.legend()
+P.save(fig, "01_which_knob.png",
+       "Three of these lines are parallel. That is the whole point.")
+
+# D3 -- accumulation towards steady state.
+days = np.arange(0, 121)
+for rate, col in [(0.1, P.BLUE), (0.2, P.ORANGE)]:
+    conc, c = [], 0.0
+    for _ in days:
+        c = c * np.exp(-0.06) + rate / 0.18
+        conc.append(c)
+    plt.plot(days, conc, color=col, lw=1.6, label=f"{rate} mg/kg/day")
+    plt.axhline(steady_state(rate, clearance(0.06, 0.18)), color=col,
+                lw=1, ls=":")
+for n in (1, 2, 3, 4, 5):
+    plt.axvline(n * half_life(0.06), color=P.GREY, lw=0.8, ls=":")
+plt.gca().set(xlabel="days of daily dosing", ylabel="serum conc (mg/L)")
+plt.gca().set_title("steady state is reached after ~4-5 half-lives, whatever the dose")
+plt.legend()
+P.save(plt.gcf(), "01_steady_state.png",
+       "Dotted horizontals = Css = rate/CL. Vertical lines = half-lives.")
+
+# ----------------------------------------------------------------------
 # QUESTIONS -- answer these before moving on
 # ----------------------------------------------------------------------
 print("""
@@ -112,6 +173,10 @@ QUESTIONS
 EXERCISES
   a. Modify section A to use PFHxA in male rats: half-life 0.095 days.
      How many days of sampling would you need to see the decay?
+  c. Redraw 01_which_knob.png on a LINEAR y-axis. Can you still see
+     which curves are parallel? That is why PK is done in logs.
+
+EXERCISES (continued)
   b. In section C, change the dose to every 7 days instead of daily,
      keeping the same average rate. Does Css change? Does the
      peak-to-trough swing change? Which one matters for toxicity?

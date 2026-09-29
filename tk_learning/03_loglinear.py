@@ -13,9 +13,13 @@ This lesson does it, then shows you the three ways it misleads you.
 
 Run:  python 03_loglinear.py
 """
+import matplotlib.pyplot as plt
 import numpy as np
 
+import plotting as P
 from tk import load, one_dataset, half_life, clearance
+
+P.setup()
 
 def loglinear(t, C):
     """Return k, C0, and the R^2 of the log-scale fit."""
@@ -124,6 +128,55 @@ print("""
    Compare: the careful Bayesian 2-compartment fit of these same data in
    ../pfas_dose gives 13.3 days.
 
+D. Figures
+""")
+
+# D1 -- THE plot of this lesson. Four defensible choices of which points
+# to fit, four different published half-lives, all on the same data.
+fig, ax = plt.subplots(figsize=(6.4, 4.4), constrained_layout=True)
+P.data_points(ax, one.time_d, one.conc_mgL, label="monkey 2054")
+grid = np.linspace(0, 95, 300)
+for (label, sel), col, ls in zip(
+        [("everything", one.time_d >= 0), ("after day 1", one.time_d >= 1),
+         ("after day 7", one.time_d >= 7), ("first 7 days", one.time_d <= 7)],
+        P.CYCLE, ["-", "--", "-", "--"]):
+    d = one[sel]
+    kk, C0, _ = loglinear(d.time_d, d.conc_mgL)
+    ax.plot(grid, C0 * np.exp(-kk * grid), ls, color=col, lw=1.6,
+            label=f"{label}: t1/2 = {half_life(kk):.1f} d")
+    # mark which points that line was actually fitted to
+    ax.plot(d.time_d, d.conc_mgL, "o", color=col, ms=9, mfc="none",
+            mew=0.9, alpha=0.5)
+ax.set(yscale="log", ylim=(0.05, 400), xlabel="days since dose",
+       ylabel="serum conc (mg/L)")
+ax.set_title("four defensible fits to ONE dataset")
+ax.legend(loc="upper right")
+P.save(fig, "03_which_points.png",
+       "Faint rings show which points each line was fitted to. Every one "
+       "of these has R2 > 0.81, and they differ 2.3-fold in half-life.\n"
+       "Where the intercepts land on the y-axis is the Vd you would "
+       "report: they differ 3-fold too.")
+
+# D2 -- the same four fits as a spread of half-lives, next to the spread
+# across the 13 rat experiments. Two very different sources of variation.
+fig, ax = plt.subplots(figsize=(6.4, 3.2), constrained_layout=True)
+choices = []
+for label, sel in [("everything", one.time_d >= 0), ("after day 1", one.time_d >= 1),
+                   ("after day 7", one.time_d >= 7), ("first 7 days", one.time_d <= 7)]:
+    kk, _, _ = loglinear(one[sel].time_d, one[sel].conc_mgL)
+    choices.append(half_life(kk))
+ax.plot(choices, [1] * len(choices), "o", color=P.ORANGE, ms=8, mfc="none", mew=1.6)
+ax.plot(hl, [0] * len(hl), "o", color=P.BLUE, ms=8, mfc="none", mew=1.6)
+ax.set_yticks([0, 1], ["13 rat experiments\n(real biology + analysis)",
+                       "1 monkey, 4 analysts\n(analysis choice alone)"])
+ax.set(xlabel="reported half-life (days)", ylim=(-0.6, 1.6))
+ax.set_title("how much of a published spread is biology?")
+P.save(fig, "03_spread.png",
+       "The top row is ONE animal's data analysed four ways. Any "
+       "cross-study comparison inherits this spread before biology "
+       "contributes anything.")
+
+print("""
 QUESTIONS
   1. Why is the Vd you get from the terminal intercept too LARGE rather
      than too small? Sketch the two lines on a log axis.

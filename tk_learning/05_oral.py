@@ -14,10 +14,14 @@ parameters apart at all.
 
 Run:  python 05_oral.py
 """
+import matplotlib.pyplot as plt
 import numpy as np
 from scipy.optimize import curve_fit
 
+import plotting as P
 from tk import load, oral_1comp, iv_1comp, half_life, clearance
+
+P.setup()
 
 # ----------------------------------------------------------------------
 # A. What the curve looks like
@@ -165,6 +169,60 @@ print("""
    Design beats statistics. No amount of cleverness in the fitting
    recovers information the experiment did not collect.
 
+F. Figures
+""")
+
+# F1 -- absorption changes the shape, not the area.
+gg = np.linspace(0.001, 120, 2000)
+fig, (a, b) = plt.subplots(1, 2, figsize=(9.0, 3.6), constrained_layout=True)
+for ka_, col in zip([0.2, 1.0, 5.0, 50.0], P.CYCLE):
+    cc = oral_1comp(gg, 1.0, 0.25, 0.05, ka_)
+    for ax in (a, b):
+        ax.plot(gg, cc, color=col, lw=1.5, label=f"ka = {ka_:g}/day")
+for ax, ttl in [(a, "linear axis: the peak"), (b, "log axis: the tails are parallel")]:
+    ax.plot(gg, iv_1comp(gg, 1.0, 0.25, 0.05), "k--", lw=1.2, label="IV")
+    ax.set(xlabel="days", ylabel="serum conc (mg/L)")
+    ax.set_title(ttl)
+b.set(yscale="log", ylim=(1e-3, 6))
+a.set_xlim(0, 30)
+a.legend()
+P.save(fig, "05_absorption.png",
+       "Every curve has the SAME area under it, and the same terminal "
+       "slope. Absorption moves the peak; it cannot change total\n"
+       "exposure or the elimination rate.")
+
+# F2 -- flip-flop: two completely different parameter sets, one curve.
+fig, ax = plt.subplots(figsize=(6.0, 3.8), constrained_layout=True)
+gg2 = np.linspace(0.001, 60, 1500)
+ax.plot(gg2, oral_1comp(gg2, DOSE, Vd, lo, hi), "-", color=P.BLUE, lw=3.2,
+        label=f"k={lo:.3f}, ka={hi:.2f}, Vd={Vd:.3f}  (absorption fast)")
+ax.plot(gg2, oral_1comp(gg2, DOSE, Vd * lo / hi, hi, lo), "--", color=P.ORANGE,
+        lw=1.6, label=f"k={hi:.2f}, ka={lo:.3f}, Vd={Vd*lo/hi:.2e}  (absorption slow)")
+P.data_points(ax, t, C, label="observed")
+ax.set(yscale="log", xlabel="days", ylabel="serum conc (mg/L)")
+ax.set_title("flip-flop: a 520-fold difference in half-life, one curve")
+ax.legend(loc="lower left")
+P.save(fig, "05_flipflop.png",
+       "The dashed line is exactly on top of the solid one. One of these "
+       "says the half-life is 11.6 days, the other 0.02 days.\n"
+       "Oral data alone cannot choose. Only an IV arm can.")
+
+# F3 -- the joint fit that resolves it.
+fig, ax = plt.subplots(figsize=(6.2, 4.0), constrained_layout=True)
+gg3 = np.linspace(0.005, 24, 1200)
+P.data_points(ax, iv.time_d, iv.conc_mgL, label="IV, observed", color=P.BLUE)
+P.data_points(ax, po.time_d, po.conc_mgL, label="gavage, observed", color=P.ORANGE)
+ax.plot(gg3, iv_1comp(gg3, D, Vd2, k2), color=P.BLUE, lw=1.6, label="IV, fitted")
+ax.plot(gg3, oral_1comp(gg3, D, Vd2, k2, ka2, F2), color=P.ORANGE, lw=1.6,
+        label="gavage, fitted")
+ax.set(yscale="log", xlabel="days since dose", ylabel="serum conc (mg/L)")
+ax.set_title("one set of parameters, both routes (study 6302380, 1 mg/kg)")
+ax.legend()
+P.save(fig, "05_joint_fit.png",
+       "The IV arm has no ka, so it fixes k; the gap between the two "
+       "curves at late times is what identifies F.")
+
+print("""
 QUESTIONS
   1. In section A, why is tmax later when ka is smaller? Write down
      dC/dt = 0 and solve for t.

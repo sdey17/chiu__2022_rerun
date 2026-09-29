@@ -40,7 +40,7 @@ data/                  Chiu's MCSim input files, unmodified (GPLv3, see LICENSE-
 *.pdf                  the paper and its supplement
 
 SUMMARY.md             what the whole project has found -- start here
-tk_learning/           seven runnable lessons: 1-compartment TK to PBPK
+tk_learning/           nine runnable lessons: 1-compartment TK to PBPK
 pfas_dose/             EPA animal models; does clearance depend on dose?
 species_dose/          does dose explain the human/rodent half-life gap?
 literature/            20 sources appraised, with the numbers reconciled

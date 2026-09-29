@@ -1,7 +1,8 @@
-# lessons 01-05
+# lessons 01-05 and 08
 numpy
 scipy
 pandas
+matplotlib
 # lessons 06-07
 pymc>=5
 arviz>=0.17

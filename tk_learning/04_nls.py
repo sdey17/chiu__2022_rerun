@@ -12,10 +12,14 @@ two compartments, PBPK -- uses the same machinery.
 
 Run:  python 04_nls.py
 """
+import matplotlib.pyplot as plt
 import numpy as np
 from scipy.optimize import curve_fit
 
+import plotting as P
 from tk import load, iv_1comp, half_life, clearance
+
+P.setup()
 
 mk = load("PFOA_Male_primate")
 one = mk[(mk.animal_id == 2054) & (mk.conc_mgL > 0)].sort_values("time_d")
@@ -88,13 +92,27 @@ print("""
 # ----------------------------------------------------------------------
 print("C. The reported confidence interval\n")
 corr = pcov[0, 1] / np.sqrt(pcov[0, 0] * pcov[1, 1])
-print(f"   correlation between ln Vd and ln k: {corr:+.2f}")
+se_CL = np.sqrt(pcov[0, 0] + pcov[1, 1] + 2 * pcov[0, 1])   # var(lnVd + lnk)
+se_indep = np.sqrt(pcov[0, 0] + pcov[1, 1])                 # if they were independent
+print(f"   correlation between ln Vd and ln k: {corr:+.2f}\n")
+print(f"   {'quantity':22s} {'95% interval':>14s}")
+for nm, sd in [("Vd", se_ln[0]), ("k", se_ln[1]), ("CL = k*Vd", se_CL),
+               ("CL if k,Vd were indep", se_indep)]:
+    print(f"   {nm:22s} {'x/ ' + format(np.exp(1.96 * sd), '.2f'):>14s}")
 print("""
    The two parameters trade off: a larger Vd lowers the whole curve, and
-   the optimiser can partly compensate with a smaller k. That correlation
-   is why you should never quote a Vd interval and a k interval as if
-   they were independent, and why the derived clearance CL = k*Vd has a
-   tighter interval than either.
+   the optimiser can partly compensate with a smaller k. That is the
+   negative correlation, and it has a concrete consequence -- CL comes
+   out at x/ 1.35 rather than the x/ 1.47 you would get by propagating
+   the two errors as if they were independent. Never quote a Vd interval
+   and a k interval as though they were separate facts.
+
+   But note what is NOT true here: CL is not the best-determined
+   quantity. k is (x/ 1.16). The single sharpest thing this experiment
+   measured is the SLOPE of the decay; Vd is the loosest; CL sits
+   between them. See figures/04_tradeoff.png -- the likelihood valley is
+   elongated, so one direction in (Vd, k) space is well determined and
+   the perpendicular one is not, and neither direction is an axis.
 
    And note what the interval does NOT include: the possibility that the
    one-compartment model itself is wrong. Least-squares intervals are
@@ -124,13 +142,53 @@ print("""
    extrapolated, and that part DOES need a terminal rate. Studies that
    stop early have a large extrapolated fraction and an unreliable AUC.
 
+E. Figures
+""")
+
+# E1 -- the standard two-panel diagnostic. Look at the bottom panel first.
+grid = np.linspace(0.01, 95, 400)
+P.fit_and_residuals(
+    t, C, grid, iv_1comp(grid, DOSE, Vd, k), iv_1comp(t, DOSE, Vd, k),
+    title=f"one-compartment NLS fit: t1/2 = {half_life(k):.1f} d",
+    name="04_fit_residuals.png",
+    note="The residuals are not scattered -- they sweep from +0.6 down to "
+         "-1.1 and back. Three sign changes in fourteen points.\n"
+         "That is a structural failure, and no reweighting or better "
+         "optimiser will fix it.")
+
+# E2 -- the parameter trade-off, as the likelihood surface itself.
+vv = np.linspace(np.log(0.10), np.log(0.35), 120)
+kk = np.linspace(np.log(0.035), np.log(0.14), 120)
+V, K = np.meshgrid(vv, kk)
+SSQ = np.array([[np.sum((np.log(C) - model_log(t, v, kx)) ** 2)
+                 for v in vv] for kx in kk])
+fig, ax = plt.subplots(figsize=(5.4, 4.2), constrained_layout=True)
+cs = ax.contour(np.exp(V), np.exp(K), np.log(SSQ), levels=14,
+                colors=P.BLUE, linewidths=0.8)
+ax.plot(Vd, k, "o", color=P.ORANGE, ms=9, label="least-squares optimum")
+# the line of constant clearance through the optimum
+vline = np.exp(vv)
+ax.plot(vline, clearance(k, Vd) / vline, "--", color=P.GREEN, lw=1.6,
+        label=f"constant CL = {clearance(k, Vd):.4f} L/kg/day")
+ax.set(xlabel="Vd (L/kg)", ylabel="k (1/day)", xscale="log", yscale="log",
+       ylim=(0.035, 0.14))
+ax.set_title("the Vd-k trade-off, drawn")
+ax.legend(loc="upper right")
+P.save(fig, "04_tradeoff.png",
+       "Contours of log sum-of-squares. The valley's long axis runs "
+       "close to the constant-clearance line, so moving along it costs\n"
+       "little fit: that is the -0.56 correlation, drawn. The "
+       "best-determined single parameter is still k (x/ 1.16).")
+
+print("""
 QUESTIONS
   1. In section D, what fraction of the total AUC came from the
      extrapolated tail? Rule of thumb: above 20% and the AUC is suspect.
   2. Why does CL = dose/AUC hold for a two-compartment model too?
      (Hint: integrate dA/dt = -CL*C over all time.)
-  3. Section C says CL has a tighter interval than Vd or k separately.
-     Why would that be, given the negative correlation between them?
+  3. Section C: CL is better determined than Vd but worse than k. Work
+     out why from var(lnVd + lnk) = var(lnVd) + var(lnk) + 2cov -- which
+     term has to dominate for CL to beat BOTH?
   4. If you had only the first 7 days of this curve, which of Vd, k and
      CL would still be well estimated?
 

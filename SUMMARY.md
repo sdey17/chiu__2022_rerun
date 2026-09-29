@@ -242,6 +242,10 @@ scoring. Note the I² split: community-water cohorts agree with each other
 ## Where to go next
 
 `tk_learning/` builds toxicokinetic modelling up from first principles on
-the animal data used above: forward simulation, log-linear fitting,
-nonlinear least squares, oral absorption, Bayesian fitting, and where the
-one-compartment model fails — which is the motivation for PBPK.
+the animal data used above, in nine runnable lessons with figures:
+forward simulation, log-linear fitting, nonlinear least squares, oral
+absorption, Bayesian hierarchical fitting, one-vs-two compartments by
+LOO, numerical ODE solving (the bridge to PBPK), and volume of
+distribution — where it shows that the 17-fold human PFOA controversy
+in phase 5 above is, mechanically, a choice between four different
+volumes that a two-compartment model defines.

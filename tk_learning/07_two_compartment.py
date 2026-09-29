@@ -18,12 +18,16 @@ PBPK exists to answer.
 
 Run:  python 07_two_compartment.py     (about 2-3 minutes)
 """
+import matplotlib.pyplot as plt
 import numpy as np
 import pymc as pm
 import pytensor.tensor as pt
 import arviz as az
 
-from tk import load
+import plotting as P
+from tk import load, iv_1comp, iv_2comp
+
+P.setup()
 
 SEED = 20260929
 mk = load("PFOA_Male_primate")
@@ -132,6 +136,100 @@ if __name__ == "__main__":
     print(f"\n   {winner} wins by {diff:.1f} +/- {dse:.1f} elpd")
     print(f"   ratio {diff/max(dse,1e-9):.1f} standard errors "
           f"-- {'decisive' if diff > 4*dse else 'not decisive'}")
+
+    # ------------------------------------------------------------------
+    # Figures
+    # ------------------------------------------------------------------
+    print("\nFigures\n")
+    grid = np.linspace(0.02, 95, 400)
+
+    def per_animal(idata, names):
+        """Reconstruct each animal's own parameters from the non-centred
+        posterior: p_i = exp(mu + sd*z_i), medianed over draws."""
+        out = {}
+        for n in names:
+            mu = idata.posterior[f"mu_ln_{n}"].values[..., None]
+            sd = idata.posterior[f"sd_ln_{n}"].values[..., None]
+            z = idata.posterior[f"z{'_' if n not in ('V', 'k') else ''}{n}"].values
+            out[n] = np.exp(np.median(mu + sd * z, axis=(0, 1)))
+        return out
+
+    p1 = per_animal(i1, ["V", "k"])
+    p2 = per_animal(i2, ["V1", "k10", "k12", "k21"])
+
+    def curves(which, tt, j):
+        if which == 1:
+            return iv_1comp(tt, DOSE, p1["V"][j], p1["k"][j])
+        return iv_2comp(tt, DOSE, p2["V1"][j], p2["k10"][j],
+                        p2["k12"][j], p2["k21"][j])
+
+    fig, axes = plt.subplots(2, 2, figsize=(9.6, 5.8), sharex=True,
+                             height_ratios=[2.2, 1], constrained_layout=True)
+    for col, (which, name) in enumerate([(1, "one compartment"),
+                                         (2, "two compartments")]):
+        a, b = axes[0, col], axes[1, col]
+        res_all, t_all = [], []
+        for j, (aid, c) in enumerate(zip(animals, P.CYCLE)):
+            m = mk.animal_id.values == aid
+            P.data_points(a, t[m], np.exp(y[m]), color=c,
+                          label=f"monkey {aid}" if col == 0 else None)
+            # each animal gets its OWN fitted curve -- that is what the
+            # hierarchy estimates, and what sigma is the scatter around
+            a.plot(grid, curves(which, grid, j), color=c, lw=1.4)
+            r = y[m] - np.log(curves(which, t[m], j))
+            res_all.append(r); t_all.append(t[m])
+        a.set(yscale="log", ylim=(0.02, 400))
+        sg = float(np.median(
+            (i1 if which == 1 else i2).posterior["sigma"]))
+        a.set_title(f"{name}   (sigma = {sg:.2f})")
+        if col == 0:
+            a.set_ylabel("serum conc (mg/L)")
+            a.legend(loc="upper right", fontsize=7.5)
+        tt_, rr = np.concatenate(t_all), np.concatenate(res_all)
+        b.axhline(0, color=P.SOFT, lw=1)
+        b.vlines(tt_, 0, rr, color=P.GRID, lw=1)
+        b.plot(tt_, rr, "o", color=P.ORANGE, ms=4)
+        b.set(xlabel="days since dose", ylim=(-2.2, 2.2))
+        if col == 0:
+            b.set_ylabel("ln(obs/pred)")
+    P.save(fig, "07_one_vs_two.png",
+           "Each animal against ITS OWN fitted curve, which is what "
+           "sigma measures. Left: the residuals sweep negative through\n"
+           "days 10-30 and back up -- the model is systematically wrong "
+           "in the same place for every animal. Right: scatter, no "
+           "pattern.\nsigma falls 0.47 -> 0.20 because that sweep was "
+           "being counted as noise.")
+
+    # The two exponentials, separated. Use the POPULATION medians here,
+    # since this figure is about the shape of the model, not any animal.
+    V1m, k10m, k12m, k21m = np.exp([
+        float(np.median(i2.posterior[f"mu_ln_{n}"]))
+        for n in ["V1", "k10", "k12", "k21"]])
+    fig, ax = plt.subplots(figsize=(6.2, 4.0), constrained_layout=True)
+    sm = k10m + k12m + k21m
+    disc = np.sqrt(sm ** 2 - 4 * k10m * k21m)
+    al, be = (sm + disc) / 2, (sm - disc) / 2
+    c0 = DOSE / V1m
+    A = c0 * (al - k21m) / (al - be)
+    B = c0 * (k21m - be) / (al - be)
+    ax.plot(grid, A * np.exp(-al * grid) + B * np.exp(-be * grid),
+            color=P.INK, lw=2.0, label="total")
+    ax.plot(grid, A * np.exp(-al * grid), "--", color=P.BLUE, lw=1.5,
+            label=f"fast (alpha): t1/2 = {np.log(2)/al:.1f} d — distribution")
+    ax.plot(grid, B * np.exp(-be * grid), "--", color=P.ORANGE, lw=1.5,
+            label=f"slow (beta): t1/2 = {np.log(2)/be:.1f} d — elimination")
+    for aid, c in zip(animals, P.CYCLE):
+        d = mk[mk.animal_id == aid]
+        P.data_points(ax, d.time_d, d.conc_mgL, color=P.GREY, label=None, ms=4)
+    ax.set(yscale="log", ylim=(0.02, 400), xlabel="days since dose",
+           ylabel="serum conc (mg/L)")
+    ax.set_title("a two-compartment curve is two straight lines added up")
+    ax.legend(loc="upper right", fontsize=8)
+    P.save(fig, "07_two_phases.png",
+           "Early on the fast phase dominates and the curve is steep; "
+           "once it has decayed away only the slow line is left.\n"
+           "A study that stops before the crossover reports the fast "
+           "half-life and calls it THE half-life.")
 
     print("""
    Note the 'warning' column: True for both models. ArviZ is telling you

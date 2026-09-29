@@ -20,11 +20,15 @@ Three things you get that NLS cannot give you easily:
 
 Run:  python 06_bayes.py        (about 1-2 minutes)
 """
+import matplotlib.pyplot as plt
 import numpy as np
 import pymc as pm
 import arviz as az
 
-from tk import load, half_life
+import plotting as P
+from tk import load, half_life, iv_1comp
+
+P.setup()
 
 SEED = 20260929
 mk = load("PFOA_Male_primate")
@@ -99,6 +103,12 @@ def hierarchical():
 
 
 def run(m, name):
+    """Sample, and cache to disk so re-running is instant."""
+    import os
+    cache = f"trace_{name}.nc"
+    if os.path.exists(cache):
+        print(f"\n--- {name} (loaded from {cache}) ---")
+        return az.from_netcdf(cache)
     with m:
         idata = pm.sample(1500, tune=1500, chains=4, random_seed=SEED,
                           target_accept=0.95, progressbar=False,
@@ -108,6 +118,7 @@ def run(m, name):
     rhat = float(az.rhat(idata).to_array().max())
     print(f"divergences {div}   worst r-hat {rhat:.4f}"
           f"   {'OK' if div == 0 and rhat < 1.01 else 'CHECK THIS'}")
+    idata.to_netcdf(cache)
     return idata
 
 
@@ -152,6 +163,99 @@ if __name__ == "__main__":
    Chiu's three-level human model (../model.py) is doing at scale.
 """)
 
+
+    # ------------------------------------------------------------------
+    # C. Figures
+    # ------------------------------------------------------------------
+    print("C. Figures\n")
+
+    # C1 -- posterior densities. A Bayesian answer is a SHAPE, not a
+    # number with an error bar bolted on.
+    fig, (a, b) = plt.subplots(1, 2, figsize=(8.6, 3.4), constrained_layout=True)
+    hl_p = ip.posterior["half_life"].values.ravel()
+    hl_h = ih.posterior["half_life_pop"].values.ravel()
+    for ax, (vals, ttl, col) in zip(
+            (a, b), [(hl_p, "pooled: one k for all three monkeys", P.BLUE),
+                     (hl_h, "hierarchical: the POPULATION half-life", P.ORANGE)]):
+        ax.hist(vals, bins=70, color=col, alpha=0.75, density=True)
+        lo_, hi_ = np.percentile(vals, [2.5, 97.5])
+        ax.axvline(np.median(vals), color=P.INK, lw=1.3)
+        ax.axvspan(lo_, hi_, color=col, alpha=0.12)
+        ax.set(xlabel="half-life (days)", ylabel="posterior density", xlim=(0, 40))
+        ax.set_title(ttl)
+    P.save(fig, "06_posteriors.png",
+           "Shaded = 95% credible interval, line = median. The "
+           "hierarchical population half-life is far more uncertain,\n"
+           "and rightly so: three monkeys say little about monkeys in "
+           "general. The pooled model's confidence was an artefact.")
+
+    # C2 -- shrinkage. The single most useful picture in hierarchical
+    # modelling: each animal's own estimate, pulled toward the group.
+    fig, ax = plt.subplots(figsize=(6.4, 3.4), constrained_layout=True)
+    for j, aid in enumerate(animals):
+        d = mk[mk.animal_id == aid]
+        kk, C0 = np.polyfit(d.time_d, np.log(d.conc_mgL), 1)[:2]
+        alone = np.log(2) / -kk                       # that animal, fitted alone
+        post = ih.posterior["half_life_i"].values[:, :, j].ravel()
+        ax.plot([alone, np.median(post)], [j, j], "-", color=P.GREY, lw=1.2)
+        ax.plot(alone, j, "o", color=P.BLUE, ms=7, mfc="none", mew=1.6,
+                label="fitted alone" if j == 0 else None)
+        ax.plot(np.median(post), j, "o", color=P.ORANGE, ms=7,
+                label="hierarchical" if j == 0 else None)
+        ax.hlines(j, *np.percentile(post, [2.5, 97.5]), color=P.ORANGE, lw=1.4,
+                  alpha=0.5)
+    ax.axvline(np.median(hl_h), color=P.INK, ls=":", lw=1.2,
+               label="population median")
+    ax.set_yticks(range(len(animals)), [f"monkey {a}" for a in animals])
+    ax.set(xlabel="half-life (days)", ylim=(-0.6, len(animals) - 0.4))
+    ax.set_title("partial pooling: each animal pulled toward the group")
+    ax.legend(loc="center left", bbox_to_anchor=(1.01, 0.5))
+    P.save(fig, "06_shrinkage.png",
+           "Blue = that animal fitted on its own; orange = the same "
+           "animal inside the hierarchy, with its 95% interval.\n"
+           "The gaps are small here because each monkey has ~14 of its "
+           "own points, so its own data dominate. With 3 points each "
+           "the orange dots would sit much closer to the dotted line. "
+           "That is the whole mechanism:\nshrinkage scales with how "
+           "little that unit's own data say.")
+
+    # C3 -- two DIFFERENT bands that beginners routinely conflate.
+    fig, ax = plt.subplots(figsize=(6.6, 4.2), constrained_layout=True)
+    grid = np.linspace(0.02, 95, 300)
+    Vd_p = ip.posterior["Vd"].values.ravel()
+    k_p = ip.posterior["k"].values.ravel()
+    sig_p = ip.posterior["sigma"].values.ravel()
+    curves = np.array([iv_1comp(grid, DOSE, v, kk)
+                       for v, kk in zip(Vd_p[:1500], k_p[:1500])])
+
+    # (i) uncertainty in the MEAN curve: only the parameters vary.
+    lo_m, hi_m = np.percentile(curves, [2.5, 97.5], axis=0)
+    ax.fill_between(grid, lo_m, hi_m, color=P.BLUE, alpha=0.35,
+                    label="95% for the mean curve (parameters only)")
+
+    # (ii) where a NEW observation should fall: parameters AND sigma.
+    rng = np.random.default_rng(0)
+    pred = curves * np.exp(rng.normal(0, sig_p[:1500][:, None]))
+    lo_p, hi_p = np.percentile(pred, [2.5, 97.5], axis=0)
+    ax.fill_between(grid, lo_p, hi_p, color=P.BLUE, alpha=0.12,
+                    label="95% for a new observation (+ sigma)")
+
+    for aid, col in zip(animals, P.CYCLE):
+        d = mk[mk.animal_id == aid]
+        P.data_points(ax, d.time_d, d.conc_mgL, label=f"monkey {aid}", color=col)
+    ax.set(yscale="log", ylim=(0.005, 500), xlabel="days since dose",
+           ylabel="serum conc (mg/L)")
+    ax.set_title("two bands people confuse: mean curve vs new observation")
+    ax.legend(loc="upper right", fontsize=7.5)
+    P.save(fig, "06_posterior_predictive.png",
+           "The dark band is narrow because 43 points pin the average "
+           "curve well. It is NOT where data should fall, and almost\n"
+           "every real point lies outside it -- that is correct, not a "
+           "failure. The pale band, which includes sigma = 0.85, is the "
+           "one to check a model against.\nIts width is the pooled "
+           "model's admission that it cannot tell these three animals "
+           "apart.")
+
     comp = az.compare({"pooled": ip, "hierarchical": ih}, ic="loo")
     print(comp.to_string())
     print("""
@@ -164,6 +268,10 @@ if __name__ == "__main__":
    two compartments, and the same one lesson 07 will use.
 
 QUESTIONS
+  0. In 06_posterior_predictive.png, which band would you use to answer
+     "is this model adequate?", and which to answer "how well do we know
+     the typical monkey's curve?" Getting these two confused is the most
+     common error in reporting a Bayesian fit.
   1. The pooled model's sigma mixes measurement error with
      between-animal differences. Which one does the hierarchical model
      move it into? Check the numbers.
