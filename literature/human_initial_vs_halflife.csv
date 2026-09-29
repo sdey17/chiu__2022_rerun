@@ -1,0 +1,14 @@
+chemical,cohort,initial_ngml,halflife_y,note
+PFOA,Olsen 2007 retired workers,408.0,3.5,"median initial, GM half-life"
+PFOA,Gomis ski waxers,500.0,2.4,"range 250-1050, median half-life"
+PFOA,Bartell 2010 Mid-Ohio,180.0,2.3,mean initial
+PFOA,Seals 2011 Little Hocking,55.0,2.9,"cross-sectional, 1st spline segment"
+PFOA,Seals 2011 Lubeck,27.0,8.5,"cross-sectional, ~half of Little Hocking"
+PFOA,Brede 2010 Arnsberg,24.0,3.26,"median initial, GM half-life"
+PFOA,Worley 2017 Decatur,16.3,3.9,GM initial
+PFHxS,Olsen 2007 retired workers,193.0,7.3,"median initial, GM half-life"
+PFHxS,Li 2018 Ronneby,152.0,5.3,median initial
+PFHxS,Worley 2017 Decatur,6.4,15.5,GM initial
+PFOS,Olsen 2007 retired workers,626.0,4.8,"median initial, GM half-life"
+PFOS,Worley 2017 Decatur,39.8,3.3,GM initial
+PFOS,Li 2018 Ronneby,260.0,3.4,median initial

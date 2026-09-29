@@ -1,9 +1,10 @@
 # Human PFAS half-lives: which estimates to trust, and why they disagree
 
-Literature search run through PubMed on 2026-09-29. All numbers below were
-read from the papers' own abstracts in that session unless marked
-otherwise in `studies.csv` (`verified` column). Nothing here is quoted
-from memory.
+Literature search run through PubMed on 2026-09-29. Nine open-access
+full texts were then pulled from PMC (`fetch_pmc.py`, files in
+`fulltext/`); the rest is from abstracts. The `verified` column in
+`studies.csv` records which is which. Nothing here is quoted from
+memory.
 
 ## The disagreement is real and large
 
@@ -92,30 +93,83 @@ of the between-study spread is real biology, not method.
 
 ## A seventh, specific to this project: exposure level
 
-**Seals 2011 is the one within-human dose contrast in the literature.**
-Same study, same methods, two water districts: half-life **2.9 y where
-exposure was high** and **8.5 y where it was low**. The authors' own
-reading is that this suggests "a possible concentration-dependent or
-time-dependent clearance process **or inadequate adjustment for
-background exposures**."
+Now resolved against full text, and the answer is more interesting than
+the abstracts suggested.
 
-This is directly relevant to the dose hypothesis we tested in
-`../species_dose`:
+### Seals 2011 read properly
 
-- Direction matches: higher exposure, shorter half-life - the same sign
-  as the dose slope we fitted in male rats (clearance ~ dose^0.11).
-- Magnitude does **not** match: within humans it is a ~3x half-life
-  difference; our rat slope predicts far less over a similar exposure
-  ratio.
-- The authors offer the competing explanation themselves, and it is the
-  more parsimonious one: at low exposure, serum sits closer to
-  background, so failing to subtract background biases the half-life
-  long. That produces exactly this pattern with no dose dependence at
-  all.
+The full text shows the study is **better controlled than its abstract
+implies**. It did subtract background (5 ng/mL), did truncate at
+15 ng/mL to keep subjects away from background, and did run sensitivity
+analyses over both choices. Half-lives stayed apart under every setting:
+Little Hocking 2.5-3.0 y, Lubeck 5.9-10.3 y.
 
-So Seals 2011 is the best available evidence *for* the dose hypothesis in
-humans, and it is confounded in a way its own authors flag. It is worth
-chasing the full text.
+Its strongest internal argument is one the abstract omits entirely:
+
+> "the rate of decay (slope) of the second linear segment for Little
+> Hocking is similar to the rate of decay for the first segment for
+> Lubeck **at similar concentration levels**"
+
+That is a matched-concentration comparison inside one study - the same
+logic we used across species. The decay rate tracks **concentration**,
+not district identity and not time since leaving. It is real evidence
+for concentration-dependent clearance in humans.
+
+### But the implied effect is mechanistically impossible
+
+Little Hocking ran about 2x Lubeck's serum level. Turning the half-life
+ratio into a slope of ln(clearance) on ln(concentration):
+
+| Little Hocking | Lubeck | ratio | implied slope |
+|---|---|---|---|
+| 2.9 y | 8.5 y | 2.93 | **+1.55** (headline) |
+| 3.0 y | 5.9 y | 1.97 | +0.98 (most conservative) |
+| 2.5 y | 10.3 y | 4.12 | +2.04 (most extreme) |
+
+For saturable renal reabsorption, CL(C) = CLmax x C/(Km + C), so
+d ln CL / d ln C = Km/(Km+C), which is **at most 1** and falls toward 0
+as concentration rises. A slope of 1.55 cannot be produced by this
+mechanism; even the most conservative pairing sits at the ceiling.
+
+So Seals' effect is real in direction but too large in magnitude to be
+saturation alone. The residual is bias, and the paper names the likely
+source: truncation at 15 ng/mL removed proportionally **more** Lubeck
+subjects (they started lower), and "estimated half-lives were sensitive
+to the truncation cut point". It is also cross-sectional - half-life
+inferred from years-since-moving-away, not from following anyone.
+
+### The cross-cohort test agrees with the rats
+
+Li 2018's Table 1 tabulates initial serum level *and* half-life for
+longitudinally followed cohorts. Pairing those (`human_dose_test.py`,
+`human_initial_vs_halflife.csv`) gives a slope of ln(clearance) on
+ln(initial level):
+
+| chemical | n cohorts | slope | r |
+|---|---|---|---|
+| PFHxS | 3 | +0.27 | +0.94 |
+| PFOA | 7 | +0.17 | +0.54 |
+| PFOA excluding Seals | 5 | **+0.09** | +0.60 |
+| PFOS | 3 | -0.12 | -0.79 |
+
+**PFOA at +0.09 across human cohorts is almost exactly the +0.11 we
+measured within male rats** over a 250x dose range - two completely
+independent datasets, species and designs, landing on the same small
+positive slope. PFHxS is steeper; PFOS runs the other way. Consistent
+with a modest saturable component that varies by chemical, which is what
+the animal work showed too (PFOA yes, PFHxA no).
+
+Caveat: these are 3-7 cohorts each, confounded with study design, and
+the "initial level" is a median or mean transcribed from a summary
+table. It is a sanity check, not an estimate.
+
+### What this does to the species hypothesis
+
+It strengthens the mechanism and still refutes the explanation. A slope
+of ~0.1 applied to the 187x human/rat serum gap predicts a half-life
+ratio of 187^0.1 = 1.6x. The observed gap is 81x. Concentration
+dependence is real, reproducible across species, and roughly an order of
+magnitude too small to matter here.
 
 Also note Olsen 2007's own closing line: species differences in
 pharmacokinetics "may be due, in part, to a **saturable renal resorption
@@ -138,6 +192,13 @@ citation count:
   levels so background is negligible - its weakness is n=26, 24 of whom
   are male)
 
+  On Li 2018 specifically: its full text states background was *not*
+  subtracted, and explains why - "the PFAS levels of the last sample for
+  all the individuals were far above what is expected in the
+  background", with median PFHxS 180x the neighbouring municipality.
+  Not subtracting background is a weakness only when levels approach it.
+  Here it is a justified design choice, and the paper says so.
+
 **Tier 2 - good design, one uncontrolled bias**
 - Bartell 2010: clean cessation, but only ~half a half-life observed
 - Worley 2017: one-compartment model, no background term
@@ -146,8 +207,11 @@ citation count:
   histories
 
 **Tier 3 - informative but heavily confounded**
-- Seals 2011: no direct follow-up, half-life inferred from years since
-  moving away; authors flag background adjustment
+- Seals 2011: cross-sectional - half-life inferred from years since
+  moving away rather than from following anyone; truncation at 15 ng/mL
+  removed more low-exposure subjects; assumed uniform exposure within a
+  water district. Better controlled than its abstract suggests, but the
+  implied concentration effect exceeds what saturation can produce
 - Firefighter cohorts: ongoing occupational exposure hard to exclude
 - Any "temporal trend" study: excluded by the 2023 review for good reason
 
@@ -187,8 +251,9 @@ slope supports.
 - Zhang 2013's numbers here come from the ARA paper, not the original.
   Worth verifying directly - it carries a lot of weight in the
   short-half-life argument.
-- Seals 2011 full text would settle how it adjusted for background.
+- ~~Seals 2011 full text~~ - retrieved and analysed above.
 - No search yet for non-English studies, or for PFNA/PFDA/PFBS in humans
   (thin literature).
-- Network access to journal sites is blocked in this environment, so
-  everything beyond PMC-hosted full text came from abstracts.
+- PMC access is now open, so all open-access full text is reachable;
+  paywalled papers (the 2023 meta-analysis, Zhang 2013, the two
+  Regulatory Toxicology papers) still need PDFs.

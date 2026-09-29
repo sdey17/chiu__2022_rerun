@@ -1,0 +1,521 @@
+Environ Int Environ Int 2530 hhspa 7807270 Environment international 0160-4120 1873-6750 pmc-is-collection-domain yes pmc-collection-title HHS Author Manuscripts PMC5673082 PMC5673082.1 5673082 5673082 NIHMS915767 28645013 10.1016/j.envint.2017.06.007 NIHMS915767 HHSPA915767 1 Article Per- and polyfluoroalkyl substances in human serum and urine samples from a residentially exposed community Worley Rachel Rogers a * Moore Susan McAfee a Tierney Bruce C. a Ye Xiaoyun b Calafat Antonia M. b Campbell Sean c Woudneh Million B. c Fisher Jeffrey d 
+ a Division of Community Health Investigations, Agency for Toxic Substances and Disease Registry, Atlanta, GA, USA 
+ b Division of Laboratory Sciences, National Center for Environmental Health, Atlanta, GA, USA 
+ c AXYS Analytical, Sidney, British Columbia, Canada 
+ d National Center for Toxicological Research, Food and Drug Administration, Jefferson, AR, USA * Corresponding author at: ATSDR Division of Community Health Investigations, 4770 Buford Highway, MS F59, Atlanta, GA 30341, USA. RWorley@cdc.gov (R.R. Worley) 20 6 2017 9 2017 106 301035 135 143 26 10 2017 01 09 2018 01 09 2018 07 11 2017 16 04 2026 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law. 
+
+## Background
+ Per- and polyfluoroalkyl substances (PFAS) are considered chemicals of emerging concern, in part due to their environmental and biological persistence and the potential for widespread human exposure. In 2007, a PFAS manufacturer near Decatur, Alabama notified the United States Environmental Protection Agency (EPA) it had discharged PFAS into a wastewater treatment plant, resulting in environmental contamination and potential exposures to the local community.
+
+## Objectives
+ To characterize PFAS exposure over time, the Agency for Toxic Substances and Disease Registry (ATSDR) collected blood and urine samples from local residents.
+
+## Methods
+ Eight PFAS were measured in serum in 2010 ( n =153). Eleven PFAS were measured in serum, and five PFAS were measured in urine ( n =45) from some of the same residents in 2016. Serum concentrations were compared to nationally representative data and change in serum concentration over time was evaluated. Biological half-lives were estimated for perfluorooctanoic acid (PFOA), perfluorooctane sulfonic acid (PFOS), and perfluorohexane sulfonic acid (PFHxS) using a one-compartment pharmacokinetic model.
+
+## Results
+ In 2010 and 2016, geometric mean PFOA and PFOS serum concentrations were elevated in participants compared to the general U.S. population. In 2016, the geometric mean PFHxS serum concentration was elevated compared to the general U.S. population. Geometric mean serum concentrations of PFOA, PFOS, and perfluorononanoic acid (PFNA) were significantly ( p ≤0.0001) lower (49%, 53%, and 58%, respectively) in 2016 compared to 2010. Half-lives for PFOA, PFOS, and PFHxS were estimated to be 3.9, 3.3, and 15.5 years, respectively. Concentrations of PFOA in serum and urine were highly correlated ( r =0.75) in males.
+
+## Conclusions
+ Serum concentrations of some PFAS are decreasing in this residentially exposed community, but remain elevated compared to the U.S. general population.
+
+ PFAS PFOA PFOS Biomonitoring Half-life pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access no pmc-prop-olf no pmc-prop-manuscript yes pmc-prop-open-manuscript yes pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement yes pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes 
+
+## 1. Introduction
+ Per- and polyfluoroalkyl substances (PFAS) are used in industrial applications and consumer products, including certain fire-fighting foams and stain, grease, and water repellent coatings on carpet, leather, and paper ( ATSDR, 2015 ). The toxicity of and human exposure to perfluorooctanoic acid (PFOA) and perfluorooctane sulfonic acid (PFOS) have been extensively studied ( Gilliland and Mandel, 1993 ; Butenhoff et al., 2002 ; Alexander et al., 2003 ; Butenhoff et al., 2004 ; Kennedy et al., 2004 ; Lau et al., 2006 ; Butenhoff et al., 2009 ; Frisbee et al., 2009 ; Butenhoff et al., 2012a ; Butenhoff et al., 2012b ). Information on the toxicity of other PFAS, particularly those with fewer than eight carbon atoms, is limited.
+ Production of PFOA and PFOS peaked between 1970 and 2002 and has diminished since then ( DeWitt, 2015 ). PFOS is no longer manufactured in the United States ( USEPA, 2014a ). In January 2006, the United States Environmental Protection Agency (EPA) initiated the 2010/15 PFOA Stewardship Program, in which eight major companies in the PFAS industry committed voluntarily to eliminate emissions and product content of PFOA by 2015 ( USEPA, 2014b ). PFOA, PFOS, and other PFAS continue to be found in the environment, in wildlife, and in the blood of the general population, with accumulating evidence that human exposures are in decline ( Taniyasu et al., 2003 ; Kannan et al., 2004 ; Calafat et al., 2006 ; Kato et al., 2011b ; CDC, 2017 ).
+ The scientific evidence linking PFOA and PFOS exposures with adverse health effects is mixed and inconclusive. Human studies of people exposed to PFOA and PFOS occupationally, residentially, and at background levels have found associations with changes in lipid and cholesterol concentrations ( Frisbee et al., 2010 ; Nelson et al., 2010 ; Fletcher et al., 2011 ; Steenland et al., 2015 ), increased uric acid levels ( Costa et al., 2009 ; Steenland et al., 2010 ; Shankar et al., 2011 ; Geiger et al., 2013 ; Gleason et al., 2015 ), changes in the concentrations of thyroid and sex hormones ( Olsen and Zobel, 2007 ; Knox et al., 2011 ; Jain, 2013 ; Wen et al., 2013 ; Winquist and Steenland, 2014 ), changes in liver enzymes ( Olsen et al., 2000 ; Sakr et al., 2007 ; Lin et al., 2010 ; Gallo et al., 2012 ; Gleason et al., 2015 ), immune effects ( Grandjean et al., 2012 ; Granum et al., 2013 ; Dalsager et al., 2016 ), reduced birth weight ( Apelberg et al., 2007 ; Fei et al., 2007 ; Chen et al., 2012 ; Darrow et al., 2013 ), reproductive effects ( Joensen et al., 2013 ; Kristensen et al., 2013 ; Crawford et al., 2017 ), and some cancers ( Alexander and Olsen, 2007 ; Barry et al., 2013 ; Bonefeld-Jorgensen et al., 2014 ; Hardell et al., 2014 ; Steenland et al., 2015 ). Other studies have demonstrated no association between PFAS exposure and these health effects ( Inoue et al., 2004 ; Alexander and Olsen, 2007 ; Fisher et al., 2013 ; Chang et al., 2014 ).
+ The pharmacokinetic behavior of many PFAS is different in humans than in animals ( Andersen et al., 2006 ; Tatum-Gibbs et al., 2011 ). Human half-lives for PFAS have been determined in occupationally and residentially exposed populations; however, there are discrepancies in these estimates. These discrepancies potentially result from differences in the studied populations, including the level of exposure and the treatment of ongoing background exposures. Because of the observed variability in the estimation of serum half-lives, additional estimates of the biological half-lives of PFAS in human populations are needed to improve the understanding of PFAS pharmacokinetics.
+ In 2007, a PFAS manufacturer in the vicinity of Decatur, Alabama notified the EPA that it had discharged PFAS-contaminated waste water into a local wastewater treatment plant. Sewage sludge from this facility was applied to approximately 5000 acres of privately owned agricultural fields in the region between 1995 and 2008 ( Lindstrom et al., 2011 ). Testing of soil, surface water, private drinking water wells, municipal water, and other environmental media revealed the potential for human exposures to these compounds ( Hansen et al., 2002 ; USEPA, 2008 ; USEPA, 2009b ; USEPA, 2009c ; USEPA, 2009a ; Lindstrom et al., 2011 ). In 2010, at EPA’s request, the Agency for Toxic Substances and Disease Registry (ATSDR) collected blood samples from members of this community in order to characterize pathways of exposure. In January 2016, ATSDR conducted follow-up blood sampling, and added urine sampling, to evaluate how exposures in this community may have changed since 2010.
+
+## 2. Methods
+
+## 2.1. Study population
+ In 2009, ATSDR recruited individuals from Lawrence, Morgan and Limestone Counties, Alabama to participate in an exposure investigation. Community members with the highest likelihood of PFAS exposure were targeted for recruitment. In order to investigate the potential impact of exposure to PFAS in soil as a consequence of living or working on fields that received contaminated biosolid sludge, people who lived on or near agricultural fields that received contaminated sewage sludge were targeted for inclusion in the investigation. Because consumption of PFAS contaminated drinking water is an established exposure route, people who drank water from private wells with detectable levels of PFAS were also targeted for inclusion in the investigation. Participants were required to be 12 years of age or older, to have lived on their current property for at least one year, to be free of bleeding disorders and anemia, and to have no current or past occupational exposure to PFAS. One-hundred fifty-three people participated and sampling was conducted in 2010.
+ In 2015, these 153 people were contacted for recruitment into a follow up investigation. Potential participants were mailed a letter and contacted by phone in the summer and fall of 2015. Community members who agreed to be re-tested were sent a letter confirming their participation and were scheduled for an appointment to sign consent forms and receive urine collection materials (first appointment), and an additional appointment to provide a blood sample (second appointment). Seventy-eight of the original 153 agreed to be re-tested and 46 people completed all portions of the follow-up investigation. One participant reported occupational exposure to PFAS and was excluded from the analysis.
+ All participants in the 2010 and 2016 investigations provided written informed consent to participate. All phases of the investigation were conducted in compliance with the Centers for Disease Control and Prevention Institutional Review Board and the Office of Management and Budget Paperwork Reduction Act.
+
+## 2.2. Questionnaire
+ In 2010 and 2016, ATSDR staff administered a questionnaire to each participant to gather information on exposure risk factors prior to blood sample collection. Participants were asked their address, how long they have lived there, how long they have lived in the Morgan, Lawrence, or Limestone county area, and to identify their primary source of drinking water. Participants were asked about their occupational history, and the frequency with which they work in the soil at work or home, consume locally grown vegetables, and eat locally caught fish.
+ In 2016, participants were asked to identify any changes related to drinking water, consumption of locally caught fish and locally grown vegetables, or other changes in personal habits or behavior that may have impacted their exposure to PFAS since the 2010 investigation.
+
+## 2.3. Physical measurements
+ Physical measurements were obtained for each participant as part of the 2016 investigation. Each participant had their height measured with a SECA 217 portable stadiometer with a measuring range of 20–205 cm and 1 mm graduations. Body weight (BW) was measured with a SECA 869 scale with maximum capacity of 249.5 kg (kg), report graduations of 0.09 kg, and greater than± 0.15% accuracy. Body fat percentage was measured with an Omron BF306 hand-held body fat analyzer (accuracy standard estimate of error: 4.1%). All information was recorded by an ATSDR staff person.
+ Body mass index (BMI) was calculated according to the following equation: 
+ BMI = B W ( k g ) height ( m ) 2 
+ Pearson’s correlation test was applied to evaluate the strength of the association between body fat percentage and PFAS serum concentration and the association between BMI and PFAS serum concentration. Correlation coefficients were determined for total PFOS, total PFOA, PFNA, and PFHxS. Statistical analyses were performed with the freely available software R version 3.2.4 using the stats and NADA packages ( R Core Team, 2016 ).
+
+## 2.4. Serum sampling
+ Serum sampling was conducted in 2010 and 2016. In each investigation, five milliliter (mL) blood was collected by venipuncture by trained phlebotomists at a centralized sample collection location. Each sample tube was placed upright in a rack, allowed to clot for 30 min at room temperature, and then placed inside a storage box and kept at 4–5 °C. At the conclusion of sample collection the box was placed inside a plastic biohazard bag, placed inside a styrofoam shipping container with ice packs and delivered to the Centers for Disease Control and Prevention (CDC) National Center for Environmental Health (NCEH) laboratory in Atlanta, Georgia. In 2010, samples were shipped overnight. In 2016, samples were hand delivered to the NCEH laboratory. ATSDR/NCEH staff maintained proper chain of custody for all blood samples. Separation of serum was conducted by NCEH staff upon receipt at the NCEH laboratory.
+ In 2010, sera were analyzed for eight PFAS: PFHxS, total PFOA, total PFOS, PFNA, perfluorodecanoic acid (PFDeA), 2-( N -methyl-perfluorooctane sulfonamido) acetic acid (Me-PFOSA-AcOH), 2-(N-ethylperfluorooctane sulfonamido) acetic acid (Et-PFOSA-AcOH) and perfluorooctane sulfonamide (PFOSA). In 2016, sera were analyzed for eleven PFAS: PFOSA, Et-PFOSA-AcOH, Me-PFOSA-AcOH, PFHxS, PFNA, PFDeA, linear perfluorooctanoate (n-PFOA), sum of branched PFOA isomers (Sb-PFOA), linear perfluorooctane sulfonic acid (n-PFOS), sum of isomers of perfluorodimethylheptane sulfonic acid (Sm-PFOS), and sum of isomers of perfluorodimethylhexane sulfonic acid (Sm2-PFOS). In order to compare PFOA and PFOS concentrations measured in 2010 and 2016, the total PFOA concentration measured in 2016 was determined by adding the concentrations of n-PFOA and Sb-PFOA. Similarly, the total PFOS concentration measured in 2016 was determined by adding concentrations of n-PFOS, Sm-PFOS, and Sm2-PFOS. Limits of detection (LODs) for each analyte are reported in Table 3 . Treatment of non-detect data is described later in the text.
+ Analyses of 2010 and 2016 serum samples were conducted in the same laboratory using an on-line solid phase extraction coupled to high performance liquid chromatography – isotope dilution tandem mass spectrometry method reported previously ( Kuklenyik et al., 2005 ; Kato et al., 2011a ). Low-concentration quality control materials (QCs) and high-concentration QCs, prepared from a calf serum pool, were analyzed with the study samples and with reagent and serum blanks to ensure the accuracy and reliability of the data ( Kuklenyik et al., 2005 ; Kato et al., 2011a ).
+
+## 2.5. Urine sampling
+ Urine sampling was only conducted in the 2016 investigation. When participants arrived at their first appointment, they were provided a high-density polyethylene urine collection container, a collection log, and instructions for urine collection. Participants were instructed to collect their entire first morning urine void the morning of their blood sample collection appointment, and to record the collection time and the time of their previous void in their collection log. Following sample collection, participants were instructed to cap the collection container, seal it in a plastic bag, and place it in a refrigerator or cooler until their scheduled blood collection appointment.
+ When participants arrived at their second appointment an ATSDR staff person recorded the total volume of urine, transferred a 50-mL aliquot of each urine sample into a cryovial and placed it in a cooler on dry ice. All samples were kept frozen and shipped overnight on dry ice to AXYS Analytical (Sidney, British Columbia, Canada). Samples were labeled with an identification number that matched the identification number on their blood sample in order to pair each participant’s blood and urine samples. ATSDR and AXYS Analytical staff maintained chain of custody for all urine samples.
+ Urine samples were analyzed for five PFAS: PFOA, PFOS, PFHxS, PFNA, and PFDeA. Test results were reported as nanograms of the PFAS analyte per gram creatinine (ng/g creatinine) and as micrograms per liter of urine (μg/L). All laboratory analyses were conducted using liquid chromatography – tandem mass spectrometry with established procedures for quality assurance and control according to the method of the contract laboratory. More information on the urine analysis method is available in the supplementary materials .
+
+## 2.6. Data and statistical analysis
+
+## 2.6.1. Analysis of serum data
+ Geometric mean and 95th percentile serum concentrations measured in 2010 and 2016 were calculated for PFOA, PFOS, PFNA, PFHxS, PFDeA, Me-PFOSA-AcOH, Et-PFOSA-AcOH, and PFOSA (2010 n = 153, 2016 n = 45). For concentrations below the LOD, an imputed value equal to the LOD divided by the square root of two was used ( Hornung and Laurence, 1990 ).
+
+## 2.6.2. Comparison to NHANES
+ Serum concentrations measured in 2010 were compared to the serum concentrations reported in the 2009–2010 National Health and Nutrition Examination Survey (NHANES) dataset. Serum concentrations measured in 2016 were compared to serum concentrations reported in the 2013–2014 NHANES as these were the most current available NHANES data.
+
+## 2.6.3. Assessment of change in PFAS serum concentrations over time
+ Serum PFAS concentrations measured in 2010 were compared to serum PFAS concentrations measured in 2016 for each individual. The Student’s t -test for paired samples was used to evaluate the differences between the geometric mean concentrations of each PFAS species amongst participants of both the 2010 and 2016 investigations.
+
+## 2.6.4. Analysis of urine data
+ Given the high rate of non-detections in the urine, non-parametric statistical methods were used to calculate means and medians for urine concentrations. Kaplan-Meier methods were used to determine medians and means for analytes with> 60% detection rates.
+ Pearson’s correlation test was applied to test for linear co-occurrence of total PFOA in serum and urine samples collected in 2016. Statistical significance of correlation was evaluated using a two-sided Student’s t -test based on a 95% confidence level. Correlation coefficients and significance were calculated separately for men and women to account for potential variability in PFAS excretion in women due to pregnancy, lactation, and menstruation. Correlation coefficients could not be determined for other PFAS due to the high percentage of non-detects in urine.
+ Statistical analyses were performed with the freely available software R version 3.2.4 using the stats and NADA packages ( R Core Team, 2016 ).
+
+## 2.6.5. Half-life determination
+ Biological half-lives were determined for PFOA, PFOS, and PFHxS using a simple one-compartment model, written using AcslX modeling software (Aegis Technologies, Huntsville, AL, version 3.0.2.1). This model predicts concentrations of PFOA, PFOS, or PFHxS in serum as a function of intake rate, volume of distribution, and a first-order elimination rate: 
+ d ( C P ) d t = Rintake ( t ) V d - k e • C P ( t ) 
+ Where CP is the serum concentration of either PFOA, PFOS, or PFHxS, Rintake is the intake rate (ng/h), Vd is the volume of distribution (mL), and k e is the first-order elimination rate (hour −1 ). Biological half-lives were not estimated for other PFAS due to a lack of information on volume of distribution. Model code is available in the supplemental materials .
+ Volume of distribution ( VdC ) was scaled to bodyweight and assigned values of 170 mL/kg bodyweight (PFOA), 230 mL/kg bodyweight (PFOS) ( Thompson et al., 2010 ), and 213 mL/kg bodyweight (PFHxS) ( Verner et al., 2016 ).
+ Intake rates ( RintakeC ) of PFOA, PFOS, or PFHxS were also scaled to bodyweight and were estimated based on drinking water concentrations reported for the West Morgan East Lawrence Water Authority in the EPA’s Third Unregulated Contaminant Monitoring Rule (UCMR3) dataset ( USEPA, 2016 ),a drinking water intake rate (IR) of 1.2 l water/ day ( USEPA, 2011 ), and scaled to the average body weight (BW) reported in the 2016 investigation ( ATSDR, 2016 ).
+ RintakeC ( n g k g bodyweight • hour ) = ( ( drinking water concentration • I R ) 24 hours ) B W Estimated intake rate ( Rintake ) for PFOA was 1.7 ng/h, based on a PFOA drinking water concentration of 0.033 μg/L. Estimated intake rate for PFOS was 6.0 ng/h, based on a PFOS drinking water concentration of 0.12 μg/L. Estimated intake rate for PFHxS was 0.47 ng/h based on a PFHxS drinking water concentration of 0.095 μg/L. Average body weight in the 2016 investigation was used to scale volume of distribution.
+ Model compartments were loaded such that the predicted serum concentration at the beginning of the simulation ( t = 0) was equal to the geometric mean serum concentration measured in samples collected in 2010 from participants who participated in both the 2010 and 2016 investigations and who reported drinking water from the West Morgan East Lawrence Municipal Water Authority in both 2010 and 2016 ( n = 39). Elimination rate (K e ) was estimated to produce a serum concentration curve that predicted the geometric mean serum concentration in samples collected from the same individuals in 2016. Biological half-life was calculated using the following equation.
+ K e = l n 2 / t 1 2 To assess the impact of variability of VdC and intake rate on the estimated half-lives, these parameters were varied by± 20% and half-lives were estimated.
+
+## 3. Results
+
+## 3.1. Participant characteristics
+ Characteristics of study participants in the 2010 and 2016 investigations are described in Table 1 . The average age of participants was 52 years in 2010 and 62.6 years in 2016. In 2010, 80% of participants drank water from the West Morgan East Lawrence Municipal Water Authority, while 9% drank water from private wells and 9% drank water from other sources. In 2016, 87% drank water from the West Morgan East Lawrence Municipal Water Authority, while 13% percent drank either bottled water or water from other municipal sources. None of the 2010 participants who reported private wells as their primary drinking water source participated in the 2016 investigation.
+ Pearson’s test suggested a weak linear relationship between PFAS serum concentrations and BMI and a very weak linear relationship between PFAS serum concentrations and body fat percentage. These results are shown in Table 2 .
+
+## 3.2. PFAS in serum
+
+## 3.2.1. 2010 serum sampling
+ Results from the 2010 ( n = 153) and 2016 ( n = 45) blood sampling are reported in Table 3 .
+ Geometric mean serum concentrations of six PFAS measured in 2010 (PFNA, PFHxS, PFDeA, Me-PFOSA-AcOH, Et-PFOSA-AcOH and PFOSA) were lower than or similar to the U.S. general population as defined by the 2009–2010 NHANES 95th percentile ( Table 3 ). Geometric mean concentrations for PFOA and PFOS from the 2010 exposure investigation were higher than the 2009–2010 NHANES 95th percentile ( Table 3 ), but were similar to or lower than serum concentrations found in other U.S. communities with known exposures to PFAS via drinking water or other environmental pathways ( Fig. 1 ).
+ While the geometric mean serum concentration of PFHxS from the 2010 exposure investigation was not higher than the 2009–2010 NHANES 95th percentile, the 95th percentile of PFHxS from the 2010 exposure investigation was much higher than the 2009–2010 NHANES 95th percentile. Participants with drinking water from the West Morgan East Lawrence Water Authority and participants with drinking water from private wells with detected PFAS concentrations had elevated PFAS serum concentrations compared to participants with drinking water sources without detectable levels of PFAS ( Fig. 2 ).
+
+## 3.2.2. 2016 serum sampling
+ In 2016, serum concentrations for five PFAS (PFNA, PFDeA, Me-PFOSA-AcOH, Et-PFOSA-AcOH, and PFOSA) were similar to or lower than the U.S. general population as defined by the 2013–2014 NHANES 95th percentile ( Table 3 ). Geometric mean concentrations for total PFOS, PFHxS, and total PFOA were higher in participants than the 2013–2014 NHANES 95th percentile, but were lower than concentrations found in other U.S. communities with known exposures to PFAS ( Fig. 1 ).
+ Geometric mean serum concentrations of PFOA, PFOS, PFNA, PFDeA, and Me-PFOSA-AcOH were significantly lower (49%, 53%, 58%, 43%, and 60% respectively) in 2016 compared to 2010 ( Table 4 ). Observed changes in the geometric mean serum concentrations of PFHxS were not statistically significant. These data reflect the change in serum concentrations only amongst participants of both the 2010 and 2016 investigations ( n =45), however the decreasing trends are also observed for PFOA and PFOS when the geometric means for all 2010 participants ( n =153) are compared to the geometric means for all 2016 participants ( n = 45).
+
+## 3.3. PFAS in urine
+ PFAS concentrations measured in urine samples collected in 2016 are reported in Table 5 . Concentrations of PFDeA were below the LOD.
+ Pearson’s correlation test suggested a non-significant weak linear relationship between PFOA serum and PFOA urine concentrations in women ( n =23, Pearson’s r = 0.35) and a significant strong linear relationship between PFOA serum and PFOA urine concentrations in men ( n =22, Pearson’s r = 0.75). Mean PFOA serum concentration was 14.1 μg/L amongst women and 15.2 μg/L amongst men, while mean PFOA urine concentration was 25.2 ng/L amongst women and 31.4 ng/L amongst men.
+
+## 3.4. Half-life determination
+ Estimated half-lives for total PFOA, total PFOS, and PFHxS were 3.9, 3.3, and 15.5 years, respectively. A comparison of these estimates to others reported in the literature is provided in Table 6 . When VdC and intake rate were varied by± 20%, half-life estimates for PFOA, PFOS, and PFHxS ranged from 3.5–4.1, 3.0–3.6, and 13.4–17.6 years, respectively.
+
+## 4. Discussion
+ In 2010, participants with drinking water from either the West Morgan East Lawrence Water Authority or private wells with detectable levels of PFAS had higher PFAS serum concentrations than other participants with drinking water without detectable PFAS concentrations. No relationship between a participants proximity to agricultural fields that received contaminated sewage sludge and serum PFAS concentration was observed ( ATSDR, 2013 ). This suggests that drinking water exposures are likely the primary driver of PFAS serum concentrations in this community.
+ Thirty-nine of 45 participants in the 2016 exposure investigations reported that their primary drinking water source is the West Morgan East Lawrence Water Authority, and that this had not changed since 2010. PFAS concentrations have been monitored in this water system since 2005 by the Alabama Department of Environmental Management (ADEM) and the EPA, and in compliance with the UCMR3 ( USEPA, 2009b ; ATSDR, 2013 ; USEPA, 2013 ). While these data have shown detectable levels of PFOA and PFOS in finished water samples, concentrations have not changed significantly since 2005 ( USEPA, 2016 ).
+ The water source for the West Morgan East Lawrence Water Authority is the Tennessee River. Analysis of surface water samples collected from the Tennessee River in November 2000 suggests that PFOA concentrations could have been as high as 0.39 μg/L in 2000 ( Hansen et al., 2002 ). Thus, it is possible that the observed decreases in PFOA, PFOS, PFNA, PFDeA and Me-PFOS-AcOH serum concentrations between 2010 and 2016 are a product of declines in environmental contaminant concentrations prior to 2010. This may have resulted from the phase out of long-chain PFAS production in the early 2000s and a subsequent reduction in emission of long-chain PFAS from manufacturers in the Decatur area. This is consistent with apparent reductions in serum concentrations of PFOS and PFOA observed in the general US population as reported in NHANES ( Kato et al., 2011a ; CDC, 2017 ). Only two participants of the 2016 investigation indicated that they frequently drink bottled water; thus, it is unlikely that the observed decreases are a product of increased bottled water consumption.
+ PFHxS concentrations decreased amongst individuals who participated in both the 2010 and 2016 exposure investigations, albeit not significantly. Given the longer half-life of PFHxS relative to other PFAS ( Olsen et al., 2007 ; Zhang et al., 2013 ), we would not expect serum concentrations for this compound to decrease as quickly as others with shorter half-lives. While the impact of PFHxS exposure on human health is not yet well characterized, this finding warrants further investigation.
+ The estimated half-life for PFOA is similar to other estimates reported in the literature, while estimated half-life for PFOS is slightly shorter and the estimated half-life for PFHxS is slightly longer than most others ( Table 6 ). Prior efforts to characterize half-lives for these compounds have relied heavily on estimated intake rates, and in some cases, single time-point serum measurements ( Zhang et al., 2015 ). Additionally, estimates that fail to account for ongoing exposure have the potential to overestimate biological half-life. The results reported here were estimated with serum concentrations measured at two time-points from the same individuals and with intake rates based on measured drinking water PFAS concentrations. Further, the pharmacokinetic modeling approach described here accounted for ongoing exposure. Overall, this allowed for greater confidence in the estimated half-lives.
+ Variation of the VdC or intake rate results in half-life estimates for PFOA and PFOS that span several months, and half-life estimates for PFHxS that span over four years (data available in supplemental information ). This suggests that these parameter values may have a significant impact on the resulting half-life estimate. Additionally, estimates of half-life for branched versus linear PFOA and PFOS reported in the literature suggest that the excretion rate may be different for different isomeric conformations ( Zhang et al., 2013 ). Thus, accurate characterization of the distribution of branched and linear PFAS in the body as well as PFAS intake are critical in the estimation of half-lives for these compounds in humans. Overall, these findings suggest that human half-life of PFAS warrants additional investigation, ideally with well characterized PFAS intake rates and at least two serum time points.
+ The results of this investigation are a significant contribution to the understanding of the pharmacokinetics of PFOA, PFOS, and PFHxS. Estimates of biological half-lives using a simple one-compartmental model are slightly different than those reported elsewhere in the literature. However, they are based on well-characterized PFAS intake and two distinct sampling time points. These findings underscore the need for further exploration of the factors that influence excretion of PFAS.
+ Interestingly, analysis of the strength of the association between PFAS serum concentration and participant characteristics suggests that PFAS serum concentrations are not highly correlated with either body fat percentage or BMI. This finding supports previous reports that PFAS do not accumulate in the fat and adds to the breadth of information about the general pharmacokinetic behavior of PFAS in humans.
+ Long-chain PFAS are not commonly measured in urine samples, most likely because urinary concentrations of long-chain PFAS are typically too low to be measured with the available analytical tools. While our analytical method was able to measure PFOA concentrations in 96% of samples, detection rates for other PFAS were too low to allow for additional analysis. This work confirms that advancements in analytical methods can improve the detection of urinary PFAS. While measurement of urinary concentrations of long-chain PFAS is challenging, it may be a more viable option for other PFAS that are excreted more readily in the urine.
+ The comparatively stronger relationships observed between PFOA serum and urine concentrations in male participants compared to female participants suggests that non-renal excretion pathways may play an important role in PFOA clearance in women. Notably, the correlation between PFOA serum and urine in male participants is much stronger than other non-sex-specific estimates reported elsewhere in the literature ( Zhang et al., 2013 ). Other studies of the correlation between PFOA serum and urine concentrations in paired samples have reported stronger correlations in non-pregnant adults compared to pregnant women ( Zhang et al., 2015 ). These findings support our conclusion that non-renal excretion pathways play an important role in PFOA clearance in women.
+
+## 5. Conclusions
+ This investigation demonstrates that serum concentrations of PFOA, PFOS, PFNA, and Me-PFOS-AcOH in a community with detectable levels of PFAS in their water supply have decreased significantly ( p ≤ 0.0001) over time since 2010, despite no change in PFAS concentrations in the municipal drinking water in the same time period. This is similar to previous reports that some PFAS serum concentrations are decreasing in the general US population, most likely as a result of diminishing exposures to these compounds following the phase out of long-chain PFAS in manufacturing processes and consumer products. While serum concentrations in the community near Decatur, AL remain elevated compared to national reference populations, the observed decreases suggest that nation-wide efforts to reduce exposure to long-chain PFAS have resulted in declines in consumer products, the environment, and in some drinking water supplies.
+ While serum concentrations of PFOA, PFOS, PFNA, and Me-PFOS-AcOH have gone down in the community near Decatur, AL, they are still elevated compared to a national reference population and other studied populations. Further, this investigation demonstrates that serum concentrations of PFHxS remained elevated in this community. Because the human health effects of PFAS remain uncertain, additional research to better understand the potential implications of PFAS exposure and ways to minimize such exposures is of public health interest.
+
+## Supplementary Material
+ Supplemental 
+ The authors would like to thank Sue Casteel, Dr. Brad Goodwin, Aaron Grober, and Dr. Lynn Wilder at the Agency for Toxic Substances and Disease Registry, Kayoko Kato and Tao Jia at the National Center for Environmental Health, Becky Allenbach and Lee Thomas at the U.S. Environmental Protection Agency, Ed Poolos at the Alabama Department of Environmental Management, and Naida Gavrelis at Eastern Research Group for their assistance in PFAS serum measurements, sample collection, protocol review, and for their helpful discussion
+ Competing financial interests 
+ None.
+ Disclaimer 
+ The use of trade names is for identification only and does not constitute endorsement by the U.S. Department of Health and Human Services, the CDC, or the FDA. The findings and conclusions in this report are those of the authors and do not necessarily represent the official position of the CDC or FDA.
+ Alexander BH Olsen GW 2007 Bladder cancer in perfluorooctanesulfonyl fluoride manufacturing workers Ann Epidemiol 17 471 478 17448680 10.1016/j.annepidem.2007.01.036 Alexander BH Olsen GW Burris JM Mandel JH Mandel JS 2003 Mortality of employees of a perfluorooctanesulphonyl fluoride manufacturing facility Occup Environ Med 60 722 729 14504359 10.1136/oem.60.10.722 PMC1740403 Andersen ME Clewell HJ 3rd Tan YM Butenhoff JL Olsen GW 2006 Pharmacokinetic modeling of saturable, renal resorption of perfluoroalkylacids in monkeys–probing the determinants of long plasma half-lives Toxicology 227 156 164 16978759 10.1016/j.tox.2006.08.004 Apelberg BJ Witter FR Herbstman JB Calafat AM Halden RU Needham LL Goldman LR 2007 Cord serum concentrations of perfluorooctane sulfonate (PFOS) and perfluorooctanoate (PFOA) in relation to weight and size at birth Environ Health Perspect 115 1670 1676 18008002 10.1289/ehp.10334 PMC2072847 ATSDR 2013 Exposure Investigation Report - Perfluorochemical Serum Sampling in the Vicinity of Decatur, AL, Morgan, Lawrence, and Limestone Counties Division of Community Health Investigation https://www.atsdr.cdc.gov/hac/pha/Decatur/Perfluorochemical_Serum%20Sampling.pdf ATSDR 2015 Toxicological Profile for Perfluoroalkyls, Draft for Public Comment Division of Toxicology and Human Health Sciences https://www.atsdr.cdc.gov/toxprofiles/tp200.pdf ATSDR 2016 Biological Sampling of Per- and Polyfluoroalkyl Substances (PFAS) in the Vicinity of Lawrence, Morgan, and Limestone Counties, Alabama Division of Community Health Investigation https://www.atsdr.cdc.gov/HAC/pha/BiologicalSampling/Biological_Sampling_of_Substances_in_Alabama_EI%20-Report_11-28-2016_508.pdf Barry V Winquist A Steenland K 2013 Perfluorooctanoic acid (PFOA) exposures and incident cancers among adults living near a chemical plant Environ Health Perspect 121 1313 1318 24007715 10.1289/ehp.1306615 PMC3855514 Bartell SM Calafat AM Lyu C Kato K Ryan PB Steenland K 2010 Rate of decline in serum PFOA concentrations after granular activated carbon filtration at two public water systems in Ohio and West Virginia Environ Health Perspect 118 222 228 20123620 10.1289/ehp.0901252 PMC2831921 Bonefeld-Jorgensen EC Long M Fredslund SO Bossi R Olsen J 2014 Breast cancer risk after exposure to perfluorinated compounds in Danish women: a casecontrol study nested in the Danish National Birth Cohort Cancer Causes Control 25 1439 1448 25148915 10.1007/s10552-014-0446-7 PMC4215104 Butenhoff J Costa G Elcombe C Farrar D Hansen K Iwai H Jung R Kennedy G Jr Lieder P Olsen G Thomford P 2002 Toxicity of ammonium perfluorooctanoate in male cynomolgus monkeys after oral dosing for 6 months Toxicol Sci 69 244 257 12215680 10.1093/toxsci/69.1.244 Butenhoff JL Chang SC Olsen GW Thomford PJ 2012a Chronic dietary toxicity and carcinogenicity study with potassium perfluorooctanesulfonate in Sprague Dawley rats Toxicology 293 1 15 22266392 10.1016/j.tox.2012.01.003 Butenhoff JL Ehresman DJ Chang SC Parker GA Stump DG 2009 Gestational and lactational exposure to potassium perfluorooctanesulfonate (K+PFOS) in rats: developmental neurotoxicity Reprod Toxicol 27 319 330 19162172 10.1016/j.reprotox.2008.12.010 Butenhoff JL Kennedy GL Jr Chang SC Olsen GW 2012b Chronic dietary toxicity and carcinogenicity study with ammonium perfluorooctanoate in Sprague-Dawley rats Toxicology 298 1 13 22531602 10.1016/j.tox.2012.04.001 Butenhoff JL Kennedy GL Jr Frame SR O’Connor JC York RG 2004 The reproductive toxicology of ammonium perfluorooctanoate (APFO) in the rat Toxicology 196 95 116 15036760 10.1016/j.tox.2003.11.005 Calafat AM Kuklenyik Z Caudill SP Reidy JA Needham LL 2006 Perfluorochemicals in pooled serum samples from United States residents in 2001 and 2002 Environ Sci Technol 40 2128 2134 16646443 10.1021/es0517973 CDC 2017 Fourth Report on Human Exposure to Environmental Chemicals, Updated Tables, (January 2017) U.S. Department of Health and Human Services. Centers for Disease Control and Prevention https://www.cdc.gov/exposurereport/ Chang ET Adami HO Boffetta P Cole P Starr TB Mandel JS 2014 A critical review of perfluorooctanoate and perfluorooctanesulfonate exposure and cancer risk in humans Crit Rev Toxicol 44 Suppl 1 1 81 10.3109/10408444.2014.905767 24793953 Chen MH Ha EH Wen TW Su YN Lien GW Chen CY Chen PC Hsieh WS 2012 Perfluorinated compounds in umbilical cord blood and adverse birth outcomes PLoS One 7 e42474 22879996 10.1371/journal.pone.0042474 PMC3411780 Costa G Sartori S Consonni D 2009 Thirty years of medical surveillance in perfluooctanoic acid production workers J Occup Environ Med 51 364 372 19225424 10.1097/JOM.0b013e3181965d80 Crawford NM Fenton SE Strynar M Hines EP Pritchard DA Steiner AZ 2017 Effects of perfluorinated chemicals on thyroid function, markers of ovarian reserve, and natural fertility Reprod Toxicol 69 53 59 28111093 10.1016/j.reprotox.2017.01.006 PMC5690561 Dalsager L Christensen N Husby S Kyhl H Nielsen F Host A Grandjean P Jensen TK 2016 Association between prenatal exposure to perfluorinated compounds and symptoms of infections at age 1–4 years among 359 children in the Odense Child Cohort Environ Int 96 58 64 27608427 10.1016/j.envint.2016.08.026 Darrow LA Stein CR Steenland K 2013 Serum perfluorooctanoic acid and perfluorooctane sulfonate concentrations in relation to birth outcomes in the Mid-Ohio Valley, 2005–2010 Environ Health Perspect 121 1207 1213 23838280 10.1289/ehp.1206372 PMC3801459 DeWitt JC 2015 Toxicological Effects of Perfluoroalkyl and Polyfluoroalkyl Substances Springer International Publishing Emmett EA Zhang H Shofer FS Freeman D Rodway NV Desai C Shaw LM 2006 Community exposure to perfluorooctanoate: relationships between serum levels and certain health parameters J Occup Environ Med 48 771 779 16902369 10.1097/01.jom.0000233380.13087.37 PMC3038254 Fei C McLaughlin JK Tarone RE Olsen J 2007 Perfluorinated chemicals and fetal growth: a study within the Danish National Birth Cohort Environ Health Perspect 115 1677 1682 18008003 10.1289/ehp.10506 PMC2072850 Fisher M Arbuckle TE Wade M Haines DA 2013 Do perfluoroalkyl substances affect metabolic function and plasma lipids?–analysis of the 2007–2009, Canadian Health Measures Survey (CHMS) Cycle 1 Environ Res 121 95 103 23266098 10.1016/j.envres.2012.11.006 Fletcher T Steenland K Savitz DA 2011 Status Report: Changes in Serum PFOA/ PFOS and Serum Lipids Between 2005 and 2010 in the Mid-Ohio Valley C8 Science Panel Frisbee SJ Brooks AP Jr Maher A Flensborg P Arnold S Fletcher T Steenland K Shankar A Knox SS Pollard C Halverson JA Vieira VM Jin C Leyden KM Ducatman AM 2009 The C8 health project: design, methods, and participants Environ Health Perspect 117 1873 1882 20049206 10.1289/ehp.0800379 PMC2799461 Frisbee SJ Shankar A Knox SS Steenland K Savitz DA Fletcher T Ducatman AM 2010 Perfluorooctanoic acid, perfluorooctanesulfonate, and serum lipids in children and adolescents: results from the C8 health project Arch Pediatr Adolesc Med 164 860 869 20819969 10.1001/archpediatrics.2010.163 PMC3116641 Gallo V Leonardi G Genser B Lopez-Espinosa MJ Frisbee SJ Karlsson L Ducatman AM Fletcher T 2012 Serum perfluorooctanoate (PFOA) and perfluorooctane sulfonate (PFOS) concentrations and liver function biomarkers in a population with elevated PFOA exposure Environ Health Perspect 120 655 660 22289616 10.1289/ehp.1104436 PMC3346788 Geiger SD Xiao J Shankar A 2013 Positive association between perfluoroalkyl chemicals and hyperuricemia in children Am J Epidemiol 177 1255 1262 23552989 10.1093/aje/kws392 PMC3664338 Gilliland FD Mandel JS 1993 Mortality among employees of a perfluorooctanoic acid production plant J Occup Med 35 950 954 8229349 10.1097/00043764-199309000-00020 Gleason JA Post GB Fagliano JA 2015 Associations of perfluorinated chemical serum concentrations and biomarkers of liver function and uric acid in the US population (NHANES), 2007–2010 Environ Res 136 8 14 25460614 10.1016/j.envres.2014.10.004 Grandjean P Andersen EW Budtz-Jorgensen E Nielsen F Molbak K Weihe P Heilmann C 2012 Serum vaccine antibody concentrations in children exposed to perfluorinated compounds JAMA 307 391 397 22274686 10.1001/jama.2011.2034 PMC4402650 Granum B Haug LS Namork E Stolevik SB Thomsen C Aaberge IS van Loveren H Lovik M Nygaard UC 2013 Pre-natal exposure to perfluoroalkyl substances may be associated with altered vaccine antibody levels and immune-related health outcomes in early childhood J Immunotoxicol 10 373 379 23350954 10.3109/1547691X.2012.755580 Hansen KJ Johnson HO Eldridge JS Butenhoff JL Dick LA 2002 Quantitative characterization of trace levels of PFOS and PFOA in the Tennessee River Environ Sci Technol 36 1681 1685 11993863 10.1021/es010780r Hardell E Karrman A van Bavel B Bao J Carlberg M Hardell L 2014 Casecontrol study on perfluorinated alkyl acids (PFAAs) and the risk of prostate cancer Environ Int 63 35 39 24246240 10.1016/j.envint.2013.10.005 Hornung RWR Laurence D 1990 Estimation of average concentration in the presence of nondetectable values Appl Occup Environ Hyg 5 46 51 Inoue K Okada F Ito R Kato S Sasaki S Nakajima S Uno A Saijo Y Sata F Yoshimura Y Kishi R Nakazawa H 2004 Perfluorooctane sulfonate (PFOS) and related perfluorinated compounds in human maternal and cord blood samples: assessment of PFOS exposure in a susceptible population during pregnancy Environ Health Perspect 112 1204 1207 15289168 10.1289/ehp.6864 PMC1247483 Jain RB 2013 Association between thyroid profile and perfluoroalkyl acids: data from NHANES 2007–2008 Environ Res 126 51 59 24053974 10.1016/j.envres.2013.08.006 Joensen UN Veyrand B Antignac JP Blomberg Jensen M Petersen JH Marchand P Skakkebaek NE Andersson AM Le Bizec B Jorgensen N 2013 PFOS (perfluorooctanesulfonate) in serum is negatively associated with testosterone levels, but not with semen quality, in healthy men Human reproduction (Oxford, England) 28 599 608 10.1093/humrep/des425 23250927 Kannan K Corsolini S Falandysz J Fillmann G Kumar KS Loganathan BG Mohd MA Olivero J Van Wouwe N Yang JH Aldoust KM 2004 Perfluorooctanesulfonate and related fluorochemicals in human blood from several countries Environ Sci Technol 38 4489 4495 15461154 10.1021/es0493446 Kato K Basden BJ Needham LL Calafat AM 2011a Improved selectivity for the analysis of maternal serum and cord serum for polyfluoroalkyl chemicals J Chromatogr A 1218 2133 2137 21084089 10.1016/j.chroma.2010.10.051 Kato K Wong LY Jia LT Kuklenyik Z Calafat AM 2011b Trends in exposure to polyfluoroalkyl chemicals in the U.S. population: 1999–2008 Environ Sci Technol 45 8037 8045 21469664 10.1021/es1043613 Kennedy GL Jr Butenhoff JL Olsen GW O’Connor JC Seacat AM Perkins RG Biegel LB Murphy SR Farrar DG 2004 The toxicology of perfluorooctanoate Crit Rev Toxicol 34 351 384 15328768 10.1080/10408440490464705 Knox S Jackson T Frisbee SJ Javins B Ducatman A 2011 Perfluorocarbon exposure, gender and thyroid function in the C8 health project Toxicol Sci 36 403 410 10.2131/jts.36.403 21804304 Kristensen SL Ramlau-Hansen CH Ernst E Olsen SF Bonde JP Vested A Halldorsson TI Becher G Haug LS Toft G 2013 Long-term effects of prenatal exposure to perfluoroalkyl substances on female reproduction Human reproduction (Oxford, England) 28 3337 3348 10.1093/humrep/det382 24129614 Kuklenyik Z Needham LL Calafat AM 2005 Measurement of 18 perfluorinated organic acids and amides in human serum using on-line solid-phase extraction Anal Chem 77 6085 6091 16159145 10.1021/ac050671l Lau C Thibodeaux JR Hanson RG Narotsky MG Rogers JM Lindstrom AB Strynar MJ 2006 Effects of perfluorooctanoic acid exposure during pregnancy in the mouse Toxicol Sci 90 510 518 16415327 10.1093/toxsci/kfj105 Lin CY Lin LY Chiang CK Wang WJ Su YN Hung KY Chen PC 2010 Investigation of the associations between low-dose serum perfluorinated chemicals and liver enzymes in US adults Am J Gastroenterol 105 1354 1363 20010922 10.1038/ajg.2009.707 Lindstrom AB Strynar MJ Delinsky AD Nakayama SF McMillan L Libelo EL Neill M Thomas L 2011 Application of WWTP biosolids and resulting perfluorinated compound contamination of surface and well water in Decatur, Alabama, USA Environ Sci Technol 45 8015 8021 21513287 10.1021/es1039425 Nelson JW Hatch EE Webster TF 2010 Exposure to polyfluoroalkyl chemicals and cholesterol, body weight, and insulin resistance in the general U.S. population Environ Health Perspect 118 197 202 20123614 10.1289/ehp.0901165 PMC2831917 Olsen GW Burris JM Burlew MM Mandel JH 2000 Plasma cholecystokinin and hepatic enzymes, cholesterol and lipoproteins in ammonium perfluorooctanoate production workers Drug Chem Toxicol 23 603 620 11071397 10.1081/dct-100101973 Olsen GW Burris JM Burlew MM Mandel JH 2003 Epidemiologic assessment of worker serum perfluorooctanesulfonate (PFOS) and perfluorooctanoate (PFOA) concentrations and medical surveillance examinations J Occup Environ Med 45 260 270 12661183 10.1097/01.jom.0000052958.59271.10 Olsen GW Burris JM Ehresman DJ Froehlich JW Seacat AM Butenhoff JL Zobel LR 2007 Half-life of serum elimination of perfluorooctanesulfonate, perfluorohexanesulfonate, and perfluorooctanoate in retired fluorochemical production workers Environ Health Perspect 115 1298 1305 17805419 10.1289/ehp.10009 PMC1964923 Olsen GW Mair DC Church TR Ellefson ME Reagen WK Boyd TM Herron RM Medhdizadehkashi Z Nobiletti JB Rios JA Butenhoff JL Zobel LR 2008 Decline in perfluorooctanesulfonate and other polyfluoroalkyl chemicals in American Red Cross adult blood donors, 2000–2006 Environ Sci Technol 42 4989 4995 18678038 10.1021/es800071x Olsen GW Zobel LR 2007 Assessment of lipid, hepatic, and thyroid parameters with serum perfluorooctanoate (PFOA) concentrations in fluorochemical production workers Int Arch Occup Environ Health 81 231 246 17605032 10.1007/s00420-007-0213-0 R Core Team 2016 R: A language and environment for statistical computing R Foundation for Statistical Computing Vienna, Austria http://www.R-project.org/ Sakr CJ Leonard RC Kreckmann KH Slade MD Cullen MR 2007 Longitudinal study of serum lipids and liver enzymes in workers with occupational exposure to ammonium perfluorooctanoate J Occup Environ Med 49 872 879 17693785 10.1097/JOM.0b013e318124a93f Shankar A Xiao J Ducatman A 2011 Perfluoroalkyl chemicals and elevated serum uric acid in US adults J Clin Epidemiol 3 251 258 10.2147/CLEP.S21677 PMC3191115 22003309 Steenland K Jin C MacNeil J Lally C Ducatman A Vieira V Fletcher T 2009 Predictors of PFOA levels in a community surrounding a chemical plant Environ Health Perspect 117 1083 1088 19654917 10.1289/ehp.0800294 PMC2717134 Steenland K Tinker S Shankar A Ducatman A 2010 Association of perfluorooctanoic acid (PFOA) and perfluorooctane sulfonate (PFOS) with uric acid among adults with elevated community exposure to PFOA Environ Health Perspect 118 229 233 20123605 10.1289/ehp.0900940 PMC2831922 Steenland K Zhao L Winquist A 2015 A cohort incidence study of workers exposed to perfluorooctanoic acid (PFOA) Occup Environ Med 72 373 380 25601914 10.1136/oemed-2014-102364 Taniyasu S Kannan K Horii Y Hanari N Yamashita N 2003 A survey of perfluorooctane sulfonate and related perfluorinated organic compounds in water, fish, birds, and humans from Japan Environ Sci Technol 37 2634 2639 12854699 10.1021/es0303440 Tatum-Gibbs K Wambaugh JF Das KP Zehr RD Strynar MJ Lindstrom AB Delinsky A Lau C 2011 Comparative pharmacokinetics of perfluorononanoic acid in rat and mouse Toxicology 281 48 55 21237237 10.1016/j.tox.2011.01.003 Thompson J Lorber M Toms LM Kato K Calafat AM Mueller JF 2010 Use of simple pharmacokinetic modeling to characterize exposure of Australians to perfluorooctanoic acid and perfluorooctane sulfonic acid Environ Int 36 390 397 20236705 10.1016/j.envint.2010.02.008 USEPA 2008 Summary Report of Decatur, AL Water Sample Analyses National Exposure Research Laboratory https://archive.epa.gov/pesticides/region4/water/documents/web/pdf/summ_rpt_al_water_munic_supplies_121108.pdf USEPA 2009a Results of Analysis of Sludge and Sludge Applied Soils from the September 2008 Decatur, AL Reconaissance Study National Exposure Research Laboratory https://archive.epa.gov/pesticides/region4/water/documents/web/pdf/soil-andsludge-sampling-decatur-al-september-2008.pdf USEPA 2009b Results of the Analyses of Screening Surface and Well Water Samples from Decatur, Alabama for Selected Perfluorinated Compounds Human Exposure and Atmospheric Sciences Division https://archive.epa.gov/pesticides/region4/water/documents/web/pdf/epa_final_report_water_pfcs_rev_1_052809.pdf USEPA 2009c Results of the Analyses of Soil Samples From Near Decatur, Alabama for Fluorinated Organic Compounds National Exposure Research Laboratory https://archive.epa.gov/pesticides/region4/water/documents/web/pdf/final_report_results_7_13_09.pdf USEPA 2011 Exposure Factors Handbook 2011 Edition (Final) U.S. Environmental Protection Agency EPA/600/R-09/052F USEPA 2013 FAQs: Pefluorochemical Contamination Near Decatur, AL Region 4 https://archive.epa.gov/pesticides/region4/water/documents/web/pdf/epa_decatur_fact_sheet_final.pdf USEPA 2014a Public Comment Draft Health Effects Document for Perfluorooctane Sulfonate (PFOS) Office of Water USEPA 2014b Public Comment Draft Health Effects Document for Perfluorooctanoic Acid (PFOA) Office of Water USEPA 2016 Occurrence Data for the Unregulated Contaminant Monitoring Rule https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminantmonitoring-rule 10.1016/j.scitotenv.2017.04.085 28433766 Verner MA Ngueta G Jensen ET Fromme H Volkel W Nygaard UC Granum B Longnecker MP 2016 A simple pharmacokinetic model of prenatal and postnatal exposure to perfluoroalkyl substances (PFASs) Environ Sci Technol 50 978 986 26691063 10.1021/acs.est.5b04399 Wen LL Lin LY Su TC Chen PC Lin CY 2013 Association between serum perfluorinated chemicals and thyroid function in U.S. adults: the National Health and Nutrition Examination Survey 2007–2010 J Clin Endocrinol Metab 98 E1456 E1464 23864701 10.1210/jc.2013-1282 Winquist A Steenland K 2014 Perfluorooctanoic acid exposure and thyroid disease in community and worker cohorts Epidemiology 25 255 264 24407430 10.1097/EDE.0000000000000040 Zhang T Sun H Qin X Gan Z Kannan K 2015 PFOS and PFOA in paired urine and blood from general adults and pregnant women: assessment of urinary elimination Environ Sci Pollut Res Int 22 5572 5579 25367642 10.1007/s11356-014-3725-7 Zhang Y Beesoon S Zhu L Martin JW 2013 Biomonitoring of perfluoroalkyl acids in human urine and estimates of biological half-life Environ Sci Technol 47 10619 10627 23980546 10.1021/es401905e 
+
+## Appendix A. Supplementary data 
+ Supplementary data to this article can be found online at http://dx.doi.org/10.1016/j.envint.2017.06.007 .
+ Fig. 1 Comparison of Mean PFAS Serum Concentrations in a National Reference Population and Occupational and Community Biomonitoring Studies. Mean PFOA (a) and PFOS (b) serum concentrations measured in the 2010 and 2016 investigations compared to national reference populations, and occupational and community biomonitoring studies. References: 3M Workers ( Olsen et al., 2003 ); Dupont ( Sakr et al., 2007 ); Little Hocking, OH ( Emmett et al., 2006 ); Ohio River Valley ( Steenland et al., 2009 ); Minnesota Pilot Study – Minnesota Department of Health 2009; Red Cross Blood Donors ( Olsen et al., 2008 ); NHANES ( CDC, 2017 ).
+ Fig. 2 PFOA (A), PFOS (B), and PFHxS (C) serum concentrations measured in 2010 in the vicinity of Decatur, AL, stratified by drinking water source. White bars show serum concentrations measured in participants with drinking water from a private well with detectable levels of PFAS (maximum PFOA concentration = 2.2 μg/L, maximum PFOS concentration =0.365 μg/L). Grey bars show serum concentrations measured in participants with drinking water without detectable PFAS concentrations. Lined bars show serum concentrations measured in participants with drinking water provided by the West Morgan East Lawrence Municipal Water Authority. Box plots indicate the minimum, maximum, and interquartile range.
+ Table 1 Characteristics of exposure investigation participants.
+ 2010 2016 
+ Number of participants
+ 153
+ 45
+
+ Male:female
+ 63:90
+ 22:23
+
+ Mean age (years)
+ 52
+ 62.6
+
+ Mean length of residence time (years)
+ 25.5
+ 29.4
+
+ Mean body weight (kgs)
+ –
+ 88.9 ( ± 20.1)
+
+ Mean body fat (%)
+ –
+ 35.9 ( ± 6.9)
+
+ Body mass index
+ –
+ 30.7 ( ± 6.0)
+
+ Percent participation by drinking water source
+
+  West Morgan East Lawrence
+ 80.4%
+ 86.7%
+
+  Other municipal provider
+ 3.3%
+ 11.1%
+
+  Private well
+ 9.2%
+ 0.0%
+
+  Bottled
+ 7.2%
+ 2.2%
+
+ Table 2 Strength of the association between serum PFAS concentration and physical characteristics.
+ PFAS Pearson’s r 
+
+ Body mass index Body fat percentage 
+ PFOA
+ −0.14
+ −0.02
+
+ PFOS
+ −0.1
+ −0.2
+
+ PFHxS
+ −0.12
+ 0.03
+
+ PFNA
+ −0.12
+ −0.03
+
+ Table 3 Summary of PFAS serum concentrations (μg/L) measured in Decatur, AL in 2010 and 2016 and in NHANES 2009–2010 and 2011–2012.
+ Decatur 2010 ( n = 153) NHANES 2009–2010 ( n = 2233) Decatur 2016 ( n = 45) NHANES 2013–2014 ( n = 2168) 
+ Total PFOA
+
+  Limit of detection
+ 0.1
+ 0.1
+ 0.1
+ c 
+
+  Percent detected
+ 100
+ 99.7
+ 100
+ 99.1
+
+  Geometric mean (95th conf. interval)
+ 16.3 (13.2–19.6)
+ 3.07 (2.81–3.36)
+ 11.7 (8.7–14.6)
+ 1.94 (1.76–2.14)
+
+  95th percentile
+ 61.1
+ 7.5
+ 39.1
+ 5.57
+
+ Total PFOS
+
+  Limit of detection
+ 0.2
+ 0.2
+ 0.1
+ c 
+
+  Percent detected
+ 100
+ 99.8
+ 100
+ 99.0
+
+  Geometric mean (95th conf. interval)
+ 39.8 (30.9–48.9)
+ 9.32 (8.13–10.7)
+ 23.4 (18.5–28.4)
+ 4.99 (4.50–5.52)
+
+  95th percentile
+ 149.0
+ 32.0
+ 70.6
+ 18.5
+
+ PFHxS
+
+ Limit of detection
+ 0.1
+ 0.1
+ 0.1
+ 0.1
+
+ Percent detected
+ 100
+ 99.4
+ 100
+ 98.8
+
+ Geometric mean (95th conf. interval)
+ 6.4 (5.16–7.65)
+ 1.66 (1.51–1.82)
+ 7.7 (6.1–9.3)
+ 1.35 (1.2–1.52)
+
+ 95th percentile
+ 23.8
+ 6.9
+ 19.7
+ 5.6
+
+ PFNA
+
+  Limit of detection
+ 0.1
+ 0.082
+ 0.1
+ 0.1
+
+  Percent detected
+ 100
+ 99.8
+ 100
+ 98.8
+
+  Geometric mean (95th conf. interval)
+ 1.7 (1.51–1.81)
+ 1.26 (1.11–1.44)
+ 0.8 (0.6–0.9)
+ 0.675 (0.613–0.742)
+
+  95th percentile
+ 3.7
+ 3.77
+ 2.1
+ 2.00
+
+ PFDeA
+
+  Limit of detection
+ 0.2
+ 0.1
+ 0.1
+ 0.1
+
+  Percent detected
+ 65
+ 94.6
+ 91
+ 79.0
+
+  Geometric mean
+ 0.4 (0.31–0.43)
+ 0.279 (0.258–0.303)
+ 0.27 (0.19–0.35)
+ 0.185 (0.165–0.208)
+
+  95th percentile
+ 1.4
+ 0.9
+ 0.97
+ 0.700
+
+ Me-PFOSA-AcOH
+
+  Limit of detection
+ 0.2
+ 0.087
+ 0.1
+ 0.1
+
+  Percent detected
+ 63
+ 75.9
+ 59
+ 44.5
+
+  Geometric mean
+ 0.4 (0.3–0.48)
+ 0.198 (0.184–0.213)
+ 0.15 (0.1–0.2)
+ a 
+
+  95th percentile
+ 1.52
+ 1.0
+ 0.8
+ 0.600
+
+ Et-PFOSA-AcOH
+
+  Limit of detection
+ 0.2
+ 0.1
+ 0.1
+ b 
+
+  Percent detected
+ 1
+ 5.5
+ 7
+ b 
+
+  Geometric mean
+ a 
+ a 
+ a 
+ b 
+
+  95th percentile
+ a 
+ 0.1
+ a 
+ b 
+
+ PFOSA
+
+  Limit of detection
+ 0.1
+ 0.1
+ 0.1
+ b 
+
+  Percent detected
+ 0
+ 0.1
+ 2
+ b 
+
+  Geometric mean
+ a 
+ a 
+ a 
+ b 
+
+  95th percentile
+ a 
+ < LOD
+ a 
+ b 
+
+ a Not calculated, proportion of results below limit of detection was too high to provide a valid result.
+ b Not measured after survey years 2011–2012.
+ c Because the 2013–2014 values for PFOA and PFOS are a calculated sum, there is no limit of detection (LOD).
+ Table 4 Change in Geometric Mean PFAS Serum Concentrations from 2010 to 2016 ( n =45) in the vicinity of Decatur, AL.
+ PFAS Absolute change (μg/L) Percentage change (%) Two-tailed P -value, Student’s t -test 
+ PFOA
+ −11.2
+ −49%
+ 1.0 × 10 −5 
+
+ PFOS
+ −26.7
+ −53%
+ 1.0 × 10 −5 
+
+ PFHxS
+ −0.9
+ −11%
+ 0.37
+
+ PFNA
+ −1.0
+ −58%
+ 1.0 × 10 −9 
+
+ PFDeA
+ −0.2
+ −43%
+ 1.0 × 10 −4 
+
+ Me-PFOSA-AcOH
+ −0.2
+ −60%
+ 1.0 × 10 −4 
+
+ Et-PFOSA-AcOH
+ a 
+ a 
+ a 
+
+ PFOSA
+ a 
+ a 
+ a 
+
+ Changes calculated as PFAS 2016 − PFAS 2010 . Time period is 2095 days.
+ a Not calculated, proportion of results below limit of detection was too high to provide a valid result.
+ Table 5 Urine concentrations of PFOA, PFOS, PFNA, and PFHxS measured in 2016 in community members in the vicinity of Decatur, AL.
+ Urine concentration (μg/ L) Urine concentration - creatinine adjusted (μg PFAS/g creatinine) 
+
+ PFAS Limit of detection b (μg/L) Percent detected (%) Mean Median Mean Median 
+ PFOA
+ 0.01
+ 95.6
+ 0.027
+ 0.022
+ 0.031
+ 0.024
+
+ PFOS
+ 0.02
+ 45.7
+ a 
+ a 
+ a 
+ a 
+
+ PFNA
+ 0.01
+ 30.4
+ a 
+ a 
+ a 
+ a 
+
+ PFHxS
+ 0.02
+ 52.2
+ a 
+ a 
+ a 
+ a 
+
+ a Not calculated, proportion of results below limit of detection was too high to provide a valid result.
+ b Detection limits vary for each individual sample as they are based on sample volume. The detection limit for a 50 mL sample is reported here. Additional information is available in the supplementary materials .
+ Table 6 Mean PFAS half-lives (years) reported in the literature and estimated in the community members near Decatur, AL.
+ Zhang et al., 2013 , young females Zhang et al., 2013 all males and older females Bartell et al., 2010 Olsen et al., 2007 Decatur, AL investigation 
+ Total PFOA
+ 2.1
+ 2.6
+ 2.3
+ 3.8
+ 3.9
+
+ Total PFOS
+ 6.2
+ 27
+ na
+ 5.4
+ 3.3
+
+ PFHxS
+ 7.7
+ 35
+ na
+ 8.5
+ 15.5

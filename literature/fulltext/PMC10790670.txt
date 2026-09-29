@@ -1,0 +1,541 @@
+pmc Environ Sci Technol Environ Sci Technol 3046 epapa 0213155 Environmental science & technology 0013-936X 1520-5851 pmc-is-collection-domain yes pmc-collection-title EPA Author Manuscripts PMC10790670 PMC10790670.3046 10790670 10790670 NIHMS1956402 37801709 10.1021/acs.est.2c08241 NIHMS1956402 EPAPA1956402 3046 Article Estimation of the Half-Lives of Recently Detected Per- and Polyfluorinated Alkyl Ethers in an Exposed Community Wallis Dylan J. 1 Kotlarz Nadine 1 Knappe Detlef 1 Collier David 2 Lea Suzanne 2 Reif David 1 McCord James 3 Strynar Mark 3 DeWitt Jamie C. 2 Hoppin Jane A. 1 1. North Carolina State University, Raleigh, NC 2. East Carolina University, Greenville, NC 3. U.S. Environmental Protection Agency, Triangle Research Park, NC 17 10 2023 06 10 2023 57 41 453480 15348 15355 10 01 2024 17 10 2024 17 10 2024 17 01 2024 14 04 2026 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law. To estimate half-lives for novel fluoroethers, the GenX Exposure Study obtained two serum measurements for per- and polyfluoroalkyl substances (PFAS) for 44 participants of age 12–86 years from North Carolina, collected 5 and 11 months after fluoroether discharges into the drinking water source were controlled. The estimated half-lives for these compounds were 127 days (95% confidence interval (95% CI) = 86, 243 days) for perfluorotetraoxadecanoic acid (PFO4DA), 296 days for Nafion byproduct 2 (95% CI = 176, 924 days), and 379 days (95% CI = 199, 3870 days) for perfluoro-3,5,7,9,11-pentaoxadodecanoic acid (PFO5DoA). Using these estimates and the literature values, a model was built that predicted PFAS half-lives using structural properties. Three chemical properties predicted 55% of the variance of PFAS half-lives based on 15 PFAS. A model with only molecular weight predicted 69% of the variance. Some properties can predict the half-lives of PFAS, but a deeper understanding is needed. These fluoroethers had biological half-lives longer than published half-lives for PFHxA and PFHpA (30–60 days) but shorter than those for PFOA and PFOS (800–1200 days). These are the first and possibly only estimates of human elimination half-lives of these fluoroethers.
+
+## Graphical Abstract:
+
+ pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access no pmc-prop-olf no pmc-prop-manuscript yes pmc-prop-open-manuscript yes pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement yes pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes 
+
+## Introduction:
+ Per- and polyfluoroalkyl substances (PFAS) are a class of compounds that contain at least one fully fluorinated methylene (−CF 2 −) or methyl (−CF 3 ) group. ( 1 , 2 ) Production of PFAS began in the 1930s, and they have since become ubiquitous in natural and human impacted environments due to their use in hundreds of different applications─including stain, oil, and water repellant coatings in food containers, textiles, pharmaceutical packaging, apparel, and personal care products such as floss. ( 1 , 3 – 6 ) As part of chemical production, novel PFAS can be created as byproducts and can be discharged to air and surface water. PFAS are often not removed via conventional drinking water treatment methods and have therefore been found in relatively high concentrations in drinking water of communities where water is impacted by facilities that produce PFAS directly or use them in abundance for production of other products. ( 7 – 9 )
+ The vast majority of PFAS tend to be persistent in the environment or breakdown into more persistent transformation products. Longer chain perfluoroalkyl acids (PFAAs) such as perfluorooctanesulfonic acid (PFOS) and perfluorooctanoic acid (PFOA) are highly persistent (or slowly excreted) in the human body. ( 10 – 15 ) According to the 2021 toxicological profile by the Agency for Toxic Substances and Disease Registry (ATSDR) estimates of the human half-lives of PFOA, PFOS, and perfluorohexanesulfonic acid (PFHxS), three of the most well-studied long chain PFAAs have fallen between 2.1 and 10.1 years, ( 2 , 16 , 17 ) 3.1–27 years, ( 2 , 12 , 16 ) and 4.7–35 years, ( 2 , 12 , 16 ) respectively. Studies have also shown that PFAS generally demonstrate first-order elimination kinetics. ( 11 , 12 ) A thorough understanding of the toxicokinetic implications of a chemical structure and specifically how a compound’s chemical structure may impact its elimination half-life is useful in the design of exposure and health effects studies. While the absorption and distribution of many perfluoroalkyl acids is similar, their excretion rates can differ greatly. ( 18 ) One important factor that may explain the long half-lives of some PFAAs in humans is their interaction with renal resorption transporters, which may play an important role in perfluoroalkyl acid’s long half-lives. ( 18 ) Due to this, hormone mediated transporter differences across sexes in animal studies have been shown to cause differences in the excretion of some PFAS in rats and mice. ( 12 , 19 ) Although sex differences resulting from differences in hormone mediated transporters have not been directly observed in humans, sex differences─possibly due to other causes such as menstruation─have been observed in human studies. ( 12 , 19 ) In the literature, differences in structure across PFAS congeners and isomers lead to differences in excretion half-lives. ( 10 , 16 , 20 ) PFAS, unlike many other organic contaminants, such as pesticides and phthalates, are not metabolized, which influences the complexities of the study of their elimination. Some properties of these compounds that could affect half-life include head group, branching, number of carbons, ether oxygens, electrostatic surface potential, and protein binding affinity. ( 21 – 31 ) Among other things, these factors may influence the routes of excretion by which PFAS are excreted. Examples from the literature in both humans and animals have shown that sulfonated PFAS are often more bioaccumulative than PFAS with carboxylic acid head groups; branching affects solubility through changes in intermolecular interactions; number of carbons in a PFAS chain affects clearance rates in animal models; and the inclusion of ether oxygens generally shortens PFAS half-lives. ( 22 , 23 , 28 , 30 , 32 )
+ In North Carolina, the Fayetteville Works fluorochemical manufacturing plant has discharged wastewater containing a variety of PFAS into the Cape Fear River since 1980. ( 33 ) Several understudied and novel PFAS, including hexafluoropropylene oxide dimer acid (HFPO–DA or GenX), PFO4DA, PFO5DoA, and perfluoro-2-{[perfluoro-3-(perfluoroethoxy)-2-propanyl]oxy}ethanesulfonic acid (Nafion byproduct 2), have been detected downstream of this facility in the Cape Fear River. ( 34 – 39 ) These PFAS fall into a class of PFAS known as fluoroethers due to the presence of one or more ether oxygen atoms interspersed in the fluorinated alkyl chain. ( 34 , 37 – 41 ) In June 2017, this discharge was revealed to downstream residents who worked with state and federal agencies to stop discharge to the river by July 2017. ( 34 , 38 – 40 ) Since then, measured levels of novel PFAS in water samples, including those uniquely discovered in the Cape Fear River, decreased by several orders of magnitude and/or became undetectable. Contemporaneously, many of the residents switched to bottled drinking water before the point source was controlled. ( 34 , 39 ) To address community concerns about the impact of PFAS-contaminated drinking water, in November 2017, the GenX Exposure Study collected blood from residents of New Hanover County, NC, to investigate community exposure to these novel fluoroethers. ( 42 )
+ Fluoroether chemistry was introduced as a PFOA replacement, but little is known about the toxicokinetic properties of these novel PFAS, particularly for the species formed as byproducts of production. Therefore, it is important to obtain putative toxicokinetic information about novel fluoroethers to improve studies of these compounds and fluoroethers as a class. The importance of this information supersedes the limitations of this study, namely, that there were only two separate samples six months apart in a study of a relatively small sample size. In this study, we used data from the GenX Exposure Study to calculate human half-lives for three fluoroethers Nafion byproduct 2, perfluoro-3,5,7,9-tetraoxadecanoic acid (PFO4DA), and perfluoro-3,5,7,9,11-pentaoxadodecanoic acid (PFO5DoA); these structures can be seen in Figure 1 . Then, the resulting estimates were combined with reference data from the literature to build a model assessing the relationship between chemical properties of PFAS and their elimination half-lives.
+
+## Methods:
+
+## Cohort:
+ Serum PFAS measurement data were drawn from the GenX Exposure Study, a community-based cohort created to assess exposure to novel PFAS from drinking water. A detailed account of the process of recruitment, consenting, and sample collection can be found in Kotlarz et al. ( 42 ) In November 2017, individuals from New Hanover County, North Carolina, whose drinking water was provided by the Cape Fear Public Utility Authority were recruited for the GenX Exposure Study; individuals provided a serum sample at that time, five months after the cessation of point-source fluoroether discharge to the Cape Fear River. In May 2018, 44 participants provided the second serum sample; 11 months after discharge stopped. Study participants provided written informed consent, and the study complied with the North Carolina State University Institutional Review Board.
+
+## Chemical Analysis of Blood:
+ Blood serum from participants was analyzed for 20 different PFAS, 10 fluoroethers, and 10 long-chain perfluoroalkyl acids, using liquid chromatography high-resolution mass spectrometry (LC HMRS). ( 42 , 43 ) Analytical standards were acquired from Wellington Laboratories [hexafluoropropylene oxide dimer acid (HFPO–DA/GenX), perfluorobutanoic acid (PFBA), perfluoropentanoic acid (PFPeA), perfluorohexanoic acid (PFHxA), perfluoroheptanoic acid (PFHpA), PFOA, perfluorononanoic acid (PFNA), perfluorobutanesulfonic acid (PFBS), PFHxS, PFOS, and 6:2 fluorotelomer sulfonate (6:2 FTS)] or the Chemours company [perfluoro-2-methoxyacetic acid (PFMOAA), perfluoro-2-methoxypropanoic acid, 2,3,3,3-tetrafluoro-2-(pentafluoroethoxy)propanoic acid, perfluoro-2-ethoxypropanoic acid (PEPA), perfluoro-3,5,7-trioxaoctanoic acid (PFO4DA), perfluoro-3,5,7,9,11-pentaoxadodecanoic acid (PFO5DoA), 1,1,2,2-tetrafluoro-2-(1,2,2,2-tetrafluoroethoxy)ethanesulfonic acid (NVHOS), perfluoro-3,6-dioxa-4-methyl-7-octene-1-sulfonic acid (Nafion byproduct 1), and Nafion byproduct 2]. Analyzed PFAS were chosen based on PFAS previously reported in the lower Cape Fear River and the available standards at the time. ( 42 , 43 )
+
+## Half-life estimation:
+ To estimate half-lives of the fluoroethers, we modeled each PFAS as a simple elimination process using noncompartmental first-order rate kinetics. This represented an estimate of the amount of chemicals eliminated from the body per day. A simplified elimination model is appropriate as ongoing exposure has effectively ceased. ( 34 , 39 )
+ The model is thus the first-order decay process of the form: eq 1 .
+
+ l n C = β 0 + X 1 β 1 + a g e β 2 + g e n d e r β 3 + ϵ 
+ C is the concentration of a given PFAS for an individual, X 1 is the time in days from the first sampling session, β 1 is the estimate of how much the concentration of a given chemical in the blood decreases per day in ng/mL/day. β 2 represents the effect of age on concentration in ng/mL/each year older a participant is, and β 3 represents the effect of gender on concentration. ϵ is error. Gender and age were chosen as covariates because they may have a significant effect on the rate of PFAS excretion. ( 20 , 44 ) Weight and body mass index were considered but not included because they were not recorded at the second sampling session.
+ Using β 1 as the elimination coefficient, k e (ng/mL/day), we estimated the rate of removal for a chemical compound using first-rate laws ( eq 2 ) and use the estimated k e to find the half-life ( eq 3 ).
+ Eq 1 . First order rate equation
+ Eq 1. 
+ C p = C 0 e k e t 
+
+ Eq 2 . Elimination half-life from elimination coefficient
+ Eq 2. 
+ ln 2 K e = t 1 2 
+
+## Half-life Predictions Using Available Data:
+ With these new half-life estimates for these three chemicals along with the literature values for 12 other PFAS, we built two different linear models for the prediction of PFAS half-life using lm() in base R version 3.6.3. ( 45 ) Forward stepwise selection was used to identify the most effective model for predicting PFAS half-life using the regsubsets command from the leaps package in R. ( 46 ) The full model considered the number of carbons in the chain, head group (1 = sulfonic acid, 0 = carboxylic acid), the number of oxygens in the chain, and presence or absence of branches (1 or 0). The properties K ow , K oa , and water solubility were considered but not included because they are generally considered unreliable for PFAS. ( 47 ) The first model included three predictor variables based on chemical structure: the number of carbons in the chain, head group (1 = sulfonic acid, 0 = carboxylic acid), and presence or absence of branches (1 or 0). ( 45 ) This model assumes that PFAS which are not explicitly labeled as branched are in their linear form. A simplified second model was also tested for comparison using molecular weight (MW) as the only structural predictor. MW provides some information about the molecule but lacks specific chemical moieties that can influence the PFAS behavior in biological systems. MW was not included in the first model as it is directly correlated with the sum of carbon and oxygen contents and did not improve model predictions. The repeatedcv method from the caret package was used to do repeated four-fold cross validation with 100 repeats to assess the models. ( 48 ) Code for all analyses is included in the Supporting Information .
+
+## Results and Discussion:
+ A total of 44 participants, ranging in age from 12 to 86 years and comprising 64% female and 36% males, provided blood samples approximately 177 days apart ( Table 1 ). Five long-chain PFAAs PFAS and five fluoroethers were detected in the blood serum of participants ( Table 2 ). Fluoroether concentrations were higher in the November 2017 samples than in May 2018, consistent with biological elimination. Nafion byproduct 2, PFO5DoA, and PFO4DA were measured in nearly every participant at both time points, whereas PFO3OA and NVHOS were found only in the first sampling. This result may suggest a half-life shorter than that of our six-month sampling interval. In addition, GenX was not detected in any participants’ blood serum in the initial sampling five months after point source reduction was reported. Recently, the European Chemicals Agency (ECHA) estimated the half-life of GenX in workers at 81 h. ( 49 ) This estimate falls well below half-life estimates of the additional fluoroethers reported here ( Table 3 ) and could explain the lack of detection of GenX in participants in this study.
+ Following cessation of discharge to the Cape Fear River, novel PFAS levels in the Cape Fear River had decreased by several orders of magnitude. ( 35 ) Additionally, many participants in the GenX Exposure Study had switched to bottled drinking water at the time of this study. ( 34 , 39 ) As a result, we assumed that any further novel PFAS exposure was negligible and was not enough to violate the assumptions of the first-order elimination model.
+ We focused on the three fluoroethers detected at both time points, Nafion byproduct 2, PFO4DA, and PFO5DoA. The first parameter estimated was the excretion coefficients. The excretion coefficients were −0.00234 ng/mL/day for Nafion byproduct 2, −0.00546 ng/mL/day for PFO4DA, and −0.00183 ng/mL/day for PFO5DoA ( Table 3 ). Using these excretion coefficients, the estimated half-lives for the three fluoroethers were calculated ( Table 3 ). Nafion byproduct 2 has an estimated half-life of 296 days with a 95% confidence interval (CI) of 176–924 days. PFO4DA has an estimated half-life of 127 ays (95% CI 176–924 days). PFO5DoA has an estimated half-life of 379 days (95% CI, 199–3870 days). These fluoroethers all had shorter half-lives than long-chain PFAAs such as PFOA and PFOS, but longer half-lives than those for other PFAAs with much shorter half-lives such as PFHxA (32 days) and PFHpA (62 days). ( 20 , 44 ) The half-lives of PFO3OA and NVHOS could not be estimated because they could not be detected in most of the samples after 177 days.
+ Sex has been noted as an important factor in elimination speed─although the mechanism is unclear in humans and may differ between species─for some long-chain PFAAs in animal models as well as in humans. ( 12 , 16 , 19 , 20 ) PFAS have been shown to interact with renal resorption transporters. ( 18 ) Hormone mediated differences across renal transporters between sexes in animal studies cause excretion differences. ( 12 , 19 ) While renal transporters also apply to human PFAS excretion, there is currently no evidence that they cause the observed sex differences. ( 12 , 18 , 19 ) Those could be due to other causes such as menstruation. ( 12 , 19 ) As menstruation can influence the excretion of PFAS, the association of age and gender with the PFAS excretion rate may be different in postmenopausal people. Using Eq 1 , we not only estimated excretion coefficients, but we also estimated the impact of gender and age on fluoroether elimination ( Table 3 ). In our elimination models, female gender was associated with significantly lower concentrations of Nafion byproduct 2. It also appeared to be important for the other compounds, but we lacked statistical power to assess this difference. Age can influence the excretion rate of chemicals because of the changes in organs and regulatory systems that affect pharmacokinetics as age increases. ( 50 ) For example, there is a marked reduction in renal and hepatic clearance as age increases. ( 50 ) In the equation to predict excretion coefficients, age was associated with significantly higher serum levels of Nafion byproduct 2 and PFO5DoA, suggesting that older people may have a slower elimination of these compounds. As age increased, the concentrations of these PFAS in the serum also increased. These concentration differences could be caused by several factors, including, but not limited to, excretion rates. Other factors include differences in intake rate of PFAS contaminated water or differences in exposure to other sources of PFAS contamination.
+ After estimating the half-lives of the fluoroethers, we built models to explore what chemical and physical properties of all PFAS influence their half-lives. Table 4 lists structural and chemical properties for 12 PFAS, including five fluoroethers. These features were selected because they have been shown to affect the half-lives of the well-studied PFAS or commonly affect the toxicokinetics of other compounds. Features we considered include: the number of carbons in the chain, branching of the molecule, type of head group, MW, number of ether oxygens, and octanol and water partition coefficient ( log K ow ). The number of carbons in the chain of the PFAS approximates the chain length without the complexity of branching. Compound head group (carboxylic or sulfonic) has shown significant effects on elimination rates based on comparison of compounds with similar chain length (e.g., PFHxS vs PFHxA ( 51 , 52 )), with sulfonic acids having longer half-lives. In the same way that PFAS excretion can differ between the sexes due to differences in renal transporters, these features could affect how they interact with renal transporters, changing the rate at which they are excreted from the body. ( 12 , 18 , 19 ) Using variable selection, the number of carbons within the chain, the head group, and the presence or absence of branching were all found to have meaningful predictive power when trying to predict the half-lives of PFAS with an R 2 value of 0.69. Cross-validation of the model gave R 2 = 0.66 with a standard deviation of 0.27. The predictive equation was ln(half-life) = 0.1460 + (1.2651 × HG) + (0.7857 × C) + (−2.4321 × B), where HG is the presence of a sulfonic acid, 1 for yes and 0 for no; C is the number of carbons in the chain; and B is the presence of branching in the compound, 1 if there is at least one branch and 0 if there is not. This model (Model 1) suggests that longer chain PFAS with sulfonic head groups and no branching have longer half-lives shorter chain PFAS with some combination of branching and carboxylic head group. Model predictions are listed in Table 5 .
+ A simpler model was also built using just MW as the predictor of half-life. This model was built separately as MW was considered an important property of these compounds, which contained important information on their chemical properties, but did not improve the more complex model according to stepwise selection and cross-validation. The predictive equation was ln(half-life) = −2.51357 + (0.02006 × MW). Table 5 shows the results of the MW model (Model 2). Cross validation found that this model has an R 2 = 0.72 with a standard deviation of 0.25. This simpler model shows promise in predicting half-lives and generalizability although the increased R 2 and decreased standard deviation are probably due to the reduction in variables in the model. One important thing that this model points to is the importance and predictive value of the MW for half-life though MW was not important in models that included more chemical specific information.
+ The results of these predictive models help to explain some results in this study. The presence of branching could explain some of the very short half-life of GenX (∼3 days) and consequent lack of detection in this study, while its MW alone would not be able to explain a half-life so much shorter than the other novel PFAS. The more complex model predicts the half-life of NVHOS to be between 22 and 395 days; the longer value is probably an overestimate because most people had no detectable NVHOS less than a year after exposure stopped. The model predicted the half-life of PFO3OA to be between 17 and 190 days.
+ PFAS are complex chemicals both chemically and biologically. More experimental data are needed to estimate coefficients which may inform half-life estimates; for example, protein–water distribution coefficients (Dpw), membrane-water distribution coefficients (Dmw), and experimentally derived Koa values could prove useful for predicting half-lives as human data are limited for most PFAS, unfortunately these are not currently available for PFAS. These models were imperfect in predicting PFAS half-lives with these relatively simplistic parameters. They were, nonetheless, able to predict many of the half-lives of these compounds, which demonstrated both the importance of these parameters and the knowledge gap in our understanding of PFAS properties. For the chemicals evaluated here, these may be the only available human exposure data. While these models perform well in terms of high adjusted R 2 , the variation in estimates over cross-validation sets was high. This is not surprising, given the relatively small number of PFAS with well understood toxicokinetics. While the specific parameters of the models built on this small data set are unlikely to generalize to other PFAS outside of this chemical set very well, they provide empirical support for these properties as important in predicting half-lives in combination with additional properties needed to understand differences across PFAS. For example, one study showed that electrostatic surface potential can affect how PFAS partition in the body. ( 31 ) Molecular docking experiments have shown that protein binding affinity and tissue partitioning can be used to predict the toxicokinetic properties of PFAS as well. ( 27 ) Physiologically based pharmacokinetic modeling is also an important tool for investigating the kinetics of poorly understood compounds. These models could be used to develop a more complex understanding of PFAS excretion, as well, given the correct parameters. These properties, going beyond simple estimates based on structure, should be investigated to better understand the toxicokinetic properties, of these compounds to improve the predictive power and generalizability of models like this and expand the knowledgebase of PFAS toxicokinetic properties. The study was limited by its small sample size with only 44 individuals and only two repeat measurements per person. However, these estimates are the first and possibly only empirical toxicokinetic estimates in humans for these novel fluoroether PFAS. These estimates of toxicokinetic parameters provide important and timely properties for future studies of these compounds. Continued exposure to novel PFAS in the Cape Fear River has been reduced by several orders of magnitude, so there may be no future ability to estimate half-lives and elimination rates for these compounds in an exposed human population, except occupationally exposed workers or other exposure events. Knowledge of these constants will help in the design and implementation of research that can elucidate possible health effects and further describe the toxicokinetic properties of novel PFAS.
+
+## Supplementary Material
+ Supplement1 
+
+## Acknowledgements
+ This document has been reviewed by the U.S. Environmental Protection Agency, Office of Research and Development, and approved for publication. The views expressed in this article are those of the authors and do not necessarily represent the views or policies of the U.S. Environmental Protection Agency or the National Institutes of Health. Funding for this research was provided under the NIEHS (R21 R21ES029353, P42ES031009, and P30ES025128) and Matching Funds from NC Policy Collaboratory.
+ Supporting Information
+ R code used for analysis and modeling as described in the manuscript
+
+## Abbreviations
+ PFAS per- and polyfluoroalkyl substances
+ PFOS perfluorooctanesulfonic acid
+ PFOA perfluorooctanoic acid
+ PFHxS perfluorohexane sulfonic acid
+ PFO4DA perfluoro-3,5,7,9-tetraoxadecanoic acid
+ PFBA perfluorobutanoic acid
+ PFHxA perfluorohexanoic acid
+ HFPO–DA hexafluoropropylene oxide dimer acid
+ PFHpA perfluoroheptanoic acid
+ Nafion byproduct 2 perfluoro-2-{[perfluoro-3-(perfluoroethoxy)-2-propanyl]oxy}ethanesulfonic acid
+ PFBS perfluorobutane sulfonic acid
+ PFNA perfluorononanoic acid
+ 6:2 FTS 6:2 fluorotelomer sulfonate
+ PFMOAA perfluoro-2-methoxyacetic acid
+ PEPA perfluoro-2-ethoxypropanoic acid
+ PFO2HxA perfluoro-3,5-dioxahexanoic acid
+ PFO3OA perfluoro-3,5,7-trioxaoctanoic acid
+ PFO4DA perfluoro-3,5,7,9-tetraoxadecanoic acid
+ PFO5DoA perfluoro-3,5,7,9,11-pentaoxadodecanoic acid
+ NVHOS 1,1,2,2-tetrafluoro-2-(1,2,2,2-tetrafluoroethoxy)ethanesulfonic acid
+ Nafion byproduct 1 perfluoro-3,6-dioxa-4-methyl-7-octene-1-sulfonic acid
+ ECHA European Chemicals Agency
+
+## References
+ 1. Buck RC ; Franklin J ; Berger U ; Conder JM ; Cousins IT ; de Voogt P ; Jensen AA ; Kannan K ; Mabury SA ; van Leeuwen SP 
+ Perfluoroalkyl and Polyfluoroalkyl Substances in the Environment: Terminology, Classification, and Origins . Integr. Environ. Assess Manag 
+ 2011 , 7 ( 4 ), 513 – 541 ,DOI: 10.1002/ieam.258 21793199 
+ PMC3214619 2. ATSDR . Toxicological Profile for Perfluoroalkyls. (Draft for Public Comment) ; Department of Health and Human Services, Public Health Service : Atlanta, GA, US , 2018 ; p. 852 . https://wwwn.cdc.gov/TSP/ToxProfiles/ToxProfiles.aspx?id=1117&tid=237 ( accessed2021–02–18 ). 3. Glüge J ; Scheringer M ; Cousins IT ; DeWitt JC ; Goldenman G ; Herzke D ; Lohmann R ; Ng CA ; Trier X ; Wang Z . An Overview of the Uses of Per- and Polyfluoroalkyl Substances (PFAS) . Environ. Sci.: Processes Impacts 
+ 2020 , 22 ( 12 ), 2345 – 2373 , DOI: 10.1039/D0EM00291G PMC7784712 33125022 4. Armitage JM ; MacLeod M ; Cousins IT 
+ Comparative Assessment of the Global Fate and Transport Pathways of Long-Chain Perfluorocarboxylic Acids (PFCAs) and Perfluorocarboxylates (PFCs) Emitted from Direct Sources . Environ. Sci. Technol 
+ 2009 , 43 ( 15 ), 5830 – 5836 ,DOI: 10.1021/es900753y 19731684 
+ 5. Mueller R ; Yingling V . History and Use of Per-and Polyfluoroalkyl Substances (PFAS) ; Interstate Technology & Regulatory Council : USA , 2017 . 6. Land M ; De Wit CA ; Bignert A ; Cousins IT ; Herzke D ; Johansson JH ; Martin JW 
+ What Is the Effect of Phasing out Long-Chain per-and Polyfluoroalkyl Substances on the Concentrations of Perfluoroalkyl Acids and Their Precursors in the Environment? A Systematic Review . Environ. Evid 
+ 2018 , 7 ( 1 ), 4 , DOI: 10.1186/s13750-017-0114-y 7. Graber JM ; Alexander C ; Laumbach RJ ; Black K ; Strickland PO ; Georgopoulos PG ; Marshall EG ; Shendell DG ; Alderson D ; Mi Z ; Mascari M ; Weisel CP 
+ Per and Polyfluoroalkyl Substances (PFAS) Blood Levels after Contamination of a Community Water Supply and Comparison with 2013–2014 NHANES . J. Expo. Sci. Environ. Epidemiol 
+ 2019 , 29 ( 2 ), 172 – 182 , DOI: 10.1038/s41370-018-0096-z 30482936 
+ PMC6380951 8. Hu XC ; Andrews DQ ; Lindstrom AB ; Bruton TA ; Schaider LA ; Grandjean P ; Lohmann R ; Carignan CC ; Blum A ; Balan SA ; Higgins CP ; Sunderland EM 
+ Detection of Poly- and Perfluoroalkyl Substances (PFASs) in U.S. Drinking Water Linked to Industrial Sites, Military Fire Training Areas, and Wastewater Treatment Plants . Environ. Sci. Technol. Lett 
+ 2016 , 3 ( 10 ), 344 – 350 ,DOI: 10.1021/acs.estlett.6b00260 27752509 
+ PMC5062567 9. Rahman MF ; Peldszus S ; Anderson WB Behaviour and Fate of Perfluoroalkyl and Polyfluoroalkyl Substances (PFASs) in Drinking Water Treatment: A Review . Water Res . 2014 , 50 , 318 – 340 ,DOI: 10.1016/j.watres.2013.10.045 24216232 
+ 10. Brase RA ; Mullin EJ ; Spink DC 
+ Legacy and Emerging Per- and Polyfluoroalkyl Substances: Analytical Techniques, Environmental Fate, and Health Effects. 
+ Int. J. Mol. Sci 
+ 2021 , 22 ( 3 ), 995 , DOI: 10.3390/ijms22030995 33498193 
+ PMC7863963 11. Olsen GW ; Burris JM ; Ehresman DJ ; Froehlich JW ; Seacat AM ; Butenhoff JL ; Zobel LR 
+ Half-Life of Serum Elimination of Perfluorooctanesulfonate,Perfluorohexanesulfonate, and Perfluorooctanoate in Retired Fluorochemical Production Workers . Environ. Health Perspect 
+ 2007 , 115 ( 9 ), 1298 – 1305 , DOI: 10.1289/ehp.10009 17805419 
+ PMC1964923 12. Li Y ; Fletcher T ; Mucs D ; Scott K ; Lindh CH ; Tallving P ; Jakobsson K . Half-Lives of PFOS, PFHxS and PFOA after End of Exposure to Contaminated Drinking Water . Occup. Environ. Med 
+ 2018 , 75 ( 1 ), 46 – 51 , DOI: 10.1136/oemed-2017-104651 29133598 
+ PMC5749314 13. Ghisi R ; Vamerali T ; Manzetti S . Accumulation of Perfluorinated Alkyl Substances (PFAS) in Agricultural Plants: A Review . Environ. Res 
+ 2019 , 169 , 326 – 341 , DOI: 10.1016/j.envres.2018.10.023 30502744 
+ 14. Lindstrom AB ; Strynar MJ ; Libelo EL 
+ Polyfluorinated Compounds: Past, Present, and Future . Environ. Sci. Technol 
+ 2011 , 45 ( 19 ), 7954 – 7961 , DOI: 10.1021/es2011622 21866930 
+ 15. McDonough CA ; Li W ; Bischel HN ; De Silva AO ; DeWitt JC 
+ Widening the Lens on PFASs: Direct Human Exposure to Perfluoroalkyl Acid Precursors (Pre-PFAAs) . Environ. Sci. Technol 
+ 2022 , 56 ( 10 ), 6004 – 6013 , DOI: 10.1021/acs.est.2c00254 35324171 
+ PMC10782884 16. Zhang Y ; Beesoon S ; Zhu L ; Martin JW 
+ Biomonitoring of Perfluoroalkyl Acids in Human Urine and Estimates of Biological Half-Life. 
+ Environ. Sci. Technol 
+ 2013 , 47 ( 18 ), 10619 – 10627 , DOI: 10.1021/es401905e 23980546 
+ 17. Seals R ; Bartell SM ; Steenland K . Accumulation and Clearance of Perfluorooctanoic Acid (PFOA) in Current and Former Residents of an Exposed Community . Environ. Health Perspect 
+ 2011 , 119 ( 1 ), 119 – 124 , DOI: 10.1289/ehp.1002346 20870569 
+ PMC3018490 18. Toxicological Effects of Perfluoroalkyl and Polyfluoroalkyl Substances ; DeWitt JC , Ed.; Molecular and Integrative Toxicology; Springer International Publishing : Cham , 2015 . 19. Li Y ; Andersson A ; Xu Y ; Pineda D ; Nilsson CA ; Lindh CH ; Jakobsson K ; Fletcher T . Determinants of Serum Half-Lives for Linear and Branched Perfluoroalkyl Substances after Long-Term High Exposure─A Study in Ronneby, Sweden . Environ. Int 
+ 2022 , 163 , 107198 DOI: 10.1016/j.envint.2022.107198 35447437 20. Xu Y ; Fletcher T ; Pineda D ; Lindh CH ; Nilsson C ; Glynn A ; Vogs C ; Norström K ; Lilja K ; Jakobsson K . Serum Half-Lives for Short-and Long-Chain Perfluoroalkyl Acids after Ceasing Exposure from Drinking Water Contaminated by Firefighting Foam. 
+ Environ. Health Perspect 
+ 2020 , 128 ( 7 ), 077004 DOI: 10.1289/EHP6785 PMC7351026 32648786 21. Abuzar SM ; Hyun S-M ; Kim J-H ; Park HJ ; Kim M-S ; Park J-S ; Hwang S-J 
+ Enhancing the Solubility and Bioavailability of Poorly Water-Soluble Drugs Using Supercritical Antisolvent (SAS) Process . Int. J. Pharm 
+ 2018 , 538 ( 1–2 ), 1 – 13 , DOI: 10.1016/j.ijpharm.2017.12.041 29278733 
+ 22. Arvidsson EO ; Green FA ; Laurell S . Branching and Hydrophobic Bonding . J. Biol. Chem 
+ 1971 , 246 ( 17 ), 5373 – 5379 , DOI: 10.1016/S0021-9258(18)61917-9 4106190 
+ 23. Conder JM ; Hoke RA ; de Wolf W ; Russell MH ; Buck RC 
+ Are PFCAs bioaccumulative? A Critical Review and Comparison with Regulatory Criteria and Persistent Lipophilic Compounds. 
+ Environ. Sci. Technol 
+ 2008 , 42 ( 4 ), 995 – 1003 , DOI: 10.1021/es070895g 18351063 
+ 24. Fujii Y ; Niisoe T ; Harada KH ; Uemoto S ; Ogura Y ; Takenaka K ; Koizumi A . Toxicokinetics of Perfluoroalkyl Carboxylic Acids with Different Carbon Chain Lengths in Mice and Humans . J. Occup. Health 
+ 2015 , 57 ( 1 ), 1 – 12 , DOI: 10.1539/joh.14-0136-OA 25422127 
+ 25. Kurnia KA ; Sintra TE ; Neves CMSS ; Shimizu K ; Lopes JNC ; Gonçalves F ; Ventura SPM ; Freire MG ; Santos LMNBF ; Coutinho JAP 
+ The Effect of the Cation Alkyl Chain Branching on Mutual Solubilities with Water and Toxicities . Phys. Chem. Chem. Phys 
+ 2014 , 16 ( 37 ), 19952 – 19963 , DOI: 10.1039/c4cp02309a 25119425 
+ PMC4265389 26. Markowitz JS ; Patrick KS 
+ Pharmacokinetic and Pharmacodynamic Drug Interactions in the Treatment of Attention-Deficit Hyperactivity Disorder . Clin. Pharmacokinet 
+ 2001 , 40 ( 10 ), 753 – 772 , DOI: 10.2165/00003088-200140100-00004 11707061 
+ 27. Ng CA ; Hungerbuehler K . Exploring the Use of Molecular Docking to Identify bioaccumulative Perfluorinated Alkyl Acids (PFAAs) . Environ. Sci. Technol 
+ 2015 , 49 ( 20 ), 12306 – 12314 , DOI: 10.1021/acs.est.5b03000 26393377 
+ 28. Ohmori K ; Kudo N ; Katayama K ; Kawashima Y . Comparison of the Toxicokinetics between Perfluorocarboxylic Acids with Different Carbon Chain Length . Toxicology 
+ 2003 , 184 ( 2–3 ), 135 – 140 , DOI: 10.1016/S0300-483X(02)00573-5 12499116 
+ 29. Pizzurro DM ; Seeley M ; Kerper LE ; Beck BD 
+ Interspecies Differences in Perfluoroalkyl Substances (PFAS) Toxicokinetics and Application to Health-Based Criteria . Regul. Toxicol. Pharmacol 
+ 2019 , 106 , 239 – 250 , DOI: 10.1016/j.yrtph.2019.05.008 31078680 
+ 30. Rice PA ; Cooper J ; Koh-Fallet SE ; Kabadi SV 
+ Comparative Analysis of the Physicochemical, Toxicokinetic, and Toxicological Properties of Ether-PFAS . Toxicol. Appl. Pharmacol 
+ 2021 , 422 , 115531 DOI: 10.1016/j.taap.2021.115531 33933458 31. Robuck AR ; McCord JP ; Strynar MJ ; Cantwell MG ; Wiley DN ; Lohmann R . Tissue-Specific Distribution of Legacy and Novel Per- and Polyfluoroalkyl Substances in Juvenile Seabirds . Environ. Sci. Technol. Lett 
+ 2021 , 8 ( 6 ), 457 – 462 , DOI: 10.1021/acs.estlett.1c00222 34527758 
+ PMC8437152 32. Bentel MJ ; Yu Y ; Xu L ; Kwon H ; Li Z ; Wong BM ; Men Y ; Liu J . Degradation of Perfluoroalkyl Ether Carboxylic Acids with Hydrated Electrons: Structure–Reactivity Relationships and Environmental Implications . Environ. Sci. Technol 
+ 2020 , 54 ( 4 ), 2489 – 2499 , DOI: 10.1021/acs.est.9b05869 31999101 
+ 33. Wagner A ; Buckland T . Chemours: GenX polluting the Cape Fear since 
+ 1980 . https://www.starnewsonline.com/news/20170615/Chemours-genx-polluting-cape-fear-since-1980 ( accessed 2020–12–16 ). 34. Hopkins ZR ; Sun M ; DeWitt JC ; Knappe DRU 
+ Recently Detected Drinking Water Contaminants: GenX and Other Per- and Polyfluoroalkyl Ether Acids . J. Am. Water Works Assoc . 2018 , 110 ( 7 ), 13 – 28 , DOI: 10.1002/awwa.1073 35. McCord J ; Strynar M . Identification of Per- and Polyfluoroalkyl Substances in the Cape Fear River by High Resolution Mass Spectrometry and Nontargeted Screening . Environ. Sci. Technol 
+ 2019 , 53 ( 9 ), 4717 – 4727 , DOI: 10.1021/acs.est.8b06017 30993978 
+ PMC7478245 36. McCord J ; Newton S ; Strynar M . Validation of Quantitative Measurements and Semi-Quantitative Estimates of Emerging Perfluoroethercarboxylic Acids (PFECAs) and Hexfluoroprolyene Oxide Acids (HFPOAs) . J. Chromatogr. A 
+ 2018 , 1551 , 52 – 58 , DOI: 10.1016/j.chroma.2018.03.047 29628221 
+ PMC5955390 37. Strynar M ; Dagnino S ; McMahen R ; Liang S ; Lindstrom A ; Andersen E ; McMillan L ; Thurman M ; Ferrer I ; Ball 
+ Identification of Novel Perfluoroalkyl Ether Carboxylic Acids (PFECAs) and Sulfonic Acids (PFESAs) in Natural Waters Using Accurate Mass Time-of-Flight Mass Spectrometry (TOFMS) . Environ. Sci. Technol 
+ 2015 , 49 ( 19 ), 11622 – 11630 , DOI: 10.1021/acs.est.5b01215 26392038 
+ 38. Sun M ; Arevalo E ; Strynar M ; Lindstrom A ; Richardson M ; Kearns B ; Pickett A ; Smith C ; Knappe DRU 
+ Legacy and Emerging Perfluoroalkyl Substances Are Important Drinking Water Contaminants in the Cape Fear River Watershed of North Carolina . Environ. Sci. Technol. Lett 
+ 2016 , 3 ( 12 ), 415 – 419 , DOI: 10.1021/acs.estlett.6b00398 39. Zhang C ; Hopkins ZR ; McCord J ; Strynar MJ ; Knappe DRU 
+ Fate of Per- and Polyfluoroalkyl Ether Acids in the Total Oxidizable Precursor Assay and Implications for the Analysis of Impacted Water . Environ. Sci. Technol. Lett 
+ 2019 , 6 ( 11 ), 662 – 668 , DOI: 10.1021/acs.estlett.9b00525 31909080 
+ PMC6944312 40. NC DEQ: State orders Chemours to stop chemical releases, begins legal action and steps to suspend permit . https://deq.nc.gov/news/press-releases/2017/09/05/state-orders-Chemours-stop-chemical-releases-begins-legal-action-and ( accessed 2021–05–06 ). 41. Correspondent, V. H. S. 
+ Toxin taints CFPUA drinking water ; Wilmington Star News . https://www.starnewsonline.com/news/20170607/toxin-taints-CFPUA-drinking-water/1 ( accessed 2021–05–06 ). 42. Kotlarz N ; McCord J ; Collier D ; Lea CS ; Strynar M ; Lindstrom AB ; Wilkie AA ; Islam JY ; Matney K ; Tarte P ; Polera ME ; Burdette K ; DeWitt J ; May K ; Smart RC ; Knappe DRU ; Hoppin JA 
+ Measurement of Novel, Drinking Water-Associated PFAS in Blood from Adults and Children in Wilmington, North Carolina . Environ. Health Perspect 
+ 2020 , 128 ( 7 ), 77005 , DOI: 10.1289/EHP6837 32697103 
+ PMC7375159 43. Kotlarz N ; McCord J ; Wiecha N ; Weed RA ; Cuffney M ; Enders JR ; Strynar M ; Knappe DRU ; Reich BJ ; Hoppin JA 
+ Higher Blood Serum PFO5DoA Levels in Wilmington, North Carolina, Residents than Originally Reported and New Serum Measurements for Hydro-EVE . Environ. Health Perspect 
+ 2023 , No. In Review. 44. Dzierlenga AL ; Robinson VG ; Waidyanatha S ; DeVito MJ ; Eifrid MA ; Gibbs ST ; Granville CA ; Blystone CR 
+ Toxicokinetics of Perfluorohexanoic Acid (PFHxA), Perfluorooctanoic Acid (PFOA) and Perfluorodecanoic Acid (PFDA) in Male and Female Hsd:Sprague Dawley SD Rats Following Intravenous or Gavage Administration . Xenobiotica 
+ 2020 , 50 ( 6 ), 722 – 732 , DOI: 10.1080/00498254.2019.1683776 31680603 
+ 45. R Core Team . R: A Language and Environment for Statistical Computing , 2020 . https://www.R-project.org . 46. Thomas Lumley based on Fortran code by Alan Miller . Leaps: Regression Subset Selection , 2020 . https://CRAN.R-project.org/package=leaps . 47. The Interstate Technology & Regulatory Council . Per- and Polyfluoroalkyl Substances Technical and Regulatory Guidance , 2022 . 48. Kuhn M . Caret: Classification and Regression Training , 2022 . https://CRAN.R-project.org/package=caret . 49. European Chemicals Agency . Registration Dossier - ECHA - Ammonium 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate . European Chemicals Agency . https://echa.europa.eu/nl/registration-dossier/-/registered-dossier/2679/7/11/6/?documentUUID=0ee876ba-9ead-4569-8f9d-09c43212acf0 ( accessed 2021–09–22 ). 50. Mangoni AA ; Jackson SHD 
+ Age-Related Changes in Pharmacokinetics and Pharmacodynamics: Basic Principles and Practical Applications . Br. J. Clin. Pharmacol 
+ 2004 , 57 ( 1 ), 6 – 14 , DOI: 10.1046/j.1365-2125.2003.02007.x 14678335 
+ PMC1884408 51. Lu S ; Bartell S . Serum PFAS Calculator for Adults , 2020 . http://www.ics.uci.edu/~sbartell/pfascalc.htmlwww.ics.uci.edu/~sbartell/pfascalc.html ( accessed 2021–02–18 ). 52. Russell MH ; Waterland RL ; Wong F . Calculation of Chemical Elimination Half-Life from Blood with an Ongoing Exposure Source: The Example of Perfluorooctanoic Acid (PFOA) . Chemosphere 
+ 2015 , 129 , 210 – 216 , DOI: 10.1016/j.Chemosphere.2014.07.061 25149361 
+ 53. Lowe CN ; Williams AJ 
+ Enabling High-Throughput Searches for Multiple Chemical Data Using the U.S.-EPA CompTox Chemicals Dashboard . J. Chem. Inf. Model 
+ 2021 , 61 , 565 , DOI: 10.1021/acs.jcim.0c01273 33481596 
+ PMC8630643 54. Olsen GW ; Chang S-C ; Noker PE ; Gorman GS ; Ehresman DJ ; Lieder ; Butenhoff JL 
+ A Comparison of the Pharmacokinetics of Perfluorobutanesulfonate (PFBS) in Rats, Monkeys, and Humans . Toxicology 
+ 2009 , 256 ( 1 ), 65 – 74 , DOI: 10.1016/j.tox.2008.11.008 19059455 
+ Figure 1. Chemical structures of (A) PFO4DA, (B) Nafion byproduct 2, and (C) PFO5DoA.
+ Table 1. Demographic Characteristics of the 44 Individuals Who Provided Two Serum Samples Six Months Apart a 
+ characteristic % of participants 
+ age group
+
+ 12–18
+ 5
+
+ 18–35
+ 11
+
+ 35–55
+ 36
+
+ 55–70
+ 30
+
+ 70–86
+ 18
+
+ gender
+
+ male
+ 36
+
+ female
+ 64
+
+ a GenX Exposure Study, New Hanover County, NC, 2017–2018.
+ Table 2. Novel Fluoroethers Detected in Blood Serum Samples at Two Sample Collection Times in 44 Participants, Each Sampled Twice, from the GenX Exposure Study in New Hanover County, NC, 2017–2018
+ compound median concentration November 2017 (ng/mL) median concentration May 2018 (ng/mL) number > MRL at both measurements detection limits (ng/mL) 
+ Nafion byproduct 2
+ 4.14
+ 2.47
+ 44
+ 0.1–0.123
+
+ PFO5DoA
+ 12.41
+ 8.91
+ 43
+ 0.5
+
+ PFO4DA
+ 5.60
+ 1.16
+ 40
+ 0.1–0.111
+
+ PFO3OA
+ 1.02
+ NA
+ 1
+ 0.1–1.281
+
+ NVHOS
+ 1.14
+ NA
+ 1
+ 0.1–0.234
+
+ Table 3. Estimated Values for Half-Lives, Excretion Coefficients for Three Novel Fluoroethers, and the 95% Confidence Interval of Those Estimates a 
+ compound half-life (days) half-life 95%CI (days) excretion coefficient (ng/mL/day) excretion coefficient 95% CI (ng/mL/day) effect of age on concentration (ng/mL/year) effect of gender concentration (ng/mL) in males 
+ PFO4DA
+ 127
+ 86,243
+ –0.00546 * 
+ –0.00806, −0.00285
+ 0.0129
+ 0.376
+
+ Nafion byproduct 2
+ 296
+ 176,924
+ –0.00234 * 
+ –0.00393, −0.000750
+ 0.017 * 
+ 0.34 * 
+
+ PFO5DoA
+ 379
+ 199,3870
+ –0.00183 * 
+ –0.00348, −0.000179
+ 0.0160 * 
+ 0.298
+
+ a* indicates significant values ( p < 0.05).
+ Table 4. Chemical and Physical Properties for 15 PFAS That May Influence the Biological Half-Life
+ compound carbons (in chain) molecular weight ether oxygens head group branched? 
+
+ log K ow 
+
+ half-life (days) 
+ GenX
+ 6
+ 330.053
+ 1
+ carboxylic acid
+ Yes
+ 5.13 a 
+ 3.375 f 
+
+ PFHxA
+ 6
+ 314.045
+ 0
+ carboxylic acid
+ No
+ 2.8 a 
+ 32 g 
+
+ NVHOS
+ 4
+ 298.1
+ 1
+ sulfonic acid
+ No
+ 2.58 a 
+ NA
+
+ PFO3DOA
+ 5
+ 312.044
+ 3
+ carboxylic acid
+ No
+ 6.07 a 
+ NA
+
+ PFHpA
+ 7
+ 364.062
+ 0
+ carboxylic acid
+ No
+ 2.05 b 
+ 464 i 
+
+ PFO4DA
+ 6
+ 378.05
+ 4
+ carboxylic acid
+ No
+ 8.53 a 
+ 127 c 
+
+ Nafion byproduct 2
+ 7
+ 464.13
+ 2
+ sulfonic acid
+ Yes
+ 5.98 a 
+ 296 c 
+
+ PFHpS
+ 7
+ 450.12
+ 0
+ sulfonic acid
+ No
+ 4.85 a 
+ 533 e 
+
+ PFOA
+ 8
+ 414.07
+ 0
+ carboxylic acid
+ No
+ 3.1 b 
+ 902 e 
+
+ PFOS
+ 8
+ 500.13
+ 0
+ sulfonic acid
+ No
+ 5.61 b 
+ 1241 d 
+
+ PFNA
+ 9
+ 464.078
+ 0
+ carboxylic acid
+ No
+ 3.54 b 
+ 1417 i 
+
+ PFHxS
+ 6
+ 400.11
+ 0
+ sulfonic acid
+ No
+ 3.48 a 
+ 1661 e 
+
+ PFDA
+ 10
+ 514.086
+ 0
+ carboxylic acid
+ No
+ 4.15 b 
+ 3743 i 
+
+ PFUnA
+ 11
+ 564.093
+ 0
+ carboxylic acid
+ No
+ 4.00 b 
+ 3743 i 
+
+ PFPeS
+ 5
+ 350.1
+ 0
+ sulfonic acid
+ No
+ 3.38 a 
+ 343 e 
+
+ PFBS
+ 4
+ 300.09
+ 0
+ sulfonic acid
+ No
+ 2.76 b 
+ 26 h 
+
+ PFO5DoA
+ 7
+ 44.057
+ 5
+ carboxylic acid
+ No
+ 10.4
+ 379 c 
+
+ a Predicted values from EPA Chemistry Dashboard. ( 53 )
+ b Experimental values from EPA Chemistry Dashboard. ( 53 )
+ c Estimates from the model.
+ d Li et al. ( 12 )
+ e Li et al. ( 19 )
+ f Values from ECHA report. ( 49 )
+ g Russel et al. ( 52 ) NA, no data to estimate.
+ h Value from Olsen et al. ( 54 )
+ i Weighted average from Zhang et al. ( 16 )
+ Table 5. Combined Results of the Modeled Half-Lives from Both Models with Elements of PFAS That Were Determined To Be Important Using Variable Selection a 
+ compound literature half-life (days) Model 1 predicted half-life 95% CI (days) Model 2 predicted half-life 95% CI (days) 
+ PFHxS
+ 1661 d 
+ 145, 1420
+ 122, 490
+
+ PFNA
+ 1417 h 
+ 530, 3440
+ 396, 1980
+
+ PFOS
+ 1241 c 
+ 630, 7700
+ 663, 5050
+
+ PFOA
+ 902 c 
+ 280, 13508
+ 164, 639
+
+ PFHpS
+ 533 d 
+ 320, 3130
+ 318, 1410
+
+ Nafion byproduct 2
+ 296 b 
+ 13.9, 5603
+ 397, 1980
+
+ PFO4DA
+ 116 b 
+ 48.1, 3274
+ 72.9, 340
+
+ PFHpA
+ 464.0 h 
+ 124, 616
+ 320, 1410
+
+ PFHxA
+ 32.0 f 
+ 48.1, 327
+ 13.7, 136
+
+ PFDA
+ 3743 h 
+ 918, 9660
+ 797, 7370
+
+ PFUnA
+ 3743 h 
+ 1510, 28600
+ 1490, 29600
+
+ PFPeS
+ 343 d 
+ 17.0, 190
+ 36.0, 220
+
+ PFBS
+ 26 g 
+ 21.9, 395
+ 9.30, 114
+
+ PFO5DoA
+ 379 b 
+ 124, 616
+ 287, 1220
+
+ GenX
+ 3.38 e 
+ 1.74, 69.8
+ 21.1, 168
+
+ NVHOS
+ NA
+ 21.9, 395
+ 8.80, 111
+
+ PFO3OA
+ NA
+ 17.0, 190
+ 13, 133
+
+ a The results for the model that included structural features of the modeled half-lives are shown on the left (Model 1). The results for the model that included molecular weight (Model 2) are on the right. These predicted values are listed alongside estimated half-lives for the novel PFAS or the literature reported serum half-lives for long-chain PFAAs. These models were used to predict intervals for NVHOS and PFO3OA that do not have known half-lives.
+ b Estimates from the model.
+ c Li et al. ( 12 )
+ d Li et al. ( 19 )
+ e Values from ECHA report. ( 49 )
+ f Russel et al. ( 52 )
+ g Olsen et al. ( 54 )
+ h Weighted average from Zhang et al. ( 16 )
+
+## Synopsis:
+ Fluoroether PFAS have poorly understood toxicokinetic properties. This paper uses human serum data to calculate how long fluoroethers remain in the human body and create a model that uses physical properties to predict half-lives of PFAS.
