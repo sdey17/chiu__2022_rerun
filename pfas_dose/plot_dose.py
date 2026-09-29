@@ -6,7 +6,7 @@ comparison is within a study (comparing doses across labs would confound
 dose with laboratory), and one series per panel means identity never
 depends on colour.
 
-Usage:  python plot_dose.py PFOA_Male_rat_2cmpt.nc
+Usage:  python plot_dose.py PFOA_Male_rat_2cmpt.nc   -> PFOA_Male_rat_2cmpt_dose.png
 """
 import sys
 
@@ -24,7 +24,9 @@ GRID = "#e3e2de"
 MARKERS = {"gavage": "o", "iv": "^"}
 
 
-def plot(path, out="clearance_vs_dose.png"):
+def plot(path, out=None):
+    # name the picture after the trace it came from
+    out = out or path.replace(".nc", "_dose.png")
     df, _ = load_dataset_clearance(path)
     studies = sorted(df.study.unique())
     ncol = min(3, len(studies))

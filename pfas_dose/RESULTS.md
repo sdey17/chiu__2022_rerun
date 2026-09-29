@@ -1,4 +1,18 @@
-# PFOA in male rats: does clearance depend on dose?
+# Does PFAS clearance depend on dose?
+
+Two chemicals so far, both male rats. **PFOA yes, PFHxA no.**
+
+| | PFOA | PFHxA |
+|---|---|---|
+| clearance | 0.0150 L/kg/d | 3.02 L/kg/d (200x faster) |
+| half-life | 13.3 d | 0.095 d (~2.3 h) |
+| Vdss | 0.270 L/kg | 0.446 L/kg |
+| dose slope, gavage | **+0.110 (+0.007, +0.222)** | **+0.039 (-0.041, +0.122)** |
+| within-study ratios outside 0.8-1.2 | 2 of 5 | **0 of 5** |
+
+---
+
+# PFOA in male rats
 
 First result. Fit of the EPA model (`fit_rat_pfoa.py`) to 860 observations
 from 6 studies / 14 datasets, then `dose_analysis.py`.
@@ -90,10 +104,70 @@ is single-dose so it contributes only an intercept.
   dose correlates with anything else a lab does, that is the bigger lever.
 - Digitised-from-figures data, and the 2-compartment fit's marginal ESS.
 
-## Next
+---
 
-1. ~~Check whether follow-up duration tracks dose.~~ Done, see above.
-2. PFHxA male rat: 9 dose levels over 3000x, the strongest available test.
-3. Then PFOS, PFNA, PFBS, PFDA in rats; compare slopes across chain length.
-4. Mice where 2-3 dose levels exist. Primates cannot contribute (single IV
+# PFHxA in male rats
+
+162 observations, 4 studies, 11 datasets. LOO picks the 2-compartment
+model decisively (elpd_diff 77.2). Reproduces their notebook:
+
+| | this run | their notebook |
+|---|---|---|
+| Clearance (L/kg/d) | 3.106 | 3.118 |
+| Vdss (L/kg) | 0.446 | 0.426 |
+| Half-life (d) | 0.100 | 0.095 |
+| Vc (L/kg) | 0.334 | 0.336 |
+
+## No dose dependence
+
+| study | dose change | fold | clearance ratio (90% CI) | inside 0.8-1.2? |
+|---|---|---|---|---|
+| 2850314 | 2 -> 100 mg/kg | 50x | 1.14 (0.86, 1.50) | yes |
+| 2850396 | 50 -> 150 | 3x | 1.17 (0.87, 1.57) | yes |
+| 2850396 | 50 -> 300 | 6x | 1.05 (0.78, 1.40) | yes |
+| 5916078 | 40 -> 80 | 2x | 1.20 (0.89, 1.61) | yes |
+| 5916078 | 40 -> 160 | 4x | 1.17 (0.85, 1.60) | yes |
+
+    gavage only:  beta = +0.039  (90% CI -0.041, +0.122)   P(beta < 0) = 0.19
+    both routes:  beta = +0.012  (90% CI -0.048, +0.073)   P(beta < 0) = 0.37
+
+Every within-study ratio falls inside the practical-equivalence band, and
+the interval on beta is *tighter* than PFOA's while straddling zero. This
+is a precise null, not an underpowered one.
+
+## And the data are cleaner than PFOA's
+
+- Two of the three multi-dose studies used **identical follow-up across
+  every dose** (1.0 d), so duration cannot confound them at all.
+- **All 11 datasets observed at least 3.6 half-lives** (median 10), against
+  PFOA's median of 2.4 with one dataset under 1. With a ~2 hour half-life
+  even a one-day study watches the curve all the way down.
+- Equal-duration subsets: beta = +0.063 (90% CI -0.112, +0.246), still
+  centred near zero.
+
+## Why the contrast is interesting
+
+PFOA's positive slope is consistent with saturable renal reabsorption:
+kidney transporters pull PFOA back out of urine, and swamping them at high
+dose lets more escape. PFHxA is already cleared 200x faster, i.e. it is
+barely reabsorbed to begin with, so there is little for a high dose to
+saturate. Same species, same sex, same model, opposite answer - and the
+difference tracks the mechanism rather than the statistics.
+
+Caveat worth keeping: PFHxA's within-study dose ranges (2-50x) are
+narrower than PFOA's widest (250x), even though PFHxA spans more doses
+overall. The comparison is not perfectly matched.
+
+---
+
+# Next
+
+1. ~~Check whether follow-up duration tracks dose.~~ Done.
+2. ~~PFHxA male rat.~~ Done, null result.
+3. PFOS, PFNA, PFBS, PFDA in male rats, to see whether the split tracks
+   carbon-chain length (PFOA and PFOS are 8-carbon; PFHxA is 6).
+4. Female rats, where PFOA clearance is ~44x higher - if that is the same
+   transporter story, the dose slope should differ too. This may be the
+   sharpest mechanistic test available.
+5. Mice where 2-3 dose levels exist. Primates cannot contribute (single IV
    dose only), so "across species" is really rat vs mouse.
