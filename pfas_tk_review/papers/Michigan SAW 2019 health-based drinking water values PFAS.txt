@@ -1,0 +1,1556 @@
+                                      2019
+
+
+
+
+HEALTH-BASED
+DRINKING WATER VALUE
+RECOMMENDATIONS
+FOR PFAS IN MICHIGAN
+
+
+
+
+Michigan Science Advisory Workgroup
+DR. JAMIE DEWITT
+MR. KEVIN COX
+DR. DAVID SAVITZ
+Executive Director’s Foreword
+This report accomplishes a key milestone in Michigan’s effort to
+identify and reduce exposures to per- and polyfluoroalkyl
+substances (PFAS) contamination. With it, we are now one step
+closer to developing state drinking water standards for PFAS.
+
+Michigan is a national leader at addressing PFAS
+contamination. Through our unique, multi-agency approach,
+Michigan’s PFAS Action Response Team (MPART) is
+systematically identifying sources of PFAS contamination and
+getting a better understanding of their occurrence throughout
+our environment.
+
+By using analytical techniques capable of finding PFAS as low
+as 2 parts per trillion, we have found the presence of PFAS in the drinking water from thousands
+of private residential wells near contaminated sites. We have also found PFAS in public water
+supplies across the state. We tested over 1,700 supplies covering all community water supplies
+plus schools and larger day cares with their own wells. We found PFAS in ten percent of the
+supplies. While most of the PFAS levels were very low, three percent of the supplies have
+required follow-up actions, and a few have required an alternate water source.
+
+Unfortunately, we do not have federal drinking water standards, despite knowing they are in our
+drinking water and that some PFAS have been associated with adverse health effects.
+Recognizing that the USEPA is still likely several years away from providing any leadership on
+PFAS drinking water standards, Michigan, like other states, was left to develop our own.
+
+With Governor Gretchen Whitmer’s leadership, MPART formed a Science Advisory Workgroup
+to navigate the science and standards from across the country to advise Michigan on drinking
+water health-based values for PFAS. These health-based values will be used to inform the next
+step of the drinking water rule-making process, which includes stakeholder involvement where
+other factors will be considered.
+
+I could not be more impressed with the thoughtful deliberation of our workgroup and the tireless
+technical support from our staff. As the information in this report is given to EGLE for consideration
+during the development of drinking water standards, we all owe them our sincere appreciation for
+giving us a firm foundation on which to move forward with protecting Michiganders from
+unacceptable levels of PFAS in their drinking water.
+
+
+
+
+Steve Sliver,
+Executive Director,
+Michigan PFAS Action Response Team
+
+
+
+
+                                                  i
+Michigan Science Advisory Workgroup
+Dr. Jamie DeWitt
+Mr. Kevin Cox
+Dr. David Savitz
+
+Agency Support Staff to the Panel
+Mr. Steve Sliver, Michigan Department of Environment, Great Lakes, and Energy
+Mr. Kory Groetsch, Michigan Department of Health and Human Services
+Dr. Jennifer Gray, Michigan Department of Health and Human Services
+Dr. Eric Wildfang, Michigan Department of Environment, Great Lakes, and Energy
+Ms. Chelsea Dickerson, Michigan Department of Environment, Great Lakes, and Energy
+
+
+
+
+              Report developed for the Michigan PFAS Action Response Team,
+                                     Lansing, Michigan
+                                       June 27, 2019
+
+
+
+                                            ii
+                   The Michigan Science Advisory Workgroup
+
+                       Dr. David Savitz
+                       Dr. David Savitz, who chairs the advisory Workgroup, is a professor of
+                       epidemiology in the School of Public Health at Brown University. He also serves
+                       as associate dean for research, and holds joint appointments in obstetrics and
+                       gynecology, and pediatrics in the Alpert Medical School. His epidemiological
+                       research has addressed a wide range of public health issues including
+                       environmental hazards in the workplace and community, reproductive health
+                       outcomes, and environmental influences on cancer. He has done extensive work
+on health effects of nonionizing radiation, pesticides, drinking water treatment by-products, and
+perfluorinated compounds. He is the author of nearly 350 papers in professional journals and editor or
+author of three books. He was president of the Society for Epidemiologic Research and the Society for
+Pediatric and Perinatal Epidemiologic Research, and North American regional councilor for the
+International Epidemiological Association. Dr. Savitz is a member of the National Academy of Sciences
+Institute of Medicine. From 2013-2017 he served as vice president for research at Brown University. He
+was a member of the C8 Science Panel that conducted some of the first epidemiologic research on
+PFAS in the mid-Ohio Valley and has published a number of reports related to potential health effects
+of PFAS. He recently chaired the Science Panel to advise MPART on the current research related to
+toxicology, epidemiology, exposure pathways, and remediation of PFAS.
+
+                     Mr. Kevin Cox
+                     Kevin Cox is a Managing Toxicologist at NSF International. Prior to his current
+                     role, Mr. Cox was a Supervising Toxicologist supporting NSF’s drinking water
+                     additives and dietary supplement certification programs. As an expert in human
+                     health risk assessment, Mr. Cox has authored numerous chemical risk
+                     assessments evaluating exposure from unregulated drinking water contaminants,
+                     dietary supplement ingredients, toy product materials, and pool and spa treatment
+chemicals. Specific to PFAS, Mr. Cox has conducted a state-of-the-science analysis of published PFAS
+risk assessments in support of NSF International drinking water programs. This analysis was recently
+presented to Michigan water management professionals. Mr. Cox received his B.S. in biochemistry and
+history from the University of Michigan and his MPH in Environmental Health Sciences - Toxicology
+from the University of Michigan School of Public Health. He is currently an Associate Member of the
+Society of Toxicology. Mr. Cox also holds a J.D. from the University of Michigan Law School and is a
+member of the Michigan Bar Association.
+
+                   Dr. Jamie DeWitt
+                   Dr. Jamie DeWitt is an associate professor in the Department of Pharmacology and
+                   Toxicology of the Brody School of Medicine at East Carolina University. Her
+                   laboratory’s research program explores relationships between biological organisms
+                   and their responses after exposure to environmental contaminants, with a specific
+                   focus on the immune system and its interactions with the nervous system during
+                   development and adulthood. The research program particularly focuses on
+emerging aquatic contaminants, especially PFAS. With respect to PFAS, DeWitt has published 13
+primary research articles, six review articles, two book chapters, and edited a book on PFAS toxicity.
+She has served as an external reviewer for the United States Environmental Protection Agency
+(USEPA) health effects assessment of perfluorooctanoic acid (PFOA) and perfluorooctane sulfonate
+(PFOS), the United States National Toxicology Program’s immune effects assessment of PFOA and
+                                                    iii
+PFOS, the United States Agency for Toxic Substances and Disease Registry toxicological profile for
+PFASs, and was a member of the International Agency for Research on Cancer working group for the
+assessment of the carcinogenicity of PFOA. Her laboratory currently assesses the immunotoxicity of
+emerging PFAS that have been designed to replace those that have been phased out of production and
+that are of concern in North Carolina. She double-majored in environmental science and biology for her
+bachelor’s degree from Michigan State University and has doctoral degrees in environmental science
+and neural science from Indiana University-Bloomington. She completed postdoctoral training in
+ecotoxicology at Indiana University-Bloomington and in immunotoxicology at the USEPA in partnership
+with the University of North Carolina at Chapel Hill.
+
+
+
+
+                                                  iv
+Table of Contents
+Executive Director’s Foreword .....................................................................................................i
+The Michigan Science Advisory Workgroup ............................................................................... iii
+Executive Summary ................................................................................................................... 2
+Approach ................................................................................................................................... 5
+  Workgroup Interpretation of the Charge.................................................................................. 5
+  Challenges and Limitations..................................................................................................... 6
+Process ...................................................................................................................................... 7
+  Selection of Toxicity Values ................................................................................................... 7
+  Uncertainty Factors ................................................................................................................ 7
+  Relative Source Contribution .................................................................................................. 8
+  Drinking Water Health-Based Value Derivation ...................................................................... 8
+  Confidence Statement ............................................................................................................ 9
+PFAS Chemical Summary Sheets.............................................................................................10
+    Chemical Summary for PFNA ............................................................................................10
+    Chemical Summary for PFOA ............................................................................................12
+    Chemical Summary for PFHxA ..........................................................................................14
+    Chemical Summary for PFOS ............................................................................................16
+    Chemical Summary for PFHxS ..........................................................................................18
+    Chemical Summary for PFBS ............................................................................................20
+    Chemical Summary for GenX.............................................................................................22
+Rationale for Individual HBVs....................................................................................................25
+Summary of Conclusions ..........................................................................................................26
+  Summary Table of Drinking Water HBVs ...............................................................................26
+    Figure 1. ............................................................................................................................27
+Concluding Remarks .................................................................................................................27
+References ...............................................................................................................................29
+  Appendix A: Acronym List......................................................................................................33
+  Appendix B: MPART Motion for Creation of Science Advisory Workgroup, April 4, 2019 ......34
+  Appendix C: USEPA Method 537.1 Analyte List ....................................................................35
+  Appendix D: Timeline for the Science Advisory Workgroup’s Development of Drinking Water
+  HBVs .....................................................................................................................................36
+  Appendix E: Timeline of the Maximum Contaminant Level Development Process .................37
+
+
+
+
+                                                                       1
+Executive Summary
+Background: The Michigan PFAS Action Response Team (MPART), is a unique, multi-agency
+proactive approach for coordinating state resources to address per- and polyfluoroalkyl
+substances (PFAS) contamination. Agencies responsible for environmental protection, public
+health, natural resources, agriculture, military installations, commercial airports, and fire
+departments work together to ensure the most efficient and effective response. The work done
+by MPART on drinking water supports the development of standards now that we have key
+information, including:
+
+   •   PFAS have been discovered in drinking water during investigations of contaminated sites
+       and a survey of all of Michigan’s public water supplies. Public health responses, such as
+       the provision of alternate water (e.g., point of use filters) have been necessary for
+       thousands of Michiganders based on the strength of the source, location, and the
+       concentrations found.
+
+   •   The MPART Science Advisory Panel report issued in December 2018 indicated that
+       observational epidemiology literature supports the need for drinking water values below
+       the United States Environmental Protection Agency (USEPA) Lifetime Health Advisory
+       (LHA) level of 70 ppt PFOS and PFOA, individually or in combination, and included a
+       recommendation for establishing state drinking water standards for PFAS.
+
+   •   The Michigan Department of Health and Human Services (MDHHS)-led MPART Human
+       Health Workgroup developed public health drinking water screening levels for five
+       individual PFAS in February 2019. Those screening levels will prompt further evaluation
+       and public health consultations at numerous public water supplies and residences across
+       the state including where detectable levels of PFOS and/or PFOA are below the USEPA
+       LHA.
+
+On March 26, 2019, Governor Gretchen Whitmer announced that Michigan was establishing
+enforceable state drinking water standards for PFAS. These standards, otherwise known as
+Maximum Contaminant Levels (MCLs), under the federal Safe Drinking Water Act have
+traditionally been established first by the USEPA and then adopted by the states. At this time,
+however, the USEPA has not initiated its process for establishing PFAS MCLs, and its process
+could take five or more years to complete. Michigan chose not to wait any longer for federal action.
+
+Governor Whitmer called on MPART to form a Science Advisory Workgroup (Workgroup) to
+review the existing and proposed PFAS standards from across the country and develop health-
+based values (HBVs) to inform the initial phase of the rulemaking process for establishing state
+drinking water standards. The workgroup was given until July 1, 2019 to develop the HBVs. On
+April 4, 2019, MPART approved a motion to create the Workgroup. The Charge from MPART to
+the Workgroup is included in Appendix B. The members of the Workgroup were announced on
+April 11, 2019. The Workgroup was supported by MPART staff.
+
+
+
+
+                                                 2
+The Workgroup members are experts in the fields of epidemiology, toxicology, and risk
+assessment. The composition of the Workgroup matches the typical fields of evaluation for HBV
+developments. Dr. Jamie DeWitt provided the strong toxicological expertise and up-to-date
+knowledge on PFAS toxicology as HBVs typically use laboratory animal toxicity studies.
+Epidemiological information supports the laboratory animal data, and Dr. David Savitz provided
+his epidemiological expertise in selection of health endpoints and relevance to humans. Tying
+both toxicology and epidemiology together are risk assessment practices, and Mr. Kevin Cox
+provided the expertise in that field. Taken together, this Workgroup was able to knowledgably
+speak on the current state of PFAS health research and provide the scientific expertise needed
+to efficiently develop HBVs on the requested timeline.
+
+The evaluation and deliberations of the Workgroup occurred over a very limited timeframe
+(Appendix D), which required frequent interaction. Much of that interaction occurred during 7 web
+conferences between April 19 and May 29, 2019, culminating in an in-person meeting the weekend
+of June 1-2, 2019. The Workgroup’s final conclusions were presented to MPART on June 27, 2019.
+
+Conclusions: The Workgroup undertook a methodical approach to evaluate existing and
+proposed standards from across the country for the 18 PFAS analytes considered under USEPA
+Method 537.1 (Appendix C). They focused on those PFAS that they determined had enough peer
+reviewed studies on which to base their conclusions. What they considered, and the logic behind
+their approach, has been carefully documented in individual chemical summaries for each
+compound that has a derived HBV in the following table:
+
+                 Summary Table of Drinking Water Health-Based Values
+              Specific       Drinking Water Health-           Chemical Abstract
+               PFAS               based Value                 Services Registry
+                                                              Number (CASRN)
+               PFNA                6 ng/L (ppt)                   375-95-1
+               PFOA                8 ng/L (ppt)                   335-67-1
+               PFHxA            400,000 ng/L (ppt)                307-24-4
+               PFOS                16 ng/L (ppt)                  1763-23-1
+               PFHxS               51 ng/L (ppt)                  355-46-4
+               PFBS               420 ng/L (ppt)                  375-73-5
+               GenX               370 ng/L (ppt)                 13252-13-6
+
+The Workgroup also recommended MPART and water supply operators screen analytical results
+for other long-chain PFAS (eight carbons and above for carboxylates and six carbons and above
+for sulfonates) included in USEPA Method 537.1 at the lowest concentration proposed for any of
+the compounds, which is 6 ppt. Based on the similarity in toxicity for the long-chain PFAS, the
+Workgroup recommends use of the HBV for PFNA (6 ng/L [ppt]) as a screening level for all other
+long-chain PFAS included on the USEPA Method 537.1 analyte list for which the Workgroup did
+not develop an individual HBV. Those other long-chain PFAS included in USEPA Method 537.1
+are: NEtFOSAA (CASRN: 2991-50-6); NMeFOSAA (CASRN: 2355-31-9); PFDA (CASRN: 335-
+76-2); PFDoA (CASRN: 307-55-1); PFTA (CASRN: 376-06-7); PFTrDA (CASRN: 72629-94-8);
+and PFUnA (CASRN: 2058-94-8). While there is not enough information available at this time to
+support HBVs and drinking water standards for them, these compounds are expected to produce
+similar health effects. Additional monitoring, research for potential sources, notification of the
+public, and efforts to reduce exposure are warranted.
+                                                3
+The Workgroup recognizes that their conclusions in some cases deviate modestly from those of
+other organizations. Evolving science and professional judgement can account for the variation.
+The variation is not substantial, however, and the values are trending lower nationally over time.
+
+
+
+
+                                                4
+Approach
+Workgroup Interpretation of the Charge
+The Workgroup was conscience of the importance and responsibility placed upon its efforts to
+identify public health toxicity values for certain PFAS as described within the Charge. Prior to
+initiating its efforts, the Workgroup sought and received clarification on the scope of the Charge.
+Given the relatively short timeframe for which to accomplish the tasks set forth within Charge, the
+Workgroup confirmed that the focus of the effort was to utilize the existing and proposed national-
+and state-derived PFAS assessments to inform its decision-making process as opposed to
+conducting a full systematic review of the available scientific literature on PFAS.
+
+Additionally, as one of the outputs of the Charge is to inform State of Michigan on drinking water
+health-based values for PFAS, it was important to understand if the State of Michigan had any
+paradigms in place that the Workgroup must follow when deriving drinking water health-based
+values. The response received from the State of Michigan indicated that the Workgroup was only
+limited to applying a scientifically defensible approach as described within the Charge. With these
+issues clarified, the Workgroup approached the tasks set forth in the charge in the following
+manner:
+
+   1) Initially, PFAS analytes were identified within USEPA Method 537.1 for which published
+      or externally peer reviewed PFAS drinking water criteria or reference doses (RfDs) existed
+      and the derivation of such values was done in a scientifically defensible manner. This
+      approach resulted in the selection of PFOA, PFOS, PFHxS, PFHxA, PFBS, PFNA and
+      GenX as PFAS analytes for which the Workgroup would then develop individual public
+      health toxicity values. The remaining PFAS values within USEPA Method 537.1 were later
+      considered as to whether a class-based or group-based public health toxicity value could
+      be applied.
+
+   2) For each of the selected PFAS analytes, the Workgroup evaluated the identified points of
+      departure (defined as the point on a toxicological dose-response curve corresponding to
+      an estimated low effect level or no effect level) and rationale from published risk
+      assessments and assessed the underlying key studies that served as the basis for the
+      published values. From this review, the merits of each available point of departure was
+      discussed among the Workgroup and critical studies and points of departures for each of
+      the seven identified PFAS analytes were identified to form the basis of public health toxicity
+      values described further herein.
+
+   3) With critical studies and points of departure identified for each individual PFAS, the
+      Workgroup then identified appropriate uncertainty factors to derive public health toxicity
+      values. From these public health toxicity values, the Workgroup recommended specific
+      drinking water exposure paradigms, accounting for sensitive sub-populations, and applied
+      selected relative source contribution factors to derive the drinking water health-based
+      values described further herein.
+
+   4) Lastly, consideration was given to the remaining PFAS analytes from USEPA Method
+      537.1 that were not selected for the development of individual criteria as to whether a
+      class-based or grouping-based evaluation approach would be appropriate. As described
+
+                                                5
+       below, the Workgroup concluded that a screening level approach was valid to assess
+       longer-chain PFAS based on the lowest derived drinking water health-based values.
+
+
+Based on guidance from the Director of EGLE’s Drinking Water and Environmental Health
+Division, PFAS chemical summary sheets were used to capture the necessary information for the
+MCL rulemaking process. The Workgroup and MPART staff used this format to provide maximum
+transparency on the decisions and rationale for drinking water health-based value development
+for each PFAS.
+
+The chemical summary sheets describe:
+
+   •   The critical study or studies, point of departure from each study, and conversion to a
+       human equivalent dose;
+
+   •   Uncertainty factors and a calculated toxicity value;
+
+   •   Exposure parameters, and methodology for calculation of a drinking water health-based
+       value.
+
+Challenges and Limitations
+The premises for the Workgroup’s efforts to provide evidence-based conclusions for informing the
+regulation of PFAS in drinking water are compelling. Policy needs to provide clarity on what levels
+of specific chemicals are believed to be protective of public health and develop a mechanism to
+monitor and mitigate pollutants such as PFAS where needed. The Workgroup identified and
+made optimal use of the scientific evidence that is available to provide guidance, drawing on its
+knowledge of research methods and quantitative risk assessment. Furthermore, the Workgroup
+approached the issue free of bias, and as a panel, has a wide range of expertise and familiarity
+with the research on PFAS. However, the nature of this process is inherently subject to
+uncertainty and other equally qualified experts presented with the same scientific data the
+Workgroup drew upon might well make somewhat different conclusions. A number of other
+organizations have been through a similar exercise in providing guidance on acceptable drinking
+water contaminant levels, and while there are not extreme differences, there is not complete
+convergence either. As described in some detail below, a series of inputs were needed to derive
+the Workgroup’s estimates and make that sequence of decisions as transparent as possible for
+those who wish to compare these conclusions to those made by other agencies. Like all the
+others, they are based exclusively on toxicology studies given the ability to quantify exposure-
+response relationships with great precision, but there is a loss of certainty in applying these
+estimates to free-living human populations. In most cases, there is epidemiologic evidence
+pertaining to the same health endpoints used in toxicology, and where there is such convergent
+evidence (e.g., immune function, development), confidence in the applicability of the experimental
+studies to human populations is enhanced. Finally, it should be noted that the scientific evidence
+on PFAS is expanding rapidly and that with new studies, the guidelines may well need to be
+revised. While it would be inefficient to do so frequently, on some periodic basis of several years,
+it would be useful to repeat the process that generated this report to determine where changes
+may be needed.
+
+
+
+                                                 6
+Process
+Selection of Toxicity Values
+Adverse health effects reported following exposure to PFAS in laboratory animal models and
+epidemiological studies have been summarized in myriad peer-reviewed and publicly available
+documents, including those generated by other state agencies. Most recently, the Agency for
+Toxic Substances and Disease Registry (ATSDR), compiled a toxicological profile for 14 PFAS
+that comprehensively summarizes evidence from publicly available published studies (ATSDR,
+2018). This, and other summary documents, as well as the published studies themselves, were
+relied on to determine points of departure, as well as the toxicity values that protect the most
+sensitive populations and reflect a level that is unlikely to lead to adverse health effects if those
+sensitive populations are exposed over a lifetime or during a sensitive period (i.e., during
+development). The toxicity values are therefore designed to be protective of all exposed
+populations. For all of the PFAS examined, points of departure were selected from studies with
+laboratory animal models. This approach does not negate findings associated with
+epidemiological studies, but reflects that humans experience uncontrolled and imperfectly
+documented rather than controlled, precisely measured exposures. Additionally, these points of
+departure reflect adverse health effects that occur at low doses and that are supported by the
+weight-of-evidence across endpoints and between findings in humans and laboratory animal
+models. Therefore, the process to select points of departure used the available scientific evidence
+to identify an adverse health effect that occurred at a low dose, was supported by findings in other
+studies, was relevant to humans, and would be protective of sensitive populations.
+
+Uncertainty Factors
+In deriving the toxicity values for PFAS, the selected points of departure are divided by uncertainty
+factors. Uncertainty factors are applied in order to account for:
+
+   1. Variation in susceptibility among the human population (intraspecies uncertainty);
+
+   2. Uncertainty in extrapolating animal data to humans (interspecies uncertainty);
+
+   3. Uncertainty in extrapolating from data obtained from a study with a less-than-lifetime
+      exposure (subchronic to chronic uncertainty);
+
+   4. Uncertainty in extrapolating from a lowest observed adverse effect level (LOAEL) as
+      opposed to a no observed adverse effect level (NOAEL); and
+
+   5. Uncertainty associated with an incomplete toxicity database. Uncertainty factors assigned
+      for each of these five categories are typically 1x, 3x (100.5x), or 10x with the default value
+      being 10x, which represents greater uncertainty.
+
+For both interspecies and intraspecies uncertainty factors, the variability in response to a toxicant
+may result from differences in toxicokinetics and/or toxicodynamics. Toxicokinetics refers to the
+absorption, distribution, biotransformation and excretion of the toxicant following exposure.
+Toxicodynamics refers to the molecular, biochemical and physiological effects of the toxicant or
+its metabolites leading to the toxic response. Therefore, the interspecies and intraspecies
+uncertainty factors are divided into subparts representing the toxicokinetic factor and the
+toxicodynamic factor. In evaluating the interspecies uncertainty for the selected PFAS, in each
+
+                                                 7
+case the toxicokinetic subfactor was able to be reduced to 1x on account of adjustments based
+on serum half-lives or allometric scaling. Due to lack of data to depart from the default the
+toxicodynamic subfactor 3x (100.5x), the resulting interspecies uncertainty factor is 3x (100.5x).
+
+When considering the subchronic to chronic uncertainty, the relevant consideration is whether the
+selected point of departure may differ if the duration of exposure were to be increased. For PFAS,
+a weight of evidence approach was used to assess the subchronic to chronic uncertainty factor,
+including, but not limited to, duration of the key study, potential impact of duration on the selected
+point of departure, as well as availability of chronic repeat-dose toxicity data.
+
+For the NOAEL to LOAEL uncertainty factor, use of a NOAEL (or lower confidence limit on the
+benchmark dose [BMDL]) allows for an uncertainty factor of 1x. If the point of departure is based
+on a LOAEL, the uncertainty factor is either 3x (100.5x) or 10x depending on the severity and/or
+reversibility of the critical effect.
+
+The database uncertainty factor is based on the ability of the existing data to support a scientific
+judgment of the likely critical effect from exposure to the compound. In assessing the database
+completeness, the types of toxicity data (e.g., human, animal, mode of action) as well as data
+gaps that may have improved the derived risk values should be emphasized. This approach
+should take into consideration issues such as the types of endpoints evaluated, life-stages
+evaluated, duration, timing, route of exposure, and the potential for latent effects and/or
+reversibility of effects (USEPA, 2002). For the selected PFAS, each database was unique;
+however, common concerns were lack of appropriate characterization of immune, endocrine or
+neurodevelopmental effects.
+
+Relative Source Contribution
+Relative source contribution (RSC) is the percentage of a person’s exposure to a chemical that
+comes from drinking water. For example, an RSC of 20 percent assumes that the other 80
+percent of a person’s exposure to a chemical comes from non-drinking water sources. The
+USEPA (2000) provides guidance on the selection of an RSC value using an exposure decision
+tree that takes into account specific populations of concern, whether these populations are
+experiencing exposure from multiple sources, and whether levels of exposure or other
+circumstances make apportionment of the toxicity value or POD/UF desirable. The most
+conservative RSC is established at 20 percent, and the RSC can reach a ceiling of 80 percent
+as more information is available about exposure pathways and the source of exposure.
+
+Drinking Water Health-Based Value Derivation
+The traditional risk assessment approach using simple equations based on body weight, water
+intake rate and RSC to calculate drinking water HBVs is not adequate to address the
+bioaccumulative nature and known or presumed developmental toxicity of PFAS. These
+traditional equations do not consider the PFAS body-burden at birth or any transfer of maternal
+PFAS through breastmilk. To better address these concerns, and to also account for higher early-
+life intake rates, the Goeden et al. (2019) simple one-compartment toxicokinetic model was used
+where the data were available for the individual PFAS. The resulting drinking water HBVs are
+considered protective for an infant exclusively breast-fed for 12 months, followed by drinking
+contaminated water through life. Additionally, these drinking water HBVs also protective for
+formula-fed infants. Where data were not available to derive drinking water HBVs using the model,
+traditional equations were used.
+                                                  8
+Confidence Statement
+Following USEPA guidance (2002), risk assessments may contain a narrative description of the
+overall confidence in the derived health-effects based values. Confidence in the risk assessment
+would be low if there is a high degree of scientific uncertainty and would be high if there is a low
+degree of scientific uncertainty. Major elements of scientific uncertainty may be considered to
+include, but not limited to, the following; database completeness, quality of key study(ies), severity
+and relevance of the critical effect, quality of the dose-response analysis and consideration of
+sensitive subpopulations. (NRC, 2009; Beck et al., 2016).
+
+For the selected PFAS for which quantitative values were derived there remains significant
+scientific uncertainty. Health outcomes due to PFAS exposure that warrant additional study
+include, but are not limited to, endocrine disruption, immunological and neurodevelopmental
+effects as well as cancer. Further information is needed on the mode of action as well as the
+cumulative risk of exposure to multiple PFAS. Overall, the present evaluation of the selected
+PFAS is based on sound science and current practices in risk assessment; however, the
+Workgroup recognizes that the science of PFAS is constantly evolving and new information may
+come to light that requires a re-evaluation of the drinking water HBVs established herein.
+
+
+
+
+                                                  9
+PFAS Chemical Summary Sheets
+Chemical Summary for PFNA
+              Decision Point                                                          Rationale/justification
+Critical      Das KP, Grey BE, Rosen MB, et al. 2015. Developmental toxicity          The Workgroup reviewed the available evaluations and
+study         of perfluorononanoic acid in mice. Reproductive Toxicology 51:133-      focused on the assessments by ATSDR and New Jersey.
+              144.                                                                    Das et al. (2015) was selected by both ATSDR (2018)
+                                                                                      and NJDEP (2015).
+Description Timed-pregnant CD-1 mice were administered 0, 1, 3, 5 or 10 mg/kg         The Workgroup reviewed the health endpoints
+of the critical PFNA by daily oral gavage from gestational day (GD) 1 to 17. Maternal investigated in Das et al. (2015) and identified the
+study           toxicity and reproductive outcomes were investigated. Postnatal       developmental endpoints as more relevant than liver
+                toxicity, liver gene expression and developmental effects were        endpoints.
+                evaluated in mouse offspring.
+                Body weight endpoints – Decreased body weight gain in mouse pups
+                Developmental endpoints – Delayed eye opening, preputial separation,
+                and vaginal opening in mouse pups
+Point of        A NOAEL of 1 mg/kg/day was identified for developmental effects. The The Workgroup decided that serum-based points of
+Departure       average serum concentration for NOAEL (1 mg/kg/day) was estimated departure were appropriate for PFAS.
+(POD)           (6.8 mg/L) in dams using an empirical clearance model (Wambaugh et
+                al., 2013). The estimated time-weighted average serum concentration
+                corresponding to the NOAEL was 6.8 mg/L.
+Human           The time-weighted average serum concentration of 6.8 mg/L was         The Workgroup discussed the human serum half-lives
+equivalent      converted to the HED using the below equation.                        available from Zhang et al. (2013), which were
+dose (HED)                                                                            an arithmetic mean of 2.5 years (913 days) for 50 year old
+                NOAEL = (TWA serum x k x V ) = 0.000665 mg/kg/day
+                     HED                 e   d                                        or younger females and 4.3 years (1570 days)
+                Ke = 0.000489165 (4.8 x 10 ) based on a human serum half-life of
+                                              -4
+                                                                                      for females older than 50 years old and all males. An
+                1417 days (calculated from Zhang et al. [2013] as described above)    average of 3.9 years (1417 days) was calculated based on
+                Vd = 0.2 L/kg (ATSDR [2018]; Ohmori et al. [2003])                    those averages. The Workgroup selected the calculated
+                                                                                      average as it would better represent the entire
+                                                                                      population.
+Uncertainty A total uncertainty factor of 300:                                        The Workgroup discussed the uncertainty factors selected
+factors              • 1 for LOAEL to NOAEL                                           by ATSDR (2018) and agreed that those selected were
+                     • 10 for human variability                                       appropriate.
+                     • 3 (10 ) for animal to human variability
+                               0.5
+
+                     • 1 for subchronic to chronic
+                     • 10 for database deficiencies was used.
+
+
+
+
+                                                                      10
+Toxicity       2.2 ng/kg/day (2.2 x 10-6 mg/kg/day) which corresponds to a serum            Human equivalent dose or serum level divided by the total
+value          concentration of 0.023 mg/L                                                  uncertainty factors = toxicity value
+
+               Serum levels used in development of these toxicity levels are not
+               meant to indicate a level where health effects are likely. These serum
+               levels are calculated to be at a point where no or minimal risk exists for
+               people drinking water with a certain PFAS.
+Exposure       Breast-fed infant, which is also protective of a formula-fed infant     The Workgroup discussed the Goeden et al. (2019) model
+parameters     Placental transfer of 69% (MDHHS 2019)                                  which considered full life stage exposure, from fetal
+for drinking   Breastmilk transfer of 3.2% (MDHHS 2019)                                exposure, to infant exposure through breastfeeding, and
+water                                                                                  into adulthood. While the model was also developed for a
+               Half-life = 1417 days (3.9 years) (calculated from Zhang et al. [2013] as
+screening      described above)                                                        formula-fed infant, the breastfed infant scenario is
+HBVs           Volume of distribution = 0.2 L/kg (ATSDR [2018]; Ohmori et al. [2003])  protective of a formula-fed infant. The Workgroup selected
+                                                                                       this model for developing drinking water HBVs when the
+               95 percentile drinking water intake, consumers only, from birth to more needed inputs were available.
+                  th
+
+               than 21 years old (Goeden et al. [2019])
+               Upper percentile (mean plus two standard deviations) breast milk
+               intake rate (Goeden et al. [2019])
+               Time-weighted average water ingestion rate from birth to 30-35 years
+               of age (to calculate maternal serum concentration at delivery)
+               (Goeden et al. [2019])
+
+               Relative Source Contribution of 50% (0.5)
+               Based on NHANES 95th percentiles for 3-11 (2013-2014) and over 12
+               years old (2015-2016) participants (CDC 2019)
+Drinking       6 ng/L (ppt)                                                                 Numeric HBV derived and justified using the above
+water HBV                                                                                   information
+
+
+
+
+                                                                          11
+Chemical Summary for PFOA
+               Decision point                                                              Rationale/justification
+Critical       Onishchenko N, Fischer C, Wan Ibrahim WN, Negri S, Spulber S,               The Workgroup reviewed the available evaluation and
+study          Cottica D, Ceccatelli S. 2011. Prenatal exposure to PFOS or PFOA            selected the ATSDR (2018) critical studies. The
+               alters motor function in mice in a sex-related manner. Neurotox. Res.       Workgroup concluded that the ATSDR
+               19(3):452-61.                                                               position was defensible with respect to range and
+                                                                                           sensitivity of health endpoints identified and considered in
+                Koskela A, Finnilä MA, Korkalainen M, Spulber S, Koponen J, Håkanss        ATSDR (2018).
+                on H, Tuukkanen J, Viluksela M. 2016. Effects of developmental
+                exposure to perfluorooctanoic acid (PFOA) on long bone morphology
+                and bone cell differentiation. Toxicol. Appl. Pharmacol. 301:14-21.
+Description Onishchenko et al.: Pregnant C57BL/6 mice were exposed to 0 or 0.3             The Workgroup selected these
+of the critical mg PFOA/kg/day throughout pregnancy. The critical effects considered       developmental delays as most appropriate health
+study           were Neurobehavioral effects (decreased number of inactive periods,        endpoint as the mammary gland effects may represent a
+                altered novelty induced activity) at 5-8 weeks of age.                     delay that may not be considered adverse. However, the
+                Koskela et al.: Pregnant C57BL/6 mice were exposed to PFOA mixed           mammary gland effects may be representative of
+                with food at the dose of 0 or 0.3 mg PFOA/kg/day throughout                endocrine effects at doses below the selected POD.
+                pregnancy. Group of five offspring (female) were sacrificed at either 13
+                or 17 months of age. The critical effects considered were skeletal
+                alteration such as bone morphology and bone cell differentiation in the
+                femurs and tibias.
+Point of        The average serum concentration was estimated in the mice (8.29            The Workgroup decided that serum-based points of
+Departure       mg/L) using a three-compartment pharmacokinetic model (Wambaugh            departure were appropriate for PFAS.
+                et al. 2013) using animal species-, strain-, sex-specific parameters.
+Human           The time-weighted average serum concentration of 8.29 mg/L was             The Workgroup selected the PFOA serum half-life of 840
+equivalent      converted to the HED using the below equation.                             days (2.3 years) as more relevant for exposure to the
+dose                                                                                       general population as this half-life corresponds to data
+                LOAEL = (TWA serum x k x V ) = 0.001163 mg/kg/day
+                      HED                 e   d                                            from Bartell et al. (2010) in which 200 individuals (100
+                Ke = 0.000825175 (8.2 x 10-4) based on a human serum half-life of 840      men, 100 women) were exposed by drinking PFOA-
+                days (Bartell et al. 2010)                                                 contaminated water.
+                Vd = 0.17 L/kg (Thompson et al. 2010)
+                                                                                           The Workgroup selected the volume of distribution based
+                                                                                           on human data, when available.
+
+
+
+
+                                                                         12
+Uncertainty    A total uncertainty factor of 300:                                           The Workgroup discussed the use of an uncertainty factor
+factors            • 3 (100.5) for LOAEL to NOAEL                                           of 3 for use of a LOAEL. They noted that a NOAEL for
+                   • 10 for human variability                                               immune effects was similar to the LOAEL selected and
+                   • 3 (100.5) for animal to human variability                              that the selected LOAEL represented less severe effects.
+                   • 1 for subchronic to chronic                                            The Workgroup concluded that use of the 3 (100.5) would
+                   • 3 (100.5) for database deficiencies (endocrine effects)                be sufficiently protective.
+
+                                                                                            The Workgroup added a database uncertainty factor of
+                                                                                            3 (100.5) for deficiencies the database regarding endocrine
+                                                                                            effects. The Workgroup noted that the mammary gland
+                                                                                            effects may signal a concern for other low dose endocrine
+                                                                                            effects.
+Toxicity       3.9 ng/kg/day (3.9 x 10-6 mg/kg/day) which corresponds to a serum            Human equivalent dose or serum level divided by the total
+value          concentration of 0.028 mg/L                                                  uncertainty factors = toxicity value
+
+               Serum levels used in development of these toxicity levels are not
+               meant to indicate a level where health effects are likely. These serum
+               levels are calculated to be at a point where no or minimal risk exists for
+               people drinking water with a certain PFAS.
+Exposure       Breast-fed infant, which is also protective of a formula-fed infant          The Workgroup discussed the Goeden et al. (2019) model
+parameters     Placental transfer of 87% (MDH 2017)                                         which considered full life stage exposure, from fetal
+for drinking   Breastmilk transfer of 5.2% (MDH 2017)                                       exposure, to infant exposure through breastfeeding, and
+water HBVs     Human Serum half-life of 840 days (Bartell et al. 2010)                      into adulthood. While the model was also developed for a
+               Volume of distribution of 0.17 L/kg (Thompson et al. [2010])                 formula-fed infant, the breastfed infant scenario is
+                                                                                            protective of a formula-fed infant. The Workgroup selected
+               95th percentile drinking water intake, consumers only, from birth to         this model for developing drinking water HBVs when the
+               more than 21 years old (Goeden et al. [2019])                                needed inputs were available.
+               Upper percentile (mean plus two standard deviations) breast milk
+               intake rate (Goeden et al. [2019])
+               Time-weighted average water ingestion rate from birth to 30-35 years
+               of age (to calculate maternal serum concentration at delivery) (Goeden
+               et al. [2019])
+
+               Relative Source Contribution of 50% (0.5)
+               Based on NHANES 95 percentiles for 3-11 (2013-2014) and over 12
+                                      th
+
+
+
+               years old (2015-2016) participants (CDC 2019)
+Drinking       8 ng/L (ppt)                                                                 Numeric HBV derived and justified using the above
+water HBV                                                                                   information
+
+
+
+                                                                          13
+Chemical Summary for PFHxA
+               Decision point                                                                Rationale/justification
+Critical       Klaunig, J.E., Shinohara, M., Iwai, H., Chengelis, C.P., Kirkpatrick, J.B.,   The Workgroup reviewed the Luz et al. (2019) compiled
+study          Wang, Z., Bruner, R.H., 2015. Evaluation of the chronic toxicity and          information and development of a toxicity value. The
+               carcinogenicity of perfluorohexanoic acid (PFHxA) in Sprague-Dawley           Workgroup was in agreement with Luz et al. (2019) on
+               rats. Toxicol. Pathol. 43 (2), 209–220.                                       selection of the chronic study (Klaunig et al. 2015) for
+                                                                                             toxicity value development.
+Description PFHxA was administered to male and female Crl:CD rats (n=60-                     The Workgroup also considered the developmental effects
+of the critical 70/sex/dose) via daily oral gavage for up to 104 weeks. Males: 0, 2.5,       observed in Loveless et al. (2009) one generation
+study           15, and 100 mg/kg/day. Females: 0, 5, 30, and 200 mg/kg/day.                 reproductive assay. Pup body weight was significantly
+                Functional observational battery, locomotor activity, ophthalmic,            reduced in the 500 mg/kg/day, resulting in NOAEL of 100
+                hematology, serum chemistry, and tissue and organ histopathology             mg/kg/day. Data were not available for Benchmark Dose
+                endpoints were evaluated.                                                    Modeling for further evaluation.
+Point of        Critical effect renal tubular degeneration and renal papillary necrosis in   The Workgroup noted that the Benchmark Dose approach
+Departure       female rats – BMDL10 90.4 mg/kg/day (Luz et al., 2019).                      is preferred over the use of a NOAEL/LOAEL.
+Human           Therefore, the BMD was adjusted by (80kg/0.45 kg)¼ = 3.65. The               The Workgroup discussed the description of the
+equivalent      resulting PODHED (90.4 mg/kg/day divided by 3.65) = 24.8 mg/kg/day.          Benchmark Dose modeling conducted by Luz et al. (2019)
+dose            (Luz et al., 2019).                                                          and concluded the modeling was adequate for use. The
+                                                                                             Workgroup did not conduct their own Benchmark Dose
+                                                                                             modeling.
+
+                                                                                             The Workgroup took into consideration the available
+                                                                                             serum half-life data presented in Russell et al. (2013) and
+                                                                                             concluded that, unlike most PFAS, allometric scaling could
+                                                                                             be supported.
+Uncertainty    Total uncertainty factor of 300:                                              The Workgroup discussed the uncertainty factors and
+factors           • 1 for LOAEL to NOAEL                                                     selected an uncertainty factor of 10 for database
+                  • 10 for human variability                                                 deficiencies. Several items noted were that the available
+                  • 3 (100.5) for animal to human variability                                studies were largely in one species, with no mouse or
+                  • 1 for subchronic to chronic                                              non-human primate data, and that there was insufficient
+                  • 10 for database deficiencies – lack of additional chronic toxicity       information addressing immune or thyroid endpoints.
+                  studies and no additional developmental data in a second species,
+                  and immune and thyroid endpoints
+Toxicity       83,000 ng/kg/day (8.3 mg/kg/day)                                              Human equivalent dose divided by the total uncertainty
+value                                                                                        factor = toxicity value
+
+
+
+
+                                                                           14
+Exposure       95th percentile of water intake for consumers only (direct and indirect   The Workgroup discussed the use of an upper percentile
+parameters     consumption) for adults (>21 years old) of 3.353 L/day, per Table 3-1,    water intake. The 95th percentile for consumers only was
+for drinking   USEPA Exposure Factors Handbook, 2019.                                    selected as it would protect those drinking larger amounts
+water HBVs                                                                               of water.
+               An adult body weight of 80 kilograms was used (Table 8-1, USEPA
+               2011b).                                                                   As no human serum data were available to assess the
+                                                                                         population’s exposure to PFHxA from sources other than
+               A default Relative Source Contribution of 20% was included.               drinking water, a default Relative Source Contribution of
+                                                                                         20% was selected consistent with USEPA (2000)
+                                                                                         guidance.
+
+                                                                                         The Workgroup evaluated the protectiveness of the renal
+                                                                                         tubular degeneration and renal papillary necrosis in
+                                                                                         relation to the reduced pup weights observed in Loveless
+                                                                                         et al. (2009).
+                                                                                         Available data did not support Benchmark Dose Modeling
+                                                                                         for further evaluation of Loveless et al. (2009) data.
+Drinking       400,000 ng/L (ppt) (400 micrograms per Liter or parts per billion)        Numeric HBV derived and justified using the above
+water HBV                                                                                information in the following equation:
+
+                                                                                                           𝑅𝑅𝑅𝑅𝑅𝑅 × 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣 × 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝑤𝑤𝑤𝑤𝑤𝑤𝑤𝑤ℎ𝑡𝑡
+                                                                                                𝐻𝐻𝐻𝐻𝐻𝐻 =
+                                                                                                                             𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊 𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖
+
+
+
+
+                                                                         15
+Chemical Summary for PFOS
+              Decision point                                                             Rationale/justification
+Critical      Dong GH, Zhang YH, Zheng L, Liu W, Jin YH, He QC. (2009). Chronic          The Workgroup discussed the available evaluations,
+study         effects of perfluorooctanesulfonate exposure on immunotoxicity in adult    particularly MDH (2019) and New Jersey Department of
+              male C57BL/6 mice. Arch Toxicol. 83(9):805-815.                            Environmental Protection (NJDEP) (2018), and selected a
+                                                                                         critical study with an immune system functional assay
+                                                                                         rather than observational data.
+Description Adult male C57BL/6 mice were exposed to PFOS daily via oral gavage The Workgroup acknowledged that immune effects in
+of the critical for 60 days with 0, 0.5, 5, 25, 50 or 125 mg/kg total administered dose, mice were seen at lower doses in Peden-Adams et al.
+study           equivalent to 0 or approximately 0.008, 0.08, 0.4, 0.8 or 2.1 mg/kg/day. (2008). Serum concentrations from Peden-Adams et al.
+                The NOAEL for suppression of plaque forming cell response and            (2008) were well below both the NOAEL and LOAEL
+                increase in liver mass was 0.5 mg/kg total administered dose which       serum concentrations measured from several other
+                corresponded to a serum concentration of 0.674 mg/L.                     studies as described by Pachkowski et al. (2019) and may
+                                                                                         be an outlier in the database.
+Point of        The NOAEL for suppression of plaque forming cell response and            The Workgroup decided that serum-based points of
+Departure       increase in liver mass was 0.5 mg/kg total administered dose which       departure were appropriate for PFAS.
+                corresponded to a serum concentration of 0.674 mg/L.
+Human           The serum concentration of 0.674 mg/L was converted to the HED           The Workgroup selected the serum half-life from a non-
+equivalent      using the below equation (based on ATSDR 2018).                          occupationally exposed population as it is closer to the
+dose                                                                                     general population’s exposure. The Workgroup selected
+                NOAEL = (TWA serum x k x V ) = 0.0000866 mg/kg/day
+                      HED                 e   d                                          volume of distributions based on human data,
+                Ke = 0.000558539 (5.5 x 10-4) based on a human serum half-life of        when available.
+                1241 days (Li et al. 2018)
+                Vd = 0.23 L/kg (Thompson et al. 2010)
+Uncertainty A total uncertainty factor of 30:                                            The Workgroup reviewed the uncertainty factors selected
+factors             • 1 for LOAEL to NOAEL                                               by MDH (2019) and adjusted the database uncertainty
+                    • 10 for human variability                                           factor to 1 based on the critical study selection. With
+                    • 3 (100.5) for animal to human difference (toxicodynamics)          consideration of the selected immunotoxicity endpoint, the
+                    • 1 for subchronic to chronic                                        database uncertainty factor of 1 was supported by the
+                    • 1 for database deficiencies                                        assessments by USEPA (2016), NJDEP (2018), ATSDR
+                                                                                         (2018) and New Hampshire (2019).
+
+
+
+
+                                                                        16
+Toxicity       2.89 ng/kg/day (2.89 x 10-6 mg/kg/day) which corresponds to a serum      Human equivalent dose or serum level divided by the total
+value          concentration of 0.022 µg/ml                                             uncertainty and modifying factors = toxicity value
+
+                Serum levels used in development of these toxicity levels are not
+               meant to indicate a level where health effects are likely. These serum
+               levels are calculated to be at a point where no or minimal risk exists
+               for people drinking water with a certain PFAS.
+Exposure       Breast-fed infant, which is also protective of a formula-fed infant      The Workgroup discussed the Goeden et al. (2019) model
+parameters     Placental transfer of 43% (MDHHS 2019)                                   which considered full life stage exposure, from fetal
+for drinking   Breastmilk transfer of 1.3% (MDHHS 2019)                                 exposure, to infant exposure through breastfeeding, and
+water HBV      Human serum half-life of 1241 days (3.2 years) (Li et al. 2018)          into adulthood. While the model was also developed for a
+               Volume of distribution of 0.23 L/kg (Thompson et al. 2010)               formula-fed infant, the breastfed infant scenario is
+                                                                                        protective of a formula-fed infant. The Workgroup selected
+               95th percentile drinking water intake, consumers only, from birth to     this model for developing drinking water HBVs when the
+               more than 21 years old (Goeden et al. [2019])                            needed inputs were available.
+               Upper percentile (mean plus two standard deviations) breast milk
+               intake rate (Goeden et al. [2019])
+               Time-weighted average water ingestion rate from birth to 30-35 years
+               of age (to calculate maternal serum concentration at delivery)
+               (Goeden et al. [2019])
+
+               Relative Source Contribution of 50%
+               Based on NHANES 95th percentiles for 3-11 (2013-2014) and over 12
+               years old (2015-2016) participants (CDC 2019)
+Drinking       16 ng/L (ppt)                                                     Numeric HBV derived and justified using the above
+water HBV                                                                        information
+
+
+
+
+                                                                        17
+Chemical Summary for PFHxS
+              Decision point                                                             Rationale/justification
+Critical      NTP 2018 TOX-96: Toxicity Report Tables and Curves for Short-term          The Workgroup reviewed available evaluations and focused
+study         Studies: Perfluorinated Compounds: Sulfonates and personal                 on the ones from Minnesota Department of
+              communication between MDH and NTP project manager Dr.                      Health (2019) and ATSDR (2018). In both evaluations,
+              Chad Blystone (as cited in the HRA Toxicology Review Worksheet             thyroid endpoints were selected.
+              for PFHxS, last revised 3/8/2019)
+                                                                                         The Workgroup discussed Chang et al. (2018) and
+                                                                                         concluded that the health outcome (reduction in litter size)
+                                                                                         was a marginal effect.
+Description 28-day oral toxicity study in Sprague Dawley rats (NTP,                      The Workgroup selected this thyroid endpoint as it was a
+of the critical 2018). PFHxS was administered via daily gavage at the following          measure of a clinical or functional effect rather
+study           doses for 28 continuous days:                                            than observational.
+                Male rats: 0, 0.625, 1.25, 2.5, 5 or 10 mg/kg/day
+                Male rats mean measured plasma levels: 0.102, 66.76, 92.08, 129.0,
+                161.7, and 198.3 µg/ml
+                Female rats: 0, 3.12, 6.25, 12.5, 25, 50 mg/kg/day
+                Female rats mean measured plasma levels: 0.1754, 37.03, 50.41, 63.82,
+                83.82, and 95.51 µg/ml
+                n=10/sex/dose
+
+              Critical effect: decreased serum free thyroxin (T4) levels was
+              observed in adult male rats at the lowest PFHxS dose administered
+              (0.625 mg/kg/day)
+              Co-critical effects: decreased free and total T4, triiodothyronine (T3),
+              and changes in cholesterol levels and increased hepatic focal
+              necrosis
+Point of      POD of 32.4 mg/L serum concentration for male rats based on                The Workgroup decided that serum-based points of
+Departure     BMDL20. A BMR of 20% was used in the BMD modeling based on clinical        departure were appropriate for PFAS.
+              and toxicological knowledge regarding adverse outcomes associated with
+              decreases in circulating thyroid hormones. MDH stated that 20% provided    Although the Workgroup concluded that the Chang et al.
+              a more statistically reliable and biologically significant BMR. (MDH       (2018) health outcome was marginal, they did note that the
+              conducted Benchmark Dose modeling and provided modeling run data in        serum concentration at the NOAEL for Chang et al. (2018)
+              the HRA Toxicology Review Worksheet for PFHxS, last revised                was equivalent to the serum concentration at the selected
+              3/8/2019.                                                                  POD.
+Human         The POD (32.4 mg/L) was multiplied by a toxicokinetic adjustment           The Workgroup selected the human serum half-life from Li
+equivalent    based on the chemical’s specific clearance rate of 0.000090 L/kg-d         et al. (2018) as it was a non-occupational population
+dose          (Vd = 0.25 L/kg [Sundstrom et al. [2012], half-life = 1935 days [Li et al. drinking water with elevated PFAS.
+              2018]) for a human equivalent dose of 0.00292 mg/kg/day.
+
+
+                                                                        18
+Uncertainty    Total Uncertainty Factor of 300                                           The Workgroup reviewed the uncertainty factors used by
+factors            • 1 for LOAEL to NOAEL                                                MDH (2019) and concluded that the database uncertainty
+                   • 10 for human variability                                            factor of 10 was very defensible in this situation, especially
+                   • 3 (100.5) for animal to human variability (toxicodynamic            for the lack of information on early-life sensitivity.
+                   differences)
+                   • 1 for subchronic to chronic
+                   • 10 for database deficiencies - to address concerns for early life
+                   sensitivity and lack of 2-generation or immunotoxicity studies
+Toxicity       9.7 ng/kg/day (9.7 x 10-6 mg/kg/day) which corresponds to a serum         Human equivalent dose or serum level divided by the total
+value          concentration of 0.11 µg/ml                                               uncertainty factors = toxicity value
+
+               Serum levels used in development of these toxicity levels are not
+               meant to indicate a level where health effects are likely. These serum
+               levels are calculated to be at a point where no or minimal risk exists
+               for people drinking water with a certain PFAS.
+Exposure       Breast-fed infant, which is also protective of a formula-fed infant     The Workgroup discussed the Goeden et al.
+parameters     Placental transfer of 80% (MDHHS 2019)                                  (2019) model which considered full life stage exposure, from
+for drinking   Breastmilk transfer of 1.2% (MDHHS 2019)                                fetal exposure, to infant exposure through breastfeeding,
+water HBV      Human serum half-life of 1935 days (Li et al. [2018])                   and into adulthood. While the model was also developed for
+               Volume of distribution of 0.25 L/kg (MDH [2019] based on                a formula-fed infant, the breastfed infant scenario is
+               Sundstrom et al. [2012])                                                protective of a formula-fed infant. The Workgroup selected
+                                                                                       this model for developing drinking water HBVs when
+               95 percentile drinking water intake, consumers only, from birth to more the needed inputs were available.
+                 th
+
+
+
+               than 21 years old (Goeden et al. [2019])
+               Upper percentile (mean plus two standard deviations) breast milk
+               intake rate (Goeden et al. [2019])
+               Time-weighted average water ingestion rate from birth to 30-35 years
+               of age (to calculate maternal serum concentration at
+               delivery) (Goeden et al. [2019])
+
+               Relative Source Contribution of 50% (0.5)
+               Based on NHANES 95 percentiles for 3-11 (2013-2014) and over 12
+                                      th
+
+
+
+               years old (2015-2016) participants (CDC 2019)
+Drinking       51 ng/L (ppt)                                                             Numeric HBV derived and justified using the above
+water HBV                                                                                information
+
+
+
+
+                                                                        19
+Chemical Summary for PFBS
+              Decision point                                                         Rationale/justification
+Critical      Feng, X; Cao, X; Zhao, S; Wang, X; Hua, X; Chen, L; Chen, L. (2017).   The Workgroup evaluated available agency decision
+study         Exposure of pregnant mice to perfluorobutanesulfonate causes           documents and selected the study associated with the draft
+              hypothyroxinemia and developmental abnormalities in female             USEPA (2018) PFBS toxicity value based on thyroid effects.
+              offspring. Toxicol Sci 155: 409-419.                                   The kidney effects identified in the draft USEPA (2018)
+                                                                                     toxicity assessment were identified as a potentially
+                                                                                     compensatory response. The thyroid effects were
+                                                                                     identified as having greater functional significance.
+Description PFBS was orally administered to pregnant ICR mice (n=30/dose) at
+of the critical doses of 0, 50, 200, and 500 mg/kg/day from gestational day (GD) 1 to
+study           GD20. Dams (F0) and female offspring (F1) from each dose
+                group were subsequently evaluated for 1) growth and development, 2)
+                hormone levels, and 3) serum PFBS levels. The critical effect is
+                decreased serum total thyroxine (T4) in newborn (PND 1) mice.
+                Selection of total T4 as the critical effect is based on a several key
+                considerations that account for cross-species correlations in thyroid
+                physiology and hormone dynamics particularly within the context of a
+                developmental life stage.
+Point of        A POD of 28.19 mg/kg/day (BMDL20) for decreased serum total T4 in      The Workgroup noted that a Benchmark Dose approach is
+Departure       newborn (PND 1) mice was selected                                      preferable to a NOAEL/LOAEL.
+
+                                                                                     The Workgroup noted that the thyroid point of departure
+                                                                                     would be protective of the kidney effects as well.
+
+                                                                                     The draft USEPA (2018) toxicity assessment contained
+                                                                                     administered doses from the individual studies converted to
+                                                                                     HED doses using study-specific Dosimetric Adjustment
+                                                                                     Factors (DAF; not reported for each dosing group) derived
+                                                                                     using allometric scaling (BW 3/4) prior to BMD model
+                                                                                     analysis.
+                                                                                     An example DAF calculation was provided in Table 8 of the
+                                                                                     draft USEPA (2018) toxicity assessment: dose x DAF = 200
+                                                                                     x 0.149 = 29.9 mg/kg/day, where DAF equals
+                                                                                     (BW animal1/4)/(BW human1/4) = 0.03991/4 ÷ 801/4 = 0.149
+                                                                                     The PODHED = 4.2 mg/kg/day for decreased serum total T4 in
+                                                                                     newborn (PND 1) mice (USEPA 2018).
+                                                                                     The USEPA PODHED of 4.2 was divided by 0.149 (USEPA
+                                                                                     example DAF) to obtain a BMDL20 of 28.19 mg/kg/day.
+                                                                     20
+Human          The BMDL20-HED is 0.0892 mg/kg/day.                                       The Workgroup evaluated the half-life based Dose
+equivalent                                                                               Adjustment Factor used by the Minnesota Department of
+dose           The BMDL20 of 28.19 mg/kg/day was divided by the Dose Adjustment          Health (MDH) (2017). As that allowed conversion of the
+               Factor of 316 (human serum half-life/female mouse serum half-life =       point of departure to a human equivalent dose using
+               665 hours/2.1 hours = 316) (MDH, 2017).                                   chemical-specific information, the Workgroup selected this
+                                                                                         approach over the allometric scaling used in the draft
+                                                                                         USEPA (2018) PFBS toxicity assessment.
+Uncertainty    The total uncertainty factor is 300.                                      The Workgroup discussed the uncertainty factors selected
+factors           • 1 for LOAEL to NOAEL                                                 in the draft USEPA (2018) toxicity assessment and
+                  • 10 for human variability                                             supported their use.
+                  • 3 (100.5) for animal to human variability
+                  • 1 for subchronic to chronic
+                  • 10 for database deficiencies, for the lack of
+                  neurodevelopmental, immunotoxicological, and chronic studies
+Toxicity       300 ng/kg/day (0.0003 mg/kg/day)                                          Human equivalent dose or serum level divided by the total
+value                                                                                    uncertainty factors = toxicity value
+Exposure       95th percentile of water intake for consumers only (direct and indirect   The Workgroup discussed the use of an upper percentile
+parameters     consumption) for infants (birth to <1 year old) of 1.106 L/day, per       water intake. The 95th percentile for consumers only was
+for drinking   Table 3-1, USEPA Exposure Factors Handbook, 2019.                         selected as it would protect those drinking larger amounts of
+water HBV                                                                                water.
+               An infant body weight of 7.8 kilograms was used and represents a
+               time-weighted average for birth to 1 year old (Table 8-1, USEPA           As insufficient human serum data was available to assess
+               2011).                                                                    the population’s exposure to PFBS from sources other than
+                                                                                         drinking water, a default Relative Source Contribution of
+               A default Relative Source Contribution of 20% was included.               20% was selected consistent with USEPA (2000) guidance.
+Drinking       420 ng/L (ppt)                                                            Numeric HBV derived and justified using the above
+water HBV                                                                                information in the following equation:
+
+                                                                                                            𝑅𝑅𝑅𝑅𝑅𝑅 × 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣 × 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝑤𝑤𝑤𝑤𝑤𝑤𝑤𝑤ℎ𝑡𝑡
+                                                                                                 𝐻𝐻𝐻𝐻𝐻𝐻 =
+                                                                                                                              𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊 𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖
+
+
+
+
+                                                                          21
+Chemical Summary for GenX
+              Decision point                                                            Rationale/justification
+Critical      Oral (Gavage) Reproduction/ Developmental Toxicity Study in Mice          The Workgroup evaluated the North Carolina Department
+study         (OECD TG 421; modified according to the Consent Order) DuPont-            of Health and Human Services (2017) and draft USEPA
+              18405-1037 (2010) (also contains 90-day toxicity study information        (2018) information. The draft USEPA (2018) evaluation
+              and outcomes - that information is not described here)                    was identified as providing a more in-depth and robust
+                                                                                        analysis and approach.
+Description In a combined oral gavage reproductive/developmental toxicity study         The Workgroup noted that while primarily industry-funded
+of the critical in mice with HFPO dimer acid ammonium salt, the test compound was studies are the only ones available, they followed
+study           administered by oral gavage to Crl:CD1(ICR) mice (25/sex/group) at      recognized testing guidelines and/or were published
+                doses of 0, 0.1, 0.5, or 5 mg/kg/day, according to a modified OECD      following external peer-review. These studies appear to be
+                TG 421. Parental F0 males were dosed 70 days prior to mating and        sufficient for developing values.
+                throughout mating through 1 day prior to scheduled termination.
+                Parental F0 females were dosed for 2 weeks prior to pairing and were
+                dosed through LD 20. F1 animals (offspring) were dosed daily
+                beginning on PND 21 through PND 40.
+                At 0.5 mg/kg/day, liver effects (increased absolute and relative weight
+                and histopathologic findings) were reported in both males and
+                females.
+                At 5 mg/kg/day, male and female F1 pups exhibited lower mean BWs
+                at PNDs 4, 7, 14, 21, and 28. Male F1 pups continued to exhibit lower
+                mean BWs at PNDs 35 and 40. The USEPA (2018) identified
+                additional developmental effects (delays in balanopreputial separation
+                and vaginal patency) that occurred at the same dose level, but the
+                biological significance of these effects are equivocal as described.
+                NOAEL (F0) = 0.1; LOAEL (F0) = 0.5 for liver effects (single-cell
+                necrosis in males, and increased relative liver weight in both sexes).
+                NOAEL (F1) = 0.5 for developmental effects (decreased pup
+                weights).
+
+
+
+
+                                                                        22
+Point of      BMDL10 = 0.15 mg/kg/day for liver single cell necrosis in parental   The Workgroup noted that the Benchmark Dose approach
+Departure     males (DuPont-18405-1037, 2010).                                     is preferred over the use of a NOAEL/LOAEL.
+
+                                                                                   USEPA (2018) evaluated the relevance of this endpoint in
+                                                                                   humans and noted that, per the Hall criteria (Hall et al.,
+                                                                                   2012) liver effects accompanied by effects such as
+                                                                                   necrosis or inflammation, among others, are indicative of
+                                                                                   liver tissue damage (USEPA, 2018).
+
+                                                                                   While some liver effects in rodents are mediated through
+                                                                                   PPARα and may be less relevant to humans, available
+                                                                                   information indicates that liver single cell necrosis may be
+                                                                                   mediated by a number of processes and pathways.
+                                                                                   In PPARα-mediated rodent hepatocarcinogenesis, liver
+                                                                                   necrosis is not a key event. (DeWitt and Belcher, 2018)
+Human         A candidate PODHED was derived from the BMDL10 for liver             The Workgroup noted that a toxicokinetic adjustment from
+equivalent    effects using a BW 3/4 allometric scaling approach. A BW a of 0.0372 the point of departure to human equivalent dose would
+dose          kg was identified as the mean BW of the F0 male mouse controls. provide a chemical-specific conversion. However, no
+              A BW h of 80 kg for humans was selected. The resulting DAF for       chemical-specific data on human serum half-life was
+              the allometric scaling of doses from mice to humans is 0.15. Using available that would allow this conversion. Allometric
+              the BMDL10 of 0.15 mg/kg/day to complete the calculation results scaling, per USEPA (2011a) guidance, was used.
+              in a PODHED for single-cell necrosis of the liver from DuPont-
+              18405-1037 (2010) of 0.023 mg/kg/day (USEPA 2018).
+Uncertainty   Total Uncertainty Factor of 300                                      The Workgroup evaluated the uncertainty factors selected
+factors           • 1 for use of a LOAEL to NOAEL                                  by USEPA (2018). Given the deficiencies in the database,
+                  • 10 for human variability                                       including a lack of epidemiological studies and
+                  • 3 (100.5) for animal to human variability                      developmental and immunotoxicological in laboratory
+                  • 3 (100.5) for subchronic-to-chronic                            animals, a database uncertainty factor of 3 was retained.
+                  • 3 (10 ) for database deficiencies, including lack of
+                           0.5
+                                                                                   In conjunction with the deficiencies covered by the
+                  epidemiological, and developmental                               database uncertainty factor, the subchronic to chronic
+                  and immunotoxicological studies in laboratory animals            uncertainty factor of 3 was identified as sufficient.
+Toxicity      77 ng/kg/day (7.7 x10-5 mg/kg/day)                                   Human equivalent dose or serum level divided by the total
+value                                                                              uncertainty = toxicity value
+
+
+
+
+                                                                        23
+Exposure       95th percentile of water intake for consumers only (direct and       The Workgroup discussed the use of an upper percentile water
+parameters     indirect consumption) for adults (>21 years old) of 3.353 L/day, per intake. The 95th percentile for consumers only was selected as it
+for drinking   Table 3-1, USEPA Exposure Factors Handbook, 2019.                    would protect those drinking larger amounts of water.
+water HBV
+               An adult body weight of 80 kilograms was used (Table 8-1,            As no human serum data was available to assess the population’s
+               USEPA 2011b).                                                        exposure to GenX from sources other than drinking water, a
+                                                                                    default Relative Source Contribution of 20% was
+               A default Relative Source Contribution (RSC) of 20% was              selected consistent with USEPA (2000) guidance.
+               included.
+                                                                                    The Workgroup evaluated the protectiveness of adult exposure in
+                                                                                    combination with the point of departure. The NOAEL for
+                                                                                    developmental effects described above was at a dose five times
+                                                                                    higher than the NOAEL for liver necrosis effects. As a drinking
+                                                                                    water value based on the developmental NOAEL would be higher
+                                                                                    than the level presented below, the Workgroup decided that the
+                                                                                    drinking water HBV below based on liver effects would be
+                                                                                    sufficiently conservative to be protective of infant exposure.
+Drinking       370 ng/L (ppt)                                                       Numeric HBV derived and justified using the above information in
+water HBV                                                                           the following equation:
+
+                                                                                                          𝑅𝑅𝑅𝑅𝑅𝑅 × 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣 × 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝑤𝑤𝑤𝑤𝑤𝑤𝑤𝑤ℎ𝑡𝑡
+                                                                                               𝐻𝐻𝐻𝐻𝐻𝐻 =
+                                                                                                                            𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊 𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖
+
+
+
+
+                                                                         24
+Rationale for Individual HBVs
+While there are on-going discussions regarding the grouping of multiple PFAS into one drinking
+water value, there is no consensus from the scientific community on which PFAS should be
+grouped or the basis of that grouping. Grouping methods that have been applied include
+combining multiple PFAS into one number based on known or assumed toxicity, carbon chain
+length, and/or biological half-life (simple addition) as well as the use of relative ability of the
+grouped PFAS to lead to a comparable health endpoint (toxic equivalency); the latter approach
+being similar to those used for dioxins, furans, and coplanar polychlorinated biphenyls.
+
+There is, however, scientific agreement that the long-chain PFAS (eight carbons and above for
+carboxylates and six carbons and above for sulfonates) have similar toxicity. Based on the
+similarity in toxicity for the long-chain PFAS, the Workgroup recommends use of the HBV for
+PFNA (6 ng/L [ppt]) as a screening level for all other long-chain PFAS included on the USEPA
+Method 537.1 analyte list for which the Workgroup did not develop an individual HBV. This
+screening level should not be used to evaluate the risk of developing health effects, but as a
+screening tool for EGLE/public water supplies to use for decision making.
+
+Adverse health effects of long chain (six-carbon perfluorosulfonic acids or eight-carbon
+perfluorocarboxylic acids) have been established in epidemiological and laboratory animal model
+studies. These adverse health effects include kidney and testicular cancer, elevated serum
+cholesterol, endocrine effects, immune effects, and reproductive effects (ATSDR, 2018). These
+effects are supported by studies of different human populations exposed to a few or to many
+PFAS, including those from populations of high PFAS exposure and the general population and
+demonstrate that many different long-chain PFAS can produce similar adverse health effects in
+exposed humans. However, while not all long-chain PFAS have robust data available for the
+development of a HBV, the totality of evidence indicates that long-chain PFAS in drinking water
+may pose risks of adverse health effects.
+
+While health concerns are based on the total exposure to PFAS across many sources, because
+drinking water is the predominant source of exposure for many people consuming contaminated
+water, it remains the focus for health-based regulation based on current knowledge. Therefore,
+monitoring of drinking water should continue and be based on levels that will be protective for
+exposure to all PFAS.
+
+At this time, it is recommended that the proposed HBV for PFNA be used as a screening level for
+the long chain PFAS included in USEPA Method 537.1 that may be found in drinking water that
+are not covered by an individual PFAS HBVs as presented in the Summary Table of Drinking
+Water HBVs.
+
+
+
+
+                                                25
+Summary of Conclusions
+                          Summary Table of Drinking Water HBVs
+                                       Drinking Water        Chemical Abstract
+                 Specific PFAS          Health-based         Services Registry
+                                            Value            Number (CASRN)
+                     PFNA                6 ng/L (ppt)             375-95-1
+                     PFOA                8 ng/L (ppt)             335-67-1
+                     PFHxA            400,000 ng/L (ppt)          307-24-4
+                     PFOS                16 ng/L (ppt)           1763-23-1
+                     PFHxS               51 ng/L (ppt)            355-46-4
+                     PFBS               420 ng/L (ppt)            375-73-5
+                     GenX               370 ng/L (ppt)          13252-13-6
+
+For all other PFAS on the USEPA Method 537.1 analyte list, the Workgroup recommendation is
+to use the lowest long-chain (eight carbons and above for carboxylates and six carbons and above
+for sulfonates) HBV of 6 ppt, which is the HBV for PFNA. Those other long-chain PFAS included
+in USEPA Method 537.1 are: NEtFOSAA (CASRN: 2991-50-6); NMeFOSAA (CASRN: 2355-31-
+9); PFDA (CASRN: 335-76-2); PFDoA (CASRN: 307-55-1); PFTA (CASRN: 376-06-7); PFTrDA
+(CASRN: 72629-94-8); and PFUnA (CASRN: 2058-94-8).
+
+As shown in Figure 1 (below), the drinking water values for PFOS and PFOA have gone down
+over time. This is a reflection of the evolving science, both the ever-increasing knowledge gained
+from published toxicology and epidemiology studies and the risk assessments for development
+of toxicity values and drinking water values. Information continues to become available on multiple
+PFAS and as there are thousands of PFAS, new information will likely become available for many
+years to come. It is quite possible that the same trend demonstrated in Figure 1 will be seen for
+other PFAS, where drinking water values become lower over time and that new values could be
+developed within a few years’ time. As described in the Challenges and Limitations section, along
+with use of current scientific data, development of drinking water values includes a certain amount
+of scientific judgement informed from the scientific knowledgebase. It is that combination of
+scientific judgement and data that ultimately informs the development of drinking water values.
+With emerging contaminants like PFAS, rapid availability of data drives public health protective
+actions and drinking water values.
+
+
+
+
+                                                26
+                                                   PFOS and PFOA
+
+
+
+
+Figure 1: Screening Levels, Health-Based Values, and Regulatory Standards for PFOS and PFOA Over a 20-Year Timeframe.
+
+
+       The numbers in Figure 1 are the various screening levels, HBVs, and regulatory standards
+       developed by various agencies and states over time as of June 2019. It does not include the
+       agencies that include multiple PFAS into a single value. This should not be considered an
+       exhaustive list of all PFAS drinking water values available, and values may be updated, and
+       additional values will likely become available. The Michigan values included in Figure 1 are the
+       MPART Human Health Workgroup public health drinking water screening levels.
+
+       Concluding Remarks
+       The Workgroup would like to commend the State of Michigan for addressing PFAS concerns with
+       unusual rigor, openness, and reliance on independent scientific guidance. From the beginning of
+       the recognition of environmental and public health issues related to PFAS, the State of Michigan
+       has been at the forefront nationally in assessing the scope of the contamination, intervening to
+       mitigate exposure, and monitoring the evidence to guide policy. The statewide survey of drinking
+
+
+                                                            27
+water supplies was highly unusual if not unique relative to other areas, and the process of
+developing Maximum Contaminant Levels as rigorous as any in the nation. By engaging experts
+from outside the state agencies to complement the considerable expertise of the staff in the
+Michigan Departments of Health and Human Services and Environment, Great Lakes, and
+Energy, they have demonstrated their commitment to following the evidence through to
+developing sound policy.
+
+
+
+
+                                            28
+References
+ATSDR. (2018). Agency for Toxic Substances and Disease Registry. Toxicological Profile for
+Perfluoroalkyls. Draft for Public Comment. June 2018.
+
+Bartell SM, Calafat AM, Lyu C, et al. 2010. Rate of decline in serum PFOA concentrations after
+granular activated carbon filtration at two public water systems in Ohio and West Virginia.
+Environ Health Perspect 118(2):222-228.
+
+Beck, N.B., Becker, R.A., Erraguntla, N., Farland, W.H., Grant, Gray, G., Kirman, C., LaKind,
+J.S., Lewis, R.J., Nance, P., Pottenger, L.H., Santos, S.L., Shirley, S., Simon, T., and Dourson,
+M.L. (2016). Approaches for describing and communicating overall uncertainty in toxicity
+characterizations: U.S. Environmental Protection Agency’s Integrated Risk Information System
+(IRIS) as a case study. Environment International 89-90, 110-128.
+
+Blystone, C. (2019). [Personal Communication. Use of NTP data tables and study protocol
+(January 2019 email exchange).]., cited in Minnesota Department of Health (2019).
+Toxicological Summary for Perfluorohexane sulfonate. Accessed online June 2019 at:
+
+CDC. (2019). (Center for Disease Control) Fourth National Report on Human Exposure to
+Environmental Chemicals, Updated Tables, January 2019, Volume One.
+
+Chang, S., JL Butenhoff, GA Parker, PS Coder, JD Zitsow, RM Krisko, JA Bjork, KB Wallace,
+JG Seed. (2018). Reproductive and developmental toxicity of potassium
+perfluorohexanesulfonate in CD-1 mice. Reproductive Toxicology, 78, 150-168.
+
+Das KP, Grey BE, Rosen MB, et al. 2015. Developmental toxicity of perfluorononanoic acid in
+mice. Reproductive Toxicology 51:133-144.
+
+DeWitt and Belcher (2018) Memorandum from Jamie DeWitt and Scott Belcher to the members
+of the North Carolina Secretaries’ Science Advisory Board. Accessed online June 2019.
+
+Dong GH, Zhang YH, Zheng L, Liu W, Jin YH, He QC. (2009). Chronic effects
+of perfluorooctanesulfonate exposure on immunotoxicity in adult male C57BL/6 mice.
+Arch Toxicol. 83(9):805-815.
+
+DuPont-18405-1037: E.I. du Pont de Nemours and Company (2010) An Oral (Gavage)
+Reproduction/Developmental Toxicity Screening Study of H-28548 in Mice. USEPA OPPTS
+870.3550; OECD Test Guideline 421. Study conducted by WIL Research Laboratories, LLC
+(Study Completion Date: December 29, 2010), Ashland, OH. (as cited in USEPA (2018)).
+
+Feng, X; Cao, X; Zhao, S; Wang, X; Hua, X; Chen, L; Chen, L. (2017). Exposure of pregnant
+mice to perfluorobutanesulfonate causes hypothyroxinemia and developmental abnormalities in
+female offspring. Toxicol Sci 155: 409-419.
+
+Goeden HM, Greene CW, Jacobus, JA (2019) A transgenerational toxicokinetic model and its
+use in derivation of Minnesota PFOA water guidance. J. Exposure Sci. Env. Epidemiol. 29:183-
+195.
+
+
+
+
+                                                29
+Goeden, HM., CW Greene, JA Jacobus. (2019). A transgenerational toxicokinetic model and its
+use in derivation of Minnesota PFOA water guidance. Journal of Exposure Science &
+Environmental Epidemiology.
+
+Hall, AP, Elcombe, CR, Foster, JR, et al. (2012) Liver Hypertrophy: A Review of Adaptive
+(Adverse and Non-adverse) Changes—Conclusions from the 3rd International ESTP Expert
+Workshop. Toxicologic Pathol. 40: 971-94.
+
+Klaunig, JE, Shinohara, M, Iwai, H, Chengelis, CP, Kirkpatrick, JB, Wang, Z, Bruner, RH (2015)
+Evaluation of the chronic toxicity and carcinogenicity of perfluorohexanoic acid (PFHxA) in
+Sprague-Dawley rats. Toxicol. Pathol. 43 (2), 209–220.
+
+Koskela A, Finnilä MA, Korkalainen M, Spulber S, Koponen J, Håkansson H, Tuukkanen J,
+Viluksela M. (2016) Effects of developmental exposure to perfluorooctanoic acid (PFOA) on
+long bone morphology and bone cell differentiation. Toxicol Appl Pharmacol. 301:14-21.
+
+Li, Y., T Fletcher, D Mucs, K Scott, CH Lindh, P Tallving, K Jakobsson. (2018). Half-lives of
+PFOS, PFHxS and PFOA after end of exposure to contaminated drinking water. Occupational
+and Environmental Medicine, 75, 46-51.
+
+Loveless, S.E., Slezak, B., Serex, T., Lewis, J., Mukerji, P., O'Connor, J.C., Donner, E.M.,
+Frame, S.R., Korzeniowski, S.H., Buck, R.C., 2009. Toxicological evaluation of
+sodium perfluorohexanoate. Toxicology 264 (1–2), 32–44.
+
+Luz, AL, Anderson, JK, Goodrum, P, Durda, J. (2019) Perfluorohexanoic acid toxicity, part I:
+Development of chronic human health toxicity value for use in risk assessment.
+Reg. Toxicol. Pharmacol. 103: 41-55.
+
+Minnesota Department of Health (2019). Toxicological Summary for Perfluorooctane sulfonate
+(PFOS). Accessed online June 2019.
+
+Minnesota Department of Health (2017). Toxicological Summary for: Perfluorobutane Sulfonate
+(PFBS). Accessed online June 2019.
+
+Minnesota Department of Health (2017). Background Document: Toxicokinetic Model for PFOS
+and PFOA and Its Use in the Derivation of Human Health-based Water Guidance Values.
+
+Minnesota Department of Health (2019). HRA Toxicology Review Worksheet for PFHxS, last
+revised 3/8/2019.
+
+North Carolina Department of Health and Human Services. Questions and Answers Regarding
+North Carolina Department of Health and Human Services Updated Risk Assessment for GenX
+(Perfluoro-2-propoxypropanoic acid). July 14, 2017. Accessed online May 2019.
+
+National Research Council (NRC). (2009). Science and Decisions: Advancing Risk Assessment.
+Washington D.C.: National Academies Press.
+
+NTP. (2018). National Toxicology Program. TOX-96: Toxicity Report Tables and Curves for
+Short-term Studies: Perfluorinated Compounds: Sulfonates. Retrieved from
+https://tools.niehs.nih.gov/cebs3/views/?action=main.dataReview&bin_id=3874., cited
+
+
+
+                                                30
+in Minnesota Department of Health (2019). Toxicological Summary
+for Perfluorohexane sulfonate. Accessed online June 2019 at:
+https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfhxs.pdf.
+
+New Jersey DEP DWQI. (2018). Appendix A - Health-based Maximum Contaminant Level
+Support Document: Perfluorooctane sulfonate. Trenton, NJ: New Jersey Drinking Water Quality
+Institute.
+
+New Jersey DEP DWQI. (2015). Maximum contaminant level recommendation
+for perfluorononanoic acid in drinking water. Trenton, NJ: New Jersey Drinking Water Quality
+Institute.
+
+Ohmori K, Kudo N, Katayama K, et al. 2003. Comparison of
+the toxicokinetics between perfluorocarboxylic acids with different carbon chain length.
+Toxicology 184:135-140.
+
+Onishchenko N, Fischer C, Wan Ibrahim WN, Negri S, Spulber S, Cottica D, Ceccatelli S.
+(2011) Prenatal exposure to PFOS or PFOA alters motor function in mice in a sex-related
+manner. Neurotox Res. 19(3):452-61.
+
+Pachkowski B, Post GB, Stern AH. (2019) The derivation of a Reference Dose (RfD) for
+perfluorooctane sulfonate (PFOS) based on immune suppression. Environ Res. 2019 171:452-
+469.
+
+Peden-Adams, MM, Keller, JM, EuDaly, JM, Berger, J, Gilkeson, GS, Keil, DE.
+(2008) Suppression of Humoral Immunity in Mice following Exposure
+to Perfluorooctane Sulfonate. Toxicol. Sci. 104(1): 144-154.
+
+Russell, MH, Nilsson, H, Buck, RC (2013) Elimination kinetics of perfluorohexanoic acid in
+humans and comparison with mouse, rat and monkey. Chemosphere. 93: 2419-2425.
+
+Sundstrom, M., SC Chang, PE Noker, GS Gorman, JA Hart, DJ Ehresman, A Bergman,
+JL Butenhoff. (2012). Comparative pharmacokinetics of perfluorohexanesulfonate (PFHxS) in
+rats, mice, and monkeys. Reproductive Toxicology, 33, 441-451.
+
+Thompson, J., M. Lorber, L.-M.L. Toms, K. Kato, A.M. Calafat, and J.F. Mueller. 2010. Use of
+simple pharmacokinetic modeling to characterize exposure of Australians to perfluorooctanoic
+acid and perfluorooctane sulfonic acid. Environment International 36:390–397.
+
+United States Environmental Protection Agency (2000). Methodology for Deriving Ambient
+Water Quality Criteria for the Protection of Human Health. EPA-822-B-00-004. USEPA Office of
+Water, Washington, DC. Accessed online June 2019.
+
+United States Environmental Protection Agency. (2002). A Review of the Reference Dose and
+Reference Concentration Processes. Risk Assessment Forum. EPA/630/P-02/002F, December
+2002.
+
+United States Environmental Protection Agency. (2011) Exposure Factor Handbook: 2011
+Edition. EPA/600/R-09/052F. USEPA, National Center for Environmental Assessment, Office of
+Research and Development, Washington, DC. Accessed online June 2019.
+
+
+
+                                               31
+United States Environmental Protection Agency (2011a). Recommended Use of Body Weight3/4
+as the Default Method in Derivation of the Oral Reference Dose. EPA/100/R11/0001. USEPA,
+Office of the Science Advisor, Risk Assessment Forum, Washington, DC. Accessed online May
+2018.
+
+United States Environmental Protection Agency (2011b). Exposure Factors Handbook 2011
+Edition. EPA/600/R-09/052F. USEPA, National Center for Environmental Assessment, Office of
+Research and Development, Washington, DC. Accessed online May 2019.
+
+United States Environmental Protection Agency (2018). Human Health Toxicity Values
+for Perfluorobutane Sulfonic Acid (CASRN 375-73-5) and Related Compound
+Potassium Perfluorobutane Sulfonate (CASRN 29420-49-3). Public Comment Draft. EPA-823-
+R-18-307. USEPA, Office of Research and Development, Washington, DC. Accessed online
+June 1, 2019.
+
+United States Environmental Protection Agency (2018). Human Health Toxicity Values for
+Hexafluoropropylene Oxide (HFPO) Dimer Acid and Its Ammonium Salt (CASRN 13252-13-6
+and CASRN 62037-80-3), Also Known as “GenX Chemicals”. Public Comment Draft. EPA-823-
+P-18-001. USEPA Office of Water, Washington, DC. Accessed online May 2019.
+
+United States Environmental Protection Agency (2019) Exposure Factors Handbook Chapter 3
+(Update): Ingestion of Water and Other Select Liquids. EPA/600/R-18/259F. USEPA Office of
+Research and Development, Washington, DC. Accessed online June 2019.
+
+Wambaugh JF, Setzer RW, Pitruzzello AM, et al. 2013. Dosimetric anchoring of in vivo and in
+vitro studies for perfluorooctanoate and perfluorooctanesulfonate. Toxicol Sci 136(2):308-327.
+
+Zhang Y, Beesoon S, Zhu L, et al. 2013. Biomonitoring of perfluoroalkyl acids in human urine
+and estimates of biological half-life. Environ Sci Technol 47(18):10619-10627.
+
+
+
+
+                                               32
+Appendix A: Acronym List
+
+ATSDR                 Agency for Toxic Substances and Disease Registry
+BMD                   benchmark dose
+BMDL                  lower confidence limit on the benchmark dose
+BMR                   benchmark response
+BW                    body weight
+BWa                   body weight animal
+BWh                   body weight human
+CDC                   Centers for Disease Control and Prevention
+DAF                   dosimetric adjustment factor
+EGLE                  Environment, Great Lakes, and Energy (Michigan Department of)
+GD                    gestational day
+GenX                  perfluoro-2-propoxypropanoic acid
+HBV                   health-based value
+HED                   human equivalent dose
+HFPO                  hexafluoropropylene oxide
+HRA                   health risk assessment
+kg                    kilogram
+L                     liter
+LD                    lactation day
+LHA                   lifetime health advisory
+LOAEL                 lowest observed adverse effect level
+MCL                   Maximum Contaminant Level
+MDH                   Minnesota Department of Health
+MDHHS                 Michigan Department of Health and Human Services
+mg                    milligram
+MI                    Michigan
+ml                    milliliter
+MPART                 Michigan PFAS Action Response Team
+µg                    microgram
+ng                    nanogram
+NHANES                National Health and Nutrition Examination Survey
+NJDEP                 New Jersey Department of Environmental Protection
+NOAEL                 no observed adverse effect level
+OECD                  Organization for Economic Co-operation and Development
+PFAS                  per- and polyfluoroalkyl substances
+PFBS                  perfluorobutane sulfonic acid
+PFHxA                 perfluorohexanoic acid
+PFHxS                 perfluorohexane sulfonic acid
+PFNA                  perfluorononanoic acid
+PFOA                  perfluorooctanoic acid
+PFOS                  perfluorooctane sulfonic acid
+PND                   postnatal day
+POD                   point of departure
+PODHED                point of departure human equivalent dose
+PPAR                  peroxisome proliferator-activated receptor
+ppt                   parts per trillion
+RfD                   reference dose
+RSC                   relative source contribution
+TWA                   time weighted average
+UF                    uncertainty factor
+USEPA                 United States Environmental Protection Agency
+
+
+                                      33
+Appendix B: MPART Motion for Creation of Science Advisory Workgroup,
+            April 4, 2019
+
+Motion
+
+Motion to establish a Science Advisory Workgroup with the Charge described below, comprised
+of external members with expertise in toxicology, epidemiology, and risk assessment, and
+further to authorize the chairperson of MPART to finalize the appointments in consultation with
+MPART members.
+
+Preamble
+On March 26, 2019, Governor Whitmer directed the Michigan PFAS Action Response Team
+(MPART) to further protect public health and the environment, by forming a Science Advisory
+Workgroup to “review both existing and proposed health-based drinking water standards from
+around the nation to inform the rule making process for appropriate Maximum Contaminant
+Levels for Michigan...” Toward this objective, the Science Advisory Workgroup shall make
+numeric recommendation(s) to MPART for those per- and polyfluoroalkyls substances (PFAS)
+for which adequate information exists.
+
+Charge
+
+The Science Advisory Workgroup shall:
+
+   1. For the PFAS listed in USEPA Method 537.1, review all existing and proposed national-
+      and state-derived PFAS drinking water standards and identify the most scientifically
+      defensible non-cancer or cancer-based public health toxicity values available for each
+      individual PFAS chemical family member, or combination thereof, for which the Science
+      Advisory Workgroup determines that adequate information exists. Provide written
+      justification that shall include, but not be limited to, the basis for the selection of the
+      primary study, critical effect identification, point of departure determination, evaluation of
+      all uncertainty and/or modification factors applied, and the non-cancer or cancer-based
+      toxicity value derivation.
+   2. Review all existing and proposed national- and state-derived PFAS drinking water
+      standards and identify the most scientifically defensible exposure assessment and risk
+      evaluation methodology for each individual PFAS chemical family member, or
+      combination thereof, for which the Science Advisory Workgroup determines that
+      adequate information exists. Provide written justification that shall include, but not be
+      limited to, selection of the most appropriate receptor(s) and identification of all
+      appropriate exposure assumptions for the receptor(s).
+   3. Identify the most appropriate and scientifically defensible combination of each specific
+      PFAS toxicity value and exposure assessment and risk evaluation methodology,
+      including consideration of relative source contribution, from which to derive a health-
+      based drinking water value for each individual PFAS chemical family member, or
+      combination thereof, for which the Science Advisory Workgroup determines that
+      adequate information exists.
+   4. Provide to MPART no later than July 1, 2019, a report recommending scientifically-
+      defensible numeric health-based values to inform the rulemaking process for Maximum
+      Contaminant Levels for each individual PFAS chemical family member, or combination
+      thereof, with written justification for the calculation methodology and each input into used
+      in the methodology by the Science Advisory Workgroup.
+
+End
+
+                                                34
+Appendix C: USEPA Method 537.1 Analyte List
+
+                                                                            Fluorinated           Chemical Abstract
+                 Analyte Name*                            Acronym          Carbon Chain           Services Registry
+                                                                              Length              Number (CASRN)
+         Perfluorotetradecanoic acid                      PFTeA                 C14                    376-06-7
+          Perfluorotridecanoic acid                       PFTriA                C13                  72629-94-8
+          Perfluorododecanoic acid                        PFDoA                 C12                    307-55-1
+          Perfluoroundecanoic acid                        PFUnA                 C11                   2058-94-8
+           Perfluorodecanoic acid                         PFDA                  C10                    335-76-2
+           Perfluorononanoic acid                         PFNA                  C9                     375-95-1
+           Perfluorooctanoic acid                         PFOA                  C8                     335-67-1
+           Perfluoroheptanoic acid                        PFHpA                 C7                     375-85-9
+           Perfluorohexanoic acid                         PFHxA                 C6                     307-24-4
+        Perfluorooctanesulfonic acid                      PFOS                  C8                    1763-23-1
+        Perfluorohexanesulfonic acid                      PFHxS                 C6                     355-46-4
+        Perfluorobutanesulfonic acid                      PFBS                  C4                     375-73-5
+   2-(N-Ethylperfluorooctanesulfonamido)                N-EtFOSAA               C8                    2991-50-6
+                  acetic acid
+  2-(N-Methylperfluorooctanesulfonamido)                N-MeFOSAA                 C8                   2355-31-9
+                acetic acid
+
+
+    Hexafluoropropylene oxide dimer acid                HFPO-DA                   C6                  13252-13-6a
+                                                         (GenX)
+  11-chloroeicosafluoro-3-oxaundecane-1-              11Cl-PF3OUdS               C10                 763051-92-9b
+               sulfonic acid
+    9-chlorohexadecafluoro-3-oxanone-1-                 9Cl-PF3ONS                C8                 756426-58-1c
+                sulfonic acid
+    4,8-dioxa-3H-perfluorononanoic acid                    ADONA                  C7                 919005-14-4d
+a HFPO-DA is one component of the GenX processing aid technology.
+b 11Cl-PF3OUdS is available in salt form (e.g. CASRN of potassium salt is 83329-89-9).
+c 9Cl-PF3ONS analyte is available in salt form (e.g. CASRN of potassium salt is 73606-19-6)
+d ADONA is available as the sodium salt (no CASRN) and the ammonium salt (CASRN is 958445-448).
+
+* Some PFAS are commercially available as ammonium, sodium, and potassium salts. This method measures all
+forms of the analytes as anions while the counterion is inconsequential. Analytes may be purchased as acids or as
+any of the corresponding salts.
+
+
+
+
+                                                        35
+Appendix D: Timeline for the Science Advisory Workgroup’s Development of Drinking Water HBVs
+
+
+
+
+                                                         36
+Appendix E: Timeline of the Maximum Contaminant Level Development Process
+
+
+
+
+                                                       37
+

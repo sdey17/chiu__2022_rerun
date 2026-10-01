@@ -1,0 +1,383 @@
+                                                                                 Health-Based Guidance for Water
+                                                         Health Risk Assessment Unit, Environmental Health Division
+                                                                                                            651-201-4899
+
+
+                                                                                  Adopted as Rule: November 2023
+
+
+Toxicological Summary for: Perfluorohexanoate
+CAS: 92612-52-7 (anion)
+     307-24-4 (free acid)
+     21615-47-4 (ammonium salt)
+     2923-26-4 (sodium salt)
+Synonyms: PFHxA; Perfluorohexanoic acid
+
+
+Acute Non-Cancer Health Risk Limit (nHRLAcute) = Not Derived (Insufficient Data)
+
+Short-term Non-Cancer Health Risk Limit (nHRLShort-term) = 0.2 μg/L
+             (Reference Dose, mg/kg-d) x (Relative Source Contribution) x (Conversion Factor)
+                                    (Short-term Intake Rate, L/kg-d)
+                                   = (0.00032 mg/kg-d) x (0.2)* x (1000 µg/mg)
+                                                (0.290 L/kg-d)**
+                                             = 0.22 rounded to 0.2 µg/L
+
+*MDH utilizes the EPA Exposure Decision Tree (EPA, 2000) to select appropriate RSCs. For PFHxA, an RSC of 0.2 was used for
+all exposure durations due to concerns about infant exposures from house dust and diet, potential exposures from the
+breakdown of precursor chemicals, and uncertainty about infant exposure levels.
+**
+   Intake Rate: MDH 2008, Section IV.E.1. and US EPA 2019, Exposure Factors Handbook, Tables 3-1, 3-3 and 3-5.
+
+            Reference Dose/Concentration: HED/Total UF = 0.0958/300 = 0.00032 mg/kg-d (laboratory
+                                             animal – SD rats)
+                   Source of toxicity value: Determined by MDH in 2021
+                 Point of Departure (POD): 25.9 mg/kg-d (administered dose BMDL1SD, NTP 2019)
+             Dose Adjustment Factor (DAF): Chemical and Study-Specific Toxicokinetic Adjustment
+                                             Half-lifeMaleRat/Half-lifeHuman = 2.87 hrs/ 768 hrs = 0.0037
+                                             (based on Dzierlenga et al 2020, for male rats, and Russell
+                                             et al 2013, for humans)
+             Human Equivalent Dose (HED): POD x DAF = 25.9 mg/kg-d x 0.0037 = 0.0958 mg/kg-d
+              Total uncertainty factor (UF): 300
+              Uncertainty factor allocation: 3 for interspecies differences (for toxicodynamics), 10 for
+                                             intraspecies variability, and 10 for database uncertainty
+                                             (e.g., lack of a 2-generation study, lack of thyroid hormone
+                                             measurements or neurodevelopmental toxicity in young
+                                             offspring in a development/reproductive study, and lack of
+                                             immunotoxicity studies as well as evidence of pup body
+                                             weight effects near the selected POD)
+
+
+                                         Perfluorohexanoate (PFHxA) - 1
+                                Critical effect(s): Decreased total T4
+                            Co-critical effect(s): Decreased pup body weight
+                          Additivity endpoint(s): Developmental, Thyroid [E]
+
+Subchronic Non-Cancer Health Risk Limit (nHRLSubchronic) = nHRLShort-term = 0.2 µg/L
+                (Reference Dose, mg/kg-d) x (Relative Source Contribution) x (Conversion Factor)
+                                      (Subchronic Intake Rate, L/kg-d)
+
+                                      = (0.00015 mg/kg-d) x (0.2)* x (1000 µg/mg)
+                                                   (0.074 L/kg-d)**
+
+                                               = 0.405 rounded to 0.4 µg/L
+*
+    Relative Source Contribution: MDH 2008, Section IV.E.1.
+**
+     Intake Rate: MDH 2008, Section IV.E.1. and US EPA 2019, Exposure Factors Handbook, Tables 3-1, 3-3 and 3-5.
+
+               Reference Dose/Concentration: HED/Total UF = 0.045/300 = 0.00015 mg/kg-d (laboratory
+                                                  animal – SD rats)
+                      Source of toxicity value: Determined by MDH in 2021
+                    Point of Departure (POD): 22.5 mg/kg-d (administered dose BMDL10%, Loveless et al
+                                                  2009)
+                Dose Adjustment Factor (DAF): Chemical and Study-Specific Toxicokinetic Adjustment
+                                                  Half-lifeMaleRat/Half-lifeHuman = 1.5 hrs/ 768 hrs = 0.0020
+                                                  (based on Gannon et al 2011, for male rats, and Russell et
+                                                  al 2013, for humans)
+                Human Equivalent Dose (HED): POD x DAF = 22.5 mg/kg-d x 0.0020 = 0.045 mg/kg-d
+                 Total uncertainty factor (UF): 300
+                 Uncertainty factor allocation: 3 for interspecies differences (for toxicodynamics), 10 for
+                                                  intraspecies variability, and 10 for database uncertainty
+                                                  (e.g., lack of a 2-generation study, lack of thyroid hormone
+                                                  measurements or neurodevelopmental toxicity in young
+                                                  offspring in a development/reproductive study, and lack of
+                                                  immunotoxicity studies as well as evidence of pup body
+                                                  weight effects near the selected POD)
+                              Critical effect(s): Nasal epithelium degeneration
+                          Co-critical effect(s): Decreased bilirubin
+                        Additivity endpoint(s): Hepatic (liver) system, Respiratory system
+
+The Subchronic nHRL must be protective of shorter duration exposures that occur within the
+subchronic period and therefore, the Subchronic nHRL is set equal to the Short-term nHRL of 0.2
+µg/L. Additivity endpoints: Developmental, Thyroid [E]
+
+Chronic Non-Cancer Health Risk Limit (nHRLChronic) = nHRLShort-term = 0.2 µg/L
+
+
+
+
+                                                Perfluorohexanoate (PFHxA) - 2
+                   (Reference Dose, mg/kg-d) x (Relative Source Contribution) x (Conversion Factor)
+                                           (Chronic Intake Rate, L/kg-d)
+
+                                    = (0.00015 mg/kg-d)*** x (0.2)* x (1000 µg/mg)
+                                                  (0.045 L/kg-d)**
+
+                                                = 0.67 rounded to 0.7 µg/L
+*
+    Relative Source Contribution: MDH 2008, Section IV.E.1.
+**
+     Intake Rate: MDH 2008, Section IV.E.1. and US EPA 2019, Exposure Factors Handbook, Tables 3-1, 3-3 and 3-5.
+
+             ***
+                   Reference Dose/Concentration: The calculated Chronic RfD was higher in magnitude than
+                                                 the Subchronic RfD. Therefore, the Chronic RfD is set to
+                                                 the Subchronic RfD, see information above for details on
+                                                 the RfD derivation.
+
+The Chronic nHRL must be protective of shorter duration exposures that occur within the chronic
+period and therefore, the Chronic nHRL is set equal to the Short-term nHRL of 0.2 µg/L. Additivity
+endpoints: Developmental, Thyroid [E]
+
+Cancer Health Risk Limit (cHRL) = Not Applicable
+
+Volatile:          Nonvolatile
+
+Summary of Guidance Value History:
+There are no previous guidance values for PFHxA. The 2021 derived values represent new guidance. In
+November 2023, the guidance values were adopted into Minnesota Rules, 4717.7860, as Health Risk
+Limits (HRLs).
+
+Additional Information on the MDH TK model (Goeden et al., 2019):
+PFHxA water guidance was calculated using MDH’s standard equations shown above. The Goeden et
+al. (2019) toxicokinetic model previously used to calculate guidance for PFOA, PFOS, and PFHxS was
+evaluated during this review because PFHxA crosses the placenta and is found in breastmilk. The
+toxicokinetic data that the model requires are quite limited for PFHxA (e.g., no information on
+breastmilk:maternal serum ratio, limited information on half-life). As a result, the model was not used
+quantitatively to derive PFHxA water guidance. However, the PFHxA modelling results, using the best
+available information for model parameters, indicate that water guidance of 0.2 μg/L developed using
+the standard equation is adequately protective.
+
+Summary of toxicity testing for health effects identified in the Health Standards Statute (144.0751):
+Even if testing for a specific health effect was not conducted for this chemical, information about that effect might be
+available from studies conducted for other purposes. MDH has considered the following information in developing health
+protective guidance.
+
+
+
+
+                                                Perfluorohexanoate (PFHxA) - 3
+                      Endocrine     Immunotoxicity       Development     Reproductive     Neurotoxicity
+ Tested for
+                         Yes               No                  Yes            Yes              Yes
+ specific effect?
+ Effects
+                         Yes1               -2                Yes3           Yes4             Yes5
+ observed?
+
+Comments on extent of testing or effects:
+1A significant positive correlation between PFHxA exposure and TGAb (thyroglobin antibodies) and
+
+    TMAb (thyroid microsomal antibody) was reported in an epidemiological study. Short-term studies
+    in adult laboratory animals identified decreased serum thyroid hormone levels. These effects form
+    the basis of the short-term RfD. A database uncertainty factor (DB UF) was incorporated into the
+    RfD derivation, in part, to address the lack of thyroid evaluations in developing animals. Thyroid
+    cellular hypertrophy in adult animals was also reported, but at doses ~3,000-fold higher than the
+    Subchronic/Chronic RfD.
+2 No immunotoxicity studies have been conducted. Three general toxicity studies reported decreased
+
+    thymus weight at dose levels >5800-fold higher than the Subchronic/Chronic RfD. At slightly higher
+    dose levels atrophy and necrosis in spleen and thymus as well as a depletion of lymph nodes were
+    observed.
+3Decreases in pup body weight and increased pup mortality have been reported. These effects were
+
+    observed at levels ~1500-fold higher than the Subchronic/Chronic RfD. A database uncertainty
+    factor (DB UF) was incorporated into the RfD derivation, in part, to address the lack of a two-
+    generation study.
+4 Significant decreases in maternal body weight gain during gestation and complete litter loss were
+
+    reported at doses >3,000-fold higher than the Subchronic/Chronic RfD. Decreases in sperm count
+    and seminiferous tubule spermatid retention were reported at doses 25,000-fold higher than the
+    Subchronic/Chronic RfD.
+5 Acute studies reported ataxia and abnormal gait at dose levels ~1,000-fold higher than the
+
+    Subchronic/Chronic RfD. No neurological changes, based on functional observation battery and
+    locomotor activity evaluations, were reported in adult rats following 90 days of exposure at levels
+    up to ~5,000-fold higher than the Subchronic/Chronic RfD.
+
+Resources Consulted During Review:
+Anderson, J. K., Luz, A. L., Goodrum, P., & Durda, J. (2019). Perfluorohexanoic acid toxicity, part II:
+        Application of human health toxicity value for risk characterization. Regul Toxicol Pharmacol,
+        103, 10-20. doi:10.1016/j.yrtph.2019.01.020
+ATSDR. (2021). Agency for Toxic Substances and Disease Registry. Toxicological Profile for
+        Perfluoroalkyls. Retrieved from https://www.atsdr.cdc.gov/toxprofiles/tp200.pdf
+Bil W, M. Z., S Fragki, J Lijzen, E Verbruggen, B Bokkers. (2021). Risk Assessment of Per‐ and
+        Polyfluoroalkyl Substance Mixtures: A Relative Potency Factor Approach. Environ Toxicol and
+        Chemistry, 40(3), 859-870. doi:DOI: 10.1002/etc.4835
+Bischel, H. N., Macmanus-Spencer, L. A., Zhang, C., & Luthy, R. G. (2011). Strong associations of short-
+        chain perfluoroalkyl acids with serum albumin and investigation of binding mechanisms.
+        Environ Toxicol Chem, 30(11), 2423-2430. doi:10.1002/etc.647
+
+
+                                       Perfluorohexanoate (PFHxA) - 4
+Cai, D., QQ Li, C Chu, SZ Wang, YT Tang, AA Appleton, RL Qiu, BY Yang, LW Hu, GH Dong, XW Zeng.
+         (2020). High trans-placental transfer of perfluoroalkyl substances alternatives in the matched
+         maternal-cord blood serum: Evidence from a birth cohort study. Science of the Total
+         Environment, 705, 135885. doi:https://doi.org/10.1016/j.scitotenv.2019.135885
+Chengelis, C. P., Kirkpatrick, J. B., Myers, N. R., Shinohara, M., Stetson, P. L., & Sved, D. W. (2009).
+         Comparison of the toxicokinetic behavior of perfluorohexanoic acid (PFHxA) and
+         nonafluorobutane-1-sulfonic acid (PFBS) in cynomolgus monkeys and rats. Reprod Toxicol, 27(3-
+         4), 400-406. doi:10.1016/j.reprotox.2009.01.013
+Chengelis, C. P., Kirkpatrick, J. B., Radovsky, A., & Shinohara, M. (2009). A 90-day repeated dose oral
+         (gavage) toxicity study of perfluorohexanoic acid (PFHxA) in rats (with functional observational
+         battery and motor activity determinations). Reprod Toxicol, 27(3-4), 342-351.
+         doi:10.1016/j.reprotox.2009.01.006
+Cordner, A., De La Rosa, V. Y., Schaider, L. A., Rudel, R. A., Richter, L., & Brown, P. (2019). Guideline
+         levels for PFOA and PFOS in drinking water: the role of scientific uncertainty, risk assessment
+         decisions, and social factors. Journal of Exposure Science & Environmental Epidemiology.
+         doi:10.1038/s41370-018-0099-9
+Dong, G. H., Tung, K. Y., Tsai, C. H., Liu, M. M., Wang, D., Liu, W., . . . Chen, P. C. (2013). Serum
+         polyfluoroalkyl concentrations, asthma outcomes, and immunological markers in a case-control
+         study of Taiwanese children. Environ Health Perspect, 121(4), 507-513.
+         doi:10.1289/ehp.1205351
+Dzierlenga, A. L., Robinson, V. G., Waidyanatha, S., DeVito, M. J., Eifrid, M. A., Gibbs, S. T., . . . Blystone,
+         C. R. (2020). Toxicokinetics of perfluorohexanoic acid (PFHxA), perfluorooctanoic acid (PFOA)
+         and perfluorodecanoic acid (PFDA) in male and female Hsd:Sprague dawley SD rats following
+         intravenous or gavage administration. Xenobiotica, 50(6), 722-732.
+         doi:10.1080/00498254.2019.1683776
+European Chemicals Agency. (2019a). Annex XV Restriction Report, Undecafluorohexanoic acid
+         (PFHxA), its salts and related substances. Retrieved from
+         https://echa.europa.eu/documents/10162/c4e04484-c989-733d-33ed-0f023e2a200e
+European Chemicals Agency. (2019b). Annex XV Restriction Report, Undecafluorohexanoic acid
+         (PFHxA), its salts and related substances - Appendices and Supporting information. Retrieved
+         from https://echa.europa.eu/documents/10162/cc64c9fd-0987-854e-7ac7-cdf829b938dc
+Fan, H., Ducatman, A., & Zhang, J. (2014). Perfluorocarbons and Gilbert syndrome (phenotype) in the
+         C8 Health Study Population. Environ Res, 135, 70-75. doi:10.1016/j.envres.2014.08.011
+Friis-Hansen, B. (1961). Body Water Compartments in Children: Changes During Growth and Related
+         Changes in Body Composition. Pediatrics, 28(2), 169-181.
+Gannon, S. A., Johnson, T., Nabb, D. L., Serex, T. L., Buck, R. C., & Loveless, S. E. (2011). Absorption,
+         distribution, metabolism, and excretion of [1-(1)(4)C]-perfluorohexanoate ([(1)(4)C]-PFHx) in
+         rats and mice. Toxicology, 283(1), 55-62. doi:10.1016/j.tox.2011.02.004
+Gao K, T. Z., X Liu, J Fu, J Zhang, J Fu, L Wang, A Zhang, Y Liang, M Song, G Jiang,. (2019). Prenatal
+         Exposure to Per- and Polyfluoroalkyl Substances (PFASs) and Association between the Placental
+         Transfer Efficiencies and Dissociation Constant of Serum Proteins−PFAS Complexes.
+         Environmental Science and Technology, 53, 6529-6538. doi:DOI: 10.1021/acs.est.9b00715
+
+
+
+
+                                         Perfluorohexanoate (PFHxA) - 5
+Goeden, H. M., Greene, C. W., & Jacobus, J. A. (2019). A transgenerational toxicokinetic model and its
+         use in derivation of Minnesota PFOA water guidance. Journal of Exposure Science &
+         Environmental Epidemiology, https://doi.org/10.1038/s41370-018-0110-5.
+Han, X., Nabb, D. L., Russell, M. H., Kennedy, G. L., & Rickard, R. W. (2012). Renal elimination of
+         perfluorocarboxylates (PFCAs). Chem Res Toxicol, 25(1), 35-46. doi:10.1021/tx200363w
+HDOH. (2021). Hawaii Department of Health. Interim Soil and Water Environmental Action Levels (EALs)
+         for Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS). Retrieved from
+         https://health.hawaii.gov/heer/guidance/ehe-and-eals/
+ITRC. (Interstate Technology and Regulatory Council) Regulations, Guidance, and Advisories. Section 4
+         Tables (Excel). Last Update February 2021.
+Iwai, H. (2011). Toxicokinetics of ammonium perfluorohexanoate. Drug Chem Toxicol, 34(4), 341-346.
+         doi:10.3109/01480545.2011.585162
+Iwai, H., & Hoberman, A. M. (2014). Oral (Gavage) Combined Developmental and Perinatal/Postnatal
+         Reproduction Toxicity Study of Ammonium Salt of Perfluorinated Hexanoic Acid in Mice. Int J
+         Toxicol, 33(3), 219-237. doi:10.1177/1091581814529449
+Iwai, H., Hoberman, A. M., Goodrum, P. E., Mendelsohn, E., & Anderson, J. K. (2019). Addendum to
+         Iwai and Hoberman (2014)-Reassessment of Developmental Toxicity of PFHxA in Mice. Int J
+         Toxicol, 38(3), 183-191. doi:10.1177/1091581819837904
+Jin H, L. M., J Xie, M Zhao, X Bai, J Wen, T Shen, P Wu,. (2020). Poly- and perfluoroalkyl substance
+         concentrations in human breast milk and their associations with postnatal infant growth.
+         Science of the Total Environment, 713, 136417.
+         doi:https://doi.org/10.1016/j.scitotenv.2019.136417
+Kang H, K. C., HS Lee, DH Kim, NY Park, S Kim, Y Kho,. (2016). Elevated levels of short carbon-chain
+         PFCAs in breast milk among Korean women: Current status and potential challenges.
+         Environmental Research, 148, 351-359. doi:http://dx.doi.org/10.1016/j.envres.2016.04.017
+Klaunig, J. E., Shinohara, M., Iwai, H., Chengelis, C. P., Kirkpatrick, J. B., Wang, Z., & Bruner, R. H. (2015).
+         Evaluation of the chronic toxicity and carcinogenicity of perfluorohexanoic acid (PFHxA) in
+         Sprague-Dawley rats. Toxicol Pathol, 43(2), 209-220. doi:10.1177/0192623314530532
+Li J, D. C., C Chu, Q Li, Y Zhou, L Hu, B Yang, G Dong, X Zeng, D Chen,. (2020). Transplacental Transfer of
+         Per- and Polyfluoroalkyl Substances (PFASs): Differences between Preterm and Full-Term
+         Deliveries and Associations with Placental Transporter mRNA Expression. Environmental Science
+         and Technology, 54, 5062-5070. doi:https://dx.doi.org/10.1021/acs.est.0c00829
+Li Y., Cheng, Y., Xie, Z., & Zeng, F. (2017). Perfluorinated alkyl substances in serum of the southern
+         Chinese general population and potential impact on thyroid hormones. Sci Rep, 7, 43380.
+         doi:10.1038/srep43380
+Loveless, S. E., Slezak, B., Serex, T., Lewis, J., Mukerji, P., O'Connor, J. C., . . . Buck, R. C. (2009).
+         Toxicological evaluation of sodium perfluorohexanoate. Toxicology, 264(1-2), 32-44.
+         doi:10.1016/j.tox.2009.07.011
+Luz, A. L., Anderson, J. K., Goodrum, P., & Durda, J. (2019). Perfluorohexanoic acid toxicity, part I:
+         Development of a chronic human health toxicity value for use in risk assessment. Regul Toxicol
+         Pharmacol, 103, 41-55. doi:10.1016/j.yrtph.2019.01.019
+Ma D, Y. L., Y Liang, T Ruan, J Li, C Zhao, Y Wang, G Jiang,. (2021). A Critical Review on Transplacental
+         Transfer of Per- and Polyfluoroalkyl Substances: Prenatal Exposure Levels, Characteristics, and
+         Mechanisms. Environmental Science and Technology. doi:DOI: 10.1021/acs.est.1c01057
+
+
+                                         Perfluorohexanoate (PFHxA) - 6
+Michigan Science Advisory Workgroup. (2019). HEALTH-BASED DRINKING WATER VALUE
+        RECOMMENDATIONS FOR PFAS IN MICHIGAN. Retrieved from
+        https://www.michigan.gov/documents/pfasresponse/Health-
+        Based_Drinking_Water_Value_Recommendations_for_PFAS_in_Michigan_Report_659258_7.p
+        df
+Minnesota Department of Health (MDH). (2008). Statement of Need and Reasonableness (SONAR), July
+        11, 2008. Support document relating to Health Risk Limits for Groundwater Rules.
+Minnesota Department of Health (MDH). (2017). MDH Health Risk Assessment Methods to Incorporate
+        Human Equivalent Dose Calculations into Derivation of Oral Reference Doses (May 2011,
+        revised 2017). Retrieved from
+        https://www.health.state.mn.us/communities/environment/risk/docs/guidance/hedrefguide.p
+        df
+National Toxicology Program (NTP). (2019). 28-Day Evaluation of the Toxicity (C20613) of
+        Perfluorohexanoic acid (PFHXA) (307-24-4) in Harlan Sprague-Dawley Rats Exposed via Gavage.
+        Study tables retrieved from https://cebs.niehs.nih.gov/cebs/publication/TOX-97
+Nilsson, H., Karrman, A., Rotander, A., van Bavel, B., Lindstrom, G., & Westberg, H. (2013a).
+        Biotransformation of fluorotelomer compound to perfluorocarboxylates in humans. Environ Int,
+        51, 8-12. doi:10.1016/j.envint.2012.09.001
+Nilsson, H., Karrman, A., Rotander, A., van Bavel, B., Lindstrom, G., & Westberg, H. (2013b).
+        Professional ski waxers' exposure to PFAS and aerosol concentrations in gas phase and different
+        particle size fractions. Environ Sci Process Impacts, 15(4), 814-822. doi:10.1039/c3em30739e
+NOTOX Safety & Environmental Research. (2005). Repeated Dose 90-Day Oral Toxicity Study with PFHA
+        by Daily Gavage in the Rat Followed by a 28-Day Recovery Period. Retrieved from
+Perez, F., Nadal, M., Navarro-Ortega, A., Fabrega, F., Domingo, J. L., Barcelo, D., & Farre, M. (2013).
+        Accumulation of perfluoroalkyl substances in human tissues. Environ Int, 59, 354-362.
+        doi:10.1016/j.envint.2013.06.004
+Poothong, S., Thomsen, C., Padilla-Sanchez, J. A., Papadopoulou, E., & Haug, L. S. (2017). Distribution of
+        Novel and Well-Known Poly- and Perfluoroalkyl Substances (PFASs) in Human Serum, Plasma,
+        and Whole Blood. Environ Sci Technol, 51(22), 13388-13396. doi:10.1021/acs.est.7b03299
+Rice, P. A. (2015). C6-Perfluorinated Compounds: The New Greaseproofing Agents in Food Packaging.
+        Curr Environ Health Rep, 2(1), 33-40. doi:10.1007/s40572-014-0039-3
+Rice, P. A., Aungst, J., Cooper, J., Bandele, O., & Kabadi, S. V. (2020). Comparative analysis of the
+        toxicological databases for 6:2 fluorotelomer alcohol (6:2 FTOH) and perfluorohexanoic acid
+        (PFHxA). Food Chem Toxicol, 138, 111210. doi:10.1016/j.fct.2020.111210
+Russell, M. H., Nilsson, H., & Buck, R. C. (2013). Elimination kinetics of perfluorohexanoic acid in
+        humans and comparison with mouse, rat and monkey. Chemosphere, 93(10), 2419-2425.
+        doi:10.1016/j.chemosphere.2013.08.060
+U.S. Environmental Protection Agency (EPA). Chemistry Dashboard.
+U.S. Environmental Protection Agency (EPA). (1988). Recommendations for and Documentation of
+        Biological Values for Use in Risk Assessment. Office of Research and Development. Retrieved
+        from http://cfpub.epa.gov/ncea/cfm/recordisplay.cfm?deid=34855
+USEPA. (2011). US Environmental Protection Agency - National Center for Environmental Assessment.
+        Exposure Factors Handbook. 2011 Edition. Retrieved from
+        https://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=236252
+
+
+                                       Perfluorohexanoate (PFHxA) - 7
+U.S. Environmental Protection Agency (EPA). (2011). Recommended Use of Body Weight¾ as the
+         Default Method in Derivation of the Oral Reference Dose. Office of the Science Advisor.
+         Retrieved from https://www.epa.gov/risk/recommended-use-body-weight-34-default-method-
+         derivation-oral-reference-dose
+U.S. Environmental Protection Agency (EPA). (2019). Exposure Factors Handbook Chapter 3 Update
+         2019. Retrieved from https://www.epa.gov/expobox/exposure-factors-handbook-chapter-3
+US EPA. (2021). (US Environmental Protection Agency) Systematic Review Protocol for the PFBA, PFHxA,
+         PFHxS, PFNA, and PFDA (anionic and acid forms) IRIS Assessments. CASRN 335-76-2 (PFDA);
+         CASRN 375-95-1 (PFNA); CASRN 307-24-4 (PFHxA); CASRN 355-46-4 (PFHxS); and CASRN 375-
+         22-4 (PFBA). Supplemental Information―Appendix A. Update.
+WIL Research Laboratories LLC. (2005). A Combined 28-Day Repeat Dose Oral Toxicity Study with the
+         Reproductive/Developmental Toxicity Screening Test of Perfluorohexanoic acid and 1H, 1H, 2H,
+         2H-Tridecafluoro-1-octanol in Rats, with recovery. Retrieved from https://www.agc-
+         chemicals.com/file.jsp?id=file/PFHxA-3.pdf
+Wisconsin Department of Health Services. (2020). Recommended Groundwater Standards (Cycle 11).
+         Retrieved from https://www.dhs.wisconsin.gov/water/gws-cycle11.htm
+Wolf, C., ML Takacs, JE Schmid, C Lau, BD Abbott. (2008). Activation of Mouse and Human Peroxisome
+         Proliferator - Activated Receptor Alpha by Perfluoroalkyl Acids of Different Functional Groups
+         and Chain Lengths. Toxicological Sciences, 106(1), 162-171.
+Xu, Y., Fletcher, T., Pineda, D., Lindh, C. H., Nilsson, C., Glynn, A., . . . Li, Y. (2020). Serum Half-Lives for
+         Short- and Long-Chain Perfluoroalkyl Acids after Ceasing Exposure from Drinking Water
+         Contaminated by Firefighting Foam. Environ Health Perspect, 128(7), 77004.
+         doi:10.1289/EHP6785
+Zhang T, H. S., Y Lin, X Qin, Y Zhang, X Geng, K Kannan,. (2013). Distribution of Poly- and Perfluoroalkyl
+         Substances in Matched Samples from Pregnant Women and Carbon Chain Length Related
+         Maternal Transfer. Environmental Science and Technology, 47, 7974-7981.
+         doi:dx.doi.org/10.1021/es400937y
+Zheng G, E. S., JC Dempsey, N Uding, V Chu, G Andres, S Sathyanarayana, A Salamova,. (2021). Per- and
+         Polyfluoroalkyl Substances (PFAS) in Breast Milk: Concerning Trends for Current-Use PFAS.
+         Environmental Science and Technology, 55(11), 7510-7520. doi:doi: 10.1021/acs.est.0c06978
+Zhou, Y., Hu, L. W., Qian, Z. M., Chang, J. J., King, C., Paul, G., . . . Dong, G. H. (2016). Association of
+         perfluoroalkyl substances exposure with reproductive hormone levels in adolescents: By sex
+         status. Environ Int, 94, 189-195. doi:10.1016/j.envint.2016.05.018
+
+
+
+
+                                          Perfluorohexanoate (PFHxA) - 8
+

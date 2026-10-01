@@ -1,0 +1,20 @@
+Analyte a,Acronym,LOD  in serum (ng/mL),LOD in urine (ng/ml)
+Perfluoropentanoic acid,PFPeA,0.08,ND
+Perfluorohexanoic acid,PFHxA,0.07,0.1(b)
+Perfluoroheptanoic acid,PFHpA,0.05,0.01
+Perfluorooctanoic acid,PFOA,0.09,0.01
+Perfluorononanoic acid,PFNA,0.05,ND
+Perfluorodecanoic acid,PFDA,0.09,ND
+Perfluoroundecanoic acid,PFUnDA,0.1,ND
+Perfluorododecanoic acid,PFDoA,0.2,ND
+Perfluorotridecanoic acid,PFtrDA,0.2,ND
+Perfluorobutane sulfonic acid,PFBS,0.05,0.1 (b)
+Perfluoropentane sulfonic acid,PFPeS,0.02,0.01
+Perfluorohexane sulfonic acid,PFHxS,0.1,0.01
+Perfluoroheptane sulfonic acid,PFHpS,0.1,0.01 (b)
+Linear perfluorooctane sulfonic acid,L-PFOS,0.2,0.01
+Perfluoro-1-methylheptanesulfonate,1m-PFOS,0.05,0.01
+Perfluoro-3/4/5-methylheptanesulfonate  (∑),3/4/5m-PFOSc,0.01,0.02
+Perfluoro-2/6-methylheptanesulfonate  (∑),2/6m-PFOSd,0.3,0.02
+Perfluorononane sulfonic acid,PFNS,0.05,ND
+Perfluorodecane sulfonic acid,PFDS,0.1,ND

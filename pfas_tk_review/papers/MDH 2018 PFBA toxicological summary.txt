@@ -1,0 +1,425 @@
+                                                                                   Health Based Guidance for Water
+                                                           Health Risk Assessment Unit, Environmental Health Division
+                                                                                                       651-201-4899
+
+
+
+
+                                                                                       Adopted as Rule: August 2018
+
+
+Toxicological Summary for: Perfluorobutanoate
+CAS: 45048-62-2 (anion)
+     375-22-4 (acid)
+Synonyms: PFBA, Perfluorobutanoic Acid, Perfluorobutyric acid, Heptafluorobutyric acid
+
+
+Acute Non-Cancer Health Risk Limit (nHRLAcute) = Not Derived (Insufficient Data)*
+*
+ While a developmental study is available for PFBA, a human equivalent dose (HED) forms the basis of the reference dose
+and assumes steady state conditions that cannot be achieved from a one-day exposure. Based on a mean human half-life of
+3 days steady-state conditions would be established within ~ 9-15 days. At the present time the information necessary to
+estimate less than steady-state doses is not available. The short-term HRL assessment incorporated information regarding
+developmental effects.
+
+
+Short-term Non-Cancer Health Risk Limit (nHRLShort-term) = 7 μg/L
+
+                (Reference Dose, mg/kg-d) x (Relative Source Contribution) x (Conversion Factor)
+                                       (Short-term Intake Rate, L/kg-d)
+
+                                      = (0.0038 mg/kg-d) x (0.5)* x (1000 µg/mg)
+                                                  (0.285 L/kg-d)**
+
+                                                = 6.67 rounded to 7 µg/L
+*
+    Relative Source Contribution: MDH 2008, Section IV.E.1.
+**
+     Intake Rate: MDH 2008, Section IV.E.1. and US EPA 2011, Exposure Factors Handbook, Tables 3-1 and 3-81
+
+               Reference Dose/Concentration: HED/Total UF = 0.38/100 = 0.0038 mg/kg-d (rat)
+                      Source of toxicity value: Determined by MDH in 2008
+                    Point of Departure (POD): 3.01 mg/kg-d (BMDL1SD, calculated by Butenhoff, 2007;
+                                                based on NOTOX 2007a)
+                Dose Adjustment Factor (DAF): Chemical-Specific Toxicokinetic Adjustment (t½Human /
+                                                t½MaleRat = 72 hours / 9.22 hours = 8) (t½ based on Chang et
+                                                al. 2008, Olsen et al. 2007b)
+                Human Equivalent Dose (HED): POD/DAF = 3.01 mg/kg-d / 8 = 0.38 mg/kg-d (chemical
+                                                specific basis)
+                 Total uncertainty factor (UF): 100
+                 Uncertainty factor allocation: 3 for interspecies differences (for toxicodynamics), 10 for
+                                                intraspecies variability, and 3 for database uncertainty due
+
+
+                                                      PFBA – Page 1 of 9
+                                                    to the lack of a NOAEL or acceptable BMDL10 for thyroid
+                                                    effects as well as lack of available immunotoxicity testing.
+                                                    A multigeneration reproductive study has also not been
+                                                    conducted, however the database does include an
+                                                    extended one generation developmental study
+                                Critical effect(s): Decreased cholesterol
+                            Co-critical effect(s): Increased relative thyroid weight, decreased serum total
+                                                    thyroxine (TT4), decreased dialysis free thyroxine (dFT4)
+                          Additivity endpoint(s): Hepatic (liver) system, Thyroid (E)
+
+Subchronic Non-Cancer Health Risk Limit (nHRLSubchronic) = nHRLShort-term = 7 µg/L
+
+                (Reference Dose, mg/kg-d) x (Relative Source Contribution) x (Conversion Factor)
+                                      (Subchronic Intake Rate, L/kg-d)
+
+                                      = (0.0029 mg/kg-d) x (0.2)* x (1000 µg/mg)
+                                                  (0.070 L/kg-d)**
+
+                                                = 8.29 rounded to 8 µg/L
+*
+    Relative Source Contribution: MDH 2008, Section IV.E.1.
+**
+     Intake Rate: MDH 2008, Section IV.E.1. and US EPA 2011, Exposure Factors Handbook, Tables 3-1 and 3-81
+
+               Reference Dose/Concentration:          HED/Total UF = 0.86/300 = 0.0029 mg/kg-d (rat)
+                      Source of toxicity value:       Determined by MDH in 2008
+                    Point of Departure (POD):         6.9 mg/kg-d (NOAEL, NOTOX 2007b)
+                Dose Adjustment Factor (DAF):         Chemical-Specific Toxicokinetic Adjustment (t½Human /
+                                                      t½MaleRat = 72 hours /9.22 hours = 8) (t½ based on Chang et
+                                                      al. 2008, Olsen et al. 2007b)
+                Human Equivalent Dose (HED):          POD/DAF = 6.9 mg/kg-d / 8 = 0.86 mg/kg-d (chemical
+                                                      specific basis)
+                 Total uncertainty factor (UF):       300
+                 Uncertainty factor allocation:       3 for interspecies differences (for toxicodynamics), 10 for
+                                                      intraspecies variability, and 10 for database uncertainty
+                                                      (assessment of thyroid effects was compromised by
+                                                      missing serum hormone data and an immunotoxicity test
+                                                      has not been conducted. In addition, a multigeneration
+                                                      reproductive study has not been conducted, however the
+                                                      database does include an extended one generation
+                                                      developmental study)
+                                Critical effect(s):   Liver weight changes, morphological changes in liver and
+                                                      thyroid gland, decreased TT4, decreased red blood cells,
+                                                      decreased hematocrit and hemoglobin
+                             Co-critical effect(s):   Increased relative thyroid weight, decreased serum TT4
+                                                      and dFT4, decreased cholesterol, delayed eye opening
+
+
+                                                      PFBA - Page 2 of 9
+                         Additivity endpoint(s): Developmental, Hematological (blood) system, Hepatic
+                                                 (liver) system, Thyroid (E)
+
+
+The Subchronic nHRL must be protective of the acute and short-term exposures that occur within the
+subchronic period and therefore, the Subchronic nHRL is set equal to the Short-term nHRL of 7 µg/L.
+Additivity endpoints: Hepatic (liver) system, Thyroid (E)
+
+Chronic Non-Cancer Health Risk Limit (nHRLChronic) = nHRLShort-term = 7 µg/L
+
+               (Reference Dose, mg/kg-d) x (Relative Source Contribution) x (Conversion Factor)
+                                       (Chronic Intake Rate, L/kg-d)
+
+                                       = (0.0029 mg/kg-d) x (0.2)* x (1000 µg/mg)
+                                                   (0.044 L/kg-d)**
+
+                                                  = 13.2 rounded to 10 µg/L
+*Relative Source Contribution: MDH 2008, Section IV.E.1.
+**Intake Rate: MDH 2008, Section IV.E.1. and US EPA 2011, Exposure Factors Handbook, Tables 3-1 and 3-81
+
+
+
+             Reference Dose/Concentration:                 HED/Total UF = 0.86/300 = 0.0029 mg/kg-d (rat)
+                    Source of toxicity value:              Determined by MDH in 2008
+                  Point of Departure (POD):                6.9 mg/kg-d (NOAEL, NOTOX 2007b)
+              Dose Adjustment Factor (DAF):                Chemical-Specific Toxicokinetic Adjustment (t½Human /
+                                                           t½MaleRat = 72 hours /9.22 hours = 8) (t½ based on Chang et
+                                                           al. 2008, Olsen et al. 2007b)
+              Human Equivalent Dose (HED):                 POD/DAF = 6.9 mg/kg-d / 8 = 0.86 mg/kg-d (chemical
+                                                           specific basis)
+                Total uncertainty factor (UF):             300
+                Uncertainty factor allocation:             3 for interspecies differences (for toxicodynamics), 10 for
+                                                           intraspecies variability, and 10 for database uncertainty
+                                                           (assessment of thyroid effects was compromised by
+                                                           missing serum hormone data and an immunotoxicity test
+                                                           has not been conducted. In addition, a multigeneration
+                                                           reproductive study has not been conducted, however the
+                                                           database does include an extended one generation
+                                                           developmental study)
+                                 Critical effect(s):       Liver weight changes, morphological changes in liver and
+                                                           thyroid gland, decreased TT4, decreased red blood cells,
+                                                           decreased hematocrit and hemoglobin
+                             Co-critical effect(s):        Increased relative thyroid weight, decreased serum TT4
+                                                           and dFT4, decreased cholesterol, delayed eye opening
+                         Additivity endpoint(s):           Developmental, Hematological (blood) system, Hepatic
+                                                           (liver) system, Thyroid (E)
+
+
+                                                           PFBA - Page 3 of 9
+The Chronic nHRL must be protective of the acute, short-term, and subchronic exposures that occur
+within the chronic period and therefore, the Chronic nHRL is set equal to the Short-term nHRL of
+7 µg/L. Additivity endpoints: Hepatic (liver) system, Thyroid (E)
+
+Cancer Health Risk Limit (cHRL) = Not Applicable
+
+                      Cancer classification:        Not Classified
+                          Slope factor (SF):        Not Applicable
+         Source of cancer slope factor (SF):        Not Applicable
+                             Tumor site(s):         Not Applicable
+
+Volatile:    No
+
+Summary of Guidance Value History:
+MDH promulgated short-term, subchronic and chronic Health Risk Limits (nHRL) of 7 µg/L in 2011. In
+2017, MDH re-evaluated the noncancer HRLs. The values did not change as a result of the evaluation
+and incorporation of MDH’s most recent risk assessment methodology. This guidance was adopted as
+HRLs in 2018.
+
+
+Summary of toxicity testing for health effects identified in the Health Standards Statute
+(144.0751):
+Even if testing for a specific health effect was not conducted for this chemical, information about that effect might be
+available from studies conducted for other purposes. MDH has considered the following information in developing health
+protective guidance.
+
+                           Endocrine        Immunotoxicity        Development         Reproductive       Neurotoxicity
+  Tested for specific
+                               Yes                 No                    Yes               No                 Yes
+  effect?
+  Effects observed?            Yes1                  -                   Yes2                -                No3
+
+
+
+Comments on extent of testing or effects:
+1 Secondary observations, including decreased T4 levels, altered hyperplasia/hypertrophy of the
+
+    follicular epithelium of the thyroid, and increased thyroid weight were noted in the 28 and 90 day
+    studies. These effects are identified as critical or co-critical effects for the short-term, subchronic,
+    and chronic duration HBVs.
+2 Developmental delays were observed in offspring of mice exposed during pregnancy. This effect was
+
+    observed at 2-fold higher than the human equivalent dose, upon which the short-term RfD is
+    based. Developmental effects are identified as secondary effects.
+3 No available neurotoxicity studies. Secondary observations reported in the 28 and 90-day studies
+
+    include delayed bilateral pupillary reflex for males exposed to a dose > 10-fold higher than the
+
+
+
+                                                    PFBA - Page 4 of 9
+   BMDL used as the basis of the short-term, subchronic, and chronic HBVs. Histopathological
+   assessment of neuronal tissues (including the optic nerve) and motor activity evaluations did not
+   reveal any treatment-related abnormalities.
+
+
+Resources Consulted During Review:
+3M Cordova Electronic Materials Factory Employees. Final Report. Medical Department, 3M Company.
+       July 30, 2007.
+
+3M 2009a. ST-229 Final Report. 2009. Urinary Iodine Excretion Study in Rats (ToxDocs Study Number
+      08-048, MTDID 8391).
+
+3M 2009b. 08-049 Final Report. 2009. 8-Day Repeat Dose Oral Toxicity Study of MTDID 8391 in Rats.
+
+3M 2009c. ToxDocs 06-399: ADME Study of MTDID 8391 in Rats. Final report. May 28, 2009
+
+Butenhoff, JL. 2007a. E-mail correspondence conveying benchmark dose calculations conducted by 3M
+      for liver weight and cholesterol – 28 day PFBA study. February 6, 2007.
+
+Butenhoff, JL. 2007b. Memorandum to Helen Goeden. October 9, 2007. Subject: Data Summary for
+      mechanistic investigation results from samples for NOTOX study no. 470677.
+
+Butenhoff, JL. 2007c. E-mail correspondence conveying BMD estimates from Dr. Gaylor. Attachments:
+      Benchmark Dose Calculations for Ammonium Perfluorobutyrate (PFBA) and Benchmark Dose
+      Calculations for Ammonium Perfluorobutyrate (PFBA) based on Thyroid
+      Hypertrophy/Hyperplasia by Dr. David W. Gaylor, Gaylor and Associates, LLC. December 13,
+      2007.
+Butenhoff, JL. 2008a. E-mail correspondence conveying PK analysis and preliminary risk assessment for
+      PFBA from Drs. Harvey Clewell and Cecilia Tan of the Hamner Institutes for Health Sciences.
+      Feb. 1, 2008.
+
+Butenhoff, JL. 2008b. E-mail correspondence conveying the final data summary for the thyroid
+      hormone and thyrotropin analyses and Quantitative RT-PCR. Feb. 12, 2008
+
+Butenhoff, J., JA Bjork, SH Chang, DJ Ehresman, GA Parker, K Das, C Lau, PH Lieder, FM van
+      Otterdijk,KB Wallace. 2012. Toxicological evaluation of ammonium perfluorobutyrate in rates:
+      Twentyeight- day and ninety-day oral gavage studies. Reproductive Toxicology, 33, 513-530.
+
+Chen YM and LH Guo. 2009. Fluorescence study on site-specific binding of perfluoroalkyl acids to
+      human serum albumin. Arch Toxicol. Advanced access doi:10.1007/s00204-008-0359-x.
+
+Chang, SC, JA Hart, DJ Ehresman, K Das, CS Lau, PE Noker, GS Gorman, YM Tan, JL Butenhoff. 2007.
+       Poster Presentation at the annual Society of Toxicology meeting. Comparative
+       Pharmacokinetics of Perfluorobutyrate (PFBA) in Rats, Mice, and Monkeys. The Toxicologist,
+       Supplement to Toxicological Sciences. Vol 96(1) March 2007. Abstract 937.
+
+
+                                           PFBA - Page 5 of 9
+Chang,SC, K Das, DJ Ehresman, ME Ellefson, GS Gorman, JA Hart, PE Noker, YM Tan, PH Lieder, C Lau,
+      GW Olsen, JL Butenhoff. 2008. Comparative Pharmacokinetics of Perfluorobutyrate (PFBA) in
+      Rats, Mice, Monkeys, and Humans and Rlevance to Human Exposure via Drinking Water. Tox Sci
+      104(1)40-53.
+
+Das KP, B Grey, J Butenhoff, S Tanaka, D Ehresman, D Zehr, C Wood and C Lau. 2007. Poster
+       Presentation at the annual Society of Toxicology meeting. Effects of Perfluorobutyrate Exposure
+       in Mice During Pregnancy. Vol 96(1) March 2007.
+
+Das, KP, BE Grey, RD Zehr, CR Wood, JL Butenhoff, SC Chang, DJ Ehresman, YM Tan, C Lau. 2008. Effects
+       of perfluorobutyrate exposure during pregnancy in the mouse. Tox Sci 105(1)173-181.
+
+Ehresman DJ, SC Chang, JA Hart, WK Reagen, JL Butenhoff. 2007. Comparative Pharmacokinetics of
+      Branched and Linear Perfluorobutyrate in Rats. Poster Presentation at International Congress of
+      Toxicology XI Meeting. July 15-19, 2007. Montreal, Canada.
+
+Foreman, JE, SC Chang, DJ Ehresman, JL Butenhoff, CR Anderson, PS Palkar, BH Kang, FJ Gonzalez, JM
+      Peters. 2009. Differential Hepatic Effects of Perfluorobutyrate Mediated by Mouse and Human
+      PPARα. Tox Sci 110(1)204-211.
+
+Hickey NJ, D Crump, SP Jones, SW Kennedy. 2009. Effects of eighteen perfluoroalkyl compounds (PFCs)
+       on mRNA expression in chick embryo hepatocyte cultures. Tox Sci. Advance Access. July 17,
+       2009
+
+Ikeda T, K Aiba, K Fukuda, and M Tanaka. 1985. The Induction of Peroxisome Proliferation in Rat Liver
+       by Perfluorinated Fatty Acids, Metabolically Inert Derivative of Fatty Acids. J Biochem 98:475-
+       482.
+
+Interstate Technology and Regulatory Council (ITRC). 2017. Naming Conventions and Physical and
+        Chemical Properties of Per- and Polyfluoroalkyl Substances (PFAS). https://pfas-
+        1.itrcweb.org/fact-sheets/. Accessed February 6, 2018.
+
+Just WW, K Gorgas, FU Hartl, P Heinemann, M Salzer and H Schimassek. 1989. Biochemical Effects and
+      Zonal Heterogeneity of Peroxisome Proliferation Induced by Perfluorocarboxylic Acids in Rat
+      Liver. Hepatology 9(4):570-581.
+
+Kadar, H., B Veyrand, A Barbarossa, G Pagliuca, A Legrand, C Bosher, CY Boquien, S Durand, F
+       Monteau, FP Antignac, R Le Bizec,. 2011. Development of an analytical strategy based on liquid
+       chromatography-high resolution mass spectrometry for measuring perfluorinated compounds
+       in human
+       breast milk: Application to the generation of preliminary data regarding perinatal exposure in
+       France. Chemosphere, 85, 473-480.
+
+
+
+
+                                            PFBA - Page 6 of 9
+Kozuka H, J Yamada, S Horie, T Watanabe, T Suga, and T Ikeda. 1991. Characteristics of Induction of
+      Peroxisomal Fatty Acid Oxidation-Related Enzymes in Rat Liver by Drugs. Biochemical
+      Pharmacology 41(4):617-623.
+
+Kudo, N. 2015. Chapter 6. Metabolism and Pharmacokinetics. In J. C. DeWitt (Ed.), Toxicological
+       Effects of Perfluoroalkyl and Polyfluoroalkyl Substances. Switzerland: Humana Press, Springer
+       International Publishing.
+
+Laws, S, R Cooper, T Stoker 2008. Meeting summary of December 5, 2007 teleconference.
+
+Liao C, T Wang, L Cui, Q Zhou, S Duan, G Jiang. 2009. Changes in Synaptic Transmission, Calcium
+        Current, and Neurite Growth by Perfluorinated Compounds Are Dependent on the Chain Length
+        and Functional Group. Environ. Sci Technol 43:2099-2104.
+
+Lieder, PH, S Chang, DJ Ehresman, JA Bjork, RR Roy, F Otterdijk, KB Wallace & JL Butenhoff, 2007.
+        Poster Presentation at the annual Society of Toxicology meeting. A 28-day Oral (Gavage)
+        Toxicity Study of Ammonium Perfluorobutyrate (PFBA). The Toxicologist, Supplement to
+        Toxicological Sciences. Vol 96(1) March 2007. Abstract 931.
+
+Mariash, C. 2008. Response to review questions posed by MDH regarding thyroid effects of PFBA.
+
+Martin, MT, RJ Brennan, W Hu, E Ayanoglu, C Lau, H Ren, CR Wood, JC Corton, RJ Kavlock, DJ Dix.
+       Toxicogenomic Study of Triazole Fungicides and Perfluoroalkyl Acids in Rat Livers Predicts
+       Toxicity and Categorizes Chemicals Based on Mechanism of Toxicity. Toxicological Sciences
+       97(2)595-613, 2007.
+
+Minnesota Department of Health (MDH). 2008. "Statement of Need and Reasonableness (SONAR), July
+      11, 2008. Support document relating to Health Risk Limits for Groundwater Rules." from
+      https://www.leg.mn.gov/archive/sonar/SONAR-03733.pdf#page=2.
+
+Minnesota Department of Health (MDH). 2015. Minnesota Department of Health. Environmental
+      Health & Biomonitoring Advisory Panel June 9, 2015 Meeting Background Materials.
+
+Minnesota Department of Health (MDH). 2017. "MDH Health Risk Assessment Methods to Incorporate
+      Human Equivalent Dose Calculations into Derivation of Oral Reference Doses. (May 2011,
+      revised 2017)" from
+       https://www.health.state.mn.us/communities/environment/risk/docs/guidance/hedrefguide.pdf
+
+NOTOX 2006a. Project 471432 Final Report. Evaluation of the Mutagenic Activity of MTDID 8391 in the
+     Salmonella Typhimurium Reverse Mutation Assay and the Escherichia Coli Reverse Mutation
+     Assay (with Independent Repeat). September 16, 2006.
+
+NOTOX 2006b. Project 471443 Final Report. Evaluation of the Ability of MTDID 8391 to Induce
+     Chromosomal Aberrations in Cultured Peripheral Human Lymphocytes (with Repeat
+     Experiment). October 24, 2006.
+
+
+
+                                            PFBA - Page 7 of 9
+NOTOX 2007a. Project 470677 Final Report. Repeated dose 28-day oral toxicity study with MTDID-8391
+     by daily gavage in the rat, followed by a 21-day recovery period. June 21, 2007.
+
+NOTOX 2007b. Project 484492 Final Draft Report. Repeated dose 90-day oral toxicity study with MTDID
+     8391 by daily gavage in the rat followed by a 3-week recovery period. October, 2007.
+
+NOTOX 2008a. Morphometric analyses on thyroids form male rats treated with MTDID-8391 under
+     NOTOX Project 470677 (Repeated dose 28-day oral toxicity study with MTDID-8391 by daily
+     gavage in the rat, followed by a 21-day recovery period). November 20, 2008.
+
+NOTOX 2008b. Morphometric analyses on thyroids form male rats treated with MTDID-8391 under
+     NOTOX Project 484492 (Repeated dose 90-day oral toxicity study with MTDID-8391 by daily
+     gavage in the rat, followed by a 3-week recovery period). November 20, 2008.
+Olsen GW, BD Buehrer, RL Cox, MC Nunnally, and KH Ramm. 2007a. Protocol EPI-0029. Descriptive
+       Analysis of Perfluorobutyrate (PFBA) and Perfluorobutanesulfonate (PFBS) in Sera Collected in
+       2006 from Descriptive Analysis of Perfluorobutyrate (PFBA) and Perfluorobuanesulfonate
+       (PFBS) in Sera Collected in 2006 from 3M Cordova Electronic Materials Factory Employees. Final
+       Report. Medical Department, 3M Company. July 30, 2007.
+
+Olsen GW, ME Ellefson, DC Madsen, BA Gibson and CA Ley. 2007b. Protocol EPI-0030 (amended).
+       Estimation of the Half-life of Serum Elimination of Perfluorobutyrate (PFBA) in Four 3M Male
+       Employees. Final Report. Medical Department, 3M Company. October 22, 2007.
+
+Olsen GW, ME Ellefson, DC Madsen, BA Gibson and CA Ley. 2007c. Protocol EPI-0031. A Biomonitoring
+       Assessment of Perfluorobutyrate (PFBA) and Perfluorobutanesulfonate (PFBS) for Employees of
+       the Chemical Process Development Center (CPDC) at the 3M Cottage Grove Facility. Final
+       Report. Medical Department, 3M Company. December 18, 2007.
+
+Olsen GW, ME Ellefson, WK Reagen, B Gibson and CA Ley. 2007d. Protocol EPI-0026. Descriptive
+       Analysis of Perfluorobutyrate (PFBA) in Sera Collected in 2005 from Former and Current 3M
+       Cottage Grove Employees Who Reside in Selected Communities of Washington and Dakota
+       Counties. Final Report. Medical Department, 3M Company. July 20, 2007.
+
+Olsen, G., ME Ellefson, DC Mair, TR Church, CL Goldberg, RM Herron, Z Medhdizadehkashi, JB
+       Nobiletti, JA Rios, WK Reagen, LR Zobel. (2011). Analysis of a Homologous Series of
+       Perfluorocarboxylates from American Red Cross Adult Blood Donors, 2000-2011 and 2006.
+       Environmental Science & Technology, 45(19), 8022-8029.
+
+Permadi H, B Lundgren, K Andersson and JW DePierre. 1992. Effects of Perfluoro Fatty Acids on
+      Xenobiotic-metabolizing Enzymes, Enzymes Which Detoxify Reactive Forms of Oxygen and Lipid
+      Peroxidation in Mouse Liver. Biochemical Pharmacology 44(6):1183-1191.
+
+Rodricks, JV. 2007. Letter to Mr. John Stine with attached copy of ENVIRON’s drinking water health
+       advisory (DWHA).
+
+
+
+                                           PFBA - Page 8 of 9
+Takagi A, K Sai, T Umemura, R Hasegawa and y Kurokawa. 1991. Short-term exposure to the
+       peroxisome proliferators, perfluorooctanoic acid and perfluorodecanoic acid, causes significant
+       increase of 8-hydroxydeoxyguanosine in liver DNA of rats. Cancer Letters 57:55-60.
+
+U.S. Environmental Protection Agency (USEPA). (2011). "Exposure Factors Handbook. Office of
+       Research and Development." from
+       https://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=236252
+
+U.S. Environmental Protection Agency (USEPA) - Office of the Science Advisor. (2011a). "Recommended
+       Use of Body Weight 3/4 as the Default Method in Derivation of the Oral Reference Dose." from
+       https://www.epa.gov/risk/recommended-use-body-weight-34-default-method-derivation-oral-
+       reference-dose
+
+Weiss, JM, PL Andersson, MH lamoree, Peg Leonards, SPJ van Leeuwen, T Hamers. 2009. Competitive
+       binding of poly- and perfluorinated compounds to the thyroid hormone transport protein
+       transthyretin. Tox Cci 109(2)206-216.
+
+Wolf CJ, ML Takacs, JE Schmid, C Lau, BD Abbott. 2008. Comparison of the activities of carboxylates
+       and sulfonates of perfluoroalkyl acid (PFAA) of various carbon chain lengths on mouse and
+       human peroxisome proliferator-activated receptor-alpha (PPARα) in COS-1 cells. Abstract #541.
+       The Toxicologist CD — An official Journal of the Society of Toxicology, Volume 102, Number S-1,
+       March 2008
+
+Zoeller, RT. 2008. Response to review questions posed by MDH regarding thyroid effects of PFBA.
+
+
+
+
+                                           PFBA - Page 9 of 9
+

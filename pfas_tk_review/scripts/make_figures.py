@@ -351,3 +351,76 @@ if (DB / "reabsorption_axis.csv").exists():
     fig.savefig(FIG / "fig5_reabsorption_axis.png", dpi=200)
     plt.close(fig)
     print(f"wrote {FIG/'fig5_reabsorption_axis.png'}")
+
+
+# ---- Figure 6: human Vd by how it was obtained -----------------------------
+# Needs gasiorowski_vd.csv from scripts/gasiorowski_vd.py.
+if (DB / "gasiorowski_vd.csv").exists():
+    g = {r["chemical"]: r for r in load("gasiorowski_vd.csv")
+         if r["arm"] == "plasma"}
+    gb = {r["chemical"]: r for r in load("gasiorowski_vd.csv")
+          if r["arm"] == "blood"}
+
+    # (label, kind, {chemical: value or (lo, hi)})
+    MEASURED, DERIVED, FITTED, ASSUMED = "measured", "derived here", "fitted", "assumed"
+    SERIES = [
+        ("Andersson 2025\nmass balance", MEASURED, {"PFOA": 74, "PFOS": 93}),
+        ("Abraham 2024\nlabelled dose", MEASURED,
+         {"PFOA": 121, "PFOS": 152, "PFHxS": 125, "PFNA": 124}),
+        ("Gasiorowski 2022\ndonation trial", DERIVED, {
+            c: (float(gb[c]["vd_mL_per_kg_low"]), float(g[c]["vd_mL_per_kg_high"]))
+            for c in ("PFOS", "PFHxS") if c in g and c in gb}),
+        ("Thompson 2010\ncalibrated", ASSUMED, {"PFOA": 170, "PFOS": 230}),
+        ("Chiu 2022\npopulation fit", FITTED,
+         {"PFOA": 430, "PFOS": 320, "PFHxS": 290, "PFNA": 190}),
+    ]
+    KIND_COLOR = {MEASURED: BLUE, DERIVED: BLUE, FITTED: ORANGE, ASSUMED: MUTED}
+    CHEMS = ["PFOA", "PFOS", "PFHxS", "PFNA"]
+
+    fig, ax = plt.subplots(figsize=(9.6, 5.4))
+    ys = list(range(len(SERIES)))[::-1]
+    marks = {"PFOA": "o", "PFOS": "s", "PFHxS": "^", "PFNA": "D"}
+    # Several chemicals share almost the same Vd within a row, so each gets its
+    # own lane inside the row rather than printing on top of its neighbour.
+    LANE = {c: (i - (len(CHEMS) - 1) / 2) * 0.17 for i, c in enumerate(CHEMS)}
+    for y, (label, kind, vals) in zip(ys, SERIES):
+        col = KIND_COLOR[kind]
+        for chem in CHEMS:
+            if chem not in vals:
+                continue
+            yy = y + LANE[chem]
+            v = vals[chem]
+            if isinstance(v, tuple):
+                ax.plot(v, [yy, yy], color=col, linewidth=4, alpha=0.35,
+                        solid_capstyle="round", zorder=3)
+                ax.scatter(v, [yy, yy], s=55, color=col, marker=marks[chem],
+                           edgecolor=SURFACE, linewidth=1.5, zorder=4)
+            else:
+                ax.scatter([v], [yy], s=85, color=col, marker=marks[chem],
+                           edgecolor=SURFACE, linewidth=1.8, zorder=4)
+    ax.axvspan(74, 199, color="#eef2f8", zorder=1)
+    ax.annotate("range of every direct\nhuman measurement", (136, 0.012),
+                xycoords=("data", "axes fraction"), fontsize=8.5, color=INK2,
+                ha="center", va="bottom")
+    ax.set_yticks(ys)
+    ax.set_yticklabels([s[0] for s in SERIES])
+    for y, (_, kind, _) in zip(ys, SERIES):
+        ax.annotate(kind, (0.995, y), xycoords=("axes fraction", "data"),
+                    ha="right", va="center", fontsize=8,
+                    color=KIND_COLOR[kind], zorder=5)
+    ax.set_xlim(40, 520)
+    ax.set_ylim(-0.6, len(SERIES) - 0.4)
+    ax.set_xlabel("human volume of distribution (mL/kg)")
+    titled(ax, "Measured and fitted human Vd disagree about twofold",
+           "Three independent direct measurements cluster at 74–199 mL/kg.\n"
+           "The population-model fit sits two to four times above all of them.")
+    recessive(ax)
+    ax.legend(handles=[Line2D([], [], marker=marks[c], linestyle="",
+                              markersize=8, color=INK2, label=c)
+                       for c in CHEMS],
+              loc="upper center", bbox_to_anchor=(0.5, -0.135), ncol=4,
+              fontsize=9)
+    fig.tight_layout()
+    fig.savefig(FIG / "fig6_human_vd_by_method.png", dpi=200)
+    plt.close(fig)
+    print(f"wrote {FIG/'fig6_human_vd_by_method.png'}")

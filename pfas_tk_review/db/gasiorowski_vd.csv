@@ -1,0 +1,7 @@
+chemical,arm,n_donations_mean,volume_per_donation_L,whole_blood,plasma_volume_removed_L,baseline_ng_mL,change_within_arm_ng_mL,change_vs_observation_ng_mL,time_averaged_conc_ng_mL,vd_mL_per_kg_low,vd_mL_per_kg_mid,vd_mL_per_kg_high,source
+PFOS,plasma,6.4,0.8,no,5.120,11.7,-2.9,-3.1,10.18,182,190,199,"Gasiorowski 2022 JAMA Netw Open doi:10.1001/jamanetworkopen.2022.6257; derived here, not published"
+PFOS,blood,4.3,0.47,yes,1.112,10.9,-1.1,-1.1,10.34,113,118,124,"Gasiorowski 2022 JAMA Netw Open doi:10.1001/jamanetworkopen.2022.6257; derived here, not published"
+PFHxS,plasma,6.4,0.8,no,5.120,5.2,-1.1,-1.5,4.63,171,179,187,"Gasiorowski 2022 JAMA Netw Open doi:10.1001/jamanetworkopen.2022.6257; derived here, not published"
+PFHxS,blood,4.3,0.47,yes,1.112,3.6,-0.1,-0.6,3.55,71,74,78,"Gasiorowski 2022 JAMA Netw Open doi:10.1001/jamanetworkopen.2022.6257; derived here, not published"
+PFOA,plasma,6.4,0.8,no,5.120,1.2,-0.5,-0.8,0.93,64,67,70,"Gasiorowski 2022 JAMA Netw Open doi:10.1001/jamanetworkopen.2022.6257; derived here, not published"
+PFOA,blood,4.3,0.47,yes,1.112,1.2,-0.1,-0.3,1.15,46,48,50,"Gasiorowski 2022 JAMA Netw Open doi:10.1001/jamanetworkopen.2022.6257; derived here, not published"

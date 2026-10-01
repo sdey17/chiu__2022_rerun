@@ -425,6 +425,48 @@ themselves — people with faster excretion have lower baseline concentrations
 *because* they excreted more between exposure ending and first sampling, and
 baseline was 41–75 months after cessation.
 
+### 4.6 The between-person association does not survive adjustment
+
+This project's longest-standing open question was whether Li 2022's
+between-person result — higher initial level going with *longer* half-life,
+the opposite sign to saturation — holds once age is controlled. Age is the
+obvious confounder, because it drives both half-life and accumulated burden.
+
+Individual data are not published, so no re-fit is possible. But the answer is
+already in the supplement, in a table nobody quotes. **Table S14 reports partial
+R² for each determinant of individual half-life — mutually adjusted by
+construction**, since partial R² is the variance a term explains given the
+others in the model.
+
+```bash
+python3 scripts/li2022_age_adjustment.py   # -> db/li2022_age_adjustment.csv
+```
+
+| determinant | PFOA | PFOS | PFHxS | range across 8 compounds |
+|---|---|---|---|---|
+| **Age** | 9.40% | 28.39% | 16.31% | **3.62 – 28.39%** |
+| eGFR | 7.05% | 4.05% | 2.95% | 1.25 – 8.16% |
+| Calprotectin | 6.78% | 5.43% | 7.71% | 0.24 – 7.71% |
+| Gender | 0.87% | 3.02% | 5.39% | 0.87 – 6.16% |
+| **initial PFAS tertile** | **0.70%** | **3.18%** | **2.32%** | **0.70 – 5.32%** |
+
+**Initial PFAS level is the weakest determinant for 8 of 8 compounds**, beaten
+by age by a median factor of 8.9× (range 2.0–37.4×). Adjusted, it explains under
+1% of the variance in individual PFOA half-life.
+
+A second, independent check points the same way. Comparing the two unadjusted
+contrasts on the same cohort (n = 114), the tertile effect is only **6–37% the
+magnitude of the age effect** for every compound — so a modest age imbalance
+across tertiles accounts for all of it, and accumulated burden rising with age
+makes that imbalance expected rather than hypothetical.
+
+**Verdict: the between-person contradiction dissolves.** The within-person and
+within-study evidence for mild concentration dependence stands alone and
+unopposed, and the apparent between-person reversal was an age confound, exactly
+as predicted. Note the sample for the adjusted table is n = 54, those with
+complete data on all six determinants, against n = 114 for the unadjusted
+tertile table.
+
 > **Check your understanding.** Section 4.4 says higher dose → faster clearance
 > (positive slope). Section 4.5 says the literature often shows higher exposure →
 > *shorter* half-life, and calls that an artefact. Are those in conflict?
@@ -471,7 +513,54 @@ background subtraction, because the label separates dose from background — it
 is methodologically the strongest design in the human literature. It is also
 n = 1, at tracer dose, with a half-life above every cohort estimate.
 
-**That disagreement is unresolved and this review does not resolve it.**
+### 5.1a The donation trial adjudicates it — and sides with the measurement
+
+Gasiorowski 2022 randomised 285 firefighters to donate plasma (up to 800 mL
+every 6 weeks, mean 6.4 donations), donate whole blood (~470 mL every 12 weeks,
+mean 4.3), or be observed. It removed a **known volume** of plasma from people
+at **known serum concentrations** and measured the resulting fall. That is a
+mass-balance experiment that fixes Vd without assuming a half-life:
+
+```
+Vd(L) = V_plasma removed × C_mean / ΔC_serum
+```
+
+The trial's own observation arm supplies the correction that makes it work —
+subtracting it nets out continuing background intake and natural elimination.
+**The authors never did this calculation.**
+
+```bash
+python3 scripts/gasiorowski_vd.py   # -> db/gasiorowski_vd.csv
+```
+
+| chemical | blood arm | plasma arm | Abraham 2024 | Chiu 2022 |
+|---|---|---|---|---|
+| PFOS | 113–124 | 182–199 | **152** | 320 |
+| PFHxS | 71–78 | 171–187 | **125** | 290 |
+
+Two arms of one trial, analysed independently, bracket Abraham's directly
+measured values. **Chiu's fitted Vd sits above the entire range for both
+compounds.**
+
+Known directions of error: using the 800 mL ceiling as the plasma mean
+*overstates* volume removed and so *overstates* the plasma-arm figure, which is
+the higher of the two; counting only the plasma fraction of whole blood
+*understates* the blood-arm figure. Body weight is reconstructed from the
+reported BMI of 27.9 (weight is not reported) over a 84–92 kg range. The PFOA
+row is not reliable — baseline was 1.2 ng/mL against a 1 ng/mL reporting limit,
+and the authors' own sensitivity analysis more than halves the effect.
+
+**So three independent human approaches — a labelled-dose study, a faecal/urinary
+mass balance, and a randomised removal trial — all land at 74–199 mL/kg, while
+the population-model fit gives 290–430.** The disagreement is real and it is now
+three-to-one against the fitted value.
+
+What it does *not* settle is clearance. For PFOS, Abraham's half-life (3.32 y)
+and Chiu's (3.36 y) agree almost exactly while their Vd differ 2.1×, so the
+clearance disagreement is entirely a Vd disagreement. For PFOA they differ on
+both. **A population model that reproduces observed serum trajectories with a Vd
+two to four times the measured one is fitting something, and what it is fitting
+is the open question.**
 
 ### 5.2 The assumptions that move the number, with directions
 
@@ -710,12 +799,14 @@ Ranked by how much a single experiment would settle.
 3. **Abraham 2024 at a second dose level in the same volunteer** would settle
    human PFOA concentration-dependence outright, and would resolve whether the
    6.7× clearance disagreement is a dose effect or an individual.
-4. **No controlled-removal study reports a Vd**, despite having every input.
-   Gasiorowski 2022 knows donated volume, concentrations and serum drop; a
-   reanalysis would give an independent human Vd — the quantity that currently
-   decides whether the short-half-life position is tenable.
-5. **Li 2022's tertile analysis has never been re-run with age adjustment**,
-   so the between-person negative association remains uninterpretable.
+4. ~~No controlled-removal study reports a Vd~~ — **done, §5.1a.** The
+   Gasiorowski 2022 reanalysis gives PFOS 113–199 and PFHxS 71–187 mL/kg,
+   bracketing Abraham's measured values and excluding Chiu's fitted ones. What
+   remains open is *why* a population model needs a Vd two to four times the
+   measured one to reproduce observed serum trajectories.
+5. ~~Li 2022's tertile analysis re-run with age adjustment~~ — **done, §4.6.**
+   The adjusted answer was already published as partial R² in Table S14:
+   initial level is the weakest of six determinants for all eight compounds.
 6. **Rat-vs-mouse tissue partition coefficients for PFOA/PFOS** are missing, as
    is any rat-vs-mouse biliary comparison under a common protocol. MRP4 appears
    never to have been tested for PFAS.
