@@ -1,0 +1,1563 @@
+[Skip to main content](https://www.sciencedirect.com/science/article/pii/S0160412024006330#main) [Skip to article](https://www.sciencedirect.com/science/article/pii/S0160412024006330#article)
+
+### Reading Assistant
+
+powered by [LeapSpace\\
+\\
+Opens in a new window](https://www.sciencedirect.com/leapspace/?dgcid=rai_sd_ra_ls_header)
+
+#### Questions you could ask:
+
+- Suggested question:What range of terminal half-lives was observed for the Polyfluoroalkyl Substances (PFAS) compounds?
+- Suggested question:What are the twelve Polyfluoroalkyl Substances (PFAS) used in the controlled oral exposure study?
+- Suggested question:What does the high rate of gastrointestinal absorption indicate about the Polyfluoroalkyl Substances (PFAS) compounds?
+
+#### Actions you could take:
+
+- Summarize this article
+- Summarize experiments
+
+Ask about this article
+
+[![Environment International](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024X00100-cov200h.gif)](https://www.sciencedirect.com/journal/environment-international/vol/193/suppl/C)
+
+## [Environment International](https://www.sciencedirect.com/journal/environment-international "Go to Environment International on ScienceDirect")
+
+Date:November 2024
+
+Article:109047
+
+Volume:[Volume 193](https://www.sciencedirect.com/journal/environment-international/vol/193/suppl/C "Go to table of contents for this volume/issue")
+
+View accessibility information
+
+## Published by:Elsevier
+
+### Published by
+
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/08bcf77e921828c5a59334cdb2949dd973632719/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/environment-international "Go to Environment International on ScienceDirect")
+
+Show more
+
+Research article
+
+Open access
+
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0160412024006330&orderBeanReset=true)
+
+# Full length article  Kinetics of 15 per- and polyfluoroalkyl substances (PFAS) after single oral application as a mixture – A pilot investigation in a male volunteer
+
+Author links open overlay panel [KlausAbrahama](https://www.sciencedirect.com/author/7203049359/klaus-abraham), HelenaMertensa, LennartRichtera, HansMielkeb, [TanjaSchwerdtlea](https://www.sciencedirect.com/author/6506638776/tanja-schwerdtle), [Bernhard H.Moniena](https://www.sciencedirect.com/author/22035774700/bernhard-hans-monien)
+
+Show more
+
+[View **PDF**](https://www.sciencedirect.com/science/article/pii/S0160412024006330/pdfft?md5=6bb353f03245598d2c63cd067e1d4c4c&pid=1-s2.0-S0160412024006330-main.pdf) Download full issue
+
+Cite
+
+Add to Mendeley
+
+Share
+
+[10.1016/j.envint.2024.109047](https://doi.org/10.1016/j.envint.2024.109047)
+
+More actions
+
+## Outline
+
+01. [Highlights](https://www.sciencedirect.com/science/article/pii/S0160412024006330#ab005 "Highlights")
+02. [Abstract](https://www.sciencedirect.com/science/article/pii/S0160412024006330#ab010 "Abstract")
+03. [Keywords](https://www.sciencedirect.com/science/article/pii/S0160412024006330#kg005 "Keywords")
+04. [1\. Introduction](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0005 "1. Introduction")
+05. [2\. Materials and methods](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0010 "2. Materials and methods")
+06. [3\. Results](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0045 "3. Results")
+07. [4\. Discussion](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0075 "4. Discussion")
+08. [Funding](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0115 "Funding")
+09. [CRediT authorship contribution statement](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0120 "CRediT authorship contribution statement")
+10. [Declaration of competing interest](https://www.sciencedirect.com/science/article/pii/S0160412024006330#coi005 "Declaration of competing interest")
+11. [Acknowledgements](https://www.sciencedirect.com/science/article/pii/S0160412024006330#ak005 "Acknowledgements")
+12. [Appendix A. Supplementary material](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130 "Appendix A. Supplementary material")
+13. [Data availability](https://www.sciencedirect.com/science/article/pii/S0160412024006330#da005 "Data availability")
+14. [References](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bi005 "References")
+
+Show full outline
+
+## Figures (7)
+
+1. [![Fig. 1. Time-course of the concentrations of the 15 PFAS applied within the first six hours. Please note the about five-fold higher doses of PFBS and HFPO-DA, as well as the pre-application level of MPFOA of ...](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr1.sml)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0005)
+2. [![Fig. 2. Daily excretion of the PFAS applied in feces during the first six days after application. “E” stands for the daily fecal elimination from the body during this period, which was estimated from the elim...](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr2.sml)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0010)
+3. [![Fig. 3. A to D. Time-course of the plasma concentrations on a semi-logarithmic scale, together with the resulting terminal regression line. Please note the different concentration scales (A/B and C/D) as well...](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr3.sml)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0015)
+4. [![Fig. 4. Bar chart of calculated half-lives of the 15 PFAS applied. For abbreviations see Table 1.](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr4.sml)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0020)
+5. [![Fig. 5. Daily urinary excretion measured in the first six days after application of the 15 PFAS, evaluated as percentage of the absorbed dose. The compounds were sorted according to the half-lives calculated,...](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr5.sml)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0025)
+6. [![Fig. 6. A: Scatterplot with regression lines of the urinary clearance (CLUri) of the eight short-chain compounds (bright symbols) against the total clearance (CLtot). B: Scatterplot with regression lines of t...](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr6.sml)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0030)
+
+Show 1 more figure
+
+## Tables (4)
+
+1. [Table 1. PFAS and doses for the controlled exposure. See Table 2 for the doses absorbed.](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0005 "Table 1. PFAS and doses for the controlled exposure. See Table 2 for the doses absorbed.")
+2. [Table 2. Data on kinetics of oral absorption during the first days after application. For abbreviations of PFAS see Table 1.](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0010 "Table 2. Data on kinetics of oral absorption during the first days after application. For abbreviations of PFAS see Table 1.")
+3. [Table 3. Results of the kinetic calculations using a two-compartment model (for details see Supplemental Information): Point Estimates (PE) and Range (95% confidence interval). For abbreviations of PFAS see Ta...](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0015 "Table 3. Results of the kinetic calculations using a two-compartment model (for details see Supplemental Information): Point Estimates (PE) and Range (95% confidence interval). For abbreviations of PFAS see Ta...")
+4. [Table 4. Clearance data: Urinary clearance (CLUri), total clearance (CLtot), the fraction unbound in plasma (fup) and the resulting clearance of glomerular filtration (CLFilt, as product of fup and the GFR), a...](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0020 "Table 4. Clearance data: Urinary clearance (CLUri), total clearance (CLtot), the fraction unbound in plasma (fup) and the resulting clearance of glomerular filtration (CLFilt, as product of fup and the GFR), a...")
+
+## Extras (2)
+
+1. Download all
+2. [Supplementary Data 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#m0005 "Supplementary Data 1")
+3. [Supplementary Data 2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#m0010 "Supplementary Data 2")
+
+## Highlights
+
+- •
+A mixture of 15 PFAS was taken orally by a single volunteer to study the kinetics.
+
+- •
+Gastrointestinal absorption was fast and more or less complete.
+
+- •
+The volumes of distribution predominantly were within a narrow range ≤ 177 mL/kg bw.
+
+- •
+Half-lives were between 0.5 days (PFPeA) and 5.5 years (PFOA)
+
+- •
+Short-chain PFAS were excreted via urine, long-chain PFAS in part via feces.
+
+
+## Abstract
+
+Per- and polyfluoroalkyl substances (PFAS) are ubiquitous environmental contaminants with half-lives in humans in the range of years in case of the long-chain compounds, leading to accumulation and measurable levels in plasma. In contrast, short-chain and “alternative” PFAS have lower levels or are not detectable in humans with background exposure. This may be due to lower exposure, but also due to much shorter half-lives compared to long-chain compounds. To get better data on kinetics, a healthy volunteer orally ingested a mixture of fifteen predominantly 13C-labeled PFAS (“MPFAS”) in a pilot investigation (MPFBA, MPFPeA, MPFHxA, MPFHpA, MPFOA, MPFNA, MPFDA, MPFUdA, MPFDoA, PFBS, MPFHxS, MPFOS, DONA, HFPO-DA, 6:2FTS). After application, concentrations were measured over 450 days in plasma, urine and feces, using UHPLC-MS/MS analysis after extraction. The compounds were absorbed quickly and almost completely. Data analysis revealed volumes of distribution between 110 and 177 mL/kg bw for most compounds, but higher values for MPFDA, MPFUdA and MPFDoA (maximum of 354 mL/kg bw). Half-lives were found to vary extremely, from 0.5 days (MPFPeA) and 1.5 days (MPFHxA) to 51 days (PFBS) and 152 days (MPFHpA) in case of the short-chain and “alternative” compounds. For the long-chain compounds, half-lives in the range of several years were confirmed for MPFOA, MPFNA, MPFHxS and MPFOS, but with even higher chain-lengths of the carboxylic acids, the half-lives were found to decrease, with the shortest half-life for MPFDoA (295 days). Elimination from the body was completely explained by the urinary losses in case of the short-chain and “alternative” PFAS, and in part by the fecal losses in case of the long-chain PFCA. Overall, elimination kinetics seem to be determined by several different renal and gastrointestinal factors (fraction unbound in plasma, binding affinity to organic anion transporters causing netto secretion or reabsorption, fecal loss with mechanisms to be clarified).
+
+## Keywords
+
+PFAS
+
+;
+
+Humans
+
+;
+
+Kinetics
+
+;
+
+Urine
+
+;
+
+Feces
+
+;
+
+Exposure
+
+- [Previous article in this issue](https://www.sciencedirect.com/science/article/pii/S0160412024006858)
+- [Next article in this issue](https://www.sciencedirect.com/science/article/pii/S0160412024006901)
+
+## 1\. Introduction
+
+Per- and polyfluoroalkyl substances (PFAS) are a complex group of man-made chemicals with extremely high chemical and [thermal stability](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/thermostability). According to a recent definition, PFAS are fluorinated substances that contain at least one fully fluorinated methyl or [methylene](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/carbene) carbon atom ( [OECD 2021](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0165)). The group includes thousands of compounds, but in terms of use in the recent decades, the perfluoroalkyl acids (PFAA) are particularly important. They are composed of a fluorinated carbon backbone of varying length, primarily terminated by a [carboxylate](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/carboxylate) (perfluorocarboxylic acids, PFCA) or a [sulfonate](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/sulfonate) (perfluorosulfonic acids, PFSA) as functional group. Due to their unique physicochemical properties with water-, oil- and dirt-repellency, they have been used for the production of numerous industrial and consumer products since the 1940s ( [Glüge et al. 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0105)). Due to their high mobility, PFAS have been released from production sites and these everyday objects, causing ubiquitous contamination of the environment including the food chain ( [Sunderland et al., 2019](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0200), [Evich et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0065)). In humans, the external exposure – mainly through the consumption of food and drinking water – consists of a complex mixture of PFAS with different chain-lengths.
+
+The resulting internal exposure especially to long-chain PFAA measurable in serum/plasma revealed four compounds to be quantifiable in all individuals from the general population. These are the PFCA [perfluorooctanoic acid](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/perfluorooctanoic-acid) (PFOA) and [perfluorononanoic acid](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/perfluorononanoic-acid) (PFNA), and the PFSA [perfluorohexane sulfonic acid](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/perfluorohexanesulfonic-acid) (PFHxS) and [perfluorooctane sulfonic acid](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/perfluorooctanesulfonic-acid) (PFOS), typically representing more than 90 % of detectable PFAS levels in industrialized countries. In the adult European population, median concentrations in serum/plasma were found to be 1.9, 0.61, 0.67 and 7.7 µg/L, respectively, based on biomonitoring studies from 2007/ 2008 and onwards ( [EFSA 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060)). These serum/plasma levels result from the high persistence with distinct accumulation of the daily background exposure (in the low ng/kg-body-weight range). This is due to missing metabolic degradation and low urinary/fecal excretion leading to long elimination half-lives of the four compounds in humans in the range of years ( [EFSA 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060)).
+
+These half-lives are much longer than those observed in rodents, and even in primates, the half-lives are shorter ( [EFSA 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060)). Therefore, kinetic data of single PFAS from animal experiments are often not relevant for human risk assessment. With respect to kinetics in humans, data are scarce or missing. For the PFAS primarily contributing to the internal exposure, some data were reported for people with decline of internal exposure after ceasing a high external exposure. According to the compilation of [EFSA (2020)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060), estimates of half-lives expressed as arithmetic means were reported in the range of 2.3 to 8.5 years (PFOA), of 3.1 to 7.4 years (PFOS), and of 4.7 to 8.5 years (PFHxS). Shorter mean half-lives were reported for short-chain PFAA (PFCA: <8 carbon atoms, PFSA: <6 carbon atoms, based on their [bioaccumulation](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/bioaccumulation) potential): 3.0 days for PFBA ( [Chang et al. 2008](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0040)), 32 days for PFHxA ( [Russell et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0185)), 62 days ( [Xu et al. 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0220)) and 70 days ( [Russell et al. 2015](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0190)) for PFHpA, as well as 28 days ( [Olsen et al. 2009](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0170)) and 44 days ( [Xu et al. 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0220)) for PFBS. As summarized by [EFSA (2020)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060), the much shorter PFCA half-lives in rodents also exhibit strong dependency on chain-lengths varying from few hours (PFBA, PFHxA) to more than one month (PFNA, PFDA).
+
+The long elimination half-lives primarily originate from interactions of PFAS with various transporters involved in reabsorption processes at the hepatic, intestinal and/or renal level ( [EFSA 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060)). [Renal excretion](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/renal-excretion) (involving glomerular filtration and tubular secretion/reabsorption) is often thought to be the most critical process and chain-length dependent ( [Han et al. 2012](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0120)). Mean renal clearance calculated from PFAS measurements in paired 24-h urine and serum samples of 10 subjects was reported to decrease as a function of chain-length, from 0.67 mL/kg per day for PFHpA to 0.005 mL/kg per day for PFUdA ( [Fujii et al. 2015](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0090)). With respect to short-chain PFAS, only PFBA, PFPeA, PFHxA and PFHpA (but no long-chain PFAS) were in part quantifiable in urine of 120 children from South Korea ( [Kim et al. 2014](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0130)). In rodents, the primary route of PFCA elimination is via urine (carbon chain-length below 10) or via feces (carbon chain-length 10 or higher) ( [EFSA 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060)). Regarding mechanisms, [organic anion transporters](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/organic-anion-transporter) (OAT) of tubular cells have been identified to play a key role in active tubular reabsorption of PFAS from primary urine in mammals, a process that is sex-, species-, and chain length-dependent ( [Han et al., 2012](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0120), [Louisse et al., 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0140)). Furthermore, a higher binding to [plasma proteins](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/plasma-protein) (especially to albumin) was observed with increasing chain-length ( [Han et al., 2012](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0120), [Allendorf et al., 2019](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0015), [Zhao et al., 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0230)), resulting in lower rates of glomerular filtration.
+
+With respect to possible fecal excretion, [Fujii et al. (2015)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0090) also analyzed paired bile and serum samples. Estimated daily rates of biliary clearance were found to be much higher than those of urinary clearance ( _e.g._ PFOA: mean 2.62 vs. 0.044 mL/kg per day), however, enterohepatic reabsorption is thought to be nearly complete ( [Cao et al. 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0035)), and data on fecal excretion of “legacy” PFAS in humans are very scarce. Other known routes of excretion in females only are [blood loss](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/bleeding) during menstruation, pregnancy and breastfeeding, which leads to a lower average internal exposure in women compared to men; differences in exposure and in physiology of urinary elimination as well as use of [oral contraceptives](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/oral-contraceptive) may also contribute to these gender differences ( [EFSA, 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060), [Li et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0135)).
+
+Experimental data on PFAS kinetics in humans are not available but needed for risk assessment. Using 13C-labeled compounds for an application in humans allows to measure concentrations in the available matrices independently of the ongoing external and internal exposure from background sources. This has been demonstrated by an investigation on dermal absorption of 13C4-PFOA from a [sunscreen](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/sunscreen) ( [Abraham and Monien 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0010)). In the pilot investigation reported here, kinetics of 15 isolated, mostly isotope-labeled PFAS were studied after single oral application as a mixture. Included were nine PFCA (carbon chain-length 4 to 12) and three relevant PFSA (PFBS, PFHxS, PFOS). Furthermore, three “alternative” PFAS with modified structures (6:2FTS, HFPO-DA and DONA) were included. These and other PFAS with lower potency of accumulation have increasingly been used to replace “legacy” PFAS in industrial production ( [Brase et al. 2021](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0030)), but kinetic data in humans are scarce or not available. Serial measurements of PFAS in plasma, urine and feces allowed to obtain reliable data on rates and extent of absorption, on plasma distribution/excretion kinetics, on volumes of distribution as well as on urinary and fecal excretion.
+
+## 2\. Materials and methods
+
+### 2.1. Concept and conduct of the pilot investigation on PFAS kinetics
+
+In 2022, the [transdermal](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/transdermal) absorption of 13C4-perfluorooctanoic acid (13C4-PFOA) from a [sunscreen](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/sunscreen) was successfully measured in a volunteer, using a differentially isotope labeled compound (13C2-PFOA) as internal standard for the UHPLC-MS/MS analysis ( [Abraham and Monien, 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0010)). The aim of the current investigation was to examine the kinetics of relevant PFAS in a mixture after single oral application, again using as many differentially isotope-labeled substances (application / internal standard) as available (named with an “M” for mass-labeled). This allows to obtain results independently of the internal background exposure, and to apply relatively low doses. As relevant PFAS, the C4 to C12 PFCA as well as PFBS, [PFHxS](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/perfluorohexanesulfonic-acid) and [PFOS](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/perfluorooctanesulfonic-acid) were chosen together with the “alternative” compounds 6:2FTS, HFPO-DA (“GenX”) and DONA (for complete names including doses, see [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0005); the structures are depicted in [Figure S1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130) of the [Supplemental Information](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)). For the latter three as well as for PFBS, an unlabeled compound had to be used for the administration, as only one labeled compound was available on the market, which was used as internal standard. Assuming an oral bioavailability of 100 % and using the available data on the volumes of distribution as well as the sensitivity of detection ( [Mertens et al. 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0145)), a dose of about 4 µg was considered sufficient for most of the PFAS. Due to the weak ionization efficiency of PFBS and HFPO-DA, their doses applied were higher (about 20 µg).
+
+Table 1. PFAS and doses for the controlled exposure. See [Table 2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0010) for the doses absorbed.
+
+| **PFAS** | **Acronyms** | **dose** |
+| --- | --- | --- |
+| Empty Cell | **(µg)** |
+| --- | --- |
+| **PFCA** |  |  |  |
+| 13C3-perfluorobutanoic acid | 13C3-PFBA | MPFBA | 4.01 |
+| 13C3-perfluoropentanoic acid | 13C3-PFPeA | MPFPeA | 3.95 |
+| 13C2-perfluorohexanoic acid | 13C2-PFHxA | MPFHxA | 3.99 |
+| 13C7-perfluoroheptanoic acid | 13C7-PFHpA | MPFHpA | 3.80 |
+| 13C4-perfluorooctanoic acid | 13C4-PFOA | MPFOA | 3.96 |
+| 13C5-perfluorononanoic acid | 13C5-PFNA | MPFNA | 4.02 |
+| 13C9-perfluorodecanoic acid | 13C9-PFDA | MPFDA | 4.01 |
+| 13C2-perfluoroundecanoic acid | 13C2-PFUdA | MPFUdA | 4.00 |
+| 13C12-perfluorododecanoic acid | 13C12-PFDoA | MPFDoA | 3.79 |
+|  |  |  |  |
+| **PFSA** |  |  |  |
+| perfluorobutane sulfonic acid | PFBS |  | 18.42 |
+| 18O2-perfluorohexane sulfonic acid | 18O2-PFHxS | MPFHxS | 3.76 |
+| 13C4-perfluorooctane sulfonic acid | 13C4-PFOS | MPFOS | 3.78 |
+|  |  |  |  |
+| **"Alternative" PFAS** |  |  |  |
+| 6:2-fluorotelomersulfonic acid | 6:2FTS |  | 3.93 |
+| hexafluoropropylene oxide dimer acid | HFPO-DA |  | 19.58 |
+| dodecafluoro-3H-4,8-dioxanonanoic acid | DONA |  | 3.71 |
+
+Kinetic parameters to be investigated after the oral application were rate and extent of gastrointestinal absorption (Cmax / Tmax in plasma, fecal excretion of unabsorbed compounds during the first days after application), volume of distribution and elimination half-life (serial measurements of plasma levels), as well as routes of excretion (amounts in urine and feces).
+
+The healthy volunteer for this self-dosing investigation again was the medical head of the unit “Risks of subpopulations and human studies” (K.A., age 67 years). As a physician, he does not require an ethics committee approval for this scientific self-experimentation on kinetics performed under his own responsibility and with the consent of the institute’s head. His internal PFAS sum was lower than 6.9 µg/L (see below), the level corresponding to the Tolerable Weekly Intake (TWI) for the PFAS sum (PFOA, [PFNA](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/perfluorononanoic-acid), PFHxS, PFOS) derived by [EFSA (2020)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060). Based on current scientific PFAS knowledge, this investigation is not associated with an individual PFAS risk. On the day of administration, he had the following body data: body weight 82 kg, body length 1.84 m, body mass index 24.2 kg/m2, fat mass 20.3 kg, lean body mass 61.7 kg, skeletal muscle mass 29.2 kg, visceral fat 3.9 L, total body water 45.6 L, extracellular water 20.6 L. The latter parameters were measured on a body composition analyser (seca mBCA 515, seca GmbH, Hamburg, Germany). During the 15 months of observation reported here, repeated measurements did not reveal any relevant changes in body mass and composition, and [blood loss](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/bleeding) was limited to the blood collection (see below).
+
+According to the PFAS analysis (means of 30 samples taken within 24 h after the application), the volunteer had internal background levels of 0.052 µg/L (PFHpA), 1.48 µg/L (PFOA), 0.42 µg/L (PFNA), 0.18 µg/L (PFDA), 0.14 µg/L (PFUdA), 0.013 µg/L (PFDoA), 1.49 µg/L (PFHxS), and 2.42 µg/L (PFOS) (all other unlabeled PFAS listed in [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0005) were not quantifiable, _i.e._ signal-to-noise ratios < 10). The mean plasma level of 13C4-PFOA remaining from the investigation of transdermal absorption starting 415 days before was 0.130 ± 0.006 µg/L (mean of 11 samples taken 4-weekly from day 129 to day 409 after application of the sunscreen). Before the oral application, EDTA blood and serum was analysed at an accredited medical laboratory (Labor 28 GmbH, Berlin, Germany) for clinical routine parameters, documenting the good [health status](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/health-status) of the volunteer. The following results with possible relevance for the kinetics were obtained: haemoglobin 15.6 g/dL, haematocrit 46.7 %, total protein 76 g/L, albumin 38.3 g/L. The creatinine clearance was calculated from creatinine levels in 24 h-urine and plasma on day 5/6 (114.8 mL/min) as well as on day 35/36 (112.5 mL/min). The mean value of 113.7 mL/min representing the glomerular filtration rate (GFR) was used for kinetic calculations.
+
+For the application on a day at the end of February 2023, the 15 compounds were dissolved in about 2 mL ethanol, and the solution was pipetted on a commercial muffin weighing about 120 g. After overnight fasting, this muffin was eaten within 10 min at 9 a.m.; during the following hours, no other foods were consumed. Serial blood samples were taken directly before and every 15 min during the first three hours after application, and progressively less frequent in the following hours, days and weeks (for details see [Supplemental Excel file](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)). The frequency of collections was high (30 samples within the first 24 h, 60 samples within the first two weeks, 90 samples until day 450, the last point of time reported here) to allow a meaningful evaluation for every conceivable half-life, including its possible change over time resulting from distribution processes. After day 142, blood was collected every four weeks.
+
+Blood samples (3.4 mL EDTA blood in tubes from Sarstedt, Nümbrecht, Germany) were taken via intravenous catheter (first hours) or via venipuncture. After centrifugation of the tubes (2,500⋅g, 10 min), plasma was removed and frozen at −80 °C until analysis. Furthermore, urine was collected completely over the first six days after application (6- to 12-hour fractions). Thereafter, urine was collected completely for 24 h (two 12-hour fractions) on days 24, 36 and 100 after application. The urine was weighed, and aliquots of 50 mL were frozen at −80 °C until analysis. Whole feces of the once-a-day defecation in the morning was collected before and on the first six days after application. The samples were weighed and homogenized in a stomacher for 15 min, and aliquots were frozen at −80 °C until further analysis. Furthermore, aliquots of the feces of days 24, 36, 58, 100, 226 and 310 were frozen at −80 °C. From day 421 to 426, feces again was collected completely and treated as described.
+
+### 2.2. Chemicals
+
+[Ammonium acetate](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/ammonium-acetate) was purchased from Fluka (Buchs, Switzerland). Formic acid (reagent grade, ≥ 95 %), and 7 N ammonia in methanol were from Sigma-Aldrich (Darmstadt, Germany). A Milli-Q Integral Water Purification System from Millipore Merck (Darmstadt, Germany) was used for the preparation of HPLC-grade water. Methanol and ethanol (LC-MS grade) were from Merck.
+
+For the controlled oral exposure, twelve PFAS (50 µg/L solutions in methanol), _i.e._ 13C3-PFBA, 13C3-PFPeA, 13C2-PFHxA, 13C4-PFOA, 13C5-PFNA, 13C2-PFUdA, PFBS, 18O2-PFHxS, 13C4-PFOS, 6:2FTS, HFPO-DA, and DONA, were purchased from Wellington Laboratories Inc. The other substances 13C7-PFHpA, 13C9-PFDA, and 13C12-PFDoA were from Cambridge Isotope Laboratories (Tewksbury, MA, USA). The preparation of the solution for the controlled exposure is described in the [Supplemental Information](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130).
+
+Twelve of the PFAS in the biological samples were quantified using the mixture of isotope-labeled PFAS (MPFAC-24ES) purchased from Wellington Laboratories Inc. (Guelph, Canada), containing 13C4-PFBA, 13C5-PFPeA, 13C5-PFHxA, 13C4-PFHpA, 13C9-PFNA, 13C6-PFDA, 13C7-PFUdA, 13C2-PFDoA, 13C3-PFBS, 13C3-PFHxS, 13C8-PFOS and 13C2-6:2FTS. The other standard substances required were 13C2-PFOA and 13C3-HFPO-DA from Wellington Laboratories Inc. and 13C2-DONA from the “Institut für Dünnschichttechnologie und Mikrosensorik” (Teltow, Germany). A working solution for the quantification containing nominal concentrations of 1 µg/L of the isotope-labeled PFAS (in the following denoted with “IS”) was prepared by dilution of 250 µL MPFAC-24ES (original PFAS concentrations about 1 mg/L) and 250 µL of a solution containing 1 mg/L of 13C2-PFOA, 13C3-HFPO-DA, and 13C2-DONA in 250 mL methanol. The IS solution was aliquoted for further use and stored at −80 °C.
+
+### 2.3. PFAS extraction from plasma samples
+
+The sample workup has been described by [Abraham and Monien (2022)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0010). Briefly, plasma samples were thawed at room temperature and homogenized. Aliquots of 200 µL of each sample were mixed thoroughly with 100 μL of IS. After addition of 400 µL of water/formic acid (1:1), the samples were stirred for 10 min (800 rpm), filled up to a volume of approx. 1.7 mL with ultrapure water and centrifuged (10 min at 18,000⋅g, 4 °C). Oasis WAX columns (150 mg, Waters, Eschborn, Germany) were conditioned with 24 mL 1.2 % ammonia in methanol, 4 mL of methanol and 4 mL of water. The samples were loaded and the columns were washed with 4 mL 25 mM ammonium acetate buffer (pH 4) and 4 mL of methanol, and were dried briefly with a water jet pump. PFAS were eluted with 8 mL 1.2 % ammonia in methanol and the samples were dried under a stream of nitrogen. After reconstitution with 100 µL methanol and 100 µL 2 mM aqueous ammonium acetate buffer, the samples were centrifuged at 18,000⋅g (10 min, 4 °C), and PFAS were analyzed by UPLC-MS/MS.
+
+### 2.4. PFAS extraction from urine samples
+
+PFAS were extracted according to the recently published method with some modifications ( [Mertens et al. 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0145)). Validation data on linearity, limits of detection and quantification ( [Table S2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)) as well as intraday- and interday precision ( [Table S3](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)) is included in the [Supplemental Information](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130). Urine samples were thawed, vortexed thoroughly, and aliquots of 250 µL were mixed with 100 µL IS solution and with 750 µL water. The mixtures were centrifuged at 18,000⋅g (10 min, 4 °C). The supernatants were loaded onto ENVI-Carb cartridges (250 mg, Supelco; Merck, Darmstadt, Germany) preconditioned with 4 mL 100 mM ammonium acetate in methanol and 4 mL 2 mM aqueous ammonium acetate solution. The flow through was discarded. PFAS were eluted with 2 mL 100 mM ammonium acetate in methanol, and the columns were dried using gentle vacuum. The extracts were evaporated to dryness under a constant nitrogen flow, and the residuals were resuspended in 100 µL methanol and 100 µL 2 mM aqueous ammonium acetate solution. After centrifugation at 18,000⋅g (10 min, 4 °C), PFAS were analyzed by UPLC-MS/MS.
+
+### 2.5. PFAS extraction from feces
+
+The PFAS extraction was conducted as described previously ( [Mertens et al. 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0145)). Briefly, fecal samples (∼0.5 g) were mixed with 100 µL IS solution and 5 mL methanol. The samples were vortexed, thoroughly mixed (10 min) and sonicated (20 min). After centrifugation (2,500⋅g, 10 min), the supernatants were removed and the extraction was repeated. One fourth of the combined extracts were mixed with 10 mL 2 mM aqueous ammonium acetate solution. The mixtures were centrifuged (2,500⋅g, 10 min) and the PFAS were enriched on ENVI-Carb cartridges as described above. Before measurement, the sample solutions were filtered through regenerated cellulose syringe filters (0.2 µm, 13 mm, WICOM; Heppenheim, Germany), but otherwise prepared for UPLC-MS/MS as described.
+
+### 2.6. UHPLC-MS/MS analyses of extracted PFAS
+
+The analyses were conducted using an UPLC Aquity I-Class (Waters) connected to a mass spectrometer QTrap6500 (Sciex, Darmstadt, Germany) equipped with an [electrospray](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/electrospray-ionization) (ESI) source operating in the negative ionization mode. After reconstitution with 100 µL of methanol and 100 µL of 2 mM ammonium acetate buffer, samples were injected onto an HSS T3 reversed-phase column (100 mm x 2 mm, Waters). PFAS were eluted with a gradient consisting of 2 mM ammonium acetate in water/methanol (95:5) (A) and 2 mM ammonium acetate in methanol (B) at a flow rate of 300 µL/min. The gradient was as follows: 0 min (100 % A), 1 min (80 % A), 6 min (55 % A), 13 min (20 % A), 14 min (5 % A), 17 min (5 % A), 18 min (100 % A), 22 min (100 % A). The PFAS and the respective isotope-labeled standards were monitored using the multiple reaction monitoring (MRM) mode. The quantifier fragmentation reactions for each substance are summarized together with the respective values for declustering potentials, collision energies, cell entrance and cell exit potentials in [Table S4](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130) of the [Supplemental Information](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130). The other operating parameters of the mass spectrometer were: curtain gas, 20 psi; collision-activated dissociation (CAD) gas, medium; ion source temperature, 450 °C, ion spray voltage, 5500 V; ion source gas 1, 60 psi; ion source gas 2, 50 psi. The data were recorded and evaluated with Analyst 1.7.1 Software (Sciex).
+
+The integrals of all fragmentation signals were controlled manually. One-minute intervals preceding the PFAS signals (S) were defined as “noise” (N). The signal-to-noise ratios (S/N) of PFAS signals in all individual urine, feces and plasma samples were determined to judge the validity of the signals. The results with signals exceeding the limit of detection (LOD; S/N > 3) including those below the limit of quantification (LOQ, S/N = 10) were used as such for the evaluation. The EFSA supports this handling of left-censored data, because the validity of results is expected to be higher compared to that after replacement of the signals > LOD but < LOQ ( [EFSA Working Group on Left Censored Data 2010](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0055)).
+
+### 2.7. Kinetic evaluations
+
+Data of plasma concentrations over time (starting with the Cmax values) were evaluated using both a one- and a two-compartment model with linear kinetics by fitting a mono- and a bi-exponential model, respectively. The fit was performed with R version 4.4.0 ( [R Core Team, 2024](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0180)) on the log of the measured concentrations. Least squares optimization was done using the nls command from the stats package with algorithm “port”. Model behavior in the terminal elimination phase is determined by the elimination constant kel and the corresponding theoretical concentration (C0) at t = 0. The program also calculated the corresponding half-life and the volume of distribution, including their 95 % confidence intervals. Following the principles of [pharmacokinetics](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/pharmacokinetics) (explained _e.g._ in [Fan and de Lannoy, 2014](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0070)), the underlying kinetic formulas describing the relationships between the parameters are given below:
+
+Plasma concentration over time since application for the one-compartment model (a) and the two-compartment model (b):(1)(a)⁢C=C0e−ke⁢lt\[μ⁢g⁡/L\](2)(b)⁢C=C0e−ke⁡lt+Cd⁢e−kdt⁡\[μ⁢g⁡/L\]
+
+Terminal plasma half-life:(3)t12=l⁢n⁡(2)/ke⁢l⁡\[d⁢a⁢y⁢s\]
+
+Terminal volume of distribution:(4)Vd=Da⁢b⁢s/C0⁡\[L,o⁢rb⁢wb⁢a⁢s⁢e⁢d:m⁢L/k⁢g⁡b⁢w\]
+
+Total clearance:(5)C⁢Lt⁢o⁢t=ke⁢lVd⁢\[L/d⁢a⁢y\],(/1.44=\[m⁢L/m⁢i⁢n\])
+
+The second term in equation [(2)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#e0010) is relevant in the distribution phase, its inclusion allows better estimation of terminal elimination rates. The terminal plasma half-life is the time required to divide the plasma concentration by two after reaching steady elimination following a single application. The dose systematically available (absorbed dose, Dabs) was calculated as the dose applied minus the additional fecal excretion during the first 6 days (for details, see [section 3.1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0050)). The urinary clearance (CLUri) was calculated for each of the first six days as quotient of the total amount excreted (product of urinary concentration and volume of urine) within 24 h and the corresponding plasma concentration in the middle of the period, _i.e._ at 9 pm. The mean value of these six measurements was used for further considerations. The filtration clearance (CLFilt) was calculated as product of the fraction unbound in plasma (fup, available from [Smeltz et al. 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0195)) and the GFR measured in the volunteer as creatinine clearance (113.7 mL/min). The fecal clearance (CLFec) of the long-chain compounds was calculated from the elimination data of the fecal collection from day 421 to 426. For these six days, the excretion was calculated as product of the fecal concentration and the fecal mass; the average amount of PFAS excreted per day was then divided by the corresponding plasma concentration measured on day 422.
+
+## 3\. Results
+
+### 3.1. Gastrointestinal absorption
+
+The absorption of all compounds applied was fast, so that Cmax values were reached within 1.75 to 3 h after application ( [Table 2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0010)). From 30 min onwards, all 15 compounds were quantifiable in plasma. The levels measured within the first 6 h are displayed in [Fig. 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0005) (for singles results see [Supplemental Excel file](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)).
+
+Table 2. Data on kinetics of oral absorption during the first days after application. For abbreviations of PFAS see [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0005).
+
+| Empty Cell | Plasma Cmax<br>(µg/L) | Plasma Tmax<br>(h) | Fecal excretion within first 6 days<br>(ng) | Fecal elimination [\*](https://www.sciencedirect.com/science/article/pii/S0160412024006330#tblfn1) within first 6 days<br>(ng) | Dose absorbed (Dabs)<br>(µg) | Dose unabsorbed<br>(%) |
+| --- | --- | --- | --- | --- | --- | --- |
+| **PFCA** |
+| MPFBA | 0.433 | 2.25 | n.d. | n.d. | 4.01 | 0.00 |
+| MPFPeA | 0.495 | 2.00 | n.d. | n.d. | 3.95 | 0.00 |
+| MPFHxA | 0.576 | 2.00 | 3.6 | n.d. | 3.99 | 0.09 |
+| MPFHpA | 0.686 | 2.25 | 1.9 | n.d. | 3.80 | 0.05 |
+| MPFOA | 0.659 [\*\*](https://www.sciencedirect.com/science/article/pii/S0160412024006330#tblfn2) | 2.25 | 3.3 | 1.6 | 3.96 | 0.04 |
+| MPFNA | 0.612 | 2.25 | 9.3 | 6.1 | 4.02 | 0.04 |
+| MPFDA | 0.376 | 2.25 | 13.6 | 8.8 | 4.01 | 0.05 |
+| MPFUdA | 0.322 | 3.00 | 27.8 | 10.9 | 3.99 | 0.21 |
+| MPFDoA | 0.185 | 2.25 | 74.8 | 13.1 | 3.75 | 1.09 |
+|  |
+| **PFSA** |
+| PFBS | 2.266 | 1.75 | n.d. | n.d. | 18.42 | 0.00 |
+| MPFHxS | 0.826 | 2.25 | n.d. | n.d. | 3.76 | 0.00 |
+| MPFOS | 0.429 | 2.00 | n.d. | n.d. | 3.78 | 0.00 |
+|  |
+| **“Alternative” PFAS** |
+| 6:2FTS | 0.430 | 2.75 | 55.1 | n.d. | 3.87 | 1.40 |
+| HFPO-DA | 1.687 | 1.75 | 74.7 | n.d. | 19.51 | 0.38 |
+| DONA | 0.730 | 2.00 | 4.4 | n.d. | 3.71 | 0.12 |
+
+n.d. = not detected.
+
+\*
+
+estimated from the fecal excretion data of day 421–426 which were multiplied by the ratio of plasma concentrations on day 4 and day 422 (assuming the plasma concentration as driving force for fecal excretion).
+
+\*\*
+
+level of 0.130 µg/L remaining from the investigation of dermal MPFOA absorption subtracted.
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr1.jpg)
+
+1. [Download: Download high-res image (243KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr1_lrg.jpg "Download high-res image (243KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr1.jpg "Download full-size image")
+
+Fig. 1. Time-course of the concentrations of the 15 PFAS applied within the first six hours. Please note the about five-fold higher doses of PFBS and HFPO-DA, as well as the pre-application level of MPFOA of 0.130 µg/L remaining from the preceding investigation of dermal MPFOA absorption ( [Abraham and Monien 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0010)). For abbreviations see [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0005).
+
+The total amounts of the substances in the feces completely collected in the first six days revealed a more or less complete absorption ( [Table 2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0010), for concentrations see [Supplemental Excel file](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)). The extent of unabsorbed amounts were highest for 6:2FTS (1.4 % of the dose applied), MPFDoA (1.1 %), HFPO-DA (0.38 %), MPFUdA (0.21 %) and DONA (0.12 %). For the other PFCA as well as for the PFSA (PFBS, MPFHxS, MPFOS), less than 0.1 % of the dose applied was found in feces, indicating an extent of absorption rates higher than 99.9 %. The fecal amounts measured in the first six days are displayed in [Fig. 2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0010). As the five long-chain PFCA (MPFOA to MPFDoA) were found to be detectable in feces in all samples collected throughout the investigation (indicating fecal elimination, see [section 3.5](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0070)), the amounts of these compounds measured in the first 6 days represent unabsorbed as well as eliminated material. Therefore, the values were corrected for the expected amounts of fecal elimination on day 1 to 6 ( [Table 2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0010)), estimated from the eliminated amounts on day 421–426, multiplied by the ratio of plasma concentrations on day 4 and day 422 (assuming the plasma concentration as driving force for fecal elimination). The resulting daily averages for the five compounds are also displayed in [Fig. 2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0010) as “E”, and were more or less identical with the fecal excretion on day 6.
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr2.jpg)
+
+1. [Download: Download high-res image (171KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr2_lrg.jpg "Download high-res image (171KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr2.jpg "Download full-size image")
+
+Fig. 2. Daily excretion of the PFAS applied in feces during the first six days after application. “E” stands for the daily fecal elimination from the body during this period, which was estimated from the elimination data of day 421 to 426 (see text and [Table 2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0010)). For abbreviations see [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0005).
+
+### 3.2. Time course of plasma levels and plasma elimination half-lives
+
+Results of PFAS concentrations of the 90 plasma samples collected until day 450 are listed in the [Supplemental Excel file](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130). The [Supplemental Information](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130) includes the graphical presentation of the time course of each compound (see modelling outputs) demonstrating - apart for the compounds with very short half-lives - the expected initial fast decline (representing distribution) and the terminal phase with slower decline (representing elimination). Due to the fast terminal decline of the levels of some of short-chain and “alternative” PFAS, MPFPeA was detectable ( _i.e._ levels > LOD) in plasma for 3.5 days only, MPFHxA for 12 days, MPFBA for 20 days, HFPO-DA for 28 days, and DONA for 226 days. In case of the unlabeled 6:2FTS, the concentrations started to scatter around a certain background level after 12 days (about 0.045 µg/L). Due to the previous correction by the laboratory background determined independently, we assume that the volunteer may be exposed continuously to low amounts of 6:2FTS. In case of PFBS with a half-life of about 51 days, a scattering observed in the samples after day 100 likely was attributed to a contamination in the laboratory. MPFHpA (and the long-chain PFAS) were still detectable on day 450, the last day reported here.
+
+Results from kinetic analyses using a two-compartment model are compiled in [Table 3](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0015) with plasma C0, the theoretical concentration directly after application (calculated from the terminal elimination data), the terminal elimination constant kel, and the terminal plasma elimination half-life t½ (for values of C0 and t½ including 95 % confidence interval). The output of the calculations is also provided in the [Supplemental Information](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130). In two cases (MPFBA and 6:2FTS), results of the two-compartment model were not plausible, [1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#fn1) and those of the mono-compartment model are reported in [Table 3](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0015). In [Fig. 3](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0015) A to D, the data are displayed on a semi-logarithmic scale, together with a line representing the terminal elimination.
+
+Table 3. Results of the kinetic calculations using a two-compartment model (for details see [Supplemental Information](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)): Point Estimates (PE) and Range (95% confidence interval). For abbreviations of PFAS see [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0005).
+
+| Empty Cell | Plasma C0 | kel | Half-life | Vd |
+| --- | --- | --- | --- | --- |
+| PE | Range | Empty Cell | PE | Range | PE | Range |
+| --- | --- | --- | --- | --- | --- | --- |
+| (µg/L) | (per day) | (days) | (mL/kg bw) |
+| --- | --- | --- | --- |
+| **PFCA** |
+| MPFBA [\*](https://www.sciencedirect.com/science/article/pii/S0160412024006330#tblfn3) | 0.371 | 0.359–0.383 | 0.166 | 4.18 | 4.06–4.31 | 132 | 128–136 |
+| MPFPeA | 0.436 | 0.418–0.452 | 1.343 | 0.52 | 0.51–0.53 | 110 | 107–115 |
+| MPFHxA | 0.409 | 0.388–0.429 | 0.478 | 1.45 | 1.42–1.48 | 119 | 113–126 |
+| MPFHpA | 0.362 | 0.354–0.371 | 0.00456 | 152 | 147–157 | 128 | 125–131 |
+| MPFOA | 0.529 [\*\*](https://www.sciencedirect.com/science/article/pii/S0160412024006330#tblfn4) | 0.519–0.539 | 0.000345 | 2011 | 1466–3206 | 121 | 118–124 |
+| MPFNA | 0.394 | 0.387–0.402 | 0.000531 | 1305 | 1054–1716 | 124 | 122–127 |
+| MPFDA | 0.266 | 0.260–0.272 | 0.000804 | 862 | 728–1057 | 184 | 180–188 |
+| MPFUdA | 0.202 | 0.193–0.210 | 0.00119 | 584 | 501–705 | 241 | 232–252 |
+| MPFDoA | 0.129 | 0.124–0.134 | 0.00235 | 295 | 274–321 | 354 | 342–368 |
+|  |
+| **PFSA** |
+| PFBS | 1.641 | 1.601–1.682 | 0.0137 | 50.6 | 47.7–53.8 | 137 | 134–140 |
+| MPFHxS | 0.367 | 0.358–0.377 | 0.000424 | 1634 | 1166–2733 | 125 | 122–128 |
+| MPFOS | 0.303 | NA [\\*\\*\\*](https://www.sciencedirect.com/science/article/pii/S0160412024006330#tblfn5) −0.311 | 0.000573 | 1211 | 927–NA [\\*\\*\\*](https://www.sciencedirect.com/science/article/pii/S0160412024006330#tblfn5) | 152 | 148–NA [\\*\\*\\*](https://www.sciencedirect.com/science/article/pii/S0160412024006330#tblfn5) |
+|  |
+| **“Alternative” PFAS** |
+| 6:2FTS [\*](https://www.sciencedirect.com/science/article/pii/S0160412024006330#tblfn3) | 0.399 | 0.386–0.411 | 0.168 | 4.14 | 3.97–4.32 | 119 | 115–122 |
+| HFPO-DA | 1.341 | 1.299–1.382 | 0.242 | 2.86 | 2.83–2.90 | 177 | 172–183 |
+| DONA | 0.269 | 0.214–0.323 | 0.0200 | 34.7 | 32.3–38.0 | 168 | 140–212 |
+
+\*
+
+Data of the one-compartment model.
+
+\*\*
+
+0.399 µg/L after subtraction of the pre-existing level of 0.130 µg/L.
+
+\\*\\*\\*
+
+NA = not available.
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr3.jpg)
+
+1. [Download: Download high-res image (472KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr3_lrg.jpg "Download high-res image (472KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr3.jpg "Download full-size image")
+
+Fig. 3. **A to D**. Time-course of the plasma concentrations on a semi-logarithmic scale, together with the resulting terminal regression line. Please note the different concentration scales (A/B and C/D) as well as the different time scales: 30 days (A), 250 days (B), and 450 days (C, D). For clarity, data of MPFHpA are displayed until day 226 only (B); the chart until day 450 is available from the model calculations (see [Supplemental Information](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130), also including all fitting results of the mono- and the bi-exponential model). For abbreviations see [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0005).
+
+The shortest estimated terminal elimination half-lives were observed in case of the short-chain PFAS MPFPeA (0.52 days), MPFHxA (1.5 days), MPFBA (4.2 days) and PFBS (51 days). The three “alternative” PFAS also revealed relatively short half-lives for 6:2FTS (4.1 days), HFPO-DA (2.9 days), and DONA (35 days). For MPFHpA, a terminal elimination half-life of 152 days was observed. With increasing chain-length of PFCA, the half-life strongly increased to 2011 days (MPFOA, 5.5 years), and then continuously decreased: 1305 days (MPFNA, 3.6 years), 862 days (MPFDA, 2.4 years), 584 days (MPFUdA, 1.6 years), and 295 days (MPFDoA, 0.8 years). For the two long-chain PFSA, the half-lives were 1634 days (MPFHxS, 4.5 years) and 1211 days (MPFOS, 3.3 years). All half-life data are displayed in [Fig. 4](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0020).
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr4.jpg)
+
+1. [Download: Download high-res image (137KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr4_lrg.jpg "Download high-res image (137KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr4.jpg "Download full-size image")
+
+Fig. 4. Bar chart of calculated half-lives of the 15 PFAS applied. For abbreviations see [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0005).
+
+### 3.3. Terminal volumes of distribution
+
+The terminal volumes of distribution (Vd) are compiled in [Table 3](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0015), together with the 95 % confidence interval calculated by the modelling. The values were found in a narrow range between 110 and 152 mL/kg bw for most compounds, but were higher for the long-chain PFCA MPFDA, MPFUdA and MPFDoA (184, 241 and 354 mL/kg bw, respectively). Furthermore, higher values were calculated for DONA (168 mL/kg bw) and HFPO-DA (177 mL/kg bw).
+
+### 3.4. Urinary excretion
+
+Concentrations of the five short-chain PFAA (MPFBA, MPFPeA, MPFHxA, MPFHpA, PFBS) and of the three “alternative” PFAS (6:2FTS, HFPO-DA and DONA) were quantifiable in the 6 to 12 h urine samples collected during the first six days after application. The calculated amounts of daily excretion are compiled in the [Supplemental Excel file](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130), and are displayed in [Fig. 5](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0025) as percentage of the absorbed doses on days 1 to 6. During these six days, highest overall excretion was calculated for MPFPeA (82.9 % of the absorbed dose, thereof 58.6 % within 24 h), followed by MPFHxA (77.3 %), 6:2FTS (51.3 %), MPFBA (48.1 %), HFPO-DA (44.6 %), DONA (16.0 %), PFBS (5.0 %) and MPFHpA (1.9 %). The long-chain PFCA and PFSA were not detectable in urine. Again, urine was collected for 24 h on days 24, 36 and 100, but only MPFHpA, PFBS and DONA were quantifiable in these samples (see [Supplemental Excel file](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)).
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr5.jpg)
+
+1. [Download: Download high-res image (140KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr5_lrg.jpg "Download high-res image (140KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr5.jpg "Download full-size image")
+
+Fig. 5. Daily urinary excretion measured in the first six days after application of the 15 PFAS, evaluated as percentage of the absorbed dose. The compounds were sorted according to the half-lives calculated, beginning with the shortest half-live on the left. The other compounds were not quantifiable. For abbreviations see [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0005).
+
+The relative excretion rates (% of absorbed dose) corresponded well to the calculated terminal half-lives (shorter half-life = higher excretion). To evaluate this quantitatively, values of the urinary clearance (CLUri) were calculated for each of the six days, and were found be more or less constant for each of the compounds (percent standard deviation between 7 and 17 %), without a trend over time. The resulting mean values of urinary clearance are compiled in [Table 4](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0020), and were highest for MPFPeA (8.9 mL/min), followed by MPFHxA (2.7 mL/min), HFPO-DA (1.4 mL/min), 6:2FTS (0.97 mL/min), MPFBA (1.0 mL/min), DONA (0.18 mL/min), PFBS (0.067 mL/min) and MPFHpA (0.023 mL/min). The values of total clearance (CLtot), calculated from the kinetic data (product of kel and Vd), are also compiled in [Table 4](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0020), and are relatively close to the values of urinary clearance (CLUri). This is displayed in [Fig. 6](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0030) A showing the correlation of both clearance parameters (R2 = 0.98) with a slope of the regression line of 1.04.
+
+Table 4. Clearance data: Urinary clearance (CLUri), total clearance (CLtot), the fraction unbound in plasma (fup) and the resulting clearance of glomerular filtration (CLFilt, as product of fup and the GFR), as well as the fecal clearance (CLFec). For abbreviations of PFAS see [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0005).
+
+| Empty Cell | CLUri<br>(mL/min) | CLtot<br>(mL/min) | fup [\*](https://www.sciencedirect.com/science/article/pii/S0160412024006330#tblfn6) | CLFilt [\*\*](https://www.sciencedirect.com/science/article/pii/S0160412024006330#tblfn7)<br>(mL/min) | CLFec<br>(mL/min) |
+| --- | --- | --- | --- | --- | --- |
+| **PFCA** |
+| MPFBA | 1.00 | 1.24 | _0.093_ | 10.57 | n.d. |
+| MPFPeA | 8.89 | 8.45 | _0.044_ | 5.00 | n.d. |
+| MPFHxA | 2.68 | 3.24 | _0.0068_ | 0.77 | n.d. |
+| MPFHpA | 0.023 | 0.033 | _0.0004_ | 0.045 | n.d. |
+| MPFOA | n.d. [\\*\\*\\*](https://www.sciencedirect.com/science/article/pii/S0160412024006330#tblfn8) | 0.0024 | _0.001_ | 0.11 | 0.0004 |
+| MPFNA | n.d. [\\*\\*\\*](https://www.sciencedirect.com/science/article/pii/S0160412024006330#tblfn8) | 0.0038 | _0.0016_ | 0.18 | 0.0022 |
+| MPFDA | n.d. | 0.0084 | _0.0027_ | 0.31 | 0.0051 |
+| MPFUdA | n.d. | 0.0163 | _0.0148_ | 1.68 | 0.0098 |
+| MPFDoA | n.d. | 0.0474 |  |  | 0.0286 |
+|  |
+| **PFSA** |
+| PFBS | 0.067 | 0.107 | _0.0046_ | 0.52 | n.d. |
+| MPFHxS | n.d. | 0.0030 | _0.0009_ | 0.10 | n.d. |
+| MPFOS | n.d. | 0.0050 | _0.0045_ | 0.51 | n.d. |
+|  |
+| **“Alternative” PFAS** |
+| 6:2FTS | 0.97 | 1.13 | _0.0143_ | 1.63 | n.d. |
+| HFPO-DA | 1.43 | 2.45 |  |  | n.d. |
+| DONA | 0.178 | 0.191 |  |  | n.d. |
+
+n.d. = not detected.
+
+\*
+
+as published by [Smeltz et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0195).
+
+\*\*
+
+based on creatinine clearance of 113.7 mL/min measured in the volunteer.
+
+\\*\\*\\*
+
+MPFOA (13C4-PFOA) and MPFNA (13C5-PFNA) occur as contaminations of 1–2% of 13C8-PFOA and 13C9-PFNA in the mixture of quantification standards MPFAC-24ES (Wellington), which hindered the quantification of the urinary analytes excreted at very low levels.
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr6.jpg)
+
+1. [Download: Download high-res image (216KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr6_lrg.jpg "Download high-res image (216KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr6.jpg "Download full-size image")
+
+Fig. 6. **A:** Scatterplot with regression lines of the urinary clearance (CLUri) of the eight short-chain compounds (bright symbols) against the total clearance (CLtot). **B:** Scatterplot with regression lines of the fecal clearance (CLFec) of five long-chain PFCA (dark symbols) against the total clearance (CLtot). Data of both graphs were integrated in [Figure S2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130) of the [Supplemental Information](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130). For abbreviations of PFAS see [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0005).
+
+[Table 4](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0020) also includes results of theoretical considerations regarding the capacity of glomerular filtration. As PFAS are in part bound to different plasma macromolecules – especially albumin (see [section 4.5](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0100)) – the unbound fraction is relevant for the extent of filtration. Such data were recently published by [Smeltz et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0195): fraction unbound in plasma (fup). With the GFR measured as creatinine clearance in the volunteer (113.7 mL/min, see [section 2.1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0015)), estimated clearance rates of glomerular filtration only (CLFilt) can be calculated for the different PFAS (product of fup and the GFR) and are compiled in [Table 4](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0020).
+
+### 3.5. Fecal elimination
+
+Besides the complete collection of feces during the first six days after application, feces aliquots were collected and analyzed from time to time on single days. Results showed a fecal elimination of the five long-chain PFCA (MPFOA to MPFDoA, see [Supplemental Excel file](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)), whereas the other study PFAS were not detectable (including MPFHxS and MPFOS, which were neither detectable in urine nor in feces). To quantify the elimination of the five compounds, feces was collected again completely for six days (day 421 to 426 after application). The average daily elimination was calculated to be 0.26 ng/day (MPFOA), 1.02 ng/day (MPFNA), 1.46 ng/day (MPFDA), 1.81 ng/day (MPFUdA), and 2.19 ng/day (MPFDoA). The corresponding values of fecal clearance (CLFec) are compiled in [Table 4](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0020), using the plasma concentration on day 422 as reference. As in case of the urinary excretion of the short-chain and “alternative” PFAS, fecal clearance was relatively close to the values of total clearance (CLtot). This is displayed in [Fig. 6](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0030) B showing the high correlation of both clearance parameters (R2 = 0.999), but with a slope of the regression line of 0.61 only. On average (5 compounds), the CLFec values were 49 % lower than the CLtot values. The [Supplemental Information](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130) ( [Figure S2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)) displays the data of both parameters, urinary and fecal clearance, in correlation with the total clearance.
+
+## 4\. Discussion
+
+### 4.1. Concept of the investigation, strengths and limitations
+
+The concept of using differently isotope-labeled PFAS (for application and as internal standard, as many as available) allowed to follow the kinetics independently of the background exposure, and in part provided relatively low LODs (for an overview of LODs in the different matrices, see [Supplemental Table S5](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)). The investigation made it possible to collect a comprehensive set of plasma, urinary and fecal samples, and allowed the evaluation of all relevant kinetic parameters of the 15 compounds. Such a study concept is hardly feasible in a study with participants not staying overnight in the research institute during the first days. An important limitation is that we can provide data of a single subject only. The unknown variability of the parameters is an issue especially for the absolute values, but may be less relevant for the relative values of the kinetic parameters, _i.e._ the comparison of the different compounds with each other. Furthermore, urinary and fecal levels of MPFHxS and MPFOS were below LOD (with our methods and the relatively low doses applied), and no information on the route of excretion could be provided for these compounds.
+
+### 4.2. Gastrointestinal absorption
+
+For all compounds applied, rate of gastrointestinal absorption was high, and fecal excretion of unabsorbed compounds during the first days after administration indicated a rather complete intestinal absorption. In case of 6:2FTS and HFPO-DA showing a more or less continuous decline in fecal excretion over the six days ( [Fig. 2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0010)), this excretion may contain relevant amounts that were eliminated after previous absorption. Therefore, the absorption rates of these two compounds may be higher than calculated. As the 15 PFAS were taken up as isolated compounds not embedded in a food matrix, rates and extent of absorption may be somewhat lower under real-life conditions.
+
+### 4.3. Terminal plasma elimination half-lives
+
+For the terminal half-lives, a huge range was observed between 0.5 days for MPFPeA and several years for the long-chain PFAS. With respect to the short-chain PFCA and to PFBS, data of other investigations are available from the literature. For PFBA, [Chang et al. (2008)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0040) reported a mean half-life of 3.0 days (range in individuals 1.8 to 6.3 days) in 9 workers involved in PFAS production. For PFHpA, [Xu et al. (2020)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0220) reported a mean half-life of 62 days (95 % CI: 51, 80 days) in 17 airport workers from Arvidsjaur/Sweden, and [Russell et al. (2015)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0190) a geomean of 70 days (range 31 to 123 days) in 5 ski wax technicians. For PFBS, [Olsen et al. (2009)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0170) reported a mean half-life of 28 days (range 13.1 to 45.7 days) in 6 workers involved in the PFBS production, and [Xu et al. (2020)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0220) a mean half-life of 44 days (95 % CI: 37, 55 days) in the airport workers. Our results for MPFBA, MPFHpA and PFBS of 4.2, 152 and 51 days, respectively, are within the range reported in these papers, and somewhat higher for MPFHpA. For MPFPeA, the very short half-life of 0.5 days is in line _e.g._ with data of [Hall et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0115), who were not able to reliably quantify PFPeA in serum of a population highly exposed to PFPeA via drinking water.
+
+For PFHxA only, our result (half-life of 1.5 days) is in contrast to those of others. [Russell et al. (2013)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0185) reported a geomean half-life of 32 days (range of 14 to 49 days) in seven ski wax technicians. However, the derivation of these relatively long individual half-lives in part does not appear convincing ( _e.g._, in technician no. 2, a decline from 4.84 to <0.05 µg/L within one month was ignored), and with a time interval of blood sampling of one month, it would not be possible to detect a short half-life of 1 to 2 days. [Xu et al. (2020)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0220) reported that 9 of the 17 airport workers did not show a decrement in serum levels of PFHxA during the 5-month follow-up, despite supply of cleaned bottled water. Possibly, the blood levels measured resulted from ongoing exposure from other sources in the personal environment of the participants of these studies. [Hall et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0115) reported PFHxA median levels of 0.5 and 1.3 ng/g serum (for two points in time three months apart) in a population exposed to PFAS via contaminated drinking water with PFHxA median levels of 34.3 and 5.9 ng/L, respectively. Such an exposure via drinking water is not compatible with the serum levels if the half-life is only in the range of a few days. In conclusion, more data on PFHxA kinetics are required to clarify the half-life and its variability in humans. In general, many studies failed to detect PFHxA in serum/plasma of the general population ( _e.g._ [Anderson et al. 2019](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0020)), and also in our investigation, plasma levels of background PFHxA in the volunteer were under the LOD during the observation period of about 15 months. In this context, the observation of [Poothong et al. (2017)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0175) is interesting who detected PFHxA in 100 % of the whole blood samples while it was not detected in the respective plasma and serum samples. If there is an equilibrium of PFHxA levels in red blood cells and plasma, the impact on the kinetic parameters of PFHxA due to this phenomenon is expected to be limited.
+
+With respect to “alternative” PFAS, data on half-lives in humans are very scarce. HFPO-DA (half-life 2.9 days) was not detected in blood samples of residents presumably exposed via tap water, indicating a short half‐life ( [Thompson et al. 2019](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0205)). For DONA, serum elimination half-lives of three male employees with potential workplace exposure to DONA or its methyl ester were reported to be 16.8, 17.6 and 35.5 days (mean 23.3 days), similar to the whole-body terminal elimination half-lives in male and female rats in a 7-day oral [toxicokinetic](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/toxicokinetics) study (ECHA [Registration Dossier 2012](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0050)). These informations are in line with our result of 35 days. [Fromme et al. (2017)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0085) reported DONA levels of an adult population living close to a production plant. Only a few of the 396 participants had plasma levels slightly above the LOQ of 0.2 µg/L, compatible with a relatively low half-life of DONA in humans. For 6:2FTS (half-life 4.5 days), no data are available on kinetics in humans, and only very few studies have measured the compound in the human population ( _e.g._ in 49 residents of a PFAS hotspot, all levels found to be below the limit of detection: [Hall et al. 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0115)).
+
+With respect to the long-chain PFAS, our observation period of about 15 months was too short for exact numbers (relatively wide confidence intervals of the values, see [Table 3](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0015)). The results were found to be within the ranges of arithmetic means from large studies: 2.3 to 8.5 years in case of PFOA, 4.7 to 8.5 years in case of PFHxS, and 3.1 to 7.4 years in case of PFOS (according to the compilation of [EFSA 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060)). These investigations were performed in populations of polluted areas with follow-up after ceasing the contamination ( _e.g._ by provisioning of clean drinking water), or in retired fluorochemical production workers. As this populations have an ongoing exposure resulting from background levels and possibly from remainders of the contamination, such studies may overestimate the half-lives ( [Bartell 2012](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0025)).
+
+A surprising result was the relatively long half-life of MPFOA (5.5 years, range 4.0 to 8.8 years), as in the preceding investigation on dermal absorption, the estimated half-life in the volunteer was reported to be 1.8 years after an observation period of 115 days ( [Abraham and Monien 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0010)). This period obviously was too short, as the later measurements (4-weekly from day 129 to 409 after application of the sunscreen) revealed relatively high MPFOA levels without a significant decrease ( [Supplemental Information: Figure S3](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)). Most likely, the discrepancies result from distribution processes during the first two to three months after application, as the phenomenon (relative strong decrease of the levels in this period, with a following slight increase before the terminal decline) was observed more or less with all long-chain compounds ( [Fig. 3](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0015) C and D, and modelling graphs in the [Supplemental Information](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)).
+
+With respect to the pattern of half-lives of the different PFAS and the huge differences observed, the results of a feeding study in 24 pigs are interesting ( [Numata et al. 2014](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0160)). Pigs are known to be a biomedical model of human physiology ( [Groenen et al. 2012](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0110)). The animals got a feed contaminated with PFAS. Using a kinetic model with the two compartments plasma and edible tissues (liver, kidney, fat, muscle), half-lives (geometric means) were reported to be 634 days (PFOS), 236 days (PFOA), 74 days (PFHpA), 43 days (PFBS), and 4.1 days (PFHxA). The results of single compounds roughly varied by one order of magnitude. In contrast to the very short half-lives in rodents (days to weeks only even in case of long-chain PFAS, [EFSA 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060)), these values are relatively close to those observed in this investigation.
+
+### 4.4. Terminal volumes of distribution
+
+The terminal volumes of distribution are important kinetic parameters allowing to estimate the total body burden of a compound using its plasma levels, and to further calculate _e.g._ an estimated external exposure under steady state conditions if the half-life is known. However, the volume of distribution is difficult to assess from data of higher exposed populations, as estimated data on intake over time have to be used together with plasma/serum levels and estimated half-lives. Using data from two communities, in which serum concentrations of residents were likely to result primarily from contaminated drinking water, [Thompson et al. (2010)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0210) reported estimated volumes of distribution for PFOA (170 mL/kg bw) and PFOS (230 mL/kg bw). Using published data on PFAS concentrations in serum and corresponding drinking water measurements as well as a one-compartment model and a hierarchical Bayesian approach, [Chiu et al. (2022)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0045) estimated median volumes of distribution for PFOA, PFNA, PFOS and PFHxS to be 430 mL/kg bw (CI 320, 590), 190 mL/kg bw (CI 110, 300), 320 mL/kg bw (CI 220, 470) and 290 mL/kg bw (CI 170, 450), respectively. No data on other PFAS in humans are available. With respect to laboratory animals, compilations of literature data ( [Han et al., 2012](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0120), [EFSA, 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060)) revealed volumes of distribution to be roughly in the same range (predominantly between 100 and 500 mL/kg bw), without strong dependency on the chain-length.
+
+Our design of the investigation (administration of a defined single dose of predominantly isotope-labeled compounds distinguishable from PFAS of background exposure) allowed a simple and reliable determination of the terminal volumes of distribution ( [Table 3](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0015)). Compared to the values mentioned above, our data for MPFOA, MPFNA, MPFHxS and MPFOS of 121, 124, 125 and 152 mL/kg bw, respectively, are lower. With respect to the chain-lengths of PFCA, Vd values for MPFBA to MPFNA were within a narrow range of 110 to 132 mL/kg bw, but with increasing chain-length, the values increased: 184, 241 and 354 mL/kg bw for MPFDA, MPFUdA, and MPFDoA, respectively. The same phenomenon was observed in male and female mice after intravenous injections of PFAS (chain-length from C7 to C14; [Fujii et al. 2015](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0090)).
+
+In general, the volume of distribution is determined by physiological properties of the organism and physicochemical properties of the [xenobiotic](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/xenobiotic-agent). With respect to the latter, especially [plasma protein binding](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/plasma-protein-binding), tissue partitioning, membrane permeability and transporters are important parameters ( [Holt et al. 2019](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0125)). For most of the PFAS investigated, values of Vd are relatively low compared to available data of drugs. In the volunteer, the plasma volume was about 37 ml/kg bw (blood volume about 70 mL/kg bw, haematocrit 47 %), and therefore, volumes of distribution of 120 to 150 mL/kg bw mean that about one quarter to one third of the body burden is in plasma, and the remaining proportions distribute in the rest of the body. Currently, reliable data on the PFAS distribution in human tissues are missing ( [Abraham et al. 2021](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0005)).
+
+### 4.5. Urinary elimination
+
+Huge differences in urinary clearance were observed, ranging in case of the short-chain and “alternative” compounds from highest values for MPFPeA (8.9 mL/min) and MPFHxA (2.7 mL/min) to the lowest quantified value for MPFHpA (0.023 mL/min). There is little data on urinary excretion of short-chain PFAS in the literature. This is not surprising, as these compounds hardly accumulate, and therefore do not reach internal concentrations above the LODs allowing determinations of clearance values. For PFHpA, a mean urinary clearance of 0.67 mL/kg\*day (n = 10) was reported by [Fujii et al. (2015)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0090), and [Zhang et al. (2013)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0225) reported a median estimate of 0.41 mL/kg\*day (n = 31, CI 0.38; 0.83) in the male and older female group (age > 50 years). These values are in line with our value of 0.40 mL/kg\*day.
+
+For long-chain PFCA, [Fujii et al. (2015)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0090) reported mean levels of urinary clearance decreasing with the chain-length, from 0.044 for PFOA to 0.005 mL/kg\*day for PFDoA. [Zhang et al. (2013)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0225) estimated medians of 0.18, 0.094, 0.035, 0.042 mL/kg\*day for PFOA, PFNA, PFDA and PFUdA, respectively. The PFOA value of 0.044 mL/kg\*day ( [Fujii et al. 2015](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0090)) is nearly identical with our result for the total clearance of MPFOA of 0.0024 mL/min = 0.042\*mL/kg\*day. However, a urinary clearance decreasing with the chain-length would only be in line with our results (half-lives decrease from MPFOA to MPFDoA), if fecal excretion of these compounds is more important than urinary excretion. In general, the analytical protocols for the measurement of PFAS in urine are not well established. We ourselves were not able to detect long-chain PFAS in urine with the reported methods (at the levels resulting from low doses applied in this investigation), and attempts to use of higher volumes of urine ( _e.g._ 5 mL with the SPE reported here or even 50 mL as suggested by [Zhang et al. 2013](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0225)) to lower the LOQs were not successful. Even after dilution of urine samples with water, SPE cartridges were frequently clogged and the matrix content led to high mass spectrometric background and signal suppression. Maybe future developments will allow for the quantification of the 13C-labeled compounds in our samples.
+
+For the short-chain PFAS and the three “alternative” PFAS investigated, urinary excretion determined their half-lives, _i.e._ in most cases, values of urinary clearance match well with those of total clearance ( [Fig. 6](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0030) A, [Table 4](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0020)). With respect to differences between these compounds, the chain-length of the PFCA obviously is important, with decreasing urinary clearance from MPFPeA to MPFHpA. However, it is important to note that MPFBA has a lower clearance compared to MPFPeA and MPFHxA. Furthermore, a comparison of PFCA and PFSA with equal chain-length (based on the number of C-atoms) revealed a much higher urinary excretion of the PFCA: MPFBA vs. PFBS (CLUri 1.0 vs. 0.067 mL/min), and MPFHxA vs. MPFHxS (CLUri 2.68 mL/min vs. not detected in urine).
+
+To shed more light on these differences, the underlying mechanisms of urinary excretion should be considered. After (passive) glomerular filtration of blood plasma, PFAS in the primary urine may be subject to (active) tubular reabsorption, and (active) tubular secretion may take place to eliminate PFAS ( [Niu et al. 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0155)). With respect to the first mechanism, its effectiveness depends on the binding of PFAS to large molecules unable to cross the filter membrane. Many studies have been performed to investigate the binding of different PFAS especially to proteins using different methods. Albumin was identified as the most important carrier of PFOA, PFNA, PFDA, PFHxS, PFOS in native human plasma, whereas these compounds have very little or no affinity for [lipoproteins](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/lipoprotein) (VLDL, LDL, and HDL) ( [Forsthuber et al. 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0080)). The binding to albumin was characterized to be chain-length dependent and very high for the long-chain PFAS. However, for consideration of mechanisms of filtration, only the unbound fraction in plasma (able to cross the filter membrane) is relevant. Here, human data is very scarce, but recently, [Smeltz et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0195) quantified these fractions unbound in plasma (fup) for 71 PFAS. The chain-length dependent values for PFCA ranged from 0.3108 for PFBA to 0.0004 for PFHpA as lowest value, and then increased to 0.0148 for PFUdA (data of the more reliable method of ultracentrifugation). All fup values available for the PFAS of this investigation are compiled in [Table 4](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0020). Using these values and the GFR of 113.7 mL/min measured in the volunteer as creatinine clearance, estimated clearance rates of glomerular filtration only (CLFilt) were calculated as product of both parameters ( [Table 4](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0020)).
+
+Remarkably, for MPFPeA and MPFHxA (shortest half-lives of 0.5 and 1.4 days, respectively), the total clearance was higher than the filtration clearance (MPFPeA: 8.5 vs. 5.0 mL/min; MPFHxA: 3.2 vs. 0.77 mL/min), indicating an additional (netto) tubular secretion. In other words: to explain their very short half-lives, additional tubular secretion has to be considered, as glomerular filtration is not high enough. In contrast, for the small molecules with longer half-lives, MPFBA and PFBS, the total clearance was much lower than the filtration clearance (MPFBA 1.2 vs. 10.6 mL/min; PFBS: 0.11 vs. 0.52 mL/min), indicating a considerable (netto) tubular reabsorption. For the four compounds mentioned, the values of CLFilt and CLtot are displayed in [Fig. 7](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0035), together with the resulting clearance of (netto) tubular secretion (green) and of (netto) tubular reabsorption (in red), which is a negative “clearance”. For all remaining PFAS with fup values, the same as for MPFBA and PFBS holds true (CLtot < CLFilt, see [Table 4](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0020), including the long-chain PFAS with unquantifiable concentrations in urine). With respect to MPFHpA, however, CLFilt (0.045 mL/min) was only little higher than CLtot (0.033 mL/min), indicating that the longest half-life (152 days) of the short-chain PFAS is mainly caused by the high binding to plasma components, and not by tubular reabsorption. It should be noted that these considerations are based on the data of [Smeltz et al. (2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0195); not yet confirmed by other studies) and the investigation of a single person, and therefore have the character of a hypothesis.
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr7.jpg)
+
+1. [Download: Download high-res image (109KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr7_lrg.jpg "Download high-res image (109KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-gr7.jpg "Download full-size image")
+
+Fig. 7. Bar chart of the estimated filtration clearance (dark blue) and the total clearance (light blue), and the resulting differences as (netto) tubular secretion (green) or (netto) tubular reabsorption (red, also calculated as difference, with the meaning of a negative “clearance”). For abbreviations see [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#t0005). (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+In contrast to the passive process of glomerular filtration, tubular reabsorption and secretion of PFAS are active processes, involving a number of specific [organic anion transporters](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/organic-anion-transporter) (OATs) and organic anion-transporting [polypeptides](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/polypeptide) (OATPs) facilitating the transport across cell membranes. This has been investigated in rodents and humans ( [Han et al., 2012](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0120), [Louisse et al., 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0140), [Niu et al., 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0155)). In rats, for example, OAT1 and OAT3 are involved in tubular secretion of PFHpA, PFOA and PFNA, whereas OATP1a1 may contribute to the tubular reabsorption of PFOA, PFNA and PFDA ( [Weaver et al. 2010](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0215)). Especially, tubular reabsorption has attracted a great deal of scientific attention in the context of large species-specific kinetic differences in case of the long-chain PFAS between rodents (half-life of days to weeks) and humans (half-life of years), as well as the considerable kinetic differences between different PFAS, which are thought to be related to different receptor affinities ( [EFSA, 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060), [Niu et al., 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0155)). With respect to the extreme half-lives of long-chain PFAS in humans, however, _e.g._ a free plasma fraction of 0.001 in case of PFOA ( [Smeltz et al. 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0195)) would already result in a half-life of about 42 days, [2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#fn2) if no other mechanisms of excretion would be in place besides glomerular filtration.
+
+### 4.6. Fecal elimination
+
+In our investigation, we observed a fecal elimination of the five long-chain PFCA (MPFOA to MPFDoA), with concentrations in feces increasing with the chain-length. The values of fecal clearance in turn highly correlated with those of total clearance ( [Fig. 6](https://www.sciencedirect.com/science/article/pii/S0160412024006330#f0030) B), however, the slope of the regression line was 0.61 only. This may indicate that only about 50 % of the total elimination was via feces. The remainder would probably have been excreted via urine, but the levels would not have been quantifiable. Such an interpretation is supported by measurements of urinary and fecal elimination in Ronneby participants ( [Fletcher et al. 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0075), currently available as abstract only). Preliminary data of 51 subjects revealed PFOA median levels of 10 ng/ml in serum, 0.02 ng/ml in urine and 0.6 ng/g dry weight in faeces, which corresponded to estimated elimination rates of 28 ng/day (urine) and 17 ng/day (feces). Whereas we were not able to detect MPFHxS and MPFOS in fecal samples (probably due to the low doses applied), [Fletcher et al. (2022)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0075) reported median ratios (faecal/urinary daily elimination) 0.18 for PFHxS and 3.65 for PFOS, indicating a higher importance of fecal compared to [renal excretion](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/renal-excretion) in case of PFOS. In general, knowledge on modes and mechanisms of biliary and gastrointestinal elimination of PFAS is scarce. To elucidate the kinetics of PFCA with different chain-lengths, [Fujii et al. (2015)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0090) administered the compounds to mice. Short-chained PFCA (C6 and C7) were rapidly eliminated in the urine, whereas long-chain PFCA (C8 to C14) accumulated in the liver and were excreted slowly in feces. These results resemble those of our investigation, even if the rates of total clearance were 50 − 100 times smaller in humans than those in mice. [Fujii et al. (2015)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0090) also analyzed five human bile samples. The estimated daily rates of biliary clearance were much higher than those of the urinary clearance ( _e.g._ for PFOA: mean 2.62 vs. 0.044 mL/kg\*day, respectively), and continuously increased with increasing chain-length from the lowest value for PFNA (mean 1.20 mL/kg\*day) to PFDoA (mean 3.27 mL/kg\*day) and to even higher values for the C13 and C14 compound. However, enterohepatic reabsorption is thought to be more or less complete ( [EFSA, 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0060), [Cao et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0035)), resulting in a much lower fecal clearance compared to the biliary clearance published by [Fujii et al. (2015)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0090). Recently, [Møller et al. (2024)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0150) demonstrated in a cross-over trial with 45 participants from a PFAS hotspot that the oral application of an [anion exchange resin](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/anion-exchange-resin) (cholestyramine 4 g three times daily) for 12 weeks has led to a 60 % decrease of PFOS serum levels, while the decease of PFHxS, PFOA, PFNA and PFDA was lower (15 to 44 %). Earlier, [cholestyramine](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/colestyramine) treatment already has been shown to increase fecal PFAS levels, while the levels were mostly undetectable prior to treatment ( [Genuis et al. 2013](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0100)). Furthermore, enterohepatic reabsorption may be reduced by gut inflammation and reduced gut permeability, as indicated by a study on PFAS half-lives in Ronneby participants of [Li et al. (2022)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0135). Taking the available evidence together, further research on possible mechanisms including [PFAS interactions](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/substances-interaction) with transporters involved in secretion and reabsorption processes on the hepatic and intestinal level seems promising.
+
+### 4.7. Conclusions
+
+Our investigation allows for the direct comparison of the kinetics of 15 PFAS. With respect to the volumes of distribution predominantly influenced by physiochemical properties and passive mechanisms of distribution in the body, most values were found in a relative narrow range roughly around 125 mL/kg bw, but the compounds with the highest chain-lengths of PFCA (MPFDA to MPFDoA) revealed higher values up to a factor of about three. In contrast to this pattern, half-lives were found to vary extremely, from 0.5 days for MPFPeA to 5.5 years for MPFOA (difference about factor 3,900). Considering the evidence from several years of research ( _e.g._ [Niu et al. 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0155)), one key for understanding is renal elimination. It involves glomerular filtration of the fraction of unbound PFAS in plasma (fup), and according to the data of [Smeltz et al. (2023)](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0195), there is already a difference by a factor of more than 200 (range 0.093 for PFBA to 0.0004 for PFHpA). Furthermore, the mechanisms of tubular secretion and reabsorption involve OATs and therefore active processes, which have a considerable impact on the half-lives. While the compounds with the shortest half-lives, MPFPeA and MPFHxA, may be secreted actively by these transporters in addition to glomerular filtration, the other compounds undergo (netto) tubular reabsorption to varying degrees, depending on binding affinities to OATs. As known for many years, the tubular reabsorption mechanisms are crucial for the four main compounds (PFOA, PFNA, PFHxS, PFOS) found with the highest concentrations in human plasma. Our investigation confirms these compounds as the ones with the longest half-lives (range: 3.3 to 5.5 years), with very low urinary excretion (<LOD), but quantifiable fecal excretion. Our data and those of others ( [Fletcher et al., 2022.](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0075), [Møller et al., 2024](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0150)) underline the importance of the fecal route of elimination in case of long-chain PFAS, a route that may have received too little scientific attention in the past.
+
+The kinetic data of this investigation are important for PFAS risk assessment. Especially the half-lives are crucial to estimate the potential of accumulation in cases of contamination of food or drinking water. Currently, estimates of external exposure via food (using occurrence and consumption data) are difficult, as concentrations of PFAS in foods are often too low to be quantified by the analytical methods available ( _e.g._ [Genualdi et al. 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#b0095)). Using reliable data of volumes of distribution and half-lives would allow an estimation of the external exposure under steady state conditions from the PFAS levels measured in plasma.
+
+## Funding
+
+The investigation was financed exclusively by public money of the German Federal Institute for Risk Assessment (BfR).
+
+## CRediT authorship contribution statement
+
+**Klaus Abraham:** Writing – review & editing, Writing – original draft, Supervision, Investigation, Formal analysis, Conceptualization. **Helena Mertens:** Writing – review & editing, Validation, Methodology. **Lennart Richter:** Validation. **Hans Mielke:** Writing – review & editing, Formal analysis. **Tanja Schwerdtle:** Writing – review & editing, Supervision. **Bernhard H. Monien:** Writing – review & editing, Visualization, Validation, Methodology, Formal analysis.
+
+## Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+## Acknowledgements
+
+The authors like to thank Christel Rozycki and Petra Zocher for excellent technical assistance, and Prof. Dr. Ursula Gundert-Remy for helpful discussions.
+
+## Appendix A. Supplementary material
+
+Download all supplementary files included with this article [What’s this?](https://service.elsevier.com/app/answers/detail/a_id/19286/supporthub/sciencedirect/ "What’s this? (Opens in new window)")
+
+The following are the Supplementary data to this article:[Download: Download Word document (972KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-mmc1.docx "Download Word document (972KB)")
+Supplementary Data 1.
+
+[Download: Download spreadsheet (56KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024006330-mmc2.xlsx "Download spreadsheet (56KB)")
+Supplementary Data 2.
+
+## Data availability
+
+All PFAS levels measured are available in the Supplemental Excel file.
+
+## References
+
+01. [Abraham et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0005)
+
+
+    K. Abraham, A.H. El-Khatib, T. Schwerdtle, B.H. Monien
+
+
+
+    Perfluorobutanoic acid (PFBA): no high-level accumulation in human lung and kidney tissue
+
+
+
+    Int. J. Hyg. Environ. Health (2021), p. 237 113830, [10.1016/j.ijheh.2021.113830](https://doi.org/10.1016/j.ijheh.2021.113830)
+
+    Epub 2021 Aug 24. PMID: 34450542
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxlbHNldmllcixNVEF1TVRBeE5pOXFMbWxxYUdWb0xqSXdNakV1TVRFek9ETXcsT0RWaVlXTXhZbVl0WVRGbVpTMDBOR0ZpTFRsalpHUXROREk0T0dJM05ESTJNREkzLGh0dHBzOi8vd3d3LnNjaWVuY2VkaXJlY3QuY29tL3NjaWVuY2UvYXJ0aWNsZS9waWkvUzE0Mzg0NjM5MjEwMDE0NTA_cGVzPXZvcg.il0_nDBfaVqvZskGlJjGcnTbYoka3Coy8W1tmp8i1TI)
+
+
+     [Google Scholar](https://scholar.google.com/scholar_lookup?title=Perfluorobutanoic%20acid%20%3A%20no%20high-level%20accumulation%20in%20human%20lung%20and%20kidney%20tissue&publication_year=2021&author=K.%20Abraham&author=A.H.%20El-Khatib&author=T.%20Schwerdtle&author=B.H.%20Monien)
+
+02. [Abraham and Monien, 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0010)
+
+
+    K. Abraham, B.H. Monien
+
+
+
+    Transdermal absorption of 13C4-perfluorooctanoic acid (13C4-PFOA) from a sunscreen in a male volunteer – what could be the contribution of cosmetics to the internal exposure of perfluoroalkyl substances (PFAS)?
+
+
+
+    Environ. Int., 169 (2022), Article 107549, [10.1016/j.envint.2022.107549](https://doi.org/10.1016/j.envint.2022.107549)
+
+    Epub 2022 Sep 26 PMID: 36191486
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412022004767/pdfft?md5=38efa279e3e2d3cf4f2233abf69fb721&pid=1-s2.0-S0160412022004767-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412022004767) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85139066135&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Transdermal%20absorption%20of%2013C4-perfluorooctanoic%20acid%20%20from%20a%20sunscreen%20in%20a%20male%20volunteer%20%20what%20could%20be%20the%20contribution%20of%20cosmetics%20to%20the%20internal%20exposure%20of%20perfluoroalkyl%20substances%20&publication_year=2022&author=K.%20Abraham&author=B.H.%20Monien)
+
+03. [Allendorf et al., 2019](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0015)
+
+
+    F. Allendorf, U. Berger, K.U. Goss, N. Ulrich
+
+
+
+    Partition coefficients of four perfluoroalkyl acid alternatives between bovine serum albumin (BSA) and water in comparison to ten classical perfluoroalkyl acids
+
+
+
+    Environ. Sci Process Impacts., 21 (11) (2019), pp. 1852-1863, [10.1039/c9em00290a](https://doi.org/10.1039/c9em00290a)
+
+    Epub 2019 Sep 2 PMID: 31475719
+
+    [View at publisher](https://doi.org/10.1039/c9em00290a) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85074964799&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Partition%20coefficients%20of%20four%20perfluoroalkyl%20acid%20alternatives%20between%20bovine%20serum%20albumin%20%20and%20water%20in%20comparison%20to%20ten%20classical%20perfluoroalkyl%20acids&publication_year=2019&author=F.%20Allendorf&author=U.%20Berger&author=K.U.%20Goss&author=N.%20Ulrich)
+
+04. [Anderson et al., 2019](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0020)
+
+
+    J.K. Anderson, A.L. Luz, P. Goodrum, J. Durda
+
+
+
+    Perfluorohexanoic acid toxicity, part II: application of human health toxicity value for risk characterization
+
+
+
+    Regul. Toxicol. Pharm., 103 (2019), pp. 10-20, [10.1016/j.yrtph.2019.01.020](https://doi.org/10.1016/j.yrtph.2019.01.020)
+
+    Epub 2019 Jan 8 PMID: 30634020
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0273230019300200/pdfft?md5=f9ea6eab389b486b127d4c9648288aa6&pid=1-s2.0-S0273230019300200-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0273230019300200) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85059799776&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Perfluorohexanoic%20acid%20toxicity%2C%20part%20II%3A%20application%20of%20human%20health%20toxicity%20value%20for%20risk%20characterization&publication_year=2019&author=J.K.%20Anderson&author=A.L.%20Luz&author=P.%20Goodrum&author=J.%20Durda)
+
+05. [Bartell, 2012](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0025)
+
+
+    S.M. Bartell
+
+
+
+    Bias in half-life estimates using log concentration regression in the presence of background exposures, and potential solutions
+
+
+
+    J. Expo. Sci. Environ. Epidemiol., 22 (3) (2012), pp. 299-303, [10.1038/jes.2012.2](https://doi.org/10.1038/jes.2012.2)
+
+    Epub 2012 Feb 15. Erratum in: J Expo Sci Environ Epidemiol. 2018 May;28(3):305. PMID: 22333729.
+
+    [View at publisher](https://doi.org/10.1038/jes.2012.2) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84859985611&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Bias%20in%20half-life%20estimates%20using%20log%20concentration%20regression%20in%20the%20presence%20of%20background%20exposures%2C%20and%20potential%20solutions&publication_year=2012&author=S.M.%20Bartell)
+
+06. [Brase et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0030)
+
+
+    R.A. Brase, E.J. Mullin, D.C. Spink
+
+
+
+    Legacy and emerging per- and polyfluoroalkyl substances: analytical techniques, environmental fate, and health effects
+
+
+
+    Int. J. Mol. Sci., 22 (3) (2021), p. 995, [10.3390/ijms22030995](https://doi.org/10.3390/ijms22030995)
+
+    PMID: 33498193; PMCID: PMC7863963
+
+    [View at publisher](https://doi.org/10.3390/ijms22030995) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Legacy%20and%20emerging%20per-%20and%20polyfluoroalkyl%20substances%3A%20analytical%20techniques%2C%20environmental%20fate%2C%20and%20health%20effects&publication_year=2021&author=R.A.%20Brase&author=E.J.%20Mullin&author=D.C.%20Spink)
+
+07. [Cao et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0035)
+
+
+    H. Cao, Z. Zhou, Z. Hu, C. Wei, J. Li, L. Wang, G. Liu, J. Zhang, Y. Wang, T. Wang, Y. Liang
+
+
+
+    Effect of enterohepatic circulation on the accumulation of per- and polyfluoroalkyl substances: evidence from experimental and computational studies
+
+
+
+    Environ. Sci. Tech., 56 (5) (2022), pp. 3214-3224, [10.1021/acs.est.1c07176](https://doi.org/10.1021/acs.est.1c07176)
+
+    Epub 2022 Feb 9 PMID: 35138827
+
+    [View at publisher](https://doi.org/10.1021/acs.est.1c07176) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85124905253&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Effect%20of%20enterohepatic%20circulation%20on%20the%20accumulation%20of%20per-%20and%20polyfluoroalkyl%20substances%3A%20evidence%20from%20experimental%20and%20computational%20studies&publication_year=2022&author=H.%20Cao&author=Z.%20Zhou&author=Z.%20Hu&author=C.%20Wei&author=J.%20Li&author=L.%20Wang&author=G.%20Liu&author=J.%20Zhang&author=Y.%20Wang&author=T.%20Wang&author=Y.%20Liang)
+
+08. [Chang et al., 2008](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0040)
+
+
+    S.C. Chang, K. Das, D.J. Ehresman, M.E. Ellefson, G.S. Gorman, J.A. Hart, P.E. Noker, Y.M. Tan, P.H. Lieder, C. Lau, G.W. Olsen, J.L. Butenhoff
+
+
+
+    Comparative pharmacokinetics of perfluorobutyrate in rats, mice, monkeys, and humans and relevance to human exposure via drinking water
+
+
+
+    Toxicol. Sci., 104 (1) (2008), pp. 40-53, [10.1093/toxsci/kfn057](https://doi.org/10.1093/toxsci/kfn057)
+
+    Epub 2008 Mar 18 PMID: 18353799
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxvdXAsTVRBdU1UQTVNeTkwYjNoelkya3ZhMlp1TURVMyxaREJqTkRBMk0yRXRNbVF3TXkwMFlUZzRMVGhsTVdZdE1qTTVNekk1T1ROaU1qUXosaHR0cHM6Ly9hY2FkZW1pYy5vdXAuY29tL0dldEZ0ckNvbnRlbnQvR2V0UGRmQnlEb2k_ZG9pPTEwLjEwOTMlMmZ0b3hzY2klMmZrZm4wNTcmcmVzb3VyY2V0eXBlPTQmcGFyZW50UmVzb3VyY2VUeXBlSWQ9Mw.Vi91YvN05qoRKPvUE7K_tGedeCTVDf0y4dJT9vANX1Q)
+
+
+     [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-45549089605&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Comparative%20pharmacokinetics%20of%20perfluorobutyrate%20in%20rats%2C%20mice%2C%20monkeys%2C%20and%20humans%20and%20relevance%20to%20human%20exposure%20via%20drinking%20water&publication_year=2008&author=S.C.%20Chang&author=K.%20Das&author=D.J.%20Ehresman&author=M.E.%20Ellefson&author=G.S.%20Gorman&author=J.A.%20Hart&author=P.E.%20Noker&author=Y.M.%20Tan&author=P.H.%20Lieder&author=C.%20Lau&author=G.W.%20Olsen&author=J.L.%20Butenhoff)
+
+09. [Chiu et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0045)
+
+
+    W.A. Chiu, M.T. Lynch, C.R. Lay, A. Antezana, P. Malek, S. Sokolinski, R.D. Rogers
+
+
+
+    Bayesian estimation of human population toxicokinetics of PFOA, PFOS, PFHxS, and PFNA from studies of contaminated drinking water
+
+
+
+    Environ. Health Perspect., 130 (12) (2022), [10.1289/EHP10103](https://doi.org/10.1289/EHP10103)
+
+    Epub 2022 PMID: 36454223; PMCID: PMC9714558.
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxhY3MsTVRBdU1USTRPUzlsYUhBeE1ERXdNdyxaREJqTkRBMk0yRXRNbVF3TXkwMFlUZzRMVGhsTVdZdE1qTTVNekk1T1ROaU1qUXosaHR0cHM6Ly9wdWJzLmFjcy5vcmcvR2V0RnRyQ29udGVudC9HZXRQZGZCeURvaT9kb2k9MTAuMTI4OSUyZkVIUDEwMTAzJnJlc291cmNldHlwZT00.FBWHdeAbuVSBDJ_r8TJN8ZC8INHj3YgCqTIOMX17Ids)
+
+
+     [Google Scholar](https://scholar.google.com/scholar_lookup?title=Bayesian%20estimation%20of%20human%20population%20toxicokinetics%20of%20PFOA%2C%20PFOS%2C%20PFHxS%2C%20and%20PFNA%20from%20studies%20of%20contaminated%20drinking%20water&publication_year=2022&author=W.A.%20Chiu&author=M.T.%20Lynch&author=C.R.%20Lay&author=A.%20Antezana&author=P.%20Malek&author=S.%20Sokolinski&author=R.D.%20Rogers)
+
+10. [ECHA Registration Dossier, 2012](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0050)
+    ECHA Registration Dossier (2012) ammonium 2,2,3 trifluor-3-(1,1,2,2,3,3-hexafluoro-3-trifluormethoxypropoxy), propionate. Last modified: February 2017. [https://echa.europa.eu/de/registration-dossier/-/registered-dossier/2602/7/2/1](https://echa.europa.eu/de/registration-dossier/-/registered-dossier/2602/7/2/1).
+
+    [Google Scholar](https://scholar.google.com/scholar?q=ECHA%20Registration%20Dossier%20(2012)%20ammonium%202%2C2%2C3%20trifluor-3-(1%2C1%2C2%2C2%2C3%2C3-hexafluoro-3-trifluormethoxypropoxy)%2C%20propionate.%20Last%20modified%3A%20February%202017.%20https%3A%2F%2Fecha.europa.eu%2Fde%2Fregistration-dossier%2F-%2Fregistered-dossier%2F2602%2F7%2F2%2F1.)
+
+11. [EFSA Working Group on Left Censored Data, 2010](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0055)
+    EFSA Working Group on Left Censored Data (2010) Management of left-censored data in dietary exposure assessment of chemical substances. EFSA J 8:1557.
+
+    [Google Scholar](https://scholar.google.com/scholar?q=EFSA%20Working%20Group%20on%20Left%20Censored%20Data%20(2010)%20Management%20of%20left-censored%20data%20in%20dietary%20exposure%20assessment%20of%20chemical%20substances.%20EFSA%20J%208%3A1557.)
+
+12. [EFSA, 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0060)
+    EFSA Panel on Contaminants in the Food Chain (EFSA CONTAM Panel); Schrenk D, Bignami M, Bodin L, Chipman JK, Del Mazo J, Grasl-Kraupp B, Hogstrand C, Hoogenboom LR, Leblanc JC, Nebbia CS, Nielsen E, Ntzani E, Petersen A, Sand S, Vleminckx C, Wallace H, Barregård L, Ceccatelli S, Cravedi JP, Halldorsson TI, Haug LS, Johansson N, Knutsen HK, Rose M, Roudot AC, Van Loveren H, Vollmer G, Mackay K, Riolo F, Schwerdtle T. Risk to human health related to the presence of perfluoroalkyl substances in food. EFSA J. (2020) 18(9):e06223. doi: 10.2903/j.efsa.2020.6223. PMID: 32994824; PMCID: PMC7507523.
+
+    [Google Scholar](https://scholar.google.com/scholar?q=EFSA%20Panel%20on%20Contaminants%20in%20the%20Food%20Chain%20(EFSA%20CONTAM%20Panel)%3B%20Schrenk%20D%2C%20Bignami%20M%2C%20Bodin%20L%2C%20Chipman%20JK%2C%20Del%20Mazo%20J%2C%20Grasl-Kraupp%20B%2C%20Hogstrand%20C%2C%20Hoogenboom%20LR%2C%20Leblanc%20JC%2C%20Nebbia%20CS%2C%20Nielsen%20E%2C%20Ntzani%20E%2C%20Petersen%20A%2C%20Sand%20S%2C%20Vleminckx%20C%2C%20Wallace%20H%2C%20Barreg%C3%A5rd%20L%2C%20Ceccatelli%20S%2C%20Cravedi%20JP%2C%20Halldorsson%20TI%2C%20Haug%20LS%2C%20Johansson%20N%2C%20Knutsen%20HK%2C%20Rose%20M%2C%20Roudot%20AC%2C%20Van%20Loveren%20H%2C%20Vollmer%20G%2C%20Mackay%20K%2C%20Riolo%20F%2C%20Schwerdtle%20T.%20Risk%20to%20human%20health%20related%20to%20the%20presence%20of%20perfluoroalkyl%20substances%20in%20food.%20EFSA%20J.%20(2020)%2018(9)%3Ae06223.%20doi%3A%2010.2903%2Fj.efsa.2020.6223.%20PMID%3A%2032994824%3B%20PMCID%3A%20PMC7507523.)
+
+13. [Evich et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0065)
+
+
+    M.G. Evich, M.J.B. Davis, J.P. McCord, B. Acrey, J.A. Awkerman, D.R.U. Knappe, A.B. Lindstrom, T.F. Speth, C. Tebes-Stevens, M.J. Strynar, Z. Wang, E.J. Weber, W.M. Henderson, J.W. Washington
+
+
+
+    Per- and polyfluoroalkyl substances in the environment
+
+
+
+    Science., 375 (6580) (2022), [10.1126/science.abg9065](https://doi.org/10.1126/science.abg9065)
+
+    eabg9065 Epub 2022 PMID: 35113710; PMCID: PMC8902460.
+
+    [View at publisher](https://doi.org/10.1126/science.abg9065) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Per-%20and%20polyfluoroalkyl%20substances%20in%20the%20environment&publication_year=2022&author=M.G.%20Evich&author=M.J.B.%20Davis&author=J.P.%20McCord&author=B.%20Acrey&author=J.A.%20Awkerman&author=D.R.U.%20Knappe&author=A.B.%20Lindstrom&author=T.F.%20Speth&author=C.%20Tebes-Stevens&author=M.J.%20Strynar&author=Z.%20Wang&author=E.J.%20Weber&author=W.M.%20Henderson&author=J.W.%20Washington)
+
+14. [Fan and de Lannoy, 2014](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0070)
+
+
+    J. Fan, I.A. de Lannoy
+
+
+
+    Pharmacokinetics
+
+
+
+    Biochem. Pharmacol., 87 (1) (2014), pp. 93-120, [10.1016/j.bcp.2013.09.007](https://doi.org/10.1016/j.bcp.2013.09.007)
+
+    Epub 2013 PMID: 24055064
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0006295213005790/pdfft?md5=8f10fca34441adc19abdea506c7abd2a&pid=1-s2.0-S0006295213005790-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0006295213005790) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84892366958&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Pharmacokinetics&publication_year=2014&author=J.%20Fan&author=I.A.%20de%20Lannoy)
+
+15. [Fletcher et al., 2022.](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0075)
+
+
+    T. Fletcher, A. Andersson, Y. Li, Y. Xu, C.H. Lindh, A. Kärrman, K. Jakobsson
+
+
+
+    The relative importance of faecal and urinary excretion of PFAS and implications for epidemiological studies
+
+
+
+    ISEE Conference Abstracts (2022), [10.1289/isee.2022.O-OP-024](https://doi.org/10.1289/isee.2022.O-OP-024)
+
+    [View at publisher](https://doi.org/10.1289/isee.2022.O-OP-024) [Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20relative%20importance%20of%20faecal%20and%20urinary%20excretion%20of%20PFAS%20and%20implications%20for%20epidemiological%20studies&publication_year=2022&author=T.%20Fletcher&author=A.%20Andersson&author=Y.%20Li&author=Y.%20Xu&author=C.H.%20Lindh&author=A.%20K%C3%A4rrman&author=K.%20Jakobsson)
+
+16. [Forsthuber et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0080)
+
+
+    M. Forsthuber, A.M. Kaiser, S. Granitzer, I. Hassl, M. Hengstschläger, H. Stangl, C. Gundacker
+
+
+
+    Albumin is the major carrier protein for PFOS, PFOA, PFHxS, PFNA and PFDA in human plasma
+
+
+
+    Environ. Int., 137 (2020), Article 105324, [10.1016/j.envint.2019.105324](https://doi.org/10.1016/j.envint.2019.105324)
+
+    Epub 2020 Feb 25 PMID: 32109724
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412019331964/pdfft?md5=e215903eed8f350cadecec8c1561c76b&pid=1-s2.0-S0160412019331964-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412019331964) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85079889619&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Albumin%20is%20the%20major%20carrier%20protein%20for%20PFOS%2C%20PFOA%2C%20PFHxS%2C%20PFNA%20and%20PFDA%20in%20human%20plasma&publication_year=2020&author=M.%20Forsthuber&author=A.M.%20Kaiser&author=S.%20Granitzer&author=I.%20Hassl&author=M.%20Hengstschl%C3%A4ger&author=H.%20Stangl&author=C.%20Gundacker)
+
+17. [Fromme et al., 2017](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0085)
+
+
+    H. Fromme, M. Wöckner, E. Roscher, W. Völkel
+
+
+
+    ADONA and perfluoroalkylated substances in plasma samples of German blood donors living in South Germany
+
+
+
+    Int. J. Hyg. Environ. Health., 220 (2 Pt B) (2017), pp. 455-460, [10.1016/j.ijheh.2016.12.014](https://doi.org/10.1016/j.ijheh.2016.12.014)
+
+    Epub 2017 Jan 4. PMID: 28073630.
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S1438463916305685/pdfft?md5=082e2e80b3a920680c61c7f82d343ffd&pid=1-s2.0-S1438463916305685-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S1438463916305685) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85009286712&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=ADONA%20and%20perfluoroalkylated%20substances%20in%20plasma%20samples%20of%20German%20blood%20donors%20living%20in%20South%20Germany&publication_year=2017&author=H.%20Fromme&author=M.%20W%C3%B6ckner&author=E.%20Roscher&author=W.%20V%C3%B6lkel)
+
+18. [Fujii et al., 2015](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0090)
+
+
+    Y. Fujii, T. Niisoe, K.H. Harada, S. Uemoto, Y. Ogura, K. Takenaka, A. Koizumi
+
+
+
+    Toxicokinetics of perfluoroalkyl carboxylic acids with different carbon chain lengths in mice and humans
+
+
+
+    J. Occup. Health, 57 (1) (2015), pp. 1-12, [10.1539/joh.14-0136-OA](https://doi.org/10.1539/joh.14-0136-OA)
+
+    Epub 2014 Nov 21 PMID: 25422127
+
+    [View at publisher](https://doi.org/10.1539/joh.14-0136-OA) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84922690376&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Toxicokinetics%20of%20perfluoroalkyl%20carboxylic%20acids%20with%20different%20carbon%20chain%20lengths%20in%20mice%20and%20humans&publication_year=2015&author=Y.%20Fujii&author=T.%20Niisoe&author=K.H.%20Harada&author=S.%20Uemoto&author=Y.%20Ogura&author=K.%20Takenaka&author=A.%20Koizumi)
+
+19. [Genualdi et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0095)
+
+
+    S. Genualdi, J. Beekman, K. Carlos, C.M. Fisher, W. Young, L. DeJager, T. Begley
+
+
+
+    Analysis of per- and poly-fluoroalkyl substances (PFAS) in processed foods from FDA's Total Diet Study
+
+
+
+    Anal. Bioanal. Chem., 414 (3) (2022), pp. 1189-1199, [10.1007/s00216-021-03610-2](https://doi.org/10.1007/s00216-021-03610-2)
+
+    Epub 2021 Aug 26 PMID: 34435208
+
+    [View at publisher](https://doi.org/10.1007/s00216-021-03610-2) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85113397758&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Analysis%20of%20per-%20and%20poly-fluoroalkyl%20substances%20%20in%20processed%20foods%20from%20FDAs%20Total%20Diet%20Study&publication_year=2022&author=S.%20Genualdi&author=J.%20Beekman&author=K.%20Carlos&author=C.M.%20Fisher&author=W.%20Young&author=L.%20DeJager&author=T.%20Begley)
+
+20. [Genuis et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0100)
+
+
+    S.J. Genuis, L. Curtis, D. Birkholz
+
+
+
+    Gastrointestinal elimination of perfluorinated compounds using cholestyramine and chlorella pyrenoidosa
+
+
+
+    ISRN Toxicol. (2013), [10.1155/2013/657849](https://doi.org/10.1155/2013/657849)
+
+    PMID: 24106616; PMCID: PMC3782832.
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyx3aWxleSxNVEF1TVRFMU5TOHlNREV6THpZMU56ZzBPUSxORGxoTVRZeFltRXRabVE0WkMwME5UVm1MVGxsTnprdE1EZGhZemcxTVdGaU1qWXosaHR0cHM6Ly9vbmxpbmVsaWJyYXJ5LndpbGV5LmNvbS9kb2kvZXBkZi8xMC4xMTU1LzIwMTMvNjU3ODQ5P3NyYz1nZXRmdHI.7-K8pHRoiiLoeMlIfYIY2dbxUQMk2FaTYHEJRZvEEgU)
+
+
+     [Google Scholar](https://scholar.google.com/scholar_lookup?title=Gastrointestinal%20elimination%20of%20perfluorinated%20compounds%20using%20cholestyramine%20and%20chlorella%20pyrenoidosa&publication_year=2013&author=S.J.%20Genuis&author=L.%20Curtis&author=D.%20Birkholz)
+
+21. [Glüge et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0105)
+
+
+    J. Glüge, M. Scheringer, I.T. Cousins, J.C. DeWitt, G. Goldenman, D. Herzke, R. Lohmann, C.A. Ng, X. Trier, Z. Wang
+
+
+
+    An overview of the uses of per- and polyfluoroalkyl substances (PFAS)
+
+
+
+    Environ. Sci. Process Impacts, 22 (12) (2020), pp. 2345-2373, [10.1039/d0em00291g](https://doi.org/10.1039/d0em00291g)
+
+    Epub 2020 Oct 30. PMID: 33125022; PMCID: PMC7784712.
+
+    [View at publisher](https://doi.org/10.1039/d0em00291g) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85098451345&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=An%20overview%20of%20the%20uses%20of%20per-%20and%20polyfluoroalkyl%20substances%20&publication_year=2020&author=J.%20Gl%C3%BCge&author=M.%20Scheringer&author=I.T.%20Cousins&author=J.C.%20DeWitt&author=G.%20Goldenman&author=D.%20Herzke&author=R.%20Lohmann&author=C.A.%20Ng&author=X.%20Trier&author=Z.%20Wang)
+
+22. [Groenen et al., 2012](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0110)
+
+
+    M.A. Groenen, A.L. Archibald, H. Uenishi, C.K. Tuggle, Y. Takeuchi, M.F. Rothschild, C. Rogel-Gaillard, C. Park, D. Milan, H.J. Megens, S. Li, D.M. Larkin, H. Kim, L.A. Frantz, M. Caccamo, H. Ahn, B.L. Aken, A. Anselmo, C. Anthon, L. Auvil, B. Badaoui, C.W. Beattie, C. Bendixen, D. Berman, F. Blecha, J. Blomberg, L. Bolund, M. Bosse, S. Botti, Z. Bujie, M. Bystrom, B. Capitanu, D. Carvalho-Silva, P. Chardon, C. Chen, R. Cheng, S.H. Choi, W. Chow, R.C. Clark, C. Clee, R.P. Crooijmans, H.D. Dawson, P. Dehais, F. De Sapio, B. Dibbits, N. Drou, Z.Q. Du, K. Eversole, J. Fadista, S. Fairley, T. Faraut, G.J. Faulkner, K.E. Fowler, M. Fredholm, E. Fritz, J.G. Gilbert, E. Giuffra, J. Gorodkin, D.K. Griffin, J.L. Harrow, A. Hayward, K. Howe, Z.L. Hu, S.J. Humphray, T. Hunt, H. Hornshøj, J.T. Jeon, P. Jern, M. Jones, J. Jurka, H. Kanamori, R. Kapetanovic, J. Kim, J.H. Kim, K.W. Kim, T.H. Kim, G. Larson, K. Lee, K.T. Lee, R. Leggett, H.A. Lewin, Y. Li, W. Liu, J.E. Loveland, Y. Lu, J.K. Lunney, J. Ma, O. Madsen, K. Mann, L. Matthews, S. McLaren, T. Morozumi, M.P. Murtaugh, J. Narayan, D.T. Nguyen, P. Ni, S.J. Oh, S. Onteru, F. Panitz, E.W. Park, H.S. Park, G. Pascal, Y. Paudel, M. Perez-Enciso, R. Ramirez-Gonzalez, J.M. Reecy, S. Rodriguez-Zas, G.A. Rohrer, L. Rund, Y. Sang, K. Schachtschneider, J.G. Schraiber, J. Schwartz, L. Scobie, C. Scott, S. Searle, B. Servin, B.R. Southey, G. Sperber, P. Stadler, J.V. Sweedler, H. Tafer, B. Thomsen, R. Wali, J. Wang, J. Wang, S. White, X. Xu, M. Yerle, G. Zhang, J. Zhang, J. Zhang, S. Zhao, J. Rogers, C. Churcher, L.B. Schook
+
+
+
+    Analyses of pig genomes provide insight into porcine demography and evolution
+
+
+
+    Nature, 491 (7424) (2012), pp. 393-398, [10.1038/nature11622](https://doi.org/10.1038/nature11622)
+
+    PMID: 23151582; PMCID: PMC3566564
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxzcHJpbmdlcixNVEF1TVRBek9DOXVZWFIxY21VeE1UWXlNZyxORGxoTVRZeFltRXRabVE0WkMwME5UVm1MVGxsTnprdE1EZGhZemcxTVdGaU1qWXosaHR0cDovL25hdHVyZS5jb20vYXJ0aWNsZXMvZG9pOjEwLjEwMzgvbmF0dXJlMTE2MjI_dXRtX3NvdXJjZT1nZXRmdHImdXRtX21lZGl1bT1nZXRmdHImdXRtX2NhbXBhaWduPWdldGZ0cl9waWxvdA.jdJi8GMEF2i49OVDnvf3IIhKC6I5bSkfy6aU6oHI7F0)
+
+
+     [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84869003221&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Analyses%20of%20pig%20genomes%20provide%20insight%20into%20porcine%20demography%20and%20evolution&publication_year=2012&author=M.A.%20Groenen&author=A.L.%20Archibald&author=H.%20Uenishi&author=C.K.%20Tuggle&author=Y.%20Takeuchi&author=M.F.%20Rothschild&author=C.%20Rogel-Gaillard&author=C.%20Park&author=D.%20Milan&author=H.J.%20Megens&author=S.%20Li&author=D.M.%20Larkin&author=H.%20Kim&author=L.A.%20Frantz&author=M.%20Caccamo&author=H.%20Ahn&author=B.L.%20Aken&author=A.%20Anselmo&author=C.%20Anthon&author=L.%20Auvil&author=B.%20Badaoui&author=C.W.%20Beattie&author=C.%20Bendixen&author=D.%20Berman&author=F.%20Blecha&author=J.%20Blomberg&author=L.%20Bolund&author=M.%20Bosse&author=S.%20Botti&author=Z.%20Bujie&author=M.%20Bystrom&author=B.%20Capitanu&author=D.%20Carvalho-Silva&author=P.%20Chardon&author=C.%20Chen&author=R.%20Cheng&author=S.H.%20Choi&author=W.%20Chow&author=R.C.%20Clark&author=C.%20Clee&author=R.P.%20Crooijmans&author=H.D.%20Dawson&author=P.%20Dehais&author=F.%20De%20Sapio&author=B.%20Dibbits&author=N.%20Drou&author=Z.Q.%20Du&author=K.%20Eversole&author=J.%20Fadista&author=S.%20Fairley&author=T.%20Faraut&author=G.J.%20Faulkner&author=K.E.%20Fowler&author=M.%20Fredholm&author=E.%20Fritz&author=J.G.%20Gilbert&author=E.%20Giuffra&author=J.%20Gorodkin&author=D.K.%20Griffin&author=J.L.%20Harrow&author=A.%20Hayward&author=K.%20Howe&author=Z.L.%20Hu&author=S.J.%20Humphray&author=T.%20Hunt&author=H.%20Hornsh%C3%B8j&author=J.T.%20Jeon&author=P.%20Jern&author=M.%20Jones&author=J.%20Jurka&author=H.%20Kanamori&author=R.%20Kapetanovic&author=J.%20Kim&author=J.H.%20Kim&author=K.W.%20Kim&author=T.H.%20Kim&author=G.%20Larson&author=K.%20Lee&author=K.T.%20Lee&author=R.%20Leggett&author=H.A.%20Lewin&author=Y.%20Li&author=W.%20Liu&author=J.E.%20Loveland&author=Y.%20Lu&author=J.K.%20Lunney&author=J.%20Ma&author=O.%20Madsen&author=K.%20Mann&author=L.%20Matthews&author=S.%20McLaren&author=T.%20Morozumi&author=M.P.%20Murtaugh&author=J.%20Narayan&author=D.T.%20Nguyen&author=P.%20Ni&author=S.J.%20Oh&author=S.%20Onteru&author=F.%20Panitz&author=E.W.%20Park&author=H.S.%20Park&author=G.%20Pascal&author=Y.%20Paudel&author=M.%20Perez-Enciso&author=R.%20Ramirez-Gonzalez&author=J.M.%20Reecy&author=S.%20Rodriguez-Zas&author=G.A.%20Rohrer&author=L.%20Rund&author=Y.%20Sang&author=K.%20Schachtschneider&author=J.G.%20Schraiber&author=J.%20Schwartz&author=L.%20Scobie&author=C.%20Scott&author=S.%20Searle&author=B.%20Servin&author=B.R.%20Southey&author=G.%20Sperber&author=P.%20Stadler&author=J.V.%20Sweedler&author=H.%20Tafer&author=B.%20Thomsen&author=R.%20Wali&author=J.%20Wang&author=J.%20Wang&author=S.%20White&author=X.%20Xu&author=M.%20Yerle&author=G.%20Zhang&author=J.%20Zhang&author=J.%20Zhang&author=S.%20Zhao&author=J.%20Rogers&author=C.%20Churcher&author=L.B.%20Schook)
+
+23. [Hall et al., 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0115)
+
+
+    S.M. Hall, S. Zhang, G.H. Tait, K. Hoffman, D.N. Collier, J.A. Hoppin, H.M. Stapleton
+
+
+
+    PFAS levels in paired drinking water and serum samples collected from an exposed community in Central North Carolina
+
+
+
+    Sci. Total Environ., 895 (2023), Article 165091, [10.1016/j.scitotenv.2023.165091](https://doi.org/10.1016/j.scitotenv.2023.165091)
+
+    Epub 2023 Jun 23 PMID: 37355130
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0048969723037142/pdfft?md5=6cab7eb1ea75ff4d00e7c675aa65a322&pid=1-s2.0-S0048969723037142-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0048969723037142) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85163949305&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=PFAS%20levels%20in%20paired%20drinking%20water%20and%20serum%20samples%20collected%20from%20an%20exposed%20community%20in%20Central%20North%20Carolina&publication_year=2023&author=S.M.%20Hall&author=S.%20Zhang&author=G.H.%20Tait&author=K.%20Hoffman&author=D.N.%20Collier&author=J.A.%20Hoppin&author=H.M.%20Stapleton)
+
+24. [Han et al., 2012](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0120)
+
+
+    X. Han, D.L. Nabb, M.H. Russell, G.L. Kennedy, R.W. Rickard
+
+
+
+    Renal elimination of perfluorocarboxylates (PFCAs)
+
+
+
+    Chem. Res. Toxicol., 25 (1) (2012), pp. 35-46, [10.1021/tx200363w](https://doi.org/10.1021/tx200363w)
+
+    Epub 2011 Oct 25 PMID: 21985250
+
+    [View at publisher](https://doi.org/10.1021/tx200363w) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84855857752&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Renal%20elimination%20of%20perfluorocarboxylates%20&publication_year=2012&author=X.%20Han&author=D.L.%20Nabb&author=M.H.%20Russell&author=G.L.%20Kennedy&author=R.W.%20Rickard)
+
+25. [Holt et al., 2019](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0125)
+
+
+    K. Holt, S. Nagar, K. Korzekwa
+
+
+
+    Methods to Predict Volume of Distribution
+
+
+
+    Curr. Pharmacol. Rep., 5 (5) (2019), pp. 391-399, [10.1007/s40495-019-00186-5](https://doi.org/10.1007/s40495-019-00186-5)
+
+    Epub 2019 PMID: 34168949; PMCID: PMC8221585.
+
+    [View at publisher](https://doi.org/10.1007/s40495-019-00186-5) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85067045556&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Methods%20to%20Predict%20Volume%20of%20Distribution&publication_year=2019&author=K.%20Holt&author=S.%20Nagar&author=K.%20Korzekwa)
+
+26. [Kim et al., 2014](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0130)
+
+
+    D.H. Kim, M.Y. Lee, J.E. Oh
+
+
+
+    Perfluorinated compounds in serum and urine samples from children aged 5–13 years in South Korea
+
+
+
+    Environ. Pollut., 192 (2014), pp. 171-178, [10.1016/j.envpol.2014.05.024](https://doi.org/10.1016/j.envpol.2014.05.024)
+
+    Epub 2014 PMID: 24952613
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0269749114002279/pdfft?md5=4af95bc5481597f5caea0e4b2ff562f6&pid=1-s2.0-S0269749114002279-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0269749114002279) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84903192551&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Perfluorinated%20compounds%20in%20serum%20and%20urine%20samples%20from%20children%20aged%20513%20years%20in%20South%20Korea&publication_year=2014&author=D.H.%20Kim&author=M.Y.%20Lee&author=J.E.%20Oh)
+
+27. [Li et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0135)
+
+
+    Y. Li, A. Andersson, Y. Xu, D. Pineda, C.A. Nilsson, C.H. Lindh, K. Jakobsson, T. Fletcher
+
+
+
+    Determinants of serum half-lives for linear and branched perfluoroalkyl substances after long-term high exposure – a study in Ronneby Sweden
+
+
+
+    Environ Int., 163 (2022), Article 107198, [10.1016/j.envint.2022.107198](https://doi.org/10.1016/j.envint.2022.107198)
+
+    Epub 2022 Apr 18 PMID: 35447437
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412022001246/pdfft?md5=37ccf4d1470a45c5a924b205960e12f2&pid=1-s2.0-S0160412022001246-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412022001246) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85128262150&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Determinants%20of%20serum%20half-lives%20for%20linear%20and%20branched%20perfluoroalkyl%20substances%20after%20long-term%20high%20exposure%20%20a%20study%20in%20Ronneby%20Sweden&publication_year=2022&author=Y.%20Li&author=A.%20Andersson&author=Y.%20Xu&author=D.%20Pineda&author=C.A.%20Nilsson&author=C.H.%20Lindh&author=K.%20Jakobsson&author=T.%20Fletcher)
+
+28. [Louisse et al., 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0140)
+
+
+    J. Louisse, L. Dellafiora, J.J.M.W. van den Heuvel, D. Rijkers, L. Leenders, J.C.M. Dorne, A. Punt, F.G.M. Russel, J.B. Koenderink
+
+
+
+    Perfluoroalkyl substances (PFASs) are substrates of the renal human organic anion transporter 4 (OAT4)
+
+
+
+    Arch. Toxicol., 97 (3) (2023), pp. 685-696, [10.1007/s00204-022-03428-6](https://doi.org/10.1007/s00204-022-03428-6)
+
+    Epub 2022 Nov 27. PMID: 36436016; PMCID: PMC9968691.
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxzcHJpbmdlcixNVEF1TVRBd055OXpNREF5TURRdE1ESXlMVEF6TkRJNExUWSxOelV3TW1WbU56SXRZemcxWmkwMFl6aGxMVGhtTlRVdE9Ua3hOMlF3Tm1OaE1UUTEsaHR0cDovL2xpbmsuc3ByaW5nZXIuY29tLzEwLjEwMDcvczAwMjA0LTAyMi0wMzQyOC02P3V0bV9zb3VyY2U9Z2V0ZnRyJnV0bV9tZWRpdW09Z2V0ZnRyJnV0bV9jYW1wYWlnbj1nZXRmdHJfcGlsb3Q.cyOuw1RxhEpyA533wTkjwKdVHbxxmHGgE_j0uADUd5A)
+
+
+     [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85142747569&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Perfluoroalkyl%20substances%20%20are%20substrates%20of%20the%20renal%20human%20organic%20anion%20transporter%204%20&publication_year=2023&author=J.%20Louisse&author=L.%20Dellafiora&author=J.J.M.W.%20van%20den%20Heuvel&author=D.%20Rijkers&author=L.%20Leenders&author=J.C.M.%20Dorne&author=A.%20Punt&author=F.G.M.%20Russel&author=J.B.%20Koenderink)
+
+29. [Mertens et al., 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0145)
+
+
+    H. Mertens, B. Noll, T. Schwerdtle, K. Abraham, B.H. Monien
+
+
+
+    Less is more: a methodological assessment of extraction techniques for per- and polyfluoroalkyl substances (PFAS) analysis in mammalian tissues
+
+
+
+    Anal. Bioanal. Chem., 415 (24) (2023), pp. 5925-5938, [10.1007/s00216-023-04867-5](https://doi.org/10.1007/s00216-023-04867-5)
+
+    Epub 2023 Aug 22. PMID: 37606646; PMCID: PMC10556126.
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxzcHJpbmdlcixNVEF1TVRBd055OXpNREF5TVRZdE1ESXpMVEEwT0RZM0xUVSxOelV3TW1WbU56SXRZemcxWmkwMFl6aGxMVGhtTlRVdE9Ua3hOMlF3Tm1OaE1UUTEsaHR0cDovL2xpbmsuc3ByaW5nZXIuY29tLzEwLjEwMDcvczAwMjE2LTAyMy0wNDg2Ny01P3V0bV9zb3VyY2U9Z2V0ZnRyJnV0bV9tZWRpdW09Z2V0ZnRyJnV0bV9jYW1wYWlnbj1nZXRmdHJfcGlsb3Q.mYZXQDLpHa5m1V2DWZaQtrDvvVwTWxMWjq44ohUZlyY)
+
+
+     [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85168711586&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Less%20is%20more%3A%20a%20methodological%20assessment%20of%20extraction%20techniques%20for%20per-%20and%20polyfluoroalkyl%20substances%20%20analysis%20in%20mammalian%20tissues&publication_year=2023&author=H.%20Mertens&author=B.%20Noll&author=T.%20Schwerdtle&author=K.%20Abraham&author=B.H.%20Monien)
+
+30. [Møller et al., 2024](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0150)
+
+
+    J.J. Møller, A.C. Lyngberg, P.E.C. Hammer, E.M. Flachs, O.S. Mortensen, T.K. Jensen, G. Jürgens, A. Andersson, A.M.B. Soja, M. Lindhardt
+
+
+
+    Substantial decrease of PFAS with anion exchange resin treatment - a clinical cross-over trial
+
+
+
+    Environ. Int., 185 (2024), Article 108497, [10.1016/j.envint.2024.108497](https://doi.org/10.1016/j.envint.2024.108497)
+
+    Epub 2024 Feb 13 PMID: 38367552
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412024000837/pdfft?md5=79b4cf29ead4caf1607d1032cd110775&pid=1-s2.0-S0160412024000837-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412024000837) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85185511125&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Substantial%20decrease%20of%20PFAS%20with%20anion%20exchange%20resin%20treatment%20-%20a%20clinical%20cross-over%20trial&publication_year=2024&author=J.J.%20M%C3%B8ller&author=A.C.%20Lyngberg&author=P.E.C.%20Hammer&author=E.M.%20Flachs&author=O.S.%20Mortensen&author=T.K.%20Jensen&author=G.%20J%C3%BCrgens&author=A.%20Andersson&author=A.M.B.%20Soja&author=M.%20Lindhardt)
+
+31. [Niu et al., 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0155)
+
+
+    S. Niu, Y. Cao, R. Chen, M. Bedi, A.P. Sanders, A. Ducatman, C. Ng
+
+
+
+    A state-of-the-science review of interactions of per- and polyfluoroalkyl substances (PFAS) with renal transporters in health and disease: implications for population variability in PFAS toxicokinetics
+
+
+
+    Environ. Health Perspect., 131 (7) (2023), p. 76002, [10.1289/EHP11885](https://doi.org/10.1289/EHP11885)
+
+    Epub 2023 Jul 7. PMID: 37418334; PMCID: PMC10328216.
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxhY3MsTVRBdU1USTRPUzlsYUhBeE1UZzROUSxOelV3TW1WbU56SXRZemcxWmkwMFl6aGxMVGhtTlRVdE9Ua3hOMlF3Tm1OaE1UUTEsaHR0cHM6Ly9wdWJzLmFjcy5vcmcvR2V0RnRyQ29udGVudC9HZXRQZGZCeURvaT9kb2k9MTAuMTI4OSUyZkVIUDExODg1JnJlc291cmNldHlwZT00.cfgKr-jY_HTdlBwl3f-MD47cqiCHfzHTCxDMy7TNz9Q)
+
+
+     [Google Scholar](https://scholar.google.com/scholar_lookup?title=A%20state-of-the-science%20review%20of%20interactions%20of%20per-%20and%20polyfluoroalkyl%20substances%20%20with%20renal%20transporters%20in%20health%20and%20disease%3A%20implications%20for%20population%20variability%20in%20PFAS%20toxicokinetics&publication_year=2023&author=S.%20Niu&author=Y.%20Cao&author=R.%20Chen&author=M.%20Bedi&author=A.P.%20Sanders&author=A.%20Ducatman&author=C.%20Ng)
+
+32. [Numata et al., 2014](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0160)
+
+
+    J. Numata, J. Kowalczyk, J. Adolphs, S. Ehlers, H. Schafft, P. Fuerst, C. Müller-Graf, M. Lahrssen-Wiederholt, M. Greiner
+
+
+
+    Toxicokinetics of seven perfluoroalkyl sulfonic and carboxylic acids in pigs fed a contaminated diet
+
+
+
+    J. Agric. Food Chem., 62 (28) (2014), pp. 6861-6870, [10.1021/jf405827u](https://doi.org/10.1021/jf405827u)
+
+    Epub 2014 PMID: 24892814
+
+    [View at publisher](https://doi.org/10.1021/jf405827u) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84904438285&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Toxicokinetics%20of%20seven%20perfluoroalkyl%20sulfonic%20and%20carboxylic%20acids%20in%20pigs%20fed%20a%20contaminated%20diet&publication_year=2014&author=J.%20Numata&author=J.%20Kowalczyk&author=J.%20Adolphs&author=S.%20Ehlers&author=H.%20Schafft&author=P.%20Fuerst&author=C.%20M%C3%BCller-Graf&author=M.%20Lahrssen-Wiederholt&author=M.%20Greiner)
+
+33. [OECD, 2021](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0165)
+    OECD (2021) Reconciling Terminology of the Universe of Per- and Polyfluoroalkyl Substances: Recommendations and Practical Guidance, OECD Series on Risk Management, No. 61, OECD Publishing, Paris. [https://doi.org/10.1787/e458e796-en](https://doi.org/10.1787/e458e796-en).
+
+    [Google Scholar](https://scholar.google.com/scholar?q=OECD%20(2021)%20Reconciling%20Terminology%20of%20the%20Universe%20of%20Per-%20and%20Polyfluoroalkyl%20Substances%3A%20Recommendations%20and%20Practical%20Guidance%2C%20OECD%20Series%20on%20Risk%20Management%2C%20No.%2061%2C%20OECD%20Publishing%2C%20Paris.%20https%3A%2F%2Fdoi.org%2F10.1787%2Fe458e796-en.)
+
+34. [Olsen et al., 2009](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0170)
+
+
+    G.W. Olsen, S.C. Chang, P.E. Noker, G.S. Gorman, D.J. Ehresman, P.H. Lieder, J.L. Butenhoff
+
+
+
+    A comparison of the pharmacokinetics of perfluorobutanesulfonate (PFBS) in rats, monkeys, and humans
+
+
+
+    Toxicology, 256 (1–2) (2009), pp. 65-74, [10.1016/j.tox.2008.11.008](https://doi.org/10.1016/j.tox.2008.11.008)
+
+    Epub 2008 Nov 19 PMID: 19059455
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0300483X08005192/pdfft?md5=e6368402be36310cb340a845d50c4418&pid=1-s2.0-S0300483X08005192-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0300483X08005192) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-58149251920&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=A%20comparison%20of%20the%20pharmacokinetics%20of%20perfluorobutanesulfonate%20%20in%20rats%2C%20monkeys%2C%20and%20humans&publication_year=2009&author=G.W.%20Olsen&author=S.C.%20Chang&author=P.E.%20Noker&author=G.S.%20Gorman&author=D.J.%20Ehresman&author=P.H.%20Lieder&author=J.L.%20Butenhoff)
+
+35. [Poothong et al., 2017](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0175)
+
+
+    S. Poothong, C. Thomsen, J.A. Padilla-Sanchez, E. Papadopoulou, L.S. Haug
+
+
+
+    Distribution of novel and well-known poly- and perfluoroalkyl substances (PFASs) in human serum, plasma, and whole blood
+
+
+
+    Environ. Sci. Tech., 51 (22) (2017), pp. 13388-13396, [10.1021/acs.est.7b03299](https://doi.org/10.1021/acs.est.7b03299)
+
+    Epub 2017 PMID: 29056041
+
+    [View at publisher](https://doi.org/10.1021/acs.est.7b03299) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85035363024&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Distribution%20of%20novel%20and%20well-known%20poly-%20and%20perfluoroalkyl%20substances%20%20in%20human%20serum%2C%20plasma%2C%20and%20whole%20blood&publication_year=2017&author=S.%20Poothong&author=C.%20Thomsen&author=J.A.%20Padilla-Sanchez&author=E.%20Papadopoulou&author=L.S.%20Haug)
+
+36. [R Core Team, 2024](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0180)
+    R Core Team (2024) R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria. [https://www.R-project.org/](https://www.r-project.org/).
+
+    [Google Scholar](https://scholar.google.com/scholar?q=R%20Core%20Team%20(2024)%20R%3A%20A%20Language%20and%20Environment%20for%20Statistical%20Computing.%20R%20Foundation%20for%20Statistical%20Computing%2C%20Vienna%2C%20Austria.%20https%3A%2F%2Fwww.R-project.org%2F.)
+
+37. [Russell et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0185)
+
+
+    M.H. Russell, H. Nilsson, R.C. Buck
+
+
+
+    Elimination kinetics of perfluorohexanoic acid in humans and comparison with mouse, rat and monkey
+
+
+
+    Chemosphere, 93 (10) (2013), pp. 2419-2425, [10.1016/j.chemosphere.2013.08.060](https://doi.org/10.1016/j.chemosphere.2013.08.060)
+
+    Epub 2013 Sep 16 PMID: 24050716
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0045653513011764/pdfft?md5=ed7678d73f3506f28cbcc30a0c322bb6&pid=1-s2.0-S0045653513011764-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0045653513011764) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84886948039&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Elimination%20kinetics%20of%20perfluorohexanoic%20acid%20in%20humans%20and%20comparison%20with%20mouse%2C%20rat%20and%20monkey&publication_year=2013&author=M.H.%20Russell&author=H.%20Nilsson&author=R.C.%20Buck)
+
+38. [Russell et al., 2015](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0190)
+
+
+    M.H. Russell, M.W. Himmelstein, R.C. Buck
+
+
+
+    Inhalation and oral toxicokinetics of 6:2 FTOH and its metabolites in mammals
+
+
+
+    Chemosphere, 120 (2015), pp. 328-335, [10.1016/j.chemosphere.2014.07.092](https://doi.org/10.1016/j.chemosphere.2014.07.092)
+
+    Epub 2014 Aug 31 PMID: 25180935
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0045653514009734/pdfft?md5=41803c69fe896c42b7768ea43d9cc33f&pid=1-s2.0-S0045653514009734-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0045653514009734) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84912104892&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Inhalation%20and%20oral%20toxicokinetics%20of%206%3A2%20FTOH%20and%20its%20metabolites%20in%20mammals&publication_year=2015&author=M.H.%20Russell&author=M.W.%20Himmelstein&author=R.C.%20Buck)
+
+39. [Smeltz et al., 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0195)
+
+
+    M. Smeltz, J.F. Wambaugh, B.A. Wetmore
+
+
+
+    Plasma protein binding evaluations of per- and polyfluoroalkyl substances for category-based toxicokinetic assessment
+
+
+
+    Chem. Res. Toxicol., 36 (6) (2023), pp. 870-881, [10.1021/acs.chemrestox.3c00003](https://doi.org/10.1021/acs.chemrestox.3c00003)
+
+    Epub 2023 PMID: 37184865; PMCID: PMC10506455.
+
+    [View at publisher](https://doi.org/10.1021/acs.chemrestox.3c00003) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85160316281&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Plasma%20protein%20binding%20evaluations%20of%20per-%20and%20polyfluoroalkyl%20substances%20for%20category-based%20toxicokinetic%20assessment&publication_year=2023&author=M.%20Smeltz&author=J.F.%20Wambaugh&author=B.A.%20Wetmore)
+
+40. [Sunderland et al., 2019](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0200)
+
+
+    E.M. Sunderland, X.C. Hu, C. Dassuncao, A.K. Tokranov, C.C. Wagner, J.G. Allen
+
+
+
+    A review of the pathways of human exposure to poly- and perfluoroalkyl substances (PFASs) and present understanding of health effects
+
+
+
+    J. Expo. Sci. Environ. Epidemiol., 29 (2) (2019), pp. 131-147, [10.1038/s41370-018-0094-1](https://doi.org/10.1038/s41370-018-0094-1)
+
+    Epub 2018 Nov 23. PMID: 30470793; PMCID: PMC6380916.
+
+    [View at publisher](https://doi.org/10.1038/s41370-018-0094-1) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85057148630&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=A%20review%20of%20the%20pathways%20of%20human%20exposure%20to%20poly-%20and%20perfluoroalkyl%20substances%20%20and%20present%20understanding%20of%20health%20effects&publication_year=2019&author=E.M.%20Sunderland&author=X.C.%20Hu&author=C.%20Dassuncao&author=A.K.%20Tokranov&author=C.C.%20Wagner&author=J.G.%20Allen)
+
+41. [Thompson et al., 2019](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0205)
+
+
+    C.M. Thompson, S.E. Fitch, C. Ring, W. Rish, J.M. Cullen, L.C. Haws
+
+
+
+    Development of an oral reference dose for the perfluorinated compound GenX
+
+
+
+    J. Appl. Toxicol., 39 (9) (2019), pp. 1267-1282, [10.1002/jat.3812](https://doi.org/10.1002/jat.3812)
+
+    Epub 2019 PMID: 31215065; PMCID: PMC6771874
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyx3aWxleSxNVEF1TVRBd01pOXFZWFF1TXpneE1nLE56ZzVNMkUxWldFdE56ZGpaaTAwTjJWa0xUZ3hOR1l0T1RFeFlXUmtZek15WmpreixodHRwczovL29ubGluZWxpYnJhcnkud2lsZXkuY29tL2RvaS9lcGRmLzEwLjEwMDIvamF0LjM4MTI_c3JjPWdldGZ0cg.CcDtXYTVSpwBRX_PJW8GmZBKK2kDFRe8ycbeyprvnTI)
+
+
+     [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85067482264&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Development%20of%20an%20oral%20reference%20dose%20for%20the%20perfluorinated%20compound%20GenX&publication_year=2019&author=C.M.%20Thompson&author=S.E.%20Fitch&author=C.%20Ring&author=W.%20Rish&author=J.M.%20Cullen&author=L.C.%20Haws)
+
+42. [Thompson et al., 2010](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0210)
+
+
+    J. Thompson, M. Lorber, L.L. Toms, K. Kato, A.M. Calafat, J.F. Mueller
+
+
+
+    Use of simple pharmacokinetic modeling to characterize exposure of Australians to perfluorooctanoic acid and perfluorooctane sulfonic acid
+
+
+
+    Environ Int., 36 (4) (2010), pp. 390-397, [10.1016/j.envint.2010.02.008](https://doi.org/10.1016/j.envint.2010.02.008)
+
+    Epub 2010 Mar 16. Erratum in: Environ Int. 2010 Aug;36(6):647-8. PMID: 20236705.
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412010000292/pdfft?md5=53a9e1b39336854489d2afe05ac6a620&pid=1-s2.0-S0160412010000292-mainext.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412010000292) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-77950937263&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Use%20of%20simple%20pharmacokinetic%20modeling%20to%20characterize%20exposure%20of%20Australians%20to%20perfluorooctanoic%20acid%20and%20perfluorooctane%20sulfonic%20acid&publication_year=2010&author=J.%20Thompson&author=M.%20Lorber&author=L.L.%20Toms&author=K.%20Kato&author=A.M.%20Calafat&author=J.F.%20Mueller)
+
+43. [Weaver et al., 2010](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0215)
+
+
+    Y.M. Weaver, D.J. Ehresman, J.L. Butenhoff, B. Hagenbuch
+
+
+
+    Roles of rat renal organic anion transporters in transporting perfluorinated carboxylates with different chain lengths
+
+
+
+    Toxicol Sci., 113 (2) (2010), pp. 305-314, [10.1093/toxsci/kfp275](https://doi.org/10.1093/toxsci/kfp275)
+
+    Epub 2009 Nov 13. PMID: 19915082; PMCID: PMC2807038
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxvdXAsTVRBdU1UQTVNeTkwYjNoelkya3ZhMlp3TWpjMSxOemc1TTJFMVpXRXROemRqWmkwME4yVmtMVGd4TkdZdE9URXhZV1JrWXpNeVpqa3osaHR0cHM6Ly9hY2FkZW1pYy5vdXAuY29tL0dldEZ0ckNvbnRlbnQvR2V0UGRmQnlEb2k_ZG9pPTEwLjEwOTMlMmZ0b3hzY2klMmZrZnAyNzUmcmVzb3VyY2V0eXBlPTQmcGFyZW50UmVzb3VyY2VUeXBlSWQ9Mw.GNmnNL8IeWZW9ctxcB2gW7NK24v2OQIulnrt7DJifD4)
+
+
+     [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-75249106470&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Roles%20of%20rat%20renal%20organic%20anion%20transporters%20in%20transporting%20perfluorinated%20carboxylates%20with%20different%20chain%20lengths&publication_year=2010&author=Y.M.%20Weaver&author=D.J.%20Ehresman&author=J.L.%20Butenhoff&author=B.%20Hagenbuch)
+
+44. [Xu et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0220)
+
+
+    Y. Xu, T. Fletcher, D. Pineda, C.H. Lindh, C. Nilsson, A. Glynn, C. Vogs, K. Norström, K. Lilja, K. Jakobsson, Y. Li
+
+
+
+    Serum half-lives for short- and long-chain perfluoroalkyl acids after ceasing exposure from drinking water contaminated by firefighting foam
+
+
+
+    Environ. Health Perspect., 128 (7) (2020), p. 77004, [10.1289/EHP6785](https://doi.org/10.1289/EHP6785)
+
+    Epub 2020 Jul 10. PMID: 32648786; PMCID: PMC7351026
+
+    [Google Scholar](https://scholar.google.com/scholar_lookup?title=Serum%20half-lives%20for%20short-%20and%20long-chain%20perfluoroalkyl%20acids%20after%20ceasing%20exposure%20from%20drinking%20water%20contaminated%20by%20firefighting%20foam&publication_year=2020&author=Y.%20Xu&author=T.%20Fletcher&author=D.%20Pineda&author=C.H.%20Lindh&author=C.%20Nilsson&author=A.%20Glynn&author=C.%20Vogs&author=K.%20Norstr%C3%B6m&author=K.%20Lilja&author=K.%20Jakobsson&author=Y.%20Li)
+
+45. [Zhang et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0225)
+
+
+    Y. Zhang, S. Beesoon, L. Zhu, J.W. Martin
+
+
+
+    Biomonitoring of perfluoroalkyl acids in human urine and estimates of biological half-life
+
+
+
+    Environ. Sci. Tech., 47 (18) (2013), pp. 10619-10627, [10.1021/es401905e](https://doi.org/10.1021/es401905e)
+
+    Epub 2013 Aug 27 PMID: 23980546
+
+    [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84884265526&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Biomonitoring%20of%20perfluoroalkyl%20acids%20in%20human%20urine%20and%20estimates%20of%20biological%20half-life&publication_year=2013&author=Y.%20Zhang&author=S.%20Beesoon&author=L.%20Zhu&author=J.W.%20Martin)
+
+46. [Zhao et al., 2023](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bb0230)
+
+
+    L. Zhao, M. Teng, X. Zhao, Y. Li, J. Sun, W. Zhao, Y. Ruan, K.M.Y. Leung, F. Wu
+
+
+
+    Insight into the binding model of per- and polyfluoroalkyl substances to proteins and membranes
+
+
+
+    Environ. Int., 175 (2023), Article 107951, [10.1016/j.envint.2023.107951](https://doi.org/10.1016/j.envint.2023.107951)
+
+    Epub 2023 Apr 27 PMID: 37126916
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412023002246/pdfft?md5=34505405233077adbfc08eafd21f4bbd&pid=1-s2.0-S0160412023002246-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412023002246) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85154617980&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Insight%20into%20the%20binding%20model%20of%20per-%20and%20polyfluoroalkyl%20substances%20to%20proteins%20and%20membranes&publication_year=2023&author=L.%20Zhao&author=M.%20Teng&author=X.%20Zhao&author=Y.%20Li&author=J.%20Sun&author=W.%20Zhao&author=Y.%20Ruan&author=K.M.Y.%20Leung&author=F.%20Wu)
+
+
+[1](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bfn1)
+
+The outcomes using a mono- and a two-compartment model were very different in case of MPFBA and 6:2FTS, _e.g._ for C0 (see [Supplemental Information](https://www.sciencedirect.com/science/article/pii/S0160412024006330#s0130)). This is due to the short observation period with latest results leading to a curved slope of the terminal phase in case of the two-compartment model.
+
+[2](https://www.sciencedirect.com/science/article/pii/S0160412024006330#bfn2)
+
+For the body weight of 82 kg, a Vd of 121 mL/kg bw ( _i.e._ an absolute Vd of 9.9 L), the half-life (=ln(2)/kel = ln(2)\*Vd/CL) would be 42 days in case of a CLFilt of 0.11 mL/min.
+
+## Recommended articles
+
+### Based on reading popularity
+
+- Research articleOpen access
+
+
+
+[Determinants of serum half-lives for linear and branched perfluoroalkyl substances after long-term high exposure—A study in Ronneby, Sweden](https://www.sciencedirect.com/science/article/pii/S0160412022001246)
+
+YingLi, …, TonyFletcher
+
+Environment International • Volume 163 • 2022 • Article 107198
+
+
+
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0160412022001246/pdfft?md5=37ccf4d1470a45c5a924b205960e12f2&pid=1-s2.0-S0160412022001246-main.pdf)
+
+- Research articleOpen access
+
+
+
+[Bayesian evaluation of a physiologically based pharmacokinetic (PBPK) model for perfluorooctane sulfonate (PFOS) to characterize the interspecies uncertainty between mice, rats, monkeys, and humans: Development and performance verification](https://www.sciencedirect.com/science/article/pii/S016041201930203X)
+
+Wei-ChunChou, ZhoumengLin
+
+Environment International • Volume 129 • 2019 • Pages 408-422
+
+
+
+[View PDF](https://www.sciencedirect.com/science/article/pii/S016041201930203X/pdfft?md5=f7f92890e59ff39ec1fa3fc2b4a5c197&pid=1-s2.0-S016041201930203X-main.pdf)
+
+- Research articleOpen access
+
+
+
+[Investigating the cytotoxicity of per- and polyfluoroalkyl substances in HepG2 cells: A structure-activity relationship approach](https://www.sciencedirect.com/science/article/pii/S0300483X22002244)
+
+V.H.Amstutz, …, M.F.Vrolijk
+
+Toxicology • Volume 480 • 2022 • Article 153312
+
+
+
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0300483X22002244/pdfft?md5=33d96690270c6c512dc6500966c6fbfb&pid=1-s2.0-S0300483X22002244-main.pdf)
+
+- Research article
+
+
+
+[Per- and polyfluoroalkyl substances in human serum and urine samples from a residentially exposed community](https://www.sciencedirect.com/science/article/pii/S0160412017304270)
+
+Rachel RogersWorley, …, JeffreyFisher
+
+Environment International • Volume 106 • 2017 • Pages 135-143
+
+- Research articleOpen access
+
+
+
+[Perfluorohexanoic acid toxicity, part II: Application of human health toxicity value for risk characterization](https://www.sciencedirect.com/science/article/pii/S0273230019300200)
+
+Janet K.Anderson, …, JudiDurda
+
+Regulatory Toxicology and Pharmacology • Volume 103 • 2019 • Pages 10-20
+
+
+
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0273230019300200/pdfft?md5=f9ea6eab389b486b127d4c9648288aa6&pid=1-s2.0-S0273230019300200-main.pdf)
+
+- Research articleOpen access
+
+
+
+[Glyphosate and aminomethylphosphonic acid (AMPA) in urine of children and adolescents in Germany – Human biomonitoring results of the German Environmental Survey 2014–2017 (GerES V)](https://www.sciencedirect.com/science/article/pii/S0160412021003949)
+
+NoraLemke, …, MarikeKolossa-Gehring
+
+Environment International • Volume 156 • 2021 • Article 106769
+
+
+
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0160412021003949/pdfft?md5=f4b120a0311a8e44d43ee77ddb084d6d&pid=1-s2.0-S0160412021003949-main.pdf)
+
+
+## Cited by (43)
+
+- Research articleOpen access
+
+
+
+[The relative importance of fecal and urinary excretion of perfluorooctane sulfonic acid and perfluorooctanoic acid after high exposure – An observational study in Ronneby, Sweden](https://www.sciencedirect.com/science/article/pii/S0013935125017396)
+
+Andersson A.G., …, Li Y.
+
+Environmental Research • Volume 285 • 2025 • Article 122487
+
+
+Show abstract
+
+
+
+
+Many poly- and perfluoroalkyl substances (PFAS) are persistent and have long half-lives in the human body. However, there are limited data on the different routes of elimination. Most pharmacokinetic models assume that the urinary route dominates.
+
+
+
+Our aim was to investigate the relative importance of fecal and urinary elimination for linear perfluorooctane sulfonic acid (L-PFOS), branched PFOS and perfluorooctanoic acid (PFOA), and to estimate volumes of distributions (Vds).
+
+
+
+Drinking water highly contaminated with PFAS from firefighting foam was distributed to many households in Ronneby, Sweden, from the 1980s to December 2013. In 2016, PFAS levels were measured in matched serum, feces and urine samples from 147 subjects. Daily urinary and fecal PFAS elimination was estimated through urinary creatinine elimination and dry fecal mass, respectively. Longitudinal serum PFAS elimination rates were used together with fecal and urinary elimination rates to estimate Vds.
+
+
+
+In 2016, the median serum concentrations were 100 ng/mL for L-PFOS and 10 ng/mL for PFOA. L-PFOS was eliminated primarily through feces, with a median urinary elimination of 91 ng/day and median fecal elimination of 364 ng/day. The branched PFOS had, similarly, a primarily fecal elimination. In contrast, PFOA had a slightly higher urinary elimination, with median urinary elimination of 26 ng/day and fecal elimination of 15 ng/day. Median Vds were estimated at 93 mL/kg for PFOS and 74 mL/kg for PFOA.
+
+
+
+Fecal elimination was shown to be an important route for PFOS and PFOA elimination. Pharmacokinetic models need to take fecal elimination into consideration.
+
+- Research articleOpen access
+
+
+
+[Identification of new PFAS for severe interference with thyroid hormone transport: A combined in vitro/silico approach](https://www.sciencedirect.com/science/article/pii/S0304389425008659)
+
+Sosnowska A., …, Puzyn T.
+
+Journal of Hazardous Materials • Volume 491 • 2025 • Article 137949
+
+
+Show abstract
+
+
+
+
+A tiered _in vitro/in silico_ approach was developed to screen 12,654 per- and polyfluoroalkyl substances (PFAS) for their potential to disrupt the thyroid hormone transport. Initially, a set of 45 PFAS was tested using TTR-TRβ-CALUX bioassay, which was subsequently employed to develop a classification model, distinguishing active and inactive PFAS. The model fulfills all good practices for QSAR model validation and can predict whether a given PFAS can disrupt plasma transport of the thyroid hormone (T4). Subsequently, active compounds were used to develop two regression approaches: (i) multiple linear regression MLR, and (ii) second approach aimed at identifying multiple valid QSAR models based on different data-splitting strategies. Finally, a comprehensive virtual screening of a large PFAS dataset was conducted to assess their potency in disrupting thyroid hormone transport. The predictions indicated that more than 7500 compounds were active with over 100 PFAS potentially causing even greater adverse effects than PFOA. These findings highlight the critical role of integrating New Approach Methodologies (NAM)-based in vitro toxicity testing with multifaceted molecular modeling in assessing the risks associated with PFAS contamination in environmental matrices.
+
+- Research article
+
+
+
+[Temporal trends of 46 pesticides and 8 transformation products in surface and drinking water in Québec, Canada (2021–2023): Potential higher health risks of transformation products than parent pesticides](https://www.sciencedirect.com/science/article/pii/S0043135425002520)
+
+Feng X., …, Sauvé S.
+
+Water Research • Volume 277 • 2025 • Article 123339
+
+
+Show abstract
+
+
+
+
+The objective of the present study was to investigate the temporal trends of 46 pesticides and 8 transformation products (TPs) in the surface water of Québec and assess their associated health risks posed through drinking water consumption. Surface and drinking water were sampled twice per week at a drinking water treatment plant (DWTP) from 2021 to 2023 (838 days). Pesticide and TPs concentrations were analysed using ultra-high-performance liquid chromatography coupled with mass spectrometry. The data were used to evaluate temporal variations of pesticides and TPs at the source, their removal in DWTPs, their human exposure via drinking water, and the associated health risks. The results showed that peak concentrations of most pesticides and their TPs in surface water occurred in June and July, and some TPs (such as metolachlor ethanesulfonic acid, metolachlor oxanilic acid, and desethylatrazine) exhibited higher concentrations than their parent compounds in surface water. Post conventional treatment analysis revealed no significant decrease in the total concentrations of target pesticides and TPs in drinking water. Notably, 11 pesticides (such as atrazine, mecoprop) and 1 TP (desisopropylatrazine) showed higher concentration in drinking water than in surface water. The hazard index (HI) was up to 18 times higher in summer peak periods than the annual average. Finally, TPs exhibited HI 1.4 to 144 times higher than corresponding parent compounds. This study was the first to assess health risks of TPs versus parent pesticides in drinking water through long-term sampling, highlighting the urgent need for further TPs regulation in drinking water.
+
+- Research articleOpen access
+
+
+
+[Perfluorodecanoic acid (PFDA) increases oxidative stress through inhibition of mitochondrial β-oxidation](https://www.sciencedirect.com/science/article/pii/S0269749124023121)
+
+Widhalm R., …, Gundacker C.
+
+Environmental Pollution • Volume 367 • 2025 • Article 125595
+
+
+Show abstract
+
+
+
+
+Per- and polyfluoroalkyl substances (PFAS) are a large group of synthetic organic chemicals that are ubiquitous environmental pollutants. Among PFAS, perfluorodecanoic acid (PFDA) is one of the most toxic compounds, but the molecular basis behind its toxicity is not fully understood. In an interspecies comparison with placental cells (HTR-8/SVneo) and zebrafish embryos, we demonstrate that PFDA induces mitochondrial dysfunction and impairs fatty acid β-oxidation. Reduced β-oxidation leads to less TCA cycle activity, resulting in less NADH and consequently NADPH production. Thereby NADPH-dependent glutathione recycling is impaired, increasing cellular oxidative stress that can only be partially compensated by NRF2 activation.
+
+- [Understanding Mechanisms of PFAS Absorption, Distribution, and Elimination Using a Physiologically Based Toxicokinetic Model](http://www.scopus.com/scopus/inward/record.url?partnerID=10&rel=3.0.0&view=basic&eid=2-s2.0-105008999131&md5=7529b93cd4bd7b4359553cf5e67def0)
+
+Fischer F.C., …, Sunderland E.M.
+
+Environmental Science and Technology • Volume 59 • 2025
+
+- [Human gut bacteria bioaccumulate per- and polyfluoroalkyl substances](http://www.scopus.com/scopus/inward/record.url?partnerID=10&rel=3.0.0&view=basic&eid=2-s2.0-105009546819&md5=d7e69e4172fe6fdbc6e57f26733dc11)
+
+Lindell A.E., …, Patil K.R.
+
+Nature Microbiology • Volume 10 • 2025
+
+
+[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-85207691640&md5=3623e4d8017c545c3968a797936815)
+
+## Metrics
+
+### Citations
+
+- Citation Indexes41
+- Policy Citations5
+
+### Captures
+
+- Mendeley Readers73
+
+### Mentions
+
+- Blog Mentions1
+- News Mentions2
+- References2
+
+![PlumX Metrics Logo](https://cdn.plu.mx/3ba727faf225e19d2c759f6ebffc511d/plumx-logo.png)[View details](https://plu.mx/plum/a/?doi=10.1016%2Fj.envint.2024.109047&theme=plum-sciencedirect-theme&hideUsage=true)
+
+© 2024 The Author(s). Published by Elsevier Ltd.
+
+Persistent link using digital object identifier (DOI)
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+The Identity Selector: Persistence Service

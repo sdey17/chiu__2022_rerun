@@ -1,0 +1,878 @@
+pmc Toxics Toxics 3287 toxics 101639637 toxics Toxics 2305-6304 Multidisciplinary Digital Publishing Institute (MDPI) PMC10059928 PMC10059928.1 10059928 10059928 36977049 10.3390/toxics11030284 toxics-11-00284 1 Article Kinetics of Excretion of the Perfluoroalkyl Surfactant cC 6 O 4 in Humans https://orcid.org/0000-0002-0287-7338 Fustinoni Silvia Conceptualization Methodology Resources Writing – original draft Writing – review & editing 1 2 * https://orcid.org/0000-0002-9011-6861 Mercadante Rosa Formal analysis Investigation Data curation Writing – original draft Visualization 1 Lainati Giorgia Investigation Data curation 2 Cafagna Simone Investigation Writing – original draft 2 https://orcid.org/0000-0002-8935-3843 Consonni Dario Formal analysis Writing – review & editing Visualization 2 Ladeira Carina Academic Editor 1
+Toxicology Lab, Department of Clinical Sciences and Community Health, University of Milan, 20122 Milano, Italy 2
+Fondazione IRCCS Ca’ Granda Ospedale Maggiore Policlinico, 20122 Milan, Italy *
+Correspondence: silvia.fustinoni@unimi.it ; Tel.: +39-02-50320158 20 3 2023 3 2023 11 3 432250 284 23 2 2023 14 3 2023 17 3 2023 20 03 2023 30 03 2023 24 05 2026 © 2023 by the authors. 2023 https://creativecommons.org/licenses/by/4.0/ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ ). cC 6 O 4 is a new-generation perfluoroalkyl surfactant used in the chemical industry for the synthesis of perfluoroalkyl polymers. It was introduced as a less biopersistent substitute of traditional perfluoroalkyl surfactants such as PFOA, but its kinetics in humans was never investigated. This work is aimed to investigate the kinetics of elimination of cC 6 O 4 in exposed workers. Eighteen male individuals occupationally exposed to cC 6 O 4 in the production of fluoropolymers volunteered for the study. Blood and urine samples were collected from the end of a work-shift for the following 5 days off work. Serum and urinary cC 6 O 4 were measured by LC-MS/MS. Seventy-two samples with serum cC 6 O 4 ranging from 0.38 to 11.29 µg/L were obtained; mean levels were 3.07, 2.82, 2.67 and 2.01 µg/L at times 0, 18, 42 and 114 h. Two hundred and fifty-four urine samples with cC 6 O 4 ranging from 0.19 to 5.92 µg/L were obtained. A random-intercept multiple regression model was applied to serum data and a half-life of 184 (95% CI 162–213) h for a first-order kinetics elimination was calculated; a mean distribution volume of 80 mL/kg was also estimated. Pearson’s correlation between ln-transformed serum and daily urine concentrations was good, with r ranging from 0.802 to 0.838. The amount of cC 6 O 4 excreted daily in urine was about 20% of the amount present in serum. The study allowed calculating a half-life for cC 6 O 4 in blood of about 8 days in humans, supporting its much shorter biopersistence in comparison with legacy PFAS. The good correlation between urine and serum cC 6 O 4 suggests urine as a possible non-invasive matrix for biomonitoring. The amount of cC 6 O 4 excreted daily in urine suggests urine as the sole elimination route.
+
+ serum cC 6 O 4 half-life elimination route biomonitoring urine Solvay Specialty Polymers Italy S.p.A. This research was funded by Solvay Specialty Polymers Italy S.p.A. pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access yes pmc-prop-olf no pmc-prop-manuscript no pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement no pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes pmc-license-ref CC BY 
+
+## 1. Introduction
+ cC 6 O 4 (acetic acid, 2,2-difluoro-2-[[2,2,4,5-tetrafluoro-5-(trifluoromethoxy)-1,3-dioxolan-4-yl]oxy]-, ammonium salt (1:1) CAS 1190931-27-1) (see Figure 1 ) is a perfluoroalkyl surfactant used in aqueous emulsions for the synthesis of plastomer and elastomer fluoropolymers in the chemical plant of Solvay Specialty Polymers Italy S.p.A., located in Spinetta Marengo (AL), Italy.
+ This chemical was developed as a new polymerization surfactant to overcome the hazard issues associated with perfluorooctanoate (PFOA), mostly biopersistency. Indeed, toxicokinetics studies in rats provided evidence of a short half-life in serum (4 to 7 h), with the majority of the excretion via urine occurring usually within 24 h, and no evidence of biotransformation and bioaccumulation [ 1 ]. According to CLP (Regulation (EC) No. 1272/2008), cC 6 O 4 was classified as harmful if swallowed (H302), able to cause skin irritation and serious eye damage (H315 and H318); moreover, it may cause damage to organs (liver) through prolonged or repeated exposure (oral) (H373). The substance does not accumulate nor exert toxic effects in the aquatic organisms; it is not a persistent bioaccumulative toxic (PBT) or a very persistent very bioaccumulative (vPvB) chemical on the basis of the Annex XIII REACH. cC 6 O 4 has been produced since 2012 and it was introduced to replace PFOA; today it is the candidate for the substitution of other polymerization surfactants in chemical processes and used as a bridging solution to a Non FluoroSurfactant technology.
+ Human biological monitoring of exposure is a powerful tool to assess chemical exposure, integrating all exposure routes and sources, and taking into consideration characteristics of individuals [ 2 ]. Given the metabolic stability of perfluoroalkyl substances, biomonitoring is performed by measuring the unchanged chemicals in serum. Extensive literature is available on PFAS, with biomonitoring data in occupationally exposed individuals and in the general population, particularly regarding legacy PFAS, such as PFOA and perfluorooctane sulfonate (PFOS) [ 3 ]. Conversely, limited biological monitoring information has been reported on cC 6 O 4 . Particularly, data of workers of an Italian plant located in the Veneto region were retrieved in a technical report, with cC 6 O 4 serum concentrations ranging from 0.5 to 932 µg/L [ 4 ]. More recently, a summary of 9 years of biomonitoring surveys in the chemical plant of Spinetta Marengo and in the research center of Bollate, both belonging to Solvay Specialty Polymers Italy SpA, Italy, was reported, with a large percentage of samples not quantifiable (below the analytical lower limit of quantification) and concentrations in the range of 0.1–56 μg/L [ 5 ].
+ The present work reports the results of a study on the kinetics of elimination of cC 6 O 4 in occupationally exposed individuals. With this aim, blood and urine samples were collected immediately after a work-shift and during a period of 114 h while off work. The half-life of cC 6 O 4 in serum and correlation between urine and serum concentrations were calculated, and a mass balance was performed by comparing the amount of cC 6 O 4 excreted in urine and circulating in serum.
+
+## 2. Materials and Methods
+
+## 2.1. Field Study
+ The surveyed workers were employees of the chemical plant of Spinetta Marengo (AL), where cC 6 O 4 is synthetized since 2012 and used as surfactant for the synthesis of fluorinated plastomers and elastomer polymers.
+ In this plant, the biological monitoring of cC 6 O 4 started in 2013 and was performed annually (typically in February) in the frame of the occupational health and safety surveillance, according to the Italian law for the safety and health at workplaces [ 6 ], under the responsibility of occupational plant physicians; the workers signed an informed consent to agree to the survey [ 5 ].
+ The kinetics study was performed in collaboration with the occupational health physicians and industrial hygienists of the plant. From the historical data of the biological monitoring, it was observed that the highest exposure to cC 6 O 4 was found in workers of the plastomers area. For this reason, the study was proposed to these workers. Eligible criteria were the following: being male; not affected by chronic diseases, particularly metabolic, hepatic and kidney diseases; and having a body mass index lower (BMI) than 30 kg/m 2 . Among eligible male workers, all volunteered to participate in the study.
+ The sample collection lasted 114 h, during which 4 blood samples and a variable number of urine samples were collected.
+ For blood, the sampling protocol was as follows: Day 1: A working day with a 6:00 to 14:00 work-shift; the first blood sample was collected at the end of the shift (time 0 h);
+ Day 2: A day off; at 8:00 the second blood sample was collected (time 18 h);
+ Day 3: A day off; at 8:00 the third blood sample was collected (time 42 h);
+ Day 4 and day 5: Two days off; no blood sample was collected;
+ Day 6: A working day with a 6:00 to 14:00 work-shift; before the start of the shift the fourth blood sample was collected (time 114 h).
+
+ About 5 mL of blood was drawn from the cubital vein in the infirmary of the site, by health personnel, using a tube with heparin as anticoagulant. Samples were centrifuged on site to separate serum, within 1 h after collection. Serum samples were frozen at −20 °C.
+ For urine, a sampling kit, including 25 numbered sterile recipients for urine (100 mL) and a void collection diary, was given to each participant with instructions for urine collection. The subject was asked to collect all urine of all voids starting from day 1 at 14:00 until day 3 at 8:00 (collection time 42 h). An additional sample was collected on day 6, before re-starting the shift, from most subjects (15 out of 18). Urine was self-collected and recorded in the form, indicating the void date, time and the recipient number/s. Initially, samples were kept at home, stored outside at ambient temperature, until the next morning, when they were given to the health personnel in the infirmary of the plant. Once there, urine samples were frozen at −20 °C.
+ A self-administered questionnaire was used to collect personal information such as height, weight, smoking habit and drug consumption.
+ The study was approved by the ethical committee of the University of Milan; each volunteer received the study protocol and signed the informed consent form.
+ The sample collection was performed from November 2021 to April 2022.
+
+## 2.2. Analytical Measurements of Serum and Urinary cC 6 O 4 
+ The analytical work was performed following a previously published method with few modifications [ 7 ]. Briefly, each properly stored sample was thawed at room temperature. The sample was vortexed and an aliquot (20 µL of plasma or 40 µL of urine) was added with methanol (70 µL for plasma and 150 µL for urine) and 10 µL of the internal standard methanol working solution to obtain a 1:5 diluted sample containing 0.15 µg/L of internal standard (perfluoro-n-[1,2,3,4,6-13C5]hexanoic acid, chemical purity >98%, isotopic purity 99% Wellington Laboratories, Guelph, Canada). Plasma proteins were precipitated, and the clear supernatant was transferred to an autosampler vial; the same process was applied to urine samples. The injection volume was 10 µL. The chromatographic run was performed with an Agilent 1260 liquid chromatograph equipped with an Acquity HSS T3 C18 analytical column (2.1 × 100 mm, 1.8 µm, Waters) preceded by a SecurityGuard C18 pre-column (4 × 3 mm Phenomenex). A Hypersil GOLD delay column (3 × 50 mm, 3 µm, Thermo Fisher Scientific) was also installed between the pump and the injector. The separation was obtained with a binary pump linear gradient: mobile phases were aqueous 10 mM ammonium acetate buffer, pH 4.5 (eluent A), and acetonitrile (eluent B) pumped at a constant 0.2 mL/min flow rate. Detection was performed using a 5500 QTRAP Sciex triple quadrupole mass spectrometer equipped with an electrospray ionization source (ESI), operating in the negative ionization mode. Analytical standards were re-tuned and flow re-injected, allowing mass spectrometry parameter optimization; target compounds were detected by extracted ion chromatograms of monitored MRM transitions. The quantification was performed with calibration curves deriving from calibration standards that covered the cC 6 O 4 linearity range concentrations (lower and upper limits of quantifications (LOQ): LLOQ 0.02 µg/L, ULOQ 1.25 µg/L). The calibration curves were built using serum or urine when appropriate to properly control for the specific matrix effect. The method was validated according to international guidelines for bioanalytical methods [ 8 , 9 , 10 ]. The quality requirements assessed in our previous work on serum were also achieved for urine matrix. Effect of dilution of serum and urine samples with methanol was assessed and deemed insignificant, enabling sample dilution when concentration was above the linearity range.
+ Urinary creatinine (crea) was determined using Jaffe’s colorimetric method [ 11 ]. No criteria of acceptability based on urine dilution was applied.
+
+## 2.3. Elimination Kinetics of Serum cC 6 O 4 and Clearance
+ The one-compartment first-order kinetics model was applied to evaluate the elimination kinetics of serum cC 6 O 4 . The kinetic constant k (h − 1 ) was derived as the slope of the linear regression obtained plotting the natural logarithm of the concentration of serum cC 6 O 4 at any time C (µg/L) on the y axis vs. the time elapsed since t 0 , t (h) on the x axis, according to Equation (1).
+ ln(C) = −k t + ln(C 0 ) (1)
+
+ The serum half-life of cC 6 O 4 (t 1/2 ) was obtained applying Equation (2), obtained when the concentration was half its initial value, and therefore C/C 0 = 2.
+ t 1/2 = ln 2/k (2)
+
+ Based on the 95% confidence interval of k, the 95% confidence interval of the t 1/2 (h) was also calculated.
+ The daily renal clearance (Cl) was calculated applying the following equation: (3)
+ Cl   ( mL / min ) = a m o u n t   c C 6 O 4   i n   u r i n e − d a y   2   ( µ g ) c C 6 O 4   s e r u m   c o n c e n t r a t i o n − d a y   2 = C u   ( µ g / L ) × U   ( L / d a y ) C s   ( μ g / L ) × 1440   m i n / d a y 
+where 1440 is the daily minutes. Serum and urine concentration of cC 6 O 4 (C s and C u , respectively), as well as the urine flow rate (U), were based on day 2, as in this day all parameters were available.
+ The apparent distribution volume (Vd) was calculated as
+ (4)
+ Vd   ( mL ) = t 1 / 2   ( m i n ) × C l   ( m L / m i n ) l n 2 
+ The daily renal clearance and the apparent distribution volume were also normalized for weight unit, according to the following equations: (5)
+ Cl w   ( mL / min   ×   kg ) = C l   ( m L / m i n ) B o d y   w e i g h t   ( k g ) 
+and
+ (6)
+ Vd w   ( mL / kg ) = V d   ( m L ) B o d y   w e i g h t   ( k g ) 
+
+## 2.4. Statistical Analysis
+ The concentrations of cC 6 O 4 in serum and urine at different sampling times were described using the mean, standard deviation, minimum, 25th percentile, median, 75th percentile and maximum values. No sample below the LLOQ was found.
+ The urinary concentration was calculated for each collection day separately as the sum of the amounts of cC 6 O 4 in the different voids divided by the total urine volume. Given that only for day 2 the urine collection was lasting for 24 h, this daily concentration was considered the most reliable and it was used for estimating the daily renal clearance (Cl), the distribution volume (Vd) and the daily excretion rate.
+ In order to ascertain whether the workers collected all urine voids, we estimated the expected daily excretion rate of urinary creatinine Crea exp , according to the formula [ 12 ]: (7)
+ Crea exp   ( g / day ) = b o d y   w e i g h t k g × 24   ( g / ( d a y × k g ) ) 
+ From the % ratio between measured and expected daily amount of urinary creatinine, the percentage of incomplete urine collection was estimated (results reported in Table 1 ). 
+ This percentage is, however, affected by a large degree of variability, and only when it falls outside the range of 60–140% should urine collection be considered unreliable [ 13 ].
+ To calculate cC 6 O 4 serum half-life we used random-intercept linear regression models applied to all pooled data to take into account intra-subject correlation. The potential effect modification of half-life by age and BMI (as continuous variables) were analyzed by introducing product (interaction) terms in the regression models and by calculating the corresponding Wald tests.
+ Statistical analyses were performed with Excel (Microsoft), SPSS (IBM) and Stata 17 (StataCorp. 2021).
+
+## 3. Results
+
+## 3.1. Study Subjects
+ In Table 1 , the summary of personal and work characteristics of study workers are reported. Briefly, 18 male workers volunteered in the study. Their mean age was 44 years, and their BMI was 26.1 kg/m 2 . Three subjects were current tobacco smokers, and one was an e-cig smoker. About 80% of them were assuming drugs (mostly for hypertension and hypercholesterolemia).
+ Workers were involved in the synthesis of plastomers, particularly of a melt-processable perfluoroalkoxy fluorocarbon resin (Hyflon ® ) and of poly-tetrafluoroethylene (PTFE) (Algoflon ® ).
+ Seventy-two samples of blood (four for subjects) and 254 urine voids were collected. The number of urine voids collected by each individual from 14:00 of day 1 to 8:00 of day 3 was 14 ± 4. Overall, 14 samples were missed during collection and five containers were delivered broken to the laboratory.
+ Through the calculation of expected daily excretion rate of creatine, the completeness of sample collection was estimated, returning a ratio of 77 ± 21%. This supports the missed samples (n = 14) declared by the volunteers and the delivered broken/empty containers (n = 5). Nevertheless, subjects with a percentage of urine collection below the normal range (60–140%) [ 13 ] were only four, with values ranging from 38 to 57%.
+
+## 3.2. Biological Monitoring
+ In Table 2 the results of the concentration of cC 6 O 4 in serum and urine samples, the last without and with creatinine correction, are reported for each sampling day.
+
+## 3.2.1. cC 6 O 4 Urinary Excretion
+ Nadler’s equation was used to estimate the volume of blood in each study subject: Blood volume = 0.3669 × h 3 + 0.03219 × bw + 0.6041 (8)
+
+where h and bw are subject’s height (cm) and body weight (kg). Serum volume was assumed to be equal to the volume of plasma and estimated as 55% of the volume of blood. The volume of urine of day 2 was measured as the sum of the different voids in the 24 h. From the concentration of cC6O4 in serum and urine, and their volumes, the amount of cC6O4 in each matrix was estimated. The ratio between the amount of cC6O4 in urine and the amount in serum (day 1 and day 2) was evaluated as the percentage of cC 6 O 4 excreted in urine. The mean value and SD were about 20 ± 10% for both days 1 and 2 (see Table 3 ).
+
+## 3.2.2. Pearson’s Correlation and Linear Regression
+ The correlation analysis between the serum concentration of cC 6 O 4 of day 1 or day 2 and the urine concentration of day 2, each transformed in the natural logarithm, was quite good, with Pearson’s r correlation coefficients ranging from 0.803 to 0.838. The correlation coefficients were similar using urinary concentration both corrected and non-corrected for creatinine. The linear regressions corresponding to these correlations are illustrated in Figure 2 . The correlation was very good also using the concentration of urinary cC 6 O 4 in spot samples collected at the time of each blood drawing, with Pearson’s r correlation coefficients ranging from 0.850 to 0.535 for corrected and non-corrected urinary concentration.
+
+## 3.3. Kinetics of Elimination of cC 6 O 4 , Clearance and Distribution Volume
+ Considering day 1 (time 0 h) as the initial time t0, and the concentration of cC 6 O 4 in serum of the day 1 sample as the initial concentration C0, the elimination kinetics of cC 6 O 4 was investigated by applying a first-order model on natural logarithm (ln) transformed pooled data of all subjects. A mean half-life (t 1/2 ) of 184 (95% CI 162–213) h or 7.7 (95% CI 6.7–8.9) days was calculated. No effect modification by categories of age (p-interaction = 0.42) and BMI (p-interaction = 0.17) on the kinetics parameters was found. The elimination of cC 6 O 4 from serum is reported in Figure 3 . Data from each individual are reported separately with red dots connected by red lines, while the linear regression and 95% confidence interval are reported in bold black continuous and dotted lines.
+ The renal clearance (Cl) and the apparent distribution volume (Vd) are reported in Table 4 , also normalized for the individual’s body weight.
+
+## 4. Discussion
+ In the present work, the half-life of cC 6 O 4 in occupationally exposed male individuals was estimated. The amount of cC 6 O 4 excreted unchanged in urine was also investigated to evaluate the relevance of urine as the excretion route.
+ For the recruitment of volunteers, we evaluated the results of the annual biomonitoring campaigns performed from 2013 in the plant of Spinetta Marengo [ 5 ]. We noticed that a significant proportion of serum samples was below the lower limit of quantification (1 µg/L). Considering that, in the present study, we aimed to also investigate urinary cC 6 O 4 , expected to be in lower concentration compared to serum, we recruited our volunteers among plastomer workers as those with the highest exposures. Moreover, we adopted an analytical assay with much higher sensitivity, with an LLOQ of 0.02 µg/L for cC 6 O 4 in both matrices [ 5 ]. The quantification of cC 6 O 4 in 100% of samples testifies the goodness of the adopted strategy.
+ Comparing results of serum cC 6 O 4 reported here with the previous work [ 5 ], we note a lowering of concentrations. In particular, the median and the maximum were 4 and 65 µg/L in Plastomer 2, and 4 and 20 µg/L in Plastomer 1 departments in 2021, while in the present study the median and maximum are to 2.34 and 11.3 µg/L. This difference might be explained by the increased sensitivity of the analytical assay that allowed to include all subjects in the statistical analysis, i.e., also those with cC 6 O 4 in serum <1 µg/L (three individuals), which would have been excluded in 2021.
+ The concentrations of cC 6 O 4 in serum and urine (corrected and non-corrected for creatinine) were highly correlated with Pearson’s correlation coefficients r > 0.80 ( Figure 2 ). This very good correlation suggests that biomonitoring of exposure to cC 6 O 4 could be performed using urine instead of blood; this would be more convenient, as urine is non-invasive and can be collected autonomously, without the needs of health personnel. To further explore this possibility, we evaluated the correlation between cC 6 O 4 in serum and in spot urine samples collected at the time of each blood drawing, obtaining a very good correlation when the concentration of cC 6 O 4 was corrected for creatinine (Pearson’s r = 0.850). This further supports the use of urine samples for the biological monitoring of the exposure to cC 6 O 4 .
+ The kinetics work was performed on volunteers who had blood sampled at fixed times and voids of urine collected over a defined period. This study design is convenient because it allows monitoring exposure in real-world conditions. At the same time, some drawbacks are present, and these include: Different doses experienced by study individuals, resulting in a large variability in the concentration of the chemical in the investigated specimens;
+ Difficulties in adhering to the study protocol, particularly in collecting all voids, resulting in missing voids or incomplete urine collection. Moreover, this is often associated with an under-reporting of missing samples.
+
+ In the study of the kinetics of excretion of cC 6 O 4 using the linear regression between ln-transformed concentrations of cC 6 O 4 vs. time, different exposures result in different intercepts, but the slope of the linear regression is not affected. As the half-life is calculated from the kinetic constant k (see Equations (1) and (2)), which is derived as the slope of the linear regression, we can conclude that kinetics parameters are not influenced by different exposures. In fact, individual concentration lines were remarkably similar (parallel) across subjects ( Figure 3 ). The second issue, associated with missing urine samples, was faced by calculating the excreted creatinine, as summarized in Table 1 [ 10 ]; this allowed us to estimate a rate of urine collection of 77% and to identify four subjects exceeding the low boundary of tolerance range [60–140%] [ 13 ]. Overall, we evaluated as “good” the compliance of our volunteers in collecting voids, but we acknowledge that the amount of cC 6 O 4 excreted in urine is underestimated by about 23%. Considering this, the percentage of cC 6 O 4 in serum daily excreted in urine would be closer to 25% instead of the 20% observed ( Table 3 ); similarly, the renal clearance would be increased from 0.41 mL/min to 0.50 mL/min ( Table 4 ).
+ cC 6 O 4 was developed and introduced in the polymerization process by Solvay Specialty Polymers Italy S.p.A. to find alternatives with a better (eco)toxicological profile than persistent perfluoroalkyl chemicals such as PFOA. A kinetics study performed in rats showed a short half-life of 4–7 h [ 1 ]. The present study found a half-life in male humans of 184 (95% CI 162–213) h. This value is higher than that found in rats, as expected, as the metabolism in rodents is much faster than in humans.
+ This is the first study assessing the kinetics of elimination of cC 6 O 4 in occupationally exposed individuals. Some studies on newly synthetized perfluoroalkyl chemicals, such as perfluorobutyrate (PFBA) [ 14 ] and GenX, were performed [ 15 , 16 ]. Table 5 provides an overview of the results of these studies together with a selection of studies investigating the kinetics of PFOA. The half-life of PFBA was evaluated in nine workers removed from the workplace for more than 7 days and was estimated to be 72 h (95% CI 43–101) [ 14 ]. The kinetics of GenX was investigated in 18 workers that took 3-4 days off: the half-life was 81 ± 55 h (mean ± SD) [ 15 , 16 ]. Noticeably, the half-lives of these compounds were all found to be within a few days (3 to 7.7 days), while a half-life of 3.16–3.5 years was reported for PFOA [ 4 , 5 , 17 ].
+ The short half-life of cC 6 O 4 and its urinary elimination are supported by a recent in vitro and in silico study evaluating the interactions of cC 6 O 4 with renal basal and apical membrane transporters that may contribute to the reuptake from the tubule lumen. Results showed no significant interactions, suggesting that reabsorption from the proximal tubule is not likely to interfere with the urinary elimination of cC 6 O 4 in humans [ 18 ].
+ Other kinetics parameters obtained in the present study, such as the distribution volume (Vd), calculated to be 6.6 L (mean value), can help in understanding the degree of distribution of cC 6 O 4 in the body. Given that study subjects have a mean body weight of 79 kg, the volume of serum was estimated to be 3.1 L, the volume of the interstitial fluids to be 12.6 L (16% of body weight) and the total volume of body liquids to be 48 L (60% of body weight). Comparing these volumes with the Vd of cC 6 O 4 , it is possible to appreciate that this is more than twice the serum volume, suggesting that cC 6 O 4 is not exclusively present in serum, but it is likely distributed also into other compartments. At the same time, given that the Vd is about 1/8 of the total volume of body liquids, we speculate that no accumulation in poorly perfused compartments and organs is present.
+ In conclusion, the present work evaluated the kinetics of excretion of cC 6 O 4 in male workers. The half-life of 7.7 days, the daily urinary excretion of about 20% of the plasma dose, and the distribution volume supported the short biopersistence and the lack of bioaccumulation of cC 6 O 4 in the human body. As this study does not includes females and younger or elder subjects, differences in the kinetics parameters could be present in individuals with different personal characteristics.
+
+## Acknowledgments
+ The authors would like to thank Ferruccio Casalino, Matteo Bandirali and the staff of the Occupational Health Service and infirmary of the plant for their valuable contribution to illustrate the study to workers and to organize the specimen handling and managing. The authors would also warmly like to thank the volunteers who participated in the study.
+ Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+## Author Contributions
+ Conceptualization, S.F.; methodology, S.F. and R.M.; formal analysis, D.C.; investigation, R.M., G.L. and S.C.; resources, S.F.; data curation, R.M. and G.L.; writing—original draft preparation, S.F., S.C. and R.M.; writing—review and editing, S.F. and D.C.; visualization, R.M. and D.C. All authors have read and agreed to the published version of the manuscript.
+
+## Institutional Review Board Statement
+ The study was conducted in accordance with the Declaration of Helsinki and approved by the Ethics Committee of the University of Milan (date of approval 16 February 2021).
+
+## Informed Consent Statement
+ Informed consent was obtained from all subjects involved in the study.
+
+## Data Availability Statement
+ The data presented in this study are available on request from the corresponding author. The data are not publicly available due to privacy reasons.
+
+## Conflicts of Interest
+ The authors declare no conflict of interest. The funders had no role in the analyses or interpretation of data; in the writing of the manuscript; or in the decision to publish the results.
+
+## References
+ 1.
+
+ ECHA, Registration Dossier 
+ Acetic Acid, 2,2-difluoro-2-[[2,2,4,5-tetrafluoro-5-(trifluoromethoxy)-1,3-dioxolan-4-yl]oxy]-, Ammonium Salt (1:1)). According to CLP (Regulation (EC) No 1272/2008 Available online: https://echa.europa.eu/it/registration-dossier/-/registered-dossier/5712 (accessed on 10 October 2022) 2.
+
+ Hopf N.B. 
+ Fustinoni S. 
+ Biological monitoring of exposure to industrial chemicals. Part 2, Chemical Agents Patty’s Industrial Hygiene 
+ Cohrssen B. 
+ Wiley Hoboken, NJ, USA 2021 10.1002/0471435139.hyg042.pub3 3.
+
+ Jain R.B. 
+ Ducatman A. 
+ Serum concentrations of selected perfluoroalkyl substances for US females compared to males as they age Sci Total Environ. 2022 842 156891 10.1016/j.scitotenv.2022.156891 35753482 4.
+
+ Girardi P. 
+ Rosina A. 
+ Merler E. 
+ Report of the Project: Bio-PFAS: La Concentrazione di Sostanze Perfluorurate nel Sangue dei Dipendenti ed Ex-Dipendenti Delle Ditte RIMAR e Miteni. Trissino. Vicenza. Italia [In Italian] 2018 Available online: https://pfas.land/2019/03/02/02-marzo-2019-persistenza-dei-pfas-nel-sangue-dei-lavoratori-miteni/ (accessed on 15 December 2022) 5.
+
+ Fustinoni S. 
+ Consonni D. 
+ Historical Trend of Exposure to Perfluoroalkyl Surfactants PFOA, ADV, and cC6O4 and its Management in Two Perfluoroalkyl Polymers Plants, Italy Ann. Work Exp. Health 2023 wxac095 10.1093/annweh/wxac095 36715212 PMC10119700 6.
+ Decreto Legislativo 81 del 9 Aprile 2008 Available online: http://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/sg (accessed on 7 July 2022) 7.
+
+ Frigerio G. 
+ Cafagna S. 
+ Polledri E. 
+ Mercadante R. 
+ Fustinoni S. 
+ Development and validation of an LC-MS/MS method for the quantitation of 30 legacy and emerging per- and polyfluoroalkyl substances (PFASs) in human plasma, including HFPO-DA, DONA, and cC6O4 Anal. Bioanal. Chem. 2022 414 1259 1278 10.1007/s00216-021-03762-1 34907451 PMC8760233 8.
+
+ U.S. Food and Drug Administration 
+ Bioanalytical Method Validation Guidance for Industry Available online: https://www.fda.gov/files/drugs/published/Bioanalytical-Method-Validation-Guidance-for-Industry.pdf (accessed on 8 January 2022) 9.
+
+ EMA 
+ ICH Guideline M10 on Bioanalytical Method Validation 2022 Available online: https://www.ema.europa.eu/en/ich-m10-bioanalytical-method-validation-scientific-guideline#current-version-section (accessed on 8 January 2022) 10.
+
+ D'Avolio A. 
+ Cantu M. 
+ Gervasoni J. 
+ Artusi C. 
+ Marinova M. 
+ Nonnato A. 
+ Cangemi G. 
+ Persichilli S. 
+ Bioanalytical method validation of quantitative mass spectrometry based assay: Experimental protocols and regulations Biochim. Clin. 2018 42 51 61 10.19186/BC_2018.004 11.
+
+ Kroll M.H. 
+ Chesler R. 
+ Hagengruber C. 
+ Blank D.W. 
+ Kestner J. 
+ Rawe M. 
+ Automated determination of urinary creatinine without sample dilution: Theory and practice Clin. Chem. 1986 32 446 452 10.1093/clinchem/32.3.446 3948388 12.
+
+ Knuiman J.T. 
+ Hautvast J.G. 
+ van der Heijden L. 
+ Geboers J. 
+ Joossens J.V. 
+ Tornqvist H. 
+ Isaksson B. 
+ Pietinen P. 
+ Tuomilehto J. 
+ Flynn A. 
+
+ A multi-centre study on within-person variability in the urinary excretion of sodium, potassium, calcium, magnesium and creatinine in 8 European centres Hum. Nutr. Clin. Nutr. 1986 40 343 348 3771287 13.
+
+ Joossens J.V. 
+ Geboers J. 
+ Monitoring Salt Intake of the Population: Methodological Considerations Surveillance of the Dietary Habits of the Population with Regard to Cardiovascular Diseases, EURONUT Report 2 
+ De Backer G.G. 
+ Pedoe H.T. 
+ Ducimetiere P. 
+ Department of Human Nutrition, Agricultural University Wageningen, The Netherlands 1984 61 73 14.
+
+ Chang S.C. 
+ Das K. 
+ Ehresman D.J. 
+ Ellefson M.E. 
+ Gorman G.S. 
+ Hart J.A. 
+ Noker P.E. 
+ Tan Y.M. 
+ Lieder P.H. 
+ Lau C. 
+
+ Comparative pharmacokinetics of perfluorobutyrate in rats. mice. monkeys. and humans and relevance to human exposure via drinking water Toxicol. Sci. 2008 104 40 53 10.1093/toxsci/kfn057 18353799 15.
+
+ Clark D.S. 
+ The Chemours Company. 2021, March 17. Letter to EPA, Office of Pollution Prevention and Toxics Regarding Propanoic Acid, 2,3,3,3-tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-CAS RN 13252-13-6 (also Known as HFPO-DA) Available online: https://heronet.epa.gov/heronet/index.cfm/reference/details/reference_id/8631852 (accessed on 6 June 2022) 16.
+
+ U.S. Environmental Protection Agency 
+ Human Health Toxicity Values for Hexafluoropropylene Oxide (HFPO) Dimer Acid and Its Ammonium Salt (CASRN 13252-13-6 and CASRN 62037-80-3), EPA Document Number: 822R-21-010 Available online: https://www.epa.gov/system/files/documents/2021-10/genx-chemicals-toxicity-assessment_tech-edited_oct-21-508.pdf (accessed on 2 October 2021) 17.
+
+ Olsen G.W. 
+ Burris J.M. 
+ Ehresman D.J. 
+ Froehlich J.W. 
+ Seacat A.M. 
+ Butenhoff J.L. 
+ Zobel L.R. 
+ Half-life of serum elimination of perfluorooctanesulfonate.perfluorohexanesulfonate. and perfluorooctanoate in retired fluorochemical production workers Environ. Health Perspect. 2007 115 1298 1305 10.1289/ehp.10009 17805419 PMC1964923 18.
+
+ Bruno S. 
+ Bersani M. 
+ Astore S. 
+ Chiabotto G. 
+ Barge A. 
+ Binello A. 
+ Spyrakis F. 
+ Lack of interaction of the fluorosurfactant C 6 O 4 with human renal transporters: In vitro/in silico analysis Toxicology 2022 476 153257 10.1016/j.tox.2022.153257 35835357 Figure 1
+ Molecular structure of cC 6 O 4 .
+
+ Figure 2
+ Correlation between the concentration of cC 6 O 4 in day 2 urine not adjusted for creatinine(above) and adjusted for creatinine (below) in day 1 serum ( A ), or day 2 serum ( B ).
+
+ Figure 3
+ Elimination of cC 6 O 4 from serum. Data from each individual are reported separately with red dots connected by red lines, while the linear regression and 95% confidence interval are reported in bold black continuous and dotted lines.
+
+ toxics-11-00284-t001_Table 1 Table 1
+ Summary of characteristics of study subjects, available samples and urinary creatinine.
+
+ Parameter (Unit)
+ Statistics
+ Data
+
+ Personal characteristics
+ Male subjects
+ n (%)
+ 18 (100)
+
+ Age, year
+ mean ± SD
+ 44 ± 5
+
+ Weight, kg
+ mean ± SD
+ 79 ± 6
+
+ Height, cm
+ mean ± SD
+ 175 ± 6
+
+ BMI, kg/m 2 
+ mean ± SD
+ 26.1 ± 2.3
+
+ Current tobacco smoker
+ n (%)
+ 4 (22)
+
+ e-cig smoker
+ n (%)
+ 1 (5)
+
+ Use of drugs
+ n (%)
+ 14 (78)
+
+ Available samples
+ Blood samples
+ n
+ 72
+
+ Blood sample/subject
+ n
+ 4
+
+ Urine samples
+ n
+ 254
+
+ Urine sample/subject (day 1–day 3)
+ n, mean ± SD
+ 14 ± 4
+
+ Lost urine samples
+ n
+ 14
+
+ Urinary creatinine
+ Creat (g/day)
+ mean ± SD
+ 1.465 ± 0.401
+
+ Expected Crea (g/day)
+ mean ± SD
+ 1.905 ± 0.144
+
+ Crea ratio (%)
+ mean ± SD
+ 77 ± 21
+
+ Subjects with crea ratio < 60%
+ n (%)
+ 4 (22)
+
+ toxics-11-00284-t002_Table 2 Table 2
+ Concentration of cC 6 O 4 in serum and urine for each sampling day.
+
+ ID Subject
+ cC 6 O 4 Serum µg/L
+ cC 6 O 4 Urine µg/L
+ cC 6 O 4 Urine µg/g Crea
+
+ Day 1
+ Day 2
+ Day 3
+ Day 6
+ Day 1
+ Day 2
+ Day 3
+ Day 6
+ Day 1
+ Day 2
+ Day 3
+ Day 6
+
+ 1
+ 0.68
+ 0.65
+ 0.68
+ 0.49
+ 0.20
+ 0.23
+ 0.19
+
+ 0.30
+ 0.22
+ 0.22
+
+ 2
+ 0.77
+ 0.64
+ 0.61
+ 0.38
+ 0.71
+ 0.50
+ 0.49
+
+ 0.48
+ 0.44
+ 0.43
+
+ 3
+ 1.62
+ 1.72
+ 1.57
+ 1.25
+ 0.51
+ 0.52
+ 0.42
+
+ 0.65
+ 0.63
+ 0.50
+
+ 4
+ 0.75
+ 0.77
+ 0.70
+ 0.58
+ 0.61
+ 0.46
+ 0.38
+
+ 0.32
+ 0.31
+ 0.26
+
+ 5
+ 2.17
+ 2.06
+ 1.70
+ 1.75
+ 0.63
+ 0.64
+ 0.66
+
+ 1.10
+ 0.87
+ 0.71
+
+ 6
+ 2.89
+ 2.57
+ 2.37
+ 1.88
+ 1.76
+ 1.32
+ 1.47
+ 1.95
+ 1.11
+ 0.85
+ 0.37
+ 0.46
+
+ 7
+ 2.52
+ 2.91
+ 2.30
+ 2.08
+ 1.60
+ 1.54
+ 1.76
+ 0.68
+ 0.56
+ 0.57
+ 0.55
+ 0.23
+
+ 8
+ 2.42
+ 2.40
+ 2.03
+ 1.45
+ 1.45
+ 1.62
+ 1.71
+ 1.43
+ 1.25
+ 1.05
+ 1.02
+ 0.78
+
+ 9
+ 2.26
+ 2.24
+ 2.32
+ 1.84
+ 0.45
+ 0.57
+ 0.70
+ 0.59
+ 0.60
+ 0.46
+ 0.23
+ 0.33
+
+ 10
+ 1.75
+ 1.79
+ 1.55
+ 1.03
+ 1.06
+ 1.50
+ 0.64
+ 0.39
+ 0.87
+ 0.88
+ 1.55
+ 0.44
+
+ 11
+ 11.29
+ 8.01
+ 9.57
+ 7.46
+ 4.20
+ 4.82
+ 4.02
+ 3.48
+ 3.73
+ 3.14
+ 1.89
+ 1.63
+
+ 12
+ 1.80
+ 1.69
+ 1.55
+ 1.30
+ 0.64
+ 0.87
+ 0.60
+ 0.50
+ 0.63
+ 0.66
+ 0.43
+ 0.35
+
+ 13
+ 3.97
+ 3.65
+ 3.07
+ 1.86
+ 3.89
+ 4.63
+ 6.08
+ 3.76
+ 5.12
+ 3.59
+ 2.59
+ 1.18
+
+ 14
+ 1.42
+ 1.21
+ 1.09
+ 0.78
+ 0.70
+ 0.66
+ 0.68
+ 0.58
+ 0.59
+ 0.63
+ 0.32
+ 0.44
+
+ 15
+ 3.83
+ 3.74
+ 3.50
+ 3.17
+ 0.78
+ 0.95
+ 1.09
+ 0.65
+ 0.49
+ 0.64
+ 0.93
+ 0.47
+
+ 16
+ 3.86
+ 3.60
+ 3.22
+ 2.03
+ 2.40
+ 1.12
+ 1.45
+ 2.09
+ 1.60
+ 1.56
+ 1.49
+ 0.97
+
+ 18
+ 4.31
+ 3.88
+ 3.66
+ 2.28
+ 5.92
+ 4.90
+ 2.48
+ 3.12
+ 2.11
+ 1.78
+ 1.49
+ 1.27
+
+ 19
+ 7.00
+ 7.15
+ 6.62
+ 4.50
+ 2.45
+ 2.38
+ 1.71
+ 2.94
+ 2.19
+ 1.30
+ 1.48
+ 1.65
+
+ Mean
+ 3.07
+ 2.82
+ 2.67
+ 2.01
+ 1.66
+ 1.62
+ 1.47
+ 1.70
+ 1.32
+ 1.09
+ 0.91
+ 0.78
+
+ SD
+ 2.58
+ 2.03
+ 2.24
+ 1.69
+ 1.57
+ 1.55
+ 1.48
+ 1.26
+ 1.28
+ 0.93
+ 0.69
+ 0.50
+
+ Min
+ 0.68
+ 0.64
+ 0.61
+ 0.38
+ 0.20
+ 0.23
+ 0.19
+ 0.39
+ 0.30
+ 0.22
+ 0.22
+ 0.23
+
+ p25
+ 1.62
+ 1.69
+ 1.55
+ 1.03
+ 0.63
+ 0.57
+ 0.60
+ 0.59
+ 0.56
+ 0.57
+ 0.37
+ 0.44
+
+ Median
+ 2.34
+ 2.32
+ 2.17
+ 1.80
+ 0.92
+ 1.04
+ 0.90
+ 1.43
+ 0.76
+ 0.76
+ 0.63
+ 0.47
+
+ p75
+ 3.86
+ 3.65
+ 3.22
+ 2.08
+ 2.40
+ 1.62
+ 1.71
+ 2.94
+ 1.60
+ 1.30
+ 1.49
+ 1.18
+
+ Max
+ 11.29
+ 8.01
+ 9.57
+ 7.46
+ 5.92
+ 4.90
+ 6.08
+ 3.76
+ 5.12
+ 3.59
+ 2.59
+ 1.65
+
+ toxics-11-00284-t003_Table 3 Table 3
+ Amount of cC 6 O 4 in plasma and urine and % of urinary excretion calculated considering the amount of cC 6 O 4 in urine of day 2 vs. the amount in serum of day 1 or day 2.
+
+ cC 6 O 4 in Serum Day 1 µg
+ cC 6 O 4 in Serum Day 2 µg
+ cC 6 O 4 in Urine Day 2 µg
+ Urinary Excretion (vs. Serum Day 1) %
+ Urinary Excretion (vs. Serum Day 2) %
+
+ Mean 
+
+ 9.50
+ 8.73
+ 1.62
+ 18.9
+ 20.1
+
+ SD 
+
+ 7.95
+ 6.36
+ 1.42
+ 10.1
+ 11.0
+
+ Min 
+
+ 1.92
+ 1.70
+ 0.34
+ 4.8
+ 4.9
+
+ p25 
+
+ 5.51
+ 5.38
+ 0.74
+ 12.5
+ 12.8
+
+ Median 
+
+ 7.25
+ 7.76
+ 1.05
+ 17.5
+ 17.9
+
+ p75 
+
+ 10.92
+ 10.42
+ 1.85
+ 24.1
+ 25.7
+
+ Max 
+
+ 34.08
+ 24.18
+ 5.37
+ 46.4
+ 50.5
+
+ toxics-11-00284-t004_Table 4 Table 4
+ cC 6 O 4 renal clearance (Cl) and distribution volume (Vd).
+
+ Statistics
+ Cl mL/min
+ Cl w mL/min × kg
+ Serum Volume L
+ Vd, L
+ Vd w L/kg
+
+ Mean
+ 0.41
+ 0.0052
+ 3.1
+ 6.6
+ 0.084
+
+ SD
+ 0.21
+ 0.0026
+ 0.4
+ 3.4
+ 0.042
+
+ Min
+ 0.13
+ 0.0015
+ 2.6
+ 2.1
+ 0.023
+
+ p25
+ 0.29
+ 0.0037
+ 2.9
+ 4.6
+ 0.06
+
+ Median
+ 0.38
+ 0.0051
+ 3.0
+ 6.1
+ 0.081
+
+ p75
+ 0.53
+ 0.0064
+ 3.1
+ 8.6
+ 0.103
+
+ Max
+ 1.02
+ 0.0128
+ 4.0
+ 16.3
+ 0.204
+
+ toxics-11-00284-t005_Table 5 Table 5
+ Summary of studies investigating the half-life of some PFAS in occupationally exposed workers.
+
+ Chemical
+ Study
+ Study Subjects/Company/Country
+ N Subjects
+ N Samples, N/Subject
+ Years of Study
+ C 0 Serum µg/L
+ t 1/2 
+
+ PFOA
+ [ 5 ]
+ Fluorochemical workers after the ban of PFOA; Solvay, Italy
+ 93 (15 F)
+ 568, 2 to 9/subject
+ 2013–2021
+ Median 750
+ GM 3.16 (95% CI 2.98–3.37) years
+
+ PFOA
+ [ 17 ]
+ Retired fluorochemical workers; 3M, US
+ 26 (2 F)
+ 4 to 8/subject
+ 1998–2004
+ Mean 691
+ GM 3.5 (95% CI 3.0–4.1) years
+
+ PFOA
+ [ 4 ]
+ Retired fluorochemical workers; Miteni, Italy
+ 35 M
+ 81 2/subject
+ 2000–2018
+ GM 1.489
+ Mean 3.35 (95% CI 2.89–3.99) years
+
+ Perfluorobutyrate (PFBA)
+ [ 14 ]
+ Fluorochemical workers removed from the workplace for >7 days; 3M, US
+ 9 (2 F)
+ 2/subject
+ 2007
+ 2–71
+ 72 (95% CI 43–101) h
+
+ GenX
+ [ 15 , 16 ]
+ Fluorochemical workers off-work weekend (no exposure for 3–4 days); Chemours, NL
+ 18
+ 2/subject
+ Before 2021
+ Not reported
+ Mean ± SD 81 ± 55 h
+
+ cC 6 O 4 
+ Present study
+ Fluorochemical workers removed from the workplace for 5 days; Solvay, Italy
+ 18 M
+ 72 4/subject
+ 2021–2022
+ Median 2.34
+ GM 184 (95% CI 162–213) h

@@ -1,0 +1,4 @@
+# Agency PDFs are ~110 MB of freely available government documents at stable
+# URLs. Their text extractions (papers/*.txt) are committed and are what the
+# analysis was read from; run scripts/fetch_papers.sh to restore the originals.
+papers/*.pdf
