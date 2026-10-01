@@ -1,0 +1,1459 @@
+SOURCE: https://www.sciencedirect.com/science/article/pii/S0013935125017396
+DOI: 10.1016/j.envres.2025.122487
+JOURNAL: Environmental Research vol 285 p122487 (2025/11/15)
+TITLE: The relative importance of fecal and urinary excretion of perfluorooctane sulfonic acid and perfluorooctanoic acid after high exposure – An observational study in Ronneby, Sweden
+RETRIEVED: Firecrawl stealth proxy, 2026-10-01
+
+[Skip to main content](https://www.sciencedirect.com/science/article/pii/S0013935125017396#main) [Skip to article](https://www.sciencedirect.com/science/article/pii/S0013935125017396#article)
+
+### Reading Assistant
+
+powered by [LeapSpace\\
+\\
+Opens in a new window](https://www.sciencedirect.com/leapspace/?dgcid=rai_sd_ra_ls_header)
+
+#### Questions you could ask:
+
+- Suggested question:What are the main findings regarding the concentrations of Perfluorooctanoic Acid (PFOA) and Perfluorooctane Sulfonate (PFOS) in serum, urine, and feces?
+- Suggested question:What variations were observed in individual fecal and urinary elimination of Polyfluoroalkyl Substances (PFAS)?
+- Suggested question:What implications do these findings have for understanding Polyfluoroalkyl Substances (PFAS) elimination in humans?
+
+#### Actions you could take:
+
+- Summarize this article
+- Summarize experiments
+
+Ask about this article
+
+[![Environmental Research](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125X00220-cov200h.gif)](https://www.sciencedirect.com/journal/environmental-research/vol/285/part/P3)
+
+## [Environmental Research](https://www.sciencedirect.com/journal/environmental-research "Go to Environmental Research on ScienceDirect")
+
+Date:15 November 2025
+
+Article:122487
+
+Volume:[Volume 285, Part 3](https://www.sciencedirect.com/journal/environmental-research/vol/285/part/P3 "Go to table of contents for this volume/issue")
+
+View accessibility information
+
+## Published by:Elsevier
+
+### Published by
+
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/08bcf77e921828c5a59334cdb2949dd973632719/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/environmental-research "Go to Environmental Research on ScienceDirect")
+
+Show more
+
+Research article
+
+Open access
+
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0013935125017396&orderBeanReset=true)
+
+# The relative importance of fecal and urinary excretion of perfluorooctane sulfonic acid and perfluorooctanoic acid after high exposure – An observational study in Ronneby, Sweden
+
+Author links open overlay panelAxel G.Anderssona, [TonyFletcherb](https://www.sciencedirect.com/author/7102856530/tony-fletcher), YiyiXua, [AnnaKärrmanc](https://www.sciencedirect.com/author/6505780570/anna-karrman), DanielaPinedad, Carina A.Nilssond, [Christian H.Lindhd](https://www.sciencedirect.com/author/35550365200/christian-h-lindh), [KristinaJakobssona](https://www.sciencedirect.com/author/7004441710/kristina-m-jakobsson), YingLia
+
+Show more
+
+[View **PDF**](https://www.sciencedirect.com/science/article/pii/S0013935125017396/pdfft?md5=7a1fdd8f0acaf77b2a41db1ed933446a&pid=1-s2.0-S0013935125017396-main.pdf) Download full issue
+
+Cite
+
+Add to Mendeley
+
+Share
+
+[10.1016/j.envres.2025.122487](https://doi.org/10.1016/j.envres.2025.122487)
+
+More actions
+
+## Outline
+
+01. [Highlights](https://www.sciencedirect.com/science/article/pii/S0013935125017396#abs0020 "Highlights")
+02. [Abstract](https://www.sciencedirect.com/science/article/pii/S0013935125017396#abs0010 "Abstract")
+03. [Graphical abstract](https://www.sciencedirect.com/science/article/pii/S0013935125017396#abs0015 "Graphical abstract")
+04. [1\. Introduction](https://www.sciencedirect.com/science/article/pii/S0013935125017396#sec1 "1. Introduction")
+05. [2\. Methods](https://www.sciencedirect.com/science/article/pii/S0013935125017396#sec2 "2. Methods")
+06. [3\. Results](https://www.sciencedirect.com/science/article/pii/S0013935125017396#sec3 "3. Results")
+07. [4\. Discussion](https://www.sciencedirect.com/science/article/pii/S0013935125017396#sec4 "4. Discussion")
+08. [CRediT authorship contribution statement](https://www.sciencedirect.com/science/article/pii/S0013935125017396#sec5 "CRediT authorship contribution statement")
+09. [Declaration of competing interest](https://www.sciencedirect.com/science/article/pii/S0013935125017396#coi0010 "Declaration of competing interest")
+10. [5\. Acknowledgments](https://www.sciencedirect.com/science/article/pii/S0013935125017396#ack0010 "5. Acknowledgments")
+11. [Appendix A. Supplementary data](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1 "Appendix A. Supplementary data")
+12. [Data availability](https://www.sciencedirect.com/science/article/pii/S0013935125017396#da0010 "Data availability")
+13. [References](https://www.sciencedirect.com/science/article/pii/S0013935125017396#cebib0010 "References")
+
+Show full outline
+
+## Figures (4)
+
+1. [![Unlabelled figure](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-ga1.sml)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#undfig1)
+2. [![Fig. 1. Flow chart on inclusion of participants.](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-gr1.sml)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#fig1)
+3. [![Fig. 2. Scatter plots comparing fecal and urinary elimination and serum concentrations for PFOA, L-PFOS, 2/6m-PFOS and 3/4/5m-PFOS.](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-gr2.sml)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#fig2)
+4. [![Fig. 3. Relative fecal to total (urinary plus fecal) elimination for PFOS isomers and PFOA in the 147 study subjects.](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-gr3.sml)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#fig3)
+
+## Tables (4)
+
+1. [Table 1. Description of the study participants with serum, urinary and fecal PFAS measurements.](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl1 "Table 1. Description of the study participants with serum, urinary and fecal PFAS measurements.")
+2. [Table 2. Concentrations of PFAS in serum, urine, and feces in 147 study participants.](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl2 "Table 2. Concentrations of PFAS in serum, urine, and feces in 147 study participants.")
+3. [Table 3. Estimated urinary and fecal elimination rates, clearance and comparisons between the urinary and fecal elimination rates, by division and percentage fecal elimination in 147 study participants.](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3 "Table 3. Estimated urinary and fecal elimination rates, clearance and comparisons between the urinary and fecal elimination rates, by division and percentage fecal elimination in 147 study participants.")
+4. [Table 4. Serum elimination constants (per year) and estimated volume of distributions in 40 individuals with repeated measurements.](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl4 "Table 4. Serum elimination constants (per year) and estimated volume of distributions in 40 individuals with repeated measurements.")
+
+## Extras (1)
+
+1. [Multimedia component 1](https://www.sciencedirect.com/science/article/pii/S0013935125017396#mmc1 "Multimedia component 1")
+
+## Highlights
+
+- •
+Many pharmacokinetic models assume that PFAS elimination in humans is primarily urinary.
+
+- •
+We investigated concentrations of PFAS in serum, urine and feces from 147 subjects.
+
+- •
+PFOA and PFOS were generally eliminated via both urine and feces.
+
+- •
+Volume of distributions were calculated using longitudinal serum data from 40 subjects.
+
+- •
+Pharmacokinetic models of PFAS should include fecal elimination.
+
+
+## Abstract
+
+### Background
+
+Many poly- and perfluoroalkyl substances (PFAS) are persistent and have long half-lives in the human body. However, there are limited data on the different routes of elimination. Most pharmacokinetic models assume that the urinary route dominates.
+
+### Objectives
+
+Our aim was to investigate the relative importance of fecal and urinary elimination for linear perfluorooctane sulfonic acid (L-PFOS), branched PFOS and perfluorooctanoic acid (PFOA), and to estimate volumes of distributions (Vds).
+
+### Methods
+
+Drinking water highly contaminated with PFAS from firefighting foam was distributed to many households in Ronneby, Sweden, from the 1980s to December 2013. In 2016, PFAS levels were measured in matched serum, feces and urine samples from 147 subjects. Daily urinary and fecal PFAS elimination was estimated through urinary creatinine elimination and dry fecal mass, respectively. Longitudinal serum PFAS elimination rates were used together with fecal and urinary elimination rates to estimate Vds.
+
+### Results
+
+In 2016, the median serum concentrations were 100 ng/mL for L-PFOS and 10 ng/mL for PFOA. L-PFOS was eliminated primarily through feces, with a median urinary elimination of 91 ng/day and median fecal elimination of 364 ng/day. The branched PFOS had, similarly, a primarily fecal elimination. In contrast, PFOA had a slightly higher urinary elimination, with median urinary elimination of 26 ng/day and fecal elimination of 15 ng/day. Median Vds were estimated at 93 mL/kg for PFOS and 74 mL/kg for PFOA.
+
+### Conclusion
+
+Fecal elimination was shown to be an important route for PFOS and PFOA elimination. Pharmacokinetic models need to take fecal elimination into consideration.
+
+## Graphical abstract
+
+![Image 1](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-ga1.jpg)
+
+1. [Download: Download high-res image (609KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-ga1_lrg.jpg "Download high-res image (609KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-ga1.jpg "Download full-size image")
+
+- [Previous article in this issue](https://www.sciencedirect.com/science/article/pii/S0013935125017025)
+- [Next article in this issue](https://www.sciencedirect.com/science/article/pii/S0013935125017591)
+
+## 1\. Introduction
+
+Per- and polyfluoroalkyl substances (PFAS) are synthetic chemicals used in aqueous firefighting foams, clothing, various consumer products and industrial applications. PFAS are often called “forever chemicals” because of their high persistence in nature and, for some substances, in humans. Apparent half-lives of perfluorinated PFAS in humans range from months to several years ( [Li et al., 2018](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib24), [2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib23); [Xu et al., 2020](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib41)). The half-lives depend on molecular structure, such as chain length and functional groups: for example, compounds with shorter chain lengths generally have a shorter half-life ( [Xu et al., 2020](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib41)). The most epidemiologically and toxicologically studied PFAS substances are perfluorooctanoic acid (PFOA) and perfluorooctane sulfonic acid (PFOS), partly due to their wide-spread use and their long half-lives in humans.
+
+Urinary elimination has been considered as the primary excretion route in models of half-lives in humans and animals using physiologically based pharmacokinetic (PBPK) models, and is the only route included in some models ( [Andersen et al., 2006](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib2); [Loccisano et al., 2011](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib27)). Although Worley et al. (2017) included fecal elimination as a separate route, they regarded it as insignificant and noted that it was only included for the sake of completeness. However, rat models have shown substantial biliary ( [Vanden Heuvel, Kuslikis, Van Rafelghem and Peterson, 1991](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib38)) and fecal elimination ( [Cui et al., 2010](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib7); [Vanden Heuvel et al., 1991](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib38)). In one rodent study, the urinary and fecal elimination of PFOA and PFOS were comparable, albeit with a slightly higher urinary elimination ( [Cui et al., 2010](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib7)).
+
+Strong support for significant fecal elimination in humans was provided by three intervention studies exploring treatment with the bile-sequestering medication cholestyramine, which is thought to block intestinal PFAS reuptake ( [Genuis et al., 2010](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib14); [Genuis et al., 2013](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib15); [Møller et al., 2024](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib31)). The first study, a case-report, found a substantial decline of serum PFOA, perfluorohexane sulfonic acid (PFHxS) and PFOS levels in one individual after 12 and 20 weeks of cholestyramine intervention ( [Genuis et al., 2010](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib14)). The second study, a case-series, found increased fecal elimination of the same compounds in eight individuals after at least 5 days of cholestyramine intervention ( [Genuis et al., 2013](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib15)). Lastly, a recent Danish study in 45 subjects confirmed that PFAS serum levels could be substantially lowered with cholestyramine, with 63 % lowering of PFOS serum levels in a twelve-weeks cholestyramine intervention compared to 3 % of twelve weeks without intervention ( [Møller et al., 2024](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib31)). The other PFAS investigated, PFOA, perfluorononanoic acid (PFNA), perfluorodecanoic acid (PFDA) and PFHxS, were also lowered, but to lesser degrees.
+
+A pharmacokinetic parameter with limited PFAS data is the volume of distribution (Vd), which can be used to estimate other key pharmacokinetic parameters such as clearance or body burden from serum or drinking water concentrations ( [Fan and de Lannoy, 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib8)). Vds are theoretical volumes that assess the extent of compound distribution after absorption, i.e. if the compound is confined to plasma or if it freely distributes to other tissues, and is determined by the compound's chemical properties ( [Fan and de Lannoy, 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib8)). For PFAS, different strategies have been used to estimate Vds. Buser et al. extrapolated Vds from experimental studies in monkeys, yielding approximations of 200 mL/kg body weight for PFOA and PFOS ( [Buser et al., 2021](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib4)). Thompson et al. used pharmacokinetic modelling with assumptions regarding daily intake of contaminated drinking water, yielding 230 mL/kg body weight for PFOA and 170 mL/kg for PFOS ( [Thompson et al., 2010](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib37)). A recent study based on studies which reported both drinking water concentrations and serum concentrations, used Bayesian modelling to estimate Vds of 430 mL/kg for PFOA and 336 mL/kg for PFOS ( [Chiu et al., 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib6)). In contrast, considerably lower Vds were found by [Abraham et al., (2024)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib1), where oral administration of 13C-labeled PFAS in a single volunteer resulted in Vds of 121 mL/kg for 13C-PFOA and 152 mL/kg for 13C-PFOS ( [Abraham et al., 2024](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib1)).
+
+To our knowledge, previous studies have not clarified the relative importance of the two major elimination routes of PFAS in humans, urinary and fecal elimination. Likewise, published Vds estimates either required several assumptions, or were only measured in one individual. Therefore, the present study aimed to investigate the roles of urinary and fecal elimination of PFOA and PFOS and to explore the Vds for these compounds.
+
+## 2\. Methods
+
+### 2.1. Study design
+
+This observational study is a cross-sectional comparison of PFAS levels in serum, fecal and urine spot samples collected in 2016 from study participants in the follow-up of the Ronneby Biomarker Cohort, 3 years after end of exposure to contaminated drinking water ( [Xu et al., 2021](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib42)). In a subset of the study population, we used longitudinal data from repeated serum samplings to estimate elimination rates and Vds. All participants provided informed consent. The study was approved by the Swedish Ethical Review Authority (Lund, 2014/267; Lund, 2015/902 and Lund, 2016/474).
+
+### 2.2. Study setting and study participants
+
+PFAS-containing firefighting foam had been used for fire-extinguishing exercises at the local military air base in Ronneby, southeastern Sweden, since the 1980s. In 2013, water concentrations surpassing 10,000 ng/L of a sum of 8 PFAS (mainly PFHxS and PFOS) were found in the drinking water of one of the two waterworks in Ronneby ( [Xu et al., 2021](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib42)), far above the recent Swedish drinking water maximum limits of 4 ng/L for the sum of four PFAS (PFOA, PFNA, PFHxS and PFOS) ( [Livsmedelsverket, 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib26)). The contaminated waterworks was closed in December 2013, and water was instead provided from the uncontaminated waterworks to all inhabitants in Ronneby. Thus, only background exposure remained from 2014 and onwards, which is negligible in comparison to the previous, very high, daily drinking water PFAS exposure.
+
+Blood sampling for exposure assessment was offered to the inhabitants beginning 6 months after the end of exposure from the contaminated water source. A total of 3507 participants provided serum samples ( [Xu et al., 2021](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib42)). From this group, 114 volunteers were further recruited to participate in a longitudinal half-life panel study, with serum sampled repeatedly over time, enabling elimination rate and half-life estimations ( [Li et al., 2018](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib24)). In addition, all participants were offered reexamination of their PFAS levels in 2016 ( [Li et al., 2018](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib24)). In total, 283 individuals provided serum in 2016 and some also provided urine and fecal samples.
+
+This study focuses on 147 individuals aged 16 to 85 who provided serum, urine, and fecal samples (103 from the reexamination group and 44 from the longitudinal half-life panel) ( [Fig. 1](https://www.sciencedirect.com/science/article/pii/S0013935125017396#fig1)).
+
+![Fig. 1](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-gr1.jpg)
+
+1. [Download: Download high-res image (289KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-gr1_lrg.jpg "Download high-res image (289KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-gr1.jpg "Download full-size image")
+
+Fig. 1. Flow chart on inclusion of participants.
+
+PFOA = perfluorooctanoic acid, LOD = limit of detection, Vd = volume of distribution.
+
+For PFOA, 4 individuals were excluded from Vd calculations and 57 from the serum, fecal and urine comparisons due to LOD at 10.8 ng/g dry weight for fecal concentration. Four blood donors were also excluded from Vd calculations.
+
+### 2.3. Biosampling
+
+Blood samples were drawn in two 5 mL Becton Dickinson vacutainer tubes without gel (BD, Belliver Industrial Estate, Plymouth, UK) and left at room temperature for 30 min to coagulate before centrifugation at 1500 _g_. Aliquots of serum were transferred to 2 mL cryotubes (Sarstedt, Nümbrecht, Germany) and stored at −80 °C at the Division of Occupational and Environmental Medicine in Lund for further analysis.
+
+Morning urine was collected at home in 13-mL polypropylene screw cap tubes (Sarstedt, Nümbrecht, Germany). A clean paper cup and a tube were provided. The urine samples were frozen at −20 °C and transported frozen to the Division of Occupational and Environmental Medicine, Lund University for analysis and continued storage at −20 °C.
+
+Feces were collected at home in plastic tubes with built-in spatulas for collection of a small amount of feces. The tube was frozen at −20 °C and then transported frozen to the Man-Technology-Environment Research Center, Örebro University.
+
+### 2.4. PFAS measurements
+
+The PFAS measured in the different media (serum, urine, and feces) are given in [Supplementary Table 1](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1).
+
+#### 2.4.1. Serum and urine
+
+Quantitative analysis of PFAS in serum and urine samples, described in detail previously ( [Xu et al., 2020](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib41)), was performed using liquid chromatography–triple quadrupole linear ion trap mass spectrometry (LC/MS/MS; QTRAP 6500+; AB Sciex, Framingham, MA, USA). Briefly, 25 μL of serum or 50 μL of urine was mixed with isotopically labeled internal extraction standards (MPFAC-C-ES, Wellington Laboratories, Guelph, Canada) and then precipitated using methanol and acetonitrile by vigorous shaking for 30 min and centrifuged prior to analysis. Aliquots of 4 μL of the serum supernatant or 20 μL of urine supernatant were injected onto the analytical column Acquity UPLC® BEH C18 (1.7 μm, 2.1 mm i.d. × 100 mm, Waters Corporation, Milford, USA). All analyzed sample batches included a standard curve, four chemical blanks and three quality control (QC) samples ( [Xu et al., 2020](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib41)).
+
+Nineteen PFAS compounds were analyzed in the longitudinal half-life cohort ( [Li et al., 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib23)) and fourteen compounds in the re-examination group ( [Table S1](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1)). In urine, only 8 compounds were analyzed, as the other 11 were below the limit of detection (LOD). These 8 measured were PFOA, perfluoropentane sulfonic acid (PFPeS), PFHxS, perfluoroheptane sulfonic acid (PFHpS), linear PFOS (L-PFOS), perfluoro-1-methylheptane sulfonic acid (1m-PFOS), perfluoro-2/6-methylheptane sulfonic acid (2/6m-PFOS) and perfluoro-3/4/5-methylheptane sulfonic acid (3/4/5m-PFOS). Because 2m-PFOS and 6m-PFOS could not be analytically separated, the sum of the levels is reported as 2/6m-PFOS. Likewise, 3/4/5m-PFOS values represent the sum of 3m-PFOS, 4m-PFOS and 5m-PFOS levels. Chromatogram for the measured PFOS isomers is presented in [Supplementary Fig. S1](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1).
+
+The LODs were determined as the concentrations corresponding to the average plus three times the standard deviation of the concentrations in chemical blank samples. Between-run precision was expressed as the coefficient of variation in the QC samples. Urine creatinine concentrations were determined using an enzymatic method ( [Mazzachi et al., 2000](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib30)) and were used to adjust for urine dilution by dividing the urinary PFAS concentration by the urinary creatinine concentration. The Division of Occupational and Environmental Medicine laboratory in Lund participates in the interlaboratory comparison program G-EQUAS (University of Erlangen-Nüremberg) and is approved by the European Human Biomonitoring Initiative (HBM4EU) project for analyses of PFAS in serum.
+
+Previously, we have investigated the influence of fasting versus non-fasting sampling, morning versus afternoon sampling, and a preceding heavy meal, or vigorous physical activity, without finding any significant differences in serum concentrations (results not published).
+
+#### 2.4.2. Feces
+
+Fecal samples were freeze-dried and kept at −20 °C. A small portion (0.2 g) of each sample was mixed with isotopically labeled extraction standards for PFOA, PFNA, PFHxS and L-PFOS (from Wellington Laboratories, Guelph, Canada) and was then treated with alkaline methanol (2 mM sodium hydroxide in methanol) before being extracted three times with 2 mL methanol. Hydrochloric acid was added to the combined extracts (6 mL) to neutralize the previously added sodium hydroxide. Extracts were then diluted with ultra-pure water and purified in two steps, based on the method described in [Persson et al., (2013)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib32); [Persson et al. (2013)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib32). The first step was a weak anion-exchange solid-phase extraction (WAX, Waters Corporation, Milford, USA) that captured anionic and neutral PFAS, followed by a second step with dispersive carbon (Supelclean ENVI-Carb, Supelco) that typically removes planar aromatic or hexagonal ring-shaped molecules. Extracts were filtered through 0.2 μm hydrophilic polypropylene filters (GHP, from PALL Corporation, NY, USA) and evaporated to a final volume of 200 μL. A new set of isotopically labeled injection standards (PFOA, PFNA, PFHxS, PFOS; Wellington Laboratories, Guelph, Canada) and 300 μL 2 mM ammonium acetate in water were added before injection into the UPLC MS/MS system described below.
+
+Instrumental analyses were performed on an UPLC MS/MS system (ACQUITY coupled to Xevo TQ-S, Waters Corporation, Milford, USA) in electrospray ionization mode (ESI) by injecting 10 μL of sample onto a UPLC BEH C18 (2.1 × 100 mm, 1.7 μm) analytical column. Procedural blanks (chemical blanks) and one QC sample were included in each extraction batch, and the LOD was calculated as the mean concentration in blank samples plus three times the standard deviation.
+
+Samples were analyzed in eleven batches and method precision was evaluated by multiple measurements of a homogenized pool from several study samples (QC sample). Precision, expressed as within-day method reproducibility of the in-house quality control sample, was 4–8 % for PFOA, PFHxS, and PFOS, and slightly higher variation of 31 % for PFNA due to concentration close to the detection limit. Between-day reproducibility for the method over a period of several months (n = 11) was 19 % for PFOS, 25 % for PFHxS, 67 % for PFOA and 100 % for PFNA. Accuracy could only be assessed from recoveries of spiked samples and was >75 % for PFOA, PFHxS, PFOS and >50 % for PFNA.
+
+PFOA, PFNA, PFHxS, L-PFOS, 2/6m-PFOS, and 3/4/5m-PFOS were analyzed in feces. Chromatogram for the measured PFOS isomers is presented in [Supplementary Fig. S2](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1). Dimethyl-PFOS and 1m-PFOS were occasionally detected but were not further investigated because the QC variabilities were too high (95 % and 190 %, respectively).
+
+#### 2.4.3. Valid serum/urine/fecal triplets
+
+The PFAS in measurable concentrations in all media (serum, urine and feces) were PFOA, PFHxS, L-PFOS, 2/6m-PFOS and 3/4/5m-PFOS ( [Table S1](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1)). However, the calculated Vd for PFHxS indicated an underestimation of fecal concentration, which could not be explained by quality control and verification analyses. Therefore, PFHxS was omitted from further analysis. In summary, this study includes PFOA, L-PFOS, 2/6m-PFOS and 3/4/5m-PFOS.
+
+Two individuals had extremely high fecal PFAS concentrations (without corresponding elevation in serum or urine concentrations), with L-PFOS values of 736 and 465 ng/g dry weight, respectively. These concentrations correspond to 57 and 36 times the L-PFOS median value. Thus, they were considered as extreme outliers and excluded from all descriptions and analyses.
+
+The LODs and the number of samples < LOD are presented in [Supplementary Table 2](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1). PFAS values below LOD were included in all analyses as LOD/2. For L-PFOS, there were different LODs in the batches LODs – one at 0.27 and one at 1.0. In the case of 1.0, we instead used 0.27/2. An unknown source of contamination of PFOA resulted in elevated LOD at 10.8 ng/g for 57 individuals; the source of the contamination could not be traced. These data on fecal PFOA concentrations were therefore excluded, but the 57 individuals still provided data for linear and branched PFOS.
+
+In summary, matched sets of serum, urine and fecal concentrations were available for 147 individuals for L-PFOS, 2/6m-PFOS and 3/4/5m-PFOS, and for 90 individuals for PFOA ( [Fig. 1](https://www.sciencedirect.com/science/article/pii/S0013935125017396#fig1)). However, urine results for PFPeS, PFHxS and PFHpS, as well as fecal results for PFNA, were included in the supplementary.
+
+### 2.5. Covariate information
+
+Data on background covariates such as smoking behavior, pregnancy history, and residential and workplace addresses were obtained from questionnaires. Body mass index (BMI, kg/m2) was calculated from height and weight. In the longitudinal half-life panel, weight and height were self-reported, but scales were available during sampling. Height and weight were measured by study personnel in the resampling group. Since the weight and height were two years outdated for the longitudinal half-life panel, current height and weight for three adolescent individuals aged 16–17 at sampling in 2016 were estimated through Swedish growth trajectory curves using their old, self-reported height and weight from 2014. This was done to avoid erroneous BMI estimations for these growing individuals.
+
+Serum creatinine, using an enzymatic method ( [Mazzachi et al., 2000](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib30)), and cystatin C, measured on a Cobas 8000 analyzer (Roche Diagnostics, Basel, Switzerland), were measured in the same serum samples as PFAS. The estimated glomerular filtration rate (eGFR) was calculated using the CKD-epi 2021 equation based on creatinine and cystatin C ( [Inker et al., 2021](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib20)).
+
+Levels of calprotectin, a clinical marker of gut inflammation ( [Walsham and Sherwood, 2016](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib39)), and zonulin, a marker of gut permeability ( [Fasano, 2012](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib9)), were measured in feces. Fecal water content was calculated as the percent fecal weight loss due to freeze-drying (wet weight minus dry weight, divided by the wet weight).
+
+Age (in years), BMI, and percent fecal water content were treated as continuous variables. Calprotectin levels were divided into above vs. below the clinical cut-off at 50 mg/kg ( [Konikoff and Denson, 2006](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib22)); zonulin levels were divided into above vs. below their median levels; eGFR levels were divided into above vs. below 60 mL/min/1.73 m2 (" [KDIGO, 2024](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib21) Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease," 2024).
+
+### 2.6. Estimation of total daily elimination and clearance
+
+#### 2.6.1. Estimation of daily urinary PFAS elimination
+
+The daily urinary PFAS elimination for an individual was estimated using the following equation:Eq 1𝐸⁡(𝑢)𝑃⁢𝐹⁡𝐴⁢𝑆=𝐶⁡(𝑢)𝑃⁢𝐹⁡𝐴⁢𝑆·𝐸𝑐⁢𝑟:where 𝐸⁡(𝑢)𝑃⁢𝐹⁡𝐴⁢𝑆 was the estimated daily urinary PFAS elimination in ng/day, 𝐶⁡(𝑢)𝑃⁢𝐹⁡𝐴⁢𝑆 was the measured creatinine-adjusted urine concentration of PFAS in ng/g creatinine and _E_ _cr_ was the estimated daily creatinine elimination in g/day.
+
+_E_ _cr_ was estimated using the following equation by [Forni Ogna et al. (2015)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib10) ( [Forni Ogna et al., 2015](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib10)):Eq 2a𝐸𝑐⁢𝑟𝑤⁢𝑜⁢𝑚⁢𝑒⁢𝑛=(218.45−2.33·𝐵⁢𝑀⁢𝐼+0.66·𝑎⁢𝑔⁡𝑒−0.17·𝑎⁢𝑔⁡𝑒2)8.84·1000·𝑤⁢𝑒⁢𝑖⁢𝑔⁡ℎ⁡𝑡:Eq 2b𝐸𝑐⁢𝑟𝑚⁢𝑒⁢𝑛=(266.16−2.33·𝐵⁢𝑀⁢𝐼+0.66·𝑎⁢𝑔⁡𝑒−0.17·𝑎⁢𝑔⁡𝑒2)8.84·1000·𝑤⁢𝑒⁢𝑖⁢𝑔⁡ℎ⁡𝑡:
+
+#### 2.6.2. Estimation of daily fecal PFAS elimination
+
+The amount of daily fecal PFAS elimination was estimated by using the following equation:Eq 3𝐸⁡(𝑓)𝑃⁢𝐹⁡𝐴⁢𝑆=𝐶⁡(𝑓)𝑃⁢𝐹⁡𝐴⁢𝑆·29·𝑏⁢𝑜⁢𝑑⁢𝑦𝑤⁢𝑒⁢𝑖⁢𝑔⁡ℎ⁡𝑡𝑚⁢𝑒⁢𝑑⁢𝑖⁢𝑎⁢𝑛𝑏⁢𝑜⁢𝑑⁢𝑦𝑤⁢𝑒⁢𝑖⁢𝑔⁡ℎ⁡𝑡:where 𝐸⁡(𝑓)𝑃⁢𝐹⁡𝐴⁢𝑆 was the daily fecal elimination in ng/day and 𝐶⁡(𝑓)𝑃⁢𝐹⁡𝐴⁢𝑆 was the measured fecal concentration in ng/g dry weight. Published research indicates an average for daily total feces amount of 29 g dry weight, and that this amount varies depending on total food intake, body weight and the type of diet ( [Rose et al., 2015](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib33)). We have no information on food intake or types of diet, but we adjusted for body weight assuming that the average of 29 g applies to the median body weight of 76 kg in our study population.
+
+#### 2.6.3. Estimation of renal and fecal clearance
+
+Route specific clearance can be estimated by dividing elimination per unit of time by the serum concentration ( [Fan and de Lannoy, 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib8)). Therefore, the renal and fecal clearance of PFAS were estimated by the following equations:Eq 4a𝐶⁡𝐿⁡(𝑢)𝑃⁢𝐹⁡𝐴⁢𝑆=𝐸⁡(𝑢)𝑃⁢𝐹⁡𝐴⁢𝑆⁡/𝐶⁡(𝑠)𝑃⁢𝐹⁡𝐴⁢𝑆:Eq 4b𝐶⁡𝐿⁡(𝑓)𝑃⁢𝐹⁡𝐴⁢𝑆=𝐸⁡(𝑓)𝑃⁢𝐹⁡𝐴⁢𝑆⁡/𝐶⁡(𝑠)𝑃⁢𝐹⁡𝐴⁢𝑆:where CL(u) was renal and CL(f) was fecal clearance (mL/day), EPFAS was the eliminated amount per day (ng/day) through urine (u) or feces (f), and C(s)PFAS was the serum PFAS concentrations.
+
+Clearance per kg body weight (mL/day/kg) was also calculated and presented.
+
+### 2.7. Estimation of volume of distribution
+
+Conventionally, Vd was estimated through the following equation ( [Fan and de Lannoy, 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib8)):Eq 5𝑉⁡\[𝑑\]⁢(𝑡)=𝐴⁡(𝑡)/𝐶⁡(𝑡):where A(t) was the amount in the body (i.e. body burden, from now on abbreviated as BB) and C(t) was concentration in serum (or plasma).
+
+Conventionally, one dose (A) is given intravenously or orally, and serum concentration (C) is measured after the distribution phase. However, our study population was continuously exposed to PFAS through drinking water over a long period, with coincident elimination through urine and feces. Therefore, individual total PFAS amounts/body burdens were impossible to measure. Instead, we estimated the change of body burden over a day through total daily elimination:Eq 6Δ⁢𝐵⁢𝐵=𝐹𝑒⁢𝑙+𝑈𝑒⁢𝑙+𝐵𝑒⁢𝑙:where ΔBB was the change of amount (ng) of PFAS in the body over a day, Fel was the daily total amount of PFAS eliminated through feces, Uel through urine and Bel through blood losses.
+
+We assumed no ongoing PFAS exposure, except for background exposure, which we consider negligible in comparison to the remaining high serum PFAS levels from earlier drinking water exposure.
+
+Likewise, change of serum concentration (ng/mL) over a day was estimated through the following:Eq 7𝐶𝑡=𝐶0·𝑒−𝑘·𝑡:Eq 8𝑑⁢𝐶𝑡𝑑⁢𝑡=𝐶0·−𝑘·𝑒−𝑘·𝑡:where k was the serum elimination constant per day, estimated from several serum concentrations.
+
+By setting _dt_ in equation [(8)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#fd8) as one day and C0 to the same timepoint as the samples were provided (i.e. in 2016), equations [Eq 6](https://www.sciencedirect.com/science/article/pii/S0013935125017396#fd6), [Eq 8](https://www.sciencedirect.com/science/article/pii/S0013935125017396#fd8)) were combined into equation [(5)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#fd5), to estimate Vd:Eq 9𝑉⁢𝑑=Δ⁢𝐵⁢𝐵/Δ⁢𝐶=−(𝐹𝑒⁢𝑙+𝑈𝑒⁢𝑙+𝐵𝑒⁢𝑙)/(𝐶0·−𝑘·𝑒−𝑘):
+
+#### 2.7.1. Estimations of blood loss
+
+Based on previous studies, two sources of blood loss needed to be considered – menstruation ( [Wong et al., 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib40)) and blood donations ( [Gasiorowski et al., 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib13); [Genuis et al., 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib16)). For menstruation, women <51 years old were classified as menstruating, except for three individuals currently using hormonal contraception in the form of progestogen-only pills (as oral contraception has been correlated with higher PFAS levels, possibly through impaired menstruation ( [Rush et al., 2018](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib34))). The remaining eight women were assumed to have a monthly blood loss of 30 mL, based the median blood loss described by Hallberg et al. ( [Hallberg et al., 1966](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib17)), corresponding to 1 mL per day of blood and, as serum volume is assumed to be half the blood volume, 0.5 mL of serum per day.
+
+Four individuals reported being blood donors. If they were regular blood donors and donated 450 mL twice yearly (four times is the maximum allowed times in Sweden), that would correspond to an approximate net average loss of 1.25 mL per day. If blood was donated during the period of repeated measurements for estimating half-life, then the elimination constant (k) would have been affected. If blood was donated just before the sampling for the serum and feces, then that specific serum PFAS measurement would have been affected. As there was no information on the frequency and timing of blood donations, these four individuals were excluded from the main analysis.
+
+Therefore, the individual PFAS losses due to menstruation were estimated asEq 10𝐵𝑒⁢𝑙=𝑑⁢\[𝑚⁢𝐿/𝑑⁢𝑎⁢𝑦\]·𝐶⁡\[𝑛⁢𝑔⁡/𝑚⁢𝐿\]2:where d = 1 mL/day if menstruating and C was the individual serum concentration (ng/mL) of PFAS. In sensitivity analysis where blood donation was adjusted instead of excluded for, d included 1.25 mL/day for blood donors.
+
+#### 2.7.2. Elimination rate (k)
+
+Multiple serum measurements are needed to calculate k. These data were only available for the longitudinal half-life panel (n = 44), thus, Vd calculations were only calculated in these individuals, excluding the 4 who reported blood donating. The k values and the method behind calculating them have been reported previously ( [Li et al., 2018](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib24), [2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib23)). In brief, k was estimated by linear mixed models based on ten repeated serum measures, sampled after the end of high drinking water exposure, and adjusted for ongoing exposure by subtracting background levels.
+
+#### 2.7.3. Sensitivity analyses
+
+The following sensitivity analyses in relation to the estimates of blood loss were carried out.
+
+- 1)
+Every subject included (n = 44), but no adjustments for blood loss
+
+- 2)
+Every subject included (n = 44), but with adjustments for blood loss
+
+- 3)
+Both blood donors and menstruating women excluded (n = 32)
+
+- 4)
+For the menstruating women (n = 9) and for the blood donors (n = 4), values of Vd were estimated with and without the correction for estimated blood loss and compared to the non-blood-loss subjects (n = 32)
+
+- 5)
+mean and median values of urinary & fecal elimination, serum concentration and k (n = 40) were used to calculate Vds, instead of individual values
+
+- 6)
+instead of calculating individual daily creatinine production through the equation by [Forni Ogna et al. (2015)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib10) (which was used to estimate daily urinary PFAS elimination), we assumed daily creatinine production to be the set values of 1.26 g creatinine/day for women and 1.94 g creatinine/day for men, extrapolated from a study of 60 healthy adults that provided 24h urine ( [Sallsten and Barregard, 2021](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib36)).
+
+
+### 2.8. Statistical methods
+
+Arithmetic means, medians and distributions were presented for fecal and urinary daily elimination, expressed as measured concentrations, amount eliminated per day (ng/day, “elimination rate"), fecal and renal clearance (mL/day), and clearance per body weight (mL/day/kg). The relative importance of the fecal elimination rate was investigated in every individual using a ratio between fecal elimination per day and urinary elimination per day, as well as a percent of the sum of both elimination rates.
+
+The amounts of PFAS eliminated daily in relation to serum concentration were visualized with scatter plots and Pearson correlations. Pearson correlations were also used to compare fecal/urinary ratios between PFAS compounds.
+
+Univariate linear regression models were used to explore potential predictors of fecal and renal PFAS clearance and the fecal/urinary ratio. Because the distributions were skewed, the dependent variable for each model was ln-transformed fecal or urinary PFAS elimination/kg body weight/serum PFAS concentration/day; or ln-transformed fecal/urinary PFAS elimination ratio. For fecal clearance, the following covariates were considered in the model: age, BMI, sex, fecal zonulin, fecal calprotectin and fecal water content. For renal clearance, age, BMI, sex and eGFR were considered. For the ratio, all above independent variables were investigated, as well as fecal and renal clearance. It should be noted that eGFR equation includes age and sex, and that the estimation of daily creatinine production includes age, BMI and sex.
+
+All data analyses were performed in SAS 9.4 (SAS Institute Inc.). [Fig. 3](https://www.sciencedirect.com/science/article/pii/S0013935125017396#fig3) was created in R (RStudio version 2024.4.1.748) using the package ggplot2 version 3.4.2.
+
+## 3\. Results
+
+The background characteristics of the study population are presented in [Table 1](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl1). The 57 individuals excluded from the PFOA elimination calculations were slightly younger (median age of 47 years vs 52 years) than the 90 individuals included, but otherwise similar.
+
+Table 1. Description of the study participants with serum, urinary and fecal PFAS measurements.
+
+| Parameter | Whole group | PFOA |
+| --- | --- | --- |
+| **Sample size** | 147 | 90 |
+| **Female sex n (%)** | 96 (65) | 60 (66) |
+| **Age (years) Median (P5, P95)** | 51 (23, 70) | 52 (21, 79) |
+| **Weight (kg) Median (P5, P95)** | 77 (58, 103) | 75 (54, 100) |
+| **BMI (kg/m2) Median (P5, P95)** | 26 (21, 35) | 26 (21, 35) |
+| **Estimated creatinine elimination** [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl1fna) **(g/day) Median (P5, P95)** | 1.3 (0.9, 2.1) | 1.2 (0.9, 2.1) |
+| **eGFR** [b](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl1fnb) **(mL/min/1.73 m2) Median (P5, P95)** | 90 (60, 120) | 88 (48, 119) |
+| **Fecal zonulin (ng/mL) Median (P5, P95)** | 113 (37, 317) | 113 (33, 317) |
+| **Fecal calprotectin (mg/kg) Median (P5, P95)** | 51 (8, 237) | 43 (3, 260) |
+| **Fecal water content (%) Median (P5, P95)** | 73 (61, 84) | 72 (61, 84) |
+
+There are two different PFAS columns because results for the different PFAS have different amounts of data: the samples of all 147 participants were used for L-PFOS, 2/6m-PFOS and 3/4/5m-PFOS; for PFOA, 57 out of the 147 samples were excluded due to a fecal LOD at 10.8 ng/g dry weight.
+
+eGFR = estimated glomerular filtration rate, LOD = limit of detection, PFAS = per- and polyfluoroalkyl substances, PFOA = perfluorooctanoic acid, L-PFOS = linear perfluorooctane sulfonic acid, 2/6m-PFOS = branched, sum of perfluoro-2/6-methylheptane sulfonic acid, 3/4/5m-PFOS = branched, sum of perfluoro-3/4/5-methylheptane sulfonic acid, P5 = fifth percentile, P95 = ninety-fifth percentile.
+
+a
+
+Estimated creatinine elimination was calculated by the formula by [Forni Ogna et al., (2015)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib10).
+
+b
+
+Estimated glomerular filtration rate (eGFR) was calculated by the CKD-epi 2021 formula based on creatinine and cystatin c.
+
+The median serum concentration was highest for L-PFOS (100 ng/mL), followed by 3/4/5m-PFOS (46 ng/mL), 2/6m-PFOS (28 ng/mL) and PFOA (10 ng/mL) ( [Table 2](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl2)). The distributions of serum concentrations were positively skewed, with some individuals having extremely high serum concentrations. The urinary concentrations were about 1000 times lower than the serum concentrations ( [Table 2](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl2)).
+
+Table 2. Concentrations of PFAS in serum, urine, and feces in 147 study participants.
+
+| PFAS | Serum (ng/mL) | Urine (ng/mL) | Feces (ng/g dry weight) |
+| --- | --- | --- | --- |
+| Mean | Median | Min | Max | P10 | P90 | Mean | Median | Min | Max | P10 | P90 | Mean | Median | Min | Max | P10 | P90 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **PFOA** | 12 | 10 | 0.68 | 46 | 3 | 24 | 0.024 | 0.021 | <0.01 | 0.098 | 0.005 | 0.045 | 0.6 [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl2fna) | 0.5 [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl2fna) | <0.32 [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl2fna) | 2.1 [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl2fna) | <0.32 [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl2fna) | 1.1 [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl2fna) |
+| **L-PFOS** | 120 | 100 | 0.38 | 422 | 33 | 234 | 0.086 | 0.062 | <0.01 | 0.35 | 0.015 | 0.19 | 15.3 | 12.9 | <0.27 | 65.1 | 3.4 | 29 |
+| **2/6m-PFOS** | 36 | 28 | 0.33 | 122 | 7 | 72 | 0.017 | <0.02 | <0.02 | 0.072 | <0.02 | 0.038 | 5.3 | 4.2 | <0.27 | 28.1 | <0.27 | 11.1 |
+| **3/4/5m-PFOS** | 60 | 46 | 0.11 | 212 | 13 | 123 | 0.040 | 0.030 | <0.02 | 0.19 | <0.02 | 0.091 | 6.6 | 5 | <0.27 | 38.5 | 0.80 | 13.4 |
+
+PFAS = per- and polyfluoroalkyl substances, PFOA = perfluorooctanoic acid, L-PFOS = linear perfluorooctane sulfonic acid, 2/6m-PFOS = branched, sum of perfluoro-2/6-methylheptane sulfonic acid, 3/4/5m-PFOS = branched, sum of perfluoro-3/4/5-methylheptane sulfonic acid, P10 = tenth percentile, P90 = ninetieth percentile.
+
+a
+
+For fecal PFOA, 57 individuals were excluded due to LOD at 10.8 ng/g dry weight.
+
+The estimated daily urinary and fecal elimination rates were highest for L-PFOS at median 91 and 364 ng/day, respectively, followed by 3/4/5m-PFOS at median 39 and 150 ng/day, respectively ( [Table 3](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3)). PFOA had lower median urinary elimination rates at 26 ng/day, and even lower fecal elimination at 15 ng/day. However, since the PFOS isomers were at much higher serum concentrations than PFOA ( [Table 2](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl2)), renal and fecal clearance were used to more accurately compare PFOS and PFOA elimination patterns. 2/6m-PFOS had the highest median fecal clearance at 3.7 mL/day, followed by L-PFOS, 3/4/5m-PFOS and PFOA ( [Table 3](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3)). Conversely, PFOA had the highest renal clearance at 3.6 mL/day, followed by the PFOS isomers ( [Table 3](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3)). In other words, the PFOS isomers had higher fecal clearance while PFOA had higher renal clearance. The correlations between serum levels and elimination rates were positive for all PFAS, with clear linear associations ( [Fig. 2](https://www.sciencedirect.com/science/article/pii/S0013935125017396#fig2)) and Pearson correlation values of 0.35–0.83 ( [Table S3](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1)).
+
+Table 3. Estimated urinary and fecal elimination rates, clearance and comparisons between the urinary and fecal elimination rates, by division and percentage fecal elimination in 147 study participants.
+
+| Empty Cell | PFOA | L-PFOS | 2/6m-PFOS | 3/4/5m-PFOS |
+| --- | --- | --- | --- | --- |
+| Mean | Median (P10, P90) | Mean | Median (P10, P90) | Mean | Median (P10, P90) | Mean | Median (P10, P90) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Urinary elimination rate** (ng/day) | 36 | 26 (8, 78) | 154 | 91 (12, 404) | 28 | 15 (7, 67) | 70 | 39 (9, 165) |
+| **Renal clearance** (mL/day) | 3.6 | 2.7 (1.2, 5.6) | 1.5 | 0.9 (0.2, 3.6) | 1.3 | 0.7 (0.2, 3.2) | 1.7 | 0.9 (0.3, 3.5) |
+| **per body weight** (mL/day/kg) | 0.047 | 0.034 (0.015, 0.078) | 0.020 | 0.011 (0.003, 0.052) | 0.017 | 0.009 (0.003, 0.040) | 0.022 | 0.012 (0.004, 0.053) |
+| **Fecal elimination rate** (ng/day) | 17 [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3fna) | 15 (5, 30) [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3fna) | 451 | 364 (95, 886) | 157 | 126 (5, 316) | 192 | 150 (25, 404) |
+| **Fecal Clearance** (mL/day) | 1.6 [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3fna) | 1.2 (0.6, 3.0) [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3fna) | 4.2 | 3.6 (1.9, 6.9) | 4.8 | 3.7 (1.1, 9.6) | 4.0 | 2.8 (0.9, 8) |
+| **per body weight** (mL/day/kg) | 0.022 [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3fna) | 0.017 (0.008, 0.041) [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3fna) | 0.053 | 0.048 (0.025, 0.084) | 0.060 | 0.053 (0.014, 0.118) | 0.050 | 0.039 (0.013, 0.094) |
+| **Ratio of elimination rates** (fecal rate/urinary rate) | 0.7 [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3fna) | 0.6 (0.2, 1.7) [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3fna) | 8.8 | 4.1 (0.9, 19.2) | 9.5 | 5.7 (0.7, 19.5) | 6.0 | 3.3 (0.5, 12.6) |
+| **Percental fecal elimination** (%) | 36 [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3fna) | 36 (14, 63) [a](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3fna) | 76 | 80 (48, 95) | 77 | 85 (42, 95) | 70 | 77 (34, 93) |
+
+PFAS = per- and polyfluoroalkyl substances, PFOA = perfluorooctanoic acid, L-PFOS = linear perfluorooctane sulfonic acid, 2/6m-PFOS = branched, sum of perfluoro-2/6-methylheptane sulfonic acid, 3/4/5m-PFOS = branched, sum of perfluoro-3/4/5-methylheptane sulfonic acid, P10 = tenth percentile, P90 = ninetieth percentile.
+
+a
+
+These calculations are based on 90 individuals, as 57 fecal samples were excluded due to LOD at 10.8 ng/g dry weight.
+
+![Fig. 2](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-gr2.jpg)
+
+1. [Download: Download high-res image (846KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-gr2_lrg.jpg "Download high-res image (846KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-gr2.jpg "Download full-size image")
+
+Fig. 2. Scatter plots comparing fecal and urinary elimination and serum concentrations for PFOA, L-PFOS, 2/6m-PFOS and 3/4/5m-PFOS.
+![Fig. 3](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-gr3.jpg)
+
+1. [Download: Download high-res image (336KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-gr3_lrg.jpg "Download high-res image (336KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-gr3.jpg "Download full-size image")
+
+Fig. 3. Relative fecal to total (urinary plus fecal) elimination for PFOS isomers and PFOA in the 147 study subjects.
+
+The 57 individuals whose PFOA fecal results were excluded had marginally lower concentrations across all studied compounds in serum (e.g., PFOA median 8 ng/mL vs 10 ng/mL), urine (e.g., PFOA median 0.018 ng/mL vs 0.022 ng/mL) and feces (e.g., L-PFOS 9.6 ng/g vs 14.0 ng/g) compared to the whole study population (n = 147). However, their renal and fecal clearance were similar to the whole study population ( [Table S4](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1)). In summary, the relations between urinary, fecal and serum levels in the excluded subgroup were similar to findings in the whole study population.
+
+The urine concentrations, urine elimination rates and renal clearances of PFPeS, PFHpS and PFHxS, as well as the corresponding fecal parameters for PFNA are presented in [Table S5](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1), but comparisons between the routes were not possible because the compounds were not estimated in the other medium (i.e. the first three were not quantified in feces and PFNA were not quantified in urine). The urinary concentrations and corresponding renal clearance of 1m-PFOS are not presented, as 91 % of urine samples were below LOD ( [Table S2](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1)).
+
+By comparing the ratio between fecal and urinary elimination, as well as the percentage of elimination through feces, we found in our study population that the PFOS isomers were predominantly eliminated through feces and PFOA eliminated through urine ( [Table 3](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3)). This was illustrated by the ratio between fecal and urinary elimination, with a median ratio of 5.67 for 2/6m-PFOS and 0.56 for PFOA ( [Table 3](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3)). Additionally, the median fecal percentage of total elimination was 36 % for PFOA, compared to 85 % for 2/6m-PFOS ( [Table 3](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3)).
+
+However, we found large interindividual variation in elimination profiles ( [Fig. 3](https://www.sciencedirect.com/science/article/pii/S0013935125017396#fig3)). For the PFOS isomers, most individuals showed more fecal than urinary elimination, but a few showed the opposite pattern. Conversely for PFOA, most individuals showed more urinary than fecal excretion, but there were exceptions ( [Fig. 3](https://www.sciencedirect.com/science/article/pii/S0013935125017396#fig3)). Individuals with a certain elimination profile (e.g. predominantly fecal elimination) for one compound were more likely to have a similar profile for the other compounds, as Pearson correlations showed moderate to high correlations between fecal/urinary ratios in different PFAS compounds (r between 0.40 and 0.74) ( [Table S6](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1)).
+
+Even though there was interindividual variation in elimination profiles, the univariate linear regression models showed few associations between covariates and fecal clearance, renal clearance and the fecal/renal ratio ( [Table S7](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1)). The univariate linear regression models showed a negative association between age and daily fecal clearance, with between −0.3 % and −1.13 % lower fecal elimination per year lived. Consequently, the ratio between fecal and renal clearance was also negatively associated with age. For the fecal/urinary ratio, both fecal and renal clearance were strongly associated, but in different directions (i.e. that fecal clearance was positively associated with fecal/urinary ratio, while renal clearance was negatively associated with the ratio) ( [Table S7](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1)). There were no other clear associations for the other covariates investigated (sex, BMI, fecal zonulin, fecal calprotectin, fecal water content and eGFR).
+
+The median Vd for PFOA was 74 (P10, P90: 48, 176) mL/kg, 93 (P10, P90 52, 192) for L-PFOS, 85 (P10, P90: 31, 184) mL/kg for 2/6m-PFOS, and 91 (P10, P90: 44, 230) mL/kg for 2/6m-PFOS ( [Table 4](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl4)). Sensitivity analyses with no blood loss assumed, adjustments for blood donation, exclusion of fertile females and blood donors, and by using median or mean parameter values yielded similar Vds ( [Table S8](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1)). The largest impact of sensitivity analyses came from applying [Sallsten and Barregard (2021)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib36) median daily creatinine values, which yielded 5–13 mL/kg higher Vds ( [Table S8](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1)).
+
+Table 4. Serum elimination constants (per year) and estimated volume of distributions in 40 individuals with repeated measurements.
+
+| PFAS | N | Serum elimination constant (k) \[per year\] | Volume of distribution (Vd) \[mL/kg body weight\] |
+| --- | --- | --- | --- |
+| Mean | Median (P10, P90) | Mean | Median (P10, P90) |
+| --- | --- | --- | --- |
+| **PFOA** | 36 | 0.27 | 0.23 (0.17, 0.41) | 96 | 74 (48, 176) |
+| **L-PFOS** | 40 | 0.23 | 0.22 (0.15, 0.32) | 116 | 93 (52, 192) |
+| **2/6m-PFOS** | 40 | 0.23 | 0.21 (0.17, 0.31) | 96 | 85 (31, 184) |
+| **3/4/5m-PFOS** | 40 | 0.18 | 0.17 (0.12, 0.25) | 119 | 91 (44, 230) |
+
+PFAS = per- and polyfluoroalkyl substances, PFOA = perfluorooctanoic acid, L-PFOS = linear perfluorooctane sulfonic acid, 2/6m-PFOS = branched, sum of perfluoro-2/6-methylheptane sulfonic acid, 3/4/5m-PFOS = branched, sum of perfluoro-3/4/5-methylheptane sulfonic acid, P10 = tenth percentile, P90 = ninetieth percentile.
+
+For PFOA, 4 individuals were excluded due to LOD at 10.8 ng/g dry weight for fecal concentration. When calculating Vd, the serum elimination constant per day (i.e. the k above divided by 365) was used.
+
+Fecal elimination was calculated from concentration in dry feces and assumed daily dry weight, adjusted for weight. Urinary elimination was calculated from urinary concentrations, adjusted for urine creatinine concentrations, and daily creatinine production. Note the logarithmic scales on both axes. Urine and fecal data from one individual with serum L-PFOS levels of 0.38 ng/mL are not shown. For fecal PFOA, 57 individuals were excluded due to LOD at 10.8 ng/g dry weight.
+
+PFOA = perfluorooctanoic acid, L-PFOS = linear perfluorooctane sulfonic acid, 2/6m-PFOS = branched, sum of perfluoro-2/6 methylheptane sulfonic acid, 3/4/5m-PFOS = branched, sum of perfluoro-3/4/5-methylheptane sulfonic acid.
+
+Violin and Sion plot showing the distribution of the fecal percentage of the total elimination. Fecal elimination was calculated from the concentration in dry feces and the assumed daily dry weight, adjusted for weight. Urinary elimination was calculated from urinary concentrations, adjusted for urine creatinine concentrations, and daily creatinine production. Note that 57 out of the 147 PFOA samples were excluded due to a LOD at 10.8 ng/mL dry weight.
+
+PFOA = perfluorooctanoic acid, L-PFOS = linear perfluorooctane sulfonic acid, 2/6m-PFOS = branched, sum of perfluoro-2/6-methylheptane sulfonic acid, 3/4/5m-PFOS = branched, sum of perfluoro-3/4/5-methylheptane sulfonic acid.
+
+## 4\. Discussion
+
+To our knowledge, this is the first study to present PFOA and PFOS concentrations in serum, urine and feces in a large sample group with PFAS serum levels ranging from low to very high levels. Even though previous small studies in humans presented fecal concentrations (e.g., [Genuis et al., 2013](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib15); [Genuis et al., 2013](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib15))) and urine concentrations (e.g., [Li et al., 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib23); [Li et al., 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib23))) in relation to serum concentrations, no previous study has investigated the differences and the relationships between the two different elimination routes for PFOA and PFOS. We found that both PFOA and PFOS were eliminated through both urine and feces. For the PFOS isomers, the fecal elimination was even higher than the urinary elimination. This is also the first study where Vds were estimated using data on individual change of body burden and serum concentrations.
+
+We showed that PFOS and PFOA have different main elimination routes: the PFOS isomers (L-PFOS, 2/6m-PFOS and 3/4/5m-PFOS) were predominantly eliminated via feces, whereas PFOA was predominantly eliminated via urine. There are several possible explanations for this observation. It could be that the affinity for renal, hepatic and intestinal transporters such as organic anion transporters (OATs) differs among PFAS, as recently shown in proximal tubule cells _in vitro_ ( [Ryu et al., 2024](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib35)). Also, interactions with the gut microbiome could affect PFAS elimination differently, suggested by a recent study of PFAS bioaccumulation in bacteria strains _in vitro_ and PFNA fecal elimination _in vivo_ in mice with and without human gut bacteria ( [Lindell et al., 2024](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib25)). Interestingly, two studies in 4 Angus steers by [Lupton et al. (2012](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib28) & 2014) replicated this different elimination profiles between PFOS and PFOA – 11.1 % and 0.5 % of the given PFOS dose (max mean serum concentration 52.6 μg/mL) were eliminated through feces and urine, respectively, over 28 days ( [Lupton et al., 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib29)); while 4.6 % and 100.7 % of the given PFOA dose (max mean plasma concentration 4.9 μg/mL) were eliminated through feces and urine, respectively, over 8 days ( [Lupton et al., 2012](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib28)). However, such dramatic differences between PFOS and PFOA were not seen in our study.
+
+This is also the first human study to show the variation between individuals in fecal and urinary elimination of PFAS, with some individuals having a predominant fecal elimination route and others having a predominant urinary route. These patterns were correlated between PFAS compounds, suggesting common elimination mechanisms. There could be several different mechanisms, such as differences in genetic expression of PFAS-binding transporters such as OATs, kidney function, or differences in the gut microbiome and gut inflammation. However, we did not find any evidence for markers of kidney function (eGFR), gut inflammation (calprotectin) or gut permeability (zonulin) being associated with the elimination patterns. Interestingly, the negative association between fecal elimination and age found in this study could be the explanation behind the longer half-lives with advancing age we previously observed in the Ronneby half-life panel study ( [Li et al., 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib23)).
+
+While no other study has measured fecal PFAS concentrations and from this estimated fecal clearance in humans, two studies using 24-h urine measurements yielded similar mean renal clearances of 0.033 (mL/day/kg) in women ( [K. Harada et al., 2005](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib18)), 0.027 in men (K. [Harada et al., 2005](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib18)) and 0.044 in both men and women (Yukiko [Fujii et al., 2015](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib12)) for PFOA and 0.019 for women (K. [Harada et al., 2005](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib18)) and 0.012 for men (K. [Harada et al., 2005](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib18)) for PFOS, compared to our mean 0.047 for PFOA and 0.020 for L-PFOS. However, other studies based on spot urine samples estimated higher mean values of 0.065–0.77 mL/day/kg for PFOA, but similar mean values 0.015–0.045 mL/day/kg for L-PFOS ( [Zhang et al., 2013](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib43); [Zhou et al., 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib44)). Fujii et al. also estimated a mean fecal PFOA clearance of 0.052 mL/day/kg (Yukiko [Fujii et al., 2015](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib12)) from human bile PFOA concentrations, based on a half-life of 3.8 years and Vd of 200 mL/kg. They also estimated a mean fecal PFOA clearance of 0.021 mL/day/kg (Y. [Fujii and Harada, 2025](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib11)) based on the absorption ratio from the mouse gut. These estimations of fecal PFOA clearance are similar to our finding of mean 0.022 mL/day/kg.
+
+The enterohepatic circulation of PFAS is likely extensive. It has been investigated in animal models ( [Cao et al., 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib5); [Lupton et al., 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib29)), but less is known in humans. A study measuring PFAS levels in both bile and serum from four patients with biliary disorders reported median concentrations of 1.0 ng/mL for PFOA and 27.9 ng/mL for PFOS in bile, and 3.8 ng/mL for PFOA and 23.2 ng/mL for PFOS in serum ( [K. H. Harada et al., 2007](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib19)). Based on the assumptions of a constant PFAS bile concentration and a bile flow of 350 mL/day, Harada et al. estimated the biliary clearance to be 1.06 mL/day/kg for PFOA and 2.98 mL/day/kg for PFOS (K. H. [Harada et al., 2007](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib19)). Dividing our fecal clearance of 0.017 mL/day/kg for PFOA and 0.046 mL/day/kg for PFOS (mean of the median fecal clearance of L-PFOS, 2/6m-PFOS and 3/4/5m-PFOS) ( [Table 3](https://www.sciencedirect.com/science/article/pii/S0013935125017396#tbl3)) with their respective biliary clearance yield ratios of 1.6 % for PFOA and 1.5 % for PFOS. However, Harada et al. assumed a conservative bile flow of 350 mL/day, while another study estimated it to be 604 mL/day ( [Boyer and Bloomer, 1974](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib3)). If a bile flow of 604 mL is instead assumed, the ratios of biliary/fecal clearance would be 0.9 % for both PFOA and PFOS. This suggests that only a small percentage of the PFOA and PFOS (and possibly other PFAS) that is excreted in bile ends up in feces, i.e., there is an enterohepatic recirculation of approximately 99 %.
+
+If the enterohepatic recirculation percentages are similar for PFOA and PFOS, then the difference in fecal elimination between PFOA and PFOS is more likely a result of hepatic differences (i.e. that PFOS is more secreted into bile than PFOA). This is also supported by the almost three times higher biliary clearance presented by Harada et al. ( [K. H. Harada et al., 2007](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib19)). Furthermore, since the enterohepatic recirculation may be as extensive as 99 %, there is a large potential for increasing the elimination rate by blocking bile reuptake pharmacologically. The cholestyramine studies cited earlier ( [Genuis et al., 2010](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib14), [2013](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib15); [Møller et al., 2024](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib31)) support this notion.
+
+This is also the first study that estimates Vd with total elimination amounts corresponding to change of body burden, yielding median Vd values of 74 mL/kg for PFOA and 93 mL/kg for L-PFOS. These values are more than 2- to 3-fold less than the Vds estimated through serum to drinking water ratios ( [Chiu et al., 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib6); [Thompson et al., 2010](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib37)). It is possible that our fecal and/or urinary elimination estimations, based on spot samples instead of 24-h measurements, could underestimate the true daily elimination and thus the numerator in the Vd calculation.
+
+One sensitivity analysis where daily creatinine production was extrapolated from [Sallsten and Barregard (2021)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib36) ( [Sallsten and Barregard, 2021](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib36)), yielded 5–13 mL/kg higher Vds ( [Table S8](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1)). However, the effect is too small to account for the large difference in Vds compared to other studies, and it is unclear if using set creatinine levels for women and men are better than estimating individual values using the equation from [Forni Ogna et al. (2015)](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib10) ( [Forni Ogna et al., 2015](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib10)).
+
+Conversely, the calculations using drinking water (e.g. [Chiu et al., 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib6); [Thompson et al., 2010](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib37)) could be overestimating Vd values, since they are necessarily based on several assumptions. These include that the populations have reached a steady state where excretion and intake are balanced, using average estimates of the amount of tap water consumed, and not having data on individual excretion rate constants. None of these limitations are present in this study. The only other study with individual data on a single subject, derived Vds using oral doses and multiple measurements in serum and ended up with estimations closer to ours, at 121 mL/kg for PFOA and 152 mL/kg for PFOS ( [Abraham et al., 2024](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bib1)).
+
+There are limitations in this study. A limitation was the need to exclude the 57 PFOA measurements with LOD >10.8 ng/g dry weight, which reduced the precision in our measurements of the rate of fecal elimination. Fortunately, it seems that this did not introduce bias, as the 57 excluded individuals were similar to the other 90 regarding age, sex, and serum-adjusted PFAS elimination rates ( [Table S4](https://www.sciencedirect.com/science/article/pii/S0013935125017396#appsec1)).
+
+Our experience of measuring PFAS in feces has been challenging. There are few laboratories performing fecal PFAS analyses, compared to serum and urine analyses, and the method needs to be developed further to increase accuracy and robustness.
+
+Another limitation was that only single spot samples of urine and feces were taken each day, and daily elimination rates were estimated indirectly through creatinine and fecal dry weight. These estimations risk introducing errors, which would have been reduced by conducting 24-h sampling or repeated sampling. But it is not clear in which direction any resulting bias would operate. Regardless, these estimation methods need to be refined and validated.
+
+In conclusion, the fecal elimination route are important and for PFOS, higher than the urinary elimination route. Current values for Vd, used in risk assessments and pharmacokinetic modeling, may be overestimated. Assuming no fecal elimination would result in overestimations of half-lives and, consequently, overly cautious risk assessment of drinking water exposure. Similarly, the use of overestimated Vds would result in overestimations in body burdens. Revision of pharmacokinetic models is thus needed to ensure that improved estimates of PFAS fecal elimination and Vds are properly taken into consideration.
+
+## CRediT authorship contribution statement
+
+**Axel G. Andersson:** Writing – review & editing, Writing – original draft, Visualization, Software, Project administration, Formal analysis, Data curation, Conceptualization. **Tony Fletcher:** Writing – review & editing, Resources, Funding acquisition, Conceptualization. **Yiyi Xu:** Writing – review & editing. **Anna Kärrman:** Writing – review & editing, Resources, Methodology, Investigation. **Daniela Pineda:** Writing – review & editing, Investigation. **Carina A. Nilsson:** Writing – review & editing, Investigation. **Christian H. Lindh:** Writing – review & editing, Resources, Methodology, Investigation, Funding acquisition. **Kristina Jakobsson:** Writing – review & editing, Supervision, Project administration, Funding acquisition, Conceptualization. **Ying Li:** Writing – review & editing, Supervision, Formal analysis, Conceptualization.
+
+## Declaration of competing interest
+
+The authors declare the following financial interests/personal relationships which may be considered as potential competing interests: Kristina Jakobsson reports financial support was provided by Swedish Research Council Formas. If there are other authors, they declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+## 5\. Acknowledgments
+
+We would like to thank David Vigren (Örebro University) for laboratory work. Funding for this study was provided by the Swedish Research Council FORMAS (nr. 216-2014-1709, 2017-00875 and 2017-01195). A doctoral grant was provided by the Sahlgrenska Academy, University of Gothenburg. In-kind support was provided by the University of Gothenburg and Lund University.
+
+## Appendix A. Supplementary data
+
+The following is the Supplementary data to this article.[Download: Download Word document (160KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0013935125017396-mmc1.docx "Download Word document (160KB)")
+Multimedia component 1.
+
+## Data availability
+
+Data will be made available on request.
+
+## References
+
+01. [Abraham et al., 2024](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib1)
+
+
+    K. Abraham, H. Mertens, L. Richter, H. Mielke, T. Schwerdtle, B.H. Monien
+
+
+
+    Kinetics of 15 per- and polyfluoroalkyl substances (PFAS) after single oral application as a mixture - a pilot investigation in a male volunteer
+
+
+
+    Environ. Int., 193 (2024), Article 109047, [10.1016/j.envint.2024.109047](https://doi.org/10.1016/j.envint.2024.109047)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412024006330/pdfft?md5=6bb353f03245598d2c63cd067e1d4c4c&pid=1-s2.0-S0160412024006330-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412024006330) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85207691640&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Kinetics%20of%2015%20per-%20and%20polyfluoroalkyl%20substances%20%20after%20single%20oral%20application%20as%20a%20mixture%20-%20a%20pilot%20investigation%20in%20a%20male%20volunteer&publication_year=2024&author=K.%20Abraham&author=H.%20Mertens&author=L.%20Richter&author=H.%20Mielke&author=T.%20Schwerdtle&author=B.H.%20Monien)
+
+02. [Andersen et al., 2006](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib2)
+
+
+    M.E. Andersen, H.J. Clewell 3rd, Y.M. Tan, J.L. Butenhoff, G.W. Olsen
+
+
+
+    Pharmacokinetic modeling of saturable, renal resorption of perfluoroalkylacids in monkeys--probing the determinants of long plasma half-lives
+
+
+
+    Toxicology, 227 (1–2) (2006), pp. 156-164, [10.1016/j.tox.2006.08.004](https://doi.org/10.1016/j.tox.2006.08.004)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0300483X06004963/pdfft?md5=5982203b63649575404b8679e6f35584&pid=1-s2.0-S0300483X06004963-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0300483X06004963) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-33748794215&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Pharmacokinetic%20modeling%20of%20saturable%2C%20renal%20resorption%20of%20perfluoroalkylacids%20in%20monkeys--probing%20the%20determinants%20of%20long%20plasma%20half-lives&publication_year=2006&author=M.E.%20Andersen&author=H.J.%20Clewell%203rd&author=Y.M.%20Tan&author=J.L.%20Butenhoff&author=G.W.%20Olsen)
+
+03. [Boyer and Bloomer, 1974](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib3)
+
+
+    J.L. Boyer, J.R. Bloomer
+
+
+
+    Canalicular bile secretion in man. Studies utilizing the biliary clearance of (14C)mannitol
+
+
+
+    J. Clin. Investig., 54 (4) (1974), pp. 773-781, [10.1172/jci107817](https://doi.org/10.1172/jci107817)
+
+    [View at publisher](https://doi.org/10.1172/jci107817) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Canalicular%20bile%20secretion%20in%20man.%20Studies%20utilizing%20the%20biliary%20clearance%20of%20mannitol&publication_year=1974&author=J.L.%20Boyer&author=J.R.%20Bloomer)
+
+04. [Buser et al., 2021](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib4)
+
+
+    M.C. Buser, D. Jones, R.H. Pohl, P. Ruiz, F. Scinicariello, S. Chou, D.J. Plewak
+
+
+
+    Toxicological profile for perfluoroalkyls
+
+
+
+    (ATSDR), Agency for Toxic Substances and Disease Registry (2021), [10.15620/cdc:59198](https://doi.org/10.15620/cdc:59198)
+
+    [View at publisher](https://doi.org/10.15620/cdc:59198) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Toxicological%20profile%20for%20perfluoroalkyls&publication_year=2021&author=M.C.%20Buser&author=D.%20Jones&author=R.H.%20Pohl&author=P.%20Ruiz&author=F.%20Scinicariello&author=S.%20Chou&author=D.J.%20Plewak)
+
+05. [Cao et al., 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib5)
+
+
+    H. Cao, Z. Zhou, Z. Hu, C. Wei, J. Li, L. Wang, Y. Liang
+
+
+
+    Effect of enterohepatic circulation on the accumulation of Per- and polyfluoroalkyl substances: evidence from experimental and computational studies
+
+
+
+    Environ. Sci. Technol., 56 (5) (2022), pp. 3214-3224, [10.1021/acs.est.1c07176](https://doi.org/10.1021/acs.est.1c07176)
+
+    [View at publisher](https://doi.org/10.1021/acs.est.1c07176) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85124905253&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Effect%20of%20enterohepatic%20circulation%20on%20the%20accumulation%20of%20Per-%20and%20polyfluoroalkyl%20substances%3A%20evidence%20from%20experimental%20and%20computational%20studies&publication_year=2022&author=H.%20Cao&author=Z.%20Zhou&author=Z.%20Hu&author=C.%20Wei&author=J.%20Li&author=L.%20Wang&author=Y.%20Liang)
+
+06. [Chiu et al., 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib6)
+
+
+    W.A. Chiu, M.T. Lynch, C.R. Lay, A. Antezana, P. Malek, S. Sokolinski, R.D. Rogers
+
+
+
+    Bayesian estimation of human population toxicokinetics of PFOA, PFOS, PFHxS, and PFNA from studies of contaminated drinking water
+
+
+
+    Environ. Health Perspect., 130 (12) (2022), Article 127001, [10.1289/ehp10103](https://doi.org/10.1289/ehp10103)
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxhY3MsTVRBdU1USTRPUzlsYUhBeE1ERXdNdyxOVEk0TldSbU1ERXRaVFEzTXkwME1qVmxMVGhpTnpndE5qZ3dNVFE1WkRaaU4yWmwsaHR0cHM6Ly9wdWJzLmFjcy5vcmcvR2V0RnRyQ29udGVudC9HZXRQZGZCeURvaT9kb2k9MTAuMTI4OSUyZkVIUDEwMTAzJnJlc291cmNldHlwZT00.5E0qPsU5CIToxByPmfwmKtH9cHPViOB4fbs2PX0GEuk)
+
+
+     [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85143199031&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Bayesian%20estimation%20of%20human%20population%20toxicokinetics%20of%20PFOA%2C%20PFOS%2C%20PFHxS%2C%20and%20PFNA%20from%20studies%20of%20contaminated%20drinking%20water&publication_year=2022&author=W.A.%20Chiu&author=M.T.%20Lynch&author=C.R.%20Lay&author=A.%20Antezana&author=P.%20Malek&author=S.%20Sokolinski&author=R.D.%20Rogers)
+
+07. [Cui et al., 2010](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib7)
+
+
+    L. Cui, C.Y. Liao, Q.F. Zhou, T.M. Xia, Z.J. Yun, G.B. Jiang
+
+
+
+    Excretion of PFOA and PFOS in male rats during a subchronic exposure
+
+
+
+    Arch. Environ. Contam. Toxicol., 58 (1) (2010), pp. 205-213, [10.1007/s00244-009-9336-5](https://doi.org/10.1007/s00244-009-9336-5)
+
+    [View at publisher](https://doi.org/10.1007/s00244-009-9336-5) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-75949110604&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Excretion%20of%20PFOA%20and%20PFOS%20in%20male%20rats%20during%20a%20subchronic%20exposure&publication_year=2010&author=L.%20Cui&author=C.Y.%20Liao&author=Q.F.%20Zhou&author=T.M.%20Xia&author=Z.J.%20Yun&author=G.B.%20Jiang)
+
+08. [Fan and de Lannoy, 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib8)
+
+
+    J. Fan, I.A. de Lannoy
+
+
+
+    Pharmacokinetics
+
+
+
+    Biochem. Pharmacol., 87 (1) (2014), pp. 93-120, [10.1016/j.bcp.2013.09.007](https://doi.org/10.1016/j.bcp.2013.09.007)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0006295213005790/pdfft?md5=8f10fca34441adc19abdea506c7abd2a&pid=1-s2.0-S0006295213005790-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0006295213005790) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84892366958&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Pharmacokinetics&publication_year=2014&author=J.%20Fan&author=I.A.%20de%20Lannoy)
+
+09. [Fasano, 2012](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib9)
+
+
+    A. Fasano
+
+
+
+    Intestinal permeability and its regulation by zonulin: diagnostic and therapeutic implications
+
+
+
+    Clin. Gastroenterol. Hepatol., 10 (10) (2012), pp. 1096-1100, [10.1016/j.cgh.2012.08.012](https://doi.org/10.1016/j.cgh.2012.08.012)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S1542356512009329/pdfft?md5=9953d84fac8453109dd87270f08459f9&pid=1-s2.0-S1542356512009329-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S1542356512009329) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84866437998&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Intestinal%20permeability%20and%20its%20regulation%20by%20zonulin%3A%20diagnostic%20and%20therapeutic%20implications&publication_year=2012&author=A.%20Fasano)
+
+10. [Forni Ogna et al., 2015](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib10)
+
+
+    V. Forni Ogna, A. Ogna, P. Vuistiner, M. Pruijm, B. Ponte, D. Ackermann, …, M. Burnier
+
+
+
+    New anthropometry-based age- and sex-specific reference values for urinary 24-hour creatinine excretion based on the adult Swiss population
+
+
+
+    BMC Med., 13 (2015), p. 40, [10.1186/s12916-015-0275-x](https://doi.org/10.1186/s12916-015-0275-x)
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxzcHJpbmdlcixNVEF1TVRFNE5pOXpNVEk1TVRZdE1ERTFMVEF5TnpVdGVBLE9HSTNZVGRsTmpFdFlqTmpaaTAwWWpoa0xXSXhOalV0T1dFMk5UWXhZemRtWWpZNSxodHRwOi8vbGluay5zcHJpbmdlci5jb20vMTAuMTE4Ni9zMTI5MTYtMDE1LTAyNzUteD91dG1fc291cmNlPWdldGZ0ciZ1dG1fbWVkaXVtPWdldGZ0ciZ1dG1fY2FtcGFpZ249Z2V0ZnRyX3BpbG90.uUAASbBnS2MPqOJWBiSMon1U22EeFTFKMEP0AUSWI04)
+
+
+     [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84928785607&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=New%20anthropometry-based%20age-%20and%20sex-specific%20reference%20values%20for%20urinary%2024-hour%20creatinine%20excretion%20based%20on%20the%20adult%20Swiss%20population&publication_year=2015&author=V.%20Forni%20Ogna&author=A.%20Ogna&author=P.%20Vuistiner&author=M.%20Pruijm&author=B.%20Ponte&author=D.%20Ackermann&author=M.%20Burnier)
+
+11. [Fujii and Harada, 2025](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib11)
+
+
+    Y. Fujii, K.H. Harada
+
+
+
+    Per- and polyfluoroalkyl substances: toxicokinetics, exposure and health risks
+
+
+
+    J. Toxicol. Sci., 50 (3) (2025), pp. 97-104, [10.2131/jts.50.97](https://doi.org/10.2131/jts.50.97)
+
+    [View at publisher](https://doi.org/10.2131/jts.50.97) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-86000267128&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Per-%20and%20polyfluoroalkyl%20substances%3A%20toxicokinetics%2C%20exposure%20and%20health%20risks&publication_year=2025&author=Y.%20Fujii&author=K.H.%20Harada)
+
+12. [Fujii et al., 2015](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib12)
+
+
+    Y. Fujii, T. Niisoe, K.H. Harada, S. Uemoto, Y. Ogura, K. Takenaka, A. Koizumi
+
+
+
+    Toxicokinetics of perfluoroalkyl carboxylic acids with different carbon chain lengths in mice and humans
+
+
+
+    J. Occup. Health, 57 (1) (2015), pp. 1-12, [10.1539/joh.14-0136-OA%J](https://doi.org/10.1539/joh.14-0136-OA%J)
+
+    Journal of Occupational Health
+
+    [View at publisher](https://doi.org/10.1539/joh.14-0136-OA%J) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84922690376&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Toxicokinetics%20of%20perfluoroalkyl%20carboxylic%20acids%20with%20different%20carbon%20chain%20lengths%20in%20mice%20and%20humans&publication_year=2015&author=Y.%20Fujii&author=T.%20Niisoe&author=K.H.%20Harada&author=S.%20Uemoto&author=Y.%20Ogura&author=K.%20Takenaka&author=A.%20Koizumi)
+
+13. [Gasiorowski et al., 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib13)
+
+
+    R. Gasiorowski, M.K. Forbes, G. Silver, Y. Krastev, B. Hamdorf, B. Lewis, …, M.P. Taylor
+
+
+
+    Effect of plasma and blood donations on levels of perfluoroalkyl and polyfluoroalkyl substances in firefighters in Australia: a randomized clinical trial
+
+
+
+    JAMA Netw. Open, 5 (4) (2022), Article e226257, [10.1001/jamanetworkopen.2022.6257](https://doi.org/10.1001/jamanetworkopen.2022.6257)
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxhbWEsTVRBdU1UQXdNUzlxWVcxaGJtVjBkMjl5YTI5d1pXNHVNakF5TWk0Mk1qVTMsT0dJM1lUZGxOakV0WWpOalppMDBZamhrTFdJeE5qVXRPV0UyTlRZeFl6ZG1Zalk1LGh0dHBzOi8vamFtYW5ldHdvcmsuY29tL0dldEZ0ckNvbnRlbnQvR2V0UGRmQnlEb2k_ZG9pPTEwLjEwMDElMmZqYW1hbmV0d29ya29wZW4uMjAyMi42MjU3JnJlc291cmNldHlwZT00.cavXoPoXI7tpaXvp6mNHgFRzbc_EqWW6xWghsLrazow)
+
+
+     [Google Scholar](https://scholar.google.com/scholar_lookup?title=Effect%20of%20plasma%20and%20blood%20donations%20on%20levels%20of%20perfluoroalkyl%20and%20polyfluoroalkyl%20substances%20in%20firefighters%20in%20Australia%3A%20a%20randomized%20clinical%20trial&publication_year=2022&author=R.%20Gasiorowski&author=M.K.%20Forbes&author=G.%20Silver&author=Y.%20Krastev&author=B.%20Hamdorf&author=B.%20Lewis&author=M.P.%20Taylor)
+
+14. [Genuis et al., 2010](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib14)
+
+
+    S.J. Genuis, D. Birkholz, M. Ralitsch, N. Thibault
+
+
+
+    Human detoxification of perfluorinated compounds
+
+
+
+    Public Health, 124 (7) (2010), pp. 367-375, [10.1016/j.puhe.2010.03.002](https://doi.org/10.1016/j.puhe.2010.03.002)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0033350610000600/pdfft?md5=1a9c9a00af863b59fef1cb78c60ada53&pid=1-s2.0-S0033350610000600-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0033350610000600) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-77954176883&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Human%20detoxification%20of%20perfluorinated%20compounds&publication_year=2010&author=S.J.%20Genuis&author=D.%20Birkholz&author=M.%20Ralitsch&author=N.%20Thibault)
+
+15. [Genuis et al., 2013](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib15)
+
+
+    S.J. Genuis, L. Curtis, D. Birkholz
+
+
+
+    Gastrointestinal elimination of perfluorinated compounds using cholestyramine and Chlorella pyrenoidosa
+
+
+
+    ISRN Toxicol, 2013 (2013), Article 657849, [10.1155/2013/657849](https://doi.org/10.1155/2013/657849)
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyx3aWxleSxNVEF1TVRFMU5TOHlNREV6THpZMU56ZzBPUSxPR0kzWVRkbE5qRXRZak5qWmkwMFlqaGtMV0l4TmpVdE9XRTJOVFl4WXpkbVlqWTUsaHR0cHM6Ly9vbmxpbmVsaWJyYXJ5LndpbGV5LmNvbS9kb2kvZXBkZi8xMC4xMTU1LzIwMTMvNjU3ODQ5P3NyYz1nZXRmdHI.yuFV6gNLjC82YqQbMYX4KMrA6wn6qg_0Qr1HcPexm50)
+
+
+     [Google Scholar](https://scholar.google.com/scholar_lookup?title=Gastrointestinal%20elimination%20of%20perfluorinated%20compounds%20using%20cholestyramine%20and%20Chlorella%20pyrenoidosa&publication_year=2013&author=S.J.%20Genuis&author=L.%20Curtis&author=D.%20Birkholz)
+
+16. [Genuis et al., 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib16)
+
+
+    S.J. Genuis, Y. Liu, Q.I. Genuis, J.W. Martin
+
+
+
+    Phlebotomy treatment for elimination of perfluoroalkyl acids in a highly exposed family: a retrospective case-series
+
+
+
+    PLoS One, 9 (12) (2014), Article e114295, [10.1371/journal.pone.0114295](https://doi.org/10.1371/journal.pone.0114295)
+
+    [View at publisher](https://doi.org/10.1371/journal.pone.0114295) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84918787393&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Phlebotomy%20treatment%20for%20elimination%20of%20perfluoroalkyl%20acids%20in%20a%20highly%20exposed%20family%3A%20a%20retrospective%20case-series&publication_year=2014&author=S.J.%20Genuis&author=Y.%20Liu&author=Q.I.%20Genuis&author=J.W.%20Martin)
+
+17. [Hallberg et al., 1966](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib17)
+
+
+    L. Hallberg, A.M. Högdahl, L. Nilsson, G. Rybo
+
+
+
+    Menstrual blood loss--a population study. Variation at different ages and attempts to define normality
+
+
+
+    Acta Obstet. Gynecol. Scand., 45 (3) (1966), pp. 320-351, [10.3109/00016346609158455](https://doi.org/10.3109/00016346609158455)
+
+    [View at publisher](https://doi.org/10.3109/00016346609158455) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0014003038&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Menstrual%20blood%20loss--a%20population%20study.%20Variation%20at%20different%20ages%20and%20attempts%20to%20define%20normality&publication_year=1966&author=L.%20Hallberg&author=A.M.%20H%C3%B6gdahl&author=L.%20Nilsson&author=G.%20Rybo)
+
+18. [Harada et al., 2005](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib18)
+
+
+    K. Harada, K. Inoue, A. Morikawa, T. Yoshinaga, N. Saito, A. Koizumi
+
+
+
+    Renal clearance of perfluorooctane sulfonate and perfluorooctanoate in humans and their species-specific excretion
+
+
+
+    Environ. Res., 99 (2) (2005), pp. 253-261, [10.1016/j.envres.2004.12.003](https://doi.org/10.1016/j.envres.2004.12.003)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0013935104002397/pdfft?md5=d8855933ff7840c7907132b592141508&pid=1-s2.0-S0013935104002397-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0013935104002397) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-25644441750&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Renal%20clearance%20of%20perfluorooctane%20sulfonate%20and%20perfluorooctanoate%20in%20humans%20and%20their%20species-specific%20excretion&publication_year=2005&author=K.%20Harada&author=K.%20Inoue&author=A.%20Morikawa&author=T.%20Yoshinaga&author=N.%20Saito&author=A.%20Koizumi)
+
+19. [Harada et al., 2007](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib19)
+
+
+    K.H. Harada, S. Hashida, T. Kaneko, K. Takenaka, M. Minata, K. Inoue, …, A. Koizumi
+
+
+
+    Biliary excretion and cerebrospinal fluid partition of perfluorooctanoate and perfluorooctane sulfonate in humans
+
+
+
+    Environ. Toxicol. Pharmacol., 24 (2) (2007), pp. 134-139, [10.1016/j.etap.2007.04.003](https://doi.org/10.1016/j.etap.2007.04.003)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S1382668907000488/pdfft?md5=5719205745881cfae3cabf9d22ff885a&pid=1-s2.0-S1382668907000488-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S1382668907000488) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-34447623741&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Biliary%20excretion%20and%20cerebrospinal%20fluid%20partition%20of%20perfluorooctanoate%20and%20perfluorooctane%20sulfonate%20in%20humans&publication_year=2007&author=K.H.%20Harada&author=S.%20Hashida&author=T.%20Kaneko&author=K.%20Takenaka&author=M.%20Minata&author=K.%20Inoue&author=A.%20Koizumi)
+
+20. [Inker et al., 2021](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib20)
+
+
+    L.A. Inker, N.D. Eneanya, J. Coresh, H. Tighiouart, D. Wang, Y. Sang, …, A.S. Levey
+
+
+
+    New Creatinine- and cystatin C-Based equations to estimate GFR without race
+
+
+
+    N. Engl. J. Med., 385 (19) (2021), pp. 1737-1749, [10.1056/NEJMoa2102953](https://doi.org/10.1056/NEJMoa2102953)
+
+    [View at publisher](https://doi.org/10.1056/nejmoa2102953) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85118607863&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=New%20Creatinine-%20and%20cystatin%20C-Based%20equations%20to%20estimate%20GFR%20without%20race&publication_year=2021&author=L.A.%20Inker&author=N.D.%20Eneanya&author=J.%20Coresh&author=H.%20Tighiouart&author=D.%20Wang&author=Y.%20Sang&author=A.S.%20Levey)
+
+21. [KDIGO, 2024](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib21)
+
+
+    KDIGO
+
+
+
+    Clinical practice guideline for the evaluation and management of chronic kidney disease
+
+
+
+    Kidney Int., 105 (4s) (2024), pp. S117-s314, [10.1016/j.kint.2023.10.018](https://doi.org/10.1016/j.kint.2023.10.018)
+
+    2024
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxlbHNldmllcixNVEF1TVRBeE5pOXFMbXRwYm5RdU1qQXlNeTR4TUM0d01UZyxNRE0wWkRWbE4yVXRaVGxpTkMwME5qaGpMV0V5WWpVdFl6STRNakJsWXpjd056aGosaHR0cHM6Ly93d3cuc2NpZW5jZWRpcmVjdC5jb20vc2NpZW5jZS9hcnRpY2xlL3BpaS9TMDA4NTI1MzgyMzAwNzY2ND9wZXM9dm9y.5gaVeowiT2IvtXf_Ts6SMzguGvdD0nPC00J37ehDEE4)
+
+
+     [Google Scholar](https://scholar.google.com/scholar_lookup?title=Clinical%20practice%20guideline%20for%20the%20evaluation%20and%20management%20of%20chronic%20kidney%20disease&publication_year=2024&author=KDIGO)
+
+22. [Konikoff and Denson, 2006](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib22)
+
+
+    M.R. Konikoff, L.A. Denson
+
+
+
+    Role of fecal calprotectin as a biomarker of intestinal inflammation in inflammatory bowel disease
+
+
+
+    Inflamm. Bowel Dis., 12 (6) (2006), pp. 524-534, [10.1097/00054725-200606000-00013](https://doi.org/10.1097/00054725-200606000-00013)
+
+    %J Inflammatory Bowel Diseases
+
+    [View at publisher](https://doi.org/10.1097/00054725-200606000-00013) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-33745262396&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Role%20of%20fecal%20calprotectin%20as%20a%20biomarker%20of%20intestinal%20inflammation%20in%20inflammatory%20bowel%20disease&publication_year=2006&author=M.R.%20Konikoff&author=L.A.%20Denson)
+
+23. [Li et al., 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib23)
+
+
+    Y. Li, A. Andersson, Y. Xu, D. Pineda, C.A. Nilsson, C.H. Lindh, …, T. Fletcher
+
+
+
+    Determinants of serum half-lives for linear and branched perfluoroalkyl substances after long-term high exposure-A study in Ronneby, Sweden
+
+
+
+    Environ. Int., 163 (2022), Article 107198, [10.1016/j.envint.2022.107198](https://doi.org/10.1016/j.envint.2022.107198)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412022001246/pdfft?md5=37ccf4d1470a45c5a924b205960e12f2&pid=1-s2.0-S0160412022001246-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412022001246) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85128262150&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Determinants%20of%20serum%20half-lives%20for%20linear%20and%20branched%20perfluoroalkyl%20substances%20after%20long-term%20high%20exposure-A%20study%20in%20Ronneby%2C%20Sweden&publication_year=2022&author=Y.%20Li&author=A.%20Andersson&author=Y.%20Xu&author=D.%20Pineda&author=C.A.%20Nilsson&author=C.H.%20Lindh&author=T.%20Fletcher)
+
+24. [Li et al., 2018](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib24)
+
+
+    Y. Li, T. Fletcher, D. Mucs, K. Scott, C.H. Lindh, P. Tallving, K. Jakobsson
+
+
+
+    Half-lives of PFOS, PFHxS and PFOA after end of exposure to contaminated drinking water
+
+
+
+    Occup. Environ. Med., 75 (1) (2018), pp. 46-51, [10.1136/oemed-2017-104651](https://doi.org/10.1136/oemed-2017-104651)
+
+    [View at publisher](https://doi.org/10.1136/oemed-2017-104651) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Half-lives%20of%20PFOS%2C%20PFHxS%20and%20PFOA%20after%20end%20of%20exposure%20to%20contaminated%20drinking%20water&publication_year=2018&author=Y.%20Li&author=T.%20Fletcher&author=D.%20Mucs&author=K.%20Scott&author=C.H.%20Lindh&author=P.%20Tallving&author=K.%20Jakobsson)
+
+25. [Lindell et al., 2024](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib25)
+
+
+    A.E. Lindell, A. Grießhammer, L. Michaelis, D. Papagiannidis, H. Ochner, S. Kamrad, K.R. Patil
+
+
+
+    Extensive PFAS Accumulation by Human Gut Bacteria, 2009.2017 (2024), Article 613493, [10.1101/2024.09.17.613493%JbioRxiv](https://doi.org/10.1101/2024.09.17.613493%JbioRxiv)
+
+    2024
+
+    [View at publisher](https://doi.org/10.1101/2024.09.17.613493%JbioRxiv) [Google Scholar](https://scholar.google.com/scholar?q=Lindell%2C%20A.%20E.%2C%20Griesshammer%2C%20A.%2C%20Michaelis%2C%20L.%2C%20Papagiannidis%2C%20D.%2C%20Ochner%2C%20H.%2C%20Kamrad%2C%20S.%2C%20.%20.%20.%20Patil%2C%20K.%20R.%20(2024).%20Extensive%20PFAS%20accumulation%20by%20human%20gut%20bacteria.%202024.2009.2017.613493.%20doi%3A10.1101%2F2024.09.17.613493%25JbioRxiv)
+
+26. [Livsmedelsverket, 2022](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib26)
+
+
+    Livsmedelsverket
+
+
+
+    Drinking water regulations - LIVSFS 2022:12
+
+
+
+    Retrieved from
+
+    [https://www.livsmedelsverket.se/globalassets/om-oss/lagstiftning/dricksvatten---naturl-mineralv---kallv/livsfs-2022-12\_web\_t.pdf](https://www.livsmedelsverket.se/globalassets/om-oss/lagstiftning/dricksvatten---naturl-mineralv---kallv/livsfs-2022-12_web_t.pdf) (2022)
+
+    [Google Scholar](https://scholar.google.com/scholar_lookup?title=Drinking%20water%20regulations%20-%20LIVSFS%202022%3A12&publication_year=2022&author=Livsmedelsverket)
+
+27. [Loccisano et al., 2011](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib27)
+
+
+    A.E. Loccisano, J.L. Campbell Jr., M.E. Andersen, H.J. Clewell
+
+
+
+    Evaluation and prediction of pharmacokinetics of PFOA and PFOS in the monkey and human using a PBPK model
+
+
+
+    3rd
+
+    Regul. Toxicol. Pharmacol., 59 (1) (2011), pp. 157-175, [10.1016/j.yrtph.2010.12.004](https://doi.org/10.1016/j.yrtph.2010.12.004)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0273230010002242/pdfft?md5=5c9665b3dab8a2fccedd6b1a28a4d4a2&pid=1-s2.0-S0273230010002242-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0273230010002242) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-79960094221&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Evaluation%20and%20prediction%20of%20pharmacokinetics%20of%20PFOA%20and%20PFOS%20in%20the%20monkey%20and%20human%20using%20a%20PBPK%20model&publication_year=2011&author=A.E.%20Loccisano&author=J.L.%20Campbell%20Jr.&author=M.E.%20Andersen&author=H.J.%20Clewell)
+
+28. [Lupton et al., 2012](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib28)
+
+
+    S.J. Lupton, J.K. Huwe, D.J. Smith, K.L. Dearfield, J.J. Johnston
+
+
+
+    Absorption and excretion of 14C-perfluorooctanoic acid (PFOA) in angus cattle (Bos taurus)
+
+
+
+    J. Agric. Food Chem., 60 (4) (2012), pp. 1128-1134, [10.1021/jf2042505](https://doi.org/10.1021/jf2042505)
+
+    [View at publisher](https://doi.org/10.1021/jf2042505) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84856521383&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Absorption%20and%20excretion%20of%2014C-perfluorooctanoic%20acid%20%20in%20angus%20cattle%20&publication_year=2012&author=S.J.%20Lupton&author=J.K.%20Huwe&author=D.J.%20Smith&author=K.L.%20Dearfield&author=J.J.%20Johnston)
+
+29. [Lupton et al., 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib29)
+
+
+    S.J. Lupton, J.K. Huwe, D.J. Smith, K.L. Dearfield, J.J. Johnston
+
+
+
+    Distribution and excretion of perfluorooctane sulfonate (PFOS) in beef cattle (Bos taurus)
+
+
+
+    J. Agric. Food Chem., 62 (5) (2014), pp. 1167-1173, [10.1021/jf404355b](https://doi.org/10.1021/jf404355b)
+
+    [View at publisher](https://doi.org/10.1021/jf404355b) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84893668082&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Distribution%20and%20excretion%20of%20perfluorooctane%20sulfonate%20%20in%20beef%20cattle%20&publication_year=2014&author=S.J.%20Lupton&author=J.K.%20Huwe&author=D.J.%20Smith&author=K.L.%20Dearfield&author=J.J.%20Johnston)
+
+30. [Mazzachi et al., 2000](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib30)
+
+
+    B.C. Mazzachi, M.J. Peake, V. Ehrhardt
+
+
+
+    Reference range and method comparison studies for enzymatic and Jaffé creatinine assays in plasma and serum and early morning urine
+
+
+
+    Clin. Lab., 46 (1–2) (2000), pp. 53-55
+
+    [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0033968742&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Reference%20range%20and%20method%20comparison%20studies%20for%20enzymatic%20and%20Jaff%C3%A9%20creatinine%20assays%20in%20plasma%20and%20serum%20and%20early%20morning%20urine&publication_year=2000&author=B.C.%20Mazzachi&author=M.J.%20Peake&author=V.%20Ehrhardt)
+
+31. [Møller et al., 2024](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib31)
+
+
+    J.J. Møller, A.C. Lyngberg, P.E.C. Hammer, E.M. Flachs, O.S. Mortensen, T.K. Jensen, …, M. Lindhardt
+
+
+
+    Substantial decrease of PFAS with anion exchange resin treatment - a clinical cross-over trial
+
+
+
+    Environ. Int., 185 (2024), Article 108497, [10.1016/j.envint.2024.108497](https://doi.org/10.1016/j.envint.2024.108497)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412024000837/pdfft?md5=79b4cf29ead4caf1607d1032cd110775&pid=1-s2.0-S0160412024000837-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412024000837) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85185511125&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Substantial%20decrease%20of%20PFAS%20with%20anion%20exchange%20resin%20treatment%20-%20a%20clinical%20cross-over%20trial&publication_year=2024&author=J.J.%20M%C3%B8ller&author=A.C.%20Lyngberg&author=P.E.C.%20Hammer&author=E.M.%20Flachs&author=O.S.%20Mortensen&author=T.K.%20Jensen&author=M.%20Lindhardt)
+
+32. [Persson et al., 2013](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib32)
+
+
+    S. Persson, A. Rotander, A. Kärrman, B. van Bavel, U. Magnusson
+
+
+
+    Perfluoroalkyl acids in subarctic wild male mink (Neovison vison) in relation to age, season and geographical area
+
+
+
+    Environ. Int., 59 (2013), pp. 425-430, [10.1016/j.envint.2013.06.025](https://doi.org/10.1016/j.envint.2013.06.025)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412013001438/pdfft?md5=d844dfa1a30a16f335e3c74eeefd8a7d&pid=1-s2.0-S0160412013001438-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412013001438) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84882244487&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Perfluoroalkyl%20acids%20in%20subarctic%20wild%20male%20mink%20%20in%20relation%20to%20age%2C%20season%20and%20geographical%20area&publication_year=2013&author=S.%20Persson&author=A.%20Rotander&author=A.%20K%C3%A4rrman&author=B.%20van%20Bavel&author=U.%20Magnusson)
+
+33. [Rose et al., 2015](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib33)
+
+
+    C. Rose, A. Parker, B. Jefferson, E. Cartmell
+
+
+
+    The characterization of feces and urine: a review of the literature to inform advanced treatment technology
+
+
+
+    Crit. Rev. Environ. Sci. Technol., 45 (17) (2015), pp. 1827-1879, [10.1080/10643389.2014.1000761](https://doi.org/10.1080/10643389.2014.1000761)
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyx0YW5kZixNVEF1TVRBNE1DOHhNRFkwTXpNNE9TNHlNREUwTGpFd01EQTNOakUsTnpNM05HSXpNakF0WmpjNU15MDBNalU1TFRoaVl6QXRZbVF3WmpjNU1qTmtPV000LGh0dHBzOi8vd3d3LnRhbmRmb25saW5lLmNvbS9kb2kvZXBkZi8xMC4xMDgwLzEwNjQzMzg5LjIwMTQuMTAwMDc2MT9zcmM9Z2V0ZnRy.egC0olAfj4Nr2yN28P-VWKEujqH3K7LpZSPbGf9EZxg)
+
+
+     [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84930254896&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20characterization%20of%20feces%20and%20urine%3A%20a%20review%20of%20the%20literature%20to%20inform%20advanced%20treatment%20technology&publication_year=2015&author=C.%20Rose&author=A.%20Parker&author=B.%20Jefferson&author=E.%20Cartmell)
+
+34. [Rush et al., 2018](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib34)
+
+
+    E.L. Rush, A.B. Singer, M.P. Longnecker, L.S. Haug, A. Sabaredzovic, E. Symanski, K.W. Whitworth
+
+
+
+    Oral contraceptive use as a determinant of plasma concentrations of perfluoroalkyl substances among women in the Norwegian mother and child cohort (MoBa) study
+
+
+
+    Environ. Int., 112 (2018), pp. 156-164, [10.1016/j.envint.2017.12.015](https://doi.org/10.1016/j.envint.2017.12.015)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412017316082/pdfft?md5=a4a6cc2d0f62148dd06bf9e149102824&pid=1-s2.0-S0160412017316082-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412017316082) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85038399585&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Oral%20contraceptive%20use%20as%20a%20determinant%20of%20plasma%20concentrations%20of%20perfluoroalkyl%20substances%20among%20women%20in%20the%20Norwegian%20mother%20and%20child%20cohort%20%20study&publication_year=2018&author=E.L.%20Rush&author=A.B.%20Singer&author=M.P.%20Longnecker&author=L.S.%20Haug&author=A.%20Sabaredzovic&author=E.%20Symanski&author=K.W.%20Whitworth)
+
+35. [Ryu et al., 2024](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib35)
+
+
+    S. Ryu, E. Yamaguchi, S.M. Sadegh Modaresi, J. Agudelo, C. Costales, M.A. West, …, A.L. Slitt
+
+
+
+    Evaluation of 14 PFAS for permeability and organic anion transporter interactions: implications for renal clearance in humans
+
+
+
+    Chemosphere, 361 (2024), Article 142390, [10.1016/j.chemosphere.2024.142390](https://doi.org/10.1016/j.chemosphere.2024.142390)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0045653524012839/pdfft?md5=9d1c4de2d4f075595526abdf1e67ab32&pid=1-s2.0-S0045653524012839-mainext.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0045653524012839) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85195319746&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Evaluation%20of%2014%20PFAS%20for%20permeability%20and%20organic%20anion%20transporter%20interactions%3A%20implications%20for%20renal%20clearance%20in%20humans&publication_year=2024&author=S.%20Ryu&author=E.%20Yamaguchi&author=S.M.%20Sadegh%20Modaresi&author=J.%20Agudelo&author=C.%20Costales&author=M.A.%20West&author=A.L.%20Slitt)
+
+36. [Sallsten and Barregard, 2021](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib36)
+
+
+    G. Sallsten, L. Barregard
+
+
+
+    Variability of urinary creatinine in healthy individuals
+
+
+
+    Int. J. Environ. Res. Publ. Health, 18 (6) (2021), [10.3390/ijerph18063166](https://doi.org/10.3390/ijerph18063166)
+
+    [View at publisher](https://doi.org/10.3390/ijerph18063166) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Variability%20of%20urinary%20creatinine%20in%20healthy%20individuals&publication_year=2021&author=G.%20Sallsten&author=L.%20Barregard)
+
+37. [Thompson et al., 2010](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib37)
+
+
+    J. Thompson, M. Lorber, L.L. Toms, K. Kato, A.M. Calafat, J.F. Mueller
+
+
+
+    Use of simple pharmacokinetic modeling to characterize exposure of Australians to perfluorooctanoic acid and perfluorooctane sulfonic acid
+
+
+
+    Environ. Int., 36 (4) (2010), pp. 390-397, [10.1016/j.envint.2010.02.008](https://doi.org/10.1016/j.envint.2010.02.008)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412010000292/pdfft?md5=53a9e1b39336854489d2afe05ac6a620&pid=1-s2.0-S0160412010000292-mainext.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412010000292) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-77950937263&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Use%20of%20simple%20pharmacokinetic%20modeling%20to%20characterize%20exposure%20of%20Australians%20to%20perfluorooctanoic%20acid%20and%20perfluorooctane%20sulfonic%20acid&publication_year=2010&author=J.%20Thompson&author=M.%20Lorber&author=L.L.%20Toms&author=K.%20Kato&author=A.M.%20Calafat&author=J.F.%20Mueller)
+
+38. [Vanden Heuvel et al., 1991](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib38)
+
+
+    J.P. Vanden Heuvel, B.I. Kuslikis, M.J. Van Rafelghem, R.E. Peterson
+
+
+
+    Tissue distribution, metabolism, and elimination of perfluorooctanoic acid in male and female rats
+
+
+
+    J. Biochem. Toxicol., 6 (2) (1991), pp. 83-92, [10.1002/jbt.2570060202](https://doi.org/10.1002/jbt.2570060202)
+
+    [View at publisher](https://doi.org/10.1002/jbt.2570060202) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Tissue%20distribution%2C%20metabolism%2C%20and%20elimination%20of%20perfluorooctanoic%20acid%20in%20male%20and%20female%20rats&publication_year=1991&author=J.P.%20Vanden%20Heuvel&author=B.I.%20Kuslikis&author=M.J.%20Van%20Rafelghem&author=R.E.%20Peterson)
+
+39. [Walsham and Sherwood, 2016](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib39)
+
+
+    N.E. Walsham, R.A. Sherwood
+
+
+
+    Fecal calprotectin in inflammatory bowel disease
+
+
+
+    Clin. Exp. Gastroenterol., 9 (2016), pp. 21-29, [10.2147/ceg.S51902](https://doi.org/10.2147/ceg.S51902)
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyx0YW5kZixNVEF1TWpFME55OWpaV2N1Y3pVeE9UQXksWkdZMk5qZ3dZVGd0WkRReE1TMDBaVGhpTFdKa1pUa3RNell6TjJVME9ERTFOV0k0LGh0dHBzOi8vd3d3LnRhbmRmb25saW5lLmNvbS9kb2kvZXBkZi8xMC4yMTQ3L0NFRy5TNTE5MDI_c3JjPWdldGZ0cg.hp00miPXZg6mUwYiscjBokpzKy3uJdtfaDlqJRnaZWg)
+
+
+     [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84960377463&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Fecal%20calprotectin%20in%20inflammatory%20bowel%20disease&publication_year=2016&author=N.E.%20Walsham&author=R.A.%20Sherwood)
+
+40. [Wong et al., 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib40)
+
+
+    F. Wong, M. MacLeod, J.F. Mueller, I.T. Cousins
+
+
+
+    Enhanced elimination of perfluorooctane sulfonic acid by menstruating women: evidence from population-based pharmacokinetic modeling
+
+
+
+    Environ. Sci. Technol., 48 (15) (2014), pp. 8807-8814, [10.1021/es500796y](https://doi.org/10.1021/es500796y)
+
+    [View at publisher](https://doi.org/10.1021/es500796y) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84905641041&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Enhanced%20elimination%20of%20perfluorooctane%20sulfonic%20acid%20by%20menstruating%20women%3A%20evidence%20from%20population-based%20pharmacokinetic%20modeling&publication_year=2014&author=F.%20Wong&author=M.%20MacLeod&author=J.F.%20Mueller&author=I.T.%20Cousins)
+
+41. [Xu et al., 2020](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib41)
+
+
+    Y. Xu, T. Fletcher, D. Pineda, C.H. Lindh, C. Nilsson, A. Glynn, …, Y. Li
+
+
+
+    Serum half-lives for Short- and long-chain perfluoroalkyl acids after ceasing exposure from drinking water contaminated by firefighting foam
+
+
+
+    Environ. Health Perspect., 128 (7) (2020), Article 77004, [10.1289/ehp6785](https://doi.org/10.1289/ehp6785)
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxhY3MsTVRBdU1USTRPUzlsYUhBMk56ZzEsWkdZMk5qZ3dZVGd0WkRReE1TMDBaVGhpTFdKa1pUa3RNell6TjJVME9ERTFOV0k0LGh0dHBzOi8vcHVicy5hY3Mub3JnL0dldEZ0ckNvbnRlbnQvR2V0UGRmQnlEb2k_ZG9pPTEwLjEyODklMmZFSFA2Nzg1JnJlc291cmNldHlwZT00.jK8rqbP8XikX-VjJM_FvYYDe5qAVvgl099zk0nTtM_Q)
+
+
+     [Google Scholar](https://scholar.google.com/scholar_lookup?title=Serum%20half-lives%20for%20Short-%20and%20long-chain%20perfluoroalkyl%20acids%20after%20ceasing%20exposure%20from%20drinking%20water%20contaminated%20by%20firefighting%20foam&publication_year=2020&author=Y.%20Xu&author=T.%20Fletcher&author=D.%20Pineda&author=C.H.%20Lindh&author=C.%20Nilsson&author=A.%20Glynn&author=Y.%20Li)
+
+42. [Xu et al., 2021](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib42)
+
+
+    Y. Xu, C. Nielsen, Y. Li, S. Hammarstrand, E.M. Andersson, H. Li, …, K. Jakobsson
+
+
+
+    Serum perfluoroalkyl substances in residents following long-term drinking water contamination from firefighting foam in Ronneby, Sweden
+
+
+
+    Environ. Int., 147 (2021), Article 106333, [10.1016/j.envint.2020.106333](https://doi.org/10.1016/j.envint.2020.106333)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412020322881/pdfft?md5=f60161277e37adc53c94ec48cdd51975&pid=1-s2.0-S0160412020322881-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412020322881) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85098072557&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Serum%20perfluoroalkyl%20substances%20in%20residents%20following%20long-term%20drinking%20water%20contamination%20from%20firefighting%20foam%20in%20Ronneby%2C%20Sweden&publication_year=2021&author=Y.%20Xu&author=C.%20Nielsen&author=Y.%20Li&author=S.%20Hammarstrand&author=E.M.%20Andersson&author=H.%20Li&author=K.%20Jakobsson)
+
+43. [Zhang et al., 2013](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib43)
+
+
+    Y. Zhang, S. Beesoon, L. Zhu, J.W. Martin
+
+
+
+    Biomonitoring of perfluoroalkyl acids in human urine and estimates of biological half-life
+
+
+
+    Environ. Sci. Technol., 47 (18) (2013), pp. 10619-10627, [10.1021/es401905e](https://doi.org/10.1021/es401905e)
+
+    [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84884265526&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Biomonitoring%20of%20perfluoroalkyl%20acids%20in%20human%20urine%20and%20estimates%20of%20biological%20half-life&publication_year=2013&author=Y.%20Zhang&author=S.%20Beesoon&author=L.%20Zhu&author=J.W.%20Martin)
+
+44. [Zhou et al., 2014](https://www.sciencedirect.com/science/article/pii/S0013935125017396#bbib44)
+
+
+    Z. Zhou, Y. Shi, R. Vestergren, T. Wang, Y. Liang, Y. Cai
+
+
+
+    Highly elevated serum concentrations of perfluoroalkyl substances in fishery employees from Tangxun lake, China
+
+
+
+    Environ. Sci. Technol., 48 (7) (2014), pp. 3864-3874, [10.1021/es4057467](https://doi.org/10.1021/es4057467)
+
+    [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84897545254&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Highly%20elevated%20serum%20concentrations%20of%20perfluoroalkyl%20substances%20in%20fishery%20employees%20from%20Tangxun%20lake%2C%20China&publication_year=2014&author=Z.%20Zhou&author=Y.%20Shi&author=R.%20Vestergren&author=T.%20Wang&author=Y.%20Liang&author=Y.%20Cai)
+
+
+## Recommended articles
+
+### Based on reading popularity
+
+- Research article
+
+
+
+[Perfluoroalkyl substances follow inverted U-shaped distributions across various stages of glomerular function: Implications for future research](https://www.sciencedirect.com/science/article/pii/S0013935118306157)
+
+Ram B.Jain, AlanDucatman
+
+Environmental Research • Volume 169 • 2019 • Pages 476-482
+
+- Research articleOpen access
+
+
+
+[_In vivo_ genotoxicity of Chios mastic gum in rodent bone marrow micronucleus test](https://www.sciencedirect.com/science/article/pii/S2214750025002744)
+
+Eirini-ChristinaPsarou, …, KyriakiMachera
+
+Toxicology Reports • Volume 15 • 2025 • Article 102155
+
+
+
+[View PDF](https://www.sciencedirect.com/science/article/pii/S2214750025002744/pdfft?md5=b5131d1258079d787a5d987a33f2fd71&pid=1-s2.0-S2214750025002744-main.pdf)
+
+- Research articleOpen access
+
+
+
+[Biomonitoring of chlorinated polyfluoroalkyl ether sulfonic acid in the general population in central and eastern China: Occurrence and associations with age/sex](https://www.sciencedirect.com/science/article/pii/S016041202031998X)
+
+QiJin, …, GuoqiangQu
+
+Environment International • Volume 144 • 2020 • Article 106043
+
+
+
+[View PDF](https://www.sciencedirect.com/science/article/pii/S016041202031998X/pdfft?md5=56e1c3b6f768742b9c7bdbe2a831ad6f&pid=1-s2.0-S016041202031998X-main.pdf)
+
+- Research articleOpen access
+
+
+
+[Associations between maternal exposure to per- and polyfluoroalkyl substances and childhood neurodevelopment up to age 4: The Japan environment and children’s study](https://www.sciencedirect.com/science/article/pii/S0160412025005756)
+
+HidetoshiMezawa, …, MichihiroKamijima
+
+Environment International • Volume 204 • 2025 • Article 109824
+
+
+
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0160412025005756/pdfft?md5=db7ad752a4ed9fa3f4e2e17f2691d024&pid=1-s2.0-S0160412025005756-main.pdf)
+
+- Research article
+
+
+
+[PFAS dynamics in the American black bear ( _Ursus americanus_): Physiological stages (hyperphagia, hibernation, and post-hibernation), and temporal trends from 1989 to 2015](https://www.sciencedirect.com/science/article/pii/S0048969725025161)
+
+QaimMehdi, …, John A.Bowden
+
+Science of The Total Environment • Volume 1005 • 2025 • Article 180876
+
+- Research article
+
+
+
+[Perfluoroalkyl acids serum concentrations and their relationship to biomarkers of renal failure: Serum and urine albumin, creatinine, and albumin creatinine ratios across the spectrum of glomerular function among US adults](https://www.sciencedirect.com/science/article/pii/S0013935119302506)
+
+Ram B.Jain, AlanDucatman
+
+Environmental Research • Volume 174 • 2019 • Pages 143-151
+
+
+## Cited by (15)
+
+- Review article
+
+
+
+[Sex-specific cellular and molecular mechanisms of PFAS-induced reproductive toxicity](https://www.sciencedirect.com/science/article/pii/S0300483X26001423)
+
+Bhagwan A.S., …, Kaundal R.K.
+
+Toxicology • Volume 526 • 2026 • Article 154535
+
+
+Show abstract
+
+
+
+
+Per- and polyfluoroalkyl substances (PFAS) are persistent environmental contaminants widely detected in water, food, consumer products, and household dust, resulting in ongoing human exposure and bioaccumulation. Accumulating evidence increasingly implicates PFAS in reproductive dysfunction. Although PFAS-associated reproductive toxicity has been widely reviewed, critical knowledge gaps persist regarding the sex-specific cellular and molecular mechanisms mediating these effects and the reproductive toxicity of emerging replacement PFAS. Increasing epidemiological, _in vivo_, and _in vitro_ evidence indicates that PFAS disrupt reproductive health through multiple mechanisms common to both sexes, including oxidative stress, mitochondrial dysfunction, endocrine perturbation, inflammation, epigenetic modifications, and dysregulation of cell survival pathways. However, emerging data reveal sex-specific differences in susceptibility and molecular responses. In males, PFAS specifically disrupt steroidogenesis, the blood-testis barrier (BTB), induce germ cell apoptosis, and impair spermatogenesis, leading to reduced sperm quality and fertility. In females, PFAS exposure perturbs ovarian homeostasis by impairing folliculogenesis, oocyte maturation, steroid hormone biosynthesis, and granulosa/cumulus cell function, thereby contributing to diminished ovarian reserve and reproductive dysfunction. Distinct alterations in hormone signaling, lipid metabolism, nuclear receptor activation, and epigenetic regulation mediate these sex-specific effects. Beyond gonadal toxicity, PFAS exposure during pregnancy disrupts placental development and endocrine signaling, contributing to placental dysfunction, adverse pregnancy outcomes, and developmental programming associated with metabolic, neurodevelopmental, and immune abnormalities in offspring. This review presents current epidemiological and mechanistic evidence to delineate shared and sex-specific pathways underlying reproductive toxicity induced by both legacy and emerging PFAS. The findings provide an updated perspective on PFAS-induced reproductive toxicity and have implications for future risk assessment and targeted interventions.
+
+- Research articleOpen access
+
+
+
+[A human next generation PBK model for PFOA](https://www.sciencedirect.com/science/article/pii/S0160412026001194)
+
+Pachoulide C., …, Kramer N.I.
+
+Environment International • Volume 209 • 2026 • Article 110161
+
+
+Show abstract
+
+
+
+
+The human toxicological risk assessment of per- and polyfluoroalkyl substances (PFAS) is challenging, due to their sheer number and structural diversity, but also the paucity of the toxicity data required to characterize them. The development of Next Generation Physiologically Based Kinetic (NG-PBK) models may assist in overcoming this challenge. The mechanistic nature of NG-PBK models allows for their extrapolation from data-rich PFAS, such as perfluorooctanoic acid (PFOA), to data-poor ones, facilitating their application in Next Generation Risk Assessment (NGRA). The present study proposes a NG-PBK model for PFOA in humans, parametrized exclusively using in vitro-, and in silico-derived data. The model describes the toxicokinetic processes of 1) partitioning to plasma and tissue proteins, 2) partitioning to cell membrane lipids, 3a) transporter-mediated entero-hepatic circulation and 3b) renal elimination and reabsorption, and 4) elimination via menstruation. Global sensitivity analysis indicated that the model was most sensitive to the fraction unbound in plasma, active-transport parameters, and tissue-plasma partition coefficients. The model was equivalent to already available validated human PFOA-PBK models, while compared to those, it is not calibrated to observed animal, nor human data, illustrating its strength in being mechanistic. The serum concentrations and half-lives predicted by the NG-PBK model were within the ranges of those reported in human volunteer and biomonitoring (HBM) studies, demonstrating the model’s capacity to accurately predict PFOA toxicokinetics on exposure estimates. Extrapolation of the NG-PBK model to other PFAS, in conjunction with its integration with HBM data, will facilitate the NGRA of PFAS. This is particularly relevant given the paucity of in vivo data for most PFAS, ensuring compliance with the 3R principles.
+
+- Research articleOpen access
+
+
+
+[A novel automated micro solid phase extraction (µSPE) method to quantify 21 per- and polyfluoroalkyl substances compounds in biological samples](https://www.sciencedirect.com/science/article/pii/S2772582026000021)
+
+Zhang G., …, Aranda-Rodriguez R.
+
+Advances in Sample Preparation • Volume 17 • 2026 • Article 100230
+
+
+Show abstract
+
+
+
+
+A semi-automated micro solid-phase extraction (μSPE) method has been developed and optimized for the quantification of 21 per- and polyfluoroalkyl substances (PFAS) across various biological matrices, including plasma, serum, urine, and liver tissue. This method employed μSPE cartridges integrated with a PAL-RTC robotic system, which enabled precise flow control and high-throughput procedures while ensuring exceptional extraction efficiency and reproducibility. Sample homogenization of liver tissues was achieved by bead-mill technology which eliminated sample cross-contamination and significantly reduced processing time. The extraction efficiency was influenced by the concentration of methanol in the sample, especially for longer-chain PFAS (C9–14). Extraction efficiencies of over 90% extraction were achieved with loading solutions containing 50–60% methanol in plasma and serum, and up to 80% methanol in water samples. The μSPE protocol included two sequential wash steps that provided excellent matrix clean-up, and reduced background signals by over 95% compared to traditional protein precipitation (PP) methods. The µSPE-LC-MS/MS method offers high sensitivity (method detection limits between 0.008 ng/mL and 0.048 ng/mL), along with good recoveries (90.3 to 105.1%), and precision (RSD <10%). It also demonstrated strong agreement with non-certified values of NIST Standard Reference Materials (SRM 1957/1958). The method was successfully used in the analysis of PFAS in human urine and plasma, as well as in mouse liver samples from an _in vivo_ study. The μSPE approach provides a sensitive, reproducible, and automated solution that requires limited biological sample volumes, making it suitable for the analysis of PFAS in biomonitoring and toxicokinetic studies.
+
+- Research articleOpen access
+
+
+
+[Does the timing of sample collection confound the association between prenatal serum PFAS concentrations and birthweight: results from two prospective cohort studies](https://www.sciencedirect.com/science/article/pii/S016041202500741X)
+
+Wu X., …, Tao F.
+
+Environment International • Volume 207 • 2026 • Article 109990
+
+
+Show abstract
+
+
+
+
+Maternal serum concentrations of per- and polyfluoroalkyl substances (PFAS) during pregnancy have been consistently associated with reduced birthweight. However, these associations may be confounded by the timing of sample collection due to pregnancy-related changes in pharmacokinetics that impact both serum PFAS concentrations and birthweight.
+
+
+
+We measured nine serum PFAS concentrations in each trimester among 728 women in the MABC Study (Ma’anshan, China, enrolled 2013–2014). We estimated covariate-adjusted differences in birthweight for individual PFAS and their mixture, as well as percent change in PFAS by infant birthweight. We repeated our analyses in 70 women-infant dyads from the HOME Study (Cincinnati, Ohio, enrolled 2003–2006) with repeated PFAS measures in 2nd trimester and at delivery.
+
+
+
+Associations of individual PFAS and their mixture with birthweight became more strongly inverse for measurements taken later in pregnancy. Each SD increase in log2-transformed 1st and 3rd trimester PFOA was associated with a 6-gram (95 % CI:−35, 22) and 26-gram (95 % CI:−54, 3) decrease in birthweight, respectively. Concentrations of six PFAS declined more steeply among women who gave birth to larger vs. smaller infants. PFOA declined by 11.3 % (95 % CI:−12.7, −9.9) vs. 8.9 % (95 % CI:−10.3, −7.5) per 13 weeks among women who gave birth to infants born at the 90th vs. 10th birthweight percentiles, respectively. We observed similar findings in the HOME Study.
+
+
+
+These findings suggest that physiological changes in pregnancy may confound associations between serum PFAS and birthweight. Studies with PFAS measures later in pregnancy may overestimate the true effect of PFAS on fetal growth.
+
+- Review articleOpen access
+
+
+
+[Per- and polyfluoroalkyl substances and the gut microbiota in infants: A scoping review](https://www.sciencedirect.com/science/article/pii/S0013935125021899)
+
+Olsen I.A., …, Timmermann A.
+
+Environmental Research • Volume 286 • 2025 • Article 122937
+
+
+Show abstract
+
+
+
+
+Per-and polyfluoroalkyl substances (PFASs) are persistent environmental chemicals associated with adverse health effects. Emerging evidence suggests PFAS exposure may influence gut microbiota composition, which is a critical determinant of health particularly during infancy. A systematic search was conducted in PubMed to identify epidemiological studies investigating PFAS exposure and infant gut microbiota. Seven studies met the inclusion criteria, examining a range of PFASs derived from either breast milk, maternal blood, or umbilical cord blood and including from 30 to 789 subjects. These studies used either 16S rRNA sequencing or shotgun metagenomics to assess microbiota changes. Perfluorooctane sulfonic acid (PFOS) and perfluorooctanoic acid (PFOA) were the most frequently examined PFASs. Across studies, exposure to PFASs was associated with both increased and decreased α-diversity. β-diversity shifts were also observed in some studies, suggesting altered microbial structures. PFAS exposure was associated with changes in the abundance of specific taxa, such as increased _Enterococcus_ and decreased _Faecalibacterium_ and _Phocaeicola vulgatus_. Functional pathway alterations were also reported, including disrupted bile acid metabolism. Variation in study design, covariate adjustment, and methodological approaches likely contribute to the inconsistencies in the observed associations between PFAS exposure and the infant gut microbiota. In conclusion, current evidence suggests that PFAS exposure may influence infant gut microbiota, but more and larger longitudinal studies are needed to better understand whether PFAS exposure is associated with altered gut microbiota composition in infants. This review synthesizes existing evidence on associations between PFAS exposure and gut microbiota composition in infants.
+
+- Research articleOpen access
+
+
+
+[Serum, urinary and fecal concentrations of perfluoroalkyl substances after interventions with cholestyramine/colesevelam and probenecid – cross-over trials in Ronneby, Sweden](https://www.sciencedirect.com/science/article/pii/S0160412025005458)
+
+Andersson A.G., …, Li Y.
+
+Environment International • Volume 204 • 2025 • Article 109794
+
+
+Show abstract
+
+
+
+
+Some per- and polyfluoroalkyl substances (PFAS) such as perfluorohexane sulfonic acid (PFHxS), perfluorooctane sulfonic acid (PFOS) and perfluorooctanoic acid (PFOA) are very long-lived in humans, with serum half-lives of several years. In PFAS hot spots, such as Ronneby, Sweden, high exposures over time have led to markedly elevated serum PFAS levels, which may result in health risks as well as transfer to the next generation through pregnancy and breastfeeding. Bile acid sequestrants and organic anion transporter inhibitors are drug candidates for increasing PFAS elimination in humans.
+
+
+
+This is a cross-over, clinical study in 10 individuals from Ronneby, Sweden. First, participants were given the bile acid sequestrant cholestyramine and the organic anion transporter inhibitor probenecid for 1 week each. Urinary and fecal concentrations were measured prior, during and after the administration. Then, the changes of serum PFAS concentrations during a 12-week intervention with the bile acid sequestrant colesevelam were compared to a control period.
+
+
+
+The study population was mainly exposed to PFHxS (serum mean 50 ng/mL, range 5.8–170), PFOS (serum mean 46 ng/mL, range 9.2–130) and PFOA (serum mean 2.2, range 0.7–4.4). Cholestyramine intervention increased the serum adjusted fecal PFOS concentrations by 23.1 times (95 %CI: 13.6, 39.2), while probenecid was associated with 0.79 times (95 %CI 0.63, 1.0) serum-adjusted urinary PFOS concentrations, compared to no intervention. The 12-week intervention with colesevelam resulted in a mean serum PFOS decline of 38 % (95 %CI −42, −34), compared to 2 % (95 %CI −8, 5) in the control period. The decline was smaller for PFHxS and PFOA.
+
+
+
+Bile acid sequestrants could be used for accelerating PFAS excretion in highly PFAS exposed individuals. Studies are needed to evaluate the risks, costs and benefits of using it for this purpose.
+
+
+[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-105012200876&md5=188a27f866e760fa25842dfafede52c)
+
+## Metrics
+
+### Citations
+
+- Citation Indexes15
+
+### Captures
+
+- Mendeley Readers16
+
+![PlumX Metrics Logo](https://cdn.plu.mx/3ba727faf225e19d2c759f6ebffc511d/plumx-logo.png)[View details](https://plu.mx/plum/a/?doi=10.1016%2Fj.envres.2025.122487&theme=plum-sciencedirect-theme&hideUsage=true)
+
+© 2025 The Authors. Published by Elsevier Inc.
+
+Persistent link using digital object identifier (DOI)
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+The Identity Selector: Persistence Service
