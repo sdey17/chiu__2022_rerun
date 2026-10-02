@@ -562,6 +562,42 @@ both. **A population model that reproduces observed serum trajectories with a Vd
 two to four times the measured one is fitting something, and what it is fitting
 is the open question.**
 
+### 5.1b EPA's own appendix says the human Vd literature never measured anything
+
+The decisive confirmation is in a table nobody cites. EPA's 2024 appendix volume
+tabulates the human PFOA Vd literature, and the table's **title** is the
+finding:
+
+> *Table B-26. Summary of PFOA Volume of Distribution Values **Assigned** in
+> Human Studies*
+
+```bash
+python3 scripts/extract_epa_table_b26.py   # -> db/epa_table_b26_human_vd.csv
+```
+
+Ten entries. **All assigned, none measured.** Six assign exactly **170 mL/kg** —
+Thompson 2010's calibrated value. The full range is 170–200 mL/kg, a spread of
+1.18×.
+
+| | Vd (mL/kg) | how obtained |
+|---|---|---|
+| Andersson 2025 | 74 | **measured**, urinary/faecal mass balance |
+| Gasiorowski 2022 (derived, §5.1a) | 113–199 | **measured**, randomised removal |
+| Abraham 2024 | 121 | **measured**, labelled oral dose |
+| *EPA Table B-26, ten human studies* | *170–200* | ***assigned*** |
+| Thompson 2010 | 170 | calibrated against an assumed half-life |
+| Chiu 2022 | 430 | fitted by population model |
+
+**The apparent tight agreement of the human Vd literature is an artefact of
+everyone adopting the same assumed constant.** Every direct measurement falls
+*below* the assigned range; the one population fit sits more than twice *above*
+it. The assigned consensus sits in neither place, and nothing in that table
+tests it.
+
+Two details worth keeping: Shin 2011 is the only entry with a sex-specific Vd
+(181 male, 198 female), and Gomis 2017's 200 mL/kg is explicitly an *average of
+human and animal* values — a different circularity from Thompson's.
+
 ### 5.2 The assumptions that move the number, with directions
 
 1. **Ongoing unmonitored exposure** → inflates half-life. The dominant bias.
