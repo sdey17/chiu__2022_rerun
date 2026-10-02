@@ -1,0 +1,441 @@
+chemical,species,parameter,status,n_studies,n_rows,sexes_covered,n_measured_rows,n_modelled_rows,studies
+5:3 FTCA,human,half-life,no_data,0,0,,0,0,
+5:3 FTCA,human,clearance,single_study_only,1,1,U,0,1,EPA httk R package v2.7.4 - chem.physical_and_invitro.data
+5:3 FTCA,human,Vd,no_data,0,0,,0,0,
+5:3 FTCA,human,k,no_data,0,0,,0,0,
+5:3 FTCA,monkey,half-life,no_data,0,0,,0,0,
+5:3 FTCA,monkey,clearance,no_data,0,0,,0,0,
+5:3 FTCA,monkey,Vd,no_data,0,0,,0,0,
+5:3 FTCA,monkey,k,no_data,0,0,,0,0,
+5:3 FTCA,rat,half-life,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+5:3 FTCA,rat,clearance,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table
+5:3 FTCA,rat,Vd,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+5:3 FTCA,rat,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+5:3 FTCA,mouse,half-life,no_data,0,0,,0,0,
+5:3 FTCA,mouse,clearance,no_data,0,0,,0,0,
+5:3 FTCA,mouse,Vd,no_data,0,0,,0,0,
+5:3 FTCA,mouse,k,no_data,0,0,,0,0,
+5:3 FTCA,other,half-life,no_data,0,0,,0,0,
+5:3 FTCA,other,clearance,no_data,0,0,,0,0,
+5:3 FTCA,other,Vd,no_data,0,0,,0,0,
+5:3 FTCA,other,k,no_data,0,0,,0,0,
+6:2 Cl-PFESA,human,half-life,single_study_only,1,2,U,2,0,Shi 2016 Cl-PFESA (F-53B) 2016
+6:2 Cl-PFESA,human,clearance,no_data,0,0,,0,0,
+6:2 Cl-PFESA,human,Vd,no_data,0,0,,0,0,
+6:2 Cl-PFESA,human,k,no_data,0,0,,0,0,
+6:2 Cl-PFESA,monkey,half-life,no_data,0,0,,0,0,
+6:2 Cl-PFESA,monkey,clearance,no_data,0,0,,0,0,
+6:2 Cl-PFESA,monkey,Vd,no_data,0,0,,0,0,
+6:2 Cl-PFESA,monkey,k,no_data,0,0,,0,0,
+6:2 Cl-PFESA,rat,half-life,no_data,0,0,,0,0,
+6:2 Cl-PFESA,rat,clearance,no_data,0,0,,0,0,
+6:2 Cl-PFESA,rat,Vd,no_data,0,0,,0,0,
+6:2 Cl-PFESA,rat,k,no_data,0,0,,0,0,
+6:2 Cl-PFESA,mouse,half-life,no_data,0,0,,0,0,
+6:2 Cl-PFESA,mouse,clearance,no_data,0,0,,0,0,
+6:2 Cl-PFESA,mouse,Vd,no_data,0,0,,0,0,
+6:2 Cl-PFESA,mouse,k,no_data,0,0,,0,0,
+6:2 Cl-PFESA,other,half-life,no_data,0,0,,0,0,
+6:2 Cl-PFESA,other,clearance,no_data,0,0,,0,0,
+6:2 Cl-PFESA,other,Vd,no_data,0,0,,0,0,
+6:2 Cl-PFESA,other,k,no_data,0,0,,0,0,
+6:2 FTS,human,half-life,has_data,2,2,M,2,0,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024
+6:2 FTS,human,clearance,single_study_only,1,1,M,1,0,Abraham et al. 2024
+6:2 FTS,human,Vd,has_data,2,2,M,2,0,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024
+6:2 FTS,human,k,no_data,0,0,,0,0,
+6:2 FTS,monkey,half-life,no_data,0,0,,0,0,
+6:2 FTS,monkey,clearance,no_data,0,0,,0,0,
+6:2 FTS,monkey,Vd,no_data,0,0,,0,0,
+6:2 FTS,monkey,k,no_data,0,0,,0,0,
+6:2 FTS,rat,half-life,no_data,0,0,,0,0,
+6:2 FTS,rat,clearance,no_data,0,0,,0,0,
+6:2 FTS,rat,Vd,no_data,0,0,,0,0,
+6:2 FTS,rat,k,no_data,0,0,,0,0,
+6:2 FTS,mouse,half-life,no_data,0,0,,0,0,
+6:2 FTS,mouse,clearance,no_data,0,0,,0,0,
+6:2 FTS,mouse,Vd,no_data,0,0,,0,0,
+6:2 FTS,mouse,k,no_data,0,0,,0,0,
+6:2 FTS,other,half-life,no_data,0,0,,0,0,
+6:2 FTS,other,clearance,no_data,0,0,,0,0,
+6:2 FTS,other,Vd,no_data,0,0,,0,0,
+6:2 FTS,other,k,no_data,0,0,,0,0,
+8:2 FTOH,human,half-life,no_data,0,0,,0,0,
+8:2 FTOH,human,clearance,single_study_only,1,1,U,0,1,EPA httk R package v2.7.4 - chem.physical_and_invitro.data
+8:2 FTOH,human,Vd,no_data,0,0,,0,0,
+8:2 FTOH,human,k,no_data,0,0,,0,0,
+8:2 FTOH,monkey,half-life,no_data,0,0,,0,0,
+8:2 FTOH,monkey,clearance,no_data,0,0,,0,0,
+8:2 FTOH,monkey,Vd,no_data,0,0,,0,0,
+8:2 FTOH,monkey,k,no_data,0,0,,0,0,
+8:2 FTOH,rat,half-life,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table
+8:2 FTOH,rat,clearance,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table
+8:2 FTOH,rat,Vd,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table
+8:2 FTOH,rat,k,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table
+8:2 FTOH,mouse,half-life,no_data,0,0,,0,0,
+8:2 FTOH,mouse,clearance,no_data,0,0,,0,0,
+8:2 FTOH,mouse,Vd,no_data,0,0,,0,0,
+8:2 FTOH,mouse,k,no_data,0,0,,0,0,
+8:2 FTOH,other,half-life,no_data,0,0,,0,0,
+8:2 FTOH,other,clearance,no_data,0,0,,0,0,
+8:2 FTOH,other,Vd,no_data,0,0,,0,0,
+8:2 FTOH,other,k,no_data,0,0,,0,0,
+ADONA,human,half-life,has_data,2,2,M,2,0,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024
+ADONA,human,clearance,single_study_only,1,1,M,1,0,Abraham et al. 2024
+ADONA,human,Vd,has_data,2,2,M,2,0,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024
+ADONA,human,k,no_data,0,0,,0,0,
+ADONA,monkey,half-life,no_data,0,0,,0,0,
+ADONA,monkey,clearance,no_data,0,0,,0,0,
+ADONA,monkey,Vd,no_data,0,0,,0,0,
+ADONA,monkey,k,no_data,0,0,,0,0,
+ADONA,rat,half-life,no_data,0,0,,0,0,
+ADONA,rat,clearance,no_data,0,0,,0,0,
+ADONA,rat,Vd,no_data,0,0,,0,0,
+ADONA,rat,k,no_data,0,0,,0,0,
+ADONA,mouse,half-life,no_data,0,0,,0,0,
+ADONA,mouse,clearance,no_data,0,0,,0,0,
+ADONA,mouse,Vd,no_data,0,0,,0,0,
+ADONA,mouse,k,no_data,0,0,,0,0,
+ADONA,other,half-life,no_data,0,0,,0,0,
+ADONA,other,clearance,no_data,0,0,,0,0,
+ADONA,other,Vd,no_data,0,0,,0,0,
+ADONA,other,k,no_data,0,0,,0,0,
+HFPO-DA,human,half-life,has_data,3,3,MU,3,0,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; Chemours occupational GenX data (via Fustinoni 2023 Table 5) 2021
+HFPO-DA,human,clearance,has_data,2,2,MU,1,1,Abraham et al. 2024; EPA httk R package v2.7.4 - chem.physical_and_invitro.data
+HFPO-DA,human,Vd,has_data,2,2,M,2,0,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024
+HFPO-DA,human,k,no_data,0,0,,0,0,
+HFPO-DA,monkey,half-life,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+HFPO-DA,monkey,clearance,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+HFPO-DA,monkey,Vd,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+HFPO-DA,monkey,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+HFPO-DA,rat,half-life,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+HFPO-DA,rat,clearance,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table
+HFPO-DA,rat,Vd,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+HFPO-DA,rat,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+HFPO-DA,mouse,half-life,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+HFPO-DA,mouse,clearance,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+HFPO-DA,mouse,Vd,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+HFPO-DA,mouse,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+HFPO-DA,other,half-life,no_data,0,0,,0,0,
+HFPO-DA,other,clearance,no_data,0,0,,0,0,
+HFPO-DA,other,Vd,no_data,0,0,,0,0,
+HFPO-DA,other,k,no_data,0,0,,0,0,
+PFBA,human,half-life,has_data,5,7,FMU,3,4,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; Chang 2008 PFBA workers (via Fustinoni 2023 Table 5) 2008; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3)
+PFBA,human,clearance,has_data,5,9,FMU,1,8,Abraham et al. 2024; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 4)
+PFBA,human,Vd,has_data,5,8,FM,2,6,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 4)
+PFBA,human,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFBA,monkey,half-life,has_data,2,4,FM,0,4,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table
+PFBA,monkey,clearance,has_data,3,6,FM,2,4,Chang et al. 2008; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table
+PFBA,monkey,Vd,has_data,2,4,FM,0,4,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table
+PFBA,monkey,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFBA,rat,half-life,has_data,5,12,FM,6,6,Chang et al. 2008 2008; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFBA,rat,clearance,has_data,7,12,FMU,5,7,Chang et al. 2008; Chang et al. 2008 2008; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3)
+PFBA,rat,Vd,has_data,4,8,FM,2,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFBA,rat,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFBA,mouse,half-life,has_data,5,14,FM,8,6,Chang et al. 2008 2008; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFBA,mouse,clearance,has_data,4,8,FM,2,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFBA,mouse,Vd,has_data,4,8,FM,2,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFBA,mouse,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFBA,other,half-life,no_data,0,0,,0,0,
+PFBA,other,clearance,no_data,0,0,,0,0,
+PFBA,other,Vd,no_data,0,0,,0,0,
+PFBA,other,k,no_data,0,0,,0,0,
+PFBS,human,half-life,has_data,6,8,FMU,4,4,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; EPA httk R package v2.7.4 - pfas.clearance table; Olsen 2009 PFBS workers 2009; Xu 2020 Arvidsjaur airport 2020; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3)
+PFBS,human,clearance,has_data,5,9,FMU,1,8,Abraham et al. 2024; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 4)
+PFBS,human,Vd,has_data,5,8,FM,2,6,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 4)
+PFBS,human,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFBS,monkey,half-life,has_data,2,4,FM,0,4,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table
+PFBS,monkey,clearance,has_data,4,8,FM,4,4,Chengelis et al. 2009; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Olsen et al. 2009
+PFBS,monkey,Vd,has_data,2,4,FM,0,4,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table
+PFBS,monkey,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFBS,rat,half-life,has_data,9,28,FMU,20,8,Chengelis et al. 2009 2009; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table; Huang et al. (NTP) 2019; Huang et al. 2019 (NTP) 2019
+PFBS,rat,clearance,has_data,9,18,FMU,10,8,Chengelis et al. 2009; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table; Huang et al. (NTP) 2019
+PFBS,rat,Vd,has_data,6,11,FMU,4,7,EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table; Huang et al. (NTP) 2019; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFBS,rat,k,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFBS,mouse,half-life,has_data,6,17,FMU,11,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Lau et al. 2020; Lau et al. 2020 2020; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFBS,mouse,clearance,has_data,4,8,FM,2,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFBS,mouse,Vd,has_data,6,16,FM,10,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Lau et al. 2020; Lau et al. 2020 2020; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFBS,mouse,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFBS,other,half-life,no_data,0,0,,0,0,
+PFBS,other,clearance,no_data,0,0,,0,0,
+PFBS,other,Vd,no_data,0,0,,0,0,
+PFBS,other,k,no_data,0,0,,0,0,
+PFDA,human,half-life,has_data,3,4,FM,2,2,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; EPA httk R package v2.7.4 - pfas.clearance table
+PFDA,human,clearance,has_data,3,4,FMU,1,3,Abraham et al. 2024; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFDA,human,Vd,has_data,3,4,FM,2,2,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; EPA httk R package v2.7.4 - pfas.clearance table
+PFDA,human,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFDA,monkey,half-life,no_data,0,0,,0,0,
+PFDA,monkey,clearance,no_data,0,0,,0,0,
+PFDA,monkey,Vd,no_data,0,0,,0,0,
+PFDA,monkey,k,no_data,0,0,,0,0,
+PFDA,rat,half-life,has_data,8,15,FMU,8,7,EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table; Ohmori et al. 2003; Ohmori et al. 2003 2003; Vanden Heuvel et al. 1991 (PFDA) 1991
+PFDA,rat,clearance,has_data,7,12,FMU,5,7,EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table; Ohmori et al. 2003; Ohmori et al. 2003 2003; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3)
+PFDA,rat,Vd,has_data,5,9,FMU,2,7,EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFDA,rat,k,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFDA,mouse,half-life,no_data,0,0,,0,0,
+PFDA,mouse,clearance,no_data,0,0,,0,0,
+PFDA,mouse,Vd,no_data,0,0,,0,0,
+PFDA,mouse,k,no_data,0,0,,0,0,
+PFDA,other,half-life,no_data,0,0,,0,0,
+PFDA,other,clearance,no_data,0,0,,0,0,
+PFDA,other,Vd,no_data,0,0,,0,0,
+PFDA,other,k,no_data,0,0,,0,0,
+PFDoDA,human,half-life,has_data,2,2,M,2,0,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024
+PFDoDA,human,clearance,single_study_only,1,1,M,1,0,Abraham et al. 2024
+PFDoDA,human,Vd,has_data,2,2,M,2,0,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024
+PFDoDA,human,k,no_data,0,0,,0,0,
+PFDoDA,monkey,half-life,no_data,0,0,,0,0,
+PFDoDA,monkey,clearance,no_data,0,0,,0,0,
+PFDoDA,monkey,Vd,no_data,0,0,,0,0,
+PFDoDA,monkey,k,no_data,0,0,,0,0,
+PFDoDA,rat,half-life,no_data,0,0,,0,0,
+PFDoDA,rat,clearance,no_data,0,0,,0,0,
+PFDoDA,rat,Vd,no_data,0,0,,0,0,
+PFDoDA,rat,k,no_data,0,0,,0,0,
+PFDoDA,mouse,half-life,no_data,0,0,,0,0,
+PFDoDA,mouse,clearance,no_data,0,0,,0,0,
+PFDoDA,mouse,Vd,no_data,0,0,,0,0,
+PFDoDA,mouse,k,no_data,0,0,,0,0,
+PFDoDA,other,half-life,no_data,0,0,,0,0,
+PFDoDA,other,clearance,no_data,0,0,,0,0,
+PFDoDA,other,Vd,no_data,0,0,,0,0,
+PFDoDA,other,k,no_data,0,0,,0,0,
+PFECHS,human,half-life,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFECHS,human,clearance,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFECHS,human,Vd,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFECHS,human,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFECHS,monkey,half-life,no_data,0,0,,0,0,
+PFECHS,monkey,clearance,no_data,0,0,,0,0,
+PFECHS,monkey,Vd,no_data,0,0,,0,0,
+PFECHS,monkey,k,no_data,0,0,,0,0,
+PFECHS,rat,half-life,no_data,0,0,,0,0,
+PFECHS,rat,clearance,single_study_only,1,1,U,0,1,EPA httk R package v2.7.4 - chem.physical_and_invitro.data
+PFECHS,rat,Vd,no_data,0,0,,0,0,
+PFECHS,rat,k,no_data,0,0,,0,0,
+PFECHS,mouse,half-life,no_data,0,0,,0,0,
+PFECHS,mouse,clearance,no_data,0,0,,0,0,
+PFECHS,mouse,Vd,no_data,0,0,,0,0,
+PFECHS,mouse,k,no_data,0,0,,0,0,
+PFECHS,other,half-life,no_data,0,0,,0,0,
+PFECHS,other,clearance,no_data,0,0,,0,0,
+PFECHS,other,Vd,no_data,0,0,,0,0,
+PFECHS,other,k,no_data,0,0,,0,0,
+PFHpA,human,half-life,has_data,6,8,FMU,6,2,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; EPA httk R package v2.7.4 - pfas.clearance table; Russell 2013 ski wax technicians 2013; Xu 2020 Arvidsjaur airport 2020; Zhang 2013 (primary-source correction) 2013
+PFHpA,human,clearance,has_data,3,4,FMU,1,3,Abraham et al. 2024; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFHpA,human,Vd,has_data,4,6,FMU,2,4,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; EPA httk R package v2.7.4 - pfas.clearance table; Zhang 2013 (primary-source correction) 2013
+PFHpA,human,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFHpA,monkey,half-life,no_data,0,0,,0,0,
+PFHpA,monkey,clearance,no_data,0,0,,0,0,
+PFHpA,monkey,Vd,no_data,0,0,,0,0,
+PFHpA,monkey,k,no_data,0,0,,0,0,
+PFHpA,rat,half-life,has_data,3,6,FM,4,2,EPA httk R package v2.7.4 - pfas.clearance table; Ohmori et al. 2003; Ohmori et al. 2003 2003
+PFHpA,rat,clearance,has_data,4,7,FMU,4,3,EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table; Ohmori et al. 2003; Ohmori et al. 2003 2003
+PFHpA,rat,Vd,has_data,2,3,FM,1,2,EPA httk R package v2.7.4 - pfas.clearance table; Ohmori et al. 2003
+PFHpA,rat,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFHpA,mouse,half-life,no_data,0,0,,0,0,
+PFHpA,mouse,clearance,no_data,0,0,,0,0,
+PFHpA,mouse,Vd,no_data,0,0,,0,0,
+PFHpA,mouse,k,no_data,0,0,,0,0,
+PFHpA,other,half-life,no_data,0,0,,0,0,
+PFHpA,other,clearance,no_data,0,0,,0,0,
+PFHpA,other,Vd,no_data,0,0,,0,0,
+PFHpA,other,k,no_data,0,0,,0,0,
+PFHpS,human,half-life,has_data,2,3,U,3,0,Nilsson 2022a Australian firefighters (background audit) 2022; Xu 2020 Arvidsjaur airport 2020
+PFHpS,human,clearance,no_data,0,0,,0,0,
+PFHpS,human,Vd,no_data,0,0,,0,0,
+PFHpS,human,k,no_data,0,0,,0,0,
+PFHpS,monkey,half-life,no_data,0,0,,0,0,
+PFHpS,monkey,clearance,no_data,0,0,,0,0,
+PFHpS,monkey,Vd,no_data,0,0,,0,0,
+PFHpS,monkey,k,no_data,0,0,,0,0,
+PFHpS,rat,half-life,no_data,0,0,,0,0,
+PFHpS,rat,clearance,no_data,0,0,,0,0,
+PFHpS,rat,Vd,no_data,0,0,,0,0,
+PFHpS,rat,k,no_data,0,0,,0,0,
+PFHpS,mouse,half-life,no_data,0,0,,0,0,
+PFHpS,mouse,clearance,no_data,0,0,,0,0,
+PFHpS,mouse,Vd,no_data,0,0,,0,0,
+PFHpS,mouse,k,no_data,0,0,,0,0,
+PFHpS,other,half-life,no_data,0,0,,0,0,
+PFHpS,other,clearance,no_data,0,0,,0,0,
+PFHpS,other,Vd,no_data,0,0,,0,0,
+PFHpS,other,k,no_data,0,0,,0,0,
+PFHxA,human,half-life,has_data,6,8,FMU,4,4,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; EPA httk R package v2.7.4 - pfas.clearance table; Russell 2013 ski wax technicians 2013; Xu 2020 Arvidsjaur airport 2020; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3)
+PFHxA,human,clearance,has_data,5,9,FMU,1,8,Abraham et al. 2024; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 4)
+PFHxA,human,Vd,has_data,5,8,FM,2,6,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 4)
+PFHxA,human,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFHxA,monkey,half-life,has_data,2,4,FM,0,4,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table
+PFHxA,monkey,clearance,has_data,3,6,FM,2,4,Chengelis et al. 2009; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table
+PFHxA,monkey,Vd,has_data,3,6,FM,2,4,Chengelis et al. 2009; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table
+PFHxA,monkey,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFHxA,rat,half-life,has_data,10,32,FMU,24,8,Chengelis et al. 2009 2009; Dzierlenga et al. (NTP) 2020; Dzierlenga et al. 2020 (NTP) 2020; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFHxA,rat,clearance,has_data,8,14,FMU,6,8,Chengelis et al. 2009; Chengelis et al. 2009 2009; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFHxA,rat,Vd,has_data,8,14,FMU,7,7,Chengelis et al. 2009; Dzierlenga et al. (NTP) 2020; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table; US EPA (PFHxA IRIS) 2023
+PFHxA,rat,k,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFHxA,mouse,half-life,has_data,4,7,FM,3,4,Daikin Industries 2010; EPA CPHEA population fit; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFHxA,mouse,clearance,has_data,3,6,FM,2,4,EPA CPHEA population fit; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFHxA,mouse,Vd,has_data,4,8,FM,4,4,EPA CPHEA population fit; US EPA (PFHxA IRIS) 2023; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFHxA,mouse,k,no_data,0,0,,0,0,
+PFHxA,other,half-life,no_data,0,0,,0,0,
+PFHxA,other,clearance,no_data,0,0,,0,0,
+PFHxA,other,Vd,no_data,0,0,,0,0,
+PFHxA,other,k,no_data,0,0,,0,0,
+PFHxS,human,half-life,has_data,15,24,FMU,18,6,ATSDR 2021; Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; Batzella 2024 Veneto 2024; Chiu et al. 2022; Delaere 2025 SAMFS voluntary treatment programme 2025
+PFHxS,human,clearance,has_data,8,12,FMU,2,10,ATSDR 2021; Abraham et al. 2024; Chiu et al. 2022; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFHxS,human,Vd,has_data,12,18,FMU,5,13,ATSDR 2021; Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; Chiu et al. 2022; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table
+PFHxS,human,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFHxS,monkey,half-life,has_data,3,6,FM,2,4,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Sundstrom et al. 2012
+PFHxS,monkey,clearance,has_data,3,6,FM,2,4,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Sundstrom et al. 2012
+PFHxS,monkey,Vd,has_data,3,6,FM,2,4,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Sundstrom et al. 2012
+PFHxS,monkey,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFHxS,rat,half-life,has_data,16,43,FM,37,6,"Benskin 2009 2009; Benskin et al. 2009 2009; EPA Bayesian population mean (Huang 2019, Kim 2016, Kim 2018) 2025; EPA Bayesian population mean (Huang 2019, Kim 2016, Kim 2018, Benskin 2009) 2025; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table"
+PFHxS,rat,clearance,has_data,14,31,FMU,24,7,"Benskin et al. 2009 2009; EPA Bayesian population mean (Huang 2019, Kim 2016, Kim 2018) 2025; EPA Bayesian population mean (Huang 2019, Kim 2016, Kim 2018, Benskin 2009) 2025; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table"
+PFHxS,rat,Vd,has_data,6,12,FM,6,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Huang et al. (NTP) 2019; Kim et al. 2018; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFHxS,rat,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFHxS,mouse,half-life,has_data,6,18,FM,12,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Sundstrom et al. 2012; Sundstrom et al. 2012 2012; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFHxS,mouse,clearance,has_data,6,16,FM,10,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Sundstrom et al. 2012; Sundstrom et al. 2012 2012; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFHxS,mouse,Vd,has_data,4,8,FM,2,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFHxS,mouse,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFHxS,other,half-life,no_data,0,0,,0,0,
+PFHxS,other,clearance,no_data,0,0,,0,0,
+PFHxS,other,Vd,no_data,0,0,,0,0,
+PFHxS,other,k,no_data,0,0,,0,0,
+PFNA,human,half-life,has_data,7,8,FMU,4,4,ATSDR 2021; Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; Chiu et al. 2022; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table
+PFNA,human,clearance,has_data,7,10,FMU,2,8,ATSDR 2021; Abraham et al. 2024; Chiu et al. 2022; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFNA,human,Vd,has_data,7,10,FMU,3,7,ATSDR 2021; Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; Chiu et al. 2022; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table
+PFNA,human,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFNA,monkey,half-life,no_data,0,0,,0,0,
+PFNA,monkey,clearance,no_data,0,0,,0,0,
+PFNA,monkey,Vd,no_data,0,0,,0,0,
+PFNA,monkey,k,no_data,0,0,,0,0,
+PFNA,rat,half-life,has_data,10,17,FMU,10,7,Benskin et al. 2009 2009; De Silva et al. 2009 2009; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table; Ohmori et al. 2003
+PFNA,rat,clearance,has_data,7,13,FMU,6,7,EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table; Ohmori et al. 2003; Ohmori et al. 2003 2003; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3)
+PFNA,rat,Vd,has_data,5,9,FMU,2,7,EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFNA,rat,k,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFNA,mouse,half-life,has_data,5,10,FM,4,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Tatum-Gibbs et al. 2011 2011; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFNA,mouse,clearance,has_data,4,8,FM,2,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFNA,mouse,Vd,has_data,4,8,FM,2,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFNA,mouse,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFNA,other,half-life,no_data,0,0,,0,0,
+PFNA,other,clearance,no_data,0,0,,0,0,
+PFNA,other,Vd,no_data,0,0,,0,0,
+PFNA,other,k,no_data,0,0,,0,0,
+PFOA,human,half-life,has_data,28,53,FMU,42,11,ATSDR 2021; Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; Batzella 2024 Veneto 2024; Chiu et al. 2022; Costa 2009 Italian fluorochemical workers 2009
+PFOA,human,clearance,has_data,12,16,FMU,3,13,ATSDR 2021; Abraham et al. 2024; Chiu et al. 2022; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFOA,human,Vd,has_data,25,30,FMU,12,18,"ATSDR 2021; Abraham 2024 (measured Vd, known dose) 2024; Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; Andersson 2025 Ronneby (measured Vd) 2025; Andersson et al. 2025"
+PFOA,human,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFOA,monkey,half-life,has_data,3,6,FMU,1,5,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Vestergren and Cousins 2009
+PFOA,monkey,clearance,has_data,3,6,FM,2,4,Butenhoff et al. 2004; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table
+PFOA,monkey,Vd,has_data,7,13,FMU,8,5,Andersen et al. (OEHHA recalculation) 2006; Butenhoff et al. 2004; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Vestergren and Cousins 2009; Wambaugh et al. 2013
+PFOA,monkey,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFOA,rat,half-life,has_data,19,44,FMU,36,8,Benskin et al. 2009 2009; De Silva et al. 2009 2009; Dzierlenga et al. (NTP) 2020; Dzierlenga et al. 2020 (NTP) 2020; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data
+PFOA,rat,clearance,has_data,15,39,FMU,31,8,Dzierlenga et al. (NTP) 2020; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table; Kemper 2003
+PFOA,rat,Vd,has_data,14,29,FMU,20,9,Dzierlenga et al. (NTP) 2020; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table; Iwabuchi et al. 2017; Kemper et al. 2003
+PFOA,rat,k,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFOA,mouse,half-life,has_data,6,10,FMU,4,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Lou et al. 2009 2009; Zhu et al. 2023 2023; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFOA,mouse,clearance,has_data,5,10,FM,4,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Fujii et al. 2015; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFOA,mouse,Vd,has_data,6,12,FM,6,6,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Fujii et al. 2015; Wambaugh et al. 2013; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFOA,mouse,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFOA,other,half-life,no_data,0,0,,0,0,
+PFOA,other,clearance,no_data,0,0,,0,0,
+PFOA,other,Vd,no_data,0,0,,0,0,
+PFOA,other,k,no_data,0,0,,0,0,
+PFOS,human,half-life,has_data,22,41,FMU,30,11,ATSDR 2021; Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; Batzella 2024 Veneto 2024; Chiu et al. 2022; Delaere 2025 SAMFS voluntary treatment programme 2025
+PFOS,human,clearance,has_data,10,14,FMU,3,11,ATSDR 2021; Abraham et al. 2024; Chiu et al. 2022; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFOS,human,Vd,has_data,23,29,FMU,10,19,"ATSDR 2021; Abraham 2024 (measured Vd, known dose) 2024; Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024; Andersson 2025 Ronneby (measured Vd) 2025; Andersson et al. 2025"
+PFOS,human,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFOS,monkey,half-life,has_data,3,5,FMU,1,4,EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Harada et al. 2003
+PFOS,monkey,clearance,has_data,3,6,FM,2,4,Chang et al. 2012; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table
+PFOS,monkey,Vd,has_data,5,8,FMU,4,4,Andersen et al. (OEHHA recalculation) 2006; Chang et al. 2012; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Harada et al. 2003
+PFOS,monkey,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFOS,rat,half-life,has_data,14,38,FMU,31,7,Benskin et al. 2009 2009; Chang et al. 2012; Chang et al. 2012 2012; De Silva et al. 2009 2009; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data
+PFOS,rat,clearance,has_data,11,32,FMU,25,7,Chang et al. 2012; Chang et al. 2012 2012; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table; Huang et al. (NTP) 2019
+PFOS,rat,Vd,has_data,11,23,FMU,15,8,Chang et al. 2012; EPA CPHEA population fit; EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table; Huang et al. (NTP) 2019; Huang et al. 2019
+PFOS,rat,k,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.invivo.PK.aggregate.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFOS,mouse,half-life,has_data,5,12,FM,6,6,Chang et al. 2012 2012; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFOS,mouse,clearance,has_data,5,12,FM,6,6,Chang et al. 2012; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFOS,mouse,Vd,has_data,5,10,FM,4,6,Chang et al. 2012; EPA CPHEA population fit; EPA httk R package v2.7.4 - pfas.clearance table; Zurlinden 2025 EPA CPHEA Bayesian hierarchical animal PFAS PK (Table 3); Zurlinden et al. 2025 (EPA Bayesian hierarchical re-analysis) 2025
+PFOS,mouse,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFOS,other,half-life,no_data,0,0,,0,0,
+PFOS,other,clearance,no_data,0,0,,0,0,
+PFOS,other,Vd,no_data,0,0,,0,0,
+PFOS,other,k,no_data,0,0,,0,0,
+PFPeA,human,half-life,has_data,2,2,M,2,0,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024
+PFPeA,human,clearance,single_study_only,1,1,M,1,0,Abraham et al. 2024
+PFPeA,human,Vd,has_data,2,2,M,2,0,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024
+PFPeA,human,k,no_data,0,0,,0,0,
+PFPeA,monkey,half-life,no_data,0,0,,0,0,
+PFPeA,monkey,clearance,no_data,0,0,,0,0,
+PFPeA,monkey,Vd,no_data,0,0,,0,0,
+PFPeA,monkey,k,no_data,0,0,,0,0,
+PFPeA,rat,half-life,no_data,0,0,,0,0,
+PFPeA,rat,clearance,single_study_only,1,1,F,1,0,Choi et al. 2020 2020
+PFPeA,rat,Vd,no_data,0,0,,0,0,
+PFPeA,rat,k,no_data,0,0,,0,0,
+PFPeA,mouse,half-life,no_data,0,0,,0,0,
+PFPeA,mouse,clearance,no_data,0,0,,0,0,
+PFPeA,mouse,Vd,no_data,0,0,,0,0,
+PFPeA,mouse,k,no_data,0,0,,0,0,
+PFPeA,other,half-life,no_data,0,0,,0,0,
+PFPeA,other,clearance,no_data,0,0,,0,0,
+PFPeA,other,Vd,no_data,0,0,,0,0,
+PFPeA,other,k,no_data,0,0,,0,0,
+PFPeS,human,half-life,has_data,2,4,FMU,2,2,EPA httk R package v2.7.4 - pfas.clearance table; Xu 2020 Arvidsjaur airport 2020
+PFPeS,human,clearance,has_data,2,3,FMU,0,3,EPA httk R package v2.7.4 - chem.physical_and_invitro.data; EPA httk R package v2.7.4 - pfas.clearance table
+PFPeS,human,Vd,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFPeS,human,k,single_study_only,1,2,FM,0,2,EPA httk R package v2.7.4 - pfas.clearance table
+PFPeS,monkey,half-life,no_data,0,0,,0,0,
+PFPeS,monkey,clearance,no_data,0,0,,0,0,
+PFPeS,monkey,Vd,no_data,0,0,,0,0,
+PFPeS,monkey,k,no_data,0,0,,0,0,
+PFPeS,rat,half-life,no_data,0,0,,0,0,
+PFPeS,rat,clearance,single_study_only,1,1,U,0,1,EPA httk R package v2.7.4 - chem.physical_and_invitro.data
+PFPeS,rat,Vd,no_data,0,0,,0,0,
+PFPeS,rat,k,no_data,0,0,,0,0,
+PFPeS,mouse,half-life,no_data,0,0,,0,0,
+PFPeS,mouse,clearance,no_data,0,0,,0,0,
+PFPeS,mouse,Vd,no_data,0,0,,0,0,
+PFPeS,mouse,k,no_data,0,0,,0,0,
+PFPeS,other,half-life,no_data,0,0,,0,0,
+PFPeS,other,clearance,no_data,0,0,,0,0,
+PFPeS,other,Vd,no_data,0,0,,0,0,
+PFPeS,other,k,no_data,0,0,,0,0,
+PFUnDA,human,half-life,has_data,2,2,M,2,0,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024
+PFUnDA,human,clearance,single_study_only,1,1,M,1,0,Abraham et al. 2024
+PFUnDA,human,Vd,has_data,2,2,M,2,0,Abraham 2024 controlled oral dose (n=1) 2024; Abraham et al. 2024
+PFUnDA,human,k,no_data,0,0,,0,0,
+PFUnDA,monkey,half-life,no_data,0,0,,0,0,
+PFUnDA,monkey,clearance,no_data,0,0,,0,0,
+PFUnDA,monkey,Vd,no_data,0,0,,0,0,
+PFUnDA,monkey,k,no_data,0,0,,0,0,
+PFUnDA,rat,half-life,no_data,0,0,,0,0,
+PFUnDA,rat,clearance,no_data,0,0,,0,0,
+PFUnDA,rat,Vd,no_data,0,0,,0,0,
+PFUnDA,rat,k,no_data,0,0,,0,0,
+PFUnDA,mouse,half-life,no_data,0,0,,0,0,
+PFUnDA,mouse,clearance,no_data,0,0,,0,0,
+PFUnDA,mouse,Vd,no_data,0,0,,0,0,
+PFUnDA,mouse,k,no_data,0,0,,0,0,
+PFUnDA,other,half-life,no_data,0,0,,0,0,
+PFUnDA,other,clearance,no_data,0,0,,0,0,
+PFUnDA,other,Vd,no_data,0,0,,0,0,
+PFUnDA,other,k,no_data,0,0,,0,0,
+cC6O4,human,half-life,single_study_only,1,1,M,1,0,Fustinoni 2023 cC6O4 workers 2023
+cC6O4,human,clearance,no_data,0,0,,0,0,
+cC6O4,human,Vd,has_data,2,2,M,2,0,"Fustinoni 2023 (measured Vd, cC6O4) 2023; Fustinoni 2023 cC6O4 workers 2023"
+cC6O4,human,k,no_data,0,0,,0,0,
+cC6O4,monkey,half-life,no_data,0,0,,0,0,
+cC6O4,monkey,clearance,no_data,0,0,,0,0,
+cC6O4,monkey,Vd,no_data,0,0,,0,0,
+cC6O4,monkey,k,no_data,0,0,,0,0,
+cC6O4,rat,half-life,no_data,0,0,,0,0,
+cC6O4,rat,clearance,no_data,0,0,,0,0,
+cC6O4,rat,Vd,no_data,0,0,,0,0,
+cC6O4,rat,k,no_data,0,0,,0,0,
+cC6O4,mouse,half-life,no_data,0,0,,0,0,
+cC6O4,mouse,clearance,no_data,0,0,,0,0,
+cC6O4,mouse,Vd,no_data,0,0,,0,0,
+cC6O4,mouse,k,no_data,0,0,,0,0,
+cC6O4,other,half-life,no_data,0,0,,0,0,
+cC6O4,other,clearance,no_data,0,0,,0,0,
+cC6O4,other,Vd,no_data,0,0,,0,0,
+cC6O4,other,k,no_data,0,0,,0,0,

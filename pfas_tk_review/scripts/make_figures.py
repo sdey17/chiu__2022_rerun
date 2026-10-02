@@ -424,3 +424,84 @@ if (DB / "gasiorowski_vd.csv").exists():
     fig.savefig(FIG / "fig6_human_vd_by_method.png", dpi=200)
     plt.close(fig)
     print(f"wrote {FIG/'fig6_human_vd_by_method.png'}")
+
+
+# ---- Figure 7: the coverage matrix -----------------------------------------
+# Needs coverage_matrix.csv from scripts/build_coverage_matrix.py.
+if (DB / "coverage_matrix.csv").exists():
+    cm = load("coverage_matrix.csv")
+    SPECIES = ["human", "monkey", "rat", "mouse"]
+    PARAMS = ["half-life", "clearance", "Vd", "k"]
+    cells = {(r["chemical"], r["species"], r["parameter"]): int(r["n_studies"])
+             for r in cm}
+    # Order chemicals by total coverage so the sparse tail reads as a block.
+    totals = {}
+    for r in cm:
+        if r["species"] in SPECIES:
+            totals[r["chemical"]] = totals.get(r["chemical"], 0) + int(r["n_studies"])
+    chems = sorted(totals, key=lambda c: -totals[c])
+
+    # Sequential blue ramp, light -> dark, for a magnitude encoding.
+    RAMP = ["#cde2fb", "#9ec5f4", "#6da7ec", "#3987e5", "#2a78d6",
+            "#256abf", "#184f95", "#0d366b"]
+    EMPTY = "#f2f1ed"          # no data: off-ramp, deliberately not a light blue
+    BOUNDS = [1, 2, 3, 5, 8, 12, 20, 10 ** 6]
+
+    def shade(n):
+        if n == 0:
+            return EMPTY
+        for b, col in zip(BOUNDS, RAMP):
+            if n <= b:
+                return col
+        return RAMP[-1]
+
+    fig, axes = plt.subplots(1, 4, figsize=(13.2, 7.4), sharey=True)
+    for ax, param in zip(axes, PARAMS):
+        for yi, chem in enumerate(chems):
+            for xi, sp in enumerate(SPECIES):
+                n = cells.get((chem, sp, param), 0)
+                ax.add_patch(plt.Rectangle((xi, yi), 0.92, 0.92,
+                                           facecolor=shade(n),
+                                           edgecolor=SURFACE, linewidth=1.5))
+                if n:
+                    # Dark fills need light text; the ramp crosses over at ~5.
+                    ax.annotate(str(n), (xi + 0.46, yi + 0.46), ha="center",
+                                va="center", fontsize=8.5,
+                                color="#ffffff" if n > 4 else INK)
+        ax.set_xlim(-0.1, len(SPECIES))
+        ax.set_ylim(-0.1, len(chems))
+        ax.set_xticks([i + 0.46 for i in range(len(SPECIES))])
+        ax.set_xticklabels(SPECIES, fontsize=9)
+        ax.set_yticks([i + 0.46 for i in range(len(chems))])
+        ax.set_yticklabels(chems, fontsize=9)
+        ax.set_title(param, loc="left", color=INK, fontsize=11,
+                     fontweight="bold", pad=8)
+        ax.invert_yaxis()
+        ax.grid(False)
+        for s in ax.spines.values():
+            s.set_visible(False)
+        ax.tick_params(length=0)
+
+    n_none = sum(1 for r in cm if r["species"] in SPECIES
+                 and r["status"] == "no_data")
+    n_one = sum(1 for r in cm if r["species"] in SPECIES
+                and r["status"] == "single_study_only")
+    n_tot = len(chems) * len(SPECIES) * len(PARAMS)
+    fig.suptitle("Half of the PFAS toxicokinetic grid is empty",
+                 x=0.008, ha="left", fontweight="bold", color=INK, fontsize=13)
+    fig.text(0.008, 0.945,
+             f"Distinct studies per chemical × species × parameter. "
+             f"Of {n_tot} cells, {n_none} ({n_none/n_tot*100:.0f}%) have no data "
+             f"and {n_one} ({n_one/n_tot*100:.0f}%) rest on a single study.",
+             fontsize=9.5, color=INK2, ha="left")
+    handles = [plt.Rectangle((0, 0), 1, 1, facecolor=EMPTY, edgecolor=SURFACE)] + \
+              [plt.Rectangle((0, 0), 1, 1, facecolor=c, edgecolor=SURFACE)
+               for c in RAMP[:6]]
+    labels = ["none", "1", "2", "3", "4–5", "6–8", "9–12"]
+    fig.legend(handles, labels, loc="lower center", ncol=7, fontsize=9,
+               frameon=False, bbox_to_anchor=(0.5, 0.005),
+               title="distinct studies", title_fontsize=9)
+    fig.tight_layout(rect=(0, 0.055, 1, 0.925))
+    fig.savefig(FIG / "fig7_coverage_matrix.png", dpi=200)
+    plt.close(fig)
+    print(f"wrote {FIG/'fig7_coverage_matrix.png'}")
