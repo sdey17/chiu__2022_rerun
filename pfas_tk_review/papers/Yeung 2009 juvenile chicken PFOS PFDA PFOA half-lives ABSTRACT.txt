@@ -1,0 +1,38 @@
+1. Arch Environ Contam Toxicol. 2009 Aug;57(2):377-86. doi: 
+10.1007/s00244-008-9278-3. Epub 2009 Jan 8.
+
+Biochemical responses and accumulation properties of long-chain perfluorinated 
+compounds (PFOS/PFDA/PFOA) in juvenile chickens (Gallus gallus).
+
+Yeung LW(1), Loi EI, Wong VY, Guruge KS, Yamanaka N, Tanimura N, Hasegawa J, 
+Yamashita N, Miyazaki S, Lam PK.
+
+Author information:
+(1)Safety Research Team, National Institute of Animal Health, Kannondai 3-1-5, 
+Tsukuba, Ibaraki 305-0856, Japan.
+
+One-day-old male chickens were exposed via oral gavage to mixtures of 
+perfluorooctane sulfonate (PFOS), perfluorooctanoate (PFOA), and 
+perfluorodecanoate (PFDA) at either a low dose (0.1 mg/kg body weight [b.w.]) or 
+a high dose (1.0 mg/kg b.w.), or a saline/ethanol vehicle control, three times a 
+week for 3 weeks. After 3 weeks of exposure, half of the chicks were sacrificed 
+and the other half were allowed to depurate for a further 3 weeks. No 
+dose-dependent statistically significant differences in body/organ weights were 
+observed among treatment and control groups after 3 weeks of exposure or after 
+three 3 of depuration. Neither 15 histological nor 14 measured plasma 
+biochemical parameters were significantly different in chicks from the exposed 
+groups and vehicle controls. PFOS, PFDA, and PFOA concentrations in 
+blood/liver/kidney samples were measured throughout the exposure and depuration 
+periods at different time intervals. PFOS and PFDA accumulated at much higher 
+concentrations than PFOA during the experimental periods. Interestingly, PFOS 
+and PFDA accumulation patterns in the blood were similar during the exposure and 
+depuration periods. The half-lives for each PFC at the 0.1 and 1.0 mg/kg doses 
+were, respectively, approximately 15 and 17 days for PFOS, 11 and 16 days for 
+PFDA, and 3.9 and 3.9 days for PFOA. PFDA accumulation in organs was greater 
+than or similar to that of PFOS: the liver was the main target during exposure 
+and the blood was the main reservoir during depuration. These results indicate 
+that exposure to a 1.0-mg mixture of PFOS/PFDA/PFOA/kg b.w. has no adverse 
+effect on juvenile chickens.
+
+DOI: 10.1007/s00244-008-9278-3
+PMID: 19130113 [Indexed for MEDLINE]

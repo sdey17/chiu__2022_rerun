@@ -1,0 +1,330 @@
+1. Environ Sci Technol. 2022 May 17;56(10):6123-6132. doi:
+10.1021/acs.est.1c00616.  Epub 2021 May 4.
+
+Significant Reductive Transformation of 6:2 Chlorinated Polyfluorooctane Ether 
+Sulfonate to Form Hydrogen-Substituted Polyfluorooctane Ether Sulfonate and 
+Their Toxicokinetics in Male Sprague-Dawley Rats.
+
+Yi S(1)(2), Yang D(2), Zhu L(1), Mabury SA(2).
+
+Author information:
+(1)State Key Laboratory of Pollution Processes and Environmental Criteria, 
+College of Environmental Science and Engineering, Nankai University, Tianjin 
+300350, China.
+(2)Department of Chemistry, University of Toronto, Toronto M5S 3H6, Canada.
+
+6:2 chlorinated polyfluorooctane ether sulfonate (6:2 Cl-PFESA) was previously 
+shown to undergo limited dechlorination in rainbow trout to yield 6:2 
+hydrogen-substituted polyfluorooctane ether sulfonate (6:2 H-PFESA) as the sole 
+metabolite. However, the biotransformation susceptibility of 6:2 Cl-PFESA has 
+not been investigated in mammals and the biological behavior of 6:2 H-PFESA has 
+not been defined in any species. We investigated the respective transformation 
+products of 6:2 Cl-PFESA and 6:2 H-PFESA and their toxicokinetic properties in 
+male Sprague-Dawley rats as a mammalian model. 6:2 H-PFESA was the sole 
+detectable metabolite of 6:2 Cl-PFESA, with a transformation percentage of 13.6% 
+in rat liver, but it resisted further degradation. 6:2 Cl-PFESA also transformed 
+to 6:2 H-PFESA in reductive rat liver S9 incubations but remained stable under 
+oxidative conditions, suggesting a reductive enzyme-dependent transformation 
+pathway. 6:2 Cl-PFESA was more enriched in lipid-rich tissues, while 6:2 H-PFESA 
+was more prone to cumulative urinary excretion. From this perspective, it may 
+suggest a detoxification mechanism for organisms to form the less hydrophobic 
+6:2 H-PFESA to alleviate total burdens. To date, 6:2 Cl-PFESA was the second 
+perfluoroalkyl acid reported to undergo biotransformation in mammals. The 
+toxicokinetic properties determined for 6:2 Cl-PFESA and 6:2 H-PFESA in blood 
+and urine were found to be structure and dose dependent.
+
+DOI: 10.1021/acs.est.1c00616
+PMID: 33947185 [Indexed for MEDLINE]
+
+
+2. Sci Total Environ. 2022 Sep 15;839:156388. doi:
+10.1016/j.scitotenv.2022.156388.  Epub 2022 May 30.
+
+Concentration-dependent toxicokinetics of novel PFOS alternatives and their 
+chronic combined toxicity in adult zebrafish.
+
+Huang J(1), Liu Y(2), Wang Q(2), Yi J(3), Lai H(2), Sun L(4), Mennigen JA(5), Tu 
+W(6).
+
+Author information:
+(1)School of Land Resources and Environment, Jiangxi Agricultural University, 
+Nanchang 330045, China; Research Institute of Poyang Lake, Jiangxi Academy of 
+Sciences, Nanchang 330012, China; College of Environment, Zhejiang University of 
+Technology, Hangzhou 310032, China.
+(2)Research Institute of Poyang Lake, Jiangxi Academy of Sciences, Nanchang 
+330012, China.
+(3)Research Center for Differentiation and Development of Traditional Chinese 
+Medicine Basic Theory, Jiangxi University of Traditional Chinese Medicine, 
+Nanchang 330004, China.
+(4)College of Environment, Zhejiang University of Technology, Hangzhou 310032, 
+China. Electronic address: sunliwei@zjut.edu.cn.
+(5)Department of Biology, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada.
+(6)School of Land Resources and Environment, Jiangxi Agricultural University, 
+Nanchang 330045, China. Electronic address: tuwenqing@jxau.edu.cn.
+
+The increasing use of perfluorooctanesulfonate (PFOS) alternatives has led to 
+their release into the aquatic environment. This study sought to determine the 
+effects of exposure concentration on the toxicokinetics of PFOS and its 
+alternatives, including perfluorobutanesulfonic acid (PFBS), 
+perfluorohexanesulfonic acid (PFHxS), chlorinated polyfluorinated ether 
+sulfonate (F-53B) and sodium p-perfluorous nonenoxybenzenesulfonate (OBS) in 
+adult zebrafish by exposure to mixtures of the five per- and polyfluoroalkyl 
+substances (PFAS) at 1, 10, and 100 ng/mL for 28-day, followed by a 14-day 
+depuration. PFAS predominantly accumulated in the blood and liver, and the 
+bioconcentration factor (BCF) decreased in the order of F-53B > PFOS > OBS ≫ 
+PFHxS > PFBS in whole-fish homogenates. The uptake rate constants and BCF of the 
+short-chain PFAS (≤C6) positively correlated with increasing exposure 
+concentration, while the long-chain PFAS (≥C8) exhibited a pattern of first 
+increasing and then decreasing. A consistent increase in the elimination rate 
+constants of short- and long-chain PFAS was observed with increasing exposure 
+concentration. All PFAS form tight conformations with ZSA and ZL-FABP via 
+hydrogen bonding as revealed by molecular docking analysis. Furthermore, chronic 
+combined exposure to PFAS induced the occurrence of vacuolation and oxidative 
+stress in the zebrafish liver. Our findings uniquely inform the 
+concentration-dependent bioconcentration potential and health risks to aquatic 
+organisms of these PFOS alternatives in the environment.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2022.156388
+PMID: 35654180 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+3. Environ Sci Technol. 2022 May 17;56(10):6182-6191. doi:
+10.1021/acs.est.1c07643.  Epub 2022 Apr 19.
+
+Tissue-Specific Uptake, Depuration Kinetics, and Suspected Metabolites of Three 
+Emerging Per- and Polyfluoroalkyl Substances (PFASs) in Marine Medaka.
+
+Wang Q(1)(2)(3), Ruan Y(1)(2)(3), Jin L(1)(2), Lin H(1), Yan M(1)(3), Gu J(1), 
+Yuen CNT(1), Leung KMY(1), Lam PKS(1)(2)(3)(4).
+
+Author information:
+(1)State Key Laboratory of Marine Pollution (SKLMP) and Department of Chemistry, 
+City University of Hong Kong, Hong Kong 999077, Hong Kong SAR, China.
+(2)Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou), 
+Hong Kong 999077, Hong Kong SAR, China.
+(3)Research Centre for the Oceans and Human Health, City University of Hong Kong 
+Shenzhen Research Institute, Shenzhen 518057, China.
+(4)Office of the President, Hong Kong Metropolitan University, Hong Kong 999077, 
+Hong Kong SAR, China.
+
+Restrictions on legacy per- and polyfluoroalkyl substances (PFASs) have led to 
+the widespread use of emerging PFASs. However, their toxicokinetics have rarely 
+been reported. Here, tissue-specific uptake and depuration kinetics of 
+perfluoroethylcyclohexanesulfonate (PFECHS) and 6:2 and 8:2 chlorinated 
+polyfluoroalkyl ether sulfonates (Cl-PFESAs) were studied in marine medaka 
+(Oryzias melastigma). The fish were exposed to these substances for 28 days (0.2 
+μg/L), followed by a clearance period of 14 days. The depuration constant (kd) 
+of PFECHS [0.103 ± 0.009 day-1 (mean ± standard deviation)] was reported for the 
+first time. Among the six studied tissues, the highest concentrations of 6:2 
+Cl-PFESA, 8:2 Cl-PFESA, and PFECHS were found in the liver [1540, 1230, and 188 
+ng (g of wet weight)-1, respectively] on day 28 while the longest residence 
+times were found in the eyes (t1/2 values of 21.7 ± 4.3, 23.9 ± 1.5, and 17.3 ± 
+0.8 days, respectively). No significant positive correlation was found between 
+the bioconcentration factors of the studied PFASs and the phospholipid or 
+protein contents in different tissues of the studied fish. Potential metabolites 
+of Cl-PFESAs, i.e., their hydrogen-substituted analogues (H-PFESAs), were 
+identified by time-of-flight mass spectrometry. However, the biotransformation 
+rates were low (<0.19%), indicating the poor capacity of marine medaka to 
+metabolize Cl-PFESAs to H-PFESAs.
+
+DOI: 10.1021/acs.est.1c07643
+PMID: 35438980 [Indexed for MEDLINE]
+
+
+4. Aquat Toxicol. 2025 May;282:107312. doi: 10.1016/j.aquatox.2025.107312. Epub 
+2025 Mar 14.
+
+Toxicokinetic and liver proteomic study of the Chinese rare minnow (Gobiocypris 
+rarus) exposed to F-53B.
+
+Yang H(1), Xu C(2), Song J(2), Li J(2), Zhang C(3), Teng C(4), Ma K(5), Xie 
+F(6).
+
+Author information:
+(1)School of Public Health, the key Laboratory of Environmental Pollution 
+Monitoring and Disease Control, Ministry of Education, Guizhou Medical 
+University, Guiyang 561113, China; Guizhou Academy of Testing and Analysis, 
+Guiyang 550014, China. Electronic address: hbyang@gmc.edu.cn.
+(2)School of Public Health, the key Laboratory of Environmental Pollution 
+Monitoring and Disease Control, Ministry of Education, Guizhou Medical 
+University, Guiyang 561113, China; Guizhou Academy of Testing and Analysis, 
+Guiyang 550014, China.
+(3)School of Public Health, the key Laboratory of Environmental Pollution 
+Monitoring and Disease Control, Ministry of Education, Guizhou Medical 
+University, Guiyang 561113, China.
+(4)Guizhou Jiandee Technology Co., Ltd, Guiyang 550016, China.
+(5)Guizhou Academy of Testing and Analysis, Guiyang 550014, China.
+(6)Guizhou Academy of Testing and Analysis, Guiyang 550014, China; Department of 
+Food science and Engineering Moutai Institute, Renhuai 564507, China.
+
+Perfluorooctane sulfonic acid (PFOS) and its alternative 6:2 chlorinated 
+polyfluoroethersulfonate (6:2 Cl-PFESA, also known as F-53B), are frequently 
+detected in a variety of environmental and human samples. These substances have 
+been associated with hepatotoxic effects, including disorders in lipid 
+metabolism and oxidative stress. However, the molecular mechanisms underlying 
+the causal relationship between exposure to F-53B and hepatotoxicity remain 
+inadequately understood. This study investigated the toxicokinetics and 
+mechanisms of hepatotoxicity associated with prolonged exposure to F-53B in 
+adult Chinese rare minnows. Specifically, 5-month-old adult Chinese rare minnow 
+was exposed to concentrations of 10 μg/L and 200 μg/L of F-53B for a duration of 
+28 days for bioaccumulation assessment, followed by a 14-day period for 
+metabolic evaluation. The findings indicated that the bioaccumulation of F-53B 
+in the tissues was positively correlated with the exposure concentrations. The 
+logarithmic bioconcentration factor (Log BCF28d) was determined to be 2.67 ± 
+0.02 for the low concentration group and 2.27 ± 0.01 for the high concentration 
+group. The calculated half-lives (t1/2) were 18.50 ± 1.67 days and 21.38 ± 0.31 
+days for the respective concentration groups. F-53B protein exhibited a distinct 
+tissue-specific distribution in adult Chinese rare minnow, with the following 
+order of enrichment: Blood > Liver > Gonad > Gill > Intestine > Brain > Muscle. 
+F-53B was primarily concentrated in the blood and liver, where the protein 
+content was significantly higher. Exposure to F-53B for 28 days significantly 
+elevated biochemical levels associated with lipid metabolism and increased the 
+activities of the enzymes FAS, PPARα, and ACC in the liver. This exposure also 
+resulted in impairment of the hepatic oxidative system in the Chinese rare 
+minnow, with F-53B significantly reducing most of the measured markers related 
+to oxidative stress (e.g., GSH, SOD, CAT, and MDA). Proteomic analysis indicated 
+that the toxicity of F-53B regulates the expression of proteins across several 
+functional classes. Based on the functional information of the differential 
+proteins provided in UniProt and KEGG, they were categorized into five main 
+categories: Cellular Processes, Environmental Information Processing, Genetic 
+Information Processing, Metabolism, and Organismal Systems. This study indicate 
+that F-53B is bioaccumulative and persistent in Chinese rare minnow, and can 
+further induce oxidative stress and lipid metabolism disorders. Combined with 
+proteomic research methods, the toxicological effects of F-53B on Chinese rare 
+minnow can be better explained.
+
+Copyright © 2025 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.aquatox.2025.107312
+PMID: 40107147 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+5. Food Chem Toxicol. 2026 Apr;210:115978. doi: 10.1016/j.fct.2026.115978. Epub 
+2026 Jan 24.
+
+Sex-dependent acute oral toxicity and in vivo distribution of 6:2 chlorinated 
+polyfluorinated ether sulfonate (6:2 Cl-PFESA) in rats.
+
+Li S(1), Yu P(1), Li B(1), Li X(1), Wang H(2), Jin F(3).
+
+Author information:
+(1)State Key Laboratory for Quality and Safety of Agro-Products, Institute of 
+Quality Standards & Testing Technology for Agro-Products, Chinese Academy of 
+Agricultural Sciences, Beijing, 100081, China; Key Laboratory of Agro-product 
+Quality and Safety, Institute of Quality Standards & Testing Technology for 
+Agro-products, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.
+(2)State Key Laboratory for Quality and Safety of Agro-Products, Institute of 
+Quality Standards & Testing Technology for Agro-Products, Chinese Academy of 
+Agricultural Sciences, Beijing, 100081, China; Key Laboratory of Agro-product 
+Quality and Safety, Institute of Quality Standards & Testing Technology for 
+Agro-products, Chinese Academy of Agricultural Sciences, Beijing, 100081, China. 
+Electronic address: wanghongping@caas.cn.
+(3)State Key Laboratory for Quality and Safety of Agro-Products, Institute of 
+Quality Standards & Testing Technology for Agro-Products, Chinese Academy of 
+Agricultural Sciences, Beijing, 100081, China; Key Laboratory of Agro-product 
+Quality and Safety, Institute of Quality Standards & Testing Technology for 
+Agro-products, Chinese Academy of Agricultural Sciences, Beijing, 100081, China. 
+Electronic address: jinfen@caas.cn.
+
+6:2 Chlorinated polyfluorinated ether sulfonate (6:2 Cl-PFESA), a widely used 
+substitute for perfluorooctane sulfonic acid (PFOS), has raised increasing 
+concern due to its environmental persistence and potential health risks. 
+However, its acute toxicity profile and sex-dependent effects remain 
+insufficiently characterized. This study conducted a 14-day acute oral toxicity 
+study for single exposure (46.4-464 mg/kg·BW) in male and female Sprague-Dawley 
+(SD) rats to quantify lethality and evaluate sex-dependent differences. The 
+median lethal dose (LD50) was estimated to be 147 mg/kg·BW for both sexes, 
+classifying 6:2 Cl-PFESA as moderately toxic (GHS Category Ⅲ) with neurotoxicity 
+signs, more acutely hazardous than PFOS. Sex dependence produced different 
+internal exposure patterns, leading to divergent toxic effects: females 
+maintained higher circulating burdens, accompanied by pronounced 
+thrombocytopenia, whereas males exhibited strong hepatic sequestration and 
+erythrocyte toxicity. Gonadal accumulation was also sex-dependent, with 
+substantially higher levels in the ovaries than in the testes. Histopathology 
+identified the liver and kidneys as primary targets and further revealed the 
+lung as a potential target organ marked by foam cell infiltration and lymphoid 
+depletion. Collectively, these findings demonstrate that 6:2 Cl-PFESA induces 
+acute, multi-organ toxicity through strongly sex-dependent mechanisms, 
+highlighting the necessity of additional attention to the pulmonary and 
+reproductive toxicity hazards of 6:2 Cl-PFESA and the necessity of integrating 
+sex as a critical biological variable in future toxicological evaluation and 
+regulatory assessment of PFAS alternatives.
+
+Copyright © 2026. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.fct.2026.115978
+PMID: 41587653 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+6. Environ Sci Technol. 2026 Mar 31;60(12):9117-9128. doi:
+10.1021/acs.est.5c18780.  Epub 2026 Mar 3.
+
+Development and Human Extrapolation of Physiologically Based Toxicokinetic 
+Models for Chlorinated Polyfluoroalkyl Ether Sulfonates from Rats.
+
+Zhang J(1)(2), Bao H(2), Zhao WH(1), Fan LS(1), Zhou H(3), Ruan T(4), Zhang 
+YT(1), Liu L(5), Cai D(6), Xie S(2), Dong GH(1), Chou WC(7)(8), Zhang L(2), Zeng 
+XW(1).
+
+Author information:
+(1)Joint International Research Laboratory of Environment and Health, Ministry 
+of Education, Guangdong Provincial Engineering Technology Research Center of 
+Environmental Pollution and Health Risk Assessment, Department of Occupational 
+and Environmental Health, School of Public Health, Sun Yat-sen University, 
+Guangzhou 510080, China.
+(2)NHC Key Laboratory of Food Safety Risk Assessment, Chinese Academy of Medical 
+Science Research Unit, China National Center for Food Safety Risk Assessment, 
+Beijing 100022, China.
+(3)Guangdong Provincial Key Laboratory of Food, Nutrition and Health, Department 
+of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 
+510080, China.
+(4)State Ley Laboratory of Environmental Chemistry and Ecotoxicology, Research 
+Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 
+100085, China.
+(5)Department of Toxicology, Guangdong Province Hospital for Occupational 
+Disease Prevention and Treatment, Guangzhou, Guangdong 510300, China.
+(6)Department of Public Health and Preventive Medicine, School of Medicine, 
+Jinan University, Guangzhou 510632, China.
+(7)Department of Environmental Sciences, University of California, Riverside, 
+California 92521, United States.
+(8)Environmental Toxicology Graduate Program, University of California, 
+Riverside, California 92521, United States.
+
+Chlorinated polyfluoroalkyl ether sulfonates (F-53B, including 6:2 Cl-PFESA and 
+8:2 Cl-PFESA) are typical alternatives to perfluorooctanesulfonate in China. 
+However, they are persistent and frequently detected in the environment and 
+humans and pose bioaccumulation and health risks. The limited understanding of 
+F-53B's toxicokinetic data hinders its risk assessment. This study aimed to 
+develop physiologically based toxicokinetic (PBTK) models for 6:2 Cl-PFESA and 
+8:2 Cl-PFESA in rats and to extrapolate the models to humans. Male rats were 
+administered a single 100 μg/kg dose of F-53B (with a 6:2 Cl-PFESA to 8:2 
+Cl-PFESA ratio of about 9:1) via gavage and intravenous injection, and biosample 
+concentrations were quantified using ultrahigh-performance liquid 
+chromatography-mass spectrometry. Results showed that 6:2 Cl-PFESA was mainly 
+distributed to the liver and plasma, while 8:2 Cl-PFESA was primarily 
+distributed to the liver and lung. The developed PBTK models successfully 
+predicted 100% of 6:2 Cl-PFESA and 92% of 8:2 Cl-PFESA concentrations within a 
+2-fold range of the observed values. These models were subsequently extrapolated 
+to humans and validated with human biomonitoring data. This study establishes 
+PBTK models for F-53B in the general adult population, enhancing quantitative 
+risk assessments under real-world scenarios.
+
+DOI: 10.1021/acs.est.5c18780
+PMID: 41774853 [Indexed for MEDLINE]

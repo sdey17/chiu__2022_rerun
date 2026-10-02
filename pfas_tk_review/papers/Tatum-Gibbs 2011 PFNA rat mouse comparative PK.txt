@@ -1,0 +1,652 @@
+                                                                       Toxicology 281 (2011) 48–55
+
+
+
+                                                             Contents lists available at ScienceDirect
+
+
+                                                                           Toxicology
+                                              journal homepage: www.elsevier.com/locate/toxicol
+
+
+
+
+Comparative pharmacokinetics of perﬂuorononanoic acid in rat and mouse夽
+Katoria Tatum-Gibbs a , John F. Wambaugh b , Kaberi P. Das c , Robert D. Zehr c , Mark J. Strynar d ,
+Andrew B. Lindstrom d , Amy Delinsky d , Christopher Lau c,∗
+a
+  Curriculum in Toxicology, University of North Carolina, Chapel Hill, NC, United States
+b
+  National Center for Computational Toxicology, Research Triangle Park, NC, United States
+c
+  Toxicity Assessment Division, National Health and Environmental Effects Research Laboratory, Research Triangle Park, NC, United States
+d
+  Human Exposure and Atmospheric Sciences Division, National Exposure Research Laboratory, Ofﬁce of Research and Development, U.S. Environmental Protection Agency,
+Research Triangle Park, NC, United States
+
+
+
+
+a r t i c l e        i n f o                          a b s t r a c t
+
+Article history:                                      Perﬂuorononanoic acid (PFNA) is a ﬂuorinated organic chemical found at low levels in the environment,
+Received 3 November 2010                              but is detectable in humans and wildlife. The present study compared the pharmacokinetic properties of
+Received in revised form                              PFNA in two laboratory rodent species. Male and female Sprague–Dawley rats were given a single dose of
+20 December 2010
+                                                      PFNA by oral gavage at 1, 3, or 10 mg/kg, and blood was collected from the tail vein at 1, 2, 3, 4, 7, 16, 21,
+Accepted 5 January 2011
+                                                      28, 35, 42 and 50 days after treatment. In addition, livers and kidneys were collected for PFNA analysis at
+Available online 13 January 2011
+                                                      the terminal time point. CD-1 mice were given a single oral dose of PFNA of 1 or 10 mg/kg, and 4 males and
+                                                      4 females were killed at similar time intervals; trunk blood, liver and kidney were collected. Serum and
+Keywords:
+Perﬂuorononanoic acid
+                                                      tissue concentrations of PFNA were determined by LC–MS/MS. Serum elimination of PFNA is by and large
+Pharmacokinetics                                      linear with exposure doses in the rat; however, like PFOA, a major sex difference in the rate of elimination
+Mouse                                                 is observed, with an estimated half-life of 30.6 days for males and 1.4 days for females. PFNA is stored
+Rat                                                   preferentially in the liver but not in the kidneys. In the mouse, the rates of PFNA serum elimination are
+                                                      non-linear with exposure dose and are slightly faster in females than males, with terminal estimated
+                                                      serum half-life of 25.8–68.4 days and 34.3–68.9 days, respectively. PFNA is also stored preferentially in
+                                                      the mouse liver but not in the kidneys. Hepatic uptake appears to be more efﬁcient and storage capacity
+                                                      greater in male mice than in females. These data suggest that (1) PFNA is more persistent in the mouse
+                                                      than in the rat; (2) there is a major sex difference in the serum elimination of PFNA in the rat, but much
+                                                      less so in the mouse; and (3) there is a signiﬁcantly higher hepatic accumulation of PFNA in male mice
+                                                      than in females.
+                                                                                                                               Published by Elsevier Ireland Ltd.
+
+
+
+
+1. Introduction                                                                         phosphonate. These chemicals are extremely stable, practically
+                                                                                        non-biodegradable and persistent in the environment (Lau et al.,
+   Perﬂuoroalkyl acids (PFAAs) and their derivatives are a family                       2007; Prevedouros et al., 2006). In recent years, these ﬂuoro-
+of synthetic organic compounds that have been widely used in                            chemicals have become a focus of public health concern due to
+a variety of consumer and industrial applications for over half a                       their ubiquitous presence in environmental media (air, water,
+century (Renner, 2001). Their strong surfactant properties make                         soil, sediment and house dust), food and drinking water, their
+them ideal water and oil repellents, lubricants, as well as pro-                        global distribution, and their widespread presence in wild-life
+cessing aides in the manufacture of ﬂuoropolymers. PFAAs are                            and humans (Calafat et al., 2007a; Chang et al., 2008; Davis
+composed of a carbon backbone, generally ranging from C-4 to                            et al., 2007; Houde et al., 2006b; Lau et al., 2007; Powley et al.,
+C-14, with a complete substitution of hydrogen with ﬂuorine,                            2008). In light of the on-going production and continuous release
+and contain a functional group usually carboxylate, sulfonate or                        of PFAAs into the environment, research has been conducted
+                                                                                        to evaluate their potential adverse health and environmental
+                                                                                        impacts.
+                                                                                           In particular, the toxicological proﬁles of the 8-carbon PFAAs,
+ 夽 The information in this document has been funded by the U.S. Environmental           perﬂuorooctanoic acid (PFOA) and perﬂuorooctane sulfonate
+Protection Agency.                                                                      (PFOS) have been extensively examined in laboratory animal mod-
+  ∗ Corresponding author at: Mail Drop 67, U.S. Environmental Protection Agency,
+                                                                                        els (Andersen et al., 2008; Giesy et al., 2010; Lau et al., 2007),
+Research Triangle Park, NC 27711, United States. Tel.: +1 919 541 5097;
+fax: +919 541 4017.                                                                     partly due to their high volumes of production, their abundance
+    E-mail address: lau.christopher@epa.gov (C. Lau).                                   in the environment, and their prevalence in human and wildlife
+
+0300-483X/$ – see front matter. Published by Elsevier Ireland Ltd.
+doi:10.1016/j.tox.2011.01.003
+                                                    K. Tatum-Gibbs et al. / Toxicology 281 (2011) 48–55                                                               49
+
+
+populations (Calafat et al., 2007a,b, 2006; Houde et al., 2006a,b;              2. Materials and methods
+Kannan et al., 2001; Lau et al., 2007; Paul et al., 2009). The ﬁndings
+                                                                                2.1. Materials
+thus far have indicated hepatotoxicity, developmental toxicity, car-
+cinogenicity, immunotoxicity and endocrine disruption with these                    Perﬂuorononanoic acid (CF3 (CF2 )7 COOH) (97% pure) was purchased from
+chemicals (Lau et al., 2007). More recently, these studies have been            Sigma–Aldrich (St Louis, MO) and was prepared in deionized water. All other chem-
+extended to the C-4 and C-6 PFAAs. To a certain extent, fewer                   icals and reagents used for this study were of analytical grade purchased from VWR
+adverse effects have been reported with these shorter carbon-chain              (West Chester, PA). Stable isotope 13 C9 -labeled PFNA (13 C9 F17 O2 H) (99% pure) was
+                                                                                supplied as free acid in methanol (50 ␮g/ml) by Cambridge Isotope Laboratories
+compounds (Chengelis et al., 2009b; Das et al., 2008; Lieder et al.,            (Andover, MA) and used as the internal standard for liquid chromatography/tandem
+2009a,b; Loveless et al., 2009), which may be related to their rel-             mass spectrometric (LC–MS/MS) analysis of PFNA.
+atively shorter half-lives compared to the C8 chemicals (Chang
+et al., 2008; Chengelis et al., 2009a; Olsen et al., 2009). Indeed, the         2.2. Animal treatment
+pharmacokinetic properties of PFAAs have been shown to be a key
+                                                                                    All procedures involving the use of laboratory animals were conducted in accor-
+determinant of toxicity and toxic properties may vary with carbon-              dance to the guidelines set forth by the U.S. EPA ORD/NHEERL Institutional Animal
+chain length, animal species and sex (Kudo et al., 2006, 2001; Lau              Care and Use Committee. Animal care procedures and facilities (AAALAC accredited)
+et al., 2007; Ohmori et al., 2003). For instance, the adverse effects           were consistent with the recommendations provided by the 1996 National Research
+of perﬂuorobutyrate in rat and mouse are nominal and transient                  Council’s “Guide for the Care and Use of Laboratory Animals”, the Animal Welfare
+                                                                                Act, and the Public Health Service Policy on the Humane Care and Use of Labora-
+because of its relatively short serum half-life (2–12 h) (Chang et al.,
+                                                                                tory Animals. Environmental controls for the animal facility were set to maintain a
+2008; Das et al., 2008). Similarly, the responses to PFOA are greatly           mean temperature of 20–24 ◦ C, relative humidity of 40–60%, and kept under a 12-h
+diminished in female rats compared to those in males primarily                  light–dark cycle (lights off 7:00 p.m.–7:00 a.m.).
+because of a marked sex difference in chemical clearance (serum                     Sprague–Dawley rats (10–12 weeks old, 200–250 g) and CD-1 mice (8–10 weeks
+half-life of 2–4 h in females and 6–7 days in males) (Kennedy et al.,           old, 20–35 g) were purchased from Charles River Laboratory (Raleigh, NC). Upon
+                                                                                arrival, animals were housed individually for rats or in groups of three for mice in
+2004; Ohmori et al., 2003). Interestingly, such a sex difference in             polycarbonate, solid bottom cages with pine shaving bedding (rats) or Alpha-dri
+PFOA elimination is much less noted in the mouse, monkey and                    bedding (Shepherd Specialty Papers, Kalamazoo, MI) (mice). Food (Harlan Teklad
+humans (Hundley et al., 2006; Kudo and Kawashima, 2003; Lou                     Diet (Madison, WI) for rats or LabDiet 5001 pellet chow (PMI Nutrition International,
+et al., 2009).                                                                  Brentwood, MO) for mice) and tap water were provided ad libitum. All animals were
+                                                                                allowed one week to acclimate to their environment prior to the beginning of the
+    Recent results from the National Health and Nutrition
+                                                                                study.
+Examination Survey (NHANES) conducted by the Center for                             Non-fasted male and female rats (n = 3 per sex) were given by oral gavage a
+Disease Control and Prevention (CDC) indicated a steady                         single dose of PFNA at 1, 3, or 10 mg/kg body weight, at a volume of 1 ml/kg. Blood
+decline of serum concentrations for several PFAAs (includ-                      samples (approximately 500 ␮L) were collected from the tail vein at 1, 2, 3, 4, 7, 16,
+ing PFOA, PFOS, and perﬂuorohexane sulfonate (PFHxS))                           21, 28, 35, and 42 days after treatment. Serum samples were prepared after blood
+                                                                                clotting and centrifugation at 2000 × g for 30 min, and stored at −20 ◦ C until analysis.
+in the U.S. population from 1999 to 2008 (Calafat et al.,                       Samples for the terminal time point were collected at 50 days post-treatment when
+2007a,b)            (http://www.cdc.gov/nchs/nhanes/nhanes2005-                 rats were killed by decapitation. Trunk blood was collected. Liver and kidneys were
+2006/lab05 06.htm). One notable exception to this downward                      removed, weighed, immediately frozen on dry-ice, and stored frozen at −80 ◦ C until
+trend is the levels of perﬂuorononanoate (PFNA), which are rela-                PFNA analysis.
+                                                                                    For the mouse study, PFNA was prepared at 0.1 mg/ml and 1 mg/ml. Non-fasted
+tively low (about one-tenth of the level of PFOA and one-sixtieth of
+                                                                                male and female CD-1 mice were given by oral gavage a single dose of PFNA at a vol-
+the level of PFOS in the 1999–2000 survey) but have almost dou-                 ume of 10 ml/kg body weight, so that the ﬁnal doses of 1 or 10 mg/kg were achieved.
+bled during this period. PFNA is mainly used as a surfactant in the             Animals (n = 4 per sex, per dose group, per time point) were killed by decapitation
+production of polyvinylidiene ﬂuoride (Prevedouros et al., 2006).               at 4, 8, and 12 h, or 1, 2, 3, 4, 7, 11, 16, 21, 28, 35, 42, or 50 days after treatment.
+Previous studies have indicated that environmental contamination                Sentinel control mice (n = 4 for each sex) were housed in the same facility and killed
+                                                                                at the day 50 time point to provide background levels of PFNA. Trunk blood was
+by PFNA is related to biodegradation of volatile ﬂuorotelomer
+                                                                                collected and liver and kidney samples were harvested. Serum and tissue samples
+alcohols that may be released during the production processes                   were prepared and stored frozen at −80 ◦ C until analysis as described previously.
+and/or commercial applications (Ellis et al., 2004; Nilsson et al.,
+2010; Prevedouros et al., 2006). Indeed, the levels of PFNA in                  2.3. Sample preparation for chemical analysis
+wildlife approximate those of PFOA (Houde et al., 2006b). Fur-
+                                                                                     Individual rat or mouse liver and kidney samples were thawed, homogenized
+thermore, several recent studies with laboratory rodents indicate
+                                                                                (polytron) in 6 volumes of picopure water, and stored at −80 ◦ C for PFNA analysis.
+PFNA-induced immunotoxicity and reproductive toxicity (Fang                     For sample preparation, 25 ␮l of serum or 50 ␮l of tissue homogenate were aliquoted
+et al., 2009, 2010, 2008; Feng et al., 2010, 2009), although adverse            into polypropylene tubes, to which 100 ␮l of 0.1 M formic acid and 1 ml of acetoni-
+clinical effects have not been detected from occupational exposure              trile (ACN) fortiﬁed with 12.5 ng/ml of internal standard (13 C9 -labeled PFNA) were
+                                                                                added sequentially, with vigorous mixing (vortex) between each addition. Sam-
+to this chemical (Mundt et al., 2007).
+                                                                                ples were then capped, mixed for 20 min, and centrifuged (×3500 rpm) for 3 min at
+    Because chemical distribution and elimination are key factors               room temperature. Two-hundred microliters of the supernatant was transferred to
+in determining the toxicity of PFAAs, a clear understanding of the              a HPLC auto sampling vial, followed by the addition of 200 ␮l of 2 mM ammonium
+pharmacokinetic proﬁle of PFNA is imperative. Toward that end,                  acetate. For analysis, each extraction set included a sample blank (deionized water)
+Kudo et al. (2001) have described a signiﬁcant gender difference                that did not go through the extraction process, a method blank (deionized water)
+                                                                                that went through extraction, a matrix blank (serum or tissue homogenate), quality
+in Wistar rats for serum and liver PFNA concentrations, as well as
+                                                                                controls samples to assure consistent accuracy and precision, and standards (spiked
+urinary excretion of the chemical after an intravenous injection.               into appropriate matrices). Internal standard was added to all samples except the
+Additionally, Ohmori et al. (2003) further provided a PFNA plasma               sample blank.
+half-life estimate of 29.6 days for male rats and 2.4 days for females.
+In view of the major species difference between rat and mouse seen              2.4. Analytical procedures
+with PFOA pharmacokinetics, the present study was undertaken to
+                                                                                    Analysis of PFNA in serum was performed using a modiﬁcation of a method orig-
+compare the tissue distribution and elimination proﬁles of PFNA                 inally reported by Dewitt et al. (2008) and further reﬁned by Reiner et al. (2009).
+between these two rodent species. Sprague–Dawley rat, a strain                  Analysis of samples was performed using a LC/MS/MS system consisting of an Agilent
+widely used in toxicological studies, was evaluated in this study               1100 HPLC (Agilent Technologies, Palo Alto, CA) interfaced with a Sciex 3000 triple
+for comparison with the Wistar rat (Kudo et al., 2001); and oral                quadrupole mass spectrometer (Applied Biosystems/MDS Sciex, Foster City, CA).
+                                                                                The HPLC method was a 3.5 min isocratic run at a ﬂow rate of 200 ␮l/min consisting
+administration of PFNA (a common treatment design for PFAA stud-                of 70% acetonitrile (ACN) and 30% 2 mM ammonium acetate. Samples (10 ␮l) were
+ies) was employed to contrast with the intravenous route described              injected onto a Phenomenex Luna C18 (3 mm × 50 mm) HPLC analytical column ﬁt-
+previously.                                                                     ted with a 4 mm × 30 mm Phenomenex Security Guard column (Torrance, CA). The
+50                                                             K. Tatum-Gibbs et al. / Toxicology 281 (2011) 48–55
+
+
+column temperature was kept constant at 25 ◦ C in a temperature-controlled column
+compartment. Electrospray negative ionization was used in the mass spectrometer
+source, which was maintained at 375 ◦ C. Mass transitions for PFNA (analyte) and
+13
+   C9 -PFNA (internal standard) were monitored using multiple-reaction-monitoring
+(MRM) and analyte-speciﬁc mass spectrometer parameters were optimized for both
+compounds. Two mass transitions were monitored for quantiﬁcation of the analyte
+(PFNA). A quantiﬁcation ion (463.0 → 418.8) and a conﬁrmation ion (463.0 → 218.9),
+were monitored for PFNA in order to ensure proper analyte identiﬁcation and quan-
+tiﬁcation. The mass transition monitored for 13 C9 -PFNA (internal standard) was
+472.0 → 427.0.
+     Prior to analysis, the internal standard was added to all extraction tubes (sam-
+ples, blanks, and controls). Matrix-matched standard curves were prepared by
+spiking PFNA into the appropriate matrix, purchased serum (Pel Freeze Biologi-
+cals, Rogers, AR) or previously prepared control liver and kidney homogenates. The
+ranges of the standard curve were 5–5000 ng/ml for low-dose samples (1 mg/kg)
+and 250–50,000 ng/ml for the high-dose samples (3 or 10 mg/kg). Quality control
+(QC) samples were included in each analytical set-up. These samples were pre-
+pared by spiking known concentrations of PFNA in the appropriate sample matrix
+(serum, liver or kidney homogenate). QC check samples were analyzed concur-
+rently with each analytical run. Overall QC recoveries were greater than 80% and
+                                                                                           Fig. 1. Time course of PFNA disappearance from the serum compartment in male
+less than 130% of the theoretical value for all samples employed throughout the
+                                                                                           and female Sprague–Dawley rats following a single oral dose of 1, 3, or 10 mg/kg.
+study. When a sample exceeded the quality control parameters, it was re-extracted
+                                                                                           Data are presented as means with minimum and maximum values indicated by
+and reanalyzed to ensure proper quantiﬁcation within the range of the standard
+                                                                                           error bars for pools of three animals per dose group and per sex, measured. Data
+curve. The limit of quantiﬁcation (LOQ) for analysis was set to the lowest calibra-
+                                                                                           below the background concentration measured in untreated rats at the end of the
+tion point on the standard curve. Upon completion of analysis, data were deemed
+                                                                                           study (indicated by dashed line) were omitted from modeling.
+acceptable if they followed certain criteria that included: (a) double blanks, matrix
+blanks, and methods had no signiﬁcant PFNA peaks approaching the LOQ; (b) the
+correlation coefﬁcient was > 0.98; and (c) all fortiﬁed standard curve points and QC
+check samples were within 70–130% of the theoretical values. For samples below             3. Results
+LOQ (primarily background controls), we assigned a value equal to the LOQ divided
+by the square root of two (Calafat et al., 2007b). Analyst 1.4.2 software was used
+                                                                                           3.1. Pharmacokinetic study with Sprague–Dawley rat
+for quantiﬁcation of all compounds (Applied Biosystems/MDS Sciex, Foster City,
+CA). Analyte to internal peak area ratios were regressed against concentration to
+establish quadratic calibration curves using a 1/x weighting.                                  The serum time–concentration proﬁles of PFNA in male and
+                                                                                           female rats following a single oral administration of 1, 3, or
+2.5. Data modeling and statistical analyses                                                10 mg/kg are shown in Fig. 1. As indicated by the dashed line in
+                                                                                           Fig. 1, many of the concentrations in the terminal elimination phase
+    Analysis of pharmacokinetic parameters was performed in Matlab (version 7.6.0,
+The Mathworks, 2008). For each gender, species, and tissue the model parameters            for the female rats were below the background concentration; esti-
+(volume of distribution, Vd , and rate constants, k) were estimated by maximizing          mated using the highest measured values in untreated (control)
+the likelihood of the model predictions for all doses using the Nelder-Mead method         rats at the end of the experiment. Data below the control back-
+(Lagarias et al., 1998). The standard deviation for each parameter was then deter-         ground levels were omitted from any modeling. The data are best
+mined by numerically calculating the Hessian of likelihood (D’Errico, 2007) and
+                                                                                           ﬁtted with a two-compartment model, and the pharmacokinetic
+then approximating the covariance matrix as the inverse Hessian. Distributions for
+secondary pharmacokinetic parameters (Cmax , AUC, t½ ) were estimated via Monte            parameters are summarized in Table 1. There is a statistically sig-
+Carlo, with 10,000 samples being drawn from the covariance matrix.                         niﬁcant difference in the overall rate of PFNA elimination (kelim )
+    The Akaike Information Criterion (AIC) was used to select the statistical model        from the serum compartment between male (0.0015/h) and female
+that was most consistent with the data without being over-parameterized (Akaike,
+                                                                                           (0.0168/h) rats, regardless of the dose of exposure. For the female
+1974). Since the data generally appeared to be biphasic, ﬁts were attempted for
+a two-compartment pharmacokinetic model as well as for the one-compartment                 rat, a half-life of 1.4–1.6 days (depending on the administered dose)
+model. Each statistical model consisted of a choice of the one- vs. the two-               is estimated for the fast phase (t1/2␣ ) of PFNA disappearance (that
+compartment model, as well as speciﬁcation of whether each pharmacokinetic                 accounts for a majority of the administered chemical), and a half-
+parameter was group-independent (common for all dose groups and genders) or                life between 3 and 102 days (95% conﬁdence interval) is estimated
+group-dependent (varying between genders, dose groups, or both).
+                                                                                           for the slow phase (t1/2␤ ) (that accounts for the residual chemi-
+    Many statistical models were considered for each data set, for example: all
+parameters group-independent vs. volume of distribution varying by gender vs. vol-         cal). Indeed, at 15 days after chemical administration, the serum
+ume of distribution and k␣ varying by dose. Depending on the data, some parameters         PFNA levels have declined to those of background (untreated) con-
+might vary by dose for one gender but be dose-independent for the other gender.            trols. In contrast, for the male rat, a half-life of 0.9 days is estimated
+Allowing pharmacokinetic parameters to vary between dose and/or gender results in
+                                                                                           for fast phase of PFNA disappearance from the serum and a half-
+a greater number of free parameters for a given statistical model. The AIC is intended
+to penalize improvements in the likelihood of the model by the number of additional
+                                                                                           life of 28–42 days (depending on dose) is estimated for the slower
+parameters needed to gain that improvement. Though each pharmacokinetic model              phase. On the other hand, the volume of distribution estimates are
+parameter could potentially vary by gender and dose, only plausible combinations           low, 0.113–0.139 L/kg for males and 0.125–0.171 L/kg for females
+based upon visual inspection of the data and intermediate cases were investigated.         and within the range typically associated with extracellular distri-
+The combination of group-dependent and group-independent parameters with the
+                                                                                           bution (Chang et al., 2008). However, while the estimated volume
+best (i.e. lowest) AIC was selected as the best description of the data.
+    For the rat, the PFNA single oral dose time course data set included one tissue        of distribution between males and females are statistically signiﬁ-
+(serum), two genders (male and female rats), and three doses (1 mg/kg, 3 mg/kg, and        cant, the sex difference is small. In general, the AUC estimates are
+10 mg/kg). For the mouse, the single oral dose time course data of PFNA included           directly proportional to the administered doses, and are consistent
+three tissues (serum, liver, and kidney), two genders (male and female), and two
+                                                                                           with the sex difference (of about 13–16 times higher accumula-
+doses (1 mg/kg and 10 mg/kg). For the liver and kidney analyses, the precise meaning
+of “volume of distribution” is unclear because PFNA was not directly administered
+                                                                                           tion in the males). Similarly, the Cmax values are proportional to
+to these tissues, though a large value for the volume of distribution likely indicates     the exposure doses, and are generally higher in the male rats.
+less partitioning into that tissue.                                                            The PFNA levels in rat liver, serum and kidneys at the ter-
+    The ratios of liver and kidney concentrations to the serum concentration were          minal evaluation (50 days after exposure) are listed in Table 2.
+investigated for the mouse using an analysis of variance algorithm (Chambers et al.,
+                                                                                           PFNA accumulations in the liver (ng/g) compartment increase with
+1992) implemented in R (R Development Core Team, 2009). Ratios were tested for
+statistically signiﬁcant differences with respect to sex, dose, time and combinations      administered dose, but are signiﬁcantly higher than those in the
+of these parameters by calculating a p-value, assuming a null hypothesis that the          serum (ng/ml) compartment in the male rats; the liver/serum (L/S)
+ratios did not vary.                                                                       ratios appear to be dose-dependent and are highest at the low-
+                                                                 K. Tatum-Gibbs et al. / Toxicology 281 (2011) 48–55                                                      51
+
+Table 1
+Serum pharmacokinetic parameters for Sprague–Dawley rats.
+
+  Parameter       Female                                                                     Male
+
+                  Dose (mg/kg)                                                               Dose (mg/kg)
+
+                  1                       3                          10                      1                            3                        10
+
+  kelim (1/h)                             0.0168 (0.0123–0.0213)                                                          0.0015 (0.0009–0.0021)
+  k␣ (1/h)        0.021 (0.014–0.028)     0.018 (0.013–0.023)    0.018 (0.012–0.023)                                         0.018 (0.00–0.059)
+  t½␣ (day)       1.36 (1.02–1.85)        1.56 (1.21–2.00)       1.61 (1.23–2.08)                                             0.87 (0.36–2.60)
+  k␤ (1/h)                                  0.0031 (0 – 0.0088)                              0.0007 (0.0005–0.0009)       0.0012 (0.0011–0.0014)   0.0010 (0.0008–0.0012)
+  t½␤ (day)                                   32.0 (3.2–119.1)                               42.1 (33.0–55.6)             23.6 (20.2–27.8)         28.0 (25.0–31.5)
+  Vd (L/kg)       0.125 (0.086–0.164)     0.171 (0.104–0.238)    0.0146 (0.090–0.201)        0.113 (0.067–0.158)          0.139 (0.082–0.196)      0.110 (0.065–0.154)
+  AUC (mg h/l)    482 (381–628)           1085 (886–1432)        4246 (3449–5511)            6172 (5122–7737)             15,009 (13,239–18,203)   63,148 (57,152–75,801)
+  Cmax (␮g/ml)    7.7 (5.8–10.7)          17.5 (12.5–26.9)       68.4 (49.1–103.4)           8.5 (6.2–12.8)               21.9 (17.0–32.8)         89.8 (67.1–135.3)
+
+Model parameters are presented as means and 95% conﬁdence intervals estimated using Hessian of likelihood function. 1 or 2 compartment model is selected based upon
+Akaike Information Criterion. Absorption rate ka is assumed to be 1/h. Male rats are assumed to weigh 500 g; female rats are assumed to weigh 250 g. For computed parameters
+(t½ , AUC, Cmax ) 95% conﬁdence intervals is determined from 10,000 draws of model parameters. Data less than background are omitted from model ﬁts.
+
+
+
+Table 2
+Liver and kidney concentrations of PFNA in male rat at terminal sampling time (50 days after exposure).
+
+  Dose (mg/kg)             Male                                                                                                         Female
+
+                           Liver (ng/g)             Serum (ng/ml)              L/S ratio         Kidney (ng/g)         K/S ratio        Liver (ng/g)        Kidney (ng/g)
+
+   1                       14,140 ± 1709              1523 ± 162               9.34                 931 ± 36           0.62             3.5a                 3.5a
+   3                       20,580 ± 572               4025 ± 12                5.11               3574 ± 43            0.89             3.5a                 3.5a
+  10                       48,241 ± 5431             13,503 ± 1868             3.68              10,208 ± 396          0.79             3.5a                38.3 ± 10.1
+
+L/S ratio = liver/serum ratio; K/S ratio = kidney/serum ratio.
+  a
+    Estimate derived from value below LOQ.
+
+
+est dose (1 mg/kg). PFNA levels in the kidneys also increase with                            ences are markedly smaller than those noted in the rats (Table 1).
+dose but they largely reﬂect serum concentrations. In contrast, the                          The estimated k␣ , which likely reﬂects the rate of chemical distri-
+PFNA concentrations in female liver and kidneys are largely below                            bution to tissues is the same for both females and males, but differs
+analytical detection.                                                                        signiﬁcantly between doses, yielding an estimated half-life of 0.01
+                                                                                             day for the low-dose exposure and 1.18 days for the high-dose
+3.2. Pharmacokinetic study with CD-1 mice                                                    exposure. A similar trend of dose difference is also noted for k␤ and
+                                                                                             the corresponding half-life estimates, but a sex difference becomes
+   The proﬁles of PFNA disappearance from the serum com-                                     apparent (t½␤ of 25.7–68.8 days for females and 34.4–228 days for
+partment in male and female mice given a single dose of 1 or                                 males). The estimated distribution values of t½␤ that are consistent
+10 mg/kg are depicted in Fig. 2. The data are best ﬁtted with                                with the data for male mice exposed to 10 mg/kg of PFNA is heavily
+a two-compartment model and the pharmacokinetic parameters                                   skewed toward large values because the rate of elimination is very
+are summarized in Table 3. Although the rate of overall dis-                                 slow (0.0005/h). Since the distribution for this parameter is skewed
+appearance of PFNA (kelim ) tends to be faster in female mice                                from normal, this mean t½␤ may not reﬂect the most likely value;
+(0.0013/h–0.0015/h) than in males (0.0005/h–0.0010/h), the differ-                           in fact, the low end of the 95% conﬁdence interval, 69.35 days, is
+                                                                                             perhaps a more reliable estimate than the calculated mean (228
+                                                                                             days) or the upper bound (796 days).
+                                                                                                 Similar to the rats, the volume of distribution estimates for the
+                                                                                             mice are low, although Vd for males appears to be higher than that
+                                                                                             for females. The AUC and Cmax estimates for the female mice are
+                                                                                             generally proportional to the exposure doses. In contrast, the AUC
+                                                                                             for male mice appears to be disproportionally higher; however, this
+                                                                                             discrepancy is largely mitigated if one considers the lower end of
+                                                                                             the 95% conﬁdence interval (33,100) instead of the calculated mean
+                                                                                             (73,500) or upper bound (201,000) in the 10 mg/kg group. On the
+                                                                                             other hand, the Cmax values in the male mice consistently tend to
+                                                                                             be lower than those for males.
+                                                                                                 The kinetic data for mouse liver are best ﬁtted by a one-
+                                                                                             compartment model (Fig. 3) and parameters are summarized in
+                                                                                             Table 3. The half-life estimates for males (142–176 days) are signiﬁ-
+                                                                                             cantly longer than those for females (38–59 days). Correspondingly,
+                                                                                             the AUC estimates for male mice are signiﬁcantly larger than those
+Fig. 2. Time course of PFNA disappearance from the serum compartment in
+                                                                                             for females, although Cmax values for both sexes are about the same
+male and female CD-1 mice following a single oral dose of 1 or 10 mg/kg.                     and increase proportionally with dose. It is noteworthy that AUC
+Data are presented as means with minimum and maximum values indi-                            and Cmax values for liver are across the board signiﬁcantly higher
+cated by error bars for pools of four animals per dose group, per sex and                    than those for serum.
+per individual time point. Controls were measured at both the beginning
+                                                                                                 In contrast, the kinetic data for mouse kidneys are best ﬁtted
+and end of the study to establish background concentrations (concentrations
+beginning: females = 6.39 ± 0.30, males = 3.53 ± 0.09 ng/ml) (concentrations end:            with a two-compartment model (Fig. 4 and Table 3), with t½␣ esti-
+females = 8.99 ± 2.61, males = 5.55 ± 1.77 ng/ml).                                           mated at 1.3 days for both sexes and doses. The t½␤ estimates for
+52                                                            K. Tatum-Gibbs et al. / Toxicology 281 (2011) 48–55
+
+Table 3
+Pharmacokinetic parameters for CD-1 mice.
+
+  Tissues      Parameters          Female                                                               Male
+
+                                   1 mg/kg                            10 mg/kg                          1 mg/kg                               10 mg/kg
+
+  Serum        kelim (1/h)         0.0015 (0.0012–0.0018)          0.0013 (0.0009–0.0017)               0.001 (0.0007–0.0013)                0.0005 (0.00005–0.001)
+               k␣ (1/h)            0.724 (0–1.46)                  0.0252 (0.0172–0.0332)               0.724 (0–1.46)                       0.0252 (0.0172–0.0332)
+               t½␣ (day)           0.01 (0–0.05)                   1.18 (0.87–1.67)                     0.01 (0–0.05)                        1.18 (0.87–1.67)
+               k␤ (1/h)            0.00110 (0.00095–0.00125)       0.00045 (0.00024–0.00066)            0.00090 (0.00075–0.00105)            0.00019 (0–0.00039)
+               t½␤ (day)           25.7 (22.7–29.3)                68.8 (44.2–120)                      34.4 (29.1–41.1)                     228 (69.5–796)
+               Vd (L/kg)                              0.192 (0.165–0.220)                                                           0.328 (0–1.06)
+               AUC (mg h/l)        3390 (3090–3750)                49,500 (35,600–73,400)               2350 (2070–2700)                     73,500 (32,100–201,000)
+               Cmax (mg/l)         3.81 (3.49–4.18)                48.4 (42.7–55.6)                     1.99 (1.81–2.23)                     28.7 (25.3–33.0)
+
+  Liver        kelim (1/h)         0.00076 (0.00064–0.00088)          0.00050 (0.00038–0.00062)         0.00019 (0.00007–0.00031)             0.00022 (0.00011–0.00034)
+               t½ (day)            38.3 (32.9–45.1)                   59.3 (46.8–76.9)                  176 (91.7–391)                        142 (84.0–274)
+               AUC (mg h/l)        18,400 (16,300–20,900)             244,000 (200,000–306,000)         100,000 (55,900–221,000)              621,000 (387,000–1,160,000)
+               Cmax (mg/l)         13.8 (13.0–14.8)                   119 (112–126)                     16.9 (15.9–18.0)                      127 (120–135)
+
+  Kidney       kelim (1/h)                          0.00077 (0.00062–0.00092)                                              0.00093 (0.00075–0.00111)
+               k␣ (1/h)                                                                     0.0229 (0.0188–0.0270)
+               t½␣ (day)                                                                        1.27 (1.07–1.54)
+               k␤ (1/h)            0.00060 (0.00045–0.00075)          0.00024 (0.00018–0.00030)        0.00026 (0.00011–0.00041)          0.00012 (0.00006–0.00018)
+               t½␤ (day)           49.4 (38.7–65.1)                   124 (97.0–163)                   127 (70.6–262)                     266 (158–517)
+               AUC (mg h/l)        1570 (1320–1880)                   20,300 (16,600–25,000)           1460 (905–2600)                    20,400 (12,800–36,200)
+               Cmax (mg/l)         1.21 (1.10–1.35)                   15.1 (13.8–16.8)                 0.50 (0.46–0.55)                   6.82 (6.21–7.53)
+
+Model parameters are presented as means and 95% conﬁdence intervals estimated using Hessian of likelihood function. 1 or 2 compartment model is selected based upon
+Akaike Information Criterion. Absorption rate ka is assumed to be 1/h. Male and female mice are assumed to weigh 25 g. For computed parameters (t½ , AUC, Cmax ) 95%
+conﬁdence intervals is determined from 10,000 draws of model parameters.
+
+
+female mice vary with dose (49.4 days for 1 mg/kg and 124 days
+for 10 mg/kg), and are generally shorter than those for males (127
+days and 266 days, respectively). The AUC and Cmax estimates for
+the kidneys vary with dose in both male and female mice; these
+values are generally in line with those for serum, but are less than
+those for liver.
+   The differential tissue distribution is further illustrated when
+the PFNA levels are expressed as tissue-to-serum ratios (Fig. 5).
+The kidney/serum (K/S) ratios typically range between 0.2 and 0.4,
+while L/S ratios largely range from 5 to15. For both tissues the
+ratios signiﬁcantly depended upon gender and dose (p < 0.001). A
+pattern of elevated L/S ratios is consistently observed in the male
+mice (6–15), compared to those in the females (5–8). In male mice,
+although the L/S ratios are fairly uniform with respect to time
+in the low-dose group (11–15), in the high dose group the L/S
+ratios are initially low (6–8) but rise gradually to those of low-
+dose group (Fig. 5)—this time dependence is statistically signiﬁcant                      Fig. 4. Concentrations of PFNA in the kidneys of male and female mice fol-
+                                                                                          lowing single oral doses of 1 or 10 mg/kg. Data are presented as means with
+                                                                                          minimum and maximum values indicated by error bars for pools of four
+                                                                                          animals per dose group, per sex and per individual time point (concentra-
+                                                                                          tions beginning: females = 24.5 ± 0.0, males = 24.5 ± 0.0 ng/g) (concentrations end:
+                                                                                          females = 24.5 ± 0.0, males = 32.43 ± 6.87 ng/g).
+
+
+                                                                                          (p < 0.001). The K/S also varied somewhat signiﬁcantly with time
+                                                                                          (p < 0.01).
+
+                                                                                          4. Discussion and conclusions
+
+                                                                                              A toxicokinetic feature of PFOA in the rat is the profound sex dif-
+                                                                                          ference in clearance of the chemical. Ohmori et al. (2003) reported
+                                                                                          a plasma half-life of 5.63 days for male Wistar rats and 0.08 day for
+                                                                                          females. In the same study, these investigators reported a similar,
+                                                                                          though less pronounced sex difference with PFNA after an intra-
+                                                                                          venous injection of the chemical, with a t½ estimate of 29.6 days
+                                                                                          for males and 2.3 days for females. A similar pharmacokinetic pro-
+Fig. 3. Concentrations of PFNA in the liver of male and female mice following             ﬁle of PFNA is also noted in the present study with Sprague–Dawley
+single oral doses of 1 or 10 mg/kg. Data are presented as means with minimum              rats given various doses of the chemical by oral gavage. Despite the
+and maximum values indicated by error bars for pools of four animals per dose             different route of administration, PFNA was absorbed efﬁciently,
+group, per sex and per individual time point. Controls were measured at both the
+                                                                                          with Tmax estimated at 4–5 h. Disappearance of PFNA from the
+beginning and end of the study to establish background concentrations (concentra-
+tions beginning: females = 24.4 ± 0.0, males = 26.3 ± 1.87 ng/g) (concentrations end:     serum compartment can best be ﬁtted by a two-compartment
+females = 87.85 ± 2.61, males = 128.80 ± 12.53 ng/g).                                     model for both male and female Sprague–Dawley rats; however,
+                                                           K. Tatum-Gibbs et al. / Toxicology 281 (2011) 48–55                                             53
+
+
+                                                                                       cesses, although more sophisticated models requiring additional
+                                                                                       data would be necessary to resolve this issue. Regardless, the 10-
+                                                                                       to 15-fold sex difference in PFNA elimination is consistent among
+                                                                                       rat strains, routes of administration and exposure doses.
+                                                                                           In contrast to the rat, a greatly diminished sex difference in
+                                                                                       PFOA toxicokinetics has been shown with the mouse, with serum
+                                                                                       half-life estimated as 21.7 days for males and 15.6 days for females
+                                                                                       (Lou et al., 2009). Results from the present study suggest that such
+                                                                                       species difference is extended to PFNA. Although the overall rate
+                                                                                       of PFNA disappearance is slightly faster in the female mice (kelim
+                                                                                       of 0.0012–0.0015/h) than in the males (kelim of 0.0005–0.001/h),
+                                                                                       the sex difference is much smaller than that seen with the rats.
+                                                                                       There are two phases of PFNA disappearance from the serum com-
+                                                                                       partment for both male and female mice, and both phases appear
+                                                                                       to be dependent on exposure doses, suggesting non-linear phar-
+                                                                                       macokinetics. For the female mice, the ﬁrst phase of serum PFNA
+                                                                                       disappearance (t½␣ of 0.01–1.18 day) likely describes fast distri-
+                                                                                       bution of the chemical to tissue compartments, while the second
+                                                                                       phase (t½␤ of 26–69 days) reﬂects largely excretion of PFNA. Serum
+                                                                                       and tissue (liver and kidney) half-lives of the 10 mg/kg group are
+                                                                                       consistently longer than those of the 1 mg/kg group, leading to
+                                                                                       slightly exaggerated (by about 40%) AUC estimates in the high dose
+                                                                                       group. Similar to observations with the rat, PFNA is accumulated in
+                                                                                       the mouse liver but not in the kidneys, as the L/S ratios are about
+                                                                                       5 and K/S ratios are less than 0.5 regardless of dose. The non-linear
+                                                                                       characteristics of PFNA serum elimination resemble those of PFOA,
+                                                                                       although the latter displays its non-linearity only at a higher expo-
+                                                                                       sure dose (60 mg/kg) (Lou et al., 2009). Serum and tissue PFNA levels
+                                                                                       appear to reach equilibrium rapidly, and the equilibrated state is
+                                                                                       maintained throughout the evaluation period as both L/S and K/S
+                                                                                       ratios remain within a narrow range (Fig. 5). The pharmacokinetic
+                                                                                       proﬁle of PFNA in the male mice is more complex. The serum t½␤
+Fig. 5. Liver:serum (top panel) and kidney:serum (bottom panel) ratios of PFNA in      of male mice in the 1 mg/kg group is only slightly longer than that
+CD-1 mice at various intervals after exposure. Data are presented as means with        of females (34.4 days vs. 25.7 days), but the serum AUC and Cmax
+minimum and maximum values indicated by error bars. The dashed line denotes a          estimates of the males are lower than those for the females. The
+tissue:serum ratio of 1.
+                                                                                       chemical appears to be taken up efﬁciently and stored preferen-
+                                                                                       tially in the liver, as the hepatic AUC of male mice is about 5.5 times
+the time scales of the two phases are different for the two gen-                       greater than that of females, although the hepatic Cmax estimate in
+ders. In the male rats, the ﬁrst and faster phase (t½␣ of 0.87 day)                    the male mice is only slightly higher (by about 20%). In addition,
+likely reﬂects distribution of PFNA to tissues (such as liver), and to                 the L/S ratios for low-dose male mice appear to increase over time
+a smaller extent excretion. A second and slower phase, with t½␤ of                     (Fig. 5), a ﬁnding that is consistent with preferential storage in the
+23–42 days perhaps represents a small and continuous equilibra-                        liver compartment. The serum mean t½␤ estimate for male mice
+tion between tissue and serum compartments, but predominately                          in the 10 mg/kg group is extraordinarily long (228 days), leading
+excretion of the chemical. It is noteworthy that the serum AUC                         to disproportionately higher serum AUC and Cmax estimates, com-
+and Cmax estimates for both male and female rats increase propor-                      pared to the estimates derived from the 1 mg/kg group. However,
+tionally with exposure doses (up to 10 mg/kg), suggesting linear                       these mean estimates may be skewed due to non-Gaussian distri-
+pharmacokinetics. The current study evaluated PFNA levels in two                       bution, and the low end values of the 95% conﬁdence interval are
+tissue compartments and noted that the liver, but not the kidney,                      in fact more in line with the estimates from the 1 mg/kg group. On
+is capable of chemical accumulation. Indeed, at terminal evalua-                       the other hand, the liver AUC and Cmax estimates in the high-dose
+tion (50 days after administration), the PFNA levels in the liver                      male mice are disproportionately lower when they are compared
+are markedly higher than those of serum (for males), where levels                      to those in the low-dose group, perhaps indicating saturated stor-
+in the kidneys are below detection limits (for females) (Table 2).                     age of the chemical in this compartment. Similar to the low-dose
+Moreover, the liver PFNA levels do not increase linearly with the                      males, the high-dose group also displays a trend of increasing L/S
+administered doses (unlike the serum levels), leading to a dose-                       ratios over time (Fig. 5). Importantly, the PFNA storage capacity in
+dependent decrease of L/S ratios (from 9.3 in the 1 mg/kg group to                     the male mice is consistently larger than that of females, regard-
+3.7 in the 10 mg/kg group). These data are consistent with previous                    less of exposure doses. Thus, although the sex-difference in the
+ﬁndings of a dose-dependent distribution of PFOA in the rat liver                      mouse regarding serum disposition of PFNA is small compared to
+(Kudo et al., 2007) and suggest that hepatic accumulation of PFNA in                   that in the rat, there are substantial differences between males and
+the male rat is saturable at the higher doses of exposure. Although                    females in the uptake and storage of the chemical in the liver com-
+data for female rats also ﬁt a two-compartment model, clearance of                     partment. Further work will be needed to determine the origin of
+PFNA is largely captured by t½␣ of 1.4–1.6 days, because by 15 days                    the observed non-linear distribution to tissue.
+after chemical administration, serum PFNA levels already fall to                           In the rat, the rate of perﬂuoroalkyl carboxylate (PFCA) elimina-
+background. Hence, t½␤ of 32 days in female rats mostly represents                     tion appears to vary with the carbon-chain length, although the sex
+the slow elimination of residual chemical. Given the difference in                     difference is a common feature. Hence, serum half-lives of perﬂu-
+time scales associated with the two elimination phases in male and                     orobutyrate (C4, 9.2 h for males and 1.8 h for females, Chang et al.,
+female rats, it is possible that the two phases describe different pro-                2008) and perﬂuorohexanoate (C6, 1–2.4 h for males and 0.4–1.2 h
+54                                                  K. Tatum-Gibbs et al. / Toxicology 281 (2011) 48–55
+
+
+for females, Ohmori et al., 2003; Chengelis et al., 2009a,b) are rel-           greater body burden and the potential for increased adverse effects.
+atively short, those of perﬂuorooctanoate (C8, 5.6 days for males               This attribute could possibly lead to a greater biologic potency of
+and 2 h for females, Ohmori et al., 2003), perﬂuorononanoate (C9,               PFNA compared to PFAAs with shorter carbon chain length.
+30 days for males and 1.4–2.4 days for females, Ohmori et al., 2003,
+present study), and perﬂuorodecanoate (C10, 40 days for males and
+                                                                                Conﬂict of interest
+59 days for females, Ohmori et al., 2003) are progressively longer.
+Information for the mouse is less complete, but a similar trend is
+                                                                                    There are no conﬂicts of interest.
+apparent. Short serum half-life of C4 (13 h for males, and 3 h for
+females) has been described by Chang et al. (2008), while longer
+half-lives of C8 (22 days for males and 16 days for females, Lou et al.,        References
+2009) and C9 (34–69 days for males and 26–68 days, present study)
+are reported. Indeed, pharmacokinetic estimates in the liver also               Akaike, H., 1974. A new look at the statistical model identiﬁcation. IEEE Trans. Autom.
+                                                                                     Control 19, 716–723.
+reveal a consistent pattern. The rate constants for hepatic elimina-
+                                                                                Andersen, M.E., Butenhoff, J.L., Chang, S.C., Farrar, D.G., Kennedy Jr., G.L., Lau,
+tion of PFNA (0.00019–0.00022/h for males and 0.0005–0.00076/h                       C., Olsen, G.W., Seed, J., Wallace, K.B., 2008. Perﬂuoroalkyl acids and related
+in females) are generally slower than those of PFOA (0.00161/h for                   chemistries—toxicokinetics and modes of action. Toxicol. Sci. 102, 3–14.
+males and 0.00129/h for females, Lou et al., 2009), indicating that             Buist, S.C., Cherrington, N.J., Choudhuri, S., Hartley, D.P., Klaassen, C.D., 2002. Gender-
+                                                                                     speciﬁc and developmental inﬂuences on the expression of rat organic anion
+hepatic storage of PFCA is related to their carbon chain length.                     transporters. J. Pharmacol. Exp. Ther. 301, 145–151.
+    Mechanisms underlying the species difference of PFCA elimina-               Buist, S.C., Cherrington, N.J., Klaassen, C.D., 2003. Endocrine regulation of rat organic
+tion in the rat are presently under active investigation and likely                  anion transporters. Drug Metab. Dispos. 31, 559–564.
+                                                                                Buist, S.C., Klaassen, C.D., 2004. Rat and mouse differences in gender-predominant
+related to renal clearance of the chemicals (Kudo et al., 2001).                     expression of organic anion transporter (Oat1-3; Slc22a6-8) mRNA levels. Drug
+A number of studies have implicated the involvement of organic                       Metab. Dispos. 32, 620–625.
+anion transporters (OATs) that are regulated by sex hormones                    Butenhoff, J.L., Kennedy Jr., G.L., Frame, S.R., O’Connor, J.C., York, R.G., 2004. The
+                                                                                     reproductive toxicology of ammonium perﬂuorooctanoate (APFO) in the rat.
+(Buist et al., 2003; Kudo et al., 2002; Ljubojevic et al., 2007). A                  Toxicology 196, 95–116.
+recent study by Weaver et al. (2010) further indicated that OAT1                Calafat, A.M., Kuklenyik, Z., Reidy, J.A., Caudill, S.P., Tully, J.S., Needham, L.L., 2007a.
+and OAT3 are involved in renal secretion of C7–C9, while OATP1a1                     Serum concentrations of 11 polyﬂuoroalkyl compounds in the U.S. population:
+                                                                                     data from the national health and nutrition examination survey (NHANES). Env-
+contributes to the reabsorption of C8 through C10. At present, it is
+                                                                                     iron. Sci. Technol. 41, 2237–2242.
+not clear whether the diminished sex difference of PFCA clearance               Calafat, A.M., Wong, L.Y., Kuklenyik, Z., Reidy, J.A., Needham, L.L., 2007b. Polyﬂu-
+noted in the mouse is also related to these transporters. Ljubojevic                 oroalkyl chemicals in the U.S. population: data from the National Health and
+                                                                                     Nutrition Examination Survey (NHANES) 2003–2004 and comparisons with
+et al. (2007) reported that the renal expression pattern of OAT2 in
+                                                                                     NHANES 1999–2000. Environ. Health Perspect. 115, 1596–1602.
+the mouse resembles that in the rat, and both are under regula-                 Calafat, A.M., Needham, L.L., Kuklenyik, Z., Reidy, J.A., Tully, J.S., Aguilar-Villalobos,
+tion by sex hormones. In contrast, Buist et al. (2002) indicated that                M., Naeher, L.P., 2006. Perﬂuorinated chemicals in selected residents of the
+OAT2 mRNA levels are markedly higher in female than in male rat                      American continent. Chemosphere 63, 490–496.
+                                                                                Chambers, J.M., Freeny, A., Heiberger, R.M., 1992. In: Chambers, J.M., Hastie, T.J.
+kidney, but there is no sex difference in OAT2 expression in the                     (Eds.), Analysis of Variance; Designed Experiments. Wadsworth & Brooks/Cole.
+mouse kidney (Buist and Klaassen, 2004). Additional studies are                 Chang, S.C., Das, K., Ehresman, D.J., Ellefson, M.E., Gorman, G.S., Hart, J.A., Noker, P.E.,
+needed to resolve this issue. On the other hand, it is encouraging                   Tan, Y.M., Lieder, P.H., Lau, C., Olsen, G.W., Butenhoff, J.L., 2008. Comparative
+                                                                                     pharmacokinetics of perﬂuorobutyrate in rats, mice, monkeys, and humans and
+to note that these transporters (such as OAT4, urate transporter                     relevance to human exposure via drinking water. Toxicol. Sci. 104, 40–53.
+URAT1) have been shown to play a key role in renal reabsorption of              Chengelis, C.P., Kirkpatrick, J.B., Myers, N.R., Shinohara, M., Stetson, P.L., Sved, D.W.,
+PFCA in humans (Yang et al., 2010), suggesting a potential common                    2009a. Comparison of the toxicokinetic behavior of perﬂuorohexanoic acid
+                                                                                     (PFHxA) and nonaﬂuorobutane-1-sulfonic acid (PFBS) in cynomolgus monkeys
+mechanism across species. Furthermore, the sex difference in PFNA                    and rats. Reprod. Toxicol. 27, 400–406.
+uptake and accumulation in the mouse liver may also be related to               Chengelis, C.P., Kirkpatrick, J.B., Radovsky, A., Shinohara, M., 2009b. A 90-day
+these transporters, as hepatic mRNA expression of OAT3 has been                      repeated dose oral (gavage) toxicity study of perﬂuorohexanoic acid (PFHxA) in
+                                                                                     rats (with functional observational battery and motor activity determinations).
+shown to be male-dominant (Buist and Klaassen, 2004).
+                                                                                     Reprod. Toxicol. 27, 342–351.
+    The interpretation of results from reproductive and devel-                  D’Errico, J.R., 2007. Automatic Numerical Differentiation. MatlabCentral
+opmental toxicological studies of PFOA with the rat model is                         http://www.mathworks.com/matlabcentral/ﬁleexchange/loadFile.do?objectId=13490.
+                                                                                Das, K.P., Grey, B.E., Zehr, R.D., Wood, C.R., Butenhoff, J.L., Chang, S.C., Ehresman, D.J.,
+confounded by the efﬁcient chemical clearance in the females that
+                                                                                     Tan, Y.M., Lau, C., 2008. Effects of perﬂuorobutyrate exposure during pregnancy
+is unique to this species. Hence, a relative lack of adverse effects                 in the mouse. Toxicol. Sci. 105, 173–181.
+reported by Butenhoff et al. (2004) could have been related to the              Davis, K.L., Aucoin, M.D., Larsen, B.S., Kaiser, M.A., Hartten, A.S., 2007. Transport of
+inability of the pregnant rat to accumulate PFOA. Indeed, the mouse                  ammonium perﬂuorooctanoate in environmental media near a ﬂuoropolymer
+                                                                                     manufacturing facility. Chemosphere 67, 2011–2019.
+model with a greatly diminished sex difference in PFOA pharma-                  Dewitt, J.C., Copeland, C.B., Strynar, M.J., Luebke, R.W., 2008. Perﬂuorooctanoic
+cokinetics has been shown to be a more amenable alternative for                      acid-induced immunomodulation in adult C57BL/6J or C57BL/6N female mice.
+the detection of reproductive and developmental toxicity of this                     Environ. Health Perspect. 116, 644–650.
+                                                                                Ellis, D.A., Martin, J.W., De Silva, A.O., Mabury, S.A., Hurley, M.D., Sulbaek Ander-
+chemical (Lau et al., 2006; Lou et al., 2009). Although the species                  sen, M.P., Wallington, T.J., 2004. Degradation of ﬂuorotelomer alcohols: a likely
+differences for PFNA disposition are not as dramatic as those for                    atmospheric source of perﬂuorinated carboxylic acids. Environ. Sci. Technol. 38,
+PFOA, the mouse model may similarly prove to be better for eval-                     3316–3321.
+                                                                                Fang, X., Feng, Y., Shi, Z., Dai, J., 2009. Alterations of cytokines and MAPK signal-
+uation of reproductive and developmental toxicity, and ultimately                    ing pathways are related to the immunotoxic effect of perﬂuorononanoic acid.
+more reliable for extrapolation of ﬁndings from animal studies to                    Toxicol. Sci. 108, 367–376.
+humans for risk assessment purposes.                                            Fang, X., Feng, Y., Wang, J., Dai, J., 2010. Perﬂuorononanoic acid-induced apoptosis in
+                                                                                     rat spleen involves oxidative stress and the activation of caspase-independent
+    In summary, the pharmacokinetic behaviors of PFNA after a sin-
+                                                                                     death pathway. Toxicology 267, 54–59.
+gle oral administration were evaluated for two rodent models (rat               Fang, X., Zhang, L., Feng, Y., Zhao, Y., Dai, J., 2008. Immunotoxic effects of perﬂuo-
+and mouse). Results from our study demonstrated that there is a                      rononanoic acid on BALB/c mice. Toxicol. Sci. 105, 312–321.
+                                                                                Feng, Y., Fang, X., Shi, Z., Xu, M., Dai, J., 2010. Effects of PFNA exposure on expression of
+major sex difference in the serum elimination of PFNA between
+                                                                                     junction-associated molecules and secretory function in rat Sertoli cells. Reprod.
+male and female rats. A similar sex difference was also detected in                  Toxicol. 30, 429–437.
+mice, but on a signiﬁcantly smaller scale. Our results also showed              Feng, Y., Shi, Z., Fang, X., Xu, M., Dai, J., 2009. Perﬂuorononanoic acid induces apop-
+that PFNA was accumulated preferentially in the livers but not the                   tosis involving the Fas death receptor signaling pathway in rat testis. Toxicol.
+                                                                                     Lett. 190, 224–230.
+kidneys of both rodent species. The serum and hepatic half-lives of             Giesy, J.P., Naile, J.E., Khim, J.S., Jones, P.D., Newsted, J.L., 2010. Aquatic toxicology of
+PFNA are generally longer than those of PFOA, thereby providing a                    perﬂuorinated chemicals. Rev. Environ. Contam. Toxicol. 202, 1–52.
+                                                                K. Tatum-Gibbs et al. / Toxicology 281 (2011) 48–55                                                                  55
+
+
+Houde, M., Bujas, T.A., Small, J., Wells, R.S., Fair, P.A., Bossart, G.D., Solomon,         Ljubojevic, M., Balen, D., Breljak, D., Kusan, M., Anzai, N., Bahn, A., Burckhardt, G.,
+    K.R., Muir, D.C., 2006a. Biomagniﬁcation of perﬂuoroalkyl compounds in the                  Sabolic, I., 2007. Renal expression of organic anion transporter OAT2 in rats and
+    bottlenose dolphin (Tursiops truncatus) food web. Environ. Sci. Technol. 40,                mice is regulated by sex hormones. Am. J. Physiol. Renal Physiol. 292, F361–F372.
+    4138–4144.                                                                              Lou, I., Wambaugh, J.F., Lau, C., Hanson, R.G., Lindstrom, A.B., Strynar, M.J., Zehr, R.D.,
+Houde, M., Martin, J.W., Letcher, R.J., Solomon, K.R., Muir, D.C., 2006b. Biological            Setzer, R.W., Barton, H.A., 2009. Modeling single and repeated dose pharmacoki-
+    monitoring of polyﬂuoroalkyl substances: a review. Environ. Sci. Technol. 40,               netics of PFOA in mice. Toxicol. Sci. 107, 331–341.
+    3463–3473.                                                                              Loveless, S.E., Slezak, B., Serex, T., Lewis, J., Mukerji, P., O’Connor, J.C., Donner, E.M.,
+Hundley, S.G., Sarrif, A.M., Kennedy, G.L., 2006. Absorption, distribution, and excre-          Frame, S.R., Korzeniowski, S.H., Buck, R.C., 2009. Toxicological evaluation of
+    tion of ammonium perﬂuorooctanoate (APFO) after oral administration to                      sodium perﬂuorohexanoate. Toxicology 264, 32–44.
+    various species. Drug Chem. Toxicol. 29, 137–145.                                       Mundt, D.J., Mundt, K.A., Luippold, R.S., Schmidt, M.D., Farr, C.H., 2007. Clinical
+Kannan, K., Koistinen, J., Beckmen, K., Evans, T., Gorzelany, J.F., Hansen, K.J., Jones,        epidemiological study of employees exposed to surfactant blend containing
+    P.D., Helle, E., Nyman, M., Giesy, J.P., 2001. Accumulation of perﬂuorooctane               perﬂuorononanoic acid. Occup. Environ. Med. 64, 589–594.
+    sulfonate in marine mammals. Environ. Sci. Technol. 35, 1593–1598.                      Nilsson, H., Karrman, A., Rotander, A., van Bavel, B., Lindstrom, G., Westberg, H.,
+Kennedy Jr., G.L., Butenhoff, J.L., Olsen, G.W., O’Connor, J.C., Seacat, A.M., Perkins,         2010. Inhalation exposure to ﬂuorotelomer alcohols yield perﬂuorocarboxylates
+    R.G., Biegel, L.B., Murphy, S.R., Farrar, D.G., 2004. The toxicology of perﬂuorooc-         in human blood? Environ. Sci. Technol. 44, 7717–7722.
+    tanoate. Crit. Rev. Toxicol. 34, 351–384.                                               Ohmori, K., Kudo, N., Katayama, K., Kawashima, Y., 2003. Comparison of the toxicoki-
+Kudo, N., Katakura, M., Sato, Y., Kawashima, Y., 2002. Sex hormone-regulated renal              netics between perﬂuorocarboxylic acids with different carbon chain length.
+    transport of perﬂuorooctanoic acid. Chem. Biol. Interact. 139, 301–316.                     Toxicology 184, 135–140.
+Kudo, N., Kawashima, Y., 2003. Toxicity and toxicokinetics of perﬂuorooctanoic acid         Olsen, G.W., Chang, S.C., Noker, P.E., Gorman, G.S., Ehresman, D.J., Lieder, P.H.,
+    in humans and animals. J. Toxicol. Sci. 28, 49–57.                                          Butenhoff, J.L., 2009. A comparison of the pharmacokinetics of perﬂuorobutane-
+Kudo, N., Sakai, A., Mitsumoto, A., Hibino, Y., Tsuda, T., Kawashima, Y., 2007. Tissue          sulfonate (PFBS) in rats, monkeys, and humans. Toxicology 256, 65–74.
+    distribution and hepatic subcellular distribution of perﬂuorooctanoic acid at           Paul, A.G., Jones, K.C., Sweetman, A.J., 2009. A ﬁrst global production, emission, and
+    low dose are different from those at high dose in rats. Biol. Pharm. Bull. 30,              environmental inventory for perﬂuorooctane sulfonate. Environ. Sci. Technol.
+    1535–1540.                                                                                  43, 386–392.
+Kudo, N., Suzuki-Nakajima, E., Mitsumoto, A., Kawashima, Y., 2006. Responses of             Powley, C.R., George, S.W., Russell, M.H., Hoke, R.A., Buck, R.C., 2008. Polyﬂuorinated
+    the liver to perﬂuorinated fatty acids with different carbon chain length in male           chemicals in a spatially and temporally integrated food web in the Western
+    and female mice: in relation to induction of hepatomegaly, peroxisomal beta-                Arctic. Chemosphere 70, 664–672.
+    oxidation and microsomal 1-acylglycerophosphocholine acyltransferase. Biol.             Prevedouros, K., Cousins, I.T., Buck, R.C., Korzeniowski, S.H., 2006. Sources, fate and
+    Pharm. Bull. 29, 1952–1957.                                                                 transport of perﬂuorocarboxylates. Environ. Sci. Technol. 40, 32–44.
+Kudo, N., Suzuki, E., Katakura, M., Ohmori, K., Noshiro, R., Kawashima, Y., 2001.           R Development Core Team, 2009. R: A language and environment for statistical
+    Comparison of the elimination between perﬂuorinated fatty acids with different              computing. R Foundation for Statistical Computing, Vienna, Austria, ISBN 3-
+    carbon chain length in rats. Chem. Biol. Interact. 134, 203–216.                            900051-07-0, URL http://www.R-project.org.
+Lagarias, J.C., Reeds, J.A., Wright, M.H., Wright, P.E., 1998. Convergence properties       Reiner, J.L., Nakayama, S.F., Delinsky, A.D., Stanko, J.P., Fenton, S.E., Lindstrom, A.B.,
+    of the Nelder-Mead simplex method in low dimensions. SIAM J. Optimiz. 9,                    Strynar, M.J., 2009. Analysis of PFOA in dosed CD1 mice. Part 1. Methods devel-
+    112–147.                                                                                    opment for the analysis of tissues and ﬂuids from pregnant and lactating mice
+Lau, C., Anitole, K., Hodes, C., Lai, D., Pfahles-Hutchens, A., Seed, J., 2007. Perﬂuo-         and their pups. Reprod. Toxicol. 27, 360–364.
+    roalkyl acids: a review of monitoring and toxicological ﬁndings. Toxicol. Sci. 99,      Renner, R., 2001. Growing concern over perﬂuorinated chemicals. Environ. Sci. Tech-
+    366–394.                                                                                    nol. 35, 154A–160A.
+Lau, C., Thibodeaux, J.R., Hanson, R.G., Narotsky, M.G., Rogers, J.M., Lindstrom, A.B.,     Weaver, Y.M., Ehresman, D.J., Butenhoff, J.L., Hagenbuch, B., 2010. Roles of rat renal
+    Strynar, M.J., 2006. Effects of perﬂuorooctanoic acid exposure during pregnancy             organic anion transporters in transporting perﬂuorinated carboxylates with dif-
+    in the mouse. Toxicol. Sci. 90, 510–518.                                                    ferent chain lengths. Toxicol. Sci. 113, 305–314.
+Lieder, P.H., Chang, S.C., York, R.G., Butenhoff, J.L., 2009a. Toxicological evalua-        Yang, C.H., Glover, K.P., Han, X., 2010. Characterization of cellular uptake of
+    tion of potassium perﬂuorobutanesulfonate in a 90-day oral gavage study with                perﬂuorooctanoate via organic anion-transporting polypeptide 1A2 organic
+    Sprague–Dawley rats. Toxicology 255, 45–52.                                                 anion transporter 4, and urate transporter 1 for their potential roles in medi-
+Lieder, P.H., York, R.G., Hakes, D.C., Chang, S.C., Butenhoff, J.L., 2009b. A                   ating human renal reabsorption of perﬂuorocarboxylates. Toxicol. Sci. 117,
+    two-generation oral gavage reproduction study with potassium perﬂuorobu-                    294–302.
+    tanesulfonate (K + PFBS) in Sprague Dawley rats. Toxicology 259, 33–45.
+

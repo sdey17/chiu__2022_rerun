@@ -1,0 +1,512 @@
+                                                                                     Health Based Guidance for Water
+                                                             Health Risk Assessment Unit, Environmental Health Division
+                                                                                                         651-201-4899
+
+
+
+                                                                                       Adopted as Rule: November 2023
+
+
+Toxicological Summary for: Perfluorohexane sulfonate
+CAS: 108427-53-8 (anion)
+     355-46-4 (acid)
+     3871-99-6 (potassium salt)
+Synonyms: PFHxS; perfluorohexanesulfonic acid; 1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexane-1-
+            sulfonate
+
+Short-term, Subchronic and Chronic* Non-Cancer Health Risk Limit (nHRL) = 0.047 µg/L**
+*Due to the highly bioaccumulative nature of PFHxS within the human body, serum concentrations are the most
+appropriate dose metric and the standard equation to derive the HRL is not appropriate. Short-term exposures have the
+potential to stay in the body for an extended period of time. In addition, accumulated maternal PFHxS is transferred to
+offspring (i.e., placental and breastmilk transfer). A single HRL has therefore been recommended for short-term,
+subchronic, and chronic durations. The HRL was derived using a toxicokinetic (TK) model previously developed by MDH
+(Goeden 2019). Model details and results are presented below.
+
+**Relative Source Contribution (RSC): Using the most recent published biomonitoring results (CDC, accessed February 2019)
+and USEPA’s Exposure Decision Tree (USEPA 2000) as outlined in MDH 2008, Section IV.E.1., an RSC of 0.5 (50%) was
+selected for the peak serum concentration during infancy. The RSC of 0.5 during infancy resulted in chronic (steady-state)
+serum concentrations at approximately 0.2 of the ‘reference’ serum concentration.
+Intake Rate: In keeping with MDH’s peer-reviewed and promulgated methodology, 95th percentile water intake rates (Table
+3-1, 3-3 and 3-5, USEPA 2019) or upper percentile breastmilk intake rates (Table 15-1, USEPA 2011) were used. Breastmilk
+concentrations were calculated by multiplying the maternal serum concentration by a PFHxS breastmilk transfer factor of
+1.4%. For the breast-fed infant exposure scenario, a period of exclusive breastfeeding for one year was used as
+representative of a reasonable maximum exposure scenario. [Note: “exclusively breast-fed” intake rates refers to infants
+whose sole source of milk comes from human breastmilk, with no other milk substitutes (USEPA 2011, page 15-2).]
+A simple equation is typically used to calculate HRLs at the part per billion level with results rounded to one significant digit.
+However, the toxicokinetic model used to derive the HRL for PFHxS showed that serum concentrations are impacted by
+changes in water concentrations at the part per trillion level. As a result, the HRL contains two digits.
+
+             Reference Dose/Concentration: HED/Total UF = 0.00292/300 = 0.0000097 mg/kg-d (or 9.7
+                                              ng/kg-d) (adult Sprague Dawley rats). [The corresponding
+                                              serum concentration is 32.4/300 = 0.108 µg/mL. Note: this
+                                              serum concentration is inappropriate to use for individual
+                                              or clinical assessment.***]
+                    Source of toxicity value: Determined by MDH in 2019
+                  Point of Departure (POD): 32.4 µg/mL (or mg/L) serum concentration (male rats -
+                                              NTP 2018, MDH modeled BMDL20%)
+
+
+
+                                                           PFHxS - 1
+             Dose Adjustment Factor (DAF): Toxicokinetic Adjustment based on Chemical-Specific
+                                               Clearance Rate = Volume of Distribution (L/kg) x (Ln2/Half-
+                                               life, days) = 0.25 L/kg x (0.693/1935 days) = 0.000090 L/kg-
+                                               day. (Half-life from Li et al 2018)
+             Human Equivalent Dose (HED): POD x DAF = 32.4 mg/L x 0.000090 L/kg-d = 0.00292
+                                               mg/kg-d
+              Total uncertainty factor (UF): 300
+              Uncertainty factor allocation: 3 for interspecies differences (for toxicodynamics), 10 for
+                                               intraspecies variability, and 10 for database uncertainty to
+                                               address concerns regarding early life sensitivity to
+                                               decreased thyroxine (T4) levels as well as lack of 2
+                                               generation or immunotoxicity studies.
+                           Critical effect(s): decreased free T4
+                       Co-critical effect(s): decreased free and total T4, triiodothyronine (T3), and
+                                               changes in cholesterol levels and increased hepatic focal
+                                               necrosis
+                     Additivity endpoint(s): Hepatic (Liver) System and Thyroid (E)
+***The serum concentration is useful for informing public health policy and interpreting population-based exposure
+potential. This value is based on population-based parameters and should not be used for clinical assessment or for
+interpreting serum levels in individuals.
+
+
+Toxicokinetic Model Description (Goeden 2019):
+PFHxS is well absorbed and is not metabolized. Serum concentrations can be calculated from the dose
+and clearance rate using the following equation.
+
+
+
+
+Where:
+Dose (mg/kg-day) = Water or Breastmilk Intake (L/kg-day) x Water or Breastmilk Concentration (mg/L)
+and
+Clearance (L/kg-day) = Volume of distribution (L/kg) x (Ln 2/human half-life, days)
+
+Two exposure scenarios were evaluated: 1) an infant fed formula reconstituted with contaminated
+water starting at birth and continuing ingestion of contaminated water through life; and 2) an infant
+exclusively breast-fed for 12 months, followed by drinking contaminated water. In both scenarios the
+simulated individuals began life with a pre-existing body burden through placental transfer of PFHxS
+(maternal serum concentration x 70%) based on median cord to maternal serum concentration ratios
+reported in the literature. The serum concentration of the mother at delivery was assumed to be at
+steady-state and was calculated by using the equation above with a time-weighted 95th percentile
+intake from birth to 30 years of age (0.048 L/kg-d). During lactation a 95th percentile water intake rate
+
+
+                                                       PFHxS - 2
+of 47 mL/kg-d and a body weight of 65.1 kg ((USEPA 2019), Table 3-3) was used to calculate daily
+maternal serum concentrations.
+Consistent with MDH methodology, 95th percentile water intake and upper percentile breastmilk
+intake rates were used to simulate a reasonable maximum exposed individual. A PFHxS breastmilk
+transfer factor of 1.4%, based on average breastmilk to maternal serum concentration ratios reported
+in the literature, was used to calculate breastmilk concentration. According to the 2016 Breastfeeding
+Report Card (CDC, 2016), nearly 66 percent of mothers in Minnesota report breastfeeding at six
+months, dropping to 41% at twelve months. MDH chose to use the breastmilk intake rates for
+exclusively breastfed infants, as reported in USEPA 2011, for one year for the breast-fed infant
+scenario.
+
+Daily post-elimination serum concentration was calculated as:
+
+
+
+
+To maintain mass balance, daily maternal serum concentrations and loss-of-chemical via transfer to
+the infant as well as excretion represented by the clearance rate, were calculated.
+
+Summary of Reasonable Maximum Exposure (RME) Scenario Model Parameters
+             Model Parameter                                          Value Used
+ Volume of distribution (Vd)       0.25 L/kg (average of male (0.287) and female (0.213) nonhuman
+                                   primate Vd, Sundstrom, 2012)
+ Vd Age Adjustment Factor          2.1 age 1-30 days decreasing to 1.2 age 5-10 years and 1.0 after age 10
+                                   years (Friis-Hansen 1961)
+ Half-life                         1935 days (mean value for all ages, Li et al 2018)
+                                   (5th to 95th percentile range: 1095 – 3358 days)
+ Elimination rate constant (k)     Calculated from Ln 2/half-life
+ Placental transfer factor         70% (mean of median paired maternal:cord blood ratios reported in the
+ (% of maternal serum level)       literature. Range of mean values 43 – 95%.)
+                                   (Mean 95th percentile value 110%, range 69 – 168%.)
+ Breastmilk transfer factor        1.4% (mean of mean paired maternal serum:breastmilk ratios reported
+ (% of maternal serum level)       in the literature. Range of mean values 0.8 – 2%.)
+                                   (No 95th percentile values reported in literature.)
+ Water Intake Rate (L/kg-d)        95th percentile consumers only (default values, MDH 2008) (Table 3-1
+                                   (for ages > 2 yrs), 3-3 (for lactating women), and 3-5 (for ages < 2yr))
+                                   (USEPA 2019)
+ Breastmilk Intake Rate (L-kg-d)   Upper percentile exclusively breast-fed infants (Table 15-1, USEPA 2011)
+ Body weight (kg)                  Calculated from water intake and breastmilk intake rate tables
+
+
+
+
+                                                  PFHxS - 3
+A relative source contribution factor (RSC) is incorporated into the derivation of a health-based water
+guidance value to account for non-water exposures. MDH utilizes the Exposure Decision Tree process
+presented in USEPA 2000 to derive appropriate RSCs. Determination of an appropriate RSC must
+recognize the long elimination half-life of PFHxS, such that a person’s serum concentration at any given
+age is not only the result of his or her current or recent exposures within the duration of concern, but
+also from exposure from years past.
+Human biomonitoring data provide a quantitative description of the ongoing widespread exposure, but
+the serum data are not informative as to the specific pathways and exposure routes. The most recently
+reported 95th percentile serum concentrations from CDC (February 2019) range from 1.62 µg/L serum
+for young children to nearly 5 µg/L serum for older children and adults. This suggests that ‘background’
+exposures, when compared to the ‘reference’ serum concentration (108 µg/L serum) would not
+represent significant sources of exposure. Using the most recent published biomonitoring results and
+USEPA’s Exposure Decision Tree (USEPA 2000) as outlined in MDH 2008, an RSC of 0.5 (50%) was
+selected.
+As mentioned above, two exposure scenarios were examined: 1) an infant fed formula reconstituted
+with PFHxS-contaminated water starting at birth and continuing ingestion of contaminated water
+throughout life; and 2) an infant exclusively breast-fed for 12 months, followed by drinking PFHxS-
+contaminated water throughout life. For the first scenario, the formula-fed infant, the water
+concentration that maintains a serum concentration attributable to drinking water at or below an RSC
+of 50% is 0.099 µg/L (Figure 1).
+Figure 1. Exclusively formula-fed infant scenario serum concentrations over a lifetime, based on MDH’s
+RME and an RSC of 50%.
+
+
+
+
+                                               PFHxS - 4
+Applying this water concentration (0.099 µg/L) in the context of the breast-fed infant resulted in serum
+PFHxS concentrations exceeding the ‘reference’ serum concentration for nearly 2 years, and the 50%
+RSC threshold for nearly 14 years. See Figure 2.
+Figure 2. Breast-fed infant scenario serum concentrations over a lifetime, based on MDH’s RME and a
+water concentration of 0.099 µg/L.
+
+
+
+
+In order to maintain serum concentrations at or below an RSC of 50% for breast-fed infants, the water
+concentration should not exceed 0.047 µg/L; see Figure 3. This water concentration also produces
+steady state serum concentrations at approximately 20% of the ‘reference’ serum concentration.
+
+
+
+
+                                               PFHxS - 5
+Figure 3. Exclusively breast-fed infant scenario serum concentrations over a lifetime, based on MDH’s
+RME, and a water concentration of 0.047 µg/L.
+
+
+
+
+To ensure protection of all segments of the population, the final health-based value for PFHxS is set
+at 0.047 µg/L.
+
+
+Cancer Health Risk Limit (cHRL) = Not Applicable
+
+                     Cancer classification:    Not Classified
+                         Slope factor (SF):    Not Applicable
+        Source of cancer slope factor (SF):    Not Applicable
+                            Tumor site(s):     Not Applicable
+
+Volatile:   Yes (moderate)
+
+Summary of Guidance Value History:
+MDH first reviewed PFHxS in 2009 and determined that there was insufficient data to derive a value. In
+2013, MDH’s Site Assessment and Consultation Unit began using the guidance value for PFOS as a
+surrogate to assess potential risks from exposure to PFHxS, in the absence of adequate chemical
+specific data. In 2018 additional toxicokinetic and toxicity information became available. In 2019, MDH
+derived a noncancer HBV (applicable to short-term, subchronic, and chronic durations) of 0.047 µg/L.
+In 2020 MDH incorporated updated water intake rates (US EPA 2019). Use of the updated intake rates
+did not result in changes to the 2018 value. In November 2023, the guidance values were adopted into
+Minnesota Rules, 4717.7860, as Health Risk Limits (HRLs).
+
+
+
+
+                                                   PFHxS - 6
+Summary of toxicity testing for health effects identified in the Health Standards Statute (144.0751):
+Even if testing for a specific health effect was not conducted for this chemical, information about that effect might be
+available from studies conducted for other purposes. MDH has considered the following information in developing health
+protective guidance.
+
+                         Endocrine        Immunotoxicity        Development         Reproductive        Neurotoxicity
+  Tested for
+                             Yes                  No                  Yes                 Yes                 Yes
+  specific effect?
+  Effects
+                             Yes1                 -2                  No3                Yes4                No5
+  observed?
+
+Comments on extent of testing or effects:
+1 Several human epidemiological studies have evaluated the possible association between serum
+
+  PFHxS and alterations in thyroid hormone levels. Two studies found an association in women
+  between serum PFHxS and thyroid hormone levels, however, other studies did not find this
+  association. Two general population epidemiology studies have evaluated associations between
+  PFHxS and reproductive hormones, finding no association.
+
+  Based on studies in laboratory animals, alterations in serum thyroid hormone levels, in particular
+  thyroxine (T4), appear to be a sensitive effect. The POD is based on decreased serum T4 levels in
+  adult male rats however, decreased serum T4 levels have also been reported in pregnant and
+  lactating rats and pups. Unfortunately, serum PFHxS levels were not measured in pregnant or
+  lactating rats or pups at the NOAEL and LOAEL dose levels, however, study results suggest that pups
+  may be more sensitive than adult nonpregnant animals. A database uncertainty factor (DB UF) has
+  been incorporated into the RfD derivation, in part, due to concerns that early life stages may be more
+  sensitive.
+  Androgenic effects have also been evaluated in laboratory animals to a limited extent. No changes in
+  adult male reproductive organ weights or sperm parameters were observed at serum levels up to
+  ~600-fold higher than the ‘reference’ serum concentration. Androgenic activity was also evaluated in
+  pups exposed in utero and through lactation. No significant effects were observed on anogenital
+  distance, nipple retention, or reproductive organ weights at serum levels ~1300-fold higher than the
+  ‘reference’ serum concentration.
+
+2 Several epidemiology studies have examined the potential association between PFHxS and
+
+ suppression of the immune system. Inverse or no associations were observed in these studies. In
+ general, available studies have not found an association between PFHxS and infectious disease
+ resistance or with hypersensitivity outcomes.
+
+  Immunotoxicity has not been studied in laboratory animals. A DB UF has been incorporated into the
+  RfD derivation, in part, to address this data gap.
+
+
+
+
+                                                       PFHxS - 7
+3 General population epidemiology studies have evaluated potential associations between maternal
+
+ PFHxS and a variety of birth outcomes. A couple of studies have reported associations with birth
+ weight or neurobehavioral outcome but others found no association.
+
+ Reproductive/developmental screening studies in rats and mice have not found treatment related
+ changes in development outcome, including neurobehavioral effects, at serum levels > ~900-fold
+ higher than the ‘reference’ serum concentration. Neurobehavioral outcomes were also evaluated in
+ a study using a single oral exposure to neonatal mice on postnatal day 10. No serum levels were
+ measured and therefore, the results could not be quantitatively incorporated into MDH’s
+ assessment. No 2-generation study has been conducted. A DB UF has been incorporated into the RfD
+ derivation, in part, to address this data gap.
+
+4 In general, epidemiology studies evaluating potential associations between PFHxS and reproductive
+
+ measures have not found any associations. A small number of studies have reported associations
+ with earlier menopause or time to pregnancy. However, since menstruation, childbirth, and lactation
+ are potential elimination routes for women this could confound the associations.
+
+ Laboratory studies in rats did not find changes in reproductive parameters at serum levels > ~1600-
+ fold higher than the ‘reference’ serum concentration. A decrease in the number of pups per litter has
+ been reported in mice, however the dose-response curve was flat and there was no difference in the
+ number of pups born to the implant ratio. The ‘reference’ serum concentration is ~500-fold lower
+ than the serum concentrations at which this effect occurs in mice, therefore the RfD is protective for
+ this potential effect.
+
+5 Two epidemiology studies have evaluated association between PFHxS serum levels and self-reported
+
+ memory loss or periods of confusion. One study reported a decrease in risk at the fifth quintile
+ whereas the second study found no association.
+
+ Laboratory animal studies have evaluated neurotoxicity using the functional observation battery
+ (FOB) and motor activity assessment. No effects were observed on adult rats and mice at serum
+ concentrations >~600-fold higher than the ‘reference’ serum concentration. Potential neurological
+ effects have also been evaluated in rat pups using these same evaluation tools. No effects were
+ observed at serum concentrations up to ~800-fold higher than the ‘reference’ serum concentration.
+ A neurotoxicity evaluation following a single oral dose to neonatal animals has also been conducted.
+ See footnote #3 above.
+
+
+Resources Consulted During Review:
+AAP. (2012). (American Academy of Pediatrics) Breastfeeding and the Use of Human Milk. Pediatrics,
+129(3).
+ATSDR. (2018). Agency for Toxic Substances and Disease Registry. Toxicological Profile for
+Perfluoroalkyls. Draft for Public Comment. June 2018.
+https://www.atsdr.cdc.gov/ToxProfiles/tp.asp?id=1117&tid=237 .
+
+
+                                               PFHxS - 8
+ATSDR. (2018b). (Agency for Toxic Substances and Disease Registry) Minimal Risk Levels (MRLs) and
+Environmental Media Evaluation Guides (EMEGs) for PFAS. Retrieved from
+https://www.atsdr.cdc.gov/pfas/mrl_pfas.html .
+Australian Department of Health And Ageing NICNAS. (2005). Existing Chemical Hazard Assessment
+Report. Potassium Perfluorobutane Sulfonate.
+Axelstad, M. (2019). [Personal Communication Re: Numerical Data for Figure 3A-E of Toxicological
+Science 2018 Publication.].
+Beesoon, S., GM Webster, M Shoeib, T Harner, JP Benskin, JW Martin. (2011). Isomer Profiles of
+Perfluorochemicals in Matched Maternal, Cord, and House Dust Samples: Manufacturing Sources and
+Transplacental Transfer. Environmental Health Perspectives, 119, 1659-1664.
+Bijland, S., PCN Rensen, EJ Pieterman, ACE Mass, JW van der Hoorn, MJ van Erk, KW van Dijk, SC Chang,
+DJ Ehresman, JL Butenhoff, HMG Princen. (2011). Perfluoroalkyl Sulfonates Cause Alkyl Chain Length-
+Dependent Hepatic Steatosis and Hypolipidemia Mainly by Impairing Lipoprotein Production in
+APOE*3-Leiden CETP Mice. Toxicological Sciences, 123(1), 290-303.
+Blystone, C. (2019). [Personal Communication. Use of NTP data tables and study protocol (January
+2019 email exchange). ].
+Butenhoff, J., SC Chang, DJ Ehresman, RG York. (2009). Evaluation of potential reproductive and
+developmental toxicity of potassium perfluorohexanesulfonate in Sprague Dawley rats. Reproductive
+Toxicology, 27, 331-341.
+Cariou, R., B Veyrand, A Yamada, A Berrebi, D Zalko, S Durand, C Pollono, P Marchand, J-C Leblanc, J-P
+Antignac, B Le Bizec. (2015). Perfluoroalkyl acid (PFAA) levels and profiles in breast milk, maternal and
+cord serum of French women and their newborns. Environment International, 84, 71-81.
+CDC (Center for Disease Control). National Report on Human Exposure to Environmental Chemicals.
+Biomonitoring Data Tables for Environmental Chemicals. Retrieved February 2019 from
+https://www.cdc.gov/exposurereport/data_tables.html
+CDC. (2016). Centers for Disease Control and Prevention. Breastfeeding Report Card. United States
+2016. Retrieved from https://www.cdc.gov/breastfeeding/pdf/2016breastfeedingreportcard.pdf
+Chang, S., JL Butenhoff, GA Parker, PS Coder, JD Zitsow, RM Krisko, JA Bjork, KB Wallace, JG Seed.
+(2018). Reproductive and developmental toxicity of potassiumperfluorohexanesulfonate in CD-1 mice.
+Reproductive Toxicology, 78, 150-168.
+Chen, F., S Yin, BC Kelly, W Liu. (2017). Isomer-Specific Transplacental Transfer of Perfluoroalkyl Acids:
+Results from a Survey of Paired Maternal, Cord Sera, and Placentas. Environmental Science &
+Technology, 51, 5756-5763.
+Das, K., CR Wood, MT Lin, AA Starkov, C Lay, KB Wallace, JC Corton, BD Abbott. (2017). Perfluoroalkyl
+acids-induced liver steatosis: Effects on genes controlling lipid homeostasis. Toxicology, 378, 37-52.
+Donahue, S., KP Kleinman, MW Gillman, E Oken. (2010). Trends in Birth Weight and Gestational Length
+Among Singleton Term Births in the United States, 1990-2005. Obstetrics and Gynecology, 115((2 (pt.
+1)), 357-364.
+
+
+
+                                                 PFHxS - 9
+ECHA. (2017). (European Chemical Agency) Member State Committee Support Document for
+Identification of Perfluorohexane-1-sulphonic Acid and Its Salts as Substances of Very High Concern
+Because of Their VPVB1 (Article 57 E) Properties. Retrieved from
+https://echa.europa.eu/documents/10162/13638/svhc_msc_support_document_pfhxs_4867_en.pdf/
+1f48372e-97dd-db9f-4335-8cec7ae55eee
+Felter, S., GP Daston, SY Euling, AH Piersma, MS Tassinari. (2015). Assessment of health risks resulting
+from early-life exposures: Are current chemical toxicity testing protocols and risk assessment methods
+adequate? Critical Reviews in Toxicology, 45(3), 219-244.
+FRANZ. (2017). (Food Standards Australia New Zealand) Hazard Assessment Report - Perfluorooctane
+Sulfonate (PFOS), Perfluorooctanoic Acid (PFOA), Perfluorohexane Sulfonate (PFHxS).
+Friis-Hansen, B. (1961). Body Water Compartments in Children: Changes During Growth and Related
+Changes in Body Composition. Pediatrics, 28(2), 169-181.
+Fromme, H., C Mosch, M Morovitz, I Alba-Alejandre, S Boehmer, M Kiranoglu, F Faber, I Hannibal, O
+Genzel-Boroviczeny, B Koletzko, W Volkel. (2010). Pre- and Postnatal Exposure to Perfluorinated
+Compounds (PFCs). Environmental Science & Technology, 44, 7123-7129.
+Fu, J., Y Gao, T Wang, Y Liang, G Qu, B Yuan, Y Wang, A Zhang, G Jiang. (2016). Occurrence, temporal
+trends, and half-lives of perfluoroalkyl acids (PFAAs) in occupational workers in China. Scientific
+Reports, 6:38039.
+Goeden, HM., CW Greene, JA Jacobus. (2019). A transgenerational toxicokinetic model and its use in
+derivation of Minnesota PFOA water guidance. Journal of Exposure Science & Environmental
+Epidemiology, https://doi.org/10.1038/s41370-018-0110-5 .
+Gomis, M., R Vestergren, M MacLeod, JF Mueller, IT Cousins. (2017). Historical human exposure to
+perfluoroalkyl acids in the United States and Australia reconstructed from biomonitoring data using
+population-based pharmacokinetic modelling. Environment International, 108, 92-102.
+Gutzkow, K., LS Haug, C Thomsen, A Sabaredzovic, G Becher, G Brunborg. (2012). Placental transfer of
+perfluorinated compounds is selective - A Norwegian Mother and Child sub-cohort study. International
+Journal of Hygiene and Environmental Health, 215, 216-219.
+Harris, M., SL Rifas-Shiman, AM Calafat, X Ye, AM Mora, TF Webster, E Oken, SK Sagiv. (2017).
+Predictors of Per- and Polyfluoroalkyl Substance (PFAS) Plasma Concentrations in 6−10 Year Old
+American Children. Environmental Science & Technology, 51(9), 5193-5204.
+Hoberman, A., RG York. (2003). Final Report. Argus Research Protocol 418-028. Oral (gavage) combined
+repeated dose toxicity study of T-7706 with the reproduction/developmental toxicity screening test.
+Interstate Technology and Regulatory Council (ITRC). (2018). Regulations, Guidance, and Advisories.
+Section 4 Tables (Excel). September 15, 2018.
+Karrman, A., I Ericson, B van Bavel, PO Darnerud, M Aune, A Glynn, S Lignell, G Lindstrom. (2007).
+Exposure of Perfluorinated Chemicals through Lactation: Levels of Matched Human Milk and Serum
+and a Temporal Trend, 1996-2004, in Sweden. Environmental Health Perspectives, 115, 226-230.
+
+
+
+
+                                               PFHxS - 10
+Kato, K., L-Y Wong, A Chen, C Dunbar, GM Webster, BP Lanphear, AM Calafat. (2014). Changes in
+Serum Concentrations of Maternal Poly- and Perfluoroalkyl Substances over the Course of Pregnancy
+and Predictors of Exposure in a Multiethnic Cohort of Cincinnati, Ohio Pregnant Women during 2003-
+2006. Environmental Science & Technology, 48, 9600-9608.
+Kim, S., K Choi, K Ji, J Seo, Y Kho, J Park, S Kim, S Park, I Hwang, J Jeon, H Yang, JP Giesy. (2011a). Trans-
+Placental Transfer of Thirteen Perfluorinated Compounds and Relations with Fetal Thyroid Hormones.
+Environmental Science & Technology, 45, 7465-7472.
+Kim, S.-K., KT Lee, CS Kang, L Tao, K Kannan, KR Kim, CK Kim, JS Lee, PS Park, YW Yoo, JY Ha, YS Shin, JH
+Lee. (2011b). Distribution of perfluorochemicals between sera and milk from the same mothers and
+implications for prenatal and postnatal exposures. Environmental Pollution, 159, 169-174.
+Kim, S., SH Heo, DS Lee, IG Hwang, YB Lee, HY Cho. (2016). Gender differences in pharmacokinetics and
+tissue distribution of 3 perfluoroalkyl and polyfluoroalkyl substances in rats. Food and Chemical
+Toxicology, 97, 243-255.
+Kudo, N. (2015). Chapter 6. Metabolism and Pharmacokinetics. In J. C. DeWitt (Ed.), Toxicological
+Effects of Perfluoroalkyl and Polyfluoroalkyl Substances. Switzerland: Humana Press, Springer
+International Publishing.
+Lee, Y., M-K, Kim, J Bae, J-H Yang. (2013). Concentrations of perfluoroalkyl compounds in maternal and
+umbilical cord sera and birth outcomes in Korea. Chemosphere, 90, 1603-1609.
+Li, Y., T Fletcher, D Mucs, K Scott, CH Lindh, P Tallving, K Jakobsson. (2018). Half-lives of PFOS, PFHxS
+and PFOA after end of exposure to contaminated drinking water. Occupational and Environmental
+Medicine, 75, 46-51.
+Liu, J., J Li, Y Liu, HM Chan, Y Zhao, Z Cai, Y Wu. (2011). Comparison on gestation and lactation exposure
+of perfluorinated compounds for newborns. Environment International, 37, 1206-1212.
+Manzano-Salgado, C., M Casas, MJ Lopez-Espinosa, F Ballester, M Basterrechea, JO Grimalt, AM
+Jimenez, T Kraus, T Schettgen, J Sunyer, M Vrijheid. (2015). Transfer of perfluoroalkyl substances from
+mother to fetus in a Spanish birth cohort. Environmental Research, 142, 471-478.
+MDH. (2008). Minnesota Department of Health. Statement of Need and Reasonableness (SONAR) in
+the Matter of Proposed Rules Relating to Health Risk Limits of Groundwater.
+https://www.leg.state.mn.us/archive/sonar/SONAR-03733.pdf#page=2.
+MDH. (2015). Minnesota Department of Health. Environmental Health & Biomonitoring Advisory Panel
+June 9, 2015 Meeting Background Materials. Retrieved from
+https://www.health.state.mn.us/communities/environment/biomonitoring/docs/2015Junematerials.p
+df.
+Needham, L., P Grandjean, B Heinzow, PJ Jorgensen, F Nielsen, DG Patterson Jr, A Sjodin, WE Turner, P
+Weihe. (2011). Partition of Environmental Chemicals between Maternal and Fetal Blood and Tissues.
+Environmental Science & Technology, 45, 1121-1126.
+Nelson, J. (2018b). [Personal Communication - Nov 2017 draft manuscript tables regarding MDH MN
+(East Metro) PFC biomonitoring project data].
+
+
+
+                                                 PFHxS - 11
+New Hampshire Department of Environmental Services. (2019). Summary Report on the Development
+of Maximum Contaminant Levels and Ambient Groundwater Quality Standards for PFOS, PFOA, PFNA,
+and PFHxS.
+NTP. (2018). National Toxicology Program. TOX-96: Toxicity Report Tables and Curves for Short-term
+Studies: Perfluorinated Compounds: Sulfonates. Retrieved from
+https://tools.niehs.nih.gov/cebs3/views/?action=main.dataReview&bin_id=3874 .
+Olsen, G., JM Burris, DJ Ehresman, JW Froehlich, AM Seacat, JL Butenhoff, LR Zobel. (2007). Half-life of
+Serum Elimination of Perfluorooctanesulfonate, Perfluorohexanesulfonate, and Perfluorooctanoate in
+Retired Fluorochemical Production Workers. Environmental Health Perspectives, 115, 1298-1305.
+Ramhøj, L., U Hass, J Boberg, M Scholze, S Christiansen, F Nielsen, M Axelstad. (2018). Perfluorohexane
+Sulfonate (PFHxS) and a Mixture of Endocrine Disrupters Reduce Thyroxine Levels and Cause
+Antiandrogenic Effects in Rats. Toxicological Sciences, 163(2), 579-591.
+RIVM. (2018). (National Institute for Public Health and the Environment) Mixture exposure to PFAS: A
+Relative Potency Factor approach. RIVM report 2018-0070. Retrieved from
+https://rivm.openrepository.com/handle/10029/622164 .
+Schecter, A., N Malik-Bass, AM Calafat, K Kato, JA Colacino, TL Gent, LS Hynan, TR Harris, S Malla, L
+Birnbaum. (2012). Polyfluoroalkyl Compounds in Texas Children from Birth through 12 Years of Age.
+Environmental Health Perspectives, 120, 590-594.
+Sundstrom, M., SC Chang, PE Noker, GS Gorman, JA Hart, DJ Ehresman, A Bergman, JL Butenhoff.
+(2012). Comparative pharmacokinetics of perfluorohexanesulfonate (PFHxS) in rats, mice, and
+monkeys. Reproductive Toxicology, 33, 441-451.
+USEPA. (2000). US Environmental Protection Agency (EPA). Office of Water. Methodology for Deriving
+Ambient Water Quality Criteria for the Protection of Human Health. EPA-822-B-00-004. October 2000.
+Retrieved from https://nepis.epa.gov/Exe/ZyPDF.cgi/20003D2R.PDF?Dockey=20003D2R.PDF .
+USEPA. (2011). US Environmental Protection Agency - National Center for Environmental Assessment.
+Exposure Factors Handbook. 2011 Edition. Retrieved from
+https://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=236252 .
+USEPA. (2016). US Environmental Protection Agency - Office of Water. Drinking Water Health Advisory
+for Perfluorooctane Sulfonate (PFOS). Retrieved from
+https://www.epa.gov/sites/production/files/2016-05/documents/pfos_health_advisory_final-
+plain.pdf.
+USEPA. (2018). (US Environmental Protection Agency) Public Comment Draft - Human Health Toxicity
+Values for Perfluorobutane Sulfonic Acid and Related Compound Potassium Perfluorobutane Sulfonate.
+U.S. Environmental Protection Agency (EPA) (2019). Exposure Factors Handbook Chapter 3 Update
+2019. https://www.epa.gov/expobox/exposure-factors-handbook-chapter-3
+Verner, M.-A., F Ngueta, ET Jensen, J Fromme, W Volkel, UC Nygaard, B Granum, MP Longnecker.
+(2016). A Simple Pharmacokinetic Model of Prenatal and Postnatal Exposure to Perfluoroalkyl
+Substances (PFASs). Environmental Science & Technology, 50, 978-986.
+
+
+
+                                               PFHxS - 12
+Wang, Y., W Han, C Wang, Y Zhou, R Shi, EC Bonefeld-Jorgensen, Q Yao, T Yuan, Y Gao, J Zhang, Y Tian.
+(2018). Efficiency of maternal-fetal transfer of perfluoroalkyl and polyfluoroalkyl substances.
+Environmental Science and Pollution Research, 26(3), 2691-2698.
+Weiss, J., PL Andersson, MH Lamoree, PEG Leonards, SPJ van Leeuwen, T Hamers. (2009). Competitive
+Binding of Poly- and Perfluorinated Compounds to the Thyroid Hormone Transport Protein
+Transthyretin. Toxicological Sciences, 109(2), 206-216.
+Wolf, C., ML Takacs, JE Schmid, C Lau, BD Abbott. (2008). Activation of Mouse and Human Peroxisome
+Proliferator - Activated Receptor Alpha by Perfluoroalkyl Acids of Different Functional Groups and
+Chain Lengths. Toxicological Sciences, 106(1), 162-171.
+Worley, R., SM Moore, BC Tierney, X Ye, AM Calafat, S Campbell, MB Woudneh, J Fisher. (2017). Per-
+and polyfluoroalkyl substances in human serum and urine samples from a residentially exposed
+community. Environment International, 106, 135-143.
+Wu, X., DH Bennett, AM Calafat, K Kato, M Stryner, E Andersen, RE Moran, DJ Tancredi, NS Tulve, I
+Hertz-Picciotto. (2015). Serum concentrations of perfluorinated compounds (PFC) among selected
+populations of children and adults in California. Environmental Research, 136, 264-273.
+Yang, L., J Li, J Lai, H Luan, Z Cai, Y Wang, Y Zhao, Y Wu. (2016a). Placental Transfer of Perfluoroalkyl
+Substances and Associations with Thyroid Hormones: Bejing Prenatal Exposure Study. Scientific
+Reports, 6, 21699.
+Ye, X., K Kato, LY Wong, T Jia, A Kalathil, J Latremouille, AM Calafat. (2018). Per- and polyfluoroalkyl
+substances in sera from children 3 to 11 years of age participating in the National Health and Nutrition
+Examination Survey 2013-2014. International Journal of Hygiene and Environmental Health, 221, 9-16.
+Zhang, T., H Sun, Y Lin, X Qin, Y Zhang, X Geng, K Kannan. (2013). Distribution of Poly- and
+Perfluoroalkyl Substances in Matched Samples from Pregnant Women and Carbon Chain Length
+Related Maternal Transfer. Environmental Science & Technology, 47, 7974-7981.
+
+
+
+
+                                                 PFHxS - 13
+

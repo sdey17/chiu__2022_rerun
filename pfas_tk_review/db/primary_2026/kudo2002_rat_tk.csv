@@ -1,0 +1,7 @@
+parameter,male,female,ratio_M_over_F,units,note,source_table
+total_clearance,0.035,1.551,0.0226,mL/min/kg,"mean +/- SD; M 0.010, F 0.559; p<0.01",Kudo 2002 Table 2
+total_clearance_per_day,50.4,2233.4,0.0226,mL/kg/day,converted x1440,Kudo 2002 Table 2
+halflife,5.68,0.08,71.0,d,"M +/- 0.99, F +/- 0.03; p<0.001; paper states 1/70",Kudo 2002 Table 2
+volume_of_distribution,345.6,211.2,1.636,mL/kg,"M +/- 57.3, F +/- 28.2; p<0.01 - MEASURED in both sexes, same experiment",Kudo 2002 Table 2
+renal_clearance_untreated,0.032,0.732,0.0437,mL/min/kg,"castrated male 0.447; 5 h after IV",Kudo 2002 Table 3
+renal_clearance_probenecid,0.010,0.016,0.625,mL/min/kg,"castrated male 0.013; no significant difference between the three groups",Kudo 2002 Table 3

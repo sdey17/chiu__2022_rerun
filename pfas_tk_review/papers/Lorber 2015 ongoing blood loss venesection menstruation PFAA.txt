@@ -1,0 +1,62 @@
+SOURCE: https://www.sciencedirect.com/science/article/abs/pii/S0045653514009771
+RETRIEVED: Firecrawl stealth proxy via https://doi.org/10.1016/j.chemosphere.2014.07.093, 2026-10-01
+STATUS: Publisher Highlights + Abstract + Introduction + section-snippet teasers.
+        Full text PAYWALLED (Elsevier, not in PMC, not OA). All text below verbatim.
+
+CITATION: Lorber M, Eaglesham GE, Hobson P, Toms L-ML, Mueller JF, Thompson JS.
+  The effect of ongoing blood loss on human serum concentrations of perfluorinated acids.
+  Chemosphere 2015;118:170-177. PMID 25180653. doi:10.1016/j.chemosphere.2014.07.093.
+  Elsevier PII S0045653514009771.
+
+HIGHLIGHTS (verbatim)
+- "We investigate if blood loss reduces body burdens of perfluorinated acids, PFAAs."
+- "PFAAs were lower in males requiring regular blood withdrawals for a medical condition."
+- "Pharmacokinetic (PK) modeling was able to duplicate this finding."
+- "PK modeling also showed that menstruation would also reduce PFAAs in women."
+
+ABSTRACT (verbatim)
+"Perfluorinated alkyl acids (PFAAs) have been detected in serum at low concentrations in
+background populations. Higher concentrations haven been observed in adult males compared
+to females, with a possible explanation that menstruation offers females an additional
+elimination route. In this study, we examined the significance of blood loss as an
+elimination route of PFAAs. Pooled serum samples were collected from individuals undergoing
+a medical procedure involving ongoing blood withdrawal called venesection. Concentrations
+from male venesection patients were approximately 40% lower than males in the general
+population for perfluorohexane sulfonate (PFHxS), perfluorooctane sulfonate (PFOS) and
+perfluorooctanoic acid (PFOA). A simple pharmacokinetic model was used to test the
+hypothesis that blood loss could explain why adult males have higher concentrations of
+PFAAs than females, and why males undergoing venesections had lower concentrations compared
+to males in the general population. The model application generally supported these
+hypotheses showing that venesection might reduce blood serum concentrations by 37% (PFOA)
+and 53% (PFOS) compared to the observed difference of 44% and 37%. Menstruation was modeled
+to show a 22% reduction in PFOA serum concentrations compared to a 24% difference in
+concentrations between males and females in the background population. Uncertainties in the
+modeling and the data are identified and discussed."
+
+KEY NUMBERS EXTRACTED
+- Observed: male venesection patients ~40-50% lower serum PFAA than general-population males.
+- Observed differences (venesection vs general population males): PFOA -44%, PFOS -37%.
+- PK-model-predicted venesection effect: PFOA -37%, PFOS -53%.
+- PK-model-predicted menstruation effect on PFOA: -22%; observed male-female difference -24%.
+- Five PFAAs consistently detected: PFOA, PFNA, PFDA, PFHxS, PFOS (from the "Measured Serum
+  Concentrations" section snippet, verbatim: "Five of the investigated PFAAs were
+  consistently detected in the samples, PFOA, PFNA, PFDA, PFHxS and PFOS (Table 1). ...
+  In general, the male venesection patients had serum concentrations 40-50% less than males
+  of the general public. For PFOS and PFOA, for example, the overall weighted average
+  concentrations of the general population males determined from the pooled results in
+  Table 1 were 17.7 and 6.3 ng mL...")
+- Population: archived de-identified serum from Sullivan-Nicolaides Pathology, Queensland
+  Australia; patients undergoing venesection for haemochromatosis (99% of donors) or
+  polycythaemia (1%); all samples collected 2009; pooled design; records gave only age,
+  collection date and number/dates of venesections.
+- Comparison with background: South East Queensland pooled serum (30 individuals per pool);
+  NHANES 2003/2004 male vs female GM PFOS 23.3 vs 18.4 ng/mL and PFOA 4.5 vs 3.5 ng/mL.
+
+LIMITATIONS VISIBLE FROM THE AVAILABLE TEXT
+- Pooled (not individual) serum, so no within-person change and no individual-level
+  elimination rate. No half-life or clearance is reported; the quantities are percentage
+  differences and model-predicted percentage reductions.
+- Cross-sectional comparison of two different populations (venesection patients vs pooled
+  general population), so confounding by diet, age structure and exposure is unaddressed.
+- Haemochromatosis is itself a liver-iron disorder; hepatic handling of PFAA in these
+  patients is not characterised.

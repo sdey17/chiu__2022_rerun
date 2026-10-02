@@ -1,0 +1,882 @@
+           North Carolina Department of Environmental Quality
+                                  and
+         North Carolina Department of Health and Human Services
+
+
+                    Secretaries’ Science Advisory Board
+Review of the North Carolina Drinking Water Provisional Health Goal for GenX
+
+
+                              August 29, 2018
+
+
+                                  DRAFT
+                      Section 1 – The Secretaries’ Science Advisory Board
+The Secretaries for the North Carolina Departments of Environmental Quality (DEQ) and of
+Health and Human Services (DHHS) established their Science Advisory Board (SAB) in July 2017.
+It is founded on recognition that clean air, water and land are critical to quality of life, to
+protect health and to promote a vibrant economy for all North Carolinians. The Board
+comprises experts in toxicology, epidemiology, environmental science, environmental
+engineering, medicine and other disciplines and their expertise will help guide the two agencies
+in carrying out their responsibilities to protect the safety and health of the citizens. The Board
+provides advice on the adverse effects of environmental contaminants, monitoring and
+measuring exposure to environmental contaminants, and on their control.
+The Board performs or recommends reviews and evaluations of contaminants released to the
+environment; acts as consultants on DEQ’s determinations to regulate releases of
+contaminants; assists both agencies in identifying contaminants of emerging concern and helps
+determine whether the contaminants should be studied further; assists the Secretaries in
+providing expertise to evaluate the human and environmental impacts of exposure to
+hazardous contaminants; and provides input to DHHS as the agency establishes health goals for
+emerging contaminants.
+Specifically, the charter of the NC DEQ and NC DHHS Secretaries’ Science Advisory Board (SAB)
+describes the duties of the board as:
+   (a) To perform or recommend reviews and/or evaluations of matters concerning the release
+   of contaminants to the environment that are placed on the Board agenda by DEQ or DHHS.
+   (b) To advise the EMC [Environmental Management Commission] on information concerning
+   the regulation and evaluation of releases of contaminants that come to the attention of the
+   Board.
+   (c) To review the effects of chemicals that are proposed to be regulated by DEQ as
+   contaminants and to recommend the necessity and/or urgency for controlling the releases of
+   such chemicals that are found to cause deleterious environmental and human health effects
+   with priority given to the study of contaminants for which control has been deferred pending
+   further study.
+   (d) To act as consultants regarding the DEQ’s determinations to regulate releases of
+   contaminants and in determining factors for establishing acceptable levels for contaminants
+   and for remediation levels for contaminants in other media.
+
+
+                                                                                                 1
+    (e) To recommend concentrations of contaminants in a "range of risks" to DEQ and EMC for
+    regulation that will minimize adverse health responses in the exposed citizenry and to advise
+    the EMC of the scientific basis for these recommendations.
+
+
+                                 Section 2 – The Board’s Charge for GenX
+The Departments asked the Board to review information on GenX 1, including a review of the
+DHHS provisional drinking water health goal and of available scientific information about health
+and environmental concerns and their control, and to provide recommendations to DEQ on the
+starting point for developing regulatory standards.
+During the January 29, 2018 SAB meeting DEQ and DHHS were asked for clarification on the
+type of deliverables the Board was requested to provide to the agencies. DEQ requested the
+Board provide recommendations on a reference dose which would be used to establish water
+quality standards for GenX. DHHS requested the Board review and provide recommendations
+on the derivation and calculation of the health goal for GenX, including the point of departure
+(POD), the calculation parameters, the uncertainty factors, and the options to use benchmark
+dose (BMD) modeling in lieu of a NOAEL (No Observed Adverse Effect Level) approach, and to
+provide feedback on any future modifications to these values and calculations that may be
+considered as additional GenX-related health studies are published.
+
+
+                                     Section 3 – GenX in North Carolina
+GenX, C6HF11O3, is a clear, colorless liquid with high water solubility (100,000 – 300,000 mg/L),
+apparent low organic carbon partitioning capacity (estimated Kow 1.3 – 2.0)2, that under normal
+environmental conditions exists as an anionic acid (2.8 pKa acid dissociation constant) 3 (Hoke et
+al., 2016). Biodegradability test data (Mitsubishi Chemical Medience Corporation, 2009; Kaplan,
+2010) indicate GenX is not easily biodegradable and therefore expected to be relatively
+persistent in the environment. With its high water solubility at environmentally-relevant pH,
+GenX will move readily in water (i.e., surface water, groundwater, rainwater). The fate of GenX
+in terms of ultimate sites of deposition in the environment is uncertain. Potential transport
+
+
+
+1
+  GenX is correctly the name of the manufacturing process, but is commonly used, and is used here, to refer to a
+  key chemical in the process: 2,3,3,3-tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-propanoic acid (CASN
+  13252-13-6)
+2
+  Kow is the octanol-water partitioning coefficient, the ratio of the equilibrium concentration of a dissolved
+  chemical in a two-phase system of n-octanol and water. n-Octanol serves as a surrogate to biota lipids and Kow
+  values are used as an indicator of a chemicals tendency to bioaccumulate, or to be taken-up by organisms from
+  the environment.
+3
+  The pKa predicts that GenX will be in acid form (as a negative ion, or an anion) at pH levels at or above a pH of
+  2.8.
+
+                                                                                                                      2
+mechanisms of GenX and other PFAS released into the environment from industrial sources are
+illustrated in Figure 1.
+GenX is an artificial chemical and does not occur naturally. It is produced commercially for use
+in manufacturing non-stick coatings and may be an unintended by-product of other processes
+that produce related compounds. The Chemours (formerly DuPont) facility in Fayetteville NC
+has manufactured GenX since 2010 (Sun et al., 2016) as a replacement for PFOA and PFOS 4, two
+chemicals which have been associated with health effects in animals including developmental,
+reproductive, immunological, and cancer adverse health outcomes (EPA 2016a, EPA 2016b) and
+are part of the same broad family of chemicals known as per- and polyfluoroalkyl substances
+(PFAS). GenX has also been produced as a by-product of the facility’s vinyl ether manufacturing
+process for more than three decades. GenX, and previously PFOA, have been released from the
+DuPont/Chemours plant in Fayetteville to air and to surface water. Public concern about GenX
+and related compounds escalated in June 2017 following reports that GenX had been detected
+in the Cape Fear River (Sun et al., 2016), which is the primary source of drinking water to the
+city of Wilmington and some other communities in North Carolina. GenX and other PFAS were
+also found in finished municipal drinking waters sourced from the Cape Fear River downstream
+of the Chemours/DuPont plant. GenX has also been found in the environment close to the
+Chemours/DuPont plant in Fayetteville. There are presently no federal nor state standards for
+GenX for water, soil, air or food.
+
+
+                              Section 4 – The Board’s GenX Review Process
+The Board addressed GenX at its meetings on October 23, 2017; December 4, 2017; January 29,
+2018; March 19, 2018; April 30, 2018; and June 18, 2018. It invited and received comments
+from concerned entities during public comment portions of those meetings and between
+meetings, and thanks the persons and entities that contributed comments. Board members
+reviewed extensive documentation provided by the Departments and accompanying written
+submissions and sought insights from related activities in the Netherlands, where GenX has
+been found in the environment around a Chemours facility (Netherlands 2016). The Board
+recommended additional analyses by the Departments and received the results. The Board
+recognizes the participation of staff of the Department of Agriculture and Consumer Services in
+its discussions. A summary of the meetings, documents and work are provided below and
+related documents are available on the SAB website at https://deq.nc.gov/news/hot-
+topics/genx-investigation/secretaries-science-advisory-board.
+October 23, 2017 – During this meeting, the Department of Environmental Quality and the
+Department of Health and Human Services identified priority areas about which they requested
+
+
+4
+    The chemical name for PFOA is perfluorooctanoic acid (CASN 335-67-1). The chemical name for PFOS is
+    perfluorooctane-sulfonate (CASN 1763-23-1).
+
+                                                                                                          3
+input from the Board. Issues relevant to PFAS and GenX were identified as among those
+priorities.
+The family of per- and poly-fluoroalkyl substances (PFAS) contains many compounds, including
+more than 3000 manufactured chemical structures (Wang Z, et al., 2017). Some older or
+“legacy” PFAS compounds (those PFAS produced historically and commonly represented by
+larger PFAS compounds), e.g. PFOA and PFOS, have substantial health data and regulatory
+standards. However, the PFAS family also contains many emerging compounds about which
+there are few or no health or ecological effects data, and for which there are no regulatory
+standards. Many of these emerging PFAS compounds have been found as environmental
+contaminants in North Carolina. GenX is one of the emerging PFAS compounds for which there
+are no current environmental regulatory standards for water, soil, air or food. However, there
+are health data regarding GenX that were judged sufficient by DHHS to calculate a “reference
+dose” (RfD) 5 and provisional health goal (PHG) for drinking water. The state agencies requested
+the Board examine and provide input on the current reference dose and provisional drinking
+water health goal for GenX. The Division of Air Quality (DAQ) also identified researching the
+inhalation risks and potential acceptable ambient levels for GenX and other emerging
+compounds as their current priorities.
+DHHS stated that health data for other emerging PFAS compounds identified in NC were
+insufficient to calculate a health goal. The Board was asked to consider how or if the presence
+of the additional compounds may influence the calculation of a GenX provisional health goal for
+drinking water. The Board was requested to consider a standardized approach for addressing
+other emerging PFAS with limited health data and establishing provisional health goals for
+drinking water among its recommendations.
+December 4, 2017 – An interim DEQ report and discussion on the GenX investigation and
+actions taken by DEQ was given. It included the regulatory programs and framework, history of
+GenX and PFAS production at Chemours-Fayetteville Works site, surface water monitoring
+results, additional emerging compounds, enforcement actions, groundwater monitoring results,
+information on air emissions from the Chemours-Fayetteville Works facility, and DEQ’s planned
+next steps under emerging compounds
+DHHS provided documentation describing their role in drinking water recommendations. DHHS
+gives guidance on public health by conducting health risk assessments, communicating those
+
+
+5
+    Reference dose (RfD) is a risk assessment term employed by the U.S. EPA to articulate non-cancer, non-
+    mutagenic health-risk effects associated with systemic toxicity study data. The EPA states “In the case of systemic
+    toxicity, however, organic homeostatic, compensating, and adaptive mechanisms exist that must be overcome
+    before a toxic endpoint is manifested.” The EPA defines a reference dose as: “The RfD is an estimate (with
+    uncertainty spanning perhaps an order of magnitude) of a daily exposure to the human population (including
+    sensitive subgroups) that is likely to be without an appreciable risk of deleterious effects during a lifetime.”
+    Source: https://www.epa.gov/iris/reference-dose-rfd-description-and-use-health-risk-assessments
+
+
+                                                                                                                     4
+risks and giving guidance on the levels of exposure to certain contaminants. When issuing
+guidance on drinking water, DHHS follows established methodology and rules and uses
+established reference standards when available. In the event, such as with GenX, when no
+existing health goal or standard is available, DHHS calculates a provisional health goal for
+drinking water based on health data available at that time and following methodology endorsed
+by the U.S. Environmental Protection Agency (EPA). DHHS monitors and may update a
+provisional health goal for drinking water based on new information provided by laboratory
+animal studies, epidemiologic studies, or other sources. The DHHS health goal is not legally
+enforceable.
+DHHS also provided information on available GenX health studies relevant to calculating a
+provisional health goal for drinking water and provided documentation on how the provisional
+health goal for drinking water for GenX was calculated including the NOAEL used as the point of
+departure, uncertainty factors, and a relative source contribution.
+The Board noted that the methodology used by DHHS to develop the GenX drinking water
+provisional health goal followed commonly accepted human health risk assessment practices.
+January 29, 2018 - Four representatives from the Netherlands, where there is also a Chemours
+facility using GenX in their production operations, joined the SAB meeting via video conference
+and shared their process for, and considerations in, calculating their GenX water quality
+standard of 150 ng/L.
+DHHS shared further information about the studies used as the basis of their provisional health
+goal for GenX and discussed the process and calculations relevant to it. Information shared
+included the considerations of the POD, uncertainty factors (UF) and modifying factors (MF),
+relative source contribution (RSC) and physicochemical properties. Information was also shared
+on other states’ calculations for other PFAS health goals and the Netherland’s calculation for a
+GenX health goal. Further, DHHS reported that there were sufficient dose-response data to
+support benchmark dose modeling, but insufficient data to determine a cancer slope factor.
+The SAB recommended pursuing bench mark dose modeling to identify a point of departure for
+the health goal calculation more precise than the one generated with the NOAEL-based
+approach.
+During the meeting the U.S. EPA’s Office of Water provided an update on their development of
+a GenX toxicity value. The EPA also noted they would not be developing a cancer slope factor at
+this time because of the single available carcinogenicity study, which used the rat model. Prior
+studies suggest rats are less sensitive than mice to adverse effects associated with some PFAS.
+March 19, 2018 - The DEQ shared an update of the groundwater investigations around the
+Chemours site. DEQ also provided information on GenX emissions, stack testing, and rain water
+testing. DEQ staff had been working on the groundwater assessment related to the Chemours
+facility in Bladen County. A major component of that work included groundwater sampling of
+private drinking water wells by both Chemours and DEQ. DEQ has evaluated the current
+                                                                                               5
+groundwater data and has looked for sources of the contamination while also evaluating other
+media that may need further investigation.
+DEQ had worked collaboratively with the Departments of Agriculture & Consumer Services
+(DA&CS) and DHHS to determine next steps regarding other media that may need to be
+assessed. One component of the collaborative effort included reviewing the literature
+associated with the presence of perfluorinated compounds in other media.
+DEQ presented to the SAB a vegetable garden crops study conducted in the Netherlands
+(Netherlands 2018). The study was performed at the request of the Netherlands National
+Institute for Public Health and the Environment per request from the city of Dordrecht. It
+looked at the presence of GenX in garden crops and addressed: (1) What are the concentrations
+of GenX and PFOA in selected crops from vegetable gardens in the vicinity of the DuPont
+Chemours facility in the Netherlands; and (2) Is the allowable daily intake, referred to as the
+“Tolerable Daily Intake” (TDI), via food from GenX and PFOA exceeded by consumption of
+vegetable crops in a typical consumption pattern. DEQ staff awaited an English translation of
+this study, but preliminary information provided indicates that GenX was detectable in home-
+grown produce grown within 1-kilometer of the Chemours site in the Netherlands, however
+levels did not exceed health-based limits when looking at average daily intake for individuals.
+Based on this investigation, health officials in the Netherlands recommended that vegetables
+within 1-kilometer radius of the plant not be consumed “too often” but recommended no
+limitations for produce grown beyond a 1-kilometer radius. The results of the Netherlands’
+produce study do not provide information directly relevant to the North Carolina concern other
+than as an indication that common home-grown produce may provide an exposure pathway for
+PFAS released into the environment.
+Another study was presented to the SAB by DEQ that had been conducted by the Minnesota
+Department of Health (Scher et al., 2018). The study began in 2010 in the Minneapolis-St. Paul
+area where high levels of PFAS were found in drinking water. Sources of drinking water were
+ultimately utilized for irrigation for residential gardens. The Minnesota study focused on PFOA,
+PFOS, PFBA, PFBS, PFPeA, PFHxA, and PFHxS 6. It found uptake and bioaccumulation of PFAS
+into the terrestrial food chain, represented by home-grown produce, increased as irrigation
+with PFAS-contaminated water increased. The results confirmed those of other studies
+indicating that fate and transport of PFAS is predominantly influenced by chain-length and
+functional group, resulting in the PFAS profile modification as a mixture moves from the source
+though various environmental compartments, and that short-chain PFAS are more mobile and
+water soluble than long-chain PFAS. The Minnesota Department of Health (MDH) reported the
+preferential uptake and bioaccumulation of short-chain PFAS by plants, and that this uptake
+was PFAS-specific, plant species-specific and plant tissue-specific, with preferential
+translocation from roots to more distant plant structures generally increasing with decreasing
+
+6
+    PFBA CASN 375-22-4, PFBS CASN 375-73-5, PFPeA CASN 2706-90-3, PFHxA CASN 307-24-4, and PFHxS CASN 355-
+    46-4
+
+                                                                                                         6
+chain-length. MDH reported that the home-grown produce in their study area may constitute a
+“measurable” contribution to overall PFAS exposure for high-level produce consumers in areas
+where irrigation is with PFAS-contaminated groundwater. These risk evaluations are specific to
+the exposure conditions and populations included in the MDH study and do not provide
+information directly relevant to risks specific to North Carolina populations.
+DHHS provided information on the Peroxisome Proliferator-Activated Receptor alpha (PPARα)
+mode of action (MOA) and PPARα-mediated outcomes associated with PFAS in animal studies
+and the relevance of this mode of action to human health. DHHS described findings that some
+cancer outcomes in animal studies of PFAS may be mediated by activation of PPARα and may
+not be relevant to human outcomes. DHHS also noted that PPARα activation has not been
+confirmed for the hepatocellular necrosis endpoint selected by DHHS as the critical effect for
+the RfD and calculation of the drinking water provisional health goal. DHHS shared information
+from the EPA’s PFOA and PFOS Lifetime Health Advisories (EPA 2016a, EPA 2016b) and the U.S.
+Centers for Disease Control and Prevention’s (CDC) Agency for Toxic Substances and Disease
+Registry (ATSDR) draft Toxicology Profile for PFAS (ATSDR 2012) which finds evidence of
+interspecies difference in levels of PPARα expression and responsiveness, and PPARα-
+independent mechanisms involved in PFOA and PFOS toxicity in non-cancer endpoints such as
+liver toxicity, including hepatocellular necrosis.
+DHHS reported that the U.S. EPA Office of Water and Office of Pollution Prevention and Toxics is
+working on a GenX reference dose and that DHHS is in communication with EPA as they continue
+their work.
+DHHS presented their progress on the benchmark dose modeling. DHHS staff received training
+on use of benchmark dose modeling software from U.S. EPA staff. DHHS presented the first
+stage of the work, which included data tables with each statistically significant endpoint for
+GenX from the seven available GenX oral toxicity studies (DHHS 2018). The SAB provided
+guidance on appropriate and significant endpoints relevant to human health and response
+levels for each endpoint. Recommendations informed what DHHS would use in the benchmark
+dose modeling and input into the benchmark dose modeling software to provide options for a
+point of departure.
+April 30, 2018 - DEQ presented an update on the continuing investigation of environmental
+contamination, bioaccumulation, and potential sources of exposure. Well water, groundwater,
+and soil testing continue. Rain water testing had expanded to a 7-mile radius from the
+Chemours plant. The full extent of contamination has still not been determined. As part of a
+pilot study, granulated activated carbon (GAC) filters were to be installed to evaluate the
+efficacy of this treatment method for PFAS removal. Fish tissue, water, and sediment samples
+had been collected from a private lake near the facility and were being tested as part of the
+continuing investigation into environmental contamination and bioaccumulation of GenX and
+other PFAS.
+
+
+                                                                                              7
+DHHS reported that it had consulted with U.S. EPA and a member of the SAB and is continuing
+to work on benchmark dose modeling.
+June 18, 2018 - DHHS presented a summary report on the benchmark dose modeling of the
+available GenX animal studies (DHHS 2018). DHHS requested that the SAB consider the results
+as they make recommendations about GenX health and regulatory levels in North Carolina. The
+DHHS noted that the U.S. EPA continued to work toward releasing a GenX RfD this summer.
+DEQ, DHHS and DA&CS have continued to collaborate in gathering information related to the
+presence of perfluorinated compounds in other media. DEQ presented sediment and fish tissue
+data to the SAB from a preliminary PFAS study of a privately-owned artificial lake near the
+Chemours-Fayetteville facility (DEQ 2018). Surface water, sediment and three species of fish
+had been collected in March and April 2018. Fish filet tissue samples were prepared. All
+samples were analyzed for 33 PFAS. Twenty PFAS were detected in the study, including GenX in
+the surface water, sediment and one species of fish, Redear Sunfish. DEQ classifies adult Redear
+Sunfish classified as an insectivorous species (DEQ 2014) and they are noted as opportunistic
+feeders, foraging mostly on aquatic clams and snails in native habitats (WRC 2018). The same
+16 PFAS, the highest number of PFAS detected in the sampled media, were detected in the lake
+surface water and water collected from a surface spring that flows into the lake. The 16 PFAS
+detected in the water samples included PFOA and PFOS, as well as short-chain and long-chain
+PFAS. GenX was the only PFAS detected in the lake sediment. PFOS was also detected in the
+Redear Sunfish 7-fish composite and two composite samples of Largemouth Bass, each made-
+up of fish of a different size range (a 5-fish composite of smaller fish and a 2-fish composite of
+larger, presumably older, fish). Four additional long-chain “legacy” PFAS (11, 12, 13 and 14-
+chain PFAS) were detected in the two Largemouth Bass samples and a sample from a single
+Blue Catfish.
+
+
+                Section 5 – Adoption of a Non-Cancer Approach to GenX Health Effects
+As stated above, DHHS noted there were insufficient data from the available toxicology studies
+to quantitatively assess a cancer endpoint related to GenX exposures. There exists a single 2-
+year rat carcinogenicity study. Rats have been observed to be less sensitive to some PFAS-
+associated adverse effects than mice. DHHS used non-cancer endpoints identified in the
+available animal studies, which are assumed to have a threshold below which there are no
+observable adverse effects due to homeostatic and adaptive mechanisms. The U.S. EPA
+Integrated Risk Information System (IRIS) 7 program provides a discussion of the approach for
+assessing risks for health effects other than cancer and gene mutations from chronic chemical
+
+
+7
+    IRIS is the U.S. EPA’s Integrated Risk Information System. The IRIS Program supports EPA’s mission is to protect
+    human health and the environment by identifying and characterizing the health hazards of chemicals found in
+    the environment. Available at: https://www.epa.gov/iris
+
+                                                                                                                       8
+exposures8. EPA states, “Chemicals that give rise to toxic endpoints other than cancer and gene
+mutations are often referred to as "systemic toxicants" because of their effects on the function
+of various organ systems. In addition, chemicals that cause cancer and gene mutations also
+commonly evoke other toxic effects (i.e., systemic toxicity). Based on our understanding of
+homeostatic and adaptive mechanisms, systemic toxicity is treated as if there is an identifiable
+exposure threshold (both for the individual and for populations) below which there are no
+observable adverse effects. This characteristic distinguishes systemic endpoints from
+carcinogenic and mutagenic endpoints, which are often treated as nonthreshold processes.”
+The Board identifies that the appropriate approach to determining a safe concentration for a
+chemical in drinking-water depends on how it causes harm. The Board determined that data
+were insufficient to establish whether GenX is a human carcinogen. The Board judged that
+based on the available evidence the most sensitive endpoint for GenX observed in multiple
+studies is a non-cancer endpoint (hepatocellular single cell necrosis), i.e., that there is some
+level of exposure below which does not represent a non-cancer risk to human health, and
+recommends that the U.S. EPA approach for assessing threshold non-cancer risks be applied.
+
+
+                          Section 6 – Derivation of the GenX Reference Dose
+It is necessary to identify the daily oral exposure amount below which a chemical would not
+cause adverse health effects if consumed for a lifetime. This is called the reference dose (RfD).
+The EPA defines a reference dose as “An estimate (with uncertainty spanning perhaps an order
+of magnitude) of a daily oral exposure to the human population (including sensitive subgroups)
+that is likely to be without an appreciable risk of deleterious effects during a lifetime. It can be
+derived from a NOAEL, LOAEL, or benchmark dose, with uncertainty factors generally applied to
+reflect limitations of the data used. Generally used in EPA's non-cancer health assessments.” 9
+To calculate a reference dose, DHHS reviewed seven repeat oral dose studies in rodents of 28
+days or longer that were provided by Chemours/DuPont during the U.S. EPA Toxic Substances
+Control Act (TSCA)10 review process (DHHS 2018). DHHS focused on repeat oral dose studies
+because this is most applicable to long-term human exposure from drinking water. DHHS
+consulted with toxicologists and risk assessors at U.S. EPA, the National Institute of
+Environmental Health Sciences (NIEHS), and ATSDR to identify applicable toxicology information
+and risk assessment procedures.
+
+
+8
+   Accessed at https://www.epa.gov/iris/reference-dose-rfd-description-and-use-health-risk-assessments
+9
+   Source: U.S. EPA IRIS Glossary, accessed at:
+    https://iaspub.epa.gov/sor_internet/registry/termreg/searchandretrieve/glossariesandkeywordlists/search.do?
+    details=&vocabName=IRIS%20Glossary#formTop
+10
+    Under the Toxic Substances Control Act (TSCA) and the Pollution Prevention Act, EPA evaluates potential risks
+    from new and existing chemicals and finds ways to prevent or reduce pollution before it gets into the
+    environment. U.S. EPA TSCA program web-page available at: https://www.epa.gov/chemicals-under-tsca
+
+                                                                                                                9
+The first step in calculating a RfD is to identify a point of departure (POD). DHHS released an
+initial assessment of GenX in drinking water that used a no observed adverse effect level
+(NOAEL) of 1.0 mg/kg-day from a 2-year chronic study in rats as the POD (DHHS 2017). After
+further review of the repeat oral dose studies and conversation with experts at U.S. EPA, an
+updated assessment was provided in July 2017 that identified the NOAEL of 0.1 mg/kg-day for
+liver toxicity endpoints from two sub-chronic studies in mice (28-day study and a reproductive
+screen) as a more appropriate POD for calculation of a provisional health goal (PHG) for GenX in
+drinking water (DHHS 2017). The sub-chronic studies were chosen as the critical studies
+because they demonstrated adverse effects at the lowest doses tested and the effects were
+seen across multiple studies at the same or similar doses. DHHS subsequently used the NOAEL
+of 0.1 mg/kg-day as the POD for calculations of the RfD.
+DHHS used the default uncertainty factors (UFs) recommended by U.S. EPA to derive a RfD from
+the POD. An expanded discussion of default U.S. EPA uncertainty factors is provided in
+Appendix A. DHHS did not apply a modifying factor (MF) because NOAELs from multiple studies
+were identical, or within the same order of magnitude, with similar health endpoints (liver
+toxicity). Additionally, DHHS staff concluded that the uncertainty factors discussed below
+adequately addressed the uncertainties of the database. The default uncertainty factors used
+were the following:
+
+   •   Sub-chronic to chronic uncertainty factor (UFS): A factor of 10 to account for the
+       uncertainty involved in extrapolating from less than chronic NOAELs to chronic NOAELs
+   •   Interspecies uncertainty factor (UFA): A factor of 10 to account for the uncertainty
+       involved in extrapolating from animal data to humans
+   •   Intraspecies uncertainty factor (UFH): A factor of 10 to account for the variation in
+       sensitivity among the members of the human population
+The RfD was calculated to be 0.0001 mg/kg-day by dividing the point of departure by the
+uncertainty factors.
+                      RfD, mg/kg-day = (POD, mg/kg-d) / (UFS x UFA x UFH)
+                        0.0001 mg/kg-day = 0.1 mg/kg-d / (10 x 10 x 10)
+
+
+DHHS presented the process used to calculate the provisional health goal for GenX in drinking
+water to the SAB during the October 23, 2017 meeting. In response to a request from the
+Board, DHHS compiled data from the seven repeat oral dose studies to be used in benchmark
+dose (BMD) modeling to potentially refine the point of departure (DHHS 2018). The benchmark
+dose approach conveys more dose-response information than the NOAEL-approach and applies
+EPA’s BMD software for the analysis and modeling of dose-response relationships to identify
+dose levels corresponding to specific response levels near the low-end of the observable range
+of the data (EPA 2012). The benchmark dose-response assessment involves defining the POD
+
+                                                                                             10
+and extrapolating from the POD to a response level of relevance for human exposures (the
+Benchmark Response, BMR). Benchmark dose lower bound (BMDL) values may be used rather
+than NOAELs or lowest observed adverse effect levels (LOAELs) as the point of departure for
+derivation of toxicity values such as a reference dose. Benchmark dose modeling work was
+completed by DHHS in May 2018 and presented to the SAB during the June 18, 2018 meeting.
+The modeled BMDLs for selected endpoints were presented by DHHS, while they cautioned
+that some of these values may be inappropriate to consider as a POD since the endpoints had
+very large BMD-to-BMDL ratios, indicating poor model fit and a large confidence interval on the
+BMD and perhaps inadequate data for modeling these endpoints (EPA 2012). The Board
+recommended refining the modeled BMDL ranges to exclude those with BMD-to-BMDL ratios
+>20. The refined range of BMDLs modeled by DHHS is 0.0492 to 25.3 mg/kg-day for selected
+hematology endpoints, 0.151 to 5.55 mg/kg-day for selected hepatic endpoints, and 3.06 to 635
+mg/kg-day for selected developmental endpoints. A full report of the benchmark dose
+modeling efforts, results and limitations can be found in a separate document provided to the
+SAB on May 26, 2018 (DHHS 2018).
+Based on available evidence, and calculations undertaken by DHHS staff on the request of the
+Board, the Board recommends the provisional reference dose (RfD) of 0.0001 mg/kg-day. The
+Board considers this is a reasonable health-based target action level for the state. The
+benchmark dose modeling effort generated a range of POD that were consistent with the
+NOAEL approach. As additional studies on the health effects associated with GenX become
+available, and the U.S. EPA’s development of a GenX toxicity value is completed, review and
+refinement of the RfD and the drinking water provisional health goal (PHG) should be
+undertaken by the agencies.
+
+
+    Section 7 – Calculation of the DHHS GenX Provisional Health Goal for Drinking Water
+To be protective of sensitive life-stages DHHS used the 95th percentile water intake and average
+body weight for a bottle-fed infant for calculation of a provisional health goal for GenX in
+drinking water. Bottle-fed infants drink more water compared to their body weight than other
+age groups and are therefore considered a sensitive sub-group for drinking water exposures.
+In calculating health goals for exposure from drinking water, it is necessary to consider other
+routes of potential exposure, including air and food for example. GenX has been measured in
+samples of food (specifically fish) and rainwater in North Carolina, however data on the extent
+of exposure from these other routes is limited. DHHS used a relative source contribution (RSC)
+of 20% to account for other possible routes of exposure, consistent with EPA guidance (EPA
+2000) when data on the extent of exposure from other routes are few. Use of this relative
+source contribution allocates 80% of a person’s GenX exposure to sources other than drinking
+water.
+
+
+                                                                                               11
+Applying these factors, the DHHS provisional health goal for GenX in drinking water was
+calculated as 140 ng/L (DHHS 2017). This level is not a boundary line between a “safe” and
+“dangerous” level of a chemical but represents the concentration of GenX in drinking water at
+which no adverse non-cancer health effects would be anticipated over an entire lifetime of
+exposure. The provisional health goal for GenX in drinking water is subject to change based on
+new information but was calculated with the best currently available information and using
+default factors when specific information is limited. For more details and information on the
+calculation of the provisional health goal, see https://ncdenr.s3.amazonaws.com/s3fs-
+public/GenX/NC%20DHHS%20Risk%20Assessment%20FAQ%20Final%20Clean%20071417%20P
+M.pdf.
+    140 ng/L PHG = (0.0001 mg/kg-day RfD x 7.8 kg BWinfant)/1.1 L/day IRinfant x 1E06 ng/mg x 0.2 RSC
+
+Where:
+         PHG = DHHS drinking water Provisional Health Goal, nanograms per liter, protective of bottle-
+         fed infants
+         RfD = Reference dose in milligrams GenX per kilogram body weight per day
+         BWinfant = Body weight, 7.8 kilograms for a bottle-fed infant (birth to 12 months of age)
+         IR = Intake rate of drinking water for a bottle-fed infant, 1.1 liters per day
+         1E06 = 1,000,000 nanograms per milligram conversion factor
+         RSC = Relative Source Contribution, proportion of total GenX exposure from drinking water, 0.2
+         RSC = U.S. EPA drinking water default value
+
+
+
+The DHHS GenX PHG of 140 ng/L relates to the 150 ng/L water quality standard for GenX
+developed by the Netherlands Institute for Public Health and the Environment and presented to
+the Board at the January 29, 2018 meeting. The Netherlands group noted they used a 0.1
+mg/kg-day point of departure from a chronic study in rats as it was the longest exposure study
+available. The study reported effects to the liver, changes in albumin level and the
+albumin/globulin ratio at the lowest effect level (LOAEL). The Netherlands agency applied an
+additional safety factor to adjust for possible toxicokinetic differences between humans and the
+GenX study test species, as to reflect difference reported for PFOA. The toxicokinetics
+adjustment factor was calculated as the difference in the elimination half-life of PFOA in
+humans to monkeys. The Netherlands agency staff stated application of the toxicokinetics
+factor was supported by the chemical similarity of PFOA and GenX, the similarity in toxicological
+effects for the two chemicals and indications of half-life differences among humans and other
+species reported for other PFAS compounds. Other factors applied in their calculation included
+a factor of 10 for human population sensitivity variation (interspecies variability) and a 20%
+factor for the total allowed daily uptake for water (2 liters per day for a 70 kg adult).
+The Board noted the exposure of an adult consuming drinking water contaminated with GenX
+at the provisional health goal concentration of 140 ng/L and assuming EPA-referenced default
+exposure parameters (70 kg body weight and 2 liters per day water intake) and 100% of the
+
+                                                                                                        12
+GenX exposure from drinking water indicates an adult exposure dose equal to 1/25th of the
+reference dose (0.0001 mg/kg-day GenX RfD) calculated by DHHS. This calculation indicates an
+additional margin of safety for an adult consumer ingesting drinking water contaminated with
+GenX at the PHG level, as the PHG was calculated to be protective of a bottle-fed infant
+representing the population group with the highest water intake per body weight.
+     (140 ng/L GenX x 2 L/day IRadult)/70 kg BWadult x 1E06 ng/mg = 4E-06 mg/kg-day adult dose
+                      (1E-04 mg/kg-day RfD)/(4E-06 mg/kg-day adult dose) = 25
+Where:
+         IRadult = Intake rate of drinking water for an adult, 2 liters per day
+         BWadult = Body weight, 70 kilograms for an adult
+
+
+
+The Board judges that the U.S. EPA default assumption that 20% of exposure be attributed to
+drinking-water is appropriate and common U.S. EPA default values for consumption and body
+weight were also used for the calculation of the GenX point of departure, reference dose and
+the drinking water provisional health goal. The Board judges that protection of the most
+susceptible segment of the population, that is the group with the greatest water intake to body
+weight, bottle-fed infants, is appropriate.
+
+
+                            Section 8 – Ecological, Produce and Air Concerns
+Ecological implications of GenX exposure are poorly understood in the natural environment
+because there is very little environmental monitoring data on invertebrate, fish and wildlife
+receptors. Laboratory studies on GenX accumulation in common carp (28-day bioconcentration
+factor 11, BCF <30 L/kg-tissue) and toxicity to green algae (72-hour no observed effect
+concentration (NOEC) >107 mg/L), daphnids (21-day NOEC for reproduction 4.17 mg/L), and
+fishes including Japanese medaka (96-hour EC50 >100 mg/L) 12, rare gudgeon (96-hour EC50
+>150 mg/L) and rainbow trout (90-day reproduction NOEC of 8.9 mg/L) (Hoke et al., 2016)
+indicate adverse effects at exposures much higher than reported environmental
+concentrations. There was no effect on bobwhite quail at dietary concentrations up to 100
+mg/kg (Newsted et al., 2008). The extent to which these commonly tested species are
+
+
+
+11
+   A Bioconcentration Factor (BCF) is a proportionality constant relating the chemical concentration in fish to the
+   concentration in water under steady-state conditions. It measures the tendency of a chemical to accumulate in
+   fish. Measurements of BCFs are generally undertaken in a controlled laboratory environment.
+12
+   EC50 is the “effect concentration” of a test substance that results in specified effect to 50% of the test
+   population. Common measured effects include mortality, reduced growth or reduced reproduction. Source:
+   https://iaspub.epa.gov/sor_internet/registry/termreg/searchandretrieve/glossariesandkeywordlists/search.do?
+   details=&vocabName=IRIS%20Glossary#formTop
+
+                                                                                                                13
+adequate surrogates for the diversity of free-living invertebrates, fish, and wildlife in the Cape
+Fear basin is unknown.
+The Board heard in March and April 2018 DEQ collected surface water, sediment and fish from
+a privately-owned lake less than 1-mile from the Chemours facility for a limited PFAS study
+(DEQ 2018). The study identified 20 different PFAS in the study samples of the 33 PFAS included
+in the target analyte list. GenX was detected in the lake surface water (968 ng/L), a surface
+spring feeding the lake (1160 ng/L) and in the lake surface sediment (1,800 ng/kg dry weight
+sediment). GenX was also detected in one of three species of fish collected from the lake, the 7-
+fish Redear Sunfish filet composite (270 ng/kg wet weight tissue). Five other PFAS were also
+detected in the three-fish species, including the legacy 8-carbon PFOS, as well as the legacy 11,
+12, 13 and 14-carbon PFAS compounds PFUdA, PFDoA, PFTrDA and PFTeDA 13 (361 to 2840
+ng/kg-wet weight). These data indicate the current-use and historical PFAS are present in
+environmental compartments in the area near the Chemours facility and may be attributed to
+releases from the Fayetteville facility.
+There is little information on ecological toxicity benchmarks for these and most other PFAS,
+limiting our ability to assess potential ecological harm related to individual PFAS exposures, or
+to mixtures of PFAS compounds which may occur in areas where these compounds are
+manufactured or used in production. There is also inadequate information on the potential for
+ecological effects associated with additive, long-term exposures to sensitive receptors.
+Measured air emissions of the GenX compounds from some of the processes at the
+Chemours/DuPont plant are significantly higher than previously understood or reported. GenX
+has also been measured in rainwater as far as 20 miles downwind of the facility, indicating
+atmospheric transport and deposition of this compound. Testing of private drinking water wells
+near but upgradient of the Chemours/DuPont plant has shown concentrations of GenX. The
+combination of environmental measurements and analysis by DEQ strongly indicate a causal
+link between GenX air emissions and widespread groundwater degradation near the
+Chemours/DuPont plant.
+
+
+                           Section 9 – The Significance of the Circumstances
+Board members heard compelling testimony from citizens, some clearly distressed, expressing
+profound concern for their health and that of their family members and others. The degree of
+public concern calls for action by the state to promote safe environmental conditions and to
+give practical guidance to those who are concerned to protect their own health and that of
+their family and community, especially more vulnerable persons. Large centers of population
+that are, or have been, exposed (such as those of the Lower Cape Fear Basin), and people with
+
+
+13
+     PFUdA CASN 2058-94-8, PFDoA CASN 307-55-1, PFTrDA CASN 72629-94-8, PFTeDA CASN 376-06-7
+
+                                                                                                 14
+high levels and multi-media exposure (such as those living close to the Chemours plant in
+Fayetteville), are of special concern.
+Comprehensive characterization of PFAS present in the environment and identification of all
+routes of exposure, and the implications of additive exposures are desirable, but the evidence
+needed to undertake these tasks is not currently available. Agencies and organizations with the
+capacity to persuade and facilitate the acquisition of this knowledge are urged to do so to
+enhance protection of human health and the environment. Studies are needed to characterize
+current and changes to PFAS burdens in nearby environmental matrices that may serve as long-
+term sources of PFAS to the local and regional environment, even as local emission sources to
+the environment may be controlled. In circumstances where concentrations observed in
+environmental matrices may not have implications to the health of non-human ecosystem
+components, these concentrations may provide long-term sources of exposure to sensitive
+human receptors through uptake by plants, animals or fishes consumed by humans.
+
+
+         Section 10 - Recommendations in Response to the Board’s Charge for GenX
+The Board recommends the reference dose developed by DHHS to DEQ as the foundation for
+establishing health-protective environmental standards including for groundwater and
+surface water.
+The Board recommends the use of the current reference dose and provisional health goal
+developed by DHHS as the foundation for protecting affected and sensitive populations and
+providing corresponding risk assessments and advice.
+NC DHHS developed a health-protective provisional health goal for drinking water for the most
+vulnerable population exposed to GenX using the best available science as federal and state
+standards were not available. DHHS followed the Board’s recommendation to further evaluate
+the provisional health goal developmental process by using benchmark dose modeling to
+possibly refine the point of departure.
+
+
+                            Section 11 – Other Recommendations
+GenX is an ‘emerging hazard’, meaning one about which current scientific studies are few and
+new information is being produced. The Board judges that the available evidence is adequate
+to inform the adoption of the reference dose and the provisional health goal described here.
+Because there is ongoing research in North Carolina, nationally and internationally, and there
+are likely to be other studies:
+
+
+
+
+                                                                                             15
+•   The Board recommends re-opening and updating this document as health values for
+    GenX or other PFAS become available from the U.S. EPA, with consideration of utilizing
+    benchmark dose modeling data to identify a range of risk values applicable.
+•   The Board counsels that the recommendations made here be reviewed within three
+    years by the Board and Departments with a view to ensuring the adequacy of health
+    protection and the efficacy of control measures. This will require ongoing monitoring
+    and evaluation of environment and health conditions by the Departments.
+•   That DEQ and DHHS collaborate with the NC Department of Agriculture and Consumer
+    Services and others to improve understanding of the relevance to local populations of
+    exposure to GenX through foodstuffs, in particular with a view to determining whether
+    standards for foodstuffs and/or guidance to local populations on food-related exposures
+    are necessary and can be scientifically justified.
+•   That GenX and other PFAS releases to the air be characterized to evaluate inhalation
+    exposures for humans, as well as the implications for contamination of soil, surface
+    water, groundwater and the food web.
+•   That DEQ encourage and support efforts to more fully understand the ecological and
+    environmental impacts of GenX, but also the long-term low-level additive exposures to
+    mixtures of PFAS, including their persistence, environmental fate, and effects on
+    ecological receptors.
+•   That the Departments recognize the concern of population members that exposure to
+    GenX has occurred concurrent with exposure to other related emissions from the
+    Chemours/DuPont plant and support efforts to understand possible interaction among
+    the toxicity of and exposure to the associated chemicals and potential approaches to
+    their combined regulation.
+•   That the Departments further recognize the concern of population members about the
+    accumulation of these chemicals in the environment (for example in soils, river
+    sediments and through bioaccumulation in animals) causing continuing human
+    exposure.
+
+
+
+
+                                                                                        16
+                                            Figure
+
+
+
+
+Figure 1. PFAS industrial source conceptual site model. Source: Environmental Fate and
+Transport for Per- and Polyfluorinated Substances. Interstate Technology and Regulatory
+Council (ITRC), Washington, DC. March 2018. https://pfas-1.itrcweb.org/
+
+
+
+
+                                                                                          17
+                                          References
+ATSDR (Agency for Toxic Substances and Disease Registry), 2012. Toxicological Profile for
+Perfluoroalkyls, Draft. Division of Toxicology and Human Health Sciences Environmental
+Toxicology Branch, Atlanta, Georgia. 2012.
+
+Chemours/Dupont GenX Health Studies. Available at:
+https://edocs.deq.nc.gov/WaterResources/Browse.aspx?dbid=0&startid=624254&row=1&cr=1
+
+DEQ (North Carolina Department of Environmental Quality), 2014. Fish Tissue Monitoring
+Program (FTMP) Quality Assurance Project Plan, Version 1.2 March 28, 2014. Division of Water
+Resources. Available at: http://portal.ncdenr.org/c/document_library/get_file?uuid=f2e12179-
+6c60-4ed7-ad9c-43f4f76c8f0a&groupId=38364
+
+DEQ (North Carolina Department of Environmental Quality), 2018. Preliminary PFAS Study in
+Privately-Owned Man-made Lake. Presentation slides available at:
+https://deq.nc.gov/news/hot-topics/genx-investigation/secretaries-science-advisory-board
+
+DHHS (North Carolina Department of Health and Human Services), 2017. DHHS Drinking Water
+Advisory Decision Matrix. Presented to the NC SAB December 4, 2017. Available at:
+https://deq.nc.gov/news/hot-topics/genx-investigation/secretaries-science-advisory-board
+
+DHHS (North Carolina Department of Health and Human Services), 2018. Benchmark Dose
+Modeling Report for GenX, May 26, 2018. Available at: https://deq.nc.gov/news/hot-
+topics/genx-investigation/secretaries-science-advisory-board
+
+EPA (United States Environmental Protection Agency), 2000. Methodology for Deriving Ambient
+Water Quality Criteria for Protection of Human Health. United States Environmental Protection
+Agency, Office of Water. October 2000.
+https://www.nj.gov/drbc/library/documents/EPA_human-health-criteria2000.pdf
+
+EPA (United States Environmental Protection Agency), 2012. Benchmark Dose Technical
+Guidance. Risk Assessment Forum, U.S. Environmental Protection Agency, Washington, DC
+20460. EPA/100/R-12/001. June 2012. Available at:
+https://www.epa.gov/sites/production/files/2015-
+01/documents/benchmark_dose_guidance.pdf
+
+EPA (United States Environmental Protection Agency), 2016a. Drinking Water Health Advisory
+for Perfluorooctane Sulfonate (PFOS). United States Environmental Protection Agency, Office of
+Water, Health and Ecological Criteria Division Washington, DC 20460. EPA 822-R-16-004. May
+2016.
+
+EPA (United States Environmental Protection Agency), 2016b. Drinking Water Health Advisory
+for Perfluorooctanoic Acid (PFOA). United States Environmental Protection Agency, Office of
+Water, Health and Ecological Criteria Division Washington, DC 20460. EPA 822-R-16-005. May
+2016.
+
+                                                                                            18
+Hoke, RA, Ferrell, BD, Sloman, TL, Buck, RC, Buxton, WL. 2016. Aquatic hazard, bioaccumulation
+and screening risk assessment for ammonium 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)-
+propanoate. Chemosphere 149:336-342. http://dx.doi.org/10.1016/j.chemosphere.2016.01.009
+
+ITRC (Interstate Technology & Regulatory Council). Environmental Fate and Transport for Per-
+and Polyfluoroalkyl Substances, March 2018. Washington, D.C. Accessed at: https://pfas-
+1.itrcweb.org/
+
+Kaplan, MA. 2010. Letter to USEPA Office of Pollution Prevention and Toxics re: TSCA review
+8EHQ-06-16436/8EHQ-06-16478.
+
+Mitsubishi Chemical Medience Corporation. 2009. Ready Biodegradability Test of FRD903.
+Report No AO80558 to du Pont-Mitsui Fluorochemicals Company, Ltd.
+
+Netherlands Institute for Public Health and the Environment. 2016. Evaluation of substances
+used in the GenX technology by Chemours, Dordrecht. RIVM Letter report 2016-0174. M.
+Beekman et al. Available at:
+https://rivm.openrepository.com/rivm/bitstream/10029/620796/3/2016-0174.pdf
+
+Netherlands Institute for Public Health and the Environment. 2018. Risk assessment of GenX
+and PFOA in vegetable garden crops in Dordrecht. RIVM Letter report 2018-0017. Mengelers et
+al. Available at: http://rivm.openrepository.com/rivm/handle/10029/621785
+
+Newsted, JL, Beach, SA, Gallagher, SP, Giesy, JP. 2008. Acute and chronic effects of
+perfluorobutane sulfonate (PFBS) on the Mallard and Northern Bobwhite Quail. Arch Environ
+Contam Toxicol 54(3):535–545. DOI 10.1007/s00244-007-9039-8.
+
+OEEB (Occupational & Environmental Epidemiology Branch, Epidemiology Section, Division of
+Public Health, North Carolina Department of Health and Human Services). 2018. GenX Toxicity
+Study Summary Tables for Benchmark Dose Modeling. February 2018.
+
+Rushing, BR, Hu, Q, Franklin, JN, McMahen, RL, Dagnino, S, Higgins, CP, Strynar, MJ, DeWitt, JC.
+2017. Evaluation of the Immunomodulatory Effects of 2,3,3,3-Tetrafluoro-2-
+(Heptafluoropropoxy)-Propanoate in C57BL/6 Mice. Toxicological Sciences 156:179–189.
+https://doi.org/10.1093/toxsci/kfw251
+
+Scher, DP, Kelly, JE, Huset, CA, Barry, KM, Hoffbeck, RW, Yingling, VL, Messing, RB. 2018.
+Occurrence of perfluoroalkyl substances (PFAS) in garden produce at homes with a history of
+PFAS-contaminated drinking water. Chemosphere 196: 548-555.
+
+Sheng, N, Cui, R, Wang, Jin., Guo, Y, Wang, Jia., Dai, J. 2017. Cytotoxicity of novel fluorinated
+alternatives to long-chain perfluoroalkyl substances to human liver cell line and their binding
+capacity to human liver fatty acid binding protein. Archives of Toxicology, 92:359-369.
+10.1007/s00204-017-2055-1
+
+
+                                                                                                    19
+Sun, M, Arevalo, E, Strynar, M, Lindstrom, A, Richardson, M, Kearns, B, Pickett, A, Smith, C, and
+Knappe, DRU. Legacy and Emerging Perfluoroalkyl Substances Are Important Drinking Water
+Contaminants in the Cape Fear River Watershed of North Carolina. Environmental Science &
+Technology Letters 2016 3 (12), 415-419. DOI: 10.1021/acs.estlett.6b00398
+
+Wang, J, Wang, X, Sheng, N, Zhou, X, Cui, R, Zhang, H, Dai, J. 2017. RNA-sequencing analysis
+reveals the hepatotoxic mechanism of perfluoroalkyl alternatives, HFPO2 and HFPO4, following
+exposure in mice. Journal of Applied Toxicology, 37: 436-44. https://doi.org/10.1002/jat.3376.
+
+Wang, Z, DeWitt, JC, Higgins, CP, Cousins, I. 2017. A Never-Ending Story of Per-and
+Polyfluoroalkyl Substances (PFASs)? Environmental Science and Technology 51(5):2508-2518.
+OI: 10.1021/acs.est.6b04806
+
+WRC (North Carolina Wildlife Resource Commission). Redear Sunfish. 2018. Accessed at:
+https://www.ncwildlife.org/Learning/Species/Fish/Redear-Sunfish
+
+
+
+
+                                                                                               20
+                          Appendix A
+
+Review of Uncertainty Factors Used in Calculation of the NC DHHS
+        Provisional Drinking Water Health Goal for GenX
+Review of Uncertainty Factors (UFs) Used in Calculation of the NC DHHS Provisional Drinking
+Water Health Goal for GenX
+Standard uncertainty factors and modifying factors (Section 1.2.2.2.4:
+https://www.epa.gov/iris/reference-dose-rfd-description-and-use-health-risk-assessments)
+       i. Intraspecies UF: Factor of 10 to account for the variation in sensitivity among the
+          members of the human population. In general, intraspecies variability in sensitivity
+          to toxic effects can be due to a variety of factors, including age, sex, disease status,
+          nutrition, genetics, etc.
+          Used in GenX Provisional Health Goal calculation to account for potential sensitivity
+          differences within the human population. There is no information available to justify
+          use of any number besides the default factor of 10.
+       ii. Interspecies UF: Factor of 10 to account for the uncertainty involved in extrapolating
+           from animal data to humans. Interspecies differences in sensitivity to toxic effects
+           can be due to a variety of factors such as difference in metabolism and kinetics.
+          Used in GenX Provisional Health Goal calculation (only rat and mice studies
+          available). There is a large interspecies difference in half-life of legacy PFAS such as
+          PFOS and PFOA, but there is not enough information to determine if this large
+          interspecies variability would also occur with GenX. In the absence of data on the
+          human half-life for GenX, DHHS used the default interspecies uncertainty factor of
+          10.
+          DHHS was recently made aware that in the absence of PBPK modeling or chemical-
+          specific data, EPA accounts for interspecies differences in calculating oral reference
+          doses using allometric scaling, as outlined in a guidance document titled
+          “Recommended Use of Body Weight3/4 as the Default Method in Derivation of the
+          Oral Reference Dose”. This approach uses a dosimetric adjustment factor and a
+          reduced interspecies uncertainty factor to replace the former default interspecies
+          uncertainty factor of 10. DHHS is including this information in the interest of
+          providing the SAB with all information needed to make fully informed
+          recommendations.
+      iii. Sub chronic-chronic UF: Factor of 10 to account for the uncertainty involved in
+           extrapolating from less than chronic NOAELs to chronic NOAELs. It is generally
+           assumed that longer exposure times would result in adverse effects at lower
+           concentrations due to accumulation of the toxicant or inability of an organism to
+           repair injury from the substance.
+          Used in GenX Provisional Health Goal calculation because the NOAEL from 28-day
+          mice study and a reproductive screen in mice with a sub-chronic exposure duration
+          was used as opposed to a NOAEL from a chronic (ex: 2 year) study. Sub-chronic
+    studies were used because adverse effects were observed at lower doses, and these
+    effects were consistently seen across multiple studies at the same or similar doses
+    (ex: the 90-day study in mice and the 90-day study in rats). To be health protective,
+    studies with adverse effects at the lowest doses tested were used as the critical
+    studies for determining the point of departure.
+iv. LOAEL-NOAEL UF: Factor of 10 to account for the uncertainty involved in
+    extrapolating from LOAELs to NOAELs.
+    Not used in GenX Provisional Health Goal calculation because NOAELs were available
+    so an additional uncertainty factor was deemed unnecessary.
+v. Modifying factor: additional uncertainty factor that is greater than zero and less
+   than or equal to 10. The magnitude of the MF depends upon the professional
+   assessment of scientific uncertainties of the study and data base not explicitly
+   treated above; e.g., the completeness of the overall data base and the number of
+   species tested. The default value for the MF is 1.
+    Not used in GenX Provisional Health Goal calculation. Professional judgement from
+    DHHS staff determined that a modifying factor was not necessary based on the
+    following justification: Seven repeated dose oral studies ≥ 28 days in duration in two
+    rodent species were reviewed, including a 2-year chronic study in rats and a
+    reproductive/developmental toxicity screen in mice. NOAELs from several studies
+    were identical or within the same order of magnitude with identical or similar health
+    endpoints (liver toxicity). Additionally, DHHS staff concluded that the uncertainty
+    factors discussed above adequately addressed the uncertainties of the database.
+              Appendix B
+
+Benchmark Dose Modeling Report for GenX
+               NC DHHS
+             May 26, 2018
+                           Appendix C
+
+Benchmark Dose Modeling Report for GenX Supplemental Documentation
+                            NC DHHS
+                           June 8, 2018
+

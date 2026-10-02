@@ -1,0 +1,9 @@
+chemical,partial_r2_age_pct,partial_r2_initial_pfas_pct,partial_r2_gender_pct,partial_r2_egfr_pct,age_over_initial_ratio,tertile1_vs_3_halflife_pct,tertile_p,age_young_vs_old_halflife_pct,age_p,tertile_effect_as_share_of_age_effect
+PFOA,9.4,0.7,0.87,7.05,13.4,-11.24,0.25,-45.24,<0.001,0.248
+PFPeS,3.62,1.85,2.16,8.16,2.0,5.21,0.61,-20.16,0.21,0.258
+PFHxS,16.31,2.32,5.39,2.95,7.0,-19.67,0.02,-53.04,<.001,0.371
+PFHpS,13.12,5.32,4.44,7.32,2.5,-20.24,0.02,-57.16,<.001,0.354
+PFOS,28.39,3.18,3.02,4.05,8.9,,,,,
+1m -PFOS,15.67,4.55,6.16,1.25,3.4,,,,,
+3/4/5m -PFOS,22.45,1.88,1.53,3.68,11.9,,,,,
+2/6m -PFOS,27.7,0.74,0.98,5.79,37.4,,,,,

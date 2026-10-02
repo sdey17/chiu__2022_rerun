@@ -1,0 +1,169 @@
+chemical,protein,n_measurements,n_methods,ka_min_M-1,ka_max_M-1,ka_geomean_M-1,fold_spread,methods,studies
+PFBS,human serum albumin (HSA),5,5,3.26,6.5e+06,5.03e+03,1.99e+06,"differential scanning fluorimetry (DSF), molec | fluorescence displacement of dansyl-L-proline  | fluorescence displacement of dansylamide (Sudl | fluorescence quenching (double-logarithmic plo | solid-phase microextraction (C18 fiber depleti",Chen & Guo 2009 | Fischer et al. 2024 | Starnes et al. 2024 | Wu et al. 2024
+PFNA,human serum albumin (HSA),3,2,4.49,7.81e+06,1.51e+04,1.74e+06,fluorescence quenching (static; Kb from modifi | solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024 | Peng et al. 2024
+PFOA,human serum albumin (HSA),7,6,4.48,1.98e+06,8.06e+03,4.42e+05,"differential scanning fluorimetry (DSF), molec | equilibrium dialysis | fluorescence quenching (double-logarithmic plo | fluorescence quenching (static; Kb from modifi | fluorescence quenching of Trp-214 (no inner-fi | solid-phase microextraction (C18 fiber depleti",Chen & Guo 2009 | Fischer et al. 2024 | Peng et al. 2024 | Starnes et al. 2024 | Wu et al. 2009 | Wu et al. 2024
+PFBS,bovine serum albumin (BSA),4,4,2.28,1e+06,2.77e+03,4.39e+05,"differential scanning fluorimetry (DSF), molec | differential scanning fluorimetry (label-free  | equilibrium dialysis | solid-phase microextraction (C18 fiber depleti",Alesio & Bothun 2024 | Bischel et al. 2011 | Fischer et al. 2024 | Starnes et al. 2024
+PFOA,bovine serum albumin (BSA),7,6,4.2,1e+06,6.99e+03,2.38e+05,"differential scanning fluorimetry (DSF), molec | differential scanning fluorimetry (label-free  | equilibrium dialysis | fluorescence quenching (static) + UV-Vis + FT- | nanoelectrospray ionization mass spectrometry  | solid-phase microextraction (C18 fiber depleti",Alesio & Bothun 2024 | Bischel et al. 2010 | Chen et al. 2015 | Fischer et al. 2024 | Klevens & Ellenbogen 1954 | Starnes et al. 2024
+PFNA,bovine serum albumin (BSA),4,4,4.54,1e+06,2.57e+04,2.2e+05,differential scanning fluorimetry (label-free  | equilibrium dialysis | nanoelectrospray ionization mass spectrometry  | solid-phase microextraction (C18 fiber depleti,Alesio & Bothun 2024 | Bischel et al. 2010 | Fischer et al. 2024
+PFHpA,human serum albumin (HSA),3,2,4.1,7.47e+05,2.4e+03,1.82e+05,fluorescence quenching (static; Kb from modifi | solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024 | Peng et al. 2024
+PFOS,bovine serum albumin (BSA),5,5,4.76,2.44e+05,3.26e+03,5.13e+04,"differential scanning fluorimetry (DSF), molec | differential scanning fluorimetry (label-free  | fluorescence quenching (static) + UV-Vis + FT- | nanoelectrospray ionization mass spectrometry  | solid-phase microextraction (C18 fiber depleti",Alesio & Bothun 2024 | Bischel et al. 2010 | Chen et al. 2015 | Fischer et al. 2024 | Starnes et al. 2024
+PFBA,human serum albumin (HSA),3,3,20.4,1e+06,1.98e+03,4.91e+04,"differential scanning fluorimetry (DSF), molec | fluorescence displacement of dansylamide (Sudl | fluorescence quenching (double-logarithmic plo",Chen & Guo 2009 | Starnes et al. 2024 | Wu et al. 2024
+PFHxS,bovine serum albumin (BSA),2,2,4.61,9.4e+04,658,2.04e+04,differential scanning fluorimetry (label-free  | solid-phase microextraction (C18 fiber depleti,Alesio & Bothun 2024 | Fischer et al. 2024
+PFOS,human serum albumin (HSA),4,4,4.62,2.2e+04,491,4.76e+03,"differential scanning fluorimetry (DSF), molec | fluorescence quenching (double-logarithmic plo | fluorescence quenching of Trp-214 (no inner-fi | solid-phase microextraction (C18 fiber depleti",Chen & Guo 2009 | Fischer et al. 2024 | Starnes et al. 2024 | Wu et al. 2024
+PFDA,bovine serum albumin (BSA),3,3,4.81,1e+04,541,2.08e+03,differential scanning fluorimetry (label-free  | nanoelectrospray ionization mass spectrometry  | solid-phase microextraction (C18 fiber depleti,Alesio & Bothun 2024 | Bischel et al. 2010 | Fischer et al. 2024
+"C8-C11 PFCAs (PFOA, PFNA, PFDA, PFUnDA)",human and bovine serum albumin,2,2,100,1e+05,3.16e+03,1e+03,19F NMR titration | fluorescence spectroscopy (two binding classes,MacManus-Spencer et al. 2010
+HFPO-TA,human serum albumin (HSA),2,1,3.7e+06,2.31e+09,9.24e+07,624,fluorescence quenching (static; Kb from modifi,Peng et al. 2024
+PFHxA,human serum albumin (HSA),2,2,3.2,585,43.3,183,"differential scanning fluorimetry (DSF), molec | solid-phase microextraction (C18 fiber depleti",Fischer et al. 2024 | Starnes et al. 2024
+PFHxA,bovine serum albumin (BSA),2,2,2.83,461,36.1,163,"differential scanning fluorimetry (DSF), molec | solid-phase microextraction (C18 fiber depleti",Fischer et al. 2024 | Starnes et al. 2024
+HFPO-DA (GenX),bovine serum albumin (BSA),2,2,392,1.98e+04,2.79e+03,50.5,"differential scanning fluorimetry (DSF), molec | differential scanning fluorimetry (label-free ",Alesio & Bothun 2024 | Starnes et al. 2024
+PFHxS,human serum albumin (HSA),2,2,4.77,158,27.4,33.1,fluorescence quenching (double-logarithmic plo | solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024 | Wu et al. 2024
+DFSA (dodecafluorosuberic acid),human serum albumin (HSA),2,1,1.52e+03,2.07e+04,5.61e+03,13.6,fluorescence quenching (static; Kb from modifi,Peng et al. 2024
+HFPO-DA (GenX),human serum albumin (HSA),2,2,59,637,194,10.8,"differential scanning fluorimetry (DSF), molec | fluorescence quenching (double-logarithmic plo",Starnes et al. 2024 | Wu et al. 2024
+"PFO3DA (perfluoro-3,6,9-trioxadecanoic acid)",human serum albumin (HSA),2,1,2.99e+04,1.59e+05,6.89e+04,5.32,fluorescence quenching (static; Kb from modifi,Peng et al. 2024
+C6O4,defatted human serum albumin (dhSA),2,1,1.85e+05,4.17e+05,2.78e+05,2.25,isothermal titration calorimetry (ITC),Moro et al. 2022
+PFHxA,defatted human serum albumin (dhSA),2,1,1.69e+05,2.22e+05,1.94e+05,1.31,isothermal titration calorimetry (ITC),Moro et al. 2022
+10:2 FtS,bovine serum albumin (BSA),1,1,4.88,4.88,4.88,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+10:2 FtS,gamma-globulin,1,1,4.56,4.56,4.56,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+10:2 FtS,human serum albumin (HSA),1,1,4.68,4.68,4.68,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+10:2 FtS,whole human serum (surrogate),1,1,3.41,3.41,3.41,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+11Cl-PF3OUdS (8:2 Cl-PFESA),human serum albumin (HSA),1,1,128,128,128,1,fluorescence quenching (double-logarithmic plo,Wu et al. 2024
+"24 PFAS from 6 chemical classes (PFBA, PFPeA, PFHxA, PFHpA, PFOA, PFNA, PFDA, PFUnDA, PFDoA, PFBS, PFHxS, PFOS, E1, GenX, Nafion byproduct 2, PFO3DoDA, 4:2 FTOH, 6:2 FTOH, 3:3/5:3/6:3/8:3 FTCA, 4:2/6:2 FTSA)",human serum albumin (HSA),1,1,380,380,380,1,differential scanning fluorimetry (DSF),Jackson et al. 2021
+26 PFAS standards from a 1999 3M AFFF (range across congeners),human serum albumin (HSA),1,1,1e+04,1e+04,1e+04,1,equilibrium dialysis + HPLC-QTOF-MS,Li et al. 2021
+5:3 FTCA,bovine serum albumin (BSA),1,1,2.9,2.9,2.9,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+5:3 FTCA,gamma-globulin,1,1,2.3,2.3,2.3,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+5:3 FTCA,human serum albumin (HSA),1,1,3.48,3.48,3.48,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+5:3 FTCA,whole human serum (surrogate),1,1,2.62,2.62,2.62,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+65 structurally diverse PFAS from 20 chemical classes,human serum albumin (HSA),1,1,4.17e+03,4.17e+03,4.17e+03,1,differential scanning fluorimetry (DSF) + mach,Starnes et al. 2025
+6:2 FTSA,bovine serum albumin (BSA),1,1,719,719,719,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+6:2 FTSA,human serum albumin (HSA),1,1,2.44e+03,2.44e+03,2.44e+03,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+6:2 FTSA,porcine serum albumin (PSA),1,1,1.92e+03,1.92e+03,1.92e+03,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+6:2 FTSA,rat serum albumin (RSA),1,1,3.03e+03,3.03e+03,3.03e+03,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+6:2 FtS,bovine serum albumin (BSA),1,1,3.44,3.44,3.44,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+6:2 FtS,gamma-globulin,1,1,2.43,2.43,2.43,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+6:2 FtS,human serum albumin (HSA),1,1,3.35,3.35,3.35,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+6:2 FtS,whole human serum (surrogate),1,1,2.55,2.55,2.55,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+7:3 FTCA,bovine serum albumin (BSA),1,1,3.79,3.79,3.79,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+7:3 FTCA,gamma-globulin,1,1,2.49,2.49,2.49,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+7:3 FTCA,human serum albumin (HSA),1,1,3.59,3.59,3.59,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+7:3 FTCA,whole human serum (surrogate),1,1,2.74,2.74,2.74,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+8:2 FtS,bovine serum albumin (BSA),1,1,4.49,4.49,4.49,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+8:2 FtS,gamma-globulin,1,1,3.52,3.52,3.52,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+8:2 FtS,human serum albumin (HSA),1,1,4.39,4.39,4.39,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+8:2 FtS,whole human serum (surrogate),1,1,3.08,3.08,3.08,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+"9Cl-PF3ONS (F-53B, 6:2 Cl-PFESA)",human serum albumin (HSA),1,1,117,117,117,1,fluorescence quenching (double-logarithmic plo,Wu et al. 2024
+ADONA,bovine serum albumin (BSA),1,1,3.84,3.84,3.84,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+ADONA,gamma-globulin,1,1,2.34,2.34,2.34,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+ADONA,human serum albumin (HSA),1,1,3.98,3.98,3.98,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+ADONA,whole human serum (surrogate),1,1,2.75,2.75,2.75,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+"DAUDA (11-(dansylamino)undecanoic acid, reference ligand)",liver fatty acid-binding protein (L-FABP),1,1,2.13e+09,2.13e+09,2.13e+09,1,fluorescence (direct binding),Luebker et al. 2002
+FDSA,bovine serum albumin (BSA),1,1,4.69,4.69,4.69,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+FDSA,gamma-globulin,1,1,4.95,4.95,4.95,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+FDSA,human serum albumin (HSA),1,1,4.64,4.64,4.64,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+FDSA,whole human serum (surrogate),1,1,3.65,3.65,3.65,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+FHxSA,gamma-globulin,1,1,2.21,2.21,2.21,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+FHxSA,whole human serum (surrogate),1,1,3.01,3.01,3.01,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+FOSA,bovine serum albumin (BSA),1,1,4.33,4.33,4.33,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+FOSA,gamma-globulin,1,1,3.03,3.03,3.03,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+FOSA,human serum albumin (HSA),1,1,4.34,4.34,4.34,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+FOSA,whole human serum (surrogate),1,1,2.79,2.79,2.79,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+FOSAA,bovine serum albumin (BSA),1,1,4.3,4.3,4.3,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+FOSAA,gamma-globulin,1,1,2.96,2.96,2.96,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+FOSAA,human serum albumin (HSA),1,1,4.31,4.31,4.31,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+FOSAA,whole human serum (surrogate),1,1,3.01,3.01,3.01,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+HFPO-DA (GenX),porcine serum albumin (PSA),1,1,472,472,472,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+HFPO-DA (GenX),rat serum albumin (RSA),1,1,610,610,610,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+"HFPO-DA (GenX), HFPO-TA, HFPO-TeA, PFEESA, 8:2 Cl-PFESA",human serum albumin (HSA),1,1,900,900,900,1,microscale thermophoresis (MST),Jia et al. 2022
+N-EtFOSAA,bovine serum albumin (BSA),1,1,4.29,4.29,4.29,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+N-EtFOSAA,gamma-globulin,1,1,3.76,3.76,3.76,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+N-EtFOSAA,human serum albumin (HSA),1,1,4.23,4.23,4.23,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+N-EtFOSAA,whole human serum (surrogate),1,1,3.06,3.06,3.06,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+N-MeFOSAA,bovine serum albumin (BSA),1,1,4.29,4.29,4.29,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+N-MeFOSAA,gamma-globulin,1,1,3.45,3.45,3.45,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+N-MeFOSAA,human serum albumin (HSA),1,1,4.27,4.27,4.27,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+N-MeFOSAA,whole human serum (surrogate),1,1,3.02,3.02,3.02,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+NaDONA (ADONA),human serum albumin (HSA),1,1,93.1,93.1,93.1,1,fluorescence quenching (double-logarithmic plo,Wu et al. 2024
+PFBA,bovine serum albumin (BSA),1,1,327,327,327,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+PFBA,porcine serum albumin (PSA),1,1,781,781,781,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+PFBA,rat serum albumin (RSA),1,1,526,526,526,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+"PFBA, PFHxA, PFHpA, PFOA, HFPO-DA (GenX)",human serum albumin (HSA),1,1,4,4,4,1,isothermal titration calorimetry (ITC) + spect,Crisalli et al. 2023
+"PFBA, PFPeA, PFHxA, PFHpA, PFOA, PFNA, PFDA, PFUnDA, PFDoA, PFTrDA, PFBS, PFHxS, PFOS, 6:2 Cl-PFESA (F-53B)",human serum albumin (HSA),1,1,2.4e+03,2.4e+03,2.4e+03,1,equilibrium dialysis,Gao et al. 2019
+PFBS,gamma-globulin,1,1,2.03,2.03,2.03,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFBS,porcine serum albumin (PSA),1,1,800,800,800,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+PFBS,rat serum albumin (RSA),1,1,709,709,709,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+PFDA,gamma-globulin,1,1,3.67,3.67,3.67,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFDA,human serum albumin (HSA),1,1,4.73,4.73,4.73,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFDA,whole human serum (surrogate),1,1,3.4,3.4,3.4,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFDS,bovine serum albumin (BSA),1,1,5.13,5.13,5.13,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFDS,gamma-globulin,1,1,4.96,4.96,4.96,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFDS,human serum albumin (HSA),1,1,5.05,5.05,5.05,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFDS,whole human serum (surrogate),1,1,3.9,3.9,3.9,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFDoA,human serum albumin (HSA),1,1,1.2e+06,1.2e+06,1.2e+06,1,fluorescence displacement of dansyl-L-proline ,Chen & Guo 2009
+PFDoDA,bovine serum albumin (BSA),1,1,5.12,5.12,5.12,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFDoDA,gamma-globulin,1,1,4.81,4.81,4.81,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFDoDA,human serum albumin (HSA),1,1,5.05,5.05,5.05,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFDoDA,whole human serum (surrogate),1,1,3.62,3.62,3.62,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFHpA,bovine serum albumin (BSA),1,1,3.93,3.93,3.93,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFHpA,gamma-globulin,1,1,1.81,1.81,1.81,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFHpA,whole human serum (surrogate),1,1,2.49,2.49,2.49,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+"PFHpA, PFOA, PFNA, PFDA, PFUnDA, PFHxS, PFOS (medium/long chain); PFHxA, PFBS (short chain)",human serum albumin (HSA),1,1,1e+04,1e+04,1e+04,1,fluorescence quenching with a purpose-built bi,Hebert & MacManus-Spencer 2010
+PFHpS,bovine serum albumin (BSA),1,1,4.88,4.88,4.88,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFHpS,gamma-globulin,1,1,2.47,2.47,2.47,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFHpS,human serum albumin (HSA),1,1,5.49,5.49,5.49,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFHpS,whole human serum (surrogate),1,1,3.38,3.38,3.38,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFHxA,gamma-globulin,1,1,1.73,1.73,1.73,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFHxA,porcine serum albumin (PSA),1,1,1.05e+03,1.05e+03,1.05e+03,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+PFHxA,rat serum albumin (RSA),1,1,752,752,752,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+PFHxA,whole human serum (surrogate),1,1,1.99,1.99,1.99,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+"PFHxA, PFOA, PFNA, PFDA, PFHxS, PFOS, HFPO-DA (GenX)",human and bovine serum albumin,1,1,1.4e+04,1.4e+04,1.4e+04,1,fluorescence quenching,Peng et al. 2025
+PFHxS,gamma-globulin,1,1,1.95,1.95,1.95,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFHxS,whole human serum (surrogate),1,1,3.3,3.3,3.3,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFNA,gamma-globulin,1,1,2.81,2.81,2.81,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFNA,whole human serum (surrogate),1,1,2.99,2.99,2.99,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFNS,bovine serum albumin (BSA),1,1,5.14,5.14,5.14,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFNS,gamma-globulin,1,1,4.49,4.49,4.49,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFNS,human serum albumin (HSA),1,1,4.99,4.99,4.99,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFNS,whole human serum (surrogate),1,1,3.74,3.74,3.74,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFOA,"alpha2u-globulin, kidney form (A2U-K)",1,1,1e+03,1e+03,1e+03,1,ligand blotting + ESI-MS + fluorescence compet,Han et al. 2004
+PFOA,"alpha2u-globulin, liver form (A2U-L)",1,1,1e+03,1e+03,1e+03,1,ligand blotting + ESI-MS + fluorescence compet,Han et al. 2004
+PFOA,gamma-globulin,1,1,2.16,2.16,2.16,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFOA,porcine serum albumin (PSA),1,1,2.7e+03,2.7e+03,2.7e+03,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+PFOA,rat serum albumin (RSA),1,1,2.5e+03,2.5e+03,2.5e+03,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+PFOA,whole human serum (surrogate),1,1,2.85,2.85,2.85,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFOA and PFDA,human serum albumin (HSA),1,1,4.5e+03,4.5e+03,4.5e+03,1,fluorescence quenching,Chen et al. 2020
+"PFOA and PFDA (PFPeA tested, little effect)",bovine serum albumin (BSA),1,1,2.2e+04,2.2e+04,2.2e+04,1,fluorescence quenching + synchronous fluoresce,Qin et al. 2010
+PFOA and PFOS,human and bovine serum albumin,1,1,5.2e+04,5.2e+04,5.2e+04,1,native electrospray ionization mass spectromet,Chi et al. 2018
+"PFOA, PFNA, PFDA, PFBS, PFHxS, PFOS, HFPO-DA (GenX)",bovine serum albumin (BSA),1,1,7e+04,7e+04,7e+04,1,fluorescence quenching analysed three ways: St,Alesio et al. 2022
+"PFOA, PFNA, PFHxS, PFOS",bovine serum albumin (BSA),1,1,1.7e+04,1.7e+04,1.7e+04,1,19F NMR (headgroup-adjacent CF2 and terminal C,Fedorenko et al. 2021
+PFOS,gamma-globulin,1,1,3.33,3.33,3.33,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFOS,porcine serum albumin (PSA),1,1,2.63e+03,2.63e+03,2.63e+03,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+PFOS,rat serum albumin (RSA),1,1,2.38e+03,2.38e+03,2.38e+03,1,"differential scanning fluorimetry (DSF), molec",Starnes et al. 2024
+PFOS,whole human serum (surrogate),1,1,3.09,3.09,3.09,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFOS and 6:2 Cl-PFESA (F-53B),human serum albumin (HSA),1,1,3.26e+04,3.26e+04,3.26e+04,1,filtration centrifugation,Sheng et al. 2020
+PFPeA,bovine serum albumin (BSA),1,1,1e+06,1e+06,1e+06,1,equilibrium dialysis,Bischel et al. 2011
+PFPeA,human serum albumin (HSA),1,1,2.16,2.16,2.16,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFPeA,whole human serum (surrogate),1,1,2.21,2.21,2.21,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFPeS,bovine serum albumin (BSA),1,1,4,4,4,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFPeS,gamma-globulin,1,1,1.85,1.85,1.85,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFPeS,human serum albumin (HSA),1,1,3.98,3.98,3.98,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFPeS,whole human serum (surrogate),1,1,2.4,2.4,2.4,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFPrS,human serum albumin (HSA),1,1,79.5,79.5,79.5,1,fluorescence quenching (double-logarithmic plo,Wu et al. 2024
+PFTeDA,bovine serum albumin (BSA),1,1,3.87,3.87,3.87,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFTeDA,gamma-globulin,1,1,4,4,4,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFTeDA,human serum albumin (HSA),1,1,3.87,3.87,3.87,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFTeDA,whole human serum (surrogate),1,1,3,3,3,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFTriDA,bovine serum albumin (BSA),1,1,4.47,4.47,4.47,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFTriDA,gamma-globulin,1,1,4.33,4.33,4.33,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFTriDA,human serum albumin (HSA),1,1,4.54,4.54,4.54,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFTriDA,whole human serum (surrogate),1,1,3.08,3.08,3.08,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFUnDA,bovine serum albumin (BSA),1,1,5.17,5.17,5.17,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFUnDA,gamma-globulin,1,1,4.64,4.64,4.64,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFUnDA,human serum albumin (HSA),1,1,5.18,5.18,5.18,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+PFUnDA,whole human serum (surrogate),1,1,3.87,3.87,3.87,1,solid-phase microextraction (C18 fiber depleti,Fischer et al. 2024
+branched PFOA isomers (range),human serum albumin (HSA),1,1,3.33e+03,3.33e+03,3.33e+03,1,ultrafiltration,Beesoon & Martin 2015
+branched PFOS isomers (range),human serum albumin (HSA),1,1,1.25e+04,1.25e+04,1.25e+04,1,ultrafiltration,Beesoon & Martin 2015
+decanoic acid (reference ligand),bovine serum albumin (BSA),1,1,3.62e+04,3.62e+04,3.62e+04,1,differential scanning fluorimetry (label-free ,Alesio & Bothun 2024
+linear PFOA (n-PFOA),human serum albumin (HSA),1,1,1e+04,1e+04,1e+04,1,ultrafiltration,Beesoon & Martin 2015
+linear PFOS (n-PFOS),human serum albumin (HSA),1,1,1.25e+07,1.25e+07,1.25e+07,1,ultrafiltration,Beesoon & Martin 2015
+nonanoic acid (reference ligand),bovine serum albumin (BSA),1,1,2.93e+06,2.93e+06,2.93e+06,1,differential scanning fluorimetry (label-free ,Alesio & Bothun 2024
+octanoic acid (reference ligand),bovine serum albumin (BSA),1,1,7.7e+03,7.7e+03,7.7e+03,1,differential scanning fluorimetry (label-free ,Alesio & Bothun 2024
+warfarin (Sudlow site I control),bovine serum albumin (BSA),1,1,9.37e+04,9.37e+04,9.37e+04,1,differential scanning fluorimetry (label-free ,Alesio & Bothun 2024

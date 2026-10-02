@@ -1,0 +1,866 @@
+                                                                                                                                               REVIEW
+
+                                                                                                                                       pubs.acs.org/crt
+
+
+
+
+Renal Elimination of Perfluorocarboxylates (PFCAs)
+Xing Han,* Diane L. Nabb, Mark H. Russell, Gerald L. Kennedy, and Robert W. Rickard
+DuPont Haskell Global Centers for Health and Environmental Sciences, Newark, Delaware, United States
+
+  ABSTRACT: Sex-, species-, and chain length-dependent renal elimination is the hallmark of
+  mammalian elimination of perﬂuorocarboxylates (PFCAs) and has been extensively studied for
+  almost 30 years. In this review, toxicokinetic data of PFCAs (chain lengths ranging from 4 to
+  10) in diﬀerent species are compared with an emphasis on their relevance to renal elimination.
+
+
+
+
+                                                                                                                                                               Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​25/​1/​35/​17183730/​tx200363w.​pdf by UNIV OF ILLINOIS CHICAGO user on 02 October 2026
+  PFCAs vary in their aﬃnities to bind to serum albumins in plasma, which is an important factor
+  in determining the renal clearance of PFCAs. PFCA albumin binding has been well
+  characterized and is summarized in this review. The mechanism of the sex-, species-, and
+  chain length-dependent renal PFCA elimination is a research area that has gained continuous
+  interest since the beginning of toxicological studies of PFCAs. It is now recognized that organic
+  anion transport proteins play a key role in PFCA renal tubular reabsorption, a process that is
+  sex-, species-, and chain length-dependent. Recent studies on the identiﬁcation of PFCA renal
+  transport proteins and characterization of their transport kinetics have greatly improved our
+  understanding of the PFCA renal transport mechanism at the molecular level. A mathematical
+  representation of this renal tubular reabsorption mechanism has been incorporated in physiologically based pharmacokinetic
+  (PBPK) modeling of perﬂuorooctanoate (PFOA). Improvement of PBPK models in the future will require more accurate and
+  quantitative characterization of renal transport pathways of PFCAs. To that end, a basolateral membrane eﬄux pathway for the
+  reabsorption of PFCAs in the kidney is discussed in this review, which could provide a future research direction toward a better
+  understanding of the mechanisms of PFCA renal elimination.
+
+
+
+
+’ CONTENTS                                                             unique physical chemical properties due to their amphiphilic
+                                                                       structures (a linear hydrophobic and oleophobic ﬂuorocarbon
+1. Introduction                                              35
+                                                                       chain and an anionic hydrophilic carboxylate moiety) and their
+2. Historical Progression of Perﬂuorocarboxylate                       strong carbon ﬂuorine bonds.1,2 These properties, notably,
+   (PFCA) Renal Elimination Studies                          36        surface tension lowering and exceptional chemical and thermal
+3. Renal Elimination of Perﬂuorooctanoate (PFOA)             36        stabilities, have resulted in a wide range of industrial and con-
+4. Renal Elimination of Other Perﬂuorocarboxylates                     sumer surfactant applications for these chemicals.3
+   (PFCAs)                                                   37            PFCAs have been found in humans and in the global
+5. Current Status of Mechanistic Studies of PFCA Renal                 environment and have been a major subject of research regard-
+                                                                       ing their toxicity, environmental fate, and sources of human
+   Elimination                                               38
+                                                                       exposure.2,4 7 The number of PFCA toxicological studies has
+   5.1. Serum Albumin Binding                                39        steadily increased over the past decade, reﬂecting increasing
+   5.2. Renal Transport                                      40        research activities by the scientiﬁc and regulatory communities.
+6. Physiologically Based Pharmacokinetic (PBPK)                        Perﬂuorooctanoate (PFOA) is one of the most important PFCAs
+   Models of PFOA                                            42        in terms of industrial applications and has been the most
+7. PFCA Renal Transport via a Basolateral Membrane                     studied PFCA.
+   Eﬄux Pathway: A Hypothesis                                43            Past PFCA reviews have focused primarily on their environ-
+                                                                       mental transport,8 exposure pathways,5 toxicokinetics and mam-
+8. Conclusions and Perspectives                              43
+                                                                       malian toxicology,2,4,6,7,9 11 and human epidemiology.12,13 An
+Author Information                                           43        important PFCA research area is their sex-, species-, and chain
+Acknowledgment                                               43        length-dependent renal elimination in mammals, which has been
+Abbreviations                                                43        progressed from earlier descriptive animal studies14 18 to more
+References                                                   43        recent mechanistic studies such as elucidation of the renal
+                                                                       transport mechanism at the molecular level.19 22 The mechan-
+                                                                       istic studies were originally conducted to understand the pro-
+1. INTRODUCTION                                                        longed human biological half-life (T1/2) of PFOA.23,24 These
+
+   Perﬂuoroalkyl carboxylates [F(CF2)nCO2 , perﬂuorocarbox-            Received: August 23, 2011
+ylates, PFCAs) are perﬂuorinated anion surfactants that possess        Published: October 10, 2011
+
+                          r 2011 American Chemical Society        35                      dx.doi.org/10.1021/tx200363w | Chem. Res. Toxicol. 2012, 25, 35–46
+Chemical Research in Toxicology                                                                                                                      REVIEW
+
+studies, however, could be equally valued as a foundation for the            production workers (mean serum concentration, 691 ng/mL;
+mechanistic understanding of renal elimination of other PFCAs                range, 72 to 5,100 ng/mL).23 A later study in 2010 with 200 local
+in humans. This review, therefore, is an eﬀort to summarize our              participants from the Mid-Ohio Valley of West Virginia reported
+current knowledge of the kinetics and mechanism of mammalian                 an observed PFOA T1/2 value of 2.3 years (mean serum
+renal elimination of PFCAs.                                                  concentration, 180 ng/mL; range, ∼30 to ∼1,000 ng/mL).24
+   This review will start with a brief introduction of the history of           After more than two decades of research, it had become
+PFCA renal elimination studies followed by a detailed analysis of            apparent that PFCA renal elimination varied greatly among
+PFCA renal elimination kinetics in vivo, the current under-                  diﬀerent species and that the underlying mechanism was active
+standing of serum albumin binding, renal transport mechanisms,               renal tubular secretion and reabsorption. For this reason, re-
+and recent applications of the renal transport mechanism in                  search in the area of PFOA renal transporters has become quite
+physiologically based pharmacokinetic (PBPK) modeling. In                    active since 2007. Both rat and human renal transporters which
+addition, a new hypothesis is presented that proposes a baso-                are likely responsible for either secretion or reabsorption of
+lateral membrane eﬄux pathway for the PFCA reabsorption in                   PFOA in the kidney have been identiﬁed. These transporters
+the kidney.                                                                  have exhibited clear chain length-dependent trends in cell
+
+
+
+
+                                                                                                                                                                     Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​25/​1/​35/​17183730/​tx200363w.​pdf by UNIV OF ILLINOIS CHICAGO user on 02 October 2026
+                                                                             membrane uptake of PFCAs.19 21,43 45
+2. HISTORICAL PROGRESSION OF PERFLUOROCAR-                                      As insights into the molecular mechanism of PFOA renal
+BOXYLATE (PFCA) RENAL ELIMINATION STUDIES                                    elimination have increased, there have been signiﬁcant eﬀorts to
+   Toxicological interest in PFCAs was initiated by a 1968 report            incorporate this understanding into toxicokinetic models of
+of the detection of ﬂuorocarbon molecules in human blood25                   PFCAs in mammals.46 50 More recently, toxicokinetic studies
+and reports in the late 1970s of human occupational exposure                 of shorter chain length PFCAs, such as perﬂuorobutanoate
+to ﬂuorochemicals.26,27 A study in 1980 showed that PFOA was                 (PFBA) and perﬂuorohexanoate (PFHxA) have been conducted,
+less toxic to female rats compared to males,28 which was later               which showed much quicker renal elimination rates.51 53
+attributed to more eﬀective PFOA renal excretion in female                      In the past two years, interest in PFCA serum albumin
+rats.29 A more thorough toxicokinetic study conﬁrmed the sex-                binding has been growing. Signiﬁcant new information regard-
+dependent PFOA renal elimination in rats and provided evidence               ing the binding properties between PFCAs and serum albumins
+that PFOA was metabolically inert, distributed primarily to the              has been obtained using various bioanalytical and biophysical
+plasma, liver, and kidney, and excreted mainly via urine.18                  tools.54 63 However, most of the ﬁndings have not been linked
+Mechanistic elucidation of PFOA renal elimination during this                to the toxicokinetic properties of PFCAs. This suggests that
+period was focused on PFOA protein binding properties29,30 and               the value of these albumin binding studies has yet to be fully
+carrier-mediated PFOA renal transport, which was shown to be                 appreciated.
+sex hormone-regulated and probenecid (a known inhibitor of                      Looking forward, additional research is needed to fully under-
+active renal transport)-sensitive.31,32 Toxicological and toxicoki-          stand the molecular mechanism of PFCA renal elimination, and
+netic studies of perﬂuorodecanoate (PFDA) also appeared in the               this review should help to identify some important future
+1980s and early 1990s. However, these studies did not show sex-              research areas.
+related diﬀerences in rats.33 35
+   In 2002, sex hormone-regulated PFOA renal excretion was                   3. RENAL ELIMINATION OF PERFLUOROOCTANOATE
+ﬁrst attributed to speciﬁc renal organic anion transport proteins            (PFOA)
+whose gene expression levels were regulated via sex hormones in                 Total body clearance of a nonvolatile chemical is driven mainly
+a concordant manner.36 Around the same time, two reports                     by the liver and kidney via processes of metabolism, biliary
+revealed a clear chain length-dependent trend in rat renal elimi-            excretion, glomerular ﬁltration, and tubular secretion/reabsorp-
+nation of perﬂuoroheptanoate (PFHpA), PFOA, perﬂuorono-                      tion. PFOA is not metabolized due to its exceptionally strong
+nanoate (PFNA), and PFDA.15,17 The interest in PFCA renal                    ﬂuorocarbon bonds.18,64 Biliary excretion of PFOA was studied
+elimination mechanisms continued to grow over the next few                   in rats17,18,65 and in humans.66,67 Biliary excretion rates in rats
+years resulting in a large number of investigative studies: PFOA             have been reported to be either similar between males and
+renal elimination was examined in a wide range of species
+                                                                             females18 or slightly higher in females,17 while fecal elimination
+including mouse, hamster, rabbit, dog, monkey, and humans
+                                                                             of PFOA in rats was only a few percent of the dose regardless of
+and revealed great species-related diﬀerences;6,14,37,38 a thorough
+                                                                             gender.16 18 Even though there was evidence for enterohepatic
+PFOA toxicokinetic study in rats was reported;16 and PFOA-
+                                                                             circulation of PFOA,65 the fecal elimination rate in rats was slow
+protein binding research was extended to the molecular level and
+                                                                             due to low biliary clearance rates, which were estimated to be
+multiple protein targets, such as rat liver fatty acid-binding
+                                                                             3.30 and 3.53 mL/d/kg for male and female rats, respectively.66
+protein, rat and human albumin, and rat α2u-globulin, were
+                                                                             The impact of PFCA chain length on fecal elimination rate was
+investigated.39 41
+   The ﬁrst attempt to apply the concept of renal tubular                    not nearly as dramatic as it was on the renal elimination rate, and
+reabsorption in toxicokinetic modeling of PFOA appeared in                   the cumulative fecal elimination of PFCAs from PFHpA to
+2006, where the dose-dependent elimination of PFOA in mon-                   PFDA was consistently less than 5% of the dose at 120-h
+keys was adequately described by including a renal tubular                   postdose for both male and female rats.17 Human biliary excre-
+reabsorption process, thus increasing the interest in understand-            tion of PFOA was estimated to be 1.06 mL/d/kg and is a major
+ing tubular reuptake.42 By then, it was well established that PFOA           PFOA elimination route because of the extremely low renal
+had a much longer T1/2 in humans than in experimental animals.               elimination of PFOA in humans.66 Overall, biliary excretion does
+A report in 2007 showed a T1/2 value of 3.5 years (geometric                 not seem to be a major factor contributing to the sex-, species-,
+mean) for PFOA in the serum of retired ﬂuorochemical                         and chain length-dependent elimination of PFCAs.
+                                                                        36                       dx.doi.org/10.1021/tx200363w |Chem. Res. Toxicol. 2012, 25, 35–46
+Chemical Research in Toxicology                                                                                                                             REVIEW
+
+Table 1. PFOA Toxicokinetic Parametersa: Half-Life (T1/2) in Plasma or Serum, Total Clearance (CLTOT), Volume of Distri-
+bution (Vd), Renal Clearance (CLR), and the Ratio of Concentrations (μg/g) in the Kidney vs in the Blood ([Ckidney]/[Cblood])
+             species        gender         T1/2         CLTOT (mL/d/kg/)           Vd (mL/kg)         CLR (mL/d/kg)               [Ckidney]/[Cblood]                ref
+
+    rat                     female        1.92 h               2233.2                                      1054                                                 15,37
+                                          3.4 hb               865b                                        666c                          1.95d                  16
+                                                               727.2                  166.4                560.4                                                46e
+    rabbit                  male          5.5 h                                                            640                                                  6
+    rabbit                  female        7h                                                               670                                                  6
+    Japanese macaque        female        2.7 d                77                                          32                                                   37
+    Japanese macaque        male          5.6 d                37.1                                        15                                                   37
+    dog                     female        10.6 d                                                           50.8                                                 6
+    rat                     male          5.63 d               50.5                   339                  46.1                                                 15,37
+
+
+
+
+                                                                                                                                                                            Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​25/​1/​35/​17183730/​tx200363w.​pdf by UNIV OF ILLINOIS CHICAGO user on 02 October 2026
+                                          11.5 db              21.5b                                       18.2c                         0.70d                  16
+                                          13.4 d                                                                                                                82
+                                          15 d                                                                                                                  18
+                                                                                                           4.8                           0.5                    83
+                                                               29.8                   142.1                25.3                                                 46d
+    mouse                   female        15.6 d                                      135                                                0.2                    48
+                                                                                                           16                                                   6
+                                                                                                                                         0.22                   14
+    cynomolgus monkey       male          20.9 d               6                      181                                                                       38,67
+    dog                     male          21 d                                                             43                                                   6
+    mouse                   male          21.7 d                                      226                                                0.2                    48
+                                                                                                           10                                                   6
+                                                                                                                                         0.21                   14
+    cynomolgus monkey       female        32.6 d               4.2                    198                                                                       38,67
+    human                                 2.3 y                                                                                                                 24
+                                          3.5 y                                                                                                                 23
+a
+ Only average values reported in the literature are shown in the table. The order of this table is sorted according to the T1/2 values (low to high). b Oral
+gavage dose at 0.1 mg/kg. c Assuming 77% and 85% of the CLTOT was contributed from CLR for female and male rats, respectively.46 d Concentration
+ratio at plasma Tmax; average from doses at 1, 5, and 25 mg/kg. e Ref 46 reported a two-compartment modeling result of the data from ref 16.
+
+   Renal elimination (including processes of glomerular ﬁltration                 In contrast, female rats eliminate PFOA much faster and have a
+and tubular secretion/reabsorption) is the most critical process                  [Ckidney]/[Cblood] ratio close to 2. This observation suggests that,
+in determining total body clearance of PFCAs. Selective toxico-                   compared to female rat kidneys, kidneys from male rats and mice
+kinetic parameters of PFOA that have been reported in the                         are ineﬃcient in taking up PFOA from the bloodstream. This
+mouse, rat, rabbit, dog, monkey, and human are shown in Table 1.                  hypothesis will be elaborated in more detail in the renal
+Reported plasma (or serum) T1/2 values are 1.92 h in female                       transporter discussion section.
+rats15 and 2.324 or 3.523 years in humans, which shows the
+magnitude of species-related diﬀerences in PFOA elimination.                      4. RENAL ELIMINATION OF OTHER PERFLUOROCAR-
+The apparent volume of distribution (Vd) of PFOA does not vary                    BOXYLATES (PFCAs)
+signiﬁcantly in diﬀerent species with a mean value of 191 (                          Table 2 shows selective toxicokinetic parameters for PFBA,
+67 mL/kg, which suggests that PFOA is mostly distributed in the                   PFHxA, PFHpA, PFNA, and PFDA in diﬀerent species. Again,
+extracellular ﬂuid (assuming extracellular ﬂuid volume is 22% of                  apparent Vd values of all PFCAs suggest distribution predomi-
+body weight) and does not bind signiﬁcantly to tissues.                           nantly in extracellular ﬂuid.
+   Figure 1 shows the linear relationship between log values of                      Figure 2 shows the relationship between the 4 10 carbon
+PFOA T1/2 in the plasma or serum and renal clearance (CLR),                       chain length PFCAs (C4 to C10) and the log values of CLTOT in
+which demonstrates the importance of renal clearance in overall                   rats. It is apparent that the trend of a shorter chain length leading
+PFOA excretion. Among all species, female rats and rabbits                        to a higher CLTOT is valid for PFDA through PFHxA. PFBA, a
+excrete PFOA most quickly (T1/2 within hours); mice, male rats,                   four carbon chain PFCA, does not appear to follow this trend,
+dogs, and monkeys have T1/2 values that are in the range of a few                 which suggests that its elimination mechanism may diﬀer from
+days to a month; humans are very diﬀerent from the other animal                   the longer chain PFCAs. Another interesting observation is that
+species with the slowest renal elimination of PFOA and T1/2                       there are sex-dependent elimination diﬀerences in rats for PFBA
+value in years.                                                                   to PFNA (female being faster). The 10 carbon chain length
+   Another important piece of information shown in Table 1 is                     PFDA was eliminated at a similar rate in both male and female
+the PFOA concentration ratio in the kidney vs in the blood                        rats.15,34 Collectively, both PFBA and PFDA broke the clearance
+([Ckidney]/[Cblood]). Animals from the slower excretion group                     trend in Figure 2, each in its own way (PFBA being of lower
+(mice and male rats) all have [Ckidney]/[Cblood] values less than 1.              clearance than PFHxA and no sex-related diﬀerence in rats for
+                                                                             37                         dx.doi.org/10.1021/tx200363w |Chem. Res. Toxicol. 2012, 25, 35–46
+Chemical Research in Toxicology                                                                                                                             REVIEW
+
+                                                                                 Table 2. PFCA Toxicokinetic Parametersa: Half-Lives (T1/2)
+                                                                                 in Plasma or Serum, Total Clearance (CLTOT), and Volume of
+                                                                                 Distribution (Vd)
+                                                                                     PFCAs species gender T1/2 (h) CLTOT (mL/d/kg/) Vd (mL/kg) ref
+
+                                                                                     PFBA   rat     male     9.22b              377.1c                209         51
+                                                                                                                   b
+                                                                                                    female 1.76                 1635.2c               173         51
+                                                                                            mouse   male     13.34b             189.6c                152         51
+                                                                                                    female 2.87b                620.2c                107         51
+                                                                                            monkey male   40.32d                                      526         51
+                                                                                                   female 41.04d                                      443         51
+                                                                                            human            81.2e                                                51
+                                                                                     PFHxA rat      male     1                  2784                  175         52
+
+
+
+
+                                                                                                                                                                           Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​25/​1/​35/​17183730/​tx200363w.​pdf by UNIV OF ILLINOIS CHICAGO user on 02 October 2026
+                                                                                                             1.7                                                  53
+                                                                                                    female 0.42                 18600                 466         52
+                                                                                                             0.5                                                  53
+                                                                                            monkey male      5.3                2928                  989         52
+                                                                                                    female 2.4                  3264                  474         52
+                                                                                     PFHpA rat      male   2.4                  1604                  196         15
+Figure 1. Plot of log values of PFOA renal clearance (CLR) vs its plasma                            female 1.2                  3071                  201         15
+or serum half-life (T1/2) in diﬀerent species. CLR values in cynomolgus              PFNA   rat     male     974.4f                                               84
+monkeys are not available and, therefore, are replaced with the values of
+PFOA total clearance (CLTOT). All CLR, CLTOT, and T1/2 values used in                                        1128g                                                82
+this ﬁgure are summarized in Table 1.                                                                        709.7              6.9                   286.8       15
+                                                                                                    female 50.4g                                                  82
+                                                                                                             58.6               105.7                 243.1       15
+PFDA). This suggests that only PFHxA, PFHpA, PFOA, and                               PFDA   rat     male   958.1                5.2                   347.7       15
+PFNA share a common renal elimination mechanism, possibly
+                                                                                                    female 1405.7               5.3                   441.1       15
+involving the same set of renal transport proteins. The aﬃnities                 a
+                                                                                  Only average values reported in the literature are shown in the table.
+(i.e., Michaelis constant, Km) of these renal transport proteins                 b
+                                                                                  Data from single oral dosing. c Calculated according to CLTOT = ln
+toward 6 to 9 carbon PFCAs could follow a low-to-high trend                      2 3 Vd/T1/2. d β phase T1/2, obtained from single iv dosing. e Average of
+(or high-to-low, depending upon the transport direction;                         28.6, 105.3, and 109.7 h, the T1/2 values from three individuals. f Single
+see below for more details), which would explain the chain                       dose study. g Repeated dose study.
+length-dependent renal clearance of PFHxA, PFHpA, PFOA,
+and PFNA.20
+
+5. CURRENT STATUS OF MECHANISTIC STUDIES OF
+PFCA RENAL ELIMINATION
+   Interest in understanding the mechanism of PFCA renal
+elimination started very early on when it was observed that
+PFOA elimination kinetics in male and female rats diﬀered
+dramatically.29 Inhibition of renal organic anion transport via
+probenecid eﬀectively reduced PFOA renal clearance in female
+rats to a level comparable to that of male rats.29 However,
+probenecid did not seem to further inhibit PFOA renal clearance
+in male rats where PFOA renal clearance was already quite
+low.29,31 Sex hormones have long been identiﬁed as a major
+factor in determining PFOA renal clearance. Castration of male
+rats greatly increased PFOA renal elimination.31,36 Administra-
+tion of 17β-estradiol to castrated males brought PFOA urinary
+elimination to the level of females,32 whereas testosterone
+treatment of castrated males reduced PFOA elimination to the
+same level as that in intact males.31,36 The roles of sex hormones
+and the rates of PFOA renal elimination in rats are connected as                 Figure 2. Plot of log values of the total clearance (CLTOT) of PFCAs in
+sex hormones regulate the expression levels of renal organic                     male (4) and female (O) rats as a function of PFCA carbon chain length.
+anion transport proteins.68 A study correlating renal organic
+anion transport gene expression levels with PFOA renal elimina-                  this knowledge by identifying speciﬁc rat and human PFOA
+tion under the inﬂuence of sex hormones connected PFOA renal                     transporters in the kidney.
+elimination to speciﬁc renal transporters.36 A great deal of                        Serum protein binding is an important factor in deter-
+additional research has been performed in recent years to extend                 mining toxicokinetic properties of a chemical. PFOA is highly
+                                                                            38                         dx.doi.org/10.1021/tx200363w |Chem. Res. Toxicol. 2012, 25, 35–46
+Chemical Research in Toxicology                                                                                                                                REVIEW
+
+Table 3. PFCA-Serum Albumin Binding Parametersa: Association Constant (Ka) and the Number of Binding Sites (n)
+    PFCAs         serum albumin                      method                      Ka (M 1)              n                 binding site characteristic                 ref
+
+    PFBA             human               ﬂuorescence                             1.1  106                                                                         54
+    PFHpA            human               ﬂuorescence                             9.4  103         1.44                                                            60
+    PFOA             bovine              ﬂuorescence                             1.5  105                               high aﬃnity binding siteb                 59
+                                         ﬂuorescence                             8.0  101                               low aﬃnity binding siteb                  59
+                                         NMR                                     6.3  10  2
+                                                                                                                         low aﬃnity binding sitec                  56,59
+                                         ﬂuorescence                             4.4  104                                                                         61
+                                         equilibrium dialysis                    1.4  106         1.4                   high aﬃnity binding sitec                 56
+                     rat                 size exclusion column                   2.8  103         7.8                                                             69
+                     human               size exclusion column                   2.6  103         7.2                                                             69
+                                         NMR                                     3.5  103                                                                         69
+
+
+
+
+                                                                                                                                                                               Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​25/​1/​35/​17183730/​tx200363w.​pdf by UNIV OF ILLINOIS CHICAGO user on 02 October 2026
+                                         isothermal titration calorimetry        2.5  104         1                     step one binding sited                    55
+                                         isothermal titration calorimetry        5.5  102         12                    step two binding sited                    55
+                                         equilibrium dialysis                    3.1  104                                                                         55
+                                         ﬂuorescence                             2.2  104         1.9                                                             60
+                                         ﬂuorescence                             2.7  105         5.8                   Try214 IIA subdomain                      54
+    PFNA             bovine              ﬂuorescence                             6.0  105                               high aﬃnity binding siteb                 59
+                                         ﬂuorescence                             9.0  102                               low aﬃnity binding siteb                  59
+                                         NMR                                     8.0  103                               low aﬃnity binding sitec                  56,59
+                                         equilibrium dialysis                    3.3  106         2.9                   high aﬃnity binding sitec                 56
+                     human               ﬂuorescence                             5.0  104                               high aﬃnity binding siteb                 59
+                                         ﬂuorescence                             1.0  102                               low aﬃnity binding siteb                  59
+                                         NMR                                     2  104                                                                           59
+                                         ﬂuorescence                             2.6  104         2.3                                                             60
+    PFDA             bovine              ﬂuorescence                             3.0  105                               high aﬃnity binding siteb                 59
+                                         ﬂuorescence                             5.0  102                               low aﬃnity binding siteb                  59
+                                         ﬂuorescence                             6.9  105e                                                                        61
+                     human               ﬂuorescence                             4.8  104                                                                         60
+a
+ Only average values reported in the literature are shown in the table. b Proposed two binding sites with high and low binding aﬃnities, respectively.
+Values were obtained from 1 μM bovine serum albumin (BSA). c Proposed two classes of binding regimes in Bischel et al.:56 a strong speciﬁc association
+and a weaker nonspeciﬁc association. d A two-step binding is proposed. The ﬁrst step is a high aﬃnity binding, and the second step is a low aﬃnity and
+protein surface association. e Value at 27 °C is cited from the literature.
+
+
+protein-bound (∼98%) in rat plasma (or serum).29,32 However,                        Studies of PFCA albumin binding with reported binding
+this protein-binding property does not address the sex-depen-                    parameters and binding measurement methods are summarized
+dent renal elimination of PFOA in rats because PFOA is similarly                 in Table 3 for rat, bovine, and human serum albumins. Binding
+bound by plasma proteins in male and female rats.29,32 Serum                     parameters (Ka and the number of binding sites) have been
+albumin has been identiﬁed as the primary PFOA-binding                           reported for PFCAs with carbon chain lengths of 4, 7, 8, 9, or 10.
+protein in plasma. PFOA-albumin binding aﬃnities are similar                     Spectroscopic methods such as ﬂuorescence and NMR or
+between rat and human serum albumins.69 Therefore, albumin                       separation methods including equilibrium dialysis and size
+binding does not seem to play an important role in diﬀerentiating                exclusion column were mostly used for the binding measure-
+PFOA renal elimination among various mammalian species.                          ments. The data in Table 3 seem to show that PFCA albumin
+Nevertheless, investigation of serum albumin binding of PFCAs                    binding aﬃnities are not correlated with either PFCA chain
+remains an active research area.54 62 Below, we summarize our                    lengths or the source (species) of the protein. However, a recent
+current knowledge of PFCAs serum albumin binding and renal                       study systematically evaluated the bovine serum albumin -water
+transport of PFCAs via organic anion transport proteins.                         distribution coeﬃcients (KPW) of PFCA at diﬀerent chain
+    5.1. Serum Albumin Binding. PFOA is mainly distributed in                    lengths and demonstrated that the binding aﬃnities between
+plasma and in well-perfused tissues such as the liver and                        PFCA and bovine serum albumin were indeed chain length-
+kidney.16,18 PFOA’s primary carrier protein in plasma is serum                   dependent.63 Recent studies suggest that there are two groups of
+albumin,69 which has a concentration of approximately 40 g/L                     PFOA binding sites on serum albumin55,56,59 corresponding to
+(or 0.6 mM) in blood. Albumin binding plays an important role                    low and high binding aﬃnities. According to Table 3, Ka values
+in determining the renal clearance rate of PFOA if only the                      between 101 and 103 M 1 can be roughly categorized as the low
+unbound fraction of PFOA in blood is available for glomerular                    aﬃnity group, whereas Ka values for the high aﬃnity binding sites
+filtration and active secretion in the kidney. The extent of PFOA                are approximately between 104 and 106 M 1. The physiological
+serum albumin binding is determined by both the number of                        relevance of the two groups of binding sites is still unclear. It has
+PFOA binding sites on albumin and their binding affinity                         been reported that the time course for PFOA elimination from
+(association constant, Ka).                                                      plasma is biphasic in female rats16 and in monkeys,7,38 for PFBA
+                                                                            39                             dx.doi.org/10.1021/tx200363w |Chem. Res. Toxicol. 2012, 25, 35–46
+Chemical Research in Toxicology                                                                                                                          REVIEW
+
+in monkeys,51 and for PFHxA in monkeys52 and mice.53 How-                       and efflux (transporting out of the cell), or can be bidirectional
+ever, no clear connection has been drawn between the two types                  under certain conditions.
+of PFCA albumin binding sites and the observed biphasic                            The net result of renal tubular secretion and reabsorption can
+elimination patterns of PFCAs in these species.                                 be obtained from the diﬀerence between CLR and fu 3 GFR
+   5.2. Renal Transport. We have so far established the key role                according to the relationship CLS CLAbs = CLR fu 3 GFR
+of renal clearance in PFCA elimination. Figure 3 provides a                     (Figure 3), where CLS and CLAbs are the clearance values from
+schematic diagram to illustrate the processes involved in PFCA                  renal tubular secretion and reabsorption, respectively. Using a
+renal clearance (CLR). Renal clearance of PFCAs is a sum of                     GFR value of 14.4 L/d/kg for rats,70,71 CLR values of 18.2 mL/d/kg
+three processes involving glomerular filtration, renal tubular                  and 666 mL/d/kg for PFOA in male and female rats, respectively
+secretion, and renal tubular reabsorption. Because PFCAs vary                   (Table 1), and an assumed fu value of 0.02 for PFOA, one can
+in their affinities to bind plasma proteins, glomerular filtration of           readily calculate that female rats secrete PFOA at a clearance rate of
+PFCAs is a product of the unbound fraction of PFCAs (fu) and                    378 mL/d/kg (net renal tubular secretion), while male rats
+the glomerular filtration rate (GFR). Renal active secretion and                reabsorb PFOA at a clearance rate of 270 mL/d/kg (net renal
+reabsorption is the net result of renal transport proteins residing             tubular reabsorption, a 94% reabsorption rate). This illustrates the
+
+
+
+
+                                                                                                                                                                         Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​25/​1/​35/​17183730/​tx200363w.​pdf by UNIV OF ILLINOIS CHICAGO user on 02 October 2026
+on the basolateral (facing the blood) or the apical (facing the                 level of diﬀerence in renal transport of PFOA between male and
+urine) membranes of the proximal tubular cells. Renal transport                 female rats.
+proteins can facilitate both uptake (transporting into the cell)                   Table 4 shows similar calculation estimates for mice, rabbits,
+                                                                                dogs, Japanese macaques, and humans. Assuming the same
+                                                                                PFOA protein binding level for all species (fu = 0.02), rabbits
+                                                                                and female rats have a net renal tubular secretion, whereas male
+                                                                                rats, mice, dogs, Japanese macaques, and humans have a net renal
+                                                                                tubular reabsorption. Even though values in Table 4 are rough
+                                                                                estimates, it is still interesting to see that humans, with the
+                                                                                longest PFOA plasma T1/2 among the species, have a net tubular
+                                                                                reabsorption rate (in mL/d/kg) that is actually lower than
+                                                                                those of Japanese macaques, male rats, and mice. The actual
+                                                                                reason for the long PFOA plasma T1/2 in humans, as shown in
+                                                                                Table 4, is that humans have the highest percentage of renal
+                                                                                tubular reabsorption (99.94%), as a similar value was reported
+                                                                                previously.37
+                                                                                   PFCA renal active secretion and reabsorption are mediated via
+                                                                                organic anion transport proteins. There is a wealth of informa-
+                                                                                tion on renal organic anion transport proteins in the literature
+                                                                                and interest and knowledge concerning these transport proteins
+                                                                                are growing rapidly.72 80 Renal organic anion transport systems
+                                                                                belong to the two main transporter superfamilies: the solute
+                                                                                carrier (SLC) family and the ATP-binding cassette (ABC) family.
+                                                                                ABC transporters (such as multidrug resistance-associated pro-
+                                                                                teins (MRPs)) are active eﬄux proteins, whereas SLC proteins
+                                                                                (most important are SLC22A, which encodes organic anion
+Figure 3. Schematic diagram of the processes in PFCA renal clearance.           transporters (OATs), and SLCO, which encodes organic anion
+
+Table 4. Estimate of Net Renal Tubular Secretion or Reabsorption of PFOA in Diﬀerent Species
+          species      gender   GFR (L/d/kg)a   CLR (mL/d/kg)b     net secretion (mL/d/kg)c   net reabsorption (mL/d/kg)d          percentage of reabsorptione
+
+    rabbit             female       4                 670                    590                                                           not applicable
+                       male         4                 640                    560                                                           not applicable
+    rat                female       14.4              666                    378                                                           not applicable
+    dog                female       5.3               50.8                                                 55                              52%
+                       male         5.3               43                                                   63                              59%
+    Japanese macaque   female       8.5               32                                                   138                             81.2%
+                       male         8.5               15                                                   155                             91.2%
+    rat                male         14.4              18.2                                                 270                             93.7%
+    mouse              female       16.7              16                                                   318                             95.2%
+                       male         16.7              10                                                   324                             97.0%
+    human                           2.57              0.03                                                 51                              99.94%
+a
+ Glomerular ﬁltration rate. Values are representatives from the literature (rabbit,85 rat,70,71 and dog values are the average of the reported range,86
+monkey for Japanese macaque,87 mouse,88 and human values are normalized to a body weight of 70 kg89) and are only meant for the purpose of
+demonstrating tubular secretion and reabsorption of PFOA. b Values are obtained from Table 1. c Net tubular secretion = CLR fu 3 GFR, where fu, the
+unbound fraction, is assumed to be 0.02. d Net tubular reabsorption = fu 3 GFR CLR, where fu, the unbound fraction, is assumed to be 0.02. e Percent of
+PFOA being reabsorbed from glomerular ﬁltration equals (net tubular reabsorption)/(fu 3 GFR)  100.
+
+                                                                           40                        dx.doi.org/10.1021/tx200363w |Chem. Res. Toxicol. 2012, 25, 35–46
+Chemical Research in Toxicology                                                                                                                         REVIEW
+
+Table 5. Human, Rat, and Mouse Renal Organic Anion Transport Proteins or Their Genesa That Are Located in Either the
+Basolateral or the Apical Membranes of the Proximal Tubular Cells
+
+
+
+
+                                                                                                                                                                        Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​25/​1/​35/​17183730/​tx200363w.​pdf by UNIV OF ILLINOIS CHICAGO user on 02 October 2026
+a
+  Transport proteins are categorized by either uptake or eﬄux proteins with transport directions shown by arrows. Transporters that have been reported
+to mediate PFCA membrane transport are underlined and in bold, whereas transporters that have been reported not to involve in PFCA renal
+transport are highlighted in bold only. b Under the right in vitro conditions, uptake transporters (e.g., OATs and OATPs) are often capable of
+being bidirectional (uptake and eﬄux), although they are typically considered to transport xenobiotics into the proximal tubular cells (uptake)
+in vivo. c The expression of OATP1A2 in the human kidney is localized to the distal nephrons. d Localized to ascending limb cells and basolateral
+membranes of the distal and collecting tubule cells of the mouse kidney but not in proximal tubule cells.
+
+
+transporting polypeptides (OATPs)) are generally considered                    transporters that have been studied so far, rat Oat2 and Urat1 and
+to facilitate cellular uptake but can be bidirectional. Table 5                human OAT2 and OATP1A2 did not exhibit signiﬁcant activity
+lists human, rat, and mouse renal organic anion transport                      toward PFCA transport.19,21,45
+proteins that have been identiﬁed. These transport proteins                       Among the conﬁrmed PFCA renal uptake transporters, Oat1
+are categorized as basolateral or apical membrane proteins of                  (or OAT1) and Oat3 (or OAT3) reside in the basolateral
+the proximal tubular cells with either a cellular uptake direction             membrane of the proximal tubular cells, and their PFCA uptake
+or a cellular eﬄux direction (with the knowledge that some of                  would facilitate PFCA renal tubular secretion. In contrast, due to
+the transporters are capable of bidirectional transport under                  their expression in the apical membrane of the proximal tubular
+certain in vitro and in vivo conditions). These renal transpor-                cells, Oatp1a1, OAT4, and URAT1 would be the transporters
+ters have been grouped according to their potential roles in                   involved in PFCA renal tubular reabsorption. The reported Km
+PFCA renal tubular secretion or reabsorption. For example, as                  values indicate medium-to-high range aﬃnities between PFCAs
+shown in Figure 3, renal tubular reabsorption will result from                 and the renal transporters (Table 6). Because a clearance value
+an uptake process of the apical membrane transport proteins                    can be expressed as Vmax/Km, where Vmax is the maximum
+(CLA‑uptake) as well as an eﬄux process of the basolateral mem-                velocity of membrane uptake and is determined by the expres-
+brane transport proteins (CLB‑eﬄux). Even though this type of                  sion levels of the transporters, both Vmax and Km would be key
+grouping oversimpliﬁes the complex process of renal transport,                 parameters to determine the clearance rate for PFCA membrane
+it nevertheless helps generate a hypothesis concerning PFCA                    transport (CLB‑eﬄux, CLA‑uptake, CLB‑uptake, and CLA‑eﬄux in
+renal transport mechanisms.                                                    Figure 3), which in turn would determine the net result of renal
+   To date, renal organic anion transport proteins have been                   tubular secretion (CLS) and reabsorption (CLAbs).
+studied both indirectly and directly for their potential interac-                 All PFCA renal transporter studies aim to address the ob-
+tions with PFCAs. The following transport proteins are mainly                  servations of sex-, species-, and chain length-dependent renal
+uptake transporters: rat Oat1,19,45 Oat2,19,45 Oat3,19,44,45                   elimination of PFCAs. In rats, lower PFOA renal clearance in
+Oatp1a1,19,20,44 and Urat119 and human OAT1,45 OAT2,45                         males has been attributed to the higher expression level of
+OAT3,45 OAT4,21,43 URAT1,21 and OATP1A2.21 The only                            Oatp1a1 in males, which caused a higher rate of PFOA reabsorp-
+eﬄux transporter investigated indirectly so far was rat Mrp2,                  tion in the kidney of male rats.20 In addition, the aﬃnities
+where the authors used Eisai hyperbilirubinemic rats that are                  (expressed as apparent inhibition constant Ki,app) between
+deﬁcient in Mrp2 expression to compare with PFOA elimina-                      Oatp1a1 and PFCAs with carbon chain lengths between 6 and
+tion in normal Sprague Dawley rats and showed that Mrp2 did                    10 correlated well with the in vivo CLR of these PFCAs, which
+not play a role in PFOA renal clearance.44 Among the uptake                    not only supported the mechanism of PFCA renal tubular
+                                                                          41                        dx.doi.org/10.1021/tx200363w |Chem. Res. Toxicol. 2012, 25, 35–46
+Chemical Research in Toxicology                                                                                                                                   REVIEW
+
+Table 6. Michaelis Constant (Km) Values of PFCA Mem-
+brane Uptake Mediated by Rat and Human Renal Organic
+Anion Transport Proteins
+
+                                                  Km (μM)
+
+     transporters           PFHpA          PFOA                  PFNA      PFDA
+                               19     45          19
+    rat Oat1                50.5    51 or 43.2
+    rat Oat3                        80.245 or 65.719             174.519
+                                           20          19
+    rat Oatp1a1                     162.2 or 126.4               20.519    28.519
+                                      45
+    human OAT1                      48
+    human OAT3                      49.145
+    human OAT4                      172.3 310.321a
+                                    64.121
+
+
+
+
+                                                                                                                                                                                  Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​25/​1/​35/​17183730/​tx200363w.​pdf by UNIV OF ILLINOIS CHICAGO user on 02 October 2026
+    human URAT1
+a
+    The Km value was pH-dependent.
+
+
+Table 7. Renal Transport Maximum (Tmc) and Transport
+Aﬃnity Constant (KT)a That Are Reported from PBPK
+Models of PFOA Elimination in Diﬀerent Animal Species
+                    Tmc (mg/h/kg)    KT (mg/L)         Tmc/KT (L/d/kg)        ref
+
+    male rat           0.516             0.209              59.3              47
+                       270b              67c                96                49
+    female rat         0.00935           0.05               4.49              47
+                       3b                67 c               1.08              49
+    mouse              860.9             0.0015             1.38  107        48
+    monkey             5                 0.055              2181              42
+                       0.15              0.055              65                50
+    human              6b                0.055              2618              50
+a
+  Tmc and KT are obtained by ﬁtting PFOA plasma elimination curves.
+b
+  The unit is mg/h/kg0.75. c The KT value is derived from an in vitro                    Figure 4. Plot of PFOA cumulative urinary excretion by isolated
+measurement.20                                                                           perfused kidneys from male and female Sprague Dawley rats. The data
+                                                                                         are the average of two individual experiments. The experimental
+                                                                                         procedure followed a protocol that has been described previously81
+reabsorption via Oatp1a1 in rats but also provided a mechanism                           with an addition of 10 μM PFOA in the perfusate at the start of the
+for chain length-dependent PFCA elimination in rats.20 Similar                           perfusion and the addition of 1 mM probenecid as indicated in the ﬁgure.
+inhibition studies have also shown chain length-dependent
+inhibitions for marker substrate uptake by rat Oat1 and Oat3
+and human OAT4 and URAT1.19 21 Therefore, PFCA renal                                     the species-dependent diﬀerences between rats, monkeys, and
+transport via membrane transport proteins appears to be the                              humans.42,47 50 Two key parameters were utilized to describe
+fundamental mechanism responsible for the observation of chain                           the reabsorption process: the renal transport maximum (Tmc)
+length-dependent PFCA renal clearance as shown in Figure 2.                              and the transporter aﬃnity constant (KT). These two parameters
+   Homologues of most renal transporters exist in diﬀerent species                       are analogous to Vmax and Km, which characterize the maximum
+as illustrated in Table 5. However, there are also species-speciﬁc                       transport velocity and the concentration at which the transport
+transporters. For example, OAT4 is human speciﬁc and Oat5 is rat                         velocity is half-maximal. Therefore, when PFOA concentrations
+speciﬁc (Table 5). In addition, Oat2 in rodents is expressed in the                      in urine are well below KT, the ratio Tmc/KT is functionally
+apical membrane of the proximal tubular cells whereas human                              equivalent to a ﬁrst order clearance term that can be compared to
+OAT2 is located in the basolateral membrane (Table 5). These
+                                                                                         the quantity of CLAbs CLS as shown in Figure 3 (which equals
+species-speciﬁc renal transporters contribute to the species-related
+                                                                                         to fu 3 GFR CLR).
+diﬀerences in PFCA renal elimination (Figure 1). For instance,
+                                                                                            Values of Tmc and KT that have been reported to date for
+human OAT4 and URAT1 are shown to be possibly responsible for
+PFOA renal tubular reabsorption in humans,21 whereas in rats,                            various species are listed in Table 7. All of these values were
+                                                                                         obtained and optimized by ﬁtting plasma elimination curves of
+Oatp1a1 has been suggested to play such a role.20 It is uncertain
+                                                                                         PFOA in the animals, with the exception of the rat KT value
+though if this diﬀerence alone would adequately address the
+                                                                                         reported by Loccisano et al.,49 which was derived from an in vitro
+diﬀerence of PFOA renal elimination in rats and humans.
+                                                                                         determination of the Km value of rat Oatp1a1.20 The ratios of
+                                                                                         Tmc/KT in Table 7 range from a low of 1.08 L/d/kg for female
+6. PHYSIOLOGICALLY BASED PHARMACOKINETIC                                                 rats to a high of 1.38  107 L/d/kg for mice, which are all
+(PBPK) MODELS OF PFOA                                                                    signiﬁcantly greater than the estimated net renal reabsorption
+   Current PFOA PBPK modeling eﬀorts have incorporated a                                 rates for the mouse, rat, monkey, and human (Table 4). There-
+saturable PFCA renal tubular reabsorption process to account for                         fore, it is apparent that there is still room for improvement in the
+                                                                                    42                        dx.doi.org/10.1021/tx200363w |Chem. Res. Toxicol. 2012, 25, 35–46
+Chemical Research in Toxicology                                                                                                                       REVIEW
+
+mechanistic representation of PFCA reabsorption in PBPK                    shown to mediate PFCA uptake (a renal tubular reabsorption
+modeling.                                                                  pathway) with medium to high aﬃnities. Applications using this
+   For humans, the PFOA CLTOT value is approximately                       renal tubular reabsorption pathway in PBPK modeling of PFOA
+0.10 mL/d/kg based on an observed serum elimination half-life              have shown promising results. However, more accurate and
+of 3.5 years23 and a volume of distribution of 0.2 L/kg, a value           quantitative characterization of renal tubular secretion and
+derived from a monkey study.38 Because the PFOA CLR value in               reabsorption pathways is required to further advance PFCA
+humans is approximately 0.03 mL/d/kg,37 fecal elimination of               PBPK models. This is key to improving the prediction of PFCA
+PFOA (assumed to be CLTOT CLR) is more than twice as large                 toxicokinetics in humans. In this review, a basolateral membrane
+as the urinary elimination in humans, and signiﬁcant reabsorp-             eﬄux pathway for PFCA reabsorption in the kidney is proposed,
+tion during biliary excretion can be expected.66 Because PFOA              which could provide a future research direction toward a better
+reabsorption in humans occurs via both renal and enterohepatic             understanding of the mechanism of PFCA renal elimination.
+circulation processes, the best-ﬁt values of Tmc and KT are most
+likely empirical representations of both processes, rather than the        ’ AUTHOR INFORMATION
+renal process alone.
+
+
+
+
+                                                                                                                                                                      Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​25/​1/​35/​17183730/​tx200363w.​pdf by UNIV OF ILLINOIS CHICAGO user on 02 October 2026
+                                                                           Corresponding Author
+                                                                           *DuPont Haskell Global Centers for Health and Environmental
+7. PFCA RENAL TRANSPORT VIA A BASOLATERAL                                  Sciences, P.O. Box 50, 1090 Elkton Road Newark, DE 19714.
+MEMBRANE EFFLUX PATHWAY: A HYPOTHESIS                                      Phone: (302) 451-5808. Fax: (302) 451-3568. E-mail: xing.
+   PFCAs that are reabsorbed through proximal tubule apical                han@usa.dupont.com.
+membranes (i.e., CLA‑uptake, Figure 3) eventually need to be
+transported back to the systemic circulation by crossing the
+                                                                           ’ ACKNOWLEDGMENT
+basolateral membranes. Yang et al. have proposed an eﬄux
+pathway (i.e., CLB‑eﬄux, Figure 3) for PFOA renal tubular                    We thank Dr. Robert Buck (DuPont) for his critical review
+reabsorption through the basolateral membrane of the proximal              and comments on this manuscript.
+tubular cells based on the observation of a lack of intracellular
+PFOA accumulation in the kidney.21 This hypothesis is further              ’ ABBREVIATIONS
+supported with the [Ckidney]/[Cblood] ratios shown in Table 1 for          PFBA, perﬂuorobutanoate, F(CF2)3CO2 ; PFHxA, perﬂuoro-
+rats and mice, where the [Ckidney]/[Cblood] ratio for female rats          hexanoate, F(CF2)5CO2 ; PFHpA, perﬂuoroheptanoate, F-
+(fast excreter) is greater than 1, whereas for male rats and mice          (CF2)6CO2 ; PFOA, perﬂuorooctanoate, F(CF2)7CO2 ; PFNA,
+(slow excreters), the ratios are all less than 1. A more eﬀective          perﬂuorononanoate, F(CF2)8CO2 ; PFDA, perﬂuorodecanoate,
+basolateral membrane eﬄux pathway in the male rat and mouse                F(CF2)9CO2 ; ABC, ATP-binding cassette; MRP, multidrug resis-
+than in the female rat could explain this observation. Probenecid          tance-associated protein; OAT, organic anion transporter; OATP,
+inhibition of PFOA renal elimination in female rats but not in             organic anion transporting polypeptide; PBPK, physiologically
+male rats29,31 provides experimental evidence to support this              based pharmacokinetic; SLC, solute carrier
+hypothesis. Our own isolated perfused rat kidney experiments
+agreed with the animal data as shown in Figure 4 (unpublished              ’ REFERENCES
+data). Probenecid is a known eﬀective inhibitor of Oat1 and                   (1) Key, B. D., Howell, R. D., and Criddle, C. S. (1997) Fluorinated
+Oat3, which explains its inhibition on renal tubular secretion of          organics in the biosphere. Environ. Sci. Technol. 31, 2445–2454.
+PFOA in female rats. Its ineﬀectiveness toward male rats                      (2) Lau, C., Anitole, K., Hodes, C., Lai, D., Pfahles-Hutchens, A., and
+indirectly suggests that a diﬀerent pathway exists in the basolat-         Seed, J. (2007) Perﬂuoroalkyl acids: a review of monitoring and
+eral membrane of the proximal tubular cells of male rats. Taken            toxicological ﬁndings. Toxicol. Sci. 99, 366–394.
+                                                                              (3) Kissa, E. (2001) Fluorinated Surfactants and Repellents, Vol. 97,
+together, these results indicate that there are PFCA eﬄux                  2nd ed., Marcel Dekker, New York.
+transporters localized to the basolateral membrane transporting               (4) Kennedy, G. L., Jr., Butenhoﬀ, J. L., Olsen, G. W., O’Connor, J. C.,
+intracellular PFCAs back to the systemic circulation. On the basis         Seacat, A. M., Perkins, R. G., Biegel, L. B., Murphy, S. R., and Farrar, D. G.
+of Table 5, current candidates that could fulﬁll this role are             (2004) The toxicology of perﬂuorooctanoate. Crit. Rev. Toxicol. 34, 351–384.
+human MRP6 and OSTα/β or rat Mrp6 and Ostα/β.                                 (5) Vestergren, R., and Cousins, I. T. (2009) Tracking the pathways
+                                                                           of human exposure to perﬂuorocarboxylates. Environ. Sci. Technol.
+8. CONCLUSIONS AND PERSPECTIVES                                            43, 5565–5575.
+                                                                              (6) Kudo, N., and Kawashima, Y. (2003) Toxicity and toxicokinetics
+   Rationalization of the kinetic behavior of PFOA in mammals              of perﬂuorooctanoic acid in humans and animals. J. Toxicol. Sci.
+has come a long way since Hanhijarvi et al. ﬁrst reported the              28, 49–57.
+dramatic sex-related diﬀerence in PFOA elimination in male and                (7) Andersen, M. E., Butenhoﬀ, J. L., Chang, S. C., Farrar, D. G.,
+female rats.29 As this review demonstrates, renal elimination is           Kennedy, G. L., Jr., Lau, C., Olsen, G. W., Seed, J., and Wallace, K. B.
+the most important process in PFCA toxicokinetics. Our under-              (2008) Perﬂuoroalkyl acids and related chemistries: toxicokinetics and
+standing and knowledge of PFCA renal elimination mechanisms                modes of action. Toxicol. Sci. 102, 3–14.
+                                                                              (8) Prevedouros, K., Cousins, I. T., Buck, R. C., and Korzeniowski,
+have progressed to the level of molecular interactions between             S. H. (2006) Sources, fate and transport of perﬂuorocarboxylates.
+individual PFCAs and renal organic anion transport proteins.               Environ. Sci. Technol. 40, 32–44.
+Active renal tubular reabsorption via organic anion transport                 (9) Hekster, F. M., Laane, R. W., and de Voogt, P. (2003) Environ-
+proteins is now considered responsible for sex-, species-, and             mental and toxicity eﬀects of perﬂuoroalkylated substances. Rev. Environ.
+chain length-dependent renal elimination of PFCAs. A number                Contam. Toxicol. 179, 99–121.
+of rat and human renal transporters located to the apical                     (10) DeWitt, J. C., Shnyra, A., Badr, M. Z., Loveless, S. E., Hoban, D.,
+membranes of the proximal tubular cells have been studied and              Frame, S. R., Cunard, R., Anderson, S. E., Meade, B. J., Peden-Adams,
+
+                                                                      43                          dx.doi.org/10.1021/tx200363w |Chem. Res. Toxicol. 2012, 25, 35–46
+Chemical Research in Toxicology                                                                                                                                 REVIEW
+
+M. M., Luebke, R. W., and Luster, M. I. (2009) Immunotoxicity of                        (29) Hanhijarvi, H., Ophaug, R. H., and Singer, L. (1982) The sex-
+perﬂuorooctanoic acid and perﬂuorooctane sulfonate and the role of                   related diﬀerence in perﬂuorooctanoate excretion in the rat. Proc. Soc.
+peroxisome proliferator-activated receptor alpha. Crit. Rev. Toxicol. 39,            Exp. Biol. Med. 171, 50–55.
+76–94.                                                                                  (30) Vanden Heuvel, J. P., Kuslikis, B. I., and Peterson, R. E. (1992)
+   (11) Lau, C., Butenhoﬀ, J. L., and Rogers, J. M. (2004) The                       Covalent binding of perﬂuorinated fatty acids to proteins in the plasma,
+developmental toxicity of perﬂuoroalkyl acids and their derivatives.                 liver and testes of rats. Chem.-Biol. Interact 82, 317–328.
+Toxicol. Appl. Pharmacol. 198, 231–241.                                                 (31) Vanden Heuvel, J. P., Davis, J. W., II, Sommers, R., and
+   (12) Olsen, G. W., Butenhoﬀ, J. L., and Zobel, L. R. (2009)                       Peterson, R. E. (1992) Renal excretion of perﬂuorooctanoic acid in
+Perﬂuoroalkyl chemicals and human fetal development: an epidemio-                    male rats: inhibitory eﬀect of testosterone. J. Biochem. Toxicol. 7, 31–36.
+logic review with clinical and toxicological perspectives. Reprod. Toxicol.             (32) Ylinen, M., Hanhijarvi, H., Jaakonaho, J., and Peura, P. (1989)
+27, 212–230.                                                                         Stimulation by oestradiol of the urinary excretion of perﬂuorooctanoic
+   (13) Steenland, K., Fletcher, T., and Savitz, D. A. (2010) Epidemio-              acid in the male rat. Pharmacol. Toxicol. 65, 274–277.
+logic evidence on the health eﬀects of perﬂuorooctanoic acid (PFOA).                    (33) Olson, C. T., and Andersen, M. E. (1983) The acute toxicity of
+Environ. Health Perspect. 118, 1100–1108.                                            perﬂuorooctanoic and perﬂuorodecanoic acids in male rats and eﬀects
+   (14) Hundley, S. G., Sarrif, A. M., and Kennedy, G. L. (2006)                     on tissue fatty acids. Toxicol. Appl. Pharmacol. 70, 362–372.
+
+
+
+
+                                                                                                                                                                                Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​25/​1/​35/​17183730/​tx200363w.​pdf by UNIV OF ILLINOIS CHICAGO user on 02 October 2026
+Absorption, distribution, and excretion of ammonium perﬂuorooctano-                     (34) Ylinen, M., and Auriola, S. (1990) Tissue distribution and
+ate (APFO) after oral administration to various species. Drug Chem.                  elimination of perﬂuorodecanoic acid in the rat after single intraper-
+Toxicol. 29, 137–145.                                                                itoneal administration. Pharmacol. Toxicol. 66, 45–48.
+   (15) Ohmori, K., Kudo, N., Katayama, K., and Kawashima, Y. (2003)                    (35) George, M. E., and Andersen, M. E. (1986) Toxic eﬀects of
+Comparison of the toxicokinetics between perﬂuorocarboxylic acids                    nonadecaﬂuoro-n-decanoic acid in rats. Toxicologist 6, 1264.
+with diﬀerent carbon chain length. Toxicology 184, 135–140.                             (36) Kudo, N., Katakura, M., Sato, Y., and Kawashima, Y. (2002) Sex
+   (16) Kemper, R. A. (2003) Perﬂuorooctanoic acid: toxicokinetics in                hormone-regulated renal transport of perﬂuorooctanoic acid. Chem.-
+the rat, DuPont Haskell Laboratories, report ID: DuPont-7473, USEPA                  Biol. Interact. 139, 301–316.
+Administrative Record AR-226.1499.                                                      (37) Harada, K., Inoue, K., Morikawa, A., Yoshinaga, T., Saito, N.,
+   (17) Kudo, N., Suzuki, E., Katakura, M., Ohmori, K., Noshiro, R.,                 and Koizumi, A. (2005) Renal clearance of perﬂuorooctane sulfonate
+and Kawashima, Y. (2001) Comparison of the elimination between                       and perﬂuorooctanoate in humans and their species-speciﬁc excretion.
+perﬂuorinated fatty acids with diﬀerent carbon chain length in rats.                 Environ. Res. 99, 253–261.
+Chem.-Biol. Interact. 134, 203–216.                                                     (38) Butenhoﬀ, J. L., Kennedy, G. L., Jr., Hinderliter, P. M., Lieder,
+   (18) Vanden Heuvel, J. P., Kuslikis, B. I., Van Rafelghem, M. J., and             P. H., Jung, R., Hansen, K. J., Gorman, G. S., Noker, P. E., and Thomford,
+Peterson, R. E. (1991) Tissue distribution, metabolism, and elimination of           P. J. (2004) Pharmacokinetics of perﬂuorooctanoate in cynomolgus
+perﬂuorooctanoic acid in male and female rats. J. Biochem. Toxicol. 6, 83–92.        monkeys. Toxicol. Sci. 82, 394–406.
+   (19) Weaver, Y. M., Ehresman, D. J., Butenhoﬀ, J. L., and Hagen-                     (39) Han, X., Hinderliter, P. M., Snow, T. A., and Jepson, G. W.
+buch, B. (2010) Roles of rat renal organic anion transporters in                     (2004) Binding of perﬂuorooctanoic acid to rat liver-form and kidney-
+transporting perﬂuorinated carboxylates with diﬀerent chain lengths.                 form alpha2u-globulins. Drug Chem. Toxicol. 27, 341–360.
+Toxicol. Sci. 113, 305–314.                                                             (40) Han, X., Kemper, R. A., and Jepson, G. W. (2005) Subcellular
+   (20) Yang, C. H., Glover, K. P., and Han, X. (2009) Organic anion                 distribution and protein binding of perﬂuorooctanoic acid in rat liver and
+transporting polypeptide (Oatp) 1a1-mediated perﬂuorooctanoate                       kidney. Drug Chem. Toxicol. 28, 197–209.
+transport and evidence for a renal reabsorption mechanism of Oatp1a1                    (41) Luebker, D. J., Hansen, K. J., Bass, N. M., Butenhoﬀ, J. L., and
+in renal elimination of perﬂuorocarboxylates in rats. Toxicol. Lett.                 Seacat, A. M. (2002) Interactions of ﬂuorochemicals with rat liver fatty
+190, 163–171.                                                                        acid-binding protein. Toxicology 176, 175–185.
+   (21) Yang, C. H., Glover, K. P., and Han, X. (2010) Characterization                 (42) Andersen, M. E., Clewell, H. J., III, Tan, Y. M., Butenhoﬀ, J. L.,
+of cellular uptake of perﬂuorooctanoate via organic anion-transporting               and Olsen, G. W. (2006) Pharmacokinetic modeling of saturable, renal
+polypeptide 1A2, organic anion transporter 4, and urate transporter 1 for            resorption of perﬂuoroalkylacids in monkeys: probing the determinants
+their potential roles in mediating human renal reabsorption of perﬂuoro-             of long plasma half-lives. Toxicology 227, 156–164.
+carboxylates. Toxicol. Sci. 117, 294–302.                                               (43) Nakagawa, H., Terada, T., Harada, K. H., Hitomi, T., Inoue, K.,
+   (22) Han, X., Yang, C. H., Snajdr, S. I., Nabb, D. L., and Mingoia,               Inui, K., and Koizumi, A. (2009) Human organic anion transporter
+R. T. (2008) Uptake of perﬂuorooctanoate in freshly isolated hepato-                 hOAT4 is a transporter of perﬂuorooctanoic acid. Basic Clin. Pharmacol.
+cytes from male and female rats. Toxicol. Lett. 181, 81–86.                          Toxicol. 105, 136–138.
+   (23) Olsen, G. W., Burris, J. M., Ehresman, D. J., Froehlich, J. W.,                 (44) Katakura, M., Kudo, N., Tsuda, M., Hibino, Y., Mitsumoto, A.,
+Seacat, A. M., Butenhoﬀ, J. L., and Zobel, L. R. (2007) Half-life of serum           and Kawashima, Y. (2007) Rat organic anion transporter 3 and organic
+elimination of perﬂuorooctanesulfonate,perﬂuorohexanesulfonate, and                  anion transporting polypeptide 1 mediate perﬂuorooctanoic acid trans-
+perﬂuorooctanoate in retired ﬂuorochemical production workers. En-                   port. J. Health Sci. 53, 77–83.
+viron. Health Perspect. 115, 1298–1305.                                                 (45) Nakagawa, H., Hirata, T., Terada, T., Jutabha, P., Miura, D.,
+   (24) Bartell, S. M., Calafat, A. M., Lyu, C., Kato, K., Ryan, P. B., and          Harada, J. H., Inoue, K., Anzai, N., Endou, H., Inui, K., Kanai, Y., and
+Steenland, K. (2010) Rate of decline in serum PFOA concentrations                    Koizumi, A. (2008) Roles of organic anion transporters in the renal
+after granular activated carbon ﬁltration at two public water systems in             excretion of perﬂuorooctanoic acid. Basic Clin. Pharmacol. Toxicol. 103, 1–8.
+Ohio and West Virginia. Environ. Health Perspect. 118, 222–228.                         (46) Wambaugh, J. F., Barton, H. A., and Setzer, R. W. (2008)
+   (25) Taves, D. R. (1968) Evidence that there are two forms of                     Comparing models for perﬂuorooctanoic acid pharmacokinetics using
+ﬂuoride in human serum. Nature 217, 1050–1051.                                       Bayesian analysis. J. Pharmacokinet. Pharmacodyn. 35, 683–712.
+   (26) Guy, W. S., Taves, D. R., and Brey, J. W. S. (1976) Organic                     (47) Tan, Y. M., Clewell, H. J., III, and Andersen, M. E. (2008) Time
+Fluorocompounds in Human Plasma: Prevalence and Characteriza-                        dependencies in perﬂuorooctylacids disposition in rat and monkeys: a
+tion, in Biochemistry Involving Carbon-Fluorine Bonds (Filler, R., Ed.)              kinetic analysis. Toxicol. Lett. 177, 38–47.
+pp 117 134, American Chemical Society, Washington, D.C.                                 (48) Lou, I., Wambaugh, J. F., Lau, C., Hanson, R. G., Lindstrom,
+   (27) Ubel, F. A., Sorensen, S. D., and Roach, D. E. (1980) Health                 A. B., Strynar, M. J., Zehr, R. D., Setzer, R. W., and Barton, H. A. (2009)
+status of plant workers exposed to ﬂuorochemicals - a preliminary report.            Modeling single and repeated dose pharmacokinetics of PFOA in mice.
+Am. Ind. Hyg. Assoc. J. 41, 584–589.                                                 Toxicol. Sci. 107, 331–341.
+   (28) Griﬃth, F. D., and Long, J. E. (1980) Animal toxicity studies                   (49) Loccisano, A. E., Campbell, J. L., Jr., Butenhoﬀ, J. L., Andersen,
+with ammonium perﬂuorooctanoate. Am. Ind. Hyg. Assoc. J. 41, 576–583.                M. E., and Clewell, H. J., III (2011) Comparison and evaluation of
+
+                                                                                44                          dx.doi.org/10.1021/tx200363w |Chem. Res. Toxicol. 2012, 25, 35–46
+Chemical Research in Toxicology                                                                                                                                   REVIEW
+
+pharmacokinetics of PFOA and PFOS in the adult rat using a physio-                         (68) Sabolic, I., Asif, A. R., Budach, W. E., Wanke, C., Bahn, A., and
+logically based pharmacokinetic model. Reprod. Toxicol.in press.                       Burckhardt, G. (2007) Gender diﬀerences in kidney function. Pﬂugers
+   (50) Loccisano, A. E., Campbell, J. L., Jr., Andersen, M. E., and                   Arch 455, 397–429.
+Clewell, H. J., III. (2011) Evaluation and prediction of pharmacokinetics                  (69) Han, X., Snow, T. A., Kemper, R. A., and Jepson, G. W. (2003)
+of PFOA and PFOS in the monkey and human using a PBPK model.                           Binding of perﬂuorooctanoic acid to rat and human plasma proteins.
+Regul. Toxicol. Pharmacol. 59, 157–175.                                                Chem. Res. Toxicol. 16, 775–781.
+   (51) Chang, S. C., Das, K., Ehresman, D. J., Ellefson, M. E., Gorman,                   (70) Schock-Kusch, D., Sadick, M., Henninger, N., Kraenzlin, B.,
+G. S., Hart, J. A., Noker, P. E., Tan, Y. M., Lieder, P. H., Lau, C., Olsen,           Claus, G., Kloetzer, H. M., Weiss, C., Pill, J., and Gretz, N. (2009)
+G. W., and Butenhoﬀ, J. L. (2008) Comparative pharmacokinetics of                      Transcutaneous measurement of glomerular ﬁltration rate using FITC-
+perﬂuorobutyrate in rats, mice, monkeys, and humans and relevance to                   sinistrin in rats. Nephrol. Dial. Transplant. 24, 2997–3001.
+human exposure via drinking water. Toxicol. Sci. 104, 40–53.                               (71) Yu, W., Sandoval, R. M., and Molitoris, B. A. (2007) Rapid
+   (52) Chengelis, C. P., Kirkpatrick, J. B., Myers, N. R., Shinohara, M.,             determination of renal ﬁltration function using an optical ratiometric
+Stetson, P. L., and Sved, D. W. (2009) Comparison of the toxicokinetic                 imaging approach. Am. J. Physiol. Renal Physiol. 292, F1873–1880.
+behavior of perﬂuorohexanoic acid (PFHxA) and nonaﬂuorobutane-1-                           (72) El-Sheikh, A. A., Masereeuw, R., and Russel, F. G. (2008)
+sulfonic acid (PFBS) in cynomolgus monkeys and rats. Reprod. Toxicol.                  Mechanisms of renal anionic drug transport. Eur. J. Pharmacol. 585, 245–255.
+
+
+
+
+                                                                                                                                                                                  Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​25/​1/​35/​17183730/​tx200363w.​pdf by UNIV OF ILLINOIS CHICAGO user on 02 October 2026
+27, 400–406.                                                                               (73) Launay-Vacher, V., Izzedine, H., Karie, S., Hulot, J. S., Baumelou,
+   (53) Gannon, S. A., Johnson, T., Nabb, D. L., Serex, T. L., Buck,                   A., and Deray, G. (2006) Renal tubular drug transporters. Nephron.
+R. C., and Loveless, S. E. (2011) Absorption, distribution, metabolism,                Physiol. 103, 97–106.
+and excretion of [1-(14)C]-perﬂuorohexanoate ([(14)C]-PFHx) in rats                        (74) Lee, W., and Kim, R. B. (2004) Transporters and renal drug
+and mice. Toxicology 283, 55–62.                                                       elimination. Annu. Rev. Pharmacol. Toxicol. 44, 137–166.
+   (54) Chen, Y. M., and Guo, L. H. (2009) Fluorescence study on site-                     (75) Masereeuw, R., and Russel, F. G. (2010) Therapeutic implica-
+speciﬁc binding of perﬂuoroalkyl acids to human serum albumin. Arch.                   tions of renal anionic drug transporters. Pharmacol. Ther. 126, 200–216.
+Toxicol. 83, 255–261.                                                                      (76) Sekine, T., Miyazaki, H., and Endou, H. (2006) Molecular
+   (55) Wu, L. L., Gao, H. W., Gao, N. Y., Chen, F. F., and Chen, L.                   physiology of renal organic anion transporters. Am. J. Physiol. Renal
+(2009) Interaction of perﬂuorooctanoic acid with human serum albu-                     Physiol. 290, F251–F261.
+min. BMC Struct. Biol. 9, 31.                                                              (77) Shitara, Y., Horie, T., and Sugiyama, Y. (2006) Transporters as
+   (56) Bischel, H. N., Macmanus-Spencer, L. A., and Luthy, R. G.                      a determinant of drug clearance and tissue distribution. Eur. J. Pharm. Sci.
+(2010) Noncovalent interactions of long-chain perﬂuoroalkyl acids with                 27, 425–446.
+serum albumin. Environ. Sci. Technol. 44, 5263–5269.                                       (78) Terada, T., and Inui, K. (2007) Gene expression and regulation
+   (57) Salvalaglio, M., Muscionico, I., and Cavallotti, C. (2010)                     of drug transporters in the intestine and kidney. Biochem. Pharmacol.
+Determination of energies and sites of binding of PFOA and PFOS to                     73, 440–449.
+human serum albumin. J. Phys. Chem. B 114, 14860–14874.                                    (79) Wright, S. H., and Dantzler, W. H. (2004) Molecular and
+   (58) D’Eon, J, C., Simpson, A. J., Kumar, R., Baer, A. J., and Mabury, S. A.        cellular physiology of renal organic cation and anion transport. Physiol.
+(2010) Determining the molecular interactions of perﬂuorinated carboxylic              Rev. 84, 987–1049.
+acids with human sera and isolated human serum albumin using nuclear                       (80) Burckhardt, G., and Burckhardt, B. C. (2011) In vitro and
+magnetic resonance spectroscopy. Environ. Toxicol. Chem. 29, 1678–1688.                in vivo evidence of the importance of organic anion transporters
+   (59) MacManus-Spencer, L. A., Tse, M. L., Hebert, P. C., Bischel,                   (OATs) in drug therapy. Handbook of experimental pharmacology
+H. N., and Luthy, R. G. (2010) Binding of perﬂuorocarboxylates to                      29–104.
+serum albumin: a comparison of analytical methods. Anal. Chem.                             (81) Taft, D. R. (2004) The isolated perfused rat kidney model: a
+82, 974–981.                                                                           useful tool for drug discovery and development. Curr. Drug Discovery
+   (60) Hebert, P. C., and MacManus-Spencer, L. A. (2010) Develop-                     Technol. 1, 97–111.
+ment of a ﬂuorescence model for the binding of medium- to long-chain                       (82) Benskin, J. P., De Silva, A. O., Martin, L. J., Arsenault, G.,
+perﬂuoroalkyl acids to human serum albumin through a mechanistic                       McCrindle, R., Riddell, N., Mabury, S. A., and Martin, J. W. (2009)
+evaluation of spectroscopic evidence. Anal. Chem. 82, 6463–6471.                       Disposition of perﬂuorinated acid isomers in Sprague-Dawley rats; part
+   (61) Qin, P., Liu, R., Pan, X., Fang, X., and Mou, Y. (2010) Impact of              1: single dose. Environ. Toxicol. Chem. 28, 542–554.
+carbon chain length on binding of perﬂuoroalkyl acids to bovine serum                      (83) Kudo, N., Sakai, A., Mitsumoto, A., Hibino, Y., Tsuda, T., and
+albumin determined by spectroscopic methods. J. Agric. Food Chem.                      Kawashima, Y. (2007) Tissue distribution and hepatic subcellular
+58, 5561–5567.                                                                         distribution of perﬂuorooctanoic acid at low dose are diﬀerent from
+   (62) Qin, P., Liu, R., and Teng, Y. (2011) Perﬂuorodecanoic acid                    those at high dose in rats. Biol. Pharm. Bull. 30, 1535–1540.
+binding to hemoproteins: new insights from spectroscopic studies.                          (84) De Silva, A. O., Benskin, J. P., Martin, L. J., Arsenault, G.,
+J. Agric. Food Chem. 59, 3246–3252.                                                    McCrindle, R., Riddell, N., Martin, J. W., and Mabury, S. A. (2009)
+   (63) Bischel, H. N., Macmanus-Spencer, L. A., Zhang, C., and Luthy,                 Disposition of perﬂuorinated acid isomers in Sprague-Dawley rats; part
+R. G. (2011) Strong associations of short-chain perﬂuoroalkyl acids with               2: subchronic dose. Environ. Toxicol. Chem. 28, 555–567.
+serum albumin and investigation of binding mechanisms. Environ.                            (85) Kim, Y. K., Byun, H. S., Kim, Y. H., Woo, J. S., and Lee, S. H.
+Toxicol. Chem. 30, 2423–2430.                                                          (1995) Eﬀect of cisplatin on renal function in rabbits: mechanism of
+   (64) Ophaug, R. H., and Singer, L. (1980) Metabolic Handling of                     reduced glucose reabsorption. Toxicol. Appl. Pharmacol. 130, 19–26.
+perﬂuorooctanoic acid in rats. Proc. Soc. Exp. Biol. Med. 163, 19–23.                      (86) Nolan, B. G., Ross, L. A., Vaccaro, D. E., Groman, E. V., and
+   (65) Johnson, J. D., Gibson, S. J., and Ober, R. E. (1984) Cholestyr-               Reinhardt, C. P. (2009) Estimation of glomerular ﬁltration rate in dogs
+amine-enhanced fecal elimination of carbon-14 in rats after administra-                by plasma clearance of gadolinium diethylenetriamine pentaacetic acid
+tion of ammonium [14C]perﬂuorooctanoate or potassium [14C]                             as measured by use of an ELISA. Am. J. Vet. Res. 70, 547–552.
+perﬂuorooctanesulfonate. Fundam. Appl. Toxicol. 4, 972–976.                                (87) Rabito, C. A., van Tongeren, S., Zavorskas, P. A., Stricker-
+   (66) Harada, K., Hashida, S., Kaneko, T., Takenaka, K., Minata, M.,                 Krongrad, A., Robb, J., and Haupert, G. T., Jr. (2010) Measurement of
+Inoue, K., Saito, N., and Koizumi, A. (2007) Biliary excretion and                     glomerular ﬁltration rate in anesthetized and conscious rhesus monkeys
+cerebrospinal ﬂuid partition of perﬂuorooctanoate and perﬂuorooctane                   (Macaca mulatta). Am. J. Vet. Res. 71, 1492–1499.
+sulfonate in humans. Environ. Toxicol. Pharmacol. 24, 134–139.                             (88) Qi, Z., Whitt, I., Mehta, A., Jin, J., Zhao, M., Harris, R. C., Fogo,
+   (67) Harada, K. H., and Koizumi, A. (2009) Environmental and                        A. B., and Breyer, M. D. (2004) Serial determination of glomerular
+biological monitoring of persistent ﬂuorinated compounds in Japan and                  ﬁltration rate in conscious mice using FITC-inulin clearance. Am.
+their toxicities. Environ. Health Prev. Med. 14, 7–19.                                 J. Physiol. Renal Physiol. 286, F590–596.
+
+                                                                                  45                          dx.doi.org/10.1021/tx200363w |Chem. Res. Toxicol. 2012, 25, 35–46
+Chemical Research in Toxicology                                                                                                                                 REVIEW
+
+   (89) O’Flaherty, E. J. (1981) Toxicants and Drugs: Kinetics and                   in human organic anion-transporting polypeptide 1A2 (OATP1A2):
+Dynamics, p 199, John Wiley & Sons, New York.                                        implications for altered drug disposition and central nervous system
+   (90) Hosoyamada, M., Sekine, T., Kanai, Y., and Endou, H. (1999)                  drug entry. J. Biol. Chem. 280, 9610–9617.
+Molecular cloning and functional expression of a multispeciﬁc organic                   (106) Bergwerk, A. J., Shi, X., Ford, A. C., Kanai, N., Jacquemin, E.,
+anion transporter from human kidney. Am. J. Physiol. 276, F122–128.                  Burk, R. D., Bai, S., Novikoﬀ, P. M., Stieger, B., Meier, P. J., Schuster,
+   (91) Kojima, R., Sekine, T., Kawachi, M., Cha, S. H., Suzuki, Y., and             V. L., and Wolkoﬀ, A. W. (1996) Immunologic distribution of an organic
+Endou, H. (2002) Immunolocalization of multispeciﬁc organic anion                    anion transport protein in rat liver and kidney. Am. J. Physiol. Gastrointest.
+transporters, OAT1, OAT2, and OAT3, in rat kidney. J. Am. Soc.                       Liver Physiol. 271, G231–238.
+Nephrol. 13, 848–857.                                                                   (107) Peng, K. C., Cluzeaud, F., Bens, M., Duong Van Huyen, J. P.,
+   (92) Ljubojevic, M., Herak-Kramberger, C. M., Hagos, Y., Bahn, A.,                Wioland, M. A., Lacave, R., and Vandewalle, A. (1999) Tissue and cell
+Endou, H., Burckhardt, G., and Sabolic, I. (2004) Rat renal cortical OAT1            distribution of the multidrug resistance-associated protein (MRP) in
+and OAT3 exhibit gender diﬀerences determined by both androgen                       mouse intestine and kidney. J. Histochem. Cytochem. 47, 757–768.
+stimulation and estrogen inhibition. Am. J. Physiol. 287, F124–138.                     (108) Masuda, S., Saito, H., Nonoguchi, H., Tomita, K., and Inui, K.
+   (93) Buist, S. C., and Klaassen, C. D. (2004) Rat and mouse                       (1997) mRNA distribution and membrane localization of the OAT-K1
+diﬀerences in gender-predominant expression of organic anion trans-                  organic anion transporter in rat renal tubules. FEBS Lett. 407, 127–131.
+
+
+
+
+                                                                                                                                                                                Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​25/​1/​35/​17183730/​tx200363w.​pdf by UNIV OF ILLINOIS CHICAGO user on 02 October 2026
+porter (Oat1 3; Slc22a6 8) mRNA levels. Drug Metab. Dispos. 32,                         (109) Scheﬀer, G. L., Hu, X., Pijnenborg, A. C., Wijnholds, J.,
+620–625.                                                                             Bergen, A. A., and Scheper, R. J. (2002) MRP6 (ABCC6) detection in
+   (94) Ljubojevic, M., Balen, D., Breljak, D., Kusan, M., Anzai, N.,                normal human tissues and tumors. Lab. Invest. 82, 515–518.
+Bahn, A., Burckhardt, G., and Sabolic, I. (2007) Renal expression of                    (110) Maher, J. M., Cherrington, N. J., Slitt, A. L., and Klaassen, C. D.
+organic anion transporter OAT2 in rats and mice is regulated by sex                  (2006) Tissue distribution and induction of the rat multidrug resistance-
+hormones. Am. J. Physiol. Renal Physiol. 292, F361–372.                              associated proteins 5 and 6. Life Sci. 78, 2219–2225.
+   (95) Enomoto, A., Takeda, M., Shimoda, M., Narikawa, S., Kobaya-                     (111) Beck, K., Hayashi, K., Nishiguchi, B., Le Saux, O., Hayashi, M.,
+shi, Y., Kobayashi, Y., Yamamoto, T., Sekine, T., Cha, S. H., Niwa, T., and          and Boyd, C. D. (2003) The distribution of Abcc6 in normal mouse
+Endou, H. (2002) Interaction of human organic anion transporters 2                   tissues suggests multiple functions for this ABC transporter. J. Histochem.
+and 4 with organic anion transport inhibitors. J. Pharmacol. Exp. Ther.              Cytochem. 51, 887–902.
+301, 797–802.                                                                           (112) Masuda, S., Ibaramoto, K., Takeuchi, A., Saito, H., Hashimoto,
+   (96) Ekaratanawong, S., Anzai, N., Jutabha, P., Miyazaki, H., Noshiro,            Y., and Inui, K. I. (1999) Cloning and functional characterization of a
+R., Takeda, M., Kanai, Y., Sophasan, S., and Endou, H. (2004) Human                  new multispeciﬁc organic anion transporter, OAT-K2, in rat kidney. Mol.
+organic anion transporter 4 is a renal apical organic anion/dicarboxylate            Pharmacol. 55, 743–752.
+exchanger in the proximal tubules. J. Pharmacol. Sci. 94, 297–304.                      (113) Ballatori, N., Christian, W. V., Lee, J. Y., Dawson, P. A., Soroka,
+   (97) Youngblood, G. L., and Sweet, D. H. (2004) Identiﬁcation and                 C. J., Boyer, J. L., Madejczyk, M. S., and Li, N. (2005) OSTalpha-
+functional assessment of the novel murine organic anion transporter                  OSTbeta: a major basolateral bile acid and steroid transporter in human
+Oat5 (Slc22a19) expressed in kidney. Am. J. Physiol. Renal Physiol.                  intestinal, renal, and biliary epithelia. Hepatology 42, 1270–1279.
+287, F236–244.                                                                          (114) Li, N., Hartley, D. P., Cherrington, N. J., and Klaassen, C. D.
+   (98) Anzai, N., Jutabha, P., Enomoto, A., Yokoyama, H., Nonoguchi,                (2002) Tissue expression, ontogeny, and inducibility of rat organic
+H., Hirata, T., Shiraya, K., He, X., Cha, S. H., Takeda, M., Miyazaki, H.,           anion transporting polypeptide 4. J. Pharmacol. Exp. Ther. 301, 551–560.
+Sakata, T., Tomita, K., Igarashi, T., Kanai, Y., and Endou, H. (2005)                   (115) Miyamoto, K., Tatsumi, S., Sonoda, T., Yamamoto, H.,
+Functional characterization of rat organic anion transporter 5                       Minami, H., Taketani, Y., and Takeda, E. (1995) Cloning and functional
+(Slc22a19) at the apical membrane of renal proximal tubules.                         expression of a Na(+)-dependent phosphate co-transporter from human
+J. Pharmacol. Exp. Ther. 315, 534–544.                                               kidney: cDNA cloning and functional expression. Biochem. J. 305 (Pt 1),
+   (99) Sweet, D. H., Chan, L. M., Walden, R., Yang, X. P., Miller, D. S.,           81–85.
+and Pritchard, J. B. (2003) Organic anion transporter 3 (Slc22a8) is a                  (116) Schaub, T. P., Kartenbeck, J., Konig, J., Spring, H., Dorsam, J.,
+dicarboxylate exchanger indirectly coupled to the Na+ gradient. Am.                  Staehler, G., Storkel, S., Thon, W. F., and Keppler, D. (1999) Expression
+J. Physiol. Renal Physiol. 284, F763–769.                                            of the MRP2 gene-encoded conjugate export pump in human kidney
+   (100) Enomoto, A., Kimura, H., Chairoungdua, A., Shigeta, Y.,                     proximal tubules and in renal cell carcinoma. J. Am. Soc. Nephrol. 10,
+Jutabha, P., Cha, S. H., Hosoyamada, M., Takeda, M., Sekine, T.,                     1159–1169.
+Igarashi, T., Matsuo, H., Kikuchi, Y., Oda, T., Ichida, K., Hosoya, T.,                 (117) Schaub, T. P., Kartenbeck, J., Konig, J., Vogel, O., Witzgall, R.,
+Shimokata, K., Niwa, T., Kanai, Y., and Endou, H. (2002) Molecular                   Kriz, W., and Keppler, D. (1997) Expression of the conjugate export
+identiﬁcation of a renal urate anion exchanger that regulates blood urate            pump encoded by the mrp2 gene in the apical membrane of kidney
+levels. Nature 417, 447–452.                                                         proximal tubules. J. Am. Soc. Nephrol. 8, 1213–1221.
+   (101) Sato, M., Wakayama, T., Mamada, H., Shirasaka, Y., Nakanishi,                  (118) Aleksunes, L. M., Augustine, L. M., Scheﬀer, G. L., Cherring-
+T., and Tamai, I. (2011) Identiﬁcation and functional characterization of            ton, N. J., and Manautou, J. E. (2008) Renal xenobiotic transporters are
+uric acid transporter Urat1 (Slc22a12) in rats. Biochim. Biophys. Acta               diﬀerentially expressed in mice following cisplatin treatment. Toxicology
+1808, 1441–1447.                                                                     250, 82–88.
+   (102) Cheng, X., and Klaassen, C. D. (2009) Tissue distribution,                     (119) van Aubel, R. A., Smeets, P. H., Peters, J. G., Bindels, R. J., and
+ontogeny, and hormonal regulation of xenobiotic transporters in mouse                Russel, F. G. (2002) The MRP4/ABCC4 gene encodes a novel apical
+kidneys. Drug Metab. Dispos. 37, 2178–2185.                                          organic anion transporter in human kidney proximal tubules: putative
+   (103) Mikkaichi, T., Suzuki, T., Onogawa, T., Tanemoto, M.,                       eﬄux pump for urinary cAMP and cGMP. J. Am. Soc. Nephrol.
+Mizutamari, H., Okada, M., Chaki, T., Masuda, S., Tokui, T., Eto, N.,                13, 595–603.
+Abe, M., Satoh, F., Unno, M., Hishinuma, T., Inui, K., Ito, S., Goto, J., and           (120) Huls, M., Brown, C. D., Windass, A. S., Sayer, R., van den
+Abe, T. (2004) Isolation and characterization of a digoxin transporter               Heuvel, J. J., Heemskerk, S., Russel, F. G., and Masereeuw, R. (2008)
+and its rat homologue expressed in the kidney. Proc. Natl. Acad. Sci. U.S.           The breast cancer resistance protein transporter ABCG2 is expressed in
+A. 101, 3569–3574.                                                                   the human kidney proximal tubule apical membrane. Kidney Int. 73,
+   (104) Cheng, X., Maher, J., Chen, C., and Klaassen, C. D. (2005)                  220–225.
+Tissue distribution and ontogeny of mouse organic anion transporting
+polypeptides (Oatps). Drug Metab. Dispos. 33, 1062–1073.
+   (105) Lee, W., Glaeser, H., Smith, L. H., Roberts, R. L., Moeckel,
+G. W., Gervasini, G., Leake, B. F., and Kim, R. B. (2005) Polymorphisms
+
+                                                                                46                          dx.doi.org/10.1021/tx200363w |Chem. Res. Toxicol. 2012, 25, 35–46
+

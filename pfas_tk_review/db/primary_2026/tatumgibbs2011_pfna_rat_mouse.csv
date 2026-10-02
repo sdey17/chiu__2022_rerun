@@ -1,0 +1,5 @@
+species,strain,sex,dose_mgkg,route,halflife_d,dose_linearity,note,source
+rat,Sprague-Dawley,male,"1, 3, 10",oral gavage,30.6,"by and large linear",,"Tatum-Gibbs 2011 abstract"
+rat,Sprague-Dawley,female,"1, 3, 10",oral gavage,1.4,"by and large linear","sex ratio M/F = 21.9x","Tatum-Gibbs 2011 abstract"
+mouse,CD-1,male,"1, 10",oral,34.3-68.9,non-linear,"ceiling 68.9 d; the composite 227 d in this review sits 3.3x above it","Tatum-Gibbs 2011 abstract"
+mouse,CD-1,female,"1, 10",oral,25.8-68.4,non-linear,"slightly faster than males - the opposite sign to the rat","Tatum-Gibbs 2011 abstract"

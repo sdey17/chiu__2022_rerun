@@ -1,0 +1,3529 @@
+  National Institute for Public Health
+  and the Environment
+  Ministry of Health, Welfare and Sport
+
+
+
+
+Mixture exposure to PFAS:
+A Relative Potency Factor
+approach
+
+
+RIVM Report 2018-0070
+M.J. Zeilmaker et al.
+Mixture exposure to PFAS:
+A Relative Potency Factor
+approach
+
+
+
+RIVM Report 2018-0070
+RIVM Report 2018-0070
+
+
+
+
+Colophon
+
+
+
+
+© RIVM 2018
+Parts of this publication may be reproduced, provided acknowledgement
+is given to: National Institute for Public Health and the Environment,
+along with the title and year of publication.
+
+DOI 10.21945/RIVM-2018-0070
+
+
+
+
+M.J. Zeilmaker (author), RIVM
+S. Fragki (author), RIVM
+E.M.J. Verbruggen (author), RIVM
+B.G.H. Bokkers (author), RIVM
+J.P.A. Lijzen (project coordinator), RIVM
+
+
+Contact:
+Johannes Lijzen
+RIVM-DMG
+johannes.lijzen@rivm.nl
+
+
+This investigation has been performed by order and for the account of
+the municipality of Dordrecht, within the framework of the project
+‘Handelingskader PFAS’
+
+
+
+
+This is a publication of:
+National Institute for Public Health
+and the Environment
+P.O. Box 1 | 3720 BA Bilthoven
+The Netherlands
+www.rivm.nl/en
+
+Page 2 of 72
+RIVM Report 2018-0070
+
+
+
+
+Synopsis
+
+
+
+Mixture exposure to PFAS: A Relative Potency Factor approach
+
+PFAS is a large group of poly- and perfluoroalkyl compounds. They have
+a dirt-repellent effect and are therefore used, for example, in finishing
+clothing. For the best known PFAS, PFOA and PFOS, much information is
+available about the properties have been researched, as have the
+quantity people may be exposed to without causing negative effects on
+health.
+
+In 2016, RIVM derived such a quantity for PFOA. However, much less is
+known about most of the other compounds in this group of substances.
+PFASs often occur together as contamination in soil, groundwater or
+drinking water. To be able to better assess the risks of this type of
+contamination, the RIVM has investigated the extent to which it is
+possible to express the harmfulness of a number of PFASs in relation to
+PFOA. It was concluded that this can be done by using so-called Relative
+Potency Factors (RPFs). Here the exposure to a PFAS mixture is
+expressed as a comparable amount of PFOA. This method can be used
+for dealing with pollution with PFASs in the environment, e.g. in cases
+involving contamination in soil, groundwater or drinking water.
+Measured PFAS quantities are simply expressed in PFOA units, so that
+they can be compared with PFOA standards for soil or (drinking) water.
+
+The use of the RPF method does, however, have an important condition,
+namely that a (limited) set of comparable toxicity data for individual
+PFAS compounds is available. For the relevant health effect (on the liver
+of test animals), such information was available for 11 PFAS compounds.
+This effect has been investigated, because the liver reacts most
+sensitively to PFOA in humans and laboratory animals. The effect is an
+enlargement of the liver (hypertrophy). This is an unwanted effect.
+
+Keywords: perfluor compounds, mixture exposure, Relative Potency
+Factors
+
+
+
+
+                                                             Page 3 of 72
+RIVM Report 2018-0070
+
+
+
+
+Page 4 of 72
+RIVM Report 2018-0070
+
+
+
+
+Publiekssamenvatting
+
+
+
+Gecombineerde blootstelling aan PFAS: een benadering met
+factoren voor relatieve potentie
+
+PFAS is een grote stofgroep van poly- en perfluoralkylverbindingen. Ze
+hebben onder andere een vuilafstotende werking en worden daarom
+bijvoorbeeld in kleding verwerkt. Van de bekendste, zoals PFOA en
+PFOS, is onderzocht welke eigenschappen ze hebben en welke
+hoeveelheid mensen ervan binnen mogen krijgen zonder negatieve
+effecten op de gezondheid te veroorzaken.
+
+In 2016 heeft het RIVM voor PFOA zo’n hoeveelheid afgeleid. Van de
+meeste andere verbindingen in deze stofgroep is echter veel minder
+bekend. PFAS stoffen komen vaak gezamenlijk als verontreiniging voor
+in grond, grondwater of drinkwater. Om de ernst van dergelijke
+verontreiniging beter te kunnen inschatten, heeft het RIVM onderzocht
+in hoeverre het mogelijk is om de schadelijkheid van een aantal PFAS
+ten opzichte van PFOA uit te drukken. Dat kan door gebruik te maken
+van zogeheten Relative Potency Factors (RPF). Hierbij wordt de
+blootstelling aan een PFAS-mengsel uitgedrukt in een vergelijkbare
+hoeveelheid PFOA. Deze methode kan worden gebruikt bij het omgaan
+met verontreiniging met PFAS in het milieu, zoals bij een verontreiniging
+in grond, grondwater of drinkwater. Gemeten PFAS-hoeveelheden
+worden eenvoudig in PFOA-eenheden uitgedrukt, zodat ze vergeleken
+kunnen worden met voor bodem of (drink)water geldende PFOA-
+normen.
+
+Aan het gebruik van de RPF-methode kleeft wel een belangrijke
+voorwaarde, namelijk dat een (beperkte) set aan vergelijkbare
+toxiciteitsgegevens voor individuele PFAS-verbindingen beschikbaar is.
+Voor het relevante gezondheidseffect (op de lever van proefdieren)
+bleek dergelijke informatie voor elf PFAS verbindingen beschikbaar. Dit
+effect is onderzocht omdat de lever bij mens en proefdieren het
+gevoeligst op PFOA reageert. Het ongewenste effect is een vergroting
+van de lever (hypertrofie).
+
+Kernwoorden: perfluorverbindingen, mengselblootstelling,
+toxiciteitsfactoren
+
+
+
+
+                                                             Page 5 of 72
+RIVM Report 2018-0070
+
+
+
+
+Page 6 of 72
+        RIVM Report 2018-0070
+
+
+
+
+        Contents
+
+
+
+        Summary — 9
+
+1       Introduction — 11
+
+2       Scope — 13
+
+3       Methodology — 15
+3.1     Literature search — 15
+3.2     Health-Based Guidance Value (PFOA) — 16
+3.3     Relative Potency Factor Approach — 16
+3.3.1   Principle — 16
+3.3.2   RPF for PFASs — 17
+
+4       Results — 21
+
+5       Example calculations for drinking water and soil — 27
+5.1     Drinking water — 27
+5.2     Soil — 28
+
+6       Discussion — 31
+
+7       References — 35
+
+        Annex I Information from ECHA database — 41
+
+        Annex II Kinetic terminal half-lives for PFAS — 43
+
+        Annex III. Summary of toxicity effects of PFAS — 45
+
+        Annex IV BMD analysis: Derivation of RPFs for PFAS — 50
+
+
+
+
+                                                                Page 7 of 72
+RIVM Report 2018-0070
+
+
+
+
+Page 8 of 72
+RIVM Report 2018-0070
+
+
+
+
+Summary
+
+
+
+The exposure to Per- and PolyFluoroAlkyl Substances (PFASs) via
+drinking water and soil can be assessed by a mixture of 19 different
+congeners, with congeners basically differing in carbon chain length (C2
+C18).
+
+Evaluating the toxic risk associated with such exposure warrants the
+exposure to be expressed as one single aggregated exposure metric.
+Relative Potency Factors (RPF) enable the calculation of such an
+aggregated exposure metric.
+
+By definition, RPFs express the toxic potency of individual mixture
+components relative to the so-called Index Compound (IC), the latter
+being one of the mixture components with well-known occurrence and
+toxicity and, hence, the availability of a (life-long) human exposure level
+which is without toxic risk (Health-Based Guidance Value, HBGV). For
+this reason, the PFAS PerFluoroOctanoic Acid (PFOA) was chosen in this
+report as the IC.
+
+Based on the critical PFAS/PFOA toxicity in experimental animals, i.e.
+liver toxicity, RPFs were derived for all 20 relevant PFASs.
+The derived RPFs were used to express the occurrence of PFASs in
+drinking water and soil in terms of PFOA equivalents.
+
+
+
+
+                                                              Page 9 of 72
+RIVM Report 2018-0070
+
+
+
+
+Page 10 of 72
+    RIVM Report 2018-0070
+
+
+
+
+1   Introduction
+
+
+
+    Per- and PolyFluoroAlkyl Substances (PFASs) are a class of man-made
+    chemicals with a wide range of industrial and commercial applications,
+    which has resulted in their ubiquitous presence in the environment
+    (ATSDR, 2015; CONCAWE, 2016; Bull et al., 2014).
+    Due to emissions to air, water and soil, PFASs are present in soil,
+    groundwater, surface water and sediments. PFASs have been measured
+    in the blood serum of workers, inhabitants near to plants producing
+    PFASs, as well as in the general population, the latter arising from
+    exposure through contaminated food and drinking water (see e.g.
+    Noorlander et al. 2011, Eschauzier, 2013; Zafeiraki et al. 2015 and
+    Gebbink et al. 2017 for the occurrence of PFASs in Dutch food and
+    drinking water).
+
+    To evaluate the toxic risk of chemical exposure, a so-called Health-
+    Based Guidance Value (HBGV) should be available. A HBGV refers to the
+    life-long human daily exposure which is without toxic effect. A HBGV
+    may be derived for any of the relevant human routes of exposure, i.e.
+    inhalation, dermal exposure or oral exposure. As in the case of PFASs,
+    the current exposure of the general population occurs mainly via food
+    and drinking water, the interest lies with an oral HBGV.
+
+    Suitable human epidemiological data or toxicological data obtained from
+    experimental animals may be used to derive a HBGV. In practice, the
+    latter implies the availability of a complete toxicity dossier, i.e. acute
+    toxicity (single dose), sub-acute toxicity (28 day exposure), semi-
+    chronic toxicity (90-day exposure), chronic toxicity (two-year exposure),
+    reproductive toxicity, as well as genotoxicity studies. In the case of
+    PFASs, such a complete dossier is only available for PFOA and PFOS,
+    thereby in fact precluding the derivation of a HBGV for any of the other
+    PFASs. HBGVs, based on the extrapolation of animal toxicity to man, are
+    currently in place for perfluorooctane sulfonic acid (PFOS) and PFOA
+    (Table 1.1). As shown, various institutions have derived different values
+    for the HBGV. This variability stems from differences in the particular
+    animal toxicity study used as the Point of Departure (PoD) to derive the
+    HBGV and the way the uncertainty in the extrapolation was addressed.
+
+    Hitherto, no HBGVs have been derived for PFASs other than PFOA and
+    PFOS. Exception to the rule here is FSANZ who considered PFHxS
+    equipotent to PFOS. Furthermore, in the risk assessment, PFAS mixture
+    components are evaluated independently from each other. Here, too, an
+    exception to the rule exists in that, in drinking water, US EPA and the
+    state of Vermont consider the occurrence of PFOA and PFOS to act
+    additively (US EPA, 2016a, b; Vermont, 2016).
+
+    PFAS compounds often occur together as contamination in soil,
+    groundwater or drinking water. Because HBGVs are absent for most
+    compounds, the level of contamination can only be assessed based on
+    the content of PFOA and PFOS. To be able to better assess the risk of
+    this type of contamination, the study investigates if it is possible to
+    express the risk of the measured PFAS substances relative to PFOA.
+                                                                 Page 11 of 72
+RIVM Report 2018-0070
+
+
+
+
+With this knowledge, and additional information on the occurrence of
+PFAS in the environment, it is possible to give guidance to authorities
+and companies on how to deal with the presence of PFAS in soil,
+groundwater, surface water and sediments. The outcome of this study
+will be used to develop a risk assessment framework for PFAS
+contamination in the Netherlands (Slenders et al., 2018).
+
+Table 1.1 Health-Based Guidance Values (ng/kg bw/day) for PFASs.
+
+       Substance                              HBGV
+
+           PFHxS                    FSANZ (2017): 20
+                                   EFSA (2008): 150 1
+                                   ATSDR (2015): 30 2
+            PFOS
+                                  US EPA (2016b): 20 2
+                                   FSANZ (2017): 20 2
+                                   EFSA (2008):1500 1
+                                   US EPA (2016b): 20
+                                    ATSDR (2015): 20
+            PFOA
+                               RIVM (Zeilmaker, 2016): 12.5
+                                     NJWQI (2016): 2
+                                   FSANZ (2017): 160
+1currently under revision;
+2critical toxicity: PFOS: liver hypertrophy (ATSDR); foetal toxicity (US EPA, FSANZ); PFOA:
+liver hypertrophy (NJWQI, RIVM, ATSDR); foetal toxicity (US EPA, FSANZ)
+
+
+
+
+Page 12 of 72
+    RIVM Report 2018-0070
+
+
+
+
+2   Scope
+
+
+
+    RIVM was asked to screen the toxicity assessment of PFASs and to
+    develop, if possible, a toxicological framework for the mixture exposure
+    to these compounds. The substances of interest are presented in
+    Table 2.1 (Arcadis, personal communication).
+
+    For the purpose of this work, a literature screening was performed with
+    regard to basic information necessary to evaluate PFASs toxicity, i.e. the
+    availability of animal toxicity data. Study information for PFOS and PFOA
+    was not recorded, since they are the most studied members of the
+    group and HBGVs are already in place for these compounds.
+
+    Table 2.1 PFASs found in environmental matrices
+                                 Abbre-                        Molecular
+     Substance                                    CAS No
+                                 viation                       formula
+     Perfluoroalkane sulfonic acids
+     Perfluorobutane sulfonic
+                                  PFBS            375-73-5     C4F9SO3H
+     acid
+     Perfluoropentane sulfonic
+                                  PFPeS           375-92-8     C5F11SO3H
+     acid
+     Perfluorohexane sulfonic
+                                  PFHxS           355-46-4     C6F13SO3H
+     acid
+     Perfluoroheptane sulfonic
+                                  PFHpS           355-46-4     C7F15SO3H
+     acid
+     Perfluorooctane sulfonic
+                                  PFOS            375-39-8     C8F17SO3H
+     acid
+     Perfluorodecane sulfonic
+                                  PFDS            335-77-3     C10F21SO3H
+     acid
+     Perfluoralkane carboxylic acids
+     Perfluorobutanoic acid      PFBA             357-22-44    C3F7COOH
+     Perfluoropentanoic acid     PFPeA            2706-90-3    C4F9COOH
+     Perfluorohexanoic acid      PFHxA            307-24-4     C5F11COOH
+     Perfluoroheptanoic acid     PFHpA            375-85-9     C6F13COOH
+     Perfluorooctanoic acid      PFOA             335-67-1     C7F15COOH
+     Perfluorononanoic acid      PFNA             375-95-1     C8F17COOH
+     Perfluorodecanoic acid      PFDA             335-76-2     C9F19COOH
+     Perfluoroundecanoic acid    PFUnDA           2508-94-8    C10F21COOH
+     Perfluorododecanoic acid    PFDoDA           307-55-1     C11F23COOH
+     Perfluorotridecanoic acid   PFTrDA           72629-94-8   C12F25COOH
+     Perfluorotetradecanoic acid PFTeDA           376-06-7     C13F27COOH
+     Perfluorohexadecanoic acid PFHxDA            67905-19-5   C15F31COOH
+     Perfluorooctadecanoic acid PFODA             16517-11-6   C17F35COOH
+     Precursors
+     Fluorotelomer sulfonic acid 6: 2 FTS         27619-97-2   C8H5F13SO3
+     Fluorotelomer sulfonic acid 8: 2 FTS         39108-34-4   C10H5F17SO3
+
+
+
+
+                                                                 Page 13 of 72
+RIVM Report 2018-0070
+
+
+
+
+Page 14 of 72
+      RIVM Report 2018-0070
+
+
+
+
+3     Methodology
+
+
+
+3.1   Literature search
+      Human toxicity
+      The reference lists of several scientific reports (CONCAWE, 2016;
+      ATSDR, 2015; DEPA, 2015; Bull et al., 2014; US EPA, 2016a; 2016b),
+      related to the toxicity of PFASs were used for the identification of critical
+      studies up to the year 2016, when the latest report was published. In
+      order to examine whether any additional data were generated on the
+      toxicity of PFAS from 2016 onwards, a literature search was performed
+      in two search engines: SCOPUS and PubMed.
+
+      The studies identified were screened for relevance, based on their title
+      and abstract, with the use of specific criteria (exclusion/inclusion)
+      (Table 3.1). The European Chemical Agency’s (ECHA) Database was also
+      searched for relevant toxicity information using the CAS numbers of
+      each individual substance (Annex I).
+
+      Table 3.1 Toxicity study selection criteria during literature search.
+       Inclusion Criteria                          Exclusion criteria
+       General criteria
+       Articles identified in one of the selected
+       study reports: ATSDR (2015),
+       CONCAWE (2016), DEPA (2015), EFSA
+       (2014)
+       Articles in search databases published Articles identified in search databases
+       between the years 2015 and 2017            and published earlier than 2015
+       Articles in English language               Articles in languages other than
+                                                  English
+       Experimental studies                       Reviews
+       Specific criteria
+       articles involving in vivo experimental    In vitro assays (e.g. mouse embryonic
+       studies in mammals                         stem cell), studies on alternative
+                                                  organisms (e.g. zebrafish)
+       Studies that fall within the concept of    Examples: Studies aimed at
+       standard toxicity testing                  examining only the underlying
+                                                  mechanism of toxicity; studies
+                                                  without sufficient dose levels tested;
+                                                  studies using non-standard animal
+                                                  strains
+       Studies with oral exposure (gavage,        Articles performed by other routes of
+       feeding, or via drinking water)            exposure, e.g. inhalation, dermal,
+                                                  intraperitoneal
+       Repeated dose toxicity studies: sub-       Acute or short-term (14 days or less)
+       acute, sub-chronic and chronic: 28         toxicity studies
+       days/ 42 days/90 days or more
+       Reproductive/developmental toxicity
+       studies; one-generation, multi-
+       generations, developmental toxicity
+
+
+
+                                                                              Page 15 of 72
+        RIVM Report 2018-0070
+
+
+
+
+        Kinetic data were collected and recorded as referenced in the following
+        documents: FSANZ, 2017; NJDWQI, 2016; US EPA, 2016a and 2016b;
+        Zeilmaker et al., 2016.
+
+        Secondary poisoning
+        Additional data specifically focused on secondary poisoning in birds and
+        mammals were searched as well. This search was conducted on birds in
+        general and in mammalian wildlife species, such as the mink. No useful
+        data were found for such species, in accordance with a recent literature
+        search for PFOA (Verbruggen et al., 2017). Only for PFOS were some
+        useful chronic bird studies available (Moermond et al., 2010). However,
+        a search on the Internet revealed that some research projects are
+        ongoing and that such data could be available in the near future. For
+        now, it is assumed that criteria developed for human health will also be
+        protective for the secondary poisoning endpoint. This assumption
+        appeared to be valid for PFOS and PFOA in water (Moermond et al.,
+        2010; Verbruggen et al., 2017).
+
+3.2     Health-Based Guidance Value (PFOA)
+        The Health-Based Guidance Value (HBGV) is defined as the highest
+        chronic, human daily intake (from food) which produces no adverse
+        effects. The derivation of the HBGV often relies on the extrapolation of
+        animal toxicity to man. In this extrapolation, several uncertainties are
+        taken into account, among them interspecies differences in Absorption,
+        Distribution, Metabolism and Elimination (ADME, hereafter referred to as
+        kinetics). Traditionally, an Assessment Factor (AF) of (maximally) 4 is
+        incorporated to account for interspecies differences in kinetics, also on
+        PFASs (EFSA, 2008). However, for some PFASs, interspecies differences
+        in kinetics grossly exceed a factor of 4, mainly due to the much slower
+        removal from the human body compared with removal from the animal
+        body (see Annex II). In the case of the PFASs, therefore, PFOA and
+        PFOS interspecies differences in elimination kinetics in the interspecies
+        extrapolation of animal toxicity were explicitly taken into account
+        (ATSDR, 2015; NJDWQI, 2016; US EPA, 2016a and 2016b; FSANZ,
+        2017; RIVM, 2016). In concordance with this approach, RIVM based its
+        HBGV for PFOA on the extrapolation of liver toxicity as observed in rats
+        after semi-chronic exposure, i.e. daily for a period of 90 days. For this
+        effect, a so-called No Observed Adverse Effect Level (NOAEL) 1 of 0.06
+        mg/kg bw/day was found, resulting in a HBGV of 12.5 ng/kg bw/day (for
+        details, see Zeilmaker et al., 2016).
+
+3.3     Relative Potency Factor Approach
+3.3.1   Principle
+        In the context of mixture toxicology, the combined toxicity of two or
+        more substances may be based on the concept of dose-addition (EFSA,
+        2008, 2013). Substances can be seen as dose-additive when they act in
+        a similar manner with the same mechanism/mode of action, but may
+        differ only in their potencies. The concept stipulates that the total effect
+        after simultaneous exposure to such compounds can be estimated from
+        the sum of the doses or concentrations of each component, i.e. the
+
+        1
+          The NOAEL is defined as the highest tested dose which does not show a statistically significant effect when
+        compared with untreated controls.
+
+
+
+        Page 16 of 72
+        RIVM Report 2018-0070
+
+
+
+
+        substances behave as if they were a dilution of one another.
+        Experimental studies conducted with mixtures have demonstrated that
+        compounds which act on the same sub-system of an organism with a
+        similar mode of action do follow the concept of dose-addition and can
+        result in combined effects (EFSA, 2008, 2013; Kortenkamp et al., 2009).
+        For the purposes of grouping pesticide residues in food in order to assess
+        cumulative toxicity, EFSA employs the dose-addition concept for
+        substances, inducing a common, toxicologically relevant
+        phenomenological (specific) effect on organs/tissue systems, irrespective
+        of whether this is a result of the same mode of action or not (EFSA,
+        2013). This decision was primarily based on experimental evidence
+        (Kortenkamp et al. 2009, 2012; EFSA, 2013) that showed that
+        combination effects may also occur through different modes/mechanisms
+        of action. Up to now, EFSA has adopted an Opinion on the grouping of
+        pesticides that induce toxicity on the nervous system and/or the
+        thyroid/thyroid hormone system, where the phenomenological (specific)
+        effects and their characterization are laid down (EFSA, 2013). A proposal
+        for cumulative assessment groups for other organs/tissue systems (such
+        as the liver, the reproductive/developmental system and the adrenals)
+        was also presented by a joint Consortium ANSES/ICPS/RIVM (2016).
+
+        To predict the mixture toxicity, after the grouping of pesticides, EFSA
+        proposes using the Relative Potency Factor (RPF) method (EFSA, 2012)
+        that was used previously for compounds such as specific pesticides
+        (organophosphorus compounds) (EFSA, 2008) and the dioxins (Toxic
+        Equivalency Factor –TEF- method; Van den Berg et al., 2006). The RPF
+        method normalizes the dose of each chemical, according to its potency,
+        to an Index (reference) Compound (IC), with the IC having a RPF equal
+        to 1. Combining the occurrence of each mixture component with its
+        specific RPF value then expresses each of the mixture components in
+        terms of IC equivalents. Summing up all mixture components then leads
+        to a mixture exposure expressed in terms of IC equivalents. The latter
+        then can be compared with IC HBGV, in this case RIVM’s HBGV of PFOA.
+
+3.3.2   RPF for PFASs
+        According to previous PFOA/PFOS risk assessments, liver toxicity
+        (specific effect: liver hypertrophy) was found to be the most sensitive
+        toxic endpoint. For this reason, the liver was selected as the prime
+        target organ for other PFASs as well. Phenomenological effects on the
+        liver, among them hepatic hypertrophy, were distinguished based on the
+        work performed by Consortium ANSES/ICPS/RIVM (2016) for pesticides
+        (see overview below).
+
+        Phenomenological effects defined for liver system (including biliary
+        system and gall bladder) (Consortium ANSES/ICPS/RIVM (2016):
+           • Hepatocellular necrosis
+           • Hepatocyte cell degeneration
+           • Cytoplasmic inclusions
+           • Fatty changes
+           • Hepatic hypertrophy
+           • Pigment
+           • Pigment porphyrin
+           • Inflammatory cells infiltrates
+           • Spongiosis
+                                                                     Page 17 of 72
+RIVM Report 2018-0070
+
+
+
+
+     •       Vascular lesion/Angiectasis
+     •       Vascular lesion/Thrombosis
+     •       Karyomegaly
+     •       Foci of cellular alteration
+     •       Regenerative hyperplasia/hyperplasia
+     •       Hepatocellular neoplasms
+     •       Cholestasis
+     •       le duct hyperplasia
+     •       Cholecystitis
+     •       Choleliths
+     •       Gallbladder hyperplasia
+     •       Gallbladder neoplasms
+     •       Extramedullary haematopoiesis
+
+It is acknowledged here that hepatic hypertrophy is not necessarily an
+indicator of adversity per se. Nonetheless, progression into liver toxicity,
+characterized by vacuolization, eosinophilic hepatocytic granules and
+necrosis, is often observed. Given that hepatic hypertrophy is the
+sensitive endpoint on which the derivation of the HBGV for PFOA and
+PFOS were based, it was considered as a relevant effect for the
+comparison of potencies between the PFASs.
+
+RPFs were derived as follows. Firstly, for each of the PFASs for which
+suitable toxicity data were available, a mathematical dose-response
+function was fitted to the data, i.e. absolute liver weight, relative liver
+weight (= liver weight divided by body weight) and liver hypertrophy
+(for details, see Annex IV).
+
+In concordance with EFSA guidelines (EFSA, 2017) (continuous) liver
+weight data were analysed using the so-called Exponential and Hill
+models. However, as the fit to the data did not differ between the
+models, for practical reasons only the Exponential model was used for
+further analysis. The (quantal) liver hypertrophy data were analysed
+using a log-logistic model.
+
+Secondly, the fitted dose-responses were used to calculate the so-called
+benchmark doses (BMDs) for each of the three mentioned effects. The
+BMD is the dose which results in a pre-set (acceptable) effect size or
+response, the benchmark response (BMR). In this report, a 5% increase
+in absolute or relative liver weight or a 10% extra risk in liver
+hypertrophy were used as BMR. In this way, for each PFAS, a BMD for
+absolute liver weight, a BMD for relative liver weight and a BMD for liver
+hypertrophy were calculated.
+
+Thirdly, for each PFAS i, RPFs were calculated as the ratio of the BMD of
+PFAS i and the BMD of the IC PFOA:
+
+             𝐵𝐵𝐵𝐵𝐵𝐵𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+𝑅𝑅𝑅𝑅𝑅𝑅𝑖𝑖 =                    eq. 1
+                𝐵𝐵𝐵𝐵𝐵𝐵𝑖𝑖
+
+
+BMDs provide an excellent starting point for a RPF derivation. The reason
+for this is that BMDs are equipotent doses. Because equipotent doses are
+required to ensure that the differences in the doses in the nominator and
+denominator of equation 1 are not caused by differences in the effect
+
+Page 18 of 72
+RIVM Report 2018-0070
+
+
+
+
+(size) related to these doses, so they hold for the entire dose-response
+relationship. Note that this is one of the reasons why NOAELs or LOAELs
+are not suitable for deriving RPFs. Because NOAELs/LOAELS from different
+substances could relate to different effect levels (even somewhere below
+the detectable effect size of the experiment), i.e. NOAELs/LOELs do not
+reflect equipotent doses (Bokkers, 2007; Slob and Pieters, 1998).
+
+
+
+
+                                                           Page 19 of 72
+RIVM Report 2018-0070
+
+
+
+
+Page 20 of 72
+    RIVM Report 2018-0070
+
+
+
+
+4   Results
+
+
+
+    Overall, the literature search revealed that the available toxicological
+    information is incomplete with regard to a toxicological evaluation
+    leading to a HBGV derivation of individual PFAS compounds, with
+    exceptions being PFHxA and the well-studied PFOS and PFOA.
+    Nonetheless, sub-acute and sub-chronic oral studies in rats and mice
+    were found for quite a few of the substances listed in Table 2.1, i.e.
+    PFBS, PFHxS, PFHpA, PFBA, PFHxA, PFNA, PFDA, PFUnDA, PFDoA, PFTA,
+    PFHxDA and PFODA. In addition, the endpoints for reproductive and/or
+    developmental toxicology were examined in some cases. Only one
+    standard chronic duration /carcinogenicity study was identified (PFHxA).
+
+    Notwithstanding the incompleteness of toxicity data, they were found
+    sufficient to apply the RPF methodology to the liver toxicity of PFASs.
+    Because, as mentioned, the application of the RTP method necessitates a
+    common, toxicologically relevant phenomenological (specific) effect on
+    organs/tissue systems of the PFASs of interest, preferably observed in
+    repeated dose toxicity studies. For quite some PFASs, toxicity on the liver,
+    characterized by hepatic hypertrophy, i.e. enlargement of the liver in
+    combination with histopathology, has been reported at low doses.
+    Furthermore, liver hypertrophy, in most cases, was found to be the
+    critical effect (PFOS/PFOA). Exceptions were the PFHxS, which induced
+    decreased cholesterol levels at a lower dose, and the PFDOA, with
+    haematological and biochemical changes measured prior to hypertrophy
+    (see Annex III, Table A3). Other effects often observed at the same dose
+    level with hepatic hypertrophy were hepatic necrosis, anaemic symptoms
+    (decreased erythrocyte count, haemoglobin and haematocrit), and thyroid
+    hyperplasia. Reproductive toxicity is also often observed as a result of in
+    utero exposure during gestation, commonly manifested by decreased
+    body weight and body weight gain (foetus, offspring), as well as with litter
+    loss. Reproductive toxicity was not considered further in this report.
+
+    The selected common phenomenological effect for the application of the
+    RPF methodology was liver toxicity, as revealed by liver hypertrophy
+    (hepatocellular, centrilobular) and accompanying liver enlargement, i.e.
+    absolute and relative liver weight. Consequently, a BMD analysis for
+    these effects was performed for all of the above-mentioned 12 PFASs.
+
+    As an example, Figure 4.1 shows the results of the BMD analysis for
+    relative liver weight as induced in male rats after semi-chronic exposure
+    to PFOA and PFOS.
+    As shown for PFOA, a BMD of 0.33 mg/kg bw/day was found, whereas the
+    BMD for PFOS amounted to 0.16 mg/kg bw/day. Taking the BMD of PFOA
+    as a reference, these BMDs result in a RPF of PFOS of 0.33/0.16 = 2.1,
+    rounded to 2 (one significant digit) for the toxic endpoint relative liver
+    weight in the (male) rat.
+
+    The BMD analysis for absolute liver weight resulted in a RPF of PFOS of
+    1.8, rounded to 2, (for details, see Annex IV). Note that, in the absence
+    of suitable data on liver hypertrophy, a RPF for this effect could not be
+    determined for PFOS.
+                                                                   Page 21 of 72
+RIVM Report 2018-0070
+
+
+
+
+In concordance with PFOA and PFOS, a BMD analysis was performed for
+the other ten PFASs as well (for details, see Annex IV). Figure 4.2
+presents an overview of the RPFs and their uncertainty obtained from
+this analysis.
+
+Figure 4.2 shows that RFPs for absolute and relative liver weight were
+found to be quite similar, whereas RPFs based on hypertrophy were
+below that of liver weight.
+Since the set of RPFs from relative liver weight provides the most
+complete data set, the RPFs for this endpoint were further used for
+calculating PFOA equivalents (see Table 4.1). PFBS, PFBA and PFHxA
+showed relatively low RPFs, i.e. RPFs being one to three orders of
+magnitude lower than PFOA, possibly as a result of their higher aqueous
+solubilities. This probably stems from the rather efficient removal of
+these compounds from the rat body, with elimination half-lives being in
+the order of several hours, as compared with an elimination half-life of
+around two days for PFOA. In contrast, PFASs showing accumulating
+properties in the rat, such as PFHxS, PFOS, PFNA and PFUnDA, have
+RPFs well exceeding that of PFOA. In the (male) rat, these PFAS have
+elimination half-lives of 20-40 days (see Annex II), as compared with,
+for example, 20 days for the dioxin 2378-TCDD, a well-known
+bioaccumulating compound in the rat. Curiously, PFTA (C14) shows a
+lower RPF than PFOA, with the higher chain lengths PFHxDA (C16) and
+PFoDA (C18) showing an even lower RPF. This effect probably stems
+from a low absorption level in the gastrointestinal tract.
+
+As shown in Table 4.1, for 12 of the 19 PFASs of interest, RPFs could be
+derived for liver toxicity. This inevitably necessitates making
+assumptions concerning the RPFs of the remaining 7 PFASs (see
+Table 4.2). For example, in the case of PFPeS, it is assumed that, based
+on carbon chain length, its RPF is above the RPF of PFBS, i.e. 0.001, and
+below the RPF of PFHxS, i.e. 0.6.
+
+
+
+
+Page 22 of 72
+RIVM Report 2018-0070
+
+
+
+
+Figure 4.1 BMD analysis of the increase in relative liver weight as induced by PFOA
+and PFOS after semi-chronic dietary exposure in male rats.
+
+PFOA doses: 0, 0.06, 0.64, 1.94 and 6.50 mg/kg bw/day for 91 days.
+PFOS doses: 0, 0.03, 0.13, 0.34 and 1.33 mg/kg bw/day for 98 days.
+X-axis: log10 daily dose (mg/kg bw/day); Y-axis: log10 relative weight;
+
+Solid line: fitted exponential dose-response function.
+Dashed line: BMR on y-axis corresponding with BMD on x-axis
+
+BMDPFOA: 0.33 mg/kg bw/day (90% CI: 0.24 -0.46)
+BMDPFOS: 0.16 mg/kg bw/day (90% CI: 0.11 -0.23)
+Note the relatively small uncertainty in the BMD, resulting from the rather good dose-
+response information in the available data.
+
+
+
+
+                                                                             Page 23 of 72
+RIVM Report 2018-0070
+
+
+
+
+Figure 4.2 RPFs (and 90% CI) for PFASs. PFOA is used as a reference compound (RPF=1). For each PFAS, three RPFs are derived: circles,
+triangles, X correspond to RPFs based on absolute liver weight, relative liver weight and hypertrophy respectively. For PFOS, no suitable
+hypertrophy data were available. PFDoA does not show a dose-response in the absolute liver weight data, resulting in a very wide
+confidence interval.
+
+
+
+
+Page 24 of 72
+RIVM Report 2018-0070
+
+
+
+
+Table 4.1 RPFs for 12 PFASs based on semi-chronic liver toxicity in male rats.
+Endpoint: relative liver weight.
+
+ Congener                                             RPF
+
+ Perfluorobutanesulfonate (PFBS, C4)                      0.001
+ Perfluorohexanesulfonate (PFHxS, C6)                      0.6
+ Perfluorooctanesulfonate (PFOS, C8)                        2
+
+ Perfluorobutanoic acid (PFBA, C4)                         0.05
+ Perfluoropentanoic acid (PFHxA, C6)                       0.01
+ Perfluorooctanoic acid (PFOA, C8)                           1
+ Perfluorononaoic acid (PFNA, C9)                           10
+ Perfluoroundecanoic acid (PFUnDA, C11)                      4
+ Perfluorododecanoic acid (PFDoDA, C12)                      3
+ Perfluorotetradecanoic acid (PFTeDA, C14)                  0.3
+ Perfluorohexadecanoic acid (PFHxDA, C16)                  0.02
+ Perfluorooctadecanoic acid (PFODA, C18)                   0.02
+
+Table 4.2 As Table 4.1, including read across (marked bold) of seven additional
+PFASs.
+                                                         RPF
+ Congener
+
+ Perfluorobutanesulfonate (PFBS, C4)                        0.001
+ Perfluoropentane sulfonic acid (PFPeS, C5)           0.001 ≤ RPF ≤ 0.6
+ Perfluorohexanesulfonate (PFHxS, C6)                        0.6
+ Perfluoroheptane sulfonic acid (PFHpS, C7)             0.6 ≤ RPF ≤ 2
+ Perfluorooctanesulfonate (PFOS, C8)                          2
+ Perfluorodecane sulfonic acid (PFDS, C10)                    2
+
+ Perfluorobutyrate (PFBA, C4)                                 0.05
+ Perfluoropentanoic acid (PFPeA, C5)                   0.01 ≤ RPF≤ 0.05
+ Perfluorohexanoate (PFHxA, C6)                               0.01
+ Perfluoroheptanoic acid (PFHpA, C7)                     0.01 ≤ RPF≤ 1
+ Perfluorooctanoic acid (PFOA, C8)                              1
+ Perfluorononaoic acid (PFNA, C9)                              10
+ Perfluorodecanoic acid (PFDA, C10)                       4 ≤ RPF≤ 10
+ Perfluoroundecanoic acid (PFUnDA, C11)                         4
+ Perfluorododecanoic acid (PFDoDA, C12)                         3
+ Perfluorotridecanoic acid (PFTrDA, C13)                 0.3 ≤ RP F≤ 3
+ Perfluorotetradecanoic acid (PFTeDA, C14)                     0.3
+ Perfluorohexadecanoic acid (PFHxDA, C16)                     0.02
+ Perfluorooctadecanoic acid (PFODA, C18)                      0.02
+
+
+
+
+                                                                     Page 25 of 72
+RIVM Report 2018-0070
+
+
+
+
+Page 26 of 72
+      RIVM Report 2018-0070
+
+
+
+
+5     Example calculations for drinking water and soil
+
+
+
+      The RTFs mentioned in Table 4.2 can be used to convert a PFAS mixture
+      into exposure equivalents of the IC PFOA. As examples, the occurrence
+      of PFASs in drinking water and soil is presented here.
+
+5.1   Drinking water
+      Zafeiraki et al. (2015) quantified 11 PFASs (PFPeA, PFHxA, PFHpA, PFOA,
+      PFNA, PFDA, PFUnDA, PFBS, PFHxS, PFHpS, PFOS) in drinking water in
+      37 locations in the Netherlands, among them the city of Dordrecht.
+
+      The applied analytic method consisted of LC-MS/MS spectroscopy with a
+      limit of detection (LOD) of 0.2 ng/L (3 times the signal-to-noise ratio).
+      The limit of quantification (LOQ) was accordingly determined at 0.6 ng/l
+      (10 times the signal-to-noise ratio). Recoveries ranged between 85%
+      and 115% for all the mass-labelled compounds except for the 13C-PFUnA
+      (60%–80%).
+      As shown in Table 5.1, five PFASs exceeded the LOQ, i.e. PFBS, PFPA,
+      PFHxA, PFHpA and PFOA. When expressed in PFOA equivalents, this
+      concentration is lower than 24.1 ng/L, as compared with the drinking
+      water limit of PFOA in the Netherlands of 87.5 ng/L. PFOA accounted for
+      19 to 96% of the PFOA equivalents and PFOS for 0 to a maximum of 26%.
+
+      Table 5.1 The occurrence of PFASs in drinking water in Dordrecht (after Zafeiraki
+      et al., 2015) and its corresponding PFOA equivalent concentration (ng/L).
+          Substance       Concentration        RPF                PFOA equivalents
+                          (ng/L)                                  (PEQ, ng/L)1
+
+          PFBS                  3.0               0.001                    0.003
+          PFHxS                < 0.6                0.6                    <0.36
+          PFHpS                < 0.6           0.6 ≤RPF≤ 2            <0.36 ≤PEQ≤1.2
+          PFOS                 < 0.6                 2                     < 1.2
+
+          PFPeA                 10.4            0.01 ≤RPF≤            0.10 ≤PEQ≤0.52
+                                                   0.05
+          PFHxA                  4.1               0.01                     0.041
+          PFHpA                  1.8            0.01 ≤RPF≤             0.02 ≤PEQ≤1.8
+                                                     1
+          PFOA                   4.5                 1                      4.5
+          PFNA                  < 0.6               10                      <6
+          PFDA                  < 0.6           4 ≤RPF≤ 10             <2.4 ≤PEQ≤ 6
+          PFUnDA                < 0.6                4                     <2.4
+                              23.8-27.4                                Lower bound2:
+          Sum of                                                         4.7 - 17.4
+          PFASs                                                        Upper bound3:
+                                                                         7.0 - 24.0
+      1
+       values below the LOQ set at the LOQ (“worst case” approach); 2 based on the lowest RPF
+      value for compounds within the RPF range; 3based on highest RPF value for compounds
+      within the RPF range
+
+
+
+
+                                                                                 Page 27 of 72
+      RIVM Report 2018-0070
+
+
+
+
+      Applying improved analytics, Gebbink et al. (2017) recently extended
+      the findings of the Zafeiraki study. Again, drinking water in the city of
+      Dordrecht was measured, with the PFOA equivalent concentration being
+      lower than 10.2 ng/L (see Table 5.2).
+
+      Table 5.2 The occurrence of PFASs in drinking water in Dordrecht (after Gebbink
+      et al., 2017) and its corresponding PFOA equivalent concentration (ng/L).
+       Substance          Concentration       RPF                  PFOA equivalents
+                          (ng/L)                                   (PEQ, ng/L)1
+
+
+       PFBS                      3.4              0.001                   0.003
+       PFHxS                    0.43                0.6                    0.26
+       PFHpS                    0.03           0.6 ≤RPF≤ 2           0.02 ≤PEQ≤0.06
+       PFOS                     0.41                 2                     0.82
+
+       PFBA                      <2               0.05                    < 0.10
+       PFPeA                     5.7           0.01 ≤RPF≤             0.06≤PEQ≤0.29
+                                                  0.05
+       PFHxA                      4.7             0.01                     0.047
+       PFHpA                      2.1         0.01 ≤RPF≤ 1            0.02 ≤PEQ≤2.1
+       PFOA                       2.2               1                       2.2
+       PFNA                      0.25              10                       2.5
+       PFDA                      0.06          4 ≤RPF≤ 10             0.24 ≤PEQ≤0.6
+                              19.3- 21.3                              Lower bound2:
+       Sum of                                                            6,2- 6.3
+       PFASs                                                          Upper bound3:
+                                                                         8.9- 9.0
+      1
+       values below the LOQ set at the LOQ (“worst case” approach); 2 based on the lowest RPF
+      value for compounds within the RPF range; 3based on the highest RPF value for compounds
+      within the RPF range
+
+5.2   Soil
+      Table 5.3 and Table 5.4 show the PFASs concentrations in two soil
+      samples as provided by Arcadis. When expressed in PFOA equivalents,
+      these concentrations are lower than 406 resp 13.4 µg/kg d.m. These
+      levels can be compared to risk limits for humans in soil. The current
+      human risk limits for PFOA in soil for different land use scenarios are
+      86 µg/kg (for vegetable gardens) for d.m. up to 4,200 µg/kg d.m. The
+      limitation is that the fate of the compounds, except for PFOS and PFOA,
+      is not known. A comparison of the PFOA equivalents with the risk limits
+      of PFOA therefore is only an indication and does not take into account
+      the big differences, e.g. in uptake by plants (vegetable consumption)
+      and volatilization to indoor air (inhalation).
+
+
+
+
+      Page 28 of 72
+RIVM Report 2018-0070
+
+
+
+
+Table 5.3 The occurrence of PFASs in soil (data supplied by Arcadis and its
+corresponding PFOA equivalent concentration (µg/kg dry matter).
+ Substance          Concentration             RPF              PFOA equivalents
+                    (µg/kg d.m.)                              (PEQ, µg/kg d.m.)1
+
+
+ PFBS                        28               0.001                      0.28
+ PFHxS                       30                0.6                        18
+ PFOS                       190                 2                        380
+ PFDS                       1.4                 2                         2.8
+
+ PFBA                      < 0.10           0.06                      0.006
+ PFPeA                      1.0          0.01 ≤RPF≤              0.01 ≤PEQ≤ 0.05
+                                            0.05
+ PFHxA                       12             0.01                       0.12
+ PFHpA                      0.19        0.01 ≤RPF≤ 1            0.0019 ≤PEQ≤0.19
+ PFOA                        1.3              1                         1.3
+ PFNA                      < 0.10            10                        < 1.0
+ PFDA                      < 0.10        4 ≤RPF≤ 10               0.4 ≤PEQ≤ 1.0
+ PFUnDA                    < 0.10             4                        < 0.4
+ PFDoDA                    < 0.10             3                        < 0.3
+ PFTrDA                    < 0.10       0.3 ≤RPF≤ 3              0.03 ≤PEQ≤ 0.3
+ PFTeDA                    < 0.10            0.3                      < 0.03
+ PFHxDA                    < 0.10           0.02                      <0.002
+ PFODA                     < 0.10           0.02                     < 0.002
+                        263,9 - 264.8                             Lower bound2:
+ Sum of                                                            402,5- 404,4
+ PFASs                                                            Upper bound3:
+                                                                   402,5- 405,5
+1
+ values below the LOQ set at the LOQ (“worst case” approach); 2 based on the lowest RPF
+value for compounds within the RPF range; 3based on the highest RPF value for compounds
+within the RPF range
+
+
+
+
+                                                                         Page 29 of 72
+RIVM Report 2018-0070
+
+
+
+
+Table 5.4 The occurrence of PFASs in soil (data supplied by Aracadis) and its
+corresponding PFOA equivalent concentration (µg/kg dry matter).
+ Substance              Concentration       RPF               PFOA equivalents
+                        (µg/kg d.m.)                          (PEQ, µg/kg d.m.)1
+
+
+ PFBS                      < 0.10               0.001                 < 0.0001
+ PFHxS                     < 0.10                0.6                   < 0.06
+ PFOS                       2.6                   2                      5.2
+ PFDS                      < 0.10
+
+ PFBA                      < 0.10               0.06                 < 0.06
+ PFPeA                     < 0.10           0.01 ≤RPF≤         0.001 ≤PEQ≤ 0.005
+                                                0.05
+ PFHxA                     < 0.10               0.01                 < 0.001
+ PFHpA                      0.19            0.01 ≤RPF≤          0.0019 ≤PEQ≤0.19
+                                                  1
+ PFOA                        4.8                  1                     4.8
+ PFNA                      < 0.10                10                   < 1.0
+ PFDA                      < 0.10           4 ≤RPF≤ 10             0.4 ≤PEQ≤1
+ PFUnDA                    < 0.10                 4                   < 0.4
+ PFDoDA                    < 0.10                 3                   < 0.3
+ PFTrDA                    < 0.10           0.3 ≤RPF≤ 3          0.03 ≤PEQ≤0.30
+ PFTeDA                    < 0.10                0.3                  < 0.03
+ PFHxDA                    < 0.10               0.02                 < 0.002
+ PFODA                     < 0.10               0.02                 < 0.002
+                           7.6- 9.0                            Lower bound2: < 10-
+ Sum of                                                                12.3
+ PFASs                                                         Upper bound3: < 10-
+                                                                       13.4
+1
+ values below the LOQ set at the LOQ (“worst case” approach); 2 based on the lowest RPF
+value for compounds within the RPF range; 3based on the highest RPF value for compounds
+within the RPF range
+
+
+
+
+Page 30 of 72
+    RIVM Report 2018-0070
+
+
+
+
+6   Discussion
+
+
+
+    Available Database
+    In 2016, RIVM derived a HBGV for PFOA on the basis of a semi-chronic,
+    i.e. 91-day, dietary exposure toxicity study in the (male) rat. Clearly, to
+    derive RPFs using PFOA as an IC warrants the availability of such studies
+    for other PFASs as well.
+    A literature study revealed semi-chronic toxicity studies to be available for
+    PFBA, PFOS, PFBA, PFHxA and PFNA, whereas 42-day exposure studies
+    were found for PFHxS, PFUA, PFDoA, PFTeDA, PFHxDA and PFOdA.
+    Regarding the toxicity endpoint of interest, i.e. relative liver weight, the
+    latter studies might be used for the derivation of RPFs as well. The reason
+    for this is that, in the rat, the maximum increase in relative liver weight
+    by PFOA is observed already after 1 week of exposure to remain stable at
+    longer exposure duration (Elcombe et al., 2010). Furthermore, the dose-
+    response characteristics for this effect are comparable after sub-acute,
+    i.e. 28 day, and semi-chronic, i.e. 91-day, exposure (Loveless et al.,
+    2008; Perkins et al., 2004).
+
+    Assumption of dose-addition
+    The RPF approach taken rests on the assumption of dose-addition, i.e. the
+    absence of any interaction between mixture congeners in inducing liver
+    toxicity. Verifying this assumption requires the availability of toxicity
+    studies in which mixture toxicity is directly compared with that of its
+    constituting congeners. Unfortunately, such studies are not available for
+    PFASs. Therefore, for the time being, the assumption made concerning
+    the dose addition of PFAS congeners still needs to be verified.
+    Nevertheless, US EPA (2016a,b) considered PFOA and PFOS equipotent,
+    whereas this report indicates a RPF of 2 for PFOS. This difference has a
+    methodological foundation. Whereas both US EPA and this report based
+    their potency ranking on the extrapolation of similar animal toxicity to
+    man, the former based this extrapolation on the observed animal NOAEL,
+    whereas the latter used a BMD modelling approach instead. As mentioned
+    before, using the NOAEL for this purpose introduces unnecessary
+    uncertainty in potency-ranking. For this reason, the referred BMD method
+    is preferred over the NOAEL in scaling the toxic potency of PFASs and,
+    hence, PFOA and PFOS are not considered equipotent congeners.
+
+    Neglecting PFAS precursors
+    In this report, PFOA equivalents are calculated for a mixture of PFAS
+    congeners, while neglecting the conversion of environmental PFAS
+    precursors to these congeners. The extent to which this introduces
+    uncertainty in the calculation of PFOA equivalents depends on the
+    occurrence of the precursors in the media of interest, i.e. Dutch
+    surface/drinking water and soil, as well as the efficiency with which such
+    precursors are converted into PFAS congeners for which a RPF is
+    available. However, though systematically addressing this uncertainty
+    was not feasible within the scope of the current project, the indicative
+    monitoring results may raise immediate concerns in some cases. For
+    example, examining the presented soil concentrations in Table 5.4, the
+    precursors 6:2 fluorotelomere sulfonate (6:2 FTS), 8:2 fluorotelomere
+    sulfonate (8:2 FTS) and 10:2 fluorotelomere sulfonate (10:2 FTS) were
+                                                                   Page 31 of 72
+RIVM Report 2018-0070
+
+
+
+
+found to be lower than 10 µg/kg dw (data not shown). So, when
+complete conversion of these precursors up to the detection limit into
+PFOS or PFOA would occur, this would have a significant contribution to
+the occurrence of these compounds already present.
+
+GenX product FRD-902/-903
+Next to PFOA in 2016, RIVM derived a HBGV for the PFAS GenX product
+FRD-902/-903 (Beekman et al., 2016). This derivation was based on a
+two-year chronic toxicity study (with interim kills after one year) in the
+rat which revealed a NOAEL of 0.1 mg/kg bw/day for the disturbance of
+the serum ratio Albumin/Globulin and a NOAEL of 1 mg/kg bw/day for
+liver toxicity (absolute and relative liver weight). Liver effects are also
+found in other GenX studies, among them a sub-chronic study (Haas et
+al., 2009). Based on the latter study, a RPF of 0.06 was derived for
+FRD-902/-903 (see Figure 4.2).
+
+Estimating human toxicity
+The RPFs presented in this report are based on the extrapolation of
+animal toxicity to man. This is in concordance with several international
+scientific agencies that have evaluated, but not used,
+epidemiological/human studies for the derivation of a HBGV (ATSDR,
+2015; FSANZ, 2017; NJDWQI, 2016; US EPA, 2016a; Zeilmaker et al.,
+2016). Here it should be kept in mind that this approach is currently
+under review by the UmweltBundesAmt (UBA, Germany)
+(http://www.umweltbundesamt.de/themen/gesundheit/kommissionen-
+arbeitsgruppen/kommission-human-biomonitoring/beurteilungswerte-
+der-hbm-kommission, addressed 19-10-2017) and EFSA’s Working
+Group of PFASs (in press).
+
+Interspecies extrapolation of animal RPFs
+The RPFs presented here are defined at the level of the external
+exposure in the rat, i.e. the administered dose. As shown, RPFs for
+PFBS, PFBA, PFHxA and GenX were found to be much, much lower than
+that for PFOA. In the case of PFBS, PFBA, PFHxA and GenX, this
+difference can be explained entirely by differences in toxicokinetics, with
+fast elimination kinetics leading to equipotency with PFOA at the level of
+the serum, i.e. equal serum levels of these compounds induce the same
+level of hepatic toxicity as PFOA (Gomis et al., 2018; note that this
+observation strongly suggests that the PFBS, PFBA, PFHxA, GenX and
+PFOS induce hepatic toxicity via one common mechanism). Because,
+PFBS, PFBA and PFHxA in the rat as well as in humans are eliminated
+much more rapidly than and to the same extent as PFOA (see Annex II,
+Table A2), it has been concluded that the derived RPFs of these
+compounds hold for humans too.
+
+Similarly, PFHxS, PFOS, PFNA, PFUnDA, PFDoDA and PFTeDA show a
+similar or even higher RPF than PFOA. This coincides with the even more
+persistent behaviour of these congeners in the rat when compared with
+PFOA (see Annex II, Table A2). Because such kinetic characteristics are
+paralleled in man, it has been concluded that, as a first tier, the derived
+RPFs of these compounds hold for humans as well.
+
+By analogy, a quite persistent behaviour, with correspondingly high RPF,
+is expected for PFHxDA and PFODA. However, the contrary was found to
+Page 32 of 72
+RIVM Report 2018-0070
+
+
+
+
+be the case, most probably due to the negligible absorption of these two
+congeners. Again, this is expected to hold for humans too.
+
+
+
+
+                                                            Page 33 of 72
+RIVM Report 2018-0070
+
+
+
+
+Page 34 of 72
+    RIVM Report 2018-0070
+
+
+
+
+7   References
+
+
+
+    Agency for Toxic Substances and Disease Registry) 2015. Draft
+          Toxicological Profile for Perfluoralkyls
+    Bartell S, Calafat A, Lyu C, Kato K, Ryan PB, Steenland. 2010. Rate of
+          decline in serum PFOA concentrations after granular activated
+          carbon filtration at two public water systems in Ohio and West
+          Virginia. Environmental Health Perspectives, 118: 222-228.
+    Beekman, M., Zweers, P., Muller, A., Vries, W. de, Janssen, P.,
+          Zeilmaker, M. 2016. Evaluation of substances used in the GENX
+          technology by Chemours, Dordrecht. RIVM letter report 2016-
+          0174.
+    Bokkers BGH and Slob W (2007). Deriving a data-based interspecies
+          assessment factor using the NOAEL and the benchmark dose
+          approach. Critical Reviews in Toxicology 37, 355-373.
+    Brede E., Wilhelm M, Goen T, Muller J, Rauchfuss K, Kraft M, Holzer J.
+          2010. Two-year follow-up biomonitoring pilot study of residents’
+          and controls’ PFC plasma levels after PFOA reduction in public
+          water systems in Arnsberg, Germany. International Journal of
+          Hygiene and Environmental Health, 213(3): 217-223.
+    Bull S, Burnett K, Vassaux K, Ashdown L, Brown T and Rushton L, 2014.
+          Extensive literature search and provision of summaries of studies
+          related to the oral toxicity of perfluoroalkylated substances
+          (PFASs), their precursors and potential replacements in
+          experimental animals and humans. Area 1: Data on toxicokinetics
+          (absorption, distribution, metabolism, excretion) in in vitro studies,
+          experimental animals and humans. Area 2: Data on toxicity in
+          experimental animals. Area 3: Data on observations in humans.
+          EFSA supporting publication 2014:EN-572, 345 pp.
+    Butenhoff, J.L., Kennedy, G. L. Jr, Frame, S.R., O'Connor, J.C. and York,
+          R.G. 2004. The reproductive toxicology of ammonium
+          perfluorooctanoate (APFO) in the rat. Toxicology, 196: 95-116.
+    Butenhoff, J.L., Chang, S-C., Ehresman, D.J., York, R.G. (2009b)
+          Evaluation of potential reproductive and developmental toxicity of
+          potassium perfluorohexanesulfonate in Sprague Dawley rats.
+          Reproductive Toxicology, 27: 331 – 341.
+    Butenhoff, J.L., Kennedy, G.L. Jr., Chang, S.-C. and Olsen, G.W. 2012a.
+          Chronic dietary toxicity and carcinogenicity study with ammonium
+          perfluorooctanoate in Sprague-Dawley rats. Toxicology, 298:1-13.
+    Butenhoff, J. L. (2012b). Comparative pharmacokinetics of
+          perfluorooctanesulfonate (PFOS) in rats, mice and monkeys.
+          Reproductive Toxicology, 33(4), 428-440.
+    Butenhoff, J.L., Bjork, J.A. Chang, S-C., Ehresman, D.J. , Parker, G.A.,
+          Das, K., Lau, C., Lieder, P.H., van Otterdijk, F.M., Wallace, K.B.
+          2012c. Toxicological evaluation of ammonium perfluorobutyrate in
+          rats: Twenty-eight-day and ninety-day oral gavage studies.
+          Reproductive Toxicology, 33: 513 – 530.
+    Chang, S. C., Das, K., Ehresman, D. J., Ellefson, M. E., Gorman, G. S.,
+          Hart, J. A., et al. (2008). Comparative pharmacokinetics of
+          perfluorobutyrate in rats, mice, monkeys and humans, and
+          relevance to human exposure via drinking water. Toxicological
+          Sciences, 104(1), 40-53.
+                                                                   Page 35 of 72
+RIVM Report 2018-0070
+
+
+
+
+Chang, S. C., Noker, P. E., Gorman, G. S., Gibson, S. J., Hart, J. A.,
+     Ehresman, D. J., & Butenhoff, J. L. (2012). Comparative
+     pharmacokinetics of perfluorooctanesulfonate (PFOS) in rats, mice
+     and monkeys. Reproductive Toxicology, 33(4), 428-440.
+CONCAWE, (2016). Environmental fate and effects of poly- and
+     perfluoroalkyl substances (PFAS). Prepared for the Concawe Soil
+     and Groundwater Taskforce (STF/33). Report no. 8/16. CONCAWE
+     Brussels, June 2016.
+Consortium ANSES/ICPS/RIVM (Agency for Food, Environmental and
+     Occupational Health and Safety/ International Centre for Pesticides
+     and Health Risk Prevention/ National Institute for Public Health and
+     the Environment), 2016. Toxicological data collection and analysis
+     to support grouping of pesticide active substances for cumulative
+     risk assessment of effects on the nervous system, liver, adrenal,
+     eye, reproduction and development and thyroid system”
+     GP/EFSA/PRAS/2013/02.
+Chengelis, C.P., Kirkpatrick, J.B., Radovsky, A., Shinohara, M.. 2009. A
+     90-day repeated dose oral (gavage) toxicity study of
+     perfluorohexanoic acid (PFHxA) in rats (with functional
+     observational battery and motor activity determinations).
+     Reproductive Toxicology, 27 (3–4): 342–351.
+Das, K. P., B. E. Grey, R. D. Zehr, C. R. Wood, J. I. Butenhoff, S. C.
+     Chang, D. J. Ehresman, Y. M. Tan and C. Lau (2008). Effects of
+     perfluorobutyrate exposure during pregnancy in the mouse.
+     Toxicological Sciences 105 (1): 173-181
+DEPA (Danish Ministry of the Environment), (2015). Short-chain
+     polyfluoroalkyl Substances (PFAS). A literature review of
+     information on human health effects and environmental fate and
+     effect aspects of short-chain PFAS. Environmental project No.
+     1707, 2015.
+Elcombe, C.R., Elcombe, B.M., Foster, J.R., Farrar, D.G., Jung, R.,
+     Chang S-C., Kennedy,.G.L., Butenhoff, J.L. 2010. Hepatocellular
+     hypertrophy and cell proliferation in Sprague-Dawley rats following
+     dietary exposure to ammonium perfluorooctanoate occurs through
+     increased activation of the xenosensor nuclear receptors PPARα
+     and CAR/PXR. Archives of Toxicology 84: 787-798.
+EFSA (European Food Safety Authority), 2008. Opinion of the Scientific
+     Panel on Plant Protection products and their Residues to evaluate
+     the suitability of existing methodologies and, if appropriate, the
+     identification of new approaches to assess cumulative and
+     synergistic risks from pesticides to human health with a view to set
+     MRLs for those pesticides in the frame of Regulation (EC)
+     396/2005. The EFSA Journal 2008, 704, 1-84.
+EFSA (European Food Safety Authority) (2012). EFSA Panel on Plant
+     Protection Products and their Residues (PPR); Guidance on the Use
+     of Probabilistic Methodology for Modelling Dietary Exposure to
+     Pesticide Residues. EFSA Journal 2012;10(10):2839. [95 pp.]
+     doi:10.2903/j.efsa.2012.2839
+EFSA, (European Food Safety Authority), 2013. Scientific Opinion on the
+     identification of pesticides to be included in cumulative assessment
+     groups on the basis of their toxicological profile. The EFSA Journal
+     2013, 11(7):3293.
+EFSA (2017). Update: Guidance on the use of the benchmark dose
+     approach in risk assessment. EFSA Journal 15, 4658.
+Page 36 of 72
+RIVM Report 2018-0070
+
+
+
+
+Eschauzier, C. (2013) Perfluoroalkyl acids in drinking water: Sources,
+      fate and removal. Thesis, University of Amsterdam, ISBN 978-90-
+      6464-722-2
+Food Standards Australia New Zealand (FSANZ). 2017. Hazard
+      assessment report- Perfluorooctane sulfonate (PFOS),
+      Perfluorooctanoic acid (PFOA), Perfluorohexanesulfonate (PFHxS).
+Gebbink, W.A., Asseldonk, L. van, Leeuwen, S van. (2017) Presence of
+      emerging per- and polyfluoroalkyl substances (PFASs) in river and
+      drinking water near a fluorochemical production plant in the
+      Netherlands. Environmental Science Technology, 51: 11057-
+      11065.
+Gomis, M.I., Vestergen, R., Borg, D. and I.T. Cousins (2018) Comparing
+      the toxic potency in vivo of long-chain perfluoroalkyl acids and
+      fluorinated alternatives. Environment International, 113: 109.
+Haas, M.C., A 90-day Oral (Gavage) Toxicity Study of H-28548 in Rats
+      with a 28-day Recovery (Study No. Wil-189216), WIL Research
+      Laboratories, LLC, Ashland, OH, 2009.
+Hirata-Koizumi, M. Fujii, S., Furukawa, M., Ono, A., Hirose, A. 2012.
+      Repeated dose and reproductive /developmental toxicity of
+      perfluorooctadecanoic acid in rats. Journal of Toxicological
+      Sciences, 37(1): 63-79.
+Hirata-Koizumi, M. Fujii, S., Hina, K., Matsumoto, M., Takahashi, M.,
+      Ono, A., Hirose, A. 2015. Repeated dose and reproductive
+      /developmental toxicity of long-chain perfluoroalkyl carboxylic
+      acids in rats: perfluorohexadecanoic acid and
+      perfluorotetradecanoic acid. Fundamental Toxicological Sciences,
+      2(4): 177-190.
+Iwai, H. and A. M. Hoberman (2014). "Oral (gavage) combined
+      developmental and perinatal/postnatal reproduction toxicity study
+      of ammonium salt of perfluorinated hexanoic acid in mice."
+      International Journal of Toxicology 33(3): 219-237.
+Kato, H., Fujii, S., Takahashi, M., Matsumoto,M., Hirata-Koizumi, M.
+      Ono, A., Hirose, A. 2014. Repeated Dose and
+      Reproductive/Developmental Toxicity of Perfluorododecanoic Acid
+      in Rats. Environmental Toxicology.
+Kim S-J, Heo S-H, Lee D-S, Hwang IG, Lee Y-B, Cho H-Y. 2016. Gender
+      differences in pharmacokinetics and tissue distribution of 3
+      perfluoroalkyl and polyfluoroalkyl substances in rats. Food and
+      Chemical Toxicology, 97:243-255.
+Klaunig, J. E., M. Shinohara, H. Iwai, C. P. Chengelis, J. B. Kirkpatrick,
+      Z. Wang and R. H. Bruner (2015). "Evaluation of the chronic
+      toxicity and carcinogenicity of perfluorohexanoic acid (PFHxA) in
+      Sprague-Dawley Rats." Toxicologic Pathology 43(2): 209-220
+Kortenkamp A, Backhaus T and Faust M, 2009. State-of-the-Art Report
+      on Mixture Toxicity, 31 pp. ULSOP - The School of Pharmacy of the
+      University of London.
+Kortenkamp A, Evans R, Faust M, Kalberlah F, Scholze M and
+      Schuhmacher-Wolz U, 2012. Investigation of the state of the
+      science on the combined actions of chemicals in food through
+      dissimilar modes of action and a proposal for a science-based
+      approach for performing related cumulative risk assessment.
+      Supporting Publications 2012:EN-232. [233 pp.].
+
+
+
+                                                             Page 37 of 72
+RIVM Report 2018-0070
+
+
+
+
+Lieder, P.H., Chang, S.C., York, R.G., Butenhoff, J.L. (2009a).
+      Toxicological evaluation of potassium perfluorobutanesulfonate in a
+      90-day oral gavage study with Sprague–Dawley rats. Toxicology
+      255: 45–52.
+Lieder, P.H., York, R.G., Hakes, D.C., Chang, S.C., Butenhoff, J.L.
+      (2009b). A two-generation oral gavage reproduction study with
+      potassium perfluorobutanesulfonate (K+PFBS) in Sprague Dawley
+      rats. Toxicology B, 259(1-2): 33-45.
+Lijzen, J.P.A., P.N.H. Wassenaar, C.E. Smit, C.J.A.M. Posthuma, E.
+      Brand, F.A. Swartjes, E.M.J. Verbruggen, J.F.M. Versteegh.
+      Risicogrenzen PFOA voor grond en grondwater. Uitwerking voor
+      generiek en gebiedsspecifiek beleid (herziene versie). RIVM
+      Briefrapport 2018-0060. RIVM Bilthoven.
+Loveless, S.E., Slezak, B., Serex, T., Lewis, J., Mukerji, P., O'Connor,
+      J.C., Donner, E.M., Frame, S.R., Korzeniowski, S.H., Buck, R.C.
+      (2009). Toxicological evaluation of perfluorohexanoate. Toxicology,
+      264: 32-44.
+Lou, I., Wambaugh, J. F., Lau, C., Hanson, R. G., Lindstrom, A. B.,
+      Strynar, M. J. et al. (2009). Modelling single and repeated dose
+      pharmacokinetics of PFOA in mice. Toxicological Sciences, 107(2),
+      331-341.
+Luebker, D. J., M. T. Case, R. G. York, J. A. Moore, K. J. Hansen and J.
+      L. Butenhoff (2005). Two-generation reproduction and cross-foster
+      studies of perfluorooctanesulfonate (PFOS) in rats. Toxicology
+      215(1-2): 126-148
+Moermond CTA, Verbruggen EMJ, Smit CE, 2010. Environmental risk
+      limits for PFOS: A proposal for water quality standards in
+      accordance with the Water Framework Directive. RIVM Rapport
+      601714013, Bilthoven, the Netherlands.
+Mertens, J.J.W.M., Sved, D.W., Marit, G.B., Myers, N.R., Stetson, P.L.,
+      Murphy, S.R., Schmit, B., Shinohara, M., Farr, C.H. 2010.
+      Subchronic Toxicity of S-111-S-WB in Sprague Dawley Rats.
+      International Journal of Toxicology, 29(4): 358-371.
+New Jersey Drinking Water Quality Institute Health Effects
+      Subcommittee. 2016. Health-Based Maximum Contaminant Level
+      Support Document: Perfluorooctanoic Acid (PFOA), June 27, 2016.
+Noorlander CW, Leeuwen SPJ van, Biesebeek JD te, Mengelers MJB,
+      Zeilmaker MJ. 2011. Levels of Perfluorinated Compounds in Food
+      and Dietary Intake of PFOS and PFOA in the Netherlands. Journal
+      of Agricultural and Food Chemistry, 59: 7496-7505.
+Numata, J., Kowalczyk, J., Adolphs, J., Ehlers, S., Schafft, H., Fuerst, P.,
+      et al. (2014). Toxicokinetics of seven perfluoroalkyl sulfonic and
+      carboxylic acids in pigs fed a contaminated diet. Journal of
+      Agricultural and Food Chemistry, 62(28), 6861-6870.
+Ohmori, K., Kudo, N., Katayama, K., & Kawashima, Y. (2003).
+      Comparison of the toxicokinetics between perfluorocarboxylic acids
+      with different carbon chain length. Toxicology, 184(2-3), 135-140.
+Olsen, G. W., Burris, J. M., Ehresman, D. J., Froehlich, J. W., Seacat, A.
+      M., Butenhoff, J. L., and Zobel, L. R. (2007). Half-life of serum
+      elimination of perfluorooctanesulfonate, perfluorohexanesulfonate,
+      and perfluorooctanoate in retired fluorochemical production
+      workers. Environmental Health Perspectives, 115(9), 1298-1305.
+
+
+
+Page 38 of 72
+RIVM Report 2018-0070
+
+
+
+
+Olsen, G. W., Chang, S. C., Noker, P. E., Gorman, G. S., Ehresman, D.
+      J., Lieder, P. H., and Butenhoff, J. L. (2009). A comparison of the
+      pharmacokinetics of perfluorobutanesulfonate (PFBS) in rats,
+      monkeys, and humans. Toxicology, 256: (1-2), 65-74.
+Perkins, R., Butenhoff, J., Kennedy, G. and Palazzolo, M. (2004). 13-
+      Week dietary toxicity study of ammonium perfluorooctanoate
+      (APFO) in male rats. Drug and Chemical Toxicology 27: 361-378
+      (as cited in SIAR, 2006).
+Russel MH, Nilsson H, Buck RC. 2013. Elimination kinetics of
+      perfluorohexanoic acid in humans. Chemosphere, 93: 2419-2425.
+Seacat, A. M., P. J. Thomford, K. J. Hansen, G. W. Olsen, M. T. Case and
+      J. L. Butenhoff (2002). Sub-chronic toxicity studies on
+      perfluorooctanesulfonate potassium salt in cynomolgus monkeys
+      Toxicological Sciences 68(1): 249-264.
+Seacat, A.M. , Thomford, P.J., Hansen, K.J. , Clemen, L.A., Eldridge,
+      A.R. , Elcombe, C.R. , Butenhoff, J.L. (2003). Sub-chronic dietary
+      toxicity of potassium perfluorooctanesulfonate in rats. Toxicology,
+      183: 117-131.
+Slenders H, Pancras T, Alphenaar A, Hage K, Hendriks W, van Houten
+      M, 2018. Een handelingskader voor PFAS. Mogelijkheden voor het
+      omgaan met PFAS in grond en groundwater. Expertisecentrum
+      PFAS, ISBN/EAN: 978-90-815703-0-5
+Slob W and Pieters MN (1998). A probabilistic approach for deriving
+      acceptable human intake limits and human health risks from
+      toxicological studies: general framework. Risk Analysis 18, 787-98.
+Stump, D. G., J. F. Holson, S. R. Murphy, C. H. Farr, B. Schmit and M.
+      Shinohara (2008). "An oral two-generation reproductive toxicity
+      study of S-111-S-WB in rats." Reproductive Toxicology 25(1): 7-
+      20.
+Sundström, M., Chang, S. C., Noker, P. E., Gorman, G. S., Hart, J. A.,
+      Ehresman, D. J., Butenhoff, J. L. (2012). Comparative
+      pharmacokinetics of perfluorohexanesulfonate (PFHxS) in rats,
+      mice and monkeys. Reproductive Toxicology, 33(4), 441-451.
+Takahashi, M., Ishida, S., Hirata-Koizumi, M., Ono, A., Hirose, A. 2014.
+      Repeated dose and reproductive/developmental toxicity of
+      perfluoroundecanoic acid in rats. Journal of Toxicological Sciences,
+      39(1): 97-108.
+Tatum-Gibbs, K., Wambaugh, J. F., Das, K. P., Zehr, R. D., Strynar, M.
+      J., Lindstrom, A. B., Delinksky, A., Lau, C. (2011). Comparative
+      pharmacokinetics of perfluorononanoic acid in rat and mouse.
+      Toxicology, 281(1-3), 48-55.
+US EPA. 2016a. Drinking Water Health Advisory for Perfluorooctanoic
+      Acid (PFOA). US EPA Office of Water (4304T) Health and Ecological
+      Criteria Division Washington, DC 20460, EPA Document Number:
+      822-R-16-005, May 2016a.
+US EPA. 2016b. Drinking Water Health Advisory for Perfluorooctane
+      Sulfonate ( PFOS). US EPA Office of Water (4304T) Health and
+      Ecological Criteria Division Washington, DC 20460, EPA Document
+      Number: 822-R-16-004, May 2016a.
+Verbruggen EMJ, Wassenaar PNH, Smit CE, 2017. Water quality
+      standards for PFOA: A proposal in accordance with the
+      methodology of the Water Framework Directive. RIVM Rapport
+      2017-0044. Bilthoven, the Netherlands.
+
+
+                                                             Page 39 of 72
+RIVM Report 2018-0070
+
+
+
+
+Van den Berg M, Birnbaum LS, Denison M, De Vito M, Farland W, Feeley
+     F, Fiedler H, Hakansson H, Hanberg A, Haws L, Rose M, Safe S,
+     Schrenk D, Tohyama C, Tritscher A, Tuomisto J, Tysklind M,
+     Walker N, Peterson RE. 2006. The 2005 World Health Organization
+     re-evaluation of human and mammalian toxic equivalency factors
+     for dioxins and dioxin-like compounds, Toxicological Sciences
+     93:223–241.
+Vermont Department of Health (2016) Perfluorooctanoic acid (PFOA)
+     and Perfluorooctanesulfonic acid (PFOS) Vermont Drinking Water
+     Health Advisory.Zafeiraki E, Costopoulou D, Vassiliadou I, Leonidas
+     L, Dassenakis E, Traag W, Hogenboom RLAO, Leeuwen SPJ van.
+     2015. Determination of perfluoroalkylated substances (PFASs) in
+     drinking water from the Netherlands. Food Additives and
+     Contaminants A,32(12): 2048-2057.
+Zhang, Y., Beesoon, S., Zhu, L., & Martin, J. W. (2013). Biomonitoring
+     of perfluoroalkyl acids in human urine and estimates of biological
+     half-life. Environmental Science & Technology, 47(18), 10619-
+     10627.
+Zeilmaker MJ, Janssen P, Versteegh A, Pul A van, Vries W de, Bokker (B,
+     Wuijts S, Oomen A, Herremans, J. 2016. Risicoschatting emissie
+     PFOA voor omwonenden. Locatie: DuPont/Chemours, Dordrecht
+     Nederland. RIVM letter report 2016-0049.
+
+
+
+
+Page 40 of 72
+RIVM Report 2018-0070
+
+
+
+
+Annex I Information from ECHA database
+
+
+
+Table A1 Information as collected from ECHA’s database on each individual PFAS. The search was performed with the CAS and EC Numbers.
+ Substance                      Abbreviation                                  CAS No             Information from ECHA’s database
+ Perfluoroalkane sulfonic acids
+ Perfluorobutane sulfonic acid      PFBS                                   375-73-5              under PACT-RMOA 2, Norway, evaluation is ongoing
+ Perfluoropentane sulfonic acid    PFPeS                                   375-92-8              no data
+ Perfluorohexane sulfonic acid                                                                   Under evaluation (or evaluated) as a substance of very
+                                   PFHxS                                   355-46-4
+                                                                                                 high concern
+ Perfluoroheptane sulfonic acid  PFHpS                                     355-46-4              Annex III inventory, pre- registered under REACH
+ Perfluorooctane sulfonic acid    PFOS                                     375-39-8
+ Perfluorodecane sulfonic acid    PFDS                                     335-77-3              Annex III inventory, pre- registered under REACH
+ Perfluoralkane carboxylic acids
+ Perfluorobutanoic acid           PFBA                                     357-22-44             Not found
+ Perfluoropentanoic acid         PFPeA                                     2706-90-3             Annex III inventory, pre- registered under REACH
+ Perfluorohexanoic acid                                                                          Annex III inventory, pre-registered under REACH, PACT
+                                 PFHxA                                       307-24-4
+                                                                                                 (under evaluation by Germany)
+ Perfluoroheptanoic acid                                PFHpA                375-85-9            Annex III inventory, pre-registered under REACH
+ Perfluorooctanoic acid                                  PFOA                335-67-1            SVHC, Candidate list, Annex III inventory
+ Perfluorononanoic acid                                  PFNA                375-95-1            SVHC, Candidate list, Annex III inventory
+ Perfluorodecanoic acid                                  PFDA                335-76-2            SVHC, Candidate list, Annex III inventory
+ Perfluoroundecanoic acid                                                                        Substance of very high concern (SVHC) and included in
+                                                       PFUnDA               2508-94-8
+                                                                                                 the candidate list for authorization
+ Perfluorododecanoic acid                               PFDoA                307-55-1            SVHC, Candidate list, Annex III inventory
+ Perfluorotridecanoic acid                                                                       Substance of very high concern (SVHC) and included in
+                                                         PFTrA             72629-94-8
+                                                                                                 the candidate list for authorization.
+
+
+
+2
+  The Public Activities Coordination Tool (PACT) lists the substances for which a risk management option analysis (RMOA) or an informal hazard assessment for PBT/vPvB (persistent, bioaccumulative
+and toxic/very persistent and very bioaccumulative) properties or endocrine disruptor properties is either under development or has been completed since the implementation of the SVHC Roadmap
+commenced in February 2013.
+
+
+
+
+                                                                                                                                       Page 41 of 72
+RIVM Report 2018-0070
+
+
+
+
+ Substance                     Abbreviation    CAS No      Information from ECHA’s database
+ Perfluorotetradecanoic acid                               Substance of very high concern (SVHC) and included in
+                                  PFTA         376-06-7
+                                                           the candidate list for authorization.
+ Perfluorohexadecanoic acid      PFHxDA       67905-19-5   Annex III inventory, pre-registration
+ Perfluorooctadecanoic acid                                Annex III inventory
+                                  PFODA       16517-11-6
+ Fluorotelomer sulfonamide       6: 2 FTS     27619-97-2   Annex III inventory, pre-registration
+ Fluorotelomer sulfonamide       8: 2 FTS     39108-34-4   Annex III inventory, pre-registration
+
+
+
+
+Page 42 of 72
+RIVM Report 2018-0070
+
+
+
+
+Annex II Kinetic terminal half-lives for PFAS
+
+
+
+Table A2 Kinetic terminal half-lives for PFASs.
+Substance                                                       Species/Terminal half- life
+                  Rat                     Mouse                 Pig             Monkey                          Humans
+PFBS              4.51 h (males)          4.51 h                Pig: 43 d       4 d (males)
+                  3.96 h (females)        (Olsen et al.,        (Numata et al., 3.5 d (females)                 GM 25.8 d (6 subjects)
+                  (Olsen et al., 2009)    2009)                 2014)           (Olsen et al., 2009)            (Olsen et al., 2009)
+
+PFHxS              29.1 d (males)         31 d (males)          713 d             141 d (males)                 Occupational workers:
+                  1.64 d (females)        25 d (females)        (Numata et al.,   87 d (females)                AM 8.5 y (males)
+                  (Sundström et al.,      (Sundström et al.,    2014)             (Sundström et al.,            GM 7.3 y (females)
+                  2012)                   2012)                                   2012)                         (Olsen et al. 2007)
+PFHpS                       -                      -            411 d                      -                                    -
+                                                                (Numata et al.,
+                                                                2014)
+PFOS              27.8 days (males)       42.8 d (males)        634 d             132 days (males)              Occupational workers:
+                  24.8 days(females)      37.8 d (females)      (Numata et al.,   110 days (females)            5.4 years
+                  (Kim et al., 2016)      (Chang et al.,        2014)             (Chang et al., 2012)          (Olsen et al. 2007)
+                                          2012)
+PFBA              6.4-9.2 h (males)       5.2-16 h (males)             -          40.3 h (males)                Occupational workers:
+                  1.0-1.8 h (females)     2.8-3.1 h (females)                     41.0 h (females)              AM 64.8 h (males)
+                  (Chang et al.,          (Chang et al.,                          (Chang et al., 2008)          AM 81.6 h (females)
+                  2008)                   2008)                                                                 (Chang et al., 2008)
+PFHxA             1.0 - 2.8 h (males)              -            4.1 d             14-47 h                       GM 32 d
+                  0.4-2.7 h (females)                           (Numata et al.,   (Russel et al., 2013)         (Russel et al., 2013)
+                  (Chengelis et al.,                            2014)
+                  2009)
+PFHpA                                     2.4 h (males)         74 d                        -                   GM 0.82 y
+                                          1.2 h (females)       (Numata et al.,                                 (Zhang et al., 2013)
+                                          (Ohmori et al.,       2014)
+                                          2003)
+
+
+                                                                                                Page 43 of 72
+RIVM Report 2018-0070
+
+
+
+
+Substance                                                   Species/Terminal half- life
+                  Rat                  Mouse                Pig             Monkey               Humans
+PFOA               1.6-1.8 d (males)   21.7 d (males)       236 d           21 d (males)         Occupational workers: AM 3.8
+                  0.15-0.19 d          15.6 d (females)     (Numata et al., 30 d (females)       y (Olsen et al. 2007)
+                  (females)            (Lou et al., 2009)   2014)           (Butenhoff et al.,   Adults (contaminated drinking
+                  (Kim et al., 2016)                                        2004)                water): 2.3 y (Bartell et al.,
+                                                                                                 2010), 3.3 y (Brede et al.,
+                                                                                                 2010)
+PFNA                                   131.2 d (males)             -                   -         GM 1.7-3.2 y
+                  24 d (males)         47.3 d (females)                                          (Zhang et al. 2013)
+                  32 d (females)       (Tatum-Gibbs et
+                  (Tatum-Gibbs et      al., 2011)
+                  al., 2011)
+PFDA              40 d (males)                  -                  -                   -         GM 4-7.1 y
+                  59 d (females)                                                                 (Zhang et al. 2013)
+                  (Ohmori et al.,
+                  2003)
+PFUnDA                      -                   -                  -                   -         GM 4-7.4 y
+                                                                                                 (Zhang et al. 2013)
+
+
+
+
+Page 44 of 72
+           RIVM Report 2018-0070
+
+
+
+
+           Annex III. Summary of toxicity effects of PFAS
+
+
+
+           Table A3 Summary of toxicity effects of PFASs
+PFASs   Guideline         Exposure duration      Animal    NOAEL Critical specific effect NOAEL    Critical specific Remarks Reference
+                                                           adult (adult)                  F1       effect (F1)
+PFBS    OECD 416          7 w prior mating,      rat       100   hepatic hypertrophy,     >1000    No effects;       -       Lieder et al.,
+                          mating, + for                          kidney hyperplasia                highest dose              2009b
+                          females also                                                             tested
+                          gestation + lactation.
+                          F1 same exposure
+                          but starting at
+                          weaning (except the
+                          indirect). F2 in utero
+                          till lactation.
+        OECD 408          13 w                   rat       60      anaemic effects, ↓       -      -                no effects Lieder et al.,
+                                                                   spleen weights                                   on the     2009a
+                                                                                                                    liver
+PFPeS   no relevant studies identified
+PFHxS   OECD 422       M: 43 d, F: 43 d +        rat       < 0.3   decreased serum                 -                -          Butenhoff et
+                       GD till PND21                               cholesterol                                                 al., 2009b
+                                                           1       hepatic hypertrophy,     > 10   No effects;      -
+                                                                   thyroid                         highest dose
+                                                                   hypertrophy/hyperplasi          tested
+                                                                   a
+PFHpS   no relevant studies identified
+PFOS    no guide-line 98 d (14 w)                rat       0.34    hepatic hypertrophy,     -      -                -          Seacat et
+        followed                                                   hepatic centrilobular                                       al., 2003
+                                                                   cytoplasmic
+                                                                   vacuolisation,
+                                                                   decreased serum
+                                                                   cholesterol
+
+
+                                                                                                   Page 45 of 72
+          RIVM Report 2018-0070
+
+
+
+
+PFASs   Guideline         Exposure duration    Animal   NOAEL Critical specific effect    NOAEL   Critical specific Remarks Reference
+                                                        adult (adult)                     F1      effect (F1)
+        no guide-line 182 d (26 w)             monkey   0.15  ↓ survival, ↓ BW gain, ↑    -       -                 -       Seacat et
+        followed                                              liver wt; hepatic                                             al., 2002
+                                                              hypertrophy, ↓T3 and
+                                                              ↑TSH
+        no guide-line 6 w prior mating,        rat      0.1   decreased BW gain           0.1     effects on        -          Luebker et
+        followed       mating, and for                                                            postnatal                    al. 2005b
+                       females also                                                               growth:
+                       gestation/lactation/p                                                      decreased pup
+                       arturition for two                                                         BW
+                       generations
+        no guide-line 728 d (104 w)            rat      0.024   hepatic hypertrophy                                 -          Butenhoff et
+        followed                                                                                                               al. 2012b
+PFDS    no relevant studies identified
+        no guide-line 13 w                     rat      6       hepatic hypertrophy,      -       -                 no effects Butenhoff et
+        followed                                                thyroid hypertrophy,                                on         al., 2012
+                                                                anaemic effects, ↓                                  females
+                                                                cholesterol
+PFBA
+        no guide-line GD 1-17                  mouse    35      effects on gestation: ↑   <35     effects on        -          Das et al.,
+        followed                                                full litter resorption            postnatal                    2008
+                                                                                                  growth: delayed
+                                                                                                  eye opening
+PFPeA   no relevant studies identified
+PFHxA   OECD 415       F: 70 d prior mating, rat        -       no sufficient information 100     effect on pre-    -          Loveless et
+                       GD + lactation (126                      provided                          and postnatal                al., 2009
+                       d); M: 110 d                                                               growth: ↓ pup
+                                                                                                  weight
+        OECD 408          13 w                 rat      20      hepatic hypertrophy,      -       -                 -          Loveless et
+                                                                nasal lesions,                                                 al., 2009
+                                                                ↑ liver & kidney weight
+        no guideline      13 w                 rat      10      ↓ cholesterol,            -       -                 -          Chengelis et
+
+
+
+          Page 46 of 72
+           RIVM Report 2018-0070
+
+
+
+
+PFASs   Guideline         Exposure duration   Animal   NOAEL Critical specific effect    NOAEL   Critical specific Remarks Reference
+                                                       adult (adult)                     F1      effect (F1)
+        followed                                       50    hepatic hypertrophy,                                          al., 2009
+                                                             hepatic necrosis, ↑ liver
+                                                             weight, anaemic
+                                                             effects, ↑ ALT and ALP
+        no guideline      104 w               rat      30    hepatic necrosis, kidney    -       -                  -         Klaunig et
+        followed                                             tubular degeneration &                                           al., 2015
+                                                             necrosis, anaemic
+                                                             effects
+        OECD 414          GD 6-20             rat      -     -                           100     Effect on          -         Loveless et
+                                                                                                 prenatal                     al., 2009
+                                                                                                 development/
+                                                                                                 growth: ↓ foetal
+                                                                                                 weight
+        no guide-line GD 6-18                 mouse    100     effects on bw             100     effects on pre-    combined Iwai et al.,
+        followed                                               (mortality?)                      and postnatal      dose level 2014
+                                                                                                 growth: ↓ pup      between
+                                                                                                 weight             2 experi-
+                                                                                                                    mental
+                                                                                                                    phases;
+                                                                                                                    effects
+                                                                                                                    seen at
+                                                                                                                    maternal-
+                                                                                                                    ly toxic
+                                                                                                                    doses
+PFHpA   no relevant studies identified
+PFOA    no guide-line 13 w                    rat      0.06    hepatic hypertrophy, ↑            -                  -         Perkins et
+        followed                                               liver weight                                                   al., 2004
+PFNA    no guide-line GD 1-17                 mouse    5       ↓ body weight gain        <1      Effect on          -         Das et al.,
+        followed                                                                                 postnatal                    2015
+                                                                                                 development/
+                                                                                                 growth:
+                                                                                                 ↑ pup liver
+
+                                                                                                 Page 47 of 72
+          RIVM Report 2018-0070
+
+
+
+
+PFASs   Guideline         Exposure duration      Animal   NOAEL Critical specific effect NOAEL            Critical specific Remarks Reference
+                                                          adult (adult)                  F1               effect (F1)
+                                                                                                          weight
+
+Mixture OECD 416          70 d prior mating,     rat      <       hepatic hypertrophy,         F1 0.025   Effect on        -            Stump et al.,
+: C6-                     mating, + for                   0.025   hepatic necrosis, liver      F2 0.125   postnatal                     2008
+C18;                      females also                            fatty changes                           development/
+mainly                    gestation + lactation.                                                          growth: ↑ pup
+C9                        F1 same exposure                                                                liver weight
+                          but starting at
+                          weaning (except the
+                          indirect). F2 in utero
+                          till lactation.
+        OECD 408          13 w                   rat      0.025   hepatic hypertrophy          -          -                -            Mertens et
+                                                                  and liver foci of cellular                                            al., 2010
+                                                                  alteration
+PFDA    no guide-line GD 10-13 or GD 6-15 mouse           3       ↓ body weight gain           0.3        Effect on         -           Harris et al.,
+        followed                                                                                          prenatal                      1989
+                                                                                                          development/gro
+                                                                                                          wth: ↓ foetal
+                                                                                                          weight
+PFUnA   OECD 422          M 43 d, F 43 d + GD    rat      0.1     hepatic hypertrophy       0.3           effects on        -           Takahashi et
+                          till PND21                              and necrosis, liver fatty               postnatal                     al., 2014
+                                                                  changes, ↑ liver weight                 growth: ↓ pup
+                                                                                                          weight
+PFDoA   OECD 422          M 43 d, F 43 d + GD    rat      0.1     ↑ liver weight,        0.5              effect on         liver       Kato et al.,
+                          till PND21                              biochemistry,                           postnatal general effects     2014
+                                                                  haematological changes                  growth: ↓ pup     seen also
+
+
+
+
+          Page 48 of 72
+          RIVM Report 2018-0070
+
+
+
+
+PFASs   Guideline        Exposure duration     Animal   NOAEL Critical specific effect NOAEL     Critical specific Remarks Reference
+                                                        adult (adult)                   F1       effect (F1)
+                                                        0.5   hepatic hypertrophy                weight            at 0.1,
+                                                              and necrosis, liver                                  but not
+                                                              inflammatory cell                                    SS
+                                                              infiltrates and bilirubin
+                                                              deposition, adrenal and
+                                                              thymus cortex atrophy,
+                                                              bile duct hyperplasia,
+                                                              several organ weight
+                                                              changes, decreased
+                                                              haematopoiesis in the
+                                                              bone marrow,
+                                                              stomach/fore-stomach
+                                                              histopathology
+                                                        0.5   effects on the                                       -
+                                                              reproductive system
+PFTeDA OECD 422          M 43 d, F 43 d + GD   rat      1     hepatic hypertrophy,      3        effect on         -      Hirata-
+                         till PND21                           thyroid hypertrophy                postnatal general        Koizumi et
+                                                                                                 growth/develop-          al., 2015
+                                                                                                 ment: ↓ pup
+                                                                                                 weight
+PFHxDA OECD 422          M 43 d, F 43 d + GD   rat      4      hepatic hypertrophy,     100/     No effects;       -      Hirata-
+                         till PND21                            liver fatty changes, ↑   no LOAEL highest dose             Koizumi et
+                                                               liver and thyroid weight          tested                   al., 2015
+PFOcDA OECD 422          M 43 d, F 43 d + GD   rat      40     hepatic hypertrophy,     200                        -      Hirata-
+                         till PND21                            hepatic necrosis                  Effect on                Koizumi et
+                                                                                                 prenatal and             al., 2012
+                                                                                                 postnatal
+                                                                                                 development/
+                                                                                                 growth
+
+
+
+
+                                                                                                  Page 49 of 72
+RIVM Report 2018-0070
+
+
+
+
+Annex IV           BMD analysis: Derivation of RPFs for PFAS
+
+
+
+Introduction
+The RPF approach was used to assess the cumulative risk of a mixture of
+per- and polyfluoroalkyl substances (PFASs). The RPF approach assumes
+that the mixture components (1) display similar toxicity; (2) differ only in
+potency (if so, their individual dose-response curves should be parallel on
+log-dose scale, because when the (log) dose-response curves are not
+parallel, differences in potency are not constant over the range of
+effects); (3) do not interact (Bosgra, 2009, van den Berg, 2000, 2006).
+Note that if biochemical interactions occur between the substances, the
+dose-response information of the individual substances is not, by
+definition, sufficient to predict their combined effects. No mixture
+experiments with PFASs are available and, hence, no information is
+available on the question of whether the combinations follow dose
+addition. However, in the absence of data, it was assumed that no
+interactions between PFASs take place. In that case, dose addition gives
+an accurate prediction of the cumulative effects if dose-response
+relationships can be described by parallel curves.
+Here it is assumed that the mentioned requirements apply to (a mixture
+of) PFASs.
+
+RPFs convert concentrations of each PFAS to the equivalent
+concentrations of one index substance. The choice of the index substance
+is arbitrary and should not influence the outcome of the risk assessment.
+Because RIVM has derived a HBGV for PFOA, this chemical was chosen as
+the index substance for a PFAS mixture (Zeilmaker et al., 2016).
+By definition, the RPF of PFAS i is defined as the ratio of its benchmark
+dose (BMD, EFSA 2017) and that of the index PFAS (i.e. PFOA):
+
+〖RPF〗_i=〖BMD〗_PFOA/〖BMD〗_i                                           eq. 1
+
+To derive RPFs, BMDs provide an excellent starting point. The reason for
+this is that BMDs are equipotent doses. Equipotent doses are required to
+ensure that the differences in the doses in the nominator and
+denominator of equation 1 are not caused by differences in the effect
+related to these doses. Note that this is one of the reasons why NOAELs
+or LOAELs are not suitable for deriving RPFs. This is because NOAELs from
+different substances could relate to different effect levels (somewhere
+below the detectable effect size of the experiment), i.e. NOAELs may not
+reflect equipotent doses (Bokkers, 2007; Slob and Pieters, 1998).
+
+The BMDs and relative potencies of the PFASs are ideally obtained from
+the dose-response modelling of experimentally induced toxicity. In this
+context, PFASs are known to cause effects on the liver (though the
+mode of action remains unknown). Furthermore, in concordance with
+other international regulatory agencies (US EPA, ATSDR, FSANZ), in its
+derivation of a HBGV, RIVM selected liver toxicity as the most sensitive
+toxic effect for PFOA in experimental animals (NOAEL for increased
+absolute and relative liver weight after oral exposure: 0.06 mg/kg
+bw/day, Zeilmaker et al., 2016). For this reason, a database of liver
+
+Page 50 of 72
+RIVM Report 2018-0070
+
+
+
+
+endpoints affected after oral exposure was created for all relevant PFASs
+(Table A1). To ensure that differences which are found are not related to
+differences in experimental setup, data were obtained from studies with
+similar experimental setups, e.g. same species, sex, comparable
+exposure duration (42-98 days), exposure route (van den Berg, 2006;
+Zeilmaker et al., 2016). The database includes summary data (mean
+and standard deviation per dose group) for absolute and relative liver
+weight on 12 PFASs. Incidence data on liver hypertrophy is included in
+the table for 11 PFASs. Unfortunately, quantitative data on hypertrophy
+are not available for a key substance, i.e. PFOS. After exposure to PFOS,
+histomorphologic changes were observed only in the livers of males
+given 0.34 or 1.33 mg/kg bw and in females at 1.6 mg/kg bw. The
+changes consisted of centrilobular hepatocytic hypertrophy and
+midzonal to centrilobular vacuolation. The incidence and severity of the
+changes tended to be greater in the 1.5 mg/kg bw dose-group of males
+(Seacat et al., 2003). For some PFASs, the severity of incidence (e.g.
+mild, moderate severe) was reported. This information was reduced to
+incidence data because not all studies reported severity and because the
+definition of the severity levels may differ between studies.
+
+Dose-response modelling was used to verify whether the dose-response
+data of the PFASs considered can be described by parallel curves. In this,
+the exponential and Hill models (EFSA, 2017) were used to describe the
+(continuous) absolute and relative liver weight data. A set of models
+(EFSA, 2017) was fitted to the (quantal) liver hypertrophy data. The
+models were fitted to the data of all PFASs simultaneously by forcing the
+dose-response curves on log-dose scale to be parallel and by allowing the
+background (parameter a) and the potency (parameter b) to differ
+between PFASs. The BMDs corresponding to a benchmark response (BMR)
+of a 5% increase in the absolute and relative liver weight and to a 10%
+extra risk of liver hypertrophy were derived. It should be noted that the
+ratio of BMDs does not depend on the value of BMR in this model
+approach (Bokkers, 2005). The ratio can also be calculated by the ratio of
+the parameters b for both substances. Thus, the difference in potency
+between two substances can be expressed by a single factor that holds
+for any effect size in these models. The choice of BMR does influence the
+uncertainty of the BMD and, as a consequence, the uncertainty in the
+RPF. In general, the uncertainty in the BMD will be larger (i.e. larger
+BMDU/BMDL ratio) when the BMD lies relatively far outside the dose
+range or the BMR is too small. The analyses below show that, by using
+the chosen BMRs, large uncertainties in the BMDs are avoided.
+
+
+
+
+                                                             Page 51 of 72
+RIVM Report 2018-0070
+
+
+
+
+Table A1: Rat dose-response data obtained from the literature.
+Chemical                Reference1 Exposure        Sex    External      Liver              Absolute liver  Relative liver weight
+                                   Duration                dose     hypertrophy               weight
+                                                          (mg/kg   Inci-    Total       Mean SD Sample Mean SD Sample
+                                                          bw/day) dence                  (g)          size (% of           size
+                                                                                                            bw)
+Perfluorobutanesul        Lieder,     70 days      male          0    0          30     19.2 2.4       30   3.4    0.3      30
+fonate (PFBS, C4).        2009b
+                                                             30      n.a.        n.a.   20.0 2.9     30      3.5    0.4    30
+                                                            100      n.a.        n.a.   20.5 2.4     30      3.6    0.3    30
+                                                            300        3          30    21.5 2.9     30      3.8    0.3    30
+                                                            1000      26          30    27.0 2.8     29      4.1    0.4    30
+Perfluorohex-           Butenhoff,    42 days      male      0         0          10    15.30 0.15   10      3.12   0.03   10
+anesulfonate              2009b
+(PFHxS, C6)
+                                                              0.3     0          10     15.20 1.09   10      3.20   0.23   10
+                                                              1.0     0          10     16.41 2.02   10      3.42   0.42   10
+                                                              3.0     9          10     18.15 1.12   10      3.73   0.23   10
+                                                             10.0    10          10     24.26 3.33   10      5.25   0.72   10
+Perfluorooctanesul       Seacat,      98 days      male        0            NA          15.5 1.1     5       3.2    0.3    5
+fonate (PFOS, C8)         2003
+                                                             0.03           NA          15.5 2.7     5       3.2    0.2    5
+                                                             0.13           NA          14.0 1.4     5       3.2    0.2    5
+                                                             0.34           NA          18.8 3.0     5       3.6    0.3    5
+                                                             1.33           NA          20.3 2.2     5       4.3    0.4    5
+Perfluorobutyrate       Butenhoff,    90 days      male        0      0          10     10.92 1.17   10      2.1    0.23   20
+(PFBA, C4)                2012c
+                                                             1.2      0          10     11.40 9.75   10      2.1    0.14   10
+                                                              6       0          10     11.39 1.36   10      2.2    0.27   10
+                                                             30       9          10     13.41 2.01   10      2.6    0.39   20
+Perfluorohexanoat        Loveless,    90 days      male       0       0          10     15.09 1.59   10      2.69   0.17   10
+
+Page 52 of 72
+RIVM Report 2018-0070
+
+
+
+
+Chemical                Reference1 Exposure   Sex    External      Liver          Absolute liver  Relative liver weight
+                                   Duration           dose     hypertrophy           weight
+                                                     (mg/kg   Inci-    Total   Mean SD Sample Mean SD Sample
+                                                     bw/day) dence              (g)          size (% of           size
+                                                                                                   bw)
+e (PFHxA, C6)             2009
+                                                        20       0      10     15.18 2.07        10   2.70   0.26   10
+                                                       100       4      10     16.49 2.38        10   3.00   0.23   10
+                                                       500      10      10     21.98 2.35        10   4.38   0.49   10
+Perfluorooctanoate       Perkins,   91 days   male      0        0      15     16.46 1.42        15   3.24   0.28   15
+(PFOA, C8)                2004
+                                                       0.06      0      15     17.76 1.27        15   3.24   0.23   15
+                                                       0.64     15      15     20.33 1.76        15   3.69   0.32   15
+                                                       1.94     15      15     22.36 1.38        15   4.21   0.56   15
+                                                       6.50     15      15     27.17 4.15        15   5.50   0.84   15
+Perfluorononaoic         Mertens,   91 days   male       0       0      10     13.03 1.80        15   2.50   0.10   15
+acid (PFNA, C9)           2010
+                                                      0.025      0      10     13.92 2.59        10   2.63   0.19   10
+                                                      0.125      4      10     16.14 3.19        10   3.12   0.31   10
+                                                       0.6      10      10     17.45 2.31        15   4.51   0.43   15
+Perfluoroundecano Takahashi,        42 days   male      0        0      7      15.12 2.14        5    2.88   0.27   5
+ic acid (PFUA,      2014
+C11)
+                                                       0.1       0      12     16.45 2.06        5    3.02   0.19   5
+                                                       0.3       3      12     17.54 0.73        5    3.39   0.16   5
+                                                       1.0       7      7      20.95 2.56        5    4.18   0.19   5
+Perfluorododecano Kato, 2014        42 days   male      0        0      7      12.0 1.3          5    2.51   0.14   5
+ic acid (PFDoA,
+C12)
+                                                       0.1       0      12     13.5    2.1       5    2.67   0.21   5
+                                                       0.5       0      12     14.7    2.6       5    3.00   0.30   5
+
+                                                                                 Page 53 of 72
+RIVM Report 2018-0070
+
+
+
+
+Chemical                Reference1 Exposure    Sex    External      Liver          Absolute liver  Relative liver weight
+                                   Duration            dose     hypertrophy           weight
+                                                      (mg/kg   Inci-    Total   Mean SD Sample Mean SD Sample
+                                                      bw/day) dence              (g)          size (% of           size
+                                                                                                    bw)
+                                                        2.5       5       7     13.6 3.1        5   4.30 0.27        5
+Perfluorotetradeca        Hirata-    42 days   male      0        0       7     11.95 1.53      7   2.41 0.11        7
+noic acid (PFTeDA,       Koizumi,
+C14)                       2015
+                                                         1        0      12     12.09 0.73    7      2.49   0.12   7
+                                                         3        8      12     14.52 1.82    7      2.87   0.23   7
+                                                         10       7      7      15.21 0.53    7      3.25   0.07   7
+Perfluorohexadeca         Hirata-    42 days   male      0        0      7      12.15 1.27    7      2.50   0.04   7
+noic acid                Koizumi,
+(PFHxDA, C16)              2015
+                                                         4        0      12     11.81 0.55    7      2.45   0.10   7
+                                                         20       5      12     12.12 0.85    7      2.49   0.15   7
+                                                        100       7      7      14.50 0.61    7      3.26   0.07   7
+                          Hirata-    42 days   male      0        0      7      10.9 1.8      5      2.36   0.28   5
+Perfluorooctadeca-       Koizumi,
+noic acid (PFOdA,          2012
+C18)
+                                                        40        0      12     11.3   1.6    5      2.48   0.25   5
+                                                       200       12      12     15.8   1.8    5      3.35   0.14   5
+                                                       1000       7      7      18.2   1.2    5      5.00   0.13   5
+Ammonium                Haas, 2009   90 days   male     0                                           2.716   0.13   10
+2,3,3,3-                                                                                                     19
+tetrafluoro-2-
+(hep-
+tafluoropropoxy)-
+propanoate (FRD-
+902)
+
+Page 54 of 72
+RIVM Report 2018-0070
+
+
+
+
+Chemical                Reference1 Exposure   Sex   External      Liver          Absolute liver  Relative liver weight
+                                   Duration          dose     hypertrophy           weight
+                                                    (mg/kg   Inci-    Total   Mean SD Sample Mean SD Sample
+                                                    bw/day) dence              (g)          size (% of           size
+                                                                                                  bw)
+                                                      0.1                                        2.727 0.21       10
+                                                                                                          25
+                                                       10                                        3.556 0.47       10
+                                                                                                          52
+                                                      100                                        4.535 0.51       10
+                                                                                                          44
+1
+for references, see main text.
+
+
+
+
+                                                                                Page 55 of 72
+RIVM Report 2018-0070
+
+
+
+
+Results & discussion
+
+ABSOLUTE LIVER WEIGHT (aLW)
+Fitting models 1, 3 and 5 of the exponential model family and Hill model
+family shows that, for both model families, model 5 with covariates for a,
+b and the residual variance (v) provides a good description of the data,
+i.e. these models result in the lowest AICs (Tables A2 and A3). Chemical
+was used as the covariate. The significant improvement of the model fits
+by adding this covariate for parameters a and b, and the residual
+variation indicates that the studies with the various chemicals differ in
+background (parameter a), the chemicals differ in potency (parameter b)
+and the residual variance of the studies also differs. Figure 1 shows the
+fitted dose-response curves. Figure A2 shows the individual fits of the
+PFASs with the exponential model m5-abv, which shows a good
+description of the measured data. The Hill model resulted in similar
+individual plots (not shown). Figure A3 shows the fit of the exponential
+model after normalizing to background (parameter a). This figure and
+Figure 2 illustrate that fitting parallel curves to the PFAS data results in a
+good description of the data. The right panel of Figure 3 shows the
+resulting BMD05 confidence intervals, illustrating the good correspondence
+between the Hill and exponential model results. The actual BMD, BMDL
+and BMDU values are reported in the summary Table A7. The BMD
+confidence interval of PFDoA is rather wide (Figure A3, right panel and
+Table A7) because in none of the dose groups does the response seem to
+increase compared with the background response (Figure A2).
+
+Table A2: ANALYSIS WITH EXPONENTIAL MODELS, Best model with covariates is
+the exponential model m5-abv.
+ Model              converged      npar       loglik               aic
+ full                   1           53        266.72            -427.44
+ full-v                 1           64         383.1             -638.2
+ m1-v                   1           13        -48.02             122.04
+ m1-av                  1           24        138.75             -229.5
+ m3-av                  1           26        233.05             -414.1
+ m3-abv                 1           37        354.39            -634.78
+ m5-av                  0           27        232.03            -410.06
+ m5-abv                 1           38        359.88            -643.76
+
+Table A3: ANALYSIS WITH HILL MODELS, Best model with covariates is: Hill
+model m5-abv
+ model             converged      npar      loglik               aic
+ m3-av                 1           26       234.02             -416.04
+ m3-abv                1           37       353.34             -632.68
+ m5-av                 1           27       232.03             -410.06
+ m5-abv                1           38       359.49             -642.98
+
+
+
+
+Page 56 of 72
+RIVM Report 2018-0070
+
+
+
+
+                                     Exponential model                                                                             Hill model
+                                     Expon. m5-abv                                                                                 Hill m5-abv
+                                                                 v ersion: 64.16                                                                          v ersion: 64.16
+                                                                 loglik 359.88                                                                            loglik 359.49
+                                                                 nr.v ar 12                                                                               nr.v ar 12
+                                                                 nr.aa 12                                                                                 nr.aa 12
+                                                                 nr.bb 12                                                                                 nr.bb 12
+                 1.4
+
+
+
+
+                                                                                                             1.4
+                                                                 nr.cc 1                                                                                  nr.cc 1
+                                                                 nr.dd 1                                                                                  nr.dd 1
+                                                                 v ar-PFBA 0.143                                                                          v ar-PFBA 0.143
+                                                                 a-PFBA 9.82                                                                              a-PFBA 9.82
+                                                                 CED-PFBA 3.15                                                                            CED-PFBA 3.23
+                                                                 c- 1.69                                                                                  c- 1.87
+                 1.3
+
+
+
+
+                                                                                                             1.3
+                                                                 d- 1.01                                                                                  d- 1.11
+                                                                 CES 0.05                                                                                 CES 0.05
+                                                                 CEDL-PFBA 0.547                                                                          CEDL-PFBA 0.621
+log10-aLW_mean
+
+
+
+
+                                                                                            log10-aLW_mean
+                                                                 CEDU-PFBA 27.1                                                                           CEDU-PFBA 26.9
+                                                                 CEDL-PFBS 58.8                                                                           CEDL-PFBS 61.5
+                                                                 CEDU-PFBS 154                                                                            CEDU-PFBS 163
+                 1.2
+
+
+
+
+                                                                 CEDL-PFDoA 0.461
+
+
+
+
+                                                                                                             1.2
+                                                                                                                                                          CEDL-PFDoA 0.498
+                                                                 CEDU-PFDoA Inf                                                                           CEDU-PFDoA Inf
+                                                                 CEDL-PFHxA 19                                                                            CEDL-PFHxA 19.6
+                                                                 CEDU-PFHxA 63.3                                                                          CEDU-PFHxA 66.2
+                                                                 CEDL-PFHxDA 12.2                                                                         CEDL-PFHxDA 12.9
+                                                                 CEDU-PFHxDA 31.5                                                                         CEDU-PFHxDA 33.6
+                                                                 CEDL-PFHxS 0.294                                                                         CEDL-PFHxS 0.302
+                 1.1
+
+
+
+
+                                                                                                             1.1
+                                                                 CEDU-PFHxS 0.865                                                                         CEDU-PFHxS 0.9
+                                                                 CEDL-PFNA 0.0353                                                                         CEDL-PFNA 0.0352
+                                                                 CEDU-PFNA 0.146                                                                          CEDU-PFNA 0.154
+                                                                 CEDL-PFOA 0.135                                                                          CEDL-PFOA 0.141
+                                                                 CEDU-PFOA 0.361                                                                          CEDU-PFOA 0.383
+                                                                 CEDL-PFOdA 6.88                                                                          CEDL-PFOdA 7.02
+                 1.0
+
+
+
+
+                                                                                                             1.0
+                                                                 CEDU-PFOdA 32.5                                                                          CEDU-PFOdA 33
+                                                                 CEDL-PFOS 0.0547                                                                         CEDL-PFOS 0.0562
+                                                                 CEDU-PFOS 0.284                                                                          CEDU-PFOS 0.292
+                                                                 CEDL-PFTeDA 0.65                                                                         CEDL-PFTeDA 0.654
+                                                                 CEDU-PFTeDA 2.49                                                                         CEDU-PFTeDA 2.57
+                                                                 CEDL-PFUA 0.0462                                                                         CEDL-PFUA 0.0471
+                                                                 CEDU-PFUA 0.199                                                                          CEDU-PFUA 0.21
+                 0.9
+
+
+
+
+                                                                 conv : 1                                    0.9                                          conv : 1
+                                                                 scaling f actor on x : 1                                                                 scaling f actor on x : 1
+                                                                 dty pe : 10                                                                              dty pe : 10
+                                                                  selected : all                                                                           selected : all
+                                                                 remov ed: none                                                                           remov ed: none
+                                                                 cov ariate: Chemical                                                                     cov ariate: Chemical
+
+                       -2   -1   0         1             2   3                                                     -2   -1     0          1      2    3
+
+                                     log10-Dose_mgkgbwday                                                                          log10-Dose_mgkgbwday
+
+Figure A1. Fitted dose-response curves for each PFAS. Left and right panels show
+the fits with the exponential and Hill models, respectively.
+
+
+
+
+                                                                                                                             Page 57 of 72
+RIVM Report 2018-0070
+
+
+
+
+                         PFBA                                PFHxDA                               PFOdA
+ 1.4
+
+
+
+
+                                         1.4
+
+
+
+
+                                                                              1.4
+ 1.3
+
+
+
+
+                                         1.3
+
+
+
+
+                                                                              1.3
+ 1.2
+
+
+
+
+                                         1.2
+
+
+
+
+                                                                              1.2
+ 1.1
+
+
+
+
+                                         1.1
+
+
+
+
+                                                                              1.1
+ 1.0
+
+
+
+
+                                         1.0
+
+
+
+
+                                                                              1.0
+ 0.9
+
+
+
+
+       -2       -1   0      1    2   3         -2   -1   0      1     2   3         -2   -1   0      1     2   3
+
+                         PFBS                                PFHxS                                PFOS
+
+
+                                         1.4
+
+
+
+
+                                                                              1.4
+ 1.4
+
+
+
+
+                                         1.3
+
+
+
+
+                                                                              1.3
+ 1.3
+
+
+
+
+                                         1.2
+
+
+
+
+                                                                              1.2
+ 1.2
+
+
+
+
+                                         1.1
+
+
+
+
+                                                                              1.1
+ 1.1
+ 1.0
+
+
+
+
+                                         1.0
+
+
+
+
+                                                                              1.0
+       -2       -1   0      1    2   3         -2   -1   0      1     2   3         -2   -1   0      1     2   3
+
+                         PFDoA                               PFNA                                 PFTeDA
+ 1.4
+
+
+
+
+                                         1.4
+
+
+
+
+                                                                              1.4
+ 1.3
+
+
+
+
+                                         1.3
+
+
+
+
+                                                                              1.3
+ 1.2
+
+
+
+
+                                         1.2
+
+
+
+
+                                                                              1.2
+ 1.1
+
+
+
+
+                                         1.1
+
+
+
+
+                                                                              1.1
+ 1.0
+
+
+
+
+                                         1.0
+
+
+
+
+                                                                              1.0
+
+
+
+
+       -2       -1   0      1    2   3         -2   -1   0      1     2   3         -2   -1   0      1     2   3
+
+                         PFHxA                               PFOA                                 PFUA
+ 1.4
+
+
+
+
+                                                                              1.4
+                                         1.4
+ 1.3
+
+
+
+
+                                                                              1.3
+                                         1.3
+ 1.2
+
+
+
+
+                                                                              1.2
+                                         1.2
+ 1.1
+
+
+
+
+                                                                              1.1
+                                         1.1
+ 1.0
+
+
+
+
+                                                                              1.0
+                                         1.0
+
+
+
+
+       -2       -1   0      1    2   3         -2   -1   0      1     2   3         -2   -1   0      1     2   3
+
+Figure A2. Individual fits of all PFASs with the exponential model m5-abv
+
+
+
+
+Page 58 of 72
+RIVM Report 2018-0070
+
+
+
+
+                                                            normalized to a
+                             0.25
+ log10-normalized response
+                             0.20
+                             0.15
+                             0.10
+                             0.05
+                             0.00
+                             -0.05
+                             -0.10
+
+
+
+
+                                     -2        -1       0         1         2      3
+                                                            log10-Dose_mgkgbwday
+
+
+                                                            BMD confidence intervals
+                                                            (exponential and Hill, per subgroup)
+
+
+                                                                                       PFNA
+                                                                                       PFUA
+                                                                                       PFOS
+                                                                                       PFOA
+
+                                                                                       PFHxS
+                                                                                       PFTeDA
+                                                                                       PFBA
+                                                                                       PFOdA
+                                                                                       PFHxDA
+
+                                                                                       PFHxA
+                                                                                       PFBS
+
+                                                                                       PFDoA
+
+
+
+
+                                          -1        0         1         2         3
+                                                            log10- CED-0.05
+
+
+Figure A3. Top panel: fit of the exponential model after normalizing to background
+(parameter a). Lower panel: log10 BMD (95%-)confidence intervals, i.e. range
+BMDL to BMDU for each PFAS. BMR=5%. Within each PFAS, the upper line relates
+to the exponential model results and the bottom line corresponds to the Hill model
+results.
+
+
+
+
+                                                                                                   Page 59 of 72
+RIVM Report 2018-0070
+
+
+
+
+RELATIVE LIVER WEIGHT (rLW)
+Fitting models 1, 3 and 5 of the exponential model family and Hill model
+family shows that, for both model families, model 5 with covariates for a
+and b, and the residual variance (v) provide a good description of the
+data, i.e. these models result in the lowest AICs (Table A4 and A5).
+Chemical was used as the covariate. The significant improvement of the
+model fits by adding this covariate for parameters a and b, and the
+residual variation indicates that the studies with the various chemicals
+differ in background (parameter a), the chemicals differ in potency
+(parameter b) and the residual variance of the studies also differs. Figure
+4 shows the fitted dose-response curves. Figure 5 shows the individual
+fits of the PFASs with the exponential model m5-abv, which shows a good
+description of the measured data. The Hill model resulted in similar
+individual plots (not shown). Figure 6 shows the fit of the exponential
+model after normalizing to background. This figure and Figure A5
+illustrate that fitting parallel curves to the PFAS data results in a good
+description of the data. The right panel of Figure A6 shows the resulting
+BMD05 confidence intervals, illustrating the good correspondence between
+the Hill and exponential model results. The actual BMD, BMDL and BMDU
+values are reported in Table A7. In contrast to the results of absolute liver
+weight, for relative liver weight the BMD confidence interval of PFDoA can
+be established and is relatively small (Fig 6, right panel and Table A7)
+because a clear dose-response is present (Figure A5).
+
+Table A4. ANALYSIS WITH EXPONENTIAL. MODELS Best model with covariates is:
+Expon. m5-abv
+ Model                  converged   npar           loglik             aic
+ Full                       1        57            610.65          -1107.3
+ full-v                     1        69            646.69         -1155.38
+ m1-v                       1        14            68.07           -108.14
+ m1-av                      1        26            217.35           -382.7
+ m3-av                      1        28            314.15           -572.3
+ m3-abv                     1        40            613.57         -1147.14
+ m5-av                      1        29            319.03          -580.06
+ m5-abv                     1        41            618.23         -1154.46
+
+Table A5. ANALYSIS WITH HILL MODELS. Best model with covariates is: Hill m5-
+abv
+ Model                  converged   npar           loglik            aic
+ m3-av                      1        28            311.53          -567.06
+ m3-abv                     1        40            610.77         -1141.54
+ m5-av                      1        29            327.33          -596.66
+ m5-abv                     1        41            618.21         -1154.42
+
+
+
+
+Page 60 of 72
+RIVM Report 2018-0070
+
+
+
+
+                                          Exponential model                                                                                        Hill model
+                                          Expon. m5-abv                                                                                            Hill m5-abv
+                                                                      v ersion: 64.16                                                                                          v ersion: 64.16
+                                                                      loglik 618.23                                                                                            loglik 618.21
+                                                                      nr.v ar 13                                                                                               nr.v ar 13
+                                                                      nr.aa 13                                                                                                 nr.aa 13
+                                                                      nr.bb 13                                                                                                 nr.bb 13
+                                                                      nr.cc 1                                                                                                  nr.cc 1
+                 0.7
+
+
+
+
+                                                                                                                  0.7
+                                                                      nr.dd 1                                                                                                  nr.dd 1
+                                                                      v ar-FRD_902 0.014                                                                                       v ar-FRD_902 0.014
+                                                                      a-FRD_902 2.84                                                                                           a-FRD_902 2.84
+                                                                      CED-FRD_902 4.97                                                                                         CED-FRD_902 5.01
+                                                                      c- 2.47                                                                                                  c- 3.17
+                                                                      d- 0.938                                                                                                 d- 0.968
+                                                                      CES 0.05                                                                                                 CES 0.05
+log10-rLW_mean
+
+
+
+
+                                                                                                 log10-rLW_mean
+                                                                      CEDL-FRD_902 3.21                                                                                        CEDL-FRD_902 3.22
+                 0.6
+
+
+
+
+                                                                                                                  0.6
+                                                                      CEDU-FRD_902 7.63                                                                                        CEDU-FRD_902 7.79
+                                                                      CEDL-PFBA 3.56                                                                                           CEDL-PFBA 3.61
+                                                                      CEDU-PFBA 8.15                                                                                           CEDU-PFBA 8.46
+                                                                      CEDL-PFBS 162                                                                                            CEDL-PFBS 164
+                                                                      CEDU-PFBS 307                                                                                            CEDU-PFBS 321
+                                                                      CEDL-PFDoA 0.0742                                                                                        CEDL-PFDoA 0.0748
+                                                                      CEDU-PFDoA 0.16                                                                                          CEDU-PFDoA 0.165
+                                                                      CEDL-PFHxA 17.2                                                                                          CEDL-PFHxA 17.3
+                 0.5
+
+
+
+
+                                                                      CEDU-PFHxA 35.6
+
+
+
+
+                                                                                                                  0.5
+                                                                                                                                                                               CEDU-PFHxA 37
+                                                                      CEDL-PFHxDA 8.66                                                                                         CEDL-PFHxDA 8.73
+                                                                      CEDU-PFHxDA 15.7                                                                                         CEDU-PFHxDA 16.6
+                                                                      CEDL-PFHxS 0.338                                                                                         CEDL-PFHxS 0.341
+                                                                      CEDU-PFHxS 0.698                                                                                         CEDU-PFHxS 0.73
+                                                                      CEDL-PFNA 0.0151                                                                                         CEDL-PFNA 0.0152
+                                                                      CEDU-PFNA 0.0297                                                                                         CEDU-PFNA 0.0302
+                                                                      CEDL-PFOA 0.2                                                                                            CEDL-PFOA 0.202
+                                                                      CEDU-PFOA 0.405                                                                                          CEDU-PFOA 0.416
+                 0.4
+
+
+
+
+                                                                                                                  0.4
+                                                                      CEDL-PFOdA 11.2                                                                                          CEDL-PFOdA 11.6
+                                                                      CEDU-PFOdA 24.4                                                                                          CEDU-PFOdA 25.3
+                                                                      CEDL-PFOS 0.0931                                                                                         CEDL-PFOS 0.0941
+                                                                      CEDU-PFOS 0.21                                                                                           CEDU-PFOS 0.22
+                                                                      CEDL-PFTeDA 0.743                                                                                        CEDL-PFTeDA 0.749
+                                                                      CEDU-PFTeDA 1.47                                                                                         CEDU-PFTeDA 1.54
+                                                                      CEDL-PFUA 0.053                                                                                          CEDL-PFUA 0.0535
+                                                                      CEDU-PFUA 0.111                                                                                          CEDU-PFUA 0.116
+                 0.3
+
+
+
+
+                                                                                                                  0.3
+                                                                      conv : 1                                                                                                 conv : 1
+                                                                      scaling f actor on x : 1                                                                                 scaling f actor on x : 1
+                                                                      dty pe : 10                                                                                              dty pe : 10
+                                                                       selected : all                                                                                           selected : all
+                        -2   -1       0          1            2   3   remov ed: none                                      -2      -1           0          1       2        3   remov ed: none
+                                                                      cov ariate: Chemical                                                                                     cov ariate: Chemical
+                                          log10-Dose_mgkgbwday                                                                                     log10-Dose_mgkgbwday
+
+
+Figure A4. Fitted dose-response curves for each PFAS. Left and right panels show
+the fits with the exponential and Hill models, respectively.
+
+                                 FRD_902                              PFHxA                                                       PFOA                                     PFUA
+0.6
+
+
+
+
+                                                0.6
+
+
+
+
+                                                                                                                                                        0.6
+                                                                                             0.6
+0.4
+
+
+
+
+                                                0.4
+
+
+
+
+                                                                                                                                                        0.4
+                                                                                             0.4
+
+
+
+
+                       -2 -1 0    1   2     3             -2 -1 0      1       2       3                                -2 -1 0        1   2       3             -2 -1 0       1      2       3
+                                 PFBA                                 PFHxDA                                                      PFOdA
+0.7
+
+
+
+
+                                                0.6
+
+
+
+
+                                                                                             0.6
+0.5
+
+
+
+
+                                                0.4
+
+
+
+
+                                                                                             0.4
+0.3
+
+
+
+
+                       -2 -1 0    1   2     3             -2 -1 0      1       2       3                                -2 -1 0        1   2       3
+                                 PFBS                                 PFHxS                                                       PFOS
+0.6
+
+
+
+
+                                                                                             0.6
+                                                0.6
+0.4
+
+
+
+
+                                                0.4
+
+
+
+
+                                                                                             0.4
+
+
+
+
+                       -2 -1 0    1   2     3             -2 -1 0      1       2       3                                -2 -1 0        1   2       3
+                                 PFDoA                                PFNA                                                        PFTeDA
+0.6
+
+
+
+
+                                                0.6
+
+
+
+
+                                                                                             0.6
+0.4
+
+
+
+
+                                                0.4
+
+
+
+
+                                                                                             0.4
+
+
+
+
+                       -2 -1 0    1   2     3             -2 -1 0      1       2       3                                -2 -1 0        1   2       3
+Figure A5. Individual fits of all PFASs with the exponential model m5-abv
+
+
+
+
+                                                                                                                                                                      Page 61 of 72
+RIVM Report 2018-0070
+
+
+
+
+                                                  normalized to a
+ log10-normalized response
+                             0.3
+                             0.2
+                             0.1
+                             0.0
+
+
+
+
+                                   -2    -1   0       1        2        3
+                                                  log10-Dose_mgkgbwday
+
+
+
+                                                  BMD confidence intervals
+                                                  (exponential and Hill, per subgroup)
+
+
+                                                                             PFNA
+                                                                             PFUA
+                                                                             PFDoA
+                                                                             PFOS
+                                                                             PFOA
+                                                                             PFHxS
+                                                                             PFTeDA
+                                                                             FRD_902
+                                                                             PFBA
+                                                                             PFHxDA
+                                                                             PFOdA
+                                                                             PFHxA
+                                                                             PFBS
+
+
+
+
+                                        -1    0           1         2
+                                                  log10- CED-0.05
+
+
+Figure A6. Top panel: fit of the exponential model after normalizing to background
+(parameter a). Lower panel: log10 BMD (95%-)confidence intervals, i.e. range
+BMDL to BMDU for each PFAS. BMR=5%. Within each PFAS, the upper line relates
+to the exponential model results and the bottom line corresponds to the Hill model
+results.
+
+
+
+
+Page 62 of 72
+RIVM Report 2018-0070
+
+
+
+
+LIVER HYPERTROPHY
+A set of models were fitted to the hypertrophy data, including testing for
+differences between chemicals (covariate) (EFSA, 2017). Three models
+were accepted according to the AIC: the log-logistic, Weibull and log-
+probit models (Table A6). Chemical was used as the covariate. The
+significant improvement of the model fits by adding this covariate for
+parameter b, indicates that the various chemicals differ in potency
+(parameter b). Figure 7 shows the fitted dose-response curves for the
+accepted models. The actual BMD, BMDL and BMDU values of the
+accepted models are reported in Table A7 and are very similar between
+the three accepted models. No BMDs are derived for PFOS for this
+endpoint because no quantitative information on liver histopathology
+suitable for a BMD analysis is presented in Seacat et al. (2003).
+
+Table A6. Liver hypertrophy
+ model                  Number      Log-      AIC      accepted    con-
+                        of para-    likeli-                        verged
+                        meters      hood
+ null                   11          -325.60   673.20   NA
+ full                   45          -117.42   324.84   NA
+ Two stage-b            13          -77.87    181.74   no          yes
+ Log-logistic-b         13          -71.09    168.18   yes         yes
+ Weibull-b              23          -71.0     168.0    yes         yes
+ Log-probit-b           13          -70.55    167.10   yes         yes
+ Gamma-ab               23          -104.95   255.90   no          yes
+ Logistic-b             12          -93.38    210.76   no          yes
+ LVM: Expon             23          -68.32    182.64   no          yes
+ m3-ab
+ LVM: Hill m3-ab        23          -68.51    183.02   no          yes
+BMR: 10% extra risk, PROAST version: 64.16
+
+
+
+
+                                                              Page 63 of 72
+RIVM Report 2018-0070
+
+
+
+
+                                                log.logist-b
+                     1.0
+
+
+
+
+                                                                                  v ersion: 64.16
+                                                                                   model A 18
+                                                                                   log-lik -71.09
+                                                                                   AIC 168.18
+                                                                                   a- 0
+                                                                                   BMD-PFBA 11.3156
+                                                                                   BMD-PFBS 354.856
+                     0.8
+
+
+
+
+                                                                                   BMD-PFDoA 1.2433
+                                                                                   BMD-PFHxA 66.7145
+                                                                                   BMD-PFHxDA 13.144
+                                                                                   BMD-PFHxS 1.221
+ Liver_Hypertrophy
+
+
+
+
+                                                                                   BMD-PFNA 0.0834
+                                                                                   BMD-PFOA 0.1193
+                                                                                   BMD-PFOdA 54.487
+                                                                                   BMD-PFTeDA 1.5834
+                     0.6
+
+
+
+
+                                                                                   BMD-PFUA 0.2326
+                                                                                   c 4.4336
+                                                                                   dty pe 4
+                                                                                   b: 18.57
+                                                                                   b: 582.5
+                                                                                   b: 2.041
+                                                                                   b: 109.5
+                     0.4
+
+
+
+
+                                                                                   b: 21.58
+                                                                                   b: 2.004
+                                                                                   b: 0.1369
+                                                                                   b: 0.1958
+                                                                                   b: 89.44
+                                                                                   b: 2.599
+                                                                                   b: 0.3819
+                                                                                   extra risk 0.1
+                     0.2
+
+
+
+
+                                                                                   conv 1
+                                                                                   selected all
+                                                                                   extra risk 0.1
+                                                                                   dose scaling: 1
+                                                                                    CI
+                                                                                    0.0636 0.107
+                     0.0
+
+
+
+
+                           -2    -1       0              1           2       3
+                                                log10-Dose_mgkgbwday
+
+
+
+
+                                              log.prob-b
+                     1.0
+
+
+
+
+                                                                              v ersion: 64.16
+                                                                               model A 21
+                                                                               log-lik -70.55
+                                                                               AIC 167.1
+                                                                               a- 0
+                                                                               BMD-PFBA 10.6594
+                                                                               BMD-PFBS 339.633
+                                                                               BMD-PFDoA 1.1769
+                                                                               BMD-PFHxA 65.6736
+                     0.8
+
+
+
+
+                                                                               BMD-PFHxDA 12.9084
+                                                                               BMD-PFHxS 1.176
+                                                                               BMD-PFNA 0.0821
+                                                                               BMD-PFOA 0.1161
+                                                                               BMD-PFOdA 52.9759
+Liver_Hypertrophy
+
+
+
+
+                                                                               BMD-PFTeDA 1.5183
+                                                                               BMD-PFUA 0.2314
+                                                                               c 2.4468
+                     0.6
+
+
+
+
+                                                                               dty pe 4
+                                                                               b: 18
+                                                                               b: 573.4
+                                                                               b: 1.987
+                                                                               b: 110.9
+                                                                               b: 21.79
+                                                                               b: 1.985
+                                                                               b: 0.1386
+                                                                               b: 0.196
+                     0.4
+
+
+
+
+                                                                               b: 89.44
+                                                                               b: 2.564
+                                                                               b: 0.3907
+                                                                               extra risk 0.1
+                                                                               conv 1
+                                                                               selected all
+                                                                               extra risk 0.1
+                                                                               dose scaling: 1
+                                                                                CI
+                     0.2
+
+
+
+
+                                                                                0.0611 0.108
+                     0.0
+
+
+
+
+                           -2   -1    0              1           2       3
+                                              log10-Dose_mgkgbwday
+
+
+
+
+                                              Weibull in terms of BMD
+                     1.0
+
+
+
+
+                                                                             v ersion: 64.16
+                                                                              model A 19
+                                                                              log-lik -71
+                                                                              AIC 168
+                                                                              a- 0
+                                                                              BMD-PFBA 11.8281
+                                                                              BMD-PFBS 396.6156
+                                                                              BMD-PFDoA 1.1849
+                     0.8
+
+
+
+
+                                                                              BMD-PFHxA 62.0407
+                                                                              BMD-PFHxDA 12.2079
+                                                                              BMD-PFHxS 1.2114
+                                                                              BMD-PFNA 0.0776
+                                                                              BMD-PFOA 0.1732
+ Liver_Hypertrophy
+
+
+
+
+                                                                              BMD-PFOdA 60.843
+                                                                              BMD-PFTeDA 1.4935
+                                                                              BMD-PFUA 0.2232
+                     0.6
+
+
+
+
+                                                                              c 3.2933
+                                                                              dty pe 4
+                                                                              b: 23.42
+                                                                              b: 785.5
+                                                                              b: 2.347
+                                                                              b: 122.9
+                                                                              b: 24.18
+                                                                              b: 2.399
+                                                                              b: 0.1536
+                     0.4
+
+
+
+
+                                                                              b: 0.3431
+                                                                              b: 120.5
+                                                                              b: 2.958
+                                                                              b: 0.442
+                                                                              extra risk 0.1
+                                                                              conv 1
+                                                                              selected all
+                                                                             f act-b: Chemical
+                     0.2
+
+
+
+
+                                                                              extra risk 0.1
+                                                                              dose scaling: 1
+                                                                               CI
+                                                                               8.55 15.5
+                                                                               309 492
+                                                                               0.868 1.58
+                                                                               46.9 83.2
+                                                                               9.39 15.9
+                     0.0
+
+
+
+
+                                                                               0.9 1.57
+                                                                               0.0586 0.104
+                                                                               0.0621 0.27
+                                                                               36 86.8
+                                                                               1.15 1.88
+                           -2   -1    0             1           2        3     0.169 0.312
+
+                                              log10-Dose_mgkgbwday
+
+
+Figure A7. Dose-responses using the accepted log-logistic, log-probit and Weibull
+models.
+
+Page 64 of 72
+RIVM Report 2018-0070
+
+
+
+
+DERIVING RPFs
+In Table A7, an overview of the derived BMD and (BMDL – BMDU) is
+presented for the three end points and various models. For practical
+reasons, the RPFs were derived from the BMDs obtained from the
+exponential model and the log-logistic model. It is assumed that the
+RPFs will not depend on the choice of model because the BMD results
+are very similar between the exponential and Hill models and between
+the log-logistic, log-probit and Weibull models.
+
+Using equation 1, the confidence intervals of the RPFs were derived by
+assuming the BMD confidence intervals are approximately lognormally
+distributed. For all endpoints and chemicals, except PFDoA in absolute
+liver weight, the ratio BMD/BMDL was equal to BMDU/BMD, indicating
+that the lognormality assumption is plausible. The standard deviation on
+log-scale is then derived for chemical i as:
+
+                                                             𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝑖𝑖
+                                                    𝑙𝑙𝑙𝑙 �              �
+                                                              𝐵𝐵𝐵𝐵𝐵𝐵𝑖𝑖
+                                         𝑆𝑆𝑆𝑆𝑖𝑖 =
+                                                             𝑧𝑧(𝑝𝑝)
+
+whereby z(p) is the (p x 100)th percentile of the standard normal
+distribution, here z(0.95) = 1.645, because the BMDU corresponds to
+the 95th percentile of the BMD CI. The lower 5th and upper 95th
+confidence bounds (RPF LB and RPF UB) of the RPF are derived as
+(Weisstein, 2017):
+
+                                                                              2
+                   𝑅𝑅𝑅𝑅𝐹𝐹 𝐿𝐿𝐿𝐿𝑖𝑖 = exp �𝑙𝑙𝑙𝑙(𝑅𝑅𝑅𝑅𝑅𝑅𝑖𝑖 ) − 1.645�𝑆𝑆𝑆𝑆𝑖𝑖2 + 𝑆𝑆𝑆𝑆𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 �
+
+
+and
+
+                                                                              2
+                   𝑅𝑅𝑅𝑅𝐹𝐹 𝑈𝑈𝑈𝑈𝑖𝑖 = exp �𝑙𝑙𝑙𝑙(𝑅𝑅𝑅𝑅𝑅𝑅𝑖𝑖 ) + 1.645�𝑆𝑆𝑆𝑆𝑖𝑖2 + 𝑆𝑆𝑆𝑆𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 �
+
+
+The resulting RPFs and their 90% confidence intervals are reported in
+Figure 8 and Table A8. In general, the RPFs based on absolute and
+relative liver weight are similar, and the RPFs based on hypertrophy are
+below those based on liver weight. For PFDoA, no RPF could be derived
+based on the absolute liver weight, and for PFOS no RPF could be derived
+based on hypertrophy. Since the set of RPFs derived from relative liver
+weight is the most complete set, the use of the RPFs derived from this
+endpoint is suggested. Due to the uncertainties in the RPFs, it is
+considered appropriate to round them off to one significant digit:
+
+Perfluorobutanesulfonate (PFBS):                                     0.001
+Perfluorohexanesulfonate (PFHxS):                                    0.6
+Perfluorooctanesulfonate (PFOS):                                     2
+Perfluorobutyrate (PFBA):                                            0.05
+Perfluorohexanoate (PFHxA):                                          0.01
+Perfluorooctanoic acid (PFOA):                                       1
+Perfluorononaoic acid (PFNA):                                        10
+Perfluorodecanoic acid (PFUA):                                       4
+Perfluorododecanoic acid (PFDoA):                                    3
+Perfluorotertadecanoic acid (PFTeDA):                                0.3
+                                                                                           Page 65 of 72
+RIVM Report 2018-0070
+
+
+
+
+Perfluorohexadecanoic acid (PFHxDA):      0.02
+Perfluorooctadecanoic acid (PFOdA):       0.02
+FRD-902                                   0.06
+
+These RPFs are obtained from external doses in oral studies. Part of the
+differences in potency between PFASs may be due to differences in
+bioavailability and/or oral absorption. Therefore, the RPFs can only be
+applied to orally administered external doses. Absorption may be
+different for the individual PFASs when the exposure route changes,
+which would require other (route-specific) RPFs. When considering
+internal exposure (e.g. blood serum levels), possible differences in
+absorption are already accounted for, which also warrants other
+(“internal”) RPFs (van Ede, 2016).
+
+
+
+
+Page 66 of 72
+                  RIVM Report 2018-0070
+
+
+
+
+                  Table A7. Overview of the derived BMD and, between brackets, its BMDL and BMDU in mg/kg bw/day for the three end points and various
+                  models
+                   Absolute liver weight a                   Relative liver weight a                      Hypertrophy b
+Chemical           Exponential       Hill                    Exponential        Hill                      Log-logistic         Log-probit               Weibull
+Perfluorobutane    98.82             104.9                   224.8              232                       354.9                339.6                    396.62
+-sulfonate         (58.8 - 154)      (61.5 - 163)            (162 – 307)        (164 – 321)               (282 - 443)          (279 – 406)              (309 – 492)
+(PFBS, C4)
+Perfluorohexan     0.5262                 0.5472             0.4962                 0.5087                1.221                1.176                    1.2114
+e-sulfonate        (0.294 - 0.865)        (0.302 - 0.9)      (0.338 - 0.698)        (0.341 - 0.73)        (0.879 - 1.63)       (0.866 - 1.57)           (0.9 - 1.57)
+(PFHxS, C6)
+Perfluorooctane    0.1261                 0.1282             0.1409                 0.1452                NA                   NA                       NA
+-sulfonate         (0.0547 - 0.284)       (0.0562 - 0.292)   (0.0931 - 0.21)        (0.0941 - 0.22)
+(PFOS, C8)
+
+Perfluorobutyra    3.15                   3.227              5.345                  5.515                 11.32                10.66                    11.828
+te                 (0.547 – 27.1)         (0.621 - 26.9)     (3.56 - 8.15)          (3.61 – 8.46)         (7.06 - 16)          (7.1 - 15.1)             (8.55 - 15.5)
+(PFBA, C4)
+Perfluorohexan     35.91                  37.43              25.24                  25.82                 66.71                65.67                    62.041
+oate (PFHxA,       (19 - 63.3)            (19.6 - 66.2)      (17.2 – 35.6)          (17.3 - 37)           (50.9 - 86.1)        (48.9 - 86.4)            (46.9 - 83.2)
+C6)
+Perfluorooctano    0.2251                 0.2389             0.2888                 0.2938                0.1193               0.1161                   0.17322
+ic acid (PFOA,     (0.135 - 0.361)        (0.141 - 0.383)    (0.2 - 0.405)          (0.202 - 0.416)       (0.0606 - 0.244)     (0.0615 - 0.227)         (0.0621 - 0.27)
+C8)
+Perfluorononaoi    0.07373                0.07573            0.02146                0.02176               0.08337              0.08208                  0.077551
+c acid (PFNA,      (0.0353 - 0.146)       (0.0352 - 0.154)   (0.0151 - 0.0297)      (0.0152 - 0.0302)     (0.0636 - 0.107)     (0.0611 - 0.108)         (0.0586 - 0.104)
+C9)
+Perfluorodecano    0.0982                 0.1016             0.07781                0.07989               0.2326               0.2314                   0.2232
+ic acid (PFUA,     (0.0462 - 0.199)       (0.0471 - 0.21)    (0.053 - 0.111)        (0.0535 - 0.116)      (0.182 - 0.302)      (0.177 - 0.3)            (0.169 - 0.312)
+C11)
+Perfluorododeca    3.626                  4.028              0.1106                 0.1126                1.243                1.177                    1.1849
+noic acid          (0.461- Inf)           (0.498 – Inf)      (0.0742 - 0.16)        (0.0748 - 0.165)      (0.838 - 1.68)       (0.797 - 1.65)           (0.868 - 1.58)
+(PFDoA, C12)
+Perfluorotertad    1.286                  1.308              1.061                  1.09                  1.583                1.518                    1.4935
+                                                                                                             Page 67 of 72
+                  RIVM Report 2018-0070
+
+
+
+
+ecanoic acid          (0.65 - 2.49)           (0.654 - 2.57)          (0.743 - 1.47)             (0.749 – 1.54)   (1.2 - 1.99)    (1.16 - 1.95)    (1.15 - 1.88)
+(PFTeDA, C14)
+Perfluorohexad        20.13                   21.51                   11.98                      12.38            13.14           12.91            12.208
+ecanoic acid          (12.2 - 31.5)           (12.9 - 33.6)           (8.66 – 15.7)              (8.73 – 16.6 )   (10.2 - 16.5)   (9.81 - 16.6 )   (9.39 - 15.9)
+(PFHxDA, C16)
+Perfluorooctade       15.79                   15.69                   16.7                       17.36            54.49           52.98            60.843
+canoic acid           (6.88 - 32.5)           (7.02 - 33)             (11.2 – 24.4)              (11.6 – 25.3)    (35.7 - 84.7)   (35.9 - 78.9)    (36 - 86.8)
+(PFOdA, C18)
+                      NA                      NA                      4.968                      5.008            NA              NA               NA
+FRD-902                                                               (3.21 – 7.63)              (3.22 – 7.79)
+                  a
+                      BMR is 5% increase in absolute or relative liver weight compared to background
+                  b
+                      BMR is 10% extra risk
+
+
+
+
+                  Page 68 of 72
+RIVM Report 2018-0070
+
+
+
+
+Figure A8. RPFs (and 90% CI) for PFAS. PFOA is used as the reference compound (RPF=1). For each PFAS, three RPFs are derived:
+circles, triangles, X correspond to RPFs based on absolute liver weight, relative liver weight and hypertrophy, respectively. For PFOS, no
+suitable hypertrophy data were available. PFDoA does not show a dose-response in the absolute liver weight data, resulting in a very
+wide confidence interval.
+
+
+
+
+                                                                                                 Page 69 of 72
+RIVM Report 2018-0070
+
+
+
+
+Table A8. RPF values.
+                                                                                  proposed
+                                              RPF LB        RPF UB       RPF
+                                                                                    RPFs
+Absolute liver weight, exponential model
+Perfluorobutanesulfonate (PFBS, C4)         0.00119152    0.00435473    0.0023
+Perfluorohexanesulfonate (PFHxS, C6)        0.21549545    0.84920238    0.4278
+Perfluorooctanesulfonate (PFOS, C8)         0.69779677    4.56658833    1.7851
+Perfluorobutyrate (PFBA, C4)                0.00789152    0.64709689    0.0715
+Perfluorohexanoate (PFHxA, C6)              0.00299717     0.0131102    0.0063
+Perfluorooctanoic acid (PFOA, C8)                                       1.0000
+Perfluorononaoic acid (PFNA, C9)            1.33050546    7.00560848    3.0530
+Perfluorodecanoic acid (PFUA, C11)          0.98005985     5.3613655    2.2923
+                                        a
+Perfluorododecanoic acid (PFDoA, C12)           0             Inf       0.0621
+Perfluorotertadecanoic acid (PFTeDA, C14)   0.07769561    0.39434158    0.1750
+Perfluorohexadecanoic acid (PFHxDA, C16)    0.00583274    0.02143834    0.0112
+Perfluorooctadecanoic acid (PFOdA, C18)      0.0060165    0.03377867    0.0143
+Relative liver weight, exponential model
+Perfluorobutanesulfonate (PFBS, C4)         0.000811128   0.002034756   0.0013     0.001
+Perfluorohexanesulfonate (PFHxS, C6)        0.35999944    0.940977054   0.5820      0.6
+Perfluorooctanesulfonate (PFOS, C8)         1.214851736   3.458192089   2.0497       2
+Perfluorobutyrate (PFBA, C4)                0.031466259   0.092779888   0.0540      0.05
+Perfluorohexanoate (PFHxA, C6)              0.007063863   0.018534182   0.0114      0.01
+Perfluorooctanoic acid (PFOA, C8)                                       1.0000       1
+Perfluorononaoic acid (PFNA, C9)            8.41959714    21.5101595    13.4576     10
+Perfluorodecanoic acid (PFUA, C11)          2.272767566   6.061338303   3.7116       4
+Perfluorododecanoic acid (PFDoA, C12)       1.58267945    4.308153416   2.6112       3
+
+Page 70 of 72
+RIVM Report 2018-0070
+
+
+
+
+                                                                                                                            proposed
+                                                                 RPF LB                 RPF UB                RPF
+                                                                                                                              RPFs
+Perfluorotertadecanoic acid (PFTeDA, C14)                    0.170167289             0.435399103            0.2722             0.3
+Perfluorohexadecanoic acid (PFHxDA, C16)                     0.015634994             0.037169185            0.0241            0.02
+Perfluorooctadecanoic acid (PFOdA, C18)                       0.01040483             0.028742626            0.0173            0.02
+FRD-902                                                      0.033663443             0.10038589             0.0581            0.06
+
+Hypertrophy, Log-logistic model
+Perfluorobutanesulfonate (PFBS, C4)                           0.00015889             0.00071109             0.00034
+Perfluorohexanesulfonate (PFHxS, C6)                          0.04515023             0.21137028             0.09769
+                                                b
+Perfluorooctanesulfonate (PFOS, C8)                                 NA                     NA                  NA
+Perfluorobutyrate (PFBA, C4)                                  0.00475954             0.02334449             0.01054
+    Perfluorohexanoate (PFHxA, C6)                            0.00083632             0.00382224             0.00179
+Perfluorooctanoic acid (PFOA, C8)                                                                           1.00000
+    Perfluorononaoic acid (PFNA, C9)                          0.67045033             3.05279019             1.43064
+Perfluorodecanoic acid (PFUA, C11)                            0.23935763             1.09829552             0.51272
+Perfluorododecanoic acid (PFDoA, C12)                          0.0441362             0.20853956             0.09594
+Perfluorotertadecanoic acid (PFTeDA, C14)                     0.03553772              0.1596851             0.07533
+Perfluorohexadecanoic acid (PFHxDA, C16)                      0.00428259             0.01922976             0.00907
+Perfluorooctadecanoic acid (PFOdA, C18)                       0.00094438             0.00507459             0.00219
+a
+  PFDoA does not show a dose-response in the absolute liver weight data, resulting in a very wide confidence interval.
+b
+  No hypertrophy data available
+
+
+
+
+                                                                                                            Page 71 of 72
+RIVM Report 2018-0070
+
+
+
+
+References of annex
+Bokkers BGH and Slob W (2005). A comparison of ratio distributions
+     based on the NOAEL and the benchmark approach for subchronic-
+     to-chronic extrapolation. Toxicological Sciences 85, 1033-40.
+Bokkers BGH and Slob W (2007). Deriving a data-based interspecies
+     assessment factor using the NOAEL and the benchmark dose
+     approach. Critical Reviews in Toxicology 37, 355-373.
+Bosgra S, van der Voet H, Boon PE and Slob W (2009). An integrated
+     probabilistic framework for cumulative risk assessment of common
+     mechanism chemicals in food: an example with organophosphorus
+     pesticides. Regulatory Toxicology and Pharmacology 54, 124-33.
+EFSA (2017). Update: Guidance on the use of the benchmark dose
+     approach in risk assessment. EFSA Journal 15, 4658.
+Haas MC, A 90-day Oral (Gavage) Toxicity Study of H-28548 in Rats
+     with a 28-day Recovery (Study No. Wil-189216), WIL Research
+     Laboratories, LLC, Ashland, OH, 2009.
+Van den Berg M, Peterson RE and Schrenk D (2000). Human risk
+     assessment and TEFs. Food Additives & Contaminates 17, 347-58.
+Van den Berg M, Birnbaum LS, Denison M, De Vito M, Farland W, Feeley
+     M, Fiedler H, Hakansson H, Hanberg A, Haws L, Rose M, Safe S,
+     Schrenk D, Tohyama C, Tritscher A, Tuomisto J, Tysklind M,
+     Walker N and Peterson RE (2006). The 2005 World Health
+     Organization re-evaluation of human and Mammalian toxic
+     equivalency factors for dioxins and dioxin-like compounds.
+     Toxicological Sciences 93, 223-41.
+Van Ede KI, van Duursen MB and van den Berg M (2016). Evaluation of
+     relative effect potencies (REPs) for dioxin-like compounds to derive
+     systemic or human-specific TEFs to improve human risk
+     assessment. Archives of Toxicology 90, 1293-305.
+Weisstein, EW (2017) "Normal Difference Distribution." From
+     MathWorld--A Wolfram Web Resource.
+     http://mathworld.wolfram.com/NormalDifferenceDistribution.html.
+     Last accessed on Nov. 30, 2017
+
+
+
+
+Page 72 of 72
+RIVM
+Committed to health and sustainability ­
+

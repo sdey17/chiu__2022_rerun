@@ -1,0 +1,806 @@
+pmc Ann Work Expo Health Ann Work Expo Health 3189 annweh 101698454 annhyg Annals of Work Exposures and Health 2398-7308 2398-7316 Oxford University Press PMC10119700 PMC10119700.1 10119700 10119700 36715212 10.1093/annweh/wxac095 wxac095 1 Original Articles AcademicSubjects/MED00640 Historical Trend of Exposure to Perfluoroalkyl Surfactants PFOA, ADV, and cC 6 O 4 and its Management in Two Perfluoroalkyl Polymers Plants, Italy https://orcid.org/0000-0002-0287-7338 Fustinoni Silvia 
+ Toxicology Lab, Department of Clinical Sciences and Community Health, University of Milan , via S. Barnaba, 8 - 20122, Milano , Italy 
+ Fondazione IRCCS Ca’ Granda Ospedale Maggiore Policlinico , Via Francesco Sforza, 35 – 20122, Milan , Italy https://orcid.org/0000-0002-8935-3843 Consonni Dario 
+ Fondazione IRCCS Ca’ Granda Ospedale Maggiore Policlinico , Via Francesco Sforza, 35 – 20122, Milan , Italy Author to whom correspondence should be addressed. Tel: +39-0-25-03-20-158; e-mail: silvia.fustinoni@unimi.it 5 2023 28 1 2023 67 4 433999 518 535 22 7 2022 17 12 2022 28 01 2023 22 04 2023 22 09 2025 © The Author(s) 2023. Published by Oxford University Press on behalf of the British Occupational Hygiene Society. 2023 https://creativecommons.org/licenses/by-nc/4.0/ This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License ( https://creativecommons.org/licenses/by-nc/4.0/ ), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com 
+
+## Abstract
+
+## Objectives
+ Perfluoroalkyl acid surfactants are used in the chemical industry for the synthesis of perfluoroalkyl polymers. In one Italian fluoropolymer plant and in the research and innovation center, two major perfluoroalkyl surfactants have been historically used: PFOA and ADV and a third, cC 6 O 4 substituted PFOA from mid-2013. This work is summarizing occupational exposure to these chemicals in the period 2004–2021, assessed by biological monitoring. Moreover, taking advantage of the phasing out of PFOA, the elimination kinetics of PFOA in humans is investigated.
+
+## Methods
+ Workers exposed to PFOA (from beginning of the sixties to 2013), ADV (since 1996), and/or cC 6 O 4 (since 2012) in the production of fluoropolymers, in the synthesis, research, and analysis, were periodically surveyed from 2004, measuring the concentration of perfluoroalkyl acid surfactants in serum. Workers of the same plants, not directly exposed, were surveyed as well. Applying the first-order kinetics model, the half-life of PFOA was calculated.
+
+## Results
+ 809 Workers were investigated with measurements of PFOA ( n = 3692), ADV ( n = 4288) and cC 6 O 4 ( n = 2272) in serum. In the production plant, median PFOA ranged from 1900 to 14 µg/l from 2004 to 2021; median ADV ranged from 434 to 86 µg/l from 2011 to 2021. For cC 6 O 4 the detection percentage ranged from 9 to 47%; in detected samples median cC 6 O 4 ranged from 3 to 16 µg/l in the period 2013–2021. Adopted mitigation measurements included: the phasing out of PFOA, the improvement of the plastomer and elastomer post-treatments; the reinforcement of the staff involved in prevention. Decreasing trends were observed for all chemicals along years ( P value for linear trend of means < 0.01). For PFOA, a half-life of 3.16 (95% CI 2.98–3.37) years was calculated.
+
+## Conclusions
+ In the study plants, several initiatives to reduce exposure and the risk associated with perfluoroalkyl surfactants were undertaken; results of biomonitoring show that they were effective, with a 5- to 136-fold reduction in the concentration of perfluoroalkyl compounds in the serum of workers.
+
+ ADV cC 6 O 4 half-life of PFOA occupational exposure perfluoroalkyl surfactants PFOA serum biomonitoring 
+ Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico 10.13039/501100009702 
+ pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access yes pmc-prop-olf no pmc-prop-manuscript no pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement yes pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes pmc-license-ref CC BY-NC 
+
+## What’s Important About This Paper
+
+ This study reports on serum biological monitoring of perfluoroalkyl chemicals (PFOA, ADV, and cC6O4) among workers of the fluoropolymer industry, 2004–2021. A decreasing trend was observed over time, coinciding with improved industrial hygiene practices and other initiatives. After the phase-out of PFOA, the half-life was determined to be 3.16 years. This is the first study to report exposures to cC 6 O 4 , a replacement for PFOA and ADV.
+
+## Introduction
+ PFOA (pentadecafluorooctanoic acid, CAS 335-67-1), ADV, a polymerization reaction mass of perfluoropolyether carboxylic acids containing multiple isomers (1-propene, 1,1,2,3,3,3-hexafluoro-, telomer with 1-chloro-1,2,2-trifluoroethene, oxidized, reduced, hydrolyzed, ammonium salts, CAS 330809-92-2), and cC 6 O 4 (acetic acid, 2,2-difluoro-2-[[2,2,4,5-tetrafluoro-5-(trifluoromethoxy)-1,3-dioxolan-4-yl]oxy]-, ammonium salt (1:1) CAS 1190931-27-1) are perfluoroalkyl acid surfactants used or past used in aqueous emulsions for the synthesis of plastomer and elastomer fluoropolymers in the chemical plant of Solvay S.p.A., located in Spinetta Marengo (AL), Italy. They are also used for research and development purposes in the Solvay research center of Bollate (MI), Italy.
+ Considering PFOA, several researches were performed to investigate different aspects of toxicity; a recent review comments on the PFOA literature regarding thyroid disorders, cancer, immune, and auto-immune disorders, liver disease, hypercholesterolemia, reproductive outcomes, neurotoxicity, and kidney disease ( Steenland et al. , 2020 ). In 2016, the WHO International Agency for Research on Cancer classified PFOA in group 2B, as a possible carcinogen to human ( IARC, 2016 ). Referring to the harmonized classification and labelling (ATP05) approved by the European Union, PFOA may damage the unborn child (H360D), causes damage to liver through prolonged or repeated exposure (H372), is harmful if swallowed (H302), causes serious eye damage (H318), is harmful if inhaled (H332), is suspected of causing cancer (H351) and may cause harm to breast-fed children (H362) ( ECHA , Perfluorooctanoic acid). The half-life of PFOA in humans is about 3.5 years ( Olsen et al , 2007 ). In the environment, PFOA is persistent, bioaccumulative and toxic (PBT). Due to these properties, perfluorooctanoic acid (PFOA), its salts and related compounds have been banned since 2020 under the Persistent Organic Pollutants (POPs) Regulation No 2019/1021 [ Regulation (EU) No 2019/1021 and Commission Delegated Regulation (EU) 2020/784 ], with the aim to avoid exposure of EU citizens and the environment. Given the relevant toxicological and eco-toxicological properties of PFOA, Solvay voluntarily abandoned its use in 2013.
+ ADV is not registered to the ECHA, as it falls under the definition of a polymer according to art. 3 of the Registration, Evaluation, Authorization, and Restriction of Chemicals (REACH) regulation ( Regulation (EC) No 1907/2006 ). The hazard properties of ADV were investigated and a dossier on classification, labelling and packaging [CLP, Regulation (EC) No 1272/2008 ] is available for public consultation ( ECHA , Summary of Classification and Labelling, Notified classification and labelling, 1-Propene, 1,1,2,3,3,3-hexafluoro-, telomer with chlorotrifluoroethene, oxidized, reduced, hydrolyzed ammonium salts) reporting the classification of the substance. Accordingly, ADV is classified as toxic if swallowed (H301), toxic in contact with skin (H311); moreover, it causes damage to organs (liver, lungs) through prolonged or repeated exposure (oral) (H372). It is toxic to aquatic life with long lasting effect (H411). ADV has been produced in the plant of Spinetta Marengo since the nineties of the last century and applied in the synthesis of plastomers and elastomers since 1996.
+ Considering cC 6 O 4 , this chemical was developed as a new polymerization surfactant to overcome the hazard issues associated with PFOA, mostly biopersistency. Indeed, toxicokinetics studies in rats provided evidence of a short half-life in serum (4–7 h), with the majority of the excretion via urine occurring usually within 24 h, and no evidence of biotransformation and bioaccumulation ( ECHA , Registration dossier, Acetic acid, 2,2-difluoro-2-[[2,2,4,5-tetrafluoro-5-(trifluoromethoxy)-1,3-dioxolan-4-yl]oxy]-, ammonium salt (1:1)). According to CLP [ Regulation (EC) No 1272/2008 ] cC 6 O 4 was classified as harmful if swallowed (H302), able to cause skin irritation and serious eye damage (H315 and H318); moreover, it may cause damage to organs (liver) through prolonged or repeated exposure (oral) (H373). The substance is anticipated to not bioaccumulate and to not exert toxic effects in the aquatic organisms; it is considered neither a PBT nor a vPvB substance. cC 6 O 4 has been produced since 2012 and increasingly used in the synthesis of plastomers and elastomers; in addition to having replaced PFOA, today it is the candidate for the substitution of ADV in all processes.
+ Human biological monitoring of exposure is a powerful tool to assess chemical exposure, integrating all exposure routes and sources, and taking into consideration characteristics of individuals ( Hopf and Fustinoni, 2021 ). Given the stability to biotransformation of perfluoroalkyl substances, biomonitoring is performed measuring the untransformed chemicals in serum. For example, concentrations of PFOA in the range of few to ten thousand µg/l were measured in workers involved in its synthesis and the production of fluoropolymers ( Olsen and Zobel, 2007 , Costa et al. , 2009 ; Woskie et al. , 2012 ). Much lower concentrations, in the range of few µg/l, were reported in the general population with a decreasing trend along the years. For example, a median level PFOA in serum of 3.7 (from < 0.1 to 77.2) µg/l was measured in the period 2003–2004 by the NHANES program ( Calafat et al. , 2007 ); this decreased to 1.8 µg/l in the 2013–2014 survey ( Dong et al. , 2019 ). No data is available for ADV. For cC 6 O 4 , biomonitoring data of workers of Miteni S.p.A, Trissino, Italy, was reported in a technical report, with serum concentrations ranging from 0.5 to 932 µg/l ( Girardi et al. , 2018 ).
+ This work reports the results of several surveys performed from 2004 until 2021 in the frame of occupational health and safety activities to assess exposure to PFOA, ADV, and cC 6 O 4 in workers of the Italian plants of Solvay S.p.A, where these chemicals were or/and are used in research, development, and production of fluorinated polymers. While PFOA was widely produced and used all over the world, the use of ADV is limited to the Solvay company. We think it useful to provide results on this chemical, also considering that, the half-life of ADV is similar to that of PFOA. Similarly, the short half-life of cC 6 O 4 was among the reasons for introducing it in the polymerization processes; however, kinetics data were obtained in experimental studies on rats, and it’s important to document its behaviour in humans. Exposure was evaluated by biomonitoring, measuring the unmodified chemicals in plasma. The efforts undertaken to improve the occupational hygiene practices at the workplace and decrease exposure are also documented. Taking advantage of the phase-out of PFOA since mid-2013, an elimination kinetics study was performed and the half-life of PFOA was calculated.
+
+## Methods
+ The surveyed workers were employees of the chemical plant of Spinetta Marengo (AL) and the research center of Bollate (MI), where PFOA, ADV, and cC 6 O 4 are used or past used as surfactants for research and development purposes and/or for the synthesis of fluorinated polymers including plastomers and elastomers.
+ The biological monitoring surveillance started in 2004 for PFOA, in 2011 for ADV and in 2013 for cC 6 O 4 . At the end of 2021 a total of 611 workers (550 males and 61 females) in the plant of Spinetta Marengo and 198 workers (145 males and 53 females) in the research center of Bollate were involved in the survey.
+ The biological monitoring activity was performed annually (typically in February) in the frame of the occupational health and safety surveillance, according to the Italian law for the safety and health at workplaces ( Decreto Legislativo 81 del 9 Aprile 2008 ), under the responsibility of the occupational plant physicians; the workers signed an informed consent to agree to the survey.
+ Blood samples (about 5 ml) were collected in the infirmary of the sites, from the cubital vein in a tube with heparin as anticoagulant. Samples were centrifuged on site to separate plasma, within 1 hour after collection. Plasma samples were refrigerated at—20°C and sent in a refrigerated box to the laboratory for the analysis.
+
+## Plants, departments, and SEG
+
+## Spinetta Marengo chemical plant
+ In the chemical plant of Spinetta Marengo, the following departments are present: Plastomers, hereinafter divided in Plast1 and Plast2, Elastomers (Elast), Fluids (Fluids), Perfluoro Vinyl Ether (PFVE), Research, Quality and Control laboratories, Maintenance, General Services, Administration, Basic Chemistry, Monomers, Effluent Treatment, and Cogeneration.
+ Workers of departments where a direct exposure (E) to the perfluoroalkyl acid surfactants was/is present were classified in a similar group of exposure (SEG); workers of other departments in which only occasional exposure (OE) or no direct exposure (NE) to perfluoroalkyl acid surfactants was/is expected, were grouped together, as briefly summarized below and showed in Table 1 .
+ Table 1.
+ Classification of workers exposed to PFOA, ADV, cC 6 O 4 by plant and SEG.
+
+ Plant
+ SEG
+ 2004
+ 2005
+ 2006
+ 2007
+ 2008
+ 2009
+ 2010
+ 2011
+ 2012
+ 2013
+ 2014
+ 2015
+ 2016
+ 2017
+ 2018
+ 2019
+ 2020
+ 2021
+
+ Spinetta Marengo chemical plant (SM)
+ Plast1
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+
+ Plast2
+ PFOA
+ PFOA
+ PFOA
+ PFOA
+ PFOA
+ PFOA
+ PFOA
+ PFOA
+ PFOA cC 6 O 4 
+ PFOA cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+
+ Elast
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+
+ Fluids
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+
+ PFVE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+ cC 6 O 4 
+
+ Maintenance, General services
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+ NE/OE
+
+ MixSM
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+
+ Bollate research center (BL)
+ Pilot
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+ ADV cC 6 O 4 
+
+ Labs
+ OE
+ OE
+ OE
+ OE
+ OE
+ OE
+ OE
+ OE
+ OE
+ OE
+ OE
+ OE
+ OE
+ OE
+ OE
+ OE
+ OE
+ OE
+
+ MixBL
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+ NE
+
+ PFOA, exposure to PFOA; ADV, exposure to ADV; PFOA/cC 6 O 4 , co-exposure to PFOA and cC 6 O 4 ; ADV/cC 6 O 4 , co-exposure to ADV and cC 6 O 4 ; cC 6 O 4 , exposure to cC 6 O 4 ; NE/OE, no exposure and/or occasionally exposure to all perfluoroalkyl surfactants; NE, no exposure; MixSM, administration, basic chemistry, monomers, cogeneration, effluent treatment of the Spinetta Marengo plant; MixBL, administration, technical services of the Bollate research center.
+
+## Plast1 SEG.
+ This includes workers of the Plast1 department, where there is the synthesis of a melt-processable perfluoroalkoxy fluorocarbon resin. In this synthesis, ADV has been used as surfactant since the nineties. From 2019 the use of cC 6 O 4 has been added with the aim of gradually replacing ADV. Workers of this department, together with those of the dedicated quality control laboratory, were grouped in the Plast1 SEG.
+
+## Plast2 SEG.
+ This includes workers of the Plast2 department, where there is the synthesis of a high-molecular-weight thermoplastic grade of PTFE. In this synthesis PFOA (in the form of ammonium salt) was used as the surfactant until 2011; in 2012 cC 6 O 4 was added to PFOA and from mid-2013 it replaced PFOA. Workers of this department, together with those of the dedicated quality control laboratory and of the Research department, were grouped in the Plast2 SEG.
+
+## Elast SEG.
+ This includes the workers of the Elast department, where there is the production of the fluoroelastomers and perfluoroelastomers synthetic rubbers. In this synthesis ADV has been used as the surfactant since the nineties; starting from 2019 the experimental phase was launched to use cC 6 O 4 with the aim of gradually replacing ADV, until the non fluoro surfactant technology will be developed. Workers of this department, together with those of the dedicated quality control laboratory, were grouped in the Elast SEG.
+
+## Fluids SEG.
+ In the nineties, the synthesis of ADV started in the Fluids department. From 2019, in this department the final steps of the synthesis of cC 6 O 4 is also carried out. Workers of this department, together with those of the dedicated quality control laboratory, were grouped in the Fluids SEG.
+
+## PFVE SEG.
+ In the PFVE department, from 2012 there are the major steps of the synthesis of cC 6 O 4 . Workers of this department, together with those of the dedicated quality control laboratory, were grouped in the PFVE SEG.
+ Workers of the departments Maintenance and General services, for which occasionally exposure (OE) or no exposure (NE) was expected, were grouped together and classified as NE/OE. Workers of the Administration, Basic chemistry, Monomers, Effluent treatment, and Cogeneration, for which no exposure was expected, and can be considered as internal controls, were grouped together, named MixSM, and classified as NE.
+
+## Bollate Research Center
+ In the Bollate Research Center, the workers included in the biological monitoring of the exposure to perfluoroalkyl acid surfactants were only a fraction of the workforce. Surveyed workers were: those involved in the pilot plants (pilot) classified as exposed to ADV or ADV/cC 6 O 4, according to their use in the process development; workers performing laboratory analysis for the whole research center, and occasionally analysing pilot plants products (labs), classified as occasionally exposed (OE);. workers not directly involved in chemicals handling, such as the Administration and the Technical services, were grouped together, named MixBL, and classified as NE; these workers can be considered as internal controls.
+ In Table 1 , the plant areas with their SEG and groups are depicted. In some SEGs, exposure was changing over time, mostly reflecting the phasing out of PFOA and the increasing use of cC 6 O 4 .
+
+## Analytical measurements of serum PFOA, ADV, and cC 6 O 4 
+ The analytical work was performed by the laboratory Medizinisches Labor Bremen (Bremen, Germany).
+ PFOA (purity > 98%) was purchased by Aldrich and dissolved in methanol and acetonitrile for the preparation of stock and working solutions. ADV is a polymerization reaction mass of perfluoropolyether carboxylic acids, represented by the general formula Cl(C 3 F 6 O) n (C 2 F 4 O)mCF 2 COOH (where 2 < n <5, m = 0 or 1). The six main components of this mixture were isolated by distillation, purified in form of sodium salts (purity ≥ 98% w/w) and provided to the laboratory by Solvay S.p.A. (see more details on the fractions of ADV, their names, formulas, and molecular weights in the Supplementary Table S7 and in the chromatogram of Fig. S1 ); methanol and the mixture acetonitrile/water were used to prepare the working solutions. cC 6 O 4 as ammonium salt (purity ≥ 98% w/w) was prepared in aqueous solution (37.6% w/w) by Solvay S.p.A. and provided to the laboratory; methanol and acetonitrile were used to prepare the working solutions. 13 C 2 -PFOA was used as internal standard for both PFOA and cC 6 O 4 ; perfluoro nonanoic acid ( 13 C 5 -PFNA) was used as internal standard for ADV. For both internal standard solutions, the concentration was 2000 µg/l.
+ Before analysis, each plasma sample was equilibrated at room temperature for 24 h. The sample was vortexed and 750 µl of acetonitrile and 25 µl of the internal standard solution were added. Proteins were precipitated and separated by centrifugation. 500 µl of the clear supernatant solution was transferred to an autosampler vial. The chromatographic separation was achieved with a liquid chromatograph (1290 Agilent, Waldbronn, Germany) equipped with a Synergy 4 µm Max-RP 80A column (150 mm length × 2.0 mm internal diameter, 4 µm particle size, Phenomenex) using methanol (Eluent A) and 2 mM NH 4 OAc in 5% methanol at pH 5 (Eluent B), at a flow rate of 0.4 mL/min (see typical chromatograms of an exposed individual in Supplementary Fig. S2 , panel A for PFOA and cC 6 O 4 , and panel B for the ADV fractions). Detection was performed using a triple quadrupole mass spectrometer (6495 Agilent, Waldbronn, Germany) equipped with an electrospray source, operating in the negative ionisation mode. The quantification was based on multiple reaction monitoring of selected transitions and was performed preparing calibration curves with matrix-matched calibration solutions. The method was validated according to international guidelines for bioanalytical methods ( FDA, 2018 ; EMA, 2009 ; EURACHEM, 2012 ). Briefly, the intra- and inter-day precision of the method, assessed as a percent coefficient of variation, was less than 15% over the entire calibration range and less than 20% at the lower limit of quantification (LLOQ); accuracy was between 90 and 110% of theoretical values; LLOQ for PFOA and ADV was 5 µg/l, for cC 6 O 4 it was 5 µg/l in 2013, lowered to 2.5 µg/l from 2014 to 2017 and then lowered again to 1 µg/l from 2018. The absence of interference was also verified.
+
+## Risk management and mitigation measures
+ The summary of risk management and mitigation measures undertaken along the years to reduce the chemical risk associated with the use of perfluoroalkyl acid surfactants are summarized in Table 2 , following the hierarchy of control in the industrial hygiene domain according to the Italian Law for the safety and health at workplaces (D.Lgs. 81/2008). More attention was devoted to the identification and solution of technical problems associated with the dispersion of chemicals; only in the case of residual risks, the use of respiratory protective equipment was implemented.
+ Table 2.
+ Technological and organizational mitigation measures implemented starting from the year 2000 to reduce exposure to perfluoroalkyl surfactants by plant and SEG. Besides the specific interventions described below for each SEG, for all workers an improved and reiterated training campaign for increasing awareness toward the risks associated with chemical exposure and reinforcing the capability of self-contributing in the reduction of personal exposure was organized. In addition, for the most exposing tasks, the use of personal respiratory protective equipment (half or full-face mask with organic vapour filter) was introduced.
+
+ Plant
+ SEG
+ 2000–2004
+ 2005–2009
+ 2010–2014
+ 2015–2019
+
+ All
+ All
+ Improvement in toxicological knowledge of fluorosurfactants; Establishment of internal OELs (occupational exposure limits); Development of sampling and analytical techniques for setting up industrial hygiene monitoring campaigns
+
+ Spinetta Marengo chemical plant (SM)
+ Plast1
+ Segregation of the existing ovens dedicated to dry plastomer powder. Improvement of the local and general ventilation
+ Starting from 2019 introduction of cC 6 O 4 in the polymerization to gradually replace ADV
+
+ Plast2
+ Mind-set changes in the use of PFOA and first improvements to reduce exposure
+ New post treatment line for powder with segregated and aspirated areas Improvement of segregation in the polymerization area
+ In 2013 phase-out PFOA and introduction of cC 6 O 4 in the polymerization
+
+ Elast
+ Improvements of the local and general ventilation Implementation of administrative measures (i.e. personnel rotation in different tasks in the post-treatment line)
+ New close post-treatment line for the grades polymerized with ADV The old post treatment line fully dedicated to the grades polymerized without ADV Starting from 2019 introduction of cC 6 O 4 in the polymerization to gradually replace ADV
+
+ Fluids
+ Synthesis of ADV in closed circuits
+ Starting from 2019 intermediate step of the cC 6 O 4 synthesis in closed circuit
+
+ PFVE
+ Synthesis of cC 6 O 4 in closed circuits
+
+ Maintenance, General services
+ Purging of pipes/equipment before maintenance
+
+ Bollate research center (BL)
+ Pilot
+ Synthesis in closed systems Post treatments under local and general ventilation.
+
+ Labs
+ All activities carried out under local and general ventilation
+
+ For all exposed workers: an improved and reiterated training campaign for increasing the awareness toward the risks associated with chemical exposure, and reinforcing the capability of self-contributing in the reduction of personal exposure was organized.
+
+## Elimination kinetics of PFOA
+ For the study on the elimination kinetics, only biomonitoring data from workers of the Plast2 plant of Spinetta Marengo hired before 2013 and with at least two measurements were included, as they were those with the direct and highest occupational exposure to PFOA. The elimination decay was evaluated starting from 2013, representing the initial time t 0 , as this was the last year before the phase-out of PFOA. The first-order kinetics model was applied to evaluate the elimination kinetics of PFOA, as previously reported ( Olsen et al. , 2007 ). The kinetic constant k was derived as the slope of the linear regression obtained plotting the natural logarithm of the ratio between the PFOA concentration at any time C , vs. the PFOA concentration at t 0 , C 0 , on the y -axis, vs. the time elapsed since t 0 , t on the x -axis, according to the equation (1).
+
+ ln ⁡   C C 0 =   − k   t 
+ [1]
+
+ The half-life of PFOA ( t 1/2 ) was obtained applying the equation (2), obtained when the concentration C was halved its initial value, and therefore C   C 0 = 2 
+
+ t 1 / 2 = ln ⁡ 2 k 
+ [2]
+
+ Based on the 95% confidence interval of k , the 95% confidence interval of the t 1/2 was also evaluated.
+
+## Statistical analysis
+ The concentrations of PFOA, ADV, and cC 6 O 4 in serum were described using the number of samples, the number and percentage of quantifiable samples (share of values being higher than the lower limit of quantification, LLOQ), median and maximum values. Results of groups with <5 subjects were removed from tables, due to their scarce informative content and the possibility to identify individuals. The data were log e -normally distributed and were also described using box-plots. For PFOA and ADV, concentrations below the LLOQ were substituted with LLOQ/2. For cC 6 O 4 , for which a high percentage of not quantifiable samples was found, statistics were calculated only using data from quantifiable samples (>LLOQ).
+ To assess exposure trends over the years and to calculate half-life we used random-intercept linear regression models to take into account intra-subject correlation. We performed sensitivity analyses of exposure trends by including only workers with measurements in 2, 3, 4, 5, or 6 consecutive years. The potential effect modification of half-life by age, sex, and body mass index were analysed by introducing product (interaction) terms in the regression models and by calculating Wald tests.
+ We evaluated the effect of mitigation measures on PFOA and ADV plasma levels by comparing the concentration slopes over time during and after introduction of organizational and technical preventive changes. More specifically, we first fitted separate models in the two periods (2004–2009 and 2010–2013 for PFOA (because phase-out of PFOA occurred in 2013), 2011–2014 and 2015–2021 for ADV. We then fitted a unique regression model containing the main effects (period and year) and period–year interaction (product) terms with them and calculated the associated global sWald test. We analysed the whole production plant and also selected SEG were major use of a chemical is/was present and/or the mitigation measures were specifically introduced. They were Plast2 for PFOA and Plast1 and Elast for ADV. We did not perform similar analyses for cC 6 O 4 because of the small proportion of detectable concentrations and because the LLOQ changed over the years.
+ Statistical analyses were performed with Stata 17 (StataCorp. 2021).
+
+## Results
+
+## Study subjects
+ In Table 3 , the summary of personal characteristics of study workers are reported. Briefly, 809 workers, 695 males, and 114 females, were surveyed over 18 years, from 2004 to 2021. The mean value of workers with blood sampling per year was 298, the large majority of workers were males (88%). Most of them were from the chemical plant of Spinetta Marengo ( n = 252), and fewer from the Bollate research center ( n = 58). Their age was changing over time and the mean value and range at first and last blood sampling was 36 (from 19 to 64) and 43 (from 20 to 71) years old. Considering the two plants and the different SEG, the largest worker group was Maintenance, General Services of Spinetta Marengo ( n = 68) classified as OE/NE. Among SEG with direct exposure to perfluoroalkyl acid surfactants, the largest group of workers with blood sampling per year was Plast2 ( n = 64); the second was Elast ( n = 44). In both facilities of Spinetta Marengo and Bollate, a group of non-exposed workers (NE), named MixSM ( n = 26) and MixBL ( n = 46), that can be considered as internal controls, was identified. Workers were employed for a mean of 16 years at the time of surveys; their exposure to perfluoro alkyl surfactants was assessed for a mean of 6.6 times, with a maximum of 17 times for workers of Plast2 and Elast departments.
+ Table 3.
+ Summary of personal characteristics of study workers by plant and SEG, 2004–2021. Average (minimum–maximum) values are shown.
+
+ Plant
+ SEG
+
+ n Workers per year
+ Males (%)
+ Age at first blood sampling
+ Age at last blood sampling
+ Years of employment at blood sampling
+
+ n Blood samplings per worker
+
+ Spinetta ­Marengo chemical plant (SM)
+ Plast1
+ 17 (3–31)
+ 88
+ 32 (20–53)
+ 40 (21–60)
+ 15 (1–36)
+ 7.8 (1–16)
+
+ Plast2
+ 64 (2–86)
+ 89
+ 31 (20–56)
+ 43 (22–62)
+ 13 (0–34)
+ 11.5 (1–17)
+
+ Elast
+ 44 (7–79)
+ 96
+ 28 (19–58)
+ 35 (20–59)
+ 12 (0–37)
+ 6.7 (1–17)
+
+ Fluids
+ 34 (1–64)
+ 82
+ 34 (20–54)
+ 42 (23–60)
+ 16 (1–44)
+ 8.2 (1–16)
+
+ PFVE
+ 19 (1–30)
+ 99
+ 40 (21–54)
+ 46 (22–62)
+ 19 (1–35)
+ 6.1 (1–10)
+
+ Maintenance, General services
+ 68 (7–141)
+ 91
+ 40 (20–62)
+ 46 (20–67)
+ 17 (0–43)
+ 5.9 (1–16)
+
+ MixSM
+ 26 (1–58)
+ 92
+ 42 (20–64)
+ 48 (21–71)
+ 20 (1–44)
+ 5.5 (1–17)
+
+ Total SM
+ 252 (2–469)
+ 90
+ 35 (19–64)
+ 43 (20–71)
+ 15 (0-44)
+ 7.5 (1–17)
+
+ Bollate ­research ­center (BL)
+ Pilot
+ 22 (1–50)
+ 81
+ 36 (22–58)
+ 41 (22–59)
+ 14 (1–41)
+ 4.9 (1–14)
+
+ Labs
+ 10 (5–18)
+ 60
+ 42 (24–59)
+ 46 (24–64)
+ 17 (1–38)
+ 4.3 (1–9)
+
+ MixBL
+ 46 (20–90)
+ 67
+ 41 (20–63)
+ 44 (22–68)
+ 17 (0–39)
+ 3.4 (1–9)
+
+ Total BL
+ 58 (1–151)
+ 71
+ 40 (20–63)
+ 43 (22–68)
+ 16 (0–41)
+ 4.0 (1–14)
+
+ Total SM + BL
+ 298 (2–620)
+ 88
+ 36 (19–64)
+ 43 (20–71)
+ 16 (0–44)
+ 6.6 (1–17)
+
+## Biological monitoring
+ Altogether, biological monitoring involved 809 workers over 18 years, of which 611 workers (550 males and 61 females) of the chemical plant of Spinetta Marengo, and 145 workers of the research center of Bollate (145 males and 53 females). The summary of the number of samples per year, the number of quantifiable samples ( n > LLOQ), the percentage of quantifiable samples (% > LLOQ), median and maximum concentrations of serum PFOA, ADV, and cC 6 O 4 over the investigated period is reported in Supplementary Tables S1–S6 and in Fig. 2 .
+
+## Exposure to PFOA
+ Altogether, 3692 measurements of PFOA in serum were performed from 2004 to 2021. Measurements were mostly performed in Spinetta Marengo, 3345, and only 347 in Bollate. Details of biomonitoring data divided per year are given in Supplementary Table S1 for workers of Spinetta Marengo and in Supplementary Table S2 for workers of Bollate.
+ In Spinetta Marengo, the large majority of samples ( n = 1083) was collected in workers of Plast2, where the largest percentage of quantifiable samples was found (99%) and the highest levels of PFOA were observed, with overall median 557 µg/l and maximum 19 920 µg/l. Workers of this department were exposed to PFOA until mid-2013. In the other SEG, the percentage of quantifiable samples ranged from 61% in PFVE to 94% in Plast1, with median levels about one order of magnitude lower ( Fig. 1 ). Considering the trend along the years, a general decreasing of PFOA in serum was observed ( P < 0.001 for the trend of the means) with an initial median of 1900 µg/l in 2004 and a final median of 14 µg/l in 2021. In Plast2 workers, PFOA in serum began to decrease from the beginning of the survey, when PFOA was in still use, passing from a median level of 2900 µg/l in 2004 to 740 µg/l in 2013. In 2012, a major preventive measure was undertaken, with the introduction of the new surfactant cC 6 O 4 , initially used together with PFOA and from mid-2013 exclusively used instead of PFOA. After the phase-out of PFOA, serum levels continued to decrease along the years to reach a percentage of quantifiable samples of 92% and a median level of 119 µg/l in 2021 ( Fig. 2 ). A notable exception was found in 2016, with a median concentration as high as 1183 µg/l; this was due to the choice of including only the 22 most exposed subjects in the monitoring campaign. Considering the other SEG, the percentage of quantifiable samples decreased from 2004 until 2021 (from 100% for most of them to 41–88%), as well as the concentration of PFOA in serum ( Fig. 2 ). Additionally, the level of PFOA in serum was investigated in relationship to the time of the major mitigation measures. Considering all workers, and comparing the periods 2004–2009 vs. 2010–2013, the slopes of the decreasing trends were similar in the two periods ( P -interaction = 0.10). The same was found when only Plast2 workers were considered ( P -interaction = 0.39). In Bollate, the situation was very different, as no direct exposure to PFOA was present ( Table 1 ). The biological monitoring of PFOA started in 2008 and was performed only in a few subjects of the Pilot department, formerly exposed to PFOA in the Spinetta Marengo plant; in 2014 the biological monitoring was extended to few other workers; in 2017 the formerly exposed workers retired. From 2018 the biological monitoring of PFOA was enlarged to tens of workers, even if none directly exposed to PFOA; this is reflected in results, with a very low percentage of quantifiable samples (from 9 to 31%) and a typical median level below the LLOQ of the analytical assay (5 µg/l). Sensitivity analyses of exposure trends including only workers with measurements in 2, 3, 4, 5, or 6 consecutive years confirmed the decreasing PFOA levels observed when including all workers (see Supplementary Fig. S3 ).
+ Figure 1.
+ Box plot of PFOA, ADV, and cC6O4 in serum of study workers divided by SEG, in the plant of Spinetta Marengo and in the research center of Bollate.
+
+ Figure 2.
+ Trend of median levels of PFOA, ADV, and cC6O4 in serum of study workers divided by SEG. Data are reported only for SEG with at least 5 quantifiable samples.
+
+## Exposure to ADV
+ Altogether, 4288 measurements of ADV in serum were performed over 11 years, beginning in 2011. Measurements were mostly performed in Spinetta Marengo, 3562, and only 726 in Bollate. Details of biomonitoring data divided per year are given in Supplementary Table S3 for workers of Spinetta Marengo and in Supplementary Table S4 for workers of Bollate.
+ In Spinetta Marengo, SEG in which exposure was the highest were Elast and Plast1, with 100% of quantifiable samples and total median levels of 777 and 469 µg/l, and maximum of 14 386 and 4690 µg/l, respectively. This is in line with the use of ADV as surfactant for the polymerization. Fluids is another department in which an exposure is present, due to the synthesis of ADV Therefore, workers in that department have the third highest levels of ADV, with median of 228 and maximum of 6785 µg/l. Even though Plast 2 workers are not directly exposed in their production process, median and maximum ADV in serum are 205 and 3019 µg/l; these concentrations are explained because the polymerization area of plastomers is shared by Plast 2 and Plast 1 workers. Finally, in workers of PFVE, Maintenance and General Service, and MixSM, for which no exposure or only occasional exposure to ADV is expected, the percentage of quantifiable sample is lower (from 99 to 93%) as well as the median levels, that are 69, 98 and 65 µg/l, respectively ( Fig. 1 ).
+ Considering the trend along the years, a general decrease of ADV in serum was observed ( P < 0.001 for the trend of the means) with an initial median of 434 µg/l in 2011 and a final median of 86 µg/l in 2021 ( Supplementary Table S3 ). In Elast workers, serum ADV started to decrease from year 2015, when the structural modifications of the plant were put into place with the improvement of the general ventilation system and with the start-up of the new closed line for elastomer post-treatment (see Fig. 2 ). Considering the other SEG, a decreasing trend of serum ADV was observed for all ( Fig. 2 ). Additionally, the level of ADV in serum was investigated in relationship to the time of the major mitigation measures. Considering all workers, and comparing the periods 2011–2014 vs. 2015–2021, the slopes of the decreasing trends were similar ( P -interaction = 0.88). Considering only the most exposed workers, we noticed no difference between slopes for Elast workers ( P -interaction = 0.19), while for Plast1 workers the slope was steeper for the 2011–2014 than for the 2015–2021 period ( P -interaction < 0.001).
+ In Bollate, biological monitoring to ADV began in 2013 ( Supplementary Table S4 ). Exposure to ADV was present the Pilot department; here 89% of samples were quantifiable, with median and maximum levels of 77 and 1585 µg/l. In Labs and MixBL workers, for which no exposure or occasionally exposure was predicted, the percentage of quantifiable samples was lower (74–84%) as well as the level of ADV in serum, with medians of 29 and 23 µg/l, respectively. A decreasing exposure along the years was observed, with an initial median ADV in serum of 95 µg/l in 2013 lowered to 13 µg/l in 2021. In general, exposure in the workers of the Bollate research center was much lower than in the Spinetta Marengo chemical plant ( Fig. 1 ).
+ Sensitivity analyses of exposure trends including only workers with measurements in 2, 3, 4, 5, or 6 consecutive years confirmed the decreasing ADV levels observed when including all workers (see Supplementary Fig. S4 ).
+
+## Exposure to cC 6 O 4 
+ Altogether, 2272 measurements of serum were performed over 9 years, beginning in 2013. Measurements were mostly performed in Spinetta Marengo, 1757, and only 515 in Bollate. Details of biomonitoring data divided per year are given in Supplementary Table S5 for workers of Spinetta Marengo and in Supplementary Table S6 for workers of Bollate.
+ In Spinetta Marengo, a large number of samples ( n = 520) was from workers of the Plast2 plant, where cC 6 O 4 has been used in the polymerization since 2012. Here the largest percentage of quantifiable samples (56%), and the highest concentrations were observed with overall median and maximum of 5 and 873 µg/l. At the same time, the synthesis of cC 6 O 4 was performed in PFVE department, in a close cycle; here the concentration was always low, with 36% of quantifiable samples and median and maximum concentrations of 3 and 29 µg/l. Other departments with a direct exposure are Plast1 and Elast; here the use of cC 6 O 4 started in 2019 for gradually replacing ADV as polymerization surfactant; median and maximum cC 6 O 4 concentrations in serum were 4 and 2 µg/l and 27 and 64 µg/l, respectively. In the Fluid department, in 2019, the last step of the synthesis of cC 6 O 4 is allocated; here the quantifiable samples were only 25%, with median and maximum levels of 2 and 24 µg/l. Finally, in the Maintenance and General services and in the MixSM, where occasionally exposure or no exposure is expected, quantifiable samples were only 11 and 5% ( Supplementary Table S5 and Fig. 1 ).
+ Considering the trend along the years, the percentage of quantifiable samples sharply increased from 2017 (16% detectable samples over 192 samples) to 2018 (36% detectable samples over 211 samples), due to the improved performance of the analytical method, with a lowering of the LLOQ, from 2.5 to 1 µg/l. In Plast2, this led to almost double the percentage of detectable samples, from 40 to 74%, and allowed to find detectable samples in others SEGs ( Supplementary Table S5 ). Conversely, a strong decrease of serum cC 6 O 4 was observed in Plast2 workers ( P < 0.001 for trend), that were the most exposed, while an irregular up and down trends in other SEGs was found. The trend of medians cC 6 O 4 in serum is reported in Fig. 2 ; medians are reported when at least 5 quantifiable samples were measured.
+ In Bollate, biological monitoring to cC 6 O 4 began in 2013. Exposure to cC 6 O 4 was present the Pilot department; here only 11% of samples were quantifiable, with median and maximum levels of 3 and 164 µg/l. In Labs and MixBL workers, for which no exposure or occasionally exposure was predicted, the percentage of quantifiable samples was similar (12–13%). The concentrations were not different in the different years, but there was an increase in the percentage of the quantifiable samples from 2017 (5% detectable samples over 38 samples) to 2018 (30% detectable samples over 37 samples), due to the improved performance of the analytical method, as explained above.
+ Overall, for cC 6 O 4 , the percentage of quantifiable samples and the concentrations of cC 6 O 4 were much lower than those measured for ADV and PFOA; moreover, the similar concentration in different years suggests the lack of accumulation in the human body.
+ In sensitivity analyses of exposure trends including only workers with measurements in 2, 3, 4, 5, or 6 consecutive years we observed irregular trends (see Supplementary Fig. S5 ).
+
+## Kinetics of elimination of PFOA
+ The concentrations of PFOA in serum of Plast2 workers from 2013 to 2021 were used to calculate the half-life of PFOA in human. In fact, 2013 was the last year in which PFOA was used in the plant. 568 Serum measurements from 93 workers (78 males and 15 females) were available. Considering 2013 as the initial time t 0 , and the concentration of PFOA in serum in 2013 as the initial concentration C 0 , the elimination kinetics of PFOA was investigated applying a first-order model on ln transformed data. This allowed to obtain a mean half-life ( t 1/2 ) of 3.16 years with a 95% confidence interval ranging from 2.98 to 3.37 years ( Table 5 and Fig. 3 ). No significant influence of sex and age on the kinetics parameters was found.
+ Table 5.
+ Summary of studies investigating the half-life of PFOA in humans.
+
+ Study
+ Study subjects/company
+ Place/country
+
+ n subjects
+
+ n samples
+ Years of study
+
+ C 
+ o serum PFOA (µg/l) 
+
+ t 
+ 1/2 (years) 
+
+ Present study, 2022
+ Fluorochemical workers after the phase-out of PFOA, Solvay
+ Spinetta Marengo/Italy
+ 93 (78 males, 15 females)
+ 568 2–9 samples/subject
+ 2013–2021
+ Median 750
+ Geometric mean 3.16 (95% CI 2.98–3.37)
+
+ Olsen et al. (2007) 
+
+ Retired fluorochemical workers/3M
+ Minnesota/US
+ 26 (24 males, 2 females)
+ 4–8 samples/subject
+ 1998–2004
+ Mean 691
+ Geometric mean 3.5 (95% CI 3.0–4.1)
+
+ Girardi et al. (2018) 
+
+ Retired fluorochemical workers/Miteni,
+ Trissino/Italy
+ 35 males
+ 81 2 sample/subject
+ 2000–2018
+ GM 1,489
+ Mean 3.35 (95% CI 2.89–3.99)
+
+ Bartell et al. (2010) 
+
+ General population exposed through contaminated water
+ West Virginia and Ohio/ US
+ 200
+ Up to 6 sample/subject
+ 2007–2008
+ Mean 180
+ Median 2.3 (2.1–2.4)
+
+ Brede et al. (2010) 
+
+ General population exposed through contaminated water
+ Arnsberg/Germany
+ 65 (20 children, 22 mothers, 23 men)
+ 2 sample/subject
+ 2006–2008
+ Median Children: 22.4 Median Mothers: 25.1 Median Men: 32.8
+ Geometric mean 3.26 (range 1.03–14.67)
+
+ Li et al. (2022) 
+
+ General population exposed through contaminated water
+ Ronneby/Sweden
+ 114 (54 males and 60 females)
+ Average 8 sample/subject
+ 2014–2018
+ Median 16
+ Mean 2.47 (2.27–2.7)
+
+ Figure 3.
+ Elimination kinetics of PFOA in serum of ex-exposed workers after the ban of PFOA. The thin lines are the trends of each worker, the bold line and the dotted lines are linear regression and the upper and lower 95 percentile confidence interval. Only workers with at least 2 measurements were included.
+
+## Discussion
+ The present work summarizes the biological monitoring data of exposure to perfluoro alkyl acid surfactants PFOA, ADV, and cC 6 O 4 in workers of chemical plants of Solvay S.p.A., Italy from 2004 to 2021. A decreasing trend was observed in the serum concentration of all chemicals over the surveyed period, supporting the effectiveness of the efforts done to improve hygienic conditions at the workplace.
+ Considering previously reported studies regarding biomonitoring of exposure to PFOA in occupational exposed individuals, we found data of companies located in different parts of the world.
+ First studies were performed in the 3M Company, which historically produced and used ammonium perfluorooctanoate (APFO), the ammonium salt of PFOA, as polymerization surfactant until the phase-out, started in 2000 and ended in 2002, in three plants: Cottage Grove, Minnesota US; Decatur, Alabama US; and Antwerp, Belgium ( Olsen et al. , 2003a , b ; Olsen and Zobel, 2007 ). In the year 2000 workers were offered to take part in a medical surveillance with measurements of PFOA in serum and several clinical chemistry parameters; out of about 200, 400, and 340 potentially exposed workers in Cottage Grove, Decatur, and Antwerp, 131, 215, and 206 workers volunteered in the study. Data of 506 workers showed a median serum PFOA of 1100 (from 7 to 92 030) µg/l. No information on job tasks and its association with serum PFOA was given ( Olsen and Zobel, 2007 ). Lately, in a study on mortality and cancer incidence of workers producing APFO in the Cottage Grove plant ( Raleigh et al , 2014 ), some details on the biomonitoring data of the previous survey were reported. For serum PFOA, a geometric mean of 2538 (95% CI of 1626–3961) µg/l in 50 workers of the PFOA-related manufacturing area, of 979 (95% CI 566–1695) µg/l in 38 workers with some work in the PFOA area, and of 282 (5% CI 194–410) µg/l in 60 workers who never worked in the PFOA area, were reported.
+ Other studies reported exposure in workers of the DuPont plant of Parkersburg, West Virginia, where PFOA was used as surfactant in the production of homo- and co-fluoropolymers PTFE ( Sakr et al. , 2007a , b, Woskie et al. , 2012 ) since 1951. These studies were performed in the frame of the medical surveillance, to investigate the relationship between serum PFOA and clinical chemistry parameters, particularly cholesterol. In a first longitudinal study, 454 workers with two or more blood testing between 1979 and 2004, were investigated. Average concentration of PFOA decreased from about 4780–1000 µg/l in the period, with a mean level of 1130 and a maximum of 22 660 µg/l ( Sakr et al. , 2007a ). In a second cross-sectional study performed in 2004, involving 1025 active workers, median concentrations of PFOA in serum were: 495 (maximum 9550) µg/l in those exposed in the APFO department ( n = 259); 176 (maximum 2070) µg/l in those with intermittent exposure in the APFO department ( n = 160); 195 (maximum 2590) µg/l in those working in the past in the APFO department; and 114 (maximum 963) µg/l in those never working with APFO ( Sakr et al. , 2007b ). More recently, 2125 biomonitoring data of 1308 workers surveyed from 1972 to 2004 were described ( Woskie et al. , 2012 ). For workers of fine powder/granular PTFE, a direct exposure to PFOA was recognized with a median concentration of PFOA in serum of 2,880 (from 90 to 59 400) µg/l. For workers of the fluorinated ethylene propylene polymer, a direct exposure to PFOA was recognise with a median serum PFOA concentration of 1690 (130 to 14 040) µg/l. A group of workers of laboratories, engineers, supervisors, and clerks, with an intermittent indirect exposure to PFOA with a median PFOA in serum of 440 (8–14 580) µg/l. Maintenance workers, with intermittent direct exposure, had median serum PFOA of 500 (60–6810) µg/l. Finally, workers in other polymerization departments, without use of PFOA, had median serum PFOA of 160 (7–4140) µg/l.
+ Studies of workers of Miteni S.p.A, Trissino, Italy, where the largest production of PFOA in Europe was located, were found ( Costa et al. , 2009 , Girardi and Merler, 2019 ). In a study on medical surveillance over 30 years, annual biomonitoring data of 25–50 workers directly involved in the production of PFOA from 2000 to 2007 is given. Median (and maximum) concentrations of PFOA in serum decreased from 11 920 (maximum 86 300) µg/l in 2000 to 3,890 (maximum 47 000) µg/l in 2007 ( Costa et al. , 2009 ). In a recent paper on the mortality of these workers, further exposure data was found. In 120 workers, 695 measurements of PFOA in serum were performed from 2000 to 2013 with median 4048 (maximum 91 900) µg/l. The highest exposure was measured in PFOA operators, with a geometric mean value of 8826 (335–86 300) µg/l; followed by maintenance workers, with 1970 µg/l; lab technicians, with 1084 µg/l; and chemical workers of other departments: 625 µg/l ( Girardi and Merler, 2019 ).
+ Finally, occupational exposure to PFOA was reported in two Chinese studies. The first one investigated 55 male Chinese workers of the Changshu fluorochemical plant located in the Jiangsu High-Tech Fluorine Chemical Industrial Zone. In 2010–2011, median serum PFOA concentration of 1636, with minimum and maximum levels of 85–7737 µg/l were found; no further information about job area and task is given ( Wang et al. , 2012 ). A more recent study reported PFOA concentration in 302 workers of the Hexin chemical plant where perfluoro alkyl sulfonic acids were synthesized by electro-fluorination. Median concentration of PFOA in serum was 427 (maximum 32 000) µg/l in all workers and 1126 µg/l in 101 workers of the electrolytic department, where concentrations of PFOA were the highest ( Fu et al. , 2016 ).
+ For a comparison with results of the present study, selected exposure data is summarized in Table 4 , with the company name and country, the use of PFOA (synthesis or polymerization), the year of the biomonitoring campaign, the number of study subjects and their levels of PFOA in serum. Overall, subjects with direct exposure to PFOA, either in the synthesis and in the polymerization, have the highest exposure, with comparable concentrations. In particular, the median concentrations observed in the present study in year 2004 in PFOA-directly exposed workers (Plast2), was 2900 µg/l; this is very close to the PFOA concentration reported for the Dupont workers (median 2880) in the period 1979–2004 and for the 3M workers in year 2000 (median 2538 µg/l). An exception is noted for workers of Miteni, with higher exposure (median 8826 µg/l in PFOA-directly exposed workers). Similarly, when the comparison is performed considering all workers of the plant, lower exposures were observed. Comparing the different companies, the highest concentrations were again reported for Miteni. Exposure in Chinese workers was in the same order of magnitude.
+ Table 4.
+ Summary of selected studies reporting data on occupational exposure to PFOA evaluated by serum biomonitoring.
+
+ Study
+ Company
+ Use of PFOA
+ Year
+ All workers
+ PFOA-directly exposed workers
+
+ n 
+
+ Serum PFOA (µg/l) 
+
+ n 
+
+ Serum PFOA (µg/l) 
+
+ Present study, 2022
+ Solvay, Spinetta Marengo, Italy
+ Polymerization
+ 2004–2013
+ 809
+ Medians from 1900 to 600 Maximum 19900
+ 93
+ Medians from 2900 to 740
+
+ Girardi and Merler (2019) 
+
+ Miteni, Trissino, Italy
+ Synthesis
+ 2000–2012
+ 120
+ Geometric mean 4048 Maximum 91 900
+ 50
+ Geometric mean 8826
+
+ Fu et al. (2016) 
+
+ Henxin Chemical Plant China
+ Synthesis
+ 2008–2012
+ 302
+ Median 427 Maximum 32 000
+ 74
+ Median 1126
+
+ Wang et al. (2012) 
+
+ Changshu Chemical Plant China
+ Unknown
+ 2010–2011
+ 55
+ Median 1636 Maximum 7737
+
+ Woskie et al. (2012) 
+
+ Dupont, Washington, WV
+ Polymerization
+ 1979–2004
+ 1308
+ Median 580 Maximum 59 400
+ 170
+ Median 2880
+
+ Olsen and Zobel (2007) 
+
+ Raleigh et al. (2014) 
+
+ 3M Company, Cottage Grove, MN, Decatur, AL Antwerp, B
+ Synthesis and ­Polymerization
+ 2000
+ 506
+ Median 1100 Maximum 92 030
+ 50
+ Geometric mean 2538
+
+ Considering exposure to ADV, no comparison with previous studies could be performed, as biomonitoring data regarding this chemical are reported for the first time in the present work. Details about the ADV fractions, their structures and molecular weights, together with the chromatograms of a standard solution and of a typical serum sample from an exposed individual add new information to what is known and open the possibility to further investigations. Concentrations of ADV in the most critical department, Elast, were the highest in the 2013, with median 2395 and maximum 14 386 µg/l; they decreased of about one order of magnitude in 2021, with median 377 and maximum 2874 µg/l. These concentrations are comparable, or only slightly lower, than those of PFOA in the Plast2 department, that is the department where PFOA exposure was the highest.
+ Considering cC 6 O 4 , several new occupational exposure data are given in this work for the first time. The highest exposure was found in workers of the Plast2 department, where this molecule has been used as polymerization surfactant in substitution of PFOA since mid-2013; the highest concentrations were recorded in 2016, with median 6 and maximum 873 µg/l. These concentrations are orders of magnitude lower than those of PFOA and ADV. Moreover, we found a research report with concentrations of cC 6 O 4 in serum of Miteni workers in the years 2013–2017 ( Girardi et al. , 2018 ); median concentrations ranging from 0.5 to 6.7 µg/l and a maximum of 932 µg/l were reported. However, in workers of the pilot plant directly involved in the production of cC 6 O 4 , median concentration was 60.77 µg/l. For all workers, serum concentrations of cC 6 O 4 in Miteni workers are similar to those reported in the present study; for the production workers, they are one order of magnitude higher. It should be highlighted that cC 6 O 4 was developed and introduced in the polymerization process by Solvay to find alternatives with better ecotoxicological profiles than persistent perfluoroalkyl chemicals, such as PFOA. Kinetics study performed in experimental animals showed a short half-life of 4–7 h ( ECHA , Registration dossier, Acetic acid, 2,2-difluoro-2-[[2,2,4,5-tetrafluoro-5-(trifluoromethoxy)-1,3-dioxolan-4-yl]oxy]-, ammonium salt (1:1). Although the half-life in humans is not known, the low concentrations detected support the expected short half-life; to verify this, an ad hoc experiment on the kinetics of excretion of cC 6 O 4 in humans is on-going.
+ Considering the different mitigation measures introduced in the study plants (summarized in Table 2 ), the analysis of decreasing trends comparing the time before and after the major plant changes showed no differences in the slopes of the trends for both PFOA and ADV, or even a steeper decrease in the period preceding specific interventions (i.e. intervention on Plant1 for ADV). This indicates that the general mitigation measures undertaken since year 2000 were as much as effective, if not more effective, than specific plant interventions. Previous studies investigated the kinetics of excretion of PFOA in humans. The traditional approach is based on a longitudinal design with subsequent measurements of PFOA in serum of retired occupationally exposed individuals. We could find two studies reporting a GM half-live of 3.5 (95% CI 3.0–4.1) years ( Olsen et al. , 2007 ) and a mean half-life of 3.35 (95% CI 2.89–3.99) years ( Girardi et al. , 2018 ) in retired workers. Our study, although not involving retired workers, is similar to these, and a similar GM half-life of 3.16 (95% CI 2.98–3.37) years has been obtained, with a narrow confidence interval, probably due to the large number of study individuals and observations. Other studies had a similar design, but investigated the general population, typically exposed through contaminated water. In these cases half-lives of 2.3 (median) years ( Bartell et al. , 2010 ), 3.26 (geometric mean) years ( Brede et al. , 2010 ), and 2.47 (mean) years ( Li et al. , 2022 ) were reported. A summary of studies investigating the elimination kinetics of PFOA based on longitudinal design is reported in Table 5 . Differences between younger and older individuals, and males and females, and particularly a shorter half-life of PFOA in females in the reproductive age has been reported ( Li et al. , 2022 ); the presence of the menstrual cycle is believed to contribute to shortening half-lives. Results of our study do not support age and sex-related differences in the elimination kinetics of PFOA; however, regarding sex, it should be noted that women in our study were only a minority of study subjects. Another study design consisted in collecting contextual blood and urine samples and calculating the half-live from the clearance of PFOA, obtainable from the ratio between the concentrations of PFOA in blood and urine ( Zhang et al. , 2013 ; Fu et al. , 2016 ). These estimates yielded half-lives ranging from 1.2 to 4 years, with some inconsistencies in comparison with those reported in the longitudinal studies. This is probably due to several reasons, among which: the low concentration of PFOA in urine, that may be associated with a larger error in the measurement; the use of a general parameter for the distribution volume (170 ml), without taking into consideration inter individual variation; the presence of other excretion routes, such as fecal excretion, that are also playing a role in the elimination of PFOA. All these implications weaken this approach. Overall, the half-life obtained in the present study supports those previously published following longitudinal studies; the large number of observations strengthen our results, reducing the confidence interval of the estimated half-life.
+ In conclusion, the present work offers biomonitoring data on occupational exposure to PFOA, ADV and cC 6 O 4 in an 18-year period, showing a decreasing trend along the years. This is the effect of the phasing out of PFOA, the improvements of engineering of the plants, and the introduction/replacement of long half-life perfluoro alkyl surfactants with cC 6 O 4 , a chemical designed for being less bio persistent. A kinetic study to investigate the half-life of cC 6 O 4 is warranted.
+
+## Supplementary Material
+ wxac095_suppl_Supplementary_Material
+ Click here for additional data file.
+
+## Acknowledgements
+ The authors would like to thank Dr. Ilaria Colombo and Ing. Cristina Raviola of Solvay Specialty Polymers Italy S.p.A., for their valuable contribution to illustrate the organisation of the study plants and the actions undertaken for managing the safety procedures at the workplace. The authors would like to thank Dr. Silvia Petricci, of the analytical department of Solvay Specialty Polymers Italy S.p.A., for the description of the analytical procedure for biological monitoring.
+
+## Funding
+ The work was funded by a research contract granted from Solvay Specialty Polymers Italy S.p.A to Fondazione IRCCS Ca’ Granda Ospedale Maggiore Policlinico, Milano. The funder had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+## Conflict of interest statement
+ The authors declare no financial conflict of interest.
+
+## Data availability statement
+ The data underlying this article were provided by Solvay Specialty Polymers Italy S.p.A. by permission. Data will be shared on request to the corresponding author with permission of Solvay Specialty Polymers Italy S.p.A.
+
+## References
+
+ Bartell 
+ SM 
+ , Calafat AM , Lyu C et al . ( 2010 ) Rate of decline in serum PFOA concentrations after granular activated carbon filtration at two public water systems in Ohio and West Virginia . Environ Health Perspect ; 118 : 222 – 8 . 20123620 10.1289/ehp.0901252 PMC2831921 
+
+ Brede 
+ E 
+ , Wilhelm M , Göen T et al . ( 2010 ) Two-year follow-up biomonitoring pilot study of residents’ and controls’ PFC plasma levels after PFOA reduction in public water system in Arnsberg, Germany . Int J Hyg Environ Health ; 213 : 217 – 23 . 20488749 10.1016/j.ijheh.2010.03.007 
+
+ Calafat 
+ AM 
+ , Wong LY , Kuklenyik Z et al . ( 2007 ) Polyfluoroalkyl chemicals in the U.S. population: data from the National Health and Nutrition Examination Survey (NHANES) 2003–2004 and comparisons with NHANES 1999–2000 . Environ Health Perspect ; 115 : 1596 – 602 . 18007991 10.1289/ehp.10598 PMC2072821 
+ Commission Delegated Regulation (EU) 2020/784 of 8 April 2020 amending Annex I to Regulation (EU) 2019/1021 of the European Parliament and of the Council as regards the listing of perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds . Official Journal of the European Union15.6.2020 L 188 I/1. Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0784 . Accessed 3 January 2023 . 
+
+ Costa 
+ G 
+ , Sartori S , Consonni D. ( 2009 ) Thirty years of medical surveillance in perfluooctanoic acid production workers . J Occup Environ Med ; 51 : 364 – 72 . 19225424 10.1097/JOM.0b013e3181965d80 
+ Decreto Legislativo 81 del 9 Aprile 2008 . ( 2008 ) Available at http://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/sg . Accessed 7 July 2022 . 
+
+ Dong 
+ Z 
+ , Wang H , Yu YY et al . ( 2019 ) Using 2003–2014 U.S. NHANES data to determine the associations between per- and polyfluoroalkyl substances and cholesterol: trend and implications . Ecotoxicol Environ Saf ; 173 : 461 – 8 . 30798190 10.1016/j.ecoenv.2019.02.061 
+ ECHA. 
+ Registration dossier, Acetic acid, 2,2-difluoro-2-[[2,2,4,5-tetrafluoro-5-(trifluoromethoxy)-1,3-dioxolan-4-yl]oxy]-, ammonium salt (1:1). Available at https://echa.europa.eu/it/registration-dossier/-/registered-dossier/5712/7/1 . Accessed 7 July 2022 . 
+ ECHA. 
+ Summary of Classification and Labelling, Harmonised classification—Annex VI of Regulation (EC) No 1272/2008 (CLP Regulation), Perfluorooctanoic acid. Available at https://echa.europa.eu/it/information-on-chemicals/cl-inventory-database/-/discli/details/67229 . Accessed 2 July 2022 . 
+ ECHA. 
+ Summary of Classification and Labelling, Notified classification and labelling, 1-Propene, 1,1,2,3,3,3-hexafluoro-,telomer with chlorotrifluoroethene, oxidized, reduced, hydrolyzed ammonium salts. Available at https://echa.europa.eu/it/information-on-chemicals/cl-inventory-database/-/discli/details/212370 . Accessed 7 July 2022 . 
+ EMEA/CHMP/EWP/192217 / 2009 . EMA guideline on validation of analytical methods . Available at http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2011/08/WC500109686.pdf. Accessed 15 July 2022 . 
+ EURACHEM/CITAC. ( 2012 ) Guide CG 4: quantifying uncertainty in analytical measurement , 3 rd edn. Available at http://www.citac.cc/QUAM2012_P1.pdf . Accessed 30 June 2022 . 
+ FDA ( 2018 ). Bioanalytical Method Validation Guidance for Industry. Available at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/bioanalytical-method-validation-guidance-industry . Accessed 1 ­September 2022. 
+
+ Fu 
+ J 
+ , Gao Y , Cui L et al . ( 2016 ) Occurrence, temporal trends, and half-lives of perfluoroalkyl acids (PFAAs) in occupational workers in China . Sci Rep ; 6 : 38039 . 27905562 10.1038/srep38039 PMC5131319 
+
+ Girardi 
+ P 
+ , Merler E. ( 2019 ) A mortality study on male subjects exposed to polyfluoroalkyl acids with high internal dose of perfluorooctanoic acid . Environ Res ; 2019 ; 179 : 108743 . 31542491 10.1016/j.envres.2019.108743 
+
+ Girardi 
+ P 
+ , Rosina A , Merler E. ( 2018 ) Report of the project: Bio-PFAS: La concentrazione di sostanze perfluorurate nel sangue dei dipendenti ed ex-dipendenti delle ditte RIMAR e Miteni, Trissino, Vicenza, Italia [in Italian]. Available at https://pfas.land/2019/03/02/02-marzo-2019-persistenza-dei-pfas-nel-sangue-dei-lavoratori-miteni/ . Accessed 15 July 2022 . 
+
+ Hopf 
+ NB 
+ , Fustinoni S ( 2021 ) Biological monitoring of exposure to industrial chemicals. In Harris R , editor. Patty’s industrial hygiene. Evaluation and control . USA : Wiley , pp. 3 . 
+ IARC ( 2016 ) Some chemicals used as solvents and in polymer manufacture . IARC monographs on the evaluation of carcinogenic risks to humans . Vol. 110 . Available at: https://publications.iarc.fr/Book-And-Report-Series/Iarc-Monographs-On-The-Identification-Of-Carcinogenic-Hazards-To-Humans/Some-Chemicals-Used-As-Solvents-And-In-Polymer-Manufacture-2016 . Accessed 3 January 2023 . 31829531 
+
+ Li 
+ Y 
+ , Andersson A , Xu Y et al . ( 2022 ) Determinants of serum half-lives for linear and branched perfluoroalkyl substances after long-term high exposure-a study in Ronneby, Sweden . Environ Int ; 163 : 107198 . 35447437 10.1016/j.envint.2022.107198 
+
+ Olsen 
+ GW 
+ , Burris JM , Burlew MM et al . ( 2003a ) Epidemiologic assessment of worker serum perfluorooctanesulfonate (PFOS) and perfluorooctanoate (PFOA) concentrations and medical surveillance examinations . J Occup Environ Med ; 45 : 260 – 70 . 12661183 10.1097/01.jom.0000052958.59271.10 
+
+ Olsen 
+ GW 
+ , Burris JM , Ehresman DJ et al . ( 2007 ) Half-life of serum elimination of perfluorooctanesulfonate, perfluorohexanesulfonate, and perfluorooctanoate in retired fluorochemical production workers . Environ Health Perspect ; 115 : 1298 – 305 . 17805419 10.1289/ehp.10009 PMC1964923 
+
+ Olsen 
+ GW 
+ , Logan PW , Hansen KJ et al . ( 2003b ) An occupational exposure assessment of a perfluorooctanesulfonyl fluoride production site: biomonitoring . AIHA J ; 64 : 651 – 9 . 10.1202/375.1 14521435 
+
+ Olsen 
+ GW 
+ , Zobel LR. ( 2007 ) Assessment of lipid, hepatic, and thyroid parameters with serum perfluorooctanoate (PFOA) concentrations in fluorochemical production workers . Int Arch Occup Environ Health ; 81 : 231 – 46 . 17605032 10.1007/s00420-007-0213-0 
+
+ Raleigh 
+ KK 
+ , Alexander BH , Olsen GW et al . ( 2014 ) Mortality and cancer incidence in ammonium perfluorooctanoate production workers . Occup Environ Med ; 71 : 500 – 6 . 24832944 10.1136/oemed-2014-102109 PMC4078701 
+ Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 . Official Journal of the European Union, L 353 , 31 December 2008. Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2008:353:TOC . Accessed 3 July 2022 . 
+ Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC . Official Journal of the European Union , L 396, 30 December 2006. Available at https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2006:396:TOC . Accessed 1 July 2022 . 
+ Regulation (EU) No 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (POPs Regulation) . Official Journal of the European Union , L 169, 25 June 2019. Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2019:169:TOC . Accessed 1 July 2022 . 
+
+ Sakr 
+ CJ 
+ , Kreckmann KH , Green JW et al . ( 2007a ) Cross-sectional study of lipids and liver enzymes related to a serum biomarker of exposure (ammonium perfluorooctanoate or APFO) as part of a general health survey in a cohort of occupationally exposed workers . J Occup Environ Med ; 49 : 1086 – 96 . 18000414 10.1097/JOM.0b013e318156eca3 
+
+ Sakr 
+ CJ 
+ , Leonard RC , Kreckmann KH et al . ( 2007b ) Longitudinal study of serum lipids and liver enzymes in workers with occupational exposure to ammonium perfluorooctanoate . J Occup Environ Med ; 49 : 872 – 9 . 17693785 10.1097/JOM.0b013e318124a93f 
+
+ Steenland 
+ K 
+ , Fletcher T , Stein CR et al . ( 2020 ) Review: evolution of evidence on PFOA and health following the assessments of the C8 Science Panel . Environ Int ; 145 : 106125 . 32950793 10.1016/j.envint.2020.106125 
+
+ Wang 
+ J 
+ , Zhang Y , Zhang W et al . ( 2012 ) Association of perfluorooctanoic acid with HDL cholesterol and circulating miR-26b and miR-199-3p in workers of a fluorochemical plant and nearby residents . Environ Sci Technol ; 46 : 9274 – 81 . 22862179 10.1021/es300906q 
+
+ Woskie 
+ SR 
+ , Gore R , Steenland K. ( 2012 ) Retrospective exposure assessment of perfluorooctanoic acid serum concentrations at a fluoropolymer manufacturing plant. Ann Occup Hyg ; 56 : 1025 – 37 . 22539556 10.1093/annhyg/mes023 
+
+ Zhang 
+ Y 
+ , Beesoon S , Zhu L et al . ( 2013 ) Biomonitoring of perfluoroalkyl acids in human urine and estimates of biological half-life. Environ Sci Technol ; 47 : 10619 – 27 . 23980546 10.1021/es401905e

@@ -1,0 +1,11 @@
+parameter,value,se,status,units,source
+body_weight,25,,assumed standard,g,Lou 2009 Table 4
+cardiac_output,16.5,,"Barbee et al. 1992",L/h,Lou 2009 Table 4
+absorption_rate_ka,0.537,,"estimated from single-dose one-compartment",1/h,Lou 2009 Table 4
+vd_central_Vc,0.0027,0.0002,optimized,L,Lou 2009 Table 4
+volume_renal_filtrate_Vfil,0.01,,"assumed, Andersen 2006",L,Lou 2009 Table 4
+renal_filtrate_rate_Qfil,0.6830,1.0131,optimized,L/h,Lou 2009 Table 4
+vd_second_compartment_Vt,0.0545,0.0151,optimized,L,Lou 2009 Table 4
+intercompartmental_clearance_Qd,0.00059,0.00037,optimized,L/h,Lou 2009 Table 4
+transport_maximum_Tm,860.9,1298.3,optimized,mg/L/h,Lou 2009 Table 4
+transport_affinity_KT,0.0015,0.0022,optimized,mg/L,Lou 2009 Table 4

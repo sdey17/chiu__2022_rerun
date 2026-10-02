@@ -1,0 +1,1817 @@
+                               PROPOSED RULEMAKING
+                           ENVIRONMENTAL QUALITY BOARD
+                                 [ 25 PA. CODE CH. 109 ]
+
+                             Safe Drinking Water PFAS MCL Rule
+The Environmental Quality Board (Board) proposes to amend Chapter 109 (relating to safe
+drinking water) to read as set forth in Annex A. The proposed amendments will improve public
+health protection by setting maximum contaminant level goals (MCLG) and maximum
+contaminant levels (MCL) for two per- and polyfluoroalkyl substances (PFAS) —
+perfluorooctanoic acid (PFOA) and perfluorooctanesulfonic acid (PFOS).
+
+PFAS are considered emerging contaminants because research is ongoing to better understand
+the potential impacts PFAS pose to human and animal health and the environment. PFAS are
+potentially linked to a number of adverse health effects, including high cholesterol,
+developmental effects including low birth weight, liver toxicity, decreased immune response,
+thyroid disease, kidney disease, ulcerative colitis, and certain cancers, including testicular cancer
+and kidney cancer.
+
+The proposed amendments are intended to protect public health by setting State MCLs for
+contaminants in drinking water that are currently unregulated at the Federal level. With the
+proposed amendments, the Commonwealth would move ahead of the U.S. Environmental
+Protection Agency (EPA) in addressing PFOA and PFOS in drinking water and join a small
+group of states that have set MCLs for select PFAS in drinking water. Currently, six states have
+set MCLs for one or more PFAS – Massachusetts, Michigan, New Hampshire, New Jersey, New
+York and Vermont.
+
+Safe drinking water is vital to maintaining healthy and sustainable communities. Proactively
+addressing PFOA and PFOS contamination in drinking water can reduce the incidence of illness
+and reduce health care costs. Recent research suggests that EPA’s Combined Lifetime Health
+Advisory Level (HAL) for PFOA and PFOS is not sufficiently protective against adverse health
+effects. EPA has started the process of setting more stringent standards for PFOA and PFOS in
+drinking water, but that process is expected to take years to complete. For that reason, it is
+important that the Board act now to propose more protective standards for this Commonwealth,
+to protect the health of Pennsylvanians. Proper investment in public water system infrastructure
+and operations helps ensure a continuous supply of safe drinking water, enables communities to
+plan and build future capacity for economic growth, and ensures their long-term sustainability
+for years to come.
+
+The proposed PFOA and PFOS MCLs will apply to all 3,117 community, nontransient
+noncommunity, bottled, vended, retail, and bulk water systems in this Commonwealth. Of these,
+1,905 are community water systems, serving a combined population of approximately 11.4
+million Pennsylvanians. Another 1,096 are nontransient noncommunity water systems serving
+approximately 507,000 persons.
+
+The proposed amendments also include minor revisions to address incorrect cross-references and
+citations, delete duplicated text, and update language to be consistent with revisions made in the
+
+
+
+                                            Page 1 of 40
+2018 General Update of the Chapter 109 regulations. These minor updates are a codification of
+existing practices and will have no change from current practice.
+
+This proposed rulemaking was adopted by the Board at its meeting of November 16, 2021.
+
+A. Effective Date
+
+This proposed rulemaking will go into effect upon final-form publication in the Pennsylvania
+Bulletin. Initial compliance monitoring for community and nontransient noncommunity water
+systems serving a population of greater than 350 persons and all bottled, vended, retail, and bulk
+systems begins January 1, 2024; initial monitoring for community and nontransient
+noncommunity water systems serving a population of less than or equal to 350 persons begins
+January 1, 2025.
+
+B. Contact Persons
+
+For further information, contact Lisa D. Daniels, Director, Bureau of Safe Drinking Water, P. O.
+Box 8467, Rachel Carson State Office Building, Harrisburg, PA 17105-8467, (717) 787-9633; or
+Leda J. Lacomba, Assistant Counsel, Bureau of Regulatory Counsel, P. O. Box 8464, Rachel
+Carson State Office Building, Harrisburg, PA 17105-8464, (717) 787-7060. Information
+regarding submitting comments on this proposed rulemaking appears in Section I of this
+preamble. Persons with a disability may use the Pennsylvania Hamilton Relay Service at (800)
+654-5984 (TDD users) or (800) 654-5988 (voice users). This proposed rulemaking is available
+electronically through the Department of Environmental Protection's (Department) web site at
+www.dep.pa.gov (select ''Public Participation,'' then ''Environmental Quality Board,'' and then
+navigate to the Board meeting of November 16, 2021).
+
+C. Statutory Authority
+
+This proposed rulemaking is being made under the authority of section 4 of the Commonwealth’s
+Safe Drinking Water Act (Act) (35 P. S. § 721.4), which grants the Board the authority to adopt
+rules and regulations governing the provision of drinking water to the public, and section 1920-A
+of The Administrative Code of 1929 (71 P. S. § 510-20), which authorizes the Board to
+promulgate rules and regulations necessary for the performance of the work of the Department.
+
+D. Background and Purpose
+
+PFAS are a large class of man-made synthetic chemicals that were created in the 1930s and
+1940s for use in many industrial and manufacturing applications. It is estimated that the PFAS
+family includes more than 6,000 chemical compounds. PFAS have been widely used for their
+unique properties that make products repel water, grease and stains, reduce friction, and resist
+heat. PFAS are found in industrial and consumer products such as clothing, carpeting,
+upholstery, food packaging, non-stick cookware, fire-fighting foams, personal care products,
+paints, adhesives, metal plating, wire manufacturing, and many other uses. Because of their
+unique chemical structure, PFAS readily dissolve in water and are mobile, are highly persistent
+in the environment, and bioaccumulate in living organisms over time.
+
+
+
+
+                                           Page 2 of 40
+Decades of widespread use of products containing PFAS has resulted in elevated levels of
+environmental pollution and exposure in some areas of the State. PFAS remain in the
+environment and cycle through various media (air, water, soil) depending on how and where the
+substances were released. The primary means of distribution of PFAS throughout the
+environment has been though the air, water, biosolids, food, landfill leachate, and fire-fighting
+activities. For a diagram showing the PFAS cycle and its exposure pathways, refer to the
+Department’s PFAS webpage at www.dep.pa.gov/Citizens/My-
+Water/drinking_water/PFAS/Pages/DEP-Involvement.aspx.
+
+The Department’s Safe Drinking Water Program first became aware of PFAS as emerging
+contaminants in 2013 when the EPA included six PFAS in its Third Unregulated Contaminant
+Monitoring Rule (UCMR3). The six PFAS included in UCMR3 monitoring are PFOA, PFOS,
+perfluorononanoic acid (PFNA), perfluorohexanesulfonic acid (PFHxS), perfluoroheptanoic acid
+(PFHpA), and perfluorobutanesulfonic acid (PFBS). The UCMR rules are Federal direct-
+implementation rules that are updated every five years to require monitoring for up to 30
+unregulated contaminants in order to generate National occurrence data and inform the Federal
+regulatory determination process. Public water systems (PWS) serving more than 10,000 people
+and a select number of smaller PWSs were required to monitor for PFAS and other contaminants
+during 2013 – 2015 for UCMR3. In this Commonwealth, a total of 175 systems conducted PFAS
+monitoring for UCMR3; of these systems, PFAS was detected at six systems above the 2009
+Provisional Health Advisory Levels (HALs) for PFOA and PFOS of 400 nanograms per liter
+(ng/L) or parts per trillion (ppt) and 200 ng/L, respectively. The Department worked closely with
+EPA and the PWSs to address the elevated levels of PFAS found during the UCMR3 monitoring.
+
+In May of 2016, EPA issued the Final HAL for PFOA and PFOS as a Combined Lifetime HAL
+of 70 ng/L. At that time, the Department began implementing the EPA’s Combined Lifetime
+HAL of 70 ng/L for PFOA and PFOS using existing authority under the Act and Chapter 109
+regulations. PWSs that exceed the HAL are required to conduct follow-up and corrective actions
+to protect public health, including the following actions:
+   •   One-hour reporting of sample results to the Department to ensure timely consultation and
+       oversight regarding investigative and corrective actions (§ 109.701(a)(3)(iii)) (relating to
+       reporting and recordkeeping),
+   •   Collection of confirmation samples (§ 109.302) (relating to special monitoring
+       requirements),
+   •   Issuance of Tier 2 Public Notice to consumers (§ 109.409) (relating to tier 2 public
+       notice—categories, timing and delivery of notice),
+   •   Quarterly monitoring at the entry point to track levels of contamination (§ 109.302), and
+   •   If levels continue to exceed the HAL, taking additional actions as needed to protect
+       public health such as taking contaminated sources off-line or installing treatment
+       (§ 109.4) (relating to general requirements).
+
+
+
+
+                                           Page 3 of 40
+PFAS Action Team
+
+In the absence of Federal action to address PFAS, Governor Tom Wolf signed Executive Order
+2018-08 (EO) on September 19, 2018. The EO created the PFAS Action Team, a multi-agency
+group tasked with, among other things, developing a comprehensive response to identify and
+eliminate sources of contamination, ensure drinking water is safe, manage environmental
+contamination, review gaps in data and oversight authority, and recommend actions to address
+those gaps. The PFAS Action Team released its Initial Report in December of 2019 to the
+Department’s PFAS webpage at www.dep.pa.gov/pfas. The report includes information about
+PFAS, challenges associated with managing contamination, actions taken to date and
+recommendations for future actions. Recommendations include additional funding for
+communities dealing with PFAS contamination and strengthened statutory authorities to
+adequately address PFAS.
+
+In 2019, the Department’s Safe Drinking Water Program moved forward with two key projects
+to advance its knowledge of PFAS – the PFAS Sampling Plan and PFAS Toxicology Services
+Contract.
+
+PFAS Sampling Plan
+
+The PFAS Sampling Plan was developed and posted to the Department’s PFAS webpage
+(www.dep.pa.gov/Citizens/My-Water/drinking_water/PFAS/Pages/DEP-Involvement.aspx) in
+April of 2019. The plan was intended to prioritize PWS sites for PFAS sampling and generate
+statewide occurrence data. Several factors were considered in developing the targeted plan,
+including:
+   •   Identification of “potential sources of PFAS contamination” (PSOC) based on a literature
+       review,
+   •   Identification of PWS sources located within ½ to ¾ of a mile from PSOCs, and
+   •   Selection of PWS sources to serve as a control or baseline group.
+
+The selection process involved a combination of spatial analysis and programmatic review. The
+spatial analysis included the creation of a Geographic Information System (GIS) project using
+ArcMap 10.4.1 that focused on PWS source locations and information about PSOCs. The
+sampling pool was prioritized based on relative risk and included community water systems and
+nontransient noncommunity water systems.
+
+In order to prioritize sampling, the selection process included an assessment of the potential risk
+from nearby PSOCs. Several layers containing locational and other information specific to
+PSOCs were created or otherwise included in the GIS. These layers include the following
+industries and land uses:
+   •   Military bases
+   •   Fire training schools/sites
+   •   Airports
+   •   Landfills
+
+
+                                            Page 4 of 40
+   •   Manufacturing facilities (apparel, chemicals, electronics, fabricated metal, paper
+       products, textiles and leather, upholstered furniture)
+   •   State Hazardous Sites Cleanup Act (HSCA) sites, EPA Superfund sites and other known
+       PFAS-contamination sites
+
+The sampling plan includes details about the sources of GIS data and multiple maps that indicate
+the locations and prevalence of the PSOCs and the locations of the targeted and baseline
+sampling sites.
+
+Based on the compilation of PSOCs, the information was used to select PWS sources that are
+located within ½ to ¾ of a mile of a PSOC. The initial sampling pool included 493 PWS sources.
+The sampling pool contained a mix of PWS types and sizes and provided a good spatial
+distribution across the state. Based on available funding of $500,000, the Department proposed
+sampling at 360 targeted and 40 baseline entry point (EP) sites. Baseline sources are located in a
+HUC-12 watershed (a watershed assigned a 12-digit hydrologic unit code, or HUC, by the U.S.
+Geological Survey) with at least 75% forested land and at least five miles from a PSOC.
+Ultimately, samples were collected from 412 EPs including 372 targeted sites and 40 baseline
+sites. Note that an EP to the distribution system may include water from more than one source of
+supply.
+
+Sampling and analysis began during the Summer of 2019 using EPA Method 537 and a PA-
+accredited lab to analyze samples for the six UCMR3 PFAS. However, in early 2020, the
+Department took the opportunity to modify its analysis of samples by switching to EPA Method
+537.1, which expanded the collection of occurrence data to 18 PFAS and adding the
+Department’s Bureau of Laboratories for analysis. For consistency purposes, the Department
+repeated the sampling and analysis that had been conducted in 2019. Sampling was temporarily
+suspended from March 2020 to July 2020 due to the COVID-19 pandemic and resulting business
+closures and travel restrictions established under the Governor’s Emergency Declaration.
+Sampling resumed in August 2020 and was completed at the end of March 2021, with the final
+sample results posted to the Department’s PFAS webpage in June 2021. Table 1 includes a
+summary of the results from the PFAS Sampling Plan for the same six PFAS that were sampled
+under UCMR3.
+
+Table 1. Summary of PFAS Sampling Plan results. Full results available at www.dep.pa.gov/pfas
+                            Summary of PFAS Sampling Plan Results
+
+                         PFOA       PFOS         PFNA       PFHxS      PFHpA       PFBS      Units
+ Total No. Samples        412         412          412        412        412        412       --
+     Average              2.0         2.5          0.4        1.4        0.7        1.1      ng/L
+      Median            0 (ND)      0 (ND)       0 (ND)     0 (ND)     0 (ND)     0 (ND)     ng/L
+     Minimum            0 (ND)      0 (ND)       0 (ND)     0 (ND)     0 (ND)     0 (ND)     ng/L
+    Maximum              59.6        187.1        18.1       140.0      32.6       64.0      ng/L
+No. and % of Detects 112 (27%) 103 (25%)        23 (6%)     52 (13%)   49 (12%)   66 (16%)    --
+  Avg Detect Value        7.5         9.9          7.2        10.9       6.1        7.0      ng/L
+
+
+
+                                             Page 5 of 40
+ Med Detect Value         5.3        6.5         5.6        4.5        4.5        4.2       ng/L
+ Min Detect Value         1.7        1.8         1.8        1.9        1.8        1.7       ng/L
+ Max Detect Value         59.6      187.1        18.1      140.0       32.6       64.0      ng/L
+
+For example, of the 412 samples analyzed for PFOA, 112 (27%) resulted in detectable
+concentrations of PFOA. The remaining 300 samples resulted in no detectable concentrations of
+PFOA. For the 112 samples in which PFOA was detected, the average detected value was 7.5
+ng/L, the median detected value was 5.3 ng/L, the minimum detected value was 1.7 ng/L, and the
+maximum detected value was 59.6 ng/L.
+
+At the sampling sites with detections, eight of the 18 PFAS included in EPA Method 537.1 were
+detected. The eight PFAS that were detected are: PFOA, PFOS, PFNA, PFHxS, PFHpA, PFBS,
+perfluorohexanoic acid (PFHxA), and perfluoroundecanoic acid (PFUnA). Of the PFAS
+detected, PFOA and PFOS were most common, detected at 112 (or 27%) and 103 (or 25%) sites,
+respectively. Of the 412 total samples, two of the results were above the EPA’s HAL of 70 ng/L
+for the combined concentrations of PFOA and PFOS. Results were non-detect at all 412 sites for
+the other 10 PFAS that were tested.
+
+Additionally, there are 23 results with detections from UCMR3 monitoring that were also
+included in the occurrence data evaluation. Because the reporting limits used for UCMR3
+monitoring (40 ng/L for PFOA and 20 ng/L for PFOS) were much higher than current reporting
+limits (which are generally below 5 ng/L), the Department did not include UCMR3 data that was
+below the UCMR3 reporting limits.
+
+Therefore, the Department used results from a total of 435 sampling sites in the evaluation of
+occurrence data.
+
+PFAS Toxicology Services Contract
+
+In December 2019, the Department’s Safe Drinking Water Program executed a toxicology
+services contract with Drexel University to: review other state and Federal agency work on
+MCLs; independently review the data, science, and studies; and develop recommended MCLGs
+for select PFAS. MCLGs are non-enforceable, developed solely based on health effects and do
+not take into consideration other factors, such as technical limitations and cost. MCLGs are the
+starting point for determining MCLs.
+
+Deliverables were completed in January 2021 and include the “Drexel PFAS Workbook” and
+“MCLG Drinking Water Recommendations for PFAS in the Commonwealth of PA” (MCLG
+Report), available at the following links: Workbook,
+https://files.dep.state.pa.us/PublicParticipation/Public%20Participation%20Center/PubPartCenter
+PortalFiles/Environmental%20Quality%20Board/2021/June%2015/03_PFAS%20Petition/01b_A
+pp%202%20Drexel%20PFAS%20Workbook%20January%202021.pdf and Report,
+https://files.dep.state.pa.us/PublicParticipation/Public%20Participation%20Center/PubPartCenter
+PortalFiles/Environmental%20Quality%20Board/2021/June%2015/03_PFAS%20Petition/01a_A
+pp%201%20Drexel%20PFAS%20Report%20January%202021.pdf. The MCLG Report was
+developed by the Drexel PFAS Advisory Group (DPAG) – a multidisciplinary team of experts in
+toxicology, epidemiology, and drinking water standards and risk assessment. The DPAG
+
+
+
+                                            Page 6 of 40
+reviewed pertinent literature and work across the country and independently developed
+recommended MCLGs based on non-cancer endpoints. The MCLG Report discusses relevant
+inputs and includes a summary table for each PFAS that documents the development of the
+recommended MCLG. Table 2 includes the Reference Dose and recommended Chronic Non-
+Cancer MCLG for each PFAS that was reviewed.
+
+       Table 2. DPAG Reference Dose and Recommended Chronic Non-Cancer MCLGs.
+             DPAG Reference Dose and Recommended Chronic Non-Cancer MCLGs
+                                              Reference Dose                         MCLG
+               PFAS
+                                               (ng/kg/day)                        (ng/L or ppt)
+            PFOA                                    3.9                                  8
+             PFOS                                   3.1                                 14
+             PFNA                                   2.2                                  6
+            PFHxS                                   4.0                                 20
+            PFHpA                             None derived*                              8
+             PFBS                                   39                                  55
+        GenX (HFPO-DA)                              75                                 108
+  *Reference dose was not derived due to a lack of evidence on its toxicity. Recommended MCLG is based on its
+  chemical structure.
+
+As the DPAG explains in its MCLG Report, it “reviewed a number of recommendations made by
+EPA and State agencies that chose to create a summative approach to PFAS, combining multiple
+minimal risk levels or advisory levels into one cumulative drinking water value. No clear
+consensus exists on this approach and the use of the summative approach was clearly designed to
+be a shortcut based on a presumption that the agents all have similar health effects and end
+points. While this approach may work for other toxins such as dioxins, furans, and coplanar
+polychlorinated biphenols, it does not appear to be based on evidence available for PFAS. The
+DPAG therefore committed early in the process to developing an individual MCLG for each of
+the requested PFAS.” (DPAG, January 2021)
+
+The DPAG further describes in the MCLG Report that “For each of the PFAS studied, the
+DPAG identified points of departure (POD) and rationale for selection from risk assessments
+published by other States, the EPA and ATSDR (Agency for Toxic Substances and Disease
+Registry). DPAG then assessed the underlying critical studies driving the selection of the POD.
+Every effort was made to use the experience and published findings from other agencies and
+build and refine on these as much as possible into a best practice approach.” (DPAG, January
+2021)
+
+In the “Drexel PFAS Workbook”, the DPAG explains how threshold levels (such as advisory
+levels, MCLGs, MCLs) are generally determined, although each state’s process can vary. Table
+3, taken from the workbook, is a helpful tool in understanding the process. More detail about the
+DPAG’s determination of MCLGs can be found as follows, under the subsections for PFOA and
+PFOS.
+
+
+
+
+                                                Page 7 of 40
+      Table 3. How POD is Used to Calculate Reference Dose (RfD) and Threshold Level
+                                                 (DPAG, June 2020)
+                                                        PFOA
+                                                       US EPA
+                                                Office of Water 2016
+                        Standard / Guidance    Health Advisory
+                                Media Type     Drinking Water
+             Threshold Level (ug/L) or (PPT)   0.07 ug/L 70 PPT (PFOA + PFOS cannot exceed this level)
+                                               Key Study Information
+       Critical Effect Key Study Reference1    Developmental (reduced ossification, accelerated puberty) Lau, C., J.R.
+                                               Thibodeaux, R.G. Hanson, M.G. Narotsky, J.M. Rogers, A.B. Lindstrom,
+                                               and M.J. Strynar. 2006. Effects of perfluorooctanoic acid exposure during
+                                               pregnancy in the mouse. Toxicological Science 90:510–518.
+                                   Species     Mice
+             Study Exposure Duration (days)    17 days
+                                                       Kinetics
+ Method of Administered Dose conversion to     Modeled AUC
+                      Internal Serum Level
+  Method to Derive Human Equivalent Dose      Dose adjustment factor of 0.00014 L/kg-day, based on first order kinetic
+                                              clearance rate (Vd x (ln 2 ÷ t½))
+                                                  Dose-Response
+           Dose Response Modeling Method LOAEL
+                                      POD2 38 mg/L
+   POD x DAF = Human Equivalent Dose3 0.0053 mg/kg/day
+                                             Uncertainty Extrapolation
+                   Human Variability (UFH) 10
+               Animal to Human (UFA)          3
+               Subchronic to Chronic (UFS) 1
+                  LOAEL to NOAEL (UFL) 10
+                            Database (UFD) 1
+                    Total Composite (UFT) 300
+ HED/UFT= Reference Dose (mg/kg-day)4 (2 x 10-5 mg/kg-day) or 20 ng/kg/d
+                                   Receptor Lactating women
+                                                     Exposure
+                      Ingestion Rate (L/day)
+                         Body Weight (Kg)
+Normalized Drinking Water Intake (L/kg-day) 0.054
+               Relative Source Contribution 20%
+         Threshold Level (ug/L) or (PPT)5 0.07 ug/L 70 PPT (PFOA + PFOA cannot exceed this level)
+                     Additional Information 90th percentile consumers only estimate of combined direct and indirect
+                                              community water ingestion for lactating women (see Table 3-81 in
+                                              USEPA 2011b).
+                                  Reference Health Effects Support Document for Perfluorooctanoic Acid, U.S.
+                                              Environmental Protection Agency Office of Water (4304T) Health and
+                                              Ecological Criteria Division, EPA Document Number: 822-R-16-003.
+                                              May 2016. and Drinking Water Health Advisory for Perfluorooctanoic
+                                              Acid, U.S. Environmental Protection Agency Office of Water (4304T)
+                                              Health and Ecological Criteria Division, EPA Document Number: 822-R-
+                                              16-005. May 2016 https://www.epa.gov/ground-water-and-drinking-
+                                              water/drinking-water-health-advisories-pfoa-and-pfos
+ Footnotes:
+      1     Critical effect selected
+      2     Point of Departure (POD) determined by critical review of study
+      3     POD adjusted by using preferred methods to derive Human Equivalent Dose (HED)
+      4     HED divided by Uncertainty Factors (UF) to achieve Reference Dose (RfD) in target population
+      5     Final adjustment made based on intake to derive Threshold Level (e.g. MCL, MCLG, HAL, etc.)
+
+
+
+                                                    Page 8 of 40
+Following completion of these two key projects – the PFAS Sampling Plan and the PFAS
+Toxicology Services Contract – the Department’s Safe Drinking Water Program moved forward
+with developing a proposed PFAS MCL rule.
+
+MCL Rulemaking Process
+
+The Department must follow a rigorous process when setting an MCL. An MCL rulemaking
+must be based on available data, studies, and science, and must consider all factors as required
+by the Federal Safe Drinking Water Act (Federal Act) and the Commonwealth’s Regulatory
+Review Act (RRA), 71 P.S. §§ 745.1—745.15. Among other things, the Department must
+consider the following:
+
+   •   Health effects,
+   •   Occurrence data,
+   •   Technical limitations such as available analytical methods and detection and reporting
+       limits,
+   •   Treatability of the contaminant and available treatment technologies, and
+   •   Costs and benefits. (71 P.S. § 745.5b).
+In addition to state requirements, the Department needs to consult the Federal Act and its
+implementing regulations. See 42 U.S.C.A. §§ 300f—300j-9; see also 40 CFR Parts 141, 142,
+and 143. EPA explains how the agency sets standards at the following link:
+www.epa.gov/sdwa/how-epa-regulates-drinking-water-contaminants. In establishing the MCLs
+in this proposed rulemaking, the Department was informed by EPA’s procedure to establish an
+MCL. It is important for the Department to understand EPA’s process of setting an MCL because
+similar criteria are required of the Department under the RRA and because the MCLs in this
+proposed rulemaking are the first MCLs that the Department has set; every other MCL in effect
+in this Commonwealth was set by EPA and incorporated by reference into the Department’s
+Chapter 109 regulations. In addition, in order to retain primacy for implementing the Federal Act
+in this Commonwealth, the Department’s standard setting process must be at least as stringent as
+the Federal process.
+
+After reviewing health effects data, EPA sets an MCLG. MCLGs are non-enforceable public
+health goals. MCLGs consider only public health and not the limits of detection and treatment
+technology effectiveness. Therefore, MCLGs sometimes are set at levels which water systems
+cannot meet because of technical limitations.
+
+Once the MCLG is determined, EPA sets an enforceable standard. In most cases, the standard is
+an MCL. The MCL is set as close to the MCLG as feasible. Taking cost into consideration, EPA
+must determine the feasible MCL.
+
+As a part of the rule analysis, the Federal Act requires EPA to prepare a health risk reduction and
+cost analysis in support of any standard. EPA must analyze the quantifiable and non-quantifiable
+benefits that are likely to occur as the result of compliance with the proposed standard. EPA
+must also analyze increased costs that will result from the proposed drinking water standard. In
+addition, EPA must consider incremental costs and benefits associated with the proposed
+
+
+                                           Page 9 of 40
+alternative MCL values. Where the benefits of a new MCL do not justify the costs, EPA may
+adjust the MCL to a level that maximizes health risk reduction benefits at a cost that is justified
+by the benefits.
+
+The amendments to Chapter 109 in this proposed rulemaking include new MCLGs and MCLs
+for PFOA and PFOS. The amendments also include the provisions necessary to comply with the
+MCLs, including requirements for monitoring and reporting, public notification, consumer
+confidence reports, acceptable treatment technologies and analytical requirements.
+
+The Department is proposing to not move forward with an MCL for other PFAS at this time due
+to the reasons outlined in Table 4.
+
+               Table 4. Reasons for not moving forward with MCLs for other PFAS.
+                                        PFNA        PFHxS       PFHpA         PFBS       HFPO-DA
+
+Lack of occurrence data > MCLG             x           x                        x             x
+Incomplete cost/benefit data and
+                                           x           x           x            x             x
+analysis
+Reference dose was not derived due
+                                                                   x
+to lack of evidence on its toxicity
+Lack of treatability data                                                                     x
+
+The decision to not move forward with MCLs for additional PFAS at this time is further
+supported by a review of co-occurrence data. This review considers the frequency with which
+individual PFAS detections co-occurred with other PFAS detections in the occurrence data set
+used for this rulemaking. Based on an analysis of co-occurrence data, only 3.7% of all sites (or
+16 out of 435 sites) had detections of at least one other PFAS at a level greater than its
+recommended MCLG when PFOA or PFOS levels did not exceed the proposed MCLs. In other
+words, the PFOA and PFOS proposed MCLs appear to be protective of other PFAS at least
+96.3% of the time.
+
+PFOA
+
+PFOA – DPAG Development of MCLG
+
+After a literature search and a review of the available evidence and recommendations from
+various agencies, the DPAG developed an MCLG recommendation for PFOA of 8 ng/L or ppt
+based on non-cancer endpoints. The DPAG determined that the most relevant inputs were from
+the EPA, Agency for Toxic Substances and Disease Registry (ATSDR), Minnesota Department
+of Health (MDH), New Jersey Department of Environmental Protection (NJDEP), and Michigan
+Department of Health and Human Services (MDHHS).
+
+The DPAG selected Koskela, et al. (2016) and Onishchenko, et al. (2011) as the critical studies,
+which identified developmental effects (including neurobehavioral and skeletal effects) as
+critical. The DPAG adopted the ATSDR’s estimated Point of Departure (POD) of 8.29 mg/L.
+The DPAG followed the approaches used by MDHHS, MDH, and ATSDR to select and
+
+
+
+                                            Page 10 of 40
+determine the Human Equivalent Dose (HED), Uncertainty Factors (UF), Reference Dose (RfD),
+Relative Source Contribution (RSC) and recommended MCLG. Table 5 provides a summary of
+the DPAG’s derivation of the MCLG for PFOA.
+
+
+
+
+                                       Page 11 of 40
+               Table 5. DPAG Derivation of PFOA MCLG (DPAG, January 2021)
+                                                         PFOA
+                                  Drexel PFAS Advisory Group (DPAG) 2021
+Dose Response Modeling
+                            LOAEL
+Method
+POD                         The average serum concentration was estimated in the mice (8.29 mg/L) using a three-
+                            compartment pharmacokinetic model (Wambaugh et al. 2013) using animal species,
+                            strain, sex-specific parameters. (ATSDR 2018)
+HED = POD x DAF             DAF = Ke x Vd
+(mg/kg/d)                   Ke = 0.000825175 (8.2 x 10-4) based on a human serum half-life of 840 days (Bartell et
+                            al. 2010)
+                            Vd = 0.17 L/kg (Thompson et al. 2010)
+                            HEDLOAEL = PODLOAEL x DAF
+                            HEDLOAEL = PODLOAEL x Ke x Vd
+                            HEDLOAEL = 8.29 mg/L x 0.0000825175 x 0.17 L/kg
+                            HEDLOAEL = 0.001163 mg/kg/d or 1.163 x 10 -3 mg/kg/d
+Uncertainty Extrapolation
+Human Variability (UFH)     10 (standard)
+
+
+Animal to Human (UFA)       3 (DAF applied)
+
+
+Subchronic to Chronic       1 (Chronic effect studied)
+(UFS)
+LOAEL to NOAEL (UFL)        10 (standard)
+
+
+Database (UFD)              1
+
+
+Total Composite (UFT)       300
+
+
+RfD = HED/UFT               RfD = 0.001163 mg/kg/d/300
+(mg/kg/d)                   RfD = 3.9 ng/kg/day (3.9 x 10-6 mg/kg/d)
+THSV = POD / UFT            THSV= 8.29 mg/L/ 300
+                            THSV= 0.028 mg/L
+Receptor                    Infant exposure via breastmilk for 1 year, from mother chronically exposed via water,
+                            followed by lifetime of exposure via drinking water. Protective for short-term, subchronic
+                            and chronic. (also protective of formula fed infant). Goeden Model Parameters: Placental
+                            transfer of 87% and breastmilk transfer of 5.2% (MDH (2020 PFOA)). The Human Serum
+                            half-life is set at 840 days (Bartell et al. 2010). The Volume of distribution of 0.17 L/kg
+                            (Thompson et al. [2010]) Other factors include, 95th percentile drinking water intake,
+                            consumers only, from birth to more than 21 years old. Upper percentile (mean plus two
+                            standard deviations) breast milk intake rate. Time-weighted average water ingestion rate
+                            from birth to 30-35 years of age is used to calculate maternal serum concentration at
+                            delivery. (Goeden et al. [2019]) A Relative Source Contribution of 50% (0.5) is applied
+                            and based on studies which showed that infants RSC is similar to NHANES 95th
+                            percentiles for 3-11 (2013-2014) and over 12 years old (2015-2016) participants. (CDC
+                            2019)
+Chronic Non-Cancer          The model produces a Chronic Non-Cancer MCLG of 8 ng/L (ppt). This protects health
+MCLG                        during the growth and development of a breast fed infant.
+
+
+
+
+                                                Page 12 of 40
+In summary, the DPAG recommended a chronic non-cancer MCLG for PFOA of 8 ng/L to
+protect breast-fed infants and throughout life.
+
+The Board is proposing to set the MCLG for PFOA at the DPAG recommended level of 8 ng/L.
+
+PFOA – Occurrence Data
+
+Table 6 is a summary of occurrence data for PFOA. The data includes 412 results from the PFAS
+Sampling Plan and detect data from 23 sites under UCMR3 for a total of 435 sample results.
+
+                       Table 6. PFOA Occurrence Data > MCLG of 8 ng/L
+                         PFOA Occurrence Data > Proposed MCLG of 8 ng/L
+
+      # of sites (of 435) > MCLG                                                 46
+
+      % of sites > MCLG                                                        10.6%
+
+      Estimated # of EPs (of 3785) > MCLG                                       400
+
+A review of occurrence data indicates that 46 EPs out of a total number of 435 EPs sampled
+exceeded the proposed MCLG for PFOA of 8 ng/L. This represents 10.6% of all EPs sampled.
+This exceedance rate may overestimate the exceedance rate for other PWSs in Pennsylvania that
+were not sampled because the occurrence data sampling predominately targeted sites near
+potential sources of PFAS contamination. However, the occurrence data provides the most
+relevant information currently available on the prevalence and levels of PFAS in PWSs in
+Pennsylvania. Applying the occurrence data PFOA MCLG exceedance rate (10.6%) to the total
+number of EPs for all applicable PWSs (3,785 EPs), it is estimated that 400 EPs will exceed the
+proposed MCLG of 8 ng/L.
+
+PFOA – Proposed MCL of 14 ng/L
+
+The Board is proposing an MCL of 14 ng/L for PFOA. The proposed MCL is based on the health
+effects and proposed MCLG, occurrence data, technical feasibility, and costs and benefits.
+
+Table 7 is a summary of occurrence data for PFOA when compared to the proposed MCL of 14
+ng/L.
+
+                         Table 7. PFOA Occurrence Data > MCL of 14 ng/L
+                         PFOA Occurrence Data > Proposed MCL of 14 ng/L
+
+      # of sites (of 435) > MCL                                                  25
+
+      % of sites > MCL                                                          5.7%
+      Estimated # of EPs (of 3785) > MCLG                                       218
+
+A review of occurrence data indicates that 25 EPs out of a total number of 435 EPs sampled
+exceeded the proposed MCL for PFOA of 14 ng/L. This represents 5.7% of all EPs sampled.
+
+
+                                            Page 13 of 40
+This exceedance rate may overestimate the exceedance rate for other PWSs in Pennsylvania that
+were not sampled because the occurrence data sampling predominately targeted sites near
+potential sources of PFAS contamination. However, the occurrence data provides the most
+relevant information currently available on the prevalence and levels of PFAS in PWSs in
+Pennsylvania. Applying the occurrence data PFOA MCL exceedance rate (5.7%) to the total
+number of EPs for all applicable PWSs (3,785 EPs), it is estimated that 218 EPs will exceed the
+proposed MCL of 14 ng/L.
+
+Treatment cost estimates were determined based on a survey conducted of systems in this
+Commonwealth with existing PFAS treatment and of PFAS treatment manufacturers, an
+American Water Works Association published PFAS Case Study and from information provided
+by members of the Association of State Drinking Water Administrators (ASDWA). Costs were
+provided for granular activated carbon (GAC), anion exchange (IX) and reverse osmosis (RO).
+The RO costs were not included in the final cost estimates because, due to wastewater disposal
+requirements, the technology is currently impractical. Additionally, the costs for GAC, IX, and
+RO provided from the vendors were excluded from the final cost estimates because they were
+limited to media costs and did not include the infrastructure requirements.
+
+All treatment capital cost were normalized to construction costs for treating 1 million gallons per
+day (MGD).
+
+   •   The average capital cost for the GAC treatment was $3,457,110 per MGD per EP with an
+       average annual operation and maintenance (O&M) cost of $171,970 per MGD per EP.
+   •   The average capital cost for the IX treatment was $3,284,360 per MGD per EP with an
+       average annual O&M cost of $155,666 per MGD per EP.
+   •   The average capital cost for using either GAC or IX treatment is $3,370,735 per MGD
+       per EP with an average annual O&M cost of $163,818 per MGD per EP.
+   •   Annualized over 20 years at a 4% interest rate, the average annual capital cost for either
+       GAC or IX treatment is $248,025 per MGD per EP.
+
+Below is a summary of the estimated costs and benefits associated with the proposed MCL for
+PFOA of 14 ng/L. Section F of this preamble presents additional information on the costs and
+benefits of this proposed rulemaking. Treatment cost estimates are based on the costs to install
+and maintain treatment for a 1 MGD treatment plant. The actual costs would be expected to be
+proportionally less for a treatment plant with a smaller design capacity. For example, the average
+design capacity for small systems is 100,000 gallons per day, which is one-tenth of 1 MGD (that
+is, 0.1 MGD); treatment cost estimates for a small system with a design capacity of 0.1 MGD
+would be one-tenth of the cost estimates presented below.
+
+   •   Estimated costs:
+       o Estimated average annual compliance monitoring costs (@ $616/EP/Quarter) =
+         $2.9 M
+       o Estimated average annual treatment costs (average of GAC and IX) = $89.8 M per
+         MGD + estimated annual performance monitoring costs = $4.8 M
+
+
+
+                                           Page 14 of 40
+              •   Estimated annual treatment capital costs, annualized over 20 years at 4%
+                  interest = $248,025 per MGD per EP x 218 EPs = $54.1 M per MGD
+              •   Estimated annual treatment O&M costs = $35.7 M per MGD + estimated
+                  annual performance monitoring costs = $4.8 M
+                     •   Estimated annual treatment O&M costs = $163,818 per MGD per EP x
+                         218 EPs = $35.7 M per MGD
+                     •   Estimated annual performance monitoring costs = $616 per sample per
+                         EP x 36 samples = $22,176 per EP x 218 EPs = $4.8 M
+       o Estimated total annual costs = $89.8 M per MGD in treatment costs + $7.7 M in
+         compliance monitoring and performance monitoring costs
+   •   Estimated benefits:
+       o 90% improvement in health protection as compared to current EPA HAL of 70 ppt
+
+Table 8 provides a comparison of annual costs and benefits for the proposed MCL for PFOA of
+14 ng/L, EPA’s HAL of 70 ng/L, and other values considered for the proposed MCL.
+Performance monitoring costs are considered part of treatment O&M costs because performance
+monitoring is used to make operational decisions, such as when to change out treatment media.
+
+
+
+
+                                         Page 15 of 40
+                                      Table 8. PFOA Comparison of Annual Costs and Benefits
+                                                PFOA Annual Costs and Benefits Analysis
+                                            Treatment O&M Costs     Treatment Capital                                        % Improvement
+            Estimated     Compliance                                                                          % Increase
+                                          Treatment Performance      Costs (Millions)                                           in Health
+ Value       # of EPs     Monitoring                                                    Total Costs            in Cost
+                                          O&M Costs Monitoring         per MGD*                                                Protection
+ (ng/L)     (of 3,785)       Costs                                                       (Millions)           Compared
+                                           (Millions)    Costs         annualized                                              Compared
+             > Value       (Millions)                                                                          to HAL
+                                          per MGD*     (Millions)     over 20 years                                              to HAL
+HAL = 70         58           $2.46           $9.50          $1.29              $14.39            $27.63          0%                0%
+  35             78           $2.56          $12.78          $1.73              $19.35            $36.41          32%              56%
+  20            200           $2.73          $32.76          $4.44              $49.60            $89.53         224%              80%
+MCL = 14        218           $2.89          $35.71          $4.83              $54.07            $97.51         253%              90%
+  12            270           $2.97          $44.23          $5.99              $66.97           $120.15         335%              93%
+  10            313           $3.07          $51.28          $6.94              $77.63           $138.92         403%              96%
+MCLG = 8        400           $3.39          $65.53          $8.87              $99.21           $177.00         541%              100%
+
+ *
+   For purposes of totaling annual costs, the costs that vary with design capacity (treatment O&M and treatment capital costs) were multiplied
+ by a benchmark design capacity of 1 MGD.
+
+
+
+
+                                                                Page 16 of 40
+In evaluating the costs and benefits, the Department’s goal was to provide at least a 90%
+reduction in adverse health effects (a 90% improvement in health protection) when compared to
+the HAL of 70 ng/L. This goal is consistent with several existing drinking water standards
+including the following standards:
+
+   •   the requirement to achieve at least a 90% inactivation of Giardia cysts using disinfection
+       processes within a filtration plant (§ 109.202(c)(1)(ii) (relating to treatment technique
+       requirements for pathogenic bacteria, viruses and protozoan cysts));
+   •   the use of the 90th percentile lead and copper levels when determining compliance with
+       the lead and copper action levels of 0.015 mg/L and 1.3 mg/L, respectively
+       (§ 109.1102(a)) (relating to action levels for lead and copper)), and
+   •   the requirement to meet the filtered water turbidity standards in 95% of measurements
+       taken each month (§ 109.202(c)(1)(i)).
+
+As shown in Table 8 and Figure 1, additional improvement in public health benefits at PFOA
+values lower than the proposed MCL of 14 ng/L would require increasingly steep costs. For
+example, compared with the proposed MCL of 14 ng/L, an MCL value of 10 ng/L is estimated to
+achieve an additional 6% increase at an additional annual cost of approximately $41.4 M (Table
+8, Figure 1), which is a rate of approximately $7 M in additional annual costs for every
+additional 1% of benefits. Compared with the HAL, the proposed MCL of 14 ng/L is estimated
+to achieve a 90% improvement in public health benefits at an additional annual cost of roughly
+$70 M, which is a rate of approximately $0.8 M in additional annual costs for every additional
+1% of benefits.
+
+
+
+
+                                          Page 17 of 40
+Figure 1. Annual Total Costs and Benefits (% Health Protection Improvement) at Various PFOA
+                                            levels
+
+
+
+
+For the aforementioned reasons, the Department believes that the proposed MCL for PFOA of 14
+ng/L strikes an appropriate balance between the benefits (90% improvement in public health)
+and costs (253% increase in costs) when compared to the benefits and costs associated with
+meeting the HAL of 70 ng/L.
+
+PFOS
+
+PFOS – DPAG Development of MCLG
+
+After a literature search and a review of the available evidence and recommendations from
+various agencies, the DPAG developed an MCLG recommendation for PFOS of 14 ng/L or ppt
+based on non-cancer endpoints. The DPAG referenced inputs from the EPA, ATSDR, MDH and
+MDHHS.
+
+The DPAG selected Dong, et al. (2011) as the critical study, which identified immunotoxicity
+effects (including immune suppression) as critical. The DPAG determined that a POD of 2.36
+mg/L is appropriate. The DPAG followed the approaches used by MDHHS, MDH and EPA to
+select and determine the Human Equivalent Dose (HED), Uncertainty Factors (UF), Reference
+
+
+
+
+                                         Page 18 of 40
+Dose (RfD), Relative Source Contribution (RSC) and recommended MCLG. Table 9 provides a
+summary of the DPAG’s derivation of the MCLG for PFOS.
+
+                Table 9. DPAG Derivation of PFOS MCLG (DPAG, January 2021)
+                                                       PFOS
+                                   Drexel PFAS Advisory Group (DPAG) 2021
+ Dose Response Modeling      NOAEL
+ Method
+ POD                         2.36 μg/mL (or 2.36 mg/L)
+
+
+ HED = POD x DAF             Toxicokinetic Adjustment based on Chemical- Specific Clearance Rate (Li et al 2018,
+ (mg/kg/d)                   MDH 2020 PFOS)
+                             DAF = Vd (L/kg) x (Ln2/Half-life, days)
+                             DAF = 0.23 L/kg x (0.693/1241 days) =
+                             DAF = 0.00013 L/kg/d
+                             HED = POD x DAF (mg/kg/d)
+                             HED = 2.36 mg/L x 0.00013 L/kg/d
+                             HED = 0.000307 mg/kg/d
+ Uncertainty Extrapolation
+ Human Variability (UFH)     10
+
+
+ Animal to Human (UFA)       3 (DAF applied)
+
+
+ Subchronic to Chronic       1
+ (UFS)
+ LOAEL to NOAEL (UFL)        1
+
+
+ Database (UFD)              3
+
+
+ Total Composite (UFT)       100
+
+
+ RfD = HED/UFT               RfD = HED/UFT (mg/kg/d)
+ (mg/kg/d)                   RfD = 0.000307 mg/kg-d/100
+                             RfD = 3.1 ng/kg/d or 3.1x 10-6 mg/kg-d
+ THSV = POD/UFT              ITSHV = 2.36 mg/L/100
+                             ITSHV = 0.024 mg/mL
+ Receptor                    Infant exposure via breastmilk for 1 year, from mother chronically exposed via water,
+                             followed by lifetime of exposure via drinking water. Protective for short-term, subchronic
+                             and chronic. The 95th percentile water intake rates (Table 3-1 and 3-3, USEPA 2019) or
+                             upper percentile breastmilk intake rates (Table 15-1, USEPA 2019) were used. Breast-fed
+                             infant, which is also protective of a formula-fed infant using Minnesota Department of
+                             Health Model based on Goeden (2019). Placental transfer of 40% (MDH 2020 PFOS).
+                             Breastmilk transfer of 1.7% (MDH 2020 PFOS). Human Serum half-life of 1241 days (Li
+                             et al. 2018) Volume of distribution of 0.23 L/kg (USA EPA 2016c) 95th percentile
+                             drinking water intake, consumers only, from birth to more than 21 years old (Goeden
+                             [2019]) Upper percentile (mean plus two standard deviations) breast milk intake rate
+                             (Goeden [2019]) Time-weighted average water ingestion rate from birth to 30-35 years of
+                             age (to calculate maternal serum concentration at delivery) (Goeden [2019])
+ Chronic Non-Cancer          The model produces a Chronic Non-Cancer MCLG of 14 ng/L (ppt). This protects health
+ MCLG                        during the growth and development of a breast fed infant.
+
+
+
+
+                                                 Page 19 of 40
+In summary, the DPAG recommended a chronic non-cancer MCLG for PFOS of 14 ng/L to
+protect breast-fed infants and throughout life.
+
+The Board is proposing to set the MCLG for PFOS at the DPAG recommended level of 14 ng/L.
+
+PFOS – Occurrence Data
+
+Table 10 is a summary of occurrence data for PFOS. The data includes 412 results from the
+PFAS Sampling Plan and detect data from 23 sites under UCMR3 for a total of 435 sample
+results.
+
+                     Table 10. PFOS Occurrence Data > MCLG of 14 ng/L
+                      PFOS Occurrence Data > Proposed MCLG of 14 ng/L
+
+      # of sites (of 435) > MCLG                                                 23
+      % of sites > MCLG                                                         5.3%
+
+      Estimated # of EPs (of 3785) > MCLG                                       200
+
+A review of occurrence data indicates that 23 EPs out of a total number of 435 EPs sampled
+exceeded the proposed MCLG for PFOS of 14 ng/L. This represents 5.3% of all EPs sampled.
+This exceedance rate may overestimate the exceedance rate for other PWSs in Pennsylvania that
+were not sampled because the occurrence data sampling predominately targeted sites near
+potential sources of PFAS contamination. However, the occurrence data provides the most
+relevant information currently available on the prevalence and levels of PFAS in PWSs in
+Pennsylvania. Applying the occurrence data PFOS MCLG exceedance rate (5.3%) to the total
+number of EPs for all applicable PWSs (3,785 EPs), it is estimated that 200 EPs will exceed the
+proposed MCLG of 14 ng/L.
+
+PFOS – Proposed MCL of 18 ng/L
+
+The Board is proposing an MCL of 18 ng/L for PFOS. The proposed MCL is based on the health
+effects and proposed MCLG, occurrence data, technical feasibility, and costs and benefits.
+
+Table 11 is a summary of occurrence data for PFOS when compared to the proposed MCL of 18
+ng/L.
+
+                      Table 11. PFOS Occurrence Data > MCL of 18 ng/L
+                         PFOS Occurrence Data > Proposed MCL of 18 ng/L
+
+      # of sites (of 435) > MCL                                                  22
+      % of sites > MCL                                                          5.1%
+
+      Estimated # of EPs (of 3785) > MCL                                        191
+
+
+
+
+                                            Page 20 of 40
+A review of occurrence data indicates that 22 EPs out of a total number of 435 EPs sampled
+exceeded the proposed MCL for PFOS of 18 ng/L. This represents 5.1% of all EPs sampled. This
+exceedance rate may overestimate the exceedance rate for other PWSs in Pennsylvania that were
+not sampled because the occurrence data sampling predominately targeted sites near potential
+sources of PFAS contamination. However, the occurrence data provides the most relevant
+information currently available on the prevalence and levels of PFAS in PWSs in Pennsylvania.
+Applying the occurrence data PFOS MCL exceedance rate (5.1%) to the total number of EPs for
+all applicable PWSs (3,785 EPs), it is estimated that 191 EPs will exceed the proposed MCL of
+18 ng/L.
+
+Below is a summary of the estimated costs and benefits associated with the proposed MCL for
+PFOS of 18 ng/L. Section F of this preamble presents additional information on the costs and
+benefits of this proposed rulemaking. Treatment cost estimates are based on the costs to install
+and maintain treatment for a 1 MDG treatment plant. The actual costs would be expected to be
+proportionally less for a treatment plant with a smaller design capacity. For example, the average
+design capacity for small systems is 100,000 gallons per day, which is one-tenth of 1 MGD (that
+is, 0.1 MGD); treatment cost estimates for a small system with a design capacity of 0.1 MGD
+would be one-tenth of the cost estimates presented below.
+
+   •   Estimated costs:
+       o Estimated average annual compliance monitoring costs (@ $616/EP/Quarter) = $2.7
+         M
+       o Estimated average annual treatment costs (average of GAC and IX) = $78.7 M per
+         MGD + estimated annual performance monitoring costs = $4.2 M
+               •   Estimated annual treatment capital costs, annualized over 20 years at 4%
+                   interest = $248,025 per MGD per EP x 191 EPs = $47.4 M per MGD
+               •   Estimated annual treatment O&M costs = $31.3 M per MGD + estimated
+                   annual performance monitoring costs = $4.2 M
+                      •   Estimated annual treatment O&M costs = $163,818 per MGD per EP x
+                          191 EPs = $31.3 M per MGD
+                      •   Estimated annual performance monitoring costs = $616 per sample per
+                          EP x 36 samples = $22,176 per EP x 191 EPs = $4.2 M
+       o Estimated total annual costs = $78.7 M per MGD in treatment costs + $6.9 M in
+         compliance monitoring and performance monitoring costs
+   •   Estimated benefits:
+       o 93% improvement in health protection as compared to current EPA HAL of 70 ppt
+
+Table 12 provides a comparison of annual costs and benefits for the proposed MCL for PFOS of
+18 ng/L, EPA’s HAL of 70 ng/L and other values considered for the proposed MCL.
+Performance monitoring costs are considered part of treatment O&M costs because performance
+monitoring is used to make operational decisions, such as when to change out treatment media.
+
+
+
+
+                                          Page 21 of 40
+                                     Table 12. PFOS Comparison of Annual Costs and Benefits
+                                                PFOS Annual Costs and Benefits Analysis
+                                           Treatment O&M Costs      Treatment Capital                                         % Improvement
+             Estimate     Compliance                                                                           % Increase
+                                         Treatment Performance       Costs (Millions)                                            in Health
+  Value       # of EPs    Monitoring                                                    Total Costs             in Cost
+                                         O&M Costs Monitoring           per MGD*                                                Protection
+  (ng/L)     (of 3,785)      Costs                                                       (Millions)            Compared
+                                          (Millions)     Costs          annualized                                              Compared
+              > Value      (Millions)                                                                           to HAL
+                                         per MGD*      (Millions)      over 20 years                                              to HAL
+HAL = 70        96           $2.57          $15.73           $2.13              $23.81             $44.24          ----               ----
+   35           148          $2.64          $24.25           $3.28              $36.71             $66.87          51%               63%
+   20           183          $2.70          $29.98           $4.06              $45.39             $82.13          86%               89%
+MCL = 18        191          $2.70          $31.29           $4.24              $47.37             $85.60         94%               93%
+   16           200          $2.73          $32.76           $4.44              $49.60             $89.53         102%               96%
+   15           200          $2.81          $32.76           $4.44              $49.60             $89.61         103%               98%
+MCLG = 14       200          $2.88          $32.76           $4.44              $49.60             $89.68         103%              100%
+
+ *
+   For purposes of totaling annual costs, the costs that vary with design capacity (treatment O&M and treatment capital costs) were multiplied
+ by a benchmark design capacity of 1 MGD.
+
+
+
+
+                                                                Page 22 of 40
+In evaluating the costs and benefits, the Department’s goal was to provide at least a 90%
+reduction in adverse health effects (a 90% improvement in health protection) when compared to
+the HAL of 70 ng/L. This goal is consistent with several existing drinking water standards
+including the following standards:
+
+   •   the requirement to achieve at least a 90% inactivation of Giardia cysts using disinfection
+       processes within a filtration plant (§ 109.202(c)(1)(ii) (relating to treatment technique
+       requirements for pathogenic bacteria, viruses and protozoan cysts));
+   •   the use of the 90th percentile lead and copper levels when determining compliance with
+       the lead and copper action levels of 0.015 mg/L and 1.3 mg/L, respectively
+       (§ 109.1102(a)) (relating to action levels for lead and copper)), and
+   •   the requirement to meet the filtered water turbidity standards in 95% of measurements
+       taken each month (§ 109.202(c)(1)(i)).
+
+As shown in Table 12 and Figure 2, additional improvement in public health benefits at PFOS
+values lower than the proposed MCL of 18 ng/L would require increasingly steep costs. For
+example, compared with the proposed MCL of 18 ng/L, an MCL value of 16 ng/L is estimated to
+achieve an additional 3% increase at an additional annual cost of approximately $3.9 M (Table
+12, Figure 2), which is a rate of approximately $1.3 M in additional annual costs for every
+additional 1% of benefits. Compared with the HAL, the proposed MCL of 18 ng/L is estimated
+to achieve a 93% improvement in public health benefits at an additional annual cost of roughly
+$41.4 M, which is a rate of approximately $0.4 M in additional annual costs for every additional
+1% of benefits.
+
+
+
+
+                                          Page 23 of 40
+Figure 2. Annual Total Costs and Benefits (% Health Protection Improvement) at Various PFOS
+                                            levels
+
+
+
+
+For the aforementioned reasons, the Department believes that the proposed MCL for PFOS of 18
+ng/L strikes a balance between the benefits (93% improvement in public health) and costs (94%
+increase in costs) when compared to the benefits and costs associated with meeting the HAL of
+70 ng/L.
+
+State Data
+
+Currently, six other states have set MCLs for select PFAS, including PFOA and PFOS, as
+summarized in Table 13. The proposed MCLs for the Commonwealth are of comparable
+magnitude as the other state standards.
+
+                 Table 13. PFOA and PFOS MCLs (in ng/L) from Six Other States
+                  NY            MI           NJ           NH            PA           MA            VT
+   PFOA           10            8            14           12            14           20*           20*
+   PFOS           10            16           13           15            18           20*           20*
+   * The MCL for MA & VT is for a group of 5 (VT) or 6 (MA) PFAS, including PFOA and PFOS (not individual
+contaminants).
+
+
+
+
+                                              Page 24 of 40
+Advisory Committee Review
+
+The Public Water System Technical Assistance Center (TAC) Board reviewed the pre-draft
+proposed rulemaking on July 29, 2021, and recommended that the pre-draft rulemaking move
+forward to the Board as a proposed rulemaking.
+
+References
+
+American Water Works Association (AWWA), 2020, “PFAS Case Study: Cape Fear Public
+Utility Authority (CFPUA).”
+
+Association of State Drinking Water Administrators (ASDWA), October 2020, “Per- and
+Polyfluoroalkyl Substances (PFAS) and State Drinking Water Program Challenges.”
+
+ASDWA, October 2020, “Technical Bulletin to Laboratories Reporting PFAS Analysis Using
+EPA Methods 533, 537, or 537.1.”
+
+ASDWA, February 2021, “Per- and Polyfluoroalkyl Substances (PFAS) Laboratory Testing
+Primer for State Drinking Water Programs and Public Water Systems.”
+
+Buck, R.C. et al., 2011, “Perfluoroalkyl and Polyfluoroalkyl Substance in the Environment:
+Terminology, Classification, and Origins,” Integrated Environmental Assessment and
+Management, Vol. 7, No. 4, pp. 513-541.
+
+California Water Boards, October 2020, “Perfluorooctanoic Acid (PFOA) and
+Perfluorooctanesulfonic Acid (PFOS),
+www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/PFOA_PFOS.html
+
+Connecticut Water, “What Are PFAS?” www.ctwater.com/water-quality/what-are-pfas
+
+DPAG, June 2020, “Drexel PFAS Workbook.”
+https://files.dep.state.pa.us/PublicParticipation/Public%20Participation%20Center/PubPartCenter
+PortalFiles/Environmental%20Quality%20Board/2021/June%2015/03_PFAS%20Petition/01b_A
+pp%202%20Drexel%20PFAS%20Workbook%20January%202021.pdf
+
+DPAG, January 2021, “Maximum Contaminant Level Goal Drinking Water Recommendations
+for Per- and Polyfluoroalkyl Substances (PFAS) in the Commonwealth of Pennsylvania.”
+https://files.dep.state.pa.us/PublicParticipation/Public%20Participation%20Center/PubPartCenter
+PortalFiles/Environmental%20Quality%20Board/2021/June%2015/03_PFAS%20Petition/01a_A
+pp%201%20Drexel%20PFAS%20Report%20January%202021.pdf
+
+Kwiatkowski, C.F. et al., 2020, “Scientific Basis for Managing PFAS as a Chemical Class,”
+Environmental Science and Technology Letters, Vol. 7, pp. 532-543.
+
+Longsworth, Sarah Grace, 2020, “Processes and Considerations for Setting State PFAS
+Standards,” Environmental Council of the States.
+
+
+
+
+                                         Page 25 of 40
+Massachusetts DEP, November 2020, “310 CMR 22.00: The Massachusetts Drinking Water
+Regulations.”
+
+Michigan Administrative Code(s) for Environment, Great Lakes, and Energy – Drinking Water
+and Environmental Health Division, August 2020 updated, “Supplying Water to the Public.”
+
+Minnesota Department of Health, “Perfluoroalkyl Substances (PFAS),
+www.health.state.mn.us/communities/environment/hazardous/topics/pfcs.html#safelevels
+
+New Hampshire Department of Environmental Services, “New Hampshire Code of
+Administrative Rules,” Parts Env-Dw 705, 707, 708, 712, 800, 2021
+
+New Jersey Department of Environmental Protection, March 2020, “Ground Water Quality
+Standards amd Maximum Contaminant Levels (MCLs) for Perfluorooctanoic Acid (PFOA) and
+Perfluorooctanesulfonic Acid (PFOS).”
+
+New York State Department of Health, July 2020, “Maximum Contaminant Levels (MCLs).”
+
+Ohio Department of Health and Ohio Environmental Protection Agency, December 2019, “Ohio
+Per- and Polyfluoroalkyl Substances (PFAS) Action Plan for Drinking Water.”
+
+PA DEP, April 2019, “Pennsylvania Department of Environmental Protection Bureau of Safe
+Drinking Water PFAS Sampling Plan.”
+
+PA DEP, May 2021, “Summary of Responses from Survey of Pennsylvania Accredited
+Laboratories for PFAS.”
+
+PA DEP, May 2021, “Summary of Results for SDW Sampling Project Using EPA Method
+537.1.”
+
+PA DEP, July 2021, “PFAS Monitoring Costs.”
+
+PA DEP, July 2021, “PFAS Treatment Survey Response Summary.”
+
+Post, Gloria B., August 2020, “Recent US State and Federal Drinking Water Guidelines for Per-
+and Polyfluoroalkyl Substances,” Environmental Toxicology and Chemistry, Volume 00,
+Number 00, pp. 1-14.
+
+Rosenblum, Laura and Steven C. Wendelken, November 2019 , “Method 533: Determination of
+Per- and Polyfluoroalkyl Substances in Drinking Water by Isotope Dilution Anion Exchange
+Solid Phase Extraction and Liquid Chromatography/Tandem Mass Spectrometry,” US EPA
+Office of Water, EPA Document No. 815-B-19-020.
+
+Shoemaker, J.A. and D.R. Tettenhorst, November 2018, “Method 537.1. Determination of
+Selected Per-and Polyfluorinated Alkyl Substances in Drinking Water by Solid Phase Extraction
+and Liquid Chromatography/Tandem Mass Spectrometry (LC/MC/MC),” Version 1.0, US EPA
+Office of Research and Development, EPA Document # EPA/600/R-18/352.
+
+
+
+
+                                        Page 26 of 40
+Shoemaker, J.A., P.E. Grimmett, and B.K. Boutin, September 2009, “Method 537.
+Determination of Selected Perfluorinated Alkyl Acids in Drinking Water by Solid Phase
+Extraction and Liquid Chromatography/Tandem Mass Spectrometry (LC/MC/MC),” Version
+1.1, US EPA Office of Research and Development, EPA Document # EPA/600/R-08/092.
+
+US EPA, May 2016, “Drinking Water Health Advisory for Perfluorooctanoic Acid (PFOA),”
+EPA 822-R-16-005
+
+US EPA, May 2016, “Drinking Water Health Advisory for Perfluorooctane Sulfonate (PFOS),”
+EPA 822-R-16-004
+
+US EPA, May 2016, “Health Effects Support Document for Perfluorooctanoic Acid (PFOA),”
+EPA 822-R-16-003
+
+US EPA, May 2016, “Heath Effects Support Document for Perfluorooctane Sulfonate (PFOS),”
+EPA 822-R-16-002
+
+US EPA, January 2018, “UCMR 3 Occurrence Data by State.”
+
+US EPA, February 2020, “EPA PFAS Action Plan: Program Update.”
+
+US EPA, March 2021, “Announcement of Final Regulatory Determinations for Contaminants on
+the Fourth Drinking Water Contaminant Candidate List,” Federal Register, Vol. 86, No. 40.
+
+US EPA, March 2021, “Revisions to the Unregulated Contaminant Monitoring Rule (UCMR 5)
+for Public Water Systems and Announcement of Public Meeting,” Federal Register, Vol. 86, No.
+46, pp. 13846-13872
+
+Vermont Agency of Natural Resources, Department of Environmental Conservation, Drinking
+Water and Groundwater Protection Division, March 2020 updated, “Environmental Protection
+Rules Chapter 21 Water Supply Rule.”
+
+E. Summary of Regulatory Requirements
+
+§ 109.1. Definitions
+
+A definition for the acronym “CASRN—Chemical Abstracts Service Registry Number” is
+proposed to be added because the CASRN numbers are included for each of the individual PFAS
+compounds included in the regulation.
+
+A definition for “GAC—Granular Activated Carbon” is proposed to be added because GAC is
+one of the treatment technologies considered acceptable for PFAS removal.
+
+A definition for “MCLG—Maximum Contaminant Level Goal” is proposed to be added. The
+definition is from 40 CFR 141.2 (relating to definitions) with added text referencing MCLGs
+established under both the Federal and state acts.
+
+
+
+
+                                         Page 27 of 40
+The acronym “MDL” is proposed to be added to the existing definition “Method detection limit”
+with the amended definition alphabetically reordered. The definition for “Method detection
+limit” is also proposed to be revised to be consistent with the current definition in the Federal
+regulations at 40 CFR Part 136 Appendix B (relating to definition and procedure for the
+determination of the method detection limit – revision 2).
+
+A definition for “MRL—Minimum reporting level” is proposed to be added.
+
+Definitions for the following acronyms are proposed to be added: “PFAS,” “PFOA,” and
+“PFOS.” Definitions for individual compounds include the CASRN number in order to eliminate
+confusion as to the specific chemical form that is included in the regulation.
+
+A definition for Performance Evaluation Sample is proposed to be added to be consistent with
+federal language.
+
+The existing definition for “Reliably and consistently below the MCL” is proposed to be
+amended to add “PFAS” defined as less than 80% of the MCL.
+
+§ 109.202. State MCLs, MRDLs and treatment technique requirements
+
+Proposed subsection (a)(4) for “Other MCLs” would add MCLs and MCLGs for PFOA and
+PFOS, with an effective date of the publication of the final rulemaking. The MCLs and MCLGs
+are listed in both milligrams per liter (mg/L), which are the traditional units for MCLs, as well as
+in nanograms per liter (ng/L) for clarity, since the numbers are so low.
+
+§ 109.301. General monitoring requirements
+
+The duplicated text in subparagraphs (2)(iv) through (2)(iii) (relating to performance monitoring
+for unfiltered surface water and GUDI), which was inadvertently added following the last
+regulatory update (48 Pa.B. 4974), is proposed to be deleted.
+
+Subclauses (6)(vii)(A)(I) and (II) are proposed to be amended for consistency with existing
+definitions that were amended in 2018 and to clarify that the Zone I and Zone II wellhead
+protection areas and the Zone A and Zone B surface water intake protection areas are defined in
+§ 109.1 (relating to definitions). The proposed amendments would apply to waivers issued for
+synthetic organic chemicals (SOCs).
+
+Subparagraph (8)(iii) is proposed to be amended to clarify that consecutive water systems may
+be exempt from PFAS monitoring, in addition to VOCs, SOCs, IOCs and radionuclides.
+
+Paragraph (9) is proposed to be amended to clarify monitoring requirements for point-of-entry
+(POE) devices. A POE device is installed on the service line to a house, building or other facility
+for the purpose of reducing contaminants in the water distributed to that property and is used as
+an alternative to centralized water treatment. POE devices must meet design and construction
+standards and may only be used as a treatment option by very small PWSs that serve 100 or
+fewer people for treating sources that were permitted prior to 1992; the POE device must be
+installed on every connection unless the PWS can demonstrate that water provided to a service
+connection meets water quality standards. See 25 Pa. Code § 109.612 (relating to POE devices).
+
+
+                                           Page 28 of 40
+As a result, POE devices are often not cost effective and currently there are no PWSs in this
+Commonwealth that have a permit for POE devices. However, the Commonwealth is required to
+maintain requirements for POE devices to comply with Federal safe drinking water
+requirements. Consequently, monitoring requirements for POE devices are proposed to be added
+for PFAS, as well as additional contaminants, as applicable, to correct the omission of
+paragraphs (10)-(15) and Subchapter K (relating to lead and copper). These requirements should
+have been added in previous rulemakings but were mistakenly overlooked due to no PWSs in
+this Commonwealth having a permit for POE devices.
+
+Paragraph (11) is proposed to be amended to clarify that for EPs that do not provide water
+continuously, monitoring for PFAS is not required during quarters when water is not provided to
+the public.
+
+Subparagraphs (15)(i) and (ii) are proposed to be amended to clarify monitoring for PFAS for
+reserve EPs and EPs that receive water from a reserve source.
+
+Proposed paragraph (16) describes new monitoring requirements for PFAS for community water
+systems and nontransient noncommunity water systems. Throughout proposed paragraph (16),
+the proposed provisions utilize terms of art and phrasing that mirror Federal safe drinking water
+regulations and are consistent with language used throughout the Department’s safe drinking
+water regulations in Chapter 109.
+
+Proposed clauses (16)(i)(A) through (C) specify the initial monitoring requirements for PFAS.
+Initial monitoring consists of four consecutive quarterly samples at each EP, beginning January
+1, 2024, for systems serving more than 350 persons, and beginning January 1, 2025, for systems
+serving 350 or fewer persons.
+
+Proposed clauses (16)(ii)(A) through (C) specify the repeat monitoring requirements for EPs at
+which at least one of the PFAS with an MCL established under § 109.202(a)(4) is detected at a
+level equal to or greater than its MRL as defined in § 109.304(f) (relating to analytical
+requirements).
+
+Proposed subparagraph (16)(iii) specifies the repeat monitoring requirements for EPs at which
+none of the PFAS with an MCL established under § 109.202(a)(4) are detected during initial
+monitoring.
+
+Proposed subparagraph (16)(iv) specifies the repeat monitoring requirements for EPs at which at
+least one of the PFAS with an MCL established under § 109.202(a)(4) exceeds its corresponding
+MCL.
+
+Proposed subparagraph (16)(v) requires collection of confirmation samples for each PFAS
+detected in exceedance of its MCL and the timing for collection of confirmation samples.
+
+Proposed subparagraph (16)(vi) specifies the repeat and performance monitoring requirements
+for EPs with PFAS removal treatment.
+
+Proposed subparagraph (16)(vii) describes the process by which systems may be able to obtain a
+monitoring waiver for PFAS. Systems using groundwater or groundwater under the direct
+
+
+                                          Page 29 of 40
+influence of surface water monitoring under § 109.301(16)(ii) may apply for a use waiver for
+EPs with 3 consecutive years or quarterly or annual samples with no detection of any PFAS with
+an MCL established under § 109.202(a)(4).
+
+Proposed subparagraph (16)(viii) specifies when PFAS samples may be invalidated and utilizes
+the term “obvious sampling errors” consistent with 40 CFR 141.24(f)(13) and (h)(9) (relating to
+organic chemicals, sampling and analytical requirements).
+
+Proposed subparagraph (16)(ix) specifies how compliance with the PFAS MCLs is determined.
+
+§ 109.303. Sampling requirements
+
+Paragraph (a)(4) is proposed to be amended to remove an incorrect cross reference to
+§ 109.302(f) regarding special monitoring requirements. The special monitoring requirements
+under § 109.302(f) relate to groundwater under the direct influence of surface water and are
+taken from the collection facilities (raw source water) and not the EP to the distribution system.
+
+Proposed paragraph (a)(6) specifies the sampling requirements for PFAS. Samples must be
+collected at the EP and be representative of each source during normal operating conditions.
+Samples must be collected by a properly trained sample collector.
+
+§ 109.304. Analytical requirements
+
+Proposed subsection (f) specifies the analytical requirements for the PFAS with an MCL.
+
+Proposed paragraph (f)(1) specifies acceptable analytical methods and MRLs. The MRLs for
+PFOA and PFOS are set at 5 ng/L. This level was determined through the survey conducted by
+the Department of laboratories accredited by this Commonwealth for PFAS analysis. It was also
+determined using the Department’s experience with laboratories finding a balance between
+reporting to a low level and still meeting all method required quality control.
+
+Proposed paragraph (f)(2) specifies the requirement that analysis must be conducted by a
+laboratory accredited by the Department.
+
+Proposed paragraph (f)(3) specifies the requirement for laboratories to determine MDLs for each
+analyte.
+
+Proposed paragraph (f)(4) specifies the requirements for laboratories to analyze performance
+evaluation samples at least annually.
+
+Proposed paragraph (f)(5) requires that the MRL must be contained within the range of
+calibration.
+
+§ 109.411. Content of a public notice
+
+Paragraph (e)(1) is proposed to be amended for formatting purposes to place the existing
+requirement to use the health effects language for fluoride in each Tier 2 public notice into a
+separate subparagraph.
+
+
+
+                                           Page 30 of 40
+Proposed subparagraph (e)(1)(i) includes the relocated requirement to use the health effects
+language for fluoride, which was previously included in paragraph § 109.411(e)(1).
+
+Proposed subparagraphs (e)(1)(ii) and (iii) add the requirement to include the health effects
+language for PFOA or PFOS in each Tier 2 public notice for violation of the respective primary
+MCL, and includes the health effects language that must be used.
+
+§ 109.416. CCR requirements
+
+Proposed paragraph (3.1) adds consumer confidence report (CCR) reporting requirements for
+PFAS with an MCL.
+
+Proposed clauses (3.1)(i)(A) through (G) specify the information on detected results that must be
+reported.
+
+Proposed subparagraph (3.1)(ii) requires that the respective health effects language in
+§§ 109.411(e)(1)(ii) and (iii) must be included for violation of a primary MCL for PFOA or
+PFOS.
+
+§ 109.503. Public water systems construction permits
+
+Proposed subclause (a)(1)(iii)(D)(XIV.1) would add new source sampling requirements for
+PFAS.
+
+§ 109.602. Acceptable design
+
+Proposed subsection (j) identifies treatment technologies considered acceptable by the
+Department for compliance with the PFAS MCLs.
+
+§ 109.701. Reporting and recordkeeping
+
+Subparagraph (a)(3)(ii) is proposed to be amended to clarify that one-hour reporting is required
+when a sample result requires collection of a confirmation or check sample. The word
+“confirmation” is proposed to be added because the terms check and confirmation sample are
+often used interchangeably but each are used in different locations in § 109.301. Under proposed
+§ 109.301(16)(v), a confirmation sample shall be collected when PFAS is detected in exceedance
+of its respective MCL.
+
+§ 109.1003. Monitoring requirements
+
+The proposed provisions for this section utilize terms of art and phrasing that mirror Federal safe
+drinking water regulations and are consistent with language used throughout the Department’s
+safe drinking water regulations in Chapter 109.
+
+Proposed subparagraph (a)(1)(xv) identifies the PFAS monitoring requirements for bottled,
+vended, retail, and bulk (BVRB) water systems. Compliance monitoring for all BVRB systems
+begins January 1, 2024.
+
+
+
+
+                                           Page 31 of 40
+Proposed clause (a)(1)(xv)(A) identifies the PFAS monitoring exemption for BVRB systems that
+obtain finished water from another permitted public water system.
+
+Proposed clause (a)(1)(xv)(B) identifies the initial PFAS monitoring requirements for BVRB
+systems. Initial monitoring consists of 4 consecutive quarters at each entry point.
+
+Proposed subclauses (a)(1)(xv)(C)(I) and (II) identify the repeat PFAS monitoring requirements
+for BVRB systems.
+
+Proposed clause (a)(1)(xv)(D) identifies the confirmation sampling requirements for PFAS
+monitoring for BVRB systems that detect a PFAS in exceedance of its MCL during annual
+monitoring.
+
+Proposed clause (a)(1)(xv)(E) identifies the repeat and performance PFAS monitoring
+requirements for BVRB systems with PFAS removal treatment.
+
+Proposed subclauses (a)(1)(xv)(F)(I) and (II) specify when PFAS samples may be invalidated for
+BVRB systems and utilize the term “obvious sampling errors” consistent with 40 CFR
+141.24(f)(13) and (h)(9).
+
+Proposed clause (a)(1)(xv)(G) identifies how compliance with the PFAS MCLs is determined for
+BVRB systems.
+
+Paragraph (b)(3) is proposed to be amended to clarify that sampling and analysis for PFAS must
+be in accordance with the requirements in § 109.304.
+
+Paragraph (b)(6) is proposed to be amended to delete language that is also in paragraph (b)(3),
+and to add the requirement that compliance monitoring samples for PFAS for BVRB systems
+must be collected by a properly trained sample collector.
+
+§ 109.1403. Monitoring waiver fees
+
+Subsection (a) is proposed to be amended to add a PFAS use waiver fee of $100.
+
+F. Benefits, Costs and Compliance
+
+Benefits
+
+The proposed PFOA and PFOS MCLs will apply to all 3,117 community, nontransient
+noncommunity, bottled, vended, retail, and bulk water systems in this Commonwealth. Of these,
+1,905 are community water systems, serving a combined population of approximately 11.4
+million Pennsylvanians. Another 1,096 are nontransient noncommunity water systems serving
+approximately 507,000 persons.
+
+The benefits associated with reductions of PFOA and PFOS in drinking water arise from a
+reduction in adverse human health effects. Exposure to PFOA is associated with adverse
+developmental effects (including neurobehavioral and skeletal effects) and exposure to PFOS is
+associated with adverse immune system impacts (including immune suppression). Benefits may
+
+
+
+                                          Page 32 of 40
+also be derived from customer actions to avoid exposure, such as a customer’s purchase of
+bottled water or the installation and operation of home water treatment systems.
+
+The benefits of proposed MCLs can be presented as a percent improvement in public health
+protection as compared to EPA’s HAL of 70 ng/L. Table 14 includes a summary of the percent
+improvement in public health protection for PFOA and PFOS at several levels.
+
+       Table 14. Percent Improvement in Health Protection as Compared to EPA’s HAL
+                       PFOA                                          PFOS
+                       Percent Improvement in                        Percent Improvement in
+     Various Levels      Health Protection as      Various Levels      Health Protection as
+         (ng/L)        Compared to EPA HAL             (ng/L)         Compared to EPA HAL
+                              of 70 ng/L                                    of 70 ng/L
+           35                    56%                     35                    63%
+           20                    80%                     20                    89%
+       14 (MCL)                  90%                 18 (MCL)                  93%
+           12                    93%                     16                    96%
+           10                    96%                     15                    98%
+       8 (MCLG)                 100%                14 (MCLG)                 100%
+
+The percentage improvement in health protection values for PFOA and PFOS are based on an
+assumption that there is a linear improvement in health protection between the EPA HAL and the
+DPAG MCLG. The amount of improvement is set such that it totals 100% between the EPA
+HAL and the DPAG MCLG. The equation for calculating percent improvement in health
+protection is established as follows:
+
+   Percent Improvement = ((EPA HAL – MCLG)-1 x 100) x (EPA HAL – Level “X”)
+
+As per the DPAG MCLG Report, PFOA has the potential to disrupt human development. The
+most sensitive developmental effects observed include neurobehavioral and skeletal effects. It is
+anticipated that these developmental effects have a measurable effect on the health of infants.
+The proposed MCL for PFOA of 14 ng/L would be expected to improve health protection and
+lower the incidence of developmental effects by 90% compared with the EPA HAL of 70 ng/L.
+
+The DPAG MCLG Report also found that PFOS has the potential to disrupt the immune system.
+The effects of immune suppression are anticipated to reduce the ability to resist infections,
+potentially increasing the risk, duration, and severity of diseases. These immune effects from
+PFOS have a substantial effect on the health and economy of this Commonwealth. The proposed
+MCL for PFOS of 18 ng/L would be expected to improve health protection and lower the
+incidence of immune suppression effects by 93% compared with the EPA HAL of 70 ng/L.
+
+Compliance Monitoring Costs
+
+Compliance monitoring cost estimates for this proposed rulemaking were determined based on a
+survey conducted of laboratories accredited in this Commonwealth for PFAS analysis by one or
+more of the analytical methods in the proposed rule, as well as assumptions made based on an
+analysis of the occurrence data. According to lab survey results, the analytical cost for PFAS by
+
+
+
+                                          Page 33 of 40
+either EPA Method 533, EPA Method 537 version 1.1, or EPA Method 537.1 varied greatly
+among the labs that responded, with a range of $325 to $750, and an average of $516, including
+the cost of analysis of the associated field reagent blank required by the methods for each sample
+site. This does not include an additional fee for sample collection, which also varied greatly
+among the labs offering that service; sample collection is approximately an additional $200
+based on the survey.
+
+Approximately half of the responding laboratories noted that they offer a cost reduction for
+reporting of fewer analytes than included in the method, which would provide a cost savings for
+systems since monitoring is required for only two analytes – PFOA and PFOS. Also, a few labs
+noted potential savings if there are no detections in the sample; the associated field blank would
+be extracted, but would not need to be analyzed, which would reduce the overall cost. A few labs
+also noted potential additional fees for PFAS-free blank water, overnight shipping costs for
+samples, and Level 4 data reports if requested.
+
+For compliance monitoring cost estimates, it was assumed that approximately half of all water
+systems will collect their own samples and half will utilize sample collection services provided
+by the laboratory. Therefore, an average cost of $616 per sample was used in the following
+compliance monitoring cost estimate calculations.
+
+In the proposed rule, initial quarterly monitoring for community and nontransient noncommunity
+systems serving a population of more than 350 persons begins January 1, 2024, and initial
+quarterly monitoring for community and nontransient noncommunity systems serving 350 or
+fewer persons begins January 1, 2025. This population breakdown was selected to evenly split
+initial monitoring across two years in order to ease laboratory capacity issues and allow small
+systems more time to prepare for compliance monitoring. Initial monitoring for BVRB systems
+begins January 1, 2024. Based on the number of PWSs and EPs in the Pennsylvania Drinking
+Water Information System (PADWIS) at the time of this rulemaking, there are 1,885 EPs that
+will begin monitoring in year 1 (2024) and 1,900 that will conduct initial monitoring in year 2
+(2025).
+
+The proposed rule requires repeat compliance monitoring on a quarterly basis for any EPs at
+which either PFOA or PFOS is detected at a level above its respective minimum reporting limit
+(MRL), including those EPs at which one or both MCLs are exceeded. If the quarterly repeat
+monitoring results are reliably and consistently below the MCLs, the frequency of repeat
+monitoring may be reduced from quarterly monitoring to annual monitoring. Based on the
+occurrence data, it is assumed that up to 34.9% of all EPs will have a detection of PFOA and/or
+PFOS at or above the relevant MRL; this equates to 658 EPs of the year 1 initial systems that
+will need to continue quarterly repeat monitoring in year 2, and 663 EPs of the year 2 initial
+systems that will need to continue quarterly repeat monitoring in year 3. The remaining systems
+(1,227 EPs in year 1 and 1,237 EPs in year 2) were assumed to conduct annual repeat monitoring
+in each year following the initial monitoring, but this overestimates the repeat monitoring
+requirements and costs after the initial monitoring because, for EPs where initial monitoring
+results do not detect PFOA or PFOS, the frequency of repeat monitoring is reduced from annual
+to once every three years.
+
+
+
+
+                                          Page 34 of 40
+In addition to and separate from the performance monitoring required by permit special
+condition, systems with EPs that exceed one or both MCLs may require treatment, which would
+require the system to conduct ongoing repeat compliance monitoring at least annually. Using the
+noncompliance rate of 7.4% from the occurrence data (as described in Section D of this
+preamble), a total of 280 EPs are estimated to require ongoing repeat compliance monitoring:
+139 EPs from initial year 1 and 141 EPs from initial year 2. However, this is likely an
+overestimate because: (1) systems may have options other than installing treatment to address
+concentrations of PFOA and/or PFOS above the relevant MCL; and (2) the occurrence data
+sampling predominately targeted sites near potential sources of PFAS contamination, so the
+exceedance rate in the occurrence data may overestimate the exceedance rate for other PWSs in
+Pennsylvania that were not included in the occurrence data. For total compliance monitoring cost
+estimates, the ongoing annual compliance monitoring for EPs where treatment is installed was
+assumed to begin in the third year of monitoring (year 3 or year 4 overall).
+
+Using these assumptions (which likely overestimate the compliance monitoring requirements and
+costs for the reasons described previously) and an estimated average cost of $616 per sample,
+Table 15 summarizes the overall cost estimates for compliance monitoring costs in each of the
+first four years of rule implementation. Note that this estimate does not include performance
+monitoring costs.
+
+                            Table 15. Compliance Monitoring Costs
+                                                        Quarterly   Annual        Total yearly
+            Total #   Quarterly Annual Quarterly compliance compliance            compliance
+             EPs      Initial EPs Repeat EPs repeat EPs monitoring monitoring     monitoring
+                                                           cost       cost            cost
+  Year 1     1885        1885         0          0      $4,644,640     $0          $4,644,640
+  Year 2     1900        1900        1227       658     $6,302,579 $755,915        $7,058,495
+  Year 3                   0         3122       663     $1,633,878 $1,923,090      $3,556,969
+  Year 4                   0         3785        0          $0     $2,331,560      $2,331,560
+
+Based on these estimates, the average annual monitoring costs over the first four years are
+$4,397,916. Note that this average annual compliance monitoring cost estimate of approximately
+$4.4 M is less than the sum of the average annual compliance monitoring cost estimates
+presented in Section D of this preamble for PFOA ($2.9 M) and PFOS ($2.7 M). The reason for
+this difference in the average annual compliance monitoring cost estimates when considered for
+each individual contaminant (that is, PFOA and PFOS separately) compared with both
+contaminants together is that exceedances of the proposed PFOA and PFOS MCLs are expected
+to co-occur at some sites. For instance, the occurrence data showed exceedance rates of the
+individual proposed MCLs for PFOA and PFOS of 5.7% and 5.1%, respectively; however, the
+exceedance rate for the proposed MCLs accounting for co-occurring exceedances was only 7.4%
+(not 10.8%, the sum of the exceedance rates for the proposed MCLs considered individually).
+Since the laboratory analytical methods include both PFOA and PFOS, systems with
+exceedances of both proposed MCLs will not have to collect separate samples for PFOA and
+PFOS, which results in some reduction in compliance monitoring costs for these systems
+compared with if each contaminant is considered separately. However, because PFOA and PFOS
+are each associated with different health effects and have different recommended MCLGs, the
+
+
+
+                                         Page 35 of 40
+compliance monitoring cost estimates are presented separately for each contaminant in Section D
+of this preamble to inform the cost-benefit analysis for each MCL.
+
+Treatment costs
+
+Treatment cost estimates were determined based on a survey conducted of systems in this
+Commonwealth with existing PFAS treatment and of PFAS treatment manufacturers, an
+American Water Works Association published PFAS Case Study, and from information provided
+by members of the Association of State Drinking Water Administrators (ASDWA). Costs were
+provided for granular activated carbon (GAC), anion exchange (IX), and reverse osmosis (RO).
+The RO costs were not included in the final cost estimates because, due to wastewater disposal
+requirements, the technology is currently impractical. Additionally, the costs for GAC, IX, and
+RO provided from the vendors were excluded from the final cost estimates because they were
+limited to media costs and did not include the infrastructure requirements.
+
+GAC and IX construction costs were based on a lead lag configuration where the first vessel
+(lead vessel) is capable of treating the entire flow and second vessel (lag vessel) is provided for
+polishing.
+
+All treatment costs were normalized to construction costs for treating 1 MGD. As shown in
+Table 16, the average capital cost for the GAC treatment was $3,457,110 per MGD per EP with
+an average annual O&M cost of $171,970 per MGD per EP.
+
+                                    Table 16. GAC Treatment Costs
+                                                         Capital Cost   Annual O&M Cost
+          Treatment                  System               per MGD          per MGD
+                                                            per EP          per EP
+             GAC                    Vendor A              $343,000 *        $32,018
+             GAC                    Vendor B              $535,000 *        $356,000
+             GAC         System A (2 GAC and 1 IX)        $3,125,000        $107,007
+             GAC                System B, Site 1          $1,675,347        $121,528
+             GAC                System B, Site 2          $2,454,259        $220,820
+             GAC                System B, Site 3          $2,433,333        $194,444
+             GAC                    System C              $9,250,000        unknown
+             GAC                    System D              $3,139,000        unknown
+             GAC                    System E              $1,135,497        unknown
+            GAC                System F                   $4,444,444        unknown
+           Average cost of GAC per MGD per EP             $3,457,110        $171,970
+         * Not included in calculations
+
+As shown in Table 17, the average capital cost for the IX treatment was $3,284,360 per MGD
+per EP with an average annual O&M cost of $155,666 per MGD per EP.
+
+
+
+
+                                               Page 36 of 40
+                                      Table 17. IX Treatment Costs
+                                                     Capital Cost    Annual O&M Cost
+           Treatment                System            per MGD           per MGD
+                                                        per EP            per EP
+              IX               Vendor A               $357,000 *        $59,361 *
+              IX               Vendor B               $500,000 *         $175,000
+              IX               Vendor D             No information       $159,722
+              IX               System G              $10,400,000         unknown
+              IX               System H               $3,333,000         unknown
+              IX               System I                $634,900          unknown
+              IX               System J               $1,128,000         unknown
+              IX               System K                $925,900          $132,275
+           Average cost of IX per MGD per EP          $3,284,360         $155,666
+          * Not included in calculations
+
+The average capital costs of the GAC and IX treatment is $3,370,735 per MGD per EP with an
+average annual O&M costs $163,818 per MGD per EP.
+
+To estimate annual treatment costs, the average capital cost of treatment installation of
+$3,370,735 per MGD per EP was annualized over 20 years at a 4% interest rate. This yields an
+estimated annualized capital cost of $248,025 per MGD per EP.
+
+In addition, water systems that install treatment will need to conduct performance monitoring, to
+verify treatment efficacy. Using the average cost per sample of $616 and assuming a total of 36
+performance monitoring samples per year – monthly samples at each of three locations (raw
+water, mid-point of treatment, and finished water) – that is an additional annual cost of $22,176
+per EP.
+
+In the occurrence data, the percentage of EPs exceeding the proposed MCLs for PFOA and
+PFOS was 5.7% and 5.1%, respectively; however, due to co-occurrence of PFOA and PFOS,
+some EPs that exceeded the proposed MCL for PFOA also exceeded the proposed MCL for
+PFOS. In the occurrence data, the percentage of EPs exceeding the proposed MCL for PFOA
+and/or the proposed MCL for PFOS was 7.4%., However, this exceedance rate may overestimate
+the exceedance rate for the other PWSs in Pennsylvania that were not sampled, because the
+occurrence data sampling predominately targeted sites near potential sources of PFAS
+contamination. Also, as treatment for PFOA and PFOS is the same, EPs exceeding both MCLs
+would not be required to install two different treatment systems; therefore, the estimated
+percentage of EPs requiring treatment is less than the combined percentage of systems exceeding
+either MCL in the occurrence data. Additionally, systems with MCL exceedances may have
+several options to address the contamination aside from installing treatment, including taking
+contaminated sources offline, making operational changes such as blending sources, or using
+alternate sources of supply (developing new sources or using purchased sources from a new
+interconnect). Recognizing that the MCL exceedance rates from the occurrence data may
+overestimate the proportion of systems that will need to install treatment to address MCL
+exceedances for the aforementioned reasons, the occurrence data provides the most relevant
+
+
+                                             Page 37 of 40
+information currently available on the prevalence and levels of PFAS in PWSs in Pennsylvania.
+Using the 7.4% exceedance rate from the occurrence data to estimate how many of the larger
+universe of 3,785 EPs may require treatment to meet one or both proposed MCLs produces an
+estimate of 280 EPs. At an average annualized treatment capital cost of $248,025 per MGD per
+EP, and assuming 280 EPs require treatment installed, the total estimated annual treatment costs
+are shown in Table 18.
+
+                        Table 18. Total Estimated Annual Treatment Costs
+    Estimated average annualized treatment capital costs (per MGD per EP)               $248,025
+    Estimated average annual treatment O&M costs (per MGD per EP)                       $163,818
+    Estimated average annual treatment capital + O&M costs (per MGD per EP)             $411,843
+    Estimated annual performance monitoring costs (per EP)                               $22,167
+    Estimated # of EPs (of 3,785) that require treatment for one or both MCLs                280
+    Total estimated average annual treatment capital + O&M costs (per MGD)          $115,316,040
+    Total estimated annual performance monitoring costs                               $6,206,760
+
+Compliance Assistance Plan
+
+The Department’s Safe Drinking Water Program utilizes Pennsylvania Infrastructure Investment
+Authority (PENNVEST) programs to offer financial assistance to eligible PWSs. This assistance
+is in the form of a low-interest loan, with some augmenting grant funds for hardship cases.
+Eligibility is based upon factors such as public health impact, compliance necessity, and
+project/operational affordability.
+
+In addition to the standard funding mentioned above, PENNVEST approved an additional
+funding program in 2021 under authority of Act 101 of 2019. The PENNVEST PFAS
+Remediation Program is designed as an annual funding opportunity to aid in the remediation and
+elimination of PFAS in PWSs. In 2021, approximately $25 million was made available for this
+grant program.
+
+The Department’s Safe Drinking Water Program has established a network of regional and
+Central Office training staff that is responsive to identifiable training needs. The target audience
+in need of training may be either program staff or the regulated community.
+
+In addition to this network of training staff, the Department’s Bureau of Safe Drinking Water has
+staff dedicated to providing both training and technical outreach support services to PWS owners
+and operators. The Department's web site also provides timely and useful information for
+treatment plant operators.
+
+Paperwork Requirements
+
+No new forms are required for implementation of the proposed amendments.
+
+
+
+
+                                            Page 38 of 40
+G. Sunset Review
+
+This proposed rulemaking will be reviewed in accordance with the sunset review schedule
+published by the Department to determine whether the regulations effectively fulfill the goals for
+which they were intended.
+
+H. Regulatory Review
+
+Under section 5(a) of the Regulatory Review Act (71 P. S. § 745.5(a)), on February 15, 2022,
+the Department submitted a copy of this proposed rulemaking and a copy of a Regulatory
+Analysis Form to the Independent Regulatory Review Commission (IRRC) and to the
+Chairpersons of the House and Senate Environmental Resources and Energy Committees. A
+copy of this material is available to the public upon request.
+
+Under section 5(g) of the Regulatory Review Act, IRRC may convey any comments,
+recommendations or objections to this proposed rulemaking within 30 days of the close of the
+public comment period. The comments, recommendations or objections must specify the
+regulatory review criteria in section 5.2 of the Regulatory Review Act (71 P. S. § 745.5b) which
+have not been met. The Regulatory Review Act specifies detailed procedures for review, prior to
+final publication of the rulemaking, by the Department, the General Assembly, and the Governor
+of comments, recommendations, or objections raised.
+
+I. Public Comments
+
+Interested persons are invited to submit written comments, suggestions or objections regarding
+this proposed rulemaking to the Board. The Board is seeking comments on any aspect of this
+proposed rulemaking, but particularly on anticipated health benefits and on the anticipated costs
+to comply with the proposed MCLs, including costs to design, install, and operate treatment and
+other remedies. Comments, suggestions, or objections must be received by the Board by April
+27, 2022.
+
+Comments may be submitted to the Board online, by e-mail, by mail or express mail as follows.
+
+Comments may be submitted to the Board by accessing eComment at
+http://www.ahs.dep.pa.gov/eComment.
+
+Comments may be submitted to the Board by e-mail at RegComments@pa.gov. A subject
+heading of this proposed rulemaking and a return name and address must be included in each
+transmission.
+
+If an acknowledgement of comments submitted online or by e-mail is not received by the sender
+within 2 working days, the comments should be retransmitted to the Board to ensure receipt.
+Comments submitted by facsimile will not be accepted.
+
+Written comments should be mailed to the Environmental Quality Board, P. O. Box 8477,
+Harrisburg, PA 17105-8477. Express mail should be sent to the Environmental Quality Board,
+
+
+
+                                          Page 39 of 40
+Rachel Carson State Office Building, 16th Floor, 400 Market Street, Harrisburg, PA 17101-
+2301.
+
+J. Public Hearings
+
+The Board will hold five virtual public hearings for the purpose of accepting comments on this
+proposed rulemaking. The hearings will be held as follows:
+
+March 21, 2022, at 1 p.m.
+March 22, 2022, at 6 p.m.
+March 23, 2022, at 1 p.m.
+March 24, 2022, at 9 a.m.
+March 25, 2022, at 9 a.m.
+
+Persons wishing to present testimony at a hearing must contact Jennifer Swan for the Department
+and the Board, (717) 783-8727 or RA-EPEQB@pa.gov, by 5 p.m. on March 18, 2022, to reserve
+a time to present testimony. Language interpretation services are available upon request. Persons
+in need of language interpretation services must contact Jennifer Swan at (717) 783-8727 by
+5 p.m. on March 17, 2022.
+
+Oral testimony is limited to 5 minutes for each witness. Organizations are limited to designating
+one witness to present testimony on their behalf at one hearing. Witnesses may provide
+testimony by means of telephone or Internet connection. Video demonstrations and screen
+sharing by witnesses will not be permitted.
+
+Witnesses are requested to submit written copy of their verbal testimony by e-mail to
+RegComments@pa.gov after providing testimony at the hearing.
+
+Information on how to access the virtual public hearings will be available on the Board’s
+webpage found through the Public Participation tab on the Department’s web site at
+www.dep.pa.gov (select “Public Participation,” then “Environmental Quality Board”). Prior to a
+hearing, individuals are encouraged to visit the Board’s webpage for the most current
+information for accessing the hearing.
+
+Any members of the public wishing to observe a virtual public hearing without providing
+testimony are also directed to access the Board’s webpage. Those who have not registered with
+Jennifer Swan in advance as described previously will remain muted for the duration of the
+public hearing.
+
+Persons in need of accommodations as provided for in the Americans with Disabilities Act of
+1990 should contact the Board at (717) 787-4526 or through the Pennsylvania Hamilton Relay
+Service at (800) 654-5984 (TDD) or (800) 654-5988 (voice users) to discuss how the Board may
+accommodate their needs.
+
+                                                                       PATRICK McDONNELL,
+                                                                                 Chairperson
+
+
+
+                                          Page 40 of 40
+

@@ -1,0 +1,445 @@
+
+
+################# Water PFOA #################
+
+=== Alaska | DEC | 2016 | CL | GW | 0.4 ug/L
+   CriticalEffect/Study  : Based on EPA Health Advisories.
+   Receptor              : Child  | (0-6 years) residential, non-cancer
+   DWintake              : 0.052
+   RSC                   : 1
+   AddlInfo              : 1) USEPA's toxicity value from EPA's Health Effects Support Document (EPA 2016) was adopted.   |  | 2)  But exposure factors are based on child, non-cancer, drinking water scenario, similar to EPA RSL methodology. https://dec.alaska.gov/spar/regulation_projects/docs/PCCL%20Sept%2015,%202016%20Final.pdf.   |  | 3) Normalized DW intake rate ealculated by dividing target receptor ingestion rate by body weight.
+   Reference             : Alaska Department of Environmental Conservation, Interim Technical Memorandum: Comparing DEC cleanup levels for Perfluorooctane Sulfonate (PFOS) and Perfluorooctonoic Acid (PFOA) to EPA’s Health Advisory Levels. August 25, 2016.
+
+=== California | OEHHA | 2019 | RL  - cancer | DW | 0.010 
+See Additional Info.  ug/L
+   CriticalEffect/Study  : Pancreatic and liver tumors | (NTP 2018)
+   Species               : Rats
+   Duration              : 107 weeks
+   Dose->SerumMethod     : Direct serum concentration measured at 16 weeks assumed to be at steady-state over the 107 week study duration
+   HEDmethod             : Dose adjustment facctor of 0.00014 L/kg-day, based on first order kinetic clearence rate (Vd x (ln 2 ÷ t½)); BW1/8 adjustment used for toxicodynamic differences
+   DRmodel               : BMD
+   PODHED                :  multisite BMDL05(human) = 3.4 x 10-4 mg/kg-day
+   UFT                   : NA
+   ToxValue              : 143 (mg/kg-day)-1
+   Receptor              : Infant through adult (i.e. lifetime 95th percentile consumer-only water intake rake used. See Additional Information.)
+   DWintake              : 0.053
+   RSC                   : NA
+   AddlInfo              : 1. The California State Water Resources Control Board set the state's PFOA NL of 0.0051 ug/L at the lowest reliable drinking water detection limit. The cancer and noncancer reference levels derived by OEHHA are lower than the levels that can be reliably detected in drinking water. | 2. OEHHA did not apply age sensitive factors (ASFs) to account for increased susceptibility of infants and children due to interpretation of data from animals with and animals without perinatal exposure from NTP 2018.  | 3. OEHHA used the default risk level of one in one million, or 10-6 for the reference level, and the risk level of one in ten thousand, or 10-4 for their Response Level  | 4. OEHHA states in the NL technical support document (OEHHA 2019) that the lifetime average drinking rate was used from OEHHA technical guidance (OEHHA 2012); however, 0.053 L/kd-day corresponds to the lifetime 95th percentile consumer-only water intake rate, calculated from OEHHA (2012) Table 8.13.
+   Reference             : Office of Environmental Health Hazard Assessment, Notification Level Recommendations Perfluorooctanoic Acid and Perfluorooctane Sulfonate in Drinking Water.  August 2019.  |  | California Water Boards, Notification Level Issuance for Perfluorooctanoic acid (PFOA) issued Feb, 21, 2020.
+
+=== California | OEHHA | 2019 | rl - noncancer | DW | 0.002
+See Additional Info. ug/L
+   CriticalEffect/Study  : Hepatic mitochondrial membrane potential changes, increased biomarkers of apoptosis, increased oxidative DNA damange | (Li et al. 2017)
+   Species               : Mice
+   Duration              : 28 days
+   Dose->SerumMethod     : Direct serum concentration measured at end of dosing period
+   HEDmethod             : Dose adjustment factor of 0.00014 L/kg-day, based on first order kinetic clearence rate (Vd x (ln 2 ÷ t½))
+   DRmodel               : LOAEL
+   PODHED                : 0.0032 mg/L | See Additional Info. 2.
+   UFT                   : 300
+   ToxValue              : 0.00000045 | (4.5 x 10-7)
+   Receptor              : Infant through adult (i.e. lifetime 95th percentile consumer-only water intake rake used. See Additional Information.)
+   DWintake              : 0.053
+   RSC                   : 0.2
+   AddlInfo              : 1. The California State Water Resources Control Board set the state's PFOA NL of 0.0051 ug/L at the lowest reliable drinking water detection limit. The cancer and noncancer reference levels derived by OEHHA are lower than the levels that can be reliably detected in drinking water. | 2. The Acceptable Daily Dose in mg/L was calculated by dividing the animal serum level POD by total UF, and then the serum dose level was converted to a human target serum level in ng/kg-day using EPA's dose adjustment factor. | 3. OEHHA states in the NL technical support document (OEHHA 2019) that the lifetime average drinking rate was used from OEHHA technical guidance (OEHHA 2012); however, 0.053 L/kd-day corresponds to the lifetime 95th percentile consumer-only water intake rate, calculated from OEHHA (2012) Table 8.13.
+   Reference             : Office of Environmental Health Hazard Assessment, Notification Level Recommendations Perfluorooctanoic Acid and Perfluorooctane Sulfonate in Drinking Water.  August 2019. 
+
+=== Maine | DEP | 2018 | RAG | GW | 0.4 ug/L
+   CriticalEffect/Study  : Based on EPA Health Advisories.
+   Receptor              : Child  | (0-6 years) residential, non-cancer
+   DWintake              : 0.052
+   RSC                   : 1
+   AddlInfo              : MDEP based their RAG on the USEPA Office of Water toxicity value and USEPA Regional Screening Level equation, however, recommends using the USEPA lifetime Health Advisory if the groundwater is for human consumption.  
+   Reference             : Maine Remedial Action Guidelines (RAGs) for Sites Contaminated with Hazardous Substances, October 2018.
+
+=== Massachusetts | DEP | 2019 | ORS
+
+GW-1  | DW
+
+GW | 0.02 ug/L
+   CriticalEffect/Study  : Based on EPA Health Advisories.
+   UFT                   : 100
+   ToxValue              : 0.000005 | (5 x 10-6)
+   Receptor              : Lactating women
+   DWintake              : 0.054
+   RSC                   : 0.2
+   AddlInfo              : MassDEP used the USEPA 2016 assessment, however, added an additional uncertainy factor of 3 for database limitations and concerns that effects may occur at levels below the USEPA 2016 reference dose. DW values are to be applied to total concentration of six PFAAs: PFOA, PFOS, PFNA, PFHxS, PFDA, and PFHpA.
+   Reference             : MassDEP Office of Research and Standards, Technical Support Document, Per- and Polyfluoroalkyl Substances (PFAS): An Updated Subgroup Approac to Groundwater and Drinking Water Values. December 26, 2019
+
+=== Michigan | DHHS | 2019 | screening level | DW | 0.009 ug/L
+   CriticalEffect/Study  : Developmental (neurobehavioral effects)  | (Onishchenk et al. 2011; Koskela et al. 2016)
+   Species               : Mice
+   Duration              : 20 days
+   Dose->SerumMethod     : Predicted TWA from ATSDR (2018 draft), using Wambaugh et al. (2013) pharmacokinetic model
+   HEDmethod             : Dose adjustment factor of  0.000099 L/kg-day calculated as the clearance factor using the first-order one-compartment model (Vd x (ln 2 ÷ t½)), using t1/2 of 840 days (2.3 yrs) from Bartell et al. (2010) | 
+   DRmodel               : LOAEL
+   PODHED                : 8.29 mg/L (serum)
+   UFT                   : 300
+   ToxValue              : 0.000003 | (3 x 10-6)
+   Receptor              : Breast-fed infant
+   DWintake              : 0.047
+   RSC                   : 0.5
+   AddlInfo              : MDHHS used the draft ATSDR 2018 toxicity assessment, however, used different kinetic parameters in the dose adjustment factor equation. The Minnesota Dept. of Health (Goeden et al. 2019) toxicokinetic model was used to predict serum levels in the breast-fed infant. 
+   Reference             : MDHHS, Division of Environmental Health, Public health drinking water screening levels for PFAS.  Michigan PFAS Action Response Team Human Health Workgroup, February 22, 2019.
+
+=== Minnesota | DOH | 2017 | HRL | DW & GW | 0.035 ug/L
+   CriticalEffect/Study  : Developmental (reduced ossification, accelerated puberty), increased marenal liver weight | (Lau et al. 2006)
+   Species               : Mice
+   Duration              : 18 days maternal, | 17 days pups
+   Dose->SerumMethod     : EPA Modeled average serum concentration (predicted AUC u/mL-hr ÷ (24 hr/d x 18 days)
+   HEDmethod             : Dose adjustment factor of 0.00014 L/kg-day, based on first order kinetic clearence rate  (ln 2/t½ of 840 days) x 0.17 L/kg (Vd)
+   DRmodel               : LOAEL
+   PODHED                : 0.0053  | mg/kg-day 
+   UFT                   : 300
+   ToxValue              : 0.000018 | (1.8 x 10-5)
+   Receptor              : Infant exposure via breastmilk for 1 year, from mother chronically exposed via water, followed by lifetime of exposure via drinking water
+   RSC                   : 0.5
+   AddlInfo              : Protective for short-term, subchronic and chronic. MDH derived the nHBV based on an internal serum concentration that would not exceed 0.5 (RSC) of the serum concentration corresponding to the RfD (0.13 mg/L) from infancy through lifetime of exposure. RSC was based on ceiling of 80% minus 'background' exposure, based on the most recent NHANES dataset. The 95th percentile water intake rates (Table 3-1 and 3-3, USEPA 2011) or upper percentile breastmilk intake rates (Table 15-1, USEPA 2011) were used. Breastmilk concentrations were calculated by multiplying the maternal serum concentration by a PFOA breastmilk transfer factor of 5.2%. Breastmilk transfer value was based on average breastmilk to maternal serum concentration ratios reported in the literature.The simulated individuals began life with a pre-existing body burden through placental transfer (maternal serum concentration x 87%. Placental transfer value was based on average cord to maternal serum concentration ratios reported in the literature.
+   Reference             : MDH Health Based Guidance for Water Health Risk Assessment Unit, Environmental Health Division, 651-201-4899.Toxicological Summary for: Perfluorooctanoic Acid.  May 2017. |  | http://www.health.state.mn.us/divs/eh/risk/guidance/gw/pfoa.pdf  |  | http://www.health.state.mn.us/divs/eh/risk/guidance/gw/table.html#ns
+
+=== New Jersey | DWQI | 2017 | Recommended MCL  | DW | 0.014* ug/L
+   CriticalEffect/Study  : Increased liver wt. (Lovelss et al., 2006)
+   Species               : Mice
+   Duration              : 14 days
+   Dose->SerumMethod     : Direct serum concentration measured at end of dosing period
+   HEDmethod             : Clearance factor
+   DRmodel               : BMD
+   PODHED                : 4350  | ng/ml  | (serum)
+   UFT                   : 300
+   ToxValue              : 0.000002 | (2 x 10-6)
+   Receptor              : Adult
+   DWintake              : 0.029
+   RSC                   : 0.2
+   AddlInfo              : UFs applied to animal serum level BMD to obtain Target Human Serum Level which is then converted to RfD.  RSC stated to account for higher exposure of young infants, at least partially.
+   Reference             : Maximum Contaminant Level Recommendation for Perfluorooctanoic Acid in Drinking Water, Basis and Background. New Jersey Drinking Water Quality Institute.  March 2017.  
+
+=== North Carolina | DENR | 2012 | IMAC* | GW | 1 ug/L
+   CriticalEffect/Study  : Increased relative (to brain)  liver weight | (Butenhoff et al 2002)
+   Species               : Cynomolgus monkeys
+   Duration              : 26 weeks (182 days)
+   Dose->SerumMethod     : Direct serum concentration measured at end of dosing period
+   HEDmethod             : Extrapolation factor of 0.12 ug ingestion/kg/ug/mL derived from PBPK model 
+   DRmodel               : BMD
+   PODHED                : 336 ug/person-day
+   UFT                   : 30
+   ToxValue              : NA
+   Receptor              : Adult
+   DWintake              : NA
+   RSC                   : 0.2
+   Reference             : North Carolina Department of Environment and Natural Resources (DENR).  2012.  NCSAB Recommendation for the Revision of the IMAC for Perfluorooctanoic Acid (PFOA).  August.  https://ncdenr.s3.amazonaws.com/s3fs-public/Air%20Quality/toxics/risk/sab/LAA/20120808%20PFOA%20Final%20Risk%20Assessment%20signed.pdf
+
+=== Texas | CEQ | 2016 | Tier 1 PCL | GW | 0.29 ug/L
+   CriticalEffect/Study  : Mammary gland developmental effects | (Macon et al. 2011)
+   Species               : Mice
+   Duration              : 17 days (gestational exposure)
+   Dose->SerumMethod     : NA - used administered dose
+   HEDmethod             : Interspecies extrapolation factor of 81, based on estimated ratio of human to mouse half life
+   DRmodel               : LOAEL
+   PODHED                : 0.0037  | mg/kg-day
+   UFT                   : 300
+   ToxValue              : 0.000012 | (1.2 x 10-5)
+   Receptor              : Child  | (0-6 years) residential, non-cancer
+   DWintake              : NA
+   RSC                   : NA
+   Reference             : Perfluoro Compounds (PFCs); January 4, 2016
+
+=== USEPA | Office of Water | 2016 | HA | DW | 0.070a ug/L
+   CriticalEffect/Study  : Developmental (reduced ossification, accelerated puberty) | (Lau et al. 2006)
+   Species               : Mice
+   Duration              : 17 days
+   Dose->SerumMethod     : Modeled AUC
+   HEDmethod             : Dose adjustment factor of 0.00014 L/kg-day, based on first order kinetic clearence rate (Vd x (ln 2 ÷ t½))
+   DRmodel               : LOAEL
+   PODHED                : 0.0053  | mg/kg-day
+   UFT                   : 300
+   ToxValue              : 0.00002 | (2 x 10-5)
+   Receptor              : Lactating women
+   DWintake              : 0.054
+   RSC                   : 0.2
+   AddlInfo              : 90th percentile consumers only estimate of combined direct and indirect community water ingestion for lactating women (see Table 3-81 in USEPA 2011b).
+   Reference             : Health Effects Support Document for Perfluorooctanoic Acid, U.S. Environmental Protection Agency Office of Water (4304T) Health and Ecological Criteria Division, EPA Document Number: 822-R-16-003.  May 2016.  and Drinking Water Health Advisory for Perfluorooctanoic Acid, U.S. Environmental Protection Agency Office of Water (4304T) Health and Ecological Criteria Division, EPA Document Number: 822-R-16-005.  May 2016
+
+=== Vermont | DEC/DOH | 2018 | HA | GW/DW | 0.020a ug/L
+   CriticalEffect/Study  : Based on EPA Health Advisories.
+   Receptor              : Infant  | (0-1 year)
+   DWintake              : 0.175
+   RSC                   : 0.2
+   AddlInfo              : The 95th percentile Body Weight Adjusted Water Intake Rate for the first year of life based on combined direct and indirect water intake from community water supplies for consumers only is 0.175 L/kgBW-d.
+   Reference             : Vermont Department of Heath, Memorandum to Chuck Schwer, Director, Waste Management, DEC, from Sarah Vose, State Toxicologist; Subject: Perfluorooctanoic acid (PFOA) and Perfluorooctanesulfonic acid (PFOS) Vermont Drinking Water Health Advisory, June 22, 2016
+
+=== Canada | DEC/DOH | 2018 | MAC | DW | 0.2 ug/L
+   CriticalEffect/Study  : Hepatocellular hypertrophy  | (Perkins et al. 2004)
+   Species               : Rats
+   Duration              : 13 weeks  | (91 days)
+   Dose->SerumMethod     : NA - used administered dose
+   HEDmethod             : Adjustment of the UFA (termed "AKUF") using ratios of PBPK model-(Loccisano 2011, 2012a,b, 2013) predicted dose metrics, using steady-state plasma concentrations
+   DRmodel               : BMD
+   PODHED                : 0.000521 mg/kg-day
+   UFT                   : 25
+   ToxValue              : 0.000021 | (2.1 x 10-5)
+   Receptor              : Adult
+   DWintake              : NA
+   RSC                   : 0.2
+   Reference             : Health Canada.  Guidelines for Canadian Drinking Water Quality, Guideline Technical Document, Perfluorooctanoic Acid.  December 2018 
+
+=== Notes: | None | None | None | None | None ug/L
+
+=== * = draft/proposed values | None | None | None | None | None ug/L
+
+=== a Applies to the individual results for PFOA and PFOS, as well as the sum of PFOA + PFOS. | None | None | None | None | None ug/L
+
+=== b Exposure parameters provided are those explicitly used by corresponding agency. Some agencies use the normalized drinking water intake without specifying the exact ingestion rate and body weight combination.  | None | None | None | None | None ug/L
+
+=== NA = not applicable | None | None | None | None | None ug/L
+
+=== Regulatory Agency | None | None | None | None | Standard or Guidance ug/L
+
+=== CDC = Center for Disease Control & Prevention | None | None | None | None | AGQS = ambient groundwater quality standard ug/L
+
+=== CEQ = Commission on Environmental Quality | None | None | None | None | BCL = basic comparison level ug/L
+
+=== DEC = Dept. of Environmental Conservation | None | None | None | None | CL = groundwater cleanup level ug/L
+
+=== DENR = Dept. of Environment and  | None | None | None | None | ES = environmental standard ug/L
+
+===        Natural Resources | None | None | None | None | GCC = Generic Cleanup Criteria (Part 201) ug/L
+
+=== DEP = Dept. of Environmental Protection | None | None | None | None | HA = lifetime health advisory ug/L
+
+=== DEQ = Dept. of Environmental Quality | None | None | None | None | HNV = human noncancer value for surface drinking water ug/L
+
+=== DES = Dept. of Environmental Services | None | None | None | None | HRL = health risk limit ug/L
+
+=== DHHS = Dept. of Health and Human Services | None | None | None | None | ILR = initiation level  ug/L
+
+=== DOH = Dept. of Health | None | None | None | None | IMAC = interim maximum allowable standard ug/L
+
+=== DNR = Dept. of Natural Resources | None | None | None | None | ISGWQC = interim specific groundwater quality criterion ug/L
+
+=== DPH = Division of Public Health | None | None | None | None | MAC = maximum allowable concentration ug/L
+
+=== EPA = Environmental Protection Agency | None | None | None | None | MCL = maximum contaminant level ug/L
+
+=== OEHHA = Office of Environmental Health Hazard Assessment | None | None | None | None | MEG = maximum exposure guideline ug/L
+
+=== Type of Medium | None | None | None | None | PGWES = primary groundwater enforcement standard ug/L
+
+=== DW = drinking water | None | None | None | None | PHG = public health goal ug/L
+
+=== GW = groundwater | None | None | None | None | RAG = remedial action guideline ug/L
+
+=== SW = surface water and/or effluent | None | None | None | None | rl = reference level ug/L
+
+
+################# Water PFOS #################
+
+=== Alaska | DEC | 2016 | CL | GW | 0.4 ug/L
+   CriticalEffect/Study  : Based on EPA Health Advisories.
+   Receptor              : Child  | (0-6 years) residential, non-cancer
+   DWintake              : 0.052
+   RSC                   : 1
+   AddlInfo              : 1) USEPA's toxicity value from EPA's Health Effects Support Document (EPA 2016) was adopted.   |  | 2)  But exposure factors are based on child, non-cancer, drinking water scenario, similar to EPA RSL methodology. https://dec.alaska.gov/spar/regulation_projects/docs/PCCL%20Sept%2015,%202016%20Final.pdf.   |  | 3) Normalized DW intake rate ealculated by dividing target receptor ingestion rate by body weight.
+   Reference             : Alaska Department of Environmental conservation, Interim Technical Memorandum: Comparing DEC cleanup levels for Perfluorooctane Sulfonate | (PFOS) and Perfluorooctonoic Acid (PFOA) to EPA’s Health Advisory Levels. August 25, 2016.
+
+=== California | OEHHA | 2019 | RL - cancer | DW | 0.040 
+See Additional Info.  ug/L
+   CriticalEffect/Study  : Hepatocellular adenoma | (Butenhoff et al. 2012)
+   Species               : Rats
+   Duration              : 105 weeks
+   Dose->SerumMethod     : Time-weighted averge serum concentrations for each dose determined by first calculating the area under the curve  using linear interpolation, and then dividing by the study duration of 105 weeks.  
+   HEDmethod             : Ddose adjustment facctor of 0.00008 L/kg-day, based on first order kinetic clearence rate (Vd x (ln 2 ÷ t½)); BW1/8 adjustment used for toxicodynamic differences
+   DRmodel               : BMD
+   PODHED                : BMDL05(human) =  | 0.0011 mg/kg-day | 
+   UFT                   : NA
+   ToxValue              : 45.5 (mg/kg-day)-1
+   Receptor              : Infant through adult (i.e. lifetime 95th percentile consumer-only water intake rake used. See Additional Information.)
+   DWintake              : 0.053
+   RSC                   : NA
+   AddlInfo              : 1. The California State Water Resources Control Board set the state's PFOA NL of 0.0051 ug/L at the lowest reliable drinking water detection limit. The cancer and noncancer reference levels derived by OEHHA are lower than the levels that can be reliably detected in drinking water. | 2. OEHHA did not apply age sensitive factors (ASFs) to account for increased susceptibility of infants and children due to interpretation of PFOA data from animals with and animals without perinatal exposure from NTP 2018 and the assumption that PFOS would likely behave similarly. | 3. OEHHA used the default risk level of one in one million, or 10-6 for the reference level, and the risk level of one in ten thousand, or 10-4 for their Response Level | 4. OEHHA states in the NL technical support document (OEHHA 2019) that the lifetime average drinking rate was used from OEHHA technical guidance (OEHHA 2012); however, 0.053 L/kd-day corresponds to the lifetime 95th percentile consumer-only water intake rate, calcuated from OEHHA (2012) Table 8.13.
+   Reference             : Office of Environmental Health Hazard Assessment, Notification Level Recommendations Perfluorooctanoic Acid and Perfluorooctane Sulfonate in Drinking Water.  August 2019.  |  | California Water Boards, Notification Level Issuance for Perfluorooctanesulfonic acid (PFOS) issued Feb, 21, 2020.
+
+=== California | OEHHA | 2019 | rl - noncancer | DW | 0.007
+See Additional Info.  ug/L
+   CriticalEffect/Study  : Immunotoxicity (decreased plaque forming cell response) | (Dong et al. 2009)
+   Species               : Mice
+   Duration              : 60 days
+   Dose->SerumMethod     : Direct serum concentration measured at end of dosing period
+   HEDmethod             : Dose adjustment factor of 0.000081 L/kg-day, based on first order kinetic clearance rate (Vd x (ln 2 ÷ t½)) 
+   DRmodel               : NOAEL
+   PODHED                : 0.022 mg/L | See Additional Info. 2.
+   UFT                   : 30
+   ToxValue              : 0.0000018 | (1.8 x 10-6) 
+   Receptor              : Infant through adult (i.e. lifetime 95th percentile consumer-only water intake rake used. See Additional Information.)
+   DWintake              : 0.053
+   RSC                   : 0.2
+   AddlInfo              : 1. The California State Water Resources Control Board set the state's PFOS NL of 0.0065 ug/L at the lowest reliable drinking water detection limit. The cancer and noncancer reference level derived by OEHHA are lower than the levels that can be reliably detected in drinking water. | 2. The Acceptable Daily Dose in mg/L was calculated by dividing the animal serum level POD by total UF, and then the serum dose level was converted to a human target serum level in ng/kg-day using EPA's dose adjustment factor. | 3. OEHHA states in the NL technical support document (OEHHA 2019) that the lifetime average drinking rate was used from OEHHA technical guidance (OEHHA 2012); however, 0.053 L/kd-day corresponds to the lifetime 95th percentile consumer-only water intake rate, calcuated from OEHHA (2012) Table 8.13.
+   Reference             : Office of Environmental Health Hazard Assessment, Notification Level Recommendations Perfluorooctanoic Acid and Perfluorooctane Sulfonate in Drinking Water.  August 2019. 
+
+=== Maine | DEP | 2018 | RAG | GW | 0.4 ug/L
+   CriticalEffect/Study  : Based on EPA Health Advisories.
+   Receptor              : Child  | (0-6 years) residential, non-cancer
+   DWintake              : 0.052
+   RSC                   : 1
+   AddlInfo              : MDEP based their RAG on the USEPA Office of Water toxicity value and USEPA Regional Screening Level equation, however, recommends using the USEPA lifetime Health Advisory if the groundwater is for human consumption.  
+   Reference             : https://www.maine.gov/dep/spills/publications/guidance/rags/RAGs-Select-Tables-101918cc.xlsx
+
+=== Massachusetts | DEP | 2019 | ORS
+
+GW-1  | DW
+
+GW | 0.02 ug/L
+   CriticalEffect/Study  : Based on EPA Health Advisories.
+   UFT                   : 100
+   ToxValue              : 0.000005 | (5 x 10-6)
+   Receptor              : Lactating women
+   DWintake              : 0.054
+   RSC                   : 0.2
+   AddlInfo              : MassDEP used the USEPA 2016 assessment, however, added an additional uncertainy factor of 3 for database limitations and concerns that effects may occur at levels below the USEPA 2016 reference dose. DW values are to be applied to the total concentration of six PFAAs: PFOA, PFOS, PFNA, PFHxS, PFDA, and PFHpA.
+   Reference             : MassDEP Office of Research and Standards, Technical Support Document, Per- and Polyfluoroalkyl Substances (PFAS): An Updated Subgroup Approac to Groundwater and Drinking Water Values. December 26, 2019
+
+=== Michigan | DHHS | 2019 | screening level | DW | 0.008 ug/L
+   CriticalEffect/Study  : Developmental (delayed eye opening and decreased mean pup body weight)  | (Luebker et al. 2005)
+   Species               : Rats
+   Duration              : 84 days
+   Dose->SerumMethod     : Predicted TWA from ATSDR (2018 draft), using Wambaugh et al. (2013) pharmacokinetic model
+   HEDmethod             : Dose adjustment factor of  0.0000699 L/kg-day calculated as the clearance factor using the first-order one-compartment model (Vd x (ln 2 ÷ t½)), using t1/2 of 840 days (2.3 yrs) from Bartell et al. (2010) | 
+   DRmodel               : NOAEL
+   PODHED                : 0.000515 mg/kg-day
+   UFT                   : 300
+   ToxValue              : 0.000002 | (2 x 10-6)
+   Receptor              : Breast-fed infant
+   DWintake              : 0.047
+   RSC                   : 0.5
+   AddlInfo              : MDHHS applied a 10 fold "modifying factor" to account for immunotoxicity concerns, which has been recorded herein as a database UF. The Minnesota Dept. of Health toxicokinetic model was used to predict serum levels in the breast-fed infant. 
+   Reference             : MDHHS, Division of Environmental Health, Public health drinking water screening levels for PFAS.  Michigan PFAS Action Response Team Human Health Workgroup, February 22, 2019.
+
+=== Minnesota | DOH | 2019 | HBV | DW/GW | 0.015 ug/L
+   CriticalEffect/Study  : Immune (increased IL-4 and decreased SRBC specific IgM levels | (Dong et. al 2011)
+   Species               : Mice 
+   Duration              : 60 days
+   Dose->SerumMethod     : Direct serum concentration measured at end of dosing period
+   HEDmethod             : 1.3x10-4 Dose Adjustment Factor: based on DAF = Volume of Distribution (L/kg) x (Ln2/Half-life, days) = 0.23 L/kg x (0.693/1241 days). (Note, the change in t1/2 from the MDH 2017 calculation)
+   DRmodel               : NOAEL
+   PODHED                : 2.36 mg/L (serum)
+   UFT                   : 100
+   ToxValue              : 0.00031 mg/kg-day | (3.1 x 10-6)
+   Receptor              : Infant exposure via breastmilk for 1 year, from mother chronically exposed via water, followed by lifetime of exposure via drinking water
+   RSC                   : 0.5
+   AddlInfo              : Protective for short-term, subchronic and chronic. MDH derived the nHBV based on an internal serum concentration that would not exceed 0.5 (RSC) of the serum concentration corresponding to the new (RfD 0.024 mg/L)from infancy through lifetime of exposure.  RSC was based on ceiling of 80% minus 'background' exposure, based on biomonitoring results from new residents who were not historically exposed to contaminated water in the East Metro (Nelson, 2016). The 95th percentile water intake rates (Table 3-1 and 3-3, USEPA 2011) or upper percentile breastmilk intake rates (Table 15-1, USEPA 2011) were used. Breastmilk concentrations were calculated by multiplying the maternal serum concentration by a PFOS breastmilk transfer factor of 1.7%. Breastmilk transfer value was based on average breastmilk to maternal serum concentration ratios reported in the literature.The simulated individuals began life with a pre-existing body burden through placental transfer (maternal serum concentration x 40%).
+   Reference             : MDH Health Based Guidance for Water Health Risk Assessment Unit, Environmental Health Division, 651-201-4899.Toxicological Summary for: Perfluorooctane Sulfonate.  April 2019 | https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfos.pdf 
+
+=== New Jersey | DWQI | 2018 | Recommended MCL  | DW | 0.013* ug/L
+   CriticalEffect/Study  : Decrease in antibody response to exogenous antigen challenge | (Dong et al. 2009)
+   Species               : Mice
+   Duration              : 60 days
+   Dose->SerumMethod     : Direct serum concentration measured at end of dosing period
+   HEDmethod             : Dose adjustment based on clearance factor (8.1 x 10-5 L/kg/day)
+   DRmodel               : NOAEL
+   PODHED                : 23 ng/ml (serum)
+   UFT                   : 30
+   ToxValue              : 0.0000018 | (1.8 x 10-6) | 
+   Receptor              : Adult
+   RSC                   : 0.2
+   Reference             : Maximum Contaminant Level | Recommendation for | Perfluorooctane Sulfonate in Drinking Water  June 2018 | Perfluoro Compounds
+
+=== Texas | CEQ | 2016 | Tier 1 PCL | GW | 0.56 ug/L
+   CriticalEffect/Study  : Effects on hippocampus synapse structure | (Zeng et al. 2011)
+   Species               : Rat
+   Duration              : 20 days (gestational exposure)
+   Dose->SerumMethod     : NA - used administered dose
+   HEDmethod             : interspecies extrapolation factor of 263, based on estimated ratio of human to rat half life
+   DRmodel               : LOAEL
+   PODHED                : 0.0023  | mg/kg-day
+   UFT                   : 100
+   ToxValue              : 0.000023 | (2.3 x 10-5)
+   Receptor              : Child  | (0-6 years) residential, non-cancer
+   DWintake              : NA
+   RSC                   : NA
+   Reference             : Perfluoro Compounds (PFCs); January 4, 2016
+
+=== USEPA | Office of Water | 2016 | HA | DW | 0.070a ug/L
+   CriticalEffect/Study  : Developmental (reduced pup body weight) | (Luebker et al 2005)
+   Species               : Rat
+   Duration              : 63 days
+   Dose->SerumMethod     : Animal data + PK model to model average serum level
+   HEDmethod             : 0.000081 Dose Adjustment Factor: based on Rate = Volume of Distribution (L/kg) x (Ln2/Half-life, days) = 0.23 L/kg x (0.693/1971 days)
+   DRmodel               : NOAEL
+   PODHED                : 0.00051  | mg/kg-day
+   UFT                   : 30
+   ToxValue              : 0.00002 | (2 x 10-5)
+   Receptor              : Lactating women
+   DWintake              : 0.054
+   RSC                   : 0.2
+   AddlInfo              : 90th percentile consumers only estimate of combined direct and indirect community water ingestion for lactating women (see Table 3-81 in USEPA 2011b).
+   Reference             : Health Effects Support Document for Perfluorooctance Sulfonate, U.S. Environmental Protection Agency Office of Water (4304T) Health and Ecological Criteria Division, EPA Document Number: 822-R-16-002.  May 2016.  and Drinking Water Health Advisory for Perfluorooctance Sulfonate, U.S. Environmental Protection Agency Office of Water (4304T) Health and Ecological Criteria Division, EPA Document Number: 822-R-16-004.  May 2016
+
+=== Vermont | DEC/DOH | 2018 | HA | GW/DW | 0.020a ug/L
+   CriticalEffect/Study  : Based on EPA Health Advisory
+   Receptor              : Infant  | (0-1 year)
+   DWintake              : 0.175
+   RSC                   : 0.2
+   AddlInfo              : The 95th percentile Body Weight Adjusted Water Intake Rate for the first year of life based on combined direct and indirect water intake from community water supplies for consumers only is 0.175 L/kgBW-d.
+   Reference             : Vermont Department of Heath, Memorandum to Chuck Schwer, Director, Waste Management, DEC, from Sarah Vose, State Toxicologist; Subject: Perfluorooctanoic acid (PFOA) and Perfluorooctanesulfonic acid (PFOS) Vermont Drinking Water Health Advisory, June 22, 2016
+
+=== Canada | DEC/DOH | 2018 | MAC | DW | 0.6 ug/L
+   CriticalEffect/Study  : Heptocellular hypertrophy | (Butenhoff et al. 2012)
+   Species               : Rat
+   Duration              : 104 weeks  | (728 days)
+   Dose->SerumMethod     : NA - used administered dose
+   HEDmethod             : Adjustment of the UFA (termed "AKUF") using ratios of PBPK model-(Loccisano 2011, 2012a,b, 2013) predicted dose metrics, using steady-state plasma concentrations
+   DRmodel               : NOAEL
+   PODHED                : 0.0015mg/kg-day
+   UFT                   : 25
+   ToxValue              : 0.00006 | (6 x 10-5)
+   Receptor              : Adult
+   DWintake              : NA
+   RSC                   : 0.2
+   Reference             : Health Canada.  Guidelines for Canadian Drinking Water Quality, Guideline Technical Document, Perfluorooctane Sulfonate.  December 2018 
+
+=== Notes: | None | None | None | None | None ug/L
+
+=== * = draft/proposed values | None | None | None | None | None ug/L
+
+=== a Applies to the individual results for PFOA and PFOS, as well as the sum of PFOA + PFOS. | None | None | None | None | None ug/L
+
+=== b Exposure parameters provided are those explicitly used by corresponding agency. Some agencies use the normalized drinking water intake without specifying the exact ingestion rate and body weight combination.  | None | None | None | None | None ug/L
+
+=== NA = not applicable | None | None | None | None | None ug/L
+
+=== Regulatory Agency | None | None | None | None | Standard or Guidance ug/L
+
+=== CDC = Center for Disease Control & Prevention | None | None | None | None | AGQS = ambient groundwater quality standard ug/L
+
+=== CEQ = Commission on Environmental Quality | None | None | None | None | BCL = basic comparison level ug/L
+
+=== DEC = Dept. of Environmental Conservation | None | None | None | None | CL = groundwater cleanup level ug/L
+
+=== DENR = Dept. of Environment and  | None | None | None | None | ES = environmental standard ug/L
+
+===        Natural Resources | None | None | None | None | GCC = Generic Cleanup Criteria (Part 201) ug/L
+
+=== DEP = Dept. of Environmental Protection | None | None | None | None | HA = lifetime health advisory ug/L
+
+=== DEQ = Dept. of Environmental Quality | None | None | None | None | HNV = human noncancer value for surface drinking water ug/L
+
+=== DES = Dept. of Environmental Services | None | None | None | None | HRL = health risk limit ug/L
+
+=== DHHS = Dept. of Health and Human Services | None | None | None | None | ILR = initiation level  ug/L
+
+=== DOH = Dept. of Health | None | None | None | None | IMAC = interim maximum allowable standard ug/L
+
+=== DNR = Dept. of Natural Resources | None | None | None | None | ISGWQC = interim specific groundwater quality criterion ug/L
+
+=== DPH = Division of Public Health | None | None | None | None | MAC = maximum allowable concentration ug/L
+
+=== EPA = Environmental Protection Agency | None | None | None | None | MCL = maximum contaminant level ug/L
+
+=== OEHHA = Office of Environmental Health Hazard Assessment | None | None | None | None | MEG = maximum exposure guideline ug/L
+
+=== Type of Medium | None | None | None | None | PGWES = primary groundwater enforcement standard ug/L
+
+=== DW = drinking water | None | None | None | None | PHG = public health goal ug/L
+
+=== GW = groundwater | None | None | None | None | RAG = remedial action guideline ug/L
+
+=== SW = surface water and/or effluent | None | None | None | None | rl = reference level ug/L

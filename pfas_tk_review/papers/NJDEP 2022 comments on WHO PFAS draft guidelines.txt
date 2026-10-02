@@ -1,0 +1,2258 @@
+                                                                                 NJDEP Comments
+
+
+Response for public review - submitted November 11, 2022
+Document title: PFOS and PFOA in Drinking Water, Draft background document for
+development of WHO Guidelines for Drinking Water Quality
+Author: World Health Organization
+
+Name: Post
+First Name: Gloria
+Function: Research Scientist
+Institution: New Jersey Department of Environmental Protection
+E-mail: gloria.post@dep.nj.gov
+
+Please choose one of the alternatives below: My name can be disclosed to the authors and
+included in the background document to the GDWQ.
+
+Responses to the questions on the comment form are below. Please note the following:
+   •   A citation or link for references not mentioned in the draft WHO document is provided
+       the first time the reference is mentioned in the comments.
+   •   The major points in the comments are summarized in the Additional Comments section
+       beginning on p. 47.
+
+   1. Does this text respond to an issue of concern?
+PFAS in drinking water is currently an issue of high interest and concern, and the New Jersey
+Department of Environmental Protection (NJDEP) supports WHO’s efforts to develop drinking
+water guidelines for PFOA and PFOS. Because WHO’s recommendations will likely receive
+extensive attention from regulatory agencies, the public and others, it is particularly important
+that all information in this document be accurately and clearly presented and that the document’s
+conclusions be scientifically/technically sound and public health protective.
+
+The draft WHO document was reviewed by NJDEP scientists and technical staff with extensive
+expertise and experience in development of drinking water standards for PFAS, including health
+effects, analytical limitations, and treatment removal capabilities. NJDEP began evaluating
+PFAS in drinking water in 2006, conducted the first statewide study of the occurrence of PFAS
+in drinking water in the U.S. in 2006, and established the first drinking water standard
+(Maximum Contaminant Level) for a PFAS in the U.S. in 2015. As shown at
+https://www.nj.gov/dep/dsr/pfas.htm, NJDEP scientists and technical staff are the authors and
+co-authors of numerous peer-reviewed publications on PFAS in drinking water including several
+highly cited reviews.
+In its review of the draft document, NJDEP identified the need for many revisions so that the
+information presented is factually accurate and the conclusions are scientifically/technically
+supportable and public health protective. NJDEP also noted additional areas where clarification
+
+
+                                                1
+                                                                                 NJDEP Comments
+
+
+is needed. For these reasons, NJDEP concludes that extensive revisions are needed for the
+document to appropriately respond to the issue that it is intended to address.
+Please be aware that NJDEP’s detailed comments are submitted with a constructive intent, and
+we hope that these comments are helpful to WHO as it revises the draft document. NJDEP notes
+that the WHO website where the draft document is posted for comment states that PFAS,
+particularly PFOS and PFOA, are being “considered” for the next update of the WHO drinking
+water quality guidelines. Unless the draft document is extensively and appropriately revised,
+NJDEP recommends that WHO remain silent on this topic and not proceed to establish drinking
+water quality guidelines for PFOA, PFOS, or PFAS.
+    2. Does this text compete or complement other publications in the area – if so, which?
+In addition to the authoritative reviews by ATSDR, EFSA, Health Canada, and USEPA
+mentioned in the box on p. 1, lines 1-8, several other authoritative reviews provide thorough and
+well-organized information relevant to the topics presented in the draft document. It is
+recommended that WHO review and cite as appropriate the following additional authoritative
+reviews (listed in alphabetical order), most of which are cited in our comments below:
+•   CalEPA. 2021. California Environmental Protection Agency. Public Health Goals -
+    Perfluorooctanoic Acid and Perfluorooctane Sulfonic Acid in Drinking Water. First Public
+    Review Draft. July 2021.
+    https://oehha.ca.gov/sites/default/files/media/downloads/crnr/pfoapfosphgdraft061021.pdf.
+    The information in this document is relevant to Sections 3, 4, 5, 6, 7, and 9 of the WHO
+    draft.
+•   ITRC. 2022. Interstate Technology & Regulatory Council. PFAS Technical and Regulatory
+    Guidance Document and Fact Sheets PFAS-1. Washington, D.C.: Interstate Technology &
+    Regulatory Council, PFAS Team. https://pfas-1.itrcweb.org/ This document information in
+    this document is relevant to all sections of the WHO draft, particularly Sections 1 and 2.
+•   NJ DWQI. 2015. New Jersey Drinking Water Quality Institute. Recommendation on
+    Perfluorinated Compound Treatment Options for Drinking Water. June 2015.
+    https://www.state.nj.us/dep/watersupply/pdf/pfna-pfc-treatment.pdf. The information in this
+    document is relevant to Sections 8 and 9 of the WHO draft.
+•   NJDWQI. 2016. New Jersey Drinking Water Quality Institute. Addendum to Appendix C:
+    Recommendation on Perfluorinated Compound Treatment Options for Drinking Water. June
+    2016.
+    https://www.nj.gov/dep/watersupply/pdf/pfoa-appendixc.pdf
+•   NJ DWQI. 2017a. New Jersey Drinking Water Quality Institute. Health-Based Maximum
+    Contaminant Level Support Document: Perfluorooctanoic Acid (PFOA). February 15, 2017.
+    https://www.state.nj.us/dep/watersupply/pdf/pfoa-appendixa.pdf. The information in this
+    document is relevant to Sections 3, 4, 5, 6, 7, and 9 of the WHO draft.
+•   NJ DWQI. 2017b. New Jersey Drinking Water Quality Institute. Second Addendum to
+    Appendix C: Recommendation on Perfluorinated Compound Treatment Options for Drinking
+    Water. November 2017b. https://www.state.nj.us/dep/watersupply/pdf/pfos-
+
+
+                                                2
+                                                                                  NJDEP Comments
+
+
+    recommendation-appendix-c.pdf. The information in this document is relevant to Sections 8
+    and 9 of the WHO draft.
+•   NJ DWQI. 2018. New Jersey Drinking Water Quality Institute. Health-Based Maximum
+    Contaminant Level Support Document: Perfluorooctane Sulfonate (PFOS). June 5, 2018.
+    https://www.state.nj.us/dep/watersupply/pdf/pfos-recommendation-appendix-a.pdf. The
+    information in this document is relevant to Sections 3, 4, 5, 6, 7, and 9 of the WHO draft.
+
+    3. Is the level of guidance and information provided appropriate? Please consider the
+       practical aspects and conclusion sections in particular.
+As discussed in detailed comments below, insufficient justification is provided for selection of
+the treatment-based pGVs of 0.1 ug/L (100 ng/l) for PFOA and PFOS. The choice of these
+values appears to be arbitrary.
+Also, the draft document often emphasizes relatively unimportant details from one or a few
+studies (which may not be the most important ones) without overall synthesis of the available
+information on the topic.
+
+    4. Are there major omissions that should be corrected?
+In its review of the draft document, NJDEP noted several important omissions. These are also
+noted in the line-by-line comments on “errors of fact or interpretation” below, and are
+summarized here:
+•   As a general comment, the draft document lacks an overview of the multiple reasons why
+    PFOA, PFOS, and other PFAS differ from other drinking water contaminants and why they
+    are of high concern when present in drinking water. This information is provided in the
+    Additional comments section below as “Additional key points not included in the draft
+    document that should be emphasized by WHO.”
+
+•   p. 1, line 21. Bioaccumulation and health effects, along with persistence, are major reasons
+    for concern about PFAS and should be added to the sentence, as shown in bold here: “…
+    their persistence, bioaccumulation in humans and other species, and numerous health
+    effects are can be of concern regarding environmental and human health.”
+
+•   p. 14, line 16. Section 2.2 on PFAS in food. Recent data from the US Food and Drug
+    Administration should be included. See https://www.fda.gov/food/chemical-contaminants-
+    food/analytical-results-testing-food-pfas-environmental-contamination
+
+•   p. 18, line 46, and elsewhere where PFAS in breast milk is discussed. The discussions of
+    PFOA and PFOS in breast milk throughout the document omit the key point that infants
+    receive higher exposures than older individuals from contaminated drinking water. These
+    higher exposure and serum levels are of particular concern because infants are a sensitive
+    subpopulation for developmental effects of PFOA and PFOS.
+
+
+                                                3
+                                                                                     NJDEP Comments
+
+
+•   p. 23, lines 21-24, and throughout. The important concepts that the difference in male versus
+    female half-lives in rats is much greater than for other species and that this difference is
+    important in interpreting toxicology studies of PFOA conducted in rats, particularly studies
+    of developmental effects, are omitted from the draft document.
+
+•   p. 26, lines 33-34, regarding the study of advanced cancer patients given high doses of
+    PFOA. The draft document states: “The test article [PFOA] was described as non-toxic at all
+    dose levels tested” and omits stating that toxicity attributed to the test article was reported in
+    this study.
+
+•   p. 32, lines 20-21. The draft document does not include information on the numerous
+    epidemiology studies reporting associations of small for gestational age (or related
+    intrauterine growth retardation endpoints) and/or low birth weight with PFOA and PFOS,
+    and it cites a source that stated that no associations of PFOA or PFOS with these effects have
+    been reported.
+
+•   p. 37, line 40 – p. 38, line 7. The draft document does not include information that supports
+    the use of increased serum levels of the liver enzyme ALT in humans as an endpoint for
+    health-based guideline development. In summary, the increased ALT associated with PFOA
+    and PFOS is indicative of liver damage. PFOA is associated with increased incidence of
+    clinically-defined elevated ALT (not just a numerical increase in ALT), and it is well
+    established that relatively small (<2-fold) increases in ALT are associated with pathology-
+    confirmed liver disease such as non-alcoholic fatty liver disease.
+
+•   p. 38, Section 4.2.8.1, Carcinogenicity of PFOS. Two additional recent human studies that
+    are relevant to this topic that should be cited are Cao et al. (2022,
+    https://doi.org/10.1016/j.chemosphere.2022.134083) and Goodrich et al. (2022,
+    https://doi.org/10.1016/j.jhepr.2022.100550).
+
+•   p. 67, line 29, and/or elsewhere. The document does not mention that there is concordance
+    between laboratory animals and humans for most of the major toxicological effects of PFOA
+    and PFOS, including developmental, immunological, hepatic, and carcinogenic effects.
+
+•   The document does not mention that PFOA and/or PFOS were associated with increased risk
+    of clinically defined abnormal values for each of the four most well-established human non-
+    cancer health effects (increased cholesterol, increased ALT, decreased birth weight,
+    decreased response to vaccination) in one or more epidemiology studies.
+
+•   The document omits at least two much lower values from the ranges of “health-based
+    drinking water values derived by authoritative agencies” on p. 79, lines 27-32. These include
+    the drinking water guideline of 2 ng/L for the total of PFOA, PFOS, PFNA, and PFHxS
+
+
+                                                  4
+                                                                                   NJDEP Comments
+
+
+   established by Denmark in 2021 and the interim Health Advisories of 0.004 ng/L for PFOA
+   and 0.02 ng/L for PFOS established by USEPA in 2022.
+
+   5. Is there superfluous information that could be omitted?
+Some of the toxicokinetics sections (e.g., 3.1, 3.2) and some of the sections on health effects in
+humans and animals (e.g., section 4.2.1.3 on epidemiology studies of preterm birth and
+pregnancy loss, and others) include more details on design and results of various studies than
+may be necessary. A synthesis and overall conclusions of the information on these and other
+topics would be more useful.
+Additionally, the detailed discussions in several sections, and the number of citations, of
+publications by Dourson and co-authors (Dourson et al., 2019, Dourson and Gadabudi, 2021,
+Campbell et al., 2022) regarding the half-life of PFOA and other topics, and the Elcombe et al.
+(2013) study of cancer patients administered very high doses of PFOA, is excessive and
+inappropriate especially since it is stated (p. 1, lines 1-8) that the information in the draft
+document is “…. primarily drawn from existing authoritative reviews…Examples of robust
+studies from the primary literature are also described to provide an overview of health effects in
+humans and animals. However, this document is not intended as a comprehensive summary of
+the primary literature and not all studies are cited.”
+As discussed in the line-by-comments below, the cancer patient study is not appropriate for
+consideration in development of a drinking water guideline for PFOA. Additionally, as WHO
+notes, the Campbell et al. (2022) conclusion that the half-life of PFOA is shorter than two years
+is subject to debate, and it is likely more accurate that this conclusion is not accepted by the
+general scientific community. Importantly, the variability within the range of potential human
+half-lives for PFOA, including the values suggested Campbell et al. (2022), is not large, and this
+relatively small range does not warrant so much emphasis. The potential variability of the half-
+life is similar or less than the variability of many other factors and assumptions routinely used in
+development of drinking water guideline development including body weight, drinking water
+ingestion rate, and others.
+   6. Are there errors of fact or interpretation that should be corrected – if so, what?
+This section includes specific (line-by-line) comments related errors of fact or interpretation that
+need to be corrected or clarified. General comments are provided in Additional comments
+starting on p. 46 below.
+Section 1. General Description
+p. 1, line 21. Bioaccumulation and health effects, along with persistence, are major reasons for
+concern about PFAS and should be added to the sentence, as shown in bold here: “… their
+persistence, bioaccumulation in humans and other species, and numerous health effects are
+can be of concern regarding environmental and human health.”
+
+
+
+                                                 5
+                                                                                  NJDEP Comments
+
+
+p. 1, line 22, states: “PFAS compounds are distributed across the globe and their degradation
+products occur in biota and environmental media, often at great distances from their original
+source.”
+This sentence is unclear, and it is not completely accurate. “PFAS” include both terminal PFAS
+(e.g., perfluoroalkyl acids such as PFOA and PFOS) and precursor PFAS (e.g., fluorotelomer
+alcohols) that can degrade to terminal PFAS such as perfluorocarboxylic acids (PFOA and
+others). The sentence should be reworded to convey that terminal PFAS in biota and
+environmental media can result from degradation of precursor PFAS that have traveled great
+distances from their original source. Also, “PFAS compounds” is redundant (“compounds”
+should not be included) since PFAS stands for per- and polyfluoroalkyl substances.
+p. 1, lines 32-34. Regarding the definition of PFAS, the sentence beginning with “In these cases,
+…” is confusing and does not appear necessary. Suggest deleting it.
+p. 2, lines 1-2, states: “Complex PFAS that can yield these highly persistent PFAS are referred to
+as precursor substances.”
+This sentence is not completely accurate and needs to be revised to indicate that the precursors
+are PFAS, and that precursor PFAS also include smaller molecules such as fluorotelomer
+alcohols and others that degrade to terminal perfluoroalkyl acids.
+p. 2, line 28, Table 1.1. Physical state of PFOA should say “ammonium salt” not “ammonia
+salt”.
+p. 2, line 28. In Table 1.1, the “Half-life in Water” information (PFOS – 41 years; PFOS – 92
+years) does not accurately reflect the information from the primary source cited by ATSDR
+(2021) and incorrectly indicates that PFOA and PFOS are known to break down in water over
+time.
+ATSDR (2021), which is cited in the draft document, attributes the PFOS half-life information to
+OECD (2002) which states (bold added): “The analytical results indicate no degradation of
+PFOS or dependence on pH. The study indicates that the hydrolytic half-life of PFOS in water is
+greater than 41 years.”
+Similarly, the PFOA information is attributed by ATSDR (2021) to OECD (2006b) which states
+(bold added): “From the data pooled over the three pH levels, it was estimated that the hydrolytic
+half-life of PFOA at 25°C is greater than 92 years, with the most likely value of 235 years. From
+the mean value and precision of PFOA concentrations, it was estimated the hydrolytic half-life of
+PFOA to be greater than 97 years.”
+It is suggested that WHO also check the primary source of the air half-life values.
+p. 3, lines 1-13. Suggest combining these two paragraphs since they repeat the same information
+for PFOA and for PFOS.
+
+
+
+
+                                                6
+                                                                                 NJDEP Comments
+
+
+Section 2. Environmental Levels and Human Exposure
+p. 8, line 26. Throughout Section 2.1.2 on occurrence in drinking water, frequency of detection
+data are not meaningful unless accompanied by the Reporting Level (or other term used for the
+concentration below which detections were not reported). This comment also applies to all other
+sections where occurrence data are presented.
+p. 9, lines 34-38. When discussing USEPA Unregulated Contaminant Monitoring Rule 3
+(UCMR3) data here and in Section 2.1.2.1, it is important to mention that the Reporting Levels
+in UCMR3 were high (PFOA – 20 ng/L; PFOS – 40 ng/L) and therefore did not report many
+occurrences of PFOA and PFOS at lower levels. It should be noted that UCMR5, to be
+conducted in 2023-2025, will monitor for 29 PFAS at much lower Reporting Levels, with a
+Reporting Level of 4 ng/L for both PFOA and PFOS. See Table 2 at
+https://www.epa.gov/dwucmr/fifth-unregulated-contaminant-monitoring-rule
+p. 9, line 48. The current USEPA Health Advisories for PFOA and PFOS are no longer 70 ng/L.
+USEPA has issued newer interim Health Advisories for PFOA and PFOS and has stated that they
+supersede the 2016 Health Advisories of 70 ng/L. See: United States Environmental Protection
+Agency. Lifetime Drinking Water Health Advisories for Four Perfluoroalkyl Substances. Fed.
+Reg. 87(18): 36848-36849. June 21, 2022. https://www.govinfo.gov/content/pkg/FR-2022-06-
+21/pdf/2022-13158.pdf
+p. 10, line 31. Section 2.1.2.1 on UCMR3 monitoring study. The comment on p. 9, lines 34-38
+above applies here as well.
+p. 11, Table 2.1. The arithmetic means for UCMR3 data are shown here. It might be more
+informative to show the medians or modes of the data set because the averages shown here may
+be highly impacted by a few extreme values (e.g., average PFOS in GW of 0.199 ug/L is very
+high; what is the median and mode?)
+p. 14, lines 4-11. It should be mentioned that the data and estimated intakes for PFAS in food in
+this paragraph come from older studies. If newer data are available, they should be discussed.
+Also, the LOQs should be mentioned as in the discussion of the EFSA study above.
+p. 14, line 16. Section 2.2 on PFAS in food. Suggest including recent data from US Food and
+Drug Administration. See https://www.fda.gov/food/chemical-contaminants-food/analytical-
+results-testing-food-pfas-environmental-contamination
+p. 15, line 20. “DuPont 3M works, West Virginia” is incorrect and should be revised to “DuPont
+Washington Works, West Virginia.”
+p. 15, lines 26-28. While the information on atmospheric formation of PFCAs from precursors
+in this section is accurate, this concept should also be included in the earlier discussion of
+precursor compounds in air in Section 1.5. Also, the same PFAS are referred to with different
+nomenclature here than in Section 1.5, and the nomenclature should be made consistent.
+p. 16, line 1. Although it is stated on lines 13-15 that >75% of PFOA and PFOS exposure can
+come from drinking water when it is contaminated, a more general statement in (Section 2.5.
+
+                                                7
+                                                                                               NJDEP Comments
+
+
+Relative contribution of drinking water to total exposure levels) that the percent contribution
+from drinking water is dependent on the concentration of PFOA or PFOS in the drinking water
+should be added.
+It is also important to mention that exposure to PFOA and PFOS from even relatively low
+concentrations in drinking water is greater than exposures from sources prevalent in the general
+population (e.g., food, consumer products) (DWQI, 2017a, 2018; Post et al. 2012,
+https://doi.org/10.1016/j.envres.2012.03.007; Post et al., 2017,
+https://doi.org/10.1371/journal.pbio.2002855), and that the relative contribution from drinking
+water to total exposure can be predicted with a Clearance Factor, which relates intake to serum
+levels, and the average daily water intake rate (DWQI, 2017a, 2018; Post, 2021,
+https://doi.org/10.1002/etc.4863).
+p. 16, lines 27-30. If Relative Source Contribution (RSC) is to be mentioned here, several points
+need to be added and/or clarified. First, 20% is the “floor” value for RSC recommended by
+USEPA guidance (USEPA, 2000); a lower RSC value cannot be used even if supported by data.
+Second, and more importantly, the RSC is not the percent of exposure that actually comes from
+drinking water, which obviously varies in different locations with different drinking water
+concentrations. Rather, the RSC is the percent of exposure that can come from drinking water so
+that total exposure from drinking water and non-drinking water sources does not exceed the
+Reference Dose (USEPA, 2000). Relevant to this point, the USEPA Science Advisory Board
+(SAB, 2022) reviewed the USEPA (2021b,c)1 PFOA and PFOS assessments cited here and
+recommended that USEPA clarify that the percent of the Reference Dose from non-drinking
+water sources, not the actual exposure from drinking water, is relevant to the determination of
+the RSC. Additionally, the USEPA SAB (2022) recommended that USEPA clarify that general
+population exposure from non-drinking water sources far exceeds the draft PFOA and PFOS
+Reference Doses from USEPA (2021b,c), supporting the use of the “floor” RSC of 20%.
+p. 16, line 36-37. “is possible” should be changed to “occurs” since there is no doubt that
+bioaccumulation takes place in the species mentioned. Also, birds should be added to the list of
+species mentioned.
+p. 16, lines 41-44. It is not clear if the increase in BAF with increasing chain length mentioned
+here is for perfluoroalkyl carboxylates or perfluoroalkyl sulfonates. Also, the values cited appear
+to be log BAFs, not BAFs.
+p. 17, lines 2-4. Sentence beginning with “Ongoing…” The intended meaning of this sentence
+is not clear as written. This is the relevant quote from ATSDR (2021): “Ongoing monitoring of
+perfluoroalkyl levels in animals may help to determine whether efforts to phase out these
+substances will have had an effect on their biomagnification. A data need exists to determine the
+bioaccumulation potential of the new replacement substances used in place of PFOA and PFOS.”
+
+
+
+
+1
+    Note: These are listed as USEPA, 2021a,b in the citation list of the draft WHO document.
+
+                                                           8
+                                                                                   NJDEP Comments
+
+
+Section 3. Toxicokinetics and Metabolism in Humans and Animals
+p. 17, line 11, and throughout Section 3. A high-level synthesis of information on each of the
+topics included in this section would be helpful to the reader and should be added. Throughout
+Section 3, many details that may not be necessary or meaningful to the reader are included, while
+the general conclusions that would be most useful are often not provided. The following is an
+example of synthesis of information on PFOA absorption from DWQI (2017a) that is provided
+as an illustration:
+       “PFOA is well absorbed by the oral route (Lau et al., 2007). More than 95% of a single
+       dose of 0.1 to 25 mg/kg APFO (the ammonium salt of PFOA) was absorbed in male and
+       female rats (Kemper, 2003). It was also well absorbed in mice, rats, hamsters, and rabbits
+       in studies by Hundley et al. (2006). About 98.7% of an oral dose given to pregnant rats
+       on gestation day (GD) 8 or 9 was excreted in the urine within 24 hours (Gibson and
+       Johnson, 1983). Additionally, a recent study in mice (Fujii et al., 2015) estimated the oral
+       absorption of PFOA as 98.7% in males and 99.8% in females. The extent of oral
+       absorption was determined by comparing fecal excretion after intravenous dosing
+       (representing biliary excretion of PFOA into the gastrointestinal tract) and oral dosing
+       (representing both unabsorbed PFOA and biliary excretion). PFOA is well absorbed by
+       humans exposed orally, as demonstrated by elevated serum concentrations in residents of
+       communities with contaminated drinking water (discussed above).”
+p. 17, line 42 – p. 18, line 6. The level of detail presented for the Elcombe et al. (2013) study
+described here and much of the information presented (e.g., time to reach steady-state) are not
+relevant to absorption, the topic of this section. In addition to the issues that are noted about
+cancer patients as the study group, the very high dose levels used are not relevant to the lower
+exposures from drinking water, the topic of this draft document. If Elcombe et al. (2013) is
+mentioned here, it should simply be stated that the data indicate oral absorption of PFOA in
+humans.
+p. 18, lines 6-8. Serum levels are elevated in studies of many communities with drinking water
+contaminated with PFOA and/or PFOS. A more general reference that synthesizes this
+information should be cited, or, at a minimum, the sentence should be revised to state that
+Emmett et al. (2006) is one of many studies showing elevated serum levels from drinking water
+exposure.
+p. 18, lines 9-11. The following is an example of the need for improved synthesis of the
+information in the Toxicokinetics section: The information from Cui et al. (2010) about oral
+absorption in rats (which were males, although this is not stated in the draft document) in the
+sentence beginning with: “A carbon tracer…,” should be synthesized with the information on
+absorption in male rats from Dzierlenga et al. (2019) on lines 20-21. Also, Cui et al. (2010,
+https://doi.org/10.1007/s00244-009-9336-5) is not listed in the Reference list.
+p. 18, line 21. The relevant statement from Dzierlenga et al. (2019) refers to both sexes of rats,
+not just males, as follows: “Oral bioavailability for all three chemicals [including PFOA and two
+
+
+                                                 9
+                                                                                    NJDEP Comments
+
+
+others] was calculated to be >100%, which may be due to increased reabsorption by intestinal
+transporters.” Also, this paper is not listed in the citation list.
+p. 18, line 27, Section 3.2 on Distribution. A general statement that the distribution of PFOA,
+PFOS, and other PFAS is different than other persistent organic contaminants because PFAS do
+not preferentially accumulate in fat but rather bind to proteins in blood serum and other tissues is
+needed. For example, see summary in Post et al. (2012).
+p. 18, lines 35-36. Sentence starting with: “Other tissues…” After thorough searching, this
+information on cerebrospinal fluid and thyroid was not found in ATSDR (2021). Was this
+statement intended to say that ATSDR (2021) did not mention these as partitioning sites, rather
+than that ATSDR stated that these are not partitioning sites?
+p. 18, lines 42-26. Suggest citing a review of placental transfer in humans, such as Appel et al.
+(2021, https://pubmed.ncbi.nlm.nih.gov/34930098/) instead of a few individual studies.
+p. 18, line 46. The discussion of PFOS in human breast milk that begins here should emphasize
+the important fact that serum PFOS levels in breastfed infants increase several-fold during the
+first 6 months after birth, as reported by Fromme et al. (2010, https://doi.org/10.1021/es101184f)
+and others. Also, since it is well established that PFOS is ubiquitously present in human breast
+milk, the sentence should be revised to say that postnatal exposure via breast milk “occurs,”
+rather than that it “is possible”. It is recommended that the recent review of data on PFAS in
+breast milk from around the world by Fromme et al. (2022,
+https://doi.org/10.1016/j.scitotenv.2022.154066) be cited here.
+p. 19, line 31. It is important to mention that there is also exposure to PFOS via lactation in rats.
+As stated by DWQI (2018): “PFOS is also transferred to offspring through breast milk in
+rodents, as shown in a cross-fostering study (Luebker et al., 2005a) in which PFOS was detected
+in pups born to unexposed dams who were nursed by dams that had been dosed during gestation,
+with a pup:maternal PFOS serum ratio of 0.27.”
+p. 20, line 8-10. The fact that toxicokinetics at the very high doses used in this study (Elcombe
+et al., 2013, as cited in and evaluated by Dourson et al., 2019) are likely different than at the
+lower exposure levels from contaminated drinking water should be added to the sentence about
+the “relevance of the data to drinking-water exposure in the general population.”
+p. 20, paragraph starting on line 12. The reviews of placental transfer of PFAS cited in the
+section and comments (e.g., Appel et al., 2021) on PFOS above should also be cited here for
+PFOA, and the range of reported maternal:cord blood ratios for PFOA should be mentioned.
+p. 20, line 20. As for PFOS above, it should be stated that postnatal transfer of PFOA through
+breast milk “occurs” rather than that it “is possible.” Additionally, the important facts that serum
+PFOA levels in breastfed infants increase several-fold between birth and 6 months, and that 6
+month old breastfed infants have much higher serum PFOA levels than their mothers (Fromme et
+al., 2010; Goeden et al., 2019) should be emphasized.
+
+
+
+                                                 10
+                                                                                   NJDEP Comments
+
+
+p. 20, lines 40-45, starting with: “Gender difference in…” and ending with “…for 7 or 17 days.”
+This information on sex differences in PFOA distribution in rats versus mice provided here is not
+informative to the reader because it provides details without explanation or synthesis. It should
+be explained that the sex differences observed in rats, but not in mice, that are mentioned here
+are due to the fact that PFOA is very rapidly excreted in female rats (half-life of a few hours)
+while it has a long half-life in male rats, and male and female mice. This information is highly
+important in the interpretation of toxicology studies of PFOA in rodents.
+p. 21, lines 7-9, beginning with “In neonatal pups...” and ending with “…USEPA, 2021b.” More
+comprehensive information on lactational exposures to PFOA in rodents should be added. See
+DWQI (2017a, p. 50-51); Fenton et al. 2009. Reprod. Toxicol .27, 365–732; White et al. 2009.
+Reprod. Toxicol. 27, 289–298.
+p. 21, lines 27-30. The information on the study group in Olsen et al. (2007) is not accurate.
+This study included 23 workers retired from the 3M facility in Decatur, AL, and 3 workers
+retired from the 3M facility in Cottage Grove, MN.
+p. 21, lines 40-42. The sentence on the “contribution of urinary excretion of PFOS to half-life in
+humans” is unclear. The basis for the statement that renal clearance is impacted by isomeric
+composition and gender/age is not provided. Also, does “contribution of urinary excretion to
+half-life” mean relative extent of urinary versus fecal excretion?
+p. 21, footnote 5. This information is confusing as written and needs clarification. Also,
+citation(s) are needed. Suggest revising to say that precursor PFAS that are not fully fluorinated
+can be metabolized to terminal perfluoroalkyl acids such as PFOA and PFOS and that the
+metabolites of these precursor PFAS may also include reactive intermediates.
+p. 22, line 14-15. Sentence on enterohepatic circulation beginning with “It has been suggested
+that…” This paragraph should be reorganized so that the information in this sentence is
+combined with the sentence on enterohepatic circulation starting with “Biliary and fecal…” at
+the end of line 3.
+p. 22, lines 15-17. This sentence about the contribution of blood loss to the difference in half-
+lives in males and females is not meaningful because the human half-lives in males versus
+females has not been discussed. Also, “females” should be changed to “females of childbearing
+age.”
+p. 22, line 31. Olsen et al. (2007) is the same study mentioned on p. 21, lines 27-30. As stated
+above, the study group was retired workers from industrial facilities in Decatur, AL and Cottage
+Grove, MN, not “Ohio, USA” as stated here.
+p. 22, lines 37-40. As written, these two sentences about human half-life incorrectly imply that
+half-life data with background adjustment are not available for the Li et al. study group in which
+a longer half-life was reported than in the Xu et al. study group. The information for Li et al.
+(2018) should be replaced with information from Li et al. (2022,
+https://doi.org/10.1016/j.envint.2022.107198) which provides refined and updated half-live data for
+the same study group as Li et al. (2018). It is important to mention that Li et al. (2018, 2022)
+
+                                                11
+                                                                                      NJDEP Comments
+
+
+and Xu et al. (2020) are studies of two different populations that were performed by the same
+research group, and that Li et al. (2022) adjusted for background PFOA exposure in the same
+manner as Xu et al. (2020), a much smaller and shorter study than Li et al. (2022). Specifically,
+Li et al. (2022) studied the decline in serum PFOA in 114 subjects for 4 years, while Xu et al.
+(2020) followed serum PFOA in 26 subjects for 5 months. The mean and median PFOA half-
+lives and confidence intervals reported by Li et al. (2022) were 2.47 years (2.27, 2.7) and 2.69
+years (1.37, 5.4) respectively.
+p. 22, line 41. Lin et al. (2016) is not listed in the Reference list, and it was not located with
+online searching.
+p. 22, lines 42-46. This sentence states that it has been proposed that some half-life estimates
+reported in the literature are overestimates due to unmeasured PFOA exposures from
+environmental media, but that this issue is the subject of further debate. If this is to be
+mentioned at all, it must be emphasized that the potential effect of such “unmeasured PFOA
+exposures” on their half-life estimates was addressed by the authors of three of the studies cited
+above (Olsen et al., 2007; Li et al., 2022; Xu et al., 2020). Furthermore, Bartell et al. (2012,
+https://www.nature.com/articles/jes20122) evaluated the potential effects of background
+exposure on the half-life estimates for three of the studies cited above (Olsen et al., 2007; Brede
+et al., 2010; Bartell et al., 2010). All of these evaluations support a human half-life for PFOA of
+greater than two years.
+p. 22, lines 46-48. Suggest removing this sentence. This hypothesis does not appear to be
+plausible because PFOA is found in blood serum and plasma, which do not contain blood cells
+including plasma membranes. Little if any PFOA is found in the blood cell fraction of blood.
+p. 23, lines 10-11. The part of the sentence beginning with “…it was shown that major branched
+isomers…” is copied verbatim from the abstract of Zhang et al. (2013). However, in the abstract,
+this statement applies to both PFOA and PFOS. The fact that phrase this is taken directly from
+the abstract explains why it says “linear isomers” instead of “linear isomer” here, since there is
+only one linear isomer of PFOA while PFOS has multiple isomers. If this is included, it should
+be mentioned that the data from Zhang et al. (2013) indicate that the half-life of the branched
+isomer of PFOA is only slightly shorter than for linear PFOA and that the branched isomer was
+only 3% of total PFOA.
+p. 23, lines 21-24. Again, it needs to be clearly emphasized that the difference in male versus
+female half-lives in rats is much greater than for other species. This difference is important in
+interpreting toxicology studies of PFOA conducted in rats, particularly studies of developmental
+effects. As stated in this sentence, the half-life in female rats is 0.12 days (3 hours), and it should
+be added that this very short half-life means that PFOA does not bioaccumulate in female rats as
+it does in male rats and in both sexes of mice, monkeys, and humans. Because the half-life of
+PFOA in female rats is so short, an administered dose results in a much lower internal dose in
+female rats than in male rats, or in males and females of other species, and there are large
+fluctuations in internal dose (serum levels) in female rats with once per day dosing. For this
+reason, the female rat is not an ideal model for developmental effects of PFOA in humans.
+
+                                                  12
+                                                                                   NJDEP Comments
+
+
+Because PFOA bioaccumulates in both female mice and humans, mice are a more suitable
+model.
+p. 23, line 35. Section on PBPK modeling. Additional information needs to be added to this
+section to indicate that the models discussed, including models that account for gestational and
+lactational exposure, are used to relate the external doses (ng/kg/day) to the internal doses (e.g.,
+serum/plasma concentration, ng/ml) from human epidemiology studies as well as for interspecies
+extrapolation from laboratory animals. This approach was used to develop the toxicity factors
+for PFOA and PFOS from human data by USEPA (2021a,b), EFSA (2020), and California EPA
+(2021).
+p. 24, lines 9-12. It should be mentioned that the serum concentrations are converted to a human
+equivalent dose with a clearance factor, as follows: Serum Concentration (mg/L) x Clearance
+Factor (L/kg/day) = Human Equivalent Dose (mg/kg/day).
+Importantly, here or elsewhere, it should be mentioned that another approach for interspecies
+extrapolation is to apply a clearance factor to relate measured (rather than modeled) PFOA or
+PFOS serum levels from animal studies to the administered doses that would result in the same
+serum level in humans (i.e., the Human Equivalent Dose). This approach has been used by
+several authoritative agencies in development of toxicity factors for PFOA and PFOS from
+animal toxicology data, as discussed in Post (2021).
+p. 24, line 13. If EFSA (2020) is discussed here, it should be mentioned that the EFSA (2020)
+Tolerable Daily Intake is based on the maternal PFAS dose resulting in a serum PFAS level
+associated with decreased antibody response to vaccination in one year old offspring who have
+been breastfed. It should also be mentioned that a model that considers the impact of maternal
+exposure on prenatal (transplacental) and postnatal (breast milk) exposure to the infants on
+serum PFAS levels at age one year was used. Simply citing Loccisano et al. (2011) without
+mentioning what their model encompasses is not informative to the reader.
+p. 24, lines 20-23. Most of the more recent publications cited here are not about PBPK
+modeling, and it is unclear why they are mentioned here. If recent half-life studies are to be
+mentioned, Li et al. (2022) (discussed in comments above on p. 22, lines 37-40), must be
+included. In contrast to what is stated here, Elcombe et al. (2013), Dourson et al. (2019), and
+Dourson and Gadagbui (2021) are not PBPK modeling studies, and it is suggested that these
+citations be removed.
+p. 24, lines 38-40. The data from Elcombe et al. (2013) are not relevant to environmental (e.g.,
+drinking water) exposure levels and therefore are not relevant here. Aside from issues related to
+the very poor health of the subjects (advanced cancer patients), renal reabsorption was saturated
+at the very high doses used such that the Cmax:administered dose ratio would be much lower
+than at environmentally relevant doses. Although these issues are alluded to in the sentence
+starting with “However, ….” on line 45, it is strongly recommended that this discussion of
+Elcombe et al. (2013) be removed as it is not relevant, especially since the document is not
+intended to be a comprehensive review and is stated to cite only a limited number of the most
+important studies.
+
+                                                13
+                                                                                     NJDEP Comments
+
+
+p. 25, two paragraphs on lines 4-26. This discussion does not include the most important general
+points about the prenatal and lactational exposures that were modeled by Verner et al. (2016) and
+Goeden et al. (2019). It is critical that the following information be added: Exposures to PFOA
+and PFOS (ng/kg/day) and serum PFOA/PFOS levels (ng/ml) are much higher in the breastfed
+infant than in their mother. For example, Goeden et al. (2019) predicts peak serum PFOA levels
+6 times higher in the breastfed infant than in their mother. These higher exposure and internal
+doses are of particular concern because infants are a sensitive subpopulation for developmental
+effects of PFOA and PFOS.
+p. 25, lines 22-26. Starting with sentence beginning with: “The study authors…” As above, this
+is not the most relevant information. The fact that peak serum PFOA levels are 6-times higher in
+the infant than the mother is what is most relevant. If this information is to be included, it should
+added that this model was similarly used by the Minnesota Department of Health to develop a
+drinking water guideline for PFOS and by several other U.S. states’ agencies to develop drinking
+water guidelines for PFOA and PFOS. See Post (2021).
+p. 25, line 30. Suggest explaining what ToxCast is since this sentence will not be meaningful to
+an uninformed reader without an explanation.
+p. 25, line 42-44. Sentence about human biomonitoring of PFAS other than PFOA and PFOS
+starting with: “Although…” This sentence implies that human biomonitoring of PFAS other
+than PFOA and PFOS is a recent development. However, other PFAS have been routinely
+included in human biomonitoring studies for many years. For example, NHANES has included
+PFNA, PFHxS, and other PFAS since it began biomonitoring for PFAS in 1999.
+p. 25, line 47-49. Sentence starting with: “However…” suggested adding “used as drinking
+water sources” to the end of the sentence for clarification.
+Section 4. Effects on humans
+p. 26, lines 33-34, states “The test article was described as non-toxic at all dose levels tested.”
+It is not accurate that the test article was non-toxic at all doses tested. As mentioned by the
+USEPA SAB (2022) report:
+       “An earlier abstract about this study [“this study” refers to Elcombe et al., 2013, also
+       reported by Convertino et al., 2018] (Macpherson et al., 2010) stated that one of the
+       patients dosed experienced drug related toxicity (DLT) consisting of ‘grade 5 renal
+       failure and transaminitis’ (indicative of liver damage), and that these effects were noted
+       as ‘possibly drug related.’ This indicates the potential for PFOA to cause renal and
+       hepatic toxicity in humans, and it is unclear why the observation of ‘possibly drug
+       related’ kidney and liver toxicity reported by Macpherson et al. (2010) was not
+       mentioned by Convertino et al. (2018).”
+p. 26, line 38. Section 4.2 on long term exposure. As a general comment, this section reviews
+many human toxicity endpoints with varying levels of evidence for association with PFOA and
+PFOS. To assist the reader, it is suggested that it be mentioned here that the subset of human
+
+                                                  14
+                                                                                   NJDEP Comments
+
+
+toxicity endpoints with the strongest evidence are summarized later in the document, in Section
+7.3.
+p. 26, sentence beginning on line 40. Liver function and serum lipid levels are key health effects
+that have been evaluated in many studies and should be included in the list of health effects that
+have been evaluated following long-term exposure.
+p. 26, line 45. It is unclear why occupational studies are specifically mentioned for thyroid
+hormone levels since there are numerous studies of PFOS and PFOA and thyroid hormone levels
+from the general population. For example, USEPA (2021a,b) identified 32 recent human studies
+of PFOA and thyroid hormones and 34 for PFOS, none of which were occupational.
+p. 26, line 48 – p. 27, line 1, states: “The analysis in these studies is typically based on
+correlating blood levels of PFOS and PFOA to the outcome of interest, and identifying odds
+ratios based on tertile or quartile of blood PFAS concentration.”
+This statement is not accurate because the vast majority of the human studies of health effects of
+PFOA and/or PFOS do not calculate the odds ratio for having a disease, health condition, or
+clinically defined abnormal level of a biomarker or other parameter. The endpoints evaluated in
+these studies are typically continuous (e.g., level of antibodies, cholesterol, liver enzymes;
+weight at birth) not dichotomous (e.g., clinically defined low birth weight, cancer, etc.). Also,
+PFAS are typically measured in serum, not “blood.”
+p. 27, line 12, section on Fecundity; this comment also applies to similar sections on other
+human health endpoints. While recognizing that this document is not intended to provide a
+comprehensive review of all available studies, conclusions from epidemiological data should be
+based on overall weight of evidence. As such, it is not helpful or informative to summarize a
+small subset of the available studies of a certain health endpoint without providing an overall
+conclusion on the weight of evidence for an association of that endpoint with PFOA and PFOS.
+For example, about half of the studies summarized in this section on fecundity appear to be
+positive and half appear to be negative. The reader would have no way of knowing whether
+these mixed results are representative of the entire body of evidence for this effect.
+Alternatively, there could be many additional studies that are positive and none that are negative,
+or vice versa. One potential way to address this issue is to cite the weight of evidence
+conclusions of other authoritative bodies regarding association of PFOA and PFOS with the
+endpoint. This was the approach taken in discussing human epidemiological evidence in the
+ITRC PFAS document, and it is recommended that this part of the ITRC document be reviewed
+by WHO (see Section 17.2.4 at https://pfas-1.itrcweb.org/17-additional-information/#17_2).
+p. 27, line 14-19. Although it is implied, it should be stated for clarity that serum PFAS levels in
+the women (not the men) were evaluated in this study. This could be unclear since the
+discussion begins by saying that 501 couples were evaluated.
+p. 28, lines 7-9. This sentence is paraphrased from the conclusions of Fei et al. (2009) (“…we
+studied TTP of pregnancies which led to the birth of a child, limiting conclusions that can be
+drawn regarding women who were unable to get pregnant”), but the intended meaning is not
+
+                                                 15
+                                                                                    NJDEP Comments
+
+
+clear unless the words “time to” are added, as shown in bold here: “However, this study only
+evaluated time to pregnancies that led to the birth of a child; therefore, the odds ratios stated
+above are not reflective of women unable to get pregnant.”
+p. 28, lines 20-23. EFSA (2018) is a draft that has been superseded by EFSA (2020), and EFSA
+(2020) should be cited. Additionally, the USEPA (2021a,b) conclusions that there is suggestive
+evidence for association of PFOA and PFOS and pregnancy induced hypertension and
+preeclampsia should be cited.
+p. 30, line 26-29. This following sentence [bolding added] appears to be paraphrased from the
+conclusions section of the paper: “Bach et al. (2016) also noted that many of the studies on PFOS
+and PFOA exposure and male reproduction were cross-sectional, and given the relatively long
+half-lives of PFOS and PFOA, it is uncertain whether the outcomes evaluated in cross-
+sectional studies and the measured blood plasma levels are causally related”.
+However, the associated sentence in the publication itself [bolding added] actually says the
+opposite of what is stated in the draft document, as follows: “Most of the studies on male
+reproduction were cross- sectional and thus assessed exposures simultaneously with the
+outcomes. However, because of the long half-lives of PFAS exposures, samples are assumed to
+be representative for the time period where PFASs might have causally affected the semen
+production (several months back in time) or reproductive hormone homeostasis.”
+In summary, the draft WHO document states that the authors said that the long half-lives of
+PFOA and PFOS increase uncertainty about whether exposure and outcome are causally related
+in this cross-sectional study. In reality, the authors actually said that the long half-lives of PFOA
+and PFOS mean that serum levels measured at the time of the study represent serum PFAS levels
+several months earlier (i.e., at the exposure timepoint of interest for the endpoints being
+evaluated) and decrease uncertainty about a causal relationship.
+p. 30, line 4.2.2.1. Again, similar to the comment on the Fecundity section above, the
+conclusions of reviews such as EFSA (2020) and USEPA (2021a,b) should be cited first, rather
+than first citing a few of the many specific studies that are available.
+p. 32, lines 18-21. The issue of the impact of plasma volume expansion and glomerular filtration
+rate (GFR) on the associations of PFOA/PFOS and birth weight/fetal growth should be discussed
+further since it is an important consideration for this endpoint. It should be mentioned that it has
+been concluded that some, but not all, of the decreased birthweight associated with PFOA/PFOS
+may be due to reverse causality related to GFR and that studies that measure serum PFAS levels
+earlier in pregnancy are less susceptible to this type of reverse causality.
+As stated by USEPA SAB (2022):
+       “… the possibility that physiological factors may potentially jointly affect PFAS and
+       clinical outcome measures should be considered. Birthweight studies are clearly
+       susceptible since it is well-established that greater plasma volume expansion is associated
+       with greater birthweight (Salas et al., 2006) and likely also associated with lower
+       (diluted) PFAS levels, which would create a spuriously elevated estimate of the
+
+                                                 16
+                                                                                  NJDEP Comments
+
+
+       quantitative impact of PFAS on birthweight. A recent examination of the literature
+       (Steenland et al., 2018) provided indirect support for this hypothesized bias, with studies
+       that measured PFAS exposure later in pregnancy when this would have the greatest effect
+       showing the strongest association with reduced birthweight. Additionally, Verner et al.
+       (2015) concluded that some, but not all, of the decreased in birthweight associated with
+       maternal PFAS is accounted for by differences in maternal glomerular filtration rate and
+       that this effect may be greater in studies based on blood serum PFAS measured later in
+       pregnancy.”
+p. 32, lines 20-21. While ATSDR (2021) may have stated that “no studies found increases in the
+risk of low-birth-weight infants” associated with maternal PFOS serum levels (presumably based
+on their literature review which they stated to have been through 2018), it is important to note
+that the more recent USEPA (2021a) review identified 9 studies of PFOS exposure and different
+dichotomous fetal growth restriction endpoints, such as small for gestational age (or related
+intrauterine growth retardation endpoints), low birth weight, or both, and stated that
+“Collectively, the majority of small for gestational age and low birth weight studies were
+supportive of an increased risk with increasing PFOS exposures.” USEPA (2021b) also stated
+that “Overall, seven of the ten different studies examining either small for gestational age or low
+birth weight or both showed some increased risks with increasing PFOA exposures.”
+p. 33, lines 17-20, states: “…EFSA (2020) selected immunotoxicity as the critical effect in their
+derivation of a tolerable daily intake for the major PFAS, further concluding that tolerable
+exposure limits should be based on preventing deficits of the humoral immune system in
+humans.” It should be added that USEPA (2021a, b) also selected the same critical effect for
+PFOA and PFOS Reference Dose development.
+p. 34, lines 38-41. “However, studies report inconsistencies in the relationship between PFAS
+exposure and infection propensity in early life (Antoniou et al., 2022; ATSDR, 2021; EFSA,
+2020; Steenland et al., 2020; US EPA, 2021a; 2021b) and therefore, the clinical relevance of
+these findings [decreased antibody response to vaccination] is unclear.”
+Although the citations are placed after the first part of the sentence, the sentence may be
+interpreted to mean that the citations also apply to the conclusions in the second part of the
+sentence beginning with “…and therefore, …” It is important to make it clear that (as discussed
+below) most of the sources cited in the sentence did not question the clinical relevance of the
+decreased antibody response to vaccinations that is linked to PFOA and PFOS.
+NJDEP emphasizes that it concurs with other authoritative bodies who disagree with the
+conclusion that decreased response to vaccination is not a clinically relevant effect. EFSA is one
+of the authoritative bodies relied upon by WHO in developing its draft. EFSA (2020) selected
+decreased response to vaccination as the critical endpoint for its Tolerable Weekly Dose for
+PFAS. EFSA (2020) reviewed the relevant human and animal studies and concluded that PFOS
+reduced resistance to infection in laboratory animals and that:
+       “Based on the results from the [human] vaccination studies reviewed above, findings on
+       increased propensity of infections would seem plausible. … Overall, there is some
+
+                                                17
+                                                                                 NJDEP Comments
+
+
+       evidence to suggest that exposures to PFASs are associated with increased propensity of
+       infections but more studies with objective measures of infections (not self-reports) are
+       needed.”
+Like EFSA (2020), USEPA (another authoritative body relied upon by WHO) identified
+decreased immune response to vaccination as the critical effect for its draft Reference Doses for
+both PFOA and PFOS (USEPA, 2021a,b), and it did not question the clinical relevance of this
+effect in these evaluations. Similarly, ATSDR (2021), also relied upon by WHO, and Steenland
+et al. (2020), cited by WHO, do not question the clinical relevance of decreased vaccine
+response.
+Furthermore, USEPA SAB (2022) supported the use of decreased antibody response as a critical
+non-cancer effect for PFOA and PFOS and stated that it is adverse, as follows:
+       “Overall, the Panel agreed with the selection of … the critical effect, suppression of a
+       vaccine response in children exposed during development, as appropriate for the
+       derivation of chronic RfDs [Reference Doses] for PFOA and PFOS. …. Reduction in
+       antibodies to a vaccine represents the failure of the immune system to respond to a
+       specific challenge and is considered an adverse immunological outcome. The vaccine
+       response is a functional response of the immune system to a specific challenge, in this
+       case, an antigen (i.e., a non-self substance that stimulates a response from the immune
+       system) delivered in the form of a vaccine. When a vaccine is delivered, cells of the
+       immune system coordinate a response where the antigen is recognized, and cells of the
+       adaptive immune system are ultimately stimulated to generate antibodies to the antigen.
+       When the vaccine response is suppressed, it indicates that some part of the immune
+       system is not performing at the level that it should. This form of immunosuppression
+       could indicate impacts on one or more parts of the innate and/or adaptive immune
+       systems.”
+WHO must also consider that the lack of an association of PFOA and PFOS with infectious
+disease has not been established. USEPA SAB (2022) noted that, although the evidence is not
+consistent, many studies reviewed by USEPA (2021a,b) and several newer studies (Timmermann
+et al., 2020, https://doi.org/10.1289/EHP6517; Dalsager et al., 2021,
+https://doi.org/10.1016/j.envint.2021.106395; Bulka et al., 2021,
+https://doi.org/10.1016/j.envpol.2021.116619) reported associations of PFOA and/or PFOS with
+infectious disease. USEPA SAB (2022) also noted that a recent review by Pachkowski et al.
+(2019) concludes that studies available through 2018 "provide evidence for an association
+between general population levels of PFOS exposure and infectious disease, a clinical
+meaningful measure of health risk."
+p. 34, line 44. This section is about thyroid hormones, except for one sentence about sex
+hormones that could be moved to the reproductive effects section (see comment for p. 35, line
+40, below), and the section does not discuss other hormones such as insulin. As such, it is
+suggested that this section be renamed “Thyroid hormones.”
+
+
+
+                                                18
+                                                                                    NJDEP Comments
+
+
+Also, as stated in a comment above, USEPA (2021a,b) reviewed a large number of general
+population (i.e., non-occupational) studies of thyroid hormones and PFOA and PFOS 0ncluding
+several studies of pregnant women and children. It is suggested this be mentioned instead of, or
+in addition to, USEPA (2016a,b).
+p. 35, line 40-44. It is suggested that this text on sex hormones and reproductive endpoints be
+moved to the Reproductive Effects section.
+p. 36, lines 4-7. USEPA (2021a,b) conclusions for endocrine outcomes are shown here. It is
+suggested that USEPA (2021a,b) conclusion also be included in sections on other endpoints.
+p. 36, line 11. Suggest saying “serum lipids” rather than “cholesterol,” because many studies
+included other serum lipids (e.g., triglycerides) not just cholesterol.
+p. 36, lines 10-14. It is not appropriate or informative to provide a detailed discussion of the
+Veneto studies at the beginning of this section. The section should begin with a summary stating
+that there are many studies of these endpoints from many different locations, including studies of
+the general population, communities with drinking water exposure, and occupationally exposed
+workers. For examples of such summaries, see DWQI (2017a); USEPA (2016a,b): and USEPA
+(2021a,b).
+p. 36, line 27. Blood pressure is mentioned here and elsewhere in Section 4.2.6, but it is not a
+metabolic outcome.
+p. 37, lines 5-9, states: “Caution in the interpretation of the causal relationship between increased
+PFOS and PFOA exposure and increased cholesterol is discussed by the authors of the individual
+studies and by EFSA (2020), particularly as the findings in humans are contrary to those from
+animal studies where there is a PPARα-mediated decrease in serum lipids at high doses of PFOS
+and PFOA, implying that the mode of action in humans may be unrelated to peroxisomes.”
+NJDEP does not agree that differences in the effects of PFAS on serum lipids in high dose
+laboratory animal studies and human epidemiology studies with much lower exposures suggest
+that the increased cholesterol in humans is not caused by PFAS. Additionally, a PPAR-alpha-
+mediated mode of action does not mean that the mode of action is “related to peroxisomes.”
+PPAR-alpha (peroxisome proliferator activated receptor-alpha) was originally so named because
+of the observation that activation of this receptor increases the number peroxisomes in rodent
+liver. However, PPAR-alpha is now known to be found in many tissues and to be regulate the
+expression of many genes with essential roles in cellular differentiation, development, and
+metabolism.
+NJDEP concurs with the USEPA SAB (2022) report, which discusses several potential
+explanations for the fact that PFAS is linked to increased cholesterol in humans but caused
+decreased cholesterol in some rodent studies. USEPA SAB (2022) mentions that potential
+explanations noted by the USEPA (2021a,b) are the "difference in serum lipid composition
+between humans and commonly used rodent models" and that "food consumption may confound
+these results, as diet is a major source of lipids, yet studies do not consistently report a fasting
+period before serum collection." USEPA SAB (2022) also discusses additional potentially
+
+                                                 19
+                                                                                NJDEP Comments
+
+
+important explanations for the human versus laboratory animal difference including “… much
+lower human exposure levels compared to the doses used in animal studies …, differences in the
+fat content of human diets versus rodent lab diet, and differences in the activity of PPAR-alpha
+in humans and laboratory animals” and mentions that “studies that investigated these issues
+include New Jersey Drinking Water Quality Institute (DWQI, 2017a), Tan et al. (2013), Rebholz
+et al. (2016), and newer studies such as Schlezinger et al. (2020).”
+USEPA SAB (2022) further concludes that:
+       “In general, human and rodent data suggest that the effects of PFOA and other PFAS on
+       lipid formation and storage results from the balance of different effects which may act in
+       opposite directions (Das et al., 2017). The decrease in serum lipids at the higher doses
+       used in animal studies is believed to be due to activation of PPAR−alpha (DWQI, 2017a).
+       PPAR−alpha is also active in humans, as demonstrated by the use of PPAR−alpha
+       activating drugs to decrease high cholesterol in humans. However, PFOA, PFOS, and
+       other PFAS do not activate PPAR−alpha in humans at lower environmentally relevant
+       doses, and the increased serum lipids associated with PFOA, PFOS, and other PFAS may
+       result from activation of other receptors and/or biological pathways involved with lipid
+       metabolism that act in the opposite direction.”
+p. 37, lines 15-20, states: “Steenland et al. (2020) also suggested that the dose-response
+relationship between PFOS and PFOA exposure and elevated cholesterol may be non-linear, as
+the results from several cross-sectional studies indicate that the lower the range of PFOA
+exposure studied, the stronger the effect per unit exposure. Similarly, EFSA (2020) also noted
+that a maximum association with total cholesterol occurs at PFOA serum levels of 25 ng/mL and
+does not continue to increase as the serum level increases.”
+Regarding the steeper dose-response at lower serum PFOA and PFOS levels, it is important to
+consider that this lower range of serum PFAS levels is relevant to the serum levels that most
+commonly result from exposure to PFOS and PFOA in drinking water and that drinking water
+exposure is the focus of the draft WHO document.
+p. 37, line 40 – p. 38, line 7. Section 4.2.7.1 on Liver. NJDEP disagrees with the statements and
+conclusions presented in this section. Specifically, NJDEP does not agree that the increases in
+ALT associated with PFOS and PFOA are not adverse because of their “low magnitude” and
+“lack of associated liver disease.”
+The draft document’s discussion of the USEPA (2021a,b) conclusions about adversity of
+increased ALT and other hepatic effects is incomplete without also discussing the USEPA SAB
+(2022) conclusions on this topic. USEPA requested that its SAB provide an opinion on the
+validity of the USEPA (2021a,b) rationale for not considering increased ALT as a potential basis
+for PFOA and/or PFOS Reference Doses. USEPA also asked the SAB for additional studies that
+support ALT as a marker of adverse liver effects and whether other hepatic endpoints from
+human studies of PFOA and PFOS should be considered as the basis for Reference Dose
+development. It should be noted that USEPA has stated that it is currently revising USEPA
+
+
+                                               20
+                                                                                  NJDEP Comments
+
+
+(2021a,b), which are draft documents, to reflect the recommendations of the USEPA SAB (2022)
+report that are discussed below.
+USEPA SAB (2022) disagreed with USEPA’s rationale for not considering increased ALT as a
+critical effect and provided detailed information to support the conclusion that the increased ALT
+associated with PFOA and PFOS is indicative of liver damage, an adverse health effect. USEPA
+SAB (2022) noted that: “A recent systematic review concluded that exposure to both PFOA and
+PFOS is associated with increased ALT in humans and that both compounds cause increased
+ALT and steatosis in rodents (Costello et al., 2022),” and that “California EPA (2021) selected
+increased risk of clinically elevated serum ALT as the basis for its draft RfD [Reference Dose]
+for PFOA.”
+USEPA SAB (2022) further noted that PFOA was associated with increased incidence of
+clinically defined elevated ALT (not just a numerical increase in ALT) in several studies and that
+it is well established that relatively small (<2-fold) increases in ALT are associated with
+pathology-confirmed liver disease such as non-alcoholic fatty liver disease. USEPA SAB (2022)
+also noted that the American Association for the Study of Liver Disease states that ALT may be
+a predictor for overall health and mortality, that the American College of Gastroenterology states
+that: “Multiple studies have demonstrated that the presence of an elevated ALT has been
+associated with increased liver-related mortality, as well as overall morbidity and mortality,” and
+that multiple studies from the primary scientific literature report that ALT is associated with
+increased mortality. In summary, USEPA SAB (2022) stated that it “recommends the use of
+ALT as an endpoint” for PFOA and PFOS risk assessment. USEPA SAB (2022) further stated
+that available information suggests that patients with even slight elevations in ALT should be
+monitored for liver disease.
+USEPA SAB (2022) also suggested that non-alcoholic fatty liver disease/steatosis be considered
+as an adverse liver endpoint for PFAS, noting that “a recent study of adults from a community
+with elevated exposure to PFOA from contaminated drinking water (Bassler et al., 2019) showed
+that PFOA ‘was associated with cytokeratin 18 M30, a marker of hepatocyte apoptosis), and a
+mechanism of disease progression in non-alcoholic fatty liver disease.’ ”
+p. 38, Section 4.2.8.1, Carcinogenicity of PFOS. Two additional recent studies that are relevant
+to this topic should be cited.
+Goodrich et al. (2022) conducted a nested case-control study of serum PFAS and non-viral
+hepatocellular carcinoma (HCC). The study included 50 cases and 50 controls individually
+matched by age, sex, race/ethnicity, and study area from the Multiethnic Cohort, a prospective
+cohort of >200,000 California and Hawaii residents from a variety of racial/ethnic groups. PFAS
+and the metabolome were analyzed in plasma samples taken prior to cancer diagnosis. Geometric
+mean plasma concentrations of PFOA, PFOS, PFNA, PFHxS, and PFDA were similar in cases
+and controls. However, serum PFOS levels at or above the 90th percentile in NHANES (>55
+ng/L) were associated with a statistically significant 4.5-fold increased risk of HCC.
+Cao et al. (2022) reported an association of serum PFOS with increased risk of liver cancer (type
+not specified) in a Chinese study population (203 cancer patients, 203 controls). Serum PFAS
+
+                                                21
+                                                                                    NJDEP Comments
+
+
+was measured after cancer diagnosis. Serum levels of PFOS and 6:2 chloro-polyfluoroalkyl
+ether sulfonic acid, a replacement for PFOS widely used in China, were significantly associated
+with increased risk of liver cancer after adjustment for various covariates, while associations
+with other PFAS including PFOA were not statistically significant.
+p. 39, lines 41-43, states: “Evidence of carcinogenic effects of PFOA in epidemiology studies is
+derived primarily from studies that focused on a population who worked at a DuPont plant in
+West Virginia where PFOA was used from 1952 in the production of fluoropolymers.”
+This sentence is not accurate and needs to be revised. First, the epidemiology studies referred to
+here and discussed later in the paragraph (Barry et al., 2013; Vieira et al, 2013) are not studies of
+a population who worked at a DuPont plant. As stated later in the paragraph, they are studies of
+communities who had consumed drinking water contaminated by PFOA from the plant. Second,
+it is not accurate to say that evidence of the carcinogenic effects of PFOA in humans comes
+“primarily” from the studies of this population. The Shearer et al. (2021) study of the general
+population, conducted by the US National Cancer Institute, provides equally important
+information on the carcinogenicity of PFOA in humans.
+p. 40, line 20. It is unclear why the EFSA (2018) draft is cited instead of the final EFSA (2020).
+Section 5. Effects on Animals and In Vitro Test Systems
+p. 40, line 40. As also mentioned in comments on the toxicokinetics section above, a general
+point that should be emphasized when interpreting toxicology studies of PFOA in rats (both
+short-term and chronic) is that PFOA is excreted much more quickly in female rats (half-life of
+2-4 hours) than in male rats (half-life of 4-6 days). For this reason, the internal dose is much
+lower in females than males from the same administered dose. In contrast, PFOA has a long
+half-life in both sexes in humans. As stated by Butenhoff et al. (2012a), “This difference in
+pharmacokinetics likely accounts for the reduced responsiveness of [PFOA]-treated female rats
+as compared to males.”
+p. 40, lines 42-45. It is suggested that DWQI (2017a) and DWQI (2018) be added to the list of
+authoritative reviews of animal toxicology and in vitro studies. They provide comprehensive
+review and synthesis of information on these topics.
+p. 41, lines 18-19. For clarity, suggest mentioning that other short-term (<90 day) studies of
+immunological, neurotoxic, and developmental effects are described separately in sections 5.4,
+5.5, and 5.6 of the draft WHO document.
+p. 41, lines 19-21. Sentence beginning with: “These studies…” Studies in mice should be
+mentioned, in addition to the rat studies. For example, DWQI (2018, p. 58) provides information
+on short-term mouse studies.
+p. 41, lines 22-25 states: “Application of the criteria developed by Hall et al. (2012) to evaluate
+the human relevance of the liver changes [caused by PFOS in animal studies] suggested that
+several hepatic findings (including increases in liver weight, hepatocellular hypertrophy and
+
+
+
+                                                 22
+                                                                                    NJDEP Comments
+
+
+alterations in serum lipid levels in the absence of other degenerative lesions) were not relevant
+for human risk (ATSDR, 2021).”
+NJDEP disagrees with the conclusion that application of the Hall et al. (2012) criteria indicates
+that hepatic effects of PFOA and PFOS in laboratory animals are not relevant to human risk;
+detailed comments are provided below. First, although NJDEP strongly disagrees with this
+conclusion and recommends that this sentence be removed, it is noted that the WHO document
+fails to mention that the Hall et al. (2012) criteria apply only to hepatic effects in rodents, not
+hepatic effects in laboratory animal species in general. It is also unclear why this statement is
+included in the section on short-term effects of PFOS, particularly in light of the duration of
+exposure considerations for the Hall et al. (2012) criteria discussed below. Furthermore, data
+from several of the studies of PFOS discussed later in this section of the WHO document
+contradict the information in this sentence.
+The relevant text from ATSDR (2021) referred to in the WHO draft appears to be:
+        “In laboratory animals, oral exposure to PFOS results in increases in liver weight,
+       hepatocellular hypertrophy, and decreases in serum lipid levels. A small number of
+       studies also reported focal necrosis and centrilobular hepatocytic vacuolization. The
+       proposed mechanism of action for the increased liver weight, hepatocellular hypertrophy,
+       and decreased serum lipid levels involves PPARα receptor activation. Due to species
+       differences for this mechanism, these effects observed in rodents are not considered
+       relevant to humans. The applicability of the hepatic hypertrophy and serum lipid
+       alterations observed in rodent studies to humans has been questioned due to species
+       differences in the presumed mechanism of action for these effects in rodents.”
+However, although ATSDR (2021) assumed that hepatic effects of PFOS occur through PPAR-
+alpha activation, this conclusion is not supported by the relevant toxicological data, as shown by
+the evaluation presented in DWQI (2018):
+       “In contrast to the characteristic linkage between PPARα activation and liver weight
+       increase seen with PPARα agonists such as bezafibrate and the WY compound, PFOS
+       causes liver weight increases in PPARα-null mice (Qazi et al., 2009b; Rosen et al., 2010).
+       In addition, Rosen et al. (2010) dosed WT and PPARα-null mice with WY or PFOS for 7
+       days. Both WT and PPARα-null mice exposed to PFOS showed hepatomegaly and
+       increased incidence of hepatic vacuole formation. Profiling of gene expression was
+       conducted with microarray analysis. Gross qualitative and quantitative differences in
+       gene expression for fatty acid metabolism, inflammatory response, xenobiotic
+       metabolism and ribosome biogenesis, as well as markers of PPARα activation, were
+       found between WY and PFOS treated WT mice. These observations provide evidence
+       that prototypical PPARα agonists (e.g., the WY compound) are not appropriate
+       surrogates to predict the molecular and apical hepatic effects following PFOS exposure.
+       Additionally, hepatic effects, including tumors, have been observed in rodents exposed to
+       PFOS without evidence of peroxisome proliferating activity. For example, Butenhoff et
+       al. (2012b) reported that chronic dietary exposure to 20 ppm PFOS resulted in liver
+
+                                                 23
+                                                                                  NJDEP Comments
+
+
+       tumors as well as hepatocellular hypertrophy and necrosis in male and female rats.
+       However, an increase in hepatic peroxisomal bodies was not observed based on
+       transmission electron microscopy.
+       Further, increased palmitoyl CoA oxidase activity, a generally accepted marker of
+       peroxisome proliferation induction and overall PPARα activation (Klaunig et al., 2003),
+       has not been observed when hepatic effects were reported in PFOS-exposed rats. As part
+       of the 2-year bioassay reported in Butenhoff et al. (2012b), Seacat et al. (2003) reported
+       on interim sacrifices following 4 and 14 weeks of dietary exposure. When assessing the
+       20 ppm group, the dose that caused liver tumors in Butenhoff et al. (2012b), liver effects
+       were limited to an increase in relative liver weight in male rats after 4 weeks of exposure.
+       However, no significant increase in hepatic palmitoyl CoA oxidase activity was
+       observed. Following 14 weeks of exposure, liver effects in the 20 ppm group included
+       hepatocellular hypertrophy and vacuolation in males and females as well as increased
+       relative liver weight in males with no observed significant increase in hepatic palmitoyl
+       CoA oxidase activity.
+
+       Studies with shorter durations of exposure in rats by Elcombe et al. (2012a, 2012b)
+       provide similar hepatic observations as those following chronic and subchronic PFOS
+       exposures in rats as reported in Seacat et al. (2003) and Butenhoff et al. (2012b).
+       Following cessation (i.e., on recovery day 1) of 7 days of dietary PFOS exposure at 20
+       ppm, increases in relative liver weight and hepatocellular hypertrophy along with changes
+       in alanine aminotransferase, aspartate aminotransferase, and cholesterol were observed
+       (Elcombe et al., 2012b). However, no increase was observed for hepatic palmitoyl CoA
+       oxidase activity. Following 28 days of exposure to 20ppm PFOS, Elcombe et al (2012a)
+       observed increased relative liver weight and hepatocellular hypertrophy along with a
+       decrease in cholesterol. These hepatic observations were accompanied with only a
+       marginal (i.e., 1.4-fold) increase in hepatic palmitoyl CoA oxidase activity.
+       To the extent that there is a relatively small amount of interaction with PFOS, PPARα
+       may make a minor contribution to PFOS liver effects. This is in contrast to PPARα
+       activators/peroxisome proliferators such as WY and the fibrates, for which liver effects,
+       including carcinogenicity are clearly linked to PPARα activation.
+       In summary, PFOS effects on the rodent liver do not appear to primarily operate through
+       a PPAR-dependent mode of action, including at doses resulting in liver tumors as in
+       Butenhoff et al. (2012b). Thus, the lower abundance of PPARα and lower response to
+       model PPARα activators in human liver as compared to rodent liver is not clearly
+       relevant to the potential for PFOS to cause human hepatic effects including cancer.”
+An important general point that was not recognized by ATSDR (2021) about application of the
+criteria from Hall et al. (2012) is that increased liver weight and/or hepatocellular hypertrophy
+are adverse when they co-occur with or progress to other types of hepatic toxicity. Hall et al.
+(2012) emphasize that the expected duration of exposure must be considered in determining the
+
+
+                                                24
+                                                                                 NJDEP Comments
+
+
+adversity of hepatic effects such as increased liver weight and hepatocellular hypertrophy.
+Specifically, Hall et al. (2012) state that:
+       “[Increased liver weight and hepatocellular hypertrophy] may be reversible if the
+       anticipated duration of exposure is short, while progression to more severe hepatic effects
+       may occur from longer exposures to the same dose. However, prolonged exposure to a
+       xenobiotic at levels that have previously been shown to be adaptive may eventually result
+       in liver cell injury due to a failure of adaptive mechanisms. In this case, the combination
+       of dose level and duration of exposure to the xenobiotic under the terms and conditions of
+       the new experiment would now be considered adverse.”
+
+Therefore, the Hall et al. (2012) criteria cited by ATSDR (2021) are not relevant to the
+development of guidelines based on chronic exposure, including WHO drinking water
+guidelines. The primary focus of Hall et al. (2012) is hepatic effects observed in pre-clinical
+toxicity studies for drug development. In this scenario, drugs are normally administered for a
+limited time period (i.e., exposure is not chronic). Hepatic effects that result from exposure to
+the drug may be “adaptive,” particularly if they are reversible when exposure ends. In contrast,
+drinking water guidelines such as those developed by WHO are intended to protect for lifetime
+exposure, and they must consider the potential for progression of initial effects to more severe
+effects. As such, reversibility after exposure ends (e.g., in “recovery” animals in studies that
+include a “recovery” component) is not a reason to discount the adversity of increased liver
+weight and hepatocellular hypertrophy in development of chronic drinking water guidelines.
+These lesions may persist and/or progress with the longer exposures that are relevant to lifetime
+exposure to a contaminant in drinking water.
+For PFOS, data from chronic, subchronic, and shorter duration studies indicate that
+hepatocellular hypertrophy caused by PFOS in rodents progresses to more severe liver toxicity,
+including tumors. As indicated above, Hall et al. (2012) do not recommend dismissing the
+adversity of effects such as hepatocellular hypertrophy when they are known to progress.
+(Additionally, as discussed above, the same studies indicate that hepatic toxicity of PFOS in
+rodents is not dependent on PPAR-alpha.) At the same dose that caused liver tumors after 2 years
+of exposure, increased relative liver weight was the only hepatic effect observed at interim
+sacrifice after 4 weeks of exposure, while hepatocellular hypertrophy and vacuolation in males
+and females and hepatic effects and increased relative liver weight in males occurred at this same
+dose at interim sacrifice at 14 weeks (Seacat et al., 2003, https://doi.org/10.1016/S0300-
+483X(02)00511-5). Results were similar in other rat studies with shorter durations of PFOS
+exposure (Elcombe et al., 2012, https://doi.org/10.1016/j.tox.2011.12.014; 2012b,
+https://doi.org/10.1016/j.tox.2011.12.015).
+p. 42, line 38, states: “ No subchronic repeated dose studies in mice with PFOS exposure
+durations of 90 or more days were located.” The intent of this statement is unclear since studies
+of 90 or more days are, by definition, not subchronic.
+
+
+                                                25
+                                                                                    NJDEP Comments
+
+
+p. 42, lines 39-41 states: “In several shorter-duration studies (10 – 30 days) [of PFOS] in mice,
+similar hepatic effects were observed but generally at higher PFOS doses compared to rats
+(approximately 2 – 5 mg/kg bw per day in mice).” However, the rest of this paragraph does not
+support this statement. Specifically, there was a significant effect at the lowest dose (2.5
+mg/kg/day) with no NOAEL identified in the Xing et al. (2016) study that is provided as an
+example. Therefore, is not known if the effects would also have occurred in mice exposed to the
+lower doses used in the rat studies.
+p. 43, lines 12-15. These sentences refer to the hepatic and lipid metabolism effects of PFOS as
+“primary” effects, and additional effects, including immunological effects and others, as “other”
+effects. This wording is misleading and should be revised. While liver and lipid metabolism
+effects may have been the primary effects of short-term exposure among the endpoints evaluated
+in the studies reviewed in this section, studies reviewed in other sections of the draft WHO
+document demonstrate that immune system toxicity is a primary effect of PFOS and that it is the
+most sensitive effect reported in animal studies. Additionally, developmental effects are also
+sensitive endpoints of PFOS toxicity, and they should be included in the effects listed here.
+p. 43, lines 20-23. This sentence should be revised to say that the liver is one of the main sites of
+systemic toxicity of PFOA (not that it is the main target organ overall). Developmental and
+immunological effects are also sensitive endpoints for PFOA. Additionally, “…potentially
+occurring through PPARα-mediated peroxisome proliferation, enhanced lipid peroxidation, or
+other mechanisms” should be revised to “…potentially occurring through activation of PPAR-
+alpha and other receptors, enhanced lipid peroxidation, or other mechanisms.” As discussed
+above, hepatic and other effects mediated by PPAR-alpha activation are not appropriately
+described as occurring through “peroxisome proliferation.” Additionally, as discussed in detail
+below, PPAR-alpha independent effects are equally or more important contributors to the hepatic
+effects of PFOA.
+p. 43, lines 23-26. It should be mentioned that hepatic necrosis occurred in rats as well as mice.
+See USEPA (2021b; Table 7).
+p. 45, lines 26-29, states: “Application of the criteria developed by Hall et al. (2012) to evaluate
+the human relevance of the liver changes suggested that doses associated with liver hepatocyte
+hypertrophy and cytoplasmic vacuolation in the absence of any necrotic changes were not
+relevant for human risk (ATSDR, 2021).”
+NJDEP has several comments on this sentence. First, it is unclear why this sentence is included
+in the section on short-term effects. Also, as mentioned above, the Hall et al. (2012) criteria only
+apply to hepatic effects in rodent studies, not hepatic effects in non-rodent animal species.
+Additionally, Hall et al. (2012) does not say that vacuolation is not adverse or not relevant to
+human risk assessment. Rather, vacuolation is included in the Hall et al. (2012) list of
+irreversible effects as follows: “… irreversible toxicity, such as fibrosis, necrosis, vacuolization,
+fatty degeneration, and even neoplasia.”
+
+
+                                                 26
+                                                                                   NJDEP Comments
+
+
+Most importantly, as discussed in detail in the comments on p. 41, lines 22-25, above, the Hall et
+al. (2012) criteria cited by ATSDR (2021) are relevant to short-term exposures where effects
+may be reversible when exposure ends, but they are not relevant to the development of
+guidelines intended to protect for chronic exposure including WHO drinking water guidelines.
+For PFOA, it is well established that hepatic effects increase in severity with continuing
+exposure. DWQI (2017a) reviewed this issue in detail and concluded: “Although studies of
+PFOA that report increased liver weight do not always include evaluation of other hepatic
+endpoints, numerous studies of PFOA have demonstrated that increased liver weight co-occurs
+with and/or progresses to more severe hepatic effects including increased serum liver enzymes,
+hepatocellular necrosis, fatty liver, and/or hyperplastic nodules.”
+
+For example, histopathological data from a chronic rat study (Butenhoff et al., 2012a) suggest
+that hepatic changes caused by PFOA in rodents progress to more severe hepatic toxicity and
+neoplastic lesions. In this study, the incidence of focal hepatocellular necrosis and vacuolation
+was increased in male rats exposed to PFOA for one year, while the incidence of hepatic
+hyperplastic nodules, stated to result from a regenerative process, was increased in male rats after
+two years, but not after one year, of exposure. Butenhoff et al. (2012) stated that the observations
+at one year and two years in this study suggest a progression of lesions “from hepatocellular
+hypertrophy to fatty degeneration to necrosis followed by regenerative hyperplasia.”
+
+p. 46, line 16 – p. 47, line 12. Discussion of the NTP (2020) chronic rat study. The discussion of
+the two other chronic studies that follows the discussion of NTP (2020) includes information on
+tumor incidence. As such, tumor incidence from NTP (2020) should also be mentioned in this
+section. Also, the paragraph (p. 47, lines 2-12) on the 16-week interim evaluation should be
+placed before the discussion of the end-of-study evaluation.
+p. 47, line 18. The Butenhoff et al. citation should be changed from 2012b to 2012a.
+p. 47, lines 28-29. The authors of the paper discussed here (Butenhoff et al., 2012) did not state
+the increase in Leydig cell adenomas was a “potential” increase, and the word “potential” should
+be removed. There was a dose-related increase in these tumors (0, 4, and 14% in control, low
+dose and high dose groups, respectively) that was statistically significant in the high dose group.
+p. 47, line 36. Regarding hepatic tumors in Biegel et al. (2011), “carcinomas” should be changed
+to “adenomas.” Biegel et al. (2001) states: “Dietary administration of C8 [PFOA] produced a
+statistically significant increase in the incidence of hepatocellular adenomas (13% vs. 3% or 1%
+in the ad libitum or pair-fed control groups, respectively), but no carcinomas were observed in
+the C8 treated rats.”
+p. 49, lines 1-2. The Butenhoff et al. (2002) citation is incorrect. Butenhoff et al. (2002) is a 26
+week study of cynomolgus monkeys, not a 90 day study of rhesus monkeys. Also, Butenhoff et
+al. (2002) is not discussed in the draft document, and it should be discussed in the PFOA general
+toxicology section.
+
+                                                 27
+                                                                                  NJDEP Comments
+
+
+p. 49, line 22. A general comment on Section 5.5 on reproductive and developmental effects is
+that there is inconsistency in the effects discussed under reproductive versus developmental
+effects throughout this section. Also, the PFOA and PFOS sections should be structured in the
+same way. For example, there is a section on neonatal mortality for PFOA, but there is no
+similar section for PFOS.
+p. 50, lines 33-34, discussion of pup survival in the Lau et al. (2003) study of reproductive and
+developmental effects of PFOS. The important observation that pups with gestational exposure
+to PFOS were born alive and appeared to be healthy but died soon thereafter needs to be
+discussed. As stated by Lau et al. (2003): “All animals were born alive and initially appeared to
+be active. In the highest dosage groups (10 mg/kg for rat and 20 mg/kg for mouse), the neonates
+became pale, inactive, and moribund within 30-60 min, and all died soon afterward. In the 5
+mg/kg (rat) and 15 mg/kg (mouse) dosage groups, the neonates also became moribund but
+survived for a longer period of time (8-12 h). Over 95% of these animals died within 24 h.
+Approximately 50% of offspring died at 3 mg/kg for rat and 10 mg/kg for mouse. Cross-
+fostering the PFOS-exposed rat neonates (5 mg/kg) to control nursing dams failed to improve
+survival.”
+p. 51, lines 8-10. The potential relevance of maturation of the lung to the neonatal mortality
+observed soon after birth following gestational exposure to PFOS (Lau et al., 2003; mentioned
+above) should be discussed.
+p. 51, lines 11-18. The study described in this paragraph should be reviewed if it is to be
+discussed, rather than citing the discussion in HC (2018a) which is not a primary reference.
+p. 53, lines 16-17. Instead of saying that “PFOS was the only member of the sulfonate family to
+exhibit this effect,” the sentence should be clarified to state that the two other shorter chain
+perfluoroalkyl sulfonates tested (PFBS, PFHxS) in the study did not cause the effect.
+p. 53, lines 24-25. As mentioned above, the monkey study, which is cited here (Thomford, 2001;
+Butenhoff et al., 2002) in the context of reproductive effects, should be discussed in the section
+on general toxicology studies.
+p. 53, line 31 – p. 54, line 8. As mentioned above, when discussing reproductive and
+developmental studies in rats, it must be emphasized that female rats excrete PFOA very quickly
+(half-life of 2-4 hours) whereas PFOA bioaccumulates in females of other laboratory animal
+species (e.g., mice, monkeys) and humans. For this reason, female rats are not an ideal model
+for human developmental effects of PFOA.
+p. 55, line 11. Section on effects of PFOA on mammary gland development. In general, this
+section does not provide a synthesis of the information from the various studies of this endpoint,
+and it does not mention that this is the most sensitive adverse effect of PFOA in laboratory
+animals. It is suggested that WHO review the comprehensive discussions of this topic in Post et
+al. (2012) and DWQI (2017a).
+
+
+                                                28
+                                                                                   NJDEP Comments
+
+
+p. 55, line 23. In general, the effects of toxicants on mammary gland development are highly
+dependent on the lifestage at which exposures occur (see: Fenton, S.E. (2006). Endocrinology
+147: 518-524). The draft document should mention that PFOA exposure in Yang et al. (2009)
+was peripubertal, while exposure in many of the other studies discussed below was prenatal
+and/or postnatal. Therefore, the results of Yang et al. (2009) cannot be compared to the results of
+the prenatal/postnatal exposure studies.
+p. 55, lines 26-28. “…suggesting substantial delay (possibly up to 10 days) in gland
+differentiation on PND 20 and alterations in milk protein gene expression on PND 20 (White et
+al. 2007).” As written, it is unclear which effects occurred in the dam and which occurred in the
+offspring.
+p. 55, line 30. Suggest clarifying by replacing the word “postnatal” with “lactational.”
+p. 56, lines 2-15. As for Yang et al. (2009) above, it should be clarified that exposure in Zhao et
+al. (2010) was peripubertal, not prenatal or lactational. Yang et al. (2009) and Zhao et al. (2010)
+should be discussed together, and WHO should consider the problematic issues with
+interpretation of results of these two studies, as well as Zhao et al. (2012), another peripubertal
+exposure study from the same research group. These issues are discussed by DWQI (2017a) as
+follows:
+       “Three studies reported effects of peripubertal (during periods between 3 and 7 weeks of
+       age) exposure to PFOA on mammary gland development in female mice…. Two studies
+       used C57Bl/6 and Balb/C mice (Yang et al., 2009; Zhao et al, 2012). One of these studies
+       (Zhao et al., 2012) and an additional study (Zhao et al., 2010) evaluated C57Bl/6 PPAR-
+       alpha null mice. Data on serum PFOA levels from all three of these studies are presented
+       in Zhao et al. (2012). Interpretation of the combined results of these three studies is
+       problematic because each PFOA dose level was used in each strain in only one of the
+       three studies, and any dose-response interpretations must be made based on combining
+       data from different studies. Because conditions (e.g., animals, housing conditions, time)
+       may vary during different studies, dose-response curves based on combining data from
+       different studies are difficult to interpret and conclusions based on such dose-response
+       curves are highly uncertain…
+       In C57Bl/6 PPAR-alpha null mice, mammary gland development was not affected by 7.5
+       mg/kg/day PFOA (Zhao et al., 2012), and was reported to be stimulated at 5 mg/kg/day,
+       although quantitative data are not shown by Zhao et al. (2010). As was the case for the
+       studies of C57Bl/6 wild type mice and Balb/C mice discussed above, each dose was used
+       in PPAR-alpha null mice in only one of the studies (Zhao et al., 2010; Zhao et al., 2012).
+       The effects on mammary gland development in the PPAR-alpha null mice therefore were
+       similar to those in wild type mice of the same strain at 5 mg/kg/day and differed at 7.5
+       mg/kg/day. As above, interpretation of these data is problematic because only one dose
+       was used in each study.”
+
+
+                                                29
+                                                                                   NJDEP Comments
+
+
+For the reasons discussed by DWQI (2017a), the data from these three peripubertal studies
+cannot be used to make firm conclusions about the involvement of PPAR-alpha in mammary
+gland effects of PFOA such as those presented on lines 17-18 of the draft WHO document.
+Additionally, it should be made clear that the “inconsistent effects of PFOA on mammary gland
+development in different strains and dose levels” mentioned on lines 20-22 refer only to the three
+peripubertal exposure studies and not to the prenatal/lacational exposure studies (White et al.
+2007, 2009, 2011; Macon et al., 2011) discussed on p. 55, lines 25-48. As discussed in DWQI
+(2017a), the adverse effects of prenatal and lactational exposure to PFOA on mammary gland in
+mice are well established and are considered to be adverse and relevant to humans.
+p. 56, line 37. The age at which the mice were dosed should be mentioned.
+p. 57, lines 8-9. As above, reproductive versus developmental effects are not clearly or
+consistently distinguished throughout. Here, increased resorption of litters, a reproductive effect,
+is discussed in the section on developmental effects.
+p. 57, lines 12-13. The effects mentioned here (delayed eye opening and accelerated sexual
+maturation) are not relevant to the topic of this section, neonatal survival.
+p. 57, lines 28-33 state: “In a similar experiment using wild-type, PPARα-null mice and PPARα-
+humanized mice exposed to a single dose of 3 mg/kg PFOA, Albrecht et al. (2013) also found
+that the frequency of litter resorptions was independent of PPARα status, whereas PPARα status
+had no effect on the timing of eye-opening in neonates. Albrecht et al. (2013) further reported
+that pup survival was decreased only in PFOA-exposed wild-type mice, but not in PFOA-
+exposed PPARα-null or PPARα humanized mice.”
+WHO must consider the problematic issues with the Albrecht et al. (2013) study that are relevant
+to the conclusions presented here. These issues are discussed on p. 142-143 of DWQI (2018), as
+follows:
+       “Although postnatal lethality in wild type mice treated with 3 mg/kg/day (the only dose
+       used in the study) on PND 20 was reported as statistically significant (p<0.05), this
+       conclusion appears to be based on an inappropriate statistical comparison. In evaluating
+       postnatal lethality, the number of pups per litter on PND 20 in the control and PFOA-
+       treated groups of wild type mice were compared. However, this comparison does not
+       appear to be valid because the control and PFOA treated litters initially had different
+       numbers of pups on PND 0. The appropriate evaluation of this parameter is a comparison
+       of the number of pups within the same litter on PND 0 and PND 20 (i.e., percent
+       mortality within the litter between PND 0 and PND 20). In wild type pups, 96% of
+       controls and 70% of PFOA-treated survived from PND 0 to PND 20. From the analysis
+       presented, it is unclear whether postnatal lethality is actually significantly increased by
+       PFOA in wild type pups. For this reason, the basis for the conclusion that wild type, but
+       not humanized PPAR-alpha, mice are sensitive to developmental effects of PFOA is
+       uncertain.
+
+                                                30
+                                                                                  NJDEP Comments
+
+
+       An important concern is that Albrecht et al. (2013) state that elevated PFOA levels (up to
+       >1000 ng/ml) were found in liver and serum from some control fetuses, pups, and dams.
+       However, no further information such as which groups of animals these samples came
+       from, how many samples had elevated PFOA concentrations, or statistical data for serum
+       levels in the control samples is provided. Importantly, data from control animals with
+       elevated PFOA exposures do not appear to have been excluded in the comparisons of
+       endpoints of toxicity in control and treated groups. Inclusion of these data from the
+       control animals could have affected the results of these comparisons, especially since
+       serum levels in some of the treated groups were only a few fold higher than those in some
+       of the controls.
+       Developmental effects observed in the same strain of mice (SV/129) in another study
+       (Abbott et al., 2007) at lower doses (0.6 and 1 mg/kg/day) were not observed at the
+       higher dose (3 mg/kg/day) used by Albrecht et al. (2013). Abbott et al. (2007) observed
+       significantly increased postnatal lethality in wild type pups exposed gestationally to 0.6
+       and 1 mg/kg/day PFOA. Additionally, eye opening was significantly delayed in the 0.6
+       and 1 mg/kg/day wild type pups in Abbott et al. (2007), but not at 3 mg/kg/day in
+       Albrecht et al. (2013).
+       Although both studies used SV/129 mice, Albrecht et al. (2013) obtained them from NIH
+       and Abbott et al. (2007) obtained them from Jackson Laboratories. Albrecht et al. (2013)
+       suggest that pharmacokinetic differences in the wild type mice from the two different
+       sources may explain the differences in effects of PFOA in these mice in the two studies.
+       However, a close review of the data from the two studies (Table 3 of Abbott et al., 2007;
+       Figure 10 of Albrecht et al., 2013) indicates that the serum levels in wild type pups in
+       Albrecht et al. (2013) at which no developmental effects occurred were higher than the
+       serum levels in wild type pups at which delayed eye opening and postnatal mortality were
+       reported by Abbott et al. (2007). Furthermore, the serum PFOA data for wild type dams
+       on PND 20 appear to be inconsistent within the publication. Maternal serum levels in
+       wild type dams on PND 20 are stated to range from 2066 – 6812 ng/ml, and no statistical
+       parameters (e.g., median, mean, S.D.) are provided. However, the estimated serum level
+       from the bar graph of maternal serum levels is 6700+3600 in the wild type dams (higher
+       than what would be expected from the range provided in the text).”
+p. 57, lines 33-35, state: “…Nakamura et al. (2009) showed that increased expression of PPARα-
+related genes was observed in wild-type mice, but not in humanized PPARα or PPARα-null
+mice, exposed for 2 weeks to ≥ 0.1 mg/kg bw per day.”
+Nakamura et al. (2009) is a study of adult mice, not a developmental study; therefore, it is not
+relevant to this section. Additionally, the differences in hepatic effects of PFOA on wild type
+versus humanized PPAR-alpha and PPAR-alpha null mice in Nakamura et al. (2009) were not as
+clearcut as suggested here. As summarized by DWQI (2017a):
+
+
+                                                31
+                                                                                  NJDEP Comments
+
+
+       “Expression (mRNA and protein levels) of five genes that are targets of PPAR-alpha was
+       measured in the three strains. Expression of four of these genes was significantly
+       increased only in the wild type mice, while expression of the fifth gene was significantly
+       increased only in the humanized PPAR-alpha mice. None of the PPAR-alpha target genes
+       were affected by PFOA in the PPAR-alpha null mice. Histopathological examination
+       showed mild hepatocellular hypertrophy in both wild type and humanized PPAR-alpha
+       mice. Cytoplasmic vacuoles indicating lipid accumulation were observed in PPAR-alpha
+       null mice, consistent with those described in this strain by Wolf et al. (2008).”
+p. 57, lines 44-48, state: “Both PFOA-induced mammary gland inhibition and reduced neonatal
+survival in mice appears to be at least partially dependent on PPARα expression and phenotype,
+with PPARα knockout mice being less susceptible to mammary gland inhibition, and humanized
+phenotypes being less susceptible to neonatal mortality. The relevance of these effects in the
+tested strains of mice to humans is therefore uncertain and likely requires further study.”
+The premise of these WHO conclusions is that, in general, toxicological effects of PFAS in
+laboratory animals that are mediated by PPAR-alpha (including developmental effects) are not
+relevant to humans. This conclusion is not scientifically supportable, and it is not accepted by
+the authoritative agencies (USEPA, ATSDR, Health Canada, EFSA) whose reviews are relied
+upon by WHO. Therefore, this statement and similar statements elsewhere in the document
+should be removed.
+Regarding human relevance of developmental effects in laboratory animals that are mediated by
+PPAR-alpha, DWQI (2017a) states (bolding added):
+       “PPAR-alpha, -beta, and -gamma are expressed in many fetal and adult tissues in rodents
+       and humans. Abbott et al. (2010, 2012) found that PPARs are present in nine human fetal
+       tissues examined (liver, heart, lung, kidney, intestine, stomach, adrenal, spleen, and
+       thymus) from embryonic days 54 to 125. They found that the levels may increase or
+       decrease with age of the fetus, or between the fetus and the adult. In some fetal tissues,
+       PPARs were expressed at levels equivalent to or higher than in adults. Although the role
+       of PPAR-alpha and other PPARs in human and animal development is not well
+       characterized, based on their physiological actions, they are expected to have important
+       roles in reproduction and development (Abbott et al., 2010). For these reasons, it can be
+       assumed that PPAR-alpha mediated effects on development are relevant to
+       humans.”
+Additionally, as discussed above, the conclusions that PPAR-alpha knockout (null) mice are less
+susceptible to mammary gland inhibition (comments on p. 56, lines 2-15) and humanized PPAR-
+alpha mice are less susceptible to neonatal mortality (comments on p. 57, lines 31-33) are not
+scientifically supportable.
+
+
+
+
+                                                32
+                                                                                  NJDEP Comments
+
+
+p. 59, lines 24-25 state: “As simultaneous hepatotoxicity was also apparent [in Vetvicka and
+Vetvickova, 2013], the [immunotoxic] effects have the potential to be indirect rather than direct
+effects.”
+This statement is not supportable and should be deleted. The only hepatic effect reported by the
+authors of this study was increased relative liver weight. The authors (Vetvicka and Vetvickova,
+2013) did not state that the immunotoxic effects, which affected many different endpoints of
+immune system function, were potentially secondary to increased liver weight. Furthermore,
+WHO does not present any information to support this hypothesis.
+p. 62, lines 24-26, states: “In summary, findings from the long-term carcinogenicity study
+confirm that the liver is a potential target organ for chronic toxicity and carcinogenicity [of
+PFOS], which may be attributable to a mode of action involving activation of PPARα and other
+PPARα-independent modes of action.” However, as discussed in detail in comments on p. 41,
+lines 22-25, above, the hepatic effects of PFOS are primarily PPAR-alpha independent, with
+little if any contribution from PPAR-alpha mediated effects.
+p. 62, lines 29-31. As discussed in the remainder of this section, PFOA also caused tumors
+(hepatic and pancreatic) in rats in NTP (2020). This study should be included along with the
+other two chronic rat studies in this introductory discussion of carcinogenicity of PFOA in
+laboratory animals.
+p. 63, lines 17-20. When discussing the NTP (2020) pancreatic tumor data, it is important to
+mention that the incidence of both benign and malignant pancreatic tumors was increased by
+PFOA. Also, similar to other comments above, it should be mentioned that occurrence of tumors
+at much higher doses in female rats than in male rats is likely due to the much more rapid
+excretion in female rats, meaning that a much higher dose must be administered to females than
+to males to obtain the same internal dose.
+p. 63, lines 22-25. This is a general discussion of the results of NTP (2020) and should not be
+placed in the section on pancreatic acinar tumors.
+p. 63, lines 24-25 states that “It is therefore not possible using current evidence to exclude PFOA
+as a human carcinogen” in the context of the NTP conclusion of “clear evidence of carcinogenic
+activity in male rats” for PFOA. This is an inaccurate interpretation of NTP conclusions about
+the carcinogenicity of agents tested in NTP bioassays. NTP conclusions about agents tested in
+their bioassays refer to evidence for carcinogenicity in each specific type of test animal (e.g.,
+male rat, female rat, male mouse, or female mouse), and NTP bioassay study reports do not make
+conclusions about evidence for human carcinogenicity. That being said, NJDEP agrees that the
+human and animal data, considered together, support the conclusion that PFOA is a likely human
+carcinogen, as determined by USEPA (2021b) and supported by USEPA SAB (2022).
+
+
+
+
+                                                33
+                                                                                  NJDEP Comments
+
+
+Section 6. Mode of Action
+p. 63, line 27. Regardless of whether or not it was included by ATSDR (2021), carcinogenicity
+should be added to the list of primary effects of PFOS and/or PFOA listed here.
+p. 63, line 35 – p. 64, line 13. This section on mode of action of hepatic effects is confusing and
+not readily understandable to even an informed reader. It appears that all or most of this section
+is paraphrased from ATSDR (2021) without clear explanations of the general concepts and
+conclusions. As just one of numerous examples, peroxisomal beta-oxidation is mentioned (p. 64,
+line 11), but it is not explained that peroxisomal beta-oxidation is a marker for PPAR-alpha
+activity.
+For PFOA, it is suggested that WHO review the clear and comprehensive evaluation of PPAR-
+alpha dependent and independent hepatic effects in DWQI (2017a, p. 181-190). In summary,
+this evaluation concluded that data from non-human primates (monkeys), standard strains of rats
+and mice, PPAR-alpha null mice, and humanized PPAR-alpha mice support the conclusion that
+hepatic effects of PFOA in experimental animals are relevant to humans for the purposes of risk
+assessment. As just one example of the numerous analyses provided by DWQI (2017a), the
+dose-related increase in palmitoyl CoA oxidase activity (a marker for PPAR-alpha activity) in
+non-human primates (i.e., non-rodent species in which human relevance of hepatic effects is not
+in question) was similar in magnitude to the increase in rats, demonstrating that PFOA causes
+similar hepatic PPAR-alpha activity in non-human primates as in rodents.
+For PFOS, as explained above, available information indicates minimal contribution of PPAR-
+alpha to hepatic effects.
+p. 64, lines 23-25. While effects on mammary gland development have not been studied in
+animal species other than mice or humans, it is suggested that it be mentioned that at least five
+human epidemiology studies from different locations have reported adverse effects of PFOA on
+breast feeding (duration and/or initiation) while no studies negative for this effect were
+identified. The five publications reporting effect on breast feeding are Fei et al. (2010,
+https://www.sjweh.fi/show_abstract.php?abstract_id=2908; Nielsen et al. (2022,
+https://doi.org/10.1016/j.envres.2021.112206; Romano et al. (2016,
+https://doi.org/10.1016/j.envres.2016.04.034; Timmermann et al. (2017,
+https://doi.org/10.1016/j.reprotox.2016.07.010; and Timmermann et al. (2022,
+https://doi.org/10.1210/clinem/dgab638)
+
+p. 65, line 20. The conclusions of lack of human relevance for Leydig cell tumors and pancreatic
+acinar tumors caused by PFOA are inconsistent with the conclusions of USEPA (2016b, 2021b).
+The USEPA (2005, https://www.epa.gov/sites/default/files/2013-
+09/documents/cancer_guidelines_final_3-25-05.pdf) guidelines for carcinogen risk assessment
+assume human relevance of animal tumors unless a mode of action that is not relevant to humans
+has been definitively established, and the mode of action for these tumors has not been
+definitively established (Klaunig et al., 2012, https://doi.org/10.1016/j.reprotox.2011.10.014;
+                                                34
+                                                                                  NJDEP Comments
+
+
+USEPA, 2016b; DWQI, 2017a). Additionally, animal tumors do not need to occur at the same
+sites as human tumors to be considered relevant to humans according to the USEPA (2005)
+guidelines. While Health Canada (cited by WHO) may use different criteria than USEPA (2005)
+for forming conclusions on human relevance of animal tumors, it is not appropriate for WHO to
+preferentially cite a conclusion based on the guidance used by one specific nation as the
+definitive conclusion on this or other topics.
+Section 7. Summary of Health Effects
+p. 65, line 43-45 states: “For PFOS and PFOA specifically, this database comprises evaluations
+of health outcomes in subjects exposed in occupational settings, and residents living near a
+PFOA plant who had relatively high exposure via drinking-water and other environmental
+sources.”
+This statement is not accurate. It should be revised to indicate that the large majority of
+epidemiology studies of PFOA and PFOS are from the general population without exposure from
+a specific source of environmental contamination, not from occupationally exposed workers or
+communities with “relatively high environmental exposures.”
+p. 66, lines 12. In this summary of information on toxicokinetics, it is unclear what is meant by
+“non-linear nature of toxicokinetics of PFOS and PFOA.”
+p. 66, lines 13-15. In this summary of information on toxicokinetics, it should be noted that, for
+animal studies where serum PFOA or PFOS data are available, interspecies extrapolation can be
+based on use of clearance factor to predict the Human Equivalent Dose from measured serum
+levels (described above in comments on p. 24, lines 9-12).
+It should also be noted that toxicokinetic models that consider prenatal and lactational exposure
+(e.g., Goeden et al., 2019 and the model used by EFSA, 2020) are also used to predict exposures
+to infants in assessments based on human epidemiological studies, not only in assessments based
+on animal studies where interspecies extrapolation is required.
+p. 66, lines 17-22. In this summary of information on toxicokinetics, the very rapid excretion of
+PFOA in female rats, which results in fluctuations in internal dose over short periods of time (in
+contrast to bioaccumulation in male rats, and males and females of other laboratory animal
+species and humans), should be mentioned. This concept is important in interpretation of
+toxicological data for PFOA. The half-lives in rodents other than female rats should be
+characterized as several days to several weeks for PFOA and one to two months for PFOS, not
+“hours to days.”
+p. 66, line 29. Here and/or elsewhere, it should be emphasized that there is concordance between
+laboratory animals and humans for most of the major toxicological effects of PFOA and PFOS,
+including developmental, immunological, hepatic, and carcinogenic effects.
+p. 66, line 36. Suggest noting decreased immune response as a specific type of immune effect
+caused by PFOA and PFOS.
+
+                                                35
+                                                                                   NJDEP Comments
+
+
+p. 66, line 37. In addition to delayed mammary gland development in mice, it is suggested that
+other developmental effects in rodents including decreased offspring body weight and delayed
+development (e.g., delayed eye opening) be mentioned.
+p. 66, lines 42-45. “The applicability of the adverse health effects reported in animals to human
+health is uncertain, recognizing species and sex-related differences in the toxicokinetics of
+PFAS. In addition, the mode(s) of action for PFOS and PFOA-induced toxicities are not fully
+elucidated, although both PPARα- dependent and -independent pathways have been proposed.”
+These statements are not scientifically supportable, are not accepted by the scientific community,
+and appear to be intended to cast doubt on the generally accepted human relevance of
+toxicological effects of PFOA and PFOS in experimental animals. As such, they should be
+removed.
+Specifically, the general conclusion that the human relevance of adverse health effects reported
+in animals is uncertain contradicts the conclusions of all the authoritative agencies whose
+reviews were heavily relied upon by WHO (e.g., USEPA, Health Canada, EFSA, ATSDR).
+Furthermore, toxicokinetic differences between humans and animals are not germane to whether
+or not adverse effects observed in animals are relevant to humans. Rather, they are considered in
+determining the administered dose at which effects seen in animals are expected to occur in
+humans, with a lower human administered dose needed to obtain the same internal dose that
+occurred in the animals. Toxicity factors (e.g., Reference Doses and similar non-cancer values;
+cancer slope factors) based on animal data for all contaminants (not just PFAS) consider
+interspecies toxicokinetic differences. As discussed in detail in the draft WHO document,
+modeling approaches have been specifically developed to address this issue for PFOA and
+PFOS.
+Finally and importantly, it is unclear why PPAR-alpha is mentioned here in the context of human
+relevance. As discussed in detail in multiple comments above, the available scientific
+information demonstrates that health effects of PFOA and PFOS that are mediated by PPAR-
+alpha, as well as those that are PPAR-alpha independent, are relevant to humans. This conclusion
+is generally accepted by other authoritative agencies and the scientific community.
+p. 67, line 1. This section is called “Repeated dose toxicity,” but specific types of repeated dose
+toxicity such as neurotoxicity and immune system toxicity are covered in other sections. For the
+benefit of the reader, suggest stating this at the beginning of the section.
+p. 67, lines 6-8 states: “However, increased liver weight is not by itself an adverse effect unless
+accompanied by necrosis, fibrosis, steatosis or other clinically relevant signs of liver damage
+(Hall et al., 2012).”
+As discussed above, this statement from Hall et al. (2012) is not applicable to chronic exposure,
+which is the relevant exposure duration for WHO drinking water guidelines. In summary, the
+Hall et al. (2012) criteria conclusions about adversity of increased liver weight assume that this
+
+
+                                                 36
+                                                                                   NJDEP Comments
+
+
+effect may be reversible when exposure to the agent (e.g., a drug) ends. However, as discussed
+by Hall et al. (2012; see above) these reversibility considerations are not relevant to chronic
+exposure since it does not end after a certain period of time. Importantly, increased liver weight
+from short-term exposure to PFOA and PFOS has been shown to progress over time to more
+severe forms of hepatic toxicity. Furthermore, it is unclear why this statement is even included
+here since many studies of PFOA and PFOS demonstrate the types of hepatic toxicity that are
+noted as adverse in the statement.
+p. 67, lines 13-15. As mentioned multiple times above, evaluation of the relevant data indicates
+that hepatic effects of PFOS are primarily PPAR-alpha independent, with little or any
+contribution from PPAR-alpha mediated effects.
+p. 67, lines 16-18. “PFOA-induced transactivation of PPAR-alpha” is not mentioned elsewhere
+in the document, and it is unclear which study is referred to here. This information is also too
+specific (including the dose at which this occurred) for this summary, and its overall relevance is
+unclear.
+p. 67, lines 34-36 state, regarding delayed mammary gland development in mice, that: “Other
+strains (i.e. C57Bl or Balb/3) experienced similar effects but at much higher PFOA doses (1 or 5
+mg/kg); the reason for this difference is not known.”
+As discussed in detail above, the studies in C57Bl and Balb/3 mice mentioned here used
+peripubertal exposure, while the other studies (mentioned earlier in the paragraph) in which
+effects occurred at lower doses used prenatal and/or lactational exposure. Because effects on
+mammary gland development are highly life-stage dependent, the results of the peripubertal
+exposure studies are not inconsistent with the results of the prenatal/lactational exposure studies.
+p. 67, line 37. It is unclear who proposed a prenatal developmental LOAEL of 1 mg/kg/day.
+p. 68, line 9-11. It should be mentioned that the same study that showed neurotoxicity for PFOA
+also showed neurotoxic effects of PFOS at 0.75 mg/kg. This information should also be
+included in the discussion of neurotoxicity of PFOS earlier in the document.
+p. 68, lines 27-30 states: “As [immunotoxic] effects were usually seen at doses that also induced
+general toxic effects including those related to food intake and body weights, indirect effects of
+PFOA on the immune system cannot be ruled out.”
+This is not a valid conclusion and should be removed. Specifically, studies that included lower
+doses (e.g., Dewitt et al., 2008, https://doi.org/10.1289/ehp.10896; Dewitt et al., 2009,
+https://doi.org/10.1093/toxsci/kfp040) demonstrated immunotoxicity at doses at which there
+were no effects on food intake or body weight. Additionally, it is noted that the systematic
+review of immune system toxicity of PFOA and PFOS performed by NTP (2016) did not make
+this conclusion.
+p. 68, line 44. It should be mentioned that PFOA caused both benign and malignant acinar cell
+tumors in male rats.
+
+                                                 37
+                                                                                  NJDEP Comments
+
+
+p. 68, line 46-47. It should be mentioned that the fact that PFOA did not cause pancreatic tumors
+in female rats may be related to the very rapid excretion and lack of bioaccumulation of PFOA in
+female rats. This rapid excretion in female rats is discussed in detail above.
+p. 69, lines 3-4. It is not clear what is meant by “the most common adverse effects in humans.”
+The effects with the strongest/most consistent evidence should be listed, not the most “common.”
+Also, this introduction to the section on human toxicity endpoints should say that most human
+studies that report these adverse effects are from the general population who do not have
+additional exposure from a point source (e.g., contaminated drinking water) and that the effects
+are associated with the exposure range prevalent within the general population.
+Importantly, the fact that PFOA and/or PFOS is associated with increased risk of clinically
+defined abnormal values for each of the endpoints discussed below should be added to the
+information on each specific endpoint. Additionally, as noted by the USEPA SAB (2022):
+       “In studies where the number of subjects with clinically abnormal values was not
+       specifically evaluated, an increase in the number of subjects with a clinically abnormal
+       value is also expected from the overall change (shift in the distribution curve) in the
+       abnormal direction. While the clinical relevance of exposure to PFOA or PFAS cannot be
+       predicted on an individual basis, the increased number of individuals within a population
+       with clinically defined abnormal values is of public health concern.”
+The specific studies that reported an increased risk of clinically defined abnormal values for each
+endpoint are provided by USEPA SAB (2022), as follows:
+       “While most of these studies did not evaluate the number of subjects with a clinically
+       abnormal value for biomarkers, one or more studies, for each of the four effects
+       [increased serum cholesterol, increased serum ALT, decreased antibody response to
+       vaccination, decreased birth weight] reported an association of PFOA and/or PFOS with
+       increased risk of a clinically abnormal value. Examples of studies that reported an
+       increased risk of clinically abnormal values are as follows: Grandjean et al. (2012)
+       reported tetanus or diphtheria antibodies levels below a clinically protective level; Looker
+       et al. (2014) found an increased risk of not attaining the antibody threshold considered to
+       offer long-term protection to A/H3N2 influenza virus; multiple studies reviewed in the
+       draft MCLG documents found clinically defined low birth weight or small for gestational
+       age; Steenland et al. (2009) observed clinically defined high cholesterol; Gallo et al.
+       (2012) and Darrow et al. (2016) reported clinically defined elevated ALT.”
+p. 69, lines 6-7. This sentence on the decreased antibody response to diphtheria and tetanus
+vaccines in children should mention that PFOA and PFOS were associated with increased risk of
+antibody levels below the clinically protective threshold (Grandjean et al., 2012).
+p. 69, lines 6-12, state: “Epidemiological studies suggest that exposure to PFOS and PFOA
+adversely affects antibody response to vaccination against diphtheria and tetanus in children,
+
+
+                                                38
+                                                                                    NJDEP Comments
+
+
+with evidence of PFOA having a stronger association compared to PFOS. However, there is
+limited evidence of an association between PFOS and PFOA serum levels and increased
+incidence of illness in children; for example, according to CDC (2019) data the number of new
+cases of diphtheria in the United States over a 40-year period was less than one per year on
+average.”
+As discussed in detail in the comment on p. 34, lines 40-41, of the draft WHO document above,
+NJDEP strongly disagrees with WHO’s conclusion that decreased antibody response to
+vaccinations is not adverse or appropriate as the basis for risk assessment unless there is an
+increased incidence of the diseases prevented by vaccination. The same comment also notes that
+the lack of an association of PFOA and PFOS with increased incidence of infectious disease has
+not been established. These comments are also relevant here.
+p. 69, lines 22-23. This sentence should mention that association with increased risk of clinically
+defined high cholesterol has been reported (Steenland et al., 2009).
+p. 69, lines 25-27. As above, the range of serum levels up to 25 ng/ml is relevant here, since it is
+within the range commonly associated with drinking water contamination.
+p. 69, lines 29-32 states: “Although epidemiological studies provide evidence for an association
+between exposure to PFOS and PFOA and increased serum ALT, the magnitude of the
+associations is small, with ALT levels rarely being outside the reference range and no evidence
+of liver disease.”
+This sentence is misleading and should be modified or removed. Most studies did not evaluate
+the number of subjects above the reference range, and Gallo et al. (2012,
+https://doi.org/10.1289/ehp.1104436) and Darrow et al. (2016,
+https://doi.org/10.1289/ehp.1510391) reported associations of PFOA with clinically defined
+elevated ALT.
+Additionally (as discussed above), “an increase in the number of subjects with a clinically
+abnormal value is…expected from the overall change (shift in the distribution curve) in the
+abnormal direction,” (USEPA SAB, 2022).
+The extensive additional comments on p. 37, line 40 – p. 38, line 7 (Section 4.2.7.1), above that
+support the conclusion of adversity of increased ALT are also relevant here.
+p. 69, lines 43. It should also be mentioned that multiple studies have reported associations of
+PFOA and/or PFOS with increased risk of low birth weight or small for gestational age. See
+USEPA (2021a, b).
+p. 69, line 46. The word “partially” should be added as follows: “…the overall association may
+be partially confounded by…”
+p. 70, lines 2-7. This text should be revised to indicate that there is evidence for association of
+PFOA and kidney cancer in occupationally exposed workers, communities with drinking water
+
+
+                                                 39
+                                                                                 NJDEP Comments
+
+
+exposure, and the general population, while the association with testicular cancer was only
+reported in occupationally exposed workers and communities with drinking water exposure.
+p. 79, lines 7-10 state. “WHO considered that the uncertainties in identifying the key endpoint
+applicable to human health following exposure to PFOS and/or PFOA are too significant to
+derive a HBGV with confidence.”
+The fact that PFAS causes many different types of health effects is not a valid reason not to
+develop a HBGV. Rather, the large number of health effects highlights the need for concern
+about exposure to PFAS and the need for health-based guidelines that are protective for the most
+sensitive health endpoint(s). It is noted that WHO has developed drinking water guidelines for
+many other contaminants, and that some of these are based on non-cancer effects and others on
+lifetime cancer risk at the 10-5 (1 in 100,000) risk level. There is ample data from both humans
+and experimental animals to develop a health-based guideline for cancer and non-cancer effects
+of PFOA and non-cancer effects of PFOS.
+Section 8. Practical Considerations
+p. 75, line 1. Section 8.4.6. on examples of PFAS removal from full-scale and pilot studies. In
+establishing New Jersey’s Maximum Contaminant Levels (MCLs) of 14 ng/L (0.014 μg/L) for
+PFOA and 13 ng/L (0.013 μg/L) for PFOS, New Jersey considered the availability of treatment
+technologies to reduce levels of PFAS in drinking water and did not find it to be a limiting
+factor. In making its MCL recommendations for PFAS, the New Jersey Drinking Water Quality
+Institute (DWQI) conducted a comprehensive review of literature and case studies to identify
+available treatment technologies for removal of these compounds from drinking water. The
+findings of the DWQI were presented in the report “Recommendation on Perfluorinated
+Compound Treatment Options for Drinking Water” and subsequent addendum documents
+(DWQI 2015, 2016, 2017b). The DWQI reports found that PFOA and PFOS could be reliably
+removed by drinking water treatment facilities utilizing granular activation carbon (GAC) or an
+equally efficient treatment technology to below New Jersey’s MCLs of 14 ng/L for PFOA and
+13 ng/L for PFOS.
+This conclusion is further supported by the treatment removal achieved by New Jersey drinking
+water treatment plants. Based on NJDEP records, 12 facilities in New Jersey have installed
+permanent treatment for removal of PFAS. Of these, seven facilities have utilized GAC
+treatment and five facilities have utilized ion exchange (IEX) treatment. Regulated drinking
+water systems began submitting standardized compliance data for PFOA and PFOS to NJDEP in
+January 2019. These compliance samples are collected post-treatment, prior to entering the water
+distribution system. Between January 23, 2019 and October 3, 2022, close to 200 samples were
+submitted for PFOA and PFOS by the 12 facilities utilizing permanent PFAS treatment. An
+analysis of these data shows that these facilities were able to achieve levels of PFOA and PFOS
+below detection in the vast majority (>99.9%) of treated water samples. Detection limits for
+these samples ranged from 0.53-5 ng/L.
+
+
+                                                40
+                                                                                  NJDEP Comments
+
+
+DWQI (2015, 2016, 2017b) found GAC to be “a common and effective (>90% removal)
+treatment for long-chain [PFAS] contamination.” Of the 138 samples submitted by the seven
+treatment plants that utilized GAC, only three samples had detectable levels of PFOA (between
+3.4-5.4 ng/L), and no samples had detectable levels of PFOS. These facilities were able to reduce
+PFOA and PFOS to below the detection levels in 96-100% of samples.
+An analysis of the 60 samples submitted by the five facilities with IEX treatment shows only
+three detections of PFOA ranging from 2.2-7.6 ng/L and two detections of PFOS ranging from
+2.0-3.2 ng/L. Based on these data, the facilities that utilized IEX treatment for removal of PFAS
+were able to remove PFOA and PFOS to below detectable levels in 90-93% of all finished water
+samples.
+The analysis presented above shows that facilities can reliably and consistently achieve levels of
+PFOA and PFOS close to or below detection levels (0.53-5 ng/L) through carefully designed and
+operated PFAS treatment. All detections of PFOA or PFOS were below New Jersey’s MCLs of
+14 ng/L for PFOA and 13 ng/L for PFOS for both GAC and IEX treatment technologies.
+In addition to these 12 facilities with permanent treatment for PFAS, permits have been
+submitted to NJDEP for installation of PFAS treatment at approximately 90 additional facilities.
+These facilities are in various stages of completing the permitting process and constructing PFAS
+treatment. Records indicate that these facilities are designing their treatment systems to achieve
+finished water levels of PFAS ranging from <1 ng/L - 40 ng/L, with over 94% < 14 ng/L.
+ NJDEP recommends that WHO consider additional case studies and the data on regulated New
+Jersey drinking water systems presented above. Additionally, the DWQI reports cited above
+present several case studies of full and pilot-scale applications of PFAS treatment, which show
+that PFOA and PFOS can be reliably and consistently removed from drinking water to below the
+NJDEP drinking water standards of 14 ng/L and 13 ng/L, respectively. These include case
+studies with relatively high levels of PFAS in the raw water, such as in Oakdale, Minnesota,
+where PFOS at 540-620 ng/L was reliably removed to <13 ng/L, and Horsham, Pennsylvania,
+where PFOS at 293-1297 ng/L was reliably removed to <2.5 ng/L (DWQI, 2017b).
+p. 75, lines 3-12, discussion of Belkouteb et al. (2020). The draft document cites the long-term
+removal efficiencies for PFOS at 30,000 treated bed volumes presented in Belkouteb et al.
+(2020) as 80-100%. NJDEP notes that Belkouteb et al. (2020) also calculated relatively high
+long-term removal efficiencies for PFOA to be between 68-100% at the greatest common
+operation time, approximately 22,000-22,500 treated bed volumes.
+p. 75, lines 13-26, unpublished report from Italy. NJDEP was unable to obtain and review the
+unpublished report from Italy. From the information presented in the draft WHO document, it is
+unclear whether the installation and improvement of GAC filtration at this facility had any effect
+on the reduction of PFAS in finished water, as the date when treatment was placed online is not
+provided.
+
+
+
+                                                41
+                                                                                   NJDEP Comments
+
+
+p. 75, lines 28-40, discussion of Appleman et al. (2014). It should be noted that the treated water
+PFAS concentrations from Appleman et al. (2014) include data from facilities that utilized
+treatments generally considered ineffective for reduction of PFAS, including coagulation,
+oxidation, aeration, and disinfection (Appleman et al., 2014). Additionally, many of these
+utilities did not have treatment installed specifically for removal of PFAS. Of the four full-scale
+GAC treatments discussed in Appleman et al. (2014), Utility 20 is mentioned as being of
+particular interest because it is designed for PFAS treatment. Appleman et al. (2014) state that
+Utility 20 had higher levels of raw water PFAS, as the source was highly contaminated by an
+industrial source, and that this utility installed GAC vessels in a lead lag configuration. Over the
+course of one year, this utility had an average removal for the lag basin of >95% for PFOS and
+>92% for PFOA (Appleman et al., 2014).
+p. 75, lines 35-36. The background report also states that the use of IEX technologies is not as
+certain, but that IEX is expected to be effective for removal of “charged species of PFAS.”
+Relevant to this point, the two PFAS that are the focus of the draft WHO document (PFOA and
+PFOS), as well as the homologues with other chain-lengths, exist as charged species (anions) in
+water. It is noted that the two anion exchange treatments presented in Appleman et al. (2014)
+exhibited 92% removal for PFOS and 75% removal for PFOA, and that these IEX treatments
+were not specifically designed for PFAS removal. USEPA states that IEX has up to or greater
+than 99% removal effectiveness for PFOA and greater than 90-99% removal effectiveness for
+PFOS (USEPA, 2022 Drinking Water Treatment Database. https://tdb.epa.gov/tdb/home). Data
+from New Jersey drinking water facilities also show IEX to be an effective treatment for
+removing PFAS to below the New Jersey MCLs of 14 ng/L for PFOA and 13 ng/L for PFOS.
+Section 9. Conclusions
+p. 79, lines 10-11 states: “Although the reduced antibody response following vaccination has
+been considered by some agencies as the most robust end point based on epidemiological data, it
+is unclear whether this correlation results in increased rates of infection and hence the clinical
+implications are uncertain.”
+Again, as discussed in detail above (comment on p. 34, lines 40-41), the points stated here about
+infection and clinical implications are not a valid rationale to dismiss decreased antibody
+response to vaccination as the basis for PFOA and PFOS health-based guidelines. The
+comments on p. 69, lines 6-12, are also relevant here.
+More generally, a detectable increase in human disease is clearly not a requirement for use of a
+toxicological endpoint as the basis for a drinking water guideline, as per WHO’s own guidance
+for developing health-based drinking water values (p. 170 of WHO, 2022. Guidelines for
+drinking-water quality: fourth edition incorporating the first and second addenda. Geneva: World
+Health Organization) which states that health-based guidelines are established when: "There is
+credible evidence of occurrence of the chemical in drinking-water, combined with evidence of
+actual or potential toxicity." Relevant to this point, the extent of the human and animal health
+effects database and the level of certainty for human health effects of PFOA and PFOS far
+                                                 42
+                                                                                    NJDEP Comments
+
+
+exceed the health effects evidence for many or most of the other contaminants for which WHO
+has developed drinking water guidelines. Most of the drinking water guidelines listed in Chapter
+12 of WHO (2022) are based on animal data, and there are little or no relevant human health
+effects data for some of the contaminants with WHO drinking water guidelines.
+p. 79, lines 13-17 states: “Although animal data would generally be utilised in the absence of
+adequate human data for risk assessment purposes, there are also areas of uncertainty around the
+suitability of animal studies for assessing the effects to human health for PFOS and PFOA as
+discussed earlier, including interspecies differences in kinetic parameters such as elimination
+half-life and clearance rate.”
+The comments about these same points on p. 66, lines 42-45, are applicable here and should be
+reviewed by WHO in the context of this statement.
+Additionally, human epidemiology data are the basis for recent toxicity factors for PFOA and
+PFOS developed by several authoritative agencies (EFSA, 2020; USEPA, 2021a, b; California
+EPA, 2021). When human data are used, interspecies extrapolation is unnecessary.
+p. 79, lines 17-19. “Additionally, diverging estimates of the human half-life of PFOA may also
+add uncertainty to animal-to-human dosimetric adjustments, as well as PBPK-based conversions
+of human plasma PFAS concentrations to external doses.”
+This is not a scientifically supportable reason for not developing a health-based value, and it
+appears to be included to inappropriately create the appearance of unacceptable uncertainty. The
+variability within the range of potential human half-lives for PFOA is not large. It is similar or
+less than the variability of other factors and assumptions routinely used in the development of
+drinking water guideline including body weight, drinking water ingestion rate, and others.
+p. 79, lines 19-23 states: “Finally, the uncertainty and lack of consensus in the critical health end
+point to derive a HBGV is evident from the diverse range of endpoints utilised by other agencies
+to derive tolerable daily intakes or similar values, and the resulting range in proposed drinking-
+water values described in Table A.1 (see appendix).”
+The different health endpoints chosen by different agencies is not a valid reason not to develop a
+health-based guideline. Values from different agencies were developed over a period of time
+based on the information available at that time they were developed. Additionally, different
+agencies have different statutory requirements and approaches for development of health-based
+drinking water guidelines. Note: comments on Table A.1 are provided below.
+p. 79, lines 23-24 states: “Although the values derived by several different organizations vary
+significantly, all have margins of safety.”
+This statement is not logical. If the lower values that have been derived are scientifically
+supportable, the higher values do not have margins of safety. Perhaps this was meant to say that
+all of the values were intended to have a margin of safety by those who developed them.
+
+
+                                                 43
+                                                                                 NJDEP Comments
+
+
+p. 79, lines 27-32, states: “Health-based drinking water values derived by authoritative agencies
+range from 0.05 to 0.6 µg/L for PFOS and from 0.05 to 0.56 µg/L for PFOA.8 ”
+This sentence is inaccurate and misleading because: (1) The Danish value of 2 ng/L for the total
+of PFOA, PFOS, PFNA, and PFHxS that is much lower than the ranges mentioned in this
+sentence is omitted, and it is also not included in Table A.1; (2) The sentence about ranges on
+lines 27-32 does not include the much lower values from USEPA (2021a,b); they are included
+only as a footnote to the sentence; and (3) WHO does not recognize U.S. states, several of which
+have developed detailed scientific evaluations to support development of lower values, as
+“authoritative agencies.” These states should be recognized as “authoritative agencies” by WHO
+and their health-based drinking water values should be included here.
+Regarding the Danish value of 2 ng/L for the total of PFOA, PFOS, PFNA, and PFHxS, see
+information at https://tox.dhi.dk/en/news/news/article/danish-epa-more-tough-on-pfas-in-
+drinking-water/ and Danish “Criteria for Soil and Groundwater Used as Water Supply” at
+https://mst.dk/media/223446/liste-over-jordkvalitetskriterier-juli-2021_final1.pdf.
+Please note that the Interstate Technology & Regulatory Council (ITRC) maintains a complete
+and up to date table (Excel spreadsheet) of U.S. and international PFAS drinking water
+guidelines (https://pfas-1.itrcweb.org/wp-
+content/uploads/2022/09/ITRCPFASWaterandSoilValuesTables_AUG2022-Final.xlsx), posted
+at https://pfas-1.itrcweb.org/fact-sheets/). As shown on the ITRC spreadsheet, Denmark
+established its drinking water guideline of 2 ng/L for the total of PFOA, PFOS, PFNA, and
+PFHxS in 2021. However, only the older (2015) and much higher Danish values of 100 ng/L for
+PFOS and 300 ng/L for PFOA are shown on Table A.1 of the WHO document.
+Importantly, USEPA has stated repeatedly that it plans to propose National Primary Drinking
+Water Standards and MCLGs (health-based drinking water values) for PFOA and PFOS before
+the end of 2022. Since it is unlikely that WHO will complete its revision of its draft document
+before the end of 2022, the proposed USEPA values (assuming they are proposed in 2022 as
+planned) should be included in the revised WHO document.
+p. 79, line 32. The EFSA (2020) health-based value (i.e., Tolerable Weekly/Daily Intake; TWI/
+TDI) is mentioned along with the ATSDR (2021) values (i.e., Minimal Risk Levels, MRLs) here.
+However, in the next paragraph, drinking water values based on the ATSDR (2021) MRLs and
+WHO drinking water assumptions are presented, but a drinking water value based on the EFSA
+(2020) TDI is not presented. It should be added that EFSA (2020) developed a TWI of 4.4
+ng/kg/week, equivalent to a TDI of 0.62 ng/kg/day, for the total of PFOA, PFOS, PFNA, and
+PFHxS, and that applying default WHO parameters results in a drinking water value of 4 ng/L
+for the total of these four PFAS.
+p. 79, line 43-44. The sentence beginning with “According to Post (2021)…” should be updated
+to reflect current information. The older information on state drinking water guidelines from
+Post (2021) was updated by Post in an August 2022 presentation (posted at
+
+                                                44
+                                                                                  NJDEP Comments
+
+
+https://dnr.wisconsin.gov/sites/default/files/topic/PFAS/tech/Presentation20220819.pdf; PDF p.
+10 of 49). Currently, 10 U.S. states have guidelines of 0.007 - 35 ng/L for PFOA individually
+and 1-18 ng/L for PFOS individually, and five states have guidelines of 20 - 30 ng/L for the total
+of PFOA, PFOS, and 3 or 4 other PFAS.
+p. 79, line 44 - p. 80, line 1. This sentence refers to “US EPA’s health advisory of 70 ng/L for
+combined PFOA/PFOS.” However, as stated above in comments on p. 9, line 48, the current
+USEPA Health Advisory for PFOA and PFOS is no longer 70 ng/L. It should be stated in the
+text (not just in a footnote) that USEPA has issued newer interim Health Advisories for PFOA
+and PFOS and has said that these recent interim Health Advisories supersede the 2016 Health
+Advisories of 70 ng/L. See: United States Environmental Protection Agency. Lifetime
+Drinking Water Health Advisories for Four Perfluoroalkyl Substances. Fed. Reg. 87(18): 36848-
+36849. June 21, 2022. https://www.govinfo.gov/content/pkg/FR-2022-06-21/pdf/2022-
+13158.pdf
+p. 80, lines 2-4. As shown in the ITRC table (Excel file) cited above, the higher values
+mentioned in this sentence are groundwater remediation levels, not drinking water guidelines.
+Cordner et al. (2019) may have inadvertently referred to them as drinking water guidelines.
+p. 80, lines 11-13 states: “Acknowledging the significant uncertainties and absence of consensus
+with identifying the critical health endpoint to calculate a HBGV and the rapidly evolving
+science, a pragmatic solution is therefore proposed for the derivation of provisional guideline
+values (pGVs).”
+This sentence is misleading because it implies that a provisional guideline cannot be based on
+health effects. WHO has developed many provisional guidelines based on health effects and
+could potentially do so for PFAS as well. In other words, "provisional guideline" does not mean
+"treatment-based guideline.
+It should also be noted that most WHO health-based drinking water guidelines are solely based
+on animal data, and there is little or no health effects information from human studies for many
+contaminants. When human data are available, they are often from highly exposed workers who
+are exposed occupationally. It is rare to have so much data indicating multiple health effects in
+the general population exposure range, along with a comprehensive database of animal toxicity
+studies, as are available for PFOA and PFOS. The fact that existing guidelines are based on a
+variety of health effects reflects the large number of different health endpoints identified in the
+extensive PFOA and PFOS database. The large number of health effects of concern should not
+be used as an excuse not to develop a protective health-based guideline.
+p. 80, lines 9-29, Section 9.2 on derivation of provisional guideline values.
+The provisional guideline values (pGVs) of 0.1 μg/L (100 ng/L) for PFOS and PFOA presented
+in the draft document are not based on health-effects, but rather are stated to be based on
+consideration of occurrence, analytical methods, and treatment achievability for PFAS. It is
+further stated that optimized treatment can reliably reduce PFOA and PFOS levels to “below 0.1
+
+                                                 45
+                                                                                   NJDEP Comments
+
+
+μg/L” and that the pGVs are derived partially based on this achievability of treatment. NJDEP
+disagrees with this statement which implies that lower levels cannot be reliably achieved. Based
+on NJDEP’s experience and understanding, current treatment technologies are capable of
+reducing PFOA and PFOS much lower than 0.1 μg/L (100 ng/L). Furthermore, NJDEP notes
+that the draft background document does not provide any specific calculation or supporting
+evidence as to how or why these specific values of 0.1 μg/L (100 ng/L) were chosen. In
+summary, the derivation of these pGVs appears arbitrary and are not supported by the data
+presented in the draft document and other relevant data reviewed in the comments on Section 8,
+above.
+Additionally, the draft document states that the pGVs of 0.1 ug/L (100 ng/L) correspond to
+greater than 90% removal efficiency of PFAS treatments such as granular activated carbon
+(GAC), ion exchange (IEX), and membrane filtration when considering that the upper-bound
+concentrations of PFAS in drinking water have been in the low μg/L range. However, using the
+upper-bound concentration of PFAS in drinking water to derive a guidance value is not a
+protective approach, especially since health effects information from both humans and
+experimental animal studies clearly supports health-based values far below 0.1 ug/L (100 ng/L).
+The draft document (Section 2.1.2) states that PFOA and PFOS are frequently detected at low
+concentrations (in the nanograms per liter [ng/L] range) in surface and groundwater in many
+countries, and it goes on to cite several studies reporting levels of PFAS in various regions of the
+world. The highest levels mentioned are 0.046 μg/L (46 ng/L) for PFOS and 0.044 μg/L (44
+ng/L) for PFOA, both of which are below 0.1 μg/L (100 ng/L), with the exception of higher
+values reported in the UCMR 3 monitoring study conducted in the U.S. between 2013 and 2015.
+However, although the maximum UCMR3 results for PFOA and PFOS cited are 0.349 μg/L (349
+ng/L) and 7.0 μg/L (7000 ng/L), respectively, the range of average UCMR3 levels for public
+water systems with different types of source water (ground water, ground water under direct
+influence of surface water, surface water, or a combination of these, are much lower), 0.026-
+0.045 μg/L (26-45 ng/L) for PFOA and 0.042-0.199 μg/L (42-199 ng/L) for PFOS.
+Additionally, it is important to recognize that UCMR3 used older Reporting Levels (20 ng/L for
+PFOA; 40 ng/L for PFOS) that are much higher than current USEPA Reporting Levels of 4 ng/L
+for both PFOS and PFOA. Therefore, the UCMR3 data are not comparable to other studies
+reviewed in the WHO draft that used lower Reporting Levels. It is noted that concentrations of
+PFOA and PFOS below the UCMR3 Reporting Levels have been frequently reported throughout
+the U.S. in more recent monitoring and that these lower detections are not included in the
+UCMR3 data. Therefore, the average UCMR3 values presented above do not represent current
+information on the occurrence of PFAS in the U.S.
+Most detections of PFOA and PFOS in source water are < 100 ng/L. If pGVs of 0.1 ug/L (100
+ng/L) are established, a major concern is that the many facilities that use source water with
+PFOA and PFOS levels below 100 ng/L may choose not to take any measures to reduce levels of
+these PFAS in their finished water, even though the health risks of exposure to concentrations
+
+                                                46
+                                                                                  NJDEP Comments
+
+
+below 100 ng/L are clear. Drinking water guidelines that assume the same removal efficiency
+(90%) used to determine the draft pGVs for the lower PFOA and PFOS concentrations that are
+much more common in source water would be far lower than 0.1 µg/L (100 ng/L).
+    7. Additional comments
+NJDEP’s general comments on the draft document, including a summary of the most important
+points from the line-by-line comments above, are as follows:
+
+•   The draft WHO document must undergo extensive revision if it is to be finalized. The
+    current draft includes numerous factual errors and often misquotes/misinterprets the
+    conclusions of its sources. Overall, the draft document appears to inappropriately minimize
+    and/or dismiss numerous conclusions about health effects and drinking water treatment
+    removal of PFAS that are generally accepted by the scientific and technical community.
+
+•   The WHO website states that PFOA, PFOS, and PFAS are being “considered” for a drinking
+    water quality guideline. If WHO does not develop a stringent public health-protective
+    guideline, it would be preferable for WHO to remain silent on this topic instead of finalizing
+    a drinking water quality guideline (provisional or otherwise) for PFAS. The information on
+    treatment removal reviewed above demonstrates that such a stringent public health-protective
+    guideline is readily achievable.
+
+•   The draft document lacks an overview of the fundamental reasons why PFOA, PFOS, and
+    other PFAS differ from other drinking water contaminants and why they are of high concern
+    when present in drinking water. This information is provided in the section on “Additional
+    key points not included in the draft document that should be emphasized by WHO” below.
+
+•   The draft document often emphasizes relatively unimportant details from one or a few
+    studies (which may not be the most important ones) without overall synthesis of the available
+    information on the topic. It is recognized that this document is not intended to provide a
+    comprehensive review of all available studies. However, conclusions, particularly for
+    epidemiological data, must be made based on overall weight of evidence. As such, it is not
+    helpful or informative to summarize a small subset of the available studies of a certain health
+    endpoint without providing an overall conclusion on the weight of evidence.
+
+•   The extent of the human and animal health effects database and the level of certainty for
+    human health effects of PFOA and PFOS far exceed the evidence for many or most of the
+    other contaminants for which WHO has developed drinking water guidelines. The data set
+    for PFOA and PFOS includes numerous health effects studies from the general population,
+    communities with drinking water exposure, and occupationally exposed workers, as well as
+    comprehensive information on animal toxicity. In contrast, the WHO drinking water
+    guidelines for many other contaminants are based solely on animal data. There is little or no
+
+                                                47
+                                                                                  NJDEP Comments
+
+
+    human health effects information for many other contaminants with WHO drinking water
+    guidelines, and even when human data are available, they are often from highly exposed
+    workers, not the general population or impacted communities whose exposures are most
+    relevant to drinking water guidelines.
+
+•   The large number of different health endpoints identified in the extensive PFOA and PFOS
+    database is not a valid reason not to develop protective health-based drinking water
+    guidelines. Rather, the numerous health effects of PFOA and PFOS highlight the need for
+    concern about exposure to PFAS in drinking water and the need for health-based guidelines
+    that are protective for the most sensitive health endpoint(s). There are ample data from both
+    humans and experimental animals to develop a health-based guideline for cancer and non-
+    cancer effects of PFOA and non-cancer effects of PFOS, as has been done by a number of
+    authoritative bodies.
+
+•   Current drinking water treatment technologies are capable of reducing PFOA and PFOS to
+    much lower than 0.1 μg/L (100 ng/L). The draft background document does not provide any
+    specific calculation or supporting evidence as to how or why the treatment-based pGV values
+    of 0.1 μg/L (100 ng/L) were chosen. These pGVs are not supported by the treatment removal
+    and occurrence data presented in the draft document or other relevant data reviewed in the
+    line-by-line comments above. As such, the derivation of these pGVs appears to be arbitrary.
+
+•   WHO’s use of upper-bound concentrations of PFOA and PFOS in drinking water (1 µg/L;
+    1000 ng/L) to derive guidance values based on a certain percent treatment removal (90%) is
+    not a protective approach, especially since health effects data support health-based values far
+    below 0.1 µg/L (100 ng/l). If pGVs of 0.1 ug/L (100 ng/L) are established, a major concern
+    is that the many facilities that use source water with PFOA and PFOS levels below 100 ng/L
+    may choose not to take any measures to reduce levels of these PFAS in their finished
+    drinking water. Drinking water guidelines that assume the same removal efficiency (90%)
+    that was used to determine the draft pGVs for the lower PFOA and PFOS concentrations that
+    are much more common in source water would be far below 0.1 µg/L (100 ng/L).
+
+Additional key points not included in the draft document that should be emphasized by WHO
+are:
+
+•   PFAS differ from other drinking water contaminants because they are persistent,
+    bioaccumulative, and toxic (PBT) chemicals that are soluble in water, and for which drinking
+    water is an important exposure route. These properties distinguish PFAS from other well-
+    known PBT chemicals (such as PCBs and dioxins) that have low water solubility. For other
+    PBT chemicals, drinking water is not an important exposure source; most exposure is
+    through fat in the diet (e.g., meat, dairy) not drinking water.
+
+
+                                                48
+                                                                                  NJDEP Comments
+
+
+•   Due to their long human half-lives (several years), PFOA, PFOS, and other long-chain PFAS
+    bioaccumulate from drinking water to human blood serum. For example, the PFOA level in
+    an individual’s blood serum builds up to more than 100 times the level in the person’s
+    drinking water. Ongoing exposure to even low levels in drinking water dominates exposures
+    from generally prevalent sources (e.g., food/food packaging, consumer products). It takes
+    many years for elevated body burdens to decrease after exposure to contaminated drinking
+    water ends.
+
+•   Exposure to even low levels of PFOA and PFOS in drinking water is of concern because
+    multiple human health effects are observed within the exposure range prevalent in the
+    general population, even without additional exposure from drinking water.
+
+•   PFOA and PFOS also cause multiple types of toxicity in laboratory animals, including at low
+    doses. The toxicological effects in experimental animals (e.g., hepatic, developmental,
+    immunologic, tumorigenic) are generally concordant with the health effects observed in
+    human epidemiology studies. Based on mode of action analysis, toxicological effects in
+    laboratory animals are considered relevant to humans.
+
+•   Infants receive higher exposures than older individuals from contaminated drinking water.
+    This is because: 1) infants (breastfed and formula-fed) ingest more water on a body weight
+    basis than older individuals, and 2) PFOA and PFOS levels are higher in breast milk than in
+    the mother’s drinking water. Serum levels of PFOA and PFOS increase several-fold during
+    the first 6 months after birth, with peak serum PFOA levels in a breastfed infant predicted to
+    be six times higher than in their mother. These higher exposure and serum levels are of
+    particular concern because infants are a sensitive subpopulation for developmental effects of
+    PFOA and PFOS.
+
+•   Relatively small changes in the health parameters associated with PFOA and PFOS in
+    humans are of public health concern. Most epidemiological studies of PFOA and PFOS
+    evaluate changes in the numerical values of the health parameters of interest rather than
+    increased risk of clinically defined abnormal values. However, associations of PFOA and/or
+    PFOS with increased risk of clinically defined abnormal values have been reported for each
+    of the most well-established non-cancer health effects (increased cholesterol, increased ALT,
+    decreased birth weight, decreased response to vaccination). Additionally, even when the
+    number of subjects with clinically abnormal values is not specifically evaluated, an increase
+    in the number of subjects with a clinically abnormal value is expected from the overall
+    change (shift in the distribution curve) in the abnormal direction.
+
+Key conclusions presented in the draft WHO document with which NJDEP disagrees include:
+
+•   NJDEP does not agree with WHO that a detectable increase in human disease is required for
+    use of a health endpoint as the basis for a drinking water guideline. Relevant to this point,
+    WHO (2022) guidance for developing health-based drinking water values states (p. 158) that
+                                                49
+                                                                                  NJDEP Comments
+
+
+    health-based guidelines are established when: "There is credible evidence of occurrence of
+    the chemical in drinking-water, combined with evidence of actual or potential toxicity.” Few
+    if any drinking water guidelines for other chemical contaminants are based on measurable
+    increases in human disease.
+
+•   NJDEP disagrees with WHO that decreased vaccine response associated with PFOA and
+    PFOS should be dismissed from consideration for risk assessment because it is “not clinically
+    relevant.” NJDEP concurs with the conclusions of other authoritative bodies, including
+    EFSA and USEPA, that decreased antibody response to vaccinations linked to PFOA and
+    PFOS is adverse and that it is an appropriate basis for risk assessment. As discussed in detail
+    in the line-by-line comments above, WHO’s statement that increased incidence of infection
+    is not definitively associated with PFOA and PFOS is not a valid reason to dismiss the use of
+    decreased vaccine response as the basis for drinking water guidelines. NJDEP also
+    emphasizes that the lack of an association of PFOA and PFOS with increased incidence of
+    infectious disease has not been established.
+
+•   NJDEP disagrees with WHO’s conclusion that the increased serum levels of the liver enzyme
+    ALT associated with PFOS and PFOA in humans are not adverse because of their “low
+    magnitude” and “lack of associated liver disease.” As discussed in the line-by-line
+    comments above, the increased ALT associated with PFOA and PFOS is indicative of liver
+    damage, an adverse health effect. NJDEP further notes that PFOA was associated with
+    clinically-defined elevated ALT (not just a numerical increase in ALT) in several studies,
+    that relatively small increases in ALT are associated with pathology-confirmed liver disease
+    such as non-alcoholic fatty liver disease, and that authoritative medical groups have
+    concluded that elevated ALT is associated with overall health and mortality.
+
+•   NJDEP disagrees with WHO that differing results in laboratory animal and human studies of
+    the effects of PFOA and PFOS on serum lipids suggest that the increase in cholesterol in
+    humans is not causal. The basis for NJDEP’s conclusion is discussed in line-by-line
+    comments above.
+
+•   NJDEP disagrees with WHO’s general conclusion that the human relevance of adverse health
+    effects reported in animals is uncertain. This WHO conclusion is not scientifically
+    supportable and contradicts the conclusions of all of the authoritative agencies whose reviews
+    were heavily relied upon by WHO (e.g., USEPA, Health Canada, EFSA, ATSDR).
+    Specifically, NJDEP and the authoritative agencies mentioned above disagree with WHO’s
+    premise that PPAR-alpha mediated toxicological effects of PFOA and PFOS (including non-
+    hepatic effects such as developmental effects) are not relevant to humans.
+
+
+
+
+                                                50
+                                                                                 NJDEP Comments
+
+
+•   NJDEP disagrees with WHO’s premise that toxicokinetic differences between humans and
+    animals preclude the development of health-based guidelines based on animal data. All
+    health-based drinking water guidelines based on animal data consider interspecies
+    toxicokinetic differences. Models that consider these interspecies differences have been
+    developed for PFOA and PFOS and have been used in development of toxicity factors and
+    drinking water guidelines for these PFAS.
+
+•   NJDEP disagrees with the conclusion that application of the Hall et al. (2012) criteria
+    indicates that hepatic effects of PFOA and PFOS in laboratory animals are not relevant to
+    human risk; detailed line-by-line comments are provided above. The Hall et al. (2012)
+    criteria’s conclusions about adversity of increased liver weight and hepatocellular
+    hypertrophy assume that these effects may be reversible when exposure to the agent (e.g., a
+    drug) ends. However, these reversibility considerations are not relevant to chronic drinking
+    water guidelines in which exposure is not assumed to end after a certain period of time.
+    Importantly, increased liver weight from short term exposure to PFOA and PFOS has been
+    shown to progress over time to more severe forms of hepatic toxicity.
+
+•   NJDEP disagrees with the WHO conclusion that immunotoxicity caused by PFOA in
+    laboratory animals “usually” occurs only at higher doses that cause decreased food intake
+    and body weight, suggesting indirect effects of PFOA on the immune system. In several
+    studies that included lower doses, PFOA caused immunotoxicity at doses that did not affect
+    food intake or body weight.
+
+•   NJDEP notes that the range of “health-based drinking water values derived by authoritative
+    agencies” of “0.05 to 0.6 µg/L for PFOS and from 0.05 to 0.56 µg/L for PFOA” in the draft
+    document (p. 79, lines 27-32) is not accurate and omits at least two values that are far below
+    the ranges provided. The drinking water guideline of 2 ng/L for the total of PFOA, PFOS,
+    PFNA, and PFHxS established by Denmark in 2021 was not considered in WHO’s ranges of
+    values and is omitted from WHO’s table of health-based drinking water values.
+    Additionally, although the interim Health Advisories established by USEPA in 2022 are
+    mentioned in WHO’s table, they are not considered in the ranges of values in the text and are
+    included only as a footnote to the text.
+
+•   Finally, NJDEP strongly disagrees that a drinking water guideline based on the assumption of
+    90% treatment removal of a very high concentration (1 µg/L; 1000 ng/L) of PFOA or PFOS
+    that rarely occurs in source water is technically supportable or public health-protective.
+    Detailed supporting information is provided above.
+
+
+
+
+                                                51
+

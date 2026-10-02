@@ -1,0 +1,727 @@
+pmc Environ Health Perspect Environ Health Perspect 253 envhper 0330411 EHP Environmental Health Perspectives 0091-6765 1552-9924 American Chemical Society PMC10836585 PMC10836585.1 10836585 10836585 38306197 10.1289/EHP13152 EHP13152 1 Research Determinants of PFOA Serum Half-Life after End of Exposure: A Longitudinal Study on Highly Exposed Subjects in the Veneto Region https://orcid.org/0000-0001-6849-7920 Batzella Erich 
+ 1 
+ Rosato Isabella 
+ 1 
+ Pitter Gisella 
+ 2 
+ Da Re Filippo 
+ 3 
+ Russo Francesca 
+ 3 
+ Canova Cristina 
+ 1 
+ Fletcher Tony 
+ 4 
+
+ 1 
+Unit of Biostatistics, Epidemiology and Public Health, Department of Cardio-Thoraco-Vascular Sciences and Public Health, University of Padova , Padova, Italy 
+ 2 
+Screening Unit, Azienda Zero-Veneto Region , Padova, Italy 
+ 3 
+ Directorate of Prevention, Food Safety, and Veterinary Public Health-Veneto Region , Venice, Italy 
+ 4 
+ London School of Hygiene and Tropical Medicine , London, United Kingdom Address correspondence to Cristina Canova, Unit of Biostatistics, Epidemiology and Public Health, Department of Cardio-Thoraco-Vascular Sciences and Public Health, University of Padova, Via Loredan 18 35100 Padova, Italy. Email: cristina.canova@unipd.it 2 2 2024 2 2024 132 2 454990 027002 12 4 2023 05 1 2024 08 1 2024 25 4 2025 02 02 2024 03 02 2024 29 04 2025 https://ehp.niehs.nih.gov/about-ehp/license EHP is an open-access journal published with support from the National Institute of Environmental Health Sciences, National Institutes of Health. All content is public domain unless otherwise noted. Comment on “Determinants of PFOA Serum Half-Life after End of Exposure: A Longitudinal Study on Highly Exposed Subjects in the Veneto Region” 132 6 14 6 2024 068001 Environmental Health Perspectives PMC11218696 38875023 Response to “Comment on ‘Determinants of PFOA Serum Half-Life after End of Exposure: A Longitudinal Study on Highly Exposed Subjects in the Veneto Region’” 132 6 14 6 2024 068002 Environmental Health Perspectives PMC11218697 38875022 Erratum: “Determinants of PFOA Serum Half-Life after End of Exposure: A Longitudinal Study on Highly Exposed Subjects in the Veneto Region” 133 3-4 25 4 2025 049001 Environmental Health Perspectives 10.1289/EHP17398 PMC12036665 40085763 
+
+## Background:
+ Perfluoroalkyl substances (PFAS) are widely used, ubiquitous, and highly persistent man-made chemicals. Groundwater of a vast area of the Veneto Region (northeastern Italy) was found to be contaminated by PFAS from a manufacturing plant active since the late 1960s. As a result, residents were overexposed to PFAS through drinking water until 2013, mainly to perfluorooctanoic acid (PFOA).
+
+## Objectives:
+ The aim of the present study was to estimate the rates of decline in serum PFOA and their corresponding serum half-lives, while characterizing their determinants.
+
+## Methods:
+ We investigated 5,860 subjects more than 14 years of age who enrolled in the second surveillance round of the regional health surveillance program. Two blood samples were collected between 2017 and 2022 (average time between measurements: 4 years). Serum PFOA excretion rates and half-lives were estimated based on linear mixed effect models, modeling subject-specific serum PFOA concentrations over time and correcting for background concentrations. For modeling determinants of half-life [age, sex, body mass index (BMI), smoking-habit, alcohol consumption, and estimated glomerular filtration rate (eGFR)], we added interaction terms between each covariate and the elapsed time between measurements. Perfluorooctanesulfonate (PFOS) and perfluorohexanesulfonic acid (PFHxS) apparent half-lives were also estimated. A separate analysis was conducted in children ( n = 480 ). All analyses were stratified by sex.
+
+## Results:
+ Median initial serum concentrations of PFOA was 49  ng / mL (range: 0.5–1,090), with a median reduction of 62.45%. The mean estimated PFOA half-life was 2.36 years [95% confidence interval (CI): 2.33, 2.40], shorter in women (2.04; 95% CI: 2.00, 2.08) compared to men (2.83; 95% CI: 2.78, 2.89). Half-lives varied when stratified by some contributing factors, with faster excretion rates in nonsmokers and nonalcohol drinkers (especially in males).
+
+## Conclusions:
+ This study, to our knowledge the largest on PFOA half-life, provides precise estimates in young adults whose exposure via drinking water has largely ceased. For other PFAS, longer half-lives than reported in other studies can be explained by some ongoing exposure to PFAS via other routes. https://doi.org/10.1289/EHP13152 
+
+ pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access yes pmc-prop-olf no pmc-prop-manuscript no pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement yes pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes Conclusions and opinions are those of the individual authors and do not necessarily reflect the policies or views of EHP Publishing or the National Institute of Environmental Health Sciences.
+ Supplemental Material is available online ( https://doi.org/10.1289/EHP13152 ).
+ The authors declare they have no actual or potential competing financial interests.
+ Note to readers with disabilities: 
+ EHP strives to ensure that all journal content is accessible to all readers. However, some figures and Supplemental Material published in EHP articles may not conform to 508 standards due to the complexity of the information being presented. If you need assistance accessing journal content, please contact ehpsubmissions@niehs.nih.gov . Our staff will work with you to assess and meet your accessibility needs within 3 working days.
+
+## Introduction
+ Perfluoroalkyl substances (PFAS) are a group of widely used, ubiquitous, and highly persistent man-made chemicals. 1 Despite the progressive phasing out of several long-chain PFAS from industrial processes, significant concern is still caused by their bioaccumulative potential, and prolonged exposure to PFAS has been linked to several adverse health effects. 2 , 3 
+ Knowledge about PFAS toxicokinetics in humans is limited, as most of the available studies were conducted on animals, while human studies show high variability in the absorption, accumulation, and elimination estimates; these differences among studies reflect the presence of unaccounted determinants associated with PFAS elimination from the human body. 4 
+ An accurate estimation of PFAS half-lives, defined as the time required for the serum concentration to fall by half (given no intake), is fundamental to quantify PFAS persistence in the human body and to investigate PFAS toxicity and bioaccumulation characteristics. 2 Previous studies that reported PFAS half-lives are limited by the presence of relatively small numbers of subjects. 5 – 8 In most of the cases, these studies have provided limited information regarding other potential determinants of PFAS concentrations and rates of excretion from the human body. 9 , 10 The role that individual lifestyles and demographic and physiological characteristics play on PFAS toxicokinetics needs to be further evaluated. 11 
+ Groundwater of an extended area of the Veneto Region (northeastern Italy) was found to be contaminated by PFAS from a manufacturing plant active since the late 1960s. As a result, residents were exposed to PFAS through drinking water until August 2013, when the problem was discovered, and contaminated waterworks were subsequently supplied with charcoal filtration, which led to an abrupt reduction in PFAS concentrations in drinking water. The effectiveness of water treatment continued to improve so that by 2017, a few drinking water samples detected lower levels of perfluorooctanoic acid (PFOA), 12 and, for 2018 and subsequent years, nearly all samples were below detection for all PFAS congeners. 13 Groundwater measurements revealed that the main exposure was to PFOA, with a significant portion ( ∼ 80 % on average) being composed of the linear isomer. A regional health surveillance program was established in 2017 to aid in the prevention, diagnosis, and treatment of chronic disorders that epidemiological studies found may be associated with PFAS exposure. 12 
+ The aim of the present study is to improve knowledge regarding PFAS half-lives by providing an estimate of the rate of decline of PFOA serum concentrations and its corresponding serum half-life in a large Italian cohort of subjects that were exposed to high PFAS concentrations.
+ Moreover, we intend to identify and characterize several factors that may influence PFAS half-life using the information regarding individual characteristics collected through the surveillance plan.
+
+## Methods
+
+## Participants and Study Design
+ A free population-based health surveillance program was offered by the regional health service exclusively to the residents of 30 municipalities (named the “Red Area”), who had been exposed to PFAS via contaminated drinking water for several decades. 12 The recruitment of the first round of screening started on 1 January 2017 by individually contacting the entire resident population living in the contaminated area born between 1951 and 2014 (for whom enrolment has been completed with a participation rate of ∼ 60 % ). A second round of screening, which was planned for all participants adhering to the first-round examination, started in 2020 and is still ongoing. Participants completed an interview questionnaire collecting sociodemographic characteristics, personal health history, and lifestyle habits at both rounds. Nonfasting blood samples were obtained when the participants visited the clinic at the time of each interview. Blood samples were sent to the Local Health Unit laboratory for analyzing clinical biomarkers. Additional blood samples from each individual collected during the interviews were sent to the centralized Regional Environmental Protection Agency, Veneto Region (ARPAV) laboratory for measurement of 12 PFAS.
+ The population investigated in the present study is a subgroup of the surveillance program target population, consisting of subjects who accepted the invitation to provide blood samples in the second surveillance round ( n = 6,346 , around 12% of those recruited in the first round). The data presented are comprehensive and reflective of the information available up to December 2022. Participants below 14 years of age were considered separately from young adults, due to their differences in dilution and excretion patterns, resulting from ongoing growth ( n = 480 ). A further six participants ( < 0.1 % ) with missing information on the selected covariates were excluded, leaving a total of 5,860 subjects included in the analyses.
+ The time interval between the two blood measurements averaged nearly four years. The time interval from the provision of clean water (August 2013) and the first blood sample ranged from 41 to 75 months, with an average of 53 months.
+
+## PFAS Quantification
+ Serum concentrations of twelve PFAS were quantified using high-performance liquid chromatography–tandem mass spectrometry (HPLC-MS/MS) [Prominence UFLC XR 20 (Shimadzu) coupled to API 4000 LC-MS/MS System (Sciex)]: perfluorooctanesulfonate (PFOS), PFOA, perfluorohexanesulfonic acid (PFHxS), perfluorononanoic acid (PFNA), perfluoroheptanoic acid (PFHpA), perfluorobutanesulfonic acid (PFBS), perfluorohexanoic acid (PFHxA), perfluorobutanoic acid (PFBA), perfluoropentanoic acid (PFPeA), perfluorodecanoic acid (PFDeA), perfluoroundecanoic acid (PFUnA), and perfluorododecanoic acid (PFDoA). Chromatographic separation uses ammonium formate buffer and methanol as eluents and Phenomenex Kinetex PS C18 5 cm × 2.1 mm , 2.6 μ m as analytical column. PFAS and isotopically labelled PFAS standards were purchased from Wellington Laboratories Inc. (Guelph, ON, Canada). Method performances allow analytes to be detected as low as 0.1  ng / mL level of detection (LOD) and to be quantified above 0.5  ng / mL level of quantification (LOQ). Recoveries range from 70% to 130% for almost all analytes, with standard deviations of ≤ 20 % . LOQ were determined as the lowest concentration of an analyte, for which the criteria for trueness and precision indicated above were met. Linearity of methods is analyte-specific; for example, PFOA linear range extends up to 500  ng / mL and can be further extended by increasing the dilution factor. Blank and serum fortified samples were analyzed each batch. Concentrations below the LOQ were assigned the LOQ / √ 2 , and we limited our statistical analyses to subjects having a concentration above LOQ at baseline. Based on the percentage of baseline serum PFAS concentrations above the LOQ, each PFAS-specific analysis had different sample sizes: n = 5,859 (99.97%) for PFOA, n = 5,850 (99.78%) for PFOS, and n = 5,765 (98.25%) for PFHxS.
+
+## Half-Life Assessment
+ The true underlying biological half-life can be derived from the rate of decrease in serum concentration if there is no ongoing exposure to PFAS in the population. In that case serum levels would eventually fall to zero over time. However, as in many countries, there has been widespread low-level exposure, and this is reflected in measurements of background serum concentrations obtained from a population residing in another area of Veneto with no known local contamination. 14 This biomonitoring study was conducted in 2016 and involved two randomly selected group of people 20–51 years of age: 257 subjects residing in municipalities in the areas under impact and 250 residing in municipalities in areas at presumed background exposure. The distinction between these areas was based on PFAS contamination data in the water supply system prior to reduction of contamination. Besides being resident in areas unaffected by water contamination within the same Italian Region, individuals’ characteristics, including sex, age, and body mass index (BMI), closely aligned with those of our cohort, ensuring comparability between the two studies. The laboratories in the Ingelido et al. 14 study and our study were different but used the same analytical method. We therefore used their measurements to provide an estimate of background concentrations. In this way, the serum concentrations in the nonexposed background area provide an estimate of the contribution to PFAS concentrations from other sources than the contaminated water affecting this population. For PFOA, these background levels were therefore subtracted from the measured levels before modeling the excretion to allow more valid estimates of the underlying half-life. If, after subtracting the background values, the PFOA concentrations at baseline were less than the background values, that individual was excluded from analyses, as the estimated fall in PFOA would be very uncertain. PFOA concentrations at second measurement lower than LOQ levels after the subtraction were instead replaced with LOQ / √ 2 .
+ In sensitivity analyses, a small number of outliers with very high or low excretion rates [more than three standard deviations (SDs) more or less than the mean] were excluded; secondly, half-life was derived with no correction for background exposure.
+ Serum concentrations for PFOS and PFHxS also decreased over time, allowing for calculation of the apparent half-life, whose estimates can be of interest for understanding the exposure pattern of the Veneto population. For these PFAS, the concentrations in the study population were not so different from the background concentrations, and so the true half-life could not be estimated with enough certainty. 14 
+
+## Covariates
+ Covariates to be included as potential predictors of baseline serum concentration and/or the PFAS half-life were selected from available variables, based on the literature on pharmacokinetics and factors associated with PFAS serum concentrations.
+ We obtained information on age, sex, smoking habits, BMI (calculated using self-reported weight and height), alcohol consumption, estimated glomerular filtration rate (eGFR) and educational level (which can be considered as a proxy of socioeconomic status).
+ Age was categorized into three groups: [(14–20), (20–30), and (30 and above)]; BMI was classified as normal weight ( < 24.9 ) and overweight ( ≥ 25 ); alcohol consumption was categorized in 0, 1–2, 3 + alcohol units (AU) per week; smoking status was subdivided into never-smokers vs. previous smokers or current smokers; education level was categorized in low (middle school or lower), medium (high school), and high (university degree or higher) educational level; eGFR was calculated according to the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation 15 and categorized into < 90 mL / min and ≥ 90 mL / min .
+
+## Statistical Analysis
+ Exposure to PFAS-contaminated public water dramatically fell around autumn 2013. 12 For estimating the elapsed time between the drop in contaminated drinking water to the first serum sampling, we used August 2013 as the start date. For estimating half-lives, the elapsed time between two serum measurements was used (see Yu et al. 8 ).
+ A linear mixed-effect model was used to derive the excretion rate and half-life by modeling subject-specific serum PFOA concentrations over time. This modeling approach was selected due to its ability to account for individual variability, handle repeated measures, and estimate the overall mean and individual-specific excretion rates (from which half-lives are derived). Before the half-life estimation, the background concentration of PFOA ( 1.64  ng / mL , 2.04  ng / mL for males and 1.27  ng / mL for females 14 ) was subtracted, and individuals with adjusted concentrations below that value at first measurement were excluded from the analysis ( n = 90 , n = 29 males and n = 61 females). PFOA concentrations at second measurement lower than LOQ values after the subtraction were instead replaced with LOQ / √ 2 values ( n = 216 , n = 37 males and n = 179 females).
+ The following covariates were considered in the prediction model for modeling the excretion rate k : age, sex, BMI, smoking habits, alcohol consumption, eGFR, and education level.
+ Specific steps followed the approach described in Li et al. 16 as follows:
+ L n ( C i , j ) = α i + k i t i , j + β X i + ε i , j where C i , j is the serum PFOA concentration for individual i and sampling year j in nanograms per milliliter, α i is the subject-specific intercept, k i is the subject-specific slope, t i , j is the elapsed years between “1 August 2013” (implementation of charcoal filters) and the blood sample collection, β is the vector of fixed effect coefficients, X i is a vector of fixed covariates for individual i at the first surveillance round, and ε i , j is the random error term.
+ The subject-specific intercept α i , the subject-specific slope k i , and the random error term ε i , j were modeled as random with normal distribution; others were treated as fixed effects.
+ The half-life is derived from the elimination rate constant [ ln ( 2 ) / − k i ]. Individual values of k i were predicted using the best linear unbiased prediction (BLUP) method, and converted to half-lives [ ln ( 2 ) / − k i ]. The BLUP provides estimates of the random effects from a mixed model and is the standard method, providing unbiased predictions while minimizing variance compared to other procedures. 17 Summary half-life values were presented as a mean half-life (calculated from the mean elimination rate constant k ). The 95% confidence interval (CI) for mean ( k i ) from the regression was used to derive the CI for the half-life by converting as for the mean. Also presented is the median half-life (the median value of the individually modeled half-life values and corresponding 5th and 95th percentiles). Individual half-life estimates were plotted after excluding the extreme and positive individual values of k (“indicating an increase”).
+ For modeling determinants of half-life, we added interaction terms between each covariate at baseline and the time variable. Since sex and age had a strong effect on elimination, their interaction term with elapsed time was kept in following analyses. For other covariates, interaction terms were added separately to baseline models, to determine whether k and thus half-life depended on the covariate. Likelihood ratios tests were used to assess the significance of the interaction terms.
+ Half-lives were also stratified by PFOA quartile concentration at the first surveillance round, computed in the total population.
+ For educational level, interaction with elapsed time was assessed for the subgroup aged over 30, as they were old enough to have earned a higher than college degree.
+ To investigate how pregnancies could impact the rate of PFAS excretion, the half-lives were stratified based on whether individuals had undergone childbirth between the two rounds. However, this analysis was only possible for a subset of the female population, comprising those for whom pregnancy information was accessible (1,492 out of 3,006).
+ In addition, we evaluated whether having the same smoking (nonsmokers in both surveys, smokers in both surveys, or change in habits) or drinking habit (drinking more than 3 AU per week in both surveys, never drinkers in both surveys, or change in habits) have an influence on elimination rate by calculating stratified half-lives in each selected group.
+ Since sex was consistently a major predictor, all analyses have also been estimated in males and females separately.
+
+## Sensitivity analyses.
+ Several sensitivity analyses were carried out to assess the robustness of the results:
+ Sensitivity 1: excluding outliers, being subjects with change in ln(PFOA) concentrations between the two measurements outside ± 3 SD ( n = 113 , with change in ln(PFOA) below − 0.58 or above 2.55).
+ Sensitivity 2: excluding subjects having concentrations below background levels in the second measurement ( n = 425 ).
+ Sensitivity 3: estimating apparent half-lives using measured concentrations, without the correction for background levels.
+
+ In addition, apparent half-life with no correction for background exposure was also estimated for PFOS and PFHxS, which are likely overestimates of true half-life, as the concentrations were similar in the contaminated and noncontaminated areas, so we would assume there was significant ongoing unmeasured exposure.
+ Furthermore, PFOA half-life was estimated in children below 14 years of age, applying the main modeling approach and all sensitivity analyses carried out for subjects aged more than 14 years old. Factors influencing the half-life of PFOA, such as smoking habits, alcohol consumption, and educational level, could not be adequately evaluated within this youthful demographic.
+ Analyses were performed using the R version 4.0 (R Development Core Team) and STATA version 13.0 (StataCorp LLC) statistical software. We employed the “mixed” command to derive excretion rates with STATA. Results with estimated p -values of < 0.05 were considered statistically significant.
+
+## Ethics
+ The study was conducted according to the guidelines of the Declaration of Helsinki and approved by the Regional (Veneto Region) Ethics Committee (24 May 2017; prot. no. 203638). Informed consent was obtained from all subjects involved in the study.
+
+## Results
+ The analyzed population consisted of 5,860 adolescent and young adult participants (49% of which were males) with a median age of 28 years at baseline (range from 14 to 52 years), with median time between the two blood measurements around 4 years ( Tables 1 and 2 ). Table 1 and Table 2 show baseline summary statistics of all variables used for stratifying half-lives.
+ Table 1
+ Descriptive statistics of continuous characteristics at baseline in subjects ≥ 14 years old, stratified by sex ( n = 5,860 ). Veneto region, Italy (2017–2022).
+
+ Total
+ Males ( n = 2,854 )
+ Females ( n = 3,006 )
+
+ Characteristic
+
+ Mean ± S D 
+
+ Median (IQR)
+
+ Mean ± S D 
+
+ Median (IQR)
+
+ Mean ± S D 
+
+ Median (IQR)
+
+ Age (years)
+
+ 27.6 ± 9.1 
+
+ 28 (19–36)
+
+ 27.6 ± 9.2 
+
+ 28 (19–36)
+
+ 27.5 ± 9.1 
+
+ 27 (19–35)
+
+ BMI ( kg / m 2 )
+
+ 23.3 ± 4.1 
+
+ 22.8 (20.5–25.4)
+
+ 24.0 ± 3.9 
+
+ 23.6 (21.4–25.9)
+
+ 22.7 ± 4.2 
+
+ 21.8 (19.7–24.5)
+
+ T 1 – T 0 (months) a 
+
+ 46.7 ± 4.4 
+
+ 46.7 (44.0–49.4)
+
+ 46.5 ± 4.3 
+
+ 46.6 (43.9–49.2)
+
+ 46.9 ± 4.4 
+
+ 46.9 (44.1–49.5)
+
+ Time-lag (months) b 
+
+ 52.9 ± 7.2 
+
+ 52.0 (48.0–55.0)
+
+ 53.1 ± 7.3 
+
+ 52.0 (48.0–55.0)
+
+ 52.8 ± 70.0 
+
+ 52.0 (48.0–55.0)
+
+ Note: BMI, body mass index; IQR, interquartile range; SD, standard deviation.
+
+ a 
+
+ Time interval between the two measurements, in months.
+
+ b 
+
+ Interval between 1 August 2013 and the first measurement.
+ Table 2
+ Descriptive statistics of categorical characteristics at baseline in subjects ≥ 14 years old, stratified by sex ( n = 5,860 ). Veneto region, Italy (2017–2022).
+
+ Characteristic
+ Total
+ Males ( n = 2,854 )
+ Females ( n = 3,006 )
+
+ n (%)
+ n (%)
+ n (%)
+
+ Age group
+
+   < 20 
+ 1,560 (26.6)
+ 760 (26.6)
+ 800 (26.6)
+
+  20–30
+ 1,696 (28.9)
+ 827 (29.0)
+ 869 (28.9)
+
+   ≥ 30 
+ 2,604 (44.4)
+ 1,267 (44.4)
+ 1,337 (44.5)
+
+ BMI
+
+  Normal weight
+ 4,215 (71.9)
+ 1,880 (65.9)
+ 2,335 (77.7)
+
+  Overweight
+ 1,645 (28.1)
+ 974 (34.1)
+ 671 (22.3)
+
+ Smoke
+
+  No
+ 4,518 (77.1)
+ 2,055 (72.0)
+ 2,463 (81.9)
+
+  Yes
+ 1,342 (22.9)
+ 799 (28.0)
+ 543 (18.1)
+
+ Alcohol (AU per week)
+
+  None
+ 2,014 (34.4)
+ 700 (24.5)
+ 1,314 (43.7)
+
+  (1–3)
+ 1,997 (34.1)
+ 842 (29.5)
+ 1,155 (38.4)
+
+   3 + 
+ 1,849 (31.5)
+ 1,312 (46.0)
+ 537 (17.9)
+
+ eGFR
+
+   < 90 
+ 648 (11.1)
+ 316 (11.1)
+ 332 (11.0)
+
+   ≥ 90 
+ 5,212 (88.9)
+ 2,538 (88.9)
+ 2,674 (88.9)
+
+ Note: AU, alcohol unit; BMI, body mass index; eGFR, estimated glomerular filtration rate.
+ Median serum concentrations at baseline were 49  ng / mL for PFOA (range: 0.5–1,090), 4.3  ng / mL (range: 0.5–142) for PFOS, and 4.3  ng / mL (range: 0.5–109.2) for PFHxS, with median declines of 62.45%, 30.23%, and 39.53%, respectively (Table S1). Baseline serum PFOA concentrations were higher compared to those detected in the general population 14 and were substantially higher in males than females (Table S1). Conversely, PFOS and PFHxS median concentrations were quite similar to those measured at background level (a little lower than 5.84  ng / mL for PFOS) and moderately higher than background ( 2.49  ng / mL ) for PFHxS 14 and were also greater in men than women (Table S1). The background data samples were collected in 2015 and 2016, which could account for the median PFOS levels being a little higher in the background comparison group.
+ The mean estimated PFOA half-life was 2.36 years (95% CI: 2.33, 2.40). Half-life differed by sex, with more rapid elimination in women (2.04 years; 95% CI: 2.00, 2.08) compared to men (2.83 years; 95% CI: 2.78, 2.89) ( Table 3 ).
+ Table 3
+ Estimated half-lives of PFOA in subjects ≥ 14 years old, stratified by sex. Veneto region, Italy (2017–2022).
+
+ Total
+ Males
+ Females
+
+ Estimated PFOA half-life
+ Mean (95% CI)
+ Median (5th, 95th percentile)
+ Mean (95% CI)
+ Median (5th, 95th percentile)
+ Mean (95% CI)
+ Median (5th, 95th percentile)
+
+ Main analysis a ( n = 5,769 )
+ 2.36 (2.33, 2.40)
+ 2.60 (1.13, 7.42)
+ 2.83 (2.78, 2.89)
+ 3.01 (1.50, 8.12)
+ 2.04 (2.00, 2.08)
+ 2.25 (0.99, 6.10)
+
+ Sensitivity 1 b ( n = 5,656 )
+ 2.41 (2.38, 2.44)
+ 2.50 (1.60, 3.63)
+ 2.78 (2.73, 2.83)
+ 2.61 (1.80, 3.76)
+ 2.15 (2.11, 2.19)
+ 2.39 (1.51, 3.47)
+
+ Sensitivity 2 c ( n = 5,344 )
+ 2.59 (2.56, 2.63)
+ 2.69 (1.42, 7.76)
+ 2.97 (2.92, 3.02)
+ 3.05 (1.67, 8.18)
+ 2.29 (2.25, 2.33)
+ 2.38 (1.27, 6.76)
+
+ Sensitivity 3 d ( n = 5,859 )
+ 2.71 (2.67, 2.74)
+ 2.83 (1.45, 8.40)
+ 3.15 (3.09, 3.21)
+ 3.21 (1.78, 8.97)
+ 2.39 (2.35, 2.43)
+ 2.51 (1.31, 7.26)
+
+ Note: CI, confidence interval; LOQ, level of quantification; PFOA, perfluorooctanoic acid.
+
+ a 
+
+ Estimated half-lives on background adjusted data, excluding first measurements below background levels and replacing second measurements below LOQ with LOQ / √ 2 .
+
+ b 
+
+ Estimated half-lives on background adjusted data, excluding first measurements below background levels, replacing second measurements below LOQ with LOQ / √ 2 and excluding outlier reductions.
+
+ c 
+
+ Estimated half-lives on background adjusted data, excluding first and second measurements below background levels.
+
+ d 
+
+ Estimated half-lives on original data.
+ In each case, the median value was a little higher than the corresponding mean. This reflects the fact that the distribution of half-lives estimates was left skewed with the median thus being greater than the mean.
+ PFOA estimated half-lives after excluding outlier reductions between the two measurements were very similar to the main estimates; when excluding subjects having the second measurements below median background levels, instead of replacing, estimated half-lives where slightly higher than those obtained with the main approach; the estimates without the corrections for background levels were clearly higher than those obtained with the main approach ( Table 3 ).
+ There was a wide range in individual estimated half-life values, with the 5th to 95th percentiles ranging from 1 to 7 years. The distributions for males and females are shown in Figure 1 , with the female distribution shifted toward shorter half-lives.
+ Figure 1.
+ Distribution of half-lives (years) estimates in subjects ≥ 14 years old, stratified by sex ( n = 2,806 males; n = 2,941 females) (Table S1). Veneto Region, Italy (2017–2022). Half-lives more than 13 years (equivalent excretion constants < 0.05 ) and < 1 year (equivalent excretion constants > 0.75 ) were excluded from the histogram.
+
+ Figure 1 is a stacked histogram, plotting frequency, ranging from 0 to 200 in increments of 50 (y-axis) across half-life (years), ranging from 5 to 10 in increments of 5 (x-axis) for sex, including females and males. Figure 2 displays estimated mean half-lives in males and females, stratified by each of the covariates included in the models via an interaction term with the elapsed time. Patterns differ between males and females for several covariates, and so the results are presented separately by sex (complete information and the results for both sexes combined are in Table S2).
+ Figure 2.
+ Stratified half-lives in males (A) and females (B). Mean half-lives and corresponding 95% CI in subjects ≥ 14 years old, estimated adding the interaction of age with elapsed time and one by one an interaction term between each of the other covariate and elapsed time ( n = 2,825 males; n = 2,944 females) (Table S2). Veneto Region, Italy (2017–2022). Note: AU, alcohol units; CI, confidence interval.
+
+ Figrues 2A and 2B are forest plots titled Males and Females, plotting Age, including less than 20, 20 to 30, and greater than or equal to 30; body mass index, including normalweight and overweight; Smoke, including no and yes; Alcohol (A U per week), including none, 1 to 3, and 3 plus; and estimated glomerular filtration rate, including greater than or equal to 90 and less than 90 (y-axis) across half-life (years), ranging from 2.40 to 3.20 in increments of 1.20 and 1.70 to 2.50 in increments of 1.20 (x-axis) for mean (95 percent confidence intervals), respectively. Three covariates—age, smoking habit, and alcohol consumption—showed evidence of an interaction with half-life, but in each case, the effect was more evident among males than females ( Figure 2 ; Table S2). The age group effect was notably different in males and females. Half-lives were much longer in males aged over 20, and conversely the half-life was shorter in women over 30 years old. Half-lives were 5.4% longer in male smokers than nonsmokers, with a suggestion of a contrast in females, in the same direction but not reaching significance. Alcohol intake was associated with longer half-life in the highest category of alcohol consumption for males only (10.7% higher compared to those who did not drink alcohol). The other covariates examined, BMI and eGFR, showed no association with half-life.
+ Half-lives stratified by quartiles of baseline PFOA serum concentrations showed a clear trend of increasing half-life as baseline serum level increased (Table S3). PFOA half-life went from 1.92 years (95% CI: 1.86, 1.98) for those in the first quartile of baseline exposure to 2.85 (95% CI: 2.79, 2.92) in the highest. This was present in both sexes with increases from first to last quartile of 34.1% in males and 26.4% in females.
+ Educational level at baseline showed no association with average half-life ( p -value for interaction > 0.05 ), showing a nonmonotonic pattern when its interaction with elapsed time was included in the model for subjects age 30 and above, both in the total and in males and females separately (Table S4).
+ Among women with available pregnancy information, constituting 49.6% of the total, the average estimated half-life of PFOA was 2.39 (95% CI: 2.34, 2.45). Notably, this half-life was lower for individuals who underwent childbirth during the follow-up period (1.78 years, 95% CI: 1.71, 1.85) compared to those who did not experience childbirth during this timeframe (2.54 years, 95% CI: 2.47, 2.60) (Table S5).
+ When exploring different scenarios based on changes in smoking habit or alcohol consumption, some results were strengthened, showing a more polarized effect compared to estimated half-lives stratified for the baseline characteristic (Table S6). Estimated half-lives for those who smoked at both time points ( n = 799 , 13.8%; half-life: 2.45, 95% CI: 2.36, 2.55) and did not smoke at either round ( n = 4,189 , 72.6%; half-life: 2.35, 95% CI: 2.31, 2.38) were very close to those of smokers and nonsmokers at baseline. Subjects drinking more than 3 AU per week in both rounds ( n = 1,054 ; 18.3%) showed longer half-life (2.51; 95% CI: 2.42, 2.69) than those drinking more the 3 AU per week at baseline; never drinkers’ ( n = 1,106 ; 19.2%) half-life (2.32; 95% CI: 2.25, 2.39) was similar to those who were nondrinkers at baseline. Again, the effect of alcohol consumption was clearly stronger in males (those in the highest drinks consumption category in both rounds had 12.2% longer half-life compared to always never drinkers).
+ The results for the other two compounds (with original serum PFAS levels) are listed in Table S6. PFOS levels fell, and the mean derived half-life for this population was 7.45 years (95% CI: 7.24, 7.69), and for PFHxS, the mean half-life was 5.39 years (95% CI: 5.28, 5.51). Median estimated half-lives were 7.52 and 5.63 years for PFOS and PFHxS, respectively. Estimated half-lives of PFOS and PFHxS were higher in males than females (Table S7).
+ When analyzing participants below 14 years of age, the observed median decreases in serum PFAS concentrations were similar to those observed in older subjects (67.80% for PFOA, 30.43% for PFOS, and 45.00% for PFHxS), and this pattern was notably more uniform between sexes (Table S8). The estimated average half-life of serum PFOA for the whole subgroup was 1.64 (95% CI: 1.58, 1.70) years, 1.66 (95% CI: 1.58, 1.75) years for males and 1.61 (95% CI: 1.53, 1.70) years for females (Table S9).
+
+## Discussion
+ In this study, we explored temporal changes of serum PFAS concentrations using longitudinal measures obtained from a large sample of adolescents and young adults participating in the Regional Health Surveillance Plan. PFOA baseline levels were highly elevated compared to the general Veneto population. Therefore, for PFOA, any ongoing exposure is very low compared to the past exposure, making this an ideal population to estimate half-life. For PFOS and PFHxS, median baseline concentrations were similar to those measured at background level; however, serum levels fell over the period of study, indicating that intake had fallen for these two compounds. As exposure to contaminated drinking water stopped only quite recently, participants still have elevated levels of PFOA in their blood as a consequence. We could assess a number of features for their association with half-life and the most marked contrast was for sex, with more rapid elimination rates and shorter average half-life in women. Other factors associated with PFOA half-life are different between the two sexes. Smoking and alcohol consumption were associated with longer half-life, more clearly in males, and half-lives increased with age group for males while decreasing for females.
+ The average half-life of serum PFOA was 2.36 years, which is within the range of values reported in other studies conducted on adults and children in communities with past contaminated drinking water. The estimated PFOA elimination half-lives in the blood of these residents after provision of clean water ranged from 2.3 to 3.26 years. 5 , 7 , 10 , 16 , 18 , 19 Among occupational cohorts, the estimated PFOA half-lives ranged from 1.48 to 3.8 years, 7 , 20 , 21 while studies conducted on generally exposed communities with reducing but ongoing exposure have longer halving times for PFOA (for example from 9.6 to 10.19 years in Ding et al. 6 and Lin et al. 22 ). Recently, using a hierarchical Bayesian approach and combining data from multiple studies, Chiu et al. reported a posterior median estimate of PFOA half-life of 3.14 years (range: 2.69–3.73 years). 23 However, the findings presented by Chiu et al. 23 are from studies with different age ranges, and some did not adjust for background exposure, so they are not directly comparable. Reasons for different results across studies are likely driven by contextual factors, such as different age and sex distributions or different time since stopping exposure, different duration of follow up, and differing degrees of ongoing background exposure, as well as by random error. Also, prior studies are much smaller, and their estimates are relatively imprecise compared to ours. In our study, the confidence interval is narrow, and estimates of PFOA half-life in our study are quite consistent across the multiple sensitivity approaches. The half-life would be overestimated by 0.35 of a year, when using the original concentrations not correcting for background exposure. While we cannot rule out the possibility of ongoing residual exposure to PFAS through local food contamination, it’s important to note that the consumption of contaminated local food has demonstrated a limited impact on overall exposure when compared to that of drinking water; the latter has been the primary exposure source before the implementation of charcoal filters. 24 
+ Moreover, as we know that a predominance of the linear isomer could lead to longer half-lives than those reported in other studies, 25 our estimated PFOA half-lives might have been influenced by this aspect.
+ In our study, females’ estimated half-lives were consistently lower compared to males for all the investigated PFAS. The presence of sex-specific differences in PFOA, PFOS, and PFHxS half-life estimates has previously been reported. 10 , 16 A lower estimated half-life in females can be partly attributed to the presence of additional excretion routes, such as menstruation, during the premenopausal period. 26 , 27 Additionally, women’s body burden can decrease due to pregnancies and breastfeeding, leading to reduced maternal serum concentrations. 27 – 30 However, these sex differences may only be partially explained by the presence of additional excretion routes, and further studies are warranted to explore other potential causes. 31 Other sex-specific mechanisms of PFAS elimination could be related to hormonal regulation of renal reabsorption of PFAS. 22 , 32 , 33 
+ By age, the shorter half-life in males for teenagers may be explained by dilution related to more rapid growth relative to older males of the PFAS already present in their bodies. The reduced half-life observed in women in the [ 30 + ] group could be explained by the added effect of pregnancies being more frequent in that age group. Information about breastfeeding was not gathered within our population, while data about deliveries that occurred between the two measurements were only available for some participants. Nevertheless, based on the information available for 1,492 out of 3,006 women (49.6%), the estimated PFOA half-life among 213 women who experienced childbirth during follow-up was lower compared to women who did not undergo childbirth during this period. These findings underscore the importance of childbirth as an additional excretion route for female subjects of reproductive age.
+ We also found a relationship between reported smoking habit and alcohol consumption on PFAS elimination, more markedly in males. These findings are novel, as the associations between smoking or alcohol and PFAS half-life have not been investigated in prior studies. The longer half-life in drinkers could be explained by an impact of alcohol use increasing the risk for abnormal liver enzyme activities, 34 and impacted liver function could influence PFAS storage in the liver. 35 Moreover, the presence of liver injury, in the form of lipid accumulation, can reduce glomerular filtration rate, resulting in reduced PFAS excretion and increased PFAS serum levels and half-life. 36 The mechanism involved in the association between smoking and PFAS elimination has not been investigated yet, although smoke could influence metabolic pathways in a way similar to that proposed for alcohol, being associated with increased triglycerides and reduced high-density lipoprotein–cholesterol. 37 In addition, previous cross-sectional studies have demonstrated that levels of PFAS were significantly higher in smokers than in nonsmokers. 38 , 39 These associations may have other explanations such as nondrinkers and nonsmokers tending to have different lifestyles with dietary and exercise regimes that might facilitate increased excretion. It is also possible that dietary PFAS exposure including water intake could vary between people with differing smoking habits and alcohol consumption. Indeed, these factors have been linked to specific dietary changes, like increased consumption of processed foods, 40 which have been identified as predictors of higher serum PFAS concentrations. 41 
+ When investigating different scenarios based on changes between the two rounds in smoking habit and alcohol consumption, contrasting consistent smokers or drinkers with consistent abstainers showed larger effect estimates than the classifications based on the baseline survey alone.
+ Furthermore, there was an association between longer half-life and higher initial PFOA levels, showing a clear trend of increasing half-life as baseline quartile of initial serum concentration increased. Of course, there will be a tendency for people with more rapid excretion having lower baseline concentrations due to relatively more excretion between the end of exposure and the first sample. Whether there is an effect of concentration in addition on excretion rate cannot be distinguished in this study.
+ There was no evidence of different half-life between BMI or educational level groups, in line with previous findings for BMI. 16 , 19 Half-life has been reported as varying with renal function with eGFR ≥ 90 mL / min contributing to a higher amount of urinary excretion and a shorter half-life. 10 In this study, half-life was slightly shorter for those with eGFR ≥ 90 mL / min , but differences were small and not statistically significant.
+ The estimated apparent half-lives for PFOS and PFHxS were 7.45 and 5.39 years, respectively, and were higher in males than females. From similar studies, the estimated half-life ranged from 2.73 to 5.4 years for PFOS and from 2.84 to 8.5 years for PFHxS. 7 , 10 , 16 , 21 Our half-lives, which are mostly longer than those reported in other studies, might be explained by ongoing background exposure to PFAS via other routes, as indicated by the fact that their concentrations were similar in the contaminated and noncontaminated areas at the time of the contamination discovery. 14 Thus, they describe the trends in this population but are not reliable estimates of the intrinsic half-lives for these compounds.
+ With respect to the analysis conducted on children and adolescents, the estimated PFOA half-life in subjects below 14 years of age is lower compared to that of young adults. In this subgroup, there were no discernible differences in half-life between male and female subjects; this observation likely highlights the limited representation of additional excretion routes, such as menstruation or pregnancy, among female subjects in this group (who had a median age at baseline of 9 years); these findings contribute to the limited available literature on PFOA toxicokinetics in children and adolescents.
+ An important limitation for generalizing to other populations is the relatively young population and limited age range of the analyzed population. This work will be extended to other age groups in the future as the surveillance program started from younger cohorts followed by older persons, both in the first and the second surveillance rounds.
+ Another limitation of this study is having only two measurements; therefore, it is not possible to investigate whether excretion rate varies with time since stopping, and the observation period is restricted to the 4 to 8 year window since ending exposure. 42 Also, data regarding whether any of the participants in the study were blood donors, which might have led to a reduction in their body burden, was not gathered. However, considering that the occurrence of blood donors among adults in Veneto is typically low ( ∼ 2.5 % ), it is unlikely that this factor would have a substantial impact on the results.
+ Conversely, the major strength is the large sample size, so this study provides rather precise estimates of average half-life for young adults, both males and females. Being able to adjust for potential low-level ongoing exposure by using data from a comparable unexposed population means that we can be confident that the result is an unbiassed estimate of the biological half-life for PFOA. However, a limitation of this approach is that information of PFAS body burden in the unexposed population was available only for the years 2015–2016 and not for the time when the study population was investigated; as a consequence, we were unable to account for temporal trends of background exposure, which could have impacted our half-life estimates.
+ Furthermore, this study allowed the use of rarely available information to explore other PFOA half-life predictors, which has led to two novel findings related to smoking and drinking habits.
+ The present study showed that serum concentrations of PFOA, PFOS, and PFHxS in a highly exposed community with detectable levels of PFAS have decreased significantly over time. These findings are consistent with a reduced environmental exposure to PFAS, especially PFOA, since the supply of charcoal filters in 2013. For PFOA, water was the dominant route of exposure and is currently much lower than before. This study, the largest on PFOA half-life, offers great potential for looking at interactions affecting half-life, increasing the available information regarding PFAS elimination and its association with different lifestyle habits, although further research on the topic is warranted.
+ This study, conducted in a population of young adults with prior high exposure via contaminated drinking water, spanned ∼ 4 years and featured a considerably larger sample size compared to previously published research on PFOA half-life. It therefore provides a more precise estimate of the half-life for PFOA. The shorter half-life observed in females is to be expected given the additional reduction of body burden due to menstruation, pregnancy, and lactation. For PFOS and PFHxS, their longer half-lives than those reported in other studies can be attributed to ongoing exposure via other routes after the drinking water supply was cleaned up. PFOA half-life tended to decrease with age (for females), with no effect of BMI or eGFR. The novel significant findings of cigarette-smoking and alcohol consumption being associated with longer half-life in males would need replication in future studies.
+
+## Supplementary Material
+
+## Acknowledgments
+ The authors gratefully acknowledge the contributions of Elena Narne (Screening Unit, Azienda Zero), Rinaldo Zolin (Local Health Unit 8 Berica), Annamaria Bettega (Local Health Unit 8 Berica), Katia Grego (Local Health Unit 9 Scaligera), Dario Gregori (University of Padova), Tiziano Bonato (University of Padova), and Francesca Zanon (ARPAV, Regional Environmental Protection Agency, Veneto Region).
+ REGIONE VENETO (IT) through “Consorzio per la Ricerca Sanitaria – CORIS” (DGRV n. 1894, December 29 2020) supported this research with a grant to Cristina Canova.
+ The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+## References
+ 1.
+ Glüge 
+ J , Scheringer 
+ M , Cousins 
+ IT , DeWitt 
+ JC , Goldenman 
+ G , Herzke 
+ D , et al. 
+ 2020 . An overview of the uses of per- and polyfluoroalkyl substances (PFAS) . Environ Sci Process Impacts 
+ 22 ( 12 ): 2345 – 2373 , PMID: 33125022, 10.1039/d0em00291g . 33125022 
+ PMC7784712 2.
+ Fenton 
+ SE , Ducatman 
+ A , Boobis 
+ A , DeWitt 
+ JC , Lau 
+ C , Ng 
+ C , et al. 
+ 2021 . Per‐ and polyfluoroalkyl substance toxicity and human health review: current state of knowledge and strategies for informing future research . Environ Toxicol Chem 
+ 40 ( 3 ): 606 – 630 , PMID: 33017053, 10.1002/etc.4890 . 33017053 
+ PMC7906952 3.
+ Sunderland 
+ EM , Hu 
+ XC , Dassuncao 
+ C , Tokranov 
+ AK , Wagner 
+ CC , Allen 
+ JG . 2019 . A review of the pathways of human exposure to poly- and perfluoroalkyl substances (PFASs) and present understanding of health effects . J Expo Sci Environ Epidemiol 
+ 29 ( 2 ): 131 – 147 , PMID: 30470793, 10.1038/s41370-018-0094-1 . 30470793 
+ PMC6380916 4.
+ Chou 
+ WC , Lin 
+ Z . 2020 . Probabilistic human health risk assessment of perfluorooctane sulfonate (PFOS) by integrating in vitro, in vivo toxicity, and human epidemiological studies using a bayesian-based dose-response assessment coupled with physiologically based pharmacokinetic (PBPK) modeling approach . Environ Int 
+ 137 : 105581 , PMID: 32087483, 10.1016/j.envint.2020.105581 . 32087483 
+ 5.
+ Bartell 
+ SM , Calafat 
+ AM , Lyu 
+ C , Kato 
+ K , Ryan 
+ PB , Steenland 
+ K . 2010 . Rate of decline in serum PFOA concentrations after granular activated carbon filtration at two public water systems in Ohio and West Virginia . Environ Health Perspect 
+ 118 ( 2 ): 222 – 228 , PMID: 20123620, 10.1289/ehp.0901252 . 20123620 
+ PMC2831921 6.
+ Ding 
+ N , Harlow 
+ SD , Batterman 
+ S , Mukherjee 
+ B , Park 
+ SK . 2020 . Longitudinal trends in perfluoroalkyl and polyfluoroalkyl substances among multiethnic midlife women from 1999 to 2011: the study of women’s health across the nation . Environ Int 
+ 135 : 105381 , PMID: 31841808, 10.1016/j.envint.2019.105381 . 31841808 
+ PMC7374929 7.
+ Xu 
+ Y , Fletcher 
+ T , Pineda 
+ D , Lindh 
+ CH , Nilsson 
+ C , Glynn 
+ A , et al. 
+ 2020 . Serum half-lives for short- and long-chain perfluoroalkyl acids after ceasing exposure from drinking water contaminated by firefighting foam . Environ Health Perspect 
+ 128 ( 7 ): 77004 , PMID: 32648786, 10.1289/EHP6785 . 32648786 
+ PMC7351026 8.
+ Yu 
+ CH , Weisel 
+ CP , Alimokhtari 
+ S , Georgopoulos 
+ PG , Fan 
+ ZT . 2021 . Biomonitoring: a tool to assess PFNA body burdens and evaluate the effectiveness of drinking water intervention for communities in New Jersey . Int J Hyg Environ Health 
+ 235 : 113757 , PMID: 33962122, 10.1016/j.ijheh.2021.113757 . 33962122 
+ 9.
+ Glynn 
+ A , Kotova 
+ N , Dahlgren 
+ E , Lindh 
+ C , Jakobsson 
+ K , Gyllenhammar 
+ I , et al. 
+ 2020 . Determinants of serum concentrations of perfluoroalkyl acids (PFAAs) in school children and the contribution of low-level PFAA-contaminated drinking water . Environ Sci Process Impacts 
+ 22 ( 4 ): 930 – 944 , PMID: 32040098, 10.1039/c9em00497a . 32040098 
+ 10.
+ Li 
+ Y , Andersson 
+ A , Xu 
+ Y , Pineda 
+ D , Nilsson 
+ CA , Lindh 
+ CH , et al. 
+ 2022 . Determinants of serum half-lives for linear and branched perfluoroalkyl substances after long-term high exposure—a study in Ronneby, Sweden . Environ Int 
+ 163 : 107198 , PMID: 35447437, 10.1016/j.envint.2022.107198 . 35447437 
+ 11.
+ Nyström 
+ J , Benskin 
+ JP , Plassmann 
+ M , Sandblom 
+ O , Glynn 
+ A , Lampa 
+ E , et al. 
+ 2022 . Demographic, life-style and physiological determinants of serum per- and polyfluoroalkyl substance (PFAS) concentrations in a national cross-sectional survey of Swedish adolescents . Environ Res 
+ 208 : 112674 , PMID: 34998808, 10.1016/j.envres.2022.112674 . 34998808 
+ 12.
+ Pitter 
+ G , Da Re 
+ F , Canova 
+ C , Barbieri 
+ G , Zare Jeddi 
+ M , Daprà 
+ F , et al. 
+ 2020 . Serum levels of perfluoroalkyl substances (PFAS) in adolescents and young adults exposed to contaminated drinking water in the Veneto region, Italy: a cross-sectional study based on a health surveillance program . Environ Health Perspect 
+ 128 ( 2 ): 27007 , PMID: 32068468, 10.1289/EHP5337 . 32068468 
+ PMC7064325 13.
+ Veneto Region . 2022 . Monitoraggio della contaminazione nell’acqua destinata al consumo umano erogata da rete acquedottistica . https://www.regione.veneto.it/documents/10793/13605098/2022_08_report_rete.pdf/7f31c8e4-85d1-4404-9673-3eb315ef9842 [accessed 1 December 2023 ]. 14.
+ Ingelido 
+ AM , Abballe 
+ A , Gemma 
+ S , Dellatte 
+ E , Iacovella 
+ N , De Angelis 
+ G , et al. 
+ 2018 . Biomonitoring of perfluorinated compounds in adults exposed to contaminated drinking water in the Veneto region, Italy . Environ Int 
+ 110 : 149 – 159 , PMID: 29108835, 10.1016/j.envint.2017.10.026 . 29108835 
+ 15.
+ Levey 
+ AS , Stevens 
+ LA , Schmid 
+ CH , Zhang 
+ Y , Castro 
+ AF 
+ III , Feldman 
+ HI , et al. 
+ 2009 . A new equation to estimate glomerular filtration rate . Ann Intern Med 
+ 150 ( 9 ): 604 – 612 . 10.7326/0003-4819-150-9-200905050-00006 . 19414839 
+ PMC2763564 16.
+ Li 
+ Y , Fletcher 
+ T , Mucs 
+ D , Scott 
+ K , Lindh 
+ CH , Tallving 
+ P , et al. 
+ 2018 . Half-lives of PFOS, PFHxS and PFOA after end of exposure to contaminated drinking water . Occup Environ Med 
+ 75 ( 1 ): 46 – 51 , PMID: 29133598, 10.1136/oemed-2017-104651 . 29133598 
+ PMC5749314 17.
+ Galwey 
+ NW . 2014 . Introduction to Mixed Modelling: Beyond Regression and Analysis of Variance . 1st ed . Hoboken, NJ : Wiley . 18.
+ Brede 
+ E , Wilhelm 
+ M , Göen 
+ T , Müller 
+ J , Rauchfuss 
+ K , Kraft 
+ M , et al. 
+ 2010 . Two-year follow-up biomonitoring pilot study of residents’ and controls’ PFC plasma levels after PFOA reduction in public water system in Arnsberg, Germany . Int J Hyg Environ Health 
+ 213 ( 3 ): 217 – 223 , PMID: 20488749, 10.1016/j.ijheh.2010.03.007 . 20488749 
+ 19.
+ Worley 
+ RR , Moore 
+ SM , Tierney 
+ BC , Ye 
+ X , Calafat 
+ AM , Campbell 
+ S , et al. 
+ 2017 . Per- and polyfluoroalkyl substances in human serum and urine samples from a residentially exposed community . Environ Int 
+ 106 : 135 – 143 , PMID: 28645013, 10.1016/j.envint.2017.06.007 . 28645013 
+ PMC5673082 20.
+ Gomis 
+ MI , Vestergren 
+ R , Nilsson 
+ H , Cousins 
+ IT . 2016 . Contribution of direct and indirect exposure to human serum concentrations of perfluorooctanoic acid in an occupationally exposed group of ski waxers . Environ Sci Technol 
+ 50 ( 13 ): 7037 – 7046 , PMID: 27304840, 10.1021/acs.est.6b01477 . 27304840 
+ 21.
+ Olsen 
+ GW , Zobel 
+ LR . 2007 . Assessment of lipid, hepatic, and thyroid parameters with serum perfluorooctanoate (PFOA) concentrations in fluorochemical production workers . Int Arch Occup Environ Health 
+ 81 ( 2 ): 231 – 246 , PMID: 17605032, 10.1007/s00420-007-0213-0 . 17605032 
+ 22.
+ Lin 
+ P-ID , Cardenas 
+ A , Hauser 
+ R , Gold 
+ DR , Kleinman 
+ KP , Hivert 
+ M-F , et al. 
+ 2021 . Temporal trends of concentrations of per- and polyfluoroalkyl substances among adults with overweight and obesity in the United States: results from the diabetes prevention program and NHANES . Environ Int 
+ 157 : 106789 , PMID: 34333293, 10.1016/j.envint.2021.106789 . 34333293 
+ PMC8490287 23.
+ Chiu 
+ WA , Lynch 
+ MT , Lay 
+ CR , Antezana 
+ A , Malek 
+ P , Sokolinski 
+ S , et al. 
+ 2022 . Bayesian estimation of human population toxicokinetics of PFOA, PFOS, PFHxS, and PFNA from studies of contaminated drinking water . Environ Health Perspect 
+ 130 ( 12 ): 127001 , PMID: 36454223, 10.1289/EHP10103 . 36454223 
+ PMC9714558 24.
+ Veneto Region . 2019 . PFAS food contamination . https://www.regione.veneto.it/web/sanita/pfas-alimenti-esposti [accessed 1 December 2023 ]. 25.
+ Zhang 
+ Y , Beesoon 
+ S , Zhu 
+ L , Martin 
+ JW . 2013 . Biomonitoring of perfluoroalkyl acids in human urine and estimates of biological half-life . Environ Sci Technol 
+ 47 ( 18 ): 10619 – 10627 , PMID: 23980546, 10.1021/es401905e . 23980546 
+ 26.
+ Brantsæter 
+ AL , Whitworth 
+ KW , Ydersbond 
+ TA , Haug 
+ LS , Haugen 
+ M , Knutsen 
+ HK , et al. 
+ 2013 . Determinants of plasma concentrations of perfluoroalkyl substances in pregnant Norwegian women . Environ Int 
+ 54 : 74 – 84 , PMID: 23419425, 10.1016/j.envint.2012.12.014 . 23419425 
+ PMC3605228 27.
+ Wong 
+ F , MacLeod 
+ M , Mueller 
+ JF , Cousins 
+ IT . 2014 . Enhanced elimination of perfluorooctane sulfonic acid by menstruating women: evidence from population-based pharmacokinetic modeling . Environ Sci Technol 
+ 48 ( 15 ): 8807 – 8814 , PMID: 24943117, 10.1021/es500796y . 24943117 
+ 28.
+ Criswell 
+ RL , Wang 
+ Y , Christensen 
+ B , Botelho 
+ JC , Calafat 
+ AM , Peterson 
+ LA , et al. 
+ 2023 . Concentrations of Per- and polyfluoroalkyl substances in paired maternal plasma and human milk in the New Hampshire birth cohort . Environ Sci Technol 
+ 57 ( 1 ): 463 – 472 , PMID: 36574487, 10.1021/acs.est.2c05555 . 36574487 
+ PMC9837617 29.
+ Mondal 
+ D , Weldon 
+ RH , Armstrong 
+ BG , Gibson 
+ LJ , Lopez-Espinosa 
+ M-J , Shin 
+ H-M , et al. 
+ 2014 . Breastfeeding: a potential excretion route for mothers and implications for infant exposure to perfluoroalkyl acids . Environ Health Perspect 
+ 122 ( 2 ): 187 – 192 , PMID: 24280536, 10.1289/ehp.1306613 . 24280536 
+ PMC3915259 30.
+ van Beijsterveldt 
+ IALP , van Zelst 
+ BD , de Fluiter 
+ KS , van den Berg 
+ SAA , van der Steen 
+ M , Hokken-Koelega 
+ ACS . 2022 . Poly- and perfluoroalkyl substances (PFAS) exposure through infant feeding in early life . Environ Int 
+ 164 : 107274 , PMID: 35524998, 10.1016/j.envint.2022.107274 . 35524998 
+ 31.
+ Jain 
+ RB , Ducatman 
+ A . 2022 . Serum concentrations of selected perfluoroalkyl substances for US females compared to males as they age . Sci Total Environ 
+ 842 : 156891 , PMID: 35753482, 10.1016/j.scitotenv.2022.156891 . 35753482 
+ 32.
+ Kudo 
+ N , Kawashima 
+ Y . 2003 . Toxicity and toxicokinetics of perfluorooctanoic acid in humans and animals . J Toxicol Sci 
+ 28 ( 2 ): 49 – 57 , PMID: 12820537, 10.2131/jts.28.49 . 12820537 
+ 33.
+ Nakagawa 
+ H , Hirata 
+ T , Terada 
+ T , Jutabha 
+ P , Miura 
+ D , Harada 
+ KH , et al. 
+ 2008 . Roles of organic anion transporters in the renal excretion of perfluorooctanoic acid . Basic Clin Pharmacol Toxicol 
+ 103 ( 1 ): 1 – 8 , PMID: 18373647, 10.1111/j.1742-7843.2007.00155.x . 18373647 
+ 34.
+ Agarwal 
+ S , Fulgoni 
+ VL , Lieberman 
+ HR . 2015 . Assessing alcohol intake & its dose-dependent effects on liver enzymes by 24-h recall and questionnaire using NHANES 2001–2010 data . Nutr J 
+ 15 ( 1 ): 62 , 10.1186/s12937-016-0180-y . PMC4917983 27334005 35.
+ Darrow 
+ LA , Groth 
+ AC , Winquist 
+ A , Shin 
+ HM , Bartell 
+ SM , Steenland 
+ K . 2016 . Modeled perfluorooctanoic acid (PFOA) exposure and liver function in a Mid-Ohio valley community . Environ Health Perspect 
+ 124 ( 8 ): 1227 – 1233 , 10.1289/ehp.1510391 . 26978841 
+ PMC4977053 36.
+ Jin 
+ R , McConnell 
+ R , Catherine 
+ C , Xu 
+ S , Walker 
+ DI , Stratakis 
+ N , et al. 
+ 2020 . Perfluoroalkyl substances and severity of nonalcoholic fatty liver in children: an untargeted metabolomics approach . Environ Int 
+ 134 : 105220 , PMID: 31744629, 10.1016/j.envint.2019.105220 . 31744629 
+ PMC6944061 37.
+ Cena 
+ H , Fonte 
+ ML , Turconi 
+ G . 2011 . Relationship between smoking and metabolic syndrome . Nutr Rev 
+ 69 ( 12 ): 745 – 753 , PMID: 22133198, 10.1111/j.1753-4887.2011.00446.x . 22133198 
+ 38.
+ Cho 
+ CR , Lam 
+ NH , Cho 
+ BM , Kannan 
+ K , Cho 
+ HS . 2015 . Concentration and correlations of perfluoroalkyl substances in whole blood among subjects from three different geographical areas in Korea . Sci Total Environ 
+ 512–513 : 397 – 405 , PMID: 25638654, 10.1016/j.scitotenv.2015.01.070 . 25638654 
+ 39.
+ Min 
+ JY , Lee 
+ KJ , Park 
+ JB , Min 
+ KB . 2012 . Perfluorooctanoic acid exposure is associated with elevated homocysteine and hypertension in US adults . Occup Environ Med 
+ 69 ( 9 ): 658 – 662 , PMID: 22652006, 10.1136/oemed-2011-100288 . 22652006 
+ PMC3426376 40.
+ Moreno-Gómez 
+ C , Romaguera-Bosch 
+ D , Tauler-Riera 
+ P , Bennasar-Veny 
+ M , Pericas-Beltran 
+ J , Martinez-Andreu 
+ S , et al. 
+ 2012 . Clustering of lifestyle factors in Spanish university students: the relationship between smoking, alcohol consumption, physical activity and diet quality . Public Health Nutr 
+ 15 ( 11 ): 2131 – 2139 , PMID: 22314203, 10.1017/S1368980012000080 . 22314203 
+ PMC10271441 41.
+ Seshasayee 
+ SM , Rifas-Shiman 
+ SL , Chavarro 
+ JE , Carwile 
+ JL , Lin 
+ P-ID , Calafat 
+ AM , et al. 
+ 2021 . Dietary patterns and PFAS plasma concentrations in childhood: Project Viva, USA . Environ Int 
+ 151 : 106415 , PMID: 33706127, 10.1016/j.envint.2021.106415 . 33706127 
+ PMC7979513 42.
+ Nilsson 
+ S , Smurthwaite 
+ K , Aylward 
+ LL , Kay 
+ M , Toms 
+ LM , King 
+ L , et al. 
+ 2022 . Serum concentration trends and apparent half-lives of per- and polyfluoroalkyl substances (PFAS) in Australian firefighters . Int J Hyg Environ Health 
+ 246 : 114040 , PMID: 36162311, 10.1016/j.ijheh.2022.114040 . 36162311

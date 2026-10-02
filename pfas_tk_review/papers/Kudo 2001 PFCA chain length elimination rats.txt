@@ -1,0 +1,575 @@
+                       Chemico-Biological Interactions 134 (2001) 203– 216
+                                                                     www.elsevier.com/locate/chembiont
+
+
+
+
+     Comparison of the elimination between
+ perfluorinated fatty acids with different carbon
+               chain length in rats
+           Naomi Kudo *, Erika Suzuki, Masanori Katakura,
+           Kohtaro Ohmori, Rie Noshiro, Yoichi Kawashima
+Faculty of Pharmaceutical Sciences, Josai Uni6ersity, Keyakidai 1 -1, Sakado, Saitama 350 -0295, Japan
+
+                          Received 5 October 2000; accepted 9 January 2001
+
+
+
+
+Abstract
+
+   Elimination in urine and feces was compared between four perfluorinated fatty acids
+(PFCAs) with different carbon chain length. In male rats, perfluoroheptanoic acid (PFHA)
+was rapidly eliminated in urine with the proportion of 92% of the dose being eliminated
+within 120 h after an intraperitoneal injection. Perfluorooctanoic acid (PFOA), pe-
+rfluorononanoic acid (PFNA) and perfluorodecanoic acid (PFDA) was eliminated in urine
+with the proportions of 55, 2.0 and 0.2% of the dose, respectively. By contrast, four PFCAs
+were eliminated in feces with the proportion of less than 5% of the dose within 120 h after
+an injection. In female rats, the proportions of PFOA and PFNA eliminated in urine within
+120 h were 80% and 51% of the dose, respectively, which were significantly higher compared
+with those in male rats. There was the tendency that PFCA with longer carbon chain length
+is less eliminated in urine in both male and female rats. Fecal elimination of PFCAs was not
+different between PFCAs in female rats and comparable to those in male rats. The rates of
+biliary excretion of PFCAs in male rats were slower than those in female rats. Sex-related
+difference in urinary elimination of PFOA was abolished when male rats had been castrated.
+On the contrary, treatment with testosterone suppressed the elimination of PFOA in urine in
+both castrated male rats and female rats. The effect of testosterone was in a time- and
+dose-dependent manner. These results suggest that PFCAs are distinguished by their carbon
+
+
+
+  Abbre6iations: PFCA, perfluorinated fatty acid; PFDA, perfluorodecanoic acid; PFHA, Perfluorohep-
+tanoic acid; PHNA, perfluorooctanoic acid; PHNA, perfluorononanoic acid.
+  * Corresponding author. Tel.: + 81-492-717676; fax: + 81-492-717984.
+  E-mail address: naokudo@josai.ac.jp (N. Kudo).
+
+0009-2797/01/$ - see front matter © 2001 Elsevier Science Ireland Ltd. All rights reserved.
+PII: S0009-2797(01)00155-7
+204             N. Kudo et al. / Chemico-Biological Interactions 134 (2001) 203–216
+
+chain length by a renal excretion system, which is regulated by testosterone. © 2001 Elsevier
+Science Ireland Ltd. All rights reserved.
+
+Keywords: Perfluorinated fatty acids; Urinary elimination; Fecal elimination; Carbon chain length;
+Sex-related difference
+
+
+
+1. Introduction
+
+   Perfluorinated fatty acids (PFCAs) are fatty acid derivatives in which all hy-
+drogen atoms attached to carbon atoms are substituted by fluorine. These chemi-
+cals were widely utilized as anti-wetting agents, plasticizers, corrosion inhibitors
+and fire extinguishers [1,2].
+   Perfluorooctanoic acid (PFOA) and perfluorodecanoic acid (PFDA) are known
+as peroxisome proliferators that induce peroxisome proliferation with various
+peroxisomal enzymes [3 – 6] as well as a series of mitochondrial, microsomal and
+cytosolic enzymes and proteins involved in lipid metabolism in rodent [5–14]. In
+addition, these PFCAs showed various toxic effects on biological systems; accu-
+mulation of triglyceride in liver [15 –18], uncoupling of mitochondrial respiratory
+chain [19] and reduction of the level of thyroid hormone in circulation [20,21].
+There is a significant sex-related difference in the effects of PFOA; upon the
+repeated administration, PFOA markedly induced peroxisomal b-oxidation [22],
+1-acylglycerophosphocholine acyltransferase [22], acyl-CoA hydrolase [22],
+stearoyl-CoA desaturase [23], and carnitine acetyltransferase [24] in the livers of
+male rats, while little induction was observed in female rats. The striking differ-
+ence was explained by rapid elimination of PFOA in urine in female rats com-
+pared to male rats [25 – 27]. As for the other PFCAs such as PFDA, however,
+sex-related difference had not been well characterized. In the previous study, we
+have extensively compared the potency of the induction of peroxisomal b-oxida-
+tion between various PFCAs having 7-10 carbon atoms and between male and
+female rats [28]. The results demonstrated that PFCA with longer carbon chain
+length was more potent inducer of peroxisomal b-oxidation [28]. Interestingly,
+hepatic concentration of perfluorononanoic acid (PFNA) was significantly differ-
+ent between male and female rats after repeated administration of PFNA, as
+observed in PFOA [28]. There was a significant relationship between the activity
+of peroxisomal b-oxidation and hepatic concentrations of PFCAs irrespective of
+number of carbon atoms and sex of rats [28]. These facts raised two questions;
+(1) what is a key determinant of hepatic concentrations of PFCAs; and (2) why
+sex-related difference was not observed in all PFCAs. To answer these questions,
+it is necessary to clarify elimination route and rate of various PFCAs in male
+and female rats, which must lead to better understanding the toxicity of these
+PFCAs. In the present study, we demonstrated that PFCAs having less carbon
+atoms were more quickly excreted into urine, resulting in lower concentrations in
+serum and liver. Moreover, sex-related difference was observed not only in
+PFOA but also in other PFCAs.
+                 N. Kudo et al. / Chemico-Biological Interactions 134 (2001) 203–216   205
+
+
+2. Materials and methods
+
+2.1. Materials
+
+  Perfluoroheptanoic acid (PFHA), PFOA and PFDA were purchased from
+Aldrich Japan (Tokyo, Japan); PFNA was from Lancaster Synthesis (Lancashire,
+UK). All reagents were of analytical grade. 3-Bromoacetyl-7-methoxycoumarin
+(BrAMC) was synthesized as described previously [29].
+
+2.2. Animals
+
+   Male and female Wistar rats of 5 weeks old were purchased from SLC (Hama-
+matsu, Japan). After acclimatization for 1 week, rats were intraperitoneally admin-
+istered with PFHA, PFOA, PFNA or PFDA that were dissolved into propylene
+glycol: water (1:1, v/v) at a dose of 20 mg/ml/kg body weight. Rats were individu-
+ally placed in metabolic cages, and urine and feces were collected every 12 h up to
+5 days.
+   Some of male rats were castrated at 3 weeks old, and 2 weeks after the castration,
+the castrated rats were subcutenously injected with testosterone propionate with
+corn oil as a vehicle (1 ml/kg body weight) at doses as indicated once a day for 4
+days. Female rats of 6 weeks old were treated with testosterone propionate as
+described above. These rats were intraperitoneally administered with PFOA 24 h
+after the final treatment of testosterone, and urine samples were collected for 24 h
+in metabolic cages.
+   For the collection of bile, the common bile duct was cannulated with PE10
+tubing under anesthesia with Nembutal. Rats were then intravenously injected with
+PFHA, PFOA, PHNA or PFDA that were dissolved in serum (2 ml/kg body
+weight) obtained from rats of the same sex at a dose of 25 mg/kg body weight and
+placed in Bollman gauges. Bile samples were collected every 30 min up to 5 h after
+the injection, weighed, and the amounts of PFCA were determined.
+   To compare the rate of urinary excretion rates of various PFCAs, rats were
+anesthetized by intraperitoneal injection of 25% (w/v) solution of urethane, and
+femoral vein was cannulated with SP45 tubing. Then rats were placed in Bollman
+gauges and continuously infused with 10% (w/v) mannitol in 0.9% (w/v) NaCl at a
+rate of 0.1 ml/min during experiments. Two hours after starting infusion, rats were
+intreavenously injected with PFHA, PFOA, PHNA or PFDA dissolved in serum as
+described above at a dose of 25 mg/kg body weight. Urine samples were collected
+every 10 min (1.0 – 2.0 ml of urine).
+
+2.3. Determination of PFCAs
+
+  Feces were weighed and then homogenized with nine volumes of water. PFCA
+was extracted with ethyl acetate: acetone (1:1, v/v) from an aliquot of fecal
+homogenates, urine or serum samples as an ion pair with tetrabutylammonium as
+described previously [29]. For the determination of PFNA and PFDA, a known
+206            N. Kudo et al. / Chemico-Biological Interactions 134 (2001) 203–216
+
+
+amount of PFHA was added as an internal standard, and the known amounts of
+perfluorohexanoic acid and PFDA were added as internal standards for the
+measurement of PFOA and PFHA, respectively. The extract was taken to dryness
+with N2 stream and to the residue was added the 0.2% solution of BrAMC in
+acetone to obtain 3-acetyl-7-methoxycoumarin derivative of PFCA. The mixture
+was incubated at 70°C for 25 min followed by cooling at − 20°C for 2 h. The
+reaction mixture was filtered through glass-wool filter and applied to HPLC with a
+reverse phase column (Wakosil-II 3C18, 4.6 mm ID× 50 mm, Wako Pure Chemi-
+cals, Osaka, Japan). The mixture of acetonitrile and water (150:50, v/v, for PFOA
+and PFNA or 140:60, for PFHA and PFDA, respectively) was used for a mobile
+phase. The peaks of PFCAs were detected by a fluorescent detector (Shimadzu,
+RF-10AXL) at 316 nm of excitation and 419 nm of emission.
+
+2.4. Statistical analyses
+
+   Analysis of variance was used to test the significance of differences between four
+PFCAs and between male, female, castrated male, castrated male treated with
+testosterone and testosterone-treated female. Where differences were significant, the
+statistical significance between any two means was determined using Shèffe’s
+multiple range test. Statistical significance between male and female rats was
+analyzed by Student’s t-test or Welch’s test after F-test for two means.
+
+
+
+3. Results
+
+3.1. Comparison between 6arious PFCAs of urinary and fecal elimination in male
+and female rats
+
+   The amounts of urinary elimination were compared between PFHA, PFOA,
+PFNA and PFDA in male and female rats (Fig. 1(A –B)). In male rats, PFHA was
+rapidly eliminated in urine, 92% of the dose being eliminated within 120 h (Fig.
+1(A)). PFOA was moderately eliminated in urine with 55% of the dose being
+eliminated in urine. In contrast to PFHA and PFOA, PFNA and PFDA were
+hardly eliminated in urine with 2.0 and 0.2% of the dose being eliminated within
+120 h after the administration, respectively. These results indicate that PFCA
+having shorter carbon chain length is more quickly eliminated in urine. Although
+similar tendency was observed in female rats (Fig. 1(B)), female rats eliminated
+PFOA and PFNA in urine significantly faster than did male rats. In contrast to
+urinary elimination, all PFCAs were slowly eliminated in feces (Fig. 1(C –D)).
+There was a tendency that PFCAs with longer carbon chain length is more rapidly
+eliminated in feces in both male and female rats, but the difference in the
+elimination with regard to carbon chain length was not significant in female rats. It
+is noteworthy that fecal elimination was a major route of the elimination of PFDA
+in both male and female rats.
+                 N. Kudo et al. / Chemico-Biological Interactions 134 (2001) 203–216                 207
+
+
+3.2. Concentrations of PFCAs in serum and li6er
+
+   Fig. 2 demonstrates concentrations of PFCAs in serum and livers 5 days after
+dosing. In male rats, significant differences were observed between PFCAs, with a
+tendency that PFCA with longer carbon chain length is higher in serum (Fig. 2(A)).
+In female rats, serum concentrations of PFOA and PFNA were significantly lower
+than those in male rats (Fig. 2(B)). Such differences were also observed in hepatic
+concentrations of PFCAs (Fig. 2(C –D)), suggesting that PFCA, which is hardly
+eliminated in urine, highly remains in the liver and circulation. Assuming that
+blood volume is 1/12 of the body weight of rat, total recovery of the PFCA in
+blood, liver, urine and feces 5 days after an injection were calculated to be 93, 95,
+64, 78, 74, 57, 76 and 78% in male and female rats for PFHA, PFOA, PFNA and
+PFDA, respectively.
+
+
+
+
+Fig. 1. Comparison between various PFCAs of elimination into urine and feces. Wistar rats of 6 weeks
+old were intraperitoneally administered with a PFCA at a dose of 20 mg/kg body weight (A and C, male
+rats; B and D, female rats). The rats were placed in Bolleman gauges, and urine samples (A – B) and feces
+(C – D) were collected every 12 h. , PFHA; , PFOA; , PFNA; , PFDA. Values are expressed as
+percent of the dose and are means 9 S.D. for three rats. Statistical analyses were performed on the data
+at 120 h. a–d, differences between PFCAs are statistically significant without a common superscript
+(PB 0.05). *, difference between male and female rats was statistically significant (P B 0.05).
+208              N. Kudo et al. / Chemico-Biological Interactions 134 (2001) 203–216
+
+
+
+
+Fig. 2. Concentrations of PFCAs in serum and livers of rats after an intraperitoneal injection. Male (A,
+C) and female (B, D) rats were administered with a PFCA as described in Fig. 1. Blood samples (A – B)
+were collected and livers (C–D) were isolated 5 days after the injection. Values are means 9 S.D. for
+three rats. a–b, differences between PFCAs are statistically significant without a common superscript
+(PB 0.05). *, difference between male and female rats was statistically significant (P B 0.05).
+
+
+3.3. Comparison of the rates of urinary and biliary excretion of PFCAs
+
+   To rule out the possibility that the different rates of absorption from peritoneal
+cavity are responsible for the difference in urinary elimination between PFCAs,
+PFCAs were intravenously injected to rats. In addition, as shown in Fig. 1(A –B),
+urinary excretion rates of some PFCAs were too fast to estimate the difference in
+excretion rates between PFCAs and between male and female rats by collecting
+urine samples with 12 h interval. Urinary excretion rates, therefore, were compared
+between PFCAs under the condition that urination was enhanced by mannitol
+infusion (Fig. 3). Rats were continuously infused with 10% (w/v) mannitol/0.9%
+(w/v) NaCl solution to collect appropriate amounts of urine during 10 min. Urinary
+excretion rates of PFOA and PFNA were considerably higher in female rats than
+those in male rats (Fig. 3(B – C)). Urinary excretion rate of PFHA was also higher
+in female rats than in male rats (Fig. 3(A)). In contrast to other PFCA, sex-related
+difference was not observed in urinary excretion rate of PFDA; the rates in both
+sexes were extremely low (Fig. 3(D)). In female rats, PFHA was more rapidly
+excreted than was PFOA (Fig. 3(A –B)).
+                N. Kudo et al. / Chemico-Biological Interactions 134 (2001) 203–216             209
+
+
+   Next, the rates of biliary excretion of PFCAs were determined, since there is a
+possibility that slow rates of fecal elimination of PFCAs are due to re-absorption of
+biliary-excreted PFCAs in intestine. PFCA with longer carbon chain length was
+excreted more rapidly in male rats, although the differences were not significant in
+female rats (Fig. 4). Biliary excretion rates of all PFCAs were significantly faster in
+female rats than in male rats.
+
+3.4. Effects of castration and testosterone treatment on urinary elimination of
+PFOA
+
+   Male rats of 3 weeks old were castrated, and urinary elimination of PFOA was
+determined at 6 weeks old. The suppression of urinary elimination of PFOA by
+treatment of castrated male rats with testosterone was observed in a dose-depen-
+dent manner (Fig. 5(A)). At least daily treatment for 3 days was required for a
+significant suppression (Fig. 5(B)). Effects of testosterone were compared between
+castrated male rats and female rats (Fig. 6). Castrated rats eliminated 72% of the
+dosed PFOA within 24 h, the value being the same as that of female rats. By
+contrast, treatment of castrated male rats with testosterone significantly decreased
+the amount of PFOA excreted into urine; the level was significantly less than that
+of normal male rats. Although the effect of testosterone was observed in female rats
+as well, testosterone was less effective with regard to the suppression of urinary
+
+
+
+
+Fig. 3. Urinary excretion rates of various PFCAs Femoral vein of male ( ) and female () rats was
+cannulated and continuously infused with 10% mannitol/0.9% NaCl at a rate of 0.1 ml/min for 2 h. The
+rats were then intravenously injected with PFHA (A), PFOA (B), PFNA (C) or PFDA (D) dissolved in
+rat serum at a dose of 25 mg/kg body weight. Urine was collected every 10 min up to 200 min. Data
+represent means of two rats.
+210              N. Kudo et al. / Chemico-Biological Interactions 134 (2001) 203–216
+
+
+
+
+Fig. 4. Biliary excretion rates of PFCAs in rats PFCA was dissolved in rat serum and intravenously
+injected (25 mg/kg body weight) to male (A) and female (B) rats. Bile samples were collected from bile
+duct through a cannula every 30 min. , PFHA; , PFOA; ", PFNA; , PFDA. Values represent
+percent of dose and are means 9 S.D. for three or four rats. a – b, differences between PFCAs are
+statistically significant without a common superscript (PB 0.05). *, difference between male and female
+rats was statistically significant (PB0.05).
+
+
+elimination of PFOA in female rats than in castrated male rats. Namely, longer
+time of the treatment was required to reduce the amount of PFOA excreted into
+urine in female rats. The effect of castration was also observed when 6 week-old
+rats were castrated, where 75% of the dosed PFOA was eliminated in urine
+within 24 h (Kudo et al., unpublished data).
+
+
+
+4. Discussion
+
+4.1. Difference in urinary excretion rates of 6arious PFCAs
+
+   The present study demonstrated that PFCA having longer carbon chain length
+was more slowly eliminated in urine. That is, PFNA was excreted into urine slower
+than PFOA but faster than PFDA, while the rate of urinary excretion of PFHA
+was faster than that of PFOA in male rats (Fig. 3). Our present results were in
+accordance with the previous findings of Vanden Heuvel et al. [27,30] who showed
+that urinary excretion of PFOA is higher than that of PFDA using radiolabeled
+compound. The concentrations in serum and livers were lower where PFCA was
+more rapidly excreted (Fig. 2). Accordingly, urinary elimination is thought to be a
+key determinant for persistence of PFCA in the bodies of rats. Involvement of
+metabolic changes of PFCAs in the different degree of accumulation between
+PFCAs can be excluded, since PFCAs are thought to be metabolically inert
+[3,27,30]. The percentages of the recovery in liver, serum, urine and feces were lower
+in PFOA, PFNA and PFDA. It is plausible that these PFCAs distributed to other
+                 N. Kudo et al. / Chemico-Biological Interactions 134 (2001) 203–216                 211
+
+
+organs as well, although we did not determine PFCA concentrations in tissues other
+than liver.
+
+4.2. Fecal and biliary excretion of PFCAs
+
+   The amounts of PFCA eliminated in feces within 120 h were 2–5% of the dose.
+There was a tendency that PFCA with longer carbon chain length was more
+eliminated in feces, which was observed with biliary excretion of PFCAs (Fig. 4),
+although differences in the amounts in both feces and bile between PFCAs were not
+significant in female rats. Feces must become a major route of elimination when
+PFCA was hardly eliminated in urine as was observed with PFNA in male rats and
+PFDA in both sexes. The rates of biliary excretion were not significantly different
+from those of fecal elimination for all PFCAs, although these data cannot be
+directly compared because the experimental conditions were not the same in these
+experiments. These results, therefore, confirmed that the key determinant of the
+hepatic and serum concentrations of PFCAs was urinary elimination. For longer
+period after an administration, however, entero-hepatic circulation plays a crucial
+role in the elimination of PFCA. Johnson et al. showed that feeding of cholestyra-
+mine to male rats facilitated fecal elimination of PFOA [31], suggesting that
+entero-hepatic circulation is responsible for rapid clearance of PFOA for longer
+periods of experiment. Biliary excretion rates in female rats were significantly higher
+than those in male rats (Fig. 4). It is of interest that female rats excrete PFOA faster
+
+
+
+
+Fig. 5. Time- and dose-dependent effects of testosterone on urinary elimination of PFOA in castrated
+male rats. Male Wistar rats were castrated at the age of 3 weeks old. Two weeks after the castration, the
+rats were administered with testosterone propionate daily for 4 days at indicated doses (A), or
+administered with testosterone propionate at the dose of 10 mg/kg body weight for indicated periods (B).
+Rats were intraperitoneally injected with PFOA (20 mg/kg body weight) 24 h after the final testosterone
+treatment, and urine samples were collected for 24 h. The values are means 9 S.D. for three to five rats.
+a – c, differences between each two groups are statistically significant without a common superscript
+(PB 0.05).
+212              N. Kudo et al. / Chemico-Biological Interactions 134 (2001) 203–216
+
+
+
+
+Fig. 6. Effects of castration and testosterone treatment on urinary elimination of PFOA. The amounts
+of PFOA eliminated in urine within 24 h after an intraperitoneal injection (20 mg/kg body weight) was
+determined. (A) male rats; (B) male rats castrated at 3 weeks old; (C) castrated male rats + testosterone
+treatment (daily 10 mg/kg body weight for 5 days); (D) female rats; (E) female rats + testosterone
+treatment (daily 10 mg/kg body weight for 5 days); (F) female rats + testosterone treatment (daily 10
+mg/kg body weight for 10 days). Values represent % of dose and are means 9S.D. for four rats. a – c,
+differences between each two experimental groups are statistically significant without a common
+superscript (PB0.05).
+
+
+than male rats in both renal tubular and hepatic sinusoidal transporting system.
+Faster biliary excretion of PFOA in female rats was, however, inconsistent with the
+fact that fecal elimination of PFCAs in female rats was slower than male rats (Fig.
+1(C – D)). Such a discrepancy was reported by Vanden Heuvel et al. [30]. The
+precise reason for this discrepancy has not been clarified yet, but entero-hepatic
+circulation may be involved.
+
+
+4.3. Sex-related difference in urinary excretion of PFCAs
+
+   Sex-related difference in the effects of PFOA was reported with regard to the
+induction of hepatic peroxisomal b-oxidation [22] and some enzymes involved in
+lipid metabolism [22 – 24] in rat liver. The lack of these effects of PFOA in female
+rats was explained by extremely low concentration of hepatic PFOA [27,28]. In
+contrast to PFOA, no apparent difference between male and female rats was
+observed in the induction of peroxisomal b-oxidation by other PFCAs [28]. Vanden
+Heuvel et al. reported that urinary elimination of PFDA was not different between
+male and female rats [30]. Therefore, it is of interest to know why sex-related
+difference in urinary elimination is observed in PFOA but not in PFDA, although
+these two compounds are structurally related. The present study suggests that
+sex-related difference of urinary excretion is extensively observed in various PFCAs,
+although it is not obvious in the case of PFDA, since PFDA is hardly eliminated
+in urine.
+              N. Kudo et al. / Chemico-Biological Interactions 134 (2001) 203–216   213
+
+
+   Sex-related difference in urinary elimination rate of PFOA was controlled by
+testosterone (Fig. 6; [32]). Our previous results suggest that urinary PFNA is also
+regulated by testosterone, since hepatic concentration of PFNA was strikingly
+changed by castration or testosterone treatment [28]. The effect of testosterone was
+observed dose- and time-dependent manner (Fig. 5). The present study demon-
+strated that suppression by testosterone of urinary excretion was also observed in
+female rats (Fig. 6), while Vanden Heuvel reported that testosterone did not affect
+in female rats [32]. The discrepancy is thought to be due to the difference in
+experimental conditions, especially the protocols on the treatment with testos-
+terone, because the conditions of testosterone treatment that were effective in
+castrated male rats failed to suppress urinary elimination of PFOA in female rats,
+and the treatments for longer periods suppressed it (Fig. 4). The effect of testos-
+terone was not related to the stage of sexual maturation, as is the case for
+Zenarestat, an aldolase inhibitor, reported by Tanaka et al. [33]. By contrast,
+castration and testosterone were effective only at an early stage of development on
+the activity of CYP 2C12 in the liver of rats, where growth hormone directly
+regulated the expression [34]. Several studies demonstrated that estradiol regulated
+urinary elimination of some drugs [35 –37]. Ylinen et al. reported that treatment of
+estradiol effectively increased urinary elimination of PFOA [35]. In our recent
+study, however, treatment of estradiol increased urinary elimination of PFOA not
+so much as did castration (Kudo et al, unpublished data). Further studies are
+required to solve the regulatory mechanism of urinary excretion of these chemicals
+by sex hormones.
+
+4.4. Toxicity of PFCA to rats
+
+   PFOA and PFDA have been characterized as peroxisome proliferators that cause
+an induction of peroxisomal, microsomal and cytosolic enzymes as well as perox-
+isome proliferation in the liver of rodents [3–14]. However, LD50 of PFDA was 41
+mg/kg body weight [38], which is lower than that of PFOA (189 mg/kg body
+weight) in rats [38], suggesting that the effects of PFDA on biological systems are
+different from those of PFOA. In fact, several biological or toxicological effects
+were found in PFDA but not in PFOA, i.e. reduction of thyroid hormone level in
+rats [20,21], uncoupling of electron transport in isolated mitochondria [19] and
+inactivation of a channel for 2-aminopurine [39]. In the previous study, we have
+shown that the potency of the induction of hepatic peroxisomal b-oxidation is
+highly correlated with hepatic concentrations of PFCA irrespective of their carbon
+chain length [28]. Among various PFCAs, PFCA having longer carbon chain length
+was more accumulated in the liver of rats when PFCAs were intraperitoneally
+administered [28]. These facts suggest that PFDA having more extensive toxicity
+compared to PFOA is predominantly due to its higher accumulation in the target
+organs. This idea is supported by the fact that the potency of the induction of
+peroxisomal acyl-CoA oxidase was not different between various PFCAs in rat
+hepatocytes [28]. Moreover, we have preliminary observed that the accumulation of
+triglyceride positively correlated to the PFCA concentration in rat liver (Kudo et
+214               N. Kudo et al. / Chemico-Biological Interactions 134 (2001) 203–216
+
+
+al., unpublished data). The results obtained in this study, therefore, strongly
+suggested that urinary excretion plays a crucial role for the expression of toxicity of
+PFCAs.
+   The mechanism by which PFCA is excreted into urine has not been elucidated
+yet. A few studies showed that probenecid, an inhibitor of organic anion trans-
+porter(s), inhibited urinary excretion of PFOA in rats [25,32]. It is plausible,
+therefore, that PFCAs are excreted into urine by an organic anion transporter,
+which distinguishes PFCAs by their carbon chain length. Further studies are now
+in progress in our laboratory to fully elucidate the mechanisms involved in urinary
+excretion of PFCAs and its regulation by sex hormones.
+
+
+
+Acknowledgements
+
+  This research was supported in part, by a Grant-in-Aid for Scientific Research
+(C) from the Ministry of Education, Science, Sports and Culture, Japan and a
+Grant-in-Aid for Scientific Research from Takeda Foundation for Health Science.
+
+
+
+References
+
+ [1] R.A. Guethner, M.L. Vietor, Surface active materials from perfluorocarboxylic acid, Ind. Eng.
+     Chem. Prod. Res. Dev. 1 (1962) 165– 167.
+ [2] K. Shinoda, T. Nomura, Miscibility of fluorocarbon and hydrocarbon surfactants in micelles and
+     liquid mixtures. Basic studies of oil repellent and fire extinguishing agent, J. Phys. Chem. 84 (1980)
+     365–369.
+ [3] T. Ikeda, T.K. Aiba, K. Fukuda, M. Tanaka, The induction of peroxisome proliferation in rat liver
+     by perfluorinated fatty acids, metabolically inert derivatives of fatty acids, J. Biochem. 98 (1985)
+     475–482.
+ [4] W.W. Just, K. Gorgas, F.-U. Hartl, P. Heinemann, M. Salzer, H. Schimassek, Biochemical and
+     zonal heterogeneity of peroxisome proliferation induced by perfluorocarboxylic acids in rat liver,
+     Hepatology 9 (1989) 570–581.
+ [5] T.P. Pastoor, K.P. Lee, M.A. Perri, P.J. Gillies, Biochemical and morphological studies of
+     ammonium perfluorooctanoate-induced hepatomegaly and peroxisome proliferation, Exp. Mol.
+     Pathol. 47 (1987) 98–109.
+ [6] Y. Kawashima, S. Horii, T. Matsunaga, A. Hirose, T. Adachi, H. Kozuka, Co-induction by
+     peroxisome proliferators of 1-acylglycerophosphocholine acyltransferase with peroxisomal b-oxida-
+     tion in rat liver, Biochim. Biophys. Acta 1005 (1989) 123– 129.
+ [7] T. Borges, H.P. Glauert, L.W. Robertson, Perfluorodecanoic acid noncompetitively inhibits the
+     peroxisomal enzymes enoyl-CoA hydratase and 3-hydroxyacyl-CoA dehydrogenase, Toxicol. Appl.
+     Pharm. 118 (1993) 8–15.
+ [8] Y. Kawashima, H. Kobayashi, H. Miura, H. Kozuka, Characterization of hepatic response of rat
+     to administration of perfluorooctanoic acid and perfluorodecanoic acid at low levels, Toxicology 99
+     (1995) 169–178.
+ [9] N. Kudo, H. Mizuguchi, Y. Kawashima, Alterations by perfluorooctanoic acid of glycerolipid
+     metabolism in rat liver, Chemico-Biol. Interact. 118 (1999) 69 – 83.
+[10] N.V. Reo, L. Narayanan, K.B. Kling, M. Adinehzadeh, Perfluorodecanoic acid, a peroxisome
+     proliferator, activates phospholipase C, inhibits CTP: phosphocholine cytidylyltransferase and
+     elevates diacylglycerol in rat liver, Toxicol. Lett. 86 (1996) 1 – 11.
+                 N. Kudo et al. / Chemico-Biological Interactions 134 (2001) 203–216                 215
+
+[11] E. Chinje, P. Kentish, B. Jarnot, M. George, G. Gibson, Induction of CYP 4A subfamily by
+     perfluorodecanoic acid: the rat and guinea pig as susceptible and non-susceptible species, Toxicol.
+     Lett. 71 (1994) 69–75.
+[12] J.P. Vanden Heuvel, P.F. Sterchele, D.J. Nesbit, R.E. Peterson, Coordinate induction of acyl-CoA
+     binding protein, fatty acid binding protein and peroxisomal beta-oxidation by peroxisome prolifer-
+     ators, Biochim. Biophys. Acta 1177 (1993) 183– 190.
+[13] P.F. Sterchele, J.P. Vanden Heuvel, J.W. Davis II, E. Shrago, J. Knundsen, R.E. Peterson,
+     Induction of hepatic acyl-CoA binding protein and liver fatty acid binding protein by perfluorode-
+     canoic acid in rats, Biochem. Pharmacol. 48 (1994) 955– 966.
+[14] Y. Kawashima, H. Kozuka, Cytosolic long-chain acyl-CoA hydrolase, a suitable parameter to
+     measure hepatic response to peroxisome proliferators, Toxicology 71 (1992) 151– 160.
+[15] M.E. George, M.E. Andersen, Toxic effects of nonadecafluoro-n-decanoic acid in rats, Toxicol.
+     Appl. Pharm. 85 (1986) 169–180.
+[16] M.J. Van Rafelghem, D.R. Mattie, R.H. Bruner, M.E. Andersen, Pathological and hepatic
+     ultrastructural effects of a single dose of perfluoro-n-decanoic acid in the rat, hamster, mouse and
+     guinea pig, Fund. Appl. Pharm. 9 (1987) 522– 540.
+[17] M.J. Van Rafelghem, J.P. Vanden Heuvel, L.A. Menahan, R.E. Peterson, Perfluorodecanoic acid
+     and lipid metabolism in the rat, Lipids 23 (1988) 671– 678.
+[18] J.W. Davis II, J.P. Vanden Heuvel, R.E. Peterson, Effects of perfluorodecanoic acid on de novo
+     fatty acid synthesis in the rats, Lipids 26 (1991) 857– 859.
+[19] A.E. Langley, Effects of perfluoro-n-decanoic acid on the respiratory activity of isolated rat liver
+     mitochondria, J. Toxicol. Environ. Health 28 (1990) 329– 336.
+[20] M.J. Van Rafelghem, S.L. Inhorn, R.E. Peterson, Effects of perfluorodecanoic acid on thyroid
+     status in rats, Toxicol. Appl. Pharm. 87 (1987) 430– 439.
+[21] D.M. Gutshall, G.D. Pilcher, A.E. Langley, Mechanism of the serum thyroid hormone lowering
+     effect of perfluoro-n-decanoic acid (PFDA) in rats, J. Toxicol. Environ. Health 28 (1989) 53 – 65.
+[22] Y. Kawashima, N. Uy-Yu, H. Kozuka, Sex-related difference in the inductions by perfluorooc-
+     tanoic acid of peroxisomal b-oxidation, microsomal 1-acylglycerophosphocholine acyltransferase
+     and cytosolic long-chain acyl-CoA hydrolase in rat liver, Biochem. J. 261 (1989) 595– 600.
+[23] Y. Kawashima, N. Uy-Yu, H. Kozuka, Sex-related differences in the enhancing effects of
+     perfluorooctanoic acid on stearoyl-CoA desaturase and its influence on the acyl composition of
+     phospholipid in rat liver, Biochem. J. 263 (1989) 897– 904.
+[24] N. Uy-Yu, Y. Kawashima, H. Kozuka, Comparative studies on sex-related difference in biological
+     responses to perfluorooctanoic acid between rats and mice, Biochem. Pharmacol. 39 (1990)
+     1492–1495.
+[25] H. Hanhijarvi, R.H. Ophaug, L. Singer, The sex-related difference in perfluorooctanoate excretion
+     in the rat, Proc. Soc. Exp. Biol. Med. 1171 (1982) 50 – 55.
+[26] H. Hanhijarvi, M. Ylinen, A. Kojo, V.-M. Kosma, Elimination and toxicity of perfluorooctanoic
+     acid during subchronic administration in the Wistar rat, Pharmacol. Toxicol. 61 (1987) 66 – 68.
+[27] J.P. Vanden Heuvel, B.I. Kuslikis, M.J. Van Rafelghem, R.E. Peterson, Tissue distribution,
+     metabolism, and elimination of perfluorooctanoic acid in male and female rats, J. Biol. Toxicol. 6
+     (1991) 83–92.
+[28] N. Kudo, N. Bandai, E. Suzuki, M. Katakura, Y. Kawashima, Induction by perfluorinated fatty
+     acids with different carbon chain length of peroxisomal b-oxidation in the liver of rats, Chemico-
+     Biol. Interact. 124 (2000) 119–132.
+[29] T. Ohya, N. Kudo, E. Suziki, Y. Kawashima, Determination by high-performance liquid chro-
+     matography of perfluorinated carboxylic acids in biological samples, J. Chromatogr. B 720 (1998)
+     1–7.
+[30] J.P. Vanden Heuvel, B.I. Kuslikis, M.J. Van Rafelghem, R.E. Peterson, Deposition of perfluorode-
+     canoic acid in male and female rats, Toxicol. Appl. Pharm. 107 (1991) 450– 459.
+[31] J.D. Johnson, S.J. Gibson, R.E. Ober, Cholestyramine-enhanced fecal elimination of carbon-14 in
+     rat after administration of ammonium [14C]perfluorooctanoate or potassium perfluorooctanesul-
+     fonate, Fund. Appl. Toxicol. 4 (1984) 972– 976.
+216              N. Kudo et al. / Chemico-Biological Interactions 134 (2001) 203–216
+
+[32] J.P. Vanden Heuvel, J.W. Davis, R. Sommers, R.E. Peterson, Renal excretion of perfluorooctanoic
+     acid in male rats: Inhibitory effect of testosterone, J. Biochem. Toxicol. 7 (1992) 31 – 36.
+[33] Y. Tanaka, Y. Kadoh, S. Mukumoto, H. Ishikawa, The role of age and sex hormones on the
+     urinary excretion of zenarestat in rats, Xenobiotica 21 (1991) 1273– 1279.
+[34] P. Skett, Biochemical basis of sex differences in drug metabolism, Pharmac. Ther. 38 (1988)
+     269–304.
+[35] M. Ylinen, H. Hanhijarvi, J. Jaakonaho, P. Peura, Stimulation by oestradiol of the urinary
+     excretion of perfluorooctanoic acid in the male rat, Pharmacol. Toxicol. 65 (1989) 274– 277.
+[36] F.D. Janssen, E.M. Young, H.W. Ruelius, Effect of sex hormones on the disposition in rats of
+     1-aminocyclohexane carboxylic acid, a metabolite of a semisynthetic penicillin, Drug Metab. Disp.
+     4 (1976) 540–546.
+[37] T.R. Riggs, L.M. Walker, Sex hormone modification of tissue levels and urinary excretion of
+     a-aminoisobutyric acid in the rat, Endocrinology 73 (1963) 781– 788.
+[38] C.T. Olson, M.E. Andersen, The acute toxicity of perfluorooctanoic and perfluorodecanoic acids in
+     male and female rats and effects on tissue fatty acids, Toxicol. Appl. Pharm. 70 (1983) 362– 372.
+[39] P.W. Wigler, Y.B. Shah, Perfluorodecanoic acid inactivation of a channel for 2-aminopurine in the
+     L5178Y cell membrane and recovery of the channel, Toxicol. Appl. Pharm. 85 (1986) 456– 463.
+
+
+
+
+                                        .
+

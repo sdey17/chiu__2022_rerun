@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="research-article"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">822</journal-id><journal-id journal-id-type="pmc-domain">acssd</journal-id><journal-title-group><journal-title>Chemical Research in Toxicology</journal-title><abbrev-journal-title>Chem Res Toxicol</abbrev-journal-title></journal-title-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12442221</article-id><article-id pub-id-type="pmcaid">12442221</article-id><article-id pub-id-type="pmcaiid">12442221</article-id><article-id pub-id-type="pmid">40828089</article-id><article-id pub-id-type="doi">10.1021/acs.chemrestox.5c00199</article-id><title-group><article-title>Liver and Intestinal
+Fatty Acid Binding Proteins Are
+Not Critical for Perfluorooctanesulfonate (PFOS) Tissue Distribution
+and Elimination in Mice</article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>Modaresi</surname><given-names initials="SMS">Seyed Mohamad Sadegh</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Becanova</surname><given-names initials="J">Jitka</given-names></name><xref ref-type="aff" rid="aff2">‡</xref></contrib><contrib><name name-style="western"><surname>Vojta</surname><given-names initials="S">Simon</given-names></name><xref ref-type="aff" rid="aff2">‡</xref></contrib><contrib><name name-style="western"><surname>Ryu</surname><given-names initials="S">Sangwoo</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Kaye</surname><given-names initials="EM">Emily M</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Agudelo</surname><given-names initials="J">Juliana</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Diolintzi</surname><given-names initials="A">Anastasia</given-names></name><xref ref-type="aff" rid="aff3">§</xref></contrib><contrib><name name-style="western"><surname>Skende</surname><given-names initials="O">Olga</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Storch</surname><given-names initials="J">Judith</given-names></name><xref ref-type="aff" rid="aff3">§</xref></contrib><contrib><name name-style="western"><surname>Fischer</surname><given-names initials="FC">Fabian C</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref ref-type="aff" rid="aff4">∥</xref><xref rid="cor2" ref-type="author-notes">*</xref></contrib><contrib><name name-style="western"><surname>Slitt</surname><given-names initials="A">Angela</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref rid="cor1" ref-type="author-notes">*</xref></contrib></contrib-group><aff id="aff1">
+<label>†</label>
+Department
+of Biomedical and Pharmaceutical Sciences, University of Rhode Island, Kingston, Rhode Island
+02881, United States
+</aff><aff id="aff2">
+<label>‡</label>
+Graduate
+School of Oceanography, University of Rhode
+Island, Kingston, Rhode Island
+02881, United States
+</aff><aff id="aff3">
+<label>§</label>
+Department
+of Nutritional Sciences, Rutgers University, New Brunswick, New Jersey
+08901, United States
+</aff><aff id="aff4">
+<label>∥</label>
+Harvard
+John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, Massachusetts
+02138, United States
+</aff><author-notes><fn id="cor1"><label>*</label><p>
+Email: <email>aslitt@uri.edu</email>.</p></fn><fn id="cor2"><label>*</label><p>
+Email: <email>fabian.fischer@uri.edu</email>.</p></fn></author-notes><pub-date><day>19</day><month>8</month><year>2025</year></pub-date><volume>38</volume><issue>9</issue><fpage>1576</fpage><page-range>1576–1584</page-range><pub-history><event event-type="pmc-release"><date><day>18</day><month>9</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>© 2025 American Chemical Society</copyright-statement><license><license-p>This article is licensed under CC-BY 4.0</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="tx5c00199.pdf" content-type="pmc-pdf"><?cloudpmc-path 40f5/12442221/fab697c2253f/tx5c00199.pdf?><?cloudpmc-bucket app?><?size 2360947?></self-uri><abstract id="abstract1"><title>Abstract</title><p>Perfluorooctanesulfonate (PFOS) is
+a persistent environmental pollutant
+in the per- and polyfluoroalkyl substances (PFAS) class, known to
+accumulate in the liver and trigger hepatotoxicity. While <italic>in vitro</italic> studies suggested that fatty acid-binding proteins
+(FABPs) drive the hepatic accumulation of PFAS, <italic>in vivo</italic> evidence is entirely lacking. Using wild-type and mice with global
+deletion of liver-type and intestine-type FABP (L-FABP<sup>–/–</sup>, I-FABP<sup>–/–</sup>), we measured PFOS toxicokinetics
+by administering single oral doses (0.1, 0.5, and 5 mg/kg) and tracking
+blood and excreta levels for 65 days. PFOS levels in various tissues
+were measured at test end. Additionally, we measured PFAS binding
+to liver tissues from wild-type and FABP knockout mice. Contrary to
+previous <italic>in vitro</italic> findings, FABP deletion did not
+significantly alter PFOS blood concentrations, tissue distribution,
+or elimination rates. Elimination half-lives, clearances, and volumes
+of distribution were consistent across genotypes, suggesting that
+neither L-FABP nor I-FABP are critical drivers for PFOS <italic>in
+vivo</italic> toxicokinetics. <italic>In vitro</italic> binding assays
+showed similar liver partition coefficients between wild-type and
+knockout livers for 15 of 19 PFAS, with small differences for some
+sulfonamides and fluorotelomer sulfonates. These results challenge
+the presumed role of L-FABP and/or I-FABP in PFAS toxicokinetics,
+highlighting the need to explore alternative toxicokinetic mechanismssuch
+as phospholipid binding and transporter-mediated uptakedriving
+PFAS distribution and elimination.</p></abstract><abstract id="abstract2" abstract-type="graphical"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="agr1" xlink:href="tx5c00199_0007.jpg"><?cloudpmc-path blobs/40f5/12442221/49513a1e3b7f/tx5c00199_0007.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 534?><?original-width 992?><?scaled-height 356?><?scaled-width 661?></graphic></abstract><abstract id="abstract3" abstract-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="tgr1" xlink:href="tx5c00199_0005.jpg"><?cloudpmc-path blobs/40f5/12442221/49513a1e3b7f/tx5c00199_0005.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 534?><?original-width 992?><?scaled-height 356?><?scaled-width 661?></graphic></abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-in-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Received 2025 May 19; Accepted 2025 Aug 8; Revised 2025 Jul 29; Collection date 2025 Sep 15.</p></sec></notes></front><body><sec id="sec1" disp-level="1"><label>1.</label><title>Introduction</title><p>Per- and polyfluoroalkyl
+substances (PFAS) are a class of over
+15,000 man-made fluorochemicals found in a wide range of consumer
+and industrial products.<italic>
+,
+</italic> A health concern for
+PFAS as a chemical class is that many PFAS are resistant to breakdown
+and biotransformation, which results in
+bioaccumulation in living organisms and detection in 99% of the general
+US population. Chronic exposure to certain
+PFAS, such as perfluorooctanesulfonic acid (PFOS), is associated with
+adverse health outcomes, such as decreased response to vaccination,<italic>
+,
+</italic> hepatotoxicity, dyslipidemia,<italic>
+,
+</italic> and testicular cancer. Containing eight
+fluorinated carbons in its carbon chain, PFOS is a hydrophobic PFAS
+with observed elimination half-lives in humans in the range of 4–6
+years. PFOS is readily absorbed following
+oral exposure and is assumed to undergo
+enterohepatic circulation. After absorption,
+PFOS preferentially distributes to the liver,<italic>
+−
+
+</italic> however, the
+mechanisms dictating PFOS liver accumulation and retarded elimination
+are poorly understood. <italic>In vitro studies</italic> have shown
+that fatty acid-binding proteins (FABPs) bind PFOS, and this has led
+to the suggestion that FABPs, particularly liver-type fatty acid binding
+protein (L-FABP; FABP1), which is abundant in the liver, drive PFOS
+liver accumulation.<italic>
+−
+
+</italic> However, <italic>in vivo</italic> evidence is lacking,
+and the focus of the present work is to address this gap.</p><p>Because
+the chemical structure of PFOS and other PFAS resembles
+fatty acids, it has been postulated that PFOS bioaccumulation is facilitated
+by cellular mechanisms that dictate fatty acid uptake into the cell, as well as their intracellular binding. L-FABP is enriched in liver, representing as
+much as 5% of the total cytosolic protein. It binds long-chain fatty
+acids with high affinity, and has been
+suggested to be a key binding protein that mediates PFOS accumulation
+and retention in liver. PFOS binding
+to intestinal fatty acid binding protein (I-FABP; FABP2), which is
+exclusively present in intestinal epithelial cells, could be an additional
+important mediator of PFOS toxicokinetics. L-FABP and I-FABP have
+similar tertiary structures, yet PFAS binding to I-FABP has not been
+explored. Considering the high affinity of I-FABP to bind the fatty
+acids produced by hydrolysis of dietary lipid and its role in the
+uptake of fatty acids from the lumen of the intestine, we hypothesized herein that both L-FABP and
+I-FABP could be important proteins that drive PFOS toxicokinetics.</p><p>To date, research on the binding of PFAS to FABPs has primarily
+consisted of <italic>in vitro</italic> and <italic>in silico</italic> studies, largely using isolated FABP protein in binding assays or
+FABP-overexpression in <italic>in vitro</italic> cells.<italic>
+,−
+
+
+
+</italic> Dissociation constants (<italic>K</italic>
+<sub>d</sub>) for binding
+to L-FABP have been reported to range from 38 to 879 μmol/L
+for a list of perfluorocarboxylates and sulfonates, with PFOS exhibiting
+the strongest association among the PFAS tested. Similar trends were observed in other binding and molecular
+docking studies.<italic>
+,,
+</italic> Comparisons with <italic>K</italic>
+<sub>d</sub> values for serum
+proteins like albumin indicate that PFAS binding to FABP is comparably
+strong. However, the contribution of
+L-FABP to PFOS tissue binding, distribution, and elimination in the
+presence of other relevant macromolecules (i.e., other proteins and
+phospholipids) in a complex <italic>in vivo</italic> system under
+physiological conditions has not been evaluated.</p><p>The present
+study was undertaken to examine, for the first time,
+whether binding to FABPs is a critical cellular mechanism for PFAS
+tissue distribution and elimination <italic>in vivo</italic>. The
+role of L-FABP or I-FABP binding in the presence of other physiologically
+relevant toxicokinetic processes <italic>in vivo</italic> was examined
+in mice that lack L-FABP or I-FABP expression in all tissues (i.e.,
+global deletion of L-FABP<sup>–/–</sup> or I-FABP<sup>–/–</sup>). Additionally, since L-FABP is highly expressed
+in both liver and intestine, conditional knockout mice lacking L-FABP
+specifically in intestine (L-FABPint<sup>–/–</sup>)
+or liver (L-FABPliv<sup>–/–</sup>) were examined. Mice
+were administered a single oral dose of PFOS and then blood, urine,
+and fecal concentrations were measured over the course of 65 days.
+PFOS concentrations were quantified in liver, kidney, lung, intestine,
+brain, and muscle tissue. Measured elimination half-lives and tissue
+distribution patterns in FABP knockout mice were compared to wild-type
+(WT) control mice with normal physiological levels of FABPs. Finally,
+we discuss our findings in the context of the relevance of FABPs in
+the toxicokinetics of PFAS in humans.</p></sec><sec id="sec2" disp-level="1"><label>2.</label><title>Materials and Methods</title><sec id="sec2.1" disp-level="2"><label>2.1.</label><title>Chemicals</title><p>PFOS was purchased from
+Sigma-Aldrich as Heptadecafluorooctanesulfonic acid potassium salt
+(CAS: #2795-39-3, Catalog: #89374, ≥98.0% purity, ∼70%
+L-PFOS/∼30% Br-PFOS). For C18 fiber binding experiments, the
+PFAC-24PAR mixture from Wellington Laboratories was used, which includes
+carboxylates, sulfonates, fluorotelomers, and sulfonamides. Stable
+isotope-labeled internal standards for all study PFAS were purchased
+from Wellington Laboratories. roQ QuEChERS extraction packet kits
+and roQ QuEChERS dSPE kits were purchased from Phenomenex. Other chemicals
+and solvents, if not specified, were obtained from Sigma-Aldrich or
+Thermo Fisher Scientific.</p></sec><sec id="sec2.2" disp-level="2"><label>2.2.</label><title>Laboratory Animals and
+Husbandry</title><p>All animal protocols were reviewed and approved
+by the University
+of Rhode Island (URI) Institutional Animal Care and Use Committee
+(IACUC). The global deletions of L-FABP, which is normally highly
+expressed in both liver and intestine, and of I-FABP, normally expressed
+only in intestine, were verified by proteomics homogenate (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Figure S1</ext-link>) and via Western blot using authentic
+purified proteins.<italic>
+,
+</italic> Wild-type C57BL/6J served as
+controls. No compensatory changes in L-FABP levels were observed in
+intestine or liver of the I-FABP null mice, and no changes in I-FABP
+were found in the L-FABP null mice.<italic>
+,
+</italic> Additionally,
+tissue-specific deletion in the intestine-specific L-FABP knockout
+(L-FABPint<sup>–/–</sup>) and liver-specific L-FABP
+knockout (L-FABPliv<sup>–/–</sup>) were also verified
+by proteomics (Figure S1 of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Supporting Information</ext-link>) and via Western blottin. Floxed L-FABP
+(L-FABP<sup>fl/fl</sup>) served as controls for the tissue-specific
+knockouts, with all mice on a C57BL/6J background. Again, no compensatory
+changes in either L-FABP or I-FABP were found in either tissue in
+the conditional knockout mice. Moreover,
+no compensatory changes were observed at the mRNA and/or protein level
+for FABP family members that are not normally expressed in intestine
+or liver, including FABP3 (muscle/heart FABP3), FABP4 (adipose FABP),
+FABP5 (skin FABP), FABP6 (ileal bile acid binding protein), and FABP7
+(brain FABP). The mice (5–6 months
+old) were housed under a controlled temperature with relative humidity
+(30–70%) and 12-h light/dark lighting. Before and during the
+experiment, standard rodent food (Harlan Teklad Extruded Global Diet,
+2020X) and water were provided ad libitum.</p></sec><sec id="sec2.3" disp-level="2"><label>2.3.</label><title>Single
+Dose Toxicokinetic Studies</title><p>PFOS was dissolved in 0.5% Tween
+20 vehicle. Previous studies have
+shown that 0.5% Tween 20 does not affect pharmacokinetics. To confirm the absence of background contamination,
+we measured PFOS levels in tissues from WT mice treated with the vehicle
+and found them to be below the limit of detection. The overall goal
+of this study was to derive key toxicokinetic parameters typically
+obtained from a single-dose pharmacokinetic study. The study design
+used herein (i.e., single-dose over time) is consistent with numerous
+publications that have investigated ADME mechanisms using knockout
+mice and is widely accepted in the ADME field.<italic>
+,
+</italic> To align with the FDA Modernization Act 2.0, which advocates for
+reducing animal use in testing, vehicle-treated mice were not included,
+as their inclusion is not standard for single-dose kinetic studies
+and is not essential for comparing genotypes. Initially and in order
+to test feasibility, a single dose of PFOS (5 mg/kg; 10 mL/kg) was
+administered by oral gavage to male wild-type mice (WT, <italic>n</italic> = 3), as well as male mice lacking L-FABP in the intestines (L-FABPint<sup>–/–</sup>, <italic>n</italic> = 3) or liver (L-FABPliv<sup>–/–</sup>, <italic>n</italic> = 3). These conditional
+knockouts were selected for initial screening to assess whether tissue-specific
+deletion of L-FABP produced notable changes in PFOS toxicokinetics.
+As no pronounced differences were observed, subsequent experiments
+focused on global knockout models of L-FABP (L-FABP<sup>–/–</sup>) and I-FABP (I-FABP<sup>–/–</sup>), which were tested
+at 0.1 and 0.5 mg/kg to evaluate systemic effects of FABP deletion
+under both environmentally relevant and higher-dose exposure conditions
+(<italic>n</italic> = 3–5). The selected doses and study design
+were based on prior pharmacokinetic studies evaluating PFOS kinetics
+in mice<italic>
+,,
+</italic> and were chosen
+to ensure PFOS could be reliably detected in small blood samples over
+60 days while minimizing the number of animals used. The highest dose
+of 5 mg/kg was expected to be below the threshold for increased liver
+weights.<italic>
+,
+</italic> After observing no significant toxicokinetic
+differences between genotypes at 5 mg/kg, 0.1 mg/kg and 0.5 mg/kg
+were included to assess potential effects at lower exposures. These
+doses fall within the range of previous PFAS pharmacokinetic studies
+in rodents, including those investigating PFOA and PFHxS.<italic>
+,,
+</italic> Additionally, the selected doses
+were expected to span both subsaturating and near-saturating conditions
+for PFOS-FABP binding. Based on the reported FABP dissociation constant
+(<italic>K</italic>
+<sub>D</sub> = 0.18 μM) and the experimental unbound fraction of PFOS in mouse
+liver, free liver concentrations of PFOS
+at 0.1 mg/kg and 0.5 mg/kg were predicted to be ≈20 times below <italic>K</italic>
+<sub>D</sub>, whereas <italic>K</italic>
+<sub>D</sub> was
+expected to be approached or exceeded at 5 mg/kg. This dose selection
+enabled the assessment of FABP’s role in PFOS toxicokinetics
+under both nonsaturating and potentially FABP-saturating conditions.</p></sec><sec id="sec2.4" disp-level="2"><label>2.4.</label><title>Sample Collection and PFOS Extraction</title><p>Body
+weight, food consumption, and tissues, serum, and liver weights
+were measured over 65 days postdosing. Blood, urine, and fecal samples
+were collected at 1, 2, 7, 14, 23, 35, 50, and 65 days postadministration
+for the 5 mg/kg group and at 1, 2, 7, 14, 24, 38, and 60 days postadministration
+for the 0.5 and 0.1 mg/kg groups. Urine collection was subject to
+variability, as some mice did not urinate within the allotted time
+in metabolism cages. This limitation was accounted for in data interpretation.
+PFOS was extracted using Phenomenex roQ QuEChERS kits, following the
+manufacturer’s instructions with slight modifications. Detailed procedures for sample collection and
+PFOS extraction are provided in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Sections S1 and S2</ext-link> of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Supporting Information</ext-link>.</p></sec><sec id="sec2.5" disp-level="2"><label>2.5.</label><title>Solid-Phase Microextraction Binding Assay</title><p>The binding of 24 PFAS to mouse blood and liver tissues was assessed
+using a previously developed C18 fiber-based solid-phase microextraction
+(SPME) technique. The SPME method was developed previously using purified serum proteins (albumin, γ-globulin)
+and demonstrated excellent recovery (≥75%), reproducibility
+across experiments (RSD ≤ 11%), equilibrium establishment within
+48 h, and agreement with literature partition coefficients. In brief, C18 fibers (520 nL coating volume,
+Supelco #57281-U) were preconditioned by sequential incubation in
+methanol and deionized water prior to experiments. Liver tissues were
+homogenized by mechanical disruption using a Bullet Blender with
+five 4.8 mm stainless steel beads (Next Advance), precleaned sequentially
+with Milli-Q water, 0.4 M hydrochloric acid, 1% ammonium hydroxide
+in methanol, and methanol. Four milliliters of phosphate-buffered
+saline (PBS, pH 7.4) were added to each tube prior to homogenization.
+Preconditioned fibers were transferred into tubes containing either
+liver homogenates or pure PBS, both spiked with the PFAC-24PAR PFAS
+mixture at 400 ng/L (<italic>n</italic> = 4 each). Fibers were fully
+immersed and incubated at 37 °C with horizontal shaking for 48
+h. After incubation, fibers were transferred into methanol solutions
+prespiked with a mass-labeled PFAS mix (Wellington Laboratories) for
+overnight extraction (&gt;12 h). PBS solutions were diluted 1:1 with
+methanol and spiked with internal standards. All fiber extracts and
+PBS solutions were vortexed prior to HPLC-MS/MS analysis. The difference
+in PFAS mass extracted by the SPME fiber between PBS and liver homogenate
+samples was used to determine the fraction of PFAS bound to liver
+tissue. From these measurements, liver partition coefficients (<italic>K</italic>
+<sub>liver</sub>) were calculated to quantify PFAS affinity
+for tissue components.</p></sec><sec id="sec2.6" disp-level="2"><label>2.6.</label><title>Measurement of PFAS by
+LC-MS</title><p>PFOS concentrations in biofluids and tissues were quantified
+in
+target mode using an ultraperformance liquid chromatography system
+(UPLC) coupled with a triple quadrupole 5500 mass spectrometer (Sciex)
+operated with negative electrospray ionization (ESI) in multiple reaction
+monitoring (MRM) mode. Detailed instrumental parameters, analytical
+methods, and internal standard spiking procedures are described in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Sections S3 and S4</ext-link> of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Supporting Information</ext-link>. The 24 PFAS mixture was measured using
+an online SPE method on an Agilent 6460 triple quadrupole liquid chromatography–tandem
+mass spectrometer.<italic>
+,
+</italic> Linear and branched isomers were
+measured separately, and the reported partition coefficients represent
+the combined sum of these isomers in the mixture.</p></sec><sec id="sec2.7" disp-level="2"><label>2.7.</label><title>Statistical Analysis</title><p>Statistical
+analyses were performed using Prism 10.2.1 (GraphPad, San Diego, CA).
+A two-way ANOVA followed by Tukey’s test for multiple comparisons
+was used for all data. For temporal blood concentration analysis,
+a linear mixed-effects model was applied using restricted maximum
+likelihood estimation to account for repeated measurements within
+individual animals. The model included dose and genotype as fixed
+effects and individual animal variability as a random effect, with
+the Geisser–Greenhouse correction applied to account for deviations
+from sphericity. Tukey’s post hoc test was used for multiple
+comparisons. This two-way ANOVA approach was also applied to the toxicokinetic
+parameters derived from the blood concentration–time profiles
+and tissue distribution patterns to account for both within replicate
+and between-genotype effects.</p></sec><sec id="sec2.8" disp-level="2"><label>2.8.</label><title>Toxicokinetic
+Analysis</title><p>The blood
+concentrations of PFOS measured over time for the 5 mg/kg, 0.5 mg/kg,
+and 0.1 mg/kg treatment groups were analyzed to determine key toxicokinetic
+parameters and compare these between FABP knockouts and wild-type
+mice. Because absorption and distribution was rapid, the blood concentrations
+were ln-transformed to fit elimination rate constants (<italic>k</italic>) using the first-order elimination equation <italic>C</italic>(<italic>t</italic>) = <italic>C</italic>
+<sub>max</sub>·e<sup>–<italic>k·(t-</italic>T<sub>max</sub>)</sup>, where <italic>C</italic>(<italic>t</italic>) is the blood concentration at time <italic>t</italic>,<italic>C</italic>
+<sub>max</sub> is the maximum blood concentration,
+and T<sub>max</sub> is the time to reach <italic>C</italic>
+<sub>max</sub>. Corresponding elimination half-lives (<italic>t</italic>
+<sub>1/2</sub>) were subsequently calculated as <italic>t</italic>
+<sub>1/2</sub> = ln(2)/<italic>k</italic>. <italic>C</italic>
+<sub>max</sub> and
+T<sub>max</sub> were directly obtained from the blood concentration
+data set. The apparent volume of distribution (V<sub>d</sub>/F) that
+accounts for the bioavailability (F) of PFOS was calculated as V<sub>d</sub>/F = <italic>D</italic>/(<italic>C</italic>
+<sub>max</sub>),
+where <italic>D</italic> is the administered oral dose (mg/kg). The
+apparent clearance (CL/F) was determined as CL/F = <italic>k</italic>·V<sub>d</sub>/F. The total exposure of the test animals to
+PFOS over 65 days was calculated as area under the curve (AUC) using
+the trapezoidal method applied to the blood concentration–time
+data.</p></sec></sec><sec id="sec3" disp-level="1"><label>3.</label><title>Results and Discussion</title><p>Single PFOS
+doses of 0.1, 0.5, and 5 mg/kg did not affect body
+weight, absolute liver weight, or normalized liver weight in FABP
+knockout compared to their respective wild-type mice (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Figure S3</ext-link>).</p><sec id="sec3.1" disp-level="2"><label>3.1.</label><title>Temporal Blood Concentrations</title><p>The
+concentration–time profiles showed a rapid initial increase
+in blood concentrations (<italic>C</italic>
+<sub>blood</sub>), reaching <italic>C</italic>
+<sub>max</sub> within the first one to 10 days, with the
+exception of I-FABP<sup>–/–</sup> mice at 0.1 mg/kg,
+which reached <italic>C</italic>
+<sub>max</sub> at day 18. followed
+by a gradual decline over the experimental period across all treatment
+groups and dosages, consistent with first-order elimination (<xref rid="fig1" ref-type="fig">Figure 
+</xref>). Temporal <italic>C</italic>
+<sub>blood</sub> did not differ significantly across FABP
+knockout and wild-type groups for all dosages (one-way ANOVA + Tukey’s, <italic>p</italic> &gt; 0.05), except for L-FABP<sup>–/–</sup> at 0.5 mg/kg PFOS (<xref rid="fig1" ref-type="fig">Figure 
+</xref>B). However, as <italic>C</italic>
+<sub>blood</sub> eventually
+stabilized to match levels in wild-type and I-FABP<sup>–/–</sup> mice, and since this pattern was not observed at the 5 mg/kg and
+0.1 mg/kg doses, the difference could be random variation.</p><fig id="fig1" position="float"><?disp-level 3?><label>1</label><caption><p>Blood concentrations
+measured over time in wild-type mice (L-FABP<sup>fl/fl</sup> control
+in A; WT control in B and C.) and mice with liver-specific
+(L-FABPint<sup>–/–</sup>, L-FABPliv<sup>–/–</sup>) or global FABP deletion (L-FABP<sup>–/–</sup>, I-FABP<sup>–/–</sup>), after single oral administration of A.
+Five mg/kg, B. 0.5 mg/kg, and C. 0.1 mg/kg PFOS (<italic>n</italic> = 3–5).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr1" xlink:href="tx5c00199_0001.jpg"><?cloudpmc-path blobs/40f5/12442221/1ce85d9ec741/tx5c00199_0001.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 448?><?original-width 1670?><?scaled-height 179?><?scaled-width 668?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="tx5c00199_0001.gif"><?cloudpmc-path blobs/40f5/12442221/2803baf9984c/tx5c00199_0001.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="sec3.2" disp-level="2"><label>3.2.</label><title>Blood
+Toxicokinetics</title><p>The toxicokinetic
+parameters derived from the <italic>C</italic>
+<sub>blood</sub>-time
+profiles are reported in <xref rid="tbl1" ref-type="table">Table 
+</xref>. For each individual dose (0.1, 0.5, 5 mg/kg), the TK parameters
+were consistent across the tested genotypes, showing no significant
+differences. The only exception was L-FABP<sup>–/–</sup> that showed statistically higher <italic>C</italic>
+<sub>max</sub> and thus lower V<sub>d</sub> at the 0.5 mg PFOS/kg dose (<xref rid="fig1" ref-type="fig">Figure 
+</xref>B). However, this
+trend was not observed for the other two doses, suggesting a random
+observation.</p><table-wrap id="tbl1" position="float"><?disp-level 3?><label>1</label><caption><title>Toxicokinetic Parameters Derived from
+the Blood Concentration–Time Profiles for Different Genotypes
+at Three PFOS Doses<sup/>
+</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/><col align="char" char="±" span="1"/></colgroup><thead><tr><th align="center" colspan="1" rowspan="1"> </th><th align="center" colspan="1" rowspan="1"> </th><th colspan="3" align="center" rowspan="1">5 mg/kg<hr/></th><th colspan="3" align="center" rowspan="1">0.5 mg/kg<hr/></th><th colspan="3" align="center" rowspan="1">0.1 mg/kg<hr/></th></tr><tr><th align="center" colspan="1" rowspan="1">Parameters</th><th align="center" colspan="1" rowspan="1">Unit</th><th align="center" colspan="1" rowspan="1">Wild-type</th><th align="center" colspan="1" rowspan="1">L-FABP liv<sup>–/–</sup>
+</th><th align="center" colspan="1" rowspan="1">L-FABP int<sup>–/–</sup>
+</th><th align="center" colspan="1" rowspan="1">Wild-type</th><th align="center" colspan="1" rowspan="1">L-FABP<sup>–/–</sup>
+</th><th align="center" colspan="1" rowspan="1">I-FABP<sup>–/–</sup>
+</th><th align="center" colspan="1" rowspan="1">Wild-type</th><th align="center" colspan="1" rowspan="1">L-FABP<sup>–/–</sup>
+</th><th align="center" colspan="1" rowspan="1">I-FABP<sup>–/–</sup>
+</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1">
+<italic>t</italic>
+<sub>1/2</sub>
+</td><td align="left" colspan="1" rowspan="1">day</td><td align="center" colspan="1" rowspan="1">36 ± 8<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">35 ± 5<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">43 ± 6<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">47 ± 11<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">50 ± 13<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">49 ± 16<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">75 ± 44<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">72 ± 22<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">84 ± 31<sup>a</sup>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">T<sub>max</sub>
+</td><td align="left" colspan="1" rowspan="1">day</td><td align="center" colspan="1" rowspan="1">1.7 ± 0.6<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">1.3 ± 0.6<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">1.3 ± 0.6<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">1.3 ± 0.6<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">3.7 ± 2.9<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">3.3 ± 2.5<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">6 ± 5.9<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">4 ± 2.7<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">18 ± 13.2<sup>a</sup>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic>C</italic>
+<sub>max</sub>
+</td><td align="left" colspan="1" rowspan="1">μg/mL</td><td align="center" colspan="1" rowspan="1">9.6 ± 0.9<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">10.9 ± 0.4<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">10.4 ± 0.5<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">0.69 ± 0.06<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">0.95 ± 0.07<sup>b</sup>
+</td><td align="center" colspan="1" rowspan="1">0.67 ± 0.08<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">0.25 ± 0.09<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">0.24 ± 0.04<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">0.23 ± 0.07<sup>a</sup>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">AUC</td><td align="left" colspan="1" rowspan="1">μg/mL × day</td><td align="center" colspan="1" rowspan="1">544 ± 156<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">523 ± 44<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">564 ± 24<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">52 ± 4 <sup>ab</sup>
+</td><td align="center" colspan="1" rowspan="1">72 ± 13<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">38 ± 14<sup>b</sup>
+</td><td align="center" colspan="1" rowspan="1">20 ± 7<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">21 ± 5<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">19 ± 6<sup>a</sup>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">V<sub>d</sub>/F</td><td align="left" colspan="1" rowspan="1">mL/kg</td><td align="center" colspan="1" rowspan="1">571 ± 112<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">457 ± 15<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">489 ± 10<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">740 ± 22<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">545 ± 44<sup>b</sup>
+</td><td align="center" colspan="1" rowspan="1">769 ± 107 <sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">662 ± 163<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">560 ± 49<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">802 ± 196<sup>a</sup>
+</td></tr><tr><td align="left" colspan="1" rowspan="1">CL/F</td><td align="left" colspan="1" rowspan="1">mL/kg/day</td><td align="center" colspan="1" rowspan="1">11.1 ± 2.7<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">9.2 ± 1.5<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">8 ± 0.9<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">11.3 ± 2.9<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">7.9 ± 1.9<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">11.4 ± 2.2<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">8.8 ± 6.5<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">5.7 ± 1.5<sup>a</sup>
+</td><td align="center" colspan="1" rowspan="1">7.6 ± 3.7<sup>a</sup>
+</td></tr></tbody></table><table-wrap-foot><fn id="tbl1fn1"><label>a</label><p>All values are means ± standard
+deviations for <italic>n</italic> = 3–5 animals. Statistical
+comparisons between genotypes within the same dose were made using
+two-way ANOVA with Tukey’s post hoc test. Values sharing the
+same letter are not significantly different from each other (<italic>p</italic> ≥ 0.05).</p></fn></table-wrap-foot></table-wrap><p>Although not statistically significant, elimination half-lives
+(<italic>t</italic>
+<sub>1/2</sub>) tended to be dose-dependent, being
+shorter at the higher dose (35–43 days for 5 mg/kg) and progressively
+increasing with decreasing doses, from 47 to 50 days at 0.5 mg/kg
+to 72–84 days at 0.1 mg/kg. Similarly, <italic>C</italic>
+<sub>max</sub> was reached more quickly at higher doses, with T<sub>max</sub> extending at lower doses, while the differences in <italic>C</italic>
+<sub>max</sub> and AUC among the doses aligned with the differences
+in administered doses. Interestingly, V<sub>d</sub>/F tended to increase
+as the dose decreased, and consequently, apparent clearance (CL/F)
+was higher at the higher doses, suggesting dose-dependent kinetics.
+Measured <italic>t</italic>
+<sub>1/2</sub> for the 5 mg/kg dose were
+comparable to <italic>t</italic>
+<sub>1/2</sub> measured previously,
+whereas V<sub>d</sub>/F and CL/F values were ∼2 times higher
+in our study as compared to a previous study that applied a single
+oral dose of 1 mg PFOS/kg.
+</p><p>Our
+data on temporal <italic>C</italic>
+<sub>blood</sub> of PFOS
+and the derived toxicokinetic parameters suggest that L-FABP or I-FABP
+deletion does not consistently alter systemic PFOS exposure or volume
+of distribution across doses. However, <italic>C</italic>
+<sub>max</sub> and V<sub>d</sub>/F were significantly different in the L-FABP<sup>–/–</sup> group at 0.5 mg/kg compared to WT and I-FABP<sup>–/–</sup>, whereas no other dose or genotype combination
+showed significant toxicokinetic differences. Notably, serum albumin
+levels were modestly lower in L-FABP<sup>–/–</sup> mice
+(∼19%, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Figure S6B</ext-link>), but this would
+be expected to increase V<sub>d</sub>/F and reduce <italic>C</italic>
+<sub>max</sub>, contrary to our findings. While the higher <italic>C</italic>
+<sub>max</sub> and lower V<sub>d</sub>/F observed in L-FABP<sup>–/–</sup> mice at 0.5 mg/kg were statistically significant,
+the absence of similar differences at 0.1 and 5 mg/kg, combined with
+consistent half-lives and tissue distribution, suggests this is more
+likely due to random variation than a biologically relevant effect.
+The differences in toxicokinetics across doses, though not statistically
+significant, indicate that other factors are likely to play a more
+important role in the systemic circulation and elimination of PFOS.
+To analyze the effects of FABP binding to PFOS distribution out of
+the systemic circulation, PFOS levels in various tissues were measured
+at the end of the experiments.</p></sec><sec id="sec3.3" disp-level="2"><label>3.3.</label><title>Tissue
+Distribution Patterns</title><p>The
+tissue distribution patterns of PFOS were largely unaffected by the
+deletion of FABP in knockout mice compared to their respective wild-type
+controls across all dose levels (<xref rid="fig2" ref-type="fig">Figure 
+</xref>). Although PFOS concentrations were generally
+highest in the global L-FABP knockout group at 0.5 and 0.1 mg/kg,
+these differences were not statistically significant (<xref rid="fig2" ref-type="fig">Figure 
+</xref>B,C). At the highest dose (5
+mg/kg), only one statistically significant difference was observedliver
+PFOS levels in L-FABPint<sup>–/–</sup> mice were elevated
+compared to L-FABPliv<sup>–/–</sup> mice (<xref rid="fig2" ref-type="fig">Figure 
+</xref>A). When tissue concentration
+ratios were derived (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Figure S4</ext-link>), these
+trends disappeared, suggesting that the observed variations may be
+due to differences in dosing or body weight rather than a genotype
+effect. Overall, there were no significant differences in tissue concentration
+ratios between genotypes, indicating that FABP is not critical in
+mediating the distribution of PFOS to the tissues tested herein.</p><fig id="fig2" position="float"><?disp-level 3?><label>2</label><caption><p>PFOS tissue
+concentrations measured in tissues of wild-type mice
+and mice with local (L-FABPint<sup>–/–</sup>, L-FABPliv<sup>–/–</sup>) or global FABP deletion (L-FABP<sup>–/–</sup>, I-FABP<sup>–/–</sup>), 60–65 days after a
+single oral administration of A. 5 mg/kg, B. 0.5 mg/kg, and C. 0.1
+mg/kg PFOS (<italic>n</italic> = 3–5). L-FABP<sup>fl/fl</sup> control in A; WT control in B and C. Statistical comparisons were
+made using two-way ANOVA with Tukey’s post hoc test (*<italic>p</italic> &lt; 0.05, **<italic>p</italic> &lt; 0.01, ***<italic>p</italic> &lt; 0.001, ****<italic>p</italic> &lt; 0.0001).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr2" xlink:href="tx5c00199_0002.jpg"><?cloudpmc-path blobs/40f5/12442221/c5c4f24c0ab9/tx5c00199_0002.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 580?><?original-width 1609?><?scaled-height 232?><?scaled-width 643?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="tx5c00199_0002.gif"><?cloudpmc-path blobs/40f5/12442221/2439d84035d1/tx5c00199_0002.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>In control mice, the liver/blood concentration
+ratio at 0.5 mg/kg
+was significantly higher than at the 5 and 1 mg/kg doses (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Figure S5A</ext-link>). Additionally, kidney/blood, brain/blood,
+and muscle/blood ratios were significantly higher at 0.1 mg/kg compared
+to 5 mg/kg doses. Notably, such differences were not observed in mice
+with global L-FABP and I-FABP deletion (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Figure S5B,C</ext-link>). These findings again indicate dose-dependent PFOS toxicokinetics,
+which aligns with the trend of slower elimination observed at lower
+doses (<xref rid="fig1" ref-type="fig">Figure 
+</xref>, <xref rid="tbl1" ref-type="table">Table 
+</xref>). This observation
+aligns with recent findings of nonmonotonic dose–response relationships
+observed in <italic>in vitro</italic> hepatocyte studies and among firefighters with occupational PFAS
+exposure. Our data suggest that dose-dependent
+toxicokinetics may contribute to these responses, emphasizing the
+need for mechanistic studies to investigate the saturation of protein
+binding and the roles of uptake and efflux transporters across PFAS
+exposure levels, ranging from baseline environmental exposures to
+occupational and high-dose conditions in animal studies.</p><p>Across
+all genotypes and doses, the liver consistently accumulated
+the highest PFOS levels, followed by the lung, blood, kidney, intestine,
+brain, and muscle tissue. These observations confirm liver tissue
+as the primary site of PFOS accumulation.<italic>
+,,,
+</italic> It is also
+interesting to note the relatively high distribution of PFOS to lung
+tissue, even though the chemical was administered orally. This observation
+aligns with relatively high PFOS levels measured in human lung tissue. The fact that PFOS reaches the lungs despite
+the lack of inhalation exposure suggests that PFOS may have a high
+affinity for lung tissue, which was recently suggested in binding
+studies.
+</p></sec><sec id="sec3.4" disp-level="2"><label>3.4.</label><title>Excretion
+through Urine and Feces</title><p>PFOS excretion through urine and
+feces was generally comparable between
+wild-type and across FABP knockouts (<xref rid="fig3" ref-type="fig">Figure 
+</xref>). This suggests that the deletion of FABP
+does not significantly alter the disposition of PFOS into these excretory
+pathways, aligning with the observed similar circulatory toxicokinetics
+and tissue distribution patterns observed across the genotypes. Notably,
+PFOS levels in feces were 4–5 times higher than in urine, suggesting
+biliary excretion as the primary elimination route following oral
+administration in mice. This contrasts with a previous mouse study, where urinary excretion was the dominant elimination
+pathway, but aligns with the fecal/urinary elimination ratios of ∼5
+and 3.65 observed for PFOS in rats and
+humans. There was a slight trend of decreasing
+PFOS levels in both urine and feces over time, consistent with the
+temporal decline in blood concentrations. L-FABP<sup>–/–</sup> mice exhibited slightly higher PFOS levels in urine and feces at
+the 0.5 mg/kg dose after 16 days, which correlates with the higher <italic>C</italic>
+<sub>blood</sub> observed at earlier time points (<xref rid="fig1" ref-type="fig">Figure 
+</xref>B). However, these
+differences were not statistically significant, reinforcing the conclusion
+that FABP deletion has no significant impact on PFOS excretion, suggesting
+that other toxicokinetic pathways are more influential in determining
+PFOS elimination. PFOS levels in urine and feces were also measured
+in the 0.1 mg/kg dose group but were consistently below detection
+limits across all genotypes and time points; thus, these data are
+not shown.</p><fig id="fig3" position="float"><?disp-level 3?><label>3</label><caption><p>PFOS concentrations in urine and feces over time in wild-type mice
+and mice with local (L-FABPint<sup>–/–</sup>, L-FABPliv<sup>–/–</sup>) or global FABP deletion (L-FABP<sup>–/–</sup>, I-FABP<sup>–/–</sup>). Mice were dosed with 5 mg/kg
+(A, B) or 0.5 mg/kg (C, D) of PFOS (<italic>n</italic> = 3–5).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr3" xlink:href="tx5c00199_0003.jpg"><?cloudpmc-path blobs/40f5/12442221/67891f8a527d/tx5c00199_0003.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 917?><?original-width 992?><?scaled-height 611?><?scaled-width 661?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="tx5c00199_0003.gif"><?cloudpmc-path blobs/40f5/12442221/9aa51773965f/tx5c00199_0003.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="sec3.5" disp-level="2"><label>3.5.</label><title>PFAS Binding to Liver Tissues</title><p>
+<xref rid="fig4" ref-type="fig">Figure 
+</xref> shows the
+fold-difference
+in liver partition coefficients (<italic>K</italic>
+<sub>liver</sub>) measured for liver tissues sampled from wild-type mice and global
+L-FABP knockout (L-FABP<sup>–/–</sup>) mice. These <italic>K</italic>
+<sub>liver</sub> values were obtained using C18 fiber solid-phase
+microextraction (SPME) with liver tissue homogenates from PFOS-free
+wild-type and global L-FABP knockout mice. For 15 of the 19 PFAS tested,
+the difference in <italic>K</italic>
+<sub>liver</sub> between wild-type
+and knockout mice was less than 20%, indicating no considerable difference
+in partitioning. Notably, 14 PFAS were above the 1:1 line, indicating
+slightly higher binding to FABP-containing liver tissues. However,
+these small differences might not translate into significant <italic>in vivo</italic> effects, as was the case for PFOS (<xref rid="fig2" ref-type="fig">Figures 
+</xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">S2</ext-link>). The four PFAS that showed more than a 20% difference in <italic>K</italic>
+<sub>liver</sub> between genotypes all contain sulfonate
+or sulfonamide headgroups. These included PFDS (+32%), PFNS (+55%),
+10:2 FTS (+26%), and FOSA (−21%). These findings suggest that
+FABP may play a role in the liver accumulation of these specific chemicals,
+suggesting testing these PFAS in future experiments with FABP knockouts.</p><fig id="fig4" position="float"><?disp-level 3?><label>4</label><caption><p>Percentage
+difference in liver partition coefficients measured
+for liver tissues sampled from wild-type mice compared to mice with
+global L-FABP deletion (L-FABP<sup>–/–</sup>). PFAS
+classes are indicated by the color and shape of symbols, and sorted
+by their molecular weight.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr4" xlink:href="tx5c00199_0004.jpg"><?cloudpmc-path blobs/40f5/12442221/242cd9f62d91/tx5c00199_0004.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 553?><?original-width 872?><?scaled-height 368?><?scaled-width 581?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="tx5c00199_0004.gif"><?cloudpmc-path blobs/40f5/12442221/c426df1406da/tx5c00199_0004.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>While it is possible that other FA-binding proteins may be compensating
+for the absence of the L-FABP in liver and/or intestine and for I-FABP
+in intestine, it is noteworthy that in the global and conditional
+FABP knockouts, no upregulation of other FABPs was observed (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Figure S1</ext-link>).<italic>
+−
+
+</italic> Interestingly, in both
+the intestine-specific and liver-specific knockouts, serum albumin
+levels were modestly elevated (∼40–44% higher than wild-type, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Figure S6A</ext-link>), while global knockout of L-FABP
+was associated with an ∼19% reduction in serum albumin (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">Figure S6B</ext-link>). Despite these changes, because albumin
+is secreted and extracellular, and spatially segregated from the cytosolic
+FABPs, such shifts are unlikely to represent true intracellular compensation
+or to substantially influence intracellular PFAS partitioning.</p></sec><sec id="sec3.6" disp-level="2"><label>3.6.</label><title>Implications for PFAS Toxicokinetics in Humans</title><p>This
+study is the first to examine circulatory exposures and tissue
+distribution of PFOS after oral administration in mice lacking L-FABP
+or I-FABP. Despite <italic>in vitro</italic> and binding studies suggesting
+FABP as an important binding protein for PFAS,<italic>
+,−
+
+
+
+</italic> the lack of significant differences in PFOS distribution and elimination
+between FABP knockouts and wild-type mice indicates that FABP is not
+a crucial determinant of PFOS toxicokinetics. This suggests that other
+mechanisms, such as binding to phospholipids and/or structural proteins may be responsible
+for the high concentrations of PFOS observed in the liver. Additionally,
+permeability and transporter-mediated uptake are suggested key mechanisms
+for PFAS tissue distribution and renal and biliary excretion.<italic>
+−
+
+
+
+
+</italic> The role of membrane transporters such as organic anion transporters
+(OAT) and organic anion transporting polypeptides (OATP) could be
+evaluated in future knockout experiments using the framework from
+our study.</p><p>The herein reported blood exposure and tissue distribution
+data can be used to evaluate the performance of physiologically based
+toxicokinetic (PBTK) models developed to analyze the mechanisms of
+PFAS toxicokinetics <italic>in vivo</italic>. Given that PBTK models
+have been developed for both mice and rats, it would be valuable to
+compare our data to model simulations in presence and absence of FABP
+binding in liver and other tissues.</p><p>This study provides important
+insights into the relative importance
+of FABP in toxicokinetics of PFOS and PFAS as a chemical class. When
+extrapolating our findings to human exposures, the fact that FABP
+levels in human livers are approximately twice as high as in mice
+should be considered. Additionally, species
+differences in the binding affinity of PFAS to FABPs have been observed,
+with PFAS binding more strongly to human FABP than to rodent FABP. Both the abundance of FABP in various organs
+as well as their capacity to bind PFAS should be considering when
+extrapolating ours study findings to human exposures. However, FABP
+is less abundant in the human liver compared to other binding molecules
+like phospholipids and structural proteins, which may explain its limited impact on tissue distribution <italic>in vivo</italic>.</p><p>While our data suggest that FABP does not
+play a significant role
+in PFAS toxicokinetics, it does not examine whether or how the absence
+of FABP would affect toxicological outcomes associated with PFAS exposures,
+such as hepatic lipid accumulation or oxidative stress. Toxicological
+and histopathological changes in FABP knockout versus wild-type mice
+have been analyzed and will be published in a separate manuscript.
+Additionally, a limitation of the study herein is that relatively
+high concentrations of single PFAS were used, whereas real-world human
+exposures typically involve lower concentrations, repeated exposures,
+and complex PFAS mixtures. Nonmonotonic dose–response relationships
+have been observed in both <italic>in vitro</italic> and epidemiological
+studies,<italic>
+,
+</italic> suggesting nonlinearity of tissue binding
+and/or transporter-mediated distribution. This underscores the need
+for future studies to investigate PFAS toxicokinetics at environmentally
+relevant concentrations within complex mixtures, recreating chronic
+human exposures with a repeated dosing regimen, and additional PFAS.
+Such studies will help determine whether similar dose-dependent patterns
+persist and further clarify the role of FABP in the context of human
+exposures. Additionally, comorbidities like metabolic dysfunction-associated
+steatotic liver disease (MASLD) and obesity have been associated with altered FABP levels
+in the liver, which could affect the susceptibility of affected individuals
+to PFAS toxicities. Future research should explore the interplay between
+FABP deficiency, PFAS toxicokinetics, and the role of FABP in modulating
+toxicological outcomes in the context of these comorbid conditions.
+While we included both systemic and liver-specific L-FABP knockouts
+at different doses, a fully systematic dose–response comparison
+across all exposure levels could further confirm our findings. However,
+given the consistent lack of toxicokinetic differences across genotypes
+and doseswith the exception of an isolated variation at 0.5
+mg/kgwe are confident that FABPs do not play a significant
+role in PFOS toxicokinetics under the tested conditions.</p></sec></sec><sec id="sec18" disp-level="1"><title>Supplementary Material</title><supplementary-material id="sifile1" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="tx5c00199_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 40f5/12442221/b9b494918d1c/tx5c00199_si_001.pdf?><?cloudpmc-bucket app?><?size 826454?></media></supplementary-material></sec><sec id="ack1" sec-type="ack" disp-level="1"><title>Acknowledgments</title><p>This work was supported by National
+Institute of
+Health (grant number P42ES027706 and DK38389 (JS)). This material
+is based upon work conducted at a Rhode Island NSF EPSCoR research
+facility, Molecular Characterization Facility, supported in part by
+the National Science Foundation EPSCoR Cooperative Agreement # OIA-1655221,
+and at a Rhode Island Institutional Development Award (IDeA) Network
+of Biomedical Research Excellence from the National Institute of General
+Medical Sciences of the National Institutes of Health under grant
+number P20GM103430. The funders had no role in study design, data
+collection and analysis, decision to publish, or preparation of the
+manuscript. The TOC art was created by the authors with BioRender.com.</p></sec><sec id="notes1" disp-level="1"><p>The Supporting
+Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/10.1021/acs.chemrestox.5c00199?goto=supporting-info" ext-link-type="uri">https://pubs.acs.org/doi/10.1021/acs.chemrestox.5c00199</ext-link>.</p><list list-type="simple" id="silist1"><list-item><p>Sample preparation;
+PFOS extraction procedure; instrument
+analysis and quality assurance; body and liver weights; tissue/blood
+concentration ratios (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.5c00199/suppl_file/tx5c00199_si_001.pdf" ext-link-type="uri">PDF</ext-link>)</p></list-item></list></sec><sec id="notes2" disp-level="1"><p>The
+authors
+declare no competing financial interest.</p></sec><sec id="ref-list1" sec-type="ref-list" disp-level="1"><title>References</title><sec id="ref-list1_sec2" disp-level="2"><ref-list><ref id="ref1"><mixed-citation id="cit1"><named-content content-type="citation-string">Buck R. C., Franklin J., Berger U., Conder J. M., Cousins I. T., de Voogt P., Jensen A. A., Kannan K., Mabury S. A., van Leeuwen S. P.. Perfluoroalkyl
+and polyfluoroalkyl substances in the
+environment: Terminology, classification, and origins. Integr Environ. Asses. 2011;7(4):513–541. doi: 10.1002/ieam.258.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/ieam.258"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3214619"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21793199"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Integr Environ. Asses.&amp;title=Perfluoroalkyl and polyfluoroalkyl substances in the environment: Terminology, classification, and origins&amp;author=R. C. Buck&amp;author=J. Franklin&amp;author=U. Berger&amp;author=J. M. Conder&amp;author=I. T. Cousins&amp;volume=7&amp;issue=4&amp;publication_year=2011&amp;pages=513-541&amp;pmid=21793199&amp;doi=10.1002/ieam.258&amp;"/></mixed-citation></ref><ref id="ref2"><mixed-citation id="cit2"><named-content content-type="citation-string">Glüge J., Scheringer M., Cousins I. T., DeWitt J. C., Goldenman G., Herzke D., Lohmann R., Ng C. A., Trier X., Wang Z.. An overview of the uses of per- and polyfluoroalkyl substances (PFAS) Environ. Sci.: Processes Impacts. 2020;22(12):2345–2373. doi: 10.1039/D0EM00291G.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1039/D0EM00291G"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7784712"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33125022"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci.: Processes Impacts&amp;title=An overview of the uses of per- and polyfluoroalkyl substances (PFAS)&amp;author=J. Glüge&amp;author=M. Scheringer&amp;author=I. T. Cousins&amp;author=J. C. DeWitt&amp;author=G. Goldenman&amp;volume=22&amp;issue=12&amp;publication_year=2020&amp;pages=2345-2373&amp;pmid=33125022&amp;doi=10.1039/D0EM00291G&amp;"/></mixed-citation></ref><ref id="ref3"><mixed-citation id="cit3"><named-content content-type="citation-string">Grgas D., Petrina A., Štefanac T., Bešlo D., Landeka Dragićević T.. A Review:
+Per- and Polyfluoroalkyl
+Substances-Biological Degradation. Toxics. 2023;11:446. doi: 10.3390/toxics11050446.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/toxics11050446"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10220634"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37235260"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxics&amp;title=A Review: Per- and Polyfluoroalkyl Substances-Biological Degradation&amp;author=D. Grgas&amp;author=A. Petrina&amp;author=T. Štefanac&amp;author=D. Bešlo&amp;author=T. Landeka Dragićević&amp;volume=11&amp;publication_year=2023&amp;pages=446&amp;pmid=37235260&amp;doi=10.3390/toxics11050446&amp;"/></mixed-citation></ref><ref id="ref4"><mixed-citation id="cit4"><named-content content-type="citation-string">Calafat A. M., Wong L.-Y., Kuklenyik Z., Reidy J. A., Needham L. L.. Polyfluoroalkyl
+chemicals in the U.S. population: data from the National Health and
+Nutrition Examination Survey (NHANES) 2003–2004 and comparisons
+with NHANES 1999–2000. Environ. Health
+Perspect. 2007;115(11):1596–1602. doi: 10.1289/ehp.10598.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1289/ehp.10598"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2072821"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18007991"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Health Perspect.&amp;title=Polyfluoroalkyl chemicals in the U.S. population: data from the National Health and Nutrition Examination Survey (NHANES) 2003–2004 and comparisons with NHANES 1999–2000&amp;author=A. M. Calafat&amp;author=L.-Y. Wong&amp;author=Z. Kuklenyik&amp;author=J. A. Reidy&amp;author=L. L. Needham&amp;volume=115&amp;issue=11&amp;publication_year=2007&amp;pages=1596-1602&amp;pmid=18007991&amp;doi=10.1289/ehp.10598&amp;"/></mixed-citation></ref><ref id="ref5"><mixed-citation id="cit5"><named-content content-type="citation-string">Grandjean P., Andersen E. W., Budtz-Jørgensen E., Nielsen F., Mølbak K., Weihe P., Heilmann C.. Serum Vaccine
+Antibody
+Concentrations in Children Exposed to Perfluorinated Compounds. JAMA. 2012;307(4):391–397. doi: 10.1001/jama.2011.2034.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1001/jama.2011.2034"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4402650"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22274686"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=JAMA&amp;title=Serum Vaccine Antibody Concentrations in Children Exposed to Perfluorinated Compounds&amp;author=P. Grandjean&amp;author=E. W. Andersen&amp;author=E. Budtz-Jørgensen&amp;author=F. Nielsen&amp;author=K. Mølbak&amp;volume=307&amp;issue=4&amp;publication_year=2012&amp;pages=391-397&amp;pmid=22274686&amp;doi=10.1001/jama.2011.2034&amp;"/></mixed-citation></ref><ref id="ref6"><mixed-citation id="cit6"><named-content content-type="citation-string">Grandjean P., Heilmann C., Weihe P., Nielsen F., Mogensen U. B., Timmermann A., Budtz-Jørgensen E.. Estimated exposures
+to perfluorinated compounds in infancy predict attenuated vaccine
+antibody concentrations at age 5-years. J. Immuno. 2017;14(1):188–195. doi: 10.1080/1547691X.2017.1360968.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1080/1547691X.2017.1360968"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6190594"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28805477"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Immuno.&amp;title=Estimated exposures to perfluorinated compounds in infancy predict attenuated vaccine antibody concentrations at age 5-years&amp;author=P. Grandjean&amp;author=C. Heilmann&amp;author=P. Weihe&amp;author=F. Nielsen&amp;author=U. B. Mogensen&amp;volume=14&amp;issue=1&amp;publication_year=2017&amp;pages=188-195&amp;pmid=28805477&amp;doi=10.1080/1547691X.2017.1360968&amp;"/></mixed-citation></ref><ref id="ref7"><mixed-citation id="cit7"><named-content content-type="citation-string">Costello E., Rock S., Stratakis N., Eckel S. P., Walker D. I., Valvi D., Cserbik D., Jenkins T., Xanthakos S. A., Kohli R.. et al. Exposure to per- and Polyfluoroalkyl Substances and
+Markers of Liver Injury: A Systematic Review and Meta-Analysis. Environ. Health Perspect. 2022;130(4):046001. doi: 10.1289/ehp10092.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1289/ehp10092"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9044977"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35475652"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Health Perspect.&amp;title=Exposure to per- and Polyfluoroalkyl Substances and Markers of Liver Injury: A Systematic Review and Meta-Analysis&amp;author=E. Costello&amp;author=S. Rock&amp;author=N. Stratakis&amp;author=S. P. Eckel&amp;author=D. I. Walker&amp;volume=130&amp;issue=4&amp;publication_year=2022&amp;pages=046001&amp;pmid=35475652&amp;doi=10.1289/ehp10092&amp;"/></mixed-citation></ref><ref id="ref8"><mixed-citation id="cit8"><named-content content-type="citation-string">Averina M., Brox J., Huber S., Furberg A. S.. Exposure to perfluoroalkyl
+substances (PFAS) and dyslipidemia, hypertension and obesity in adolescents.
+The Fit Futures study. Environ. Res. 2021;195:110740. doi: 10.1016/j.envres.2021.110740.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envres.2021.110740"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33460636"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Res.&amp;title=Exposure to perfluoroalkyl substances (PFAS) and dyslipidemia, hypertension and obesity in adolescents. The Fit Futures study&amp;author=M. Averina&amp;author=J. Brox&amp;author=S. Huber&amp;author=A. S. Furberg&amp;volume=195&amp;publication_year=2021&amp;pages=110740&amp;pmid=33460636&amp;doi=10.1016/j.envres.2021.110740&amp;"/></mixed-citation></ref><ref id="ref9"><mixed-citation id="cit9"><named-content content-type="citation-string">Modaresi S. M. S., Wei W., Emily M., DaSilva N. A., Slitt A. L.. Per- and
+polyfluoroalkyl substances (PFAS) augment adipogenesis and shift the
+proteome in murine 3T3-L1 adipocytes. Toxicology. 2022;465:153044. doi: 10.1016/j.tox.2021.153044.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tox.2021.153044"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8756374"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34800597"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicology&amp;title=Per- and polyfluoroalkyl substances (PFAS) augment adipogenesis and shift the proteome in murine 3T3-L1 adipocytes&amp;author=S. M. S. Modaresi&amp;author=W. Wei&amp;author=M. Emily&amp;author=N. A. DaSilva&amp;author=A. L. Slitt&amp;volume=465&amp;publication_year=2022&amp;pages=153044&amp;pmid=34800597&amp;doi=10.1016/j.tox.2021.153044&amp;"/></mixed-citation></ref><ref id="ref10"><mixed-citation id="cit10"><named-content content-type="citation-string">Boyd R. I., Shokry D., Fazal Z., Rennels B. C., Freemantle S. J., La Frano M. R., Prins G. S., Madak Erdogan Z., Irudayaraj J., Singh R., Spinella M. J.. Perfluorooctanesulfonic
+Acid Alters Pro-Cancer Phenotypes and Metabolic and Transcriptional
+Signatures in Testicular Germ Cell Tumors. Toxics. 2024;12(4):232. doi: 10.3390/toxics12040232.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/toxics12040232"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11054796"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38668455"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxics&amp;title=Perfluorooctanesulfonic Acid Alters Pro-Cancer Phenotypes and Metabolic and Transcriptional Signatures in Testicular Germ Cell Tumors&amp;author=R. I. Boyd&amp;author=D. Shokry&amp;author=Z. Fazal&amp;author=B. C. Rennels&amp;author=S. J. Freemantle&amp;volume=12&amp;issue=4&amp;publication_year=2024&amp;pages=232&amp;pmid=38668455&amp;doi=10.3390/toxics12040232&amp;"/></mixed-citation></ref><ref id="ref11"><mixed-citation id="cit11"><named-content content-type="citation-string">Chang S.-C., Noker P. E., Gorman G. S., Gibson S. J., Hart J. A., Ehresman D. J., Butenhoff J. L.. Comparative
+pharmacokinetics of perfluorooctanesulfonate
+(PFOS) in rats, mice, and monkeys. Reprod. Toxicol. 2012;33(4):428–440. doi: 10.1016/j.reprotox.2011.07.002.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.reprotox.2011.07.002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21889587"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Reprod. Toxicol.&amp;title=Comparative pharmacokinetics of perfluorooctanesulfonate (PFOS) in rats, mice, and monkeys&amp;author=S.-C. Chang&amp;author=P. E. Noker&amp;author=G. S. Gorman&amp;author=S. J. Gibson&amp;author=J. A. Hart&amp;volume=33&amp;issue=4&amp;publication_year=2012&amp;pages=428-440&amp;pmid=21889587&amp;doi=10.1016/j.reprotox.2011.07.002&amp;"/></mixed-citation></ref><ref id="ref12"><mixed-citation id="cit12"><named-content content-type="citation-string">Cao H., Zhou Z., Hu Z., Wei C., Li J., Wang L., Liu G., Zhang J., Wang Y., Wang T., Liang Y.. Effect of
+Enterohepatic Circulation
+on the Accumulation of Per- and Polyfluoroalkyl Substances: Evidence
+from Experimental and Computational Studies. Environ. Sci. Technol. 2022;56(5):3214–3224. doi: 10.1021/acs.est.1c07176.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.1c07176"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35138827"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Effect of Enterohepatic Circulation on the Accumulation of Per- and Polyfluoroalkyl Substances: Evidence from Experimental and Computational Studies&amp;author=H. Cao&amp;author=Z. Zhou&amp;author=Z. Hu&amp;author=C. Wei&amp;author=J. Li&amp;volume=56&amp;issue=5&amp;publication_year=2022&amp;pages=3214-3224&amp;pmid=35138827&amp;doi=10.1021/acs.est.1c07176&amp;"/></mixed-citation></ref><ref id="ref13"><mixed-citation id="cit13"><named-content content-type="citation-string">Pérez F., Nadal M., Navarro-Ortega A., Fàbrega F., Domingo J. L., Barceló D., Farré M.. Accumulation
+of perfluoroalkyl substances in human tissues. Environ. Int. 2013;59:354–362. doi: 10.1016/j.envint.2013.06.004.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envint.2013.06.004"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23892228"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Int.&amp;title=Accumulation of perfluoroalkyl substances in human tissues&amp;author=F. Pérez&amp;author=M. Nadal&amp;author=A. Navarro-Ortega&amp;author=F. Fàbrega&amp;author=J. L. Domingo&amp;volume=59&amp;publication_year=2013&amp;pages=354-362&amp;pmid=23892228&amp;doi=10.1016/j.envint.2013.06.004&amp;"/></mixed-citation></ref><ref id="ref14"><mixed-citation id="cit14"><named-content content-type="citation-string">Nielsen F., Fischer F. C., Leth P. M., Grandjean P.. Occurrence
+of Major Perfluorinated Alkylate Substances in Human Blood and Target
+Organs. Environ. Sci. Technol. 2024;58(1):143–149. doi: 10.1021/acs.est.3c06499.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.3c06499"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10785751"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38154793"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Occurrence of Major Perfluorinated Alkylate Substances in Human Blood and Target Organs&amp;author=F. Nielsen&amp;author=F. C. Fischer&amp;author=P. M. Leth&amp;author=P. Grandjean&amp;volume=58&amp;issue=1&amp;publication_year=2024&amp;pages=143-149&amp;pmid=38154793&amp;doi=10.1021/acs.est.3c06499&amp;"/></mixed-citation></ref><ref id="ref15"><mixed-citation id="cit15"><named-content content-type="citation-string">Bogdanska J., Borg D., Sundström M., Bergström U., Halldin K., Abedi-Valugerdi M., Bergman A., Nelson B., Depierre J., Nobel S.. Tissue distribution
+of 3 5 S-labelled perfluorooctane sulfonate in adult
+mice after oral exposure
+to a low environmentally relevant dose or a high experimental dose. Toxicology. 2011;284:54–62. doi: 10.1016/j.tox.2011.03.014.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tox.2011.03.014"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21459123"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicology&amp;title=Tissue distribution of 3 5 S-labelled perfluorooctane sulfonate in adult mice after oral exposure to a low environmentally relevant dose or a high experimental dose&amp;author=J. Bogdanska&amp;author=D. Borg&amp;author=M. Sundström&amp;author=U. Bergström&amp;author=K. Halldin&amp;volume=284&amp;publication_year=2011&amp;pages=54-62&amp;pmid=21459123&amp;doi=10.1016/j.tox.2011.03.014&amp;"/></mixed-citation></ref><ref id="ref16"><mixed-citation id="cit16"><named-content content-type="citation-string">Khazaee M., Christie E., Cheng W., Michalsen M., Field J., Ng C.. Perfluoroalkyl Acid
+Binding with
+Peroxisome Proliferator-Activated Receptors α, γ, and
+δ, and Fatty Acid Binding Proteins by Equilibrium Dialysis with
+a Comparison of Methods. Toxics. 2021;9(3):45. doi: 10.3390/toxics9030045.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/toxics9030045"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7996760"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33652875"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxics&amp;title=Perfluoroalkyl Acid Binding with Peroxisome Proliferator-Activated Receptors α, γ, and δ, and Fatty Acid Binding Proteins by Equilibrium Dialysis with a Comparison of Methods&amp;author=M. Khazaee&amp;author=E. Christie&amp;author=W. Cheng&amp;author=M. Michalsen&amp;author=J. Field&amp;volume=9&amp;issue=3&amp;publication_year=2021&amp;pages=45&amp;pmid=33652875&amp;doi=10.3390/toxics9030045&amp;"/></mixed-citation></ref><ref id="ref17"><mixed-citation id="cit17"><named-content content-type="citation-string">Yang D., Han J., Hall D. R., Sun J., Fu J., Kutarna S., Houck K. A., LaLone C. A., Doering J. A., Ng C. A., Peng H.. Nontarget Screening
+of Per- and Polyfluoroalkyl Substances Binding
+to Human Liver Fatty Acid Binding Protein. Environ.
+Sci. Technol. 2020;54(9):5676–5686. doi: 10.1021/acs.est.0c00049.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.0c00049"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7477755"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32249562"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Nontarget Screening of Per- and Polyfluoroalkyl Substances Binding to Human Liver Fatty Acid Binding Protein&amp;author=D. Yang&amp;author=J. Han&amp;author=D. R. Hall&amp;author=J. Sun&amp;author=J. Fu&amp;volume=54&amp;issue=9&amp;publication_year=2020&amp;pages=5676-5686&amp;pmid=32249562&amp;doi=10.1021/acs.est.0c00049&amp;"/></mixed-citation></ref><ref id="ref18"><mixed-citation id="cit18"><named-content content-type="citation-string">Zhang L., Ren X.-M., Guo L.-H.. Structure-Based Investigation on
+the Interaction of Perfluorinated Compounds with Human Liver Fatty
+Acid Binding Protein. Environ. Sci. Technol. 2013;47(19):11293–11301. doi: 10.1021/es4026722.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/es4026722"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24006842"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Structure-Based Investigation on the Interaction of Perfluorinated Compounds with Human Liver Fatty Acid Binding Protein&amp;author=L. Zhang&amp;author=X.-M. Ren&amp;author=L.-H. Guo&amp;volume=47&amp;issue=19&amp;publication_year=2013&amp;pages=11293-11301&amp;pmid=24006842&amp;doi=10.1021/es4026722&amp;"/></mixed-citation></ref><ref id="ref19"><mixed-citation id="cit19"><named-content content-type="citation-string">Zhang W., Tian Y., Chen B., Xu S., Wu L.. PFOA/PFOS
+Facilitated Intestinal Fatty Acid Absorption by Activating the PPARα
+Pathway: Insights from Organoids Model. Environ.
+Health. 2024;2(2):85–94. doi: 10.1021/envhealth.3c00129.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/envhealth.3c00129"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11504624"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="39474103"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Health&amp;title=PFOA/PFOS Facilitated Intestinal Fatty Acid Absorption by Activating the PPARα Pathway: Insights from Organoids Model&amp;author=W. Zhang&amp;author=Y. Tian&amp;author=B. Chen&amp;author=S. Xu&amp;author=L. Wu&amp;volume=2&amp;issue=2&amp;publication_year=2024&amp;pages=85-94&amp;pmid=39474103&amp;doi=10.1021/envhealth.3c00129&amp;"/></mixed-citation></ref><ref id="ref20"><mixed-citation id="cit20"><named-content content-type="citation-string">Fischer F. C., Ludtke S., Thackray C., Pickard H. M., Haque F., Dassuncao C., Endo S., Schaider L., Sunderland E. M.. Binding
+of Per- and Polyfluoroalkyl Substances (PFAS) to Serum Proteins: Implications
+for Toxicokinetics in Humans. Environ. Sci.
+Technol. 2024;58(2):1055–1063. doi: 10.1021/acs.est.3c07415.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.3c07415"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11149785"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38166384"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Binding of Per- and Polyfluoroalkyl Substances (PFAS) to Serum Proteins: Implications for Toxicokinetics in Humans&amp;author=F. C. Fischer&amp;author=S. Ludtke&amp;author=C. Thackray&amp;author=H. M. Pickard&amp;author=F. Haque&amp;volume=58&amp;issue=2&amp;publication_year=2024&amp;pages=1055-1063&amp;pmid=38166384&amp;doi=10.1021/acs.est.3c07415&amp;"/></mixed-citation></ref><ref id="ref21"><mixed-citation id="cit21"><named-content content-type="citation-string">Haunerland N. H., Spener F.. Fatty acid-binding proteins–insights from genetic
+manipulations. Prog. Lipid Res. 2004;43(4):328–349. doi: 10.1016/j.plipres.2004.05.001.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.plipres.2004.05.001"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15234551"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Prog. Lipid Res.&amp;title=Fatty acid-binding proteins–insights from genetic manipulations&amp;author=N. H. Haunerland&amp;author=F. Spener&amp;volume=43&amp;issue=4&amp;publication_year=2004&amp;pages=328-349&amp;pmid=15234551&amp;doi=10.1016/j.plipres.2004.05.001&amp;"/></mixed-citation></ref><ref id="ref22"><mixed-citation id="cit22"><named-content content-type="citation-string">Jia Y., Zhu Y., Xu D., Feng X., Yu X., Shan G., Zhu L.. Insights into
+the Competitive Mechanisms of Per- and Polyfluoroalkyl
+Substances Partition in Liver and Blood. Environ.
+Sci. Technol. 2022;56(10):6192–6200. doi: 10.1021/acs.est.1c08493.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.1c08493"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35436088"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol&amp;title=Insights into the Competitive Mechanisms of Per- and Polyfluoroalkyl Substances Partition in Liver and Blood&amp;author=Y. Jia&amp;author=Y. Zhu&amp;author=D. Xu&amp;author=X. Feng&amp;author=X. Yu&amp;volume=56&amp;issue=10&amp;publication_year=2022&amp;pages=6192-6200&amp;pmid=35436088&amp;doi=10.1021/acs.est.1c08493&amp;"/></mixed-citation></ref><ref id="ref23"><mixed-citation id="cit23"><named-content content-type="citation-string">Gajda A. M., Storch J.. Enterocyte fatty acid-binding proteins (FABPs): different
+functions of liver and intestinal FABPs in the intestine. Prostaglandins Leukot Essent Fatty Acids. 2015;93:9–16. doi: 10.1016/j.plefa.2014.10.001.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.plefa.2014.10.001"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4323920"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25458898"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Prostaglandins Leukot Essent Fatty Acids&amp;title=Enterocyte fatty acid-binding proteins (FABPs): different functions of liver and intestinal FABPs in the intestine&amp;author=A. M. Gajda&amp;author=J. Storch&amp;volume=93&amp;publication_year=2015&amp;pages=9-16&amp;pmid=25458898&amp;doi=10.1016/j.plefa.2014.10.001&amp;"/></mixed-citation></ref><ref id="ref24"><mixed-citation id="cit24"><named-content content-type="citation-string">Cao H., Zhou Z., Wang L., Liu G., Sun Y., Wang Y., Wang T., Liang Y.. Screening of Potential
+PFOS Alternatives To Decrease Liver Bioaccumulation: Experimental
+and Computational Approaches. Environ. Sci.
+Technol. 2019;53(5):2811–2819. doi: 10.1021/acs.est.8b05564.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.8b05564"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30735364"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Screening of Potential PFOS Alternatives To Decrease Liver Bioaccumulation: Experimental and Computational Approaches&amp;author=H. Cao&amp;author=Z. Zhou&amp;author=L. Wang&amp;author=G. Liu&amp;author=Y. Sun&amp;volume=53&amp;issue=5&amp;publication_year=2019&amp;pages=2811-2819&amp;pmid=30735364&amp;doi=10.1021/acs.est.8b05564&amp;"/></mixed-citation></ref><ref id="ref25"><mixed-citation id="cit25"><named-content content-type="citation-string">Cheng W., Ng C. A.. Predicting Relative Protein Affinity of Novel Per- and Polyfluoroalkyl
+Substances (PFASs) by An Efficient Molecular Dynamics Approach. Environ. Sci. Technol. 2018;52(14):7972–7980. doi: 10.1021/acs.est.8b01268.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.8b01268"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29897239"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Predicting Relative Protein Affinity of Novel Per- and Polyfluoroalkyl Substances (PFASs) by An Efficient Molecular Dynamics Approach&amp;author=W. Cheng&amp;author=C. A. Ng&amp;volume=52&amp;issue=14&amp;publication_year=2018&amp;pages=7972-7980&amp;pmid=29897239&amp;doi=10.1021/acs.est.8b01268&amp;"/></mixed-citation></ref><ref id="ref26"><mixed-citation id="cit26"><named-content content-type="citation-string">Sheng N., Li J., Liu H., Zhang A., Dai J.. Interaction of perfluoroalkyl
+acids with human liver fatty acid-binding protein. Arch. Toxicol. 2016;90(1):217–227. doi: 10.1007/s00204-014-1391-7.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00204-014-1391-7"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25370009"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Arch. Toxicol.&amp;title=Interaction of perfluoroalkyl acids with human liver fatty acid-binding protein&amp;author=N. Sheng&amp;author=J. Li&amp;author=H. Liu&amp;author=A. Zhang&amp;author=J. Dai&amp;volume=90&amp;issue=1&amp;publication_year=2016&amp;pages=217-227&amp;pmid=25370009&amp;doi=10.1007/s00204-014-1391-7&amp;"/></mixed-citation></ref><ref id="ref27"><mixed-citation id="cit27"><named-content content-type="citation-string">Woodcroft M. W., Ellis D. A., Rafferty S. P., Burns D. C., March R. E., Stock N. L., Trumpour K. S., Yee J., Munro K.. Experimental
+characterization of the mechanism of perfluorocarboxylic acids’
+liver protein bioaccumulation: the key role of the neutral species. Environ. Toxicol. Chem. 2010;29(8):1669–1677. doi: 10.1002/etc.199.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/etc.199"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20821618"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Toxicol. Chem.&amp;title=Experimental characterization of the mechanism of perfluorocarboxylic acids’ liver protein bioaccumulation: the key role of the neutral species&amp;author=M. W. Woodcroft&amp;author=D. A. Ellis&amp;author=S. P. Rafferty&amp;author=D. C. Burns&amp;author=R. E. March&amp;volume=29&amp;issue=8&amp;publication_year=2010&amp;pages=1669-1677&amp;pmid=20821618&amp;doi=10.1002/etc.199&amp;"/></mixed-citation></ref><ref id="ref28"><mixed-citation id="cit28"><named-content content-type="citation-string">Luebker D. J., Hansen K. J., Bass N. M., Butenhoff J. L., Seacat A. M.. Interactions of fluorochemicals with rat liver fatty
+acid-binding protein. Toxicology. 2002;176(3):175–185. doi: 10.1016/s0300-483x(02)00081-1.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/s0300-483x(02)00081-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="12093614"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicology&amp;title=Interactions of fluorochemicals with rat liver fatty acid-binding protein&amp;author=D. J. Luebker&amp;author=K. J. Hansen&amp;author=N. M. Bass&amp;author=J. L. Butenhoff&amp;author=A. M. Seacat&amp;volume=176&amp;issue=3&amp;publication_year=2002&amp;pages=175-185&amp;pmid=12093614&amp;doi=10.1016/s0300-483x(02)00081-1&amp;"/></mixed-citation></ref><ref id="ref29"><mixed-citation id="cit29"><named-content content-type="citation-string">Gao K., Zhuang T., Liu X., Fu J., Zhang J., Fu J., Wang L., Zhang A., Liang Y., Song M., Jiang G.. Prenatal Exposure to
+Per- and Polyfluoroalkyl Substances (PFASs)
+and Association between the Placental Transfer Efficiencies and Dissociation
+Constant of Serum Proteins–PFAS Complexes. Environ. Sci. Technol. 2019;53(11):6529–6538. doi: 10.1021/acs.est.9b00715.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.9b00715"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31099564"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Prenatal Exposure to Per- and Polyfluoroalkyl Substances (PFASs) and Association between the Placental Transfer Efficiencies and Dissociation Constant of Serum Proteins–PFAS Complexes&amp;author=K. Gao&amp;author=T. Zhuang&amp;author=X. Liu&amp;author=J. Fu&amp;author=J. Zhang&amp;volume=53&amp;issue=11&amp;publication_year=2019&amp;pages=6529-6538&amp;pmid=31099564&amp;doi=10.1021/acs.est.9b00715&amp;"/></mixed-citation></ref><ref id="ref30"><mixed-citation id="cit30"><named-content content-type="citation-string">Lagakos W. S., Gajda A. M., Agellon L., Binas B., Choi V., Mandap B., Russnak T., Zhou Y. X., Storch J.. Different
+functions of intestinal and liver-type fatty acid-binding proteins
+in intestine and in whole body energy homeostasis. Am. J. Physiol. Gastrointest Liver Physiol. 2011;300(5):G803–814. doi: 10.1152/ajpgi.00229.2010.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1152/ajpgi.00229.2010"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3094135"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21350192"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am. J. Physiol. Gastrointest Liver Physiol.&amp;title=Different functions of intestinal and liver-type fatty acid-binding proteins in intestine and in whole body energy homeostasis&amp;author=W. S. Lagakos&amp;author=A. M. Gajda&amp;author=L. Agellon&amp;author=B. Binas&amp;author=V. Choi&amp;volume=300&amp;issue=5&amp;publication_year=2011&amp;pages=G803-814&amp;pmid=21350192&amp;doi=10.1152/ajpgi.00229.2010&amp;"/></mixed-citation></ref><ref id="ref31"><mixed-citation id="cit31"><named-content content-type="citation-string">Gajda A. M., Tawfeeq H. R., Lackey A. I., Zhou Y. X., Kanaan H., Pappas A., Xu H., Kodukula S., Storch J.. The proximal
+intestinal Fatty Acid-Binding Proteins liver FABP (LFABP) and intestinal
+FABP (IFABP) differentially modulate whole body energy homeostasis
+but are not centrally involved in net dietary lipid absorption: Studies
+of the LFABP/IFABP double knockout mouse. Biochim
+Biophys Acta Mol. Cell Biol. Lipids. 2023;1868(1):159238. doi: 10.1016/j.bbalip.2022.159238.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.bbalip.2022.159238"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9940823"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36206853"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochim Biophys Acta Mol. Cell Biol. Lipids&amp;title=The proximal intestinal Fatty Acid-Binding Proteins liver FABP (LFABP) and intestinal FABP (IFABP) differentially modulate whole body energy homeostasis but are not centrally involved in net dietary lipid absorption: Studies of the LFABP/IFABP double knockout mouse&amp;author=A. M. Gajda&amp;author=H. R. Tawfeeq&amp;author=A. I. Lackey&amp;author=Y. X. Zhou&amp;author=H. Kanaan&amp;volume=1868&amp;issue=1&amp;publication_year=2023&amp;pages=159238&amp;pmid=36206853&amp;doi=10.1016/j.bbalip.2022.159238&amp;"/></mixed-citation></ref><ref id="ref32"><mixed-citation id="cit32"><named-content content-type="citation-string">Tawfeeq H. R., Lackey A. I., Zhou Y., Diolintzi A., Zacharisen S. M., Lau Y. H., Quadro L., Storch J.. Tissue-Specific
+Ablation of Liver Fatty Acid-Binding Protein Induces a Metabolically
+Healthy Obese Phenotype in Female Mice. Nutrients. 2025;17(5):753. doi: 10.3390/nu17050753.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/nu17050753"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11901660"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="40077623"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nutrients&amp;title=Tissue-Specific Ablation of Liver Fatty Acid-Binding Protein Induces a Metabolically Healthy Obese Phenotype in Female Mice&amp;author=H. R. Tawfeeq&amp;author=A. I. Lackey&amp;author=Y. Zhou&amp;author=A. Diolintzi&amp;author=S. M. Zacharisen&amp;volume=17&amp;issue=5&amp;publication_year=2025&amp;pages=753&amp;pmid=40077623&amp;doi=10.3390/nu17050753&amp;"/></mixed-citation></ref><ref id="ref33"><mixed-citation id="cit33"><named-content content-type="citation-string">Kelava T., Ćavar I., Čulo F.. Influence of small doses of various
+drug vehicles on acetaminophen-induced liver injury. Can. J. Physiol. Pharmacol. 2010;88(10):960–967. doi: 10.1139/Y10-065.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1139/Y10-065"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20962895"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Can. J. Physiol. Pharmacol.&amp;title=Influence of small doses of various drug vehicles on acetaminophen-induced liver injury&amp;author=T. Kelava&amp;author=I. Ćavar&amp;author=F. Čulo&amp;volume=88&amp;issue=10&amp;publication_year=2010&amp;pages=960-967&amp;pmid=20962895&amp;doi=10.1139/Y10-065&amp;"/></mixed-citation></ref><ref id="ref34"><mixed-citation id="cit34"><named-content content-type="citation-string">Medwid S., Li M. M. J., Knauer M. J., Lin K., Mansell S. E., Schmerk C. L., Zhu C., Griffin K. E., Yousif M. D., Dresser G. K.. et al. Fexofenadine and Rosuvastatin
+Pharmacokinetics
+in Mice with Targeted Disruption of Organic Anion Transporting Polypeptide
+2B1. Drug Metab. Dispos. 2019;47(8):832–842. doi: 10.1124/dmd.119.087619.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1124/dmd.119.087619"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31123035"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Drug Metab. Dispos.&amp;title=Fexofenadine and Rosuvastatin Pharmacokinetics in Mice with Targeted Disruption of Organic Anion Transporting Polypeptide 2B1&amp;author=S. Medwid&amp;author=M. M. J. Li&amp;author=M. J. Knauer&amp;author=K. Lin&amp;author=S. E. Mansell&amp;volume=47&amp;issue=8&amp;publication_year=2019&amp;pages=832-842&amp;pmid=31123035&amp;doi=10.1124/dmd.119.087619&amp;"/></mixed-citation></ref><ref id="ref35"><mixed-citation id="cit35"><named-content content-type="citation-string">Takano J., Maeda K., Kusuhara H., Sugiyama Y.. Organic Anion Transporting
+Polypeptide 1a4 is Responsible for the Hepatic Uptake of Cardiac Glycosides
+in Mice. Drug Metab. Dispos. 2018;46(5):652–657. doi: 10.1124/dmd.117.079483.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1124/dmd.117.079483"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29348124"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Drug Metab. Dispos.&amp;title=Organic Anion Transporting Polypeptide 1a4 is Responsible for the Hepatic Uptake of Cardiac Glycosides in Mice&amp;author=J. Takano&amp;author=K. Maeda&amp;author=H. Kusuhara&amp;author=Y. Sugiyama&amp;volume=46&amp;issue=5&amp;publication_year=2018&amp;pages=652-657&amp;pmid=29348124&amp;doi=10.1124/dmd.117.079483&amp;"/></mixed-citation></ref><ref id="ref36"><mixed-citation id="cit36"><named-content content-type="citation-string">Olsen G. W., Chang S. C., Noker P. E., Gorman G. S., Ehresman D. J., Lieder P. H., Butenhoff J. L.. A comparison
+of the pharmacokinetics
+of perfluorobutanesulfonate (PFBS) in rats, monkeys, and humans. Toxicology. 2009;256(1–2):65–74. doi: 10.1016/j.tox.2008.11.008.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tox.2008.11.008"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19059455"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicology&amp;title=A comparison of the pharmacokinetics of perfluorobutanesulfonate (PFBS) in rats, monkeys, and humans&amp;author=G. W. Olsen&amp;author=S. C. Chang&amp;author=P. E. Noker&amp;author=G. S. Gorman&amp;author=D. J. Ehresman&amp;volume=256&amp;issue=1–2&amp;publication_year=2009&amp;pages=65-74&amp;pmid=19059455&amp;doi=10.1016/j.tox.2008.11.008&amp;"/></mixed-citation></ref><ref id="ref37"><mixed-citation id="cit37"><named-content content-type="citation-string">Huang M. C., Dzierlenga A. L., Robinson V. G., Waidyanatha S., DeVito M. J., Eifrid M. A., Granville C. A., Gibbs S. T., Blystone C. R.. Toxicokinetics of perfluorobutane
+sulfonate (PFBS), perfluorohexane-1-sulphonic acid (PFHxS), and perfluorooctane
+sulfonic acid (PFOS) in male and female Hsd: Sprague Dawley SD rats
+after intravenous and gavage administration. Toxicol. Rep. 2019;6:645–655. doi: 10.1016/j.toxrep.2019.06.016.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.toxrep.2019.06.016"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6624215"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31334035"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicol. Rep.&amp;title=Toxicokinetics of perfluorobutane sulfonate (PFBS), perfluorohexane-1-sulphonic acid (PFHxS), and perfluorooctane sulfonic acid (PFOS) in male and female Hsd: Sprague Dawley SD rats after intravenous and gavage administration&amp;author=M. C. Huang&amp;author=A. L. Dzierlenga&amp;author=V. G. Robinson&amp;author=S. Waidyanatha&amp;author=M. J. DeVito&amp;volume=6&amp;publication_year=2019&amp;pages=645-655&amp;pmid=31334035&amp;doi=10.1016/j.toxrep.2019.06.016&amp;"/></mixed-citation></ref><ref id="ref38"><mixed-citation id="cit38"><named-content content-type="citation-string">Wan H. T., Zhao Y. G., Wei X., Hui K. Y., Giesy J. P., Wong C. K. C.. PFOS-induced
+hepatic steatosis, the mechanistic actions
+on β-oxidation and lipid transport. Biochim.
+Biophys. Acta, Gen. Subj. 2012;1820(7):1092–1101. doi: 10.1016/j.bbagen.2012.03.010.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.bbagen.2012.03.010"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22484034"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochim. Biophys. Acta, Gen. Subj.&amp;title=PFOS-induced hepatic steatosis, the mechanistic actions on β-oxidation and lipid transport&amp;author=H. T. Wan&amp;author=Y. G. Zhao&amp;author=X. Wei&amp;author=K. Y. Hui&amp;author=J. P. Giesy&amp;volume=1820&amp;issue=7&amp;publication_year=2012&amp;pages=1092-1101&amp;pmid=22484034&amp;doi=10.1016/j.bbagen.2012.03.010&amp;"/></mixed-citation></ref><ref id="ref39"><mixed-citation id="cit39"><named-content content-type="citation-string">Qazi M. R., Bogdanska J., Butenhoff J. L., Nelson B. D., DePierre J. W., Abedi-Valugerdi M.. High-dose,
+short-term exposure of mice to perfluorooctanesulfonate
+(PFOS) or perfluorooctanoate (PFOA) affects the number of circulating
+neutrophils differently, but enhances the inflammatory responses of
+macrophages to lipopolysaccharide (LPS) in a similar fashion. Toxicology. 2009;262(3):207–214. doi: 10.1016/j.tox.2009.06.010.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tox.2009.06.010"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19540903"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicology&amp;title=High-dose, short-term exposure of mice to perfluorooctanesulfonate (PFOS) or perfluorooctanoate (PFOA) affects the number of circulating neutrophils differently, but enhances the inflammatory responses of macrophages to lipopolysaccharide (LPS) in a similar fashion&amp;author=M. R. Qazi&amp;author=J. Bogdanska&amp;author=J. L. Butenhoff&amp;author=B. D. Nelson&amp;author=J. W. DePierre&amp;volume=262&amp;issue=3&amp;publication_year=2009&amp;pages=207-214&amp;pmid=19540903&amp;doi=10.1016/j.tox.2009.06.010&amp;"/></mixed-citation></ref><ref id="ref40"><mixed-citation id="cit40"><named-content content-type="citation-string">Chengelis C. P., Kirkpatrick J. B., Myers N. R., Shinohara M., Stetson P. L., Sved D. W.. Comparison of the toxicokinetic behavior
+of perfluorohexanoic acid (PFHxA) and nonafluorobutane-1-sulfonic
+acid (PFBS) in cynomolgus monkeys and rats. Reprod. Toxicol. 2009;27(3–4):400–406. doi: 10.1016/j.reprotox.2009.01.013.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.reprotox.2009.01.013"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19429410"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Reprod. Toxicol.&amp;title=Comparison of the toxicokinetic behavior of perfluorohexanoic acid (PFHxA) and nonafluorobutane-1-sulfonic acid (PFBS) in cynomolgus monkeys and rats&amp;author=C. P. Chengelis&amp;author=J. B. Kirkpatrick&amp;author=N. R. Myers&amp;author=M. Shinohara&amp;author=P. L. Stetson&amp;volume=27&amp;issue=3–4&amp;publication_year=2009&amp;pages=400-406&amp;pmid=19429410&amp;doi=10.1016/j.reprotox.2009.01.013&amp;"/></mixed-citation></ref><ref id="ref41"><mixed-citation id="cit41"><named-content content-type="citation-string">Ryu S., Burchett W., Zhang S., Jia X., Modaresi S. M. S., Agudelo Areiza J., Rodrigues D., Zhu H., Sunderland E. M., Fischer F. C., Slitt A. L.. Unbound
+Fractions of PFAS in Human and Rodent Tissues: Rat Liver a Suitable
+Proxy for Evaluating Emerging PFAS? Environ.
+Sci. Technol. 2024;58(33):14641–14650. doi: 10.1021/acs.est.4c04050.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.4c04050"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11825104"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="39161261"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Unbound Fractions of PFAS in Human and Rodent Tissues: Rat Liver a Suitable Proxy for Evaluating Emerging PFAS?&amp;author=S. Ryu&amp;author=W. Burchett&amp;author=S. Zhang&amp;author=X. Jia&amp;author=S. M. S. Modaresi&amp;volume=58&amp;issue=33&amp;publication_year=2024&amp;pages=14641-14650&amp;pmid=39161261&amp;doi=10.1021/acs.est.4c04050&amp;"/></mixed-citation></ref><ref id="ref42"><mixed-citation id="cit42"><named-content content-type="citation-string">
+
+Pierri, A.
+; 
+Krepich, S.
+. 
+Per- and polyfluorinated
+alkyl substances (PFAS) from milk, eggs, butter, cheese, and fish
+using QuEChERS, SPE, and LC-MS/MS. Phenomenex
+Appl. 2018.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Phenomenex Appl&amp;publication_year=2018&amp;"/></mixed-citation></ref><ref id="ref43"><mixed-citation id="cit43"><named-content content-type="citation-string">Ruyle B. J., Thackray C. P., Butt C. M., LeBlanc D. R., Tokranov A. K., Vecitis C. D., Sunderland E. M.. Centurial Persistence of Forever
+Chemicals at Military Fire Training Sites. Environ.
+Sci. Technol. 2023;57(21):8096–8106. doi: 10.1021/acs.est.3c00675.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.3c00675"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10233753"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37184088"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Centurial Persistence of Forever Chemicals at Military Fire Training Sites&amp;author=B. J. Ruyle&amp;author=C. P. Thackray&amp;author=C. M. Butt&amp;author=D. R. LeBlanc&amp;author=A. K. Tokranov&amp;volume=57&amp;issue=21&amp;publication_year=2023&amp;pages=8096-8106&amp;pmid=37184088&amp;doi=10.1021/acs.est.3c00675&amp;"/></mixed-citation></ref><ref id="ref44"><mixed-citation id="cit44"><named-content content-type="citation-string">Pickard H. M., Ruyle B. J., Thackray C. P., Chovancova A., Dassuncao C., Becanova J., Vojta S., Lohmann R., Sunderland E. M.. PFAS and Precursor Bioaccumulation in Freshwater Recreational
+Fish: Implications for Fish Advisories. Environ.
+Sci. Techno.l. 2022;56(22):15573–15583. doi: 10.1021/acs.est.2c03734.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.2c03734"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9670858"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36280234"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Techno.l&amp;title=PFAS and Precursor Bioaccumulation in Freshwater Recreational Fish: Implications for Fish Advisories&amp;author=H. M. Pickard&amp;author=B. J. Ruyle&amp;author=C. P. Thackray&amp;author=A. Chovancova&amp;author=C. Dassuncao&amp;volume=56&amp;issue=22&amp;publication_year=2022&amp;pages=15573-15583&amp;pmid=36280234&amp;doi=10.1021/acs.est.2c03734&amp;"/></mixed-citation></ref><ref id="ref45"><mixed-citation id="cit45"><named-content content-type="citation-string">Alijagic A., Sinisalu L., Duberg D., Kotlyar O., Scherbak N., Engwall M., Orešić M., Hyötyläinen T.. Metabolic
+and phenotypic changes induced by PFAS exposure in two human hepatocyte
+cell models. Environ. Int. 2024;190:108820. doi: 10.1016/j.envint.2024.108820.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envint.2024.108820"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38906088"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Int.&amp;title=Metabolic and phenotypic changes induced by PFAS exposure in two human hepatocyte cell models&amp;author=A. Alijagic&amp;author=L. Sinisalu&amp;author=D. Duberg&amp;author=O. Kotlyar&amp;author=N. Scherbak&amp;volume=190&amp;publication_year=2024&amp;pages=108820&amp;pmid=38906088&amp;doi=10.1016/j.envint.2024.108820&amp;"/></mixed-citation></ref><ref id="ref46"><mixed-citation id="cit46"><named-content content-type="citation-string">Rotander A., Ramos M. J. G., Mueller J. F., Toms L.-M., Hyötyläinen T.. Metabolic
+changes associated with PFAS exposure in firefighters: A pilot study. Sci. Total Environ. 2024;953:176004. doi: 10.1016/j.scitotenv.2024.176004.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.scitotenv.2024.176004"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="39260512"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Total Environ.&amp;title=Metabolic changes associated with PFAS exposure in firefighters: A pilot study&amp;author=A. Rotander&amp;author=M. J. G. Ramos&amp;author=J. F. Mueller&amp;author=L.-M. Toms&amp;author=T. Hyötyläinen&amp;volume=953&amp;publication_year=2024&amp;pages=176004&amp;pmid=39260512&amp;doi=10.1016/j.scitotenv.2024.176004&amp;"/></mixed-citation></ref><ref id="ref47"><mixed-citation id="cit47"><named-content content-type="citation-string">Baumert B. O., Fischer F. C., Nielsen F., Grandjean P., Bartell S., Stratakis N., Walker D. I., Valvi D., Kohli R., Inge T., Ryder J.. et al. Paired
+Liver: Plasma PFAS Concentration Ratios from Adolescents in the Teen-LABS
+Study and Derivation of Empirical and Mass Balance Models to Predict
+and Explain Liver PFAS Accumulation. Environ.
+Sci. Technol. 2023;57(40):14817–14826. doi: 10.1021/acs.est.3c02765.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.3c02765"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10591710"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37756184"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Paired Liver: Plasma PFAS Concentration Ratios from Adolescents in the Teen-LABS Study and Derivation of Empirical and Mass Balance Models to Predict and Explain Liver PFAS Accumulation&amp;author=B. O. Baumert&amp;author=F. C. Fischer&amp;author=F. Nielsen&amp;author=P. Grandjean&amp;author=S. Bartell&amp;volume=57&amp;issue=40&amp;publication_year=2023&amp;pages=14817-14826&amp;pmid=37756184&amp;doi=10.1021/acs.est.3c02765&amp;"/></mixed-citation></ref><ref id="ref48"><mixed-citation id="cit48"><named-content content-type="citation-string">Luebker D. J., York R. G., Hansen K. J., Moore J. A., Butenhoff J. L.. Neonatal
+mortality from in utero exposure to perfluorooctanesulfonate (PFOS)
+in Sprague–Dawley rats: Dose–response, and biochemical
+and pharamacokinetic parameters. Toxicology. 2005;215(1):149–169. doi: 10.1016/j.tox.2005.07.019.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tox.2005.07.019"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16129535"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicology&amp;title=Neonatal mortality from in utero exposure to perfluorooctanesulfonate (PFOS) in Sprague–Dawley rats: Dose–response, and biochemical and pharamacokinetic parameters&amp;author=D. J. Luebker&amp;author=R. G. York&amp;author=K. J. Hansen&amp;author=J. A. Moore&amp;author=J. L. Butenhoff&amp;volume=215&amp;issue=1&amp;publication_year=2005&amp;pages=149-169&amp;pmid=16129535&amp;doi=10.1016/j.tox.2005.07.019&amp;"/></mixed-citation></ref><ref id="ref49"><mixed-citation id="cit49"><named-content content-type="citation-string">
+
+Fletcher, T.
+; 
+Andersson, A.
+; 
+Li, Y.
+; 
+Xu, Y.
+; 
+Lindh, C. H.
+; 
+Kärrman, A.
+; 
+Jakobsson, K.
+. 
+The relative importance of
+faecal and urinary excretion of PFAS and implications for epidemiological
+studies. ISEE Conf. Abstr.
+2022, 2022(1). 10.1289/isee.2022.O-OP-024
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1289/isee.2022.O-OP-024"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=ISEE Conf. Abstr.&amp;title=The relative importance of faecal and urinary excretion of PFAS and implications for epidemiological studies&amp;volume=2022&amp;issue=1&amp;publication_year=2022&amp;doi=10.1289/isee.2022.O-OP-024&amp;"/></mixed-citation></ref><ref id="ref50"><mixed-citation id="cit50"><named-content content-type="citation-string">Dassuncao C., Pickard H., Pfohl M., Tokranov A. K., Li M., Mikkelsen B., Slitt A., Sunderland E. M.. Phospholipid
+Levels Predict the Tissue Distribution of Poly- and Perfluoroalkyl
+Substances in a Marine Mammal. Environ. Sci.
+Tech Let. 2019;6(3):119–125. doi: 10.1021/acs.estlett.9b00031.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.estlett.9b00031"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7713714"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33283018"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Tech Let.&amp;title=Phospholipid Levels Predict the Tissue Distribution of Poly- and Perfluoroalkyl Substances in a Marine Mammal&amp;author=C. Dassuncao&amp;author=H. Pickard&amp;author=M. Pfohl&amp;author=A. K. Tokranov&amp;author=M. Li&amp;volume=6&amp;issue=3&amp;publication_year=2019&amp;pages=119-125&amp;pmid=33283018&amp;doi=10.1021/acs.estlett.9b00031&amp;"/></mixed-citation></ref><ref id="ref51"><mixed-citation id="cit51"><named-content content-type="citation-string">Allendorf F., Goss K.-U., Ulrich N.. Estimating the Equilibrium
+Distribution
+of Perfluoroalkyl Acids and 4 of Their Alternatives in Mammals. Environ. Toxicol. Chem. 2020;40(3):910–920. doi: 10.1002/etc.4954.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/etc.4954"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33289938"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Toxicol. Chem.&amp;title=Estimating the Equilibrium Distribution of Perfluoroalkyl Acids and 4 of Their Alternatives in Mammals&amp;author=F. Allendorf&amp;author=K.-U. Goss&amp;author=N. Ulrich&amp;volume=40&amp;issue=3&amp;publication_year=2020&amp;pages=910-920&amp;pmid=33289938&amp;doi=10.1002/etc.4954&amp;"/></mixed-citation></ref><ref id="ref52"><mixed-citation id="cit52"><named-content content-type="citation-string">Cheng W., Ng C. A.. A Permeability-Limited
+Physiologically Based Pharmacokinetic (PBPK)
+Model for Perfluorooctanoic acid (PFOA) in Male Rats. Environ. Sci. Technol. 2017;51(17):9930–9939. doi: 10.1021/acs.est.7b02602.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.7b02602"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28759222"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=A Permeability-Limited Physiologically Based Pharmacokinetic (PBPK) Model for Perfluorooctanoic acid (PFOA) in Male Rats&amp;author=W. Cheng&amp;author=C. A. Ng&amp;volume=51&amp;issue=17&amp;publication_year=2017&amp;pages=9930-9939&amp;pmid=28759222&amp;doi=10.1021/acs.est.7b02602&amp;"/></mixed-citation></ref><ref id="ref53"><mixed-citation id="cit53"><named-content content-type="citation-string">Ryu S., Yamaguchi E., Sadegh Modaresi S. M., Agudelo J., Costales C., West M. A., Fischer F., Slitt A. L.. Evaluation of 14
+PFAS for Permeability and Organic Anion Transporter Interactions:
+Implications for Renal Clearance in Humans. Chemosphere. 2024;361:142390. doi: 10.1016/j.chemosphere.2024.142390.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.chemosphere.2024.142390"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11774580"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38801906"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Chemosphere&amp;title=Evaluation of 14 PFAS for Permeability and Organic Anion Transporter Interactions: Implications for Renal Clearance in Humans&amp;author=S. Ryu&amp;author=E. Yamaguchi&amp;author=S. M. Sadegh Modaresi&amp;author=J. Agudelo&amp;author=C. Costales&amp;volume=361&amp;publication_year=2024&amp;pages=142390&amp;pmid=38801906&amp;doi=10.1016/j.chemosphere.2024.142390&amp;"/></mixed-citation></ref><ref id="ref54"><mixed-citation id="cit54"><named-content content-type="citation-string">Ebert A., Allendorf F., Berger U., Goss K. U., Ulrich N.. Membrane/Water
+Partitioning and Permeabilities of Perfluoroalkyl Acids and Four of
+their Alternatives and the Effects on Toxicokinetic Behavior. Environ. Sci. Technol. 2020;54(8):5051–5061. doi: 10.1021/acs.est.0c00175.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.0c00175"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32212724"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Membrane/Water Partitioning and Permeabilities of Perfluoroalkyl Acids and Four of their Alternatives and the Effects on Toxicokinetic Behavior&amp;author=A. Ebert&amp;author=F. Allendorf&amp;author=U. Berger&amp;author=K. U. Goss&amp;author=N. Ulrich&amp;volume=54&amp;issue=8&amp;publication_year=2020&amp;pages=5051-5061&amp;pmid=32212724&amp;doi=10.1021/acs.est.0c00175&amp;"/></mixed-citation></ref><ref id="ref55"><mixed-citation id="cit55"><named-content content-type="citation-string">Louisse J., Dellafiora L., van den Heuvel J. J.
+M. W., Rijkers D., Leenders L., Dorne J.-L. C. M., Punt A., Russel F. G. M., Koenderink J. B.. Perfluoroalkyl substances (PFASs)
+are substrates of the renal human organic anion transporter 4 (OAT4) Arch. Toxicol. 2023;97(3):685–696. doi: 10.1007/s00204-022-03428-6.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00204-022-03428-6"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9968691"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36436016"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Arch. Toxicol.&amp;title=Perfluoroalkyl substances (PFASs) are substrates of the renal human organic anion transporter 4 (OAT4)&amp;author=J. Louisse&amp;author=L. Dellafiora&amp;author=J. J. M. W. van den Heuvel&amp;author=D. Rijkers&amp;author=L. Leenders&amp;volume=97&amp;issue=3&amp;publication_year=2023&amp;pages=685-696&amp;pmid=36436016&amp;doi=10.1007/s00204-022-03428-6&amp;"/></mixed-citation></ref><ref id="ref56"><mixed-citation id="cit56"><named-content content-type="citation-string">Yang C. H., Glover K. P., Han X.. Characterization
+of cellular uptake
+of perfluorooctanoate via organic anion-transporting polypeptide 1A2,
+organic anion transporter 4, and urate transporter 1 for their potential
+roles in mediating human renal reabsorption of perfluorocarboxylates. Toxicol. Sci. 2010;117(2):294–302. doi: 10.1093/toxsci/kfq219.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/toxsci/kfq219"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20639259"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicol. Sci.&amp;title=Characterization of cellular uptake of perfluorooctanoate via organic anion-transporting polypeptide 1A2, organic anion transporter 4, and urate transporter 1 for their potential roles in mediating human renal reabsorption of perfluorocarboxylates&amp;author=C. H. Yang&amp;author=K. P. Glover&amp;author=X. Han&amp;volume=117&amp;issue=2&amp;publication_year=2010&amp;pages=294-302&amp;pmid=20639259&amp;doi=10.1093/toxsci/kfq219&amp;"/></mixed-citation></ref><ref id="ref57"><mixed-citation id="cit57"><named-content content-type="citation-string">Yang C.-H., Glover K. P., Han X.. Organic anion transporting polypeptide
+(Oatp) 1a1-mediated perfluorooctanoate transport and evidence for
+a renal reabsorption mechanism of Oatp1a1 in renal elimination of
+perfluorocarboxylates in rats. Toxicol. Lett. 2009;190(2):163–171. doi: 10.1016/j.toxlet.2009.07.011.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.toxlet.2009.07.011"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19616083"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicol. Lett.&amp;title=Organic anion transporting polypeptide (Oatp) 1a1-mediated perfluorooctanoate transport and evidence for a renal reabsorption mechanism of Oatp1a1 in renal elimination of perfluorocarboxylates in rats&amp;author=C.-H. Yang&amp;author=K. P. Glover&amp;author=X. Han&amp;volume=190&amp;issue=2&amp;publication_year=2009&amp;pages=163-171&amp;pmid=19616083&amp;doi=10.1016/j.toxlet.2009.07.011&amp;"/></mixed-citation></ref><ref id="ref58"><mixed-citation id="cit58"><named-content content-type="citation-string">Wang G., Bonkovsky H. L., de Lemos A., Burczynski F. J.. Recent
+insights into the biological functions of liver fatty acid binding
+protein 1. J. Lipid Res. 2015;56(12):2238–2247. doi: 10.1194/jlr.R056705.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1194/jlr.R056705"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4655993"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26443794"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Lipid Res.&amp;title=Recent insights into the biological functions of liver fatty acid binding protein 1&amp;author=G. Wang&amp;author=H. L. Bonkovsky&amp;author=A. de Lemos&amp;author=F. J. Burczynski&amp;volume=56&amp;issue=12&amp;publication_year=2015&amp;pages=2238-2247&amp;pmid=26443794&amp;doi=10.1194/jlr.R056705&amp;"/></mixed-citation></ref><ref id="ref59"><mixed-citation id="cit59"><named-content content-type="citation-string">Han J., Fu J., Sun J., Hall D. R., Yang D., Blatz D., Houck K., Ng C., Doering J., LaLone C.. et al. Quantitative Chemical Proteomics Reveals Interspecies
+Variations
+on Binding Schemes of L-FABP with Perfluorooctanesulfonate. Environ. Sci. Technol. 2021;55(13):9012–9023. doi: 10.1021/acs.est.1c00509.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.1c00509"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9189739"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34133149"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Quantitative Chemical Proteomics Reveals Interspecies Variations on Binding Schemes of L-FABP with Perfluorooctanesulfonate&amp;author=J. Han&amp;author=J. Fu&amp;author=J. Sun&amp;author=D. R. Hall&amp;author=D. Yang&amp;volume=55&amp;issue=13&amp;publication_year=2021&amp;pages=9012-9023&amp;pmid=34133149&amp;doi=10.1021/acs.est.1c00509&amp;"/></mixed-citation></ref><ref id="ref60"><mixed-citation id="cit60"><named-content content-type="citation-string">Ruark C. D., Hack C. E., Robinson P. J., Mahle D. A., Gearhart J. M.. Predicting
+Passive and Active Tissue: Plasma Partition Coefficients: Interindividual
+and Interspecies Variability. J. Pharm. Sci-Us. 2014;103(7):2189–2198. doi: 10.1002/jps.24011.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/jps.24011"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24832575"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Pharm. Sci-Us&amp;title=Predicting Passive and Active Tissue: Plasma Partition Coefficients: Interindividual and Interspecies Variability&amp;author=C. D. Ruark&amp;author=C. E. Hack&amp;author=P. J. Robinson&amp;author=D. A. Mahle&amp;author=J. M. Gearhart&amp;volume=103&amp;issue=7&amp;publication_year=2014&amp;pages=2189-2198&amp;pmid=24832575&amp;doi=10.1002/jps.24011&amp;"/></mixed-citation></ref><ref id="ref61"><mixed-citation id="cit61"><named-content content-type="citation-string">Lu Y. C., Chang C. C., Wang C. P., Hung W. C., Tsai I. T., Tang W. H., Wu C. C., Wei C. T., Chung F. M., Lee Y. J.. et al. Circulating
+fatty acid-binding protein 1 (FABP1) and
+nonalcoholic fatty liver disease in patients with type 2 diabetes
+mellitus. Int. J. Med. Sci. 2020;17(2):182–190. doi: 10.7150/ijms.40417.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.7150/ijms.40417"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6990891"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32038102"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int. J. Med. Sci.&amp;title=Circulating fatty acid-binding protein 1 (FABP1) and nonalcoholic fatty liver disease in patients with type 2 diabetes mellitus&amp;author=Y. C. Lu&amp;author=C. C. Chang&amp;author=C. P. Wang&amp;author=W. C. Hung&amp;author=I. T. Tsai&amp;volume=17&amp;issue=2&amp;publication_year=2020&amp;pages=182-190&amp;pmid=32038102&amp;doi=10.7150/ijms.40417&amp;"/></mixed-citation></ref><ref id="ref62"><mixed-citation id="cit62"><named-content content-type="citation-string">Xu A., Wang Y., Xu J. Y., Stejskal D., Tam S., Zhang J., Wat N. M., Wong W. K., Lam K. S.. Adipocyte
+fatty acid-binding protein is a plasma biomarker closely associated
+with obesity and metabolic syndrome. Clin. Chem. 2006;52(3):405–413. doi: 10.1373/clinchem.2005.062463.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1373/clinchem.2005.062463"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16423904"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Chem.&amp;title=Adipocyte fatty acid-binding protein is a plasma biomarker closely associated with obesity and metabolic syndrome&amp;author=A. Xu&amp;author=Y. Wang&amp;author=J. Y. Xu&amp;author=D. Stejskal&amp;author=S. Tam&amp;volume=52&amp;issue=3&amp;publication_year=2006&amp;pages=405-413&amp;pmid=16423904&amp;doi=10.1373/clinchem.2005.062463&amp;"/></mixed-citation></ref></ref-list></sec></sec><sec id="_ad93_" xml:lang="en" sec-type="associated-data" disp-level="1"><title>Associated Data</title><sec id="_adsm93_" xml:lang="en" sec-type="supplementary-materials" disp-level="2"><title>Supplementary Materials</title><supplementary-material id="db_ds_supplementary-material1_reqid_" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="tx5c00199_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 40f5/12442221/b9b494918d1c/tx5c00199_si_001.pdf?><?cloudpmc-bucket app?><?size 826454?></media></supplementary-material></sec></sec></body></article>

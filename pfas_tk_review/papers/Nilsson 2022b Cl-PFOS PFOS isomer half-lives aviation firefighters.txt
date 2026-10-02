@@ -1,0 +1,47 @@
+SOURCE: PubMed abstract (efetch db=pubmed), 2026-10-01
+STATUS: ABSTRACT ONLY. Full text PAYWALLED (ACS, not in PMC, not OA).
+
+CITATION: Nilsson S, Thompson J, Mueller J, Bräunig J, Kaserzon S, Yan Du Toit E, et al.
+  (see PubMed for the full author list)
+  Apparent Half-Lives of Chlorinated-Perfluorooctane Sulfonate and Perfluorooctane
+  Sulfonate Isomers in Aviation Firefighters.
+  Environmental Science & Technology 2022;56(23):17052-17060. PMID 36367310.
+  doi:10.1021/acs.est.2c04637.
+
+ABSTRACT (verbatim)
+"Elevated levels of perfluorooctane sulfonate (PFOS) and elevated detection frequency of
+chloro-substituted PFOS have been reported in Australian firefighters with historical
+exposure to aqueous-film forming foam (AFFF). The aim of this study is to estimate the
+apparent half-lives of Cl-PFOS and PFOS isomers in firefighters following the end of
+exposure to 3M-AFFF. Paired serum samples from 120 firefighters, collected approximately
+five years apart, were analyzed for 8-Cl-PFOS (8-chloroperfluoro-1-octanesulfonic acid) and
+PFOS isomers via targeted LC-MS/MS. Apparent half-life was estimated by assuming a first
+order-elimination model. Cl-PFOS was detected in 93% of all initial serum samples
+(<LOQ-1.09 ng/mL). The average half-life of Cl-PFOS among the firefighters was 5.0 years.
+Branched PFOS isomers made up 55% of the total isomer concentration at the initial sampling
+timepoint. Five years later, the proportion of branched PFOS isomers was greater (65%). The
+longest average half-life (11.5 years) was estimated for '1m-PFOS'. Other isomers had
+average half-lives ranging from 4.0 to 7.5 years. Marked differences in half-lives between
+PFOS isomers suggest that the elimination rate of 'total PFOS' (sum of all PFOS isomers) is
+non-linear. This is the first study to report the serum concentrations and apparent
+half-life of Cl-PFOS in humans."
+
+DELTA RELATIVE TO WHAT WAS ALREADY EXTRACTED
+db/human_halflife_extended.csv already carries four Nilsson 2022b rows (L-PFOS 4.0,
+sum-of-branched 5.5, sum linear+branched 6.5 original and 5.7 background-subtracted).
+NOT previously extracted and added here:
+  - 8-Cl-PFOS, average apparent half-life 5.0 y. FIRST and still the ONLY human half-life
+    for any chlorine-substituted PFOS.
+  - 1m-PFOS, average 11.5 y. This is the single longest per-isomer human PFOS half-life
+    reported anywhere; it is ~2.3x the Li 2022 Ronneby 1m-PFOS estimate of 5.01 y.
+  - "Other isomers 4.0 to 7.5 years" (range only, not per-isomer in the abstract).
+  - The branched fraction rose from 55% to 65% of total PFOS over five years, which is a
+    direct, model-free demonstration that total-PFOS decay is non-first-order because it is
+    a sum over species with different rate constants. This is a general risk-of-bias point
+    against every "total PFOS" half-life in the literature.
+
+CAUTION: "8-Cl-PFOS" (8-chloroperfluoro-1-octanesulfonic acid) is a chlorinated PFOS
+analogue and is NOT the same compound as 6:2 Cl-PFESA / F-53B
+(chlorinated polyfluoroalkyl ether sulfonate, which contains an ether oxygen). Do not merge
+these two rows. 6:2 Cl-PFESA human kinetics come from Shi et al. 2016 (total elimination
+half-life median 15.3 y) and Yao et al. 2023 (infant renal-clearance-based 49 y).

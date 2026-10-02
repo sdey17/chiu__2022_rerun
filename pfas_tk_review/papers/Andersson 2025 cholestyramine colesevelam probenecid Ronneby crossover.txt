@@ -1,0 +1,1156 @@
+SOURCE: https://www.sciencedirect.com/science/article/pii/S0160412025005458
+DOI: 10.1016/j.envint.2025.109794
+JOURNAL: Environment International vol 204 p109794 (2025/10/01)
+TITLE: Serum, urinary and fecal concentrations of perfluoroalkyl substances after interventions with cholestyramine/colesevelam and probenecid – cross-over trials in Ronneby, Sweden
+RETRIEVED: Firecrawl stealth proxy, 2026-10-01
+
+[Skip to main content](https://www.sciencedirect.com/science/article/pii/S0160412025005458#main) [Skip to article](https://www.sciencedirect.com/science/article/pii/S0160412025005458#article)
+
+### Reading Assistant
+
+powered by [LeapSpace\\
+\\
+Opens in a new window](https://www.sciencedirect.com/leapspace/?dgcid=rai_sd_ra_ls_header)
+
+#### Questions you could ask:
+
+- Suggested question:What conclusions were drawn about the effectiveness of Bile Acid Sequestrant (BAS) compounds in increasing Perfluoroalkyl Substances (PFAS) elimination?
+- Suggested question:What was the percentage decrease in serum levels of Perfluorohexane Sulfonate (PFHxS) and Perfluorooctane Sulfonate (PFOS) during the colesevelam intervention?
+- Suggested question:How did the results for Perfluorooctanoic Acid (PFOA) compare to those for Perfluorohexane Sulfonate (PFHxS) and Perfluorooctane Sulfonate (PFOS) in terms of magnitude?
+
+#### Actions you could take:
+
+- Summarize this article
+- Summarize experiments
+
+Ask about this article
+
+[![Environment International](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025X00106-cov200h.gif)](https://www.sciencedirect.com/journal/environment-international/vol/204/suppl/C)
+
+## [Environment International](https://www.sciencedirect.com/journal/environment-international "Go to Environment International on ScienceDirect")
+
+Date:October 2025
+
+Article:109794
+
+Volume:[Volume 204](https://www.sciencedirect.com/journal/environment-international/vol/204/suppl/C "Go to table of contents for this volume/issue")
+
+View accessibility information
+
+## Published by:Elsevier
+
+### Published by
+
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/08bcf77e921828c5a59334cdb2949dd973632719/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/environment-international "Go to Environment International on ScienceDirect")
+
+Show more
+
+Research article
+
+Open access
+
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0160412025005458&orderBeanReset=true)
+
+# Full length article  Serum, urinary and fecal concentrations of perfluoroalkyl substances after interventions with cholestyramine/colesevelam and probenecid – cross-over trials in Ronneby, Sweden
+
+Author links open overlay panelAxel G.Anderssona, YiyiXua, [AnnaKärrmanb](https://www.sciencedirect.com/author/6505780570/anna-karrman), JuliaCederlundc, [Christian H.Lindhd](https://www.sciencedirect.com/author/35550365200/christian-h-lindh), DanielaPinedad, [TonyFletchere](https://www.sciencedirect.com/author/7102856530/tony-fletcher), [KristinaJakobssona](https://www.sciencedirect.com/author/7004441710/kristina-m-jakobsson), YingLia
+
+Show more
+
+[View **PDF**](https://www.sciencedirect.com/science/article/pii/S0160412025005458/pdfft?md5=1b8c522ae36a2482aa3fc4b2abfc378e&pid=1-s2.0-S0160412025005458-main.pdf) Download full issue
+
+Cite
+
+Add to Mendeley
+
+Share
+
+[10.1016/j.envint.2025.109794](https://doi.org/10.1016/j.envint.2025.109794)
+
+More actions
+
+## Outline
+
+01. [Highlights:](https://www.sciencedirect.com/science/article/pii/S0160412025005458#ab010 "Highlights:")
+02. [Abstract](https://www.sciencedirect.com/science/article/pii/S0160412025005458#ab015 "Abstract")
+03. [Graphical abstract](https://www.sciencedirect.com/science/article/pii/S0160412025005458#ab005 "Graphical abstract")
+04. [Keywords](https://www.sciencedirect.com/science/article/pii/S0160412025005458#kg005 "Keywords")
+05. [1\. Introduction](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0005 "1. Introduction")
+06. [2\. Materials and methods](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0010 "2. Materials and methods")
+07. [3\. Results](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0105 "3. Results")
+08. [4\. Discussion](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0140 "4. Discussion")
+09. [CRediT authorship contribution statement](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0145 "CRediT authorship contribution statement")
+10. [Declaration of competing interest](https://www.sciencedirect.com/science/article/pii/S0160412025005458#coi005 "Declaration of competing interest")
+11. [Acknowledgements](https://www.sciencedirect.com/science/article/pii/S0160412025005458#ak005 "Acknowledgements")
+12. [Appendix A. Supplementary data](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155 "Appendix A. Supplementary data")
+13. [Data availability](https://www.sciencedirect.com/science/article/pii/S0160412025005458#da005 "Data availability")
+14. [References](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bi005 "References")
+
+Show full outline
+
+## Figures (6)
+
+1. [![Unlabelled figure](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-ga1.sml)](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0030)
+2. [![Fig. 1. Individual PFAS concentrations in feces and urine in 10 individuals during control weeks in relation to baseline serum PFAS concentrations on logarithmic scales. Triangles represent samples below limi...](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr1.sml)](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0005)
+3. [![Fig. 2. Spaghetti-plot showing density-adjusted urinary PFAS concentration and serum PFAS concentration in 10 individuals during their control (C) and early (E) and late (L) probenecid period (short-term tria...](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr2.sml)](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0010)
+4. [![Fig. 3. Spaghetti-plot showing the fecal PFAS concentration and serum PFAS concentration in 10 individuals during their control (C) and cholestyramine (T) period (short-term trial).](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr3.sml)](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0015)
+5. [![Fig. 4. Spaghetti plot showing the serum PFAS levels over time, centered around the cross-over from colesevelam intervention period (solid lines & triangles) to control period (dashed lines and squares) or vi...](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr4.sml)](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0020)
+6. [![Fig. 5. Bar plot showing the percent change (95 % CI) of serum PFAS levels over 12weeks with colesevelam and no colesevelam (control).](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr5.sml)](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0025)
+
+## Tables (3)
+
+1. [Table 1. Background characteristics.](https://www.sciencedirect.com/science/article/pii/S0160412025005458#t0005 "Table 1. Background characteristics.")
+2. [Table 2. The ratios between serum-adjusted fecal and urinary PFAS concentrations with and without cholestyramine and probenecid intervention, respectively.](https://www.sciencedirect.com/science/article/pii/S0160412025005458#t0010 "Table 2. The ratios between serum-adjusted fecal and urinary PFAS concentrations with and without cholestyramine and probenecid intervention, respectively.")
+3. [Table 3. Mean elimination rates, adjusted to 12weeks and 12months of intervention, with corresponding percent decreases, estimated through mixed linear regression models with multiple measurements of serum PFA...](https://www.sciencedirect.com/science/article/pii/S0160412025005458#t0015 "Table 3. Mean elimination rates, adjusted to 12weeks and 12months of intervention, with corresponding percent decreases, estimated through mixed linear regression models with multiple measurements of serum PFA...")
+
+## Extras (1)
+
+1. [Supplementary Data 1](https://www.sciencedirect.com/science/article/pii/S0160412025005458#m0005 "Supplementary Data 1")
+
+## Highlights:
+
+- •
+A study in people with high serum PFOS and PFHxS from contaminated drinking water.
+
+- •
+We conducted cross-over trials with bile acid sequestrants and probenecid.
+
+- •
+We found that bile acid sequestrants substantially increased PFAS elimination.
+
+- •
+The largest effect was seen for PFOS, followed by PFHxS and PFOA.
+
+- •
+We found no increased urinary PFAS elimination with probenecid.
+
+
+## Abstract
+
+### Background
+
+Some per- and polyfluoroalkyl substances (PFAS) such as perfluorohexane sulfonic acid (PFHxS), perfluorooctane sulfonic acid (PFOS) and perfluorooctanoic acid (PFOA) are very long-lived in humans, with serum half-lives of several years. In PFAS hot spots, such as Ronneby, Sweden, high exposures over time have led to markedly elevated serum PFAS levels, which may result in health risks as well as transfer to the next generation through pregnancy and breastfeeding. Bile acid sequestrants and organic anion transporter inhibitors are drug candidates for increasing PFAS elimination in humans.
+
+### Materials and methods
+
+This is a cross-over, clinical study in 10 individuals from Ronneby, Sweden. First, participants were given the bile acid sequestrant cholestyramine and the organic anion transporter inhibitor probenecid for 1 week each. Urinary and fecal concentrations were measured prior, during and after the administration. Then, the changes of serum PFAS concentrations during a 12-week intervention with the bile acid sequestrant colesevelam were compared to a control period.
+
+### Results
+
+The study population was mainly exposed to PFHxS (serum mean 50 ng/mL, range 5.8–170), PFOS (serum mean 46 ng/mL, range 9.2–130) and PFOA (serum mean 2.2, range 0.7–4.4). Cholestyramine intervention increased the serum adjusted fecal PFOS concentrations by 23.1 times (95 %CI: 13.6, 39.2), while probenecid was associated with 0.79 times (95 %CI 0.63, 1.0) serum-adjusted urinary PFOS concentrations, compared to no intervention. The 12-week intervention with colesevelam resulted in a mean serum PFOS decline of 38 % (95 %CI −42, −34), compared to 2 % (95 %CI −8, 5) in the control period. The decline was smaller for PFHxS and PFOA.
+
+### Conclusions
+
+Bile acid sequestrants could be used for accelerating PFAS excretion in highly PFAS exposed individuals. Studies are needed to evaluate the risks, costs and benefits of using it for this purpose.
+
+## Graphical abstract
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-ga1.jpg)
+
+1. [Download: Download high-res image (225KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-ga1_lrg.jpg "Download high-res image (225KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-ga1.jpg "Download full-size image")
+
+## Keywords
+
+PFAS
+
+;
+
+Bile acid sequestrant
+
+;
+
+Probenecid
+
+;
+
+Cross-over
+
+;
+
+Clinical trial
+
+- [Previous article in this issue](https://www.sciencedirect.com/science/article/pii/S0160412025005513)
+- [Next article in this issue](https://www.sciencedirect.com/science/article/pii/S0160412025005495)
+
+## 1\. Introduction
+
+Per- and polyfluoroalkyl substances (PFAS) are ubiquitously used, stable chemicals known to bioaccumulate. Human biomonitoring studies in PFAS contamination hot spots have identified half-lives for long-chained, perfluorinated PFAS ranging from medians 2.3–3.5 years for perfluorooctanoic acid (PFOA) ( [Bartell, 2010](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0020), [Seals et al., 2011](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0125), [Olsen, 2007](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0120), [Li, 2018](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0100)), 5.3–7.3 years for perfluorohexane sulfonic acid (PFHxS) ( [Olsen, 2007](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0120), [Li, 2018](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0100)), and 3.4–4.8 years for perfluorooctane sulfonic acid (PFOS) ( [Olsen, 2007](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0120), [Li, 2018](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0100)), while short-chain PFAS generally have shorter half-lives ( [Xu, 2020](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0135)).
+
+In a previous study, we have shown substantial variation in half-lives between individuals, with some individuals having shorter half-lives (e.g. 2.34 years PFHxS serum half-life for the 5th percentile) and some having longer half-lives (e.g. 9.29 years PFHxS serum half-life for the 95th percentile) ( [Li, 2022](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0105)). We identified age, sex, kidney function, gut inflammation and possibly time-dependency as predictors for serum half-life after end of external exposure ( [Li, 2022](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0105)).
+
+Due to the long half-lives of these long-chained PFAS, there has been interest in studying the elimination of PFAS. PFAS is absorbed freely through the intestines, bound to plasma proteins, concentrated in liver and kidney tissue, non-metabolized and eliminated mainly through feces and urine ( [Efsa, 2020](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0040)). An extensive reabsorption in the kidney and intestine is thought to result in the long half-lives. PFAS renal clearance is estimated at 1/5th of estimated glomerular filtration rate ( [Harada, 2005](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0080)). Fecal concentrations are substantially lower than serum concentrations ( [Andersson, 2025](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0015)), even though bile concentrations are similar to serum concentrations ( [Harada, 2007](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0085)).
+
+Two key candidates for human medical interventions, aiming at increasing PFAS elimination, have been identified: cholestyramine and probenecid. Cholestyramine, a cholesterol-lowering bile acid sequestrant (BAS) and anion exchange resin, has been shown to lower serum and liver concentrations of PFOA and PFOS through a 10 times increased fecal elimination in rats ( [Johnson et al., 1984](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0090)). In people, two small studies (n = 1 and n = 8) showed increased fecal concentrations of PFHxS, PFOS and PFOA after 4 g of cholestyramine 3 times, and once a day, respectively ( [Genuis et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0065), [Genuis et al., 2010](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0060)). Furthermore, cross-sectional studies in ‘C8′ PFOA exposed population in Ohio, USA, and using US National Health and Nutrition Examination Survey (NHANES) data from 2003 to 2016 found lower serum PFAS concentrations in cholestyramine (e.g. PFOS −93 %) ( [Ducatman et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0035)) and colesevelam users (another BAS, e.g. PFOS −17.4 %) ( [Andersen, 2021](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0005)), respectively. Recently, a Danish cross-over study in 43 individuals (with median serum PFOS concentrations of 191 ng/mL) found an increased elimination of serum PFOS concentrations from a 3 % fall during the 12-week control period to a 63 % fall with administration of 4 g cholestyramine or 1250 mg colesevelam (another bile acid sequestrant, BAS), three times daily for 12 weeks ( [Møller, 2024](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0115)). The BAS had lower elimination effects on the other PFAS investigated (PFHxS: −19 %, PFOA: –22 %, perfluorononanoic acid (PFNA): −40 % and perfluorodecanoic acid (PFDA): −48 %), but the corresponding serum concentrations were at background levels ( [Møller, 2024](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0115)). Studies in populations exposed to other mixtures of PFAS, especially at levels substantially exceeding daily background exposure are thus needed.
+
+Probenecid, a gout medication, has been hypothesized to influence PFAS elimination but has not been properly studied in humans. Probenecid inhibits Organic Anion Transporters (OATs) in the kidney tubuli, with affinity for the PFAS secreting transporters OAT1 & OAT3, as well as the PFAS reabsorbing transporters OAT4 and urate transporter 1 (URAT1) ( [Miner, 2016](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0110), [Han et al., 2012](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0075)). A study in rats showed that the renal clearance of PFOA was impaired with probenecid ( [Kudo et al., 2002](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0095)). Furthermore, the cross-sectional studies mentioned above found that probenecid users had similar ( [Andersen, 2021](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0005)) or slightly higher ( [Ducatman et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0035)) serum PFAS levels. However, no human clinical trial has tested if inhibiting the reabsorption OATs trumps the inhibition of the secretory OATs, leading to a net secretion or not.
+
+In this study, we aimed to investigate the effects of a BAS (i.e., cholestyramine or colesevelam) or probenecid on PFAS elimination rate in a short-term trial (measured as PFAS concentrations in fecal and urine after a one-week intervention) and in a long-term trial (measured as changes in serum PFAS concentrations during a 12-weeks intervention).
+
+## 2\. Materials and methods
+
+### 2.1. Study setting
+
+This study was conducted between December 2022 to July 2024 in Ronneby, a municipality in southeastern Sweden where the ground water was contaminated with PFAS (mainly PFOS and PFHxS) from aqueous film-forming foam (AFFF) used at a local military airfield. The use of AFFF has been reported to start in the 1980s. Elevated PFAS levels were found in one municipal waterworks in late 2013. Following discovery, clean water was immediately provided. The details of the contamination have been described previously ( [Xu, 2021](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0140)).
+
+### 2.2. Study population and design
+
+This study is a clinical cross-over study, set in two trials: a short-term trial investigating the effect of probenecid and cholestyramine on urinary and fecal PFAS concentrations, respectively, after one week of administration; and a long-term trial investigating the change in serum concentrations after 12 weeks of administration.
+
+This study was conducted in accordance with the Helsinki declaration and Good Clinical Practice. The study was registered in the EudraCT database of clinical studies and trials (2021-005865-42) and approved by the Swedish Medical Products Agency (5.1-2022-24120, amendment: 5.1–2023-98757) and the Swedish Ethical Review Authority (2022–01715-01, amendment: 2023–06869-02) prior to the start of the study.
+
+#### 2.2.1. Study population
+
+Invitation letters were sent to all 20–45 year old individuals living in Ronneby municipality who had previously attended either the Ronneby Biomarker cohort ( [Li, 2018](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0100)) or the PFAS COVID-19 vaccination cohort ( [Andersson, 2023](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0010)), so that individuals with expected elevated serum levels could be reached. The age restriction was set to reach as healthy participants as possible with few potential drug interactions. In total, 544 letters were sent, resulting in 19 individuals indicating an interest in participating and were thus invited to an information meeting at the end of 2022.
+
+Exclusion criteria were hypersensitivity towards the study medications; kidney, bowel, or liver disease; other chronic, systemic disease; pregnancy or lactation; intellectual disability or language barriers; interactions between the study medication and another medication that cannot be avoided; and participation in another clinical trial.
+
+In total, 12 participants attended the information meeting, but one dropped out prior to study start and one was excluded due to systemic disease, resulting in 10 participants starting and finishing the short-term trial. Out of these 10, two individuals had hypertension, one had Attention Deficit Hyperactive Disorder (ADHD), one had asthma, and two had treatments with selective serotonin release inhibitors (SSRI). The short-term trial started in January 2023.
+
+For the long-term trial, 8 out of 10 participants from the short-term trial continued. The remaining 2 out of 10 were excluded since they got pregnant after the short-term trial but before the start of the long-term trial. Instead, two new individuals were recruited. For the long-term trial, one individual had ADHD, hypertension and SSRI treatment. The long-term trial started in January 2024.
+
+One individual dropped out of the long-term trial half-way, resulting in 9 individuals who completed the trial.
+
+#### 2.2.2. Study design: short-term trial
+
+There were three interventions: cholestyramine, probenecid and control (no medication). Medication dosage was based on common doses used in clinical practice: 4 g of cholestyramine, twice a day; and 500 mg probenecid, twice a day. The participants were randomly allocated to start with either probenecid, cholestyramine or control; then randomized again to one of the two remaining interventions; and then lastly crossed over to the last intervention ( [Fig. S1](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)). The intervention lasted for one week each, with one week wash-out between interventions. The interventions were not blinded, as the medications were in different formats (soluble powder for cholestyramine and pills for probenecid) and there were different samples collected in each intervention.
+
+##### 2.2.2.1. Sample collection instructions
+
+For the short-term trial, serum, urine and feces were collected. Serum was collected by health-care professionals after inclusion into the study (baseline). Before each week, participants were provided with the necessary sampling material for that week. Morning spot urine and feces were collected by the participants at their homes. For urine, the individuals were instructed to pull back labia/foreskin, discard the first portion of urine, fill a cup of midstream urine, transfer into storage tubes and store it in their own freezer until the next follow-up. To avoid contamination with blood, menstruating women were asked to insert a tampon prior to sampling. For feces, the participants were first instructed to discard urine and flush prior to defecation to enable sampling without contamination from the urine. Feces were then sampled in containers with built-in spatulas. The containers were then stored in their own freezer until the next follow-up.
+
+##### 2.2.2.2. Sampling schedules
+
+Since the hypothesis was that probenecid affects urinary excretion, while cholestyramine affects fecal elimination, different sampling schedules were set for each intervention.
+
+For the probenecid week, eight urine samples were collected. The first urine was sampled prior to the start of the intervention, and then urine was sampled every day during the week.
+
+For the cholestyramine week, three fecal samples were collected. The first fecal samples were collected prior to the start of the intervention. The following two fecal samples were collected after 4 days and 7 days of intervention, respectively.
+
+In the control week, two urine and two fecal samples, one each at the start and one each at the end of the week, were collected and analyzed.
+
+All analyzed sample time points are shown in [Table S1](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155).
+
+#### 2.2.3. Study design: long-term trial
+
+The original study plan, assuming both cholestyramine and probenecid showed an effect on excretion in the short-term trial, was to have three interventions (12 weeks each) during the long-term trial: control, cholestyramine and the combination of cholestyramine and probenecid.
+
+However, since preliminary results from the short-term trial showed no signs of probenecid having an increasing effect on the urinary elimination of PFAS, probenecid was not included in the long-term trial. A second modification to the protocol followed the observation from several participants who reported distaste and reluctance to continue with cholestyramine, therefore the BAS tablet colesevelam (Cholestagel®) was used instead. Thus, the interventions for the long-term study were 12 weeks of 625 mg colesevelam, two tablets two times a day (daily dose 2500 mg); and 12 weeks of no intervention (control) ( [Fig. S2](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)). The order of the intervention was randomized, and the intervention was not blinded.
+
+Seven serum samples per subject were sampled: one baseline sample and then samples each fourth week, resulting in three serum samples for each intervention. The individuals crossed over to the other intervention at the third follow-up visit. There was no washout period between the end of intervention 1 and the start of intervention 2, and the third serum sample served as both the final sample of intervention 1 and the beginning of intervention 2. Specifically, individuals who started with colesevelam would take their morning medication on the day of the third follow-up, leave a serum sample, and then cross-over to no intervention (control) for the next 12 weeks. Conversely, individuals who started with control would start with colesevelam on the evening of the same day as the third follow-up visit.
+
+After the colesevelam intervention, the remaining tablets were collected and counted. Compliance was calculated by dividing doses taken with expected doses, depending on the number of days between receiving the study medication and the last intervention follow-up.
+
+All serum samples were analyzed in the same batch.
+
+### 2.3. PFAS measurements
+
+For the short-term trial, PFAS was measured in serum, urine, and feces, to evaluate the individual body burden and the effect of cholestyramine and probenecid, respectively. For the long-term trial, PFAS was only measured in serum.
+
+#### 2.3.1. Serum and urine
+
+Venous serum samples were obtained, left at room temperature for 30 min and then centrifuged for 10 min at 1500g to isolate the serum. The samples were collected in 5 mL Becton Dickinson vacutainer blood collection tubes without gel (BD, Belliver Industrial Estate, Plymouth, UK). Serum was separated into 2 mL micro tubes (Sarstedt, Nümbrecht, Germany). Urine samples were collected in 13 mL polypropylene screw cap tubes (Sarstedt, Nümbrecht, Germany). Samples were stored on site at −20 °C after sampling and transported to Lund using cold chain logistics. Serum and urine samples were then stored at −80 °C and −20 °C, respectively, before analysis.
+
+Quantitative analysis of PFAS was conducted at the Division of Occupational and Environmental Medicine, Lund University, using liquid chromatography − triple quadrupole linear ion trap mass spectrometry (LC/MS/MS; QTRAP 6500+; AB Sciex, Framingham, MA, USA) described in Xu et al. 2020 \[5). For the short-term trial, three compounds were analyzed in urine and serum: PFOA, PFOS (both total and linear PFOS) and PFHxS. For the long-term trial, ten PFAS were quantitated: perfluoroheptanoic acid (PFHpA), PFOA, PFNA, PFDA, perfluoroundecanoic acid (PFUnDA), perfluorobutane sulfonic acid (PFBS), perfluoropentane sulfonic acid (PFPeS), PFHxS, perfluoroheptane sulfonic acid (PFHpS) and PFOS.\
+\
+Prior to analysis, 25 μL of serum or 50 μL of urine samples were precipitated using acetonitrile by vigorous shaking for 30 min. All sample batches include chemical blanks and 3 quality control samples. The laboratory participates in G-EQUAS, a quality control program between analytical laboratories coordinated by University of Erlangen-Nuremberg, Germany for PFAS analysis. The laboratory is a qualified laboratory for analysis of PFAS in the PARC Aligned studies. The limit of detection (LOD) in the serum and urine samples are listed in [Table S2](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155). Density was measured using a digital refractometer and used to correct for dilution.\
+\
+#### 2.3.2. Feces\
+\
+Fecal samples were stored on site at −20 °C after sampling and transported to Örebro using cold chain logistics. Then the samples were freeze-dried and stored at –20 °C until analysis. Four PFAS were analyzed in feces; L-PFOS, PFOA, PFNA and PFHxS. Subsamples of 0.2 g were mixed with isotopically labeled standards containing PFOA, PFNA, PFHxS and L-PFOS (Wellington Laboratories, Guelph, Canada). Extraction was performed with alkaline methanol (2 mM sodium hydroxide in methanol) followed by three times with 2 mL methanol. Hydrochloric acid was added to the combined extracts (6 mL) to neutralize the previously added sodium hydroxide. Clean-up was performed after dilution with ultra-pure water and using weak anion-exchange solid-phase extraction (WAX, Waters Corporation, Milford, USA) and dispersive carbon (Supelclean ENVI-Carb, Supelco). Extracts were filtered through 0.2 µm hydrophilic polypropylene filters (GHP, from PALL Corporation, NY, USA) and evaporated to a final volume of 200 µL. A new set of isotopically labeled standards (Wellington Laboratories, Guelph, Canada) and 300 µL 2 mM ammonium acetate in water were added before injection. Instrumental analyses were performed on an UPLC MS/MS system (ACQUITY coupled to Xevo TQ-S, Waters Corporation, Milford, USA) in electrospray ionization mode (ESI) by injecting 10 μL of sample onto a UPLC BEH C18 (2.1 × 100 mm, 1.7 μm) analytical column. Procedural blanks (chemical blanks) and one QC sample were included in each extraction batch, and the LOD was calculated as the mean concentration in blank samples plus three times the standard deviation ( [Table S2](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)). As only 9 % of PFNA samples were above LOD, they were not analyzed further.\
+\
+#### 2.3.3. Vitamin D serum measurements\
+\
+Serum levels of Vitamin D were measured in samples from all long-term trial visits, to estimate the effect of colesevelam on vitamin D levels.\
+\
+A full method description for analysis of serum vitamin D (25-OH vitamin D3) is available in [Gaml-Sørensen (2023](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0050)). Briefly, quantitative analysis was conducted using LC-MS/MS. No samples were below the LOD of 0.22 ng/mL. QC samples from Chromsystems Instruments & Chemicals GmbH (MassCheck; Gräfelfing, Germany) were analyzed for all analytical batches. External and internal quality control were satisfactory.\
+\
+### 2.4. Other covariates\
+\
+#### 2.4.1. Questionnaire\
+\
+Questionnaires on background characteristics were collected at baseline for both the short-term and long-term trial.\
+\
+Questionnaires were also given at each follow-up, containing information on side effects of intervention, if donating blood since last visit and compliance to the study medication since last visit.\
+\
+#### 2.4.2. Other biomarkers\
+\
+Plasma samples were sent to the Clinical Chemistry, Blekinge Hospital, Karlskrona for measuring clinical biomarkers. Urine dipstick, estimated glomerular filtration rate (eGFR) based on plasma creatinine, plasma bilirubin and plasma alanine aminotransferase/aspartate aminotransferase were measured at every visit, to ensure no adverse effects of the medications. For each follow-up visit for the long-term trial, plasma concentrations of cholesterol, low- and high-density lipoprotein (LDL and HDL, respectively), and triglycerides were measured to estimate the cholesterol-lowering effect of colesevelam, compared to the control weeks.\
+\
+### 2.5. Statistical analysis\
+\
+All analyses were done in R (RStudio).\
+\
+Spaghetti plots were used to illustrate the time trends during the intervention and control periods.\
+\
+Since the participants provided several repeated measurements, linear mixed regression models were used.\
+\
+#### 2.5.1. Short-term trial\
+\
+For the short-term trial, the following mixed regression model was used:l⁢n(𝐶𝑖𝑗⁢)=⁢𝛼𝑖+𝛽𝑖𝑛𝑡𝑒𝑟𝑣𝑒𝑛𝑡𝑖𝑜𝑛+𝜀𝑖𝑗where C is the urine or fecal concentration divided by baseline serum concentration for each individual i and sample j and with random intercept 𝛼𝑖, β is the coefficient for the intervention (probenecid or cholestyramine vs control), and εit is the random error for individual i and sample j. 𝑒β is corresponding the ratio of elimination rates and is presented in the results.\
+\
+For the cholestyramine week, the first fecal sample was considered as a control sample, as it was sampled prior to the cholestyramine intervention. The two other samples during the cholestyramine week were considered as measuring the intervention effect and were compared to the first cholestyramine fecal sample and the two control weeks fecal samples.\
+\
+Likewise for the probenecid week, the first urine sample was sampled prior to intervention and was thus regarded as a control sample, together with the two urine samples from the control week. In addition, sample nr 2 and 3 from the probenecid week were not considered as showing full intervention effect. This is because probenecid has a half-life of 2 to 12 h ( [Cunningham et al., 1981](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0025)), and we considered 4–5 half-lives necessary to reach serum equilibrium. Therefore, samples nr 2 and 3 constituted an intermediary, “early intervention” group, while samples nr 4 to 8 constituted the complete, “late intervention” group.\
+\
+#### 2.5.2. Long-term trial\
+\
+For the long-term trial, the following mixed regression model was used:l⁢n(𝐶𝑖𝑗⁢)=ln⁢(𝐶𝑖⁢0)−𝑘∙𝑡𝑖𝑗−𝛽𝑖𝑛𝑡𝑒𝑟𝑣𝑒𝑛𝑡𝑖𝑜𝑛∙𝑡𝑖𝑗+𝜀𝑖𝑗Where 𝐶𝑖𝑗 is the serum measurement for each PFAS for individual i and sample j; the sample j represents the time point in the control or in the intervention period (j = 0, 1, 2, 3); l⁢n⁡(𝐶𝑖𝑜) is the subject specific intercept reporting the starting levels of serum PFAS levels at the beginning of each period; 𝑡𝑖𝑗 is the number of days within either the control period or the intervention period; 𝑘 is the serum elimination rate (rate without intervention); 𝛽𝑖𝑛𝑡𝑒𝑟𝑣𝑒𝑛𝑡𝑖𝑜𝑛 is the estimated difference between serum eliminated rates during the control and intervention periods (i.e. intervention effect).\
+\
+From the elimination rates (k), mean percent declines (Δ⁢𝐶𝑡) over 12 weeks (84 days) and 12 months, as well as half-lives (t1/2, in years) were estimated using the following equations:Δ⁢𝐶𝑡=(𝑒−𝑘⁢𝑡⁢−1)𝑡1/2=ln⁡(2)−𝑘\
+\
+#### 2.5.3. Mixed regression models for blood lipids & vitamin D\
+\
+Linear mixed models were used to investigate the possible effect of colesevelam intervention on blood lipid and vitamin D, with blood lipid (cholesterol, LDL, HDL or triglycerides) or vitamin D as the dependent variable (not log-transformed), and colesevelam intervention vs control (reference) as the independent variable. As intervention order was randomized, half started with colesevelam and half with control; therefore, the seasonal effect on vitamin D concentrations should be minimal.\
+\
+## 3\. Results\
+\
+### 3.1. Study population\
+\
+Background characteristics are presented in [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412025005458#t0005). In total, 12 individuals participated in the study, with 8 individuals participating in both trials. The mean age was 39 (range 25–46) for the short-term trial and 40 (range 26–47) for the long-term trial. Fifty % had high school education, while the other 50 % had either higher or vocational education. Women were at a slight majority (60 % for each trial). Although 3 individuals reported being regular blood donors, only 2 individuals donated blood during the study, with one occasion each during the control period of the long-term trial.\
+\
+Table 1. Background characteristics.\
+\
+| Empty Cell | Empty Cell | Whole study | Short-term trial | Long-term trial |\
+| --- | --- | --- | --- | --- |\
+| Number of participants | N | 12 | 10 | 10 |\
+| Age at start of each trial | Mean (range) | 38 (25–46) | 39 (25–46) | 40 (26–47) |\
+| Highest education level |\
+| High school | n (%) | 6 (50) | 5 (50) | 5 (50) |\
+| Vocational education | n (%) | 2 (16) | 2 (20) | 2 (20) |\
+| Higher education | n (%) | 4 (33) | 3 (30) | 3 (30) |\
+| Female sex | n (%) | 8 (67) | 6 (60) | 6 (60) |\
+| Current smokers | n (%) | 1 sporadic user | 1 sporadic user | 0 |\
+| Previous blood donors | n (%) | 3 (25) | 3 (30) | 3 (30) |\
+| Individuals donating blood during study | n (%) | 2 (17) | 0 (0) | 2 (20) |\
+| Number of blood donations during study | n | Once each, both during control period | 0 | Once each, both during control period |\
+\
+### 3.2. Short-term trial\
+\
+All serum concentrations, urinary PFHxS and urinary PFOS measured during the short-term trial were above LOD, while all urinary PFOA concentrations were below LOD ( [Table S2](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)). For fecal measurements, 70 % of PFOS, 68 % of PFHxS, 34 % of PFOA and 9 % of PFNA were above LOD. Further analyses of PFNA were not conducted because of the lack of samples above LOD.\
+\
+For the control week, the fecal PFAS concentrations varied between participants with a weak relationship between fecal and serum concentrations ( [Fig. 1](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0005)). The urine and serum concentrations, however, were more correlated ( [Fig. 1](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0005)).\
+\
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr1.jpg)\
+\
+1. [Download: Download high-res image (203KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr1_lrg.jpg "Download high-res image (203KB)")\
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr1.jpg "Download full-size image")\
+\
+Fig. 1. Individual PFAS concentrations in feces and urine in 10 individuals during control weeks in relation to baseline serum PFAS concentrations on logarithmic scales. Triangles represent samples below limit of detection.\
+\
+The urinary PFAS concentrations did not change during the probenecid intervention ( [Fig. 2](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0010) & [Table S3](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)), but the fecal concentrations during the cholestyramine intervention increased greatly ( [Fig. 3](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0015) & [Table S3](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)). The highest absolute increase in fecal concentrations was seen in individuals with higher serum PFAS levels ( [Fig. 3](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0015)).\
+\
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr2.jpg)\
+\
+1. [Download: Download high-res image (470KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr2_lrg.jpg "Download high-res image (470KB)")\
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr2.jpg "Download full-size image")\
+\
+Fig. 2. Spaghetti-plot showing density-adjusted urinary PFAS concentration and serum PFAS concentration in 10 individuals during their control (C) and early (E) and late (L) probenecid period (short-term trial).\
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr3.jpg)\
+\
+1. [Download: Download high-res image (373KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr3_lrg.jpg "Download high-res image (373KB)")\
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr3.jpg "Download full-size image")\
+\
+Fig. 3. Spaghetti-plot showing the fecal PFAS concentration and serum PFAS concentration in 10 individuals during their control (C) and cholestyramine (T) period (short-term trial).\
+\
+Based on mixed regression models, the fecal elimination rates, i.e. the fecal concentration to serum concentration ratios, during the cholestyramine week were 19.8 (95 %CI: 11.1, 35.5), 23.1 (95 %CI: 13.7, 38.8) and 3.6 (95 %CI: 2.5, 5.2) times higher for PFHxS, PFOS and PFOA, respectively, than the control week ( [Table 2](https://www.sciencedirect.com/science/article/pii/S0160412025005458#t0010)). For probenecid, the ratio comparing the intervention period with the control samples was 0.88 (95 %CI: 0.78, 0.99) for PFHxS, 0.79 (95 %CI: 0.63, 1.00) for PFOS, and 1.08 (95 %CI: 0.9, 1.3) for PFOA ( [Table 2](https://www.sciencedirect.com/science/article/pii/S0160412025005458#t0010)).\
+\
+Table 2. The ratios between serum-adjusted fecal and urinary PFAS concentrations with and without cholestyramine and probenecid intervention, respectively.\
+\
+| Empty Cell | Empty Cell | PFHxS (95 %CI) | PFOS\* (95 %CI) | PFOA (95 %CI) |\
+| --- | --- | --- | --- | --- |\
+| Cholestyramine | Intervention week | 19.8 (11.1, 35.5) | 23.1 (13.7, 38.8) | 3.6 (2.5, 5.2) |\
+| Probenecid | Early intervention (day 2–3) | 0.90 (0.78, 1.04) | 0.85 (0.64, 1.14) | 1.19 (0.94, 1.5) |\
+| Late intervention (day 4–8) | 0.88 (0.78, 0.99) | 0.79 (0.63, 1.00) | 1.08 (0.9, 1.3) |\
+\
+\*= Fecal PFOS is limited to the linear isomer, whereas for urine all isomers were registered (total PFOS).\
+\
+Mixed linear regression models were used to compare log fecal/serum ratios and log urinary/serum ratios of the cholestyramine or probenecid week, respectively, with corresponding ratios of the control week. There were multiple fecal and urinary measurements, but only one baseline serum measurement per individual. The first samples from the intervention weeks, in addition to the urine and fecal samples from the control week, were used as control samples. Fecal measurements below LOD were treated as LOD/2. All urinary PFOA measurements, but no urinary PFHxS or PFOS measurements, were below LOD. The data < LOD for urinary PFOA was still used in estimations for probenecid effect.\
+\
+### 3.3. Long-term trial\
+\
+The ratio of serum concentrations above LOD were 100 % for all PFAS compounds except for PFDA (97 %) and PFBS (81 %) for the long-term trial ( [Table S2](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)).\
+\
+At the start of the long-term trial of the study, serum PFHxS and PFOS were moderately to very highly elevated, ranging from 5 ng/mL to over 100 ng/mL at baseline, while the other PFAS were at lower serum levels ( [Fig. 4](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0020), [Table S4](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)). Over the trial, all participants had a decrease of PFHxS and PFOS ( [Fig. 4](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0020), [Table S4](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)); however, the magnitude varied between individuals and between intervention periods. The PFOA serum levels were close to background average serum levels ( [Fig. 4](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0020), [Table S4](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)).\
+\
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr4.jpg)\
+\
+1. [Download: Download high-res image (345KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr4_lrg.jpg "Download high-res image (345KB)")\
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr4.jpg "Download full-size image")\
+\
+Fig. 4. Spaghetti plot showing the serum PFAS levels over time, centered around the cross-over from colesevelam intervention period (solid lines & triangles) to control period (dashed lines and squares) or vice versa; the order was randomly assigned.\
+\
+While PFHpA, PFNA, PFDA, PFUnDA, PFBS, and PFPeS were at background levels, PFHpS levels were low but all elevated compared to background levels at a mean 1.90 ng/mL at baseline and 1.26 ng/mL at the end of the trial ( [Table S4](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)).\
+\
+Mean elimination rates for PFOS were markedly higher during the colesevelam weeks than the control weeks, corresponding to a 12-week change of −38 % (95 %CI: −42, −34) for serum PFOS levels compared to −2% (95 %CI: −8, 5) during the control weeks ( [Table 3](https://www.sciencedirect.com/science/article/pii/S0160412025005458#t0015), [Fig. 5](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0025)). A slightly lower change was observed for PFHxS and PFOA, with −14 % (95 %CI: −18, −10) during 12 weeks with colesevelam compared to −6% (95 %CI: −1, −10) during control for PFHxS, and −11 % (95 %CI: −24, 4) during weeks with colesevelam, compared to + 8 % (95 %CI: −8, 27) during control weeks ( [Table 3](https://www.sciencedirect.com/science/article/pii/S0160412025005458#t0015), [Fig. 5](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0025)). The differences between colesevelam and control were statistically significant for all three PFAS (as the 95 % confidence intervals did not overlap 0), and corresponded to a difference of −9%, −37 % and −18 % for PFHxS, PFOS and PFOA, respectively ( [Fig. 5](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0025)). The corresponding half-lives with continuous colesevelam intervention would be 1.06 (95 %CI: 0.80, 1.55), 0.33 (95 %CI: 0.29, 0.41) and 1.37 (95 %CI: 0.58, −3.69) years for PFHxS, PFOS and PFOA, respectively.\
+\
+Table 3. Mean elimination rates, adjusted to 12 weeks and 12 months of intervention, with corresponding percent decreases, estimated through mixed linear regression models with multiple measurements of serum PFAS concentrations with and without colesevelam intervention.\
+\
+| Empty Cell | Period | Mean elimination rate 12 weeks (95 % CI) | Mean elimination rate12 months (95 % CI) | Percent change 12 weeks (95 % CI) | Percent change 12 months (95 % CI) |\
+| --- | --- | --- | --- | --- | --- |\
+| **PFHxS** | Colesevelam | 0.15 (0.1, 0.2) | 0.66 (0.45, 0.86) | −14 (−18, −10) | −48 (−58, −36) |\
+| Control | 0.06 (0.01, 0.11) | 0.27 (0.06, 0.48) | −6 (−10, −1) | –23 (−38, 5) |\
+| **PFOS** | Colesevelam | 0.48 (0.41, 0.55) | 2.1 (1.8, 2.4) | −38 (−42, −34) | −88 (−91, 84) |\
+| Control | 0.02 (−0.05, 0.09) | 0.07 (−0.23, 0.37) | −2 (−8, 5) | −7 (−31, 25) |\
+| **PFOA** | Colesevelam | 0.12 (−0.04, 0.28) | 0.5 (−0.19, 1.2) | −11 (−24, 4) | −40 (−70, 21) |\
+| Control | −0.08 (−0.24, 0.08) | −0.34 (−1.04, 0.36) | 8 (−8, 27) | 41 (−30, 183) |\
+\
+PFAS = per- and polyfluoroalkyl substances, PFHxS = perfluorohexane sulfonic acid, PFOA = perfluorooctanoic acid, PFOS = perfluorooctane sulfonic acid.\
+\
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr5.jpg)\
+\
+1. [Download: Download high-res image (301KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr5_lrg.jpg "Download high-res image (301KB)")\
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-gr5.jpg "Download full-size image")\
+\
+Fig. 5. Bar plot showing the percent change (95 % CI) of serum PFAS levels over 12 weeks with colesevelam and no colesevelam (control).\
+\
+For PFDA, PFUnDA, PFBS, PFPeS and PFHpS, increases of 20 % to 54 % in elimination were observed during the colesevelam period, compared to the control period. There is no evidence of changes for PFHpA and PFNA ( [Table S5](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155) & S6). However, it should be noted that there was a lot of variability in the PFAS measurements for all these PFAS with lower serum levels, except for PFPeS and PFHpS, indicated by the individual lines in the spaghetti plots ( [Fig. S3](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155) & S4).\
+\
+### 3.4. Other effects\
+\
+#### 3.4.1. Colesevelam influence on vitamin D and blood lipids\
+\
+Cholesterol and LDL were slightly lower during the colesevelam period, at −0.3 (95 %CI −0.5, −0.1) mmol/L and −0.4 (95 %CI −0.6, −0.2) nmol/L, respectively ( [Table S7](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)). There were no differences in Vitamin D, HDL and triglyceride levels ( [Table S7](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)).\
+\
+#### 3.4.2. Side effects\
+\
+Self-reported side effects of the medications are reported in supplementary [Table S8](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155). During the short-term trial, only 1 out of 10 (i.e. 10 %) of the study participants reported constipation with cholestyramine, which was the same as constipation for probenecid. However, half of the participants said that they would not continue with 3 months of cholestyramine, as the medication was too distasteful. Skin rash (10 %) was also associated with both probenecid and cholestyramine. Additionally, there were some side effects specific to one treatment: nausea during probenecid use (20 %), increased flatulence (10 %) for cholestyramine, and an acute need to urinate (10 %) for cholestyramine.\
+\
+During the long-term trial, no complaints regarding distasteful were made with colesevelam, and compliance was high (range: 75 % to 100 % of doses) ( [Table S9](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)). Constipation was experienced by 3 out of 9 participants.\
+\
+## 4\. Discussion\
+\
+In this small, clinical cross-over study of 12 individuals, we have found that BAS have a net secretory effect on PFHxS and PFOS. We have demonstrated this in two steps; first by measuring 19.8 and 23.1 times higher fecal concentrations of PFHxS and PFOS, respectively, from 1 week of cholestyramine intervention; then by measuring a long-term additional decrease of serum levels of PFHxS by 9 % and PFOS by 37 % during 12 weeks of colesevelam intervention, compared to the control weeks. In contrast, we found that probenecid may slightly lower the urinary PFAS elimination (rate ratio: 0.88 for PFHxS and 0.79 for PFOS), but confidence intervals were close to indicating a null effect.\
+\
+Our PFOA results were similar to the PFHxS and PFOS results, but at lower magnitudes and with broader confidence intervals. This is likely due to PFOA serum levels being at much lower levels, close to expected background levels, thus resulting in ongoing exposure and random measurement errors being relatively important. For example, three individuals in the long-term trial had serum PFOA levels below 1 ng/mL ( [Table S4](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)), and several individuals experienced apparent increases in serum PFOA levels over the control period ( [Fig. 4](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0020)). Hence, the PFOA results should be treated with caution, and other populations are needed to evaluate BAS intervention effectiveness for PFOA.\
+\
+Likewise, our serum elimination rate estimations during the control period should also be treated with caution. The small sample size and the short follow-up time of 12 weeks lead to imprecise estimations, with wide confidence intervals; thus, the estimates differ largely from previous estimations from the Ronneby population. For example, the mean PFOS elimination rate (k) of 0.07 (95 % CI −0.23, 0.37) during the control period for 12 months are lower than the 0.20–0.25 previously reported ( [Li, 2018](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0100), [Li, 2022](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0105)).\
+\
+There was no washout period between the end of intervention 1 and the start of intervention 2 for the long-term trial, as we concluded that the carry-over effect would be small in comparison to the length of the intervention period. This was supported by the fact that BAS (including colesevelam) inhibits the enterohepatic recirculation in the small intestine ( [Steinmetz, 2002](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0130)) and the time from the oral administration to entering the colon is only a few hours, as gastric emptying is rapid (usually 10–60 min, to maximum a few hours) and transit through the small intestine takes 3–4 h ( [Derendorf, 2020](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0030), [Feng, 2020](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0045)). In other words, since the participants would take the last colesevelam dose hours before providing the serum sample, the majority, if not all, of the drug would already have left the small intestine, leading to a minimal carry-over effect.\
+\
+We also did not take blood donation into consideration, even though studies have shown increased elimination rates with repeated blood ( [Genuis et al., 2014](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0070), [Gasiorowski, 2022](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0055)) and plasma donations ( [Gasiorowski, 2022](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0055)). The rationale behind our decision was that there were only two separate occasions during the long-term trial, and one of them was in the individual who dropped out (who therefore did not provide any data in the mixed models). Therefore, only one out of 53 follow-ups was preceded with a blood donation, which restricted the possibility to include it in our regression models.\
+\
+Our results were in line with the previous cholestyramine trials conducted by both Genuis et al. ( [Genuis et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0065), [Genuis et al., 2010](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0060)) and ( [Møller, 2024](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0115)). Overall, this replicability suggests that it is possible to actively lower serum PFAS levels through BAS medications such as cholestyramine and colesevelam.\
+\
+Our probenecid results were also in line with the cross-sectional studies, where probenecid users were found to have close to no effect ( [Ducatman et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0035)). In other words, our results are consistent with either the probenecid-induced inhibition of OATs leading to a net reabsorption of PFAS or having no net effect.\
+\
+The effect size of BAS intervention was higher overall in the Møller et al. study ( [Møller, 2024](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0115)), with 63 %, 19 % and 22 % mean reduction in PFOS, PFHxS and PFOA levels with BAS, while the same PFAS compounds were only lowered by 38 %, 14 % and 11 %, respectively, in our study. The main differences were that Møller et al. used cholestyramine instead of colesevelam and administered doses three times a day instead of two ( [Møller, 2024](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0115)). However, our dose of 2.5 g colesevelam daily was comparable, when it comes to LDL lowering, to the dose of 12 g cholestyramine daily used by Møller et al ( [Steinmetz, 2002](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0130), [Zema, 2012](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0145)). The different effect on PFAS binding may be explained by a higher percent of colesevelam than cholestyramine binding to bile acids, so leaving more cholestyramine to bind, directly and indirectly, to PFAS. Another explanation could be that spreading out the dose throughout the day could limit the drug-free time in the small intestine, enabling more PFAS to be bound.\
+\
+The Møller et al. population had higher levels of PFOS (median 191, IQR 129–229) ( [Møller, 2024](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0115)), which could influence the relative amount of PFOS in bile. However, we did not observe that the individuals with the highest serum PFOS concentrations also had the highest relative intervention effect in our population ( [Table S4](https://www.sciencedirect.com/science/article/pii/S0160412025005458#s0155)). In addition, Møller et al. observed higher percent reductions in PFHxS, even though their serum PFHxS levels (median 8.8, IQR 5.7–11.9) ( [Møller, 2024](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0115)) were lower than the serum PFHxS levels in our study population.\
+\
+Theoretically, PFAS could redistribute to serum from other compartments, leading to a post-intervention rise of serum PFAS levels. However, neither Møller et al. (PFOS) nor this study (PFOS & PFHxS, [Fig. 4](https://www.sciencedirect.com/science/article/pii/S0160412025005458#f0020)) saw any indication of a marked redistribution in individuals who received colesevelam first. Therefore, in these populations where the high PFAS external exposures have been removed, the colesevelam intervention effect on serum levels appears to persist. However, it is possible that slower redistribution from other compartments could take place, which would need further follow-up serum measurements to assess.\
+\
+One benefit of colesevelam is that it seems to be more tolerable than cholestyramine ( [Zema, 2012](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0145)), enabling higher compliance over longer intervention periods. This was also observed in our study, with half of the study participants during the first trial not wanting to continue the long-term trial if cholestyramine would be used. Since colesevelam is more tolerable, it might even be possible to increase the dose to increase the PFAS elimination. Future studies would have to investigate whether it is possible to increase the impact on PFAS elimination by increasing the colesevelam dose, e.g. from 4 tablets (2.5 g) to 6 tablets (3.8 g) a day.\
+\
+Future studies would also be needed to evaluate the health implications of lowering serum PFAS levels, as it is unknown if it is current PFAS levels, cumulative PFAS exposure or PFAS levels reaching certain thresholds that best predict health risks. For each of these scenarios, colesevelam intervention would have different impacts. The highest benefit would be if it is current serum PFAS levels that influence health, as lowering serum PFAS with colesevelam would directly reduce or remove the increased risk. If it is the cumulative PFAS exposure over time, then lowering of serum PFAS would mediate some of the risks, but some damage would likely already have been done. Lastly, if it is threshold serum levels that induce irreversible changes, then colesevelam intervention would be ineffective at mediating health risks. These three potential mechanisms could work in tandem, both within and between different health risks. Further investigation of the nature of PFAS induced health risks are needed to guide an eventual intervention strategy.\
+\
+Regardless, we want to emphasize that there is likely a specific health benefit from lowering serum PFAS levels in women before pregnancy, as it would limit the placental exposure route to the fetus and the lactational exposure route to the newborn child, therefore, breaking the intergenerational transfer.\
+\
+This study has some limitations, principally its size. Even though we have several measurements in each individual and have measured the effects of intervention in feces, urine, and serum, we were only able to recruit 10 individuals for each trial. Even though we found clear intervention effects with this study size, a larger study population would introduce the possibility to compare intervention effects in different subgroups.\
+\
+This study had also a low participation rate (2.2 %). However, the risk of confounding was low, as the cross-over design made the control and intervention group basically the same when it came to confounding factors (age, sex etc). Furthermore, we applied thorough exclusion criteria, since we did not include individuals with kidney, liver or inflammatory bowel diseases.\
+\
+While low participation rate could generate selection bias, i.e. that the study population had different exposure or outcome compared to the target population, the risk in this study was low. Some of the risk was avoided through the cross-over design of the study, since all participants received the same exposure (the different treatments). Likewise, we had selected healthy participants that had not tried the study medications previously, so it is unlikely that the study medications systematically worked better or worse than the target population (outcome).\
+\
+Instead, the small population size and the low participation rate, together with the inclusion and exclusion criteria, might have impaired the possibility to extrapolate the results to the target population, i.e. highly PFAS-exposed adults.\
+\
+We restricted the study population to healthy individuals aged 20 to 45, hence a study population which likely had few comorbidities and drug interactions that could interfere with the study interventions and the results. However, it most likely was a study population with lower serum PFAS levels than if we would have included older study participants from the Ronneby biomarker cohort, as they have had more time to accumulate PFAS and as PFAS elimination rates decrease with age ( [Li, 2022](https://www.sciencedirect.com/science/article/pii/S0160412025005458#b0105)).\
+\
+In conclusion, we have found that the BAS compounds cholestyramine and colesevelam increase PFAS elimination, while probenecid does not. Future studies are needed to explore the risks, costs and benefits of BAS intervention, suggestively by determining the relationship between PFAS exposure and health outcomes, i.e. if it is current levels, cumulative exposure, or threshold levels that influence the risk for various outcomes. Furthermore, studies about inter-individual variability in response to a BAS intervention, including identifying any factors for optimizing intervention effectiveness, are needed. Such understanding is of importance if interventions are considered in PFAS-exposed populations.\
+\
+## CRediT authorship contribution statement\
+\
+**Axel G. Andersson:** Conceptualization, Data curation, Formal analysis, Investigation, Project administration, Software, visualization, Writing – original draft, Writing – review & editing. **Yiyi Xu:** Writing – review & editing. **Anna Kärrman:** Writing – review & editing, Resources, Methodology, Investigation. **Julia Cederlund:** Resources, Investigation. **Christian H. Lindh:** Writing – review & editing, Resources, Methodology, Investigation, Funding acquisition. **Daniela Pineda:** Writing – review & editing, Investigation. **Tony Fletcher:** Writing – review & editing, Funding acquisition, Conceptualization. **Kristina Jakobsson:** Writing – review & editing, Supervision, Project administration, Funding acquisition. **Ying Li:** Writing – review & editing, Supervision, Software, Formal analysis.\
+\
+## Declaration of competing interest\
+\
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.\
+\
+## Acknowledgements\
+\
+We would like to thank study participants and our study personnel in Kallinge primary health care center who had the primary contact with the study participants. We would also like to thank our study monitor for monitoring our study, Welmoed Nauta at Örebro University for laboratory assistance, professor Bodil Ohlsson for valuable advice for the design of the experiments and comments on the manuscript, and Gothia Forum for assisting in study design and formalities. This study was funded by the Swedish Research Council (2019-01343\_VR), Swedish Research Council FORMAS ( [2017-01195](https://www.sciencedirect.com/science/article/pii/S0160412025005458#gp010) & [2017-00875](https://www.sciencedirect.com/science/article/pii/S0160412025005458#gp010)), a doctoral grant from the Institute of Medicine, Sahlgrenska Academy, University of Gothenburg, and in-kind support from University of Gothenburg and Lund University.\
+\
+## Appendix A. Supplementary data\
+\
+The following are the Supplementary data to this article:[Download: Download Word document (921KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412025005458-mmc1.docx "Download Word document (921KB)")\
+Supplementary Data 1.\
+\
+## Data availability\
+\
+The data that has been used is confidential.\
+\
+## References\
+\
+01. [Andersen, 2021](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0005)\
+\
+\
+    M.E. Andersen, _et al._\
+\
+\
+\
+    Why is elevation of serum cholesterol associated with exposure to perfluoroalkyl substances (PFAS) in humans? a workshop report on potential mechanisms\
+\
+\
+\
+    Toxicology, 459 (2021), Article 152845\
+\
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0300483X21001682/pdfft?md5=8fe83e9fc6e8b3b1c791e31d3a647239&pid=1-s2.0-S0300483X21001682-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0300483X21001682) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85110168338&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Why%20is%20elevation%20of%20serum%20cholesterol%20associated%20with%20exposure%20to%20perfluoroalkyl%20substances%20%20in%20humans%20a%20workshop%20report%20on%20potential%20mechanisms&publication_year=2021&author=M.E.%20Andersen)\
+\
+02. [Andersson, 2023](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0010)\
+\
+\
+    A.G. Andersson, _et al._\
+\
+\
+\
+    High Exposure to Perfluoroalkyl Substances and Antibody responses to SARS-CoV-2 mRNA Vaccine-an Observational Study in adults from Ronneby, Sweden\
+\
+\
+\
+    Environ Health Perspect, 131 (8) (2023), p. 87007\
+\
+    [Google Scholar](https://scholar.google.com/scholar_lookup?title=High%20Exposure%20to%20Perfluoroalkyl%20Substances%20and%20Antibody%20responses%20to%20SARS-CoV-2%20mRNA%20Vaccine-an%20Observational%20Study%20in%20adults%20from%20Ronneby%2C%20Sweden&publication_year=2023&author=A.G.%20Andersson)\
+\
+03. [Andersson, 2025](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0015)\
+\
+\
+    A.G. Andersson, _et al._\
+\
+\
+\
+    The relative importance of fecal and urinary excretion of perfluorooctane sulfonic acid and perfluorooctanoic acid after high exposure – an observational study in Ronneby\
+\
+\
+\
+    Sweden. Environ. Res., 285 (2025), Article 122487\
+\
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0013935125017396/pdfft?md5=7a1fdd8f0acaf77b2a41db1ed933446a&pid=1-s2.0-S0013935125017396-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0013935125017396) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-105012200876&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20relative%20importance%20of%20fecal%20and%20urinary%20excretion%20of%20perfluorooctane%20sulfonic%20acid%20and%20perfluorooctanoic%20acid%20after%20high%20exposure%20%20an%20observational%20study%20in%20Ronneby&publication_year=2025&author=A.G.%20Andersson)\
+\
+04. [Bartell, 2010](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0020)\
+\
+\
+    S.M. Bartell, _et al._\
+\
+\
+\
+    Rate of decline in serum PFOA concentrations after granular activated carbon filtration at two public water systems in Ohio and West Virginia\
+\
+\
+\
+    Environ. Health Perspect., 118 (2) (2010), pp. 222-228\
+\
+\
+\
+\
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxhY3MsTVRBdU1USTRPUzlsYUhBdU1Ea3dNVEkxTWcsTlRsbFptWTJaRFV0TnpGaE9TMDBNbU0xTFRsbE1qRXROemd3TWpSall6UXdNbUV4LGh0dHBzOi8vcHVicy5hY3Mub3JnL0dldEZ0ckNvbnRlbnQvR2V0UGRmQnlEb2k_ZG9pPTEwLjEyODklMmZlaHAuMDkwMTI1MiZyZXNvdXJjZXR5cGU9NA.TJd0A48Rhf-dVJFJuAj2EYSg31pVFwP-Vhb2UF4O7nM)\
+\
+\
+     [Crossref](https://doi.org/10.1289/ehp.0901252) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-77249152692&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Rate%20of%20decline%20in%20serum%20PFOA%20concentrations%20after%20granular%20activated%20carbon%20filtration%20at%20two%20public%20water%20systems%20in%20Ohio%20and%20West%20Virginia&publication_year=2010&author=S.M.%20Bartell)\
+\
+05. [Cunningham et al., 1981](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0025)\
+\
+\
+    R.F. Cunningham, Z.H. Israili, P.G. Dayton\
+\
+\
+\
+    Clinical pharmacokinetics of probenecid\
+\
+\
+\
+    Clin. Pharmacokinet., 6 (2) (1981), pp. 135-151\
+\
+    [View at publisher](https://doi.org/10.2165/00003088-198106020-00004) [Crossref](https://doi.org/10.2165/00003088-198106020-00004) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0019807956&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Clinical%20pharmacokinetics%20of%20probenecid&publication_year=1981&author=R.F.%20Cunningham&author=Z.H.%20Israili&author=P.G.%20Dayton)\
+\
+06. [Derendorf, 2020](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0030)\
+    Derendorf, H., 2020. Rowland and Tozer's clinical pharmacokinetics and pharmacodynamics : concepts and applications (Philadelphia : Wolters Kluwer Health/Lippincott William & Wilkins, Philadelphia) 5th edition Ed.\
+\
+    [Google Scholar](https://scholar.google.com/scholar?q=Derendorf%2C%20H.%2C%202020.%20Rowland%20and%20Tozer%27s%20clinical%20pharmacokinetics%20and%20pharmacodynamics%20%3A%20concepts%20and%20applications%20(Philadelphia%20%3A%20Wolters%20Kluwer%20Health%2FLippincott%20William%20%26%20Wilkins%2C%20Philadelphia)%205th%20edition%20Ed.)\
+\
+07. [Ducatman et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0035)\
+\
+\
+    A. Ducatman, M. Luster, T. Fletcher\
+\
+\
+\
+    Perfluoroalkyl substance excretion: effects of organic anion-inhibiting and resin-binding drugs in a community setting\
+\
+\
+\
+    Environ. Toxicol. Pharmacol., 85 (2021), Article 103650\
+\
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S1382668921000685/pdfft?md5=aaf9140a4c326a53e5fecc0d0035909b&pid=1-s2.0-S1382668921000685-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S1382668921000685) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85103717463&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Perfluoroalkyl%20substance%20excretion%3A%20effects%20of%20organic%20anion-inhibiting%20and%20resin-binding%20drugs%20in%20a%20community%20setting&publication_year=2021&author=A.%20Ducatman&author=M.%20Luster&author=T.%20Fletcher)\
+\
+08. [Efsa, 2020](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0040)\
+\
+\
+    Efsa, _et al._\
+\
+\
+\
+    Scientific Opinion on the risk to human health related to the presence of perfluoroalkyl substances in food\
+\
+\
+\
+    EFSA J. Eur. Food Safety Authority, 18 (9) (2020), Article e06223\
+\
+    [Google Scholar](https://scholar.google.com/scholar_lookup?title=Scientific%20Opinion%20on%20the%20risk%20to%20human%20health%20related%20to%20the%20presence%20of%20perfluoroalkyl%20substances%20in%20food&publication_year=2020&author=Efsa)\
+\
+09. [Feng, 2020](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0045)\
+\
+\
+    K. Feng, _et al._\
+\
+\
+\
+    Colon-targeted delivery systems for nutraceuticals: a review of current vehicles, evaluation methods and future prospects\
+\
+\
+\
+    Trends Food Sci. Technol., 102 (2020), pp. 203-222\
+\
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0924224420304805/pdfft?md5=28d51ca17fa22a5176b60dac3b3cfe08&pid=1-s2.0-S0924224420304805-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0924224420304805) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85087429804&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Colon-targeted%20delivery%20systems%20for%20nutraceuticals%3A%20a%20review%20of%20current%20vehicles%2C%20evaluation%20methods%20and%20future%20prospects&publication_year=2020&author=K.%20Feng)\
+\
+10. [Gaml-Sørensen, 2023](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0050)\
+\
+\
+    A. Gaml-Sørensen, _et al._\
+\
+\
+\
+    Maternal vitamin D levels and male reproductive health: a population-based follow-up study\
+\
+\
+\
+    Eur. J. Epidemiol., 38 (5) (2023), pp. 469-484\
+\
+    [View at publisher](https://doi.org/10.1007/s10654-023-00987-5) [Crossref](https://doi.org/10.1007/s10654-023-00987-5) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85150653632&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Maternal%20vitamin%20D%20levels%20and%20male%20reproductive%20health%3A%20a%20population-based%20follow-up%20study&publication_year=2023&author=A.%20Gaml-S%C3%B8rensen)\
+\
+11. [Gasiorowski, 2022](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0055)\
+\
+\
+    R. Gasiorowski, _et al._\
+\
+\
+\
+    Effect of plasma and blood donations on levels of perfluoroalkyl and polyfluoroalkyl substances in firefighters in Australia: a randomized clinical trial\
+\
+\
+\
+    JAMA Netw. Open, 5 (4) (2022), Article e226257\
+\
+\
+\
+\
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxhbWEsTVRBdU1UQXdNUzlxWVcxaGJtVjBkMjl5YTI5d1pXNHVNakF5TWk0Mk1qVTMsTlRsbFptWTJaRFV0TnpGaE9TMDBNbU0xTFRsbE1qRXROemd3TWpSall6UXdNbUV4LGh0dHBzOi8vamFtYW5ldHdvcmsuY29tL0dldEZ0ckNvbnRlbnQvR2V0UGRmQnlEb2k_ZG9pPTEwLjEwMDElMmZqYW1hbmV0d29ya29wZW4uMjAyMi42MjU3JnJlc291cmNldHlwZT00.NBB7X7DIrOK8fcnKK-DIbO1lqUpxO0_BXFpkq5qXxIk)\
+\
+\
+     [Crossref](https://doi.org/10.1001/jamanetworkopen.2022.6257) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Effect%20of%20plasma%20and%20blood%20donations%20on%20levels%20of%20perfluoroalkyl%20and%20polyfluoroalkyl%20substances%20in%20firefighters%20in%20Australia%3A%20a%20randomized%20clinical%20trial&publication_year=2022&author=R.%20Gasiorowski)\
+\
+12. [Genuis et al., 2010](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0060)\
+\
+\
+    S.J. Genuis, D. Birkholz, M. Ralitsch, N. Thibault\
+\
+\
+\
+    Human detoxification of perfluorinated compounds\
+\
+\
+\
+    Public Health, 124 (7) (2010), pp. 367-375\
+\
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0033350610000600/pdfft?md5=1a9c9a00af863b59fef1cb78c60ada53&pid=1-s2.0-S0033350610000600-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0033350610000600) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-77954176883&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Human%20detoxification%20of%20perfluorinated%20compounds&publication_year=2010&author=S.J.%20Genuis&author=D.%20Birkholz&author=M.%20Ralitsch&author=N.%20Thibault)\
+\
+13. [Genuis et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0065)\
+\
+\
+    S.J. Genuis, L. Curtis, D. Birkholz\
+\
+\
+\
+    Gastrointestinal elimination of perfluorinated compounds using cholestyramine and Chlorella pyrenoidosa\
+\
+\
+\
+    ISRN Toxicol., 2013 (2013), Article 657849\
+\
+    [Google Scholar](https://scholar.google.com/scholar_lookup?title=Gastrointestinal%20elimination%20of%20perfluorinated%20compounds%20using%20cholestyramine%20and%20Chlorella%20pyrenoidosa&publication_year=2013&author=S.J.%20Genuis&author=L.%20Curtis&author=D.%20Birkholz)\
+\
+14. [Genuis et al., 2014](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0070)\
+\
+\
+    S.J. Genuis, Y. Liu, Q.I. Genuis, J.W. Martin\
+\
+\
+\
+    Phlebotomy treatment for elimination of perfluoroalkyl acids in a highly exposed family: a retrospective case-series\
+\
+\
+\
+    PLoS One, 9 (12) (2014), Article e114295\
+\
+    [View at publisher](https://doi.org/10.1371/journal.pone.0114295) [Crossref](https://doi.org/10.1371/journal.pone.0114295) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84918787393&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Phlebotomy%20treatment%20for%20elimination%20of%20perfluoroalkyl%20acids%20in%20a%20highly%20exposed%20family%3A%20a%20retrospective%20case-series&publication_year=2014&author=S.J.%20Genuis&author=Y.%20Liu&author=Q.I.%20Genuis&author=J.W.%20Martin)\
+\
+15. [Han et al., 2012](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0075)\
+\
+\
+    X. Han, D.L. Nabb, M.H. Russell, G.L. Kennedy, R.W. Rickard\
+\
+\
+\
+    Renal elimination of perfluorocarboxylates (PFCAs)\
+\
+\
+\
+    Chem. Res. Toxicol., 25 (1) (2012), pp. 35-46\
+\
+    [View at publisher](https://doi.org/10.1021/tx200363w) [Crossref](https://doi.org/10.1021/tx200363w) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84855857752&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Renal%20elimination%20of%20perfluorocarboxylates%20&publication_year=2012&author=X.%20Han&author=D.L.%20Nabb&author=M.H.%20Russell&author=G.L.%20Kennedy&author=R.W.%20Rickard)\
+\
+16. [Harada, 2005](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0080)\
+\
+\
+    K. Harada, _et al._\
+\
+\
+\
+    Renal clearance of perfluorooctane sulfonate and perfluorooctanoate in humans and their species-specific excretion\
+\
+\
+\
+    Environ. Res., 99 (2) (2005), pp. 253-261\
+\
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0013935104002397/pdfft?md5=d8855933ff7840c7907132b592141508&pid=1-s2.0-S0013935104002397-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0013935104002397) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-25644441750&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Renal%20clearance%20of%20perfluorooctane%20sulfonate%20and%20perfluorooctanoate%20in%20humans%20and%20their%20species-specific%20excretion&publication_year=2005&author=K.%20Harada)\
+\
+17. [Harada, 2007](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0085)\
+\
+\
+    K.H. Harada, _et al._\
+\
+\
+\
+    Biliary excretion and cerebrospinal fluid partition of perfluorooctanoate and perfluorooctane sulfonate in humans\
+\
+\
+\
+    Environ. Toxicol. Pharmacol., 24 (2) (2007), pp. 134-139\
+\
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S1382668907000488/pdfft?md5=5719205745881cfae3cabf9d22ff885a&pid=1-s2.0-S1382668907000488-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S1382668907000488) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-34447623741&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Biliary%20excretion%20and%20cerebrospinal%20fluid%20partition%20of%20perfluorooctanoate%20and%20perfluorooctane%20sulfonate%20in%20humans&publication_year=2007&author=K.H.%20Harada)\
+\
+18. [Johnson et al., 1984](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0090)\
+\
+\
+    J.D. Johnson, S.J. Gibson, R.E. Ober\
+\
+\
+\
+    Cholestyramine-enhanced fecal elimination of carbon-14 in rats after administration of ammonium \[14C\]perfluorooctanoate or potassium \[14C\]perfluorooctanesulfonate\
+\
+\
+\
+    Fundam. Appl. Toxicol.: Official J. Soc. Toxicol., 4 (6) (1984), pp. 972-976\
+\
+    [View PDF](https://www.sciencedirect.com/science/article/pii/0272059084902355/pdf?md5=def56cefa024c5c643c679d1c11ead05&pid=1-s2.0-0272059084902355-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/0272059084902355) [Crossref](https://doi.org/10.1093/toxsci/4.6.972) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-77957179522&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Cholestyramine-enhanced%20fecal%20elimination%20of%20carbon-14%20in%20rats%20after%20administration%20of%20ammonium%2014Cperfluorooctanoate%20or%20potassium%2014Cperfluorooctanesulfonate&publication_year=1984&author=J.D.%20Johnson&author=S.J.%20Gibson&author=R.E.%20Ober)\
+\
+19. [Kudo et al., 2002](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0095)\
+\
+\
+    N. Kudo, M. Katakura, Y. Sato, Y. Kawashima\
+\
+\
+\
+    Sex hormone-regulated renal transport of perfluorooctanoic acid\
+\
+\
+\
+    Chem. Biol. Interact., 139 (3) (2002), pp. 301-316\
+\
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0009279702000066/pdfft?md5=303d3b6c94c197a74f9142b4f862a01f&pid=1-s2.0-S0009279702000066-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0009279702000066) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0037139402&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Sex%20hormone-regulated%20renal%20transport%20of%20perfluorooctanoic%20acid&publication_year=2002&author=N.%20Kudo&author=M.%20Katakura&author=Y.%20Sato&author=Y.%20Kawashima)\
+\
+20. [Li, 2018](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0100)\
+\
+\
+    Y. Li, _et al._\
+\
+\
+\
+    Half-lives of PFOS, PFHxS and PFOA after end of exposure to contaminated drinking water\
+\
+\
+\
+    Occup. Environ. Med., 75 (1) (2018), pp. 46-51\
+\
+    [Google Scholar](https://scholar.google.com/scholar_lookup?title=Half-lives%20of%20PFOS%2C%20PFHxS%20and%20PFOA%20after%20end%20of%20exposure%20to%20contaminated%20drinking%20water&publication_year=2018&author=Y.%20Li)\
+\
+21. [Li, 2022](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0105)\
+\
+\
+    Y. Li, _et al._\
+\
+\
+\
+    Determinants of serum half-lives for linear and branched perfluoroalkyl substances after long-term high exposure-a study in Ronneby\
+\
+\
+\
+    Sweden. Environ Int, 163 (2022), Article 107198\
+\
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412022001246/pdfft?md5=37ccf4d1470a45c5a924b205960e12f2&pid=1-s2.0-S0160412022001246-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412022001246) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85128262150&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Determinants%20of%20serum%20half-lives%20for%20linear%20and%20branched%20perfluoroalkyl%20substances%20after%20long-term%20high%20exposure-a%20study%20in%20Ronneby&publication_year=2022&author=Y.%20Li)\
+\
+22. [Miner, 2016](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0110)\
+\
+\
+    J.N. Miner, _et al._\
+\
+\
+\
+    Lesinurad, a novel, oral compound for gout, acts to decrease serum uric acid through inhibition of urate transporters in the kidney\
+\
+\
+\
+    Arthritis Res. Ther., 18 (1) (2016), p. 214\
+\
+    [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84989327996&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Lesinurad%2C%20a%20novel%2C%20oral%20compound%20for%20gout%2C%20acts%20to%20decrease%20serum%20uric%20acid%20through%20inhibition%20of%20urate%20transporters%20in%20the%20kidney&publication_year=2016&author=J.N.%20Miner)\
+\
+23. [Møller, 2024](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0115)\
+\
+\
+    J.J. Møller, _et al._\
+\
+\
+\
+    Substantial decrease of PFAS with anion exchange resin treatment - a clinical cross-over trial\
+\
+\
+\
+    Environ. Int., 185 (2024), Article 108497\
+\
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412024000837/pdfft?md5=79b4cf29ead4caf1607d1032cd110775&pid=1-s2.0-S0160412024000837-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412024000837) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85185511125&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Substantial%20decrease%20of%20PFAS%20with%20anion%20exchange%20resin%20treatment%20-%20a%20clinical%20cross-over%20trial&publication_year=2024&author=J.J.%20M%C3%B8ller)\
+\
+24. [Olsen, 2007](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0120)\
+\
+\
+    G.W. Olsen, _et al._\
+\
+\
+\
+    Half-life of serum elimination of perfluorooctanesulfonate,perfluorohexanesulfonate, and perfluorooctanoate in retired fluorochemical production workers\
+\
+\
+\
+    Environ. Health Perspect., 115 (9) (2007), pp. 1298-1305\
+\
+\
+\
+\
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxhY3MsTVRBdU1USTRPUzlsYUhBdU1UQXdNRGssTW1Oak5qYzVOekV0TW1GbFpTMDBPRGt3TFRsak9XWXRNakppWVdGbU9UTmhOR0ppLGh0dHBzOi8vcHVicy5hY3Mub3JnL0dldEZ0ckNvbnRlbnQvR2V0UGRmQnlEb2k_ZG9pPTEwLjEyODklMmZlaHAuMTAwMDkmcmVzb3VyY2V0eXBlPTQ.ox5VD1aDopq302jmP_odVQw1BGqZYhhRic1Tcmv4N4c)\
+\
+\
+     [Crossref](https://doi.org/10.1289/ehp.10009) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-34748925871&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Half-life%20of%20serum%20elimination%20of%20perfluorooctanesulfonate%2Cperfluorohexanesulfonate%2C%20and%20perfluorooctanoate%20in%20retired%20fluorochemical%20production%20workers&publication_year=2007&author=G.W.%20Olsen)\
+\
+25. [Seals et al., 2011](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0125)\
+\
+\
+    R. Seals, S.M. Bartell, K. Steenland\
+\
+\
+\
+    Accumulation and clearance of perfluorooctanoic acid (PFOA) in current and former residents of an exposed community\
+\
+\
+\
+    Environ. Health Perspect., 119 (1) (2011), pp. 119-124\
+\
+\
+\
+\
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxhY3MsTVRBdU1USTRPUzlsYUhBdU1UQXdNak0wTmcsTW1Oak5qYzVOekV0TW1GbFpTMDBPRGt3TFRsak9XWXRNakppWVdGbU9UTmhOR0ppLGh0dHBzOi8vcHVicy5hY3Mub3JnL0dldEZ0ckNvbnRlbnQvR2V0UGRmQnlEb2k_ZG9pPTEwLjEyODklMmZlaHAuMTAwMjM0NiZyZXNvdXJjZXR5cGU9NA.qOIXtfUKWcSURVFLYYOMHD9ZSEoqv1Zj8E9KDdV_H5s)\
+\
+\
+     [Crossref](https://doi.org/10.1289/ehp.1002346) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-78751475781&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Accumulation%20and%20clearance%20of%20perfluorooctanoic%20acid%20%20in%20current%20and%20former%20residents%20of%20an%20exposed%20community&publication_year=2011&author=R.%20Seals&author=S.M.%20Bartell&author=K.%20Steenland)\
+\
+26. [Steinmetz, 2002](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0130)\
+\
+\
+    K.L. Steinmetz\
+\
+\
+\
+    Colesevelam hydrochloride\
+\
+\
+\
+    Am. J. Health Syst. Pharm., 59 (10) (2002), pp. 932-939\
+\
+    [View at publisher](https://doi.org/10.1093/ajhp/59.10.932) [Crossref](https://doi.org/10.1093/ajhp/59.10.932) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0037092540&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Colesevelam%20hydrochloride&publication_year=2002&author=K.L.%20Steinmetz)\
+\
+27. [Xu, 2020](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0135)\
+\
+\
+    Y. Xu, _et al._\
+\
+\
+\
+    Serum half-lives for short- and long-chain perfluoroalkyl acids after ceasing exposure from drinking water contaminated by firefighting foam\
+\
+\
+\
+    Environ. Health Perspect., 128 (7) (2020), p. 77004\
+\
+    [Google Scholar](https://scholar.google.com/scholar_lookup?title=Serum%20half-lives%20for%20short-%20and%20long-chain%20perfluoroalkyl%20acids%20after%20ceasing%20exposure%20from%20drinking%20water%20contaminated%20by%20firefighting%20foam&publication_year=2020&author=Y.%20Xu)\
+\
+28. [Xu, 2021](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0140)\
+\
+\
+    Y. Xu, _et al._\
+\
+\
+\
+    Serum perfluoroalkyl substances in residents following long-term drinking water contamination from firefighting foam in Ronneby\
+\
+\
+\
+    Sweden. Environ Int, 147 (2021), Article 106333\
+\
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412020322881/pdfft?md5=f60161277e37adc53c94ec48cdd51975&pid=1-s2.0-S0160412020322881-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412020322881) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85098072557&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Serum%20perfluoroalkyl%20substances%20in%20residents%20following%20long-term%20drinking%20water%20contamination%20from%20firefighting%20foam%20in%20Ronneby&publication_year=2021&author=Y.%20Xu)\
+\
+29. [Zema, 2012](https://www.sciencedirect.com/science/article/pii/S0160412025005458#bb0145)\
+\
+\
+    M.J. Zema\
+\
+\
+\
+    Colesevelam hydrochloride: evidence for its use in the treatment of hypercholesterolemia and type 2 diabetes mellitus with insights into mechanism of action\
+\
+\
+\
+    Core Evidence, 7 (2012), pp. 61-75\
+\
+\
+\
+\
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyx0YW5kZixNVEF1TWpFME55OWpaUzV6TWpZM01qVSxNbU5qTmpjNU56RXRNbUZsWlMwME9Ea3dMVGxqT1dZdE1qSmlZV0ZtT1ROaE5HSmksaHR0cHM6Ly93d3cudGFuZGZvbmxpbmUuY29tL2RvaS9lcGRmLzEwLjIxNDcvQ0UuUzI2NzI1P3NyYz1nZXRmdHI.N0A9_1aiNcMA6PLxSi5o6Xn1Fblv4dOwS7XWaRCQUcY)\
+\
+\
+     [Crossref](https://doi.org/10.2147/CE.S26725) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84873147810&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Colesevelam%20hydrochloride%3A%20evidence%20for%20its%20use%20in%20the%20treatment%20of%20hypercholesterolemia%20and%20type%202%20diabetes%20mellitus%20with%20insights%20into%20mechanism%20of%20action&publication_year=2012&author=M.J.%20Zema)\
+\
+\
+## Recommended articles\
+\
+### Based on reading popularity\
+\
+- Research articleOpen access\
+\
+\
+\
+[Determinants of serum half-lives for linear and branched perfluoroalkyl substances after long-term high exposure—A study in Ronneby, Sweden](https://www.sciencedirect.com/science/article/pii/S0160412022001246)\
+\
+YingLi, …, TonyFletcher\
+\
+Environment International • Volume 163 • 2022 • Article 107198\
+\
+\
+\
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0160412022001246/pdfft?md5=37ccf4d1470a45c5a924b205960e12f2&pid=1-s2.0-S0160412022001246-main.pdf)\
+\
+- Research article\
+\
+\
+\
+[Perfluoroalkyl substances follow inverted U-shaped distributions across various stages of glomerular function: Implications for future research](https://www.sciencedirect.com/science/article/pii/S0013935118306157)\
+\
+Ram B.Jain, AlanDucatman\
+\
+Environmental Research • Volume 169 • 2019 • Pages 476-482\
+\
+- Research articleOpen access\
+\
+\
+\
+[Unraveling the impact of prenatal air pollution for neonatal brain maturation](https://www.sciencedirect.com/science/article/pii/S0160412025005525)\
+\
+JesusPujol, …, JordiSunyer\
+\
+Environment International • Volume 204 • 2025 • Article 109801\
+\
+\
+\
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0160412025005525/pdfft?md5=dbffa7ad3f3f70443961dc1909f1d60a&pid=1-s2.0-S0160412025005525-main.pdf)\
+\
+- Review articleOpen access\
+\
+\
+\
+[Revisiting the association between transportation noise and heart disease reported in the World Health Organization Environmental Noise Guidelines for the European Region: a systematic review and _meta_-analysis](https://www.sciencedirect.com/science/article/pii/S0160412025004180)\
+\
+MichaelaMinkin, …, BenjaminFenech\
+\
+Environment International • Volume 202 • 2025 • Article 109667\
+\
+\
+\
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0160412025004180/pdfft?md5=17a37cbe66edaf68b53e28f5d0d2f06a&pid=1-s2.0-S0160412025004180-main.pdf)\
+\
+- Review articleOpen access\
+\
+\
+\
+[The interaction between air pollution, weather conditions, and health risks: a systematic review](https://www.sciencedirect.com/science/article/pii/S0048969725017206)\
+\
+BrittaRackow, …, ClaudiaKonnopka\
+\
+Science of The Total Environment • Volume 996 • 2025 • Article 180080\
+\
+\
+\
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0048969725017206/pdfft?md5=94e02051572fa5ea0452d12ea7ac63de&pid=1-s2.0-S0048969725017206-main.pdf)\
+\
+- Research articleOpen access\
+\
+\
+\
+[Tracking early-life PFAS exposure in children at ages 4, 8, and 14 years: A longitudinal study from the INMA Spanish birth cohort](https://www.sciencedirect.com/science/article/pii/S0013935125014495)\
+\
+AnneSan Román, …, AmaiaIrizar\
+\
+Environmental Research • Volume 283 • 2025 • Article 122198\
+\
+\
+\
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0013935125014495/pdfft?md5=bb5a0f235747b745832cda3a03c81eef&pid=1-s2.0-S0013935125014495-main.pdf)\
+\
+\
+## Cited by (6)\
+\
+- Research article\
+\
+\
+\
+[Healthy lifestyle modifies the association between per- and polyfluoroalkyl substances and hyperlipidemia: A propensity score-matched case-control study](https://www.sciencedirect.com/science/article/pii/S1438463926001409)\
+\
+Li P., …, Wang Y.\
+\
+International Journal of Hygiene and Environmental Health • Volume 277 • 2026 • Article 114880\
+\
+\
+Show abstract\
+\
+\
+\
+\
+The impact of per- and polyfluoroalkyl substances (PFAS) on hyperlipidemia and the potential modifying role of overall lifestyle remain underexplored. We examined six serum PFAS and a composite lifestyle score among 192 propensity score-matched case-control pairs. Individual and joint associations were evaluated using conditional logistic regression, quantile g-computation, and Bayesian kernel machine regression. A composite healthy lifestyle score was constructed based on smoking, alcohol drinking, physical activity, body shape, and diet. Per interquartile range (IQR) increase in ln-transformed concentrations, perfluorooctanoic acid (PFOA), perfluorohexane sulfonic acid (PFHxS), perfluorononanoic acid (PFNA), 6:2 chlorinated polyfluorinated ether sulfonate (6:2 Cl-PFESA), and perfluoroundecanoic acid (PFUnDA) were associated with 89%, 110%, 67%, 49%, and 42% higher odds of hyperlipidemia, respectively. Mixture analyses revealed a joint positive association (OR = 1.57; 95% CI: 1.22, 2.02), driven predominantly by PFNA, the emerging alternative 6:2 Cl-PFESA, and PFHxS. Among participants with an unhealthy lifestyle (defined as a composite score ≤2 based on the population median), higher levels of PFOA, PFHxS, and PFNA were associated with significantly elevated odds of hyperlipidemia. However, for 6:2 Cl-PFESA, perfluorodecanoic acid (PFDA), and PFUnDA, these associations were generally weaker in participants adhering to a relatively healthy lifestyle, as supported by significant multiplicative interactions. Negative additive interactions were also observed for 6:2 Cl-PFESA and PFNA. Our findings demonstrate that adherence to a healthy lifestyle was associated with substantially weaker associations between 6:2 Cl-PFESA and PFDA exposures and hyperlipidemia, highlighting lifestyle modification may serve as a potential public health strategy to reduce environmental metabolic hazards.\
+\
+- Research articleOpen access\
+\
+\
+\
+[Does the timing of sample collection confound the association between prenatal serum PFAS concentrations and birthweight: results from two prospective cohort studies](https://www.sciencedirect.com/science/article/pii/S016041202500741X)\
+\
+Wu X., …, Tao F.\
+\
+Environment International • Volume 207 • 2026 • Article 109990\
+\
+\
+Show abstract\
+\
+\
+\
+\
+Maternal serum concentrations of per- and polyfluoroalkyl substances (PFAS) during pregnancy have been consistently associated with reduced birthweight. However, these associations may be confounded by the timing of sample collection due to pregnancy-related changes in pharmacokinetics that impact both serum PFAS concentrations and birthweight.\
+\
+\
+\
+We measured nine serum PFAS concentrations in each trimester among 728 women in the MABC Study (Ma’anshan, China, enrolled 2013–2014). We estimated covariate-adjusted differences in birthweight for individual PFAS and their mixture, as well as percent change in PFAS by infant birthweight. We repeated our analyses in 70 women-infant dyads from the HOME Study (Cincinnati, Ohio, enrolled 2003–2006) with repeated PFAS measures in 2nd trimester and at delivery.\
+\
+\
+\
+Associations of individual PFAS and their mixture with birthweight became more strongly inverse for measurements taken later in pregnancy. Each SD increase in log2-transformed 1st and 3rd trimester PFOA was associated with a 6-gram (95 % CI:−35, 22) and 26-gram (95 % CI:−54, 3) decrease in birthweight, respectively. Concentrations of six PFAS declined more steeply among women who gave birth to larger vs. smaller infants. PFOA declined by 11.3 % (95 % CI:−12.7, −9.9) vs. 8.9 % (95 % CI:−10.3, −7.5) per 13 weeks among women who gave birth to infants born at the 90th vs. 10th birthweight percentiles, respectively. We observed similar findings in the HOME Study.\
+\
+\
+\
+These findings suggest that physiological changes in pregnancy may confound associations between serum PFAS and birthweight. Studies with PFAS measures later in pregnancy may overestimate the true effect of PFAS on fetal growth.\
+\
+- Research article\
+\
+\
+\
+[Per- and Polyfluoroalkyl Substances in Early Life Are Associated With Childhood Intestinal Inflammation: Analyses of Three Birth Cohorts](https://www.sciencedirect.com/science/article/pii/S1542356526005136)\
+\
+Midya V., …, Agrawal M.\
+\
+Clinical Gastroenterology and Hepatology • 2026\
+\
+\
+Show abstract\
+\
+\
+\
+\
+Early life exposures shape intestinal and immune development and later risk of inflammatory bowel disease. Per- and polyfluoroalkyl substances, or forever chemicals, are associated with intestinal inflammation and inflammatory bowel disease. However, the impact of early life per- and polyfluoroalkyl substances exposure on later intestinal inflammation is not known.\
+\
+\
+\
+We conducted untargeted per- and polyfluoroalkyl substances analyses in early life samples from mother–offspring dyads across 3 cohorts. These included dried blood spots from offspring (n = 84) and cord blood (n = 93) from 2 prospective birth cohorts of mothers with and without inflammatory bowel disease in New York, New York, and maternal serum during pregnancy (n = 14) from a birth cohort in Mexico City, Mexico. Fecal calprotectin, a biomarker of intestinal inflammation, was measured longitudinally in offspring stool. Covariate-adjusted weighted quantile sum regression models were used to estimate associations between per- and polyfluoroalkyl substances and fecal calprotectin.\
+\
+\
+\
+Per- and polyfluoroalkyl substances metabolites were detected across all sample types. Higher levels of per- and polyfluoroalkyl substances mixtures were associated with higher fecal calprotectin between 1 and 6 years of age in both dried blood spot and cord blood analyses (covariate-adjusted β estimates for change in log-transformed fecal calprotectin at age 6 years per decile increase in the per- and polyfluoroalkyl substances mixture was 0.44 \[95% confidence interval, 0.18–0.70\] and 0.69 \[95% confidence interval, 0.53–0.85\], respectively) Similarly, higher levels of per- and polyfluoroalkyl substances mixtures in maternal serum were associated with higher fecal calprotectin in late childhood (β, 0.19; 95% confidence interval, 0.05–0.33). Compared with mother–offspring dyads without maternal inflammatory bowel disease, those with maternal inflammatory bowel disease were more likely to have higher perfluoro-1-octane sulfonamide acetic acid and 3-perfluorohexyl-2-hydroxypropyl acrylate levels in dried blood spots and cord blood, respectively; these per- and polyfluoroalkyl substances metabolites were also the top contributors to offspring fecal calprotectin.\
+\
+\
+\
+Per- and polyfluoroalkyl substances chemicals are detectable in early life samples, indicating exposure during this period of vulnerability, and are associated with higher fecal calprotectin in childhood across 3 birth cohorts.\
+\
+- [Size-Resolved PM10-Bound PFASs: Respiratory Deposition and Association with Oxidative Stress Biomarkers Among Industrial Waste Recycling Workers](http://www.scopus.com/scopus/inward/record.url?partnerID=10&rel=3.0.0&view=basic&eid=2-s2.0-105048754934&md5=59b790eb35a9c01fe2aff2e28f58679)\
+\
+Li X., Zheng L.\
+\
+Toxics • Volume 14 • 2026 • Article 682\
+\
+- [Vegetable Activated Charcoal for Human Consumption Reduces Selected PFAS Levels in a Bile Secretion Model: Cues on Its Possible Clinical Use](http://www.scopus.com/scopus/inward/record.url?partnerID=10&rel=3.0.0&view=basic&eid=2-s2.0-105038978251&md5=5f3021d5833ad113eb9c03c27205775)\
+\
+Bonetto A., …, Foresta C.\
+\
+Chemical Research in Toxicology • Volume 39 • 2026\
+\
+- [Orally-administered beta-cyclodextrin as a novel countermeasure for perfluorooctane sulfonic acid toxicity in mice](http://www.scopus.com/scopus/inward/record.url?partnerID=10&rel=3.0.0&view=basic&eid=2-s2.0-105050709243&md5=93ceb1f4a45dc56cac68b318374e3158)\
+\
+Kalinin S., …, Feinstein D.L.\
+\
+Toxicology Communications • Volume 10 • 2026 • Article 2728767\
+\
+\
+## Metrics\
+\
+### Citations\
+\
+- Citation Indexes5\
+\
+### Captures\
+\
+- Mendeley Readers14\
+\
+### Mentions\
+\
+- News Mentions9\
+\
+![PlumX Metrics Logo](https://cdn.plu.mx/3ba727faf225e19d2c759f6ebffc511d/plumx-logo.png)[View details](https://plu.mx/plum/a/?doi=10.1016%2Fj.envint.2025.109794&theme=plum-sciencedirect-theme&hideUsage=true)\
+\
+© 2025 The Author(s). Published by Elsevier Ltd.\
+\
+Persistent link using digital object identifier (DOI)\
+\
+This article is free to access\
+\
+This article is free to access\
+\
+This article is free to access\
+\
+This article is free to access\
+\
+This article is free to access\
+\
+The Identity Selector: Persistence Service

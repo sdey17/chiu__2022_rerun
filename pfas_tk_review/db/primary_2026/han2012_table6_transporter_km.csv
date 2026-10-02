@@ -1,0 +1,14 @@
+transporter,species,chemical,km_uM,note
+Oat1,rat,PFHpA,50.5,
+Oat1,rat,PFOA,51,"alternative value 43.2 (Weaver 2010)"
+Oat3,rat,PFOA,80.2,"alternative value 65.7"
+Oat3,rat,PFNA,174.5,
+Oatp1a1,rat,PFOA,162.2,"alternative value 126.4"
+Oatp1a1,rat,PFNA,20.5,
+Oatp1a1,rat,PFDA,28.5,
+OAT1,human,PFOA,48,
+OAT3,human,PFOA,49.1,
+OAT4,human,PFOA,172.3,"pH 6; Yang 2010"
+OAT4,human,PFOA,310.3,"pH 7.4; Yang 2010 - Km is pH dependent"
+OAT4,human,PFOA,64.1,"third value listed in Han Table 6 row for OAT4/URAT1"
+URAT1,human,PFOA,,"Han 2012 Table 6 lists the row with NO Km value"

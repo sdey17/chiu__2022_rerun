@@ -1,0 +1,932 @@
+          Annex XV Restriction Report Proposal for a restriction for per- and
+    polyfluoroalkyl substances ("PFASs") - Submission to the public consultation
+                                      "Legal flaws of the Proposal"
+                   ‘Inconsistency of the Proposal with EU Strategic Policies’
+
+
+                          on behalf of The Chemours Company ("Chemours")
+
+
+
+
+           1. Introduction
+
+We refer to the "Annex XV Restriction Report Proposal for a restriction for per- and polyfluoroalkyl
+substances (PFASs)" and its Annexes ("the Proposal") aimed at restricting a wide range of PFAS under
+Regulation (EC) No 1907/20061 ("REACH Regulation" or "REACH"), submitted to ECHA by the
+competent authorities of Germany, Sweden, the Netherlands, Denmark and Norway ("the Dossier
+Submitters").
+
+We understand that the Dossier Submitters sent their Proposal to ECHA on 13 January 2023 and that
+a pre-publication version of the Proposal was made available on ECHA's webpage as of 7 February
+2023. Subsequently, the ECHA's Committee for Socio-Economic Analysis ("SEAC") and Committee for
+Risk Assessment ("RAC") confirmed that the Proposal met the requirements set in Annex XV of REACH
+during their respective voting meetings on 10 March and on 15 March 2023, in accordance with article
+69(4) of REACH.
+
+Consequently, in accordance with article 69(6) of REACH, ECHA re-published an updated version of
+the Proposal indicating the official date of publication, i.e. 22 March 2023 and inviting interested parties
+to submit comments within six months, i.e. until 25 September 2023.
+
+Within this context, we hereby submit procedural and legal comments to the public consultation in
+relation to the Proposal in addition to considerations on the opportunity of the restriction as some
+aspects may directly contradict EU policy strategies and the Better Regulation concept. For the reasons
+set out in this paper, we believe that ECHA, in particular RAC and SEAC, should take into account the
+information submitted during this public consultation and reflect it in their opinions, in accordance with
+articles 70 and 71(1) of REACH as well as the general principles of EU law, such as due process, right
+of good administration and right of defense.
+
+For the reasons set out in this paper, ECHA, in particular RAC and SEAC, should acknowledge that the
+Proposal is legally flawed in their opinion development, among others, for the 12 reasons set out
+below.
+
+     i.       The Proposal is unclear in its scope as it does not specify the identity of PFAS substances in
+              sufficient detail
+     ii.      The Proposal arbitrarily relies on a non-legally binding accepted definition
+    iii.      The Proposal presents methodological flaws in the assessment of hazard and risks of PFAS
+              substances
+    iv.       The Proposal presents insufficient information to allow an independent assessment of the
+              hazard
+     v.       The Proposal presents insufficient information on the uses of the specific PFAS substance(s)
+              and resulting emissions or exposure
+    vi.       The Proposal does not properly assess the information on alternatives
+
+
+1
+ Regulation (EC) N° 1907/2006 of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of
+Chemicals (REACH), OJ L 396, 30.12.2006, p. 1;
+
+                                                            1
+    vii.       The Proposal does not properly assess the interplay with other EU legislation and does not
+               sufficiently state reasons to support an action on an EU wide basis
+    viii.      The Proposal does not allow an evaluation of the assessment of the proposed restriction and
+               other identified RMOs in relation to their effectiveness, practicality and monitorability
+     ix.       The Proposal presents inaccuracies on the conditions of the proposed restriction, in particular
+               as regards proposed derogations
+      x.       The Proposal does not appropriately estimate on the "overall annual health costs following from
+               exposure to PFAS in Europe" and of the costs to the society
+     xi.       The Proposal opposes the outlined principles of ‘Better Regulation’ and will render agreed upon
+               policies such as the EU Green Deal and the EU Green Deal Industrial Plan obsolete
+    xii.       The Proposal will create illegal barriers to trade, causing the offshoring of companies from the
+               EU and having a major socio-economic impact on the EU market
+
+Furthermore, ECHA, in particular RAC and SEAC, should acknowledge in their opinion development
+that the Proposal is not appropriate as it would object to the EU concept of Better Regulation and would
+prevent the EU from achieving its decarbonisation objectives.
+
+
+            2. Legal flaws of the Proposal
+
+       i.      The Proposal is unclear in its scope as it does not specify the identity of PFAS substances in
+               sufficient detail
+
+The Dossier Submitters decided to cover more than 10,000 PFAS substances by grouping PFAS
+substances on grounds of their structural similarities (primarily related to the alleged "very persistent"
+property of the substances).2
+
+However, with this approach, the Dossier Submitters indirectly assume that all PFAS share the same
+properties. Many PFAS substances, however, have different properties and should be differentiated
+one from another.
+
+Combining 10,000 substances altogether appears scientifically incorrect. As a result, the scope of the
+restriction Proposal is not defined in sufficient detail neither in line with Annex XV to REACH, which
+requires to include the identity of the substance(s) under the restriction.3 In that regard, it should be
+noted that RAC in its opinion to the PFAS restriction in fire-fighting foams, despite reaching a wrong
+conclusion, i.e. the justification of the grouping approach, recognized that "due to the very large number
+of PFAS, the hazards are not homogeneous and there will always be some uncertainty regarding the
+hazards of the entire group"4 in contradiction with the wording of article 68 of REACH.
+
+Furthermore, this approach runs counter one of the guiding principles for the preparation of Annex XV,
+i.e. enforceability5. Given the broadness of the definition, it would be difficult for relevant actors to
+comply with the restriction, and consequently, for the enforcement authorities to supervise and enforce
+the proposed restriction.
+
+Additionally, given the large grouping of substances, the scope of the Proposal is unclear, as defined
+in by the Restriction Task Force of ECHA6. In particular, it might lead to difficulties for the Committees
+when analysing the stakeholder comments and preparing their opinions which may relate to specific
+PFAS substances rather than the whole group.
+
+
+
+
+2
+  Annex XV PFAS REACH restriction Proposal, p. 20;
+3
+  REACH Regulation, Annex XV, Section II, point (3);
+4
+  RAC opinion to the PFAS restriction in fire-fighting foams, p. 11;
+5
+  ECHA Guidance for the preparation of an Annex XV dossier for restrictions (2007), p. 66;
+6
+  RESTRICTION EFFICIENCY TASK FORCE SETTING A CLEAR SCOPE, A common understanding for a clear scope of Annex
+XV restriction proposals, Version 3, Dec 2020;
+
+                                                          2
+    ii.   The Proposal arbitrarily relies on a non-legally binding accepted definition
+
+In the Proposal, the Dossier Submitters do not specify the IUPAC name, nor EC number nor CAS
+number of PFAS substances. Instead, they use the following definition "any substance that contains at
+least one fully fluorinated methyl (CF3-) or methylene (-CF2-) carbon atom (without any H/Cl/Br/I
+attached to it", which resembles the 2021 OECD definition, with only an exception for fully degradable
+PFASs subgroups that only contain some specific structural elements. 7 In their view, this definition
+should cover more than 10,000 PFAS substances.8
+
+The Dossier Submitters chose the 2021 OECD definition of PFAS,9 while there is no legally binding
+accepted legal definition of PFAS. In that regard, it should be noted that the 2021 OECD report, 10 from
+where the definition was taken, was only conceived as a working paper in order "to provide
+recommendations and practical guidance to all stakeholders with regard to the terminology of PFASs"11
+and was not conceived for the purposes of "regulatory and voluntary actions".12 Also, this report does
+not reach a definite solid and strong scientific conclusion, as it only identifies a standardized system for
+systematic characterization of different PFASs.13 Furthermore, it also outlines several areas that
+warrant further work14 in a constructive approach, which should be considered work in progress.
+Additionally, we also note that taking this definition for the purpose of the restriction is inconsistent with
+the criteria of the OECD for polymers of low concern. 15. In fact, the latter also recognizes that
+fluoropolymers are polymers of low concern and the [grouping] is not connected to decisions on how
+PFASs should be grouped in regulatory and voluntary actions.
+
+In addition to the above, the application of this definition would include substances whose properties
+significantly differ from one to another and would be inconsistent with their risk assessment, e.g.
+trifluoroacetic acid ("TFA").16
+
+Furthermore, the absence of CAS numbers and/or EC numbers and the grouping solely based on
+structural similarity triggers enforcement issues. In fact, contrary to what ECHA suggests,17 it would not
+be feasible to require each actor to refer to the definition to verify compliance with the proposed
+restriction. In that regard, it should be noted that in global conventions like the Stockholm Convention,18
+implemented in the EU with the POPs Regulation,19 there is an indicative list of substances which is
+regularly reviewed (e.g. PFOA and related substances indicative list). 20 In the Proposal, the Dossier
+Submitters failed to provide an analogous list.
+
+
+
+
+7
+  Annex XV PFAS REACH restriction Proposal, p. 4 Column 1;
+8
+  Ibid., p. 21, p.181;
+9
+  Any substance that contains at least one fully fluorinated methyl (CF3-) or methylene (-CF2-) carbon atom (without any H/Cl/Br/I
+attached to it) (OECD, 2021 , Reconciling Terminology of the Universe of Per- and Polyfluoroalkyl Substances: Recommendations
+and       Practical   Guidance, OECD Series             on    Risk Management,        No.    61,    OECD Publishing,        Paris.
+https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=ENV/CBC/MONO( 2021)25&docLanguage=En;
+10
+   Ibid.;
+11
+   Ibid. p. 7;
+12
+   Ibid. p. 8;
+13
+   Ibid. p. 8, 29;
+14
+   Ibid. p. 8, 33;
+15
+   Henry BJ, Carlin JP, Hammerschmidt JA, Buck RC, Buxton LW, Fiedler H, Seed J, Hernandez O. A critical review of the
+application of polymer of low concern and regulatory criteria to fluoropolymers. Integr Environ Assess Manag. 2018
+May;14(3):316-334. doi: 10.1002/ieam.4035; Korzeniowski SH, Buck RC, Newkold RM, Kassmi AE, Laganis E, Matsuoka Y,
+Dinelli B, Beauchet S, Adamsky F, Weilandt K, Soni VK, Kapoor D, Gunasekar P, Malvasi M, Brinati G, Musio S. A critical review
+of the application of polymer of low concern regulatory criteria to fluoropolymers II: Fluoroplastics and fluoroelastomers. Integr
+Environ Assess Manag. 2023 Mar;19(2):326-354. doi: 10.1002/ieam.4646;
+16
+   Montreal Protocol On Substances that Deplete the Ozone Layer UNEP 2022 Assessment Report of the Environmental Effects
+Assessment Panel on , p. 25: https://ozone.unep.org/system/files/documents/EEAP-2022-Assessment-Report-May2023.pdf
+17
+   ECHA Webinar: Restriction of per- and polyfluoroalkyl substances (PFAS) under REACH Questions and answers, p. 14, reply
+to question 1.4.1;
+18
+     The Stockholm Convention on Persistent Organic Pollutants, opened for signature May 23, 2001, UN Doc.
+UNEP/POPS/CONF/4, App. II (2001), reprinted in 40 ILM 532 (2001);
+19
+   Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants
+20
+    Updated indicative list of substances covered by the listing of perfluorooctanoic acid (PFOA), its salts and PFOA-related
+compounds;
+
+
+
+                                                                3
+Another deficit of this chemically structural grouping approach is the inclusion of a hypothetical group
+of unknown substances, some of which may not even be commercially relevant. 21 Furthermore, in order
+to be able to enforce the proposed restriction, competent authorities would need a profound chemical
+scientific knowledge, which could not simply be solved with the adoption of guidance on analytical
+methods as RAC suggests in its opinion to the PFAS in fire-fighting foams restriction.22 Again, this
+approach runs counter one of the guiding principles for the preparation of Annex XV, i.e. enforceability.23
+
+
+
+     iii.   The Proposal presents methodological flaws in the assessment of hazard and risks of PFAS
+            substances
+
+The Dossier Submitters failed to explain which hazard properties pose specific PFAS and in turn, which
+properties lead to risks for specific PFAS substances and related uses.
+
+For instance, similarly to the restriction of PFAS in fire-fighting foams,24 it is stated that "all" PFAS" are
+persistent, while "some" or "most of" are mobile/accumulate in biota/carcinogenic/endocrine disruptors,
+etc25. These statements are vague, general in nature and unrelated to specific case-by-case
+assessments of the various PFAS substances and, as pointed out above, this leads to uncertainty
+regarding the hazards of the entire group.
+
+In reality, the data demonstrating adverse effects on human health and on the environment used in the
+Annex XV report relate principally to a few PFAS (most notably PFOA and PFOS).26
+
+However, these concerns, which are specific for PFOA and PFOS, have been unduly extended by the
+Dossier Submitters to all other PFAS using a "specific-to-general" approach, which does not appear
+scientifically and legally sound.27 Stated differently, the use of few examples on selected substances to
+support a concern for all PFAS substances fails to be scientifically and legally sound.
+
+Besides, the risks deriving from these properties are combined without a clear link between the alleged
+hazard properties and derived risks. Indeed, the Dossier Submitters rely on a "combined effect"
+approach, which is not in line with the requirements for the preparation of an Annex XV dossier.28
+
+
+
+     iv.    The Proposal presents insufficient information to allow an independent assessment of the
+            hazard29
+
+The Dossier Submitters have justified the grouping based on structural similarities of the substances
+related to alleged "very persistency" criterion, to avoid the regrettable substitution and prevention of
+future exposure of those PFAS, which are not currently in use.30
+
+In doing so, different substances have been unduly and/or arbitrarily grouped together, without a proper
+case-by-case assessment as required under REACH.31
+
+In that regard, such a large grouping under the REACH restriction process is legally questionable.
+Indeed, the grouping of substances is only foreseen under REACH for purposes of fulfilling data
+requirements of registered substances. While practice leans towards grouping for REACH restriction
+purposes, this appears to be driven mostly by reasons of efficiency but is not necessarily scientifically
+
+21
+   Buck, R.C., Korzeniowski, S.H., Laganis, E. and Adamsky, F. (2021), Identification and classification of commercially relevant
+per- and poly-fluoroalkyl substances (PFAS). Integr Environ Assess Manag, 17: 1045-1055. doi:10.1002/ieam.4450;
+22
+   RAC opinion to the PFAS restriction in fire-fighting foams, p. 55;
+23
+   ECHA Guidance for the preparation of an Annex XV dossier for restrictions (2007), p. 66;
+24
+   RAC opinion to the PFAS restriction in fire-fighting foams, p.9;
+25
+   Annex XV PFAS REACH restriction Proposal, p. 13;
+26
+   Annex B to XV PFAS REACH restriction Proposal;
+27
+   Annex XV PFAS REACH restriction Proposal, p. 13, p. 33;
+28
+   ECHA Guidance for the preparation of an Annex XV dossier for restrictions (2007), p. 33; 34;
+29
+   ECHA Guidance for the preparation of an Annex XV dossier for restrictions (2007), p. 23;
+30
+   Annex B to the Annex XV PFAS REACH restriction Proposal, p. 5;
+31
+   ECHA Guidance for the preparation of an Annex XV dossier for restrictions (2007), p. 32;
+
+
+
+                                                               4
+justified. In fact, the clustering of many (and different) substances into a group would make the
+restriction difficult to meet and falls short to comply with some general REACH and EU principles, such
+as the One Substance One Registration ("OSOR") principle, proportionality, due process,
+precautionary, equal treatment and legal certainty. As such, grouping cannot be justified by reference
+to the literature,32 let alone to working papers that do not reach a definitive scientific position much less
+one that is not accepted as legally binding, in particular the 2021 OECD report33 and 2018 Ritscher
+Zurich Statement. 34 In that regard, the fact that RAC in the PFAS restriction in fire-fighting foams refers
+to such papers does not mean that such definitions are legally sound and definitive.
+
+Moreover, the specific justification provided by the Dossier Submitters to group all 10,000 PFAS
+altogether is questionable. Indeed, relying on persistency as a standalone criterion to justify a restriction
+is debatable35. Persistency may indeed only operate in combination with other criteria, such as
+bioaccumulation ("B") or toxicity ("T) or mobility ("M"). This is confirmed both by the text of REACH and
+Regulation 1272/2008 ("CLP"). On one hand, Annex XIII to REACH lays down the criteria for the
+identification of persistent, bioaccumulative and toxic substances ("PBT"), and very persistent and very
+bioaccumulative substances ("vPvB"). On the other hand, the CLP Regulation was recently amended
+to reflect the publication of Commission Delegated Regulation EU 2023/707 introducing new hazard
+classes and related criteria.36 In fact, this lays down criteria for Persistent, Bioaccumulative and toxic
+substances ("PBT"), Very Persistent, Very Bioaccumulative substances ("vPvB"), Persistent, Mobile
+and Toxic substances ("PMT"), very Persistent, very Mobile substances ("vPvM"). These criteria should
+be taken into account in the Proposal.
+
+Such approach would be in line with past grouped restrictions where substances were deemed to be
+persistent, the justification for restriction was given on the basis of a combination of these criteria. For
+instance, in the PFHxA restriction, RAC considered that the substances constitute intrinsic hazards due
+to their "extreme persistence combined with mobility"37. Similarly, in the microplastics restriction, RAC
+noted that although microplastics did not meet the PBT and vPvB criteria, "the long-term persistence in
+the environment of microplastics could raise an equivalent level of concern to PBT/vPvB, as established
+in REACH Article 57(f)".38
+
+Taking all of this into account, it should be noted that the Dossier Submitters failed to clarify which
+specific PFAS are either PBT, vPvB, PMT or vPvM in the Proposal. In fact, ECHA is wrong in stating
+that the Proposal "does not only rely on persistence",39 as the Dossier Submitters failed to explain the
+combination of persistency with other concerns and relied on the literature supporting the P-sufficient
+approach.40
+
+Further, the inclusion of PFAS that have no or negligible uses, thus no exposure, seems to breach the
+requirements set out in article 68 of REACH, i.e. the presence of an "unacceptable risk"41: indeed, if
+some PFAS are not in use, there is no exposure, and therefore no risk. 42 In that regard, it should be
+
+
+32
+   For instance, Cousins I.T., DeWitt J.C., Gluge J., Goldenman G., Herzke D., Lohmann R., Miller M., Ng C.A., Scheringer M.,
+Vierke L., and Wang Z. (2020a): Strategies for grouping per- and polyfluoroalkyl substances (PFAS) to protect human and
+environmental health. Environmental science. Processes & impacts 22 (7), 1444-1460. doi: 10.1039/d0em00147c;
+33
+    OECD, 2021, Reconciling Terminology of the Universe of Per- and Polyfluoroalkyl Substances: Recommendations and
+Practical      Guidance,    OECD       Series      on      Risk    Management,      No.    61,    OECD      Publishing,    Paris.
+https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=ENV/CBC/MONO( 2021)25&docLanguage=En;
+34
+   Ritscher A, Wang Z, Scheringer M, Boucher JM, Ahrens L, Berger U, Bintein S, Bopp SK, Borg D, Buser AM, Cousins I, DeWitt
+J, Fletcher T, Green C, Herzke D, Higgins C, Huang J, Hung H, Knepper T, Lau CS, Leinala E, Lindstrom AB, Liu J, Miller M,
+Ohno K, Perkola N, Shi Y, Småstuen Haug L, Trier X, Valsecchi S, van der Jagt K, Vierke L. Zürich Statement on Future Actions
+on Per- and Polyfluoroalkyl Substances (PFASs). Environ Health Perspect. 2018 Aug;126(8):84502. doi: 10.1289/EHP4158;
+35
+   Annex XV PFAS REACH restriction Proposal, p. 1;
+36
+   Commission Delegated Regulation (EU) 2023/707 of 19 December 2022 amending Regulation (EC) No 1272/2008 as regards
+hazard classes and criteria for the classification, labelling and packaging of substances and mixtures, OJ L 93, 31.3.2023, p. 7–
+39;
+37
+   PFHxA REACH restriction, combined RAC and SEAC opinion p. 29;
+38
+   Ibid., p. 56
+39
+   ECHA Webinar: Restriction of per- and polyfluoroalkyl substances (PFAS) under REACH Questions and answers, p. 14, reply
+to question 1.4.4;
+40
+   Annex XV PFAS REACH restriction Proposal, p. 24;
+41
+   REACH Regulation, article 68;
+42
+   RAC opinion to the PFAS restriction in fire-fighting foams, p. 14;
+
+
+
+                                                               5
+noted that RAC erred when stating in its opinion to the PFAS in fire-fighting foams restriction that "If
+certain PFAS are not suitable, they are not impacted by this restriction and the effort required to identify
+such groups and substances would not be justified".43 Indeed, in that case, the ECHA Committee was
+wrong in targeting the whole PFAS class, rather than specific PFAS or groups of related PFAS, as the
+given justification, i.e. "the precise identities of the PFAS currently used in firefighting foams are largely
+unknown due to manufacturer confidentiality",44 does not appear legally sound. This last point, i.e.
+including in scope PFAS of no or negligible use, seems also to run counter the principle of effectiveness,
+which is a guiding principle in the preparation of Annex XV45.
+
+
+
+     v.    The Proposal presents insufficient information on the uses of the specific PFAS substance(s)
+           and resulting emissions or exposure
+
+The Dossier Submitters claim to have covered rather exhaustively all PFAS uses, but in fact, they only
+covered 14 uses and 78 sub-uses as indicated in Table 2 of the Proposal.46
+
+However, it seems that the Dossier Submitters arbitrarily chose to focus on these specific uses while
+stating that "all uses of PFASs are covered by this restriction proposal, regardless of whether they have
+been specifically assessed by the Dossier Submitters and/or are mentioned in this report or not, unless
+a specific derogation has been formulated".47
+
+In addition to the above, it appears that the Dossier Submitters did not take into consideration some of
+the feedback submitted during the calls for evidence concerning chemical industry large uses, such as
+notably pipes, lining, valves and two-phase-immersion cooling applications. In addition, they concede
+that, for some PFAS uses, "no detailed assessment" was carried out since "they concerned niche
+applications or because the applications are currently of little relevance in the EU"48. Furthermore, the
+Dossier Submitters do not seem to have provided an explanation of what constitutes "niche
+applications" and "uses of little relevance in the EU".49
+
+However, this approach is not in line with the requirements set out for the preparation of an Annex XV,
+i.e. providing deep analysis of the information of the use of the substances. 50
+
+
+
+     vi.   The Proposal does not properly assess the information on alternatives
+
+The Dossier Submitters allege that there is "sufficiently strong evidence" that technically and
+economically feasible alternatives exist for non-polymeric PFAS as polymerisation aids in the
+production of PTFE, PVDF and FKM.51 In that regard, the following should be noted.
+
+Firstly, in order to qualify evidence as "sufficiently strong", it is clear that information should not come
+only from one source as this approach is not reflective and representative of the market.
+
+Secondly, Annex E to the Proposal contains a contrary statement. Specifically, this annex states that
+"it is not clear whether all PTFE, PVDF and FKM can already be produced without PFAS polymerisation
+aids at industry level ".52
+
+In certain cases (such as commercial HVACR), the Dossier Submitters acknowledge that “the sector is
+still dominated by using fluorinated gases, and the assumption that alternatives are ready to replace
+
+
+43
+   RAC opinion to the PFAS restriction in fire-fighting foams, p. 14;
+44
+   Ibid., p. 13;
+45
+   ECHA Guidance for the preparation of an Annex XV dossier for restrictions (2007), p. 64;
+46
+   Annex XV PFAS REACH restriction Proposal, p. 53 Table 2;
+47
+   Ibid., p. 2;
+48
+   Annex A to the Annex XV PFAS REACH restriction Proposal, p. 4;
+49
+   Ibid.;
+50
+   ECHA Guidance for the preparation of an Annex XV dossier for restrictions (2007), p. 108;
+51
+   Annex XV PFAS REACH restriction Proposal, p. 81 Table 8;
+52
+   Annex E to the Annex XV PFAS REACH restriction Proposal, p. 2;
+
+
+
+                                                              6
+them is premature”53 or that “Air cooled CO2 AC systems are available in capacities from 3kW to 300kW,
+though systems become inefficient at high ambient temperatures”,54 but still propose that no derogation
+is needed for this application.
+
+In addition, quantitative assessment is not available in the text of the Proposal. As regards the
+availability of alternatives, the Dossier Submitters recognise that "there remain uncertainties in the
+dossier that may affect the quality of conclusions reached on specific sectors and applications"55.
+
+As such, it can be concluded that a thorough analysis of the possible alternatives was not conducted,
+in breach of one of the requirements set out in the Guidance for the preparation of Annex XV. 56
+
+
+
+     vii.   The Proposal does not properly assess the interplay with other EU legislation and does not
+            sufficiently state reasons to support an action on an EU wide basis
+
+The Dossier Submitters have failed to analyze other RMOs by inadequately assessing the EU
+regulatory framework applicable to PFAS.
+
+There is no proper and exhaustive assessment of the overlap between the restriction proposal and
+other existing EU legislation57. For instance, the restriction of PFOS and PFOA under the Stockholm
+Convention and Regulation 1021/2019 ("POPs") is not considered in Table 5 of the Proposal,58 while in
+points 2.2.1.1. and 2.2.1.2. of the Proposal it is only superficially addressed.59 Indeed, a proper analysis
+of the interaction between REACH and POPs would remove these two substances from the Proposal,
+as they are already regulated. This would prevent the application of over regulation, a principle
+according to which double regulation should be avoided.60 Therefore, in the present case, the ECHA
+Committees should acknowledge that PFOS and PFOA should be excluded from the scope of this
+Proposal.
+
+Without the intention of being exhaustive, there are other examples in which the Dossier Submitters
+failed to fully address the interplay with other EU legislation. For instance, as regards the F-gas
+Regulation, the Proposal states that this regulation "does not per se restrict the use of the substances
+but rather aims for a reduction of their use".61 However, the Dossier Submitters also explicitly recognize
+that there might be an overlap with between the Proposal and "section 2 [of Annex I the current F-gas
+Regulation]".62
+
+In addition to that, the Dossier Submitters seem to not have taken into account the inclusion of PFHxS
+into the Stockholm Convention which will lead to the consequent update of the POPs Regulation.
+
+As such, the Proposal does not properly assess the interplay with other EU legislation and ECHA errs
+when stating that "the proposal is not meant to interfere with any existing regulations and ensures that
+the strictest EU regulation (including REACH restrictions) applies".63
+
+Finally, the Proposal considers that some uses should be in scope even though they are currently of
+"little relevance in the EU"64. This is contrary to the principle of subsidiarity according to which the EU
+should act only if the objectives of the measure taken at EU level are of EU relevance and cannot be
+sufficiently achieved at Member State level.
+
+
+
+53
+   Ibid., p. 248;
+54
+   Ibid., p. 263;
+55
+   Annex XV PFAS REACH restriction Proposal, p. 189;
+56
+   ECHA Guidance for the preparation of an Annex XV dossier for restrictions (2007), p. 69;
+57
+   Ibid., p. 70;
+58
+   Annex XV PFAS REACH restriction Proposal, p. 70, 71;
+59
+   Annex XV PFAS REACH restriction Proposal, p. 63, 64;
+60
+   Commission understanding paper on the relationship between REACH and POPs;
+61
+   Annex XV PFAS REACH restriction Proposal, p. 10;
+62
+   Annex XV PFAS REACH restriction Proposal, p. 66;
+63
+   ECHA Webinar: Restriction of per- and polyfluoroalkyl substances (PFAS) under REACH Questions and answers, p. 16, reply
+to question 1.4.11;
+64
+   Annex A to the Annex XV PFAS REACH restriction Proposal, p. 4;
+
+                                                            7
+ viii.       The Proposal does not allow an evaluation of the assessment of the proposed restriction and
+             other identified RMOs in relation to their effectiveness, practicality and monitorability
+
+The Proposal does not meet the requirements of effectiveness and enforceability, for the following
+reasons:
+
+            first, it includes PFAS of no or negligible use;
+            second, it aims to cover more than 10,000 PFAS relying on the 2021 OECD definition, which is
+             inherently inconsistent; and
+            third, it acknowledges a series of data gaps on health and environmental impact.
+
+The Proposal is also inadequate, as there is insufficient data to enable detailed modelling of costs to
+industry, etc. and/or of benefits via reduced impacts to ecosystems and human health.65
+
+In particular, as regards health and environmental impacts, the Dossier Submitters recognise that for
+most PFAS, there are insufficient data to adequately assess their effects on human health and the
+environment66. For example, the Proposal does not provide specific data as regards the emissions of
+PFAS processors67, emissions in the waste phase68, or from the article production69.
+
+The Dossier Submitters recognise that, for a large part of the chemicals covered by the restriction, the
+available information is incomplete70. Therefore, the Proposal in our opinion does not comply with the
+effectiveness criterion71, as it is not targeted at the effects or exposures that cause the identified risk,
+but broadened also to the unidentified or non-assessed risks.
+
+Additionally, the Proposal regards the possibility to have PFAS being controlled at EU level at the "end-
+of-pipe" as being not achievable without clearly assessing the possible measures. 72 In fact, the Proposal
+only focuses on the need to tackle the issue regarding PFAS at the source and does not assess other
+means to control the risk at the "end-of-pipe". In turn, the resulting conclusion is at odds with the
+principle of proportionality.
+
+
+
+     ix.     The Proposal presents inaccuracies on the conditions of the proposed restriction, in particular
+             as regards proposed derogations
+
+The Dossier Submitters distinguish between "sufficiently strong evidence", "weak evidence" and
+"inconclusive evidence" for each of the proposed derogations.
+
+The methodology followed is questionable in as much as those levels of evidence are arbitrary and
+were not used equally to support the restriction.
+
+In addition, the Dossier Submitters have proposed a derogation for fluoropolymers used in the proton-
+exchange membrane ("PEM") into fuel cells applications for 6.5 years after the entry into force. 73
+However, they have not considered the derogation for PEM in electrolysers for hydrogen production.
+Without the latter, the derogation may be deprived of its effet-utile, namely devoid of its practical
+application. A similar reasoning can be applied to several granted derogations, which depend on the
+availability of PTFE, manufactured with fluorinated polymerisation aids, e.g. implantable medical
+
+
+65
+   Annex XV PFAS REACH restriction Proposal, p. 189;
+66
+   Ibid., p.13;
+67
+   Ibid., p.39;
+68
+   Ibid., p.43;
+69
+   Ibid., p.44;
+70
+   Ibid., p.49;
+71
+   ECHA Guidance for the preparation of an Annex XV dossier for restrictions (2007), p. 57;
+72
+   Annex XV PFAS REACH restriction Proposal, p. 2;
+73
+   Ibid., p.7 Column 2, paragraph 6(e);
+
+
+
+                                                              8
+devices, or the derogation of PFPE oils, which depend on fluorine-based solvents, which are the only
+carrier fluid to effectively dissolve PFPE lubricants.
+
+Similarly, the Dossier Submitters have not proposed a derogation for transported isolated intermediates.
+Although not explicitly provided in REACH, practice leans towards allowing for this derogation. In fact,
+there are examples for which RAC proposed to exempt from a restriction transported isolated
+intermediates used under strictly controlled conditions (e.g. PFOA74 and PFHxA75).
+
+On top of all these considerations, it should be noted that in the Foresight for Chemicals Report, recently
+published by the Commission, PFAS have been included among the twenty Critical Chemicals ("CCs"),
+i.e. chemicals that are economically and strategically important for the EU economy, and the need for
+their derogation has been emphasized. 76 In fact, the authors of this report have underlined the
+importance of considering derogations to allow the continued use of PFAS as "there are in some cases
+no suitable alternatives for its role in certain parts of the value chain".77
+
+Overall, we believe that the public consultation is the right place to insist on the fact that the Dossier
+Submitters did not properly assess the conditions of the proposed derogations as "the consultation is
+about providing ECHA's committees with all available information that helps them form scientifically
+sound opinions on the proposed restriction".78 As such, we believe that the Committees should reflect
+this in their respective opinions. In fact, the same reasoning should apply to all sections of this legal
+paper.
+
+
+
+     x.    The Proposal does not appropriately estimate on the "overall annual health costs following from
+           exposure to PFAS in Europe"79 and of the costs to the society
+
+The Dossiers Submitters make unsubstantiated assumptions and fail to adequately support the
+estimates with sufficient data to enable detailed modelling of costs to the industry 80.
+
+
+
+     xi.   The Proposal opposes the outlined principles of ‘Better Regulation’ and will render agreed upon
+           policies such as the EU Green Deal and the EU Green Deal Industrial Plan obsolete
+
+'Better regulation' aims to design and prepare EU policies and laws in the most efficient way to achieve
+their objectives. It involves working in an open and transparent manner, informed by the best available
+evidence, and involving stakeholders to ensure that the EU acts in line with the principles of subsidiarity
+and proportionality.81
+
+The guidelines rightly state that EU Laws and regulation cannot be adopted in isolation and must be
+consistent with the high-level and long-term policy objectives.82 Such examples of long-term policy
+
+
+
+
+74
+   Commission Regulation (EU) 2017/1000 of 13 June 2017 amending Annex XVII to Regulation (EC) No 1907/2006 of the
+European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals
+(REACH) as regards perfluorooctanoic acid (PFOA), its salts and PFOA-related substances, OJ L 150, 14.6.2017, p. 14–18. As
+PFOA, its salts and any related substance are now included in Annex I to Regulation (EU) 2019/1021, the PFOA entry has been
+removed from Annex XVII to REACH;
+75
+   See RAC Opinion in PFHxA restriction, page 64,;
+76
+   European Commission, Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs, Hafner-Zimmermann,
+S., Jagaciak, M., Kołos, N., et al., Chem4EU : foresight for chemicals : final report, Publications Office of the European Union,
+2023, doi/10.2873/574731;
+77
+   Ibid., p. 11;
+78
+   ECHA Webinar: Restriction of per- and polyfluoroalkyl substances (PFAS) under REACH Questions and answers, p. 10, reply
+to question 1.3.2;
+79
+   Annex XV PFAS REACH restriction Proposal, p. 2;
+80
+   Ibid., p. 189;
+81
+   Communication from the Commission to the European Parliament, the Council, the European and Social Committee and the
+Committee of the Regions Better Regulation: Joining forces to make better laws;
+82
+   Ibid., p. 22;
+
+
+
+                                                               9
+objectives are outlined in the broad policy framework of the EU Green Deal83 aimed at achieving climate
+neutrality and sustainability and the concrete actions of the EU Green Deal Industrial Plan 84.
+
+Concretely, the proposed PFAS Restriction would, at least, be in contradiction with the following
+legislation:
+
+
+     a) The 2020 EU Strategy for Hydrogen
+
+
+The Hydrogen Strategy85 emphasizes the need for renewable hydrogen production through electrolysis
+and the use of renewable electricity. This is because conventional methods of producing hydrogen from
+fossil fuels are not sustainable in the long run, due to their high carbon emissions. Only green hydrogen
+generation is advocated vs grey/blue/pink and other types.
+
+Although the Proposal clearly outlines the potential for growth of PFAS (e.g. PTFE) uses in the energy
+sector with a foreseen annual growth rate of 10% to accomplish the 2030 EU hydrogen Strategy goal
+of 40 GW electrolysis capacity within the EU, 86 it does not draw the appropriate conclusion, i.e. that an
+indefinite exemption is needed and not a ‘delayed’ ban. An increase in the use of PFASs to be used in
+PEM electrolysis technology (proton exchange membrane – a fuel cell) is essential to meet the
+objectives of the strategy. However, the Proposal does conclude that there are enough alternatives for
+membrane applications in PEM fuel cells but that those are less performant and durable. 87 Commercial
+availability will not start before 10 years from 2022, eventually. However, a delayed ban is proposed in
+5 years or 12 years from entry into force, 88 impacting, as a result, all investments in this technology at
+this precise time, rendering any business assessment impossible.
+
+As regards PEM membranes for the generation of Green hydrogen, the Proposal does not offer an
+exemption which would mean, a ban as from the entry into force. In that respect, the Proposal only
+refers to the fact that several stakeholders point out that it is likely that alternatives are already available
+or might be found for a lot of components depending on concrete circumstances for each use. 89
+
+As such, the proposal is in contradiction with the objectives of the 2020 EU Strategy for Hydrogen.
+
+     b) The 2023 Green Deal Industrial Plan
+
+The Green Deal Industrial Plan90 is based in four pillars: a predictable and simplified regulatory
+environment, faster access to sufficient funding, skills and open trade for resilient supply chains.
+
+Among the measures outlined, the European Commission proposes to create a more coherent
+regulatory framework by aligning policies across different sectors.91 It also suggests greater
+predictability for businesses by setting clear targets and timelines for emissions reductions.92 This
+includes setting binding targets for reducing greenhouse gas emissions across various sectors and
+providing long-term funding commitments for sustainable projects. This is achieved with the
+
+
+83
+    COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE EUROPEAN COUNCIL, THE
+COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS The
+European Green Deal;
+84
+    COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE EUROPEAN COUNCIL, THE
+COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS A Green
+Deal Industrial Plan for the Net-Zero Age (2023);
+85
+    COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN
+ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS A hydrogen strategy for a climate-neutral
+Europe;
+86
+   Annex XV PFAS REACH restriction Proposal, p. 60;
+87
+   Ibid., p. 106, 107, 108;
+88
+   Ibid., p. 7, Column 2, paragraph 6(e);
+89
+   Ibid., p. 106, 107, 108;
+90
+    COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE EUROPEAN COUNCIL, THE
+COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS A Green
+Deal Industrial Plan for the Net-Zero Age (2023);
+91
+   Ibid., p. 3;
+92
+   Ibid., p. 4;
+
+
+
+                                                      10
+development of the green hydrogen, decarbonization of heating and cooling, increasing energy
+performance of buildings, solar panels, windmills, electrification of cars with performant batteries and
+requiring thousands of microchips needing fluoropolymer and fluorinated gases.
+
+It should be noted that the Proposal concludes that several stakeholders point out that that it is likely
+that alternatives are already available or might be found for a lot of components depending on concrete
+circumstances for each use.93 In other words, the wind and solar renewable energy development or the
+pace of deployment of energy efficient heat pumps will slow down, because of the uncertainty brought
+forward by the Proposal, without valid proof of said alternatives. The length of the process is therefore,
+a cause of serious concern.
+
+Finally, the plan insists on the need to promote international cooperation on climate change by working
+with other countries to develop common standards and regulations (with UN Framework Convention on
+Climate Change ("UNFCCC")94 to develop common reporting standards for greenhouse gas
+emissions). The new HFOs have a very low warming potential and facilitated the booming of heat
+pumps, alternative to fossil fuels energies but, those are at risk with the Proposal.
+
+Also, a ban is proposed for PFAS used in HVACR, 12 years after the entry into force.95 This risks to
+slow down the recent development of alternatives to coal and gas heating, further to the Ukraine war
+and the surge in energy prices.
+
+As such, the Proposal appears in contradiction with the 2023 Green Deal Industrial Plan.
+
+     c) The 2023 Net 0 Industry Act
+
+The 2023 Net 0 Industry Act96 supports the manufacturing of net-zero technologies and increase the
+competitiveness of the net-zero tech industrial base. It does so by simplifying the regulatory framework
+and improving the investment environment for the Union's manufacturing capacity of technologies that
+are key to meet the Union's climate neutrality goals. The goal of this initiative is to reduce dependencies
+on fossil fuels and seize economic opportunities stemming from the global market for net-zero industry
+technologies, which is expected to reach an annual worth of around EUR 600 billion a year by 2030
+according to the International Energy Agency. Net-zero technologies such as solar panels, wind
+turbines or heat pumps are also strongly promoted by this new policy initiative and those depend, in
+terms of durability, from PFAS, to protect them from very high/low temperature, UV light, wind, rain,
+etc.97
+
+This initiative foresees the review of critical European legislation which would help to address the issue
+of PFAS emissions during the end of life phase. Though the largest emissions are at the manufacturing
+phase and those can be addressed by abatement technologies, the use and end of life phase are also
+relevant. In that respect, the coming reviews of the Electric and Electronic Waste Directive 98 and the
+End of Life of Vehicles Directive99 should be considered as a support to the development of electric
+cars and an opportunity to ensure recycling including of fluoropolymers. These legislations could
+address easily the issue of PFAS at the end of life. A formal obligation could be made to collect all
+PFAS from a car and collect all WEEE containing PFAS with a view to recycle. Given the very high
+value of PFAS, an obligation to recycle would further develop the circular economy and avoid emissions
+from waste into the environment.
+
+
+
+
+93
+   Annex XV PFAS REACH restriction Proposal, p. 81 to 138;
+94
+   UN Framework Convention on Climate Change 1992;
+95
+   Annex XV PFAS REACH restriction Proposal, p. 5, Column 2, paragraph 5(i);
+96
+   Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on establishing a framework of
+measures for strengthening Europe’s net-zero technology products manufacturing ecosystem (Net Zero Industry Act);
+97
+   Ibid., Annex I;
+98
+   Directive 2012/19/EU of the European Parliament and of the Council of 4 July 2012 on waste electrical and electronic equipment
+(WEEE);
+99
+   Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of life vehicles - Commission
+Statements;
+
+                                                              11
+The revision of the F-gas Regulation will address containment of F-gases throughout their life cycle, via
+a broader application of leak detection systems harmonized training and certification of maintenance
+technicians and proper end of life disposal of F-gases.
+
+As such, the Proposal appears in contradiction with the objectives of the 2023 Net 0 Industry Act.
+
+
+         d) The 2022 European Chips Act
+
+The Chips Act proposal aims to establish a framework of measures for strengthening Europe's
+semiconductor ecosystem. This proposal is in response to the increasing demand for semiconductors,
+which are essential components in many electronic devices, including smartphones, computers, and
+cars. The COVID-19 pandemic has further highlighted the importance of semiconductors as they are
+used in medical equipment and devices.
+
+This initiative also aims to address disruptions in chip supply by improving the availability of critical raw
+material and prevent potential societal consequences. The strategic objective is to strengthen Europe's
+semiconductor ecosystem by enlarging its resilience and increasing its global market share. It will
+facilitate early adoption of new chips by European industry and increase its competitiveness.
+
+It should be noted that the Proposal provides for a 12 year derogation from the entry into force, 100
+despite not having demonstrated that semiconductors can function without fluoropolymers. Given the
+extreme implications of such a ban, it is of utmost importance that ECHA acknowledges the need for
+an indefinite exemption for fluoropolymers needed for the manufacturing of semiconductors. Without
+fluoropolymers, there is no future, in the EU, for the semiconductors industry and therefore, all
+developments and investments will happen outside the EU, increasing our dependence from China,
+Taiwan, South Korea and the US.
+
+As such, the Proposal appears in contradiction with the objectives of the 2022 European Chips Act.
+
+
+
+  xii.      The Proposal will create illegal barriers to trade, causing the offshoring of companies from the
+            EU and having a major socio-economic impact on the EU market
+
+The Proposal only foresees an exemption for fully degradable PFAS101 and a limited number of
+derogations. When proposing these exceptions, the Dossier Submitters did not only fail to ensure the
+effet-utile of some derogations (see point ix of this submission), but did not consider the low hazard
+and/or safe uses of certain PFAS.102
+
+In that regard, it should be observed that under UK REACH, the regulatory management option analysis
+("RMOA") for PFAS, supported by the UK competent authorities in their regulatory decision making,
+has recognized that "exemptions could also be considered for PFAS (as individual substances or
+groups) for which comprehensive reliable evidence of low hazard or safe use can be provided or
+consideration may be given to exemption on socioeconomic grounds and subject to the availability of
+alternatives".103 Furthermore, in full consistency with the criteria of the OECD for polymers of low
+concern,104 the UK RMOA has recognized that fluoroplastics or fluoroelastomers represent low hazard
+groups and should be exempted from the restrictions, 105 along with "intermediates, uses in
+
+
+100
+    Annex XV PFAS REACH restriction Proposal, p. 7, Column 2, paragraph 5(ee);
+101
+    Annex XV PFAS REACH restriction Proposal, p. 4 Column 1;
+102
+    Ibid., p. 4,5,7, 8 Column 2;
+103
+    UK HSE Analysis of the most appropriate regulatory management options (RMOA) for PFAS, p. 174;
+104
+    Henry BJ, Carlin JP, Hammerschmidt JA, Buck RC, Buxton LW, Fiedler H, Seed J, Hernandez O. A critical review of the
+application of polymer of low concern and regulatory criteria to fluoropolymers. Integr Environ Assess Manag. 2018
+May;14(3):316-334. doi: 10.1002/ieam.4035; Korzeniowski SH, Buck RC, Newkold RM, Kassmi AE, Laganis E, Matsuoka Y,
+Dinelli B, Beauchet S, Adamsky F, Weilandt K, Soni VK, Kapoor D, Gunasekar P, Malvasi M, Brinati G, Musio S. A critical review
+of the application of polymer of low concern regulatory criteria to fluoropolymers II: Fluoroplastics and fluoroelastomers. Integr
+Environ Assess Manag. 2023 Mar;19(2):326-354. doi: 10.1002/ieam.4646;
+105
+    Ibid.;
+
+
+
+                                                               12
+sealed/contained systems (including use as heat exchange fluids in heat pumps and refrigeration
+systems), (low risk uses)".106
+
+It should be noted that the disparities between the UK RMOA and the EU restriction, if adopted as they
+currently stand, will likely create illegal barriers to trade in the future, in breach of the international trade
+rules laid down in the General Agreement on Tariffs and Trade ("GATT"),107 the Agreement on Technical
+Barrier to Trade ("TBT")108 and the Agreement on Sanitary and Phytosanitary Measures ("SPS").109
+
+In practical terms, this would mean that companies will be incentivized to move their business abroad
+(e.g. to the UK) where less restrictive measures will apply. This would have a major impact from a socio-
+economic point of view in the EU market. As such, the ECHA Committees, in particular SEAC, should
+take these aspects into account when evaluating if the net benefits to human health and the
+environment outweigh the net costs to manufacturers, importers, downstream users, distributors,
+consumers and society as a whole in accordance with the REACH rules.110
+
+
+
+      3. Conclusion
+
+In light of all the above, there is enough evidence that the REACH restriction Proposal presents serious
+flaws in terms of methodology, legal principles and scientific rigour for the reasons presented in this
+paper in addition to being in breach with the principle of Better Regulation.
+
+We ask ECHA, in particular RAC and SEAC members, to carefully take this information into
+account and reflect it in their opinions, in accordance with articles 70 and 71(1) REACH as well
+as the general principles of EU law, such as due process, right of good administration and right
+of defence.
+
+                                                      ***
+
+
+
+Yours sincerely,
+
+
+
+
+Claudio Mereu
+Partner
+
+
+
+
+106
+   Ibid.;
+107
+    GATT Agreement, articles Art. I, III, XI, XX;
+108
+    TBT Agreement, article 2;
+109
+    SPS Agreement, articles 2, 3 and 5;
+110
+    REACH, article 71; Annex XV and Annex XVI.
+
+                                                       13
+

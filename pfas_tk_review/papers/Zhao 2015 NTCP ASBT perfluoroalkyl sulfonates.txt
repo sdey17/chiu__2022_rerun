@@ -1,0 +1,503 @@
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.1093/toxsci/kfv102) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/pdf/kfv102.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Toxicological Sciences logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-toxsci.png)
+
+Toxicol Sci
+
+. 2015 May 21;146(2):363–373. doi: [10.1093/toxsci/kfv102](https://doi.org/10.1093/toxsci/kfv102)
+
+# Na+/Taurocholate Cotransporting Polypeptide and Apical Sodium-Dependent Bile Acid Transporter Are Involved in the Disposition of Perfluoroalkyl Sulfonates in Humans and Rats
+
+[Wen Zhao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zhao%20W%22[Author])
+
+### Wen Zhao
+
+\*Department of Pharmacology, Toxicology and Therapeutics, The University of Kansas Medical Center, Kansas City, Kansas 66160;
+
+Find articles by [Wen Zhao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zhao%20W%22[Author])
+
+\*, [Jeremiah D Zitzow](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zitzow%20JD%22[Author])
+
+### Jeremiah D Zitzow
+
+†Pace Analytical Services, Minneapolis, Minnesota 55414;
+
+Find articles by [Jeremiah D Zitzow](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zitzow%20JD%22[Author])
+
+†, [David J Ehresman](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ehresman%20DJ%22[Author])
+
+### David J Ehresman
+
+‡Medical Department, 3M Company, St. Paul, Minnesota 55144; and
+
+Find articles by [David J Ehresman](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ehresman%20DJ%22[Author])
+
+‡, [Shu-Ching Chang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chang%20SC%22[Author])
+
+### Shu-Ching Chang
+
+‡Medical Department, 3M Company, St. Paul, Minnesota 55144; and
+
+Find articles by [Shu-Ching Chang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chang%20SC%22[Author])
+
+‡, [John L Butenhoff](https://pubmed.ncbi.nlm.nih.gov/?term=%22Butenhoff%20JL%22[Author])
+
+### John L Butenhoff
+
+‡Medical Department, 3M Company, St. Paul, Minnesota 55144; and
+
+Find articles by [John L Butenhoff](https://pubmed.ncbi.nlm.nih.gov/?term=%22Butenhoff%20JL%22[Author])
+
+‡,1, [Jameson Forster](https://pubmed.ncbi.nlm.nih.gov/?term=%22Forster%20J%22[Author])
+
+### Jameson Forster
+
+§Department of Surgery, The University of Kansas Medical Center, Kansas City, KS 66160
+
+Find articles by [Jameson Forster](https://pubmed.ncbi.nlm.nih.gov/?term=%22Forster%20J%22[Author])
+
+§, [Bruno Hagenbuch](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hagenbuch%20B%22[Author])
+
+### Bruno Hagenbuch
+
+\*Department of Pharmacology, Toxicology and Therapeutics, The University of Kansas Medical Center, Kansas City, Kansas 66160;
+
+Find articles by [Bruno Hagenbuch](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hagenbuch%20B%22[Author])
+
+\*
+
+- Author information
+- Article notes
+- Copyright and License information
+
+\*Department of Pharmacology, Toxicology and Therapeutics, The University of Kansas Medical Center, Kansas City, Kansas 66160;
+
+†Pace Analytical Services, Minneapolis, Minnesota 55414;
+
+‡Medical Department, 3M Company, St. Paul, Minnesota 55144; and
+
+§Department of Surgery, The University of Kansas Medical Center, Kansas City, KS 66160
+
+1
+
+To whom correspondence should be addressed at, Department of Pharmacology, Toxicology and Therapeutics, The University of Kansas Medical Center, 3901 Rainbow Blvd., Kansas City, KS 66160. Fax: 1-913-588-7501. E-mail: bhagenbuch@kumc.edu.
+
+Issue date 2015 Aug.
+
+© The Author 2015. Published by Oxford University Press on behalf of the Society of Toxicology. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC4607751  PMID: [26001962](https://pubmed.ncbi.nlm.nih.gov/26001962/)
+
+## Abstract
+
+Among the perfluoroalkyl sulfonates (PFASs), perfluorohexane sulfonate (PFHxS), and perfluorooctane sulfonate (PFOS) have half-lives of several years in humans, mainly due to slow renal clearance and potential hepatic accumulation. Both compounds undergo enterohepatic circulation. To determine whether transporters involved in the enterohepatic circulation of bile acids are also involved in the disposition of PFASs, uptake of perfluorobutane sulfonate (PFBS), PFHxS, and PFOS was measured using freshly isolated human and rat hepatocytes in the absence or presence of sodium. The results demonstrated sodium-dependent uptake for all 3 PFASs. Given that the Na+/taurocholate cotransporting polypeptide (NTCP) and the apical sodium-dependent bile salt transporter (ASBT) are essential for the enterohepatic circulation of bile acids, transport of PFASs was investigated in stable CHO Flp-In cells for human NTCP or HEK293 cells transiently expressing rat NTCP, human ASBT, and rat ASBT. The results demonstrated that both human and rat NTCP can transport PFBS, PFHxS, and PFOS. Kinetics with human NTCP revealed _K_ m values of 39.6, 112, and 130 µM for PFBS, PFHxS, and PFOS, respectively. For rat NTCP _K_ m values were 76.2 and 294 µM for PFBS and PFHxS, respectively. Only PFOS was transported by human ASBT whereas rat ASBT did not transport any of the tested PFASs. Human OSTα/β was also able to transport all 3 PFASs. In conclusion, these results suggest that the long half-live and the hepatic accumulation of PFOS in humans are at least, in part, due to transport by NTCP and ASBT.
+
+**Keywords:** perfluoroalkyl sulfonates, perfluorobutane sulfonate, perfluorohexane sulfonate, perfluorooctane sulfonate, hepatocytes
+
+* * *
+
+Perfluoroalkyl sulfonates (PFASs) are fluorinated fatty acid analogs used as surfactants in industrial and commercial applications ( [Buck _et al._, 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B5); [Kissa and Kissa, 2001](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B26)). Due to the unique physicochemical properties of the carbon–fluorine bonds, certain PFASs such as perfluorohexane sulfonate (PFHxS) and perfluorooctane sulfonate (PFOS) are resistant to environmental and biological degradation. They are frequently detected in the environmental biota ( [Calafat _et al._, 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B7); [Fromme _et al._, 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B12); [Houde _et al._, 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B21); [Kato _et al._, 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B24); [Zhao _et al._, 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B41)). Consequently, PFOS has been nominated to the Stockholm Convention in 2009 as a persistent organic pollutant ( [http://chm.pops.int/Implementation/NewPOPs/TheNewPOPs/tabid/672/Default.aspx](http://chm.pops.int/Implementation/NewPOPs/TheNewPOPs/tabid/672/Default.aspx)).
+
+Pharmacokinetic studies revealed that PFASs primarily bind to serum proteins and that their clearance is species- and chain length-dependent ( [Andersen _et al._, 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B1)). In Sprague–Dawley rats, the estimated serum elimination half-life for PFOS (an 8-carbon homolog) is approximately 1 month ( [Chang _et al._, 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B8)) whereas perfluorobutane sulfonate (PFBS, a 4-carbon homolog) is efficiently excreted in urine with an estimated serum half-life of 3.9–4.5 h ( [Olsen _et al._, 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B32)). In rats, there is a distinct gender difference in the serum elimination of PFHxS (a 6-carbon homolog) in that the estimated half-lives are 30 days in male but only 2 days in female rats ( [Sundström _et al._, 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B35)). In cynomolgus monkeys, the estimated serum elimination half-lives for PFHxS and PFOS are approximately 4 months ( [Chang _et al._, 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B8); [Sundström _et al._, 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B35)); whereas for PFBS the respective half-life is approximately 4 days ( [Olsen _et al._, 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B32)). The estimated serum elimination half-lives of PFHxS and PFOS in human serum are several years \[geometric means are 7.3 years (95% CI 5.8–9.2 years) and 4.8 years (95% CI 4.0–5.8 years), respectively\] ( [Olsen _et al._, 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B31)). In contrast, PFBS has an estimated geometric serum elimination half-life of 26 days (95% CI 16–40 days) ( [Olsen _et al._, 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B32)).
+
+Several studies have demonstrated that PFOS preferentially accumulates in the liver. In Sprague–Dawley rats given a single IV dose of 14C-radiolabelled PFOS, [Chang _et al._ (2012)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B8) reported that 3% and 25% of the administered dose was recovered in plasma and liver, respectively, after 89 days. They also reported data for CD-1 mice and Sprague–Dawley rats given single oral doses which demonstrated that PFOS liver concentrations were always higher than concurrent serum PFOS concentrations by a factor of approximately 2–3 at measured time points following dosing. This is consistent with observations from repeat-dose studies in Sprague–Dawley rats where the liver to serum PFOS concentration ratios ranged from 2.5 to 12.2 in Sprague–Dawley rats after 4–14 weeks of dosing ( [Seacat _et al._, 2003](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B34)). Thus, these data suggest that PFOS is preferentially distributed to the liver and may undergo enterohepatic circulation. In addition, studies by [Johnson _et al._ (1984)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B22) and [Genius _et al_. (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B13) also provided evidence for enterohepatic circulation that may subsequently contribute to the preferential distribution of certain PFASs to liver. Male rats were given a single IV dose of 14C-labelled PFOS and followed for 21 days during which they were given either a basal diet or a diet containing the bile acid sequestrant, cholestyramine ( [Johnson _et al._, 1984](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B22)). Fecal elimination of PFOS was increased approximately 10-fold, and liver and serum PFOS concentration were reduced by 75% and 85%, respectively, in rats given cholestyramine in their diet as compared to rats fed basal diet. A case study involving a single human subject demonstrated that cholestyramine was effective in removing both PFOS and PFHxS via fecal elimination ( [Genuis _et al._, 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B13)). More individuals were included in a follow-up study and cholestyramine treatment increased the fecal elimination of PFOS and PFHxS in all 8 subjects ( [Genuis _et al._, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B15)).
+
+Although previous studies have shown that certain perfluoroalkyl carboxylates are substrates of members of the organic anion transporting polypeptide (OATP) and the organic anion transporter (OAT) family ( [Han _et al._, 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B17); [Nakagawa _et al._, 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B30); [Weaver _et al._, 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B37); [Yang _et al._, 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B40)), interactions between PFASs and transporters might not be limited to OATPs and OATs. During the process of enterohepatic circulation of bile salts, it is well-known that the two uptake transporters Na+/taurocholate cotransporting polypeptide (NTCP) and apical sodium-dependent bile salt transporter (ASBT) play important roles ( [Hagenbuch and Dawson, 2004](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B14)). NTCP is highly expressed at the basolateral membrane of hepatocytes and mediates the uptake of bile acids into hepatocytes in a sodium-dependent manner ( [Claro da Silva _et al._, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B9)). Besides bile acids, other known substrates of NTCP include steroid sulfates such as estrone-3-sulfate ( [Schroeder _et al._, 1998](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B33)), antihyperlipidemic drugs like rosuvastatin ( [Ho _et al._, 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B20)), and drug conjugates such as chlorambucil–taurocholate ( [Kullak-Ublick _et al._, 1997](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B27)). When bile acids reach the gastrointestinal tract, ASBT localized to the brush-border membrane in the terminal ileum reabsorbs the majority of them and OSTα/β exports them across the basolateral membrane of enterocytes ( [Ballatori _et al._, 2005](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B2)). ASBT is also expressed at the apical membrane of proximal tubular cells and at the apical membrane of cholangiocytes. Similar to NTCP, the transport by ASBT depends on the sodium gradient across the cell membrane. In contrast to NTCP, ASBT has narrow substrate specificity, which is restricted to bile acids ( [Claro da Silva _et al._, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B9)).
+
+Given the evidence that some PFASs might undergo enterohepatic circulation and given the important role the bile salt transporters play in the enterohepatic circulation, we hypothesized that bile salt transporters are involved in the disposition of PFASs. In this study, we investigated the roles of human and rat NTCP and ASBT as well as of human OSTα/β in transporting 3 PFASs (PFBS, PFHxS, and PFOS). Initial inhibition studies and uptake experiments indicated the potential of interactions between PFASs and the transporters. Based on these results, additional time dependency and kinetic studies were performed.
+
+## MATERIALS AND METHODS
+
+### Materials
+
+Radiolabelled \[3H\]-taurocholate and \[3H\]-estrone-3-sulfate were purchased from PerkinElmer (Boston, Massachusetts), potassium perfluorobutane sulfonate (K+PFBS, 98.2% pure), potassium perfluorohexane sulfonate (K+PFHxS, >99% pure), and potassium perfluorooctane sulfonate (K+PFOS, 86.9% pure) were received from the 3 M Company (St. Paul, Minnesota).
+
+### Plasmids and cell lines
+
+The rat ASBT (rASBT) cDNA was subcloned from a plasmid purchased from Origene ( [NM\_017222](https://www.ncbi.nlm.nih.gov/nuccore/NM_017222), RN209999, Rockville, Maryland) into the pcDNA5/FRT vector using PCR and restriction digestion with the following primers: forward primer containing an _Nhe I_ restriction site: 5′-AGAGGCTAGCACCATGGATAACTCCTCCGTCT-3′, reverse primer including a 6-His tag and the _Not I_ restriction site 5′-AGAGGCGGCCGCCCTAGTGGTGATGGTGATGATGTTTCTCATCTGGTTGA-3′. A human NTCP (hNTCP) containing pSport1 vector ( [Hagenbuch and Meier, 1994](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B16)) was digested with restriction enzymes _Kpn I_ and _BamH I,_ and the resulting hNTCP cDNA was inserted into the pcDNA5/FRT vector. CHO Flp-in cells were transfected with the hNTCP-pcDNA5/FRT construct to generate a stable hNTCP expressing cell line. Rat NTCP (rNTCP) was cloned into the pcDNA5/FRT expression vector from a cell line overexpressing rat NTCP ( [Schroeder _et al._, 1998](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B33)) using the following primers: forward primer with a _Nhe I_ restriction site, 5′-AGAGAGCGGCCGCCTAATGGTGATGGTGATGATGATTTGCCATCTGACCAGAATTC-3′; reverse primer containing a 6-His tag and the _Not I_ restriction site, 5′-AGAGAGCGGCCGCCTAATGGTGATGGTGATGATGATTTGCCATCTGACCAG-3′. The human ASBT (hASBT) cDNA was subcloned from a plasmid purchased from Open Biosystems (OHS6084-202630699, Lafayette, Colorado) into the pcDNA5/FRT expression vector using PCR and restriction digestion with the following primers: forward primer containing a _Hind III_ restriction site, 5′-AGAGAAGCTTCGGGACCATGAATGATCCGAACAGCTG-3′; reverse primer including a 6-His tag and the _Kpn I_ restriction site, 5′-AGAGGGTACCTTATTAATGGTGATGGTGATGATGCTTTTCGTCAGGTTGAAATCC-3′. The human OSTα cDNA in pCMV6-XL4 (Origene SC100623, NCBI [NM\_152672](https://www.ncbi.nlm.nih.gov/nuccore/NM_152672)) was digested with _Not_ I and inserted into pcDNA5/FRT vector. The human OSTβ cDNA in pCMV6-Entry (Origene (RC517638, NCBI [NM\_178859](https://www.ncbi.nlm.nih.gov/nuccore/NM_178859)) was subcloned into pcDNA5/FRT using the following primers: 5′-AGAGGCTAGCACCATGGAGCACAGTGAGG-3′ with an _Nhe_ I restriction site as forward primer and 5′-AGAGGCGGCCGCCCTAGCTCTCAGTTTCTGGTACATC-3′ with an _Not_ I restriction site as the reverse primer. Correctness of all sequences was verified by DNA sequencing.
+
+### Tissue culture and transporter expression
+
+CHO-hNTCP cells were grown at 37°C in a humidified 5% CO2 atmosphere in Dulbecco’s Modified Eagle Medium (DMEM) with 1 g/l d-glucose, 2 mM l-glutamine, 25 mM 4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid (HEPES) buffer, and 110 mg/l sodium pyruvate supplemented with 10% fetal bovine serum (FBS) (Hyclone, Logan, Utah), 50 µg/ml l-proline, 100 U/ml penicillin, 100 µg/ml streptomycin (Invitrogen), and 500 µg/ml hygromycin (Invitrogen, Carlsbad, California). For uptake assays, CHO-hNTCP cells were plated at 40 000 cells per well on 24-well plates and 72 h later used for uptake experiments. Medium was changed when needed.
+
+Human embryonic kidney (HEK293) cells (ATCC, Manassas, Virginia) were grown at 37°C in a humidified 5% CO2 atmosphere in DMEM High Glucose (Invitrogen) supplemented with 10% FBS (Hyclone, Logan, Utah), 100 U/ml penicillin, and 100 µg/ml streptomycin. HEK293 cells were plated at 200 000 cells per well in 24-well plates coated with 0.1 mg/ml poly-d-lysine. Twenty-four hours later cells were transfected with 0.5 µg plasmid DNA and 1.5 µl Fugene HD (Promega, Madison, Wisconsin) per well and uptake assays were performed 48 h later. Medium was changed when needed.
+
+Human and rat hepatocytes were isolated by the Cell Isolation Core in the Department of Pharmacology, Toxicology and Therapeutics at University of Kansas Medical Center as described ( [Xie _et al._, 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B39)). All human liver specimens were obtained in accordance with an HSC approved protocol from patients undergoing hepatic resection procedures or from donor organs. The hepatocytes were then seeded at 250 000 cells per well on collagen coated 24-well plates and allowed to attach in a humidified 37°C, 5% CO2 incubator. Uptake with human hepatocytes was determined 24 h after plating and uptake with rat hepatocytes was measured 3 h after plating.
+
+### Cell-based transport assays
+
+Cells were washed 3 times with 1 ml of prewarmed (37°C) CHO uptake buffer (116.4 mM NaCl or choline chloride, 5.3 mM KCl, 1 mM NaH2PO4, 0.8 mM MgSO4, 5.5 mM d-glucose, and 20 mM HEPES, pH adjusted to 7.4 with Tris-base), HEK293 uptake buffer (142 mM NaCl or choline chloride, 5 mM KCl, 1 mM KH2PO4, 1.2 mM MgSO4, 1.5 mM CaCl2, 5 mM glucose, and 12.5 mM HEPES, pH 7.4), or hepatocyte uptake buffer (136 mM NaCl or choline chloride, 5.3 mM KCl, 1.1 mM KH2PO4, 0.8 mM MgSO4, 1.8 mM CaCl2, 11 mM glucose, and 10 mM HEPES, pH 7.4). Then, 200 µl uptake buffer (37°C) containing PFASs or radiolabeled model substrates were added to the well to initiate transport. Uptake was terminated at indicated time points by two 1-ml washes with ice-cold uptake buffer containing 3% bovine serum albumin and two 1-ml washes with plain ice-cold uptake buffer. Cells were lysed with 200 µl 1% Triton X-100 in H2O for PFASs or 300 µl 1% Triton X-100 in PBS for radiolabeled substrates at room temperature for 20 min. For PFASs, 120 µl cell lysate was used for liquid chromatography-tandem mass spectrometry (LC-MS/MS). For radiolabeled substrates, 200 µl of cell lysate was transferred to a 24-well scintillation plate (Perkin, Billerica, Massachusetts) and 750 µl Optiphase Supermix scintillation cocktail (Perkin Elmer, Waltham, Massachusetts) was added to each well. Radioactivity was measured in a Microbeta liquid scintillation counter. The remaining cell lysates were transferred to 96-well plates to determine the total protein concentration using the bicinchoninic acid protein assay (Pierce Biotechnology, Rockford, Illinois). All transport measurements were corrected by the total protein concentration. All experiments were performed 2 to 4 times independently with triplicate determinations.
+
+### Sf9 vesicle transport
+
+Sf9 vesicles overexpressing human MRP2, BCRP, or BSEP were purchased from Corning Incorporated (Tewksbury, Massachusetts). Fifty µg human MRP2, BCRP, or BSEP Sf9 vesicles were incubated with model substrates CDCF (Corning gentest MRP/BCRP vesicle assay kit), \[3H\]-estrone-3-sulfate or \[3H\]-taurocholate at 37°C in the presence of 5 mM ATP or AMP for 15, 3, or 30 min, respectively. The reaction was stopped by filtering the vesicle suspension through a 96-well glass fiber filter plate (Millipore, Merck KGaA, Darmstadt, Germany) on a MultiScreenHTS vacuum manifold (Millipore) and the filters were washed 6 times with ice-cold wash buffer from the corresponding vesicle assay kit (Corning). For radiolabeled substrates, Optiphase Supermix scintillation cocktail was added to the filter and it was heat sealed and used directly for counting in a Microbeta liquid scintillation counter (Perkin Elmer). For the fluorescent substrate CDCF, 100 µl 0.1 N NaOH was added to each well and the substrate was eluted into a fresh 96-well plate. Fluorescence was determined in a Synergy 2 plate reader (BioTek, Winooski, Vermont) at 485/525 nm. Transport was determined by subtracting the values in the presence of AMP from the values in the presence of ATP. All experiments were performed 2 times independently with triplicate determinations.
+
+### LC-MS/MS analyses for PFBS, PFHxS, and PFOS
+
+Cell lysates collected ( _vide supra_) were analyzed for PFBS, PFHxS, or PFOS by LC-MS/MS using the following procedures:
+
+(1) Standard and sample preparation
+
+A fixed amount of internal standard (either 18O2-PFBS, 18O2-PFHxS, or 18O2-PFOS) was added to new disposable 1.8-ml polypropylene microcentrifuge tubes containing 25 ul of either PFAS standard or lysate samples. PFAS standards were prepared in the same buffer matrix as lysate samples.
+
+To all tubes, 175 µl of a solution containing 5% ammonium acetate (2 mM) and 95% acetonitrile was added followed by vortex (approximately 5 s) and then centrifugation (2500 _× g_, 20 min, room temperature). Subsequently, 180 μl of the supernatant was aliquoted to a new clean 100-μl polypropylene auto sampler vial pending LC-MS/MS analyses. The reagent-grade water used for all the LC-MS/MS analyses was MilliQ deionized water that has been further purified to remove residual traces of perfluorinated compounds by being pumped through a C-18 HPLC column prior to use.
+
+(2) LC-MS/MS conditions
+
+The instrument used for analysis was an API 5000 mass spectrometer (Applied Biosystems/MDS-Sciex Instrument Corporation) configured with Turbo Ion Spray (pneumatically assisted electrospray ionization source) in negative ion mode. Separation of the compounds was completed on a Mac-Mod ACE C-18, 5 µm, 75 × 2.1 mm i.d. HPLC column with a gradient flow rate of 0.250 ml/min (dual column method) using the conditions specified in [Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-T1). All source parameters were optimized under these conditions according to manufacturer’s guidelines. Transition ions monitored were as follows: PFBS: 299 -> 80 amu; PFBS Internal Standard: dual 18O2-labeled PFBS: 303 -> 84 amu; PFHxS: 399 -> 80 amu; PFHxS Internal Standard: triple 18O2-labeled PFHxS: 405 -> 86 amu; PFOS: 499 -> 80 amu; PFOS Internal Standard: dual 18O2-labeled PFOS: 503 -> 84 amu.
+
+#### TABLE 1.
+
+LC-MS/MS Conditions for HPLC Separation of PFBS, PFHxS, and PFOS
+
+| Time (min) | Mobile phase B % |
+| --- | --- |
+| 0.01 | 30 |
+| 1.80 | 30 |
+| 3.50 | 60 |
+| 4.50 | 60 |
+| 5.50 | 90 |
+| 7.00 | 90 |
+| 8.00 | 30 |
+| 11.50 | 30 |
+| 11.55 | End of run |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/table/kfv102-T1/)
+
+The gradient was run with mobile phase A (2 mM ammonium acetate) and mobile phase B (acetonitrile).
+
+### Statistical analysis
+
+Data were analyzed for significant differences using 1-way ANOVA followed by the Dunnett post-test for inhibition assays and Student’s _t_-test for one time point uptake determinations. _p_ < .05 was considered significant.
+
+## RESULTS
+
+### Uptake of PFASs by Human and Rat Hepatocytes
+
+To determine whether sodium-dependent transporters are involved in the uptake of PFASs into hepatocytes, uptake of 50 µM PFBS, PFHxS, or PFOS was measured at 2 min using freshly isolated human and rat hepatocytes. First, sodium-dependent uptake of \[3H\]-taurocholate was used to ascertain that the isolated hepatocytes were functional ( [Supplementary Fig. 1](http://toxsci.oxfordjournals.org/lookup/suppl/doi:10.1093/toxsci/kfv102/-/DC1)). Then, sodium-dependent uptakes of the 3 PFASs were measured in the same batches of hepatocytes. As seen in [Figures 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F1) A to [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F1) C, sodium-dependent uptake was observed for all 3 PFASs in human hepatocytes. Under the experimental conditions used, the net sodium-dependent uptakes (net uptake, black bars) for PFHxS ( [Fig. 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F1) B) and PFOS ( [Fig. 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F1) C) were similar and they were higher than PFBS ( [Fig. 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F1) A). Similar sodium-dependent uptake also was observed in rat hepatocytes for PFBS, PFHxS, and PFOS ( [Figs. 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F1) D to [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F1) F). In addition, uptake was also measured in the presence of 100 µM bromosulfophthalein (BSP), a known inhibitor of both NTCP and the OATPs. BSP inhibited both sodium-dependent and sodium-independent uptake of PFBS and to a lesser degree, PFHxS. For PFOS, only the sodium-dependent portion was inhibited ( [Fig. 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F1)).
+
+#### FIG. 1.
+
+[![FIG. 1.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b2/4607751/a2e5de0607b7/kfv102f1p.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4607751_kfv102f1p.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/figure/kfv102-F1/)
+
+PFAS uptake into freshly isolated human (A–C) and rat (D–F) hepatocytes. Uptakes of 50 µM PFBS, PFHxS, and PFOS in the absence or presence of 100 µM bromosulfophthalein (BSP) was measured into freshly isolated human (HH) and rat hepatocytes (RH) for 2 min in the absence (white bars) or presence (gray bars) of sodium. Net sodium-dependent uptake (black bars) was calculated by subtracting the value of uptake in the absence of sodium from uptake in the presence of sodium. Each bar represents the mean ± SD from 3 independent experiments with triplicate determinations. The results were corrected for total protein concentration in each well. \* _p_ < .05.
+
+### Uptake of PFASs by Human and Rat NTCP
+
+To test whether PFASs would interact with human or rat NTCP, uptake of the model substrate \[3H\]-taurocholate was measured in the absence or presence of 10 µM PFBS, PFHxS, or PFOS. Using CHO Flp-in cells stably expressing human NTCP, the uptake of \[3H\]-taurocholate was inhibited in a PFAS-chain length-dependent manner with PFOS exerting the strongest effect followed by PFHxS and PFBS ( [Fig. 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F2) A). In HEK293 cells transiently expressing rat NTCP, PFHxS showed the strongest inhibition of \[3H\]-taurocholate uptake (50% inhibition) whereas PFBS and PFOS inhibited only by 20%–25% ( [Fig. 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F2) B).
+
+#### FIG. 2.
+
+![FIG. 2.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b2/4607751/0edd36173583/kfv102f2p.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/figure/kfv102-F2/)
+
+Inhibition of 3H-taurocholate uptake mediated by human (A, hNTCP) and rat (B, rNTCP) NTCP by PFASs. Human NTCP-mediated 30 nM \[3H\]-taurocholate uptake was measured at 37°C for 1 min in the absence (DMSO) or presence of 10 µM PFBS, PFHxS, and PFOS using the CHO-hNTCP cell line. Rat NTCP-mediated 30 nM \[3H\]-taurocholate uptake was measured at 37°C for 1 min in the absence or presence of 10 µM PFBS, PFHxS, and PFOS using HEK293 cells transiently transfected with rNTCP. Each bar represents the mean ± SD of triplicate determinations. The results were corrected for total protein concentration in each well. \* _p_ < .05 compared to DMSO control.
+
+Based on the results of the inhibition experiments that demonstrated interactions with all 3 PFASs, direct uptakes of PFBS, PFHxS, and PFOS by human and rat NTCP were determined and quantified by LC-MS/MS. As shown in [Figure 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F3) A, using 10 µM substrate and 1-min incubation, sodium-dependent net uptake by human NTCP was highest for PFOS, followed by PFHxS and PFBS mirroring the chain length-dependent inhibition seen before. In contrast, net uptake by rat NTCP was similar for all 3 PFASs at the same experimental condition ( [Fig. 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F3) B).
+
+#### FIG. 3.
+
+![FIG. 3.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b2/4607751/a9dafe8a0472/kfv102f3p.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/figure/kfv102-F3/)
+
+Uptake of PFAS by human (A, hNTCP) and rat (B, rNTCP) NTCP. CHO-hNTCP cells or HEK293 cells transiently transfected with rNTCP were used to measure the uptake of 10 µM PFBS, PFHxS, and PFOS in the absence (white bars) and presence (gray bars) of sodium. Net sodium-dependent uptake (black bars) was calculated by subtracting the values of uptake in the absence of sodium from uptake in the presence of sodium. Each bar represents the mean ± SD from 2 independent experiments each performed with triplicate determinations. The results were corrected for total protein concentration in each well. \* _p_ < .05.
+
+In order to further characterize the transport by NTCP, uptakes of PFBS, PFHxS, and PFOS were measured in a time-dependent manner at low (10 µM) and high substrate concentrations (200 µM for PFBS and 400 µM for PFHxS and PFOS). At low concentrations, the duration of the initial linear portion of human NTCP-mediated transport ( [Figs. 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F4) A–C) was different between the 3 PFASs. The initial linear range was approximately 10 s for uptake for PFBS and PFHxS and it extended up to 60 s for PFOS. For rat NTCP, the initial linear range was around 20 s for PFBS ( [Fig. 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F4) D) and 30 s for both PFHxS ( [Fig. 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F4) E) and PFOS ( [Fig. 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F4) F). At the high substrate concentrations, uptake of all PFASs by human and rat NTCP was linear up to at least 20 s (data not shown).
+
+#### FIG. 4.
+
+[![FIG. 4.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b2/4607751/2a3beaf81014/kfv102f4p.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4607751_kfv102f4p.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/figure/kfv102-F4/)
+
+Time-dependent uptake of PFASs by human (A–C; hNTCP) and rat (D–F; rNTCP) NTCP. Uptake of 10 µM PFBS (A, D), PFHxS (B, E), and PFOS (C, F) was measured at 37°C at the indicated time points using CHO-hNTCP cells and HEK293 cells transiently transfected with rNTCP in the absence (circles) and presence (squares) of sodium. Net sodium-dependent uptake (triangles) was calculated by subtracting the value of uptake in the absence of sodium from uptake in the presence of sodium. The results were corrected for total protein concentration in each well. Each point represents the mean ± SD of triplicates.
+
+Based on the results from the time-dependent uptake experiments, all concentration- dependent transport measurements for kinetic analysis of PFBS, PFHxS, and PFOS were determined at 10 s. Concentration-dependent net sodium-dependent uptake of PFBS, PFHxS and PFOS by human NTCP, and PFBS and PFHxS by rat NTCP are shown in [Figures 5](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F5) A to [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F5) E. Kinetic parameters were calculated based on the Michaelis–Menten equation and the resulting _K_ m and _V_ max values are summarized in [Table 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-T2). PFBS was transported by human NTCP with the highest affinity ( _K_ m value of 39.6 µM) but the lowest _Vmax_ value whereas both PFHxS ( _K_ m = 112 µM) and PFOS ( _K_ m = 130 µM) had lower affinities and higher maximal transport rates. The intrinsic clearance ( _Vmax_/ _Km_) was similarly twice as high for the 2 substrates with the higher _Vmax_ values. With respect to rat NTCP, although PFBS was transported with a higher affinity ( _Km_ = 76.2 µM) than PFHxS ( _Km_ = 294 µM) the difference in the _Vmax_ values resulted in equal intrinsic clearances for both compounds ( [Table 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-T2)). The kinetic parameters of PFOS by rat NTCP were not determined due to low signal-to-noise ratio of the transport.
+
+#### FIG. 5.
+
+[![FIG. 5.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b2/4607751/d734c4b9302e/kfv102f5p.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4607751_kfv102f5p.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/figure/kfv102-F5/)
+
+Kinetics of human (A–C) and rat (D, E) NTCP-mediated transport of PFBS (A, D), PFHxS (B, E), and PFOS (C). Uptake of increasing concentrations of PFBS, PFHxS, and PFOS was measured within the initial linear range of transport using CHO-hNTCP cells (A–C) and HEK293 cells transiently transfected with rNTCP (D, E). Net uptake was calculated by subtracting the values of uptake in the absence of sodium from uptake in the presence of sodium and was corrected for total protein concentration. Resulting data were fitted to the Michaelis–Menten equation to obtain _K_ m and _V_ max values. Each point represents the mean ± SD from 3 to 4 independent experiments performed in triplicates.
+
+#### TABLE 2.
+
+Kinetic parameters of PFBS, PFHxS and PFOS transport mediated by human or rat NTCP
+
+| Transporter | PFAS | _Km_ (µM) | _V_ max (nmol/mg/protein\*min) | _V_ max/ _K_ m (ml/mg/protein\*min) |
+| --- | --- | --- | :-: | :-: |
+| hNTCP | PFBS | 39.6 ± 8.2 | 3.7 ± 0.3 | 0.1 ± 0.02 |
+| PFHxS | 112 ± 32.9 | 23.2 ± 3.0 | 0.2 ± 0.07 |
+| PFOS | 130 ± 32.9 | 30.7 ± 3.2 | 0.2 ± 0.06 |
+| rNTCP | PFBS | 76.2 ± 23.6 | 2.2 ± 0.3 | 0.03 ± 0.01 |
+| PFHxS | 294 ± 121 | 8.1 ± 1.8 | 0.03 ± 0.01 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/table/kfv102-T2/)
+
+### Inhibition of Human MRP2, BCRP and BSEP Transport by PFASs
+
+To determine whether PFASs interact with efflux transporters in the hepatocytes, transport of model substrates by human MRP2 (model substrate CDCF), BCRP (model substrate \[3H\]-estrone-3-sulfate), and BSEP Sf9 vesicles (model substrate \[3H\]-taurocholate) was measured in the absence or presence of PFBS, PFHxS or PFOS at either 10 or 100 µM. While the transport of CDCF by human MRP2 was not affected by PFBS ( [Fig. 6](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F6) A), it was inhibited by PFHxS (100 µM) and PFOS (10 µM and 100 µM). At 100 µM, PFOS did inhibit the transport by more than 80% ( [Fig. 6](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F6) A). Transport of \[3H\]-estrone-3-sulfate mediated by human BCRP was decreased in the presence of all 3 PFASs, however, only the inhibition by 100 µM PFHxS was statistically significant ( [Fig. 6](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F6) B). In addition, BSEP-mediated transport of \[3H\]-taurocholate was only inhibited by 100 µM PFOS but not by any of the other conditions ( [Fig. 6](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F6) C).
+
+#### FIG. 6.
+
+![FIG. 6.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b2/4607751/eeef8c1ec556/kfv102f6p.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/figure/kfv102-F6/)
+
+Inhibition of human MRP2 (A), BCRP (B), and BSEP (C) transport by PFASs. Transport of 5 µM CDCF, 0.01 µM \[3H\]-estrone-3-sulfate or 0.5 µM \[3H\]-taurocholate by human MRP2, BCRP and BSEP vesicles were measured with or without 10 µM (Black bar) or 100 µM (white bar) PFBS, PFHxS, and PFOS. Each bar represents the mean ± SD of triplicate determinations. \* _p_ < .05 compared to DMSO control.
+
+### Transport of PFASs by Human and Rat ASBT
+
+ASBT is another sodium-dependent transporter belonging to the same gene family as NTCP. It is normally expressed at the apical membrane of ileal enterocytes, cholangiocytes, and renal proximal tubule cells. It transports bile acids in a sodium-dependent way. In HEK293 cells transiently expressing human or rat ASBT, uptake of 10 µM PFBS, PFHxS, or PFOS was measured at 1 min in the absence or presence of sodium. Sodium-dependent uptake was only observed for PFOS by human ASBT ( [Fig. 7](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F7) A) while none of the 3 PFASs were transported by rat ASBT ( [Fig. 7](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F7) B). The proper function of human and rat ASBT was confirmed by measuring sodium-dependent transport of the model substrate \[3H\]-taurocholate ( [Supplementary Fig. 2](http://toxsci.oxfordjournals.org/lookup/suppl/doi:10.1093/toxsci/kfv102/-/DC1)).
+
+#### FIG. 7.
+
+[![FIG. 7.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b2/4607751/bb51629cc4d2/kfv102f7p.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4607751_kfv102f7p.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/figure/kfv102-F7/)
+
+Uptake of PFASs by human (A, C, D) and rat (B) ASBT. HEK293 cells transiently transfected with hASBT (A) or rASBT (B) were used to measure uptake of 10 µM PFBS, PFHxS, and PFOS in the absence (white bars) or presence (gray bars) of sodium for 2 min. Net sodium-dependent uptake (black bars) was calculated by subtracting the values of uptake in the absence of sodium from uptake in the presence of sodium. Each bar represents the mean ± SD of triplicates from 2 independent experiments. (C, D) Uptake of 10 µM PFOS was measured at 37°C for the indicated time points by HEK293 cells transiently transfected with hASBT in the absence (circles) or presence (squares) of sodium. Net sodium-dependent uptake (triangles) was calculated by subtracting the values of uptake in the absence of sodium from uptake in the presence of sodium. The results were corrected for total protein concentration in each well. Each point represents the mean ± SD of triplicates. \* _p_ < .05.
+
+Time-dependent uptake was performed for human ASBT-mediated PFOS in order to further characterize its kinetics. Uptake was linear up to 2 min at both the low (10 µM) and high (400 µM) PFOS concentration ( [Figs. 7](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F7) C and D). However, the kinetic parameters of PFOS transport could not be determined with confidence due to a low signal-to-noise ratio.
+
+### Transport of PFASs by Human OSTα/β
+
+Human OSTα/β is expressed at the basolateral membrane of enterocytes to mediate the efflux of bile acids. Because it can transport bidirectionally depending on the concentration gradient of substrates, uptake of 10 µM PFASs was measured at 2 and 10 min after establishing the proper function of OSTα/β ( [Supplementary Fig. 3](http://toxsci.oxfordjournals.org/lookup/suppl/doi:10.1093/toxsci/kfv102/-/DC1)). At both time points, uptake of all 3 PFASs was higher in human OSTα/β transfected HEK293 cells than in empty vector transfected cells and net uptake was higher at 10 min as compared to 2 min ( [Fig. 8](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F8)).
+
+#### FIG. 8.
+
+![FIG. 8.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b2/4607751/81a32e788114/kfv102f8p.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/figure/kfv102-F8/)
+
+Uptake of PFASs by human OSTα/β. HEK293 cells transiently transfected with hOSTα/β (gray bars) or empty vector pcDNA5/FRT (white bars) were used to measure uptake of 10 µM PFBS (A), PFHxS (B) or PFOS (C) at 2 and 10 min. Net uptake (black bars) was calculated by subtracting the values of uptake in empty vector transfected cells from uptake in the hOSTα/β transfected cells. The results were corrected for total protein concentration in each well. Each bar represents the mean ± SD of triplicates from 3 independent experiments.
+
+## DISCUSSION
+
+In this study, we have demonstrated that uptake of PFASs into human and rat hepatocytes is mediated by sodium-dependent and sodium-independent mechanisms. Furthermore, we could show that all 3 PFASs, PFBS, PFHxS, and PFOS, are substrates for human and rat NTCP. Carrier-mediated uptake by rat hepatocytes has been reported previously for PFOA and it was shown that BSP, an inhibitor of OATPs and NTCP, can inhibit this transport ( [Han _et al._, 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B18)). However, specific transporters had not been identified so far. In addition to NTCP, we also demonstrated that human ASBT can mediate the uptake of PFOS. To the best of our knowledge, this is the first time that sodium-dependent transport is reported for perfluoroalkyl substances. Furthermore, human OSTα/β was able to transport all 3 PFASs.
+
+Using BSP as an inhibitor, we investigated whether the sodium-independent OATPs or the sodium-dependent NTCP would be the major transport system for the uptake of PFASs into hepatocytes. The fact that sodium-independent uptake of PFOS was not inhibited by BSP ( [Fig. 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F1)) suggests that NTCP is the major uptake transporter and that OATPs play a minor role. The shorter chain PFBS and PFHxS are probably transported by both types of transporters but again, NTCP seems to be the major carrier given the minor inhibition of the sodium-independent uptake ( [Fig. 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-F1)).
+
+Fenestration of sinusoids in combination with specific transporters in the sinusoidal membrane of hepatocytes allows numerous protein-bound endo- and xenobiotics to be excreted by the liver. While these fenestrae allow the protein-bound compounds to be in close proximity with the uptake transporters in hepatocytes, protein binding also prevents the compounds from being excreted in the urine via the glomerular filtration process in the kidneys. PFASs such as PFOS and PFHxS are highly protein-bound in the plasma, predominately to albumin ( [Butenhoff _et al._, 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B6); [Kerstner-Wood _et al._, 2003](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B25)), and given that NTCP can transport these PFASs and it is abundantly expressed in the sinusoidal membrane, it is plausible that this could be the major mechanism for the previously reported preferential accumulation of these compounds in the liver ( [Kärrman _et al._ 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B23); [Maestri _et al._ 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B28)).
+
+In humans, biliary excretion has been suggested as the main route of elimination for PFOS and has been estimated to be 200-fold higher than urinary excretion ( [Harada _et al._, 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B19)). The estimated reabsorption rates are 97% and 95% in humans and rats, respectively, very comparable between the 2 species ( [Harada _et al._, 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B19)). In the study reported herein, we demonstrated that PFOS and to a lesser degree, PFHxS, were able to inhibit MRP2, BCRP, and BSEP. These are 3 of the ABC transporters expressed in the canalicular membrane of human hepatocytes, suggesting that they are the likely candidates for canalicular secretion of PFOS and PFHxS. We would like to emphasize that inhibition does not necessarily mean that the inhibitors are substrates of the transporters they inhibit and as a consequence these 3 transporters should be tested in the future whether they directly mediate transport of PFOS and PFHxS.
+
+We demonstrated that human ASBT can transport PFOS when expressed in HEK293 cells. It is plausible that human ASBT can transport PFOS _in vivo_ as well and that would suggest that PFOS can be absorbed in the intestine preferentially compared to other PFASs. The relative high unspecific background seen in our data indicates that passive diffusion of PFOS probably plays an important role as well. We have preliminary data that demonstrated additional transporters expressed in the small intestine such as human OATP2B1 ( [Drozdzik _et al._, 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B11)) and rat OATP1A5 ( [Walters _et al._, 2000](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B36)) could play a role in the reabsorption of PFASs, especially in the case of PFHxS and PFBS which were not transported by rat ASBT. However, detailed functional characterization of these transporters will need to be performed in the future.
+
+In addition to enterocytes, ASBT is also expressed in the epithelial cells lining the bile duct where it samples biliary contents for signaling to the hepatocytes and is part of the cholehepatic shunt pathway ( [Benedetti _et al._, 1997](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B3); [Meier and Stieger, 2002](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B29); [Xia _et al._, 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B38)). In conjunction with ASBT transport, cholehepatic shunting of PFOS might be an additional critical component for its retention in the liver. Urinary excretion of PFOS is limited to a large extent as a result of its strong binding to serum albumin ( [Butenhoff _et al._, 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B6)). Even when dissociated from albumin, ASBT present in the brush border membrane of proximal tubular cells ( [Hagenbuch and Dawson, 2004](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B14)) could potentially reabsorb the unbound PFOS present in the filtrate hence keeping the urinary excretion to a minimum.
+
+Although we could show that PFBS is a substrate of both human and rat NTCP, the human serum elimination half-life has been estimated to be around 26 days and urine was shown to be the dominant route of elimination in rodents, monkeys, and human ( [Olsen _et al._, 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B32)). Compared with PFOS, the enhanced urinary excretion of PFBS could be due to enhanced glomerular filtration of PFBS with higher water solubility (PFBS is more water soluble than PFOS) and/or lower protein-binding in the blood (% protein binding of PFBS and PFOS to serum albumin are 93.5 and 99.8, respectively; [Kerstner-Wood, 2003](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B25)). The transporters of the OAT family expressed in the kidney (OAT1 and OAT3) may also play a role because these carriers are involved in the transport of the shorter chain PFCAs which are water-soluble ( [Weaver _et al._, 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B37)); hence, they are also the likely candidates for PFBS excretion.
+
+It is well accepted that human NTCP transports, in addition to bile acids, other endo- and xenobiotics such as certain statins ( [Bi _et al._, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B4)). Even though ASBT is a bile acid cotransporter closely related to NTCP, to date, known substrates of ASBT have been restricted to bile acids ( [Dawson, 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B10); [Hagenbuch and Dawson, 2004](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/#kfv102-B14)). Thus, the identification of PFOS as an ASBT substrate represents a very novel finding. This raises the possibility that other compounds similar to PFOS might be substrates of ASBT.
+
+In conclusion, our studies reveal that PFBS, PFHxS, and PFOS are substrates for the sodium-dependent liver transporter NTCP in humans and rats, and that human ASBT can transport PFOS. The 3 ABC transporters MRP2, BCRP, and BSEP can be inhibited in particular by PFOS, and human OSTα/β can transport all 3 PFASs. Thus, the combined action of the hepatic NTCP and ABC transporters, together with the intestinal ASBT and OSTα/β, likely facilitate the enterohepatic circulation of PFHxS and PFOS. In addition, ASBT expressed in cholangiocytes possibly contributes to cholehepatic shunting of PFOS. Both pathways could potentially play a role in the accumulation of PFOS in the liver and subsequently contribute to its long serum elimination half-life in humans.
+
+## SUPPLEMENTARY DATA
+
+[Supplementary data](http://toxsci.oxfordjournals.org/lookup/suppl/doi:10.1093/toxsci/kfv102/-/DC1) are available online at [http://toxsci.oxfordjournals.org/](http://toxsci.oxfordjournals.org/).
+
+## FUNDING
+
+This work was supported by National Institute of Health grants RR021940 and GM077336, by an unrestricted research grant from the 3 M Company, and by the Cell Isolation Core lab at the University of Kansas Medical Center Department of Pharmacology, Toxicology and Therapeutics, Kansas City, KS.
+
+## Supplementary Material
+
+Supplementary Data
+
+[supp\_146\_2\_363\_\_index.html](https://pmc.ncbi.nlm.nih.gov/articles/instance/4607751/bin/supp_146_2_363__index.html) (1.1KB, html)
+
+## ACKNOWLEDGMENTS
+
+The authors would like to thank Megan Roth and Zhonghua Sheng for their help with plasmid construction.
+
+## REFERENCES
+
+01. Andersen M. E., Butenhoff J. L., Chang S. C., Farrar D. G., Kennedy G. L., Jr, Lau C., Olsen G. W., Seed J., Wallace K. B. (2008). Perfluoroalkyl acids and related chemistries–toxicokinetics and modes of action. Toxicol. Sci.
+    102, 3–14. \[ [DOI](https://doi.org/10.1093/toxsci/kfm270)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/18003598/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicol.%20Sci.&title=Perfluoroalkyl%20acids%20and%20related%20chemistries%E2%80%93toxicokinetics%20and%20modes%20of%20action&author=M.%20E.%20Andersen&author=J.%20L.%20Butenhoff&author=S.%20C.%20Chang&author=D.%20G.%20Farrar&author=G.%20L.%20Kennedy&volume=102&publication_year=2008&pages=3-14&pmid=18003598&doi=10.1093/toxsci/kfm270&)\]
+02. Ballatori N., Christian W. V., Lee J. Y., Dawson P. A., Soroka C. J., Boyer J. L., Madejczyk M. S., Li N. (2005). OSTα-OSTβ: a major basolateral bile acid and steroid transporter in human intestinal, renal, and biliary epithelia. Hepatology
+    42, 1270–1279. \[ [DOI](https://doi.org/10.1002/hep.20961)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16317684/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Hepatology&title=OST%CE%B1-OST%CE%B2:%20a%20major%20basolateral%20bile%20acid%20and%20steroid%20transporter%20in%20human%20intestinal,%20renal,%20and%20biliary%20epithelia&author=N.%20Ballatori&author=W.%20V.%20Christian&author=J.%20Y.%20Lee&author=P.%20A.%20Dawson&author=C.%20J.%20Soroka&volume=42&publication_year=2005&pages=1270-1279&pmid=16317684&doi=10.1002/hep.20961&)\]
+03. Benedetti A., Di Sario A., Marucci L., Svegliati-Baroni G., Schteingart C. D., Ton-Nu H. T., Hofmann A. F. (1997). Carrier-mediated transport of conjugated bile acids across the basolateral membrane of biliary epithelial cells. Am. J. Physiol.
+    272, G1416–G1424. \[ [DOI](https://doi.org/10.1152/ajpgi.1997.272.6.G1416)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9227477/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am.%20J.%20Physiol.&title=Carrier-mediated%20transport%20of%20conjugated%20bile%20acids%20across%20the%20basolateral%20membrane%20of%20biliary%20epithelial%20cells&author=A.%20Benedetti&author=A.%20Di%20Sario&author=L.%20Marucci&author=G.%20Svegliati-Baroni&author=C.%20D.%20Schteingart&volume=272&publication_year=1997&pages=G1416-G1424&pmid=9227477&doi=10.1152/ajpgi.1997.272.6.G1416&)\]
+04. Bi Y. A., Qiu X., Rotter C. J., Kimoto E., Piotrowski M., Varma M. V., Ei-Kattan A. F., Lai Y. (2013). Quantitative assessment of the contribution of sodium-dependent taurocholate co-transporting polypeptide (NTCP) to the hepatic uptake of rosuvastatin, pitavastatin and fluvastatin. Biopharm. Drug Dispos.
+    34, 452–461. \[ [DOI](https://doi.org/10.1002/bdd.1861)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23996477/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biopharm.%20Drug%20Dispos.&title=Quantitative%20assessment%20of%20the%20contribution%20of%20sodium-dependent%20taurocholate%20co-transporting%20polypeptide%20(NTCP)%20to%20the%20hepatic%20uptake%20of%20rosuvastatin,%20pitavastatin%20and%20fluvastatin&author=Y.%20A.%20Bi&author=X.%20Qiu&author=C.%20J.%20Rotter&author=E.%20Kimoto&author=M.%20Piotrowski&volume=34&publication_year=2013&pages=452-461&pmid=23996477&doi=10.1002/bdd.1861&)\]
+05. Buck R. C., Franklin J., Berger U., Conder J. M., Cousins I. T., de Voogt P., Jensen A. A., Kannan K., Mabury S. A., van Leeuwen S. P. (2011). Perfluoroalkyl and polyfluoroalkyl substances in the environment: terminology, classification, and origins. Integr. Environ. Assess. Manag.
+    7, 513–541. \[ [DOI](https://doi.org/10.1002/ieam.258)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3214619/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21793199/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Integr.%20Environ.%20Assess.%20Manag.&title=Perfluoroalkyl%20and%20polyfluoroalkyl%20substances%20in%20the%20environment:%20terminology,%20classification,%20and%20origins&author=R.%20C.%20Buck&author=J.%20Franklin&author=U.%20Berger&author=J.%20M.%20Conder&author=I.%20T.%20Cousins&volume=7&publication_year=2011&pages=513-541&pmid=21793199&doi=10.1002/ieam.258&)\]
+06. Butenhoff J. L., Pieterman E., Ehresman D. J., Gorman G. S., Olsen G. W., Chang S. C., Princen H. M. (2012). Distribution of perfluorooctanesulfonate and perfluorooctanoate into human plasma lipoprotein fractions. Toxicol. Lett.
+    210, 360–365. \[ [DOI](https://doi.org/10.1016/j.toxlet.2012.02.013)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22387339/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicol.%20Lett.&title=Distribution%20of%20perfluorooctanesulfonate%20and%20perfluorooctanoate%20into%20human%20plasma%20lipoprotein%20fractions&author=J.%20L.%20Butenhoff&author=E.%20Pieterman&author=D.%20J.%20Ehresman&author=G.%20S.%20Gorman&author=G.%20W.%20Olsen&volume=210&publication_year=2012&pages=360-365&pmid=22387339&doi=10.1016/j.toxlet.2012.02.013&)\]
+07. Calafat A. M., Wong L. Y., Kuklenyik Z., Reidy J. A., Needham L. L. (2007). Polyfluoroalkyl chemicals in the U.S. population: data from the National Health and Nutrition Examination Survey (NHANES) 2003-2004 and comparisons with NHANES 1999-2000. Environ. Health Perspect.
+    115, 1596–1602. \[ [DOI](https://doi.org/10.1289/ehp.10598)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC2072821/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/18007991/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Environ.%20Health%20Perspect.&title=Polyfluoroalkyl%20chemicals%20in%20the%20U.S.%20population:%20data%20from%20the%20National%20Health%20and%20Nutrition%20Examination%20Survey%20(NHANES)%202003-2004%20and%20comparisons%20with%20NHANES%201999-2000&author=A.%20M.%20Calafat&author=L.%20Y.%20Wong&author=Z.%20Kuklenyik&author=J.%20A.%20Reidy&author=L.%20L.%20Needham&volume=115&publication_year=2007&pages=1596-1602&pmid=18007991&doi=10.1289/ehp.10598&)\]
+08. Chang S. C., Noker P. E., Gorman G. S., Gibson S. J., Hart J. A., Ehresman D. J., Butenhoff J. L. (2012). Comparative pharmacokinetics of perfluorooctanesulfonate (PFOS) in rats, mice, and monkeys. Reprod. Toxicol.
+    33, 428–440. \[ [DOI](https://doi.org/10.1016/j.reprotox.2011.07.002)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21889587/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Reprod.%20Toxicol.&title=Comparative%20pharmacokinetics%20of%20perfluorooctanesulfonate%20(PFOS)%20in%20rats,%20mice,%20and%20monkeys&author=S.%20C.%20Chang&author=P.%20E.%20Noker&author=G.%20S.%20Gorman&author=S.%20J.%20Gibson&author=J.%20A.%20Hart&volume=33&publication_year=2012&pages=428-440&pmid=21889587&doi=10.1016/j.reprotox.2011.07.002&)\]
+09. Claro da Silva T., Polli J. E., Swaan P. W. (2013). The solute carrier family 10 (SLC10): beyond bile acid transport. Mol. Aspects Med.
+    34, 252–269. \[ [DOI](https://doi.org/10.1016/j.mam.2012.07.004)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3602841/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23506869/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol.%20Aspects%20Med.&title=The%20solute%20carrier%20family%2010%20(SLC10):%20beyond%20bile%20acid%20transport&author=T.%20Claro%20da%20Silva&author=J.%20E.%20Polli&author=P.%20W.%20Swaan&volume=34&publication_year=2013&pages=252-269&pmid=23506869&doi=10.1016/j.mam.2012.07.004&)\]
+10. Dawson P. A. (2011). Role of the intestinal bile acid transporters in bile acid and drug disposition. Handb. Exp. Pharmacol., 169–203. \[ [DOI](https://doi.org/10.1007/978-3-642-14541-4_4)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3249407/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21103970/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Handb.%20Exp.%20Pharmacol.&title=Role%20of%20the%20intestinal%20bile%20acid%20transporters%20in%20bile%20acid%20and%20drug%20disposition&author=P.%20A.%20Dawson&publication_year=2011&pages=169-203&pmid=21103970&doi=10.1007/978-3-642-14541-4_4&)\]
+11. Drozdzik M., Groer C., Penski J., Lapczuk J., Ostrowski M., Lai Y., Prasad B., Unadkat J. D., Siegmund W., Oswald S. (2014). Protein abundance of clinically relevant multidrug transporters along the entire length of the human intestine. Mol. Pharm.
+    11, 3547–3555. \[ [DOI](https://doi.org/10.1021/mp500330y)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25158075/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol.%20Pharm.&title=Protein%20abundance%20of%20clinically%20relevant%20multidrug%20transporters%20along%20the%20entire%20length%20of%20the%20human%20intestine&author=M.%20Drozdzik&author=C.%20Groer&author=J.%20Penski&author=J.%20Lapczuk&author=M.%20Ostrowski&volume=11&publication_year=2014&pages=3547-3555&pmid=25158075&doi=10.1021/mp500330y&)\]
+12. Fromme H., Tittlemier S. A., Volkel W., Wilhelm M., Twardella D. (2009). Perfluorinated compounds–exposure assessment for the general population in Western countries. Int. J. Hyg. Environ. Health
+    212, 239–270. \[ [DOI](https://doi.org/10.1016/j.ijheh.2008.04.007)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/18565792/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int.%20J.%20Hyg.%20Environ.%20Health&title=Perfluorinated%20compounds%E2%80%93exposure%20assessment%20for%20the%20general%20population%20in%20Western%20countries&author=H.%20Fromme&author=S.%20A.%20Tittlemier&author=W.%20Volkel&author=M.%20Wilhelm&author=D.%20Twardella&volume=212&publication_year=2009&pages=239-270&pmid=18565792&doi=10.1016/j.ijheh.2008.04.007&)\]
+13. Genuis S. J., Birkholz D., Ralitsch M., Thibault N. (2010). Human detoxification of perfluorinated compounds. Public Health
+    124, 367–375. \[ [DOI](https://doi.org/10.1016/j.puhe.2010.03.002)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20621793/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Public%20Health&title=Human%20detoxification%20of%20perfluorinated%20compounds&author=S.%20J.%20Genuis&author=D.%20Birkholz&author=M.%20Ralitsch&author=N.%20Thibault&volume=124&publication_year=2010&pages=367-375&pmid=20621793&doi=10.1016/j.puhe.2010.03.002&)\]
+14. Genuis S.J., Curtis L., Birkholz D. (2013). Gastrointestinal Elimination of Perfluorinated Compounds Using Cholestyramine and Chlorella pyrenoidosa. ISRN Toxicol.
+    2013:657849. \[ [DOI](https://doi.org/10.1155/2013/657849)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3782832/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24106616/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=ISRN%20Toxicol.&title=Gastrointestinal%20Elimination%20of%20Perfluorinated%20Compounds%20Using%20Cholestyramine%20and%20Chlorella%20pyrenoidosa&author=S.J.%20Genuis&author=L.%20Curtis&author=D.%20Birkholz&volume=2013&publication_year=2013&pages=657849&pmid=24106616&doi=10.1155/2013/657849&)\]
+15. Hagenbuch B., Dawson P. (2004). The sodium bile salt cotransport family SLC10. Pflugers Arch.
+    447, 566–570. \[ [DOI](https://doi.org/10.1007/s00424-003-1130-z)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12851823/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Pflugers%20Arch.&title=The%20sodium%20bile%20salt%20cotransport%20family%20SLC10&author=B.%20Hagenbuch&author=P.%20Dawson&volume=447&publication_year=2004&pages=566-570&pmid=12851823&doi=10.1007/s00424-003-1130-z&)\]
+16. Hagenbuch B., Meier P. J. (1994). Molecular Cloning, Chromosomal Localization, and Functional Characterization of a Human Liver Na+ Bile Acid Cotransporter. J. Clin. Invest.
+    93, 1326–1331. \[ [DOI](https://doi.org/10.1172/JCI117091)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC294097/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/8132774/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Clin.%20Invest.&title=Molecular%20Cloning,%20Chromosomal%20Localization,%20and%20Functional%20Characterization%20of%20a%20Human%20Liver%20Na+%20Bile%20Acid%20Cotransporter&author=B.%20Hagenbuch&author=P.%20J.%20Meier&volume=93&publication_year=1994&pages=1326-1331&pmid=8132774&doi=10.1172/JCI117091&)\]
+17. Han X., Nabb D. L., Russell M. H., Kennedy G. L., Rickard R. W. (2012). Renal elimination of perfluorocarboxylates (PFCAs). Chem. Res. Toxicol.
+    25, 35–46. \[ [DOI](https://doi.org/10.1021/tx200363w)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21985250/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Chem.%20Res.%20Toxicol.&title=Renal%20elimination%20of%20perfluorocarboxylates%20(PFCAs)&author=X.%20Han&author=D.%20L.%20Nabb&author=M.%20H.%20Russell&author=G.%20L.%20Kennedy&author=R.%20W.%20Rickard&volume=25&publication_year=2012&pages=35-46&pmid=21985250&doi=10.1021/tx200363w&)\]
+18. Han X., Yang C. H., Snajdr S. I., Nabb D. L., Mingoia R. T. (2008). Uptake of perfluorooctanoate in freshly isolated hepatocytes from male and female rats. Toxicol. Lett.
+    181, 81–86. \[ [DOI](https://doi.org/10.1016/j.toxlet.2008.07.002)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/18662756/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicol.%20Lett.&title=Uptake%20of%20perfluorooctanoate%20in%20freshly%20isolated%20hepatocytes%20from%20male%20and%20female%20rats&author=X.%20Han&author=C.%20H.%20Yang&author=S.%20I.%20Snajdr&author=D.%20L.%20Nabb&author=R.%20T.%20Mingoia&volume=181&publication_year=2008&pages=81-86&pmid=18662756&doi=10.1016/j.toxlet.2008.07.002&)\]
+19. Harada K. H., Hashida S., Kaneko T., Takenaka K., Minata M., Inoue K., Saito N., Koizumi A. (2007). Biliary excretion and cerebrospinal fluid partition of perfluorooctanoate and perfluorooctane sulfonate in humans. Environ. Toxicol. Pharmacol.
+    24, 134–139. \[ [DOI](https://doi.org/10.1016/j.etap.2007.04.003)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21783801/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Environ.%20Toxicol.%20Pharmacol.&title=Biliary%20excretion%20and%20cerebrospinal%20fluid%20partition%20of%20perfluorooctanoate%20and%20perfluorooctane%20sulfonate%20in%20humans&author=K.%20H.%20Harada&author=S.%20Hashida&author=T.%20Kaneko&author=K.%20Takenaka&author=M.%20Minata&volume=24&publication_year=2007&pages=134-139&pmid=21783801&doi=10.1016/j.etap.2007.04.003&)\]
+20. Ho R. H., Tirona R. G., Leake B. F., Glaeser H., Lee W., Lemke C. J., Wang Y., Kim R. B. (2006). Drug and bile acid transporters in rosuvastatin hepatic uptake: function, expression, and pharmacogenetics. Gastroenterology
+    130, 1793–1806. \[ [DOI](https://doi.org/10.1053/j.gastro.2006.02.034)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16697742/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Gastroenterology&title=Drug%20and%20bile%20acid%20transporters%20in%20rosuvastatin%20hepatic%20uptake:%20function,%20expression,%20and%20pharmacogenetics&author=R.%20H.%20Ho&author=R.%20G.%20Tirona&author=B.%20F.%20Leake&author=H.%20Glaeser&author=W.%20Lee&volume=130&publication_year=2006&pages=1793-1806&pmid=16697742&doi=10.1053/j.gastro.2006.02.034&)\]
+21. Houde M., De Silva A. O., Muir D. C., Letcher R. J. (2011). Monitoring of perfluorinated compounds in aquatic biota: an updated review. Environ. Sci. Technol.
+    45, 7962–7973. \[ [DOI](https://doi.org/10.1021/es104326w)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21542574/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Environ.%20Sci.%20Technol.&title=Monitoring%20of%20perfluorinated%20compounds%20in%20aquatic%20biota:%20an%20updated%20review&author=M.%20Houde&author=A.%20O.%20De%20Silva&author=D.%20C.%20Muir&author=R.%20J.%20Letcher&volume=45&publication_year=2011&pages=7962-7973&pmid=21542574&doi=10.1021/es104326w&)\]
+22. Johnson J. D., Gibson S. J., Ober R. E. (1984). Cholestyramine-enhanced fecal elimination of carbon-14 in rats after administration of ammonium \[14C\]perfluorooctanoate or potassium \[14C\]perfluorooctanesulfonate. Fundam. Appl. Toxicol.
+    4, 972–976. \[ [DOI](https://doi.org/10.1016/0272-0590(84)90235-5)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/6519377/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Fundam.%20Appl.%20Toxicol.&title=Cholestyramine-enhanced%20fecal%20elimination%20of%20carbon-14%20in%20rats%20after%20administration%20of%20ammonium%20[14C]perfluorooctanoate%20or%20potassium%20[14C]perfluorooctanesulfonate&author=J.%20D.%20Johnson&author=S.%20J.%20Gibson&author=R.%20E.%20Ober&volume=4&publication_year=1984&pages=972-976&pmid=6519377&doi=10.1016/0272-0590(84)90235-5&)\]
+23. Kärrman A., Domingo J.L., Llebaria X., Nadal M., Bigas E., van Bavel B., Lindström G. (2010). Biomonitoring perfluorinated compounds in Catalonia, Spain: concentrations and trends in human liver and milk samples. Environ. Sci. Pollut. Res. Int.
+    17, 750–758. \[ [DOI](https://doi.org/10.1007/s11356-009-0178-5)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19458971/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Environ.%20Sci.%20Pollut.%20Res.%20Int.&title=Biomonitoring%20perfluorinated%20compounds%20in%20Catalonia,%20Spain:%20concentrations%20and%20trends%20in%20human%20liver%20and%20milk%20samples&author=A.%20K%C3%A4rrman&author=J.L.%20Domingo&author=X.%20Llebaria&author=M.%20Nadal&author=E.%20Bigas&volume=17&publication_year=2010&pages=750-758&pmid=19458971&doi=10.1007/s11356-009-0178-5&)\]
+24. Kato K., Wong L. Y., Jia L. T., Kuklenyik Z., Calafat A. M. (2011). Trends in exposure to polyfluoroalkyl chemicals in the U.S. Population: 1999-2008. Environ. Sci. Technol.
+    45, 8037–8045. \[ [DOI](https://doi.org/10.1021/es1043613)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21469664/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Environ.%20Sci.%20Technol.&title=Trends%20in%20exposure%20to%20polyfluoroalkyl%20chemicals%20in%20the%20U.S.%20Population:%201999-2008&author=K.%20Kato&author=L.%20Y.%20Wong&author=L.%20T.%20Jia&author=Z.%20Kuklenyik&author=A.%20M.%20Calafat&volume=45&publication_year=2011&pages=8037-8045&pmid=21469664&doi=10.1021/es1043613&)\]
+25. Kerstner-Wood C., Coward L., Gorman G. (2003). Protein binding of perfluorobutane sulfonate, perfluorohexanesulfonate, perfluorooctane sulfonate and perfluorooctanoate to plasma (human, rat, and monkey), and various human-derived plasma protein fractions. In (Southern Research Corporation, Study 9921.7. US EPA docket AR-226-1354. US Environmental Protection Agency, Washington, DC. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?Kerstner-Wood%20C.,%20Coward%20L.,%20Gorman%20G.%20(2003).%20Protein%20binding%20of%20perfluorobutane%20sulfonate,%20perfluorohexanesulfonate,%20perfluorooctane%20sulfonate%20and%20perfluorooctanoate%20to%20plasma%20(human,%20rat,%20and%20monkey),%20and%20various%20human-derived%20plasma%20protein%20fractions.%20In%20(Southern%20Research%20Corporation,%20Study%209921.7.%20US%20EPA%20docket%20AR-226-1354.%20US%20Environmental%20Protection%20Agency,%20Washington,%20DC.)\]
+26. Kissa E., Kissa E. (2001). Fluorinated surfactants and repellents. 2nd ed
+    Marcel Dekker, New York. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Fluorinated%20surfactants%20and%20repellents&author=E.%20Kissa&author=E.%20Kissa&publication_year=2001&)\]
+27. Kullak-Ublick G. A., Glasa J., Boker C., Oswald M., Grutzner U., Hagenbuch B., Stieger B., Meier P. J., Beuers U., Kramer W., et al. (1997). Chlorambucil-taurocholate is transported by bile acid carriers expressed in human hepatocellular carcinomas. Gastroenterology
+    113, 1295–1305. \[ [DOI](https://doi.org/10.1053/gast.1997.v113.pm9322525)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9322525/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Gastroenterology&title=Chlorambucil-taurocholate%20is%20transported%20by%20bile%20acid%20carriers%20expressed%20in%20human%20hepatocellular%20carcinomas&author=G.%20A.%20Kullak-Ublick&author=J.%20Glasa&author=C.%20Boker&author=M.%20Oswald&author=U.%20Grutzner&volume=113&publication_year=1997&pages=1295-1305&pmid=9322525&doi=10.1053/gast.1997.v113.pm9322525&)\]
+28. Maestri L., Negri S., Ferrari M., Ghittori S., Fabris F., Danesino P., Imbriani M. (2006). Determination of perfluorooctanoic acid and perfluorooctanesulfonate in human tissues by liquid chromatography/single quadrupole mass spectrometry. Rapid Commun. Mass Spectrom.
+    20, 2728–2734. \[ [DOI](https://doi.org/10.1002/rcm.2661)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16915561/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Rapid%20Commun.%20Mass%20Spectrom.&title=Determination%20of%20perfluorooctanoic%20acid%20and%20perfluorooctanesulfonate%20in%20human%20tissues%20by%20liquid%20chromatography/single%20quadrupole%20mass%20spectrometry&author=L.%20Maestri&author=S.%20Negri&author=M.%20Ferrari&author=S.%20Ghittori&author=F.%20Fabris&volume=20&publication_year=2006&pages=2728-2734&pmid=16915561&doi=10.1002/rcm.2661&)\]
+29. Meier P. J., Stieger B. (2002). Bile salt transporters. Annu. Rev. Physiol.
+    64, 635–661. \[ [DOI](https://doi.org/10.1146/annurev.physiol.64.082201.100300)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11826283/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Annu.%20Rev.%20Physiol.&title=Bile%20salt%20transporters&author=P.%20J.%20Meier&author=B.%20Stieger&volume=64&publication_year=2002&pages=635-661&pmid=11826283&doi=10.1146/annurev.physiol.64.082201.100300&)\]
+30. Nakagawa H., Hirata T., Terada T., Jutabha P., Miura D., Harada K. H., Inoue K., Anzai N., Endou H., Inui K., Kanai Y., Koizumi A. (2008). Roles of organic anion transporters in the renal excretion of perfluorooctanoic acid. Basic Clin. Pharmacol. Toxicol.
+    103, 1–8. \[ [DOI](https://doi.org/10.1111/j.1742-7843.2007.00155.x)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/18373647/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Basic%20Clin.%20Pharmacol.%20Toxicol.&title=Roles%20of%20organic%20anion%20transporters%20in%20the%20renal%20excretion%20of%20perfluorooctanoic%20acid&author=H.%20Nakagawa&author=T.%20Hirata&author=T.%20Terada&author=P.%20Jutabha&author=D.%20Miura&volume=103&publication_year=2008&pages=1-8&pmid=18373647&doi=10.1111/j.1742-7843.2007.00155.x&)\]
+31. Olsen G. W., Burris J. M., Ehresman D. J., Froehlich J. W., Seacat A. M., Butenhoff J. L., Zobel L. R. (2007). Half-life of serum elimination of perfluorooctanesulfonate,perfluorohexanesulfonate, and perfluorooctanoate in retired fluorochemical production workers. Environ. Health Perspect.
+    115, 1298–1305. \[ [DOI](https://doi.org/10.1289/ehp.10009)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC1964923/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17805419/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Environ.%20Health%20Perspect.&title=Half-life%20of%20serum%20elimination%20of%20perfluorooctanesulfonate,perfluorohexanesulfonate,%20and%20perfluorooctanoate%20in%20retired%20fluorochemical%20production%20workers&author=G.%20W.%20Olsen&author=J.%20M.%20Burris&author=D.%20J.%20Ehresman&author=J.%20W.%20Froehlich&author=A.%20M.%20Seacat&volume=115&publication_year=2007&pages=1298-1305&pmid=17805419&doi=10.1289/ehp.10009&)\]
+32. Olsen G. W., Chang S. C., Noker P. E., Gorman G. S., Ehresman D. J., Lieder P. H., Butenhoff J. L. (2009). A comparison of the pharmacokinetics of perfluorobutanesulfonate (PFBS) in rats, monkeys, and humans. Toxicology
+    256, 65–74. \[ [DOI](https://doi.org/10.1016/j.tox.2008.11.008)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19059455/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicology&title=A%20comparison%20of%20the%20pharmacokinetics%20of%20perfluorobutanesulfonate%20(PFBS)%20in%20rats,%20monkeys,%20and%20humans&author=G.%20W.%20Olsen&author=S.%20C.%20Chang&author=P.%20E.%20Noker&author=G.%20S.%20Gorman&author=D.%20J.%20Ehresman&volume=256&publication_year=2009&pages=65-74&pmid=19059455&doi=10.1016/j.tox.2008.11.008&)\]
+33. Schroeder A., Eckhardt U., Stieger B., Tynes R., Schteingart C. D., Hofmann A. F., Meier P. J., Hagenbuch B. (1998). Substrate specificity of the rat liver Na+-bile salt cotransporter in Xenopus laevis oocytes and in CHO cells. Am. J. Physiol.
+    274, G370–G375. \[ [DOI](https://doi.org/10.1152/ajpgi.1998.274.2.G370)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9486191/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am.%20J.%20Physiol.&title=Substrate%20specificity%20of%20the%20rat%20liver%20Na+-bile%20salt%20cotransporter%20in%20Xenopus%20laevis%20oocytes%20and%20in%20CHO%20cells&author=A.%20Schroeder&author=U.%20Eckhardt&author=B.%20Stieger&author=R.%20Tynes&author=C.%20D.%20Schteingart&volume=274&publication_year=1998&pages=G370-G375&pmid=9486191&doi=10.1152/ajpgi.1998.274.2.G370&)\]
+34. Seacat A. M., Thomford P. J., Hansen K. J., Clemen L. A., Eldridge S. R., Elcombe C. R., Butenhoff J. L. (2003). Sub-chronic dietary toxicity of potassium perfluorooctanesulfonate in rats. Toxicology
+    183, 117–131. \[ [DOI](https://doi.org/10.1016/s0300-483x(02)00511-5)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12504346/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicology&title=Sub-chronic%20dietary%20toxicity%20of%20potassium%20perfluorooctanesulfonate%20in%20rats&author=A.%20M.%20Seacat&author=P.%20J.%20Thomford&author=K.%20J.%20Hansen&author=L.%20A.%20Clemen&author=S.%20R.%20Eldridge&volume=183&publication_year=2003&pages=117-131&pmid=12504346&doi=10.1016/s0300-483x(02)00511-5&)\]
+35. Sundström M., Chang S. C., Noker P. E., Gorman G. S., Hart J. A., Ehresman D. J., Bergman A., Butenhoff J. L. (2012). Comparative pharmacokinetics of perfluorohexanesulfonate (PFHxS) in rats, mice, and monkeys. Reprod. Toxicol.
+    33, 441–451. \[ [DOI](https://doi.org/10.1016/j.reprotox.2011.07.004)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21856411/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Reprod.%20Toxicol.&title=Comparative%20pharmacokinetics%20of%20perfluorohexanesulfonate%20(PFHxS)%20in%20rats,%20mice,%20and%20monkeys&author=M.%20Sundstr%C3%B6m&author=S.%20C.%20Chang&author=P.%20E.%20Noker&author=G.%20S.%20Gorman&author=J.%20A.%20Hart&volume=33&publication_year=2012&pages=441-451&pmid=21856411&doi=10.1016/j.reprotox.2011.07.004&)\]
+36. Walters H.C., Craddock A.L., Fusegawa H., Willingham M.C., Dawson P.A. (2000). Expression, transport properties, and chromosomal location of organic anion transporter subtype 3. Am. J. Physiol.
+    279, G1188–G1200. \[ [DOI](https://doi.org/10.1152/ajpgi.2000.279.6.G1188)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11093941/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am.%20J.%20Physiol.&title=Expression,%20transport%20properties,%20and%20chromosomal%20location%20of%20organic%20anion%20transporter%20subtype%203&author=H.C.%20Walters&author=A.L.%20Craddock&author=H.%20Fusegawa&author=M.C.%20Willingham&author=P.A.%20Dawson&volume=279&publication_year=2000&pages=G1188-G1200&pmid=11093941&doi=10.1152/ajpgi.2000.279.6.G1188&)\]
+37. Weaver Y. M., Ehresman D. J., Butenhoff J. L., Hagenbuch B. (2010). Roles of rat renal organic anion transporters in transporting perfluorinated carboxylates with different chain lengths. Toxicol. Sci.
+    113, 305–314. \[ [DOI](https://doi.org/10.1093/toxsci/kfp275)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC2807038/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19915082/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicol.%20Sci.&title=Roles%20of%20rat%20renal%20organic%20anion%20transporters%20in%20transporting%20perfluorinated%20carboxylates%20with%20different%20chain%20lengths&author=Y.%20M.%20Weaver&author=D.%20J.%20Ehresman&author=J.%20L.%20Butenhoff&author=B.%20Hagenbuch&volume=113&publication_year=2010&pages=305-314&pmid=19915082&doi=10.1093/toxsci/kfp275&)\]
+38. Xia X., Francis H., Glaser S., Alpini G., LeSage G. (2006). Bile acid interactions with cholangiocytes. World J. Gastroenterol.
+    12, 3553–3563. \[ [DOI](https://doi.org/10.3748/wjg.v12.i22.3553)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4087571/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16773712/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=World%20J.%20Gastroenterol.&title=Bile%20acid%20interactions%20with%20cholangiocytes&author=X.%20Xia&author=H.%20Francis&author=S.%20Glaser&author=G.%20Alpini&author=G.%20LeSage&volume=12&publication_year=2006&pages=3553-3563&pmid=16773712&doi=10.3748/wjg.v12.i22.3553&)\]
+39. Xie Y., McGill M. R., Dorko K., Kumer S. C., Schmitt T. M., Forster J., Jaeschke H. (2014). Mechanisms of acetaminophen-induced cell death in primary human hepatocytes. Toxicol. Appl. Pharmacol.
+    279, 266–274. \[ [DOI](https://doi.org/10.1016/j.taap.2014.05.010)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171351/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24905542/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicol.%20Appl.%20Pharmacol.&title=Mechanisms%20of%20acetaminophen-induced%20cell%20death%20in%20primary%20human%20hepatocytes&author=Y.%20Xie&author=M.%20R.%20McGill&author=K.%20Dorko&author=S.%20C.%20Kumer&author=T.%20M.%20Schmitt&volume=279&publication_year=2014&pages=266-274&pmid=24905542&doi=10.1016/j.taap.2014.05.010&)\]
+40. Yang C. H., Glover K. P., Han X. (2010). Characterization of cellular uptake of perfluorooctanoate via organic anion-transporting polypeptide 1A2, organic anion transporter 4, and urate transporter 1 for their potential roles in mediating human renal reabsorption of perfluorocarboxylates. Toxicol. Sci.
+    117, 294–302. \[ [DOI](https://doi.org/10.1093/toxsci/kfq219)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20639259/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxicol.%20Sci.&title=Characterization%20of%20cellular%20uptake%20of%20perfluorooctanoate%20via%20organic%20anion-transporting%20polypeptide%201A2,%20organic%20anion%20transporter%204,%20and%20urate%20transporter%201%20for%20their%20potential%20roles%20in%20mediating%20human%20renal%20reabsorption%20of%20perfluorocarboxylates&author=C.%20H.%20Yang&author=K.%20P.%20Glover&author=X.%20Han&volume=117&publication_year=2010&pages=294-302&pmid=20639259&doi=10.1093/toxsci/kfq219&)\]
+41. Zhao Y. G., Wong C. K., Wong M. H. (2012). Environmental contamination, human exposure and body loadings of perfluorooctane sulfonate (PFOS), focusing on Asian countries. Chemosphere
+    89, 355–368. \[ [DOI](https://doi.org/10.1016/j.chemosphere.2012.05.043)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22794940/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Chemosphere&title=Environmental%20contamination,%20human%20exposure%20and%20body%20loadings%20of%20perfluorooctane%20sulfonate%20(PFOS),%20focusing%20on%20Asian%20countries&author=Y.%20G.%20Zhao&author=C.%20K.%20Wong&author=M.%20H.%20Wong&volume=89&publication_year=2012&pages=355-368&pmid=22794940&doi=10.1016/j.chemosphere.2012.05.043&)\]
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials
+
+Supplementary Data
+
+[supp\_146\_2\_363\_\_index.html](https://pmc.ncbi.nlm.nih.gov/articles/instance/4607751/bin/supp_146_2_363__index.html) (1.1KB, html)
+
+[supp\_kfv102\_toxsci-15-0010-File010.pdf](https://pmc.ncbi.nlm.nih.gov/articles/instance/4607751/bin/supp_kfv102_toxsci-15-0010-File010.pdf) (256.7KB, pdf)
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.1093/toxsci/kfv102)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (547.4 KB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4607751/pdf/kfv102.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)

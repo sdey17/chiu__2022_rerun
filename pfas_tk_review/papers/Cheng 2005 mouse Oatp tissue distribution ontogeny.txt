@@ -1,0 +1,678 @@
+0090-9556/05/3307-1062–1073$20.00
+DRUG METABOLISM AND DISPOSITION                                                                                                                 Vol. 33, No. 7
+Copyright © 2005 by The American Society for Pharmacology and Experimental Therapeutics                                                          3640/3039511
+DMD 33:1062–1073, 2005                                                                                                                        Printed in U.S.A.
+
+
+ TISSUE DISTRIBUTION AND ONTOGENY OF MOUSE ORGANIC ANION TRANSPORTING
+                           POLYPEPTIDES (OATPS)
+
+                    Xingguo Cheng, Jonathan Maher, Chuan Chen, and Curtis D. Klaassen
+     Department of Pharmacology, Toxicology and Therapeutics, University of Kansas Medical Center, Kansas City, Kansas
+                                                    Received January 7, 2005; accepted April 15, 2005
+
+
+ABSTRACT:
+
+Organic anion-transporting polypeptides (Oatps) are Naⴙ-indepen-                    Oatp1a1 was male-predominant, whereas expression of Oatp1a4
+dent solute carriers for cellular uptake of organic compounds. The                  and 1a6 was female-predominant. In kidney, expression of
+purpose of this study is to determine 1) the constitutive mRNA                      Oatp1a1, 3a1, and 4c1 was higher in males than in females. Hepatic
+expression of the 15 mouse Oatp genes in 12 tissues, 2) whether                     expression of Oatp1a1, 1a4, 1a6, 1b2, and 2b1 gradually increased
+there are gender differences in Oatp expression, and 3) the onto-                   after birth and reached adult levels by 6 weeks of age. Only
+genic expression of Oatps in liver and kidney. The mRNA expres-                     Oatp2a1 was expressed at adult levels at birth. In kidney, expres-
+sion of the 15 mouse Oatps was quantified using the branched                        sion of mouse Oatp1a1, 1a6, and 3a1 was lower at birth than at 6
+DNA technique. Oatp1a1, 1a4, 1b2, and 2b1 are expressed in liver                    weeks of age, whereas expression of mouse Oatp1a4, 2a1, and 2b1
+at relatively high levels, with Oatp1b2 being exclusively expressed                 was similar at birth and at 6 weeks of age. These data on the tissue
+in liver. Oatp1a1, 1a6, 3a1, and 4c1 are highly expressed in kidney.                distribution and ontogenic expression of mouse Oatps will aid in
+Oatp1a4 and 1c1 are highly expressed in brain. Oatp1a5, 6b1, 6c1,                   understanding the pharmacokinetics and toxicokinetics of drugs
+and 6d1 are predominant in testes. Oatp2a1, 4a1, and 5a1 are                        and other chemicals.
+predominantly expressed in placenta. In liver, expression of
+
+
+
+
+   Organic anion-transporting polypeptides (rodents: Oatps; human:                  tubules (Mikkaichi et al., 2004). Recently, rat Oatp6b1 and 6d1, and
+OATPs) mediate sodium-independent transport of various amphi-                       human OATP6A1 were cloned (Suzuki et al., 2003). These three
+pathic organic solutes, such as bile acids, dyes (e.g., sulfobromoph-               transporters are predominantly expressed in testes and transport de-
+thalein), drugs (e.g., rifampicin, digoxin), toxins (e.g., microcystin),            hydroepiandrosterone (DHEA) and DHEA sulfate into testes (Suzuki
+steroid conjugates, eicosanoids, and thyroid hormones into cells.                   et al., 2003).
+Currently, 11 human OATPs, 13 rat Oatps, and 15 mouse Oatps have                       Neonates are more sensitive to the toxicity of some chemicals than
+been identified. Hydropathy analysis predicts that all OATPs/Oatps                  are adults. This is an important factor to consider in drug therapy, and
+contain 12-transmembrane domains. Additionally, all OATPs/Oatps                     in chemical exposure. The increased susceptibility of immature ro-
+contain the consensus sequence D-X-RW-(I,V)-GAWW-X-G-(F,L)-L                        dents to some chemical exposures was first investigated in the late
+at the border of extracellular loop 3 and transmembrane domain 6,                   1950s, and reduced hepatic biotransformation of some chemicals was
+termed the “OATP superfamily signature” (Hagenbuch and Meier,                       shown to be responsible for the increased susceptibility (Jondorf et al.,
+2003).                                                                              1958; Fouts and Adamson, 1959). However, for a number of chem-
+   Only a few of the OATPs/Oatps have been characterized at the                     icals, it has been shown that newborns have a decreased ability to
+functional, structural, and regulatory levels. Rat Oatp1a1, the first               clear chemicals from blood. For example, ouabain is transported into
+cloned member of the OATP/Oatp gene family, is expressed in liver                   hepatocytes by active transport and is excreted into bile largely
+and kidney, with broad substrate specificity (Jacquemin et al., 1994).              without being biotransformed (Eaton and Klaassen, 1978). Newborn
+Rodent Oatp1b2 and human OATP1B1 and 1B3 are selectively ex-                        rodents are more sensitive to cardiac glycoside toxicity because of
+pressed in liver, where they are involved in hepatic uptake of albumin-             their low capacity to remove ouabain from the blood (Klaassen,
+bound compounds (Abe et al., 1999; Konig et al., 2000; Li et al.,                   1972). In addition, Stacey and Klaassen (1979) showed that ouabain
+2002). Oatp1a6, 1c1, and 4a1 are expressed mainly in kidney, brain,                 uptake into hepatocytes in newborns is low and increases with age.
+and placenta, respectively, and their physiological roles remain un-                Liver and kidney are two major detoxication organs that eliminate
+clear. The recently cloned human and rat OATP4C1/Oatp4c1 trans-                     chemicals from the body. Developmental changes of transporters in
+ports digoxin across the basolateral membrane of renal proximal                     both organs can significantly influence the disposition of endo- and
+   This work was supported by National Institutes of Health Grant ES-09649 to
+                                                                                    exogenous compounds.
+C.D.K.                                                                                 Mice are becoming a more commonly used experimental animal
+   Article, publication date, and citation information can be found at              model because of the availability of knockout mice. However, infor-
+http://dmd.aspetjournals.org.                                                       mation on transporter systems, including Oatps, in mice is poorly
+   doi:10.1124/dmd.105.003640.                                                      characterized. Therefore, the purpose of this study is to determine 1)
+
+
+ABBREVIATIONS: Oatp (OATP), organic anion-transporting polypeptide; DHEA, dehydroepiandrosterone; PCN, pregnenalone-16␣-carbonitrile;
+bDNA, branched DNA.
+
+                                                                               1062
+                                           TISSUE DISTRIBUTION AND ONTOGENY OF MOUSE Oatps                                                                  1063
+                                   TABLE 1                                          hybridization steps were carried out per the manufacturer’s protocol, and
+       Nomenclatures and GenBank accession numbers for mouse Oatps                  luminescence was measured with a Quantiplex 320 bDNA luminometer inter-
+                                                                                    faced with Quantiplex data management software (version 5.02), for analysis
+     Current Nomenclature           Slc Nomenclature           Accession No.        of luminescence from 96-well plates. The luminescence for each well is
+          Oatp1a1                     Slc21a1                  AB031813             reported as relative light units per 10 ␮g of total RNA.
+          Oatp1a4                     Slc21a5                  AB031814                Statistics. Differences between genders were determined by Student’s t test.
+          Oatp1a5                     Slc21a7                  NM_130861            Statistical significance was considered at p ⬍ 0.05.
+          Oatp1a6                     Slc21a13                 AF213260
+          Oatp1b2                     Slc21a10                 AB031959
+          Oatp1c1                     Slc21a14                 NM_021471                                               Results
+          Oatp2a1                     Slc21a2                  NM_033314
+          Oatp2b1                     Slc21a9                  BC019209                Tissue Distribution of Mouse Oatps. mRNA expression of 15
+          Oatp3a1                     Slc21a11                 NM_023908            mouse Oatps was quantified in 12 major tissues. Data are shown in
+          Oatp4a1                     Slc21a12                 BC030720
+          Oatp4c1                                              NM_172658            Figs. 1 to 4. Expression of Oatp1a1 mRNA (Fig. 1) was highest in
+          Oatp5a1                     Slc21a15                 XM_129381            liver and kidney of male mice, but its expression in other tissues was
+          Oatp6b1                     Slc21a16                 AK006249             much lower. A gender difference in Oatp1a1 mRNA expression was
+          Oatp6c1                     Slc21a18                 AK016647
+          Oatp6d1                     Slc21a17                 AK014872
+                                                                                    observed in both liver and kidney, with higher levels in males.
+                                                                                    Expression of Oatp1a4 mRNA (Fig. 1) was highest in liver and brain,
+                                                                                    followed by testes and ovaries. A gender difference in Oatp1a4
+the constitutive expression of the 15 mouse Oatp genes by measuring                 expression in liver was observed, with higher levels being expressed
+their mRNA levels in 12 tissues, 2) whether there are gender differ-                in females. Expression of Oatp1a5 mRNA (Fig. 1) was highest in
+ences in mouse Oatp expression, and 3) the ontogeny of mouse Oatps                  testes, moderate in ovary, and low in the other tissues. Oatp1a6
+in mouse liver and kidney.                                                          mRNA (Fig. 1) was almost exclusively expressed in kidney among the
+                                                                                    collected tissues. Oatp1a6 mRNA was expressed much less in liver
+                            Materials and Methods
+                                                                                    than in kidney. However, a gender difference of Oatp1a6 was noted in
+   Tissue Distribution. Eight-week-old adult male and female C57BL/6 mice           liver, with higher levels in females.
+(n ⫽ 10/gender) were purchased from The Jackson Laboratory (Bar Harbor,                Expression of Oatp1b2 mRNA (Fig. 2) was predominant in liver,
+ME) and housed according to the American Animal Association Laboratory              with negligible expression in the other 11 tissues. Oatp1c1 (Fig. 2)
+Animal Care guidelines. Eleven tissues (liver, kidney, lung, stomach, duode-
+                                                                                    was the only Oatp primarily expressed in brain. Oatp2a1, a prosta-
+num, jejunum, ileum, large intestine, brain, testis, and ovary) were collected.
+Placenta was removed from pregnant mice on gestation day 17. The tissues
+                                                                                    glandin transporter, was highest in placenta, moderate in lung and
+were snap-frozen in liquid nitrogen. The intestine was longitudinally dissected,    stomach, and lower in other tissues (Fig. 2). Oatp2b1 (Fig. 2) ap-
+rinsed in saline, and divided into three equal-length sections (referred to as      peared to be ubiquitously expressed, with highest levels in liver and
+duodenum, jejunum, and ileum), before being snap-frozen in liquid nitrogen.         small intestine.
+All tissues were stored at ⫺80°C.                                                      Oatp3a1 (Fig. 3) expression was highest in kidney and lung, with
+   Ontogeny. Mice were bred in the animal facilities at the University of           moderate expression in testes and ovaries. In kidney, Oatp3a1 mRNA
+Kansas Medical Center. Liver and kidney from male and female C57BL/6                was 3.3-fold higher in males than in females, as previously noted
+mice were collected at ⫺2, 0, 5, 10, 15, 22, 30, 35, 40, and 45 days of age (n ⫽    (Melia et al., 1998). Also shown in Fig. 3, mouse Oatp4a1, like rat
+5/gender/age).                                                                      Oatp4a1, was abundantly expressed only in placenta (Leazer and
+   RNA Isolation. Total RNA was isolated using RNAzol Bee reagent (Tel-
+                                                                                    Klaassen, 2003). Oatp4c1 (Fig. 3) was mainly found in lung and
+Test Inc., Friendswood, TX) as per the manufacturer’s protocol. The concen-
+tration of total RNA in each sample was quantified spectrophotometrically at
+                                                                                    kidney. A gender difference in renal expression of Oatp4c1 was
+260 nm. The integrity of each RNA sample was evaluated by formaldehyde-             observed, with higher levels in males than in females. Oatp5a1 (Fig.
+agarose gel electrophoresis before analysis.                                        3) expression was predominant in placenta, with lower levels in testes
+   Branched DNA (bDNA) Signal Amplification Assay. The bDNA tech-                   and lung. Oatp6b1, 6c1, and 6d1 (Fig. 4), three mouse homologs of
+nique is a robust, high-throughput method used for characterizing mRNA              the human gonad-specific transporter, were exclusively expressed in
+expression. The mRNA for Oatp1a1, 1a4, 1a5, 1a6, 1b2, 1c1, 2a1, 2b1, 3a1,           testes.
+4a1, 4c1, 5a1, 6b1, 6c1, and 6d1 was measured using the bDNA assay                     Ontogeny of Oatps in Male and Female Mouse Liver. The
+(QuantiGene bDNA signal amplification kit; Bayer Corp.-Diagnostics Div.             neonatal patterns of Oatp mRNA expression in male and female
+(Tarrytown, NY), with modifications according to the method of Hartley and          mouse liver are shown in Figs. 5 and 6. In adult mice, Oatp1a1
+Klaassen (2000). The gene sequences of mouse Oatps were accessed from
+                                                                                    expression was mainly detected in liver and kidney, with higher levels
+GenBank (Table 1). Multiple oligonucleotide probe sets (containing capture
+extenders, label extenders, and blockers) specific to a single mRNA transcript
+                                                                                    in males than in females. As shown in Fig. 5, there was minimal
+were designed using ProbeDesigner software, version 1.0 (Bayer Corp., Em-           expression of Oatp1a1 in mouse liver before 15 days of age. There-
+eryville, CA). Probe sets for each Oatp are shown in Table 2. Each probe            after, hepatic Oatp1a1 levels reached detectable levels at day 23 and
+developed in ProbeDesigner was submitted to the National Center for Bio-            reached adult levels by 30 days of age. Male-predominant expression
+technology Information (Bethesda, MD) for nucleotide comparison by the              was observed at all ages when Oatp1a1 was detectable (day 23 and
+basic local alignment search tool (BLASTn) to ensure minimal cross-reactivity       thereafter). Figure 5 illustrates that the expression of Oatp1a4 was also
+with other known mouse sequences and expressed sequence tags. Oligonucle-           low at birth but gradually increased to adult levels by approximately
+otides with a high degree of similarity (⬎80%) to other mouse gene transcripts      23 days of age. The levels of Oatp1a4 mRNA in males decreased by
+were eliminated from the design. Probes were designed with a melting tem-           30 days of age, resulting in females expressing more Oatp1a4 than
+perature of approximately 63°C, enabling hybridization conditions to be held
+                                                                                    males. The ontogeny of Oatp1a6 expression is also shown in Fig. 5.
+constant (i.e., 53°C) during each hybridization step, and for each probe set. All
+probes were synthesized (50-nmol synthesis scale) by QIAGEN Operon (Al-
+                                                                                    Expression of Oatp1a6 mRNA was detected in liver of mice of all
+ameda, CA) and were obtained desalted and lyophilized. Total RNA (1 ␮g/␮l)          ages. Between days 5 and 10, there was an increase of Oatp1a6
+was added to each well (10 ␮l/well) of a 96-well plate containing 50 ␮l of          mRNA. Similar to that observed for Oatp1a4, Oatp1a6 decreased in
+capture hybridization buffer and 50 ␮l of diluted probe set. For each gene, total   males between 15 and 45 days of age, resulting in higher Oatp1a6
+RNA was allowed to hybridize to the probe set overnight at 53°C. Subsequent         expression in liver of adult females than that of males.
+1064                                                                 CHENG ET AL.
+
+                                                                         TABLE 2
+              Oligonucleotide probes generated for analysis of mouse Oatp mRNA expression by QuantiGene branched DNA signal amplification assay
+       Name                  Target Region             Function                                               Sequence
+
+   Oatp1a1                    1279–1307                  CE                  agtgatcttaaacttcttcataataaagcTTTTTctcttggaaagaaagt
+                              1308–1331                  CE                  tgctatgtatgcagctttcttgacTTTTTctcttggaaagaaagt
+                              1431–1452                  CE                  ccccatatagagggtgctgaacTTTTTctcttggaaagaaagt
+                              1476–1497                  CE                  ttaagcagctgcaccttgtgttTTTTTctcttggaaagaaagt
+                              1603–1622                  CE                  cccaatgcagctgcaattttTTTTTctcttggaaagaaagt
+                              1623–1646                  CE                  gactgcagatgagtttcctgatgaTTTTTctcttggaaagaaagt
+                              1228–1252                  LE                  ggaggcaagctataaacacctatgaTTTTTaggcataggacccgtgtct
+                              1253–1278                  LE                  cactgattaaatatccaaggcatactTTTTTaggcataggacccgtgtct
+                              1332–1354                  LE                  tattcagataaggacaggccaaaTTTTTaggcataggacccgtgtct
+                              1406–1430                  LE                  tcctttataagaggtggttaatccaTTTTTaggcataggacccgtgtct
+                              1453–1475                  LE                  gcagtcagcaaggacatttttctTTTTTaggcataggacccgtgtct
+                              1498–1517                  LE                  cactggatcccatgtgtccgTTTTTaggcataggacccgtgtct
+                              1518–1537                  LE                  gctaggccattgtccccacaTTTTTaggcataggacccgtgtct
+                              1538–1557                  LE                  cgaggcaggctgacatgtaaTTTTTaggcataggacccgtgtct
+                              1558–1579                  LE                  ccaacagacttctcacagcctgTTTTTaggcataggacccgtgtct
+                              1647–1667                  LE                  gcctttcttacacagccccagTTTTTaggcataggacccgtgtct
+                              1668–1689                  LE                  gcagcttgttgtcacactcaggTTTTTaggcataggacccgtgtct
+                              1355–1383                  BL                  tcaacaaatagttacagagaaaaataaaa
+                              1384–1405                  BL                  gcaactgggaaattatcacagg
+                              1580–1602                  BL                  gaaacaccatgttggttccagtt
+   Oatp1a4                      526–545                  CE                  gcctgtgcagttttgttccgTTTTTctcttggaaagaaagt
+                                591–616                  CE                  gaggaaatgaggtatcgatattaagaTTTTTctcttggaaagaaagt
+                                715–735                  CE                  cactctgttgggtcttgcgttTTTTTctcttggaaagaaagt
+                                452–474                  LE                  ttgataagcccaactacagacgtTTTTTaggcataggacccgtgtct
+                                546–570                  LE                  gcacatcctacaccaatcatgatagTTTTTaggcataggacccgtgtct
+                                667–690                  LE                  tccgtacacacaaagctatttgagTTTTTaggcataggacccgtgtct
+                                793–812                  LE                  tgggagtttcacccattccaTTTTTaggcataggacccgtgtct
+                                833–858                  LE                  tcagattttgcaaaatcttctatgtaTTTTTaggcataggacccgtgtct
+                                886–907                  LE                  gccaatggtcattcctgtttctTTTTTaggcataggacccgtgtct
+                                859–885                  BL                  aaaatcccaatatataaaggagagttt
+                                475–497                  BL                  gatttcctatctcaaagctccca
+                                498–525                  BL                  aagtaactcacgaatataatcaacagaa
+                                571–590                  BL                  aacaccccaggcccataact
+                                617–640                  BL                  tgtttcatattcatatctgcccat
+                                641–666                  BL                  gacaagttgcttgtaggtaaaattgt
+                                691–714                  BL                  ggctttaaggtctgtgttctgttt
+                                736–762                  BL                  cacattaatgatttcatttctttcaca
+                                763–792                  BL                  cgtataatgtttcctaccagtacatatatc
+                                813–832                  BL                  ggaaatacccaagggcatga
+   Oatp1a5                       95–118                  CE                  aatccttttctctgtttctcccatTTTTTctcttggaaagaaagt
+                                119–137                  CE                  atctgaccccatgggttgcTTTTTctcttggaaagaaagt
+                                188–213                  CE                  atataaattcctgagagtgatttggaTTTTTctcttggaaagaaagt
+                                214–239                  CE                  tctctatttgtgtaagcatggaattcTTTTTctcttggaaagaaagt
+                                412–430                  CE                  tcggcccatgaggaaatgaTTTTTctcttggaaagaaagt
+                                506–526                  CE                  ttgcgttggctttaaggtctgTTTTTctcttggaaagaaagt
+                                 41–69                   LE                  gactattctttaaacagtcttaccactgaTTTTTaggcataggacccgtgtct
+                                 70–94                   LE                  gttgttcttctgattgtctccaaatTTTTTaggcataggacccgtgtct
+                                164–187                  LE                  tacatatgcacatgttaatgccaaTTTTTaggcataggacccgtgtct
+                                263–286                  LE                  gctcccattgataagtccaactatTTTTTaggcataggacccgtgtct
+                                338–362                  LE                  caatcatgataggtctgtgcaatttTTTTTaggcataggacccgtgtct
+                                363–385                  LE                  gcccataatcacacatccaatacTTTTTaggcataggacccgtgtct
+                                527–548                  LE                  ctttcacacactctgcagggtcTTTTTaggcataggacccgtgtct
+                                549–576                  LE                  acatatatccacattaatgatttcatttTTTTTaggcataggacccgtgtct
+                                577–600                  LE                  ccacgtatgatgtttcctaccagtTTTTTaggcataggacccgtgtct
+                                601–622                  LE                  catgatgggagtttcaccaattTTTTTaggcataggacccgtgtct
+                                138–163                  BL                  cagaaacatcttgatcttagaaaagc
+                                240–262                  BL                  agatgtggggatatcgaattgtc
+                                287–310                  BL                  caacaaaagatttccaatctcaaa
+                                311–337                  BL                  tgttccaaagtaactcacgagtataat
+                                386–411                  BL                  ggtaaggacattaagaaacaccctag
+                                431–456                  BL                  ggtgaaatcgttgtttcatattcata
+                                457–480                  BL                  ctgtttgaggacaagttgcttgta
+                                481–505                  BL                  tgttctgttttccatacacaagaag
+   Oatp1a6                      471–497                  CE                  gaggtagtgatattatgaaacaccctaTTTTTctcttggaaagaaagt
+                                498–518                  CE                  cgtatctgcccatgaggaaatTTTTTctcttggaaagaaagt
+                                742–768                  CE                  ccaatgtataaaggagaattttctgatTTTTTctcttggaaagaaagt
+                                973–994                  CE                  ctttgggagtgtttttggaaagTTTTTctcttggaaagaaagt
+                               995–1017                  CE                  tccccattatcctgtaatccttcTTTTTctcttggaaagaaagt
+                                425–449                  LE                  caccaatcatgataggtctatgcagTTTTTaggcataggacccgtgtct
+                                450–470                  LE                  ggcccataactgcacaaccaaTTTTTaggcataggacccgtgtct
+                                546–567                  LE                  aagctgtttgaggacaagttgcTTTTTaggcataggacccgtgtct
+                                568–590                  LE                  gggatctgttttccacacacaaaTTTTTaggcataggacccgtgtct
+                                640–668                  LE                  ctaccagtacatatatccacattaatgatTTTTTaggcataggacccgtgtct
+                                669–692                  LE                  caccaattccacgtataatgtttcTTTTTaggcataggacccgtgtct
+                                693–714                  LE                  cctaaaggcatgatgggagtttTTTTTaggcataggacccgtgtct
+                      TISSUE DISTRIBUTION AND ONTOGENY OF MOUSE Oatps                            1065
+                                          TABLE 2
+                                          Continued
+ Name     Target Region        Function                             Sequence
+
+           769–794               LE          caatcatcttcccaacttctaaaattTTTTTaggcataggacccgtgtct
+           841–865               LE          tgtattcacagaccctgtgtctacaTTTTTaggcataggacccgtgtct
+           866–888               LE          gtgggagttatggtcaggtcatcTTTTTaggcataggacccgtgtct
+           889–908               LE          caccgacccagcgtgtatcaTTTTTaggcataggacccgtgtct
+           930–951               LE          aggacattcactcctgcacagaTTTTTaggcataggacccgtgtct
+           519–545               BL          ttgtaggtgaaattgttgtttcatatt
+           591–614               BL          ggtcttgtgttggctttaaggtct
+           615–639               BL          ttaatttctttcacacactctgctg
+           715–741               BL          ttggcaaagtcttctatataggaaata
+           795–817               BL          catcaaatatccaagtattgggc
+           818–840               BL          taaatgtttgcacagaaaggtcc
+           909–929               BL          ccaaaaagccaatccaccaag
+           952–972               BL          aagaaaaaggggatgctggtc
+Oatp1b2    497–517               CE          atactcccaatgcccatgatgTTTTTctcttggaaagaaagt
+           538–562               CE          gcatacctgtaatatcccatgaagaTTTTTctcttggaaagaaagt
+           615–640               CE          gttccagtgagtgatgtagtttgattTTTTTctcttggaaagaaagt
+           476–496               LE          aagcaaccagttccaatcagcTTTTTaggcataggacccgtgtct
+           518–537               LE          aatgtggcaacgcagtcagaTTTTTaggcataggacccgtgtct
+           563–589               LE          tgtagagaactgatgtcattttctgttTTTTTaggcataggacccgtgtct
+           590–614               LE          gactaaacaggtcaacgtggagttaTTTTTaggcataggacccgtgtct
+           641–664               LE          cctttctccattatctcaggtgagTTTTTaggcataggacccgtgtct
+           686–711               LE          ccatcaagacataaatccaggtgtatTTTTTaggcataggacccgtgtct
+           712–732               LE          ctatcccacgaagcatgttccTTTTTaggcataggacccgtgtct
+           665–685               BL          gagttggaccccttttcacaa
+           707–725               LE          gcgaggagtcctttctccgTTTTTaggcataggacccgtgtct
+           751–771               LE          caggctggtccaaataccaacTTTTTaggcataggacccgtgtct
+           633–650               BL          ccaggagcacctgagccc
+           651–668               BL          cgggggtagcaccgatgc
+           669–683               BL          cccccaggggctgca
+           795–817               BL          cgcatccacatagatcttggtac
+Oatp1c1   1989–2013              CE          actgctaaggtgtagatacccagagTTTTTctcttggaaagaaagt
+          2103–2120              CE          gcctgcaggagcctctgcTTTTTctcttggaaagaaagt
+          2371–2395              CE          cccatatttgtttgtttccatgattTTTTTctcttggaaagaaagt
+          2424–2447              CE          gaagcccttttgattatgcttttaTTTTTctcttggaaagaaagt
+          1907–1933              LE          gccacctagagataatgtatatgatgtTTTTTaggcataggacccgtgtct
+          1934–1962              LE          cacctcaagagtaatatatatccaggtatTTTTTaggcataggacccgtgtct
+          2080–2102              LE          ttccacatttcttaaatccccatTTTTTaggcataggacccgtgtct
+          2143–2167              LE          cgtggttaatcccaggtatatgtgtTTTTTaggcataggacccgtgtct
+          2168–2186              LE          cagacaccgtgcccaggagTTTTTaggcataggacccgtgtct
+          2211–2237              LE          tcgagacatattttttctttaaaacaaTTTTTaggcataggacccgtgtct
+          2238–2261              LE          ttgtggttattaagctgctgtgttTTTTTaggcataggacccgtgtct
+          2287–2307              LE          gcgcatgtctcctttttgatgTTTTTaggcataggacccgtgtct
+          2308–2326              LE          caatccacgatcccttgcaTTTTTaggcataggacccgtgtct
+          1963–1988              BL          caaaagacttaagttgtggttgaatg
+          2014–2035              BL          tgggattcctgcaagaactctt
+          2036–2056              BL          aacaccaaagtacacaggggc
+          2057–2079              BL          ttgaggcatgaagtgtcaatcaa
+          2121–2142              BL          ctgaaagcgtgggagtcataca
+          2187–2210              BL          aaagtacagccatgcttaggaaga
+          2262–2286              BL          cttgaagacatccctattttttctc
+          2327–2346              BL          cctggccagtacttgggctg
+          2347–2370              BL          tttttttaaagtcgtgtctccttg
+          2396–2423              BL          ttcatttacatgtattggataaaatgac
+          2448–2469              BL          aagcagaaaggaattgcacatt
+           665–685               BL          gagttggaccccttttcacaa
+          2121–2144              LE          ttctctggtcctgatgcttatagcTTTTTaggcataggacccgtgtct
+          2184–2202              LE          tgccactcctggtcagggtTTTTTaggcataggacccgtgtct
+          2203–2221              LE          ttggcaaacgctcagaggaTTTTTaggcataggacccgtgtct
+          2242–2261              LE          ggtggtgcttccgataccgtTTTTTaggcataggacccgtgtct
+          2262–2281              LE          aggaccctcaggcactggacTTTTTaggcataggacccgtgtct
+          2057–2078              BL          tctctgctctgttgcctcaaga
+          2167–2183              BL          ggggctgggaccgtcaa
+Oatp2a1    481–502               CE          tgctggtctccttctgggtatcTTTTTctcttggaaagaaagt
+           557–576               CE          gatcccaaatggctgaatggTTTTTctcttggaaagaaagt
+           679–700               CE          cgaagatcctcagcatgactgaTTTTTctcttggaaagaaagt
+           779–798               CE          gcctgaggagatgagcaggcTTTTTctcttggaaagaaagt
+           464–480               LE          gggcacggtgctgtggcTTTTTaggcataggacccgtgtct
+           503–522               LE          caccatcaggctccacatgcTTTTTaggcataggacccgtgtct
+           523–540               LE          ggccagcagctgagcgacTTTTTaggcataggacccgtgtct
+           541–556               LE          gcaccgtcccaacgccTTTTTaggcataggacccgtgtct
+           599–618               LE          cagaggcgagttggtaggctTTTTTaggcataggacccgtgtct
+           661–678               LE          gcccagcaggtacccgaaTTTTTaggcataggacccgtgtct
+           701–721               LE          tgtccactctgccgtagtccaTTTTTaggcataggacccgtgtct
+           722–742               LE          ggctcaggttcactgtagccgTTTTTaggcataggacccgtgtct
+           743–761               LE          atccaccgagggtcacctgTTTTTaggcataggacccgtgtct
+1066                                        CHENG ET AL.
+
+                                               TABLE 2
+                                              Continued
+        Name     Target Region   Function                                  Sequence
+
+                  762–778          LE                ccagccaccaggctccgTTTTTaggcataggacccgtgtct
+                  577–598          BL                ctgcaaagtcgtccacatagga
+                  619–644          BL                gcgatagcaaataagatggagatata
+                  645–660          BL                agccggcccaaacacg
+       Oatp2b1   1991–2013         CE                gaagaactggaggcctatgaatcTTTTTctcttggaaagaaagt
+                 2097–2120         CE                tgttgtagttccgagctctttacaTTTTTctcttggaaagaaagt
+                 2145–2166         CE                cctcctggaatccttaggcttcTTTTTctcttggaaagaaagt
+                 2222–2241         CE                gggtgctgatttgcccattgTTTTTctcttggaaagaaagt
+                 1932–1949         LE                ctccgcccacaggtcaggTTTTTaggcataggacccgtgtct
+                 1950–1970         LE                tcgtagtagcggcagacagctTTTTTaggcataggacccgtgtct
+                 1971–1990         LE                ggtttcggagcaggtcatggTTTTTaggcataggacccgtgtct
+                 2014–2034         LE                caccagggatccacttttgaaTTTTTaggcataggacccgtgtct
+                 2035–2056         LE                tggccaaaactaaggtaaagcaTTTTTaggcataggacccgtgtct
+                 2079–2096         LE                gtggtcctggtgctggccTTTTTaggcataggacccgtgtct
+                 2121–2144         LE                ttctctggtcctgatgcttatagcTTTTTaggcataggacccgtgtct
+                 2184–2202         LE                tgccactcctggtcagggtTTTTTaggcataggacccgtgtct
+                 2203–2221         LE                ttggcaaacgctcagaggaTTTTTaggcataggacccgtgtct
+                 2242–2261         LE                ggtggtgcttccgataccgtTTTTTaggcataggacccgtgtct
+                 2262–2281         LE                aggaccctcaggcactggacTTTTTaggcataggacccgtgtct
+                 2057–2078         BL                tctctgctctgttgcctcaaga
+                 2167–2183         BL                ggggctgggaccgtcaa
+       Oatp3a1    511–529          CE                ggtgccttctgcctcccatTTTTTctcttggaaagaaagt
+                  571–589          CE                gcagattaggtccgggtcgTTTTTctcttggaaagaaagt
+                  726–750          CE                atcgtgaacaggattcctatgtagaTTTTTctcttggaaagaaagt
+                  772–794          CE                agaaagagcccagaataaatccaTTTTTctcttggaaagaaagt
+                  491–510          LE                cggatctcgacagcctcgtaTTTTTaggcataggacccgtgtct
+                  530–550          LE                cccattggtggcacagacatcTTTTTaggcataggacccgtgtct
+                  551–570          LE                ggcctgtcatcactgctggaTTTTTaggcataggacccgtgtct
+                  590–607          LE                cgtggctgtccggttacgTTTTTaggcataggacccgtgtct
+                  608–632          LE                caataagcagcatgtacatcatgttTTTTTaggcataggacccgtgtct
+                  684–706          LE                cacgtggtcgtcaatataggagaTTTTTaggcataggacccgtgtct
+                  707–725          LE                gcgaggagtcctttctccgTTTTTaggcataggacccgtgtct
+                  751–771          LE                caggctggtccaaataccaacTTTTTaggcataggacccgtgtct
+                  633–650          BL                ccaggagcacctgagccc
+                  651–668          BL                cgggggtagcaccgatgc
+                  669–683          BL                cccccaggggctgca
+                  795–817          BL                cgcatccacatagatcttggtac
+       Oatp4a1   1750–1770         CE                gctgcctttaggtccagctgtTTTTTctcttggaaagaaagt
+                 1792–1811         CE                ggctgtagtgcttcggctggTTTTTctcttggaaagaaagt
+                 1894–1914         CE                cagcctcggtataccttctggTTTTTctcttggaaagaaagt
+                 1939–1956         CE                gcattgccccagccagagTTTTTctcttggaaagaaagt
+                 1691–1709         LE                ctgccatgtgcacattgggTTTTTaggcataggacccgtgtct
+                 1710–1729         LE                aacgtagccggtggtcacacTTTTTaggcataggacccgtgtct
+                 1730–1749         LE                cctttaggcaggaggctcccTTTTTaggcataggacccgtgtct
+                 1771–1791         LE                caacagtagatggcgttgcaaTTTTTaggcataggacccgtgtct
+                 1812–1831         LE                gccatctgagccacacagggTTTTTaggcataggacccgtgtct
+                 1832–1856         LE                cgtagcagggagagtagtacatggtTTTTTaggcataggacccgtgtct
+                 1857–1874         LE                catcagcagggcagcctgTTTTTaggcataggacccgtgtct
+                 1875–1893         LE                ccacccaggtctgtctcggTTTTTaggcataggacccgtgtct
+                 1915–1938         LE                gaagccttctcaaggatacagctaTTTTTaggcataggacccgtgtct
+                 1957–1974         LE                gcgcacttccctgcggtaTTTTTaggcataggacccgtgtct
+       Oatp4c1   2110–2135         CE                ttctgactttgaaatgatacctctgtTTTTTctcttggaaagaaagt
+                 2162–2186         CE                ttttctgctttgtctagatcctcttTTTTTctcttggaaagaaagt
+                 2292–2310         CE                tccgttctggagcatgggtTTTTTctcttggaaagaaagt
+                 2412–2434         CE                gcttttggtgaactttagaggcaTTTTTctcttggaaagaaagt
+                 2136–2161         LE                cgaccgaaatagtagacacaatgacaTTTTTaggcataggacccgtgtct
+                 2187–2207         LE                cctcctccttttcacccttcaTTTTTaggcataggacccgtgtct
+                 2208–2227         LE                gccagttcccaaagcaatctTTTTTaggcataggacccgtgtct
+                 2228–2248         LE                aggatgttctcacaggcaggaTTTTTaggcataggacccgtgtct
+                 2269–2291         LE                ttcacaccgtggtctacacaactTTTTTaggcataggacccgtgtct
+                 2311–2334         LE                atctgtacctaggcaatgatcaccTTTTTaggcataggacccgtgtct
+                 2361–2386         LE                gggttttttgtttttgtttattttgtTTTTTaggcataggacccgtgtct
+                 2387–2411         LE                tgaacctttatgttttgagtttgtgTTTTTaggcataggacccgtgtct
+                 2462–2484         LE                gtgttttcataggttgacaacggTTTTTaggcataggacccgtgtct
+                 2094–2109         BL                tcctgggggcggtggt
+                 2249–2268         BL                agacaatggtgccttggcac
+                 2335–2360         BL                tgttgtttgttttaagaaaatgagga
+                 2435–2461         BL                aaataaataaaatgtgagtggtttgag
+       Oatp5a1    329–349          CE                agtgctcagtgggaattccctTTTTTctcttggaaagaaagt
+                  370–389          CE                acttctcagctttgctgggcTTTTTctcttggaaagaaagt
+                  453–472          CE                gcatgggaatcccttttgcaTTTTTctcttggaaagaaagt
+                  494–517          CE                ggaacttactgcttctgagaaaggTTTTTctcttggaaagaaagt
+                  310–328          LE                gcacctccgcctctgcaatTTTTTaggcataggacccgtgtct
+                  350–369          LE                tggcccacttgctcactcacTTTTTaggcataggacccgtgtct
+                  390–410          LE                ggcatgatgtagtccgggagtTTTTTaggcataggacccgtgtct
+                                                 TISSUE DISTRIBUTION AND ONTOGENY OF MOUSE Oatps                                             1067
+                                                                         TABLE 2
+                                                                         Continued
+        Name                     Target Region                Function                                   Sequence
+
+                                   473–493                      LE         tcccggatatgtctgtgtggtTTTTTaggcataggacccgtgtct
+                                   518–536                      LE         cctgcccagggtctgcagaTTTTTaggcataggacccgtgtct
+                                   555–577                      LE         gcttcagcagggatgttacaaagTTTTTaggcataggacccgtgtct
+                                   598–622                      LE         cgtattcaactcaaccaacaaaatcTTTTTaggcataggacccgtgtct
+                                   578–597                      BL         catctgtctgccttctccgg
+                                   411–429                      BL         ccctgggtgctgaaggctg
+                                   430–452                      BL         gagcagtttcttcatggacttcc
+                                   537–554                      BL         cagcatcggggctctcgt
+      Oatp6b1                     1004–1023                     CE         tctgcatttgccaatccatgTTTTTctcttggaaagaaagt
+                                  1171–1195                     CE         gcccagtgaatgtaaattatgaggtTTTTTctcttggaaagaaagt
+                                  1223–1243                     CE         cccagggatggatccaaataaTTTTTctcttggaaagaaagt
+                                  1444–1466                     CE         tgcttcttttctttgcattcttgTTTTTctcttggaaagaaagt
+                                  1024–1046                     LE         catcaatgggatcagcttcagaaTTTTTaggcataggacccgtgtct
+                                  1071–1093                     LE         aaacaaaggcaatgcataacactTTTTTaggcataggacccgtgtct
+                                  1148–1170                     LE         acagttcggaggataatcaaggtTTTTTaggcataggacccgtgtct
+                                  1267–1291                     LE         gtcccagtaaatacaagaacgacttTTTTTaggcataggacccgtgtct
+                                  1292–1317                     LE         cgtcctttgtctccacatttatttatTTTTTaggcataggacccgtgtct
+                                  1318–1346                     LE         tcatttttaacttattatagatccaacaaTTTTTaggcataggacccgtgtct
+                                  1347–1372                     LE         aatacagaatcccatcagtatgaacaTTTTTaggcataggacccgtgtct
+                                  1373–1392                     LE         gttgtggccaatttgcaaaaTTTTTaggcataggacccgtgtct
+                                   977–1003                     BL         tttaatgcaagaacaattgtagaatgt
+                                  1047–1070                     BL         tggtgttacattttccagaagtgg
+                                  1094–1118                     BL         caattgaagaaaagaaaaaagcaaa
+                                  1119–1147                     BL         gattggtatactagctgaactagaaaaag
+                                  1196–1222                     BL         tctcaaagttgtataggtcacagctat
+                                  1244–1266                     BL         gctgttaattgaaaaagcagtgg
+                                  1393–1417                     BL         aaaaaatgccaagagagtaaagaag
+                                  1418–1443                     BL         cttccaactctggaaacattatattt
+                                  1467–1492                     BL         ttttgcctcttttattttttattttt
+      Oatp6c1                      757–777                      CE         tccctgctatgccatggatacTTTTTctcttggaaagaaagt
+                                   846–871                      CE         agatatgcagaatgtccaatagctaaTTTTTctcttggaaagaaagt
+                                   919–941                      CE         gactgttttttctttgggtggagTTTTTctcttggaaagaaagt
+                                  1086–1106                     CE         gggaggttcctttcttttcgcTTTTTctcttggaaagaaagt
+                                   690–712                      LE         actatgctttgtcttcccggtatTTTTTaggcataggacccgtgtct
+                                   713–738                      LE         aatagatacattttgatctgttcggaTTTTTaggcataggacccgtgtct
+                                   739–756                      LE         actgcccagcgatgtggaTTTTTaggcataggacccgtgtct
+                                   778–799                      LE         atgccaaggatataaattggcaTTTTTaggcataggacccgtgtct
+                                   942–962                      LE         caccttcgctggttcaatttcTTTTTaggcataggacccgtgtct
+                                  1134–1156                     LE         cccttcaaatgaggttgaattttTTTTTaggcataggacccgtgtct
+                                   800–823                      BL         ggaatgtggtcaaaaatgaaggtt
+                                   824–845                      BL         atagaagccgcatgaacttgtg
+                                   872–896                      BL         taccatacccagaaggtatcctatc
+                                   897–918                      BL         gctgaaaattctgcagtcctcc
+                                   963–984                      BL         acccactctgcaacagttggta
+                                   985–1009                     BL         gcaataatcaaaaaagttttccacc
+                                  1010–1034                     BL         gaaagatacacaaaatgagattgca
+                                  1035–1060                     BL         aaactagttggaaaacataccatcat
+                                  1061–1085                     BL         aagtcttaacttatgtgcaccaggt
+                                  1107–1133                     BL         catatctttaagtctcctgtcaatggt
+      Oatp6d1                      154–176                      CE         tttcctgggttccttagttttctTTTTTctcttggaaagaaagt
+                                   226–253                      CE         cgatctgactttttcatatctggtgtatTTTTTctcttggaaagaaagt
+                                   545–565                      CE         cctgttagaaagcagccagctTTTTTctcttggaaagaaagt
+                                   130–153                      LE         ggtgttcatccatgtctaccacctTTTTTaggcataggacccgtgtct
+                                   203–225                      LE         ctgcaaacttcttcactgcagttTTTTTaggcataggacccgtgtct
+                                   254–276                      LE         cctccgagggatctttgtattttTTTTTaggcataggacccgtgtct
+                                   277–297                      LE         gagagcccaaaccatatggctTTTTTaggcataggacccgtgtct
+                                   345–366                      LE         cgaccgctaaaaacgacagagtTTTTTaggcataggacccgtgtct
+                                   367–392                      LE         aagagcaaatatcatactatgagccaTTTTTaggcataggacccgtgtct
+                                   446–475                      LE         aaattatcactagtatccattaagtattccTTTTTaggcataggacccgtgtct
+                                   524–544                      LE         gccacccaatttgctctatttTTTTTaggcataggacccgtgtct
+                                   566–587                      LE         agcaaaaacaattgcagcaattTTTTTaggcataggacccgtgtct
+                                   177–202                      BL         ggaagtgttaccaggaacatttctaa
+                                   298–319                      BL         cgctgtaaacaagggaaaacga
+                                   320–344                      BL         caggaaggacttaacattgttgaaa
+                                   393–420                      BL         ccacgtaaagttttatagactgatcaac
+                                   421–445                      BL         tctatccgtgatggagatagttgag
+                                   476–499                      BL         aacattgagaacagaaaagcaaca
+                                   500–523                      BL         cctctacctccaaagtgtgctaca
+  CE, capture extenders; LE, label extenders; BL, blockers.
+
+
+
+  Oatp1b2 is a relatively liver-specific transporter, as indicated in          seen in adult mice (Fig. 6). Adult levels of Oatp1b2 were attained by
+Fig. 2. The expression of Oatp1b2 was minimal 2 days before birth,             23 days of age. No gender difference in expression of Oatp1b2 was
+but its expression between birth and 10 days of age was about half that        observed at any age. Oatp2a1 (prostaglandin transporter) expression
+1068                                                                     CHENG ET AL.
+
+
+
+
+FIG. 1. Tissue distribution of Oatp1a1, 1a4, 1a5, and 1a6 mRNA. Total RNA from both male and female C57BL/6 mouse tissues (n ⫽ 10/gender) was analyzed by the
+bDNA assay for expression of each Oatp mRNA. Data are presented as mean ⫾ S.E.M. Asterisks indicate statistically significant differences between male and female mice
+(p ⬍ 0.05).
+
+
+
+
+FIG. 2. Tissue distribution of Oatp1b2, 1c1, 2a1, and 2b1 mRNA. Total RNA from both male and female C57BL/6 mouse tissues (n ⫽ 10/gender) was analyzed by the
+bDNA assay for expression of each Oatp mRNA. Data are presented as mean ⫾ S.E.M. Asterisks indicate statistically significant differences between male and female mice
+(p ⬍ 0.05).
+                                           TISSUE DISTRIBUTION AND ONTOGENY OF MOUSE Oatps                                                                    1069
+
+
+
+
+FIG. 3. Tissue distribution of Oatp3a1, 4a1, 4c1, and 5a1 mRNA. Total RNA from both male and female C57BL/6 mouse tissues (n ⫽ 10/gender) was analyzed by the
+bDNA assay for expression of each Oatp mRNA. Data are presented as mean ⫾ S.E.M. Asterisks indicate statistically significant differences between male and female mice
+(p ⬍ 0.05).
+
+
+
+
+FIG. 4. Tissue distribution of Oatp6b1, 6c1, and 6d1 mRNA. Total RNA from both male and female C57BL/6 mouse tissues (n ⫽ 10/gender) was analyzed by the bDNA
+assay for expression of each Oatp mRNA. Data are presented as mean ⫾ S.E.M. Asterisks indicate statistically significant differences between male and female mice (p ⬍
+0.05).
+
+
+in liver was similar at all ages. Oatp2b1 expression at different ages              and female mouse kidney are shown in Figs. 7 and 8. As shown in Fig.
+is also shown in Fig. 6. Before 15 days of age, Oatp2b1 expression                  7, there was minimal expression of Oatp1a1 in mouse kidney at 22
+was minimal, increased moderately at day 15, and reached adult levels               days of age, followed by detectable levels at day 30, and reaching
+by 23 days of age.                                                                  adult levels by 45 days of age. The male-predominant expression was
+   Ontogeny of Oatps in Male and Female Mouse Kidney. The                           observed at day 30 and 45. Figure 7 illustrates that the expression of
+postnatal developmental patterns of Oatp mRNA expression in male                    Oatp1a4 was similar at all ages. In contrast to Oatp1a4 expression in
+1070                                                                CHENG ET AL.
+
+
+
+
+FIG. 5. Ontogenic expression of mouse Oatp1a1, 1a4, and 1a6 mRNA in mouse liver. Total RNA from C57BL/6 mice at each age (n ⫽ 5/gender) was analyzed by the
+bDNA assay. Data are presented as mean ⫾ S.E.M. Asterisks indicate statistically significant differences between male and female mice (p ⬍ 0.05).
+
+
+
+
+FIG. 6. Ontogenic expression of mouse Oatp1b2, 2a1, and 2b1 mRNA in mouse liver. Total RNA from C57BL/6 mice at each age (n ⫽ 5/gender) was analyzed by the
+bDNA assay. Data are presented as mean ⫾ S.E.M. Asterisks indicate statistically significant differences between male and female mice (p ⬍ 0.05).
+
+liver, Oatp1a4 shows no gender difference in kidney. The expression            was similar at all ages after birth, but was lower before birth (Fig. 8).
+of Oatp1a6 was low at birth (Fig. 7) and gradually increased until 15          Ontogenic expression of Oatp2b1 in kidney was similar to that of
+days of age, when Oatp1a6 reached adult levels.                                Oatp2a1 expression, being expressed at a low level 2 days before
+   Oatp2a1 mRNA expression in both male and female mouse kidney                birth, but increasing to adult levels at birth. Oatp3a1 expression in
+                                        TISSUE DISTRIBUTION AND ONTOGENY OF MOUSE Oatps                                                              1071
+
+
+
+
+FIG. 7. Ontogenic expression of mouse Oatp1a1, 1a4, and 1a6 mRNA in mouse kidney. Total RNA from C57BL/6 mice at each age (n ⫽ 5/gender) was analyzed by the
+bDNA assay. Data are presented as mean ⫾ S.E.M. Asterisks indicate statistically significant differences between male and female mice (p ⬍ 0.05).
+
+
+
+
+FIG. 8. Ontogenic expression of mouse Oatp2a1, 2b1, and 3a1 mRNA in mouse kidney. Total RNA from C57BL/6 mice at each age (n ⫽ 5/gender) was analyzed by the
+bDNA assay. Data are presented as mean ⫾ S.E.M. Asterisks indicate statistically significant differences between male and female mice (p ⬍ 0.05).
+
+
+mouse kidney was low before 30 days of age, but at 30 days of age,             brain. Oatp1a5, 6b1, 6c1, and 6d1 are predominantly expressed in testes,
+the expression of Oatp3a1 in males increased, whereas it remained              and Oatp2a1, 4a1, and 5a1 are predominantly expressed in placenta.
+low in the females.                                                               The tissue distribution of Oatp homologs in rats and mice is similar,
+                                                                               but not identical. In both rats and mice, Oatp1a1 is highly expressed
+                               Discussion                                      in liver and kidney (Li et al., 2002), Oatp1a4 in liver and brain (Noé
+  The expression of mouse Oatps varies among tissues. The Oatps that           et al., 1997; Guo et al., 2002a), Oatp1a6 in kidney (Ogura et al., 2000;
+have relatively high expression in liver are Oatp1a1, 1a4, 1b2, and 2b1,       Choudhuri et al., 2001), Oatp1b2 in liver (Li et al., 2002), Oatp1c1 in
+among which Oatp1b2 is almost exclusively expressed in liver. The              brain (Sugiyama et al., 2003), Oatp4a1 in placenta (Leazer and Klaas-
+Oatps that have relatively high mRNA expression in kidney are Oatp1a1,         sen, 2003), and Oatp6b1 and 6c1 in testes (Suzuki et al., 2003). The
+1a6, 3a1, and 4c1. Furthermore, Oatp1a4 and 1c1 are highly expressed in        high expression of Oatp1a5 in mouse testes has not been reported
+1072                                                              CHENG ET AL.
+
+previously, whereas in rats, it has been shown that Oatp1a5 is highly        of urinary excretion of exogenously administered radioactive estradi-
+expressed in choroid plexus (Choudhuri et al., 2003), moderate in the        ol-17␤-D-glucuronide in females as compared with male rats (Gotoh
+retina (Abe et al., 1998), and slight in liver, kidney, ileum, and testes    et al., 2002).
+(Choudhuri et al., 2003; Augustine et al., 2005). Also, there is no             In contrast to the lack of gender differences in the expression of
+mouse or human homolog of rat Oatp1a3 (Oat-K1), which is highly              Oatp1a4 and 1a6 in rats, gender differences in the expression of these
+expressed in rat kidney (Saito et al., 1996). It should also be noted that   two transporters were observed in mouse liver, with higher expression
+humans have only one OATP1A subfamily member (OATP1A2),                      in females than in males, the opposite of Oatp1a1 (Li et al., 2002).
+whereas rodents have five members (Oatplal, 1a3, 1a4, 1a5, and 1a6).         Oatp3a1 and 4c1 were expressed at higher levels in female kidney
+Also, other Oatp subfamily members have comparable tissue distri-            than in males. These gender differences might be due to sex hormones
+bution in humans and mice. For example, OATP1B/Oatp1b members                or due to gender-related secretion patterns of growth hormone
+(mouse Oatp1b2, human OATP1B1 and 1B3) are predominantly                     (Noshiro and Negishi, 1986; Waxman et al., 1991; Aida and Negishi,
+expressed in liver of both humans and mice (Abe et al., 1999; Li et al.,     1993; Buist et al., 2003). Furthermore, investigation is needed to
+2002). OATP1C1/Oatp1c1 is detected in brain (Sugiyama et al.,                elucidate the regulatory mechanisms of these gender-related differ-
+2003). OATP2A1/Oatp2a1 and 2B1/2b1 are expressed ubiquitously                ences in Oatp expression.
+(Lu et al., 1996a; Nishio et al., 2000). OATP6/Oatp6 subfamily                  The ontogenic expression of the various Oatps in mouse liver
+members (mouse 6b1, 6c1, and 6d1, human OATP6A1) are exclu-                  exhibited different developmental patterns of expression. The low
+sively expressed in testes of humans and mice (Suzuki et al., 2003).         expression of Oatp1a4 in development may result in a higher toxicity
+   Organ-specific expression of Oatps contributes to tissue-specific         of ouabain in newborn mice. In newborn rats, low expression of
+distribution of drugs and to tissue-specific toxicity. For example,          Oatp1a4 results in less uptake of ouabain into liver, and thus, high
+pravastatin must enter the liver to exert its antilipidemic effect. Hu-      amounts of ouabain remain in blood and other tissues, causing toxicity
+man OATP1B1 has been shown to transport pravastatin with high                (Klaassen, 1972; Guo et al., 2002a). The importance of Oatp1a4 has
+affinity (Hsiang et al., 1999). Phalloidin and microcystin both selec-       been further illustrated by the finding that pregnenalone-16␣-carbo-
+tively accumulate in liver, leading to hepatotoxicity. Rat Oatp1b2,          nitrile (PCN), a prototypical rodent pregnane X receptor ligand,
+human OATP1B1, and OATP1B3 are known to transport phalloidin                 stimulates hepatic clearance of cardiac glycosides in newborn rats,
+and microcystin (reviewed by Hagenbuch and Meier, 2003). Con-                resulting in decreased toxicity of cardiac glycosides (Klaassen,
+versely, poor extraction of a drug by liver (due to a deficiency in          1974a,b). Oatp1a4 is a sinusoidal hepatic uptake transporter, with high
+uptake transporters) can cause elevated plasma levels of the drug,           affinity for cardiac glycosides (Noé et al., 1997). PCN treatment
+leading to toxicities in organs other than liver. A well defined example     dramatically accelerates the maturation of hepatic Oatp1a4 mRNA
+is the uptake of cardiac glycosides into neonatal rat liver, which is        and protein levels in neonatal rats (Guo et al., 2002a). Thus, newborn
+immature with respect to adult liver, resulting in a LD50 for ouabain        rats are more sensitive to cardiac glycoside toxicity because of their
+in newborns about 1/100th that in adult rats (Klaassen, 1972). This          low capacity to remove ouabain from the blood, and PCN protects
+observation corresponds well with the low expression of Oatp1a4 in           newborns from cardiac glycoside toxicity because it induces Oatp1a4
+liver of young rats (Guo et al., 2002a) and the finding that Oatp1a4         and the uptake of ouabain into liver.
+transports cardiac glycosides with high affinity (Noé et al., 1997).           Kidney is another important organ for chemical disposition. The
+Therefore, understanding tissue distribution and substrate specificity       kidney in newborns is immature and renal functions are limited. The
+of various Oatps will help predict tissue distribution of Oatp substrates    present data indicate that renal expression of Oatps is minimal at or
+and provide information concerning which Oatp should be targeted or          before birth, and then gradually increases to adult levels. Low renal
+avoided when developing a new drug.                                          expression of Oatps in newborns may protect the kidney from toxicity
+   The present study indicates that there is relatively poor expression      of Oatp substrates.
+of mouse Oatps in the gastrointestinal tract, namely the stomach,               Oatp6b1, 6c1, and 6d1 are mouse homologs of human and rat
+duodenum, jejunum, ileum, and large intestine. Of the Oatps, only            gonad-specific transporters and are thought to be responsible for
+Oatp2b1 has relatively high expression in intestine. The relatively          testicular uptake of DHEA and DHEA sulfate, precursors of in vivo
+poor expression of Oatps in the intestine suggests that Oatps probably       androgen and, thus, estrogen biosynthesis (Suzuki et al., 2003). In this
+play a relatively minor role in intestinal absorption of chemicals.          study, Oatp6b1, 6c1, and 6d1 were found to be exclusively expressed
+Actually, it is generally believed that most xenobiotics are mainly          in testes.
+absorbed from the intestine by simple diffusion (Schwenk, 1987).                In conclusion, the present study shows that mouse Oatp expression
+Instead, Oatps appear to play an important role in the distribution and      is highly variable among tissues. There are also gender- and age-
+elimination of chemicals, as suggested by the high expression of             related differences in the expression of these uptake transporters.
+Oatps in liver, kidney, lung, brain, testes, and placenta. As previously     These variances most likely result in tissue-, gender-, and age-related
+stated, Oatp1b2 is responsible for transport of microcystin and phal-        differences in the pharmaco- and toxicokinetic profiles of xenobiotics.
+loidin into liver to produce hepatotoxicity, as well as uptake of            Furthermore, the similarities and differences in Oatp expression
+sulfobromophthalein (BSP) into liver for subsequent excretion into           among rat, mouse, and human will aid in extrapolation of rodent
+bile.                                                                        pharmacokinetic data to humans.
+   Gender differences in Oatp1a1 expression were observed in mouse
+liver and kidney, with higher expression in males than in females. It                                                References
+has been shown that in rat and mouse kidney, male-predominant                Abe T, Kakyo M, Sakagami H, Tokui T, Nishio T, Tanemoto M, Nomura H, Hebert SC, Matsuno
+                                                                               S, Kondo H, et al. (1998) Molecular characterization and tissue distribution of a new organic
+expression of Oatp1a1 is androgen-dependent (Lu et al., 1996; Isern et         anion transporter subtype (oatp3) that transports thyroid hormones and taurocholate and
+al., 2001). This gender-specific pattern may explain some physiolog-           comparison with oatp2. J Biol Chem 273:22395–22401.
+                                                                             Abe T, Kakyo M, Tokui T, Nakagomi R, Nishio T, Nakai D, Nomura H, Unno M, Suzuki M,
+ical/toxicological phenomena. For instance, Oatp1a1 is localized to            Naitoh T, et al. (1999) Identification of a novel gene family encoding human liver-specific
+the apical membrane domain of proximal tubules in kidney, where it             organic anion transporter LST-1. J Biol Chem 274:17159 –17163.
+                                                                             Aida K and Negishi M (1993) A trans-acting locus regulates transcriptional repression of the
+reabsorbs organic anions from the lumen. The male-predominant                  female-specific steroid 15 alpha-hydroxylase gene in male mice. J Mol Endocrinol 11:213–
+expression of Oatp1a1 may be responsible for the 250-fold higher rate          222.
+                                                  TISSUE DISTRIBUTION AND ONTOGENY OF MOUSE Oatps                                                                                          1073
+Augustine LM, Markelewicz RJ Jr, Boekelheide K, and Cherrington NJ (2005) Xenobiotic and          Leazer TM and Klaassen CD (2003) The presence of xenobiotic transporters in rat placenta. Drug
+   endobiotic transporter mRNA expression in the blood-testis barrier. Drug Metab Dispos            Metab Dispos 31:153–167.
+   33:182–189.                                                                                    Li N, Hartley DP, Cherrington NJ, and Klaassen CD (2002) Tissue expression, ontogeny and
+Buist SC, Cherrington NJ, and Klaassen CD (2003) Endocrine regulation of rat organic anion          inducibility of rat organic anion transporting polypeptide 4. J Pharmacol Exp Ther 301:551–
+   transporters. Drug Metab Dispos 31:559 –564.                                                     560.
+Choudhuri S, Cherrington NJ, Li N, and Klaassen CD (2003) Constitutive expression of various      Lu R, Kanai N, Bao Y, and Schuster VL (1996a) Cloning, in vitro expression and tissue
+   xenobiotic and endobiotic transporter mRNAs in the choroid plexus of rats. Drug Metab            distribution of a human prostaglandin transporter cDNA(hPGT). J Clin Investig 98:1142–
+   Dispos 31:1337–1345.                                                                             1149.
+Choudhuri S, Ogura K, and Klaassen CD (2001) Cloning, expression and ontogeny of mouse            Lu R, Kanai N, Bao Y, Wolkoff AW, and Schuster VL (1996b) Regulation of renal Oatp mRNA
+   organic anion-transporting polypeptide-5, a kidney-specific organic anion transporter. Bio-      expression by testosterone. Am J Physiol 270:F332–F337.
+   chem Biophys Res Commun 280:92–98.                                                             Melia MJ, Bofill N, Hubank M, and Meseguer A (1998) Identification of androgen-regulated
+Eaton DL and Klaassen CD (1978) Carrier-mediated transport of ouabain in isolated hepatocytes.      genes in mouse kidney by representational difference analysis and random arbitrarily primed
+   J Pharmacol Exp Ther 205:480 – 488.                                                              polymerase chain reaction. Endocrinology 139:688 – 695.
+Fouts JR and Adamson RH (1959) Drug metabolism in the newborn rabbit. Science (Wash DC)           Mikkaichi T, Suzuki T, Onogawa T, Tanemoto M, Mizutamari H, Okada M, Chaki T, Masuda
+   129:897– 898.                                                                                    S, Tokui T, Eto N, et al. (2004) Isolation and characterization of a digoxin transporter and its
+Gotoh Y, Kato Y, Stieger B, Meier PJ, and Sugiyama Y (2002) Gender difference in the                rat homologue expressed in the kidney. Proc Natl Acad Sci USA 101:3569 –3574.
+   Oatp1-mediated tubular reabsorption of estradiol 17␤-D-glucuronide in rats. Am J Physiol       Nishio T, Adachi H, Nakagomi R, Tokui T, Sato E, Tanemoto M, Fujiwara K, Okabe M,
+   282:E1245–E1254.                                                                                 Onogawa T, Suzuki T, et al. (2000) Molecular identification of a rat novel organic anion
+Guo GL, Johnson DR, and Klaassen CD (2002a) Postnatal expression and induction by preg-             transporter moat1, which transports prostaglandin D(2), leukotriene C(4) and taurocholate.
+   nenolone-16␣-carbonitrile of the organic anion-transporting polypeptide 2 in rat liver. Drug     Biochem Biophys Res Commun 275:831– 838.
+   Metab Dispos 30:283–288.                                                                       Noé B, Hagenbuch B, Stieger B, and Meier PJ (1997) Isolation of a multispecific organic anion
+Hagenbuch B and Meier PJ (2003) The superfamily of organic anion transporting polypeptides.         and cardiac glycoside transporter from rat brain. Proc Natl Acad Sci USA 94:10346 –10350.
+                                                                                                  Noshiro M and Negishi M (1986) Pretranslational regulation of sex-dependent testosterone
+   Biochim Biophys Acta 1609:1–18.
+                                                                                                    hydroxylases by growth hormone in mouse liver. J Biol Chem 261:15923–15927.
+Hartley DP and Klaassen CD (2000) Detection of chemical-induced differential expression of rat
+                                                                                                  Ogura K, Choudhuri S, and Klaassen CD (2000) Full-length cDNA cloning and genomic
+   hepatic cytochrome P450 mRNA transcripts using branched DNA signal amplification tech-
+                                                                                                    organization of the mouse liver-specific organic anion transporter-1 (lst-1). Biochem Biophys
+   nology. Drug Metab Dispos 28:608 – 616.
+                                                                                                    Res Commun 272:563–570.
+Hsiang B, Zhu Y, Wang Z, Wu Y, Sasseville V, Yang WP, and Kirchgessner TG (1999) A novel
+                                                                                                  Saito H, Masuda S, and Inui K (1996) Cloning and functional characterization of a novel rat
+   human hepatic organic anion transporting polypeptide (OATP2). Identification of a liver-
+                                                                                                    organic anion transporter mediating basolateral uptake of methotrexate in the kidney. J Biol
+   specific human organic anion transporting polypeptide and identification of rat and human
+                                                                                                    Chem 271:20719 –20725.
+   hydroxymethylglutaryl-CoA reductase inhibitor transporters. J Biol Chem 274:37161–37168.       Schwenk M (1987) Drug transport in intestine, liver and kidney. Arch Toxicol 60:37– 42.
+Isern J, Hagenbuch B, Stieger B, Meier PJ, and Meseguer A (2001) Functional analysis and          Stacey NH and Klaassen CD (1979) Uptake of ouabain by isolated hepatocytes from livers of
+   androgen-regulated expression of mouse organic anion transporting polypeptide 1 (Oatp1) in       developing rats. J Pharmacol Exp Ther 211:360 –363.
+   the kidney. Biochim Biophys Acta 1518:73–78.                                                   Sugiyama D, Kusuhara H, Taniguchi H, Ishikawa S, Nozaki Y, Aburatani H, and Sugiyama Y
+Jacquemin E, Hagenbuch B, Stieger B, Wolkoff AW, and Meier PJ (1994) Expression cloning             (2003) Functional characterization of rat brain-specific organic anion transporter (Oatp14) at
+   of a rat liver Na(⫹)-independent organic anion transporter. Proc Natl Acad Sci USA 91:133–       the blood-brain barrier: high affinity transporter for thyroxine. J Biol Chem 278:43489 –
+   137.                                                                                             43495.
+Jondorf WR, Parke DV, and Williams RT (1958) Studies in detoxication. The metabolism of           Suzuki T, Onogawa T, Asano N, Mizutamari H, Mikkaichi T, Tanemoto M, Abe M, Satoh F,
+   halogenobenzenes: 1:2:3:4-, 1:2:3:5- and 1:2:4:5-tetrachlorobenzenes. Biochem J 69:181–189.      Unno M, Nunoki K, et al. (2003) Identification and characterization of novel rat and human
+Klaassen CD (1972) Immaturity of the newborn rat’s hepatic excretory function for ouabain.          gonad-specific organic anion transporters. Mol Endocrinol 17:1203–1215.
+   J Pharmacol Exp Ther 183:520 –526.                                                             Waxman DJ, Pampori NA, Ram PA, Agrawal AK, and Shapiro BH (1991) Interpulse interval in
+Klaassen CD (1974a) Stimulation of the development of the hepatic excretory mechanism for           circulating growth hormone patterns regulates sexually dimorphic expression of hepatic
+   ouabain in newborn rats with microsomal enzyme inducers. J Pharmacol Exp Ther 191:212–           cytochrome P450. Proc Natl Acad Sci USA 88:6868 – 6872.
+   218.
+Klaassen CD (1974b) Effect of microsomal enzyme inducers on the biliary excretion of cardiac
+   glycosides. J Pharmacol Exp Ther 191:201–211.                                                     Address correspondence to: Dr. Curtis D. Klaassen, Department of Pharma-
+Konig J, Cui Y, Nies AT, and Keppler D (2000a) A novel human organic anion transporting
+   polypeptide localized to the basolateral hepatocyte membrane. Am J Physiol 278:G156 –G164.     cology, Toxicology and Therapeutics, University of Kansas Medical Center, 3901
+Konig J, Cui Y, Nies AT, and Keppler D (2000b) Localization and genomic organization of a         Rainbow Boulevard, Kansas City, KS 66160. E-mail: cklaasse@kumc.edu
+   new hepatocellular organic anion transporting polypeptide. J Biol Chem 275:23161–23168.
+

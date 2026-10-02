@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="research-article"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">822</journal-id><journal-id journal-id-type="pmc-domain">acssd</journal-id><journal-title-group><journal-title>Chemical Research in Toxicology</journal-title><abbrev-journal-title>Chem Res Toxicol</abbrev-journal-title></journal-title-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12422536</article-id><article-id pub-id-type="pmcaid">12422536</article-id><article-id pub-id-type="pmcaiid">12422536</article-id><article-id pub-id-type="pmid">40492927</article-id><article-id pub-id-type="doi">10.1021/acs.chemrestox.4c00508</article-id><title-group><article-title>Toxicokinetics
+and Perfluorooctanesulfonic Acid-Induced
+Liver Protein Expression Are Markedly Altered in Mice Lacking Albumin</article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>Kaye</surname><given-names initials="EM">Emily M</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Becanova</surname><given-names initials="J">Jitka</given-names></name><xref ref-type="aff" rid="aff2">‡</xref></contrib><contrib><name name-style="western"><surname>Vojta</surname><given-names initials="S">Simon</given-names></name><xref ref-type="aff" rid="aff2">‡</xref></contrib><contrib><name name-style="western"><surname>Lohmann</surname><given-names initials="R">Rainer</given-names></name><xref ref-type="aff" rid="aff2">‡</xref></contrib><contrib><name name-style="western"><surname>Fischer</surname><given-names initials="FC">Fabian Christoph</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref ref-type="aff" rid="aff3">§</xref><xref rid="cor1" ref-type="author-notes">*</xref></contrib><contrib><name name-style="western"><surname>Slitt</surname><given-names initials="A">Angela</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref rid="cor2" ref-type="author-notes">*</xref></contrib></contrib-group><aff id="aff1">
+<label>†</label>
+Department
+of Biomedical and Pharmaceutical Sciences, College of Pharmacy, University of Rhode Island, 7 Greenhouse Rd, Kingston, Rhode Island
+02881, United States
+</aff><aff id="aff2">
+<label>‡</label>
+Graduate
+School of Oceanography, University of Rhode
+Island, Narragansett, Rhode Island
+02882, United States
+</aff><aff id="aff3">
+<label>§</label>
+Harvard
+John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, Massachusetts
+02138, United States
+</aff><author-notes><fn id="cor1"><label>*</label><p>
+Email: <email>fabian.fischer@uri.edu</email>.</p></fn><fn id="cor2"><label>*</label><p>
+Email: <email>angela_slitt@uri.edu</email>.</p></fn></author-notes><pub-date><day>10</day><month>6</month><year>2025</year></pub-date><volume>38</volume><issue>7</issue><fpage>1183</fpage><page-range>1183–1191</page-range><pub-history><event event-type="pmc-release"><date><day>11</day><month>9</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>© 2025 American Chemical Society</copyright-statement><license><license-p>This article is licensed under CC-BY 4.0</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="tx4c00508.pdf" content-type="pmc-pdf"><?cloudpmc-path 1b78/12422536/cd7fab408ebd/tx4c00508.pdf?><?cloudpmc-bucket app?><?size 2087019?></self-uri><abstract id="abstract1"><title>Abstract</title><p>Perfluorooctanesulfonic acid (PFOS) is a ubiquitous perfluoroalkyl
+substance (PFAS) linked to liver disease and obesity in humans. Binding
+studies suggest that albumin is a crucial blood protein influencing
+PFOS toxicokinetics and hepatotoxicity; however, its role has not
+been mechanistically tested in vivo. This study used an albumin-deficient
+mouse model to investigate the relevance of albumin in PFOS tissue
+distribution and liver disease end points. Adult male C57BL/6J wild-type
+(Alb<sup>+/+</sup>) and albumin-deficient (Alb<sup>–/–</sup>) mice were orally gavaged daily for 7 days with either vehicle or
+PFOS at 0.5 or 10 mg/kg body weight. The measured PFOS concentrations
+in plasma were significantly lower in Alb<sup>–/–</sup> mice compared to those in Alb<sup>+/+</sup> mice, while liver concentrations
+were significantly higher in Alb<sup>–/–</sup> mice.
+Binding experiments confirmed these findings, indicating that PFOS
+toxicokinetics are driven by plasma and tissue binding. Significant
+changes in liver protein expression did not translate into differences
+in liver disease end points between genotypes, suggesting the need
+for chronic exposure studies. Our data imply that disease-related
+albumin deficiency in humans can influence PFAS toxicokinetics and
+susceptibility to hepatotoxicity. Our framework using knockout mice
+can be adapted in future studies to assess the relevance of protein
+binding and membrane transporters in PFAS distribution and elimination.</p></abstract><abstract id="abstract2" abstract-type="graphical"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="tx4c00508_0007.jpg"><?cloudpmc-path blobs/1b78/12422536/9b9a574a648b/tx4c00508_0007.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 448?><?original-width 833?><?scaled-height 298?><?scaled-width 555?></graphic></abstract><abstract id="abstract3" abstract-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="tgr1" xlink:href="tx4c00508_0005.jpg"><?cloudpmc-path blobs/1b78/12422536/006fe7605580/tx4c00508_0005.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 448?><?original-width 833?><?scaled-height 298?><?scaled-width 555?></graphic></abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-in-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Received 2024 Nov 24; Accepted 2025 May 29; Revised 2025 Apr 16; Collection date 2025 Jul 21.</p></sec></notes></front><body><sec id="sec1" disp-level="1"><label>1.</label><title>Introduction</title><p>Perfluoroalkyl substances
+(PFAS) are a diverse class of man-made
+environmental chemical pollutants. Human epidemiological data have
+associated PFAS exposure with kidney disease, modified thyroid function,
+altered developmental and reproductive function, and cancer. Perfluorooctanesulfonic acid (PFOS) is a legacy
+PFAS in this group of chemicals with a long elimination half-life
+in humans ranging between 3.3 and 27 years.<italic>
+,
+</italic> Despite
+phase-out efforts, human biomonitoring studies have consistently detected
+PFOS in human serum worldwide,<italic>
+−
+
+
+</italic> with average concentrations of ∼4 μg/L
+in the U.S. in 2018.<italic>
+,
+</italic> PFOS exposures in humans have
+been linked to liver injury, dyslipidemia, and obesity in humans.<italic>
+−
+
+</italic> Several studies have suggested that binding to blood proteins is
+a major factor in the slow elimination and subsequent chronic hepatotoxicity
+of PFOS in humans.<italic>
+,
+</italic> However, this mechanism has not
+been investigated in vivo, which is the focus of this work.</p><p>PFOS administration increased serum liver enzymes, cytotoxicity,
+and steatosis in mice, rats, and monkeys. Epidemiological
+studies have found associations with PFOS exposure and elevated serum
+liver function tests,<italic>
+,
+</italic> elevated serum cholesterol, and steatosis in humans. PFOS has been shown to activate multiple nuclear receptors
+(e.g., peroxisome proliferator-activated receptor alpha [PPARα])
+and metabolic pathways in both rodent and primary human hepatocytes. A recent meta-analysis involving 24 human studies
+found associations between human PFOS exposure, higher alanine transaminase
+(ALT) levels (<italic>z</italic>-score = 3.55, <italic>p</italic> &lt;
+0.001), and liver damage. However, such
+studies have rarely established relationships between systemic PFOS
+exposures, liver accumulation, and associated hepatotoxicity.</p><p>Binding to blood proteins is thought to be a significant factor
+in determining systemic exposures and target site concentrations of
+PFOS in humans. Specifically, studies
+employing equilibrium dialysis and solid-phase microextraction (SPME)
+have demonstrated that PFAS with long fluorinated carbon chains like
+PFOS (8 fluorinated carbons) strongly binds to human serum albumin
+(HSA),<italic>
+,
+</italic> the most abundant protein in human blood.
+Based on these studies, HSA binding is considered a major driver for
+PFOS toxicokinetics in humans. Still,
+the relative contribution of albumin binding to the distribution,
+elimination, and hepatotoxicity of PFOS under complex physiological
+conditions in vivo has not been investigated.</p><p>Plasma protein
+binding is a well-established mechanism influencing
+the half-life of pharmaceuticals. Molecules
+that bind poorly to plasma proteins are more readily available to
+penetrate cellular membranes and are more likely to be eliminated
+through the kidneys. PFOS primarily accumulates
+in the noncellular blood fraction, where
+albumin is the most abundant PFOS ligand,<italic>
+,
+</italic> contributing 3.5–5 g/dL (50–60% of total proteins)
+to plasma in healthy humans.<italic>
+,
+</italic> Being essential for
+homeostasis of oncotic pressure and as
+a carrier for molecules like fatty acids, albumin is secreted into the portal circulation after synthesis
+in the liver. Numerous binding studies
+have demonstrated that PFOS binds to BSA and HSA with a high affinity;<italic>
+,−
+
+</italic> however, the relative importance of albumin binding
+to other toxicokinetic processes like permeability,<italic>
+,
+</italic> membrane transporter interactions,<italic>
+,
+</italic> reabsorption,<italic>
+,
+</italic> and elimination pathways present under realistic exposure conditions
+in vivo is unknown.</p><p>In this study, PFOS was dosed to a homozygous
+albumin knockout
+mouse model (C57BL/6J, Alb<sup>–/–</sup>) to investigate
+the relevance of albumin binding to PFOS plasma concentration, tissue
+accumulation, urine levels, and biomarkers associated with liver toxicity.
+See Section S1 of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Supporting Information</ext-link> for a schematic representation of the study design. The results
+were compared with those of wild-type mice (C57BL/6J, Alb<sup>+/+</sup>) to test the effects of albumin deficiency. To determine the extent
+to which PFOS distribution results from tissue binding, we compared
+the in vivo results with tissue distribution patterns measured using
+a previously established binding assay with C18 SPME fibers. We discuss the applicability of knockout mouse
+models for mechanistic studies on PFAS exposures and effects. Finally,
+we highlight the implications of our findings in the context of disease-associated
+albumin deficiency in humans, the resulting susceptibility to PFAS
+liver accumulation, and the associated health effects.</p></sec><sec id="sec2" disp-level="1"><label>2.</label><title>Materials and Methods</title><sec id="sec2.1" disp-level="2"><label>2.1.</label><title>Chemicals and Reagents</title><p>PFOS was purchased
+from Sigma-Aldrich as a heptadecafluoro-octanesulfonic acid potassium
+salt (CAS: #2795–39–3, Catalog: #89374, ≥98.0%
+purity, ∼ 70% L-PFOS/∼30% Br-PFOS). For C18 fiber binding
+experiments, the PFAC-24PAR mixture from Wellington Laboratories was
+used, which includes carboxylates, sulfonates, fluorotelomers, and
+sulfonamides. The corresponding mass-labeled standard PFAS mixture
+from Wellington Laboratories was used as an internal standard. Iodoacetamide
+(IAA), sodium deoxycholate (NaDOC), dithiothreitol (DTT), formic acid,
+chloroform, methanol, acetonitrile, urea, ammonium bicarbonate, Tween
+20, and bovine serum albumin (BSA) were purchased from Sigma-Aldrich.
+Trypsin (TPCK-treated trypsin) was purchased from SCIEX. Primers for
+β-actin, Ehhadh, Acot2, cluster of differentiation 36 (Cd36),
+fatty acid binding protein 1 (Fabp1), fatty acid binding protein 4
+(Fabp4), Cyp27a1, and Fatp2 were purchased from Invitrogen.</p></sec><sec id="sec2.2" disp-level="2"><label>2.2.</label><title>Treatment Paradigm and Dosing Solutions</title><p>All animal protocols were reviewed and approved by the University
+of Rhode Island (URI) Institutional Animal Care and Use Committee
+(IACUC). The study overview is illustrated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S1</ext-link>. Alb<sup>–/–</sup> mice were purchased
+from Jackson Laboratory. Genotypes of Alb<sup>–/–</sup> and wild-type (WT) mice were confirmed by PCR either in-house or
+by The Jackson Laboratory. The Alb<sup>–/–</sup> model
+has been previously validated to lack albumin expression. Briefly, a transcription activator-like effector
+nuclease (TALEN)-mediated nonhomologous end-joining (NHEJ) repair
+pathway was utilized to knock out the albumin gene in C57BL/6J mice.
+TALEN mRNAs were introduced into C57BL/6J zygotes and crossed with
+a WT mouse. The F1 generation was then crossed to produce Alb<sup>–/–</sup> homozygotes. Upon arrival, the mice were
+randomly assigned to treatment groups and were housed in a temperature-controlled
+room (20–26 °C) with relative humidity (30–70%)
+and lighting (12 h, light–dark cycles) and fed <italic>ad libitum</italic> a standard chow diet (Harlan Teklad Extruded Global Diet). Male
+WT C57BL/6J and Alb<sup>–/–</sup> mice were dosed daily
+via oral gavage with PFOS at either 0.5 mg/kg<sub>bw</sub> (bw, body
+weight) (9 weeks old, <italic>n</italic> = 6) or 10 mg/kg<sub>bw</sub> (19 weeks old, <italic>n</italic> = 4) for 7 days. Although different
+in age, both cohorts fell within the adult range for mice, and the
+9 week age group aligns with prior PFOS toxicity studies. The 10 mg/kg<sub>bw</sub> group included four
+mice per genotype due to limited colony availability, while six mice
+per genotype were used in the 0.5 mg/kg<sub>bw</sub> group. PFOS was
+dissolved in 0.5% Tween 20 in Millipore-treated water, yielding a
+final dosing volume of 10 mL/kg<sub>bw</sub>. PFOS-free 0.5% Tween
+20 in Millipore-treated water was dosed as a vehicle control (VEH).
+The 10 mg/kg<sub>bw</sub> dose was selected based on prior rodent
+studies, demonstrating robust liver responses after 7 days of repeated
+dosing, including hepatomegaly, steatosis, and activation of lipid
+metabolism pathways such as PPARα. This dose is above human environmental exposure levels but was used
+here to induce a measurable liver response within a short exposure
+duration and to evaluate albumin’s role under conditions of
+known PFOS hepatotoxicity. The lower 0.5 mg/kg<sub>bw</sub> dose,
+while still higher than typical general population exposures, was
+included to assess albumin’s influence under subtoxic conditions more relevant to upper-bound environmental or
+occupational exposures.</p></sec><sec id="sec2.3" disp-level="2"><label>2.3.</label><title>Clinical Chemistry</title><p>Plasma was collected
+at the time of necropsy and stored at −80 °C until analysis.
+Plasma alanine aminotransferase (ALT) activity was determined using
+the colorimetric ALT activity assay kit (Pointe Scientific Inc.).
+Triglycerides were quantified from plasma using a triglyceride (GPO)
+reagent colorimetric assay kit (Pointe Scientific Inc.). Free fatty
+acids were measured from plasma by using a free fatty acid assay kit
+(Abcam). Creatinine in urine was measured using a mouse creatinine
+assay kit from Crystal Chem (Elk Grove Village).</p></sec><sec id="sec2.4" disp-level="2"><label>2.4.</label><title>Liver Lipid Isolation</title><p>Images of the
+sampled livers can be found in Section S2 of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Supporting Information</ext-link>. Total liver lipids were isolated using
+the adapted chloroform/methanol Folch method. Briefly, ∼50 mg of liver tissue was homogenized in 1 mL of
+methanol using an Omni Bead Ruptor Elite system (Omni International)
+for 30 s at 5 m/s. After homogenization, an additional 1 mL of methanol
+was added. The total water content of each liver sample (65%) was
+calculated, and the volume was adjusted to 1 mL with water. Subsequently,
+900 μL of chloroform was added, and the mixture was vortexed.
+Then, 1 mL of water and another 900 μL of chloroform was added,
+vortexed, and centrifuged at 1200 rpm for 10 min for phase separation.
+Total lipid mass was determined by transferring the bottom organic
+layer to a preweighed glass tube, evaporated under nitrogen, and weighed.</p></sec><sec id="sec2.5" disp-level="2"><label>2.5.</label><title>PFOS Extraction from Plasma and Tissues</title><p>Liquid chromatography–mass spectrometry (LC–MS/MS)
+was used to quantify PFOS concentrations in plasma and tissues, using
+a X500R QTOF platform coupled to an ExionLC AC System (SCIEX), as
+published previously. Instrumental method
+details are given in Section S3. Snap-frozen tissues were cut into
+∼22 mg pieces, and 5 μL of plasma was used as input and
+spiked with 100 ng of a C4-PFOS-labeled internal standard (Wellington
+Laboratories). All samples were processed alongside procedural blanks
+and replicates, and PFOS was quantified by using matrix-matched calibration
+curves. Tissues were homogenized in 440 μL 50:50 acetonitrile/water
+using the OMNI International Bead Ruptor Elite bead mill homogenizer
+at 5 m/s for 30 s. Plasma was vortexed with the PFOS internal standard
+in 100 μL of 50:50 acetonitrile/water until thoroughly mixed.
+PFOS was isolated from tissues and plasma utilizing the roQ QuEChERS
+Extraction Packet and dSPE kits (Phenomenex), with protocol modifications
+for working in smaller volumes. Briefly, for tissues, 110 mg of the
+roQ QuEChERS Extraction Packet (4.0 g of magnesium sulfate +1.0 g
+of sodium chloride) was added to the homogenized tissue, shaken, vortexed
+for 15 s, and centrifuged at 4000<italic>g</italic> for 16 min for
+phase separation. The top 150 μL was then taken and added into
+a tube containing 30 mg of dSPE powder (150 mg of magnesium sulfate
++50 mg of primary secondary amine), shaken, vortexed (15 s), and centrifuged
+(4000<italic>g</italic>/16 min). The top 75 μL was sampled and
+measured by LC–MS/MS. For plasma, 25 mg of the roQ QuEChERS
+Extraction Packet was added to the plasma, shaken, vortexed (15 s),
+and centrifuged (4000<italic>g</italic>/16 min). The top 45 μL
+was then taken and added into a tube with 9 mg of dSPE powder, shaken,
+vortexed (15 s), and centrifuged (4000<italic>g</italic>/16 min).
+The top 30 μL was sampled and measured by LC–MS/MS. The
+10 mg/kg<sub>bw</sub> tissues and plasma were diluted 400×, and
+the 0.5 mg/kg<sub>bw</sub> tissues and plasma were diluted 20×
+before measurements.</p></sec><sec id="sec2.6" disp-level="2"><label>2.6.</label><title>C18 Fiber Solid-Phase Microextraction</title><p>Binding of 24 PFAS to mouse plasma and liver was measured using a
+previously developed C18 fiber-based SPME technique. Plasma and liver
+samples from PFOS-free vehicle control Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice were used for the experiments (<italic>n</italic> = 3). Details on methodologies are published elsewhere. In short, C18 SPME fibers were preconditioned
+and placed into PFAS-spiked (400 ng/L) mouse plasma or tissue homogenates
+dissolved in phosphate-buffered saline (PBS). Additionally, C18 fibers
+were placed in a PFAS-spiked PBS buffer (400 ng/L). The fibers were
+incubated in the solution at 37 °C and 100 rpm horizonal shaking
+for 48 h and then extracted with methanol overnight. The difference
+in chemical mass sampled by the SPME fiber in the presence and absence
+of the tissue homogenate in solution is the chemical fraction bound
+to the tissue. Liver–water and plasma–water partition
+coefficients (<italic>K</italic>
+<sub>liver/w</sub>, <italic>K</italic>
+<sub>plasma/w</sub>) can be derived from this fraction and the mass
+of tissue in solution. Liver–plasma partition coefficients
+(<italic>K</italic>
+<sub>liver/plasma</sub>) which correspond to expected
+liver/plasma concentration ratios can then be calculated as</p><disp-formula id="eq1"><label>1</label><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="d1e672" display="block" overflow="scroll"><mml:msub><mml:mi>K</mml:mi><mml:mrow><mml:mrow><mml:mi mathvariant="normal">l</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">v</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">r</mml:mi></mml:mrow><mml:mo>/</mml:mo><mml:mrow><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">l</mml:mi><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">s</mml:mi><mml:mi mathvariant="normal">m</mml:mi><mml:mi mathvariant="normal">a</mml:mi></mml:mrow></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:msub><mml:mi>K</mml:mi><mml:mrow><mml:mrow><mml:mi mathvariant="normal">l</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">v</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">r</mml:mi></mml:mrow><mml:mo>/</mml:mo><mml:mi mathvariant="normal">w</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi>K</mml:mi><mml:mrow><mml:mrow><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">l</mml:mi><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">s</mml:mi><mml:mi mathvariant="normal">m</mml:mi><mml:mi mathvariant="normal">a</mml:mi></mml:mrow><mml:mo>/</mml:mo><mml:mi mathvariant="normal">w</mml:mi></mml:mrow></mml:msub></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi mathvariant="normal">l</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">v</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">r</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">l</mml:mi><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">s</mml:mi><mml:mi mathvariant="normal">m</mml:mi><mml:mi mathvariant="normal">a</mml:mi></mml:mrow></mml:msub></mml:mfrac></mml:math></disp-formula></sec><sec id="sec2.7" disp-level="2"><label>2.7.</label><title>Proteomics Sample Preparation and Analysis</title><p>Proteomic preparation and analysis were conducted by using snap-frozen
+livers from the 0.5 mg/kg<sub>bw</sub> study. SWATH-DIA proteomics
+was conducted as previously published. In short, snap-frozen livers were homogenized in 8 M urea buffer,
+and the protein concentration was determined using the Pierce BCA
+Protein Assay Kit (catalog no. 23225) from ThermoFisher Scientific.
+Homogenates were diluted to 2 mg/mL protein/sample in 100 μL
+and spiked with 0.2 mg/mL BSA. Samples were denatured with DTT in
+a shaking water bath (100 rpm) for 15 min. Following denaturation,
+cysteine residues were reduced to the sulfhydryl form by incubating
+samples in the dark for 30 min with iodoacetamide (IAA). Milli-Q-purified
+water, ice-cold methanol, and ice-cold chloroform were added to precipitate
+the proteins and remove lipids and nucleic acids. Samples were centrifuged
+at 12,000 rpm for 5 min at 10 °C for phase separation and to
+pellet the protein between aqueous and organic layers. The supernatant
+was removed, and the pellet was subsequently washed gently with ice-cold
+methanol. The pellet was briefly dried before lysing the proteins
+by adding sodium deoxycholate (NaDOC) in 50 mM ammonium bicarbonate
+(3% w/v solution). Lyophilized trypsin was added to each sample, vortexed,
+and pipetted into MT-96 PCT MicroTubesTM (Pressure BioScience Inc.)
+before being placed in a Barocycler NEP2320 PCT Sample Preparation
+System (Source Scientific). A Haake SC 100 (ThermoFisher) water bath
+was utilized to bring the water up to the temperature for use in the
+Barocycler. The Barocycler program was: time 1 = 50 s, time 2 = 10
+s, pressure = 35 psi, temp = 33 °C, cycles = 75 (run one) and
+60 (run two). The samples were subjected to the Barocycler for run
+one, and lyophilized trypsin was added again before the samples were
+subjected to the Barocycler for the second run. After the runs were
+completed, 5% formic acid was added to each sample and centrifuged
+at 12,000 rpm for 10 min at 10 °C. After centrifugation, 75–100
+μL of the supernatant was carefully removed and transferred
+into HPLC vials for analysis. A SCIEX 5600 TripleTOF mass spectrometer
+in positive electrospray ionization mode equipped with a DuoSpray
+ion source (SCIEX) coupled to an Acquity UHPLC HClass system (Waters
+Corp.) was used for measurements. Spectronaut (Biognosys) was used
+to process the resulting data files from the SWATH-MS runs with a
+reference spectral library from the UP000000589_mice reference protein
+database. The total protein approach was used to convert raw intensities
+to pmol/mg of protein. The mass spectrometry proteomics data have
+been deposited to the ProteomeXchange Consortium (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://proteomecentral.proteomexchange.org" ext-link-type="uri">http://proteomecentral.proteomexchange.org</ext-link>) via the PRIDE partner repository.
+</p></sec><sec id="sec2.8" disp-level="2"><label>2.8.</label><title>Gene Expression by RT-qPCR</title><p>Livers
+snap-frozen at the time of necropsy were cut into 15–25 mg
+pieces and prepared using the IBI Total RNA Mini Kit (IBI Scientific).
+RNA was quantified using a ThermoFisher Nanodrop 1000 and diluted
+with diethyl pyrocarbonate (DEPC) water to equal concentrations. Complementary
+DNA (cDNA) was synthesized using the High-Capacity cDNA Reverse Transcription
+Kit (ThermoFisher) and run on a thermal cycler (Eppendorf) at 25 °C
+for 10 min, 37 °C for 120 min, 85 °C for 5 min, and finally
+a hold at 4 °C indefinitely. RT-qPCR was performed using specific
+primers for β-actin, Ehhadh, Acot2, Cd36, Fabp1, Fabp4, Cyp27a1,
+and Fatp2. These target genes were selected based on their established
+role as prototypical PFOS-responsive transcripts in the liver, independent
+of the proteomic analysis.</p></sec><sec id="sec2.9" disp-level="2"><label>2.9.</label><title>Statistics</title><p>A two-way mixed analysis
+of variance (ANOVA) was used for statistical data analysis to consider
+for both within-replicate (tissue concentrations, biomarker levels)
+and between-treatment effects (Alb<sup>+/+</sup> vs Alb<sup>–/–</sup> mice, vehicle vs PFOS-dosed). This statistical approach was chosen
+to address the sampling and quantification of multiple tissues and
+biomarkers for individual mice. The ANOVA assumes uniform variability
+among differences across all paired conditions. To further assess
+statistically significant differences in tissue concentrations and
+biomarker levels between the mouse genotypes (Alb<sup>+/+</sup> vs
+Alb<sup>–/–</sup> mice), dosage forms (PFOS vs vehicle),
+and dosages (0.5 vs 10 mg PFOS/kg<sub>bw</sub>/day), Šidák’s
+multiple comparison tests were performed with a significance threshold
+of <italic>p</italic> &lt; 0.05. Statistical tests were run in GraphPad
+prism (version 10.1.2). The <italic>p</italic> values are reported
+in the plots throughout the manuscript.</p></sec></sec><sec id="sec3" disp-level="1"><label>3.</label><title>Results and Discussion</title><sec id="sec3.1" disp-level="2"><label>3.1.</label><title>PFOS Concentrations in Plasma and Organs</title><p>PFOS concentrations in mice organs generally followed the trend
+liver &gt; lung &gt; kidney &gt; intestines for both the dosing regimens
+and
+genotypes (<xref rid="fig1" ref-type="fig">Figure 
+</xref>). In albumin-deficient mice (Alb<sup>–/–</sup>), liver
+concentrations were 1.25-fold (10 mg/kg<sub>bw</sub>/day, <italic>p</italic> = 0.02) and 1.14-fold (0.5 mg/kg<sub>bw</sub>/day, <italic>p</italic> = 0.04) higher than those in wild-type (Alb<sup>+/+</sup>) mice. The liver accounted for 28.9% ± 2.6% and 35.7% ±
+2.0% of the total administered dose in Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice, respectively, at 10 mg/kg<sub>bw</sub>/day. At 0.5 mg/kg<sub>bw</sub>/day, the liver retained 24.4% ±
+4.5% in Alb<sup>+/+</sup> and 31.5% ± 3.7% in Alb<sup>–/–</sup> mice, demonstrating consistently higher hepatic PFOS accumulation
+in albumin-deficient mice across both exposure levels. Conversely,
+plasma concentrations were reduced by 65% (10 mg/kg<sub>bw</sub>/day)
+and 52% (0.5 mg/kg<sub>bw</sub>/day) in Alb<sup>–/–</sup> as compared to Alb<sup>+/+</sup> mice (<italic>p</italic> &lt; 0.01).
+Kidney concentrations were slightly higher in Alb<sup>–/–</sup> mice (mean: 75 μg/g) compared to those in Alb<sup>+/+</sup> mice (mean: 71 μg/g) at 10 mg/kg<sub>bw</sub>/day, though
+this difference was not statistically significant. At the lower 0.5
+mg/kg bw/day dose, a statistically significant difference was observed,
+with Alb<sup>–/–</sup> mice exhibiting 1.2-fold higher
+kidney PFOS levels than wild-type controls (<italic>p</italic> = 0.01).
+Interestingly, PFOS levels in urine were significantly reduced in
+Alb<sup>–/–</sup> mice exposed to 10 mg PFOS/kg<sub>bw</sub>/day as compared to Alb<sup>+/+</sup> mice (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S3</ext-link>), indicating impaired tubular secretion due to reduced
+uptake into proximal tubule cells, as albumin has been shown to facilitate
+organic anion transporter-mediated transport of protein-bound compounds.
+</p><fig id="fig1" position="float"><?disp-level 3?><label>1</label><caption><p>PFOS concentrations in plasma and various tissues of wild-type
+(Alb<sup>+/+</sup>) and albumin knockout (Alb<sup>–/–</sup>) mice exposed daily to 0.5 mg/kg<sub>bw</sub> (A) or a 10 mg/kg<sub>bw</sub> (B) PFOS for 7 days. Data were statistically analyzed using
+a two-way mixed ANOVA, followed by a Šidák post hoc
+test. The <italic>p</italic> values for multiple comparisons are reported
+in the graph, and significant differences are highlighted in red (<italic>p</italic> &lt; 0.05).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr1" xlink:href="tx4c00508_0001.jpg"><?cloudpmc-path blobs/1b78/12422536/d822d0446e25/tx4c00508_0001.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 565?><?original-width 1000?><?scaled-height 376?><?scaled-width 666?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="tx4c00508_0001.gif"><?cloudpmc-path blobs/1b78/12422536/c7311bfefa7e/tx4c00508_0001.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>The strong reduction in plasma PFOS concentrations
+in Alb<sup>–/–</sup> mice at both dose levels highlights
+the critical role of albumin
+for systemic PFOS exposures, confirming previous in vitro and binding
+studies that demonstrated the strong binding of PFOS to isolated albumin
+proteins.<italic>
+,,,
+</italic> The residual plasma PFOS in Alb<sup>–/–</sup> mice suggests that other plasma components bind PFOS to a considerable
+extent. A recent binding study showed that globulins bind long-chain
+PFAS including PFOS, which could explain
+the residual plasma concentrations observed here. While the PFOS levels
+in plasma decreased, 14–25% increased concentrations were measured
+in the liver of Alb<sup>–/–</sup> mice compared to Alb<sup>+/+</sup> mice. Contrarily, PFOS concentrations were not statistically
+elevated in the lungs and intestines of Alb<sup>–/–</sup> mice. A possible explanation is that PFOS transport into liver tissue
+could be facilitated by organic anion transporter proteins (OATPs),
+as shown in in vitro cell assays. To
+investigate the relevance of facilitated transport indirectly, tissue
+binding experiments were conducted using PFAS-spiked liver and plasma
+from vehicle control Alb<sup>–/–</sup> and Alb<sup>+/+</sup> mice, and the results were compared to in vivo observations.</p></sec><sec id="sec3.2" disp-level="2"><label>3.2.</label><title>Tissue Binding Experiments Confirm In Vivo
+Observations</title><p>The binding experiments with plasma and liver
+tissues yielded liver–plasma partition coefficients (<italic>K</italic>
+<sub>liver/plasma</sub>) Alb<sup>–/–</sup> and Alb<sup>+/+</sup> mouse tissues, corresponding to the expected
+liver/plasma concentration ratios, assuming binding as the sole mechanism
+for PFAS distribution (<xref rid="eq1" ref-type="disp-formula">eq 
+</xref>). For PFOS, binding experiments predicted a 2.9-fold increase in
+liver/plasma concentration ratios in Alb<sup>–/–</sup> mice compared to Alb<sup>+/+</sup> mice (<xref rid="fig2" ref-type="fig">Figures 
+</xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">S4</ext-link>). This
+prediction aligns well with in vivo observations, where 3.8-fold and
+2.7-fold increase were observed for the 10 mg/kg<sub>bw</sub>/day
+and 0.5 mg/kg<sub>bw</sub>/day treatments, respectively.</p><fig id="fig2" position="float"><?disp-level 3?><label>2</label><caption><p>Fold-difference
+in liver–plasma partition coefficients measured
+for liver and plasma tissues sampled from Alb<sup>–/–</sup> mice as compared to Alb<sup>+/+</sup> mice. PFAS classes are indicated
+by the color and shape of symbols, with orange circles for carboxylates,
+blue triangles for sulfonates, yellow squares for sulfonamides, and
+gray hexagons for fluorotelomers.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr2" xlink:href="tx4c00508_0002.jpg"><?cloudpmc-path blobs/1b78/12422536/f9cdee933b1c/tx4c00508_0002.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEVER_LOAD?><?original-height 507?><?original-width 693?><?scaled-height 507?><?scaled-width 693?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="tx4c00508_0002.gif"><?cloudpmc-path blobs/1b78/12422536/8f81bc643840/tx4c00508_0002.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>The increased liver concentrations observed in
+Alb<sup>–/–</sup> mice could result from higher levels
+of unbound PFOS in the plasma
+as less PFAS are bound to albumin. Essentially,
+with reduced albumin, the plasma’s capacity to retain PFOS
+reduces, leading to more extensive PFOS transport to the highly perfused
+liver and kidneys. This assumption is supported by our binding experiments,
+which showed a 3.5-fold increase in unbound fractions of PFOS in Alb<sup>–/–</sup> mice as compared to Alb<sup>+/+</sup> mice
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S5A</ext-link>). Interestingly, a 1.2-fold
+increase in unbound fractions of PFOS in the livers of Alb<sup>–/–</sup> mice as compared to Alb<sup>+/+</sup> mice was measured (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S5B</ext-link>), indicating the presence of albumin
+in rodent livers that contributes to PFOS binding. This finding is
+consistent with the liver being the site of albumin synthesis.
+</p><p>The liver/plasma distribution of perfluorooctane
+sulfonamide (FOSA)
+and 7:3 fluorotelomer carboxylic acid (7:3 FTCA) was most strongly
+influenced by albumin binding (<xref rid="fig2" ref-type="fig">Figure 
+</xref>), suggesting to prioritize these compounds in future
+experiments with albumin knockout mice. The relative importance of
+albumin binding decreases with an increase in molecular weight for
+PFAS carboxylates, sulfonates, and sulfonamides (<xref rid="fig2" ref-type="fig">Figures 
+</xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">S4</ext-link>). Notably, an opposite trend was observed for fluorotelomers. The
+C14 perfluorotetradecanoic acid (PFTeDA) showed similar binding to
+Alb<sup>–/–</sup> and Alb<sup>+/+</sup> plasma and livers
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S6</ext-link>). PFAS with more than 12 fluorinated
+carbon atoms exhibit low binding to albumin, which could explain why PFTeDA distribution was not affected by
+albumin deficiency. The agreement between mouse experiments and binding
+assays suggests that PFOS liver/plasma distribution is primarily influenced
+by tissue binding instead of kinetic processes like permeability<italic>
+,
+</italic> or membrane transporters (e.g., OATPs). Shorter chain PFAS like perfluorohexanesulfonic acid (PFHxS, CF6)
+demonstrate low permeability, strong
+associations with membrane transporters, high albumin binding, and distribution
+to both liver and plasma (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S6</ext-link>). Future
+in vivo studies with knockout mice could reveal the relative importance
+of these toxicokinetic processes to the accumulation of these shorter-chain
+PFAS in target organs like the liver.</p></sec><sec id="sec3.3" disp-level="2"><label>3.3.</label><title>Changes in Total Body and Liver Weights</title><p>The body weights of both Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice were not significantly different between vehicle controls and
+PFOS-dosed mice for both dosage groups (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S7</ext-link>). This observation is consistent with a previous study that
+demonstrated no effects on body weight at a daily dose of 10 mg PFOS/kg<sub>bw</sub>. In both Alb<sup>+/+</sup> and
+Alb<sup>–/–</sup> mice exposed to 10 mg of PFOS/kg<sub>bw</sub>/day, liver weights significantly increased compared to vehicle
+controls (<xref rid="fig3" ref-type="fig">Figure 
+</xref>A).
+Specifically, liver-to-body weight ratios of Alb<sup>+/+</sup> mice
+dosed daily with 10 mg/kg<sub>bw</sub> of PFOS were 1.8-fold higher
+than for the livers of vehicle controls (<italic>p</italic> &lt; 0.01).
+Similarly, PFOS-dosed Alb<sup>–/–</sup> mice showed
+a 2.3-fold increase in liver weight compared to vehicle controls (<italic>p</italic> &lt; 0.01). No significant differences in liver-to-BW
+ratios were observed among 0.5 mg of PFOS/kg<sub>bw</sub>/day-dosed
+and PFOS-free Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice (<xref rid="fig3" ref-type="fig">Figure 
+</xref>A).</p><fig id="fig3" position="float"><?disp-level 3?><label>3</label><caption><p>Liver
+weight to body weight ratios (A), total liver lipid contents
+(B), plasma triglyceride levels (C), and plasma alanine aminotransferase
+levels (D) of wild-type (Alb<sup>+/+</sup>) and albumin knockout (Alb<sup>–/–</sup>) mice exposed daily to PFOS-free vehicle
+(VEH) or a daily dose of 0.5 mg/kg<sub>bw</sub> or 10 mg/kg<sub>bw</sub> PFOS for 7 days. Data were statistically analyzed using a two-way
+mixed ANOVA, followed by a Šidák post hoc test. The <italic>p</italic> values for multiple comparisons are reported in the graph,
+and significant differences are highlighted in red (<italic>p</italic> &lt; 0.05).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr3" xlink:href="tx4c00508_0003.jpg"><?cloudpmc-path blobs/1b78/12422536/9898d63fb667/tx4c00508_0003.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 1134?><?original-width 1354?><?scaled-height 567?><?scaled-width 677?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="tx4c00508_0003.gif"><?cloudpmc-path blobs/1b78/12422536/85ff09a7fbdb/tx4c00508_0003.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>The observed liver enlargement at high PFOS exposures
+is consistent
+with previous rodent studies and is likely
+caused by the increased proliferation of hepatocyte peroxisomes. Despite the significantly higher PFOS concentrations
+(14–25%) observed in the liver of Alb<sup>–/–</sup> mice compared to Alb<sup>+/+</sup> mice (<xref rid="fig1" ref-type="fig">Figure 
+</xref>), there was no corresponding increase in
+liver size between PFOS-dosed Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice (<xref rid="fig3" ref-type="fig">Figure 
+</xref>A).
+This suggests that the mechanisms responsible for PFOS-induced liver
+enlargement are independent of the elevated PFOS liver concentrations
+observed in albumin-deficient mice within the context of a 7 day PFOS
+exposure.</p></sec><sec id="sec3.4" disp-level="2"><label>3.4.</label><title>Liver Lipid Content and Triglyceride Levels</title><p>Liver lipids and plasma triglyceride levels were analyzed to explore
+the role of albumin in lipid regulation in mice administered daily
+doses of 0.5 or 10 mg of PFOS/kg<sub>bw</sub>. In the 0.5 mg/kg<sub>bw</sub> dosage group, no significant differences in liver lipid
+content were observed either within or between PFOS-dosed Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice (<xref rid="fig3" ref-type="fig">Figure 
+</xref>B). For the 10 mg/kg<sub>bw</sub> dosage, Alb<sup>+/+</sup> mice exhibited a 1.5-fold increase in
+liver lipid content compared to vehicle controls (<italic>p</italic> &lt; 0.01). Similarly, Alb<sup>–/–</sup> mice treated
+with PFOS displayed a 2.3-fold increase in liver lipid levels compared
+to their VEH controls (<italic>p</italic> &lt; 0.01). There was no
+significant difference in the lipid content between PFOS-dosed Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice for both doses.
+These findings agree with the total liver weights and liver/body weight
+ratios (<xref rid="fig3" ref-type="fig">Figure 
+</xref>A),
+further indicating that albumin does not play a role in the changes
+of lipid deposition over a 7 day PFOS dose. In the 0.5 mg/kg<sub>bw</sub> daily dosage group, there were no significant differences in plasma
+triglyceride (TG) levels among PFOS-dosed and vehicle control Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice (<xref rid="fig3" ref-type="fig">Figure 
+</xref>C, left plot). Conversely,
+Alb<sup>+/+</sup> mice dosed daily with 10 mg of PFOS/kg<sub>bw</sub> exhibited a significant 43% decrease in plasma TG levels (<italic>p</italic> = 0.02). Similarly, plasma TG levels in 10 mg PFOS/kg<sub>bw</sub>-dosed Alb<sup>–/–</sup> mice reduced to 66%
+of the levels observed in the corresponding vehicle controls; however,
+these were nonsignificant trends (<italic>p</italic> = 0.14).</p></sec><sec id="sec3.5" disp-level="2"><label>3.5.</label><title>Alanine Aminotransferase Levels</title><p>ALT
+levels were assessed as biomarkers for liver damage. In the 0.5 mg/kg<sub>bw</sub> dosage group, differences in plasma ALT levels were not
+statistically significant among PFOS-dosed and vehicle-dosed Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice (<xref rid="fig3" ref-type="fig">Figure 
+</xref>D, left plot). For the 10 mg/kg<sub>bw</sub> dosage, while plasma ALT levels in Alb<sup>+/+</sup> mice
+showed a slight decrease, they did not significantly differ from those
+in the control group (<italic>p</italic> = 0.25). However, Alb<sup>–/–</sup> mice treated with PFOS exhibited a 1.6-fold
+significant increase in plasma ALT levels (<italic>p</italic> = 0.02, <xref rid="fig3" ref-type="fig">Figure 
+</xref>D, right plot). Plasma
+ALT data were generally inconsistent and not in line with previously
+published data;<italic>
+,,
+</italic> however, the increase in ALT levels is consistent with the observations
+of significantly increased liver weight and lipid accumulation (<xref rid="fig3" ref-type="fig">Figure 
+</xref>A,B), suggesting
+liver damage caused by the daily 10 mg/kg<sub>bw</sub> PFOS dose.</p></sec><sec id="sec3.6" disp-level="2"><label>3.6.</label><title>Changes in Liver Proteome</title><p>Proteomic
+analyses were conducted on liver samples from Alb<sup>+/+</sup> and
+Alb<sup>–/–</sup> mice that had been dosed daily with
+vehicle or 0.5 mg/kg<sub>bw</sub> of PFOS, to explore the role of
+albumin on PFOS-induced alterations in liver protein expression under
+moderate exposure levels that did not trigger hepatotoxicity after
+7 days (<xref rid="fig3" ref-type="fig">Figure 
+</xref>).
+Protein levels differed considerably across all groups, suggesting
+that the baseline levels of proteins in Alb<sup>–/–</sup> mice differ distinctly from those of Alb<sup>+/+</sup> mice (WT),
+regardless of the PFOS exposure (<xref rid="fig4" ref-type="fig">Figure 
+</xref>). However, the most significant proteomic
+changes were observed between PFOS-exposed Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice, indicating the important role of albumin
+in PFOS-induced alterations in liver protein expression. Specifically,
+in Alb<sup>–/–</sup> mice exposed to PFOS, 195 proteins
+were uniquely altered compared to those in PFOS-exposed Alb<sup>+/+</sup> mice (<xref rid="fig4" ref-type="fig">Figure 
+</xref>),
+highlighting the significant role of albumin deficiency on the liver
+proteome response to PFOS.</p><fig id="fig4" position="float"><?disp-level 3?><label>4</label><caption><p>Individual and commonly observed proteins across
+treatment comparisons
+(WT = Alb<sup>+/+</sup>; VEH = vehicle control). The overlapping areas
+represent proteins with commonly altered expression across multiple
+comparisons, while nonoverlapping areas indicate proteins with expression
+changes unique to specific treatments. The Venn diagrams were created
+by Log2 transforming the treatment comparison fold changes and filtering
+out all insignificant Log2FC values (<italic>p</italic> &lt; 0.05).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr4" xlink:href="tx4c00508_0004.jpg"><?cloudpmc-path blobs/1b78/12422536/7a27114f9fc6/tx4c00508_0004.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 594?><?original-width 1292?><?scaled-height 297?><?scaled-width 646?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="tx4c00508_0004.gif"><?cloudpmc-path blobs/1b78/12422536/ad5dcf18d8b3/tx4c00508_0004.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>Ingenuity pathway analysis indicated a moderate
+inactivation of
+proteins involved in the hepatocyte nuclear factor 4 alpha (HNF4a)
+pathway in PFOS-dosed Alb<sup>–/–</sup> mice compared
+to that in Alb<sup>+/+</sup> mice. HNF4a is a crucial regulator of
+hepatocyte differentiation and the maintenance of liver functions,
+influencing bile acids, lipids, glucose, and drug metabolism.<italic>
+,
+</italic> It is also implicated in the onset and progression of nonalcoholic
+fatty liver disease (NAFLD) and is notably reduced in nonalcoholic
+steatohepatitis (NASH) patients and rodent models.
+</p></sec><sec id="sec3.7" disp-level="2"><label>3.7.</label><title>Gene Expression Specific to Lipid Metabolism</title><p>Expression levels of genes specific to lipid metabolism and accumulation
+were analyzed using RT-qPCR, including Fabp1, Fabp4, Enoyl-CoA hydratase,
+3-hydroxyacyl CoA dehydrogenase (Ehhadh), Cd36, Acyl-CoA thioesterase
+2 (Acot2), Cytochrome P450 27A1 (Cyp27a1), and fatty acid translocase
+2 (Fatp2). At daily doses of 0.5 mg PFOS/kg<sub>bw</sub>, there were
+no significant changes in the expression of Fabp1, Fabp4, Ehhadh,
+Acot2, and Cyp27a1 among PFOS-dosed and vehicle control Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S8</ext-link>). Notably, Cd36 was significantly upregulated by 12- and
+21-fold in PFOS-exposed Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice, respectively (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S8D</ext-link>). Fatp2
+was significantly upregulated 1.7-fold in PFOS-exposed Alb<sup>+/+</sup> mice (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S8G</ext-link>). Larger changes were
+observed for the 10 mg/kg<sub>bw</sub>/day treatment group. In both
+Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice, significant
+upregulation was observed: Fabp1 increased 2.2-fold and 2.4-fold,
+Ehhadh increased 25-fold and 34-fold, Cd36 increased 12-fold and 21-fold,
+and Acot2 increased 3.5-fold and 3.4-fold, respectively (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S8</ext-link>). No significant changes were observed
+for Cyp27a1, Fabp4, or Fatp2 at either PFOS dose.</p><p>Few studies
+have explored the connection between PFAS exposure and the HNF4a pathway,
+though a recent study confirmed alterations in proteins and genes
+of this pathway with PFOA and PFOS exposure. Differences in biological process interaction networks were highlighted
+by ShinyGo 8.0 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S10</ext-link>). In Alb<sup>–/–</sup> mice exposed to PFOS, unique biological processes
+such as the generation of precursor metabolites and energy, cellular
+respiration, aerobic respiration, and dicarboxylic acid metabolism
+were identified (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S10B</ext-link>). These findings
+provide insights into the differential responses observed between
+Alb<sup>+/+</sup> and Alb<sup>–/–</sup> mice under PFOS
+exposure.</p></sec><sec id="sec3.8" disp-level="2"><label>3.8.</label><title>Implications for PFOS Toxicokinetics and Toxicity
+in Humans</title><p>The primary objective of this study was to assess
+the role of albumin in PFOS liver accumulation and downstream hepatotoxicity.
+Fischer et al. recently postulated that variabilities in blood protein
+levels among humans could lead to differences in PFAS accumulation
+in toxicological target organs. Our rodent
+study demonstrates that decreased albumin levels can lead to significantly
+higher accumulation of PFOS in liver and kidneys (<xref rid="fig1" ref-type="fig">Figure 
+</xref>) and that higher unbound fractions
+of PFAS establish in these organs that are available to interact with
+toxicological targets (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S4</ext-link>). Similar
+trends are to be expected for PFAS of various classes with molecular
+weights of 400–600 g/mol (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">Figure S2</ext-link>). Future in vivo studies with albumin knockout mice should prioritize
+PFAS for which (i) albumin deficiency is expected to significantly
+affect liver/plasma distribution based on binding experiments (<xref rid="fig2" ref-type="fig">Figure 
+</xref>) and (ii) membrane
+transporter-mediated hepatic uptake was observed in vitro, such as
+PFHxS and fluorotelomers. Although the
+higher dose was selected to induce liver effects within a short time
+frame, consistent differences in PFOS plasma and liver concentrations
+between genotypes at both dose levels, including the lower, subtoxic
+dose, demonstrate the influence of albumin on PFOS disposition. These
+results indicate that albumin may affect PFAS toxicokinetics even
+at subacute doses relevant to humans. Studies under chronic, low-dose
+conditions are needed to confirm the implications for human health.</p><p>Considering the variability in albumin concentrations among humans
+due to genetic, environmental, and longitudinal factors, our study provides strong evidence that these
+differences could affect PFAS accumulation in target tissues, potentially
+leading to variable susceptibility to PFAS toxicity among individuals.
+For example, diseases that reduce albumin levels in blood, such as
+NAFLD, could lead to increased accumulation
+of PFAS in already functionally impaired liver tissue. This accumulation
+could trigger a feedback effect, as PFAS-induced hepatotoxicity could
+further decrease the level of albumin synthesis in the liver. We recommend
+future epidemiological studies to investigate the relationship among
+blood albumin levels, PFAS accumulation in target organs, and associated
+health effects.</p><p>Our 7 day exposure study with rodents demonstrated
+that proteins
+and genes within the HNF4a pathway and those associated with lipid
+metabolism and liver damage were significantly altered in PFOS-exposed
+Alb<sup>–/–</sup> mice as compared to Alb<sup>+/+</sup> mice. Despite these molecular changes, no significant differences
+were observed in the body weight, liver weight, or liver-to-body weight
+ratios, suggesting that albumin does not contribute to PFOS-induced
+liver enlargement. However, these end points were assessed after only
+7 days of PFOS exposure, and differences in apparent hepatotoxicity
+might emerge with longer exposures. To predict the effects in the
+context of human exposures to PFAS, we suggest evaluating the effect
+of albumin deficiency on toxicity outcomes in a chronic exposure setup
+to determine if changes in PFAS distribution lead to differences in
+toxicities under prolonged exposure conditions. Our framework, which
+includes binding assays, measurements of plasma and organ concentrations,
+and toxicological end points, effectively elucidates mechanisms linking
+PFAS exposures to toxicities and supports the prioritization of end
+points measured in epidemiological studies. Future studies can adapt
+this framework to test other factors influencing PFAS toxicokinetics
+and toxicity such as binding to other tissue constituents (e.g., globulins)
+or facilitated uptake by membrane transporters (e.g., OATPs).</p></sec></sec><sec id="sec21" disp-level="1"><title>Supplementary Material</title><supplementary-material id="sifile1" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="tx4c00508_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 1b78/12422536/b075480d9716/tx4c00508_si_001.pdf?><?cloudpmc-bucket app?><?size 1089815?></media></supplementary-material></sec><sec id="ack1" sec-type="ack" disp-level="1"><title>Acknowledgments</title><p>This work was supported by National Institute of
+Health (grant number P42ES027706). This material is based upon work
+conducted at a Rhode Island NSF EPSCoR research facility, Molecular
+Characterization Facility, supported in part by the National Science
+Foundation EPSCoR Cooperative Agreement # OIA-1655221, and at a Rhode
+Island Institutional Development Award (IDeA) Network of Biomedical
+Research Excellence from the National Institute of General Medical
+Sciences of the National Institutes of Health under grant number P20GM103430.
+The funders had no role in study design, data collection and analysis,
+decision to publish,
+or preparation of the manuscript. The TOC art was created by the authors
+with <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://BioRender.com" ext-link-type="uri">BioRender.com</ext-link>.</p></sec><sec id="notes1" disp-level="1"><p>The Supporting Information
+is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/10.1021/acs.chemrestox.4c00508?goto=supporting-info" ext-link-type="uri">https://pubs.acs.org/doi/10.1021/acs.chemrestox.4c00508</ext-link>.</p><list list-type="simple" id="silist"><list-item><p>Schematic of study design; images of sampled livers;
+LC–MS/MS method; urine concentrations; additional results of
+C18 fiber-based binding experiments with 24 PFAS; temporal changes
+in body weights; changes in lipid metabolism gene expression; altered
+liver pathways; and protein interaction networks (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.chemrestox.4c00508/suppl_file/tx4c00508_si_001.pdf" ext-link-type="uri">PDF</ext-link>)</p></list-item></list></sec><sec id="notes2" disp-level="1"><p>The authors
+declare the following competing financial interest(s): A.S. is a consultant
+for Guidepoint. The other authors declare no competing financial interest.</p></sec><sec id="ref-list1" sec-type="ref-list" disp-level="1"><title>References</title><sec id="ref-list1_sec2" disp-level="2"><ref-list><ref id="ref1"><mixed-citation id="cit1"><named-content content-type="citation-string">Sunderland E. M., Hu X. C., Dassuncao C., Tokranov A. K., Wagner C. C., Allen J. G.. A review of the pathways of human exposure to poly-
+and perfluoroalkyl substances (PFASs) and present understanding of
+health effects. J. Expo. Sci. Environ. Epidemiol. 2019;29(2):131–147. doi: 10.1038/s41370-018-0094-1.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41370-018-0094-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6380916"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30470793"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Expo. Sci. Environ. Epidemiol.&amp;title=A review of the pathways of human exposure to poly- and perfluoroalkyl substances (PFASs) and present understanding of health effects&amp;author=E. M. Sunderland&amp;author=X. C. Hu&amp;author=C. Dassuncao&amp;author=A. K. Tokranov&amp;author=C. C. Wagner&amp;volume=29&amp;issue=2&amp;publication_year=2019&amp;pages=131-147&amp;pmid=30470793&amp;doi=10.1038/s41370-018-0094-1&amp;"/></mixed-citation></ref><ref id="ref2"><mixed-citation id="cit2"><named-content content-type="citation-string">Olsen G. W., Burris J. M., Ehresman D. J., Froehlich J. W., Seacat A. M., Butenhoff J. L., Zobel L. R.. Half-life of serum
+elimination of perfluorooctanesulfonate,perfluorohexanesulfonate,
+and perfluorooctanoate in retired fluorochemical production workers. Environ. Health Perspect. 2007;115(9):1298–1305. doi: 10.1289/ehp.10009.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1289/ehp.10009"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC1964923"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17805419"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Health Perspect.&amp;title=Half-life of serum elimination of perfluorooctanesulfonate,perfluorohexanesulfonate, and perfluorooctanoate in retired fluorochemical production workers&amp;author=G. W. Olsen&amp;author=J. M. Burris&amp;author=D. J. Ehresman&amp;author=J. W. Froehlich&amp;author=A. M. Seacat&amp;volume=115&amp;issue=9&amp;publication_year=2007&amp;pages=1298-1305&amp;pmid=17805419&amp;doi=10.1289/ehp.10009&amp;"/></mixed-citation></ref><ref id="ref3"><mixed-citation id="cit3"><named-content content-type="citation-string">Li Y., Fletcher T., Mucs D., Scott K., Lindh C. H., Tallving P., Jakobsson K.. Half-lives of PFOS, PFHxS and PFOA
+after end of exposure to contaminated drinking water. Occup. Environ. Med. 2018;75(1):46–51. doi: 10.1136/oemed-2017-104651.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/oemed-2017-104651"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5749314"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29133598"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Occup. Environ. Med.&amp;title=Half-lives of PFOS, PFHxS and PFOA after end of exposure to contaminated drinking water&amp;author=Y. Li&amp;author=T. Fletcher&amp;author=D. Mucs&amp;author=K. Scott&amp;author=C. H. Lindh&amp;volume=75&amp;issue=1&amp;publication_year=2018&amp;pages=46-51&amp;pmid=29133598&amp;doi=10.1136/oemed-2017-104651&amp;"/></mixed-citation></ref><ref id="ref4"><mixed-citation id="cit4"><named-content content-type="citation-string">
+Centers for Disease Control and Prevention (CDC), National Center
+for Health Statistics (NCHS). National Health
+and Nutrition Examination Survey Data; U.S. Department of Health and Human Services, Centers for Disease
+Control and Prevention: Hyattsville,
+MD, 2017–2018. [accessed October
+17, 2024].</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="Centers for Disease Control and Prevention (CDC), National Center for Health Statistics (NCHS). National Health and Nutrition Examination Survey Data; U.S. Department of Health and Human Services, Centers for Disease Control and Prevention: Hyattsville, MD, 2017–2018. [accessed October 17, 2024]."/></mixed-citation></ref><ref id="ref5"><mixed-citation id="cit5"><named-content content-type="citation-string">Sonnenberg N. K., Ojewole A. E., Ojewole C. O., Lucky O. P., Kusi J.. Trends in
+Serum Per- and Polyfluoroalkyl Substance (PFAS) Concentrations in
+Teenagers and Adults, 1999–2018 NHANES. Int. J. Environ. Res. Publ. Health. 2023;20(21):6984. doi: 10.3390/ijerph20216984.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/ijerph20216984"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10648322"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37947542"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int. J. Environ. Res. Publ. Health&amp;title=Trends in Serum Per- and Polyfluoroalkyl Substance (PFAS) Concentrations in Teenagers and Adults, 1999–2018 NHANES&amp;author=N. K. Sonnenberg&amp;author=A. E. Ojewole&amp;author=C. O. Ojewole&amp;author=O. P. Lucky&amp;author=J. Kusi&amp;volume=20&amp;issue=21&amp;publication_year=2023&amp;pages=6984&amp;pmid=37947542&amp;doi=10.3390/ijerph20216984&amp;"/></mixed-citation></ref><ref id="ref6"><mixed-citation id="cit6"><named-content content-type="citation-string">Uhl M., Schoeters G., Govarts E., Bil W., Fletcher T., Haug L. S., Hoogenboom R., Gundacker C., Trier X., Fernandez M. F., Calvo A. C., López M. E., Coertjens D., Santonen T., Murínová L. P., Richterová D., Brouwere K. D., Hauzenberger I., Kolossa-Gehring M., Halldórsson T.
+I.. PFASs: What can we learn
+from the European Human Biomonitoring Initiative HBM4 EU. Int. J. Hyg Environ. Health. 2023;250:114168. doi: 10.1016/j.ijheh.2023.114168.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ijheh.2023.114168"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37068413"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int. J. Hyg Environ. Health&amp;title=PFASs: What can we learn from the European Human Biomonitoring Initiative HBM4 EU&amp;author=M. Uhl&amp;author=G. Schoeters&amp;author=E. Govarts&amp;author=W. Bil&amp;author=T. Fletcher&amp;volume=250&amp;publication_year=2023&amp;pages=114168&amp;pmid=37068413&amp;doi=10.1016/j.ijheh.2023.114168&amp;"/></mixed-citation></ref><ref id="ref7"><mixed-citation id="cit7"><named-content content-type="citation-string">Nilsson S., Kucharski N., Orr J., Bräunig J., Thompson K., Jolliet O., Langguth D., Kennedy C., Hobson P., Thomas K. V., Mueller J. F., Toms L.-M.. Serum concentrations
+of PFAS across Australian States and Territories. Int. J. Hyg Environ. Health. 2025;265:114542. doi: 10.1016/j.ijheh.2025.114542.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ijheh.2025.114542"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="39955832"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int. J. Hyg Environ. Health&amp;title=Serum concentrations of PFAS across Australian States and Territories&amp;author=S. Nilsson&amp;author=N. Kucharski&amp;author=J. Orr&amp;author=J. Bräunig&amp;author=K. Thompson&amp;volume=265&amp;publication_year=2025&amp;pages=114542&amp;pmid=39955832&amp;doi=10.1016/j.ijheh.2025.114542&amp;"/></mixed-citation></ref><ref id="ref8"><mixed-citation id="cit8"><named-content content-type="citation-string">Wang L., Wang Y., Liang Y., Li J., Liu Y., Zhang J., Zhang A., Fu J., Jiang G.. PFOS induced
+lipid metabolism disturbances in BALB/c mice through inhibition of
+low density lipoproteins excretion. Sci. Rep. 2014;4:4582. doi: 10.1038/srep04582.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/srep04582"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3974142"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24694979"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Rep.&amp;title=PFOS induced lipid metabolism disturbances in BALB/c mice through inhibition of low density lipoproteins excretion&amp;author=L. Wang&amp;author=Y. Wang&amp;author=Y. Liang&amp;author=J. Li&amp;author=Y. Liu&amp;volume=4&amp;publication_year=2014&amp;pages=4582&amp;pmid=24694979&amp;doi=10.1038/srep04582&amp;"/></mixed-citation></ref><ref id="ref9"><mixed-citation id="cit9"><named-content content-type="citation-string">Salihovic S., Stubleski J., Kärrman A., Larsson A., Fall T., Lind L., Lind P. M.. Changes in markers of liver function
+in relation to changes in perfluoroalkyl substances - A longitudinal
+study. Environ. Int. 2018;117:196–203. doi: 10.1016/j.envint.2018.04.052.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envint.2018.04.052"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29754000"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Int.&amp;title=Changes in markers of liver function in relation to changes in perfluoroalkyl substances - A longitudinal study&amp;author=S. Salihovic&amp;author=J. Stubleski&amp;author=A. Kärrman&amp;author=A. Larsson&amp;author=T. Fall&amp;volume=117&amp;publication_year=2018&amp;pages=196-203&amp;pmid=29754000&amp;doi=10.1016/j.envint.2018.04.052&amp;"/></mixed-citation></ref><ref id="ref10"><mixed-citation id="cit10"><named-content content-type="citation-string">Das K. P., Wood C. R., Lin M. T., Starkov A. A., Lau C., Wallace K. B., Corton J. C., Abbott B. D.. Perfluoroalkyl acids-induced
+liver steatosis: Effects on genes controlling lipid homeostasis. Toxicology. 2017;378:37–52. doi: 10.1016/j.tox.2016.12.007.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tox.2016.12.007"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5994610"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28049043"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicology&amp;title=Perfluoroalkyl acids-induced liver steatosis: Effects on genes controlling lipid homeostasis&amp;author=K. P. Das&amp;author=C. R. Wood&amp;author=M. T. Lin&amp;author=A. A. Starkov&amp;author=C. Lau&amp;volume=378&amp;publication_year=2017&amp;pages=37-52&amp;pmid=28049043&amp;doi=10.1016/j.tox.2016.12.007&amp;"/></mixed-citation></ref><ref id="ref11"><mixed-citation id="cit11"><named-content content-type="citation-string">Forsthuber M., Kaiser A. M., Granitzer S., Hassl I., Hengstschläger M., Stangl H., Gundacker C.. Albumin is the major carrier protein
+for PFOS, PFOA, PFHxS, PFNA and PFDA in human plasma. Environ. Int. 2020;137:105324. doi: 10.1016/j.envint.2019.105324.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envint.2019.105324"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32109724"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Int.&amp;title=Albumin is the major carrier protein for PFOS, PFOA, PFHxS, PFNA and PFDA in human plasma&amp;author=M. Forsthuber&amp;author=A. M. Kaiser&amp;author=S. Granitzer&amp;author=I. Hassl&amp;author=M. Hengstschläger&amp;volume=137&amp;publication_year=2020&amp;pages=105324&amp;pmid=32109724&amp;doi=10.1016/j.envint.2019.105324&amp;"/></mixed-citation></ref><ref id="ref12"><mixed-citation id="cit12"><named-content content-type="citation-string">Zaccherini G., Bernardi M.. The role and indications
+of albumin in advanced liver
+disease. Acta Gastro Enterol. Belg. 2019;82(2):301–308.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31314192"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Acta Gastro Enterol. Belg.&amp;title=The role and indications of albumin in advanced liver disease&amp;author=G. Zaccherini&amp;author=M. Bernardi&amp;volume=82&amp;issue=2&amp;publication_year=2019&amp;pages=301-308&amp;pmid=31314192&amp;"/></mixed-citation></ref><ref id="ref13"><mixed-citation id="cit13"><named-content content-type="citation-string">Zhang X., Ren X., Sun W., Griffin N., Wang L., Liu H.. PFOA exposure
+induces aberrant glucose and lipid metabolism in the rat liver through
+the AMPK/mTOR pathway. Toxicology. 2023;493:153551. doi: 10.1016/j.tox.2023.153551.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tox.2023.153551"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37236338"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicology&amp;title=PFOA exposure induces aberrant glucose and lipid metabolism in the rat liver through the AMPK/mTOR pathway&amp;author=X. Zhang&amp;author=X. Ren&amp;author=W. Sun&amp;author=N. Griffin&amp;author=L. Wang&amp;volume=493&amp;publication_year=2023&amp;pages=153551&amp;pmid=37236338&amp;doi=10.1016/j.tox.2023.153551&amp;"/></mixed-citation></ref><ref id="ref14"><mixed-citation id="cit14"><named-content content-type="citation-string">Seacat A. M., Thomford P. J., Hansen K. J., Olsen G. W., Case M. T., Butenhoff J. L.. Subchronic toxicity studies on perfluorooctanesulfonate
+potassium salt in cynomolgus monkeys. Toxicol.
+Sci. 2002;68(1):249–264. doi: 10.1093/toxsci/68.1.249.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/toxsci/68.1.249"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="12075127"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicol. Sci.&amp;title=Subchronic toxicity studies on perfluorooctanesulfonate potassium salt in cynomolgus monkeys&amp;author=A. M. Seacat&amp;author=P. J. Thomford&amp;author=K. J. Hansen&amp;author=G. W. Olsen&amp;author=M. T. Case&amp;volume=68&amp;issue=1&amp;publication_year=2002&amp;pages=249-264&amp;pmid=12075127&amp;doi=10.1093/toxsci/68.1.249&amp;"/></mixed-citation></ref><ref id="ref15"><mixed-citation id="cit15"><named-content content-type="citation-string">Wang P., Liu D., Yan S., Cui J., Liang Y., Ren S.. Adverse Effects
+of Perfluorooctane Sulfonate on the Liver and Relevant Mechanisms. Toxics. 2022;10(5):265. doi: 10.3390/toxics10050265.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/toxics10050265"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9144769"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35622678"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxics&amp;title=Adverse Effects of Perfluorooctane Sulfonate on the Liver and Relevant Mechanisms&amp;author=P. Wang&amp;author=D. Liu&amp;author=S. Yan&amp;author=J. Cui&amp;author=Y. Liang&amp;volume=10&amp;issue=5&amp;publication_year=2022&amp;pages=265&amp;pmid=35622678&amp;doi=10.3390/toxics10050265&amp;"/></mixed-citation></ref><ref id="ref16"><mixed-citation id="cit16"><named-content content-type="citation-string">Gallo V., Leonardi G., Genser B., Lopez-Espinosa M. J., Frisbee S. J., Karlsson L., Ducatman A. M., Fletcher T.. Serum perfluorooctanoate
+(PFOA) and perfluorooctane sulfonate (PFOS) concentrations and liver
+function biomarkers in a population with elevated PFOA exposure. Environ. Health Perspect. 2012;120(5):655–660. doi: 10.1289/ehp.1104436.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1289/ehp.1104436"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3346788"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22289616"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Health Perspect.&amp;title=Serum perfluorooctanoate (PFOA) and perfluorooctane sulfonate (PFOS) concentrations and liver function biomarkers in a population with elevated PFOA exposure&amp;author=V. Gallo&amp;author=G. Leonardi&amp;author=B. Genser&amp;author=M. J. Lopez-Espinosa&amp;author=S. J. Frisbee&amp;volume=120&amp;issue=5&amp;publication_year=2012&amp;pages=655-660&amp;pmid=22289616&amp;doi=10.1289/ehp.1104436&amp;"/></mixed-citation></ref><ref id="ref17"><mixed-citation id="cit17"><named-content content-type="citation-string">Nelson J. W., Hatch E. E., Webster T. F.. Exposure to polyfluoroalkyl chemicals
+and cholesterol, body weight, and insulin resistance in the general
+U.S. population. Environ. Health Perspect. 2010;118(2):197–202. doi: 10.1289/ehp.0901165.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1289/ehp.0901165"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2831917"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20123614"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Health Perspect.&amp;title=Exposure to polyfluoroalkyl chemicals and cholesterol, body weight, and insulin resistance in the general U.S. population&amp;author=J. W. Nelson&amp;author=E. E. Hatch&amp;author=T. F. Webster&amp;volume=118&amp;issue=2&amp;publication_year=2010&amp;pages=197-202&amp;pmid=20123614&amp;doi=10.1289/ehp.0901165&amp;"/></mixed-citation></ref><ref id="ref18"><mixed-citation id="cit18"><named-content content-type="citation-string">Wan H. T., Zhao Y. G., Wei X., Hui K. Y., Giesy J. P., Wong C. K. C.. PFOS-induced
+hepatic steatosis, the mechanistic actions
+on β-oxidation and lipid transport. Biochim.
+Biophys. Acta, Gen. Subj. 2012;1820(7):1092–1101. doi: 10.1016/j.bbagen.2012.03.010.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.bbagen.2012.03.010"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22484034"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochim. Biophys. Acta, Gen. Subj.&amp;title=PFOS-induced hepatic steatosis, the mechanistic actions on β-oxidation and lipid transport&amp;author=H. T. Wan&amp;author=Y. G. Zhao&amp;author=X. Wei&amp;author=K. Y. Hui&amp;author=J. P. Giesy&amp;volume=1820&amp;issue=7&amp;publication_year=2012&amp;pages=1092-1101&amp;pmid=22484034&amp;doi=10.1016/j.bbagen.2012.03.010&amp;"/></mixed-citation></ref><ref id="ref19"><mixed-citation id="cit19"><named-content content-type="citation-string">Bjork J. A., Butenhoff J. L., Wallace K. B.. Multiplicity of
+nuclear receptor
+activation by PFOA and PFOS in primary human and rodent hepatocytes. Toxicology. 2011;288(1–3):8–17. doi: 10.1016/j.tox.2011.06.012.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tox.2011.06.012"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21723365"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicology&amp;title=Multiplicity of nuclear receptor activation by PFOA and PFOS in primary human and rodent hepatocytes&amp;author=J. A. Bjork&amp;author=J. L. Butenhoff&amp;author=K. B. Wallace&amp;volume=288&amp;issue=1–3&amp;publication_year=2011&amp;pages=8-17&amp;pmid=21723365&amp;doi=10.1016/j.tox.2011.06.012&amp;"/></mixed-citation></ref><ref id="ref20"><mixed-citation id="cit20"><named-content content-type="citation-string">Costello E., Rock S., Stratakis N., Eckel S. P., Walker D. I., Valvi D., Cserbik D., Jenkins T., Xanthakos S. A., Kohli R., Sisley S., Vasiliou V., La Merrill M. A., Rosen H., Conti D. V., McConnell R., Chatzi L.. Exposure to per- and Polyfluoroalkyl
+Substances and
+Markers of Liver Injury: A Systematic Review and Meta-Analysis. Environ. Health Perspect. 2022;130(4):46001. doi: 10.1289/ehp10092.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1289/ehp10092"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9044977"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35475652"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Health Perspect.&amp;title=Exposure to per- and Polyfluoroalkyl Substances and Markers of Liver Injury: A Systematic Review and Meta-Analysis&amp;author=E. Costello&amp;author=S. Rock&amp;author=N. Stratakis&amp;author=S. P. Eckel&amp;author=D. I. Walker&amp;volume=130&amp;issue=4&amp;publication_year=2022&amp;pages=46001&amp;pmid=35475652&amp;doi=10.1289/ehp10092&amp;"/></mixed-citation></ref><ref id="ref21"><mixed-citation id="cit21"><named-content content-type="citation-string">Fischer F. C., Ludtke S., Thackray C., Pickard H. M., Haque F., Dassuncao C., Endo S., Schaider L., Sunderland E. M.. Binding
+of Per- and Polyfluoroalkyl Substances (PFAS) to Serum Proteins: Implications
+for Toxicokinetics in Humans. Environ. Sci.
+Technol. 2024;58(2):1055–1063. doi: 10.1021/acs.est.3c07415.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.3c07415"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11149785"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38166384"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Binding of Per- and Polyfluoroalkyl Substances (PFAS) to Serum Proteins: Implications for Toxicokinetics in Humans&amp;author=F. C. Fischer&amp;author=S. Ludtke&amp;author=C. Thackray&amp;author=H. M. Pickard&amp;author=F. Haque&amp;volume=58&amp;issue=2&amp;publication_year=2024&amp;pages=1055-1063&amp;pmid=38166384&amp;doi=10.1021/acs.est.3c07415&amp;"/></mixed-citation></ref><ref id="ref22"><mixed-citation id="cit22"><named-content content-type="citation-string">Li W., Hu Y., Bischel H. N.. In-Vitro and In-Silico Assessment of Per- and Polyfluoroalkyl
+Substances (PFAS) in Aqueous Film-Forming Foam (AFFF) Binding to Human
+Serum Albumin. Toxics. 2021;9(3):63. doi: 10.3390/toxics9030063.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/toxics9030063"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8002870"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33803062"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxics&amp;title=In-Vitro and In-Silico Assessment of Per- and Polyfluoroalkyl Substances (PFAS) in Aqueous Film-Forming Foam (AFFF) Binding to Human Serum Albumin&amp;author=W. Li&amp;author=Y. Hu&amp;author=H. N. Bischel&amp;volume=9&amp;issue=3&amp;publication_year=2021&amp;pages=63&amp;pmid=33803062&amp;doi=10.3390/toxics9030063&amp;"/></mixed-citation></ref><ref id="ref23"><mixed-citation id="cit23"><named-content content-type="citation-string">Keller F., Maiga M., Neumayer H. H., Lode H., Distler A.. Pharmacokinetic
+effects of altered plasma protein binding of drugs in renal disease. Eur. J. Drug Metab. Pharmacokinet. 1984;9(3):275–282. doi: 10.1007/BF03189651.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/BF03189651"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="6519129"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur. J. Drug Metab. Pharmacokinet.&amp;title=Pharmacokinetic effects of altered plasma protein binding of drugs in renal disease&amp;author=F. Keller&amp;author=M. Maiga&amp;author=H. H. Neumayer&amp;author=H. Lode&amp;author=A. Distler&amp;volume=9&amp;issue=3&amp;publication_year=1984&amp;pages=275-282&amp;pmid=6519129&amp;doi=10.1007/BF03189651&amp;"/></mixed-citation></ref><ref id="ref24"><mixed-citation id="cit24"><named-content content-type="citation-string">Summerfield S. G., Yates J. W. T., Fairman D. A.. Free Drug Theory - No Longer Just
+a Hypothesis? Pharm. Res. 2022;39(2):213–222. doi: 10.1007/s11095-022-03172-7.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s11095-022-03172-7"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35112229"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Pharm. Res.&amp;title=Free Drug Theory - No Longer Just a Hypothesis?&amp;author=S. G. Summerfield&amp;author=J. W. T. Yates&amp;author=D. A. Fairman&amp;volume=39&amp;issue=2&amp;publication_year=2022&amp;pages=213-222&amp;pmid=35112229&amp;doi=10.1007/s11095-022-03172-7&amp;"/></mixed-citation></ref><ref id="ref25"><mixed-citation id="cit25"><named-content content-type="citation-string">Ehresman D. J., Froehlich J. W., Olsen G. W., Chang S. C., Butenhoff J. L.. Comparison
+of human whole blood, plasma, and serum matrices for the determination
+of perfluorooctanesulfonate (PFOS), perfluorooctanoate (PFOA), and
+other fluorochemicals. Environ. Res. 2007;103(2):176–184. doi: 10.1016/j.envres.2006.06.008.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.envres.2006.06.008"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16893538"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Res.&amp;title=Comparison of human whole blood, plasma, and serum matrices for the determination of perfluorooctanesulfonate (PFOS), perfluorooctanoate (PFOA), and other fluorochemicals&amp;author=D. J. Ehresman&amp;author=J. W. Froehlich&amp;author=G. W. Olsen&amp;author=S. C. Chang&amp;author=J. L. Butenhoff&amp;volume=103&amp;issue=2&amp;publication_year=2007&amp;pages=176-184&amp;pmid=16893538&amp;doi=10.1016/j.envres.2006.06.008&amp;"/></mixed-citation></ref><ref id="ref26"><mixed-citation id="cit26"><named-content content-type="citation-string">Beesoon S., Martin J. W.. Isomer-Specific
+Binding Affinity of Perfluorooctanesulfonate
+(PFOS) and Perfluorooctanoate (PFOA) to Serum Proteins. Environ. Sci. Technol. 2015;49(9):5722–5731. doi: 10.1021/es505399w.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/es505399w"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25826685"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Isomer-Specific Binding Affinity of Perfluorooctanesulfonate (PFOS) and Perfluorooctanoate (PFOA) to Serum Proteins&amp;author=S. Beesoon&amp;author=J. W. Martin&amp;volume=49&amp;issue=9&amp;publication_year=2015&amp;pages=5722-5731&amp;pmid=25826685&amp;doi=10.1021/es505399w&amp;"/></mixed-citation></ref><ref id="ref27"><mixed-citation id="cit27"><named-content content-type="citation-string">Levitt D. G., Levitt M. D.. Human serum albumin homeostasis: a new look at the
+roles of synthesis, catabolism, renal and gastrointestinal excretion,
+and the clinical value of serum albumin measurements. Int. J. Gen Med. 2016;9:229–255. doi: 10.2147/IJGM.S102819.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2147/IJGM.S102819"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4956071"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27486341"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int. J. Gen Med.&amp;title=Human serum albumin homeostasis: a new look at the roles of synthesis, catabolism, renal and gastrointestinal excretion, and the clinical value of serum albumin measurements&amp;author=D. G. Levitt&amp;author=M. D. Levitt&amp;volume=9&amp;publication_year=2016&amp;pages=229-255&amp;pmid=27486341&amp;doi=10.2147/IJGM.S102819&amp;"/></mixed-citation></ref><ref id="ref28"><mixed-citation id="cit28"><named-content content-type="citation-string">
+
+Moman, R. N.
+; 
+Gupta, N.
+; 
+Varacallo, M.
+. 
+Physiology,
+Albumin. In StatPearls; StatPearls Publishing
+Copyright 2024, StatPearls Publishing LLC.: Treasure Island (FL), 2024.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=StatPearls&amp;publication_year=2024&amp;"/></mixed-citation></ref><ref id="ref29"><mixed-citation id="cit29"><named-content content-type="citation-string">
+
+Damjanov, I.
+
+Chapter 3 - Hemodynamic
+Disorders. In Pathology Secrets, 3rd ed.; 
+Damjanov, I.
+, Ed.; Mosby: Philadelphia, 2009; pp 38–57.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Pathology Secrets&amp;publication_year=2009&amp;"/></mixed-citation></ref><ref id="ref30"><mixed-citation id="cit30"><named-content content-type="citation-string">van
+der Vusse G. J.. Albumin as fatty acid transporter. Drug Metab. Pharmacokinet. 2009;24(4):300–307. doi: 10.2133/dmpk.24.300.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2133/dmpk.24.300"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19745557"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Drug Metab. Pharmacokinet.&amp;title=Albumin as fatty acid transporter&amp;author=G. J. van der Vusse&amp;volume=24&amp;issue=4&amp;publication_year=2009&amp;pages=300-307&amp;pmid=19745557&amp;doi=10.2133/dmpk.24.300&amp;"/></mixed-citation></ref><ref id="ref31"><mixed-citation id="cit31"><named-content content-type="citation-string">
+
+Moman, R. N.
+; 
+Gupta, N.
+; 
+Varacallo, M.
+. 
+Physiology, Albumin; StatPearls Publishing: Treasure Island (FL), 2023.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29083605"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Physiology, Albumin&amp;publication_year=2023&amp;"/></mixed-citation></ref><ref id="ref32"><mixed-citation id="cit32"><named-content content-type="citation-string">Ryu S., Burchett W., Zhang S., Modaresi S. M. S., Agudelo
+Areiza J., Kaye E., Fischer F. C., Slitt A. L.. Species-Specific
+Unbound Fraction Differences in Highly Bound PFAS: A Comparative Study
+across Human, Rat, and Mouse Plasma and Albumin. Toxics. 2024;12(4):253. doi: 10.3390/toxics12040253.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/toxics12040253"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11054487"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38668476"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxics&amp;title=Species-Specific Unbound Fraction Differences in Highly Bound PFAS: A Comparative Study across Human, Rat, and Mouse Plasma and Albumin&amp;author=S. Ryu&amp;author=W. Burchett&amp;author=S. Zhang&amp;author=S. M. S. Modaresi&amp;author=J. Agudelo Areiza&amp;volume=12&amp;issue=4&amp;publication_year=2024&amp;pages=253&amp;pmid=38668476&amp;doi=10.3390/toxics12040253&amp;"/></mixed-citation></ref><ref id="ref33"><mixed-citation id="cit33"><named-content content-type="citation-string">Crisalli A. M., Cai A., Cho B. P.. Probing
+the Interactions of Perfluorocarboxylic Acids
+of Various Chain Lengths with Human Serum Albumin: Calorimetric and
+Spectroscopic Investigations. Chem. Res. Toxicol. 2023;36(4):703–713. doi: 10.1021/acs.chemrestox.3c00011.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.chemrestox.3c00011"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11091765"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37001030"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Chem. Res. Toxicol.&amp;title=Probing the Interactions of Perfluorocarboxylic Acids of Various Chain Lengths with Human Serum Albumin: Calorimetric and Spectroscopic Investigations&amp;author=A. M. Crisalli&amp;author=A. Cai&amp;author=B. P. Cho&amp;volume=36&amp;issue=4&amp;publication_year=2023&amp;pages=703-713&amp;pmid=37001030&amp;doi=10.1021/acs.chemrestox.3c00011&amp;"/></mixed-citation></ref><ref id="ref34"><mixed-citation id="cit34"><named-content content-type="citation-string">Bischel H. N., MacManus-Spencer L. A., Zhang C. J., Luthy R. G.. Strong Associations
+of Short-Chain Perfluoroalkyl Acids with Serum Albumin and Investigation
+of Binding Mechanisms. Environ. Toxicol. Chem. 2011;30(11):2423–2430. doi: 10.1002/etc.647.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/etc.647"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21842491"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Toxicol. Chem.&amp;title=Strong Associations of Short-Chain Perfluoroalkyl Acids with Serum Albumin and Investigation of Binding Mechanisms&amp;author=H. N. Bischel&amp;author=L. A. MacManus-Spencer&amp;author=C. J. Zhang&amp;author=R. G. Luthy&amp;volume=30&amp;issue=11&amp;publication_year=2011&amp;pages=2423-2430&amp;pmid=21842491&amp;doi=10.1002/etc.647&amp;"/></mixed-citation></ref><ref id="ref35"><mixed-citation id="cit35"><named-content content-type="citation-string">Ryu S., Yamaguchi E., Sadegh Modaresi S. M., Agudelo J., Costales C., West M. A., Fischer F., Slitt A. L.. Evaluation of 14
+PFAS for Permeability and Organic Anion Transporter Interactions:
+Implications for Renal Clearance in Humans. Chemosphere. 2024;361:142390. doi: 10.1016/j.chemosphere.2024.142390.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.chemosphere.2024.142390"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11774580"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38801906"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Chemosphere&amp;title=Evaluation of 14 PFAS for Permeability and Organic Anion Transporter Interactions: Implications for Renal Clearance in Humans&amp;author=S. Ryu&amp;author=E. Yamaguchi&amp;author=S. M. Sadegh Modaresi&amp;author=J. Agudelo&amp;author=C. Costales&amp;volume=361&amp;publication_year=2024&amp;pages=142390&amp;pmid=38801906&amp;doi=10.1016/j.chemosphere.2024.142390&amp;"/></mixed-citation></ref><ref id="ref36"><mixed-citation id="cit36"><named-content content-type="citation-string">Ebert A., Allendorf F., Berger U., Goss K. U., Ulrich N.. Membrane/Water
+Partitioning and Permeabilities of Perfluoroalkyl Acids and Four of
+their Alternatives and the Effects on Toxicokinetic Behavior. Environ. Sci. Technol. 2020;54(8):5051–5061. doi: 10.1021/acs.est.0c00175.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.0c00175"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32212724"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Membrane/Water Partitioning and Permeabilities of Perfluoroalkyl Acids and Four of their Alternatives and the Effects on Toxicokinetic Behavior&amp;author=A. Ebert&amp;author=F. Allendorf&amp;author=U. Berger&amp;author=K. U. Goss&amp;author=N. Ulrich&amp;volume=54&amp;issue=8&amp;publication_year=2020&amp;pages=5051-5061&amp;pmid=32212724&amp;doi=10.1021/acs.est.0c00175&amp;"/></mixed-citation></ref><ref id="ref37"><mixed-citation id="cit37"><named-content content-type="citation-string">Louisse J., Dellafiora L., van den Heuvel J. J.
+M. W., Rijkers D., Leenders L., Dorne J.-L. C. M., Punt A., Russel F. G. M., Koenderink J. B.. Perfluoroalkyl substances (PFASs)
+are substrates of the renal human organic anion transporter 4 (OAT4) Arch. Toxicol. 2023;97(3):685–696. doi: 10.1007/s00204-022-03428-6.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00204-022-03428-6"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9968691"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36436016"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Arch. Toxicol.&amp;title=Perfluoroalkyl substances (PFASs) are substrates of the renal human organic anion transporter 4 (OAT4)&amp;author=J. Louisse&amp;author=L. Dellafiora&amp;author=J. J. M. W. van den Heuvel&amp;author=D. Rijkers&amp;author=L. Leenders&amp;volume=97&amp;issue=3&amp;publication_year=2023&amp;pages=685-696&amp;pmid=36436016&amp;doi=10.1007/s00204-022-03428-6&amp;"/></mixed-citation></ref><ref id="ref38"><mixed-citation id="cit38"><named-content content-type="citation-string">Yang C.-H., Glover K. P., Han X.. Organic anion transporting
+polypeptide
+(Oatp) 1a1-mediated perfluorooctanoate transport and evidence for
+a renal reabsorption mechanism of Oatp1a1 in renal elimination of
+perfluorocarboxylates in rats. Toxicol. Lett. 2009;190(2):163–171. doi: 10.1016/j.toxlet.2009.07.011.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.toxlet.2009.07.011"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19616083"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicol. Lett.&amp;title=Organic anion transporting polypeptide (Oatp) 1a1-mediated perfluorooctanoate transport and evidence for a renal reabsorption mechanism of Oatp1a1 in renal elimination of perfluorocarboxylates in rats&amp;author=C.-H. Yang&amp;author=K. P. Glover&amp;author=X. Han&amp;volume=190&amp;issue=2&amp;publication_year=2009&amp;pages=163-171&amp;pmid=19616083&amp;doi=10.1016/j.toxlet.2009.07.011&amp;"/></mixed-citation></ref><ref id="ref39"><mixed-citation id="cit39"><named-content content-type="citation-string">Cao H., Zhou Z., Hu Z., Wei C., Li J., Wang L., Liu G., Zhang J., Wang Y., Wang T., Liang Y.. Effect of Enterohepatic
+Circulation
+on the Accumulation of Per- and Polyfluoroalkyl Substances: Evidence
+from Experimental and Computational Studies. Environ. Sci. Technol. 2022;56(5):3214–3224. doi: 10.1021/acs.est.1c07176.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.est.1c07176"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35138827"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Sci. Technol.&amp;title=Effect of Enterohepatic Circulation on the Accumulation of Per- and Polyfluoroalkyl Substances: Evidence from Experimental and Computational Studies&amp;author=H. Cao&amp;author=Z. Zhou&amp;author=Z. Hu&amp;author=C. Wei&amp;author=J. Li&amp;volume=56&amp;issue=5&amp;publication_year=2022&amp;pages=3214-3224&amp;pmid=35138827&amp;doi=10.1021/acs.est.1c07176&amp;"/></mixed-citation></ref><ref id="ref40"><mixed-citation id="cit40"><named-content content-type="citation-string">Worley R. R., Fisher J.. Application of physiologically-based pharmacokinetic
+modeling to explore the role of kidney transporters in renal reabsorption
+of perfluorooctanoic acid in the rat. Toxicol.
+Appl. Pharmacol. 2015;289(3):428–441. doi: 10.1016/j.taap.2015.10.017.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.taap.2015.10.017"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4662604"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26522833"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicol. Appl. Pharmacol.&amp;title=Application of physiologically-based pharmacokinetic modeling to explore the role of kidney transporters in renal reabsorption of perfluorooctanoic acid in the rat&amp;author=R. R. Worley&amp;author=J. Fisher&amp;volume=289&amp;issue=3&amp;publication_year=2015&amp;pages=428-441&amp;pmid=26522833&amp;doi=10.1016/j.taap.2015.10.017&amp;"/></mixed-citation></ref><ref id="ref41"><mixed-citation id="cit41"><named-content content-type="citation-string">Roopenian D. C., Low B. E., Christianson G. J., Proetzel G., Sproule T. J., Wiles M. V.. Albumin-deficient
+mouse models for studying metabolism
+of human albumin and pharmacokinetics of albumin-based drugs. MAbs. 2015;7(2):344–351. doi: 10.1080/19420862.2015.1008345.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1080/19420862.2015.1008345"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4623309"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25654695"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=MAbs&amp;title=Albumin-deficient mouse models for studying metabolism of human albumin and pharmacokinetics of albumin-based drugs&amp;author=D. C. Roopenian&amp;author=B. E. Low&amp;author=G. J. Christianson&amp;author=G. Proetzel&amp;author=T. J. Sproule&amp;volume=7&amp;issue=2&amp;publication_year=2015&amp;pages=344-351&amp;pmid=25654695&amp;doi=10.1080/19420862.2015.1008345&amp;"/></mixed-citation></ref><ref id="ref42"><mixed-citation id="cit42"><named-content content-type="citation-string">Wan H. T., Zhao Y. G., Wei X., Hui K. Y., Giesy J. P., Wong C. K.. PFOS-induced hepatic
+steatosis, the mechanistic actions
+on β-oxidation and lipid transport. Biochim.
+Biophys. Acta. 2012;1820(7):1092–1101. doi: 10.1016/j.bbagen.2012.03.010.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.bbagen.2012.03.010"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22484034"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochim. Biophys. Acta&amp;title=PFOS-induced hepatic steatosis, the mechanistic actions on β-oxidation and lipid transport&amp;author=H. T. Wan&amp;author=Y. G. Zhao&amp;author=X. Wei&amp;author=K. Y. Hui&amp;author=J. P. Giesy&amp;volume=1820&amp;issue=7&amp;publication_year=2012&amp;pages=1092-1101&amp;pmid=22484034&amp;doi=10.1016/j.bbagen.2012.03.010&amp;"/></mixed-citation></ref><ref id="ref43"><mixed-citation id="cit43"><named-content content-type="citation-string">Bligh E. G., Dyer W. J.. A rapid method of total lipid extraction
+and purification. Can. J. Biochem. Physiol. 1959;37(1):911–917. doi: 10.1139/y59-099.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1139/y59-099"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="13671378"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Can. J. Biochem. Physiol.&amp;title=A rapid method of total lipid extraction and purification&amp;author=E. G. Bligh&amp;author=W. J. Dyer&amp;volume=37&amp;issue=1&amp;publication_year=1959&amp;pages=911-917&amp;pmid=13671378&amp;doi=10.1139/y59-099&amp;"/></mixed-citation></ref><ref id="ref44"><mixed-citation id="cit44"><named-content content-type="citation-string">Hill N. I., Becanova J., Vojta S., Barber L. B., LeBlanc D. R., Vajda A. M., Pickard H. M., Lohmann R.. Bioconcentration of
+Per- and Polyfluoroalkyl Substances and Precursors in Fathead Minnow
+Tissues Environmentally Exposed to Aqueous Film-Forming Foam–Contaminated
+Waters. Environ. Toxicol. Chem. 2024;43(8):1795–1806. doi: 10.1002/etc.5926.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/etc.5926"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11552075"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38896102"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environ. Toxicol. Chem.&amp;title=Bioconcentration of Per- and Polyfluoroalkyl Substances and Precursors in Fathead Minnow Tissues Environmentally Exposed to Aqueous Film-Forming Foam–Contaminated Waters&amp;author=N. I. Hill&amp;author=J. Becanova&amp;author=S. Vojta&amp;author=L. B. Barber&amp;author=D. R. LeBlanc&amp;volume=43&amp;issue=8&amp;publication_year=2024&amp;pages=1795-1806&amp;pmid=38896102&amp;doi=10.1002/etc.5926&amp;"/></mixed-citation></ref><ref id="ref45"><mixed-citation id="cit45"><named-content content-type="citation-string">Ludwig C., Gillet L., Rosenberger G., Amon S., Collins B. C., Aebersold R.. Data-independent
+acquisition-based SWATH-MS for quantitative
+proteomics: a tutorial. Mol. Syst. Biol. 2018;14(8):e8126.  doi: 10.15252/msb.20178126.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.15252/msb.20178126"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6088389"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30104418"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Syst. Biol.&amp;title=Data-independent acquisition-based SWATH-MS for quantitative proteomics: a tutorial&amp;author=C. Ludwig&amp;author=L. Gillet&amp;author=G. Rosenberger&amp;author=S. Amon&amp;author=B. C. Collins&amp;volume=14&amp;issue=8&amp;publication_year=2018&amp;pages=e8126&amp;pmid=30104418&amp;doi=10.15252/msb.20178126&amp;"/></mixed-citation></ref><ref id="ref46"><mixed-citation id="cit46"><named-content content-type="citation-string">Perez-Riverol Y., Bai J., Bandla C., García-Seisdedos D., Hewapathirana S., Kamatchinathan S., Kundu D., Prakash A., Frericks-Zipper A., Eisenacher M., Walzer M., Wang S., Brazma A., Vizcaíno J.. The PRIDE database resources in 2022: a hub for mass
+spectrometry-based proteomics evidences. Nucleic
+Acids Res. 2021;50(D1):D543–D552. doi: 10.1093/nar/gkab1038.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/nar/gkab1038"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8728295"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34723319"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nucleic Acids Res.&amp;title=The PRIDE database resources in 2022: a hub for mass spectrometry-based proteomics evidences&amp;author=Y. Perez-Riverol&amp;author=J. Bai&amp;author=C. Bandla&amp;author=D. García-Seisdedos&amp;author=S. Hewapathirana&amp;volume=50&amp;issue=D1&amp;publication_year=2021&amp;pages=D543-D552&amp;pmid=34723319&amp;doi=10.1093/nar/gkab1038&amp;"/></mixed-citation></ref><ref id="ref47"><mixed-citation id="cit47"><named-content content-type="citation-string">Tan S. P. F., Tillmann A., Murby S. J., Rostami-Hodjegan A., Scotcher D., Galetin A.. Albumin-Mediated
+Drug Uptake by Organic
+Anion Transporter 1/3 Is Real: Implications for the Prediction of
+Active Renal Secretion Clearance. Mol. Pharmaceutics. 2024;21(9):4603–4617. doi: 10.1021/acs.molpharmaceut.4c00504.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.molpharmaceut.4c00504"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11372837"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="39166754"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Pharmaceutics&amp;title=Albumin-Mediated Drug Uptake by Organic Anion Transporter 1/3 Is Real: Implications for the Prediction of Active Renal Secretion Clearance&amp;author=S. P. F. Tan&amp;author=A. Tillmann&amp;author=S. J. Murby&amp;author=A. Rostami-Hodjegan&amp;author=D. Scotcher&amp;volume=21&amp;issue=9&amp;publication_year=2024&amp;pages=4603-4617&amp;pmid=39166754&amp;doi=10.1021/acs.molpharmaceut.4c00504&amp;"/></mixed-citation></ref><ref id="ref48"><mixed-citation id="cit48"><named-content content-type="citation-string">Alesio J. L., Slitt A., Bothun G. D.. Critical
+new insights into the binding
+of poly- and perfluoroalkyl substances (PFAS) to albumin protein. Chemosphere. 2022;287:131979. doi: 10.1016/j.chemosphere.2021.131979.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.chemosphere.2021.131979"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8612954"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34450368"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Chemosphere&amp;title=Critical new insights into the binding of poly- and perfluoroalkyl substances (PFAS) to albumin protein&amp;author=J. L. Alesio&amp;author=A. Slitt&amp;author=G. D. Bothun&amp;volume=287&amp;publication_year=2022&amp;pages=131979&amp;pmid=34450368&amp;doi=10.1016/j.chemosphere.2021.131979&amp;"/></mixed-citation></ref><ref id="ref49"><mixed-citation id="cit49"><named-content content-type="citation-string">Zhao W., Zitzow J. D., Weaver Y., Ehresman D. J., Chang S.-C., Butenhoff J. L., Hagenbuch B.. Organic Anion Transporting Polypeptides
+Contribute to the Disposition of Perfluoroalkyl Acids in Humans and
+Rats. Toxicol. Sci. 2017;156(1):84–95. doi: 10.1093/toxsci/kfw236.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/toxsci/kfw236"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6075085"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28013215"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicol. Sci.&amp;title=Organic Anion Transporting Polypeptides Contribute to the Disposition of Perfluoroalkyl Acids in Humans and Rats&amp;author=W. Zhao&amp;author=J. D. Zitzow&amp;author=Y. Weaver&amp;author=D. J. Ehresman&amp;author=S.-C. Chang&amp;volume=156&amp;issue=1&amp;publication_year=2017&amp;pages=84-95&amp;pmid=28013215&amp;doi=10.1093/toxsci/kfw236&amp;"/></mixed-citation></ref><ref id="ref50"><mixed-citation id="cit50"><named-content content-type="citation-string">Huck I., Gunewardena S., Espanol-Suner R., Willenbring H., Apte U.. Hepatocyte Nuclear Factor 4 Alpha
+Activation Is Essential for Termination
+of Liver Regeneration in Mice. Hepatology. 2019;70(2):666–681. doi: 10.1002/hep.30405.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/hep.30405"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6551324"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30520062"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Hepatology&amp;title=Hepatocyte Nuclear Factor 4 Alpha Activation Is Essential for Termination of Liver Regeneration in Mice&amp;author=I. Huck&amp;author=S. Gunewardena&amp;author=R. Espanol-Suner&amp;author=H. Willenbring&amp;author=U. Apte&amp;volume=70&amp;issue=2&amp;publication_year=2019&amp;pages=666-681&amp;pmid=30520062&amp;doi=10.1002/hep.30405&amp;"/></mixed-citation></ref><ref id="ref51"><mixed-citation id="cit51"><named-content content-type="citation-string">Huang K. W., Reebye V., Czysz K., Ciriello S., Dorman S., Reccia I., Lai H. S., Peng L., Kostomitsopoulos N., Nicholls J., Habib R. S., Tomalia D. A., Sætrom P., Wilkes E., Cutillas P., Rossi J. J., Habib N. A.. Liver Activation
+of Hepatocellular Nuclear Factor-4α by Small Activating RNA
+Rescues Dyslipidemia and Improves Metabolic Profile. Mol. Ther. Nucleic Acids. 2020;19:361–370. doi: 10.1016/j.omtn.2019.10.044.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.omtn.2019.10.044"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6938799"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31877412"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Ther. Nucleic Acids&amp;title=Liver Activation of Hepatocellular Nuclear Factor-4α by Small Activating RNA Rescues Dyslipidemia and Improves Metabolic Profile&amp;author=K. W. Huang&amp;author=V. Reebye&amp;author=K. Czysz&amp;author=S. Ciriello&amp;author=S. Dorman&amp;volume=19&amp;publication_year=2020&amp;pages=361-370&amp;pmid=31877412&amp;doi=10.1016/j.omtn.2019.10.044&amp;"/></mixed-citation></ref><ref id="ref52"><mixed-citation id="cit52"><named-content content-type="citation-string">Pan X., Zhang Y.. Hepatocyte nuclear factor 4α in the pathogenesis
+of non-alcoholic
+fatty liver disease. China Med. J. 2022;135(10):1172–1181. doi: 10.1097/CM9.0000000000002092.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1097/CM9.0000000000002092"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9337258"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35191422"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=China Med. J.&amp;title=Hepatocyte nuclear factor 4α in the pathogenesis of non-alcoholic fatty liver disease&amp;author=X. Pan&amp;author=Y. Zhang&amp;volume=135&amp;issue=10&amp;publication_year=2022&amp;pages=1172-1181&amp;pmid=35191422&amp;doi=10.1097/CM9.0000000000002092&amp;"/></mixed-citation></ref><ref id="ref53"><mixed-citation id="cit53"><named-content content-type="citation-string">Beggs K. M., McGreal S. R., McCarthy A., Gunewardena S., Lampe J. N., Lau C., Apte U.. The role of
+hepatocyte
+nuclear factor 4-alpha in perfluorooctanoic acid- and perfluorooctanesulfonic
+acid-induced hepatocellular dysfunction. Toxicol.
+Appl. Pharmacol. 2016;304:18–29. doi: 10.1016/j.taap.2016.05.001.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.taap.2016.05.001"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5367386"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27153767"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicol. Appl. Pharmacol.&amp;title=The role of hepatocyte nuclear factor 4-alpha in perfluorooctanoic acid- and perfluorooctanesulfonic acid-induced hepatocellular dysfunction&amp;author=K. M. Beggs&amp;author=S. R. McGreal&amp;author=A. McCarthy&amp;author=S. Gunewardena&amp;author=J. N. Lampe&amp;volume=304&amp;publication_year=2016&amp;pages=18-29&amp;pmid=27153767&amp;doi=10.1016/j.taap.2016.05.001&amp;"/></mixed-citation></ref><ref id="ref54"><mixed-citation id="cit54"><named-content content-type="citation-string">
+CDC;
+NCHS 
+National Health and Nutrition
+Examination Survey Data; Centers for Disease
+Control and Prevention (CDC),
+National Center for Health Statistics (NCHS), U.S. Department of Health
+and Human Services: Hyattsville, MD, 2025.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=National Health and Nutrition Examination Survey Data&amp;publication_year=2025&amp;"/></mixed-citation></ref></ref-list></sec></sec><sec id="_ad93_" xml:lang="en" sec-type="associated-data" disp-level="1"><title>Associated Data</title><sec id="_adsm93_" xml:lang="en" sec-type="supplementary-materials" disp-level="2"><title>Supplementary Materials</title><supplementary-material id="db_ds_supplementary-material1_reqid_" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="tx4c00508_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 1b78/12422536/b075480d9716/tx4c00508_si_001.pdf?><?cloudpmc-bucket app?><?size 1089815?></media></supplementary-material></sec></sec></body></article>

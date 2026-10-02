@@ -1,0 +1,48 @@
+SOURCE: PubMed abstract (efetch db=pubmed), 2026-10-01. Full text paywalled (ACS).
+CITATION: Zhou Z, Shi Y, Vestergren R, Wang T, Liang Y, Cai Y. Highly elevated serum
+  concentrations of perfluoroalkyl substances in fishery employees from Tangxun lake, China.
+  Environ Sci Technol 2014;48(7):3864-3874. PMID 24588690. doi:10.1021/es4057467.
+
+ABSTRACT (verbatim)
+"Increasing production and use of per- and polyfluoroalkyl substances (PFASs) has been
+reported from China, and a few studies have shown there are subpopulations in China with
+high and increasing exposure to these chemicals. In this paper, we present a comprehensive
+exposure assessment of PFASs in fishery employees from Tangxun Lake, China. Exceptionally
+high serum concentrations of C4 to C12 PFASs were observed in fishery employees (n = 39,
+median perfluorooctanesulfonic acid (PFOS) 10 400 ng/mL) compared to a reference group from
+the same city (n = 9, median PFOS 18.7 ng/mL). On the basis of the comparison of different
+exposure pathways, it was concluded that contaminated fish from Tangxun Lake was the primary
+source of PFAS exposure to fishery employees, and there was a positive association between
+serum PFAS concentrations and time of employment in the fishery. PFOS isomer profiles in
+fishery employees showed a significantly higher proportion of linear PFOS (78.4%) compared
+to the background-exposed reference group (66.8%), reflecting the highly linear PFOS isomer
+profile (>90%) of lake fish. Median renal clearance rates (CLrenal) of C4 to C10
+perfluoroalkyl carboxylic acids (PFCAs) and perfluoroalkanesulfonic acids (PFSAs) ranged
+from 0.020 to 16.5 mL/day/kg and 0.013 to 9.43 mL/day/kg, respectively. PFCAs with less than
+eight perfluoroalkyl carbons were primarily eliminated via urine, whereas other routes of
+excretion may have contributed to the elimination for long-chain PFCAs and PFSAs. Calculated
+daily PFOS exposures of fishery employees significantly exceeded tolerable daily intake
+limits, but clinical blood chemistry parameters were mostly within normal reference ranges.
+However, additional epidemiological studies are needed to address potential associations
+between PFAS exposure and health effects in the Tangxun Lake area."
+
+VALUES
+  n = 39 fishery employees + 9 same-city reference; Tangxun Lake, Wuhan, China.
+  Median serum PFOS 10,400 ng/mL (employees) vs 18.7 ng/mL (reference) - a 556-fold
+  difference, and the highest non-occupational human PFOS serum concentrations on record.
+  Median renal clearance, C4-C10:
+     PFCAs  0.020 - 16.5 mL/day/kg   (decreasing with chain length)
+     PFSAs  0.013 -  9.43 mL/day/kg  (decreasing with chain length)
+  Linear PFOS fraction 78.4% (employees) vs 66.8% (reference), tracking the >90% linear
+  profile of the source fish - i.e. the isomer pattern in serum is set largely by the
+  source, which confounds any attempt to read isomer-specific elimination off a
+  cross-sectional isomer profile.
+  Conclusion on routes: "PFCAs with less than eight perfluoroalkyl carbons were primarily
+  eliminated via urine, whereas other routes of excretion may have contributed to the
+  elimination for long-chain PFCAs and PFSAs."
+  No half-life is reported.
+
+Yao et al. 2023 (EHP 131:37003) Table 3 cites this paper (as refs 70/71) for adult renal
+clearance comparison columns labelled "Background-exposed person (n=9)", "Fishery employee
+(n=39)" and "Fishery family (n=7)". The flattened column alignment in the .txt extraction of
+Yao's Table 3 is unreliable; use the Zhou 2014 ranges above rather than Yao's columns.

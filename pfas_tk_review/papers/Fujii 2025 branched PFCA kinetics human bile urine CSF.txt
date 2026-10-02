@@ -1,0 +1,40 @@
+SOURCE: PubMed abstract (efetch db=pubmed), 2026-10-01. Full text paywalled (Elsevier).
+FIRST AUTHOR per PubMed: Fujii Y
+CITATION: Fujii Y et al. A preliminary investigation into the in vivo kinetics of branched
+  isomers of perfluoroalkyl carboxylic acids in human bile, urine, and cerebrospinal fluid:
+  A comparison to linear isomers. Chemosphere 2025;385:144409. PMID 40784091.
+  doi:10.1016/j.chemosphere.2025.144409.
+
+ABSTRACT (verbatim)
+"Perfluoroalkyl carboxylic acids (PFCAs) are persistent in the environment, and can enter
+the human body. This study aimed to investigate the in vivo kinetics of branched PFCAs with
+seven to fourteen carbon atoms (C7 to C14) using samples collected different individuals:
+bile (n = 5), urine (n = 10), and cerebrospinal fluid (CSF) (n = 7), with their
+corresponding serum. This study revealed that the clearance values of PFCAs were greatly
+affected by whether they were linear or branched. Furthermore, it demonstrated that C7 and
+C8 branched PFCAs had higher total (renal plus fecal) clearance values than their linear
+counterparts and that they were more easily excreted from the body via urine (higher renal
+clearances). However, when the chain length was C9 or longer, the clearance value was almost
+the same as that of linear PFCAs because fecal clearance through the bile is the main route
+of clearance from C9 onwards, and there is no significant difference in fecal clearance
+between branched and linear ones. The ratio of branched to linear PFCAs in the CSF was
+similar as that in the serum for all PFCAs (C7 to C14) measured, and there appeared to be no
+difference in blood-brain barrier permeability. This information will be useful for
+evaluating potential health risks related to branched PFCAs."
+
+WHAT IS NEW HERE AND NOWHERE ELSE
+  - Human BILE concentrations of branched AND linear PFCAs across C7 to C14, with paired
+    serum. This is the only human dataset that resolves BILIARY clearance by isomer, and
+    only the second human bile PFAS dataset at all (after Harada 2007, n=4, PFOA/PFOS only,
+    and Fujii 2015, linear PFCAs only).
+  - It supplies the mechanistic reconciliation of the isomer literature: branched PFCAs
+    clear faster than linear ONLY where urine is the dominant route (C7-C8); once biliary/
+    fecal clearance takes over (C9 and longer) the isomer difference vanishes.
+  - CSF/serum branched:linear ratio equals the serum ratio for C7-C14, i.e. no isomer
+    selectivity at the blood-brain barrier.
+  - It is the only human source of ANY kinetic parameter for branched PFTrDA (C13) and
+    branched PFTeDA (C14).
+
+LIMITS: n = 5 bile, 10 urine, 7 CSF, and these are DIFFERENT individuals for each matrix.
+The authors call it "a preliminary investigation". No half-life is reported; only clearances.
+Numeric clearance values are in the paywalled tables and were NOT obtained.

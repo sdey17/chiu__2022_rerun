@@ -1,0 +1,107 @@
+NOTE FILE assembled 2026-10-01. Answers the question "Convertino 2018 - OEHHA excluded it;
+find out why and what it reported." Every quotation is from a document on disk in this
+directory or from the PMC full text retrieved in this sweep.
+
+=========================================================================================
+1. WHAT CONVERTINO 2018 ACTUALLY IS AND WHAT IT REPORTED
+=========================================================================================
+CITATION: Convertino M, Church TR, Olsen GW, Liu Y, Doyle E, Elcombe CR, Barnett AL,
+  Samuel LM, MacPherson IR, Evans TRJ. Stochastic Pharmacokinetic-Pharmacodynamic Modeling
+  for Assessing the Systemic Health Risk of Perfluorooctanoate (PFOA).
+  Toxicol Sci 2018;163(1):293-306. PMID 29462473. doi:10.1093/toxsci/kfy035. PMC5920327.
+  Full text retrieved in this sweep:
+  papers/Convertino 2018 PFOA clinical oncology infusion stochastic PKPD.txt
+
+It is NOT an infusion study. From the abstract, verbatim:
+  "A phase 1 dose-escalation trial assessed the chemotherapeutic potential of ammonium
+   perfluorooctanoate (APFO). Forty-nine primarily solid-tumor cancer patients who failed
+   standard therapy received weekly APFO doses (50-1200 mg) for 6 weeks. Clinical chemistries
+   and plasma PFOA (anionic APFO) were measured predose and weekly thereafter."
+Administration was ORAL (capsule). Verbatim from Methods:
+  "Ammonium perfluorooctanoate was administered orally as a single dose of 50 mg in the
+   morning after an overnight fast in the first cohort of 3 subjects..."
+  "...subjects were requested to fast for 1 h after ingestion of APFO. If a subject vomited
+   after ingestion of the oral capsule, then the time of the event was recorded but another
+   capsule was not administered..."
+
+WHAT IT REPORTED (verbatim from the abstract):
+  "Based on the GEE, the average rates of change in total cholesterol and fT4 associated with
+   increasing PFOA were approximately -1.2x10-3 mmol/l/uM and 2.8x10-3 pmol/l/uM,
+   respectively. ... A decline in total cholesterol was observed, with a clear transition in
+   shape and range of the pdfs, manifested by the maximum value of the Kullback-Leibler (KL)
+   divergence, that occurred at plasma PFOA between 420 and 565 uM (175 000-230 000 ng/ml).
+   High-density lipoprotein was unchanged. An increase in fT4 was observed at a higher PFOA
+   transition point, albeit TSH was unchanged."
+Other reported results: no DLT in more than one subject at any dose, so the protocol-defined
+MTD was not reached; recommended phase 2 dose 1000 mg weekly; stable disease >12 weeks in 8
+subjects; "ALT and all other liver enzymes appeared unaffected by plasma concentrations of
+PFOA up to 1530 uM."
+
+*** CRITICALLY: IT REPORTS NO HUMAN HALF-LIFE, NO CLEARANCE AND NO NUMERIC Vd. ***
+The model has a volume term, but the fitted values are not tabulated in the paper and the
+PK is explicitly deferred. Verbatim from Methods:
+  "A complete PK assessment is reported elsewhere (Campbell et al., in preparation)."
+And verbatim from the model description:
+  "the parameters V (volume of distribution), ka, k12, k21, and k10 are calibrated
+   simultaneously in a fitted model"
+with the sensitivity analysis concluding, verbatim:
+  "The volume V and the absorption rate ka did not seem to determine significantly the PK/PD
+   dynamics."
+So even within the paper, V is a poorly-identified nuisance parameter.
+
+=========================================================================================
+2. WHY OEHHA EXCLUDED IT - THE PRIMARY DOCUMENTATION
+=========================================================================================
+From papers/OEHHA 2024 PFOA PFOS PHG responses to comments.txt, Comment 2 and Response 2
+(Section 4.2), verbatim:
+
+  COMMENT 2: "In Section 4.2, 'Human data from the clinical trial reported in the Convertino
+  study (2018) should not be considered. The people in the study were extremely ill with
+  confounding underlying pathology that negates comparison to healthy people.
+  Also note: Data from the same clinical trial reported in Convertino, 2018 were used in the
+  human half-life estimate in Dourson, 2019 and appears to be included in the human PFOA
+  half-life estimate in Table 4.7.1. Again, I argue that data/estimates from that study are
+  highly confounded by underlying pathology and should NOT be used in estimating PFOA
+  half-life in healthy people.'"
+
+  RESPONSE 2: "OEHHA agrees that the human data from the clinical trial reported by
+  Convertino et al. (2018) should not be used for PFOA half-life derivation. The PFOA
+  half-life estimate adopted in this document did not rely on Convertino et al. (2018) data
+  for a number of reasons, including the fact highlighted by this reviewer that the dataset
+  was not derived from observations in healthy individuals."
+
+OEHHA's model inventory table (papers/OEHHA 2024 PFOA PFOS PHG.txt, around line 18391)
+characterises it, verbatim:
+  "Convertino et al. (2018) | 2-cmtp | human | PFOA | [calibration data] Elcombe et al.
+   (2013) | [evaluation data] Same as optimization data | Stochastic model for dose-response
+   of adverse effects in a pharmacological trial of PFOA in human cancer patients"
+i.e. OEHHA also records that the model was evaluated against the SAME data it was fitted to -
+no out-of-sample validation.
+
+=========================================================================================
+3. SUMMARY OF THE GROUNDS FOR EXCLUSION
+=========================================================================================
+(a) Population: 49 patients with advanced solid tumours refractory to standard therapy,
+    life expectancy >3 months. Hepatic, renal and nutritional status are not those of a
+    healthy population, and albumin - the carrier that governs PFAS distribution - is
+    routinely abnormal in advanced cancer. OEHHA accepted this as sufficient on its own.
+(b) Dose and concentration range: plasma PFOA up to 1530 uM (~633,000 ng/mL), four to five
+    orders of magnitude above environmental exposures, well into any plausible
+    saturation of albumin binding and of renal/hepatic transport. A half-life measured there
+    is not transferable to background exposure.
+(c) The paper does not report a half-life at all; the PK was deferred to an unpublished
+    manuscript (Campbell et al.), so any "Convertino half-life" in the secondary literature
+    (e.g. as used in Dourson 2019) is a third-party derivation from the trial data, not a
+    value published in Convertino 2018.
+(d) The PK/PD model was evaluated on its own calibration data.
+(e) Drug interactions were screened for (warfarin, phenytoin, tolbutamide excluded because
+    APFO is a potent CYP2C inhibitor), which itself signals that the population was on
+    multiple co-medications.
+
+CONCLUSION FOR THIS REVIEW: Convertino 2018 is the highest-dose controlled human PFOA
+exposure on record and the ONLY human study with measured plasma PFOA in the hundreds of
+thousands of ng/mL. It is therefore uniquely informative about dose-dependence of
+PFOA toxicodynamics, and uniquely uninformative about PFOA toxicokinetics in a general
+population. It should appear in a dose-dependence table, not in a human half-life table.
+The Campbell et al. PK manuscript (listed in this project as "Campbell/ARA 2022") is the
+document that would actually carry the TK parameters.

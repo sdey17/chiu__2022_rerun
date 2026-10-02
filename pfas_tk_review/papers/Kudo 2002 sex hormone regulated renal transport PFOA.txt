@@ -1,0 +1,686 @@
+                       Chemico-Biological Interactions 139 (2002) 301– 316
+                                                                     www.elsevier.com/locate/chembiont
+
+
+
+
+       Sex hormone-regulated renal transport of
+               perfluorooctanoic acid
+        Naomi Kudo *, Masanori Katakura, Yasunori Sato,
+                      Yoichi Kawashima
+Faculty of Pharmaceutical Sciences, Josai Uni6ersity, Kayakidai 1 -1, Sakado, Saitama 350 -0295, Japan
+
+   Received 1 October 2001; received in revised form 23 December 2001; accepted 7 January 2002
+
+
+
+
+Abstract
+
+   The biological half-life (t1/2) of perfluorooctanoic acid (PFOA) in male rats is 70 times
+longer than that in female rats. The difference is mainly due to the difference in renal
+clearance (CLR), which was significantly reduced by probenecid, suggesting that PFOA is
+excreted by organic anion transporter(s). Castration of male rats caused a 14-fold increase in
+the CLR of PFOA, which made it comparable with that of female rats. The elevated PFOA
+CLR in castrated males was reduced by treating them with testosterone. Treatment of male
+rats with estradiol increased the CLR of PFOA. In female rats, ovariectomy caused a
+significant increase in CLR of PFOA, which was reduced by estradiol treatment. Treatments
+of female rats with testosterone reduced the CLR of PFOA as observed in castrated male
+rats. To identify the transporter molecules that are responsible for PFOA transport in rat
+kidney, renal mRNA levels of organic anion transporter 1 (OAT1), OAT2, OAT3, organic
+anion transporting polypeptide 1 (oatp1), oatp2 and kidney specific organic anion trans-
+porter (OAT-K) were determined in male and female rats under various hormonal states and
+compared with the CLR of PFOA. The level of OAT2 mRNA in male rats was only 13% that
+in female rats. Castration or estradiol treatment increased the level of OAT2 mRNA whereas
+treatment of castrated male rats with testosterone reduced it. In contrast to OAT2, mRNA
+levels of both oatp1 and OAT-K were significantly higher in male rats compared with female
+
+
+   Abbre6iations: AUC, area under the curve; cDNA, complementary DNA; CLR, renal clearance;
+dNTP, deoxynucleotide triphosphate; GAPDH, glyceraldehyde-3-phosphate dehydrogenase; GFR,
+glomerular filtration rate; OAT, organic anion transporter; oatp, organic anion transporting polypep-
+tide; OAT-K, kidney specific organic anion transporter; PCR, polymerase chain reaction; PFCA,
+perfluorocarboxylic acid; PFOA, perfluorooctanoic acid; RT, reverse-transcription; t1/2, half-life.
+   * Corresponding author. Tel.: + 81-49-271-7676; fax: +81-49-271-7984.
+   E-mail address: naokudo@josai.ac.jp (N. Kudo).
+
+
+0009-2797/02/$ - see front matter © 2002 Elsevier Science Ireland Ltd. All rights reserved.
+PII: S 0 0 0 9 - 2 7 9 7 ( 0 2 ) 0 0 0 0 6 - 6
+302             N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316
+
+rats. Castration or estradiol treatment caused a reduction in the levels of mRNA of oatp1
+and OAT-K in male rats. Ovariectomy of female rats significantly increased the level of
+OAT3 mRNA. Multiple regression analysis suggests that the change in the CLR of PFOA is,
+at least in part, due to altered expression of OAT2 and OAT3. © 2002 Elsevier Science
+Ireland Ltd. All rights reserved.
+
+Keywords: Perfluorooctanoic acid; Sex-related difference; Renal clearance; Organic anion transporter
+
+
+
+1. Introduction
+
+   Perfluorooctanoic acid (PFOA) is a potent synthetic surfactant that is used in a
+variety of industrial processes [1]. This chemical has been identified as a major
+contributor to organic fluorine in human serum [2], and the subsequent studies have
+revealed that serum levels of organic fluorine in plant workers occupationally
+exposed to this chemical were 10- to 50-fold higher than that in the general public
+[3]. The biological half-life (t1/2) in humans has been estimated to be 18–24 months
+following analysis of the serum from a plant worker [3].
+   The effects of PFOA on biological systems have been extensively studied in
+rodents. PFOA causes peroxisome proliferation as well as induction of various
+enzymes involved in lipid metabolism [4–8]. Toxic effects of PFOA have been
+reported, such as induction of fatty liver [5] and uncoupling of the mitochondrial
+respiratory chain [9]. PFOA also affects the serum levels of various hormones, i.e.
+reducing thyroid hormone and testosterone, and increasing estradiol in rats [10,11].
+Although these findings suggest that PFOA affects hormonal states and metabolism
+of lipids in human, to date, no significant correlation has been observed between
+serum levels of PFOA and any biological parameters in plant workers [12–14].
+   PFOA, once absorbed by the body, is predominantly eliminated in urine and the
+rate of fecal elimination is far less than that of urinary elimination in rats [15,16].
+Urinary elimination, therefore, is critical for detoxification of PFOA. We and other
+investigators have shown that urinary elimination of PFOA is markedly faster in
+female rats compared with male rats [15–19]. There are also significant sex
+differences in the metabolism of some chemicals and drugs [20–22]. Since PFOA is
+metabolically inert [16,23,24], sex-related difference observed in the biological
+effects of PFOA is not due to a difference in metabolism of PFOA. In the previous
+study, we observed that perfluorocarboxylic acid (PFCA) with a shorter carbon
+chain length was more rapidly eliminated in urine [15]. This suggests that PFCA are
+recognized and transported into urine by certain biological systems, although little
+is known about the molecular mechanism responsible for PFOA transport. Re-
+cently, several transporters have been cloned, by which various organic anions are
+transported across biological membranes, in various tissues including liver, kidney,
+intestine and brain [25– 33]. These transporters have broad substrate specificities
+and transport various drugs as well as endogenous substrates [34]. Regulation of
+the expression of these transporters by sex hormones, however, has not been fully
+investigated yet. We have hypothesized, therefore, that PFOA is transported into
+                 N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316   303
+
+urine by a transporter whose expression is regulated by sex hormones. In the
+present study, we investigated in detail the activities of renal PFOA transport under
+various hormonal states in male and female rats. Furthermore, the activities were
+compared with renal levels of mRNA of various organic anion transporters to
+identify potential candidates for PFOA transporters.
+
+
+2. Materials and methods
+
+2.1. Materials
+
+   PFOA was purchased from Sigma Aldrich Japan (Tokyo, Japan). Inulin and
+probenecid were purchased from Sigma Chemical Co. (St. Louis, MO). Testos-
+terone propionate and b-estradiol-3-benzoate were purchased from Wako Pure
+Chemical Ind. (Osaka, Japan). All other chemicals were of analytical grade.
+3-Bromoacetyl-7-methoxycoumarin (BrAMC) was synthesized as described previ-
+ously [35].
+
+2.2. Animals
+
+   Male and female Wistar rats were obtained from SLC (Hamamatsu, Japan) and
+subjected to experiments when 9 weeks old (male rats, 240– 320 g; female rats,
+190– 235 g) after acclimatization for at least 1 week. All animals were acclimatized
+in a humidity- and temperature (239 2 °C)-controlled environment with a 12-h
+light:12-h dark cycle. Animals had free access to water and laboratory chow (CE-2,
+Clea Japan). Some male and female rats were castrated and ovariectomized,
+respectively, at 6 weeks of age under sodium pentobarbital anesthesia (36 mg/kg
+body weight). Two weeks after surgery, half of them received daily subcutaneous
+administration of testosterone propionate (10 mg/kg body weight) for 5 days or
+b-estradiol-3-benzoate (0.2 mg/kg body weight) for 7 days. These hormones were
+dissolved in corn oil (1 ml/kg body weight). The day following the final injection,
+these rats had their renal clearance (CLR) of PFOA determined or the mRNA levels
+of various organic anion transporters were determined. For the extraction of RNA,
+kidneys were quickly excised under light ether anesthesia, frozen in liquid nitrogen
+and stored at − 80 °C until use.
+
+2.3. Plasma concentration profile
+
+   Male and female rats underwent surgical catheter (SP-45) implantation via the
+femoral vein for drug administration and blood sampling under sodium pentobarbi-
+tal anesthesia (36 mg/kg body weight). These rats were allowed to recover for 3
+days after surgery. The catheter was flushed daily with 0.028% heparinized saline to
+maintain patency. PFOA, dissolved in 0.9% NaCl after the addition of equimolar
+NaOH, was injected into the femoral vein (48.63 mmol/kg body weight) via a
+catheter, and then 0.2 ml of blood was withdrawn from the femoral vein catheter
+304           N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316
+
+at 5 min, 1, 6, 12 h, 1, 2, 3, 4, 6, 8, 10 and 12 days after injection. A
+two-compartment open model was used for the toxicokinetic analysis of PFOA.
+Toxicokinetic parameters (total clearance, t1/2, and volume of distribution) from
+each rat were calculated using the curve-fitting program ‘MULTI’ [36].
+
+2.4. Determination of renal clearance
+
+   The CLR of PFOA was determined for four groups of male rats (control,
+castrated, castrated+testosterone, estradiol) and four groups of female rats (con-
+trol, castrated, castrated+estradiol, testosterone) with three to six animals in each
+group. Rats underwent surgical catheter (SP-45) implantation via the femoral vein
+under urethane anesthesia and then placed in a restrainer. Ten percent (w/v)
+mannitol/0.9% (w/v) NaCl was infused at 0.1 ml/min throughout the experiment to
+increase urination. Excretion of urine was increased by the infusion and reached a
+constant rate of about 0.1 ml/min 1.5 h after starting the infusion. To determine
+inulin clearance, inulin was also dissolved in mannitol/NaCl solution at the
+concentration of 2 mg/ml. Two hours after the start of mannitol infusion, these rats
+were injected with PFOA (48.63 mmol/kg body weight) via the femoral vein, and
+blood samples were withdrawn at 5, 15, 35, 70, 120, 200 and 300 min after injection.
+Urine samples were collected into glass tubes through a funnel attached to the
+restrainer. The tubes were changed at 2.5, 7.5, 22.5, 47.5, 92.5, 147.5 and 252.5 min
+after injection. Blood-sampling points were the midpoints of the urine collection
+periods. Plasma and urine samples were stored at −30 °C for the determination of
+PFOA and inulin. Inulin concentrations in urine and plasma samples were deter-
+mined by the method of Dische and Borenfreund [37]. To determine the effects of
+probenecid on the CLR of PFOA, probenecid was intravenously injected (53
+mmol/kg body weight) before starting the infusion of mannitol/NaCl solution.
+Then, probenecid, dissolved in the mannitol/NaCl solution at a concentration of 5.3
+mmol/ml, was infused throughout the experiment. The CLR of inulin and PFOA
+was calculated by CLR (ml/min) = inulin or PFOA in urine 0 – 300 min/AUC0 – 300 min.
+The AUC0 – 300 min was calculated by the trapezoidal rule.
+
+2.5. Determination of PFOA
+
+   PFOA concentrations in plasma and urine were determined as described previ-
+ously [35]. In brief, PFOA was extracted from an aliquot of plasma or urine, with
+ethyl acetate: hexane (1:1, v/v) as an ion-pair with tetrabuthylammonium in the
+presence of NaCO3 buffer (pH 10) after addition of a known amount of perfuoro-
+hexanoic acid as an internal standard. The extract was taken to dryness under
+nitrogen and the residue was mixed with a 0.2% solution of 3-bromoacetyl-7-
+methoxycoumarin in acetone to obtain 3-acetyl-7-methoxycoumarine derivatives of
+PFOA and perfluorohexanoic acid. The mixture was heated at 70 °C for 25 min
+followed by cooling at − 20 °C for 2 h. The reaction mixture was filtered, then
+subjected to HPLC using a reverse-phase column (Wakosil-II 3C-18, 4.6 mm
+ID ×50 mm, Wako Pure Chemicals, Osaka, Japan) and eluted with a mixture of
+               N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316   305
+
+acetonitrile: water (140:60, v/v) at 50 °C. The PFCA peaks were detected by a
+fluorescent detector (Shimadzu, RF-10AXL) at 316 excitation and 419 nm emission.
+
+
+
+2.6. Determination of renal mRNA le6els of organic anion transporters by
+RT-PCR
+
+   Total RNA was isolated from kidneys by the single-step guadinium thiocyanate
+procedure using RNeasy RNA extraction kit (Qiagen, Germany). The concentra-
+tion of RNA was estimated by measuring the UV absorption at 260 nm. Poly(A)+
+RNA was purified by oligo d(T)-Latex (Oligotex™-dT30 B super\ , Takara Shuzo,
+Japan). The reverse transcription-polymarase chain reaction (RT-PCR) was com-
+pleted on poly(A)+ RNA using AMV reverse transcriptase XL (Takara Shuzo,
+Japan). RT was performed using 0.25 U/ml RT enzyme, 1 mg poly(A)+ RNA
+combined with 0.125 mM of oligo d(T) primer, 10 mM Tris–HCl (pH 8.3), 50 mM
+KCl, 5 mM MgCl2 and 1 mM deoxynucleotide triphosphates (dNTPs). Amplifica-
+tion of the complementary DNA (cDNA) product was performed using gene-spe-
+cific primers (100 nM each) in 8 mM Tris–HCl (pH 8.3), 40 mM KCl, 1.5 mM
+MgCl2, and 0.8 mM dNTPs. The sequences of gene-specific primers are shown in
+Table 1. PCR was performed at 94 °C for 1 min, 63 °C for 30 s, and 72 °C for 30
+s with Taq polymerase (Takara Shuzo, Japan). PCR was performed for 19, 23, 21,
+21, 31, 21 and 17 cycles on organic anion transporter 1 (OAT1), OAT2, OAT3,
+organic anion transporting polypeptide 1 (oatp1), oatp2, OAT-K (OAT-K) and
+glyceraldehyde-3-phosphate dehydrogenase (GAPDH), respectively. An aliquot of
+the reaction mixture was subjected to 1.5% agarose gel electrophoresis. This primer
+set gave single PCR products whose molecular size corresponded to the calculated
+size. The sequences of amplified products, determined by DNA sequencer (ABI
+PRISM 310, Applied Biosystems, USA), were consistent with those of their
+respective cDNA [26,28– 33]. The PCR product was subjected to agarose gel
+electrophoresis (1.5%), stained with ethidium bromide, and then analyzed by
+gel-imaging system Epi-Light UV2000 with Luminous Imager software (Aisin
+Cosmos, Japan). The intensity of the clone-specific PCR product was calculated
+relative to that of GAPDH. Linear correlations were obtained between the loga-
+rithm of relative intensities of each transporter and the amounts of poly(A+)RNA
+ranging from 125 ng to 2 mg, except for OAT2 prepared from female rats. Linear
+amplification was obtained for the above-mentioned cycles9 1 cycle. The results
+are shown as the expression relative to control male rats.
+
+
+
+2.7. Statistical analyses
+
+  Analysis of variance was used to test the significance of the difference between
+four experimental groups of male or female rats. When differences were significant,
+the statistical significance between any two means was determined using Shèffe’s
+306             N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316
+
+multiple range test. Statistically significant differences between male and female rats
+were analyzed by Student’s t-test or Welch’s test after F-test for two means.
+
+
+3. Results
+
+
+
+3.1. Sex-related difference in PFOA clearance in rats
+
+   Fig. 1 shows plasma concentration-time profiles of PFOA after intravenous
+injection in male and female rats. Plasma PFOA fell rapidly in female rats whereas
+it one decreased gradually in male rats. Toxicokinetic analysis revealed that the
+total clearance of PFOA in female rats was 44 times higher than that in male rats
+(Table 2). In female rats, the t1/2 was calculated to be 0.08 day, 1/70 that in male
+rats.
+
+3.2. Renal clearance of PFOA in rats
+
+  The CLR of PFOA in female rats was markedly higher than that in male rats
+(Table 3) while the CLR of inulin, a marker of glomerular filtration rate (GFR) was
+
+
+
+
+Table 1
+Primer sequences used for RT-PCR
+
+Transporter   GenBank      Primer      Sequence                                       Size
+              accession                                                               (base)
+              number
+
+OAT1          AB004559     Forward     5%-ACAAGCAAGGACAACCCGAA-3%                     479
+                           Reverse     5%-AGACATAGCCAATCAAGGTGCC-3’
+OAT2          L27651       Forward     5%-GCAGCCTCCATCAACTACATCA-3%                   626
+                           Reverse     5%-GCGCACAAGGAAGTAGACCATA-3%
+OAT3          AB017446     Forward     5%-TGGAGGACCTGTGATTGGAGAA-3%                   391
+                           Reverse     5%-ATAGAACCAGCCAGCGTATGGA-3%
+Oatp1         L19031       Forward     5%-CATGAGTGTACTTCTCTCTTGG-3%                   531
+                           Reverse     5%-ATTCTGCTGGGTCTTGCGTTGG-3%
+Oatp2         U95011       Forward     5%-GCCTAAGTATCTGGAACAGCAA-3%                   540
+                           Reverse     5%-CAGCGAGTATATGAAACAGCCA-3%
+OAT-K         AB012662     Forward     5%-TCGCATTCTGCCTATCCTTGTC-3%                   319
+                           Reverse     5%-GCCTTTATTACACAGCCCCAGG-3%
+GAPDH         M17701       Forward     5%-GACCCCTTCATTGACCTCAACTACA-3%                441
+                           Reverse     5%-TGATGGCATGGACTGTGGTCATGAG-3%
+                 N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316                 307
+
+
+
+
+Fig. 1. Plasma concentration-time profiles of PFOA after intravenous injection. Male ( ) and female
+() rats were intravenously injected with PFOA at a dose of 48.63 mmol/kg body weight. Values are
+means9S.D. for three to four rats.
+
+
+
+
+not significantly different between male and female rats (data not shown). The
+plasma protein binding of PFOA, determined by ultrafiltration, was over 95% when
+PFOA was added to plasma of control animals of both sexes (Kudo et al.,
+unpublished data). Based on the concentration of free PFOA in plasma, the CLR of
+free PFOA was calculated to be approximately 0.6 and 15 ml/min per kg in male
+and female rats, respectively. Since the CLR of PFOA in female rats was greater
+than the GFR (approximately 10 ml/min per kg), PFOA appears to be actively
+excreted in urine by renal tubular secretion. Castration of male rats caused a
+significant increase in the CLR of PFOA and the resulting value was comparable
+with that in female rats. Probenecid, a known inhibitor of renal tubular secretion of
+organic anions, markedly reduced the CLR of PFOA in male rats, castrated male
+rats, and female rats (Table 3).
+
+
+
+Table 2
+Toxicokinetic parameters of PFOA in rats
+
+Parameters                                            Male                          Female
+
+Total clearance (ml/min per kg)                       0.035 9 0.010                 1.551 90.559*
+t1/2 (day)                                             5.68 9 0.99                   0.08 9 0.03**
+Volume of distribution (ml/kg)                        345.6 9 57.3                  211.2 9 28.2*
+
+Male and female Wistar rats were intravenously injected with PFOA (48.63 mmol/kg body weight).
+Values are means 9S.D. for three to four rats. Differences were statistically significant between male
+and female rats (*, PB0.01; **, PB0.001).
+308               N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316
+
+Table 3
+Effects of probenecid on CLR of PFOA in rats
+
+Treatment with          Male                  Male-castrated                    Female
+probenecid              (ml/min per kg)       (ml/min per kg)                   (ml/min per kg)
+
+Untreated               0.0329 0.015a         0.447 9 0.137b                    0.732 90.220b
+Treated                 0.01090.004*          0.013 90.004**                    0.016 90.008**
+
+CLR of PFOA was determined for 5 h after an intravenous injection (48.63 mmol/kg body weight) with
+or without the infusion of probenecid. Values are means 9 S.D. for three to six rats. *, Differences
+between male rats, castrated male rats and female rats are statistically significant without a common
+superscript (PB0.05). Statistical significance is not observed between these three groups received
+probenecid treatment. Differences between probenecid-treated and untreated rats are statistically signifi-
+cant (*, PB0.05; **, PB0.01; ***, PB0.001).
+
+
+3.3. Regulation by sex hormones of renal clearance of PFOA
+
+   Next, we investigated whether the CLR of PFOA was influenced by sex hormones
+(Fig. 2). Castration of male rats significantly increased the CLR of PFOA and the
+elevated CLR of PFOA in castrated male rats was reduced to the control level
+following treatment with testosterone. In contrast, the CLR of PFOA in male rats
+was increased following treatment with estradiol. In female rats, the CLR of PFOA
+was increased two-fold by ovariectomy, and the high CLR of PFOA in ovariec-
+tomized female rats returned to normal following the administration of estradiol.
+
+
+
+
+Fig. 2. Effects of castration or ovariectomy and treatment with sex hormones on the CLR of PFOA in
+rats. CLR was determined in male rats (lane 1), castrated male rats (lane 2), castrated male rats + testos-
+terone treatment (lane 3), male rats +estradiol treatment (lane 4), female rats (lane 5), ovariectomized
+female rats (lane 6), ovariectomized female rats + estradiol treatment (lane 7) and female rats +
+testosterone treatment (lane 8). Values are means 9 S.D. for three to six rats. a – c, Differences between
+four experimental groups of male rats (lanes 1 – 4) are statistically significant without a common
+superscript (PB 0.05). x – z, Differences between four experimental groups of female rats (lanes 5 – 8) are
+statistically significant without a common superscript (PB 0.05). *, The difference from the value of
+male rats (lane 1) is statistically significant (PB 0.001).
+              N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316   309
+
+Testosterone treatment reduced the CLR of PFOA in female rats as was observed
+in castrated male rats.
+
+3.4. Regulation by sex hormones of renal mRNA expression of organic anion
+transporters
+
+   The marked inhibition by probenecid of the CLR of PFOA suggests that PFOA
+is secreted into urine via organic anion transporter(s) in the renal tubules. Recent
+studies have revealed that there are two major groups of organic anion transporters
+that transport wide variety of organic anions [25–33]: the organic anion transporter
+(OAT) family and organic anion transporting polypeptide (oatp) family. The
+former includes OAT1, OAT2 and OAT3 and the latter includes oatp1, oatp2,
+OAT-K1 and OAT-K2 [34]. The transporters belonging to the same family show a
+high degree of homology [34]. To identify the organic anion transporters responsi-
+ble for PFOA excretion, the renal expression of mRNA of several organic anion
+transporters was determined in rats under different hormonal states by RT-PCR
+(Figs. 3 and 4). The levels of OAT1 mRNA were not different between four
+experimental groups of male rats (Fig. 3A) while the level of renal OAT1 mRNA
+in female rats was slightly lower than that in male rats. A significant sex-related
+difference was observed in the level of OAT2 mRNA (Fig. 3B). In male rats, the
+level of OAT2 mRNA, which was only 13% that in female rats, was increased by
+castration or estradiol treatment. Treatment of castrated male rats with testosterone
+reduced OAT2 mRNA to the level of control male rats. In contrast with male rats,
+neither ovariectomy nor testosterone treatment affected the level of OAT2 mRNA
+in female rats. It is noteworthy that ovariectomy of female rats increased the level
+of OAT3 mRNA (Fig. 3C). Fig. 4 shows the mRNA levels of the oatp family
+(oatp1, oatp2 and OAT-K) in rat kidney. The level of oatp1 mRNA was 23 times
+higher in male rats compared with female rats (Fig. 4A). In estradiol-treated male
+rats, ovariectomized female rats, and ovariectomized female rats treated with
+estradiol, no mRNA of oatp1 was detected by PCR for 21 cycles. In these samples,
+faint bands were detected by amplification for 27 cycles. Castration or estradiol
+treatment significantly reduced the renal level of oatp1 mRNA in male rats. This
+was increased by treating female rats or castrated male rats with testosterone. No
+significant difference was observed in the level of oatp2 mRNA between the eight
+experimental groups (Fig. 4B). In the case of OAT-K, the expression of mRNA in
+male rats was 2.5 times higher than in female rats (Fig. 4C). In male rats, castration
+or estradiol treatment reduced the level of OAT-K mRNA, as was observed with
+oatp1, whereas neither ovariectomy nor hormone treatment altered the level of
+OAT-K mRNA in female rats.
+
+3.5. Relationship between CLR of PFOA and renal mRNA le6els of organic anion
+transporters
+
+ We did not find a single transporter whose renal mRNA level correlated with the
+CLR of PFOA. Since it is possible that more than two transporters are responsible
+310               N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316
+
+
+
+
+Fig. 3. Effects of castration or ovariectomy and treatment with sex hormones on the mRNA expression
+of transporters of the OAT family in rat kidney. Renal mRNA expression of OAT1 (A), OAT2 (B) and
+OAT3 (C) was measured in the eight experimental groups as described in the legend to Fig. 2. The
+results were expressed as the expression relative to control male rats. Values are means 9 S.D. for four
+to six rats. a – c, Differences between four experimental groups of male rats (lanes 1 – 4) are statistically
+significant without a common superscript (PB 0.05). x,y, Differences between four experimental groups
+of female rats (lanes 5 –8) are statistically significant without a common superscript (PB0.05). If no
+superscript appears, the differences between four experimental groups are not statistically significant.
+Differences from the value of male rats are statistically significant (*, PB0.05; **, PB0.001).
+
+
+
+
+for the renal transport of PFOA, linear multiple regression analysis was performed.
+Two transporters, OAT2 and OAT3 showed a close correlation with CLR of
+PFOA; Y = b0 +b1X1 +b2X2; Y, CLR of PFOA; X1, mRNA level of OAT2; X2,
+mRNA level of OAT3; b0 = − 0.70009 0.1379 (P= 0.0009), b1 = 0.10729 0.0221
+(P= 0.0046), b2 =1.1077 90.1411 (P= 0.0005), R 2 = 0.9469. The partial correla-
+tion coefficients between the CLR of PFOA and mRNA levels of other transporters
+were not significant (P \ 0.05).
+                 N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316                  311
+
+
+4. Discussion
+
+   Recent studies have shown that PFOA accumulates to a high degree in the
+human body and the t1/2 was estimated to be 18–24 months [3]. Since this chemical
+is widely used in industrial applications, it is plausible that long-term exposure to
+this chemical results in its accumulation in humans, which may lead to toxic effects
+in biological systems. PFOA is not metabolized in biological systems and is
+eliminated in urine and feces as the free carboxylic acid in experimental animals
+[16,23,24]. Therefore, the elimination of PFOA is responsible for its detoxification.
+
+
+
+
+Fig. 4. Effects of castration or ovariectomy and treatment with sex hormones on the mRNA expression
+of transporters of the oatp family in rat kidney. Renal mRNA expression of oatp1 (A), oatp2 (B) and
+OAT-K (C) was compared among the eight experimental groups as described in the legend to Fig. 2. The
+results are expressed as the expression relative to control male rats. Values are means 9S.D. for four to
+six rats. a – d, Differences between four experimental groups of male rats (lanes 1 – 4) are statistically
+significant without a common superscript (P B0.05). x,y, Differences between four experimental groups
+of female rats (lanes 5 –8) are statistically significant without a common superscript (PB0.05). If no
+superscript appears, the differences between four experimental groups are not statistically significant.
+Differences from the value of male rats (lane 1) are statistically significant (*, PB0.001).
+312              N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316
+
+
+
+
+Fig. 5. Relationship between hepatic activity of peroxisomal b-oxidation and the CLR of PFOA in rats.
+Regression analysis was performed on the four mean sets of data on the hepatic activity of peroxisomal
+b-oxidation and the CLR of PFOA for male rats, castrated male rats, castrated male rats +testosterone
+treatment and female rats. Data on hepatic peroxisomal b-oxidation activity was obtained from Table
+1 (Kudo et al., Ref. 38). Hepatic activity of peroxisomal b-oxidation versus the CLR of PFOA,
+log Y = −0.0369X− 0.0278 (r 2 = 0.9639, PB0.01).
+
+
+
+In a previous study, we have demonstrated that the hepatic concentration of
+PFOA is low when PFOA is rapidly eliminated in urine [15] and that there is a
+close relationship between the concentrations of PFOA and the activity of perox-
+isomal b-oxidation in rat liver [38]. Fig. 5 shows that the CLR of PFOA is
+inversely correlated with the potency of induction of peroxisomal b-oxidation
+(data on peroxisomal b-oxidation derived from Kudo et al., [38]) in rat liver.
+This fact suggests that the CLR of PFOA is a key determinant of the biological
+action of PFOA in rats. The present study has revealed that the CLR of PFOA
+is markedly influenced by sex hormones. It is obvious that testosterone reduces
+the CLR of PFOA in both male and female rats. In contrast, the effects of
+estradiol were more complicated; estradiol treatment increased the CLR of PFOA
+in male rats, whereas it reduced the elevated CLR of PFOA in ovariectomized
+female rats. These results suggest that at least two systems are responsible for
+the renal transport of PFOA and these systems are differently regulated by sex
+hormones. Although a sex-related difference in urinary elimination has been
+reported for several chemicals and drugs [20,39–45], this has not been character-
+ized in any detail. It seems important, therefore, to investigate the relationship
+between the renal expression of various transporters and urinary elimination
+under various hormonal states in order to understand the mechanism by which
+these drugs and chemicals are eliminated into urine.
+   Recently, clones of organic anion transporters transporting a wide variety of
+organic anions have been isolated in rodents, humans and other animals [25–33].
+PFOA may be transported by organic anion transporters since the urinary excre-
+             N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316   313
+
+
+tion of PFOA is inhibited by probencid, an inhibitor of organic anion trans-
+porters (Table 3). We hypothesized that renal expression of PFOA transporter is
+essentially regulated by sex hormones. Therefore, the levels of mRNA of several
+organic anion transporters were compared with the CLR of PFOA to identify the
+transporters responsible for the renal PFOA transport in the present study.
+   Several interesting findings were obtained with regard to the hormonal control
+of renal mRNA expression of organic anion transporters. A significant sex-re-
+lated difference was observed in renal expression of OAT2 (Fig. 3) and OAT-K
+(Fig. 4) in addition to oatp1, consistent with the finding of Lu et al. [46] and
+Meria et al. [47]. OAT2 had been shown to be expressed predominantly in the
+liver, but only to a slight degree in the kidney of male rats [33]. However, we
+found that renal expression in female rats was 7.5 times higher compared with
+male rats. There was a close correlation between the CLR of PFOA and the level
+of OAT2 mRNA in male rats, while the level was unchanged by castration or
+the treatment with sex hormones in female rats. As for OAT3, the renal mRNA
+level in castrated female rats was almost twice as high as that in other experi-
+mental groups. Following multiple regression analysis, OAT2 and OAT3 posi-
+tively correlated with the CLR of PFOA. The contribution of OAT3 seems to be
+greater than that of OAT2, since the correlation coefficient of OAT3 was much
+higher than that of OAT2. Histochemical studies have revealed that three trans-
+porters of the OAT family are expressed in basolateral membranes of tubular
+cells and transport organic anions from the circulation to tubular cells [34].
+Accordingly, it seems likely that both OAT2 and OAT3 are responsible for the
+basolateral uptake of PFOA in renal tubular cells.
+   In contrast to the OAT family, three transporters of the oatp family have
+been shown to be expressed in brush border membrane [34,48]. So far, oatp1 has
+been thought to play a role in the uptake of organic anions and, therefore, to be
+responsible for the re-absorption of these anions from urine [34]. Recent studies,
+however, have suggested the possibility that oatp1 excludes organic anions from
+cells [49]. Since the present study shows that there is an inverse correlation
+between the mRNA level of oatp1 and the CLR of PFOA in male rats, but not
+in female rats, it remains unclear whether oatp1 is responsible for the re-absorp-
+tion of PFOA. Noe et al. [49] reported that oatp2 is predominantly expressed in
+the liver and brain in rats. No significant difference in the eight experimental
+groups in the present study suggests that this transporter does not play a crucial
+role in the renal transport of PFOA.
+   In conclusion, we have demonstrated that the CLR of PFOA and the renal
+mRNA levels of some organic anion transporters are markedly affected by sex
+hormones. Our results suggest that both OAT2 and OAT3 are responsible for
+the urinary elimination of PFOA. This observation will lead to a better under-
+standing of sex-related differences in the toxicokinetics of this chemical. The
+present study suggests that PFOA, after absorption, distribution and accumula-
+tion in humans, affects the transport of endogenous substrate as well as exoge-
+nous chemicals such as drugs, resulting in toxic effects.
+314              N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316
+
+Acknowledgements
+
+  This research was supported in part, by a Grant-in-Aid for Scientific Research
+(C) from the Ministry of Education, Science, Sports and Culture, Japan and
+Sasagawa Scientific Research Grant.
+
+
+
+References
+
+ [1] W.S. Guy, D.R. Taves, W.S. Brey, Organic fluorocompounds in human plasma: prevalence and
+     characterization, in: E. Johansen, D. Taves, T. Olsen (Eds.), Biochemistry Involving Car-
+     bonFluoride bonds, ACS Symposia Series, vol. 28, American Chemical Society, Washington, DC,
+     1976, pp. 117 –134.
+ [2] R.A. Guethner, M.L. Vietor, Surface active materials from perfluorocarboxylic acid, Ind. Eng.
+     Chem. Proc. Res. Dev. 1 (1962) 165 – 167.
+ [3] F.A. Ubel, S.D. Sorenson, D.E. Roach, Health status of plant workers exposed to fluorochemi-
+     cals — a preliminary report, Am. Ind. Hyg. Assoc. J. 41 (1980) 584 – 589.
+ [4] Y. Kawashima, H. Kobayashi, H. Miura, H. Kozuka, Characterization of hepatic response of rat
+     to administration of perfluorooctanoic acid, perfluorodecanoic acid at low levels, Toxicology 99
+     (1995) 169 –178.
+ [5] N. Kudo, Y. Kawashima, Fish oil-feeding prevents perfluorooctanoic acid-induced fatty liver in
+     mice, Toxicol. Appl. Pharm. 145 (1998) 285 – 293.
+ [6] N. Kudo, H. Mizuguchi, Y. Kawashima, Alterations by perfluorooctanoic acid of glycerolipid
+     metabolism in rat liver, Chemico-Biol. Interact. 118 (1999) 69 – 83.
+ [7] T.P. Pastoor, K.P. Lee, M.A. Perri, P.J. Gillies, Biochemical and morphological studies of
+     ammonium perfluorooctanoate-induced hepatomegaly and peroxisome proliferation, Exp. Mol.
+     Pathol. 47 (1987) 98 –109.
+ [8] H. Permadi, B. Lundgren, K. Andersson, J.W. DePierre, Effects of perfluoro fatty acids on
+     xenobiotic-metabolizing enzymes which detoxify reactive form of oxygen and lipid peroxidation in
+     mouse liver, Biochem. Pharmacol. 44 (1992) 1191 – 1193.
+ [9] A. Langley, Effects of perfluoro-n-decanoic acid on the respiratory activity of isolated rat liver
+     mitochondria, J. Toxicol. Environ. Health 29 (1990) 329 – 336.
+[10] D.M. Gutshall, G.D. Pilcher, A.E. Langley, Mechanism of the serum thyroid hormone lowering
+     effect of perfluoro-n-decanoic acid (PFDA) in rats, J. Toxicol. Environ. Health 28 (1989) 53 – 65.
+[11] R.C.M. Liu, M.E. Hurtt, J.C. Cook, L.B. Biegel, Effect of peroxisome proliferators, ammonium
+     perfluorooctanoate (C8), on hepatic aromatase activity in adult male Crl:CD BR (CD) rats, Fund.
+     Appl. Toxicol. 30 (1996) 220 –228.
+[12] G.W. Olsen, F.D. Gilliland, M.M. Burris, J.S. Mandel, J.H. Mandel, An epidemiologic investiga-
+     tion of reproductive hormones in men with occupational exposure to perfluorooctanoic acid, J.
+     Occup. Environ. Med. 40 (1998) 614 – 622.
+[13] G.W. Olsen, J.M. Burris, M.M. Burlew, J.H. Mandel, Plasma cholecystokinin and hepatic lipo-
+     proteins in ammonium perfluorooctanoate production workers, Drug Chem. Toxicol. 23 (2000)
+     603–620.
+[14] F.D. Gilliland, J.S. Mandel, Serum perfluorooctanoic acid and hepatic enzymes, lipoproteins, and
+     cholesterol: a study of occupationally exposed men, Am. J. Ind. Med. 29 (1996) 560 – 568.
+[15] N. Kudo, E. Suzuki, M. Katakura, K. Ohmori, R. Noshiro, Y. Kawashima, Comparison of the
+     elimination between perfluorinated fatty acids with different carbon chain length in rats, Chemico-
+     Biol. Interact. 134 (2001) 203 –216.
+[16] J.P. Vanden Heuvel, B.I. Kuslikis, M.J. Van Rafelghem, R.E. Peterson, Tissue distribution,
+     metabolism, and elimination of perfluorooctanoic acid in male and female rats, J. Biochem. Toxicol.
+     6 (1991) 83 –92.
+                 N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316                 315
+
+[17] H. Hanhijarvi, R.H. Ophaug, L. Singer, The sex-related difference in perfluorooctanoate excretion
+     in the rat, Proc. Soc. Exp. Biol. Med. 171 (1982) 50 – 55.
+[18] J.P. Vanden Heuvel, J.W. Davis II, R. Sommers, R.E. Peterson, Renal excretion of perfluorooc-
+     tanoic acid in male rats: inhibitory effect of testosterone, J. Biochem. Toxicol. 7 (1992) 31 – 36.
+[19] M. Ylinen, H. Hanhijarvi, J. Jaakonaho, P. Peura, Stimulation by oestradiol of the urinary
+     excretion of perfluorooctanoic acid in the male rat, Pharmacol. Toxicol. 65 (1989) 274 – 277.
+[20] J.A. Dill, K.M. Lee, D.J. Bates, D.J. Anderson, R.E. Johnson, B.J. Chou, L.T. Burka, J.P.
+     Roycroft, Tokicokinetics of inhalated 2-butoxyethanol and its major metabolite, 2-butoxyacetic
+     acid, in F344 rats and B6C3F1 mice, Toxicol. Appl. Pharm. 153 (1998) 227 – 242.
+[21] Y. Imamura, M. Kaneko, Y. Mori, M. Odagiri, Sex-dependent phoamacokinetics in vitro reductive
+     metabolism of acetohexamide in Wistar – Imaichi rats, Biol. Pharm. Bull. 22 (1999) 435 – 438.
+[22] M. Rizzardini, A.G. Smith, Sex differences in the metabolism of hexachlorobenzene by rats and the
+     development of porphyria in females, Biochem. Pharmacol. 31 (1982) 3543 – 3548.
+[23] B.I. Kuslikis, J.P. Vanden Heuvel, R.E. Peterson, Lack of evidence for perfluorodecanoyl- or
+     perfluorooctanoyl-coenzyme A formation in male and female rats, J. Biochem. Toxicol. 7 (1992)
+     25 –29.
+[24] R. Ophaug, L. Singer, Metabolic handling of perfluorooctanoic acid in rats, Proc. Soc. Exp. Biol.
+     Med. 163 (1980) 19 –23.
+[25] T. Abe, M. Kakyo, T. Tokui, R. Nakagomi, T. Nishio, D. Nakai, H. Nomura, M. Unno, M.
+     Suzuki, T. Naitoh, S. Matsuno, H. Yawo, Identification of a novel gene family encoding human
+     liver-specific organic anion transporter LST-1, J. Biol. Chem. 274 (1999) 17159 – 17163.
+[26] E. Jaacquemin, B. Hagenbuch, B. Stieger, A.W. Wolkoff, P.J. Meier, Expression cloning of a rat
+     liver Na+-independent organic anion transporter, Proc. Natl. Acad. Sci. USA 91 (1994) 133 – 137.
+[27] G.-A. Kullak-Ublick, U. Beuers, C. Fahney, B. Hagenbugh, P.J. Meier, G. Paumgartner, Identifica-
+     tion and functional characterization of thepromotor region of the human organic anion transport-
+     ing polypeptide gene, Hepatology 26 (1997) 991 – 997.
+[28] H. Kusuhara, T. Sekine, N. Utsunomiya-Tate, M. Tsuda, R. Kojima, S.H. Cha, Y. Sugiyama, Y.
+     Kanai, H. Endou, Molecular cloning and characterization of a novel multispecific organic anion
+     transporter from rat brain, J. Biol. Chem. 274 (1999) 13675 – 13680.
+[29] S. Masuda, K. Ibaramoto, A. Takeuchi, H. Saito, Y. Hashimoto, K. Inui, Cloning and functional
+     characterization of a new multispecific organic anion transporter, OAT-K2, in rat kidney, Mol.
+     Pharmacol. 55 (1999) 743 –752.
+[30] B. Noe, B. Hagenbugh, B. Stieger, P.J. Meier, Isolation of a multispecific organic anion and cardiac
+     glycoside transporter from rat brain, Proc. Natl. Acad. Sci. USA 94 (1997) 10346 – 10350.
+[31] H. Saito, S. Masuda, K. Inui, Cloning and functional characterization of a novel rat organic anion
+     transporter mediating basolateral uptake of methotrexate in the kidney, J. Biol. Chem. 271 (1996)
+     20719–20725.
+[32] T. Sekine, N. Watanabe, M. Hosoyamada, Y. Kanai, H. Eudou, Expression cloning and character-
+     ization of a novel multispecific organic anion transporter, J. Biol. Chem. 272 (1997) 18526 – 18529.
+[33] G.D. Simonson, A.C. Vincent, K.J. Roberg, Y. Huang, V. Iwanij, Moleclar cloning and character-
+     ization of a novel liver-specific transport protein, J. Cell. Sci. 107 (1994) 1065 – 1072.
+[34] K. Inui, S. Masuda, H. Saito, Cellular and molecular aspects of drug transport in the kidney,
+     Kidney Int. 58 (2000) 944 –958.
+[35] T. Ohya, N. Kudo, E. Suzuki, Y. Kawashima, Determination by high-performance liquid chro-
+     matography of perfluorinated carboxylic acids in biological samples, J. Chromatogr. B 720 (1998)
+     1–7.
+[36] K. Yamaoka, Y. Tanigawa, T. Nakagawara, T. Uno, A pharmacokinetic analysis program (MULTI)
+     for microcomputer, J. Pharmacobio-Dyn. 4 (1981) 879 – 885.
+[37] Z. Dische, E. Borenfreund, A new spectrophotometric method for the detection and determination
+     of keto sugars and trioses, J. Biol. Chem. 192 (1951) 583.
+[38] N. Kudo, N. Bandai, E. Suzuki, M. Katakura, Y. Kawashima, Induction by perfluorinated fatty
+     acids with different carbon chain length of peroxisomal b-oxidation in the liver of rats, Chemico-
+     Biol. Interact. 124 (2000) 119 –132.
+316              N. Kudo et al. / Chemico-Biological Interactions 139 (2002) 301–316
+
+[39] F.W. Janssen, E.M. Young, H.E. Rueliun, Effect of sex hormones on the disposition n rats of
+     1-aminocylohexane carboxylic acid, a metabolite of a semisynthetic penicillin, Drug Metab. Dispos.
+     4 (1976) 540 –546.
+[40] L.I. Kleinman, M.S. Loewenstein, L. Goldstein, Sex difference in the transport of p-aminohip-
+     purare by the rat kidney, Endocrinology 78 (1966) 403 – 406.
+[41] M. Sato, H. Suzaka, H. Miyazaki, Sex-related differences in urinary excretion of egualen sodium in
+     rats, Drug Metab. Dispos. 28 (2000) 21 – 27.
+[42] A.W. Smith, J.E. Francis, Evidence for the active renal secretion of S-pentachlorophenyl-N-acetyl-
+     L-cysteine by female rats, Biochem. Pharmacol. 32 (1983) 3797 – 3801.
+[43] Y. Tanaka, Y. Deguchi, I. Ishii, Sex differences in excretion of zenarestat in rat, Xenobiotica 21
+     (1991) 1119 –1125.
+[44] Y. Tanaka, Y. Kadoh, S. Mukumoto, H. Ishikawa, The role of age and sex hormones on the
+     urinary excretion of zenarestat in rats, Xenobiotica 21 (1991) 1273 – 1279.
+[45] W.E. Tucker Jr, F.W. Janssen, H.P.K. Agersborg Jr, E. Young, H.W. Ruelius, Sex- and species-re-
+     lated nephropathy of 6-(1-aminocyclohexanecarboxamino)penicillamic acid (cyclacillin) and its
+     relationship to the metabolic disposition, Toxicol. Appl. Pahrm. 29 (1974) 1 – 18.
+[46] R. Lu, N. Kanai, Y. Bao, A.W. Wolkoff, V.L. Schuster, Regulation of renal oatp mRNA
+     expression by testosterone, Am. J. Physiol. 270 (1996) F332 – F337.
+[47] M.J. Meria, N. Bofill, M. Hubank, A. Meseguer, Identification of androgen-regulated genes in
+     mouse kidney by representational difference analysis and random arbitary primed polymerase chain
+     reaction, Endocrinology 139 (1998) 688 – 695.
+[48] A.J. Bergwerk, X. Shi, A. Ford, N. Kanai, E. Jacquemin, R.D. Burk, S. Bai, P.M. Novikoff, B.
+     Stieger, P.J. Meier, V.L. Schuster, A.W. Wolkoff, Immunologic distribution of an organic anion
+     transport protein in rat liver and kidney, Am. J. Physiol. 271 (1996) G231 – 238.
+[49] L. Li, P.J. Meier, N. Ballatori, Oatp2 mediates bi-directional organic solute transport. A role for
+     intracellular glutathione, Mol. Pharmacol. 58 (2000) 335 – 340.
+

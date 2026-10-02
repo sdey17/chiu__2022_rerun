@@ -1,0 +1,353 @@
+SOURCE: Zurlinden TJ, Dzierlenga MW, Kapraun DF, Ring C, Bernstein AS, Schlosser PM, Morozov V.
+'Estimation of species- and sex-specific PFAS pharmacokinetics in mice, rats, and non-human primates using a Bayesian hierarchical methodology'
+Toxicol Appl Pharmacol 2025;499:117336. PMID 40210099. PMC12172007. doi:10.1016/j.taap.2025.117336
+
+SUPPLEMENTARY TABLES recovered from the paper's own code repository (USEPA/CPHEA-Animal-PFAS-PK,
+file auxiliary_notebooks/PFAS_manuscript_results.ipynb, executed-notebook outputs), because the
+PMC supplement files (NIHMS2077116-supplement-Supplement1.pdf / 2.docx / 3.docx) sit behind a
+JS proof-of-work download wall and the Europe PMC supplementaryFiles API refuses (not open access).
+The notebook cells below are the code that WRITES the supplementary CSVs:
+  cell 41 -> SUPPL_PFAS_PK_summary.csv   (+ figures/SUPPL_UnityLine.pdf)
+  cell 45 -> IV_vs_Gavage_ROPE_halft.csv (+ figures/SUPPL_IV_Gavage_halft_ROPE.pdf)
+  cell 47 -> IV_vs_Gavage_ROPE_Vd.csv    (+ figures/SUPPL_IV_Gavage_Vd_ROPE.pdf)
+  cells 32/35/43 -> sex-comparison ROPE tables
+
+KEY DEFINITION: the Vd parameter in this paper is Vdss (notebook variable 'Vdss [pop]' / 'Vdss [indiv]').
+Half-life parameter is 'halft_beta' = terminal (beta-phase) half-life.
+Effect metric in cells 45/47 = posterior ratio IV/oral of the named parameter; ROPE = [0.8, 1.2].
+Study labels read 'Author, Year (dose mg/kg, sex initial)'. All IV-vs-gavage comparisons are RAT.
+
+################################################################################
+## CELL 45 - IV_vs_Gavage_ROPE_halft (param: halft_beta [indiv]; effect = IV/oral ratio; ROPE 0.8-1.2)
+################################################################################
+>>> CURRENTLY ON PFBA
+                     mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Chang, 2008 (30,m)  1.240  6.319     0.007      3.176  0.524  1.192     19.185  No Decision    Male  PFBA
+Chang, 2008 (30,f)  1.703  1.056     0.082      3.488  0.968  2.230      7.835  No Decision  Female  PFBA
+------------------------------------------------------------
+>>> DONE WITH PFBA
+>>> CURRENTLY ON PFBS
+                     mean      sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Olsen, 2009 (30,m)  2.011  18.092     0.000      5.440  0.620  2.019     18.830  No Decision    Male  PFBS
+Huang, 2019 (4,m)   1.285  27.261     0.000      3.005  0.039  0.484      4.885  No Decision    Male  PFBS
+Olsen, 2009 (30,f)  0.597   0.198     0.238      0.982  0.459  0.709     13.230  No Decision  Female  PFBS
+Huang, 2019 (4,f)   0.782   1.011     0.051      1.836  0.368  0.958     19.255  No Decision  Female  PFBS
+------------------------------------------------------------
+>>> DONE WITH PFBS
+>>> CURRENTLY ON PFHxA
+                          mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex   PFAS
+Dzierlenga, 2019 (40,m)  2.685  1.251     0.322      4.997  1.806  3.425      5.955  No Decision    Male  PFHxA
+Dzierlenga, 2019 (40,f)  1.162  2.121     0.000      5.994  0.125  0.563      2.130  No Decision  Female  PFHxA
+------------------------------------------------------------
+>>> DONE WITH PFHxA
+>>> CURRENTLY ON PFHxS
+                    mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex   PFAS
+Kim, 2016 (4,m)    1.084  0.212     0.809      1.376  0.981  1.167     79.643  No Decision    Male  PFHxS
+Kim, 2018 (10,m)   2.325  1.106     0.625      4.378  1.588  2.823      8.982  No Decision    Male  PFHxS
+Huang, 2019 (4,m)  1.383  0.433     0.652      2.295  1.115  1.578     30.361  No Decision    Male  PFHxS
+Kim, 2016 (4,f)    0.798  0.055     0.703      0.888  0.767  0.826     46.015  No Decision  Female  PFHxS
+Kim, 2018 (1,f)    1.046  0.048     0.964      1.126  1.019  1.073     99.890  Accept Null  Female  PFHxS
+Kim, 2018 (4,f)    1.071  0.065     0.951      1.202  1.027  1.109     96.700  No Decision  Female  PFHxS
+Huang, 2019 (4,f)  0.663  0.053     0.576      0.751  0.634  0.691      0.755  Reject Null  Female  PFHxS
+------------------------------------------------------------
+>>> DONE WITH PFHxS
+>>> CURRENTLY ON PFOA
+                           mean       sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Kim, 2016 (1,m)           0.241    6.143     0.000      0.302  0.018  0.117      0.380  Reject Null    Male  PFOA
+Dzierlenga, 2019 (6,m)   16.826  294.069     0.000     26.672  0.600  3.878     10.590  No Decision    Male  PFOA
+Kemper, 2003 (1,m)        0.303    0.336     0.000      0.788  0.085  0.413      2.735  Reject Null    Male  PFOA
+Kim, 2016 (1,f)           1.415    2.123     0.008      4.243  0.465  1.624     16.810  No Decision  Female  PFOA
+Dzierlenga, 2019 (40,f)   0.800    0.373     0.275      1.444  0.574  0.946     30.900  No Decision  Female  PFOA
+Kemper, 2003 (1,f)        0.629    0.211     0.255      1.033  0.477  0.752     17.510  No Decision  Female  PFOA
+------------------------------------------------------------
+>>> DONE WITH PFOA
+>>> CURRENTLY ON PFOS
+                    mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Kim, 2016 (2,m)    0.881  0.379     0.337      1.476  0.671  1.006     42.170  No Decision    Male  PFOS
+Huang, 2019 (2,m)  1.062  0.700     0.484      1.639  0.883  1.171     65.015  No Decision    Male  PFOS
+Kim, 2016 (2,f)    1.173  0.456     0.580      1.730  0.985  1.297     53.555  No Decision  Female  PFOS
+Huang, 2019 (2,f)  0.619  0.482     0.288      0.895  0.506  0.659      4.410  No Decision  Female  PFOS
+------------------------------------------------------------
+>>> DONE WITH PFOS
+>>> CURRENTLY ON PFNA
+                    mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Kim, 2019 (3,m)    1.366  0.708     0.302      2.655  0.943  1.626     31.870  No Decision    Male  PFNA
+Kim, 2019 (0.5,f)  1.296  0.724     0.072      2.441  0.970  1.532     33.389  No Decision  Female  PFNA
+Kim, 2019 (1,f)    0.981  0.860     0.540      1.259  0.794  0.991     68.582  No Decision  Female  PFNA
+Kim, 2019 (3,f)    0.873  0.129     0.618      1.114  0.804  0.954     75.754  No Decision  Female  PFNA
+------------------------------------------------------------
+>>> DONE WITH PFNA
+>>> CURRENTLY ON PFDA
+                         mean      sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Kim, 2019 (1,m)         4.154  87.075     0.000      6.584  1.402  2.145      5.392  No Decision    Male  PFDA
+Dzierlenga, 2019 (2,m)  1.786   2.493     0.302      4.167  0.979  1.888     30.148  No Decision    Male  PFDA
+Kim, 2019 (1,f)         3.435  78.259     0.000      4.493  0.603  0.836     10.690  No Decision  Female  PFDA
+Dzierlenga, 2019 (2,f)  2.927  48.576     0.000      4.781  0.350  0.772      8.130  No Decision  Female  PFDA
+------------------------------------------------------------
+>>> DONE WITH PFDA
+<Figure size 600x800 with 8 Axes>
+------------------------------------------------------------
+################################################################################
+## CELL 47 - IV_vs_Gavage_ROPE_Vd (param: Vdss [indiv]; effect = IV/oral ratio; ROPE 0.8-1.2)
+################################################################################
+>>> CURRENTLY ON PFBA
+                     mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Chang, 2008 (30,m)  1.313  0.386     0.890      1.962  1.093  1.411      46.20  No Decision    Male  PFBA
+Chang, 2008 (30,f)  1.690  0.709     0.786      2.938  1.241  1.951      21.33  No Decision  Female  PFBA
+------------------------------------------------------------
+>>> DONE WITH PFBA
+>>> CURRENTLY ON PFBS
+                     mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Olsen, 2009 (30,m)  1.167  0.396     0.557      1.986  0.963  1.277     61.035  No Decision    Male  PFBS
+Huang, 2019 (4,m)   1.134  0.363     0.569      1.870  0.950  1.243     63.000  No Decision    Male  PFBS
+Olsen, 2009 (30,f)  1.494  0.544     0.725      2.591  1.106  1.731     32.750  No Decision  Female  PFBS
+Huang, 2019 (4,f)   0.857  0.246     0.406      1.331  0.687  0.999     50.050  No Decision  Female  PFBS
+------------------------------------------------------------
+>>> DONE WITH PFBS
+>>> CURRENTLY ON PFHxA
+                          mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex   PFAS
+Dzierlenga, 2019 (40,m)  0.860  0.187     0.484      1.196  0.730  0.986     58.665  No Decision    Male  PFHxA
+Dzierlenga, 2019 (40,f)  0.661  0.246     0.250      1.080  0.471  0.839     27.035  No Decision  Female  PFHxA
+------------------------------------------------------------
+>>> DONE WITH PFHxA
+>>> CURRENTLY ON PFHxS
+                    mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex   PFAS
+Kim, 2016 (4,m)    1.630  0.417     0.991      2.461  1.349  1.813      8.786  No Decision    Male  PFHxS
+Kim, 2018 (10,m)   1.667  0.486     0.993      2.638  1.329  1.883     11.036  No Decision    Male  PFHxS
+Huang, 2019 (4,m)  1.305  0.296     0.772      1.895  1.109  1.461     37.018  No Decision    Male  PFHxS
+Kim, 2016 (4,f)    1.745  0.484     1.130      2.619  1.452  1.891      1.490  No Decision  Female  PFHxS
+Kim, 2018 (1,f)    2.092  0.413     1.524      2.885  1.837  2.226      0.000  Reject Null  Female  PFHxS
+Kim, 2018 (4,f)    2.331  0.563     1.622      3.403  1.989  2.498      0.000  Reject Null  Female  PFHxS
+Huang, 2019 (4,f)  0.914  0.162     0.647      1.221  0.806  0.990     71.750  No Decision  Female  PFHxS
+------------------------------------------------------------
+>>> DONE WITH PFHxS
+>>> CURRENTLY ON PFOA
+                          mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Kim, 2016 (1,m)          1.403  0.489     0.739      2.386  1.092  1.563     38.165  No Decision    Male  PFOA
+Dzierlenga, 2019 (6,m)   0.963  0.216     0.569      1.404  0.830  1.067     69.600  No Decision    Male  PFOA
+Kemper, 2003 (1,m)       1.218  0.317     0.678      1.855  1.022  1.344     52.165  No Decision    Male  PFOA
+Kim, 2016 (1,f)          1.528  0.530     0.706      2.623  1.135  1.802     27.235  No Decision  Female  PFOA
+Dzierlenga, 2019 (40,f)  1.090  0.367     0.472      1.811  0.860  1.249     52.540  No Decision  Female  PFOA
+Kemper, 2003 (1,f)       1.579  0.543     0.705      2.621  1.167  1.882     25.010  No Decision  Female  PFOA
+------------------------------------------------------------
+>>> DONE WITH PFOA
+>>> CURRENTLY ON PFOS
+                    mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Kim, 2016 (2,m)    1.350  0.301     0.879      1.950  1.150  1.481     33.635  No Decision    Male  PFOS
+Huang, 2019 (2,m)  1.544  0.419     0.870      2.359  1.268  1.736     17.170  No Decision    Male  PFOS
+Kim, 2016 (2,f)    1.745  0.511     1.040      2.700  1.441  1.901      3.805  No Decision  Female  PFOS
+Huang, 2019 (2,f)  1.640  0.394     1.007      2.396  1.389  1.815      7.485  No Decision  Female  PFOS
+------------------------------------------------------------
+>>> DONE WITH PFOS
+>>> CURRENTLY ON PFNA
+                    mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Kim, 2019 (3,m)    1.577  0.689     0.705      2.946  1.118  1.833     31.570  No Decision    Male  PFNA
+Kim, 2019 (0.5,f)  1.230  0.163     0.923      1.545  1.118  1.325     45.807  No Decision  Female  PFNA
+Kim, 2019 (1,f)    1.135  0.143     0.884      1.427  1.035  1.213     72.143  No Decision  Female  PFNA
+Kim, 2019 (3,f)    0.957  0.139     0.703      1.224  0.858  1.038     82.532  No Decision  Female  PFNA
+------------------------------------------------------------
+>>> DONE WITH PFNA
+>>> CURRENTLY ON PFDA
+                         mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Kim, 2019 (1,m)         1.032  0.333     0.556      1.725  0.833  1.136     62.522  No Decision    Male  PFDA
+Dzierlenga, 2019 (2,m)  2.156  1.382     0.866      4.577  1.415  2.381      8.990  No Decision    Male  PFDA
+Kim, 2019 (1,f)         0.770  0.236     0.451      1.235  0.617  0.860     27.900  No Decision  Female  PFDA
+Dzierlenga, 2019 (2,f)  1.505  0.514     0.649      2.415  1.196  1.717     21.860  No Decision  Female  PFDA
+------------------------------------------------------------
+>>> DONE WITH PFDA
+<Figure size 600x800 with 8 Axes>
+------------------------------------------------------------
+################################################################################
+## CELL 43 - Sex_ratio_ROPE_CLC_indiv (param: CLC [indiv]; ROPE 0.8-1.2)
+################################################################################
+>>> CURRENTLY ON PFBA
+                                      mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Chang, 2008 (M-m)\n100 vs. 10 mg/kg  1.960  0.204     1.569      2.378  1.823  2.089      0.005  Reject Null    Male  PFBA
+Chang, 2008 (F-m)\n100 vs. 10 mg/kg  1.976  0.292     1.406      2.544  1.775  2.164      0.065  Reject Null  Female  PFBA
+------------------------------------------------------------
+>>> DONE WITH PFBA
+>>> CURRENTLY ON PFBS
+                                          mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Chengelis, 2009 (M-r)\n300 vs. 50 mg/kg  1.755  1.024     0.369      3.577  1.104  2.131     20.650  No Decision    Male  PFBS
+Huang, 2019 (M-r)\n100 vs. 4 mg/kg       1.712  0.641     0.686      2.942  1.280  2.019     17.180  No Decision    Male  PFBS
+Huang, 2019 (F-r)\n100 vs. 4 mg/kg       1.182  0.307     0.614      1.777  0.980  1.338     50.555  No Decision  Female  PFBS
+------------------------------------------------------------
+>>> DONE WITH PFBS
+>>> CURRENTLY ON PFHxA
+                                           mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex   PFAS
+Gannon, 2011 (M-r)\n100 vs. 2 mg/kg       1.143  0.174     0.842      1.507  1.018  1.241     66.870  No Decision    Male  PFHxA
+Chengelis, 2009 (M-r)\n300 vs. 50 mg/kg   1.051  0.137     0.806      1.344  0.964  1.121     85.740  No Decision    Male  PFHxA
+Dzierlenga, 2019 (M-r)\n160 vs. 40 mg/kg  1.170  0.167     0.871      1.500  1.048  1.268     61.330  No Decision    Male  PFHxA
+Gannon, 2011 (F-r)\n100 vs. 2 mg/kg       0.989  0.242     0.538      1.459  0.835  1.110     65.220  No Decision  Female  PFHxA
+Dzierlenga, 2019 (F-r)\n160 vs. 40 mg/kg  1.147  0.303     0.601      1.746  0.959  1.291     55.455  No Decision  Female  PFHxA
+Gannon, 2011 (F-m)\n100 vs. 2 mg/kg       0.578  0.062     0.459      0.696  0.535  0.616      0.270  Reject Null  Female  PFHxA
+Daikin, 2010 (F-m)\n350 vs. 35 mg/kg      0.957  0.244     0.519      1.438  0.790  1.090     59.315  No Decision  Female  PFHxA
+------------------------------------------------------------
+>>> DONE WITH PFHxA
+>>> CURRENTLY ON PFHxS
+                                    mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex   PFAS
+Huang, 2019 (M-r)\n32 vs. 4 mg/kg  1.692  0.425     0.915      2.485  1.415  1.923      9.396  No Decision    Male  PFHxS
+Kim, 2018 (F-r)\n4 vs. 1.0 mg/kg   1.353  0.306     0.729      1.947  1.185  1.487     24.245  No Decision  Female  PFHxS
+Huang, 2019 (F-r)\n32 vs. 4 mg/kg  1.958  0.401     1.129      2.738  1.722  2.176      2.620  No Decision  Female  PFHxS
+------------------------------------------------------------
+>>> DONE WITH PFHxS
+>>> CURRENTLY ON PFOA
+                                           mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Dzierlenga, 2019 (M-r)\n48 vs. 6 mg/kg    2.234  0.556     1.230      3.343  1.838  2.566      1.205  Reject Null    Male  PFOA
+Kemper, 2003 (M-r)\n25 vs. 0.1 mg/kg      1.667  0.354     0.961      2.335  1.437  1.854      6.660  No Decision    Male  PFOA
+Dzierlenga, 2019 (F-r)\n320 vs. 40 mg/kg  0.710  0.224     0.277      1.131  0.558  0.840     29.025  No Decision  Female  PFOA
+Kemper, 2003 (F-r)\n25 vs. 0.1 mg/kg      1.286  0.276     0.773      1.841  1.105  1.433     37.725  No Decision  Female  PFOA
+Lou, 2009 (F-m)\n60 vs. 1.0 mg/kg         5.442  1.342     0.974      7.065  5.071  6.234      3.025  No Decision  Female  PFOA
+------------------------------------------------------------
+>>> DONE WITH PFOA
+>>> CURRENTLY ON PFOS
+                                    mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Chang, 2012 (M-r)\n15 vs. 2 mg/kg  0.801  0.301     0.294      1.370  0.588  0.962     36.325  No Decision    Male  PFOS
+Huang, 2019 (M-r)\n20 vs. 2 mg/kg  0.765  0.178     0.446      1.111  0.649  0.853     33.545  No Decision    Male  PFOS
+Chang, 2012 (F-r)\n15 vs. 2 mg/kg  0.959  0.398     0.318      1.686  0.715  1.117     44.000  No Decision  Female  PFOS
+Huang, 2019 (F-r)\n20 vs. 2 mg/kg  1.010  0.232     0.599      1.462  0.862  1.122     68.995  No Decision  Female  PFOS
+------------------------------------------------------------
+>>> DONE WITH PFOS
+>>> CURRENTLY ON PFNA
+                                            mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Tatum-Gibbs, 2011 (M-r)\n10 vs. 1.0 mg/kg  1.243  0.375     0.670      2.000  1.008  1.399     47.695  No Decision    Male  PFNA
+Tatum-Gibbs, 2011 (F-r)\n10 vs. 1.0 mg/kg  0.917  0.128     0.656      1.163  0.832  1.000     80.493  No Decision  Female  PFNA
+Kim, 2019 (F-r)\n10 vs. 0.5 mg/kg          1.003  0.139     0.716      1.272  0.916  1.087     84.700  No Decision  Female  PFNA
+------------------------------------------------------------
+>>> DONE WITH PFNA
+>>> CURRENTLY ON PFDA
+                                         mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Dzierlenga, 2019 (M-r)\n20 vs. 2 mg/kg  1.266  0.458     0.532      2.115  1.008  1.418     44.995  No Decision    Male  PFDA
+Dzierlenga, 2019 (F-r)\n20 vs. 2 mg/kg  1.034  0.340     0.462      1.636  0.843  1.154     60.305  No Decision  Female  PFDA
+------------------------------------------------------------
+>>> DONE WITH PFDA
+<Figure size 400x800 with 8 Axes>
+------------------------------------------------------------
+################################################################################
+## CELL 32 - Sex_ratio_ROPE_CLC_pop (param: CLC [pop]; ROPE 0.8-1.2)
+################################################################################
+>>> CURRENTLY ON PFBA
+          mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE  PFAS
+mouse    3.149  1.377     0.932      5.785  2.283  3.712      1.735  No Decision  PFBA
+rat      4.437  3.552     0.347     10.213  2.500  5.250      2.670  No Decision  PFBA
+primate  0.661  0.130     0.417      0.914  0.571  0.737     13.510  No Decision  PFBA
+------------------------------------------------------------
+>>> DONE WITH PFBA
+>>> CURRENTLY ON PFBS
+          mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE  PFAS
+mouse    1.726  0.341     1.103      2.427  1.489  1.929      4.125  No Decision  PFBS
+rat      4.238  1.325     1.858      6.812  3.328  4.949      0.005  Reject Null  PFBS
+primate  1.377  0.814     0.206      2.753  0.891  1.656     29.197  No Decision  PFBS
+------------------------------------------------------------
+>>> DONE WITH PFBS
+>>> CURRENTLY ON PFHxA
+          mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE   PFAS
+mouse    2.028  0.412     1.249      2.860  1.766  2.256      1.250  Reject Null  PFHxA
+rat      2.620  0.630     1.374      3.853  2.203  2.983      0.625  Reject Null  PFHxA
+primate  1.134  0.311     0.596      1.747  0.920  1.297     54.190  No Decision  PFHxA
+------------------------------------------------------------
+>>> DONE WITH PFHxA
+>>> CURRENTLY ON PFHxS
+           mean     sd  hdi_2.5%  hdi_97.5%     25%     75%  ROPE_prob         ROPE   PFAS
+mouse     0.824  0.013      0.80      0.847   0.816   0.831     97.735  No Decision  PFHxS
+rat      20.993  5.048     11.84     30.859  17.475  23.802      0.000  Reject Null  PFHxS
+primate   1.958  1.050      1.04      3.151   1.528   2.151      3.230  No Decision  PFHxS
+------------------------------------------------------------
+>>> DONE WITH PFHxS
+>>> CURRENTLY ON PFOA
+           mean      sd  hdi_2.5%  hdi_97.5%     25%     75%  ROPE_prob         ROPE  PFAS
+mouse     1.797   1.028     0.407      3.673   1.153   2.152     21.235  No Decision  PFOA
+rat      46.945  13.843    22.453     74.168  37.310  54.345      0.000  Reject Null  PFOA
+primate   0.437   0.069     0.309      0.574   0.389   0.478      0.005  Reject Null  PFOA
+------------------------------------------------------------
+>>> DONE WITH PFOA
+>>> CURRENTLY ON PFOS
+          mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE  PFAS
+mouse    1.039  0.054     0.929      1.142  1.001  1.075     99.745  Accept Null  PFOS
+rat      0.868  0.270     0.417      1.419  0.685  1.006     45.050  No Decision  PFOS
+primate  1.763  0.265     1.268      2.297  1.585  1.917      0.680  Reject Null  PFOS
+------------------------------------------------------------
+>>> DONE WITH PFOS
+>>> CURRENTLY ON PFNA
+         mean      sd  hdi_2.5%  hdi_97.5%     25%     75%  ROPE_prob         ROPE  PFAS
+mouse   2.082  13.206     0.381      3.733   0.839   1.342      47.57  No Decision  PFNA
+rat    22.095   6.475    11.249     34.638  17.880  24.965       0.00  Reject Null  PFNA
+------------------------------------------------------------
+>>> DONE WITH PFNA
+>>> CURRENTLY ON PFDA
+      mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE  PFAS
+rat  1.013  0.409     0.356      1.801  0.732  1.208      41.45  No Decision  PFDA
+------------------------------------------------------------
+>>> DONE WITH PFDA
+<Figure size 400x800 with 8 Axes>
+------------------------------------------------------------
+################################################################################
+## CELL 35 - Sex/other ROPE (hdi 0.95)
+################################################################################
+>>> CURRENTLY ON PFBA
+                     mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Chang, 2008 (30,m)  2.455  0.678     1.766      3.585  2.089  2.600      0.000  Reject Null    Male  PFBA
+Chang, 2008 (30,f)  1.951  0.668     1.161      3.052  1.584  2.131      1.145  No Decision  Female  PFBA
+------------------------------------------------------------
+>>> DONE WITH PFBA
+>>> CURRENTLY ON PFBS
+                     mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Olsen, 2009 (30,m)  1.576  0.580     0.656      2.691  1.195  1.832     22.510  No Decision    Male  PFBS
+Huang, 2019 (4,m)   1.341  0.325     0.819      1.949  1.129  1.476     36.560  No Decision    Male  PFBS
+Olsen, 2009 (30,f)  1.537  0.373     0.955      2.269  1.285  1.705     14.255  No Decision  Female  PFBS
+Huang, 2019 (4,f)   2.036  0.485     1.234      2.980  1.711  2.272      0.635  Reject Null  Female  PFBS
+------------------------------------------------------------
+>>> DONE WITH PFBS
+>>> CURRENTLY ON PFHxA
+                          mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex   PFAS
+Dzierlenga, 2019 (40,m)  1.320  0.222      0.97      1.751  1.160  1.442     32.395  No Decision    Male  PFHxA
+Dzierlenga, 2019 (40,f)  1.912  0.631      0.95      3.104  1.465  2.239      8.240  No Decision  Female  PFHxA
+------------------------------------------------------------
+>>> DONE WITH PFHxA
+>>> CURRENTLY ON PFHxS
+                    mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex   PFAS
+Kim, 2016 (4,m)    1.519  0.360     1.016      2.249  1.272  1.673     14.057  No Decision    Male  PFHxS
+Kim, 2018 (10,m)   0.820  0.341     0.255      1.485  0.587  0.986     33.482  No Decision    Male  PFHxS
+Huang, 2019 (4,m)  0.980  0.210     0.605      1.384  0.846  1.084     71.664  No Decision    Male  PFHxS
+Kim, 2016 (4,f)    2.285  0.626     1.519      3.425  1.907  2.467      0.000  Reject Null  Female  PFHxS
+Kim, 2018 (1,f)    2.051  0.395     1.553      2.821  1.809  2.173      0.000  Reject Null  Female  PFHxS
+Kim, 2018 (4,f)    2.393  0.564     1.729      3.448  2.050  2.549      0.000  Reject Null  Female  PFHxS
+Huang, 2019 (4,f)  1.506  0.250     1.112      1.991  1.342  1.615      4.525  No Decision  Female  PFHxS
+------------------------------------------------------------
+>>> DONE WITH PFHxS
+>>> CURRENTLY ON PFOA
+                          mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Kim, 2016 (1,m)          1.245  0.219     0.883      1.658  1.108  1.340     46.965  No Decision    Male  PFOA
+Dzierlenga, 2019 (6,m)   1.512  0.284     1.031      2.065  1.319  1.653      9.660  No Decision    Male  PFOA
+Kemper, 2003 (1,m)       1.273  0.279     0.738      1.803  1.089  1.429     39.210  No Decision    Male  PFOA
+Kim, 2016 (1,f)          1.214  0.231     0.846      1.685  1.062  1.320     54.675  No Decision  Female  PFOA
+Dzierlenga, 2019 (40,f)  1.423  0.342     0.820      2.079  1.192  1.590     25.535  No Decision  Female  PFOA
+Kemper, 2003 (1,f)       1.920  0.330     1.373      2.575  1.699  2.085      0.050  Reject Null  Female  PFOA
+------------------------------------------------------------
+>>> DONE WITH PFOA
+>>> CURRENTLY ON PFOS
+                    mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Kim, 2016 (2,m)    1.624  0.444     0.899      2.488  1.339  1.813     10.815  No Decision    Male  PFOS
+Huang, 2019 (2,m)  1.481  0.350     0.958      2.161  1.253  1.631     17.790  No Decision    Male  PFOS
+Kim, 2016 (2,f)    1.508  0.442     0.947      2.367  1.247  1.640     17.360  No Decision  Female  PFOS
+Huang, 2019 (2,f)  2.886  0.653     1.858      4.091  2.467  3.153      0.000  Reject Null  Female  PFOS
+------------------------------------------------------------
+>>> DONE WITH PFOS
+>>> CURRENTLY ON PFNA
+                    mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Kim, 2019 (3,m)    1.326  0.751     0.356      2.643  0.875  1.558     35.380  No Decision    Male  PFNA
+Kim, 2019 (0.5,f)  1.032  0.106     0.829      1.237  0.963  1.090     93.175  No Decision  Female  PFNA
+Kim, 2019 (1,f)    1.081  0.114     0.889      1.321  1.002  1.142     86.475  No Decision  Female  PFNA
+Kim, 2019 (3,f)    1.211  0.143     0.965      1.489  1.110  1.292     50.750  No Decision  Female  PFNA
+------------------------------------------------------------
+>>> DONE WITH PFNA
+>>> CURRENTLY ON PFDA
+                         mean     sd  hdi_2.5%  hdi_97.5%    25%    75%  ROPE_prob         ROPE     sex  PFAS
+Kim, 2019 (1,m)         0.583  0.212     0.248      0.989  0.455  0.660      9.555  No Decision    Male  PFDA
+Dzierlenga, 2019 (2,m)  1.953  0.706     0.863      3.404  1.556  2.191      4.160  No Decision    Male  PFDA
+Kim, 2019 (1,f)         1.083  0.315     0.640      1.737  0.891  1.190     66.605  No Decision  Female  PFDA
+Dzierlenga, 2019 (2,f)  2.586  0.879     1.688      3.955  2.126  2.785      0.000  Reject Null  Female  PFDA
+------------------------------------------------------------
+>>> DONE WITH PFDA
+<Figure size 600x800 with 8 Axes>
+------------------------------------------------------------

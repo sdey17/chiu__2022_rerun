@@ -1,0 +1,155 @@
+                                                                            OFFICIAL
+
+
+
+
+Australia
+
+
+            Key Links
+                                                                           Recent Initiatives
+            Risk Assessment
+              Information required on introduction of PFAS in Australia
+                                                                           In October 2025, the Australian Industrial Chemicals Introduction
+              PFAS information on the Australian Industrial Chemicals
+                                                                           Scheme (AICIS) initiated an evaluation of the 522 PFAS listed on
+                 Introduction Scheme (AICIS) website.
+                                                                           the Australian Inventory. AICIS has previously completed risk
+              Search for AICIS risk assessments on PFAS
+                                                                           assessments on 423 of the 522 PFAS. The current evaluation
+            Risk Management                                                includes a requirement for introducers of industrial chemicals to
+              The Industrial Chemicals Environmental Management           provide information to AICIS on their introduction and use of PFAS.
+                 Standard (IChEMS) – Introduction.                         This will confirm which PFAS are in use in Australia to inform
+              IChEMS Register entries for PFOS, PFOA, PFHxS, and          consideration of which PFAS require further evaluation.
+                 related substances                                        In April 2024, AICIS updated the legal definition of higher concern
+              All chemicals listed on the IChEMS Register                 PFAS (designated fluorinated chemicals) to more precisely capture a
+                                                                           broader class of PFAS that require a risk assessment by AICIS
+            Contamination Management                                       before being introduced into Australia if they are not listed on the
+              Intergovernmental Agreement on a National Framework for     Inventory. In October 2025, AICIS confirmed the set of information
+                Responding to PFAS Contamination                           that certificate applicants may need to provide when applying for an
+              National PFAS Position Statement                            assessment certificate for the introduction of a designated fluorinated
+              PFAS National Environmental Management Plan 3.0             chemical. These requirements will formally be added to the
+              National Environment Protection (Assessment of Site         assessment certificate online application form in AICIS Business
+                Contamination) Measure                                     Services in the near future.
+              PFAS Investigation and Management Program (Department of    A ban on the import, manufacture and use of perfluorooctane
+                Defence)                                                   sulfonate (PFOS), perfluorooctanoic acid (PFOA) and
+              PFAS – Airports Investigation Program (Department of        perfluorohexane sulfonate (PFHxS) came into effect on 1 July 2025
+                Infrastructure, Transport, Regional Development,           and applies to around 500 individual substances whether on their
+                Communication and the Arts)                                own, in mixtures or in articles.
+                                                                           Version 3.0 of the PFAS National Environmental Management Plan
+            Fact Sheets                                                    (PFAS NEMP 3.0) was released in March 2025. The PFAS NEMP
+              PFAS Fact Sheet on the Department of Health and Aged Care   3.0 provides guidance for the environmental management of per-and
+                 website                                                   polyfluoroalkyl substances (PFAS) with a focus on preventing and
+              PFAS Fact Sheet on the Department of Climate Change,        managing PFAS contamination.
+                 Energy, the Environment and Water website
+
+
+
+
+                                                                            OFFICIAL
+                                                                                            OFFICIAL
+
+
+
+Overview of Risk Reduction Approaches for PFASs
+
+In Australia, chemicals are regulated under national (Commonwealth), state and territory laws. At the Commonwealth level, chemicals are regulated according to their use. That is, industrial
+chemicals, pesticides and veterinary medicines, therapeutic goods, and food, food additives and food packaging materials.
+Australia is engaged in meeting its obligations under international agreements and initiatives on chemicals management. This includes the Stockholm and Rotterdam Conventions (controls on
+certain high concern PFAS), Montreal Protocol (controls on ozone-depleting and synthetic greenhouse gas including certain PFAS), and the Basel and Waigani Conventions (includes controls on
+PFAS-containing wastes).
+Risk Assessment
+The Australian Industrial Chemicals Introduction Scheme (AICIS) assesses risks to human health and the environment from the introduction (import or manufacture) and use of industrial
+chemicals. These risk assessments are available publicly on the AICIS website.
+When an AICIS risk assessment identifies risks that require risk management controls to protect human health or the environment, AICIS makes recommendations to the relevant risk
+management agency. Risk management agencies regulate the use, release and disposal of industrial chemicals to protect human health and the environment within their respective risk
+management frameworks. If the identified risks of the chemical cannot be managed within these frameworks, AICIS has the authority to refuse to authorise the introduction of an industrial
+chemical, cancel an authorisation, remove the chemical from the Inventory, and/or vary the terms of Inventory listing or authorisation conditions.
+Risk Management
+The Industrial Chemicals Environmental Management Standard (IChEMS) was introduced to prevent harm to the environment by establishing nationally consistent standards for managing import,
+export, manufacture, use and disposal of industrial chemicals. The IChEMS was developed collaboratively by the Commonwealth, states and territories, and all of these governments work
+together to implement the scheme. Three groups of PFAS representing around 500 individual substances have been scheduled under the scheme: PFOS, PFOA, PFHxS and related chemicals. A
+ban on the import, use and manufacture of these PFAS came into effect from 1 July 2025.
+Contamination Management
+The government works closely with states and territories to provide nationally consistent responses to PFAS contamination through the:
+    -   Intergovernmental Agreement on a National Framework for Responding to PFAS;
+    -   National PFAS Position Statement;
+    -   PFAS National Environmental Management Plan; and
+    -   Assessment of Site Contamination National Environment Protection Measure.
+The Position Statement sets out the shared view of Australian governments that future PFAS use in Australia should be reduced to the greatest extent practicable. This includes working towards
+the ultimate goal of transitioning away from the use of chemicals that cause irreversible or long-term contamination of Australia’s environment. The Position Statement lists a set of nationally
+agreed objectives for phasing-out the use of PFASs of concern in Australia, including in articles.
+The PFAS National Environmental Management Plan (PFAS NEMP 3.0) sets out nationally developed and agreed standards and guidance, which includes nationally agreed investigation
+guideline values. The PFAS NEMP3.0 is the product of collaboration across the Commonwealth, states and territories and New Zealand. It recognises the need for sound regulation of PFAS in a
+way that can be adapted to different state and territory regulatory requirements, local circumstances, and emerging priorities. The PFAS NEMP 3.0, released in March 2025, is implemented by
+states and territories within their own environmental legislation.
+
+
+
+
+                                                                                            OFFICIAL
+                                                                                                              OFFICIAL
+
+
+
+Table with Key Elements of Risk Reduction Approaches
+
+             Action                      Path taken           BEPs Implemented           Category of PFASs          Articles covered?        Life cycle stage(s)    Method of approach      Public- private   Level of constraint
+                                                                                             addressed                                           addressed                                   partnership
+                                                                                                                                                                                            encouraged?
+
+
+     2025: risk management            Managing import,       Minimisation of PFASs     PFOS, PFOA, PFHxS and                Yes                 Import, use,             Regulatory               No          Prohibitions and risk
+   standards in place for three      manufacture, export,            used                related substances                                   manufacture and                                                    management
+ groups of PFAS (PFOS, PFOA           use and disposal                                                                                            disposal                                                         measures
+and PFHxS) banning their import,
+      use and manufacture
+
+
+      2025: PFAS National              Sets out national    Emissions reduction and    All PFASs with a focus on   No, except for articles    Disposal, waste       Policy and regulatory        Yes          Informs requirements
+Environmental Management Plan           standards and         waste management         PFOS, PFOA and PFHxS            that are waste             streams                                                        set by regulators
+         3.0 published                  approaches to
+                                        assessing and
+                                       managing PFAS
+                                        contamination
+
+
+
+
+     2024: Updated the legal          Assessing risks of    Minimisation/optimisation PFASs with between 4 and              No               Manufacture/import          Regulatory               No               Application
+definition of higher concern PFAS          PFAS                  of PFASs used         20 perfluorinated carbons                                 and use                                                        requirements for
+  to capture a broader class of                                                            meeting legislated                                                                                                      companies
+       PFAS that require risk                                                           definition of designated
+ assessment before introduction                                                          fluorinated chemical
+
+
+
+
+  2002 – 2008: six alerts issued  Increase awareness for     Minimisation of PFASs     Long-chain PFSAs; PFCAs         No, except for        Manufacture/import          Voluntary                No                 None
+since 2002 containing information   industry and public              used                and related substances    releases from articles        and use
+ on manufacture, import and use
+of PFASs in Australia, as well as
+regulatory information on PFCAs
+           and PFSAs
+
+
+
+
+   2013 – 2019: prioritised risk    Increase awareness for Minimisation/optimisation     PFASs with 4 or more               No               Manufacture/import          Voluntary                No                 None
+      assessment of PFAS              industry and public       of PFAS used             perfluorinated carbons                                  and use
+
+
+ Ongoing (from 2004): additional Assess the risks of new Minimisation/optimisation PFASs with between 4 and                 No               Manufacture/import          Regulatory               No               Application
+data requirements for pre-market     PFASs prior to           of PFASs used         20 perfluorinated carbons                                    and use                                                        requirements for
+entry applications for new PFASs      introduction                                                                                                                                                                 companies
+
+
+  2020: Publication of National       Increase industry  Minimisation/optimisation Long-chain and short-chain               Yes               Manufacture, use,            Policy                Yes                 None
+  PFAS Position Statement with         awareness and          of PFASs used                 PFASs                                            sale, import, export
+ associated industry consultation   encourage phase-outs                                                                                        and disposal
+
+
+
+
+                                                                                                              OFFICIAL
+

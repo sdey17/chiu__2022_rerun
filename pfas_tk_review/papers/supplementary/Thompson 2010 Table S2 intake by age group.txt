@@ -1,0 +1,7 @@
+======================================================================
+FILE: 1-s2.0-S0160412010000292-mmc3.doc
+======================================================================
+Table S2 Significant differences in PFC intake estimates between age groups for period 2002 - 2003
+Age group	Comparison	PFOS intake	PFOA intake				ng/kg bw/day	ng/day	ng/kg bw/day	ng/day		< 16 yrs	16 - 30 yrs	n.s	< 0.001	n.s	< 0.001			31 - 45 yrs	0.027	< 0.001	n.s	< 0.001			46 - 60 yrs	< 0.001	< 0.001	n.s	< 0.001			> 60 yrs	< 0.001	< 0.001	0.002	< 0.001		16 - 30 yrs	< 16 yrs	n.s	< 0.001	n.s	< 0.001			31 - 45 yrs	0.040	0.003	n.s	n.s			46 - 60 yrs	< 0.001	< 0.001	n.s	n.s			> 60 yrs	< 0.001	< 0.001	n.s	< 0.001		31 - 45 yrs	< 16 yrs	0.027	< 0.001	n.s	< 0.001			16 - 30 yrs	0.040	0.003	n.s	n.s			46 - 60 yrs	0.003	< 0.001	n.s	n.s			> 60 yrs	< 0.001	< 0.001	0.014	0.020		46 - 60 yrs	< 16 yrs	< 0.001	< 0.001	n.s	< 0.001			16 - 30 yrs	< 0.001	< 0.001	n.s	n.s			31 - 45 yrs	0.003	< 0.001	n.s	n.s			> 60 yrs	0.021	0.049	0.022	0.046		> 60 yrs	< 16 yrs	< 0.001	< 0.001	0.002	< 0.001			16 - 30 yrs	< 0.001	< 0.001	n.s	0.010			31 - 45 yrs	< 0.001	< 0.001	0.014	0.020			46 - 60 yrs	0.021	0.049	0.022	0.046		note: n.s. = not significant, p > 0.05
+
+

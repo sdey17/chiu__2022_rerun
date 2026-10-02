@@ -1,0 +1,59 @@
+SOURCE: ACS publisher page via Firecrawl stealth (https://doi.org/10.1021/es500796y), 2026-10-01
+STATUS: ABSTRACT ONLY (paywalled, $48 PPV; not in PMC).
+
+CITATION: Wong F, MacLeod M, Mueller JF, Cousins IT. Enhanced Elimination of Perfluorooctane
+  Sulfonic Acid by Menstruating Women: Evidence from Population-Based Pharmacokinetic
+  Modeling. Environ Sci Technol 2014;48(15):8807-8814. PMID 24943117. doi:10.1021/es500796y.
+
+ABSTRACT (verbatim)
+"Human biomonitoring studies have shown that concentrations of perfluorooctane sulfonic acid
+(PFOS) in men are higher than in women. We investigate sex differences in elimination of
+PFOS by fitting a population-based pharmacokinetic model to six cross-sectional data sets
+from 1999 to 2012 from the US National Health and Nutrition Examination Survey (NHANES) and
+derive human first-order elimination rate constants (kE) and corresponding elimination
+half-lives (t1/2) for PFOS, where t1/2 = ln 2/kE. We use a modified version of the Ritter
+population-based pharmacokinetic model and derive elimination rate constants separately for
+men and women. The model accounts for population-average lifetime changes in PFOS intake,
+body weight, and menstruation rate. We compare the model-derived elimination rate constant
+for hypothetical nonmenstruating women to the elimination rate constant for men and women
+when menstruation is included as a loss process to evaluate the hypothesis that loss of
+PFOS by menstruation is an important process for women. The modeled elimination half-life
+for men is 4.7 years, and the modeled elimination half-life for women when excluding losses
+from menstruation is 3.7 years. The elimination half-life for women when menstruation is
+included in the model is 4.0 years. Thus, menstruation accounts for 30% of the discrepancy
+in elimination of PFOS between men and women. The remaining discrepancy is likely due to
+other sex-specific elimination routes that are not considered in our modeling."
+
+VALUES
+  PFOS intrinsic elimination half-life, men                                   4.7 y
+  PFOS intrinsic elimination half-life, women EXCLUDING menstrual loss        3.7 y
+  PFOS intrinsic elimination half-life, women INCLUDING menstrual loss        4.0 y
+  Fraction of the male-female elimination gap attributable to menstruation    30%
+
+DESIGN: cross-sectional trend fitting (NOT serum decay, NOT mass balance). Six NHANES
+cycles 1999-2012; modified Ritter et al. 2011 population PK model; population-average
+intake trajectory, body weight and menstruation rate imposed. Half-lives are therefore
+INTRINSIC half-lives conditional on a reconstructed national intake time-course.
+
+RISK OF BIAS: the estimate is only as good as the assumed historical PFOS intake curve.
+A Comment and a Response were published on this paper and should be read before the values
+are used:
+  Comment on "Enhanced Elimination of Perfluorooctanesulfonic Acid by Menstruating Women..."
+    Environ Sci Technol 2015;49(9):5836.
+  Response to Comment ... Environ Sci Technol 2015;49(9):5838.
+Neither was retrieved in this sweep.
+
+WHERE THIS SITS RELATIVE TO OTHER MENSTRUAL-ROUTE EVIDENCE
+  - Zhang et al. 2013 (EST 47:10619) measured a menstrual serum clearance rate of
+    0.029 mL/day/kg, the same order of magnitude as renal clearance. [already in the db]
+  - Lorber et al. 2015 (Chemosphere 118:170) PK-modelled menstruation as a 22% reduction in
+    serum PFOA, against an observed 24% male-female difference.
+  - Li et al. 2022 Ronneby found "female sex during their fertile period aged 15-50" to be a
+    determinant of shorter half-life for eight PFAS.
+  - Fu et al. 2016 added a menstrual clearance of 0.029 mL/day/kg (from Zhang 2013) to renal
+    clearance for women under 50, which lowered the GM PFOS half-life from 60.9 y (men) to
+    8.0 y (women) in Chinese fluorochemical workers.
+  - Upson et al. 2022 (Curr Environ Health Rep 9:29) reviewed the epidemiology.
+  So four independent lines of evidence agree on the DIRECTION and roughly on the
+  MAGNITUDE (menstruation explains a minority - about a third - of the sex difference),
+  and none of them is a direct measurement of PFAS mass in menstrual fluid.

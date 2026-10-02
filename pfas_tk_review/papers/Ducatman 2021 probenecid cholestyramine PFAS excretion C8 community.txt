@@ -1,0 +1,51 @@
+SOURCE: PubMed structured abstract (efetch db=pubmed), 2026-10-01. Full text paywalled (Elsevier).
+CITATION: Ducatman A, Luster M, Fletcher T. Perfluoroalkyl substance excretion: Effects of
+  organic anion-inhibiting and resin-binding drugs in a community setting.
+  Environ Toxicol Pharmacol 2021;85:103650. PMID 33819618. doi:10.1016/j.etap.2021.103650.
+
+ABSTRACT (verbatim)
+[BACKGROUND] "Longer serum half-lives of perfluoroalkyl substances (PFAS) in humans compared
+to other species has been attributed to differences in the activity of organic anion
+transporters (OAT)."
+[METHODS] "Among 56,175 adult participants in the community-based C8 Health Project, 23
+subjects were taking the uricosuric OAT-inhibitor probenecid, and 36 subjects were taking
+the bile acid sequestrant cholestyramine. In regression models of log transformed serum
+PFAS, medication effects were estimated in terms of mean ratios, adjusting for age, gender,
+BMI, estimated glomerular filtration rate (eGFR) and water-district of residence."
+[RESULTS] "Probenecid was associated with modest, but not statistically significant increases
+in serum PFAS concentrations. In contrast, cholestyramine significantly lowered serum PFAS
+concentrations, notably for perfluorooctane sulfonic acid (PFOS)."
+[CONCLUSIONS] "The effectiveness of cholestyramine in a community setting supports the
+importance of gastrointestinal physiology for PFAS excretion kinetics, especially for PFOS.
+We did not find clear evidence that probenecid, an inhibitor of OAT, affects PFAS clearance."
+
+EFFECT SIZE, from SECONDARY sources quoted verbatim
+Andersson AG et al. 2025 (Environ Int 204:109794) Introduction:
+  "cross-sectional studies in 'C8' PFOA exposed population in Ohio, USA, and using US
+   National Health and Nutrition Examination Survey (NHANES) data from 2003 to 2016 found
+   lower serum PFAS concentrations in cholestyramine (e.g. PFOS -93 %) (Ducatman et al.,
+   2021) and colesevelam users (another BAS, e.g. PFOS -17.4 %) (Andersen, 2021),
+   respectively."
+Moller JJ et al. 2024 (Environ Int 185:108497) Introduction:
+  "Among 56,175 Americans, highly exposed to PFAS from drinking water (Ducatman et al.,
+   2021), 36 participants reported treatment with cholestyramine and they had serum PFOS in
+   the lower 5 % of the distribution. Similar results were found by Andersen et al.
+   (Andersen et al., 2021), where AER-users (n = 22) in the NHANES cohort (n = 14,609,
+   sampled 2003-2016) had 15.1 % lower serum PFOS concentrations than the rest of the
+   cohort."
+  => The two secondary accounts of Andersen 2021 disagree slightly (-17.4% vs -15.1%); the
+     primary (Andersen ME et al. 2021, NHANES bile-acid-sequestrant users) was NOT retrieved
+     in this sweep and remains a loose end.
+
+PROBENECID: THREE INDEPENDENT NEGATIVE RESULTS
+  1. Ducatman 2021, C8 Health Project, n=23 probenecid users: "modest, but not statistically
+     significant INCREASES in serum PFAS".
+  2. Andersson 2025 Ronneby cross-over trial, 1 week of probenecid, n=10: serum-adjusted
+     urinary ratio vs control 0.88 (95%CI 0.78-0.99) PFHxS, 0.79 (0.63-1.00) PFOS,
+     1.08 (0.9-1.3) PFOA - i.e. if anything probenecid LOWERED urinary PFAS output. The
+     authors dropped probenecid from the long-term arm as a result.
+  3. Mechanistic context: Andersson 2025 (Environ Res 285:122487) shows 85% of 2/6m-PFOS and
+     ~64% of L-PFOS elimination is FECAL, so a renal OAT inhibitor cannot move the total.
+  => The hypothesis that OAT-mediated renal reabsorption is the rate-limiting step for human
+     PFOS elimination is not supported by any human intervention. Bile-acid sequestrants,
+     which act on the gut, work; the OAT inhibitor does not.

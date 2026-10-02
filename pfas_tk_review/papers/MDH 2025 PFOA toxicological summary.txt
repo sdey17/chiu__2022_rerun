@@ -1,0 +1,776 @@
+                                                                            Health-Based Guidance for Water
+                                                    Health Risk Assessment Unit, Environmental Health Division
+                                                                                                      651-201-4899
+
+
+
+
+                                                                                Adopted as Rule: August 2025
+
+
+Toxicological Summary for: Perfluorooctanoate
+CAS:    45285-51-6 (anion)
+        335-67-1 (free acid)
+        3825-26-1 (ammonium salt, APFO)
+        2395-00-8 (potassium salt)
+        335-95-5 (sodium salt)
+        335-93-3 (silver salt)
+DTXSID: DTXSID40892486
+Synonyms: PFOA; 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctanoic acid (IUPAC name);
+         Perfluorooctanoic acid (free acid)
+In 2024, the Minnesota Department of Health (MDH) completed a re-evaluation of PFOA that
+focused on epidemiological data. Recent reviews from the European Food Safety Authority,
+California Environmental Protection Agency, US Environmental Protection Agency, and National
+Academies of Sciences, Engineering, and Medicine were utilized as resources. Many toxicity studies
+in laboratory animals also exist; however, the points of departure are significantly higher than those
+identified in epidemiology studies. MDH also conducted a literature search for epidemiological
+studies published between 2021 and December 2022, which focused on potential sensitive
+endpoints (e.g., development, immune, thyroid), to capture information that postdated the reviews
+by the agencies listed above. In 2026, MDH updated this document to include a reference to Greene
+2024, a publication describing a revised toxicokinetic model developed to derive this guidance.
+
+Short-term, Subchronic, and Chronic Noncancer Health Risk Limit (nHRL) = 0.00024 μg/L (equivalent to
+0.24 ng/L or ppt)*
+
+*Due to the highly bioaccumulative nature of PFOA, serum concentrations are the most appropriate dose metric. PFOA
+has a half-life of approximately 2.5 years, and the bioaccumulated levels within women of reproductive age can be
+passed on to fetuses and infants through placental and breastmilk transfer. The standard equation used to derive
+health-based values (HBVs) is not adequate to address the bioaccumulative nature nor the maternal transfer of PFOA.
+Since 2017, a single PFOA HBV for all durations has been derived using a toxicokinetic (TK) model developed by MDH
+(Goeden 2019), which assesses a formula-fed infant scenario as well as a breastfed infant scenario. The TK model
+accounts for the bioaccumulation and maternal transfer of PFOA and more accurately represents real-world exposure
+scenarios. MDH typically calculates HBVs at the part per billion level with the final concentration rounded to one
+significant digit. However, serum concentrations are impacted by changes in water concentrations at the part per
+trillion (ppt) level. As a result, the final PFOA HRL in rule is expressed with two significant digits.
+
+
+
+
+                                                     PFOA - 1
+            Reference Serum Concentration: POD/Total UF = 2.8/3 = 0.93 ng/mL (human)
+                                                This serum level was developed using population-based
+                                                data and should not be used for clinical assessment or
+                                                interpreting serum levels in individuals.
+                    Source of toxicity value: Determined by MDH in 2024
+                  Point of Departure (POD): 2.8 ng/mL (equivalent to µg/L) serum concentration
+                                                (California EPA Office of Environmental Health Hazard
+                                                Assessment 2023), BMDL5% for decreased haemophilus
+                                                influenzae Type B (Hib) antibodies from (Abraham K
+                                                2020)
+             Dose Adjustment Factor (DAF): Not applicable (POD is based on human serum level)
+             Human Equivalent Dose (HED): Not applicable (POD is based on human serum level)
+               Total uncertainty factor (UF): 3
+               Uncertainty factor allocation: A database UF of 3 was applied to account for remaining
+                                                database uncertainties regarding potential adverse
+                                                effects at or near the serum POD concentration (e.g., low
+                                                birth weight, liver effects, thyroid effects).
+                                                An UF for human toxicodynamic (TD) variability was not
+                                                applied because the POD is based on a sensitive lifestage
+                                                (i.e., young infants).
+                                                Differences in human TK were determined to be
+                                                adequately addressed through the exposure scenario and
+                                                parameter values selected for use in the TK model.#
+                            Critical effect(s): Decreased antibody titers in infants
+                        Co-critical effect(s): Decreased antibody titers in children, decreased
+                                                birthweight, increased cholesterol, increased ALT (liver
+                                                enzyme)
+                      Additivity endpoint(s): Developmental, Hepatic (liver) system, Immune system
+#
+ The POD is based on serum levels in one-year old infants, of whom nearly 80% were exclusively breastfed for at least 4
+months. Very little information is available regarding PFOA half-life in infants. To evaluate the potential impact of TK
+variability, an upper-bounding scenario, in which all model parameters were set to upper percentile values, was
+evaluated. The maternal, peak infant, and lifetime steady-state serum levels produced by the upper-bounding scenario
+were <3-fold higher than MDH’s selected Reasonable Maximum Exposure (RME) scenario. Since the upper-bounding
+scenario is considered worst-case and is very unlikely to represent a realistic scenario, the incorporation of an UF to
+address human TK variability was considered unnecessary. MDH’s RME model parameter values used to derive the
+noncancer water guidance is considered adequately protective of the general population.
+
+Toxicokinetic Model Description (Goeden 2019; Greene 2024):
+Serum concentrations can be calculated from the dose and clearance rate using the following
+equation:
+
+
+
+
+        Where:
+        Clearance Rate = Volume of Distribution (L/kg body weight) x (Ln2/half-life in days)
+
+
+
+
+                                                       PFOA - 2
+Two exposure scenarios were examined: 1) an infant fed with formula reconstituted with
+contaminated water starting at birth and continuing ingestion of contaminated water throughout
+life; and 2) an infant exclusively breastfed for 12 months, followed by drinking contaminated water.
+In both scenarios, the simulated individuals began life with a pre-existing body burden through
+placental transfer. The serum concentration of the mother was calculated to be at steady state at
+the time of delivery, using the equation presented above and a time-weighted average (TWA) 95th
+percentile intake rate from birth to 30 years of age (sufficient time to attain steady-state).
+
+Consistent with MDH methodology, a 95th percentile water and upper percentile (2 standard
+deviations above mean) breastmilk intake rates were used along with central tendency estimates
+for half-life, placental transfer, and breastmilk transfer. Breastmilk concentrations are calculated by
+multiplying the maternal serum concentration by a PFOA breastmilk transfer factor. For the
+breastfed exposure scenario, a one-year period of breastfeeding is used as representative of an
+RME scenario.
+Daily post-elimination serum concentrations were calculated as:
+
+
+
+
+        Where:
+                    Vd = volume of distribution
+                    BW = body weight
+                    e-k = represents clearance
+
+Note: MDH has made several improvements to the TK model published in 2019 (Goeden 2019), including the following:
+        • The PFOA mass transferred to the infant is now subtracted from the maternal steady-state concentration
+            on day 0 (the day of delivery).
+        • The daily calculation of the infant’s serum concentration is now fully mass-based by adjusting both the
+            current day as well as the previous day’s intake by the current day’s body weight.
+        • Maternal lactation was phased in over the first four days of lactation based on data from Neville 1991.
+        • Water intakes, breastmilk intakes, and body weights were updated with more current information.
+        • Chemical-specific parameter values (i.e., clearance, half-life, placental transfer, breastmilk transfer, and
+            volume of distribution) were updated to include literature information up to December 2022.
+These improvements are detailed further in Greene 2024.
+
+Summary of TK Model Parameter Values Used to Derive Non-Cancer HRL for PFOA
+Model Parameter                                                    Value Used
+                        Central Tendency = 902 days (2.47 years) Mean value from (Li 2022)
+   Half-life (t½)       The TK model estimates serum levels from birth to approximately 50 years of age. Critical
+                        lifestage is <4 years of age for which serum half-life information is not available. The overall
+                        mean was used for the RME scenario. A 95th percentile half-life value of 5.4 years was used in
+                        the upper-bounding scenario evaluation.
+                        Central Tendency = 0.83 (mean of mean values from 25 studies)
+                        The mean upper percentile value (1.39) was selected as an upper-end value for the upper-
+Placental transfer
+                        bounding scenario evaluation.
+
+
+
+
+                                                        PFOA - 3
+Model Parameter                                               Value Used
+                    Central Tendency = 0.068 (95th upper confidence limit (UCL) of the mean from 7 studies).
+   Breastmilk
+                    Validation testing of model infant serum predictions indicated that use of the overall mean of
+    transfer
+                    the 7 studies (0.046) resulted in underestimating breastfed infant serum levels whereas the
+                    95th UCL did not. A value of 0.12 was used as representative of an upper-end value for the
+                    upper-bounding scenario evaluation.
+Breastmilk Intake   Upper Percentile intake for exclusively1 breastfed infants ((US EPA 2011), Table 15-1). Body
+Rate (mL/kg-day)    weight at birth was set at 3.38 kg (Donahue 2010). Remaining body weights (kg) were
+and                 calculated from data presented in US EPA’s Table 15-1 for each age group (i.e., mL/day ÷
+corresponding       mL/kg-day):
+Body Weight (kg)
+                    Age Group            Intake Rate (mL/kg-d)       Body Weight (kg)
+                    >Birth to <1 month            220                         4.3
+                    1 to < 3 months               190                         5.2
+                    3 to < 6 months               150                         6.7
+                    6 to < 12 months              130                         7.7
+Duration (months)   Upper percentile = 12 months (Breastfeeding Report Card for 2022 (CDC 2022)) reporting that
+of Breastfeeding    nearly 70 percent of mothers in Minnesota report breastfeeding at six months, with 36.5
+                    percent still exclusively breastfeeding at six months.
+Water Intake Rate   Upper Percentile Intake = Formula-fed infants (up to 2 years old, Table 3-5); for >2 years of
+(mL/kg-day)         age values (Table 3-1); and for lactating women (Table 3-3) (US EPA 2019) were used. Body
+                    weights (kg) were calculated from data presented in the aforementioned EPA tables (i.e.,
+                    mL/day ÷ mL/kg-day):
+
+
+                           Age Group               Intake Rate (mL/kg-d)            Body Weight (kg)
+                            <1 month                        240                            3.6
+                         1 to < 3 months                    290                            3.8
+                         3 to < 6 months                    186                            7.0
+                        6 to < 12 months                    151                            8.9
+                          1 to < 2 years                    119                           10.5
+                          2 to < 3 years                    67                            13.4
+                          3 to < 6 years                    45                            18.6
+                         6 to < 11 years                    41                            30.7
+                         11 to < 16 years                   31                            56.8
+                         16 to < 21 years                   31                            71.4
+                         21 to < 30 years                   47                            72.5
+                         30 to < 40 years                   44                            74.5
+                         40 to < 50 years                   43                            78.5
+                         50 to < 60 years                   42                            80.7
+                    For calculation of maternal serum concentration at time of delivery, a time-weighted average
+                    water intake rate was calculated from birth to 30 years of age, resulting in a 95th percentile
+                    water intake rate of 48 mL/kg-day.
+
+
+                                                    PFOA - 4
+Model Parameter                                                  Value Used
+                         Central Tendency = 0.36 (calculated from human clearance rate of 0.28 mL/kg-d (California
+Volume of
+                         EPA Office of Environmental Health Hazard Assessment 2023)) and the mean half-life of 902
+Distribution (L/kg)
+                         days (Li 2022):
+                                   CR ÷ (Ln2/half-life) = Vd
+                                   0.28 mL/kg-d ÷ (Ln2/902 d) = 364 mL/kg or rounded to 0.36 L/kg
+1Note: Exclusively breastfed as defined by (US EPA 2011) refers to infants whose sole source of milk is breastmilk and not formula.
+
+Exclusively breastfed infants in the studies underlying these USEPA estimates were not excluded from other foods, typically after six
+months. This definition differs from other sources, which may define exclusive breastfeeding as breastmilk being the only source of
+nourishment (solid or liquid).
+
+A relative source contribution factor (RSC) is incorporated into the derivation of HRL values to
+account for exposure sources other than drinking water. MDH utilizes the US EPA 2000 Exposure
+Decision Tree process to derive appropriate RSCs. The default duration-specific RSCs (0.5, 0.2, and
+0.2 for short-term, subchronic and chronic, respectively) are based on the magnitude of
+contribution of non-drinking water exposures that occur during the relevant exposure duration
+(Minnesota Department of Health (MDH) 2008). However, in the case of PFOA, application of an
+RSC needs to account for the long elimination half-life, such that a person’s serum concentration at
+any given age/duration is not only the result of current or recent exposures but also from years
+past and/or maternal transfer.
+
+Serum concentrations are the best measure of cumulative exposure for PFOA and can be used in
+place of the reference dose in the Exposure Decision Tree process. Biomonitoring results for the
+general public reported in the most recent National Report on Human Exposure to Environmental
+Chemicals (CDC 2021) can be used to represent non-water exposures for older children and adults.
+The reference serum concentration is 0.93 ng/mL. Both the geometric mean (1.42 ng/mL) and the
+95th percentile (3.77 ng/mL) PFOA serum concentration from the most recently available National
+Report exceed the reference serum concentration. Based on placental transfer data, newborn
+infants would have PFOA body burdens similar to their mothers. Even at low levels of exposure,
+PFOA would accumulate in women of reproductive age. Studies assessing young infants (e.g., <6
+months of age) who are exclusively breastfed exhibit serum levels that are approximately 3-fold
+higher than their mothers (e.g., (Fromme 2010), (Gyllenhammar 2018)). It is likely that infants will
+have similar or, in the case of breastfed infants, higher serum concentrations than their mothers.
+Consequently, the RSC is set at the floor value of 20% for all life stages.
+
+As mentioned above, two RME scenarios were examined: 1) an infant fed formula reconstituted
+with contaminated water starting at birth and continuing consumption of contaminated water
+throughout life; and 2) an infant exclusively breastfed for 12 months by a chronically-exposed
+mother, followed by consumption of contaminated water throughout life.
+
+For the formula-fed infant, the water concentration that maintains a serum concentration
+attributable to drinking water below an RSC of 20% throughout life is 0.0010 µg/L (equivalent to 1.0
+ng/L or ppt) (Figure 1).
+
+
+
+
+                                                              PFOA - 5
+Figure 1. MDH RME Formula-fed Infant Scenario PFOA Serum Concentration at Water
+Concentration 0.001 ug/L
+
+
+
+
+A sharp decrease in the formula-fed infant serum levels between the 1 to < 3 month and 3 to <6
+months is noted. The formula-fed infant water intake drops from 290 to 186 mL/kg-d as body
+weight increases from 3.8 to 7 kg across the same time period.
+
+Applying this water concentration (1 ng/L) in the context of a breastfed infant results in peak infant
+serum concentrations that significantly exceed the RSC of 20%. In order to maintain a serum
+concentration at or below an RSC of 20% for the breastfed infant scenario, the water concentration
+should not exceed 0.00024 µg/L (or 0.24 ng/L or ppt) (Figure 2).
+
+Figure 2. MDH RME Breastfed Infant Scenario PFOA Serum Concentration at Water Concentration
+0.00024 µg/L
+
+
+
+
+                                               PFOA - 6
+Due to bioaccumulation in the mother and subsequent transfer to breastmilk, the breastfed infant
+exposure scenario produces the lower PFOA water concentration. To ensure protection of all
+segments of the population, the final noncancer HRL for PFOA is set at 0.00024 µg/L (0.24 ng/L).
+
+Cancer Health Risk Limit (cHRL) = 0.0000079 µg/L (0.0079 ng/L or ppt)
+
+                              (Additional Lifetime Cancer Risk) x (Conversion Factor)
+      [(SF x ADAF<2 yr x IR<2yr x 2) + (SF x ADAF2-<16 yr x IR2-<16yr x 14) + (SF x ADAF16+ yr x IR16+yr x 54)] / 70
+
+
+    =                                        (1E-5) x (1 µg/1000 ng)
+[(0.0126 x 10* x 0.155 L/kg-d**x 2) + (0.0126 x 3* x 0.040 L/kg-d**x 14) + (0.0126 x 1* x 0.042 L/kg-d**x 54)] / 70
+
+
+                                  = 0.0000079 µg/L (same as 0.0079 ng/L or ppt)
+
+Age-dependent adjustment factor (ADAF) and Lifetime Adjustment Factor: MDH 2008, Section IV.E.2. ADAFs were
+*
+
+maintained because the cohort from the critical cancer study was unlikely to have early-life exposure to PFOA.
+**
+     Intake Rate: MDH 2008, Section IV.E.2. and US EPA 2019, Exposure Factors Handbook, Tables 3-1, 3-3, and 3-5.
+
+                            Cancer classification: Likely to be carcinogenic to humans (US EPA 2023a,b)
+                                                   (MDH 2023); Strong evidence of carcinogenicity
+                                                   (CalEPA Office of Environmental Health Hazard
+                                                   Assessment 2023); and Group 1 (carcinogenic to
+                                                   humans) (IARC 2023)
+                                Slope factor (SF): 0.0126 per ng/kg-day (renal cell carcinoma in humans)
+                                                   (Shearer JJ 2021)
+            Source of cancer slope factor (SF): Serum slope factor 0.00325 per ng/mL from (US EPA
+                                                2023a,b) converted to 0.0126 per ng/kg-d using a
+                                                clearance rate of 0.28 mL/kg-d (CalEPA Office of
+                                                Environmental Health Hazard Assessment 2023)
+                                    Tumor site(s): Human: Kidney (basis of guidance), Testicle
+                                                   Animal: Liver, Pancreas
+
+Volatile:       No
+
+Summary of Guidance Value History:
+
+A chronic nHBV of 7 µg/L was first derived in 2002. A revised chronic nHBV of 0.3 µg/L was derived
+in 2007 and promulgated as a noncancer HRL (nHRL) in 2009. In 2016, EPA released a Health
+Advisory of 0.07 µg/L for PFOA, which MDH recommended on an interim basis while a re-
+evaluation was conducted. As a result of the re-evaluation, which incorporated the most recent
+toxicological information and included the application of the TK model, the 2017 nHBV decreased
+to 0.035 µg/L for all nonacute durations. The 2017 guidance was adopted as a HRL in 2018. In 2020,
+MDH classified PFOA as “likely to be carcinogenic at high doses” and added Thyroid (E) and
+Pancreas as Additivity Endpoints. The 2024 nHBV of 0.00024 µg/L (0.24 ng/L) was lower than
+previous values as the result of: 1) utilizing epidemiological data as the basis for the POD; and 2)
+updating the toxicokinetic model, including more recent data on placental and breastmilk transfer.
+The 2024 cancer HBV of 0.0000079 µg/L (0.0079 ng/L) was a new value, and MDH has revised their
+
+                                                         PFOA - 7
+cancer classification to “likely to be carcinogenic”. In August 2025, the HBVs were adopted into
+Minnesota Rules, Part 4717.7860 as HRLs, and the previous 2018 HRL was repealed from
+Minnesota Rules, Part 4717.7860.
+
+Summary of toxicity testing for health effects identified in the Health Standards Statute (144.0751):
+
+Even if testing for a specific health effect was not conducted for this chemical, information about that effect might be
+available from studies conducted for other purposes. MDH has considered the following information in developing
+health protective guidance.
+
+                        Endocrine        Immunotoxicity         Development          Reproductive        Neurotoxicity
+Tested for                  Yes                  Yes                  Yes                  Yes                 Yes
+specific effect?
+Effects
+                           Yes1                 Yes2                  Yes3                Yes4                 Yes5
+observed?
+
+Comments on extent of testing or effects:
+
+[Note: MDH conducted a re-evaluation that focused on epidemiological data and sensitive health endpoints.]
+
+1 Evidence for endocrine effects in humans following PFOA exposure is largely based on increased
+
+TSH (thyroid stimulating hormone) and T3 (triiodothyronine) in adults and T4 (thyroxine) in
+children. However, findings in epidemiology studies were inconsistent, likely due in part to diurnal
+variations, differential effects across genders and age groups, timing of sampling, and limited
+number of studies. US EPA (2023) considers the current level of evidence for thyroid effects to be
+suggestive due to the uncertainty in results. A database uncertainty factor has been incorporated
+into the reference serum level to reflect the need for more data regarding thyroid effects.
+
+Studies in laboratory animals have demonstrated clear alterations in serum thyroid hormone levels,
+increased thyroid gland weight, and increased follicular cell hypertrophy in the thyroid gland.
+Previous MDH guidance was based, in part, on thyroid effects in animals.
+2 It is widely accepted that PFOA exposure is likely associated with reduced antibody response,
+
+especially in infants and children. An immune study in infants forms the basis of the PFOA
+reference serum concentration used to derive the 2024 nHBV. There is also limited supporting
+evidence of increased risk of asthma, eczema, and autoimmune disease.
+
+In animal models, there is consistent evidence of decreased antibody response, decreased spleen
+and thymus weight, and alterations in immune cell function after PFOA exposure.
+3 It is widely accepted that decreased birth weight is likely associated with maternal PFOA serum
+
+levels. This likely association is supported by additional epidemiological evidence of related effects
+such as decreased birth length and postnatal growth. In general, these effects have been reported
+around similar serum levels as effects on the immune system, which is the basis of the reference
+serum concentration.
+
+Among the animal studies, decreased postnatal growth leading to developmental effects (e.g.,
+lower pup body weight, delayed eye opening, delayed vaginal opening, and accelerated preputial
+
+
+
+                                                        PFOA - 8
+separation) have been observed. Delayed mammary gland development in female mice exposed in
+utero has also been reported at low dose levels.
+4 The evidence for male reproductive effects in humans is limited and largely based on suggestive
+
+associations between PFOA exposure and testosterone levels in male children and adults and
+decreased anogenital distance in children. Considerable uncertainties in these associations exist
+due to inconsistencies across the limited number of studies available.
+
+The evidence for female reproductive effects in humans is limited and largely based on suggestive
+associations between PFOA exposure and increased odds of preeclampsia, and changes to female
+reproductive milestones and female reproductive hormonal outcomes. Considerable uncertainties
+in these associations exist due to inconsistencies across studies and the limited number of available
+studies. In general, these effects have been reported at doses somewhat higher than effects on the
+immune system, birth weight, and liver effects.
+
+Among the animal studies, there was no effect of PFOA on reproductive or fertility parameters in
+female rats. However, it should be noted that female rats have a very high PFOA elimination rate
+compared to male rats or other species. Increased full litter resorptions and increased stillbirths
+were observed in pregnant mice exposed to doses resulting in very high serum concentrations. No
+evidence of altered testicular and sperm structure or function was reported in adult male rats
+exposed to doses producing high serum concentrations. Increased sperm abnormalities and
+decreased testosterone were reported at high serum concentrations.
+5 The evidence for effects on the nervous system in humans is limited and largely based on
+
+neurodevelopment, including neuropsychological and cognitive development, executive function,
+and behavioral problems. There are considerable uncertainties due to inconsistency in magnitude
+and direction of effects across the limited number of studies available.
+
+Information from animal studies is also quite limited. The offspring of mice fed PFOA throughout
+gestation had detectable levels of PFOA in their brains at birth. Locomotor activity, anxiety-related
+or depression-like behavior, and muscle strength were not altered. Circadian activity tests revealed
+sex-related differences in exploratory behavior patterns.
+
+Resources Consulted During Review:
+
+   1. AAP (2012). "(American Academy of Pediatrics) Breastfeeding and the Use of Human Milk."
+      Pediatrics. 129(3).
+   2. Abraham K, Mielke H, Fromme H, Völkel W, Menzel J, Peiser M, Zepp F, Willich SN, Weikert
+      C. (2020). "Internal exposure to perfluoroalkyl substances (PFASs) and biological markers in
+      101 healthy 1-year-old children: associations between levels of perfluorooctanoic acid
+      (PFOA) and vaccine response." Arch Toxicol. 94: 2131-2147.
+   3. Abraham K, Monien BH. (2022). "Transdermal absorption of 13C4-perfluorooctanoic acid
+      (13C4-PFOA) from a sunscreen in a male volunteer – What could be the contribution of
+      cosmetics to the internal exposure of perfluoroalkyl substances (PFAS)?" Environ Int. 169:
+      107549.
+   4. Appel M, Forsthuber M, Ramos R, Windhalm R, Granitzer S, Uhl M, Hengstschläger M,
+      Stamm T, Gundacker C. (2022). "The transplacental transfer efficiency of per- and
+      polyfluoroalkyl substances (PFAS): a first metaanalysis." J Toxicol Environ Health B Crit Rev.
+      25(1): 23-42.
+
+                                               PFOA - 9
+5. ATSDR – Agency for Toxic Substances and Disease Registry. (2021). Toxicological Profile for
+    Perfluoroalkyls. https://www.atsdr.cdc.gov/toxprofiles/tp200.pdf
+6. Bell EM, Yeung EH, Ma W, Kannan K, Sundaram R, Smarr MM, Buck Louis GM. (2018).
+    "Concentrations of endocrine disrupting chemicals in newborn blood spots and infant
+    outcomes in the upstate KIDS study." Environ Int. 121: 232-239.
+7. Borghese MM, Liang CL, Owen J, Fisher M. (2022). "Individual and mixture associations of
+    perfluoroalkyl substances on liver function biomarkers in the Canadian Health Measures
+    Survey." Environ Health. 21(1): 85.
+8. Budtz-Jørgensen E, Grandjean P. (2018). "Application of benchmark analysis for mixed
+    contaminant exposures: Mutual adjustment of perfluoroalkylate substances associated with
+    immunotoxicity." PLoS One. 13(10): e0205388.
+9. Cai A, Portengen L, Govarts E, Rodriguez Martin L, Schoeters G, Legler J, Vermeulen R,
+    Lenters V, Remy S. (2023). "Prenatal exposure to persistent organic pollutants and changes
+    in infant growth and childhood growth trajectories." Chemosphere. 314: 137695.
+10. Cakmak S, Lukina A, Karthikeyan S, Atlas E, Dales R. (2022). "The association between blood
+    PFAS concentrations and clinical biochemical measures of organ function and metabolism in
+    participants of the Canadian Health Measures Survey (CHMS)." Sci Total Environ. 827:
+    153900.
+11. California EPA Office of Environmental Health Hazard Assessment. (2021). Perfluorooctanoic
+    Acid and Perfluorooctane Sulfonic Acid in Drinking Water (Public Review Draft).
+12. California EPA Office of Environmental Health Hazard Assessment. (2023). Public Health
+    Goals, Second Public Review Draft: Perfluorooctanoic Acid and Perfluorooctane Sulfonic
+    Acid in Drinking Water.
+13. CDC – Centers for Disease Control and Prevention (2021). “National Report on Human
+    Exposure to Environmental Chemicals.” https://www.cdc.gov/exposurereport/index.html
+14. CDC – Centers for Disease Control and Prevention (2022). “Breastfeeding Report Card –
+    United States, 2022.” https://www.cdc.gov/breastfeeding/data/reportcard.htm
+15. Chang C-J, Barr D, Ryan P, Panuwet P, Smarr MM, Liu K, Kannan K, Yakimavets V, Tan Y, Ly V,
+    Marsit CJ, Jones DP, Corwin EJ, Dunlop AL, Liang D. (2022). "Per- and polyfluoroalkyl
+    substance (PFAS) exposure, maternal metabolomic perturbation, and fetal growth in African
+    American women: A meet-in-the-middle approach." Environ Int. 158: 106964.
+16. Chiu WA, Lynch MT, Lay CR, Antezana A, Malek P, Sokolinski S, Rogers RD. (2022). "Bayesian
+    Estimation of Human Population Toxicokinetics of PFOA, PFOS, PFHxS, and PFNA from
+    Studies of Contaminated Drinking Water." Environ Health Perspect. 130(12).
+17. Choi J, Kim J-Y, Lee H-J. (2022). "Human Evidence of Perfluorooctanoic Acid (PFOA) Exposure
+    on Hepatic Disease: A Systematic Review and Meta-Analysis." Int J Environ Res Public
+    Health. 19(18): 11318.
+18. Chu C, Zhou Y, Li QQ, Bloom MS, Lin S, Yu Y-J, Chen D, Yu H-Y, Hu L-W, Yang B-Y, Zeng X-W,
+    Dong G-H. (2020). "Are perfluorooctane sulfonate alternatives safer? New insights from a
+    birth cohort study." Environ Int. 135: 105365.
+19. Coperchini F, Croce L, Ricci G, Magri F, Rotondi M, Imbriani M, Chiovato L. (2021). "Thyroid
+    Disrupting Effects of Old and New Generation PFAS." Front Endocrinol. 11: 612320.
+20. Costello E, Rock S, Stratakis N, Eckel SP, Walker DI, Valvi D, Cserbik D, Jenkins T, Xanthakos
+    SA, Kohli R, Sisley S, Vasiliou V, La Merrill MA, Rosen H, Conti DV, McConnell R, Chatzi L.
+    (2022). "Exposure to Per- and Polyfluoroalkyl Substances and Markers of Liver Injury: A
+    Systematic Review and Meta-Analysis." Environ Health Perspect. 130(4): 46001.
+21. Criswell RL, Wang Y, Christensen B, Botelho JC, Calafat AM, Peterson LA, Huset CA, Karagas
+    MR, Romano ME. (2023). "Concentrations of Per- and Polyfluoroalkyl Substances in Paired
+
+                                          PFOA - 10
+    Maternal Plasma and Human Milk in the New Hampshire Birth Cohort." Environ Sci Technol.
+    57(1): 463-472.
+22. Darrow LA, Groth AC, Winquist A, Shin H-M, Bartell SM, Steenland K. (2016). "Modeled
+    Perfluorooctanoic Acid (PFOA) Exposure and Liver Function in a Mid-Ohio Valley
+    Community." Environ Health Perspect. 124(8): 1227-1233.
+23. Derakhshan A, Kortenkamp A, Shu H, Broeren MAC, Lindh CH, Peeters RP, Bornehag C-G,
+    Demeneix B, Korevaar TIM. (2022). "Association of per- and polyfluoroalkyl substances with
+    thyroid homeostasis during pregnancy in the SELMA study." Environ Int. 167: 107420.
+24. Donahue SMA, Kleinman KP, Gillman MW, Oken E. (2010). "Trends in birth weight and
+    gestational length among singleton term births in the United States: 1990-2005." Obstet
+    Gynecol. 115((2 (pt. 1)): 357-364.
+25. Dong Z, Wang H, Yu YY, Li YB, Naidu R, Liu Y. (2019). "Using 2003-2014 U.S. NHANES data to
+    determine the associations between per- and polyfluoroalkyl substances and cholesterol:
+    Trend and implications." Ecotoxicol Environ Saf. 173: 461-468.
+26. Dunder L, Lind PM, Salihovic S, Stubleski J, Kärrman A, Lind L. (2022). "Changes in plasma
+    levels of per- and polyfluoroalkyl substances (PFAS) are associated with changes in plasma
+    lipids - A longitudinal study over 10 years." Environ Res. 211: 112903.
+27. EFSA - European Food Safety Authority (2018). Panel on Contaminants in the Food Chain.
+    "Risk to human health related to the presence of perfluorooctane sulfonic acid and
+    perfluorooctanoic acid in food." EFSA J. 16(12): e05194.
+28. EFSA - European Food Safety Authority (2020). Panel on Contaminants in the Food Chain.
+    "Risk to human health related to the presence of perfluoroalkyl substances in food." EFSA J.
+    18(9): e06223.
+29. Fan X, Tang S, Wang Y, Fan W, Ben Y, Naidu R, Dong Z. (2022). "Global Exposure to Per- and
+    Polyfluoroalkyl Substances and Associated Burden of Low Birthweight." Environ Sci Technol.
+    56: 4282-4294.
+30. Fromme H, Mosch C, Morovitz M, Alba-Alejandre I, Boehmer S, Kiranoglu M, Faber F,
+    Hannibal I, Genzel-Boroviczény O, Koletzko B, Völkel W. (2010). "Pre- and Postnatal
+    Exposure to Perfluorinated Compounds (PFCs)." Environ Sci Technol. 44: 7123-7129.
+31. Gallo V, Giovanni L, Genser B, Lopez-Espinosa M-J, Frisbee SJ, Karlsson L, Ducatman AM,
+    Fletcher T. (2012). "Serum Perfluorooctanoate (PFOA) and Perfluorooctane Sulfonate
+    (PFOS) Concentrations and Liver Function Biomarkers in a Population with Elevated PFOA
+    Exposure." Environ Health Perspect. 120: 655-660.
+32. Gilbert RO. (1987). Statistical Methods for Environmental Pollution Monitoring. New York,
+    Van Nostrand Reinhold.
+33. Goeden HM, Greene CW, Jacobus JA. (2019). "A transgenerational toxicokinetic model and
+    its use in derivation of Minnesota PFOA water guidance." J Expo Sci Environ Epidemiol.
+    29(2): 183-195.
+34. Goodrich JA, Walker D, Lin X, Wang H, Lim T, McConnell R, Conti DV, Chatzi L, Setiawan VW.
+    (2022). "Exposure to perfluoroalkyl substances and risk of hepatocellular carcinoma in a
+    multiethnic cohort." JHEP Rep. 4(10): 100550.
+35. Govarts E, Remy S, Bruckers L, Den Hond E, Sioen I, Nelen V, Baeyens W, Nawrot TS, Loots I,
+    Van Larebeke N, Schoeters G. (2016). "Combined Effects of Prenatal Exposures to
+    Environmental Chemicals on Birth Weight." Int J Environ Res Public Health. 13(5): 495.
+36. Grandjean P, Andersen EW, Budtz-Jørgensen E, Nielsen F, Mølbak K, Weihe P, Heilmann C.
+    (2012). "Serum Vaccine Antibody Concentrations in Children Exposed to Perfluorinated
+    Compounds." JAMA. 307(4): 391-397.
+
+
+                                          PFOA - 11
+37. Grandjean P, Budtz-JØrgensen E. (2013). "Immunotoxicity of perfluorinated alkylates:
+    calculation of benchmark doses based on serum concentrations in children." Environ Health.
+    12: 35.
+38. Greene CW, Bogdan AR, Goeden HM (2024). "A revised and improved toxicokinetic model
+    to simulate serum concentrations of bioaccumulative PFAS." Journal of Environmental
+    Exposure Assessment 3(2): 12.
+39. Guo J, Zhang J, Wang Z, Zhang L, Qi X, Zhang Y, Chang X, Wu C, Zhou Z. (2021). "Umbilical
+    cord serum perfluoroalkyl substance mixtures in relation to thyroid function of newborns:
+    Findings from Sheyang Mini Birth Cohort Study." Chemosphere. 273: 129664.
+40. Gyllenhammar I, Benskin JP, Sandblom O, Berger U, Ahrens L, Lignell S, Wiberg K, Glynn A.
+    (2018). "Perfluoroalkyl Acids (PFAAs) in Serum from 2−4-Month-Old Infants: Influence of
+    Maternal Serum Concentration, Gestational Age, Breast-Feeding, and Contaminated
+    Drinking Water." Environ Sci Technol. 52: 7101-7110.
+41. Hall SM, Zhang S, Hoffman K, Miranda ML, Stapleton HM. (2022). "Concentrations of per-
+    and polyfluoroalkyl substances (PFAS) in human placental tissues and associations with birth
+    outcomes." Chemosphere. 295: 133873.
+42. Harris MH, Rifas-Shiman SL, Calafat AM, Ye X, Mora AM, Webster TF, Oken E, Sagiv SK.
+    (2017). "Predictors of Per- and Polyfluoroalkyl Substance (PFAS) Plasma Concentrations in
+    6−10 Year Old American Children." Environ Sci Technol. 51: 5193-5204.
+43. Højsager FD, Andersen M, Juul A, Nielsen F, Möller S, Christensen HT, Grøntved A,
+    Grandjean P, Jensen TK. (2022). "Prenatal and early postnatal exposure to perfluoroalkyl
+    substances and bone mineral content and density in the Odense child cohort." Environ Int.
+    167: 107417.
+44. IARC – International Agency for Research on Cancer. (2023). Volume 135: Perfluorooctanoic
+    acid and perfluorooctanesulfonic acid. https://monographs.iarc.who.int/news-
+    events/volume-135-perfluorooctanoic-acid-and-perfluorooctanesulfonic-acid/
+45. ITRC – Interstate Technology and Regulatory Council. (Last Update October 2022).
+    "Interstate Technology and Regulatory Council Regulations, Guidance, and Advisories.
+    Section 4 Tables (Excel)." Retrieved 11/21/2022 from https://pfas-1.itrcweb.org/fact-
+    sheets/.
+46. Jensen RC, Glintborg D, Timmermann CAG, Nielsen F, Boye H, Madsen JB, Bilenberg N,
+    Grandjean P, Jensen TK, Andersen MS. (2022). "Higher free thyroxine associated with PFAS
+    exposure in first trimester. The Odense Child Cohort." Environ Research. 212: 113492.
+47. Jia J, Duan L, Dong B, Dong Q, Liu Y, Yu W, Yang L, Shi H. (2023). "Perfluoroalkyl and
+    polyfluoroalkyl substances in cord serum of newborns and their potential factors."
+    Chemosphere. 313: 137525.
+48. Jiang H, Liu H, Liu G, Yu J, Liu N, Jin Y, Bi Y, Wang H. (2022). "Associations between
+    Polyfluoroalkyl Substances Exposure and Breast Cancer: A Meta-Analysis." Toxics. 10: 318.
+49. Jones LE, Ghassabian A, Lawrence DA, Sundaram R, Yeung E, Kannan K, Bell EM. (2022).
+    "Exposure to perfluoroalkyl substances and neonatal immunoglobulin profiles in the upstate
+    KIDS study (2008 - 2010)." Environ Pollut. 308: 119656.
+50. Kang H, Kim H-S, Yoon YS, Lee J, Kho Y, Lee J, Chang HJ, Cho YH, Kim YA. (2021). "Placental
+    Transfer and Composition of Perfluoroalkyl Substances (PFASs): A Korean Birth Panel of
+    Parent-Infant Triads." Toxics. 9: 168.
+51. Kim S, Choi K, Ji K, Seo J, Kho Y, Park J, Kim S, Park S, Hwang I, Jeon J, Yang H, Giesy JP.
+    (2011). "Trans-Placental Transfer of Thirteen Perfluorinated Compounds and Relations with
+    Fetal Thyroid Hormones." Environ Sci Technol. 45: 7465-7472.
+
+                                          PFOA - 12
+52. Li A, Hou J, Fu J, Wang Y, Hu Y, Zhuang T, Li M, Song M, Jiang G. (2023). "Association
+    between serum levels of TSH and free T4 and per- and polyfluoroalkyl compounds
+    concentrations in pregnant women." J Environ Sci. 124: 11-18.
+53. Li H, Hammarstrand S, Midberg B, Xu Y, Li Y, Olsson DS, Fletcher T, Jakobsson K, Andersson
+    EM. (2022). "Cancer incidence in a Swedish cohort with high exposure to perfluoroalkyl
+    substances in drinking water." Environ Res. 204: 112217.
+54. Li Q-Q, Liu J-J, Su F, Zhang Y-T, Wu L-Y, Chu C, Zhou Y, Shen X, Xiong S, Geiger SD, Qian ZM,
+    McMillin SE, Dong G-H, Zeng X-W. (2022). "Chlorinated Polyfluorinated Ether Sulfonates and
+    Thyroid Hormone Levels in Adults: Isomers of C8 Health Project in China." Environ Sci
+    Technol. 56: 6152-6161.
+55. Li Y, Andersson A, Xu Y, Pineda D, Nilsson CA, Lindh CH, Jakobsson K, Fletcher T. (2022).
+    "Determinants of serum half-lives for linear and branched perfluoroalkyl substances after
+    long-term high exposure - A study in Ronneby, Sweden." Environ Int. 163: 107198.
+56. Li Y, Fletcher T, Mucs D, Scott K, Lindh CH, Tallving P, Jakobsson K. (2018). "Half-lives of
+    PFOS, PFHxS and PFOA after end of exposure to contaminated drinking water." Occup
+    Environ Med. 75: 46-51.
+57. Li Y, Lu X, Yu N, Li A, Zhuang T, Du L, Tang S, Shi W, Yu H, Song M, Wei S. (2021). "Exposure
+    to legacy and novel perfluoroalkyl substance disturbs the metabolic homeostasis in
+    pregnant women and fetuses: A metabolome-wide association study." Environ Int. 156:
+    106627.
+58. Liao Q, Tang P, Song Y, Liu B, Huang H, Liang J, Lin M, Shao Y, Liu S, Pan D, Huang D, Qiu X.
+    (2022). "Association of single and multiple prefluoroalkyl substances exposure with preterm
+    birth: Results from a Chinese birth cohort study. (Abstract only)." Chemosphere. 307:
+    135741.
+59. Lin PID, Cardenas A, Hauser R, Gold DR, Kleinman KP, Hivert M-F, Fleisch AF, Calafat AM,
+    Webster TF, Horton ES, Oken E. (2019). "Per- and polyfluoroalkyl substances and blood lipid
+    levels in pre-diabetic adults—longitudinal analysis of the diabetes prevention program
+    outcomes study." Environ Int. 129: 343-353.
+60. Liu J, Li J, Liu Y, Chan HM, Zhao Y, Cai Z, Wu Y. (2011). "Comparison on gestation and
+    lactation exposure of perfluorinated compounds for newborns." Environ Int. 37: 1206-1212.
+61. Liu Y, Li A, An Q, Liu K, Zheng P, Yin S, Liu W. (2022). "Prenatal and postnatal transfer of
+    perfluoroalkyl substances from mothers to their offspring." Crit Rev Env Sci Tec. 52(14):
+    2010-2537.
+62. MacDonald AM, Gabos S, Braakman S, Cheperdak L, Lee B, Hrudey SE, Le XC, Li X-F, Mandal
+    R, Martin JW, Schopflocher D, Lyon ME, Cheung P-Y, Ackah F, Graydon JA, Reichert M, Lyon
+    AW, Jarrell J, Benadé G, Charlton C, Huang D, Bennett MJ, Kinniburgh DW. (2022).
+    "Maternal and child biomonitoring strategies and levels of exposure in western Canada
+    during the past seventeen years: The Alberta Biomonitoring Program: 2005–2021." Int J Hyg
+    Environ Health. 244: 113990.
+63. MDH – Minnesota Department of Health. (2008). "Statement of Need and Reasonableness
+    (SONAR), July 11, 2008. Support document relating to Health Risk Limits for Groundwater
+    Rules." from https://www.leg.state.mn.us/archive/sonar/SONAR-03733.pdf#page=2
+64. MDH - Minnesota Department of Health. (2017). Background Document: Toxicokinetic
+    Model for PFOS and PFOA and Its Use in the Derivation of Human Health-based Water
+    Guidance Values.
+65. National Academies of Sciences Engineering and Medicine (2022). Guidance on PFAS
+    Exposure, Testing, and Clinical Follow-Up., The National Academies Press.
+
+
+                                          PFOA - 13
+66. Nelson J. (2016). Personal communication regarding MDH MN (East Metro) PFC
+    biomonitoring project data based on June 9, 2015 Meeting Agenda and Materials for the
+    Advisory Panel to the Environmental Health Tracking and Biomonitoring Program.
+    https://www.health.state.mn.us/communities/environment/biomonitoring/docs/pfc2015c
+    ommunityreport.pdf
+67. Nelson J. (2023). Personal communication regarding biomonitoring data of East Metro new
+    residents.
+68. Neville MC, Allen JC, Archer PC, Casey CE, Seacat J, Keller RP, Lutes V, Rasbach J, Neifert M.
+    (1991). “Studies in human lactation: milk volume and nutrient composition during weaning
+    and lactogenesis.” Am J Clin Nutr. 54:81-92.
+69. Nian M, Li Q-Q, Bloom M, Qian ZM, Syberg KM, Vaughn MG, Wang S-Q, Wei Q, Zeeshan M,
+    Gurram N, Chu C, Wang J, Tian Y-P, Hu L-W, Liu K-K, Yang B-Y, Liu R-Q, Feng D, Zeng X-W,
+    Dong G-H. (2019). "Liver function biomarkers disorder is associated with exposure to
+    perfluoroalkyl acids in adults: Isomers of C8 Health Project in China." Environ Res. 172: 81-
+    88.
+70. Nilsson S, Smurthwaite K, Aylward LL, Kay M, Toms LM, King L, Marrington S, Barnes C, Kirk
+    MD, Mueller JF, Bräunig J. (2022). "Serum concentration trends and apparent half-lives of
+    per- and polyfluoroalkyl substances (PFAS) in Australian firefighters." Int J Hyg Environ
+    Health. 246: 114040.
+71. Oh J, Schmidt RJ, Tancredi D, Calafat AM, Roa DL, Hertz-Picciotto I, Shin H-M. (2021).
+    "Prenatal exposure to per- and polyfluoroalkyl substances and cognitive development in
+    infancy and toddlerhood." Environ Res. 196: 110939.
+72. Oh J, Shin H-M, Kannan K, Busgang SA, Schmidt RJ, Schweitzer JB, Hertz-Picciotto I, Bennett
+    DH. (2022). "Childhood exposure to per- and polyfluoroalkyl substances and
+    neurodevelopment in the CHARGE case-control study." Environ Res. 215(Pt 2): 114322.
+73. Pizzurro DM, Seeley M, Kerper LE, Beck BD. (2019). "Interspecies differences in
+    perfluoroalkyl substances (PFAS) toxicokinetics and application to health-based criteria."
+    Regul Toxicol Pharmacol. 106: 239-250.
+74. Porter AK, Kleinschmidt SE, Andres KL, Reusch CN, Krisko RM, Taiwo OA, Olsen GW,
+    Longnecker MP. (2022). "Antibody response to COVID-19 vaccines among workers with a
+    wide range of exposure to per- and polyfluoroalkyl substances." Environ Int. 169: 107537.
+75. Sagiv SK, Rifas-Shiman SL, Fleisch AF, Webster TF, Calafat AM, Ye X, Gillman MW, Oken E.
+    (2018). "Early-Pregnancy Plasma Concentrations of Perfluoroalkyl Substances and Birth
+    Outcomes in Project Viva: Confounded by Pregnancy Hemodynamics?" Am J Epidemiol.
+    187(4): 793-802.
+76. Schecter A, Malik-Bass N, Calafat AM, Kato K, Colacino JA, Gent TL, Hynan LS, Harris TR,
+    Malla S, Birnbaum L. (2012). "Polyfluoroalkyl Compounds in Texas Children from Birth
+    through 12 Years of Age." Environ Health Perspect. 120: 590-594.
+77. Sevelsted A, Gürdeniz G, Rago D, Pedersen CET, Lasky-Su JA, Checa A, Zhang P, Wheelock
+    CE, Normann SS, Kristensen DM, Rasmussen MA, Schullehner J, Sdougkou K, Martin JW,
+    Stokholm J, Bønnelykke K, Bisgaard H, Chawes B. (2022). "Effect of perfluoroalkyl exposure
+    in pregnancy and infancy on intrauterine and childhood growth and anthropometry. Sub
+    study from COPSAC2010 birth cohort." EBioMedicine. 83: 104236.
+78. Shearer JJ, Callahan CL, Calafat AM, Huang WY, Jones RR, Sabbisetti VS, Freedman ND,
+    Sampson JN, Silverman DT, Purdue MP, Hofmann JN. (2021). "Serum Concentrations of Per-
+    and Polyfluoroalkyl Substances and Risk of Renal Cell Carcinoma." J Natl Cancer Inst. 113(5):
+    580-587.
+
+
+                                           PFOA - 14
+79. Shen C, Ding J, Xu C, Zhang L, Liu S, Tian Y. (2022). "Perfluoroalkyl Mixture Exposure in
+    Relation to Fetal Growth: Potential Roles of Maternal Characteristics and Associations with
+    Birth Outcomes." Toxics. 10(11): 650.
+80. Starling AP, Adgate JL, Hamman RF, Kechris K, Calafat AM, Ye X, Dabelea D. (2017).
+    "Perfluoroalkyl Substances during Pregnancy and Offspring Weight and Adiposity at Birth:
+    Examining Mediation by Maternal Fasting Glucose in the Healthy Start Study." Environ
+    Health Perspect. 125(6): 067016.
+81. Steenland K, Hofmann JN, Silverman DT, Bartell SM. (2022). "Risk assessment for PFOA and
+    kidney cancer based on a pooled analysis of two studies." Environ Int. 167: 107425.
+82. Steenland K, Tinker S, Frisbee S, Ducatman A, Vaccarino V. (2009). "Association of
+    Perfluorooctanoic Acid and Perfluorooctane Sulfonate With Serum Lipids Among Adults
+    Living Near a Chemical Plant." Am J Epidemiol. 170(10): 1268-1278.
+83. Thomsen C, Haug LS, Stigum H, Frøshaug M, Broadwell SL, Becher G. (2010). "Changes in
+    Concentrations of Perfluorinated Compounds, Polybrominated Diphenyl Ethers, and
+    Polychlorinated Biphenyls in Norwegian Breast-Milk during Twelve Months of Lactation."
+    Environ Sci Technol. 44: 9550-9556.
+84. Tian Y, Zhou Q, Zhang L, Li W, Yin S, Li F, Xu C. (2023). "In utero exposure to per-
+    /polyfluoroalkyl substances (PFASs): Preeclampsia in pregnancy and low birth weight for
+    neonates." Chemosphere. 313: 137490.
+85. Tillaut H, Monfort C, Giton F, Warembourg C, Rouget F, Cordier S, Lainé F, Gaudreau E,
+    Garlantézec R, Saint-Amour D, Chevrier C. (2022). "Persistent organic pollutant exposure
+    and thyroid function among 12-year-old children. [Accepted Manuscript]."
+    Neuroendocrinology.
+86. Timmermann CAG, Pedersen HS, Weihe P, Bjerregaard P, Nielsen F, Heilmann C, Grandjean
+    P. (2022). "Concentrations of tetanus and diphtheria antibodies in vaccinated Greenlandic
+    children aged 7 - 12 years exposed to marine pollutants, a cross sectional study." Environ
+    Res. 203: 111712.
+87. US EPA. (2000). Methodology for Deriving Ambient Water Quality Criteria for the Protection
+    of Human Health (2000).
+88. US EPA. (2011). US Environmental Protection Agency - National Center for Environmental
+    Assessment. Exposure Factors Handbook. 2011 Edition.
+89. US EPA. (2016). US Environmental Protection Agency - Office of Water. “Health Effects
+    Support Document for Perfluorooctane Sulfonate (PFOS)." Retrieved May 19, 2016, from
+    https://www.epa.gov/sites/production/files/2016-05/documents/hesd_pfos_final-plain.pdf
+90. US EPA. (2019). Exposure Factors Handbook. Chapter 3 – Ingestion of Water and Other
+    Select Liquids. https://www.epa.gov/expobox/about-exposure-factors-handbook
+91. US EPA. (2021). External Peer Review Draft: Proposed Approaches to the Derivation of a
+    Draft Maximum Contaminant Level Goal for Perfluorooctanoic Acid (PFOA) (CASRN 335-67-
+    1) in Drinking Water.
+92. US EPA. (2022). Interim Drinking Water Health Advisory: Perfluorooctanoic Acid (PFOA)
+    CASRN 335-67-1.
+93. US EPA. (2023). Public Comment Draft. Toxicity Assessment and Proposed Maximum
+    Contaminant Level Goal for Perfluorooctanoic Acid (PFOA) in Drinking Water.
+94. US EPA. (2023). Public Comment Draft Appendix: Toxicity Assessment and Proposed
+    Maximum Contaminant Level Goal for Perfluorooctanoic Acid (PFOA) in Drinking Water.
+95. Verner MA, Ngueta G, Jensen ET, Fromme H, Völkel W, Nygaard UC, Granum B, Longnecker
+    MP. (2016). "A Simple Pharmacokinetic Model of Prenatal and Postnatal Exposure to
+    Perfluoroalkyl Substances (PFASs)." Environ Sci Technol. 50: 978-986.
+
+                                         PFOA - 15
+96. Vieira VM, Hoffman K, Shin H-M, Weinberg JM, Webster TF, Fletcher T. (2013).
+    "Perfluorooctanoic Acid Exposure and Cancer Outcomes in a Contaminated Community: A
+    Geographic Analysis." Environ Health Perspect. 121: 318-323.
+97. Wang Z, Luo J, Zhang Y, Li J, Zhang J, Tian Y, Gao Y. (2023). "High maternal glucose
+    exacerbates the association between prenatal per- and polyfluoroalkyl substance exposure
+    and reduced birth weight." Sci Total Environ. 858: 160130.
+98. Wikström S, Lin PI, Lindh CH, Shu H, Bornehag CG. (2020). "Maternal serum levels of
+    perfluoroalkyl substances in early pregnancy and offspring birth weight." Pediatr Res. 87:
+    1093-1099.
+99. Wu XM, Bennett DH, Calafat AM, Kato K, Stryner M, Andersen E, Moran RE, Tancredi DJ,
+    Tulve NS, Hertz-Picciotto I. (2015). "Serum concentrations of perfluorinated compounds
+    (PFC) among selected populations of children and adults in California." Environ Res. 136:
+    264-273.
+100.        Xie W, Zhong W, Appenzeller BMR, Zhang J, Junaid M, Xu N. (2022). "Nexus between
+    perfluoroalkyl compounds (PFCs) and human thyroid dysfunction: A systematic review
+    evidenced from laboratory investigations and epidemiological studies." Crit Rev Env Sci Tec.
+    51(21): 2485-2530.
+101.        Yang Z, Liu HY, Yang QY, Chen X, Li W, Leng J, Tang NJ. (2022). "Associations between
+    exposure to perfluoroalkyl substances and birth outcomes: A meta-analysis." Chemosphere.
+    291: 132909.
+102.        Yao J, Dong Z, Jiang L, Pan Y, Zhao M, Bai X, Dai J. (2023). "Emerging and Legacy
+    Perfluoroalkyl Substances in Breastfed Chinese Infants: Renal Clearance, Body Burden, and
+    Implications." Environ Health Perspect. 131(3): 37003.
+103.        Zhang B, Wang Z, Zhang J, Dai Y, Feng C, Lin Y, Zhang L, Guo J, Qi X, Chang X, Lu D,
+    Wu C, Zhou Z. (2023). "Prenatal perfluoroalkyl substances exposure and neurodevelopment
+    in toddlers: Findings from SMBCS." Chemosphere. 313: 137587.
+104.        Zhang L, Liang J, Gao A. (2023). "Contact to perfluoroalkyl substances and thyroid
+    health effects: A meta-analysis directing on pregnancy." Chemosphere. 315: 137748.
+105.        Zhang Y, Beesoon S, Zhu L, Martin JW. (2013). "Biomonitoring of Perfluoroalkyl Acids
+    in Human Urine and Estimates of Biological Half-Life." Environ Sci Technol. 47: 10619-10627.
+106.        Zhao L, Zhang Y, Zhu L, Ma X, Wang Y, Sun H, Luo Y. (2017). "Isomer-Specific
+    Transplacental Efficiencies of Perfluoroalkyl Substances in Human Whole Blood." Environ Sci
+    Technol Lett. 4: 391-398.
+107.        Zhao X, Lin J-Y, Dong W-W, Tang M-L, Yan S-G. (2023). "Per- and Polyfluoroalkyl
+    Substances Exposure and Bone Mineral Density in the U.S. Population From NHANES 2005-
+    2014." J Expo Sci Environ Epidemiol. 33(1): 69-75.
+108.        Zheng P, Liu Y, An Q, Yang X, Yin S, Ma LQ, Liu W. (2022). "Prenatal and postnatal
+    exposure to emerging and legacy per-/polyfluoroalkyl substances: Levels and transfer in
+    maternal serum, cord serum, and breast milk." Sci Total Environ. 812: 152446.
+
+
+
+
+                                          PFOA - 16
+

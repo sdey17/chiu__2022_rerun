@@ -1,0 +1,1083 @@
+SOURCE: https://www.sciencedirect.com/science/article/pii/S0160412024000837
+DOI: 10.1016/j.envint.2024.108497
+JOURNAL: Environment International vol 185 p108497 (2024/03/01)
+TITLE: Substantial decrease of PFAS with anion exchange resin treatment – A clinical cross-over trial
+RETRIEVED: Firecrawl stealth proxy, 2026-10-01
+
+[Skip to main content](https://www.sciencedirect.com/science/article/pii/S0160412024000837#main) [Skip to article](https://www.sciencedirect.com/science/article/pii/S0160412024000837#article)
+
+### Reading Assistant
+
+powered by [LeapSpace\\
+\\
+Opens in a new window](https://www.sciencedirect.com/leapspace/?dgcid=rai_sd_ra_ls_header)
+
+#### Questions you could ask:
+
+- Suggested question:How might the reduction in serum Perfluorooctanesulfonic Acid (PFOS) impact health outcomes related to Polyfluoroalkyl Substances (PFAS) exposure?
+- Suggested question:What is the significance of the long half-life of Perfluorooctanesulfonic Acid (PFOS) in understanding Polyfluoroalkyl Substances (PFAS) exposure?
+- Suggested question:What are the implications of the findings for individuals highly exposed to Polyfluoroalkyl Substances (PFAS)?
+
+#### Actions you could take:
+
+- Summarize this article
+- Summarize experiments
+
+Ask about this article
+
+[![Environment International](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024X00021-cov200h.gif)](https://www.sciencedirect.com/journal/environment-international/vol/185/suppl/C)
+
+## [Environment International](https://www.sciencedirect.com/journal/environment-international "Go to Environment International on ScienceDirect")
+
+Date:March 2024
+
+Article:108497
+
+Volume:[Volume 185](https://www.sciencedirect.com/journal/environment-international/vol/185/suppl/C "Go to table of contents for this volume/issue")
+
+View accessibility information
+
+## Published by:Elsevier
+
+### Published by
+
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/08bcf77e921828c5a59334cdb2949dd973632719/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/environment-international "Go to Environment International on ScienceDirect")
+
+Show more
+
+Research article
+
+Open access
+
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0160412024000837&orderBeanReset=true)
+
+# Full length article  Substantial decrease of PFAS with anion exchange resin treatment – A clinical cross-over trial
+
+Author links open overlay panelJanne JulieMøllera, Ann ChristineLyngberga, Paula Edeusa ChristinaHammera, [Esben MeulengrachtFlachsa](https://www.sciencedirect.com/author/24376370100/esben-meulengracht-flachs), [Ole SteenMortensenab](https://www.sciencedirect.com/author/6603930101/ole-steen-mortensen), [Tina KoldJensenc](https://www.sciencedirect.com/author/7401539579/tina-kold-jensen), GescheJürgensd, AxelAnderssone, Anne Merete BoasSojafg, MortenLindhardtfg
+
+Show more
+
+[View **PDF**](https://www.sciencedirect.com/science/article/pii/S0160412024000837/pdfft?md5=79b4cf29ead4caf1607d1032cd110775&pid=1-s2.0-S0160412024000837-main.pdf) Download full issue
+
+Cite
+
+Add to Mendeley
+
+Share
+
+[10.1016/j.envint.2024.108497](https://doi.org/10.1016/j.envint.2024.108497)
+
+More actions
+
+## Outline
+
+01. [Highlights](https://www.sciencedirect.com/science/article/pii/S0160412024000837#ab005 "Highlights")
+02. [Abstract](https://www.sciencedirect.com/science/article/pii/S0160412024000837#ab010 "Abstract")
+03. [Keywords](https://www.sciencedirect.com/science/article/pii/S0160412024000837#kg005 "Keywords")
+04. [1\. Introduction](https://www.sciencedirect.com/science/article/pii/S0160412024000837#s0005 "1. Introduction")
+05. [2\. Methods](https://www.sciencedirect.com/science/article/pii/S0160412024000837#s0010 "2. Methods")
+06. [3\. Results](https://www.sciencedirect.com/science/article/pii/S0160412024000837#s0055 "3. Results")
+07. [4\. Discussion](https://www.sciencedirect.com/science/article/pii/S0160412024000837#s0090 "4. Discussion")
+08. [5\. Conclusion](https://www.sciencedirect.com/science/article/pii/S0160412024000837#s0095 "5. Conclusion")
+09. [Funding](https://www.sciencedirect.com/science/article/pii/S0160412024000837#s0100 "Funding")
+10. [Ethical approval](https://www.sciencedirect.com/science/article/pii/S0160412024000837#s0105 "Ethical approval")
+11. [CRediT authorship contribution statement](https://www.sciencedirect.com/science/article/pii/S0160412024000837#s0110 "CRediT authorship contribution statement")
+12. [Declaration of competing interest](https://www.sciencedirect.com/science/article/pii/S0160412024000837#coi005 "Declaration of competing interest")
+13. [Acknowledgement](https://www.sciencedirect.com/science/article/pii/S0160412024000837#ak005 "Acknowledgement")
+14. [Appendix A. Supplementary data](https://www.sciencedirect.com/science/article/pii/S0160412024000837#s0120 "Appendix A. Supplementary data")
+15. [Data availability](https://www.sciencedirect.com/science/article/pii/S0160412024000837#da005 "Data availability")
+16. [References](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bi005 "References")
+
+Show full outline
+
+## Figures (3)
+
+1. [![Fig. 1. Study design. Legend: Treatment (T) with Anion Exchange Inhibiter. Observation (control period (C)) with no treatment. Participants allocated to group A followed the intervention sequence T/C and grou...](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024000837-gr1.sml)](https://www.sciencedirect.com/science/article/pii/S0160412024000837#f0005)
+2. [![Fig. 2. CONSORT diagram of the study population.](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024000837-gr2.sml)](https://www.sciencedirect.com/science/article/pii/S0160412024000837#f0010)
+3. [![Fig. 3. Relative elimination of PFAS in 12weeks treatment or observation period. Legend, Fig. 3: Percentage of change before vs. after either treatment or observation for 12weeks. Mean percentage decrease in ...](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024000837-gr3.sml)](https://www.sciencedirect.com/science/article/pii/S0160412024000837#f0015)
+
+## Tables (1)
+
+1. [Table 1. Baseline characteristics of the 45 participants.](https://www.sciencedirect.com/science/article/pii/S0160412024000837#t0005 "Table 1. Baseline characteristics of the 45 participants.")
+
+## Extras (1)
+
+1. [Supplementary data 1](https://www.sciencedirect.com/science/article/pii/S0160412024000837#m0005 "Supplementary data 1")
+
+## Highlights
+
+- •
+Medical treatment for 12 weeks reduced serum [PFOS](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/perfluorooctanesulfonic-acid) by 60 % in a randomized cross-over study in a highly exposed population.
+
+- •
+Serum concentrations of all measured PFAS decreased significantly in the treatment period.
+
+- •
+Findings may offer a potential treatment to especially vulnerable, highly exposed populations.
+
+
+## Abstract
+
+### Background
+
+Per- and polyfluoroalkyl substances (PFAS) are heat and stain resisting chemicals. They are persistent, bioaccumulating and spread ubiquitously. Many hotspots where humans are exposed to high levels of PFAS have been reported. A few small observational studies in humans suggest that treatment with an Anion Exchange Resin (AER) decreases serum PFAS. This first clinical controlled crossover study aimed to assess whether AER decreases perfluorooctanesulfonic acid (PFOS) in highly exposed adults.
+
+### Methods
+
+An open label 1:1 randomized treatment sequence crossover study with allocation to oral AER (cholestyramine 4 g three times daily) or observation for 12 weeks was conducted among citizens from a PFAS hotspot. Main inclusion criteria was serum PFOS > 21 ng/mL. Primary endpoint was change in serum PFOS levels between treatment and observational period.
+
+### Results
+
+In total, 45 participants were included with a mean age of 50 years (SD 13). Serum PFOS baseline median was 191 ng/mL (IQR: 129–229) and decreased with a mean of 115 ng/mL (95 % CI: 89–140) on treatment, and 4.3 ng/mL in observation period corresponding to a decrease of 60 % (95 % CI: 53–67; p < 0.0001). PFHxS, PFOA, PFNA and PFDA decreased during treatment between 15 and 44 %. No serious adverse events were reported.
+
+### Conclusions
+
+Oral treatment with AER significantly lowered serum PFOS concentrations suggesting a possible treatment for enhancing elimination of PFOS in highly exposed adults.
+
+## Keywords
+
+Environmental chemistry
+
+;
+
+PFAS
+
+;
+
+Clinical trial
+
+;
+
+Pharmacologycal treatment
+
+;
+
+Anion exchange resin
+
+- [Previous article in this issue](https://www.sciencedirect.com/science/article/pii/S0160412024000758)
+- [Next article in this issue](https://www.sciencedirect.com/science/article/pii/S0160412024000722)
+
+## 1\. Introduction
+
+Per- and polyfluoroalkyl substances (PFAS) have been widely used in industrial and consumer products since the middle of the 20th century, due to their heat resistingand water- and grease-repelling properties ( [EFSA CONTAM PANEL et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0040)). PFAS are persistent, bioaccumulating and found in human biomonitoring studies worldwide ( [Fromme et al., 2009](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0065), [Roth et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0160)). PFAS have been linked to a wide range of adverse health effects, including hormonal and immunological disturbances, [elevated cholesterol](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/hypercholesterolemia) and [liver enzymes](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/liver-enzyme), and an increased risk of certain cancers ( [ATSDR., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0020), [Contam et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0040); National [Academies, 2022](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0140)). Commonly measured PFAS are [perfluorooctanesulfonic acid](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/perfluorooctanesulfonic-acid) (PFOS), [perfluorooctanoic acid](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/perfluorooctanoic-acid) (PFOA), [perfluorohexanesulfonic acid](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/perfluorohexanesulfonic-acid) (PFHxS), [perfluorononanoic acid](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/perfluorononanoic-acid) (PFNA) and [perfluorodecanoic acid](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/perfluorodecanoic-acid) (PFDA). Since 2006 regulations for individual PFAS have been set by the United Nations Environmental Programme (UNEP)”The Stockholm Convention”. Nonetheless, many hotspot areas, in which humans are highly exposed to PFAS through contaminated drinking water, soil or food, have been reported ( [Frisbee et al., 2009](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0060), [Lasters et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0120), [Pitter et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0155), [Xu et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0180)).
+
+PFAS are almost completely absorbed in the gut, protein bound in serum, and concentrated in the liver and kidneys ( [Olsen et al., 2003](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0145), [Pérez et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0150)). PFAS are not metabolized (EFSA 2020, [ATSDR, 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0020)) and are mainly eliminated in urine and feces ( [ATSDR., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0020), [Contam et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0040)). However, an extensive reabsorption takes place both in renal tubules (K. [Harada et al., 2005](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0095)) and in the gut ( [Ducatman et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0045), [Fletcher et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0055), [Ruggiero et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0165)). Given the enterohepatic re-absorption of PFAS, the excretion is very limited leading to long half-life, e.g. the half-life of PFOS is known to be in the range of 2.7–5.0 years ( [Li et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0130)).
+
+[Cholestyramine](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/colestyramine) and [colesevelam](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/colesevelam) are Anion Exchange Inhibiters (AER), which form insoluble complexes with [bile acid](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/bile-acid) in the gut, thereby inhibiting reabsorption and increasing fecal loss of cholesterol ( [Scaldaferri et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0170)). It has been suggested that AERs could also reduce the biliary reabsorption of PFAS. Rats treated with cholestyramine for 21 days had significantly decreased levels of PFOS, with plasma concentration being reduced by 87 % compared to untreated rats ( [Johnson et al., 1984](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0110)). Human case studies reported that treatment with cholestyramine reduced serum PFOS ( [Genuis et al., 2010](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0070)) ( [Genuis et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0075)). Among 56,175 Americans, highly exposed to PFAS from drinking water ( [Ducatman et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0045)), 36 participants reported treatment with cholestyramine and they had serum PFOS in the lower 5 % of the distribution. Similar results were found by Andersen et al.( [Andersen et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0015)), where AER-users (n = 22) in the NHANES cohort (n = 14,609, sampled 2003–2016) had 15.1 % lower serum PFOS concentrations than the rest of the cohort. Given the long half-lives, emerging hot-spots and negative health effects of PFAS, these previous results indicate the potential to treat certain highly exposed groups with AERs to minimize the body burden of PFAS. However, the authors are not aware of any previous experimental, human controlled trials. The purpose of this study was to assess whether treatment with an [AER](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/anion-exchange-resin) could reduce serum levels of PFOS in a population highly exposed to PFOS.
+
+## 2\. Methods
+
+### 2.1. Study design
+
+This study was conducted in a single hospital center as a [randomized controlled trial](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/randomized-controlled-trial), using 1:1 randomization with two intervention groups. Open label treatment intervention with a crossover design was performed, with initial allocation to either active treatment or observation followed by a washout period of two-weeks before commencement of the second opposite. Each period of treatment or observation were 12- weeks. The study design is shown in [Fig. 1](https://www.sciencedirect.com/science/article/pii/S0160412024000837#f0005).
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024000837-gr1.jpg)
+
+1. [Download: Download high-res image (240KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024000837-gr1_lrg.jpg "Download high-res image (240KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024000837-gr1.jpg "Download full-size image")
+
+Fig. 1. Study design. **Legend**: Treatment (T) with Anion Exchange Inhibiter. Observation (control period (C)) with no treatment. Participants allocated to group A followed the intervention sequence T/C and group B followed the intervention sequence C/T. Blood tests consisted of analysis of perfluoroalkyl substances as well as clinical blood samples.
+
+### 2.2. Study setting
+
+Study participants were recruited amongst members of a local Cow Grazing Association in Korsoer, Denmark. In 2021, it was discovered that this group had consumed meat from cattle accidentally contaminated with PFOS and PFHxS from a nearby firefighting school. Immediately after the discovery, the members were advised to stop eating the meat. PFAS blood tests three months later revealed that the majority of members (118 out of 187) had serum levels of PFOS and PFHxS above the estimated 97.5th percentile of previously reported levels in a Danish background population, corresponding to PFOS > 21.2 ng/mL and PFHxS > 1.9 ng/mL ( [Grandjean et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0080)). For this reason, these individuals were considered highly exposed.
+
+Members who met the following inclusion criteria were invited to participate in the study: Age ≥ 18 years and known serum PFOS level above 21 ng/mL within one year prior to screening. Written informed consent was obtained from all participants, prior to conduction of the study. Exclusion criteria were: contraindication for use of the study medication (e.g. total intestinal or [biliary tract obstruction](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/cholestasis), [hypertriglyceridemia](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/hypertriglyceridemia) or fat [malabsorption](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/malabsorption) as well as treatment-refractory constipation) or medical treatment listed with a risk of interaction with the study drug (oral anticoagulants, thyroid hormones, [oral contraceptives](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/oral-contraceptive), [thiazides](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/thiazide-diuretic-agent) (incl. combination preparations), [doxepin](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/doxepin) (tricyclic antidepressant), nicotinic acid, [tetracycline](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/tetracycline), [benzyl penicillin](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/penicillin-g), [phenobarbital](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/phenobarbital), digoxin). Pregnant or breastfeeding women, those planning to become pregnant within six months from baseline and those using unsafe contraception were also excluded. Women of childbearing age performed a pregnancy test (urine hCG.
+
+### 2.3. Randomization
+
+Each participant was randomly assigned into intervention group A or B using REDCap. Block-randomization in blocks of 16 was used.
+
+### 2.4. Intervention
+
+As illustrated in [Fig. 1](https://www.sciencedirect.com/science/article/pii/S0160412024000837#f0005), intervention group A received 12 weeks of treatment (T) with AER in “Period 1”, followed by 12 weeks of observation without treatment (C) in “Period 2”.Conversly, intervention group B began “Period 1” with 12 weeks of observation without treatment (C) followed by 12 weeks of treatment with AER in “Period 2”.
+
+Participants received the study medication for all 12 weeks of treatment at the beginning of the treatment period. Participants in randomization group A received the study medication immediately after randomization, whilst group B commenced the treatment after the observation and wash-out periods. The treatment followed the standard dose recommended by the Danish Medicines Agency. All participants received a fixed dose of the study medication, without the option of up- or down-titration. Originally, the trial was designed for treatment with [colesevelam](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/colesevelam) (Cholestagel ®), but due to a supply shortage, colesevelam was substituted with [cholestyramine](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/colestyramine) (Cholestyramine ®) in a protocol amendment. Thus, the first four participants were treated with three tablets of colesevelam, at a dose of 625 mg twice daily with a total daily dose of 3,750 mg. The subsequent participants were treated three times daily with one pouch of Cholestyramine as powder to oral suspension, at a dose of 4 g with a total daily dose of 12 g. After 2–4 weeks of treatment, the participants received a phone call to register any possible [adverse effects](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/adverse-event) and to ensure compliance with the study protocol. At end of the treatment period, participants returned unused study medication to an accountability check and had the opportunity to report any adverse event during the study period. Participants with less thane 80 % use of study medication were classified as non-compliant.
+
+### 2.5. Clinical data
+
+Clinical data and blood samples were collected at three clinical visits: first screening/ randomization (baseline), at the time of cross-over and at the end of trial. The baseline visit included a medical interview on [medical history](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/medical-history) and lifestyle, a physical examination and routine clinical biochemistry.
+
+Study data was collected and managed using REDCap (Research Electronic Data Capture) electronic data capture tools hosted by the Capital Region in Denmark. REDCap is a secure, web-based software platform designed to support data capture for research studies, providing 1) an intuitive interface for validated data capture; 2) audit trails for tracking data manipulation and export procedures; 3) automated export procedures for seamless data downloads to common statistical packages; and 4) procedures for data integration and interoperability with external sources ( [Harris et al., 2009](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0100), [Harris, et al., 2019](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0105)).
+
+### 2.6. Endpoints
+
+Our primary endpoint was the mean change in serum PFOS after 12 weeks of treatment with AER, compared to the 12 weeks of observation. The secondary endpoint was the percentage change in PFOS in the control period following treatment, as an indication of the level of post-treatment redistribution. As only half of the study population was randomly assigned to treatment first followed by observation, the secondary outcome was only assessed in 50 % of participants. PFHxS, PFOA, PFDA and PFNA were analyzed as explorative endpoints. Adverse events were also registered for the full duration of the trial.
+
+### 2.7. PFAS measurement
+
+Serum from each point of measurement ( [Fig. 1](https://www.sciencedirect.com/science/article/pii/S0160412024000837#f0005)) was stored at −80 °C and analyzed for PFOS (sum of isomers), PFHxS, PFOA, PFNA and PFDA at the end of the study in one batch. PFAS concentrations were determined at the Department of Public Health, [Clinical Pharmacology](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/clinical-pharmacology), Pharmacy and Environmental Medicine, University of Southern Denmark, by use of isotope dilution, online solid phase extraction, high-pressure liquid chromatography and triple quadrupole mass spectrometry (LC-MS/MS) (Jensen et al., 2015). Calibrators, serum and solvent blanks, as well as quality control samples were included with the series of samples analyzed. Quality control samples included serum samples from previous quality assessment programs and in-house made quality control samples. All quality control samples were well within the acceptance ranges. Imprecision was < 6 % for all the analytes and the limit of quantitation was 0.03 ng/ mL. Accuracy and reliability of the data for the PFAS analysis was ensured by regular participation of the laboratory in the G-EQUAS quality assessment scheme, organized by the German Society of Occupational Medicine. The staff at the analyzing laboratory had no knowledge of the randomization sequence of the participants in the study.
+
+### 2.8. Statistical analysis
+
+As this was the first randomized controlled study to test the effect of AER on the excretion of PFAS, limited information about the expected effect size was available. Based on the available literature, sample size was determined by power calculation applying different estimations. Authors expected a median PFOS of 70 ng/mL, with a positively skewed distribution and a half-life of PFOS of 3.4 years (decrease of 20 % of serum concentration/year) with a SD of 1.21 years (decrease of 19 % to 22 %/ year) ( [Li et al., 2018](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0125)). Participants were expected to excrete PFOS at least twice as fast with treatment. Normally, the maximum effect of AERs on low-density lipoprotein (LDL) is expected after 30 days of treatment. Consequently, a treatment period of 12 weeks was determined to increase the PFOS elimination from 5 % to 10 %. Enrolling 24 participants in each of the two intervention groups gave an estimated power of 0.8 (two-sided alpha level of 0.05) to detect an average of a 7 % decrease of serum PFOS levels during treatment period. To account for missing data and/or drop-out, this study aimed to enroll a total 60 participants.
+
+Descriptive statistics were used to summarize participants’ characteristics. Statistical analysis adopted an intention-to-treat principle, for all participants who received at least one dose of study medication. Crossover studies consider carryover effect, period effect and sequence effect ( [Lim and In, 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0135)). As there is no comparison with another treatment, and AERs are not absorbed from the gastrointestinal tract, carryover was not taken into account. Comparisons between the relative differences in mean serum concentrations in the treatment (T) and observation (C) periods for the sequences (T/C and C/T) were undertaken to account for sequence effect. To test for period effect, relative changes in mean serum concentration of PFOS were compared in the treatment (T) and the observation (C) period. Statistical analyses were conducted using Student’s t-tests. The analysis was initially conducted on an individual level, comparing outcome level before and after each period. Results are shown as the mean of the pool effect for each period. Data is shown without adjustments. Explorative analysis on the effect of treatment was conducted based on category in terms of sex (male or female) and age (above or below median age).
+
+Additional explorative analyses of period and sequence effects were completed for PFHxS, PFOA, PFNA and PFDA, using the same methodology as for PFOS.
+
+Only complete case data was included in analyses in terms of effect without use of imputation. All statistical analyses were conducted using R Statistical Software (v4.1.2; R Core Team 2021) using an alpha level of 0.05. A statistician independent of the trial management and unaware of the group assignments performed the statistical analysis.
+
+## 3\. Results
+
+### 3.1. Study participants
+
+From November 2021 to June 2022, 46 participants were recruited to this study. Following randomization, one participant (intervention group A) was excluded at baseline due to the diagnosis of an illness requiring treatment. The CONSORT diagram is shown in [Fig. 2](https://www.sciencedirect.com/science/article/pii/S0160412024000837#f0010).
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024000837-gr2.jpg)
+
+1. [Download: Download high-res image (118KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024000837-gr2_lrg.jpg "Download high-res image (118KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024000837-gr2.jpg "Download full-size image")
+
+Fig. 2. CONSORT diagram of the study population.
+
+The study participants had a mean age of 50 years (SD 13) and 51 % were male. The median serum concentration of PFOS was 191 ng/ mL (IQR 129–229), PFHxS 8.8 ng/ mL (5.7–11.9), PFOA 0.92 ng/ mL (0.72–1.05), PFNA 0.49 ng/ mL (0.41–0.64), and PFDA 0.17 ng/ mL (0.13–0.21). No samples for PFAS analysis were below detection level. At baseline, 25 participants (56 %) had a [chronic disease](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/chronic-disease) requiring prescribed medication. Out of those 11 received treatment with [statins](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/hydroxymethylglutaryl-coenzyme-a-reductase-inhibitor) to treat [dyslipidemia](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/dyslipidemia). Total cholesterol mean was 4.9 mmol/ L (SD 1.1) and [LDL](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/low-density-lipoprotein) 2.7 mmol/ L (SD 1.0). Additional baseline characteristics of the participants are shown in [Table 1](https://www.sciencedirect.com/science/article/pii/S0160412024000837#t0005). No participant received medical treatment with effect on gastrointestinal transition time.
+
+Table 1. Baseline characteristics of the 45 participants.
+
+| **Characteristics** | **Participants (n = 45)** |
+| --- | --- |
+| Age, years (SD) | 50 (13) |
+| Male sex, n (%) | 23 (51) |
+| PFOS, ng/ml (IQR) | 191(129–229) |
+| PFHxS, ng/ml (IQR) | 8.8 (5.7–11.9) |
+| PFOA, ng/ml (IQR) | 0.92 (0.72–1.05) |
+| PFNA, ng/ml (IQR) | 0.49 (0.41–0.64) |
+| PFDA, ng/ml (IQR) | 0.17 (0.13–0.21) |
+| BMI, kg/m2, (SD) | 29 (5.0) |
+| Blood pressure, systolic /diastolic, mmHg, (SD) | 136/88 (21/ 13) |
+| Any chronic disease in medical history, n (%) \* | 25 (56) |
+| Cardiovascular disease, n (%)\*\* | 11 (24) |
+| Dyslipidemia, n (%) | 11 (24) |
+| Diabetes type 2, n (%) | 5 (9) |
+| Haemoglobin, mmol/ L, (SD) | 9.1 (0.9) |
+| Creatinine, µmol/ L, (SD) | 72 (11) |
+| eGFR, ml/ min/ 1.73 m2, (SD) | 87 (6) |
+| Total cholesterol, mmol/ L, (SD) | 4.9 (1.1) |
+| LDL, mmol/ L, (SD) | 2.7 (1.0) |
+| HDL, mmol/ L, (SD) | 1.4 (0.5) |
+| Triglyceride, mmol/L, (SD) | 1.6 (0.9) |
+| 25-Hydroxy-Vitamin D3, nmol/L, (SD) | 60 (24) |
+
+**Legend:** \*No participants received medical treatment with effect on gastrointestinal transition time. \*\* Hypertension, stroke or [ischemic heart disease](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/ischemic-heart-disease). PFOS = Perfluorooctanesulfonic acid, PFHxS = Perfluorohexanesulfonic acid, PFOA = Perfluorooctanoic acid, PFNA = Perfluorononanoic acid, PFDA = Perfluorodecanoic acid. Estimated glomerular filtration rate (eGFR) is based on CKD-EPI creatinine equation including: Sex and age, but not race. Numeric variables are presented with mean and standard deviation (SD), PFAS’s values with median and interquartile range (IQR), and categorical variables with amount and percentage of study population (%).
+
+### 3.2. Test for sequence effect
+
+In order to pool effect of treatment in a crossover, sequence effect was tested for. A numeric, larger treatment effect was seen in intervention group A and a larger decrease in serum PFOS during control period was seen in intervention group B. However, no statistically significant sequence effect was identified comparing differences in relative decrease of serum PFOS after treatment and control period between the groups (respectively p = 0.17 and 0.43). Therefore, effect of treatment or observation for the following is presented as pooled analysis ( [Lim and In, 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0135)). Baseline characteristic in the randomization strata is shown in supplementary Table 1S.
+
+### 3.3. Change of PFOS levels on treatment
+
+The mean decrease of serum PFOS during treatment was 115 ng/mL (95 % Cl: 89–140), corresponding to a decrease of 63 % (95 % CI: 57–70). During observation mean decrease was 4.3 ng/ mL (95 % CI: 0.51–8.1) corresponding to a decrease of 3.3 % (95 % CI: 1.0–5.6). Thus, the relative reduction between treatment and observation periods was 60 % (95 % CI: 53–67) or 111 ng/mL (95 % CI: 85–136), corresponding to a highly significant effect of treatment (p < 0.0001). Adjustments for age or sex had no effect on treatment response (p = 0.11 and p = 0.19), respectively. At the end of study, six participants reached serum levels of PFOS < 21 ng/ mL (corresponding to Danish background levels).
+
+### 3.4. Post-treatment redistribution of PFOS
+
+In the intervention group A, with the sequence treatment followed by observation, serum PFOS was further reduced by 2.5 ng/mL (95 % CI: −0.3 to 5.2) during the observational period indicating limited redistribution.
+
+### 3.5. Change of other PFAS
+
+Additionally, changes in other PFAS levels were analyzed, with decreases between 19 and 48 % with treatment, as shown in [Fig. 3](https://www.sciencedirect.com/science/article/pii/S0160412024000837#f0015). During the observation period, mean reductions in serum levels for PFHxS was 3.5 % and 2.4 % for PFOA. However, serum levels increased by 1.3 % for PFNA and 4.0 % for PFDA.
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024000837-gr3.jpg)
+
+1. [Download: Download high-res image (193KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024000837-gr3_lrg.jpg "Download high-res image (193KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024000837-gr3.jpg "Download full-size image")
+
+Fig. 3. **Relative** elimination of PFAS in 12 weeks treatment or observation period. **Legend,** [Fig. 3](https://www.sciencedirect.com/science/article/pii/S0160412024000837#f0015) **:** Percentage of change before vs. after either treatment or observation for 12 weeks. Mean percentage decrease in PFAS’s and 95 % confidence limits error bars. PFOS = Perfluorooctanesulfonic acid, PFHxS = Perfluorohexanesulfonic acid, PFOA = Perfluorooctanoic acid, PFNA = Perfluorononanoic acid, PFDA = Perfluorodecanoic acid.
+
+### 3.6. Adverse events
+
+Adverse effects of the study medication were registered for five participants, who reported mild gastrointestinal symptoms and [headache](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/headache). One participant did not complete the study due to gastrointestinal symptoms related to study drug. No serious adverse effects were recorded. In addition, eleven participants did not comply with protocol, with nine participants having a compliance of less than 80 % use of the study medication and two participants missing blood test for one of three measures of PFAS. No participants donated blood during the study period.
+
+## 4\. Discussion
+
+In this first randomized controlled study of its kind, a significant reduction of 60 % in serum PFOS was identified after treatment with an anion exchange resin for 12 weeks among 45 highly exposed adults. The reduction in serum levels were, for PFHxS 15 %; for PFOA 20 %; for PFNA 39 % and for PFDA 44 %. During the observation 12-week period the corresponding reduction in PFOS was 3 %. These highly statistically significant findings are groundbreaking suggesting that PFAS elimination can be significantly enhanced with AER treatment, offering reassurance to highly exposed individuals.
+
+No post-treatment re-distribution, i.e. mobilization from other compartments, was found, as PFAS did not increase in participants in the observation period after the initial treatment response. However, this result was only based on 21 participants due to the crossover design and hence, the study may not possess sufficient power to accurately measure this outcome. Therefore, extent of redistribution should be investigated further in additional studies and it would be beneficial with multiple measurements over time to increase the accuracy.
+
+To the author’s knowledge, no clinical controlled human studies of this nature have previously been conducted. However, the findings are in accordance with an animal study in which rats, exposed to PFOS and treated with cholestyramine for 21 days, had a 9-fold increase in PFOS elimination in feces ( [Johnson et al., 1984](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0110)). In addition, the findings are supported by human case series ( [Genuis et al., 2010](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0070), [Genuis et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0075)) and population studies in which participants treated with [bile acid sequestrants](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/bile-acid-sequestrant) had PFAS concentrations in the lowest range ( [Andersen et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0015), [Ducatman et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0045)).
+
+PFAS are absorbed from the gut ( [Ericson et al., 2008](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0050), [Kimura et al., 2017](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0115)), bind to [serum proteins](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/plasma-protein) and accumulate mainly in the liver, kidney and blood ( [Sheng et al., 2016](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0175)). They are not metabolized and renal clearance is low due to active renal reabsorption ( [Andersen et al., 2008](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0010), [Li et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0130)). [Biliary excretion](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/biliary-excretion) is also low due to enterohepatic circulation and it has been estimated that a large proportion of excreted PFAS is reabsorbed from the gastrointestinal tract through this method (K. H. [Harada et al., 2007](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0090)). Both cholestyramine (‘ [Cholestyramine’, 2012](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0035)) and colesevelam (H. [Bays and Jones, 2007](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0025)) are bile acids sequestrants, acting as [bile acid](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/bile-acid) resins or anion exchange resins. The AERs are large, highly positively charged anion exchange resins that bind to negatively charged anions such as bile acids (salts) by exchanging [chloride ions](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/chloride-ion), forming insoluble complexes that are excreted in feces. They have been used in the treatment of [hypercholesterolemia](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/hypercholesterolemia) by inhibiting the enterohepatic reabsorption, thus enhancing fecal excretion of cholesterol ( [Roth et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0160)). The same mechanism applies for PFOS. This study is the first of its kind and previously approved drugs, with few and mild [side effects](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/side-effect) (constipation, abdominal pain, diarrhea, [dyspepsia](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/dyspepsia), [flatulence](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/flatulence) and nausea), were used ( [Genuis et al., 2010](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0070), [Scaldaferri et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0170)). However, some limitations need to be addressed. First, the participants were very motivated for treatment, due to their known high exposure to PFAS. In other settings, among less motivated samples, the gastrointestinal side effects of AER may be less well tolerated. Therefore, treatment should primary be offered to highly exposed individuals for shorter time periods, though the optimal timeframe of treatment needs to be determined in future studies. Still, studies have found that the use of AER have long term beneficial effects on both cardiovascular disease and diabetes risk factors ( [Hansen et al., 2017](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0085)). Second, the initial plan was to use colesevelam, which was administered as twice-daily tablets. However, due to a shortage of supply of colesevelam a switch to the powder cholestyramine was necessary. The study participants reported cholestyramine to have a non-palatable taste, leading to well-known compliance issues ( [Bays et al., 2011](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0030)). As cholestyramine is administered three times daily, three participants reported they forgot to take the trial medication during the day and a total of nine participants were non-compliant. Gastrointestinal adverse effects were the main reason for cessation of treatment, as well as reduced compliance during the trial. Lastly, other factors which could have contributed to the reduction in serum PFAS e.g. self-treatment and diet was not accounted for. Moreover, participants were only treated for 12 weeks and therefore, this study cannot determine whether longer treatment periods would further enhance elimination of PFAS.
+
+PFAS are widely used, persists in the environment and are present in all human populations, which is of public health concern, due to their possible adverse health effects ( [EFSA CONTAM PANEL et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0040)). An increasing number of hotspot areas in which humans are exposed to PFAS through contaminated water, soil or food have been reported worldwide(“ [‘Forever pollution”’, 2023](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0005)). Currently no treatment is available for highly exposed individuals. Our findings suggest that PFAS elimination can be enhanced by administration of the approved AER drugs, which have tolerable side effects for motivated participants, with the potential to provide reassurance to those affected by hotspots. In addition, although cholestyramine is well tolerated, colesevelam may be a better tolerated alternative due to its capsule form. Future studies should also further elaborate on both dose and duration of treatment with AER. It is also important to state, that although serum PFOS significantly decreased over a 12-weeks period, it is not elucidated whether this is accompanied by a corresponding decline in adverse health outcomes. This question requires further research in larger long-term studies. Conversely, it is not possible with this current study to assess whether a sufficient decrease in PFAS levels could have been achieved with a treatment period shorter than 12 week. This question could be addressed with consecutive samples to estimate correct elimination rate of PFAS with AER treatment. PFAS are detected in umbilical cord blood, amniotic fluid and breast milk, indicating that the vulnerable fetus and infant is exposed to these substances..Moreover, EFSA identified reduced antibody response towards routine childhood [vaccinations](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/vaccination-policy) as the critical effect of PFAS on children ( [EFSA CONTAM PANEL et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024000837#b0040)). Therefore, our findings may be of particular interest for highly exposed women of reproductive age, with the potential to reduce or prevent PFAS exposure of the next generation. However, few participants in this study were of reproductive age and more studies in this population group are urgently needed, including treatment with varying length and dose.
+
+## 5\. Conclusion
+
+Our findings from this first randomized [controlled clinical trial](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/controlled-clinical-trial) indicate that PFAS elimination can be enhanced by administration of an anion exchange resin for 12-weeks, possibly by preventing reabsorption in the enterohepatic circulation. Whether the marked reduction in serum PFOS is accompanied by a decrease in adverse health effects associated with high PFAS exposure requires further investigation. Our findings are of major public health interest and may offer possible treatment for highly exposed individuals. Of particular interest are women of reproductive age in order to reduce PFAS exposure of the next generation. However, further studies elucidating both the duration and dose of treatment are urgently needed.
+
+## Funding
+
+The project was partly financed internally by the organizations and through a specific grant from the administrative Region Zealand in Denmark, without any interference on study design, collection of data, analysis, interpretation of results or the integrity of the publication.
+
+## Ethical approval
+
+The study was approved by the independent regional ethical committee in region Zeeland, Denmark (project no.: SJ-942) and Danish Medicine Agency as well as the European Union Drug Regulating Authorities [Clinical Trials](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/clinical-trial) Database (EMN-2021-06997). Collection of clinical data was notified to the Danish Data Protection Agency (REG-112-2021). The trial was performed in accordance with the Principles of Helsinki and was monitored and reviewed by the Copenhagen Good Clinical Practice guidelines to ensure that the study comply with ethical principles and the Danish legislation. All participants gave informed consent prior to participation and no participants were related to either the study personnel or the authors.
+
+## CRediT authorship contribution statement
+
+**Janne Julie Møller:** Investigation, Writing – review & editing, Visualization. **Ann Christine Lyngberg:** Conceptualization, Methodology, Resources, Data curation, Writing – review & editing, Supervision, Project administration, Funding acquisition. **Paula Edeusa Christina Hammer:** Writing – review & editing. **Esben Meulengracht Flachs:** Formal analysis, Software. **Ole Steen Mortensen:** Writing – review & editing. **Tina Kold Jensen:** Resources, Writing – review & editing. **Gesche Jürgens:** Methodology, Writing – review & editing. **Axel Andersson:** Writing – review & editing, Verification. Anne Merete Boas [Soja](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/soybean-oil): Writing – review & editing, Verification. **Morten Lindhardt:** Conceptualization, Methodology, Resources, Software, Investigation, Visualization, Writing – review & editing, Supervision, Project administration, Funding acquisition, Verification.
+
+## Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+## Acknowledgement
+
+The authors thank; Flemming Nielsen, M.Sc, Ph.D; Clinical Pharmacology, Pharmacy and Environmental Medicine, Department of Public Health, University of Southern Denmark, Odense, Denmark, for performing the PFAS analyses; Kenneth Nielsen, Head of Korsoer Cow Grass Association, Korsoer, for being helpful in spreading the offer of participation in the project among the members and for supporting community-based risk communication; Katerina Bray, MD, and Lucy Leigh Bray, MD, Department of Occupational and Social Medicine, University Hospital of Holbaek, Denmark for providing assistance with text editing.
+
+## Appendix A. Supplementary data
+
+The following are the Supplementary data to this article:[Download: Download Acrobat PDF file (440KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0160412024000837-mmc1.pdf "Download Acrobat PDF file (440KB)")
+Supplementary data 1.
+
+## Data availability
+
+Data will be made available on request.
+
+## References
+
+01. [‘Forever pollution’: Explore the map of Europe’s PFAS contamination. , 2023](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0005)
+    Forever pollution’: Explore the map of Europe’s PFAS contamination, 2023, February 23. _Le Monde.Fr_. [https://www.lemonde.fr/en/les-decodeurs/article/2023/02/23/forever-pollution-explore-the-map-of-europe-s-pfas-contamination\_6016905\_8.html](https://www.lemonde.fr/en/les-decodeurs/article/2023/02/23/forever-pollution-explore-the-map-of-europe-s-pfas-contamination_6016905_8.html).
+
+    [Google Scholar](https://scholar.google.com/scholar?q=Forever%20pollution%E2%80%99%3A%20Explore%20the%20map%20of%20Europe%E2%80%99s%20PFAS%20contamination%2C%202023%2C%20February%2023.%20Le%20Monde.Fr.%20https%3A%2F%2Fwww.lemonde.fr%2Fen%2Fles-decodeurs%2Farticle%2F2023%2F02%2F23%2Fforever-pollution-explore-the-map-of-europe-s-pfas-contamination_6016905_8.html.)
+
+02. [Andersen et al., 2008](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0010)
+
+
+    M.E. Andersen, J.L. Butenhoff, S.-C. Chang, D.G. Farrar, G.L. Kennedy, C. Lau, G.W. Olsen, J. Seed, K.B. Wallace
+
+
+
+    Perfluoroalkyl acids and related chemistries—Toxicokinetics and modes of action
+
+
+
+    Toxicol. Sci.: Off. J. Soc. Toxicol., 102 (1) (2008), pp. 3-14, [10.1093/toxsci/kfm270](https://doi.org/10.1093/toxsci/kfm270)
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxvdXAsTVRBdU1UQTVNeTkwYjNoelkya3ZhMlp0TWpjdyxZVGxpTTJJMU5XWXRZbVZtWmkwMFlqTmtMV0k1TVRNdE0yRTJNelJrWWpRNFkyRTQsaHR0cHM6Ly9hY2FkZW1pYy5vdXAuY29tL0dldEZ0ckNvbnRlbnQvR2V0UGRmQnlEb2k_ZG9pPTEwLjEwOTMlMmZ0b3hzY2klMmZrZm0yNzAmcmVzb3VyY2V0eXBlPTQmcGFyZW50UmVzb3VyY2VUeXBlSWQ9Mw.ToemTTXp0tbEsZLZUNVVU1qX1oZQ5APmSZl_wlDWxEM)
+
+
+     [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-39149141030&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Perfluoroalkyl%20acids%20and%20related%20chemistriesToxicokinetics%20and%20modes%20of%20action&publication_year=2008&author=M.E.%20Andersen&author=J.L.%20Butenhoff&author=S.-C.%20Chang&author=D.G.%20Farrar&author=G.L.%20Kennedy&author=C.%20Lau&author=G.W.%20Olsen&author=J.%20Seed&author=K.B.%20Wallace)
+
+03. [Andersen et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0015)
+
+
+    M.E. Andersen, B. Hagenbuch, U. Apte, J.C. Corton, T. Fletcher, C. Lau, W.L. Roth, B. Staels, G.L. Vega, H.J. Clewell, M.P. Longnecker
+
+
+
+    Why is elevation of serum cholesterol associated with exposure to perfluoroalkyl substances (PFAS) in humans? A workshop report on potential mechanisms
+
+
+
+    Toxicology, 459 (2021), Article 152845, [10.1016/j.tox.2021.152845](https://doi.org/10.1016/j.tox.2021.152845)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0300483X21001682/pdfft?md5=8fe83e9fc6e8b3b1c791e31d3a647239&pid=1-s2.0-S0300483X21001682-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0300483X21001682) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85110168338&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Why%20is%20elevation%20of%20serum%20cholesterol%20associated%20with%20exposure%20to%20perfluoroalkyl%20substances%20%20in%20humans%20A%20workshop%20report%20on%20potential%20mechanisms&publication_year=2021&author=M.E.%20Andersen&author=B.%20Hagenbuch&author=U.%20Apte&author=J.C.%20Corton&author=T.%20Fletcher&author=C.%20Lau&author=W.L.%20Roth&author=B.%20Staels&author=G.L.%20Vega&author=H.J.%20Clewell&author=M.P.%20Longnecker)
+
+04. [ATSDR., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0020)
+    ATSDR, 2021. _Perfluoroalkyls \| Toxicological Profile_ \[DOI: 10.15620/cdc:59198\]. Https://Wwwn.Cdc.Gov/TSP/ToxProfiles/ToxProfiles.Aspx?Id=1117&tid=237. [https://wwwn.cdc.gov/TSP/ToxProfiles/ToxProfiles.aspx?id=1117&tid=237](https://wwwn.cdc.gov/TSP/ToxProfiles/ToxProfiles.aspx?id=1117%26tid=237).
+
+    [Google Scholar](https://scholar.google.com/scholar?q=ATSDR%2C%202021.%20Perfluoroalkyls%20%7C%20Toxicological%20Profile%20%5BDOI%3A%2010.15620%2Fcdc%3A59198%5D.%20Https%3A%2F%2FWwwn.Cdc.Gov%2FTSP%2FToxProfiles%2FToxProfiles.Aspx%3FId%3D1117%26tid%3D237.%20https%3A%2F%2Fwwwn.cdc.gov%2FTSP%2FToxProfiles%2FToxProfiles.aspx%3Fid%3D1117%26tid%3D237.)
+
+05. [Bays and Jones, 2007](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0025)
+
+
+    H. Bays, P.H. Jones
+
+
+
+    Colesevelam hydrochloride: Reducing atherosclerotic coronary heart disease risk factors
+
+
+
+    Vasc. Health Risk Manag., 3 (5) (2007), pp. 733-742
+
+    [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-36148996795&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Colesevelam%20hydrochloride%3A%20Reducing%20atherosclerotic%20coronary%20heart%20disease%20risk%20factors&publication_year=2007&author=H.%20Bays&author=P.H.%20Jones)
+
+06. [Bays et al., 2011](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0030)
+
+
+    H.E. Bays, K.C. Maki, K. Schmitz
+
+
+
+    Colesevelam hydrochloride powder for oral suspension versus cholestyramine powder for oral suspension: Comparison of acceptability and tolerability
+
+
+
+    Endocrine Practice: Official Journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists, 17 (2) (2011), pp. 218-225, [10.4158/EP10251.OR](https://doi.org/10.4158/EP10251.OR)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S1530891X20422669/pdfft?md5=e89d1d6b1f5c9841ec601bda02ba62d6&pid=1-s2.0-S1530891X20422669-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S1530891X20422669) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-79959235154&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Colesevelam%20hydrochloride%20powder%20for%20oral%20suspension%20versus%20cholestyramine%20powder%20for%20oral%20suspension%3A%20Comparison%20of%20acceptability%20and%20tolerability&publication_year=2011&author=H.E.%20Bays&author=K.C.%20Maki&author=K.%20Schmitz)
+
+07. [Cholestyramine. , 2012](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0035)
+    Cholestyramine, 2012. In: LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. National Institute of Diabetes and Digestive and Kidney Diseases. [http://www.ncbi.nlm.nih.gov/books/NBK548431/](http://www.ncbi.nlm.nih.gov/books/NBK548431/).
+
+    [Google Scholar](https://scholar.google.com/scholar?q=Cholestyramine%2C%202012.%20In%3A%20LiverTox%3A%20Clinical%20and%20Research%20Information%20on%20Drug-Induced%20Liver%20Injury.%20National%20Institute%20of%20Diabetes%20and%20Digestive%20and%20Kidney%20Diseases.%20http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fbooks%2FNBK548431%2F.)
+
+08. [Contam et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0040)
+    EFSA CONTAM PANEL, Schrenk, D., Bignami, M., Bodin, L., Chipman, J. K., del Mazo, J., Grasl-Kraupp, B., Hogstrand, C., Hoogenboom, L. (Ron), Leblanc, J.-C., Nebbia, C.S., Nielsen, E., Ntzani, E., Petersen, A., Sand, S., Vleminckx, C., Wallace, H., Barregård, L., Ceccatelli, S., et al., 2020. Risk to human health related to the presence of perfluoroalkyl substances in food. EFSA Journal, 18(9), e06223. Doi: [10.2903/j.efsa.2020.6223](http://10.0.11.87/j.efsa.2020.6223).
+
+    [Google Scholar](https://scholar.google.com/scholar?q=EFSA%20CONTAM%20PANEL%2C%20Schrenk%2C%20D.%2C%20Bignami%2C%20M.%2C%20Bodin%2C%20L.%2C%20Chipman%2C%20J.%20K.%2C%20del%20Mazo%2C%20J.%2C%20Grasl-Kraupp%2C%20B.%2C%20Hogstrand%2C%20C.%2C%20Hoogenboom%2C%20L.%20(Ron)%2C%20Leblanc%2C%20J.-C.%2C%20Nebbia%2C%20C.S.%2C%20Nielsen%2C%20E.%2C%20Ntzani%2C%20E.%2C%20Petersen%2C%20A.%2C%20Sand%2C%20S.%2C%20Vleminckx%2C%20C.%2C%20Wallace%2C%20H.%2C%20Barreg%C3%A5rd%2C%20L.%2C%20Ceccatelli%2C%20S.%2C%20et%20al.%2C%202020.%20Risk%20to%20human%20health%20related%20to%20the%20presence%20of%20perfluoroalkyl%20substances%20in%20food.%20EFSA%20Journal%2C%2018(9)%2C%20e06223.%20Doi%3A%2010.2903%2Fj.efsa.2020.6223.)
+
+09. [Ducatman et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0045)
+
+
+    A. Ducatman, M. Luster, T. Fletcher
+
+
+
+    Perfluoroalkyl substance excretion: effects of organic anion-inhibiting and resin-binding drugs in a community setting
+
+
+
+    Environ. Toxicol. Pharmacol., 85 (2021), Article 103650, [10.1016/j.etap.2021.103650](https://doi.org/10.1016/j.etap.2021.103650)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S1382668921000685/pdfft?md5=aaf9140a4c326a53e5fecc0d0035909b&pid=1-s2.0-S1382668921000685-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S1382668921000685) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85103717463&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Perfluoroalkyl%20substance%20excretion%3A%20effects%20of%20organic%20anion-inhibiting%20and%20resin-binding%20drugs%20in%20a%20community%20setting&publication_year=2021&author=A.%20Ducatman&author=M.%20Luster&author=T.%20Fletcher)
+
+10. [Ericson et al., 2008](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0050)
+
+
+    I. Ericson, R. Martí-Cid, M. Nadal, B. Van Bavel, G. Lindström, J.L. Domingo
+
+
+
+    Human exposure to perfluorinated chemicals through the diet: Intake of perfluorinated compounds in foods from the Catalan (Spain) market
+
+
+
+    J. Agric. Food Chem., 56 (5) (2008), pp. 1787-1794, [10.1021/jf0732408](https://doi.org/10.1021/jf0732408)
+
+    [View at publisher](https://doi.org/10.1021/jf0732408) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-41949099022&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Human%20exposure%20to%20perfluorinated%20chemicals%20through%20the%20diet%3A%20Intake%20of%20perfluorinated%20compounds%20in%20foods%20from%20the%20Catalan%20%20market&publication_year=2008&author=I.%20Ericson&author=R.%20Mart%C3%AD-Cid&author=M.%20Nadal&author=B.%20Van%20Bavel&author=G.%20Lindstr%C3%B6m&author=J.L.%20Domingo)
+
+11. [Fletcher et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0055)
+
+
+    T. Fletcher, A. Andersson, Y. Li, Y. Xu, C.H. Lindh, A. Kärrman, K. Jakobsson
+
+
+
+    The relative importance of faecal and urinary excretion of PFAS and implications for epidemiological studies
+
+
+
+    ISEE Conference Abstracts, 2022 (1) (2022), [10.1289/isee.2022.O-OP-024](https://doi.org/10.1289/isee.2022.O-OP-024)
+
+    [View at publisher](https://doi.org/10.1289/isee.2022.O-OP-024) [Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20relative%20importance%20of%20faecal%20and%20urinary%20excretion%20of%20PFAS%20and%20implications%20for%20epidemiological%20studies&publication_year=2022&author=T.%20Fletcher&author=A.%20Andersson&author=Y.%20Li&author=Y.%20Xu&author=C.H.%20Lindh&author=A.%20K%C3%A4rrman&author=K.%20Jakobsson)
+
+12. [Frisbee et al., 2009](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0060)
+
+
+    S. Frisbee, A. Brooks, A. Maher, P. Flensborg, S. Arnold, T. Fletcher, K. Steenland, A. Shankar, S. Knox, C. Pollard, J. Halverson, V. Vieira, C. Jin, K. Leyden, A. Ducatman
+
+
+
+    The C8 health project: design, methods, and participants
+
+
+
+    Environ. Health Perspect., 117 (2009), pp. 1873-1882, [10.1289/ehp.0800379](https://doi.org/10.1289/ehp.0800379)
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxhY3MsTVRBdU1USTRPUzlsYUhBdU1EZ3dNRE0zT1EsWVRsaU0ySTFOV1l0WW1WbVppMDBZak5rTFdJNU1UTXRNMkUyTXpSa1lqUTRZMkU0LGh0dHBzOi8vcHVicy5hY3Mub3JnL0dldEZ0ckNvbnRlbnQvR2V0UGRmQnlEb2k_ZG9pPTEwLjEyODklMmZlaHAuMDgwMDM3OSZyZXNvdXJjZXR5cGU9NA.GbtaCOc1hKXNoi_-QgA4_9zU6QzMnQ16ZJDmn9bS2Ng)
+
+
+     [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-70349502971&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20C8%20health%20project%3A%20design%2C%20methods%2C%20and%20participants&publication_year=2009&author=S.%20Frisbee&author=A.%20Brooks&author=A.%20Maher&author=P.%20Flensborg&author=S.%20Arnold&author=T.%20Fletcher&author=K.%20Steenland&author=A.%20Shankar&author=S.%20Knox&author=C.%20Pollard&author=J.%20Halverson&author=V.%20Vieira&author=C.%20Jin&author=K.%20Leyden&author=A.%20Ducatman)
+
+13. [Fromme et al., 2009](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0065)
+
+
+    H. Fromme, S.A. Tittlemier, W. Völkel, M. Wilhelm, D. Twardella
+
+
+
+    Perfluorinated compounds—Exposure assessment for the general population in Western countries
+
+
+
+    Int. J. Hyg. Environ. Health, 212 (3) (2009), pp. 239-270, [10.1016/j.ijheh.2008.04.007](https://doi.org/10.1016/j.ijheh.2008.04.007)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S1438463908000308/pdfft?md5=2a4f10c8406ef20ee84decc691505443&pid=1-s2.0-S1438463908000308-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S1438463908000308) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-62849117534&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Perfluorinated%20compoundsExposure%20assessment%20for%20the%20general%20population%20in%20Western%20countries&publication_year=2009&author=H.%20Fromme&author=S.A.%20Tittlemier&author=W.%20V%C3%B6lkel&author=M.%20Wilhelm&author=D.%20Twardella)
+
+14. [Genuis et al., 2010](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0070)
+
+
+    S.J. Genuis, D. Birkholz, M. Ralitsch, N. Thibault
+
+
+
+    Human detoxification of perfluorinated compounds
+
+
+
+    Public Health, 124 (7) (2010), pp. 367-375, [10.1016/j.puhe.2010.03.002](https://doi.org/10.1016/j.puhe.2010.03.002)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0033350610000600/pdfft?md5=1a9c9a00af863b59fef1cb78c60ada53&pid=1-s2.0-S0033350610000600-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0033350610000600) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-77954176883&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Human%20detoxification%20of%20perfluorinated%20compounds&publication_year=2010&author=S.J.%20Genuis&author=D.%20Birkholz&author=M.%20Ralitsch&author=N.%20Thibault)
+
+15. [Genuis et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0075)
+
+
+    S.J. Genuis, L. Curtis, D. Birkholz
+
+
+
+    Gastrointestinal elimination of perfluorinated compounds using cholestyramine and chlorella pyrenoidosa
+
+
+
+    ISRN Toxicology, 2013 (2013), [10.1155/2013/657849](https://doi.org/10.1155/2013/657849)
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyx3aWxleSxNVEF1TVRFMU5TOHlNREV6THpZMU56ZzBPUSxZVGxpTTJJMU5XWXRZbVZtWmkwMFlqTmtMV0k1TVRNdE0yRTJNelJrWWpRNFkyRTQsaHR0cHM6Ly9vbmxpbmVsaWJyYXJ5LndpbGV5LmNvbS9kb2kvZXBkZi8xMC4xMTU1LzIwMTMvNjU3ODQ5P3NyYz1nZXRmdHI.LGzkHN17yXA545bGtkJQ40VU60j0hZ-DRkjIr3KcZ6w)
+
+
+     [Google Scholar](https://scholar.google.com/scholar_lookup?title=Gastrointestinal%20elimination%20of%20perfluorinated%20compounds%20using%20cholestyramine%20and%20chlorella%20pyrenoidosa&publication_year=2013&author=S.J.%20Genuis&author=L.%20Curtis&author=D.%20Birkholz)
+
+16. [Grandjean et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0080)
+    Grandjean, P., Timmermann, C. A. G., Kruse, M., Nielsen, F., Vinholt, P. J., Boding, L., Heilmann, C., Mølbak, K., 2020. Severity of COVID-19 at elevated exposure to perfluorinated alkylates. medRxiv, 2020.10.22.20217562. doi: [10.1101/2020.10.22.20217562](http://10.0.4.77/2020.10.22.20217562).
+
+    [Google Scholar](https://scholar.google.com/scholar?q=Grandjean%2C%20P.%2C%20Timmermann%2C%20C.%20A.%20G.%2C%20Kruse%2C%20M.%2C%20Nielsen%2C%20F.%2C%20Vinholt%2C%20P.%20J.%2C%20Boding%2C%20L.%2C%20Heilmann%2C%20C.%2C%20M%C3%B8lbak%2C%20K.%2C%202020.%20Severity%20of%20COVID-19%20at%20elevated%20exposure%20to%20perfluorinated%20alkylates.%20medRxiv%2C%202020.10.22.20217562.%20doi%3A%2010.1101%2F2020.10.22.20217562.)
+
+17. [Hansen et al., 2017](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0085)
+
+
+    M. Hansen, D.P. Sonne, K.H. Mikkelsen, L.L. Gluud, T. Vilsbøll, F.K. Knop
+
+
+
+    Bile acid sequestrants for glycemic control in patients with type 2 diabetes: A systematic review with meta-analysis of randomized controlled trials
+
+
+
+    J. Diabetes Complications, 31 (5) (2017), pp. 918-927, [10.1016/j.jdiacomp.2017.01.011](https://doi.org/10.1016/j.jdiacomp.2017.01.011)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S1056872716306493/pdfft?md5=69b34d2c680b1fa8c21bbbf44be0626a&pid=1-s2.0-S1056872716306493-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S1056872716306493) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85013380231&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Bile%20acid%20sequestrants%20for%20glycemic%20control%20in%20patients%20with%20type%202%20diabetes%3A%20A%20systematic%20review%20with%20meta-analysis%20of%20randomized%20controlled%20trials&publication_year=2017&author=M.%20Hansen&author=D.P.%20Sonne&author=K.H.%20Mikkelsen&author=L.L.%20Gluud&author=T.%20Vilsb%C3%B8ll&author=F.K.%20Knop)
+
+18. [Harada et al., 2007](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0090)
+
+
+    K.H. Harada, S. Hashida, T. Kaneko, K. Takenaka, M. Minata, K. Inoue, N. Saito, A. Koizumi
+
+
+
+    Biliary excretion and cerebrospinal fluid partition of perfluorooctanoate and perfluorooctane sulfonate in humans
+
+
+
+    Environ. Toxicol. Pharmacol., 24 (2) (2007), pp. 134-139, [10.1016/j.etap.2007.04.003](https://doi.org/10.1016/j.etap.2007.04.003)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S1382668907000488/pdfft?md5=5719205745881cfae3cabf9d22ff885a&pid=1-s2.0-S1382668907000488-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S1382668907000488) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-34447623741&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Biliary%20excretion%20and%20cerebrospinal%20fluid%20partition%20of%20perfluorooctanoate%20and%20perfluorooctane%20sulfonate%20in%20humans&publication_year=2007&author=K.H.%20Harada&author=S.%20Hashida&author=T.%20Kaneko&author=K.%20Takenaka&author=M.%20Minata&author=K.%20Inoue&author=N.%20Saito&author=A.%20Koizumi)
+
+19. [Harada et al., 2005](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0095)
+
+
+    K. Harada, K. Inoue, A. Morikawa, T. Yoshinaga, N. Saito, A. Koizumi
+
+
+
+    Renal clearance of perfluorooctane sulfonate and perfluorooctanoate in humans and their species-specific excretion
+
+
+
+    Environ. Res., 99 (2) (2005), pp. 253-261, [10.1016/j.envres.2004.12.003](https://doi.org/10.1016/j.envres.2004.12.003)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0013935104002397/pdfft?md5=d8855933ff7840c7907132b592141508&pid=1-s2.0-S0013935104002397-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0013935104002397) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-25644441750&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Renal%20clearance%20of%20perfluorooctane%20sulfonate%20and%20perfluorooctanoate%20in%20humans%20and%20their%20species-specific%20excretion&publication_year=2005&author=K.%20Harada&author=K.%20Inoue&author=A.%20Morikawa&author=T.%20Yoshinaga&author=N.%20Saito&author=A.%20Koizumi)
+
+20. [Harris et al., 2009](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0100)
+
+
+    P.A. Harris, R. Taylor, R. Thielke, J. Payne, N. Gonzalez, J.G. Conde
+
+
+
+    Research electronic data capture (REDCap)—A metadata-driven methodology and workflow process for providing translational research informatics support
+
+
+
+    J. Biomed. Inform., 42 (2) (2009), pp. 377-381, [10.1016/j.jbi.2008.08.010](https://doi.org/10.1016/j.jbi.2008.08.010)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S1532046408001226/pdfft?md5=e9591bfb19d67fb3bf82fd90e2e10cff&pid=1-s2.0-S1532046408001226-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S1532046408001226) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-62049084378&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Research%20electronic%20data%20capture%20A%20metadata-driven%20methodology%20and%20workflow%20process%20for%20providing%20translational%20research%20informatics%20support&publication_year=2009&author=P.A.%20Harris&author=R.%20Taylor&author=R.%20Thielke&author=J.%20Payne&author=N.%20Gonzalez&author=J.G.%20Conde)
+
+21. [Harris, et al., 2019](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0105)
+    Harris, P. A., Taylor, R., Minor, B. L., Elliott, V., Fernandez, M., O’Neal, L., McLeod, L., Delacqua, G., Delacqua, F., Kirby, J., Duda, S. N., & REDCap Consortium, 2019. The REDCap consortium: Building an international community of software platform partners. J. Biomed. Inform., 95, 103208. Doi: [10.1016/j.jbi.2019.103208](http://10.0.3.248/j.jbi.2019.103208).
+
+    [Google Scholar](https://scholar.google.com/scholar?q=Harris%2C%20P.%20A.%2C%20Taylor%2C%20R.%2C%20Minor%2C%20B.%20L.%2C%20Elliott%2C%20V.%2C%20Fernandez%2C%20M.%2C%20O%E2%80%99Neal%2C%20L.%2C%20McLeod%2C%20L.%2C%20Delacqua%2C%20G.%2C%20Delacqua%2C%20F.%2C%20Kirby%2C%20J.%2C%20Duda%2C%20S.%20N.%2C%20%26%20REDCap%20Consortium%2C%202019.%20The%20REDCap%20consortium%3A%20Building%20an%20international%20community%20of%20software%20platform%20partners.%20J.%20Biomed.%20Inform.%2C%2095%2C%20103208.%20Doi%3A%2010.1016%2Fj.jbi.2019.103208.)
+
+22. [Johnson et al., 1984](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0110)
+
+
+    J.D. Johnson, S.J. Gibson, R.E. Ober
+
+
+
+    Cholestyramine-enhanced fecal elimination of carbon-14 in rats after administration of ammonium \[14C\]perfluorooctanoate or potassium \[14C\]perfluorooctanesulfonate
+
+
+
+    Fundamental Appl. Toxicol.: Off. J. Soc. Toxicol., 4 (6) (1984), pp. 972-976, [10.1016/0272-0590(84)90235-5](https://doi.org/10.1016/0272-0590(84)90235-5)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/0272059084902355/pdf?md5=def56cefa024c5c643c679d1c11ead05&pid=1-s2.0-0272059084902355-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/0272059084902355) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-77957179522&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Cholestyramine-enhanced%20fecal%20elimination%20of%20carbon-14%20in%20rats%20after%20administration%20of%20ammonium%2014Cperfluorooctanoate%20or%20potassium%2014Cperfluorooctanesulfonate&publication_year=1984&author=J.D.%20Johnson&author=S.J.%20Gibson&author=R.E.%20Ober)
+
+23. [Kimura et al., 2017](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0115)
+
+
+    O. Kimura, Y. Fujii, K. Haraguchi, Y. Kato, C. Ohta, N. Koga, T. Endo
+
+
+
+    Uptake of perfluorooctanoic acid by Caco-2 cells: involvement of organic anion transporting polypeptides
+
+
+
+    Toxicol. Lett., 277 (2017), pp. 18-23, [10.1016/j.toxlet.2017.05.012](https://doi.org/10.1016/j.toxlet.2017.05.012)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0378427417301893/pdfft?md5=0292548e8d6d6cb5045f04b882be5ba3&pid=1-s2.0-S0378427417301893-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0378427417301893) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85020009346&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Uptake%20of%20perfluorooctanoic%20acid%20by%20Caco-2%20cells%3A%20involvement%20of%20organic%20anion%20transporting%20polypeptides&publication_year=2017&author=O.%20Kimura&author=Y.%20Fujii&author=K.%20Haraguchi&author=Y.%20Kato&author=C.%20Ohta&author=N.%20Koga&author=T.%20Endo)
+
+24. [Lasters et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0120)
+
+
+    R. Lasters, T. Groffen, M. Eens, D. Coertjens, W.A. Gebbink, J. Hofman, L. Bervoets
+
+
+
+    Home-produced eggs: an important human exposure pathway of perfluoroalkylated substances (PFAS)
+
+
+
+    Chemosphere, 308 (Pt 1) (2022), Article 136283, [10.1016/j.chemosphere.2022.136283](https://doi.org/10.1016/j.chemosphere.2022.136283)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S004565352202776X/pdfft?md5=96f7e26b091fb9a02a6b1f3294c5df2e&pid=1-s2.0-S004565352202776X-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S004565352202776X) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85137291661&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Home-produced%20eggs%3A%20an%20important%20human%20exposure%20pathway%20of%20perfluoroalkylated%20substances%20&publication_year=2022&author=R.%20Lasters&author=T.%20Groffen&author=M.%20Eens&author=D.%20Coertjens&author=W.A.%20Gebbink&author=J.%20Hofman&author=L.%20Bervoets)
+
+25. [Li et al., 2018](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0125)
+
+
+    Y. Li, T. Fletcher, D. Mucs, K. Scott, C.H. Lindh, P. Tallving, K. Jakobsson
+
+
+
+    Half-lives of PFOS, PFHxS and PFOA after end of exposure to contaminated drinking water
+
+
+
+    Occup. Environ. Med., 75 (1) (2018), pp. 46-51, [10.1136/oemed-2017-104651](https://doi.org/10.1136/oemed-2017-104651)
+
+    [View at publisher](https://doi.org/10.1136/oemed-2017-104651) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Half-lives%20of%20PFOS%2C%20PFHxS%20and%20PFOA%20after%20end%20of%20exposure%20to%20contaminated%20drinking%20water&publication_year=2018&author=Y.%20Li&author=T.%20Fletcher&author=D.%20Mucs&author=K.%20Scott&author=C.H.%20Lindh&author=P.%20Tallving&author=K.%20Jakobsson)
+
+26. [Li et al., 2022](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0130)
+
+
+    Y. Li, A. Andersson, Y. Xu, D. Pineda, C. Nilsson, C. Lindh, K. Jakobsson, T. Fletcher
+
+
+
+    Determinants of serum half-lives for linear and branched perfluoroalkyl substances after long-term high exposure—A study in Ronneby, Sweden
+
+
+
+    Environ. Int., 163 (2022), Article 107198, [10.1016/j.envint.2022.107198](https://doi.org/10.1016/j.envint.2022.107198)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412022001246/pdfft?md5=37ccf4d1470a45c5a924b205960e12f2&pid=1-s2.0-S0160412022001246-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412022001246) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85128262150&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Determinants%20of%20serum%20half-lives%20for%20linear%20and%20branched%20perfluoroalkyl%20substances%20after%20long-term%20high%20exposureA%20study%20in%20Ronneby%2C%20Sweden&publication_year=2022&author=Y.%20Li&author=A.%20Andersson&author=Y.%20Xu&author=D.%20Pineda&author=C.%20Nilsson&author=C.%20Lindh&author=K.%20Jakobsson&author=T.%20Fletcher)
+
+27. [Lim and In, 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0135)
+
+
+    C.-Y. Lim, J. In
+
+
+
+    Considerations for crossover design in clinical study
+
+
+
+    Korean J. Anesthesiol., 74 (4) (2021), pp. 293-299, [10.4097/kja.21165](https://doi.org/10.4097/kja.21165)
+
+    [View at publisher](https://doi.org/10.4097/kja.21165) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85112766304&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Considerations%20for%20crossover%20design%20in%20clinical%20study&publication_year=2021&author=C.-Y.%20Lim&author=J.%20In)
+
+28. [National Academies, 2022](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0140)
+    National Academies, 2022. Potential Health Effects of PFAS \| Guidance on PFAS Exposure, Testing, and Clinical Follow-Up, chapter 3. [https://nap.nationalacademies.org/read/26156/chapter/5](https://nap.nationalacademies.org/read/26156/chapter/5).
+
+    [Google Scholar](https://scholar.google.com/scholar?q=National%20Academies%2C%202022.%20Potential%20Health%20Effects%20of%20PFAS%20%7C%20Guidance%20on%20PFAS%20Exposure%2C%20Testing%2C%20and%20Clinical%20Follow-Up%2C%20chapter%203.%20https%3A%2F%2Fnap.nationalacademies.org%2Fread%2F26156%2Fchapter%2F5.)
+
+29. [Olsen et al., 2003](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0145)
+
+
+    G.W. Olsen, K.J. Hansen, L.A. Stevenson, J.M. Burris, J.H. Mandel
+
+
+
+    Human Donor Liver and Serum Concentrations of Perfluorooctanesulfonate and Other Perfluorochemicals
+
+
+
+    Environ. Sci. Tech., 37 (5) (2003), pp. 888-891, [10.1021/es020955c](https://doi.org/10.1021/es020955c)
+
+    [View at publisher](https://doi.org/10.1021/es020955c) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0242432415&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Human%20Donor%20Liver%20and%20Serum%20Concentrations%20of%20Perfluorooctanesulfonate%20and%20Other%20Perfluorochemicals&publication_year=2003&author=G.W.%20Olsen&author=K.J.%20Hansen&author=L.A.%20Stevenson&author=J.M.%20Burris&author=J.H.%20Mandel)
+
+30. [Pérez et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0150)
+
+
+    F. Pérez, M. Nadal, A. Navarro-Ortega, F. Fàbrega, J.L. Domingo, D. Barceló, M. Farré
+
+
+
+    Accumulation of perfluoroalkyl substances in human tissues
+
+
+
+    Environ. Int., 59 (2013), pp. 354-362, [10.1016/j.envint.2013.06.004](https://doi.org/10.1016/j.envint.2013.06.004)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412013001220/pdfft?md5=5be9d8967d13973b6063c5bcf6a9ec20&pid=1-s2.0-S0160412013001220-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412013001220) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84880783627&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Accumulation%20of%20perfluoroalkyl%20substances%20in%20human%20tissues&publication_year=2013&author=F.%20P%C3%A9rez&author=M.%20Nadal&author=A.%20Navarro-Ortega&author=F.%20F%C3%A0brega&author=J.L.%20Domingo&author=D.%20Barcel%C3%B3&author=M.%20Farr%C3%A9)
+
+31. [Pitter et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0155)
+
+
+    G. Pitter, F. Da Re, C. Canova, G. Barbieri, M. Zare Jeddi, F. Daprà, F. Manea, R. Zolin, A.M. Bettega, G. Stopazzolo, S. Vittorii, L. Zambelli, M. Martuzzi, D. Mantoan, F. Russo
+
+
+
+    Serum Levels of Perfluoroalkyl Substances (PFAS) in Adolescents and Young Adults Exposed to Contaminated Drinking Water in the Veneto Region, Italy: A Cross-Sectional Study Based on a Health Surveillance Program
+
+
+
+    Environ. Health Perspect., 128 (2) (2020), Article 027007, [10.1289/EHP5337](https://doi.org/10.1289/EHP5337)
+
+
+
+
+    [View at publisher](https://ct.prod.getft.io/c2NpZW5jZWRpcmVjdF9jb250ZW50aG9zdGluZyxhY3MsTVRBdU1USTRPUzlsYUhBMU16TTMsTXpFMU1qVm1aV010WVRFM1l5MDBOVEV3TFdJeFpUUXRZbVE0T0RkaE1UYzRNMlZqLGh0dHBzOi8vcHVicy5hY3Mub3JnL0dldEZ0ckNvbnRlbnQvR2V0UGRmQnlEb2k_ZG9pPTEwLjEyODklMmZFSFA1MzM3JnJlc291cmNldHlwZT00.hcXNHISo01DyMgn0qtiOlklpYb6ak2ixt3DXRATSVB0)
+
+
+     [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85079653039&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Serum%20Levels%20of%20Perfluoroalkyl%20Substances%20%20in%20Adolescents%20and%20Young%20Adults%20Exposed%20to%20Contaminated%20Drinking%20Water%20in%20the%20Veneto%20Region%2C%20Italy%3A%20A%20Cross-Sectional%20Study%20Based%20on%20a%20Health%20Surveillance%20Program&publication_year=2020&author=G.%20Pitter&author=F.%20Da%20Re&author=C.%20Canova&author=G.%20Barbieri&author=M.%20Zare%20Jeddi&author=F.%20Dapr%C3%A0&author=F.%20Manea&author=R.%20Zolin&author=A.M.%20Bettega&author=G.%20Stopazzolo&author=S.%20Vittorii&author=L.%20Zambelli&author=M.%20Martuzzi&author=D.%20Mantoan&author=F.%20Russo)
+
+32. [Roth et al., 2020](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0160)
+
+
+    K. Roth, Z. Imran, W. Liu, M.C. Petriello
+
+
+
+    Diet as an Exposure Source and Mediator of Per- and Polyfluoroalkyl Substance (PFAS) Toxicity
+
+
+
+    Front. Toxicol., 2 (2020), Article 601149, [10.3389/ftox.2020.601149](https://doi.org/10.3389/ftox.2020.601149)
+
+    [View at publisher](https://doi.org/10.3389/ftox.2020.601149) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85159928534&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Diet%20as%20an%20Exposure%20Source%20and%20Mediator%20of%20Per-%20and%20Polyfluoroalkyl%20Substance%20%20Toxicity&publication_year=2020&author=K.%20Roth&author=Z.%20Imran&author=W.%20Liu&author=M.C.%20Petriello)
+
+33. [Ruggiero et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0165)
+
+
+    M.J. Ruggiero, H. Miller, J.Y. Idowu, J.D. Zitzow, S.-C. Chang, B. Hagenbuch
+
+
+
+    Perfluoroalkyl Carboxylic Acids Interact with the Human Bile Acid Transporter NTCP
+
+
+
+    Livers, 1 (4) (2021), pp. 221-229, [10.3390/livers1040017](https://doi.org/10.3390/livers1040017)
+
+    [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85135525760&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Perfluoroalkyl%20Carboxylic%20Acids%20Interact%20with%20the%20Human%20Bile%20Acid%20Transporter%20NTCP&publication_year=2021&author=M.J.%20Ruggiero&author=H.%20Miller&author=J.Y.%20Idowu&author=J.D.%20Zitzow&author=S.-C.%20Chang&author=B.%20Hagenbuch)
+
+34. [Scaldaferri et al., 2013](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0170)
+
+
+    F. Scaldaferri, M. Pizzoferrato, F.R. Ponziani, G. Gasbarrini, A. Gasbarrini
+
+
+
+    Use and indications of cholestyramine and bile acid sequestrants
+
+
+
+    Intern. Emerg. Med., 8 (3) (2013), pp. 205-210, [10.1007/s11739-011-0653-0](https://doi.org/10.1007/s11739-011-0653-0)
+
+    [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84875759070&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Use%20and%20indications%20of%20cholestyramine%20and%20bile%20acid%20sequestrants&publication_year=2013&author=F.%20Scaldaferri&author=M.%20Pizzoferrato&author=F.R.%20Ponziani&author=G.%20Gasbarrini&author=A.%20Gasbarrini)
+
+35. [Sheng et al., 2016](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0175)
+
+
+    N. Sheng, J. Li, H. Liu, A. Zhang, J. Dai
+
+
+
+    Interaction of perfluoroalkyl acids with human liver fatty acid-binding protein
+
+
+
+    Arch. Toxicol., 90 (1) (2016), pp. 217-227, [10.1007/s00204-014-1391-7](https://doi.org/10.1007/s00204-014-1391-7)
+
+    [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84955392237&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Interaction%20of%20perfluoroalkyl%20acids%20with%20human%20liver%20fatty%20acid-binding%20protein&publication_year=2016&author=N.%20Sheng&author=J.%20Li&author=H.%20Liu&author=A.%20Zhang&author=J.%20Dai)
+
+36. [Xu et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412024000837#bb0180)
+
+
+    Y. Xu, C. Nielsen, Y. Li, S. Hammarstrand, E.M. Andersson, H. Li, D.S. Olsson, K. Engström, D. Pineda, C.H. Lindh, T. Fletcher, K. Jakobsson
+
+
+
+    Serum perfluoroalkyl substances in residents following long-term drinking water contamination from firefighting foam in Ronneby, Sweden
+
+
+
+    Environ. Int., 147 (2021), Article 106333, [10.1016/j.envint.2020.106333](https://doi.org/10.1016/j.envint.2020.106333)
+
+    [View PDF](https://www.sciencedirect.com/science/article/pii/S0160412020322881/pdfft?md5=f60161277e37adc53c94ec48cdd51975&pid=1-s2.0-S0160412020322881-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0160412020322881) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85098072557&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Serum%20perfluoroalkyl%20substances%20in%20residents%20following%20long-term%20drinking%20water%20contamination%20from%20firefighting%20foam%20in%20Ronneby%2C%20Sweden&publication_year=2021&author=Y.%20Xu&author=C.%20Nielsen&author=Y.%20Li&author=S.%20Hammarstrand&author=E.M.%20Andersson&author=H.%20Li&author=D.S.%20Olsson&author=K.%20Engstr%C3%B6m&author=D.%20Pineda&author=C.H.%20Lindh&author=T.%20Fletcher&author=K.%20Jakobsson)
+
+
+## Recommended articles
+
+### Based on reading popularity
+
+- Research articleOpen access
+
+
+
+[Association of exposure to perfluoroalkyl substances (PFAS) and phthalates with thyroid hormones in adolescents from HBM4EU aligned studies](https://www.sciencedirect.com/science/article/pii/S0013935123017012)
+
+AndreaRodríguez-Carrillo, …, Mariana F.Fernández
+
+Environmental Research • Volume 237, Part 1 • 2023 • Article 116897
+
+
+
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0013935123017012/pdfft?md5=e4299c21cf1d0f13646ccb43d8f350d7&pid=1-s2.0-S0013935123017012-main.pdf)
+
+- Research articleOpen access
+
+
+
+[Statistical methods for testing carryover effects: A mixed effects model approach](https://www.sciencedirect.com/science/article/pii/S2451865421000132)
+
+S. GwynnSturdevant, ThomasLumley
+
+Contemporary Clinical Trials Communications • Volume 22 • 2021 • Article 100711
+
+
+
+[View PDF](https://www.sciencedirect.com/science/article/pii/S2451865421000132/pdfft?md5=30148a2434e5553bf74006c4ee6f80f1&pid=1-s2.0-S2451865421000132-main.pdf)
+
+- Review articleOpen access
+
+
+
+[Perfluoroalkyl substances exposure and immunity, allergic response, infection, and asthma in children: review of epidemiologic studies](https://www.sciencedirect.com/science/article/pii/S2405844021022635)
+
+Haleyvon Holst, …, LisaJohn
+
+Heliyon • Volume 7, Issue 10 • 2021 • Article e08160
+
+
+
+[View PDF](https://www.sciencedirect.com/science/article/pii/S2405844021022635/pdfft?md5=62ad6d0393f9f824d86b18b615b903e0&pid=1-s2.0-S2405844021022635-main.pdf)
+
+- Research articleOpen access
+
+
+
+[Demographic, life-style and physiological determinants of serum per- and polyfluoroalkyl substance (PFAS) concentrations in a national cross-sectional survey of Swedish adolescents](https://www.sciencedirect.com/science/article/pii/S0013935122000019)
+
+JenniferNyström, …, SannaLignell
+
+Environmental Research • Volume 208 • 2022 • Article 112674
+
+
+
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0013935122000019/pdfft?md5=d857f1f266aa88f56be84b51cc286069&pid=1-s2.0-S0013935122000019-main.pdf)
+
+- Research article
+
+
+
+[Determinants of plasma concentrations of perfluoroalkyl and polyfluoroalkyl substances in pregnant women from a birth cohort in Shanghai, China](https://www.sciencedirect.com/science/article/pii/S0160412018302691)
+
+YoupingTian, …, HongLiang
+
+Environment International • Volume 119 • 2018 • Pages 165-173
+
+- Research articleOpen access
+
+
+
+[Per- and polyfluoroalkyl substances (PFAS) in American Red Cross adult blood donors, 2000–2015](https://www.sciencedirect.com/science/article/pii/S0013935117306916)
+
+Geary W.Olsen, …, Carol A.Ley
+
+Environmental Research • Volume 157 • 2017 • Pages 87-95
+
+
+
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0013935117306916/pdfft?md5=6835d04893bd28d512c3b17819623727&pid=1-s2.0-S0013935117306916-main.pdf)
+
+
+## Cited by (25)
+
+- Research articleOpen access
+
+
+
+[The relative importance of fecal and urinary excretion of perfluorooctane sulfonic acid and perfluorooctanoic acid after high exposure – An observational study in Ronneby, Sweden](https://www.sciencedirect.com/science/article/pii/S0013935125017396)
+
+Andersson A.G., …, Li Y.
+
+Environmental Research • Volume 285 • 2025 • Article 122487
+
+
+Show abstract
+
+
+
+
+Many poly- and perfluoroalkyl substances (PFAS) are persistent and have long half-lives in the human body. However, there are limited data on the different routes of elimination. Most pharmacokinetic models assume that the urinary route dominates.
+
+
+
+Our aim was to investigate the relative importance of fecal and urinary elimination for linear perfluorooctane sulfonic acid (L-PFOS), branched PFOS and perfluorooctanoic acid (PFOA), and to estimate volumes of distributions (Vds).
+
+
+
+Drinking water highly contaminated with PFAS from firefighting foam was distributed to many households in Ronneby, Sweden, from the 1980s to December 2013. In 2016, PFAS levels were measured in matched serum, feces and urine samples from 147 subjects. Daily urinary and fecal PFAS elimination was estimated through urinary creatinine elimination and dry fecal mass, respectively. Longitudinal serum PFAS elimination rates were used together with fecal and urinary elimination rates to estimate Vds.
+
+
+
+In 2016, the median serum concentrations were 100 ng/mL for L-PFOS and 10 ng/mL for PFOA. L-PFOS was eliminated primarily through feces, with a median urinary elimination of 91 ng/day and median fecal elimination of 364 ng/day. The branched PFOS had, similarly, a primarily fecal elimination. In contrast, PFOA had a slightly higher urinary elimination, with median urinary elimination of 26 ng/day and fecal elimination of 15 ng/day. Median Vds were estimated at 93 mL/kg for PFOS and 74 mL/kg for PFOA.
+
+
+
+Fecal elimination was shown to be an important route for PFOS and PFOA elimination. Pharmacokinetic models need to take fecal elimination into consideration.
+
+- Research articleOpen access
+
+
+
+[Examining disparities in PFAS plasma concentrations: Impact of drinking water contamination, food access, proximity to industrial facilities and superfund sites](https://www.sciencedirect.com/science/article/pii/S0013935124022771)
+
+Li S., …, Chatzi L.
+
+Environmental Research • Volume 264 • 2025 • Article 120370
+
+
+Show abstract
+
+
+
+
+Most of the US population is exposed to per- and polyfluorinated substances (PFAS) through various environmental media and these sources of PFAS exposure coupled with disproportionate co-localization of PFAS-polluting facilities in under-resourced communities may exacerbate disparities in PFAS-associated health risks.
+
+
+
+We leveraged two cohorts in Southern California with 8 PFAS concentrations measured in plasma. We obtained PFAS water testing data from the Third Unregulated Contaminant Monitoring Rule and state monitoring data, census tract-level information on food access using the Food Access Research Atlas, the location of Superfund sites on the National Priorities List, and data on facilities known to release PFAS pollutants. These data were then spatially linked to the participants’ home addresses.
+
+
+
+In the first cohort, we found that detections of PFOS, PFOA, and PFHxS in drinking water were associated with 1.54 ng/mL (95% CI: 0.77, 2.32), 0.47 ng/mL (0.25, 0.68), and 1.16 ng/mL (0.62, 1.71) increase in plasma PFOS, PFOA, and PFHxS. The presence of Superfund sites was associated with higher plasma concentrations of PFOS, PFHxS, PFPeS, and PFHpS (betas \[95% CIs\]: 0.96 \[0.21, 1.71\], 0.9 \[0.22, 1.58\], 0.04 \[0.02, 0.06\] and 0.05 \[0.02, 0.09\], respectively). Each additional PFAS-polluting facility present in the neighborhood was associated with a 0.9 ng/mL (0.03, 0.15) increase in the concentration of PFOS. In the other cohort, we found that the presence of Superfund sites was associated with higher plasma PFDA, PFHpS, PFOS (betas \[95% CIs\]: 0.03 \[0.01, 0.06\], 0.05 \[0.01, 0.09\], and 1.96 \[0.31, 3.62\]). Neighborhood low access to food was associated with a 2.51 ng/mL (0.7, 4.31) increase in plasma PFOS, 0.6 ng/mL (0.16, 1.06) increase in plasma PFOA and 0.06 (0.02, 0.1) increase in plasma PFHpS.
+
+
+
+Reducing sources of PFAS exposure in under-resourced neighborhoods may help reduce disparities in human exposure levels.
+
+- Research articleOpen access
+
+
+
+[Kinetics of 15 per- and polyfluoroalkyl substances (PFAS) after single oral application as a mixture – A pilot investigation in a male volunteer](https://www.sciencedirect.com/science/article/pii/S0160412024006330)
+
+Abraham K., …, Monien B.H.
+
+Environment International • Volume 193 • 2024 • Article 109047
+
+
+Show abstract
+
+
+
+
+Per- and polyfluoroalkyl substances (PFAS) are ubiquitous environmental contaminants with half-lives in humans in the range of years in case of the long-chain compounds, leading to accumulation and measurable levels in plasma. In contrast, short-chain and “alternative” PFAS have lower levels or are not detectable in humans with background exposure. This may be due to lower exposure, but also due to much shorter half-lives compared to long-chain compounds. To get better data on kinetics, a healthy volunteer orally ingested a mixture of fifteen predominantly 13C-labeled PFAS (“MPFAS”) in a pilot investigation (MPFBA, MPFPeA, MPFHxA, MPFHpA, MPFOA, MPFNA, MPFDA, MPFUdA, MPFDoA, PFBS, MPFHxS, MPFOS, DONA, HFPO-DA, 6:2FTS). After application, concentrations were measured over 450 days in plasma, urine and feces, using UHPLC-MS/MS analysis after extraction. The compounds were absorbed quickly and almost completely. Data analysis revealed volumes of distribution between 110 and 177 mL/kg bw for most compounds, but higher values for MPFDA, MPFUdA and MPFDoA (maximum of 354 mL/kg bw). Half-lives were found to vary extremely, from 0.5 days (MPFPeA) and 1.5 days (MPFHxA) to 51 days (PFBS) and 152 days (MPFHpA) in case of the short-chain and “alternative” compounds. For the long-chain compounds, half-lives in the range of several years were confirmed for MPFOA, MPFNA, MPFHxS and MPFOS, but with even higher chain-lengths of the carboxylic acids, the half-lives were found to decrease, with the shortest half-life for MPFDoA (295 days). Elimination from the body was completely explained by the urinary losses in case of the short-chain and “alternative” PFAS, and in part by the fecal losses in case of the long-chain PFCA. Overall, elimination kinetics seem to be determined by several different renal and gastrointestinal factors (fraction unbound in plasma, binding affinity to organic anion transporters causing netto secretion or reabsorption, fecal loss with mechanisms to be clarified).
+
+- Short communicationOpen access
+
+
+
+[Quantifying levels of per- and polyfluoroalkyl Substances (PFAS) in water and serum after contamination from agricultural biosolid application](https://www.sciencedirect.com/science/article/pii/S0160412024004367)
+
+Criswell R.L., …, Smith A.
+
+Environment International • Volume 190 • 2024 • Article 108850
+
+
+
+
+
+Citation Excerpt:
+
+
+
+However, if another route of exposure of similar magnitude to the relatively high water exposures was present, modeling based on water-only exposure would likely underpredict serum levels instead of overpredict them. Other reasons that modeled predictions may differ from observed serum values include factors that may accelerate PFAS elimination rates that are not accounted for in the model, including frequent blood donation, childbirth and lactation, weight loss surgery, and use of certain cholesterol-lowering medications (Criswell et al., 2023; Jansen et al., 2019; Vermont Department of Health, 2017; Moller et al., 2024; Gasiorowski et al., 2022). Our goal in applying this model to our population, even in the setting of the above limitations, was to test the reliability of tools available to public health officials, clinicians, and patients for estimating PFAS serum levels among this novel cohort of individuals exposed via contaminated well water from historical agricultural application of PFAS-contaminated biosolids.
+
+
+
+
+Show abstract
+
+
+
+
+The National Academies of Sciences, Engineering, and Medicine recommends per- and polyfluoroalkyl substance (PFAS) blood testing for patients with risk of elevated exposure, and the Agency for Toxic Substances and Disease Registry (ATSDR) suggests PFAS blood testing based on exposure. Barriers to PFAS blood testing include cost, access to labs, and evolving laboratory methods. We quantify water and serum PFAS levels among a highly-exposed cohort in an area with groundwater contaminated by historical agricultural biosolid application. We compare the gold standard PFAS serum test with a commercial test and results from a one-compartment toxicokinetic model. Participants were adults (n = 30) whose household (n = 19) water had levels of the sum of six PFAS > 500 ng/L. Serum PFAS were measured using liquid chromatography-tandem mass spectrometry. Demographic and water consumption data were collected via telephone. Serum PFAS results from the commercial test were accessed via medical record. Statistical analysis included descriptive statistics and bivariate plots of serum levels. Perfluorohexanoic acid, perfluoroheptanoic acid (PFHpA), perfluorooctanoic acid (PFOA), perfluorononanoic acid (PFNA), perfluorobutanesulfonic acid, perfluorohexanesulfonic acid (PFHxS), and perfluorooctanesulfonic acid (PFOS) were detected in 19 wells, and PFHpA, PFOA, PFNA, perfluorodecanoic acid, perfluoroundecanoic acid, PFHxS, and PFOS were detected in at least 19 participants’ serum. In well water, PFOA and PFOS levels had geometric means (GMs) of 1749 ng/L (geometric standard deviation \[GSD\] 2.4) and 887 ng/L (GSD 19.7), respectively. In serum, PFOA and PFOS had GMs of 116.2 µg/L (GSD 13.5) and 58.3 µg/L (GSD 13.8), respectively. Our results are comparable with and had a wider mix of PFAS than other high-exposure cohorts. There was good agreement between the commercial and gold standard tests for PFOA, PFNA, and PFHxS, and mixed agreement between the gold standard test and modeled predictions, suggesting water-based toxicokinetic models of serum PFAS may be inadequate for assessing exposure in this population.
+
+- [Per- and poly-fluoroalkyl substances (PFAS) in circulation in a Canadian population: their association with serum-liver enzyme biomarkers and piloting a novel method to reduce serum-PFAS](http://www.scopus.com/scopus/inward/record.url?partnerID=10&rel=3.0.0&view=basic&eid=2-s2.0-105000184796&md5=fe1f18b75443676ba31011a543e543ba)
+
+Schlezinger J.J., …, Bello D.
+
+Environmental Health: A Global Access Science Source • Volume 24 • 2025 • Article 10
+
+- [Human gut bacteria bioaccumulate per- and polyfluoroalkyl substances](http://www.scopus.com/scopus/inward/record.url?partnerID=10&rel=3.0.0&view=basic&eid=2-s2.0-105009546819&md5=d7e69e4172fe6fdbc6e57f26733dc11)
+
+Lindell A.E., …, Patil K.R.
+
+Nature Microbiology • Volume 10 • 2025
+
+
+[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-85185511125&md5=c1efd322a1f1e57cb5ff5a845e3c97)
+
+## Metrics
+
+### Citations
+
+- Citation Indexes23
+- Policy Citations6
+
+### Captures
+
+- Mendeley Readers44
+
+### Mentions
+
+- Blog Mentions1
+- News Mentions113
+
+### Social Media
+
+- Shares, Likes & Comments3
+
+![PlumX Metrics Logo](https://cdn.plu.mx/3ba727faf225e19d2c759f6ebffc511d/plumx-logo.png)[View details](https://plu.mx/plum/a/?doi=10.1016%2Fj.envint.2024.108497&theme=plum-sciencedirect-theme&hideUsage=true)
+
+© 2024 The Author(s). Published by Elsevier Ltd.
+
+Persistent link using digital object identifier (DOI)
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+This article is free to access
+
+The Identity Selector: Persistence Service

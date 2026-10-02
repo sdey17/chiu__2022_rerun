@@ -1,0 +1,414 @@
+                                                                                    Health-Based Guidance for Water
+                                                            Health Risk Assessment Unit, Environmental Health Division
+                                                                                                              651-201-4899
+
+
+                                                                                    Adopted as Rule: November 2023
+
+
+
+Toxicological Summary for: Perfluorobutane sulfonate
+CAS: 45187-15-3 [anion]
+     375-73-5 [free acid]
+     29420-49-3 [potassium salt]
+     68259-10-9 [ammonium salt]
+     60453-92-1 [sodium salt]
+
+Synonyms: PFBS ion; Perfluorobutanesulfonate; 1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonate (IUPAC
+            name); Perfluorobutyl sulfonate
+
+
+Acute Non-Cancer Health Risk Limit (nHRLAcute) = Not Derived (Insufficient Data)
+
+Short-term Non-Cancer Health Risk Limit (nHRLShort-term) = 0.1 μg/L
+                (Reference Dose, mg/kg-d) x (Relative Source Contribution) x (Conversion Factor)
+                                       (Short-term Intake Rate, L/kg-d)
+                                     = (0.000084 mg/kg-d) x (0.5)* x (1000 µg/mg)
+                                                  (0.290 L/kg-d)**
+                                               = 0.14 rounded to 0.1 µg/L
+*
+    Relative Source Contribution: MDH 2008, Section IV.E.1.
+**
+     Intake Rate: MDH 2008, Section IV.E.1. and US EPA 2019, Exposure Factors Handbook, Tables 3-1, 3-3 and 3-5.
+
+               Reference Dose/Concentration: HED/Total UF = 0.0084/100 = 0.000084 mg/kg-d
+                                                (Hsd:Sprague Dawley Rats)
+                      Source of toxicity value: Determined by MDH in 2022
+                    Point of Departure (POD): 6.97 mg/kg-d (administered dose BMDL1SD, (National
+                                                Toxicology Program 2019))
+                Dose Adjustment Factor (DAF): Chemical- and Study-Specific Toxicokinetic Adjustment
+                                                Half-lifeFemaleRat/Half-lifeHuman = 1.3 hr/1050 hr = 0.0012,
+                                                based on MDH analysis of (Huang, Dzierlenga et al. 2019)
+                                                for female rats and (Xu, Fletcher et al. 2020) for humans.
+                Human Equivalent Dose (HED): POD x DAF = 6.97 mg/kg-d x 0.0012 = 0.0084 mg/kg-d
+                 Total uncertainty factor (UF): 100
+                 Uncertainty factor allocation: 3 for interspecies differences (for toxicodynamics), 10 for
+                                                intraspecies variability, and 3 for database uncertainty due
+                                                to a lack of available immunotoxicity and developmental
+                                                neurotoxicity studies (known sensitive effects of other
+
+
+
+                                                       PFBS - 1
+                                                    PFAS) as well as lack of a 2-generation study in a more
+                                                    appropriate species
+                                Critical effect(s): Decreased total T4
+                            Co-critical effect(s): None
+                          Additivity endpoint(s): Thyroid (E)
+
+
+Subchronic Non-Cancer Health Risk Limit (nHRLSubchronic) = 0.1 µg/L
+                (Reference Dose, mg/kg-d) x (Relative Source Contribution) x (Conversion Factor)
+                                      (Subchronic Intake Rate, L/kg-d)
+
+                                    = (0.000084 mg/kg-d)# x (0.2)* x (1000 µg/mg)
+                                                  (0.074 L/kg-d)**
+
+                                                = 0.23 rounded to 0.2 µg/L
+#
+ The calculated Subchronic RfD (0.00054 mg/kg-d) is higher than the Short-Term RfD (0.000084 mg/kg-d), which is based on
+thyroid effects. The Subchronic RfD must be protective of all types of adverse effects that could occur as a result of
+subchronic exposure, including short-term effects (MDH 2008, page 34). Therefore, the Short-Term RfD is used in place of
+the calculated Subchronic RfD when deriving subchronic water guidance.
+
+*
+    Relative Source Contribution: MDH 2008, Section IV.E.1.
+**
+     Intake Rate: MDH 2008, Section IV.E.1. and US EPA 2019, Exposure Factors Handbook, Tables 3-1, 3-3 and 3-5.
+
+The Subchronic nHRL must be protective of shorter duration exposures that occur within the
+subchronic period and therefore, the Subchronic nHRL is set equal to the Short-term nHRL of 0.1
+µg/L. Additivity endpoints: Thyroid (E)
+
+
+Chronic Non-Cancer Health Risk Limit (nHRLChronic) = 0.1 µg/L
+
+                (Reference Dose, mg/kg-d) x (Relative Source Contribution) x (Conversion Factor)
+                                        (Chronic Intake Rate, L/kg-d)
+
+                                    = (0.000084 mg/kg-d)# x (0.2)* x (1000 µg/mg)
+                                                  (0.045 L/kg-d)**
+
+                                                = 0.37 rounded to 0.4 µg/L
+#
+ The calculated Chronic RfD (0.00018 mg/kg-d) is higher than the Short-Term RfD (0.000084 mg/kg-d), which is based on
+thyroid effects. The Chronic RfD must be protective of all types of adverse effects that could occur as a result of shorter
+exposures, including short-term effects (MDH 2008, page 34). Therefore, the Short-Term RfD is used in place of the
+calculated Chronic RfD when deriving chronic water guidance.
+
+*
+    Relative Source Contribution: MDH 2008, Section IV.E.1.
+**
+     Intake Rate: MDH 2008, Section IV.E.1. and US EPA 2019, Exposure Factors Handbook, Tables 3-1, 3-3 and 3-5.
+
+
+
+
+                                                           PFBS - 2
+The Chronic nHRL must be protective of shorter duration exposures that occur within the chronic
+period and therefore, the Chronic nHRL is set equal to the Short-Term nHRL of 0.1 µg/L. Additivity
+endpoints: Thyroid (E)
+
+
+Cancer Health Risk Limit (cHRL) = Not Applicable
+
+Chemical Mixtures: Exposure to chemicals in combination may cause adverse effects that would not
+            be predicted based on separate exposures to individual chemicals. When multiple
+            contaminants occur as a mixture in water, the cumulative risk should be assessed (MDH
+            2008, Section IV.E.3). To download the calculator, see
+            MDH's Water Guidance and Additivity Calculator
+            https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/guid
+            ance.xlsx
+
+Volatile:    No
+
+Summary of Guidance Value History:
+In 2009, Health-Based Values (HBVs) for PFBS were first derived: 9 µg/L for Subchronic durations and 7
+µg/L for Chronic durations. These HBVs were adopted as HRLs in 2011.
+
+In 2017, MDH re-evaluated the 2011 guidance and derived new HBVs of 3 µg/L for Short-Term and
+Subchronic durations and 2 µg/L for Chronic durations based on new toxicokinetic information in mice,
+a reassessment of toxicokinetic information in rats, and a new developmental toxicity study in mice.
+
+In 2020, MDH updated the intake rates used in the calculation of water guidance values based on the
+most recent EPA Exposure Factors Handbook. This update did not change the PFBS 2017 guidance
+values.
+
+In 2022, MDH re-evaluated the 2020 guidance and derived new HBVs of 0.1 µg/L for Short-Term,
+Subchronic, and Chronic durations. The 2022 values are lower than the previous values as a result of:
+1) new toxicokinetic information in humans and rats, and 2) a new toxicity study in rats evaluating
+sensitive thyroid endpoints.
+
+In November 2023, the guidance values were adopted into Minnesota Rules, 4717.7860, as Health Risk
+Limits (HRLs).
+
+Summary of toxicity testing for health effects identified in the Health Standards Statute (144.0751):
+Even if testing for a specific health effect was not conducted for this chemical, information about that effect might be
+available from studies conducted for other purposes. MDH has considered the following information in developing health
+protective guidance.
+
+                         Endocrine        Immunotoxicity        Development         Reproductive        Neurotoxicity
+  Tested for
+                             Yes                  No                  Yes                 Yes                 Yes
+  specific effect?
+
+
+                                                         PFBS - 3
+                      Endocrine     Immunotoxicity      Development      Reproductive     Neurotoxicity
+ Effects
+                         Yes1               -2              Yes3              Yes4             Yes5
+ observed?
+
+Comments on extent of testing or effects:
+1 Male and female rats exposed to PFBS orally had large decreases in various thyroid hormones at a
+
+dose 900-fold higher than the Short-Term RfD; the effect on one thyroid hormone (tT4) served as the
+basis for the Short-Term RfD. A decrease in serum thyroid hormones is an effect consistently observed
+in other PFAS compounds.
+
+An oral developmental study evaluated female mice exposed in utero to PFBS. Delays in vaginal
+opening and changes in estrus cycling as well as changes in uterine and ovarian size were reported.
+Pubertal and adult female offspring exhibited decreases in serum estrogen and progesterone levels
+with elevation of luteinizing hormone levels. Decreases in serum tT4 and T3 were observed in
+conjunction with slight increases in TSH in female offspring as well as their mothers. These effects all
+occurred at doses at least 1400-fold higher than the Short-Term RfD.
+
+2An study evaluated the association between 11 PFAS chemicals and immunological markers in
+
+children from Taiwan. Associations of several PFAS chemicals, including PFBS, with asthma and asthma
+related biomarkers were found. Associations for PFBS were fewer and weaker than those for several
+other PFAS chemicals. Concentrations of individual PFAS were positively correlated, and therefore it is
+not possible to determine whether associations apply to multiple PFASs or to only a subset of
+individual PFAS. A more recent study following a cohort of several hundred children in Shanghai, China
+found an association between PFBS concentration in maternal cord blood with increased frequency of
+respiratory tract infections and decreased IgG concentration in 5-year-old children, suggesting that
+pre/perinatal exposures to PFBS impacts future immune function in children.
+
+No PFBS immunotoxicity studies have been conducted in laboratory animals. Immunotoxicity has been
+identified as a sensitive endpoint for several other PFAS. A database uncertainty factor of 3 was
+incorporated, in part, to address the need for immunotoxicity testing.
+
+3 Two oral developmental studies (one in rats and one in mice) and a 2-generation study in rats have
+
+been conducted. The developmental effects reported in the mouse study included decreased pup body
+weight, decreased serum thyroid hormones, delayed eye opening, delayed vaginal opening and first
+estrus as well as smaller ovarian and uterine size in adult offspring. These effects were observed at
+doses 1400-fold higher than the Short-Term RfD. The developmental study in rats reported decreased
+fetal body weight at doses >14000-fold higher than the Short-term RfD. In the 2-generation study in
+rats, no developmental effects were identified at the highest dose tested (14000-fold higher than the
+Short-Term RfD). However, female rats excrete PFBS much more quickly than humans, which may limit
+the applicability of this 2-generation study. A database uncertainty factor of 3 was incorporated, in
+part, to address the lack of a 2-generation study in a more appropriate species.
+
+4Researchers examined the association between PFAS chemicals and endometriosis-related infertility
+
+among Chinese reproductive-age women in a case-control study. Women with endometriosis-related
+
+
+                                                 PFBS - 4
+infertility had significantly higher median levels of PFBS compared with those without the disease. PFBS
+was the only PFAS identified with a significant positive association, while several other PFAS chemicals
+exhibited an inverse association. Limitations of this study include no identification of the time course,
+disease survey reported levels may not reflect actual exposure, and no physical exam data was
+measured for controls.
+
+An oral 2-generation study in rats has been conducted. No treatment related effects on female
+reproductive parameters were noted. Decreased number of spermatids per gram testes (P0) and
+increased incidence of abnormal sperm (F1) were noted at HED dose levels 37000-fold higher than the
+Short-term RfD.
+
+5
+ Neurological alterations were reported in the 28-day but not the 90-day oral study in adult rats. The
+results of the study are difficult to interpret. The longer study did not report any treatment related
+effects. The effects in the 28-day study occurred at HED dose levels 1400-fold higher than the Short-
+term RfD.
+
+A database UF was incorporated, in part, to address the need for additional neurological testing,
+particularly in developmental life stages.
+
+Resources Consulted During Review:
+Apelberg, B., LR Goldman, AM Calafat, JB Herbstman, Z Kuklenyik, L Heidler, LL Needham, RU Halden,
+         FR Witter. (2007). "Determinants of Fetal Exposure to Polyfluoroalkyl Compounds in Baltimore,
+         Maryland." Environmental Science & Technology 41: 3891-3897.
+ATSDR (2021). Agency for Toxic Substances and Disease Registry. Toxicological Profile for
+         Perfluoroalkyls.
+Australian Department of Health And Ageing NICNAS (2005). Existing Chemical Hazard Assessment
+         Report. Potassium Perfluorobutane Sulfonate.
+Bijland, S., PCN Rensen, EJ Pieterman, ACE Mass, JW van der Hoorn, MJ van Erk, KW van Dijk, SC Chang,
+         DJ Ehresman, JL Butenhoff, HMG Princen. (2011). "Perfluoroalkyl Sulfonates Cause Alkyl Chain
+         Length-Dependent Hepatic Steatosis and Hypolipidemia Mainly by Impairing Lipoprotein
+         Production in APOE*3-Leiden CETP Mice." Toxicological Sciences 123(1): 290-303.
+Bogdanska, J., M. Sundström, U. Bergström, D. Borg, M. Abedi-Valugerdi, Å. Bergman, J. DePierre and
+         S. Nobel (2014). "Tissue distribution of 35S-labelled perfluorobutanesulfonic acid in adult mice
+         following dietary exposure for 1-5 days." Chemosphere 98: 28-36.
+Cai, D., QQ Li, C Chu, SZ Wang, YT Tang, AA Appleton, RL Qiu, BY Yang, LW Hu, GH Dong, XW Zeng
+         (2020). "High trans-placental transfer of perfluoroalkyl substances alternatives in the matched
+         maternal-cord blood serum: Evidence from a birth cohort study." Science of the Total
+         Environment 705: 135885.
+Calafat AM, L. W., Z Kuklenyik, JA Reidy, LL Needham (2007). "Polyfluoroalkyl Chemicals in the U.S.
+         Population: Data from the National Health and Nutrition Examination Survey (NHANES) 2003-
+         2004 and Comparison with NHANES 1999-2000." Env Health Perspective 115: 1596-1602.
+CDC (2017). Centers for Disease Control and Prevention. Fourth National Report on Human Exposure to
+         Environmental Chemicals. Updated Tables, January 2017, Volume One.
+
+
+
+                                                PFBS - 5
+Chengelis, C., JB Kirkpatrick, NR Myers, M Shinohara, PL Stetson, DW Sved. (2009). "Comparison of the
+        toxicokinetic behavior of perfluoronexanoic acid (PFHxA) and nonafluorobutane-1-sulfonic acid
+        (PFBS) in cynomolgus monkeys and rats." Reproductive Toxicology 27: 400-406.
+Corsini, E., E Sangiovanni, A Avogadro, V Galbiati, B Viviani, M Marinovich, CL Galli, M Dell'Agli, DR
+        Germolec. (2012). "In vitro characterization of the immunotoxic potential of several
+        perfluorinated compounds (PFCs)." Toxicology and Applied Pharmacology 258: 248-255.
+Dong, G., KY Tung, CH Tsai, MM Liu, D Wang, W Liu, YH Jin, WS Hsieh, YL Lee, PC Chen. (2013). "Serum
+        Polyfluoroalkyl Concentrations, Asthma Outcomes, and Immunological Markers in a Case–
+        Control Study of Taiwanese Children." Environmental Health Perspectives 121: 507-513.
+Feng, X., X Cao, S Zhao, X Wang, X Hua, L Chen, L Chen. (2017). "Exposure of Pregnant Mice to
+        Perfluorobutanesulfonate Causes Hypothyroxinemia and Developmental Abnormalities in
+        Female Offspring." Toxicological Sciences 155(2): 409-419.
+Fromme, H., C Mosch, M Morovitz, I Alba-Alejandre, S Boehmer, M Kiranoglu, F Faber, I Hannibal, O
+        Genzel-Boroviczeny, B Koletzko, W Volkel. (2010). "Pre- and Postnatal Exposure to
+        Perfluorinated Compounds (PFCs)." Environmental Science & Technology 44: 7123-7129.
+Gao K, T. Z., X Liu, J Fu, J Zhang, J Fu, L Wang, A Zhang, Y Liang, M Song, G Jiang, (2019). "Prenatal
+        Exposure to Per- and Polyfluoroalkyl Substances (PFASs) and Association between the Placental
+        Transfer Efficiencies and Dissociation Constant of Serum Proteins−PFAS Complexes."
+        Environmental Science and Technology 53: 6529-6538.
+Han, W., Y. Gao, Q. Yao, T. Yuan, Y. Wang, S. Zhao, R. Shi, E. C. Bonefeld-Jorgensen, X. Shen and Y. Tian
+        (2018). "Perfluoroalkyl and polyfluoroalkyl substances in matched parental and cord serum in
+        Shandong, China." Environment International 116: 206-213.
+Holzer J, O. Midasch, K. Rauchfuss, M. Kraft, R. Reupert, J. Angerer, P. Kleeschulte, N. Marschall, M.
+        Wilhelm, (2008). "Biomonitoring of Perfluorinated Compounds in Children and Adults Exposed
+        to Perfluorooctanoate-Contaminated Drinking Water." Env Health Perspective 116(5): 651-657.
+Huang, H., K. Yu, X. Zeng, Q. Chen, Q. Liu, Y. Zhao, J. Zhang, X. Zhang and L. Huang (2020). "Association
+        between prenatal exposure to perfluoroalkyl substances and respiratory tract infections in
+        preschool children." Environ Res 191: 110156.
+Huang, M. C., A. L. Dzierlenga, V. G. Robinson, S. Waidyanatha, M. J. Devito, M. A. Eifrid, C. A. Granville,
+        S. T. Gibbs and C. R. Blystone (2019). "Toxicokinetics of perfluorobutane sulfonate (PFBS),
+        perfluorohexane-1-sulphonic acid (PFHxS), and perfluorooctane sulfonic acid (PFOS) in male
+        and female Hsd:Sprague Dawley SD rats after intravenous and gavage administration."
+        Toxicology Reports 6: 645-655.
+Interstate Technology and Regulatory Council (ITRC). (December 2021). "PFAS Water and Soil Values
+        Table Excel file."
+ITRC. (2021). "Interstate Technology and Regulatory Council Regulations, Guidance, and Advisories.
+        Section 4 Tables (Excel)." Last Update August 2021. Retrieved October 26, 2021, from
+        https://pfas-1.itrcweb.org/fact-sheets/.
+Kaiser AM, M. F., R Aro, A Kärrman, C Gundacker, H Zeisler, P Foessleitner, H Salzer, C Hartmann, M
+        Uhl, LWY Yeung, (2021b). "Extractable Organofluorine Analysis in Pooled Human Serum and
+        Placental Tissue Samples from an Austrian Subpopulation - A Mass Balance Analysis Approach."
+        Environ Sci and Technol 55: 9033-9042.
+Kärrman, A., I Ericson, B van Bavel, PO Darnerud, M Aune, A Glynn, S Lignell, G Lindström. (2007).
+        "Exposure of Perfluorinated Chemicals through Lactation: Levels of Matched Human Milk and
+
+
+                                                  PFBS - 6
+        Serum and a Temporal Trend, 1996-2004, in Sweden." Environmental Health Perspectives 115:
+        226-230.
+Kärrman A, K. H., K Inoue, T Takasuga, E Ohi, A Koizumi, (2009). "Relationship between dietary
+        exposure and serum perfluorochemical (PFC) levels - A case study." Environ Int 35(4): 712-7
+Kim, S.-K., KT Lee, CS Kang, L Tao, K Kannan, KR Kim, CK Kim, JS Lee, PS Park, YW Yoo, JY Ha, YS Shin, JH
+        Lee. (2011b). "Distribution of perfluorochemicals between sera and milk from the same
+        mothers and implications for prenatal and postnatal exposures." Environmental Pollution 159:
+        169-174.
+Kudo, N. (2015). Chapter 6. Metabolism and Pharmacokinetics. Toxicological Effects of Perfluoroalkyl
+        and Polyfluoroalkyl Substances. J. C. DeWitt. Switzerland, Humana Press, Springer International
+        Publishing.
+Lau C (2017). Personal Communication re: PFBS Pharmacokinetics. H. Goeden.
+Lau, C., J. Rumpler, K. P. Das, C. R. Wood, J. E. Schmid, M. J. Strynar and J. F. Wambaugh (2020).
+        "Pharmacokinetic profile of Perfluorobutane Sulfonate and activation of hepatic nuclear
+        receptor target genes in mice." Toxicology 441: 152522.
+Lieder, P., RG York, DC Hakes, SC Chang and J. Butenhoff (2009b). "A two-generation oral gavage
+        reproduction study with potassium perfluorobutanesulfonate (K+PFBS) in Sprague Dawley
+        rats." Toxicology 259: 33-45.
+Lieder, P., SC Chang, RG York and J. Butenhoff (2009a). "Toxicological evaluation of potassium
+        perfluorobutanesulfonate in a 90-day oral gavage study with Sprague-Dawley rats." Toxicology
+        255: 45-52.
+Ma D, Y. L., Y Liang, T Ruan, J Li, C Zhao, Y Wang, G Jiang, (2021). " A Critical Review on Transplacental
+        Transfer of Per- and Polyfluoroalkyl Substances: Prenatal Exposure Levels, Characteristics, and
+        Mechanisms." Environmental Science and Technology.
+Manzano-Salgado, C., M Casas, MJ Lopez-Espinosa, F Ballester, M Basterrechea, JO Grimalt, AM
+        Jimenez, T Kraus, T Schettgen, J Sunyer, M Vrijheid. (2015). "Transfer of perfluoroalkyl
+        substances from mother to fetus in a Spanish birth cohort." Environmental Research 142: 471-
+        478.
+Minnesota Department of Health (MDH). (2008). "Statement of Need and Reasonableness (SONAR),
+        July 11, 2008. Support document relating to Health Risk Limits for Groundwater Rules."
+Minnesota Department of Health (MDH) (2009). East Metro Perfluorochemical Biomonitoring Pilot
+        Project.
+Minnesota Department of Health (MDH). (2017). "MDH Health Risk Assessment Methods to
+        Incorporate Human Equivalent Dose Calculations into Derivation of Oral Reference Doses (May
+        2011, revised 2017)." from
+        https://www.health.state.mn.us/communities/environment/risk/docs/guidance/hedrefguide.p
+        df.
+National Toxicology Program. (2019). "Toxicity studies of perfluoroalkyl sulfonates administered by
+        gavage to Sprague Dawley (Hsd:Sprague Dawley SD) rats (TOX-96)." from
+        https://cebs.niehs.nih.gov/cebs/publication/TOX-96.
+Olsen, G., CC Lange, ME Ellefson, DC Mair, TR Church, CL Goldberg, RM Herron, Z Medhdizadehkashi, JB
+        Nobiletti, JA Rios, WK Reagen, LR Zobel. (2012). "Temporal Trends of Perfluoroalkyl
+        Concentrations in American Red Cross Adult Blood Donors, 2000 - 2010 " Environmental
+        Science & Technology 46: 6330-6338.
+
+
+                                                 PFBS - 7
+Olsen, G., DC Mair, CC Lange, LM Harrington, TR Church, CL Goldberg, RM Herron, H Hanna, JB
+         Nobiletti, JA Rios, WK Reagen, CA Ley. (2017). "Per- and polyfluoroalkyl substances (PFAS) in
+         American Red Cross adult blood donors, 2000-2015." Environmental Research 157: 87-95.
+Olsen, G., SC Chang, PE Noker, GS Gorman, DJ Ehresman, PH Lieder, JL Butenhoff. (2009). "A
+         comparison of the pharmacokinetics of perfluorobutanesulfonate (PFBS) in rats, monkeys, and
+         humans." Toxicology 256: 65-74.
+Premedica Redfield Report (2000). A Repeated Dose Range-Finding Toxicity Study of T-7485 in
+         Sprague-Dawley Rats. Study Number 132-006.
+Premedica Redfield Report (2001). A 28-Day Oral (Gavage) Toxicity Study of T-7485 in Sprague-Dawley
+         Rats. Study Number 132-007.
+Rumpler, J., K Das, C Wood, M Strynar, A Lindstrom, J Wambaugh, C Lau. (2016). "Pharmacokinetic
+         Profiles of Perfluorobutane Sulfonate and Activation of Hepatic Genes in Mice." The
+         Toxicologist, Supplement to Toxicological Sciences 150(1): Abstract #3439.
+U.S. Environmental Protection Agency (EPA). (1988). "Recommendations for and Documentation of
+         Biological Values for Use in Risk Assessment. Office of Research and Development." from
+         http://cfpub.epa.gov/ncea/cfm/recordisplay.cfm?deid=34855.
+U.S. Environmental Protection Agency (EPA). (2014). "Guidance for Applying Quantitative Data to
+         Develop Data-Derived Extrapolation Factors for Interspecies and Intraspecies Extrapolation.
+         Risk Assessment Forum. Office of Research and Development. EPA/100/R-14/002F".
+U.S. Environmental Protection Agency (EPA). (2019). Exposure Factors Handbook Chapter 3 Update
+         2019. Retrieved from https://www.epa.gov/expobox/exposure-factors-handbook-chapter-3
+U.S. Environmental Protection Agency (EPA). (2021). "Human Health Toxicity Values for
+         Perfluorobutane Sulfonic Acid (CASRN 375-73-5) and Related Compound Potassium
+         Perfluorobutane Sulfonate (CASRN 29420-49-3)."
+U.S. Environmental Protection Agency (EPA). (2021). Systematic Review Protocol for the PFBA, PFHxA,
+         PFHxS, PFNA, and PFDA (anionic and acid forms) IRIS Assessments. CASRN 335-76-2 (PFDA),
+         CASRN 375-95-1 (PFNA), CASRN 307-24-4 (PFHxA), CASRN 355-46-4 (PFHxS), and CASRN 375-
+         22-4 (PFBA). Supplemental Information―Appendix A.
+Wang, B., R Zhang, F Jin, H Lou, Y Mao, W Zhu, W Zhou, P Zhang, J Zhang. (2017). "Perfluoroalkyl
+         substances and endometriosis-related infertility in Chinese women." Environment International
+         102: 207-212.
+Wang, Y., W Han, C Wang, Y Zhou, R Shi, EC Bonefeld-Jorgensen, Q Yao, T Yuan, Y Gao, J Zhang, Y Tian
+         (2018). "Efficiency of maternal-fetal transfer of perfluoroalkyl and polyfluoroalkyl substances."
+         Environmental Science and Pollution Research Advance Access
+         https://doi.org/10.1007/s11356-018-3686-3.
+Weaver, Y. M., D. J. Ehresman, J. L. Butenhoff and B. Hagenbuch (2010). "Roles of rat renal organic
+         anion transporters in transporting perfluorinated carboxylates with different chain lengths."
+         Toxicol Sci 113(2): 305-314.
+World Health Organization (WHO). (2005). "Chemical-Specific Adjustment Factors for Interspecies
+         Differences and Human Variability: Guidance Document for the Use of Data in
+         Dose/Concentration-Response Assessment. International Programme on Chemical Safety, IPCS
+         Harmonization Project Document No. 2. WHO/IPCS/01.4, 1-96, Geneva, Switzerland".
+Xu, Y., T. Fletcher, D. Pineda, C. H. Lindh, C. Nilsson, A. Glynn, C. Vogs, K. Norström, K. Lilja, K.
+         Jakobsson and Y. Li (2020). "Serum Half-Lives for Short- and Long-Chain Perfluoroalkyl Acids
+
+
+                                                 PFBS - 8
+        after Ceasing Exposure from Drinking Water Contaminated by Firefighting Foam."
+        Environmental Health Perspectives 128(7): 77004.
+York, R. (2002). Oral (Gavage) Developmental Toxicity Study of Potassium Perfluorobutane Sulfonate
+        (PFBS) in Rats. Argus Research Protocol Number 418-023.
+York, R. (2003a). Oral (Gavage) Repeated Dose 90-Day Toxicity Study of Potassium Perfluorobutane
+        Sulfonate (PFBS) in Rats. Argus Research Protocol Number 418-026.
+York, R. (2003b). Oral (Gavage) Two-Generation (One Litter per Generation) Reproduction Study of
+        Perfluorobutane Sulfonate (PFBS) in Rats. Argus Research Protocol Number 418-021.
+Zhang, T., H Sun, Y Lin, X Qin, Y Zhang, X Geng, K Kannan. (2013). "Distribution of Poly- and
+        Perfluoroalkyl Substances in Matched Samples from Pregnant Women and Carbon Chain Length
+        Related Maternal Transfer." Environmental Science & Technology 47: 7974-7981.
+
+
+
+
+                                             PFBS - 9
+

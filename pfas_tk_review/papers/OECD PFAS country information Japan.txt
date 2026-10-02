@@ -1,0 +1,94 @@
+Japan
+
+                   Key Links                                                       Recent Initiatives
+
+                                                                                   (1) Measures on production and use
+                   ⚫    CSCL(Chemical Substances Control Law)（METI）
+                   ⚫    The National Implementation Plan of Japan under            Japan amended the CSCL in December 2025 to regulate
+                        the Stockholm Convention on Persistent Organic             PFHxS-related substances by adding them to Class I, banning
+                        Pollutants                                                 related imports and exceptional uses, and applying technical
+                   ⚫    Water Supply Act（Act No. 177 of 1957）                      standards, with the measures taking effect on June 17, 2026.
+                   ⚫    Overview of PFAS activities from Japan.pdf                 (2) PFAS in drinking water
+
+                                                                                   Japan set a provisional target value of 50 ng/L for total PFOS and
+                                                                                   PFOA in 2020. In April 2026, we elevate up to the water quality
+                                                                                   standards by which water quality testing and compliance with
+                                                                                   standard values are mandated.
+
+
+
+
+Overview of Risk Reduction Approaches for PFASs
+
+(1) Measures on production and use
+ By ratifying the Stockholm convention, Japan regulates three PFAS, PFOS, PFOA and PFHxS. These are prohibited on manufacture and import in principle under the domestic law CSCL (Chemical
+ Substances Control Law). In December 2025, the Cabinet approved an amendment of CSCL adding PFHxS-related substances to the list of Class I Specified Chemical Substances. Ten types of
+ PFHxS‑containing products will be newly banned from import. The exceptional use of 8:2 fluorotelomer alcohol will end on December 3, 2025. Fire extinguishers and extinguishing agents
+ containing PFHxS-related substances will also be required to meet government technical standards. The main measures of this amendment will take effect on June 17, 2026.
+
+Aqueous Film Forming Foam, called as AFFF, which was produced before the ban, contains PFOS, PFOA and PFHxS still exist in various facilities. In every 4 years, Japan compiles an inventory of
+AFFF containing PFOS, PFOA and PFHxS as part of the National Implementation Plan under the Stockholm Convention. The latest survey in November 2024 shows that the total volume of AFFF
+containing PFOS decreased by 45% to the previous survey, and PFOS contained in AFFF decreased by 36%. In fact, priorities have been given to sites with potential environmental risk is high due
+to the use frequency and volume of usage, suggesting that the risk has been significantly reduced over past 4 years.
+(2) PFAS in drinking water
+ For drinking water, public water and groundwater, PFOS and PFOA were designated as the monitoring substance with the provisional target values, i.e. 50 ng/L for total PFOS and PFOA. The
+ Ministry of the Environment (MOE) and the Ministry of Health, Labour and Welfare (MHLW) have developed the referable measures in case of exceeding the target value: 1) Implementation of
+ initiatives to prevent exposure (e.g. promoting the use of tap water), 2) Enforcement of continuous monitoring and inspections, 3) Conducting additional inspection (eg. By expanding the scope
+ of the survey, strive to understand the extent of groundwater contamination. If required, surveys are conducted to identify emission sources and consider measures to reduce concentration.
+ This guideline was notified of each prefecture and the related cities in June 2020. To minimize the health risks caused by PFOS and PFOA in drinking water, Japan is scheduled to upgrade the
+ regulation to water quality standards under Article 4 of Water Supply Act in April 2026.. If upgraded, water suppliers will be obliged to inspect in compliance with standard values. At the
+ present, Japan aims full compliance with drinking water standards, which includes ensuring all suppliers conduct water quality test.
+
+
+
+(3) Study and Research
+
+In Japan, many studies and research are progressed to prevent health effects in science-based approaches.
+
+Comprehensive Study on PFAS: Research aims to reveal the adverse effects of PFAS and quantitative methods for determining hazard to identify the substance with the highest need of risk
+management among the many types of PFAS. Research began on three topics from June 2024 to 2027.
+
+Research with the Environment Research and Technology Development Fund: The Environment Research and Technology Development Fund (competitive research funding system for
+contributing/reflecting research in environmental policy) is also performing research on PFAS. This includes prospective cohort study to uncover the relationship between blood PFAS and cancer,
+metabolic diseases, and death.
+
+Eco-Child study: The National Survey on Children's Health and Environment (so-called Eco-Child survey) included around 100,000 pairs of parents and children. In order to identify the
+environmental factors that affect child health, a follow-up questionnaire and analysis of biological samples, such as blood samples from the participants, are being performed, and PFAS are
+included in the scope. Three papers on PFAS have been documented; One established a statistical relationship and two did not.
+
+Policy Approaches
+
+Voluntary Approaches
+
+N/A
+Table with Key Elements of Risk Reduction Approaches
+
+
+      Action       Path taken      BEPs Implemented     Category of    Articles    Life cycle stage(s) addressed       Method of         Public-      Level of
+                                                          PFASs       covered?                                         approach          private     constraint
+                                                        addressed                                                                      partnership
+                                                                                                                                      encouraged?
+
+
+Three PFASs        Manage the Minimise the use and    PFOS (2010),      Yes       Manufacture, import, export, usage   Regulatory         No             Strict
+and its salts      manufacture, inventory survey      PFOA (2021)                                                                                     regulations
+listed in ClassI      import,                         and PFHxS                                                                                            on
+Specified           export and                        (2024)                                                                                         manufacture,
+Chemical                use                                                                                                                          use, export
+Substances                                                                                                                                           and import.
+under CSCL                                                                                                                                           Reporting to
+                                                                                                                                                       the PRTR
+
+
+Setting the         Monitoring            -           PFOS and PFOA     Yes       drinking water, public water and     Notification       No         Guidelines in
+provisional target concentration                                                            groundwater                                                 case of
+values for                                                                                                                                             exceeding
+drinking water                                                                                                                                       target values
+[50 ng/L for total
+PFOS and PFOA]
+
+
+Additional Resources
+
+N/A
+

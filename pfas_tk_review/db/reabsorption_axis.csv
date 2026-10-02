@@ -1,0 +1,6 @@
+species,sex,chemical,gfr_mL_kg_day,cl_renal_mL_kg_day,pct_reabsorbed_at_fu_0.02,net_secretion,vd_L_kg,halflife_predicted_renal_only_d,halflife_observed_d,predicted_over_observed,reabsorption_source,original_reference
+rat,Female,PFOA,14400,837.5000,,yes,0.6486,0.54,0.69,0.777,"OEHHA 2024 PHG for PFOA and PFOS in Drinking Water, Table A6.4 pp. 327-328, adapted from Han et al. 2012",Kemper 2003 (unpublished); Ohmori et al. 2003
+rat,Male,PFOA,14400,19.7000,93.2,no,0.2895,10.18,14.20,0.717,"OEHHA 2024 PHG for PFOA and PFOS in Drinking Water, Table A6.4 pp. 327-328, adapted from Han et al. 2012",Kemper 2003 (unpublished); Ohmori et al. 2003
+mouse,Female,PFOA,16700,16.0000,95.2,no,0.2985,12.93,21.45,0.603,"OEHHA 2024 PHG for PFOA and PFOS in Drinking Water, Table A6.4 pp. 327-328, adapted from Han et al. 2012",Kudo and Kawashima 2003
+mouse,Male,PFOA,16700,10.0000,97.0,no,0.2522,17.48,25.63,0.682,"OEHHA 2024 PHG for PFOA and PFOS in Drinking Water, Table A6.4 pp. 327-328, adapted from Han et al. 2012",Kudo and Kawashima 2003
+human,Male,PFOA,2570,0.0600,99.8,no,0.4300,4967.55,1146.88,4.331,"OEHHA 2024 PHG for PFOA and PFOS in Drinking Water, Table A6.4 pp. 327-328, adapted from Han et al. 2012",OEHHA 2024 Table 4.5.1

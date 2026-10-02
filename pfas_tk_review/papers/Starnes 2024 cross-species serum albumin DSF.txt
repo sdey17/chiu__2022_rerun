@@ -1,0 +1,1071 @@
+pmcToxicol SciToxicol Sci776toxsci9805461toxsciToxicological Sciences1096-60801096-0929Oxford University PressPMC11057469PMC11057469.111057469110574693851810010.1093/toxsci/kfae028kfae0281Molecular, Biochemical, and Systems ToxicologyAcademicSubjects/MED00305AcademicSubjects/SCI01040Quantitative cross-species comparison of serum albumin binding of per- and polyfluoroalkyl substances from five structural classesStarnesHannah M
+Department of Biological Sciences, North Carolina State University, Raleigh, North Carolina 27607, USAJacksonThomas W
+Department of Biological Sciences, North Carolina State University, Raleigh, North Carolina 27607, USARockKylie D
+Department of Biological Sciences, North Carolina State University, Raleigh, North Carolina 27607, USAhttps://orcid.org/0000-0002-1196-3705BelcherScott M
+Department of Biological Sciences, North Carolina State University, Raleigh, North Carolina 27607, USATo whom correspondence should be addressed at Department of Biological Sciences, North Carolina State University, 127 David Clark Labs, Campus Box 7617, Raleigh, NC 27607. E-mail: smbelch2@ncsu.eduPresent address for Thomas W. Jackson: Public Health and Integrated Toxicology Division, Center for Public Health and Environmental Assessment, U.S. Environmental Protection Agency, Research Triangle Park, North Carolina 27711, USA.Present address for Kylie D. Rock: Department of Biological Sciences, Clemson University, Clemson, South Carolina 29634, USA.52024223202419914612791321490942024220320242010202421092026© The Author(s) 2024. Published by Oxford University Press on behalf of the Society of Toxicology.2024https://creativecommons.org/licenses/by/4.0/This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.Quantitative Cross-Species Comparison of Serum Albumin Binding of Per- and Polyfluoroalkyl Substances from Five Structural Classes141120232023.11.10.566613bioRxiv10.1101/2023.11.10.566613PMC1068078438014292AbstractPer- and polyfluoroalkyl substances (PFAS) are a class of over 8000 chemicals, many of which are persistent, bioaccumulative, and toxic to humans, livestock, and wildlife. Serum protein binding affinity is instrumental in understanding PFAS toxicity, yet experimental binding data is limited to only a few PFAS congeners. Previously, we demonstrated the usefulness of a high-throughput, in vitro differential scanning fluorimetry assay for determination of relative binding affinities of human serum albumin for 24 PFAS congeners from 6 chemical classes. In the current study, we used this assay to comparatively examine differences in human, bovine, porcine, and rat serum albumin binding of 8 structurally informative PFAS congeners from 5 chemical classes. With the exception of the fluorotelomer alcohol 1H, 1H, 2H, 2H-perfluorooctanol (6:2 FTOH), each PFAS congener bound by human serum albumin was also bound by bovine, porcine, and rat serum albumin. The critical role of the charged functional headgroup in albumin binding was supported by the inability of albumin of each species tested to bind 6:2 FTOH. Significant interspecies differences in serum albumin binding affinities were identified for each of the bound PFAS congeners. Relative to human albumin, perfluoroalkyl carboxylic and sulfonic acids were bound with greater affinity by porcine and rat serum albumin, and the perfluoroalkyl ether acid congener bound with lower affinity to porcine and bovine serum albumin. These comparative affinity data for PFAS binding by serum albumin from human, experimental model, and livestock species reduce critical interspecies uncertainty and improve accuracy of predictive bioaccumulation and toxicity assessments for PFAS.binding affinitydifferential scanning fluorimetryin vitroPFASspecies extrapolation
+North Carolina Biotechnology Center10.13039/100005562
+
+2022-FLG-3807
+National Institute of Environmental Health Sciences10.13039/100000066
+
+
+National Institutes of Health10.13039/100000002
+
+T32ES007046pmc-status-qastatus0pmc-status-liveyespmc-status-embargonopmc-status-releasedyespmc-prop-open-accessyespmc-prop-olfnopmc-prop-manuscriptnopmc-prop-legally-suppressednopmc-prop-has-pdfyespmc-prop-has-supplementyespmc-prop-pdf-onlynopmc-prop-suppress-copyrightnopmc-prop-is-real-versionnopmc-prop-is-scanned-articlenopmc-prop-preprintnopmc-prop-in-epmcyespmc-license-refCC BYPer- and polyfluoroalkyl substances (PFAS) are a class of synthetic chemicals, comprising thousands of structurally diverse compounds with at least one fully fluorinated methyl or methylene group (OECD, 2021). Due to their stability, persistence, and widespread use, PFAS are ubiquitously detected in biological and environmental matrices (Cousins et al., 2020, 2022; Guillette et al., 2020, 2022; Kirkwood et al., 2022; Kotlarz et al., 2020; Rock et al., 2023). Some PFAS are toxic to multiple organ systems, including the hepatic, renal, immune, reproductive, and nervous systems (Carlson et al., 2022; Crawford et al., 2023; Radke et al., 2022). Within the body many PFAS partition to, and accumulate in, protein-rich tissues, with highest concentrations found in the blood, liver, and kidneys of most exposed species (Bischel et al., 2011; Hoff et al., 2003). The majority of PFAS research has focused on perfluorooctanesulfonic acid (PFOS) and perfluorooctanoic acid (PFOA), whereas physiochemical properties of thousands of chemicals in this heterogeneous class remain uncharacterized (Radke et al., 2022).Serum albumin is the most abundant protein in vertebrate blood, constituting over 50% of human blood proteins (Merlot et al., 2014; Peters, 1995; Raoufinia et al., 2016). Serum albumin is the primary blood transport protein for many endogenous and exogenous ligands, including but not limited to long-chain fatty acids, bile acids, bilirubin, steroids, hormones, ions, and many pharmaceuticals (Merlot et al., 2014; Peters, 1995). Additionally, several perfluoroalkyl acids (PFAAs), including PFOS, PFOA, perfluorohexanesulfonic acid (PFHxS), perflurononanoic acid (PFNA), and perfluorodecanoic acid (PFDA), are bound and transported by albumin in human blood (Forsthuber et al., 2020). Experimental toxicokinetic studies in animals have demonstrated that PFOS, PFOA, and PFHxS are similarly bound by serum albumin of cynomolgus monkeys and rats, with binding affinities comparable to those of many endogenous ligands and pharmaceuticals (Kerstner-Wood et al., 2003; U.S. EPA, 2016a,b; Varshney et al., 2010).In addition to influencing ligand transport and distribution, albumin binding affinity is an important determinant of biological half-life and bioavailability for many ligands (Kragh-Hansen, 1981; Lexa et al., 2014; Merlot et al., 2014; Peters, 1995; Sleep et al., 2013; Zorzi et al., 2019). Increased albumin binding affinity has a pivotal role in prolonging the half-life of many bioactive compounds (Sleep et al., 2013). Along with increasing biological half-life and delaying elimination, plasma protein binding also decreases the relative free-fraction of PFAS available for uptake in target tissues, highlighting the potentially multifaceted role of albumin-PFAS interactions in determining pharmacokinetic properties of individual PFAS congeners (Ascenzi and Fasano, 2010; Han et al., 2003; Kragh-Hansen, 1981; Merlot et al., 2014; Peters, 1995; Sheng et al., 2020).Physiologically based pharmacokinetic (PBPK) modeling conducted by Cheng and Ng (2017) has suggested that albumin concentration and binding affinity are among the most important predictive parameters in determining overall PFOA blood concentration and tissue distribution in the rat. Additional PBPK modeling studies found that the plasma free fraction of PFOS and PFOA is most likely to travel between body compartments, and is therefore a key determinant of cellular uptake (Cheng and Ng, 2017; Chou and Lin, 2019, 2021; Deepika et al., 2021; Fàbrega et al., 2014). For example, a study conducted by Gao et al. (2019) found an inverse correlation between binding affinity of human serum albumin (HSA) for PFAS congeners and placental transfer efficiency.Although advanced computational approaches have been developed to predict PFAS bioactivity and toxicity, there is significant uncertainty in the results of these predictive models due to the lack of foundational physiochemical data describing PFAS-protein interactions (Cheng and Ng, 2017, 2018, 2019). To improve quantitative binding predictions, physiologically-based toxicokinetic models, and ultimately risk assessments that inform exposure limits to protect public health, there is a critical need for experimental data describing albumin-PFAS interactions with structurally diverse sets of PFAS (Fenton et al., 2021).In addition to a lack of physiochemical data, there are also translational data gaps that limit ability to extrapolate PFAS toxicity data from animal models to humans. Major cross-species differences exist in PFAS elimination rates, with half-lives for some PFAS that are orders of magnitude apart in humans compared with model organisms and livestock (Fenton et al., 2021; Pizzurro et al., 2019). Although estimates vary across studies, reported half-lives for PFOS and PFOA tend to be on the order of hours to weeks in rodents, days to months in livestock, and years in humans (Death et al., 2021; Lau, 2015; Numata et al., 2014; Pizzurro et al., 2019; Russell et al., 2013). As albumin binding plays a key role in regulating PFAS bioaccumulation and distribution, differences in albumin-PFAS binding may influence differences in biological half-lives across species (Cheng et al., 2021; D’eon et al., 2010; Fenton et al., 2021).Differential scanning fluorimetry (DSF) is an in vitro method used to compare changes in thermal denaturation of ligand-free and ligand-bound proteins that accurately defines binding affinities for protein-PFAS interactions (Jackson et al., 2021; Niesen et al., 2007). Along with being fit-for-purpose, the DSF assay is scalable to high-throughput formats in readably available PCR instrumentation, requires small reagent volumes, uses small amounts of protein, and as a result is cost-effective. This combination of properties is highly advantageous compared with other methods for measuring protein-PFAS binding affinity, including isothermal titration calorimetry, surface plasmon resonance, or mass spectrometry (Jackson et al., 2021; Liu et al., 2019; Niesen et al., 2007; Vivoli et al., 2014).We previously demonstrated the usefulness of a novel DSF assay for evaluating HSA binding of PFAS, reporting relative binding affinities for 24 PFAS from 6 chemical classes (Jackson et al., 2021). Reported serum albumin binding affinities for PFAS vary widely across studies using different methods, however affinity values reported in Jackson et al. (2021) are within the range of those previously reported for albumin binding to PFAS, several fatty acids and drugs (Lee and McMenamy, 1980; Ràfols et al., 2014; Spector, 1975; Takehara et al., 2009). Using this assay, we identified differences in binding mediated by differences in PFAS functional groups and subtle changes in perfluoroalkyl chain length, demonstrating the capability and sensitivity of DSF for determining binding affinity differences among closely related PFAS congeners (Jackson et al., 2021). Due to the combined benefits of assay sensitivity and scalability for high-throughput analyses, this DSF assay is capable of filling critical gaps in describing the physiochemical properties of PFAS (Jackson et al., 2021).To address the lack of comparative species specific PFAS-protein binding data, we utilized DSF to comparatively evaluate relative binding affinities of serum albumin from human, laboratory rat, and livestock (cow and pig) species for a subset of 8 structurally informative PFAS. The PFAS analyzed included the 4 congeners with completed toxicity assessments by the US Environmental Protection Agency (EPA): PFOA, PFOS, perfluorobutanesulfonic acid (PFBS), and hexafluoropropylene oxide-dimer acid (HFPO-DA) (U.S. EPA, 2016c, 2021a,b). To evaluate the generalizability of trends observed in HSA-PFAS binding based on carbon chain length, perfluorocarboxylic acid (PFCA) and perfluorosulfonic acid (PFSA) congeners with 4- and 8-carbon alkyl chains were included. Further, we leveraged 2 computational tools, the EPA Sequence Alignment to Predict Across Species Susceptibility (SeqAPASS) application and a molecular docking approach, to identify species-specific amino acid sequence differences in serum albumin, and to gain predictive insights into the mechanistic basis for observed interspecies differences in albumin-PFAS binding affinities (Cheng et al., 2021; LaLone et al., 2016).Materials and methods  Chemicals and reagentsAqueous solutions were prepared with sterile Milli-Q A10 water (18 Ω; 3 ppb total oxidizable organics). GloMelt (λEx = 468, λEm = 507 nm) and carboxyrhodamine (ROX; λEx = 588, λEm = 608 nm) dyes (CAT No. 33022-1) were purchased from Biotium (Fremont, California). Bovine serum albumin (BSA, purity ≥98%, fraction V, BP1605, Lot 053997), methanol (purity ≥99.9%, CAT No. A454-4), dimethyl sulfoxide (purity ≥99.9%, CAT No. 136-1, Lot 147002), Na2HPO4 (purity ≥99.2%, CAT No. S374-3, Lot 056560), NaCl (purity ≥100%, CAT No. S271-10, Lot 134874), and 4-(2-(2-hydroxyethyl)-1-piperazineethanesulfonic acid (HEPES, purity ≥99.%, CAT No. BP310-1, Lot 052975) were from Thermo Fisher Scientific (Waltham, Massachusetts). Rat serum albumin (RSA, purity ≥99%, A6414, Lot SLCF8334), and porcine serum albumin (PSA, purity ≥98%, A1830, Lot SLBZ2093) were from Sigma-Aldrich (St Louis, Missouri). Octanoic acid (OA, CAS 124-07-2, purity ≥95%) was from Alfa Aesar (Havermill, Massachusetts). Structures and chemical classes of the PFAS congeners analyzed are shown in Figure 1.Figure 1.Chemical structures and Chemical Abstracts Service (CAS) registration numbers of PFAS congeners analyzed.Perfluorobutanoic acid (PFBA, CAS 375-22-4, purity ≥99%), PFOA (CAS 335-67-1, purity ≥95%), and HFPO-DA/GenX (CAS 1352-13-6, purity ≥97%) were from Alfa Aesar (Havermill, Massachusetts). Perfluorohexanoic acid (PFHxA, CAS 307-24-2, purity ≥98%) and PFBS (CAS 375-73-5, purity ≥98%) were from TCI America (Portland, Oregon). PFOS (CAS 2795-39-3, purity ≥98%) was from Matrix Scientific (Columbia, South Carolina), and 1H, 1H, 2H, 2H-perfluorooctanol (6:2 FTOH, CAS 647-42-7, purity ≥97%) and 2H, 2H, 3H, 3H-perfluorooctane-1-sulfonate (6:2 FTSA, CAS 59587-39-2, purity ≥97%) were from Synquest Laboratories (Alachua, Florida).PFAS and albumin preparationPFAS stock solutions (10 or 20 mM depending on solubility) were prepared in aqueous HEPES-buffered saline (HBS; final concentrations were 140 mM NaCl, 25 mM HEPES, 0.38 mM Na2HPO4, pH 7.4) and appropriate solvent when necessary (Table 1). Calculated binding affinity values are not altered by the presence of dimethyl sulfoxide or methanol in the buffer of vehicle control and experimental samples (Jackson et al., 2021). Serum albumin stocks (1 mM) were prepared by reconstituting lyophilized stocks in HBS, with expected protein concentrations confirmed using the colorimetric Bio-Rad DC Protein Assay (Hercules, California).Table 1.Test chemical stocksChemicalConcentration (mM)SolventPFBA20HBSPFBS20HBSPFHxA20HBSHFPO-DA10HBS6:2 FTSA10HBSPFOA10HBS+50% DMSOPFOS10HBS or HBS+50% DMSO6:2 FTOH10HBS+30% DMSOOctanoic acid10HBS+30% MeOHAbbreviations: HBS, HEPES-buffered saline; DMSO, dimethylsulfoxide; MeOH, methanol.DSF thermal shift assaysIndividual assays were performed in sealed optical 96-well reaction plates (MicroAmp Fast, Applied Biosystems) at a final volume of 20 μL as previously described (Jackson et al., 2021). A minimum of 2 independent plates were run for each protein-ligand combination, with 3 replicates per sample on each plate. Controls on each plate included a no protein control, matching vehicle control (no ligand), and 3 concentrations of OA (1, 2, 3 mM) and/or PFHxA (0.3, 1, 3 mM) as positive controls. The concentration of albumin that yielded maximal signal-to-noise ratio was optimized for each species. Final protein concentrations for each assay were 0.13 mM for HSA, 0.18 mM for BSA, 0.11 mM for PSA, and 0.18 mM for RSA. Changes in protein concentration in the assay did not result in detectable changes in protein melting temperature (Tm). For concentration-response analyses, PFAS stock solutions were serially diluted into HBS.Comparative amino acid sequence alignmentThe SeqAPASS tool (https://seqapass.epa.gov/seqapass/; v. 6.1) was used to compare albumin primary amino acid sequences across species, with more targeted analysis comparing conservation of specific amino acid residues involved in ligand binding (LaLone et al., 2016). For level 1 analysis, HSA (NCBI AAA98797.1) was used as the query protein to assess conservation of the complete amino acid sequence of BSA (NCBI P02769.4), PSA (NCBI ABM92961.1), and RSA (NCBI NP_599153.2). Level 3 analysis evaluated cross-species conservation of key amino acid residues in Sudlow sites I and II (Ascenzi and Fasano, 2010; Chen and Guo, 2009; Sudlow et al., 1975, 1976). An amino acid substitution was identified in the Sudlow I site of BSA compared with HSA, and was further investigated using the DUET web-based tool (https://biosig.lab.uq.edu.au/duet/stability), which predicts the impacts of specified amino acid mutations on protein stability (Cheng et al., 2021; Pires et al., 2014). The crystal structure for HSA (PDB ID 1AO6) was submitted to DUET, and a mutation was specified to alter the amino acid residue at site 211 from phenylalanine (found in HSA) to leucine (found in BSA) in Sudlow site I of BSA.Molecular dockingTo further investigate interspecies differences in albumin-PFAS binding, Autodock Vina (v. 1.2.0) was used for molecular docking analyses (Eberhardt et al., 2021; Trott and Olson, 2009). The RCSB Protein Data Bank (PDB; https://www.rcsb.org/) was used to obtain high resolution (≤2.5 Å) 3-dimensional protein structures. To assess HSA-PFAS docking, we used 3 monomeric structures previously chosen by Ng and Hungerbuhler (2015) to evaluate HSA-PFAA docking: HSA complexed with myristic acid (1E7G), HSA complexed with PFOS (4E99), and an intermediate conformation between the 2 (1H9Z) (Bhattacharya et al., 2000; Luo et al., 2012; Ng and Hungerbuehler, 2015; Petitpas et al., 2001). Only one high-resolution BSA structure was available in PDB (4F5S), which was selected for use in our experiments (Bujacz, 2012). As 4F5S is a dimeric structure, one of the monomers was removed from the PDB file before docking. As of the date of publication, there were no crystal structures of PSA or RSA available in PDB. For comparative purposes, we followed the protocol for molecular docking described by Ng and Hungerbuhler (2015), with the exception that PFAS ligand files were downloaded as 3-dimensional SDF conformer files from NCBI PubChem database (https://pubchem.ncbi.nlm.nih.gov/), and converted to PDB format using PyMOL (Schrödinger L.L.C., 2017). Protein and ligand structures were prepared for docking using AutoDock Tools (v.1.5.7) as previously described (Morris et al., 2009; Trott and Olson, 2009). Binding site boundary dimensions for 6 sites, defined by Ng and Hungerbuhler (2015), were selected using the Grid Box feature in Autodock Tools.To evaluate experimental success of computational docking, we redocked PFOS to the crystallized HSA protein (PDB 4E99), and used PyMOL to measure the root mean square deviation (RMSD) between our docking prediction and the ligand position in the crystal structure (Cheng and Ng, 2018; Ng and Hungerbuehler, 2015; Schrödinger L.L.C., 2017). Calculated RMSD values below 2 Å confirmed that Autodock Vina was able to successfully predict binding conformations for HSA and PFOS (Li et al., 2021; Ng and Hungerbuehler, 2015).Data analysis and statisticsRaw DSF assay data, reported in relative fluorescent light units, were exported to Excel (Microsoft), and statistical analyses were performed using Prism (v.9.4.0, GraphPad Software Inc., San Diego, California), SPSS v28 (IBM, Armonk, New York), or R statistical environment (R Core Team, 2022). Melting temperature (TM) of albumin was defined as the temperature at which the maximum change in fluorescence occurs (Jackson et al., 2021). PFAS concentration-response curves were smoothed (Savitzky and Golay, 1964), and dissociation constant (Kd) values calculated using a single-site ligand binding model previously described (Jackson et al., 2021; Vivoli et al., 2014). For the biphasic shift in melting temperature observed for BSA binding of PFOS, the percent occupancy was used to calculate binding affinity (Vivoli et al., 2014).A Kruskal-Wallis test with Dunn’s multiple comparisons test was used to assess differences in the baseline melting temperatures of albumins. Generalized linear modeling (GLM) with a log-link Gaussian distribution was used for comparative evaluation of binding affinities, with PFAS and species as fixed factors, in the lme4 R package (Bates et al., 2015). McFadden’s pseudo-R2 was calculated to evaluate goodness of fit for the GLM (Veall and Zimmermann, 1996). Effect sizes for main effects of PFAS, species, and PFAS x species interaction on binding affinity were calculated using the domin function of the domir statistical package in R. A general dominance statistic (GD) that represents the proportion of variance associated with each main effect in the model was reported (Luchman, 2023). The emmeans R package was used to evaluate contrasts of interest, with Sidak’s multiple comparisons correction, to compare Kd differences between HSA and other albumins for each PFAS congener, and to evaluate the intraspecies effect of carbon chain length on Kd by comparing binding of PFBA and PFOA, and PFBS and PFOS (Lenth, 2023). For tests in which differences between binding constants were found, effect sizes for the post hoc analyses were determined by calculating Cohen’s d (Lakens, 2013). Effect sizes described by Cohen’s d are defined as small if d≤.2, medium if d≥.5, and large if d≥.8 (Lakens, 2013). For all statistical analyses, significant differences in means are defined as p<.05.For each protein-PFAS combination, molecular docking ΔG predictions for the top 9 binding modes in each of the 6 analyzed binding sites were averaged. The geometric mean was taken across all binding sites for each protein, to represent the average ΔG of binding for that protein to each PFAS congener. To assess the strength of the linear relationship between calculated Kd values and molecular docking ΔG predictions for each protein-PFAS combination, Pearson’s correlation coefficients were computed using GraphPad Prism.Results Species comparison of serum albumin melting temperaturesIn the absence of ligand, the observed average TM ± SEM for HSA was 71.3 ± 0.22°C, BSA was 62.6 ± 0.04°C, PSA was 71.3 ± 0.09°C, and RSA was 66.8 ± 0.18°C. A Kruskal-Wallis test with Dunn’s multiple comparisons test (H = 184.8, p<.0001) revealed that baseline melting temperatures across each albumin protein were significantly different from one another, with the exception of HSA and PSA (p>.999).DSF determination of ligand binding affinityBSA binding affinity to OA was determined to confirm that DSF estimates for BSA binding were comparable to previously published values. Representative analysis of changes in BSA melting temperature induced by increasing concentrations of OA (0–5.5 mM) is shown in Figure 2A. The calculated Kd value (±SEM) of 3.13 ± 0.05 mM was in the expected range for fatty acid binding by bovine serum albumin (Figure 2B; Spector, 1975).Figure 2.DSF analysis of BSA binding of octanoic acid. (A) Melt curves depicting changes in fluorescence for BSA with increasing concentrations of octanoic acid, normalized to percentage maximum fluorescence. Curves are plotted as the derivative of fluorescent signal divided by the derivative of time, as temperature is increased from 50°C to 90°C. Increasing concentrations of octanoic acid, from 0 (pink) to 5.5 mM (red) are depicted. (B) The change in melting temperature (ΔTM) of BSA as a function of the log-transformed concentration of octanoic acid from 0 to 6 mM. N = 6 replicates.For each albumin, DSF was used to detect differences in TM with increasing concentrations of each PFAS congener, and to estimate binding affinity values, reported in Table 2. Maximum ΔTM values ranged from 3.53°C to 15.9°C in HSA, 10.5°C to 17.2°C in BSA, 5.74°C to 13.9°C in PSA, and 4.76°C to 12.2°C in RSA (Table 2). Binding affinities of PFAS ranged from 0.41 to 2.64 mM for HSA, 0.80 to 3.06 mM in BSA, 0.37 to 2.12 mM for PSA, and 0.33 to 1.90 mM for RSA (Table 2). Shown in Figure 3 are representative concentration-response analyses determining PFBS binding by HSA (Figs. 3A and 3B), BSA (Figs. 3C and 3D), PSA (Figs. 3E and 3F), and RSA (Figs. 3G and 3H). Each albumin bound PFAS congeners with charged functional groups, as evidenced by concentration dependent PFAS-induced shifts in protein melting temperature (Table 2). Consistent with previous findings, no changes in albumin TM were detected for any concentration of 6:2 FTOH for any species (Jackson et al., 2021; Table 2). A unique biphasic melt curve in thermal stability change was exhibited for BSA binding of PFOS (Figs. 4A–H), a concentration response pattern consistent with unique binding interactions between PFOS and the BSA protein which is suggestive of cooperativity of binding at different PFAS binding sites (Giancola et al., 1997; Ross and Shrake, 1988; Shrake and Ross, 1988).Figure 3.Melting temperature and concentration response analysis serum of albumin binding of PFBS. For each of the left-hand panels each curve depicts the change in fluorescent signal divided by change in time and is normalized to the percent maximum fluorescence for each albumin (A) HSA, (C) BSA, (E) PSA, and (G) RSA. Increased concentrations of PFBS are depicted by increased saturation of line color, as the temperature increased from 60°C to 90°C. The change in melting temperature (ΔTM) as a function of the log-transformed concentration of PFBS (M) and calculated binding affinity (Kd) is shown in panels (B) HSA, (D) BSA, (F) PSA, and (H) RSA. N = 6 replicates.Figure 4.BSA binding of PFOS. (A) Change in fluorescence for BSA with increasing concentrations of PFOS. Increasing concentrations of PFOS are depicted by increasing wavelength of color from violet (0.4 mM) to red (1 mM). (B) The percent occupancy of BSA binding to PFOS, as a function of the log-transformed concentration of PFOS. (C–H) Melt curves for BSA at individual concentrations of PFOS from 0 to 1000 μM. N = 9 replicates.Table 2.Comparison of PFAS binding affinities across speciesChemicalChain LengthHSABSAPSARSAΔTm (°C)
+K
+d (mM)
+R
+2
+ΔTm (°C)
+K
+d (mM)
+R
+2
+
+d
+ΔTm (°C)
+K
+d (mM)
+R
+2
+
+d
+ΔTm (°C)
+K
+d (mM)
+R
+2
+
+d
+PFBA4
+6.43(0.43)
+
+2.64(0.22)
+0.96
+10.5(0.18)
+
+3.06(0.27)
+0.93ns
+6.89(0.07)
+
+
+1.28*
+
+(0.03)
+
+0.89
+1.08
+
+7.06(0.09)
+
+1.90(0.09)
+0.92nsPFHxA6
+10.5(0.14)
+
+1.71(0.22)
+0.98
+17.1(0.14)
+
+
+2.17*
+
+(0.06)
+
+0.98
+0.88
+
+13.9(0.14)
+
+
+0.95***
+
+(0.02)
+
+0.97
+2.16
+
+12.2(0.09)
+
+1.33(0.02)
+0.97nsPFOA8
+13.0(0.41)
+
+0.79(0.09)
+0.97
+14.4(0.19)
+
+
+0.99*
+
+(0.01)
+
+0.92
+2.12
+
+9.68(0.07)
+
+
+0.37***
+
+(0.01)
+
+0.89
+7.12
+
+8.0(0.13)
+
+
+0.40***
+
+(0.01)
+
+0.97
+0.89
+PFBS4
+11.7(0.21)
+
+1.68(0.09)
+0.98
+15.3(0.12)
+
+
+0.80***
+
+(0.03)
+
+0.99
+6.02
+
+12.2(0.06)
+
+
+1.25***
+
+(0.02)
+
+0.95
+2.41
+
+10.1(0.08)
+
+
+1.41**
+
+(0.03)
+
+0.96
+1.01
+PFOS8
+15.9(0.63)
+
+0.69(0.02)
+0.93
+15.3(0.23)
+
+0.86(0.05)
+0.79ns
+5.74(0.20)
+
+
+0.38*
+
+(0.06)
+
+0.85
+2.98
+
+4.76(0.38)
+
+0.42(0.10)
+0.87nsHFPO-DA5
+13.7(0.09)
+
+1.57(0.03)
+0.95
+12.7(0.11)
+
+
+2.55***
+
+(0.13)
+
+0.95
+1.99
+
+10.0(0.15)
+
+
+2.12**
+
+(0.03)
+
+0.93
+1.23
+
+7.56(0.10)
+
+1.64(0.05)
+0.94ns6:2 FTOH6N/AN/AN/AN/AN/AN/AN/AN/AN/AN/AN/AN/AN/AN/AN/A6:2 FTSA6
+3.53(0.26)
+
+0.41(0.04)
+0.82
+17.2(0.19)
+
+
+1.39***
+
+(0.04)
+
+0.81
+15.3
+
+8.72(0.09)
+
+0.52(0.03)
+0.93ns
+7.99(0.10)
+
+0.33(0.02)
+0.99nsMaximum change in melting temperature values, represented as ΔTm (±SEM) (°C), and protein binding affinities for each congener, represented as Kd (±SEM) (mM). Bolded Kd values represent values significantly different from HSA in GLM with Sidak’s multiple comparisons test.*
+p < .05,**
+p < .01,***
+p < .001. For comparisons in which significant differences were observed, Cohen’s d (d) effect size values are reported, with bolded values denoting a large effect size. Each compound was run on at least 2 separate plates with n ≥ 5.Abbreviations: N/A, nonbinding; ns, nonsignificant result.Interspecies comparison in binding affinitiesInterspecies differences in calculated Kd values were evaluated with GLM, which revealed an overall effect of PFAS that accounted for 21.3% of model variance (χ2=815, p<.0001). Differences of species accounted for 5.72% of variance (χ2=197, p<.0001), and the interaction between PFAS and species accounted for 57.5% of variance (χ2=149, p<.0001).Human albumin binding affinity for PFBA was decreased 69.4% compared with PSA (t = −3.04, p=.016; Table 2), but no differences in binding affinity were detected for BSA (t = 1.22, p=.55) or RSA (t = −1.84, p=.21). Compared with HSA, binding affinity of PSA for PFHxA was increased 57.1% (t = −4.4, p=.00063) and BSA affinity was decreased 23.7% (t = 3.08, p=.016; Table 2), but there were no observed differences for RSA binding (t = −2.36, p = .079). Overall effects of protein were also detected for PFOA binding. Compared with HSA, PSA binding affinity for PFOA was increased 72.4% (t = −6.82, p<.0001), and RSA binding affinity was increased 65.5% (t = −5.49, p<.0001). By contrast, BSA binding affinity of PFOA was 22.5% lower than HSA (t = 3.21, p=.011).Human albumin bound PFBS with 71.0% lower affinity (t = −10.6, p<.0001) compared with BSA, 29.4% lower affinity compared with PSA (t = −5.89, p<.0001), and 17.5% lower affinity compared with RSA (t = −3.68, p=.004; Table 2). Porcine albumin binding affinity of PFOS was increased 57.9% compared with HSA (t = −2.72, p=.032; Table 2), whereas no differences in PFOS binding affinity were detected for BSA (t = 1.41, p=.43) or RSA (t = −2.38, p=.072) compared with HSA.Binding affinity of HSA for the perfluoroalkyl ether acid (PFEA) congener, HFPO-DA, was 47.6% greater than BSA (t = 6.86, p<.0001), and 29.8% greater than PSA (t = 3.79, p=.0028; Table 2), but was not different in RSA (t=.45, p=.96). The relative affinity of HSA for 6:2 FTSA, a fluorotelomer sulfonic acid, was increased 108.9% compared with BSA (t = 14.7, p<.0001; Table 2), whereas differences in 6:2 FTSA binding affinity were not detected for PSA (t = 2.31, p=.09) or RSA (t = −1.63, p=.31).Comparing the impacts of chain length for a given subclass, GLM revealed significant differences in all species for albumin binding affinity of 4 and 8 carbon PFCA and PFSA congeners. No differences were detected for BSA binding of PFSAs (t = −.37, p = 1.0). The affinity of HSA binding of PFOA was 107.9% greater than PFBA (t = 7.0, p<.0001), and 83.5% greater for PFOS than PFBS (t = 4.01, p = .034; Table 3). For BSA (t = 8.36, p<.0001) and PSA (t = 4.07, p=.028), binding affinity for PFOA was 102.2% and 110.3% greater than PFBA, respectively (Table 3), with a similar 106.7% increase in PSA affinity for PFOS compared with PFBS (t = 3.97, p=.04). For RSA, affinity for PFOA was 130.4% greater than for PFBA (t = 4.69, p=.0021), and binding affinity for PFOS was 108.2% greater than PFBS (t = 4.50, p=.0049; Table 3).Table 3.Comparison of 4- and 8-carbon PFAA-binding affinities within speciesProtein
+t ratioCongener 1
+n
+Congener 1 Kd (mM)Congener 2
+n
+Congener 2 Kd (mM)
+p
+Cohen’s dHSA7.00PFBA62.64 (0.22)PFOA60.79 (0.09)
+<.0001
+
+3.77
+4.01PFBS61.68 (0.09)PFOS50.62 (0.02)
+.034
+
+2.77
+BSA8.36PFBA123.06 (0.27)PFOA60.99 (0.01)
+<.0001
+
+3.52
+−0.37PFBS60.80 (0.03)PFOS90.86 (0.05)1.0nsPSA4.07PFBA61.28 (0.03)PFOA90.37 (0.01)
+.028
+
+3.92
+3.97PFBS61.25 (0.02)PFOS90.38 (0.06)
+.04
+
+3.75
+RSA4.69PFBA61.90 (0.09)PFOA60.40 (0.01)
+.0021
+
+4.86
+4.50PFBS61.41 (0.03)PFOS90.42 (0.10)
+.0049
+
+3.79
+Protein binding affinity values for each 4 and 8 carbon PFCA and PFSA congener, represented as Kd (±SEM) (mM). n denotes the number of replicate Kd values calculated for each protein/PFAS combination. Bolded p-values denote significantly different means between congeners 1 and 2 in GLM with Sidak’s multiple comparisons test. For comparisons in which significant differences are observed, Cohen’s d values of effect size are reported, with bolded values indicating a large effect size.Abbreviation: ns, nonsignificant result.Interspecies amino acid sequence alignmentSeqAPASS level 1 analysis, which compares primary sequence alignment, showed that the complete primary amino acid sequence of HSA was 79.5% similar to BSA, 78.5% similar to RSA, and 77.8% similar to PSA. Consistent with experimental determination of binding affinity by DSF, SeqAPASS level 1 analysis predicted that each albumin has similar ligand-binding interactions compared with HSA (Table 4, Supplementary Figure 1).Table 4.SeqAPASS level 1 and 3 analysis resultsAlbumin species% Similarity overallSudlow site I susceptibility matchSudlow site II susceptibility matchTrp214 susceptibility matchBSA79.5%NoYesYesRSA78.5%YesYesYesPSA77.8%YesYesYesPercentage of overall amino acid sequence similarity to HSA and evaluation of comparative susceptibility for chemical interactions at key binding sites. ‘Yes’ denotes binding interactions predicted to be similar to HSA, ‘No’ denotes binding interactions predicted to be dissimilar to HSA.Key amino acid residues involved in polar and electrostatic interactions between HSA and PFAS were further evaluated using level 3 SeqAPASS analysis, which compares individually selected amino acid residues. Level 3 analysis was constrained to include residues in 2 well-characterized binding sites, Sudlow sites I and II, which are involved in HSA binding of drugs, fatty acids, and some PFAS (Ascenzi and Fasano, 2010; Chen and Guo, 2009; Sudlow et al., 1975, 1976). The amino acid residues of the Sudlow II sites of HSA, PSA, BSA, and RSA were identical, demonstrating strong structure and functional conservation across species (Table 4 and Supplementary Tables S2 and S3). Sudlow site I was more divergent relative to HSA; however, PSA and RSA were predicted to have chemical binding capabilities similar to HSA due to the functional conservation of amino acid substitutions (Supplementary Table S2). In contrast, Sudlow site I of BSA, which contains 4 functionally conserved amino acid substitutions and a F211L substitution expected to alter functionality of the protein, was predicted to have different binding capabilities than HSA. Computational substitution of the phenylalanine residue in the Sudlow I site of HSA with a leucine residue (F211L), representing a key amino acid substitution found in BSA, was predicted to be destabilizing to HSA with a −1.97 kcal/mol enthalpy change (ΔΔG).Molecular docking predictionsTo assess concordance of experimentally derived albumin-PFAS binding affinity analysis and computationally predicted values, Autodock Vina was used to predict enthalpy changes in the free energy of binding (ΔG, kcal/mol) for 3 different HSA structural conformations and 1 BSA structure for 7 PFAS congeners analyzed (Supplementary Table S4). Pearson’s correlation was calculated to assess the linear relationship between experimental Kd values and molecular docking ΔG predictions for each PFAS-protein combination (Figure 5). Across HSA structures, strong positive correlations between variables were found for conformations 1E7G (Figure 5A; r(12) = .93, p = .002), 4E99 (Figure 5B; r(12) = .92, p=.003), and 1H9Z (Figure 5C; r(12)=.91, p=.004). With the exception of PFBS, there was also a strong correlation between the variables for all tested congeners in the BSA conformer 4F5S (Figure 5D; r(10)=.98, p=.0006).Figure 5.Correlations between DSF-measured dissociation constants (Kd) and computational predictions of ΔG of binding different PFAS congeners. (A) HSA 1E7G (conformation bound to myristic acid), (B) HSA 4E99 (conformation bound to PFOS), (C) HSA 1H9Z (intermediate conformation), and (D) BSA 4F5S (native protein with no ligand) without PFBS.Although ΔG of binding predictions were similar across protein conformations for each PFAS in our analysis, differences were observed in the amino acid residues predicted to be involved in polar interactions with PFAS ligands for the top 9 binding modes at each site analyzed. Molecular docking results demonstrating differences in ligand positioning of PFOS and PFOA when bound in their lowest energy binding conformations by HSA and BSA at fatty acid sites 3/4 (Sudlow site II) are shown in Figure 6, and at fatty acid site 5 shown in Supplementary Figure S2. Binding interactions at Sudlow site II demonstrate that while ΔG of binding predictions are similar across proteins, and many of the key binding residues identified in this site are conserved across proteins, subtle changes in protein conformation during ligand binding can lead to compensatory changes in the mode of binding at each site (Figure 6; Supplementary Table S5).Figure 6.Predicted lowest energy binding conformations (model pose 1) for serum albumin binding to PFOS and PFOA in fatty acid sites 3 and 4 (Sudlow II site) of serum albumin subdomain IIIA. The docked positions of (A) HSA (PDB 4e99) binding to PFOA (ΔG = −9.6) and (B) PFOS (ΔG = −8.8) and (C) BSA (PDB 4f5s) binding to PFOA (ΔG = −9.5) and (D) PFOS (ΔG = −9.8) are shown. Serum albumins are shown in black and amino acid residues forming hydrogen bonds with the ligand in each docked conformation are shown in magenta and labeled. Yellow dash marks represent hydrogen bonds between amino acid residues and PFAS ligands. Bound PFAS ligands are colored by atom, with carbons shown in green, fluorines shown in light blue, oxygens shown in red, and sulfurs shown in dark yellow. Three-dimensional structural images were generated with PyMOL.DiscussionA novel DSF assay was used in this study to compare interspecies differences in albumin binding for an environmentally relevant set of PFAS congeners, to fill critical data gaps and decrease uncertainty in animal to human extrapolation. Protein binding affinities for PFAS are an important determinant of bioaccumulative potential, and a lack of understanding of serum albumin interactions with a majority of PFAS congeners is a major data gap in the field (Cheng et al., 2021; Hall and Peng, 2020). Most experimental research used to understand PFAS accumulation and toxicity has been conducted in animal models, often presenting a need for extrapolation of data to predict human outcomes. Important improvements have been made in the accuracy of computational predictions of toxicity-related factors for PFAS, however absence of experimental data for many chemicals remains a challenge to the development of robust in silico frameworks that improve translational predictive capability (Cheng and Ng, 2017; Cheng et al., 2021; Chou and Lin, 2019, 2021; Deepika et al., 2021). Due to differences between the physiochemical properties of PFAS and other persistent organic contaminants, the lack of fundamental physiochemical data for PFAS remains a major limitation in model performance, particularly for the 1000s of PFAS congeners lacking experimental data.Our analyses demonstrated that each PFAS congener that was bound by HSA was also bound by bovine, porcine, and rat albumin. Those results agreed with sequence homology predictions indicating that HSA, BSA, PSA, and RSA should have similar ligand-binding properties. Although data reporting affinities of BSA and RSA for PFAS are limited, the Kd estimates derived using our high-throughput DSF platform were within the same order of magnitude as published albumin-PFAS binding affinities (Han et al., 2003; Jackson et al., 2021; Klevens and Ellenbogen, 1954; MacManus-Spencer et al., 2010). It is notable that absolute binding affinities vary greatly across studies due to differences in experimental conditions. As expected, our DSF-determined binding affinities were lower than those reported in studies using other methods; those findings are due to the fact that DSF estimates binding affinities over a range of temperatures, whereas most other approaches estimate binding affinity at a single, typically lower temperature (Jackson et al., 2021; Vivoli et al., 2014). Further, due to differences in experimental conditions across studies, it is not informative to directly compare binding affinity constant values of a given congener that was determined using a different methods (Gao et al., 2020). However, as discussed in our previous work, the use of ΔTm in our binding affinity calculations has the advantage of giving a more complete view of the thermodynamic system when comparing binding across compounds (Jackson et al., 2021).Confirming our earlier findings that fluorotelomer alcohols were not bound by HSA, the 3 additional mammalian serum albumins studied here likewise did not bind 6:2 FTOH. We interpret this lack of observed binding to support the essential influence of a charged functional headgroup as a key structural determinant of albumin-PFAS binding (Jackson et al., 2021). Multiple lines of evidence support this conclusion, including in vivo studies that found 8:2 FTOH did not accumulate in pig or rat tissues after oral exposure (Fasano et al., 2006; Xie et al., 2020).Protein binding is an important mediator of PFAS transport to blood-rich tissues, where equilibrium gradients can drive tissue uptake and resulting toxicity (Cheng and Ng, 2017; Ng and Hungerbühler, 2014; Ng and Hungerbuhler, 2015). Fluorotelomer alcohol congeners and other PFAS that are poorly bound by serum proteins are expected to have important differences in toxicokinetic behaviors, including more rapid metabolism to breakdown products, shorter biological half-lives, differences in accumulation in body compartments, and changes in observed elimination rate. Such impacts are demonstrated by the absence of 8:2 FTOH accumulation in pig and rat tissues (Fasano et al., 2006; Xie et al., 2020). Further, Xie et al. (2020) found that although 8:2 FTOH did not bioaccumulate, metabolic breakdown products of 8:2 FTOH with charged carboxylic headgroups that are bound by albumin accumulated in tissues of 8:2 FTOH exposed pigs. Our results demonstrating that HSA, BSA, PSA, and RSA bind to 6:2 FTSA but not 6:2 FTOH, along with in vivo evidence that 8:2 FTOH does not accumulate in rat and pig tissues, provides strong evidence that PFAS containing a charged functional group have increased bioaccumulative potential in mammalian species compared with their uncharged analogues (Fasano et al., 2006; Xie et al., 2020).In addition to functional groups, perfluorinated carbon chain length is a key physiochemical property that determines relative HSA binding affinity for PFAS (Bischel et al., 2010; Crisalli et al., 2023; Jackson et al., 2021; Liu et al., 2017; Ng and Hungerbuehler, 2015). Numerous studies have found that HSA affinities for linear PFAAs of increasing chain length display a U-shaped trend with optimal binding between 6 and 9 aliphatic carbons, whereas congeners with fewer (4–5) or more (10–12) aliphatic carbons are bound less tightly (Jackson et al., 2021; Ng and Hungerbühler, 2014; Salvalaglio et al., 2010). To investigate the hypothesis that BSA, PSA, and RSA would also bind optimally to PFAAs with 6–9 aliphatic carbons, we compared relative affinities for PFCA and PFSA congeners with 4 and 8 aliphatic carbons. Binding affinity was increased for PFOA compared with PFBA for all tested albumins, and PFOS was bound with greater affinity than PFBS for all species except BSA. Those results reveal interspecies conservation of the relationship between carbon chain length and albumin binding affinity, and highlight perfluorinated carbon chain length as a critical physiochemical determinant of albumin binding.Comparative interspecies albumin-PFAS binding data reported in this study offer insight into the suitability of uncertainty factors (UFs) in the estimation of human health exposure limits. In risk assessment, UFs are used to account for the uncertainty of interspecies variability when extrapolating findings from experimental animal research for human relevance, and require an understanding of PFAS toxicokinetic differences across species to best protect human health (Dankovic et al., 2015). However, in the absence of species or chemical-specific data, an UF of 10 is typically used to extrapolate from animal to human data (Dankovic et al., 2015; Dourson et al., 1996). Dissimilar to all other congeners tested, 6:2 FTOH was not bound by albumin of any species tested, demonstrating that the use of a single UF for all PFAS is not appropriate and that chemical or class-specific and data-derived values may be necessary for some pharmacokinetic parameters. Other experimental methods, such as rapid equilibrium dialysis, should be leveraged to evaluate the proportion of protein-bound to unbound PFAS for each congener, accounting for serum albumin binding as well as other plasma binding proteins, in order to more fully understand the influence of protein binding in PFAS toxicokinetics.Beyond the lack of FTOH binding, more subtle differences in species-specific binding affinity emerged. Comparing albumin binding patterns for PFAAs to HSA, our data revealed that PSA and RSA bound this PFAS subclass with increased affinities, whereas BSA bound with decreased affinities, with the notable exception of PFBS (Figure 7). In contrast, relative binding affinity for the perfluoroalkyl ether acid (HFPO-DA) was greatest for HSA, with decreased affinities observed for PSA and BSA binding (Figure 7). Differences in protein flexibility likely explain some binding affinity differences, as albumin undergoes conformational changes to accommodate ligand binding. For example, decreased affinities seen in BSA may be partly explained by the increased rigidity of BSA compared with HSA, which confers less flexibility to accommodate binding (Ketrat et al., 2020).Figure 7.Heatmap showing rank order of binding affinities for each bound PFAS congener. For each congener, 1 indicates highest relative affinity and 4 the lowest affinity for each species.A notable difference in thermal melt profiles across species was found in BSA-PFOS binding where a biphasic denaturation profile was observed, a profile not seen for other albumin proteins or for BSA with other analyzed PFAS congeners. BSA melted at 2 different temperatures in the presence of PFOS, demonstrating saturation of binding sites (Vivoli et al., 2014). With increasing PFOS concentrations, the proportion of BSA melting at the baseline ligand-free melting temperature decreased, and the remaining proportion of BSA melting at an elevated temperature increased. Biphasic denaturation profiles were also observed in differential scanning calorimetry experiments measuring BSA binding of surfactants (sodium dodecyl sulfate and a dirhamnolipid biosurfactant) (Deep and Ahluwalia, 2001; Giancola et al., 1997; Sánchez et al., 2008), and for HSA binding of palmitic acid (Brandt and Andersson, 1976; Nemergut et al., 2023; Shrake and Ross, 1988). Although several hypotheses have been proposed, there is no consensus as to the cause of biphasic melt curves across protein-ligand affinity studies (Giancola et al., 1997; Luan et al., 2014; Nemergut et al., 2023; Shrake and Ross, 1988). Due to the heterogeneity of binding sites across the 3 homologous domains of the albumins studied, with each site comprising different chemical properties that are optimally suited for different ligands, we hypothesize that PFOS is preferentially binding and stabilizing 1 or 2 of the homologous domains of BSA (Fasano et al., 2005; Nemergut et al., 2023). Another plausible explanation for the cause of the biphasic melt curve is cooperativity, in which binding of BSA to PFOS at 1 ligand binding site changes the conformation of the protein in a way that alters its affinity for PFOS at another binding site (Giancola et al., 1997; Ross and Shrake, 1988; Shrake and Ross, 1988). The hill coefficient of the biphasic melt curve for BSA binding to PFOS (hill slope = 3.5 ± 0.3) offers further evidence of cooperativity, as a hill coefficient greater than 1 is suggestive of cooperative binding (Weiss, 1997).Observed binding affinity differences are also likely dictated by changes in the amino acid sequence of each albumin, particularly in binding sites. However, details regarding site-specific albumin binding affinity for different PFAS congeners are poorly understood. Albumin binds to several PFAA congeners through non-covalent hydrophobic and electrostatic interactions (Chen et al., 2020; Fasano et al., 2005; Liu et al., 2017; Salvalaglio et al., 2010; Zhang et al., 2009). Proposed albumin binding sites for PFAS include Sudlow sites I and II, interactions impacting Trp214, and several fatty acid binding sites (Cao et al., 2022; Chen and Guo, 2009; D’eon et al., 2010; MacManus-Spencer et al., 2010; Maso et al., 2021; Moro et al., 2022; Salvalaglio et al., 2010; Sheng et al., 2020). Analysis of binding affinity data based on structural changes of HSA Trp214 residue via quenching of intrinsic tryptophan fluorescence, and Sudlow sites I and II via fluorescence displacement of site-specific probes, found that carbon chain length and functional group of PFAA congeners strongly influenced HSA binding capability at each site (Chen and Guo, 2009). Although our DSF assay does not have site-specific experimental resolution, our differential binding, homology, and docking results support the fact that subtle changes in amino acid sequence in putative PFAS binding sites may impact albumin binding affinities for PFAS.Molecular docking was utilized to further investigate HSA and BSA binding of PFAS, and to compare the dissociation constants determined from our in vitro assay results with in silico binding predictions from Autodock Vina, which was used to simulate albumin-PFAS binding at 26.85°C. Numerous different amino acid residues have been identified to contribute to serum albumin binding of PFAS (Chen et al., 2015; Chi et al., 2018; Delva-Wiley et al., 2021; Gallagher et al., 2023; Luo et al., 2012; Peng et al., 2024; Salvalaglio et al., 2010; Sheng et al., 2020; Wang et al., 2016; Wu et al., 2024). Across HSA and BSA structural conformations, differences in key amino acid residues involved in hydrogen bonding interactions with each PFAS ligand were observed. For example, Lys414 in Sudlow site II of HSA (PDB 4E99) was predicted to form hydrogen bonds with PFOA and PFOS in 6 of the top 9 binding modes for each ligand, whereas in BSA (PDB 4F5S) this residue was not identified to form hydrogen bonds with either ligand in any of the top 9 binding modes. Previous molecular docking studies support these findings, as 2 other studies have identified Lys414 to be involved in HSA binding to PFOS and PFOA, in both bound (PDB 4E99) (Luo et al., 2012) and unbound (PDB 4K2C) (Chi et al., 2018) conformations. Similarly, 2 previous docking studies simulating PFOS binding at Sudlow site II of 2 ligand-free BSA conformations (PDB 3V03 and Swiss Model BSA P02769) did not identify Lys413 as a key binding residue at this site (Chen et al., 2015; Wang et al., 2016). These findings highlight that although binding affinities for PFAS across albumin proteins are similar, many different modes of binding may contribute to stabilization of PFAS congeners in albumin binding sites.Like results reported by Ng and Hungerbuhler (2015), predicted binding affinities were increased compared with those determined experimentally. The use of multiple HSA structures allowed binding affinity assessment across different conformations, addressing the limitation that Autodock Vina does not account for changes in protein conformation during ligand binding (Ng and Hungerbuehler, 2015; Trott and Olson, 2009). Across HSA structural conformations, there was a strong positive correlation between experimentally determined dissociation constants and docking predictions. Except for PFBS, there was also a strong positive correlation between these values for BSA binding. Strong agreement of experimental and predicted values provides 2 lines of evidence to support our experimental conclusions and strengthens the hypothesis that subtle interspecies differences in PFAS interactions with amino acids in specific binding sites will influence PFAS binding affinities.There was poor concordance between the molecular docking prediction for BSA-PFBS binding compared with our experimentally determined affinity, with molecular docking predicting a much lower binding affinity. Tight binding of BSA to PFBS, comparable to binding affinity for PFOS, was also reported in a study utilizing equilibrium dialysis to determine protein-water partition coefficients (Bischel et al., 2011). As seen in our experiments, Bischel et al. (2011) also found significantly increased BSA binding affinities for PFCAs with increased aliphatic chain lengths, but not PFSAs. In contrast, 2 other studies on BSA-PFAS binding reported decreased affinity for PFBS compared with PFOS (Alesio et al., 2022; Allendorf et al., 2019). However, Bischel et al. (2011) states that some common fluorescence methods may not be suitable for assessing albumin binding to short chain PFAAs, including the fluorescence quenching approach used by Alesio et al. (2022), due to the failure of these short-chain PFAAs to cause the conformational changes in secondary structure of BSA that elicit spectral changes (Hebert and MacManus-Spencer, 2010; Qin et al., 2010). Inconsistency between our in vitro and in silico results for BSA-PFBS binding, as well as the biphasic denaturation profile seen only with BSA-PFOS binding, suggests that PFAS binding by BSA may involve major differences in binding modalities for sulfonic acids. These and other HSA-PFAS binding studies reporting different trends in binding affinities across different structural classes of PFAS (Jackson et al., 2021), or failure of proposed models of HSA-PFAA binding to generate accurate results for short-chain compounds (Hebert and MacManus-Spencer, 2010), also concluded that differences in the mode of binding for these compounds are a likely explanation for divergence from predicted relative binding affinities.At Sudlow site I of BSA, a single amino acid residue substitution was identified that was predicted by SeqAPASS to alter functionality of this key PFAS-binding site relative to HSA. Sudlow site I is found in albumin’s subdomain IIA, overlaps with fatty acid site 7, and serves as the warfarin binding site, in addition to binding other bulky, heterocyclic anionic compounds (Ascenzi and Fasano, 2010; Fasano et al., 2005). In the mature HSA protein, key residues involved in ligand binding evaluated at Sudlow site I included Tyr150, Glu153, Lys195, Gln196, Lys199, Phe211, Trp214, Ala215, Arg218, Arg222, Leu238, His242, Arg257, His288, and Ala291 (Ascenzi and Fasano, 2010). All of these key residues are functionally conserved in PSA and RSA with respect to HSA. However, the phenylalanine residue (Phe211) found in HSA is replaced with a leucine residue (Leu210) in BSA. Phenylalanine and leucine are both nonpolar and hydrophobic, however phenylalanine is a bulkier, aromatic residue and is likely to introduce more steric hindrance at the binding site than leucine. Calculations using the DUET web-tool supported the SeqAPASS prediction of altered functionality at Sudlow site I of BSA, predicting that a F211L mutation in HSA would yield a destabilizing enthalpy change which would likely alter protein-ligand interactions at this site. Our findings suggest that this destabilizing substitution at Sudlow site I in BSA could alter binding for ligands known to bind this site, including PFBA, PFBS, PFOA, and PFOS (Chen and Guo, 2009).Binding affinities of PSA for PFCAs and PFSAs were significantly greater than HSA affinities, whereas affinity for HFPO-DA was significantly decreased. Relative to HSA, PSA contains the greatest percentage of amino acid sequence divergence (77.8% homology). This degree of sequence divergence suggests that PSA should exhibit more functional differences compared with HSA than BSA or RSA, which agrees with our experimental findings; PSA binding affinities showed differences from HSA affinities with large effect sizes for all of the PFAA and PFEA congeners (Table 2).To more fully understand interspecies differences in PFAS distribution and retention, it is necessary to consider other parameters in conjunction with albumin binding affinity, including binding affinities of other proteins, tissue transfer efficiencies, and metabolism (Cheng and Ng, 2017; Chou and Lin, 2019; Gao et al., 2019; LaLone et al., 2013). For many protein-bound ligands, including pharmaceuticals, increased protein binding affinity increases biological half-life (Bech et al., 2018; Sleep et al., 2013; Zorzi et al., 2019). It is more challenging to predict the impacts of albumin binding affinity on perfluorinated compounds because they are not metabolized, unlike most pharmaceuticals. Coupling our data with published findings, we hypothesized that increased binding affinity of PSA for PFAAs will increase PFAA half-life in the blood compartment of pigs. In support of this conclusion, a study conducted by Numata et al. (2014) found that blood plasma in pigs has higher affinity for PFAAs, relative to reported affinities for cows and sheep (Kowalczyk et al., 2013; Numata et al., 2014; van Asselt et al., 2013). However, PFBS is the only congener which has a longer elimination half-life in pigs compared with reported values in humans, whereas half-lives for PFOS, PFOA, and PFHxA are longer in humans, highlighting the need to consider more physiochemical parameters in addition to albumin binding (Table 5).Table 5.Reported elimination half-lives of PFAAs in serum/plasma across species and DSF-determined albumin binding affinitiesPFBAPFHxAPFOAPFBSPFOSHalf-life
+K
+d (mM)Half-life
+K
+d (mM)Half-life
+K
+d (mM)Half-life
+K
+d (mM)Half-life
+K
+d (mM)Human3.1 daysa
+2.64(0.22)
+32 daysb
+1.71(0.22)
+2.3–8.5 yearsa
+0.79(0.09)
+25.8 daysa
+1.68(0.09)
+3.3–5.4 yearsa
+0.69(0.02)
+CowN/A
+3.06(0.27)
+N/A
+2.17(0.06)
+0.8–1.3 daysc
+0.99(0.01)
+N/A
+0.80(0.03)
+39–120 daysc
+0.86(0.05)
+PigN/A
+1.28(0.03)
+4.1 daysd
+0.95(0.02)
+236 daysd
+0.37(0.01)
+43 daysd
+1.25(0.02)
+1.7 yearsd
+0.38(0.06)
+Rat1–9.2 ha
+1.90(0.09)
+0.4–9.8 he
+1.33(0.02)
+0.1–15 daysa
+0.40(0.01)
+0.6–7.4 ha
+1.41(0.03)
+24–83 daysa
+0.42(0.10)
+Sources for half-life values are Pizzurro et al., 2019a, Lau, 2015b, Death et al., 2021c, Numata et al., 2014d, Russell et al., 2013e. Binding affinities represented as Kd (±SEM) (mM).Abbreviation: N/A, no reported values.Understanding differences in PFAS-protein interactions between rats and humans is an important endpoint necessary for accurate translational extrapolation of experimental rodent toxicity studies. The observed differences in PFAS binding affinities between HSA and RSA in this study could serve as important data to decrease uncertainty in the application of animal model data for human relevance, and can be used to help understand differences in PFAS behavior across species. Overall, HSA and RSA were quite similar in binding affinities for most PFAS, and our findings suggest that guideline toxicity studies in rat models are not likely to be greatly impacted by species differences in albumin binding for the PFAS congeners in our test set. PFAS have also been detected widely in the tissues of livestock species, including cows and pigs, and are excreted in dairy milk (Death et al., 2021; Guruge et al., 2008; Numata et al., 2014; Rock et al., 2023; van Asselt et al., 2013). As one of the major routes of exposure to PFAS for humans is consumption of contaminated food and water, assessment of PFAS accumulation in livestock species is also needed to evaluate the role of livestock consumption in human PFAS exposure (Roth et al., 2020; Sunderland et al., 2019). Our findings demonstrate that HSA-PFAS binding is less similar to BSA and PSA, suggesting increased uncertainty in extrapolation of toxicokinetic parameters and distribution of PFAS in cows and pigs. Data generated in our study using the DSF assay provide necessary interspecies comparisons and serve as an essential step toward understanding the physiochemical properties of PFAS across species.Supplementary Materialkfae028_Supplementary_DataAcknowledgmentsWe would like to sincerely thank Dr Nicholas Harmer for troubleshooting assistance in our modeling of the biphasic melt curves, and Yuexin Cara Cao and Dr Carla Ng for their expertise and guidance with molecular docking experiments. 
+Disclaimer: The views expressed in this article are those of the author(s) and do not necessarily represent the views or policies of the U.S. Environmental Protection Agency. Any mention of trade names, products, or services does not imply an endorsement by the U.S. Government or the U.S. Environmental Protection Agency. The EPA does not endorse any commercial products, services, or enterprises.Supplementary data
+Supplementary data are available at Toxicological Sciences online.Declaration of conflicting interestsThe authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.FundingNorth Carolina Biotechnology Center (2022-FLG-3807); National Institute of Environmental Health Sciences of the National Institutes of Health (Award Number T32ES007046). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.References
+
+
+Alesio
+J. L.
+, SlittA., BothunG. D. (2022). Critical new insights into the binding of poly- and perfluoroalkyl substances (PFAS) to albumin protein. Chemosphere  287, 131979. 10.1016/j.chemosphere.2021.13197934450368
+PMC8612954
+
+
+Allendorf
+F.
+, BergerU., GossK.-U., UlrichN. (2019). Partition coefficients of four perfluoroalkyl acid alternatives between bovine serum albumin (BSA) and water in comparison to ten classical perfluoroalkyl acids. Environ. Sci. Process. Impacts  21, 1852–1863. 10.1039/C9EM00290A31475719
+
+
+
+Ascenzi
+P.
+, FasanoM. (2010). Allostery in a monomeric protein: The case of human serum albumin. Biophys. Chem. 148, 16–22. 10.1016/j.bpc.2010.03.00120346571
+
+
+
+Bates
+D.
+, MächlerM., BolkerB., WalkerS. (2015). Fitting linear mixed-effects models using lme4. J. Stat. Soft. 67, 1–48. 10.18637/jss.v067.i01
+
+
+Bech
+E. M.
+, PedersenS. L., JensenK. J. (2018). Chemical strategies for half-life extension of biopharmaceuticals: Lipidation and its alternatives. ACS Med. Chem. Lett. 9, 577–580. 10.1021/acsmedchemlett.8b0022630034579
+PMC6047018
+
+
+Bhattacharya
+A. A.
+, GrüneT., CurryS. (2000). Crystallographic analysis reveals common modes of binding of medium and long-chain fatty acids to human serum albumin. J. Mol. Biol. 303, 721–732. 10.1006/jmbi.2000.415811061971
+
+
+
+Bischel
+H. N.
+, MacManus-SpencerL. A., LuthyR. G. (2010). Noncovalent interactions of long-chain perfluoroalkyl acids with serum albumin. Environ. Sci. Technol. 44, 5263–5269. 10.1021/es101334s20540534
+
+
+
+Bischel
+H. N.
+, MacManus-SpencerL. A., ZhangC., LuthyR. G. (2011). Strong associations of short-chain perfluoroalkyl acids with serum albumin and investigation of binding mechanisms. Environ. Toxicol. Chem. 30, 2423–2430. 10.1002/etc64721842491
+
+
+
+Brandt
+J.
+, AnderssonL.-O. (1976). Heat denaturation of human serum albumin. Migration of bound fatty acids. Int. J. Pept. Protein Res. 8, 33–37. 10.1111/j.1399-3011.1976.tb02478.x1248924
+
+
+
+Bujacz
+A.
+
+ (2012). Structures of bovine, equine and leporine serum albumin. Acta Crystallogr. D Biol. Crystallogr. 68, 1278–1289. 10.1107/S090744491202704722993082
+
+
+
+Cao
+H.
+, PengJ., ZhouZ., YangZ., WangL., SunY., WangY., LiangY. (2022). Investigation of the binding fraction of PFAS in human plasma and underlying mechanisms based on machine learning and molecular dynamics simulation. Environ. Sci. Technol. 57, 17762–17773. 10.1021/acs.est.2c0440036282672
+
+
+
+Carlson
+L. M.
+, AngrishM., ShirkeA. V., RadkeE. G., SchulzB., KraftA., JudsonR., PatlewiczG., BlainR., LinC., et al (2022). Systematic evidence map for over one hundred and fifty per- and polyfluoroalkyl substances (PFAS). Environ. Health Perspect. 130, 056001. 10.1289/EHP1034335580034
+PMC9113544
+
+
+Chen
+H.
+, HeP., RaoH., WangF., LiuH., YaoJ. (2015). Systematic investigation of the toxic mechanism of PFOA and PFOS on bovine serum albumin by spectroscopic and molecular modeling. Chemosphere  129, 217–224. 10.1016/j.chemosphere.2014.11.04025497588
+
+
+
+Chen
+H.
+, WangQ., CaiY., YuanR., WangF., ZhouB. (2020). Investigation of the interaction mechanism of perfluoroalkyl carboxylic acids with human serum albumin by spectroscopic methods. Int. J. Environ. Res. Public Health  17, 1319. 10.3390/ijerph1704131932085632
+PMC7068604
+
+
+Chen
+Y.-M.
+, GuoL.-H. (2009). Fluorescence study on site-specific binding of perfluoroalkyl acids to human serum albumin. Arch. Toxicol. 83, 255–261. 10.1007/s00204-008-0359-x18854981
+
+
+
+Cheng
+W.
+, NgC. A. (2017). A permeability-limited physiologically based pharmacokinetic (PBPK) model for perfluorooctanoic acid (PFOA) in male rats. Environ. Sci. Technol. 51, 9930–9939. 10.1021/acs.est.7b0260228759222
+
+
+
+Cheng
+W.
+, NgC. A. (2018). Predicting relative protein affinity of novel per- and polyfluoroalkyl substances (PFASs) by an efficient molecular dynamics approach. Environ. Sci. Technol. 52, 7972–7980. 10.1021/acs.est.8b0126829897239
+
+
+
+Cheng
+W.
+, NgC. A. (2019). Using machine learning to classify bioactivity for 3486 per- and polyfluoroalkyl substances (PFASs) from the OECD list. Environ. Sci. Technol. 53, 13970–13980. 10.1021/acs.est.9b0483331661253
+
+
+
+Cheng
+W.
+, DoeringJ. A., LaLoneC., NgC. (2021). Integrative computational approaches to inform relative bioaccumulation potential of per- and polyfluoroalkyl substances across species. Toxicol. Sci. 180, 212–223. 10.1093/toxsci/kfab00433483745
+PMC8283689
+
+
+Chi
+Q.
+, LiZ., HuangJ., MaJ., WangX. (2018). Interactions of perfluorooctanoic acid and perfluorooctanesulfonic acid with serum albumins by native mass spectrometry, fluorescence and molecular docking. Chemosphere  198, 442–449. 10.1016/j.chemosphere.2018.01.15229425944
+
+
+
+Chou
+W.-C.
+, LinZ. (2019). Bayesian evaluation of a physiologically based pharmacokinetic (PBPK) model for perfluorooctane sulfonate (PFOS) to characterize the interspecies uncertainty between mice, rats, monkeys, and humans: Development and performance verification. Environ. Int. 129, 408–422. 10.1016/j.envint.2019.03.05831152982
+
+
+
+Chou
+W.-C.
+, LinZ. (2021). Development of a gestational and lactational physiologically based pharmacokinetic (PBPK) model for perfluorooctane sulfonate (PFOS) in rats and humans and its implications in the derivation of health-based toxicity values. Environ. Health Perspect. 129, EHP7671, 37004. 10.1289/EHP7671PMC796912733730865
+
+
+Cousins
+I. T.
+, DeWittJ. C., GlügeJ., GoldenmanG., HerzkeD., LohmannR., NgC. A., ScheringerM., WangZ. (2020). The high persistence of PFAS is sufficient for their management as a chemical class. Environ. Sci. Process. Impacts  22, 2307–2312. 10.1039/D0EM00355G33230514
+PMC7784706
+
+
+Cousins
+I. T.
+, JohanssonJ. H., SalterM. E., ShaB., ScheringerM. (2022). Outside the safe operating space of a new planetary boundary for per- and polyfluoroalkyl substances (PFAS). Environ. Sci. Technol. 56, 11172–11179. 10.1021/acs.est.2c0276535916421
+PMC9387091
+
+
+Crawford
+L.
+, HalperinS. A., DzierlengaM. W., SkidmoreB., LinakisM. W., NakagawaS., LongneckerM. P. (2023). Systematic review and meta-analysis of epidemiologic data on vaccine response in relation to exposure to five principal perfluoroalkyl substances. Environ. Int. 172, 107734. 10.1016/j.envint.2023.10773436764183
+
+
+
+Crisalli
+A. M.
+, CaiA., ChoB. P. (2023). Probing the interactions of perfluorocarboxylic acids of various chain lengths with human serum albumin: Calorimetric and spectroscopic investigations. Chem. Res. Toxicol. 36, 703–713. 10.1021/acs.chemrestox.3c0001137001030
+PMC11091765
+
+
+D’eon
+J. C.
+, SimpsonA. J., KumarR., BaerA. J., MaburyS. A. (2010). Determining the molecular interactions of perfluorinated carboxylic acids with human sera and isolated human serum albumin using nuclear magnetic resonance spectroscopy. Environ. Toxicol. Chem. 29, 1678–1688. 10.1002/etc20420821619
+
+
+
+Dankovic
+D. A.
+, NaumannB. D., MaierA., DoursonM. L., LevyL. S. (2015). The scientific basis of uncertainty factors used in setting occupational exposure limits. J. Occup. Environ. Hyg. 12(Suppl 1), S55–S68. 10.1080/15459624.2015.106032526097979
+PMC4643360
+
+
+Death
+C.
+, BellC., ChampnessD., MilneC., ReichmanS., HagenT. (2021). Per- and polyfluoroalkyl substances (PFAS) in livestock and game species: A review. Sci. Total Environ. 774, 144795. 10.1016/j.scitotenv.2020.14479533609849
+
+
+
+Deep
+S.
+, AhluwaliaJ. C. (2001). Interaction of bovine serum albumin with anionic surfactants. Phys. Chem. Chem. Phys. 3, 4583–4591. 10.1039/b105779k
+
+
+Deepika
+D.
+, SharmaR. P., SchuhmacherM., KumarV. (2021). Risk assessment of perfluorooctane sulfonate (PFOS) using dynamic age dependent physiologically based pharmacokinetic model (PBPK) across human lifetime. Environ. Res. 199, 111287. 10.1016/j.envres.2021.11128734000270
+
+
+
+Delva-Wiley
+J.
+, JahanI., NewmanR. H., ZhangL., DongM. (2021). Computational analysis of the binding mechanism of GenX and HSA. ACS Omega.  6, 29166–29170. 10.1021/acsomega.1c0459234746605
+PMC8567346
+
+
+Dourson
+M. L.
+, FelterS. P., RobinsonD. (1996). Evolution of science-based uncertainty factors in noncancer risk assessment. Regul. Toxicol. Pharmacol. 24, 108–120.8933624
+10.1006/rtph.1996.0116
+
+
+Eberhardt
+J.
+, Santos-MartinsD., TillackA. F., ForliS. (2021). AutoDock vina 1.2.0: New docking methods, expanded force field, and python bindings. J. Chem. Inf. Model. 61, 3891–3898. 10.1021/acs.jcim.1c0020334278794
+PMC10683950
+
+
+Fàbrega
+F.
+, KumarV., SchuhmacherM., DomingoJ. L., NadalM. (2014). PBPK modeling for PFOS and PFOA: Validation with human experimental data. Toxicol. Lett. 230, 244–251. 10.1016/j.toxlet.2014.01.00724440341
+
+
+
+Fasano
+M.
+, CurryS., TerrenoE., GallianoM., FanaliG., NarcisoP., NotariS., AscenziP. (2005). The extraordinary ligand binding properties of human serum albumin. IUBMB Life  57, 787–796. 10.1080/1521654050040409316393781
+
+
+
+Fasano
+W. J.
+, CarpenterS. C., GannonS. A., SnowT. A., StadlerJ. C., KennedyG. L., BuckR. C., KorzeniowskiS. H., HinderliterP. M., KemperR. A. (2006). Absorption, distribution, metabolism, and elimination of 8-2 fluorotelomer alcohol in the rat. Toxicol. Sci. 91, 341–355. 10.1093/toxsci/kfj16016543293
+
+
+
+Fenton
+S. E.
+, DucatmanA., BoobisA., DeWittJ. C., LauC., NgC., SmithJ. S., RobertsS. M. (2021). Per‐ and polyfluoroalkyl substance toxicity and human health review: Current state of knowledge and strategies for informing future research. Environ. Toxicol. Chem. 40, 606–630. 10.1002/etc489033017053
+PMC7906952
+
+
+Forsthuber
+M.
+, KaiserA. M., GranitzerS., HasslI., HengstschlägerM., StanglH., GundackerC. (2020). Albumin is the major carrier protein for PFOS, PFOA, PFHxS, PFNA and PFDA in human plasma. Environ. Int. 137, 105324. 10.1016/j.envint.2019.10532432109724
+
+
+
+Gallagher
+A.
+, KarS., SepúlvedaM. S. (2023). Computational modeling of human serum albumin binding of per- and polyfluoroalkyl substances employing QSAR, read-across, and docking. Molecules  28, 5375. 10.3390/molecules2814537537513249
+PMC10383382
+
+
+Gao
+K.
+, OerlemansR., GrovesM. R. (2020). Theory and applications of differential scanning fluorimetry in early-stage drug discovery. Biophys. Rev. 12, 85–104. 10.1007/s12551-020-00619-232006251
+PMC7040159
+
+
+Gao
+K.
+, ZhuangT., LiuX., FuJ., ZhangJ., FuJ., WangL., ZhangA., LiangY., SongM., et al (2019). Prenatal exposure to per- and polyfluoroalkyl substances (PFASs) and association between the placental transfer efficiencies and dissociation constant of serum proteins–PFAS complexes. Environ. Sci. Technol. 53, 6529–6538. 10.1021/acs.est.9b0071531099564
+
+
+
+Giancola
+C.
+, De SenaC., FessasD., GrazianoG., BaroneG. (1997). DSC studies on bovine serum albumin denaturation effects of ionic strength and SDS concentration. Int. J. Biol. Macromol. 20, 193–204. 10.1016/S0141-8130(97)01159-89218168
+
+
+
+Guillette
+T. C.
+, JacksonT. W., GuilletteM., McCordJ., BelcherS. M. (2022). Blood concentrations of per- and polyfluoroalkyl substances are associated with autoimmune-like effects in American alligators from Wilmington, North Carolina. Front. Toxicol. 4, 1010185. 10.3389/ftox.2022.101018536337916
+PMC9630345
+
+
+Guillette
+T. C.
+, McCordJ., GuilletteM., PoleraM. E., RachelsK. T., MorgesonC., KotlarzN., KnappeD. R. U., ReadingB. J., StrynarM., et al (2020). Elevated levels of per- and polyfluoroalkyl substances in cape fear river striped bass (Morone saxatilis) are associated with biomarkers of altered immune and liver function. Environ. Int. 136, 105358. 10.1016/j.envint.2019.10535832044175
+PMC7064817
+
+
+Guruge
+K. S.
+, ManageP. M., YamanakaN., MiyazakiS., TaniyasuS., YamashitaN. (2008). Species-specific concentrations of perfluoroalkyl contaminants in farm and pet animals in Japan. Chemosphere  73, S210–S215. 10.1016/j.chemosphere.2006.12.10518439642
+
+
+
+Hall
+D. R.
+, PengH. (2020). Characterizing physical protein targets of chemical contaminants with chemical proteomics: Is it time to fill a crucial environmental toxicology knowledge gap?  Comp. Biochem. Physiol. Part D Genomics Proteomics. 34, 100655. 10.1016/j.cbd.2020.10065532058274
+
+
+
+Han
+X.
+, SnowT. A., KemperR. A., JepsonG. W. (2003). Binding of perfluorooctanoic acid to rat and human plasma proteins. Chem. Res. Toxicol. 16, 775–781. 10.1021/tx034005w12807361
+
+
+
+Hebert
+P. C.
+, MacManus-SpencerL. A. (2010). Development of a fluorescence model for the binding of medium- to long-chain perfluoroalkyl acids to human serum albumin through a mechanistic evaluation of spectroscopic evidence. Anal. Chem. 82, 6463–6471. 10.1021/ac100721e20590160
+
+
+
+Hoff
+P. T.
+, Van de VijverK., Van DongenW., EsmansE. L., BlustR., De CoenW. M. (2003). Perfluorooctane sulfonic acid in bib (Trisopterus luscus) and plaice (Pleuronectes platessa) from the Western Scheldt and the Belgian North Sea: Distribution and biochemical effects. Environ. Toxicol. Chem. 22, 608–614. 10.1002/etc562022032012627649
+
+
+
+Jackson
+T. W.
+, ScheiblyC. M., PoleraM. E., BelcherS. M. (2021). Rapid characterization of human serum albumin binding for per- and polyfluoroalkyl substances using differential scanning fluorimetry. Environ. Sci. Technol. 55, 12291–12301. 10.1021/acs.est.1c0120034495656
+PMC8651256
+
+
+Kerstner-Wood
+C.
+, CowardL., GormanG. (2003). Protein Binding of Perfluorohexane Sulfonate, Perfluorooctane Sulfonate and Perfluorooctanoate to Plasma (Human, Rat, and Monkey), and Various Human-Derived Plasma Protein Fractions. Southern Research Institute Study ID 9921.7. https://hero.epa.gov/hero/index.cfm/reference/details/reference_id/4771364
+
+
+Ketrat
+S.
+, JaprungD., PongprayoonP. (2020). Exploring how structural and dynamic properties of bovine and canine serum albumins differ from human serum albumin. J. Mol. Graph. Model. 98, 107601. 10.1016/j.jmgm.2020.10760132311662
+
+
+
+Kirkwood
+K. I.
+, FlemingJ., NguyenH., ReifD. M., BakerE. S., BelcherS. M. (2022). Utilizing pine needles to temporally and spatially profile per- and polyfluoroalkyl substances (PFAS). Environ. Sci. Technol. 56, 3441–3451. 10.1021/acs.est.1c0648335175744
+PMC9199521
+
+
+Klevens
+H. B.
+, EllenbogenE. (1954). Protein-fluoroacid interaction bovine serum albumin perfluoro-octanoic acid. Discuss. Faraday Soc. 18, 277–288.
+
+
+Kotlarz
+N.
+, McCordJ., CollierD., LeaC. S., StrynarM., LindstromA. B., WilkieA. A., IslamJ. Y., MatneyK., TarteP., et al (2020). Measurement of novel, drinking water-associated PFAS in blood from adults and children in Wilmington, North Carolina. Environ. Health Perspect. 128, 77005. 10.1289/EHP683732697103
+PMC7375159
+
+
+Kowalczyk
+J.
+, EhlersS., OberhausenA., TischerM., FürstP., SchafftH., Lahrssen-WiederholtM. (2013). Absorption, distribution, and milk secretion of the perfluoroalkyl acids PFBS, PFHxS, PFOS, and PFOA by dairy cows fed naturally contaminated feed. J. Agric. Food Chem. 61, 2903–2912. 10.1021/jf304680j23441933
+
+
+
+Kragh-Hansen
+U.
+
+ (1981). Molecular aspects of ligand binding to serum albumin. Pharmacol. Rev. 33, 17–53.7027277
+
+
+
+Lakens
+D.
+
+ (2013). Calculating and reporting effect sizes to facilitate cumulative science: A practical primer for t-tests and ANOVAs. Front. Psychol. 4, 863. 10.3389/fpsyg.2013.0086324324449
+PMC3840331
+
+
+LaLone
+C. A.
+, VilleneuveD. L., BurgoonL. D., RussomC. L., HelgenH. W., BerningerJ. P., TietgeJ. E., SeversonM. N., CavallinJ. E., AnkleyG. T. (2013). Molecular target sequence similarity as a basis for species extrapolation to assess the ecological risk of chemicals with known modes of action. Aquat. Toxicol. 144-145, 141–154. 10.1016/j.aquatox.2013.09.00424177217
+
+
+
+LaLone
+C. A.
+, VilleneuveD. L., LyonsD., HelgenH. W., RobinsonS. L., SwintekJ. A., SaariT. W., AnkleyG. T. (2016). Sequence alignment to predict across species susceptibility (SeqAPASS): A web-based tool for addressing the challenges of cross-species extrapolation of chemical toxicity. Toxicol. Sci. 153, 228–245. 10.1093/toxsci/kfw11927370413
+
+
+
+Lau
+C.
+
+ (2015). Perfluorinated compounds: an overview. In Toxicological Effects of Perfluoroalkyl and Polyfluoroalkyl Substances (J. DeWitt, Ed.), pp. 1–22. Springer International Publishing.
+
+
+Lee
+I. Y.
+, McMenamyR. H. (1980). Location of the medium chain fatty acid site on human serum albumin. Residues involved and relationship to the indole site. J. Biol. Chem. 255, 6121–6127. 10.1016/S0021-9258(18)43709-X7391008
+
+
+
+Lenth
+R.
+
+ (2023). _emmeans: Estimated Marginal Means, aka Least-Squares Means_, R package version 1.8.7. https://CRAN.R-project.org/package=emmeans
+
+
+Lexa
+K. W.
+, DolghihE., JacobsonM. P. (2014). A structure-based model for predicting serum albumin binding. PLoS One  9, e93323. 10.1371/journal.pone.009332324691448
+PMC3972100
+
+
+Li
+W.
+, HuY., BischelH. N. (2021). In-vitro and in-silico assessment of per- and polyfluoroalkyl substances (PFAS) in aqueous film-forming foam (AFFF) binding to human serum albumin. Toxics  9, 63. 10.3390/toxics903006333803062
+PMC8002870
+
+
+Liu
+X.
+, FangM., XuF., ChenD. (2019). Characterization of the binding of per- and poly-fluorinated substances to proteins: A methodological review. TrAC Trends Anal Chem  116, 177–185. 10.1016/j.trac.2019.05.017
+
+
+Liu
+Y.
+, CaoZ., ZongW., LiuR. (2017). Interaction rule and mechanism of perfluoroalkyl sulfonates containing different carbon chains with human serum albumin. RSC Adv. 7, 24781–24788. 10.1039/C7RA02963B
+
+
+Luan
+C.-H.
+, LightS. H., DunneS. F., AndersonW. F. (2014). Ligand screening using fluorescence thermal shift analysis (FTS). In Structural Genomics and Drug Discovery: Methods and Protocols (W. F. Anderson, Ed.), Vol. 1140. Springer, New York.10.1007/978-1-4939-0354-2_2024590724
+
+
+Luchman
+J.
+
+ (2023). _domir: Tools to Support Relative Importance Analysis_. R Package Version 1.0.1. https://CRAN.R-project.org/package=domir
+
+
+Luo
+Z.
+, ShiX., HuQ., ZhaoB., HuangM. (2012). Structural evidence of perfluorooctane sulfonate transport by human serum albumin. Chem. Res. Toxicol. 25, 990–992. 10.1021/tx300112p22482699
+
+
+
+MacManus-Spencer
+L. A.
+, TseM. L., HebertP. C., BischelH. N., LuthyR. G. (2010). Binding of perfluorocarboxylates to serum albumin: A comparison of analytical methods. Anal. Chem. 82, 974–981. 10.1021/ac902238u20039637
+
+
+
+Maso
+L.
+, TrandeM., LiberiS., MoroG., DaemsE., LincianoS., SobottF., CovaceuszachS., CassettaA., FasolatoS., et al (2021). Unveiling the binding mode of perfluorooctanoic acid to human serum albumin. Protein Sci. 30, 830–841. 10.1002/pro.403633550662
+PMC7980502
+
+
+Merlot
+A. M.
+, KalinowskiD. S., RichardsonD. R. (2014). Unraveling the mysteries of serum albumin- more than just a serum protein. Front. Physiol. 5, 299. 10.3389/fphys.2014.00299. http://journal.frontiersin.org/article/10.3389/fphys.2014.00299/abstract25161624
+PMC4129365
+
+
+Moro
+G.
+, LiberiS., VasconF., LincianoS., De FeliceS., FasolatoS., ForestaC., De ToniL., Di NisioA., CendronL., et al (2022). Investigation of the interaction between human serum albumin and branched short-chain perfluoroalkyl compounds. Chem. Res. Toxicol. 35, 2049–2058. 10.1021/acs.chemrestox.2c0021136148994
+PMC9682524
+
+
+Morris
+G. M.
+, HueyR., LindstromW., SannerM. F., BelewR. K., GoodsellD. S., OlsonA. J. (2009). AutoDock4 and AutoDockTools4: Automated docking with selective receptor flexibility. J. Comput. Chem. 30, 2785–2791. 10.1002/jcc.2125619399780
+PMC2760638
+
+
+Nemergut
+M.
+, SedlákováD., FabriciováG., BelejD., JancuraD., SedlákE. (2023). Explanation of inconsistencies in the determination of human serum albumin thermal stability. Int. J. Biol. Macromol. 232, 123379. 10.1016/j.ijbiomac.2023.12337936702231
+
+
+
+Ng
+C. A.
+, HungerbuehlerK. (2015). Exploring the use of molecular docking to identify bioaccumulative perfluorinated alkyl acids (PFAAs). Environ. Sci. Technol. 49, 12306–12314. 10.1021/acs.est.5b0300026393377
+
+
+
+Ng
+C. A.
+, HungerbühlerK. (2014). Bioaccumulation of perfluorinated alkyl acids: Observations and models. Environ. Sci. Technol. 48, 4637–4648. 10.1021/es404008g24762048
+
+
+
+Niesen
+F. H.
+, BerglundH., VedadiM. (2007). The use of differential scanning fluorimetry to detect ligand interactions that promote protein stability. Nat. Protoc. 2, 2212–2221. 10.1038/nprot.2007.32117853878
+
+
+
+Numata
+J.
+, KowalczykJ., AdolphsJ., EhlersS., SchafftH., FuerstP., Müller-GrafC., Lahrssen-WiederholtM., GreinerM. (2014). Toxicokinetics of seven perfluoroalkyl sulfonic and carboxylic acids in pigs fed a contaminated diet. J. Agric. Food Chem. 62, 6861–6870. 10.1021/jf405827u24892814
+
+OECD. (2021). Reconciling Terminology of the Universe of Per- and Polyfluoroalkyl Substances: Recommendations and Practical Guidance, Vol. 61, p. 45. OECD Publishing, Paris.
+
+
+Peng
+M.
+, XuY., WuY., CaiX., ZhangW., ZhengL., DuE., FuJ. (2024). Binding affinity and mechanism of six PFAS with human serum albumin: Insights from multi-spectroscopy, DFT and molecular dynamics approaches. Toxics  12, 43. 10.3390/toxics1201004338250999
+PMC10819430
+
+
+Peters
+T.
+
+ (1995). All About Albumin: Biochemistry, Genetics, and Medical Applications. Academic Press, San Diego, CA.
+
+
+Petitpas
+I.
+, BhattacharyaA. A., TwineS., EastM., CurryS. (2001). Crystal structure analysis of warfarin binding to human serum albumin. J. Biol. Chem. 276, 22804–22809. 10.1074/jbc.M10057520011285262
+
+
+
+Pires
+D. E. V.
+, AscherD. B., BlundellT. L. (2014). DUET: A server for predicting effects of mutations on protein stability using an integrated computational approach. Nucleic Acids Res. 42, W314–W319. 10.1093/nar/gku41124829462
+PMC4086143
+
+
+Pizzurro
+D. M.
+, SeeleyM., KerperL. E., BeckB. D. (2019). Interspecies differences in perfluoroalkyl substances (PFAS) toxicokinetics and application to health-based criteria. Regul. Toxicol. Pharmacol. 106, 239–250. 10.1016/j.yrtph.2019.05.00831078680
+
+
+
+Qin
+P.
+, LiuR., PanX., FangX., MouY. (2010). Impact of carbon chain length on binding of perfluoroalkyl acids to bovine serum albumin determined by spectroscopic methods. J. Agric. Food Chem. 58, 5561–5567. 10.1021/jf100412q20397730
+
+R Core Team. (2022). R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna (Austria). https://www.R-project.org/
+
+
+Radke
+E. G.
+, WrightJ. M., ChristensenK., LinC. J., GoldstoneA. E., LemerisC., ThayerK. A. (2022). Epidemiology evidence for health effects of 150 per- and polyfluoroalkyl substances: A systematic evidence map. Environ. Health Perspect. 130, 96003. 10.1289/EHP1118536178797
+PMC9524599
+
+
+Ràfols
+C.
+, ZarzaS., BoschE. (2014). Molecular interactions between some non-steroidal anti-inflammatory drugs (nsaid's) and bovine (BSA) or human (HSA) serum albumin estimated by means of isothermal titration calorimetry (ITC) and frontal analysis capillary electrophoresis (FA/CE). Talanta  130, 241–250. 10.1016/j.talanta.2014.06.06025159405
+
+
+
+Raoufinia
+R.
+, MotaA., KeyhanvarN., SafariF., ShamekhiS., AbdolalizadehJ. (2016). Overview of albumin and its purification methods. Adv. Pharm. Bull. 6, 495–507. 10.15171/apb.2016.06328101456
+PMC5241407
+
+
+Rock
+K. D.
+, PoleraM. E., GuilletteT. C., StarnesH. M., DeanK., WattersM., Stevens-StewartD., BelcherS. M. (2023). Domestic dogs and horses as sentinels of per- and polyfluoroalkyl substance exposure and associated health biomarkers in Gray’s Creek North Carolina. Environ. Sci. Technol. 57, 9567–9579. 10.1021/acs.est.3c0114637340551
+PMC10802174
+
+
+Ross
+P. D.
+, ShrakeA. (1988). Decrease in stability of human albumin with increase in protein concentration. J. Biol. Chem. 263, 11196–11202. 10.1016/S0021-9258(18)37941-93403521
+
+
+
+Roth
+K.
+, ImranZ., LiuW., PetrielloM. C. (2020). Diet as an exposure source and mediator of per- and polyfluoroalkyl substance (PFAS) toxicity. Front. Toxicol. 2, 601149. 10.3389/ftox.2020.60114935296120
+PMC8915917
+
+
+Russell
+M. H.
+, NilssonH., BuckR. C. (2013). Elimination kinetics of perfluorohexanoic acid in humans and comparison with mouse, rat and monkey. Chemosphere  93, 2419–2425. 10.1016/j.chemosphere.2013.08.06024050716
+
+
+
+Salvalaglio
+M.
+, MuscionicoI., CavallottiC. (2010). Determination of energies and sites of binding of PFOA and PFOS to human serum albumin. J. Phys. Chem. B  114, 14860–14874. 10.1021/jp106584b21028884
+
+
+
+Sánchez
+M.
+, ArandaF. J., EspunyM. J., MarquésA., TeruelJ. A., ManresaÁ., OrtizA. (2008). Thermodynamic and structural changes associated with the interaction of a dirhamnolipid biosurfactant with bovine serum albumin. Langmuir  24, 6487–6495. 10.1021/la800636s18481884
+
+
+
+Savitzky
+A.
+, GolayM. J. E. (1964). Smoothing and differentiation of data by simplified least squares procedures. Anal. Chem. 36, 1627–1639. 10.1021/ac60214a04722324618
+Schrödinger L.L.C. (2017). The PyMOL Molecular Graphics System, Version 2.0. https://pymol.org/
+
+
+Sheng
+N.
+, WangJ., GuoY., WangJ., DaiJ. (2020). Interactions of perfluorooctanesulfonate and 6:2 chlorinated polyfluorinated ether sulfonate with human serum albumin: A comparative study. Chem. Res. Toxicol. 33, 1478–1486. 10.1021/acs.chemrestox.0c0007532423201
+
+
+
+Shrake
+A.
+, RossP. D. (1988). Biphasic denaturation of human albumin due to ligand redistribution during unfolding. J. Biol. Chem. 263, 15392–15399. 10.1016/S0021-9258(19)37601-X3170588
+
+
+
+Sleep
+D.
+, CameronJ., EvansL. R. (2013). Albumin as a versatile platform for drug half-life extension. Biochim. Biophys. Acta  1830, 5526–5534. 10.1016/j.bbagen.2013.04.02323639804
+
+
+
+Spector
+A. A.
+
+ (1975). Fatty acid binding to plasma albumin. J. Lipid Res. 16, 165–179. 10.1016/S0022-2275(20)36723-7236351
+
+
+
+Sudlow
+G.
+, BirkettD. J., WadeD. N. (1975). The characterization of two specific drug binding sites on human serum albumin. Mol. Pharmacol. 11, 824–832.1207674
+
+
+
+Sudlow
+G.
+, BirkettD. J., WadeD. N. (1976). Further characterization of specific drug binding sites on human serum albumin. Mol. Pharmacol. 12, 1052–1061.1004490
+
+
+
+Sunderland
+E. M.
+, HuX. C., DassuncaoC., TokranovA. K., WagnerC. C., AllenJ. G. (2019). A review of the pathways of human exposure to poly- and perfluoroalkyl substances (PFASs) and present understanding of health effects. J. Expo. Sci. Environ. Epidemiol. 29, 131–147. 10.1038/s41370-018-0094-130470793
+PMC6380916
+
+
+Takehara
+K.
+, YukiK., ShirasawaM., YamasakiS., YamadaS. (2009). Binding properties of hydrophobic molecules to human serum albumin studied by fluorescence titration. Anal. Sci. 25, 115–120. 10.2116/analsci.25.11519139584
+
+
+
+Trott
+O.
+, OlsonA. J. (2009). AutoDock vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading. J. Comput. Chem. 31, 455–461. 10.1002/jcc.21334PMC304164119499576
+U.S. EPA. (2016a). Health Effects Support Document for Perfluorooctane Sulfonate (PFOS). United States Environmental Protection Agency, Washington, DC. https://www.epa.gov/sites/default/files/2016-05/documents/pfos_hesd_final_508.pdf
+U.S. EPA. (2016b). Health Effects Support Document for Perfluorooctanoic Acid (PFOA). United States Environmental Protection Agency, Washington, DC. https://www.epa.gov/sites/default/files/2016-05/documents/pfoa_hesd_final-plain.pdf
+U.S. EPA. (2016c). Fact Sheet PFOA & PFOS Drinking Water Health Advisories. United States Environmental Protection Agency, Washington, DC. https://www.epa.gov/sites/default/files/2016-06/documents/drinkingwaterhealthadvisories_pfoa_pfos_updated_5.31.16.pdf
+U.S. EPA. (2021a). Technical Fact Sheet: Toxicity Assessment for PFBS. United States Environmental Protection Agency, Washington, DC. https://www.epa.gov/system/files/documents/2022-06/technical-factsheet-four-PFAS.pdf
+U.S. EPA. (2021b). Technical Fact Sheet: Human Health Toxicity Assessment for GenX Chemicals. United States Environmental Protection Agency, Washington, DC. https://www.epa.gov/system/files/documents/2021-10/genx-final-tox-assess-tech-factsheet-2021.pdf
+
+
+van Asselt
+E. D.
+, KowalczykJ., van EijkerenJ. C. H., ZeilmakerM. J., EhlersS., FürstP., Lahrssen-WiederholtM., van der Fels-KlerxH. J. (2013). Transfer of perfluorooctane sulfonic acid (PFOS) from contaminated feed to dairy milk. Food Chem. 141, 1489–1495. 10.1016/j.foodchem.2013.04.03523790943
+
+
+
+Varshney
+A.
+, SenP., AhmadE., RehanM., SubbaraoN., KhanR. H. (2010). Ligand binding strategies of human serum albumin: How can the cargo be utilized?  Chirality  22, 77–87. 10.1002/chir.2070919319989
+
+
+
+Veall
+M. R.
+, ZimmermannK. F. (1996). Pseudo-R2 measures for some common limited dependent variable models. J. Econ. Surv. 10, 241–259. 10.1111/j.1467-6419.1996.tb00013.x
+
+
+Vivoli
+M.
+, NovakH. R., LittlechildJ. A., HarmerN. J. (2014). Determination of protein-ligand interactions using differential scanning fluorimetry. J. Vis. Exp. (91), 51809. 10.3791/5180925285605
+PMC4692391
+
+
+Wang
+Y.
+, ZhangH., KangY., CaoJ. (2016). Effects of perfluorooctane sulfonate on the conformation and activity of bovine serum albumin. J. Photochem. Photobiol. B  159, 66–73. 10.1016/j.jphotobiol.2016.03.02427031195
+
+
+
+Weiss
+J. N.
+
+ (1997). The hill equation revisited: Uses and misuses. FASEB J. 11, 835–841. 10.1096/fasebj.11.11.92854819285481
+
+
+
+Wu
+Y.
+, BaoJ., LiuY., WangX., LuX., WangK. (2024). In vitro and in silico analysis of the bindings between legacy and novel per- and polyfluoroalkyl substances and human serum albumin. Toxics  12, 46. 10.3390/toxics1201004638251003
+PMC10818824
+
+
+Xie
+S.
+, CuiY., YangY., MengK., PanY., LiuZ., ChenD. (2020). Tissue distribution and bioaccumulation of 8:2 fluorotelomer alcohol and its metabolites in pigs after oral exposure. Chemosphere  249, 126016. 10.1016/j.chemosphere.2020.12601632062561
+
+
+
+Zhang
+X.
+, ChenL., FeiX.-C., MaY.-S., GaoH.-W. (2009). Binding of PFOS to serum albumin and DNA: Insight into the molecular toxicity of perfluorochemicals. BMC Mol. Biol. 10, 16. 10.1186/1471-2199-10-1619239717
+PMC2656506
+
+
+Zorzi
+A.
+, LincianoS., AngeliniA. (2019). Non-covalent albumin-binding ligands for extending the circulating half-life of small biotherapeutics. Medchemcomm. 10, 1068–1081. 10.1039/C9MD00018F31391879
+PMC6644573
+
+
+===== TABLES (flattened) =====
+
+
+#### Table 1. | Test chemical stocks
+Chemical | Concentration (mM) | Solvent
+PFBA | 20 | HBS
+PFBS | 20 | HBS
+PFHxA | 20 | HBS
+HFPO-DA | 10 | HBS
+6:2 FTSA | 10 | HBS
+PFOA | 10 | HBS+50% DMSO
+PFOS | 10 | HBS or HBS+50% DMSO
+6:2 FTOH | 10 | HBS+30% DMSO
+Octanoic acid | 10 | HBS+30% MeOH
+
+#### Table 2. | Comparison of PFAS binding affinities across species
+Chemical | Chain Length | HSA | BSA | PSA | RSA
+ΔTm (°C) | K d (mM) | R 2 | ΔTm (°C) | K d (mM) | R 2 | d | ΔTm (°C) | K d (mM) | R 2 | d | ΔTm (°C) | K d (mM) | R 2 | d
+PFBA | 4 | 6.43(0.43) | 2.64(0.22) | 0.96 | 10.5(0.18) | 3.06(0.27) | 0.93 | ns | 6.89(0.07) | 1.28* (0.03) | 0.89 | 1.08 | 7.06(0.09) | 1.90(0.09) | 0.92 | ns
+PFHxA | 6 | 10.5(0.14) | 1.71(0.22) | 0.98 | 17.1(0.14) | 2.17* (0.06) | 0.98 | 0.88 | 13.9(0.14) | 0.95*** (0.02) | 0.97 | 2.16 | 12.2(0.09) | 1.33(0.02) | 0.97 | ns
+PFOA | 8 | 13.0(0.41) | 0.79(0.09) | 0.97 | 14.4(0.19) | 0.99* (0.01) | 0.92 | 2.12 | 9.68(0.07) | 0.37*** (0.01) | 0.89 | 7.12 | 8.0(0.13) | 0.40*** (0.01) | 0.97 | 0.89
+PFBS | 4 | 11.7(0.21) | 1.68(0.09) | 0.98 | 15.3(0.12) | 0.80*** (0.03) | 0.99 | 6.02 | 12.2(0.06) | 1.25*** (0.02) | 0.95 | 2.41 | 10.1(0.08) | 1.41** (0.03) | 0.96 | 1.01
+PFOS | 8 | 15.9(0.63) | 0.69(0.02) | 0.93 | 15.3(0.23) | 0.86(0.05) | 0.79 | ns | 5.74(0.20) | 0.38* (0.06) | 0.85 | 2.98 | 4.76(0.38) | 0.42(0.10) | 0.87 | ns
+HFPO-DA | 5 | 13.7(0.09) | 1.57(0.03) | 0.95 | 12.7(0.11) | 2.55*** (0.13) | 0.95 | 1.99 | 10.0(0.15) | 2.12** (0.03) | 0.93 | 1.23 | 7.56(0.10) | 1.64(0.05) | 0.94 | ns
+6:2 FTOH | 6 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A
+6:2 FTSA | 6 | 3.53(0.26) | 0.41(0.04) | 0.82 | 17.2(0.19) | 1.39*** (0.04) | 0.81 | 15.3 | 8.72(0.09) | 0.52(0.03) | 0.93 | ns | 7.99(0.10) | 0.33(0.02) | 0.99 | ns
+
+#### Table 3. | Comparison of 4- and 8-carbon PFAA-binding affinities within species
+Protein | t ratio | Congener 1 | n | Congener 1 Kd (mM) | Congener 2 | n | Congener 2 Kd (mM) | p | Cohen’s d
+HSA | 7.00 | PFBA | 6 | 2.64 (0.22) | PFOA | 6 | 0.79 (0.09) | <.0001 | 3.77
+4.01 | PFBS | 6 | 1.68 (0.09) | PFOS | 5 | 0.62 (0.02) | .034 | 2.77
+BSA | 8.36 | PFBA | 12 | 3.06 (0.27) | PFOA | 6 | 0.99 (0.01) | <.0001 | 3.52
+−0.37 | PFBS | 6 | 0.80 (0.03) | PFOS | 9 | 0.86 (0.05) | 1.0 | ns
+PSA | 4.07 | PFBA | 6 | 1.28 (0.03) | PFOA | 9 | 0.37 (0.01) | .028 | 3.92
+3.97 | PFBS | 6 | 1.25 (0.02) | PFOS | 9 | 0.38 (0.06) | .04 | 3.75
+RSA | 4.69 | PFBA | 6 | 1.90 (0.09) | PFOA | 6 | 0.40 (0.01) | .0021 | 4.86
+4.50 | PFBS | 6 | 1.41 (0.03) | PFOS | 9 | 0.42 (0.10) | .0049 | 3.79
+
+#### Table 4. | SeqAPASS level 1 and 3 analysis results
+Albumin species | % Similarity overall | Sudlow site I susceptibility match | Sudlow site II susceptibility match | Trp214 susceptibility match
+BSA | 79.5% | No | Yes | Yes
+RSA | 78.5% | Yes | Yes | Yes
+PSA | 77.8% | Yes | Yes | Yes
+
+#### Table 5. | Reported elimination half-lives of PFAAs in serum/plasma across species and DSF-determined albumin binding affinities
+ | PFBA | PFHxA | PFOA | PFBS | PFOS
+Half-life | K d (mM) | Half-life | K d (mM) | Half-life | K d (mM) | Half-life | K d (mM) | Half-life | K d (mM)
+Human | 3.1 daysa | 2.64(0.22) | 32 daysb | 1.71(0.22) | 2.3–8.5 yearsa | 0.79(0.09) | 25.8 daysa | 1.68(0.09) | 3.3–5.4 yearsa | 0.69(0.02)
+Cow | N/A | 3.06(0.27) | N/A | 2.17(0.06) | 0.8–1.3 daysc | 0.99(0.01) | N/A | 0.80(0.03) | 39–120 daysc | 0.86(0.05)
+Pig | N/A | 1.28(0.03) | 4.1 daysd | 0.95(0.02) | 236 daysd | 0.37(0.01) | 43 daysd | 1.25(0.02) | 1.7 yearsd | 0.38(0.06)
+Rat | 1–9.2 ha | 1.90(0.09) | 0.4–9.8 he | 1.33(0.02) | 0.1–15 daysa | 0.40(0.01) | 0.6–7.4 ha | 1.41(0.03) | 24–83 daysa | 0.42(0.10)

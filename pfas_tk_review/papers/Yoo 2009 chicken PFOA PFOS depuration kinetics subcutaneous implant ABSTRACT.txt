@@ -1,0 +1,48 @@
+1. Ecotoxicol Environ Saf. 2009 Jan;72(1):26-36. doi:
+10.1016/j.ecoenv.2007.09.007.  Epub 2007 Nov 19.
+
+Depuration kinetics and tissue disposition of PFOA and PFOS in white leghorn 
+chickens (Gallus gallus) administered by subcutaneous implantation.
+
+Yoo H(1), Guruge KS(2), Yamanaka N(3), Sato C(4), Mikami O(3), Miyazaki S(3), 
+Yamashita N(5), Giesy JP(6).
+
+Author information:
+(1)National Food Safety and Toxicology Center, Zoology Department and Center for 
+Integrative Toxicology, Michigan State University, East Lansing, 48824, USA; 
+Safety Research Team, National Institute of Animal Health, Kannondai 3-1-5, 
+Tsukuba, Ibaraki 305-0856, Japan.
+(2)Safety Research Team, National Institute of Animal Health, Kannondai 3-1-5, 
+Tsukuba, Ibaraki 305-0856, Japan. Electronic address: guruge@affrc.go.jp.
+(3)Safety Research Team, National Institute of Animal Health, Kannondai 3-1-5, 
+Tsukuba, Ibaraki 305-0856, Japan.
+(4)Safety Research Team, National Institute of Animal Health, Kannondai 3-1-5, 
+Tsukuba, Ibaraki 305-0856, Japan; Iwate South Animal Hygiene Service Center, 
+Higashidate 41-1, Sakurakawa, Mizusawa, Oshu, Iwate 023-0003, Japan.
+(5)Potential Pollutants Group, National Institute of Advanced Industrial Science 
+and Technology, Onogawa 16-1, Tsukuba, Ibaraki 305-8569, Japan.
+(6)National Food Safety and Toxicology Center, Zoology Department and Center for 
+Integrative Toxicology, Michigan State University, East Lansing, 48824, USA; 
+Department of Biomedical and Veterinary Biosciences and Toxicology Centre, 
+University of Saskatchewan, Saskatoon, Saskatchewan, Canada; Biology and 
+Chemistry Department, City University of Hong Kong, Kowloon, Hong Kong, SAR, 
+China.
+
+Elimination kinetics and tissue disposition of perfluorooctanoic acid (PFOA) and 
+perfluorooctane sulfonate (PFOS) in male chickens (Gallus gallus) was determined 
+following exposure by subcutaneous implantation. Chickens were exposed to two 
+levels of PFOA or PFOS for 4wk and then allowed to depurate for an additional 
+4wk. These exposures did not cause any statistically significant changes in body 
+index, clinical biochemistry or histology among treatments relative to the 
+controls (p>0.05), except that concentrations of total cholesterol and 
+phospholipids were less in chickens exposed to PFOS. The elimination rate 
+constant for PFOA (0.150+/-0.010d(-1)) was approximately six-fold greater than 
+that of PFOS (0.023+/-0.004d(-1)). The greatest concentrations of PFOA and PFOS 
+were found in kidney and liver, respectively. The organ to blood ratio of PFOS 
+concentration was increased after the whole experiment, indicating the 
+importance of organ partitioning of PFOS in elimination kinetics. The depuration 
+half-life of PFOA (t(1/2)=4.6d) and PFOS (t(1/2)=125d) in chickens was 
+calculated.
+
+DOI: 10.1016/j.ecoenv.2007.09.007
+PMID: 18006059 [Indexed for MEDLINE]

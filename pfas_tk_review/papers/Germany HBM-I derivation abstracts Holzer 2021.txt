@@ -1,0 +1,53 @@
+1. Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz. 2018 
+Apr;61(4):474-487. doi: 10.1007/s00103-018-2709-z.
+
+[HBM-I values for Perfluorooctanoic acid (PFOA) and Perfluorooctanesulfonic acid 
+(PFOS) in blood plasma - Statement of the German Human Biomonitoring Commission 
+(HBM Commission)].
+
+[Article in German]
+
+Umweltbundesamt.
+
+DOI: 10.1007/s00103-018-2709-z
+PMID: 29589091 [Indexed for MEDLINE]
+
+
+2. Regul Toxicol Pharmacol. 2021 Apr;121:104862. doi:
+10.1016/j.yrtph.2021.104862.  Epub 2021 Jan 12.
+
+Human Biomonitoring (HBM)-I values for perfluorooctanoic acid (PFOA) and 
+perfluorooctane sulfonic acid (PFOS) - Description, derivation and discussion.
+
+Hölzer J(1), Lilienthal H(2), Schümann M(2).
+
+Author information:
+(1)Department for Hygiene, Social and Environmental Medicine, MA 1/31, 
+Ruhr-University Bochum, Universitätsstrasse 150, 44801, Bochum, Germany. 
+Electronic address: juergen.hoelzer@rub.de.
+(2)Department for Hygiene, Social and Environmental Medicine, MA 1/31, 
+Ruhr-University Bochum, Universitätsstrasse 150, 44801, Bochum, Germany.
+
+In 2016, the German Human Biomonitoring Commission (HBM-C) published a statement 
+on its decision to develop HBM-I values for Perfluorooctanoic acid (PFOA) and 
+Perfluorooctanesulfonic acid (PFOS) (Bundesgesundheitsbl 2016, 59:1364 DOI 
+10.1007/s00103-016-2437-1). The HBM-I value corresponds to the concentration of 
+a substance in a human biological material below which no adverse health effects 
+are expected, according to current knowledge and assessment by the HBM-C, and, 
+consequently, there is no need for action. Evidence for associations between 
+PFOA- and PFOS-body burden and health outcomes was found for fertility and 
+pregnancy, weights of newborns at birth, lipid metabolism, immunity, sex 
+hormones and age at puberty/menarche, thyroid hormones, onset of menopause as 
+well as uric acid metabolism. Significant contrasts were reported for human 
+blood plasma concentrations between 1 and 10 ng PFOA/mL, and 1-15 ng PFOS/mL, 
+respectively. Within the reported ranges, the HBM-C has decided to set the 
+HBM-I-values at 2 ng PFOA/mL and 5 ng PFOS/mL blood plasma. The underlying 
+pathomechanisms do not appear to be sufficiently clarified to provide an 
+unambiguous explanation of the effects observed. Consistency of toxicological 
+and epidemiological data has been considered. The available data do not indicate 
+an unequivocal proof of a genotoxicity of PFOA and PFOS.
+
+Copyright © 2021. Published by Elsevier Inc.
+
+DOI: 10.1016/j.yrtph.2021.104862
+PMID: 33444659 [Indexed for MEDLINE]

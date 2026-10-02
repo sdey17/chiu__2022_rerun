@@ -1,0 +1,3314 @@
+Maximum Contaminant Level Goal Drinking
+     Water Recommendations for Per-
+and Polyfluoroalkyl Substances (PFAS)
+  in the Commonwealth of Pennsylvania
+
+                      By
+        The Drexel PFAS Advisory Group
+
+                 January 2021
+
+
+
+
+                                          1
+Table of Contents
+
+1. Executive Summary ....................................................................................................... 5
+       Table 1: Summary of Reference Dose and proposed Chronic Non-Cancer MCLG for perfluorononanoic acid
+       (PFNA), perfluorooctanesulfonic acid (PFOS), perfluorooctanoic acid (PFOA), perfluorohexanesulfonic acid
+       (PFHxS), perfluoroheptanoic acid (PFHpA), perfluorobutanesulfonic acid (PFBS), and the ammonium salt of
+       hexafluoropropylene oxide dimer (GenX) ........................................................................................................... 7
+2. Background..................................................................................................................... 8
+   2.a. PFAS in Wastewater .............................................................................................................9
+   2.b. PFAS from Landfill Leachate ............................................................................................ 10
+   2.c. PFAS from the use of AFFF ............................................................................................... 10
+   2.d. PFAS Fate and Transport in the Environment ............................................................... 11
+3. Approach ........................................................................................................................12
+   3.a. Maximum Contaminant Level Goals ................................................................................ 13
+   3.b. Non-Cancer Endpoints....................................................................................................... 13
+       Figure 1: POD sought amongst various endpoints (LOAEL, NOAEL, BMDL10) and then a Reference Dose
+       derived. ............................................................................................................................................................. 17
+   3.c. Goeden Model discussion ................................................................................................. 18
+       Table 2: Exposure Model Parameters used in transgenerational model (Goeden 2019) for derivation of
+       proposed MCLG. ................................................................................................................................................ 19
+   3.d. Cancer Endpoints ............................................................................................................... 19
+4. PFOA ...............................................................................................................................22
+   4.a. Review of Critical Studies.................................................................................................. 23
+       Figure 2: Effects of PFOA reproduced from (Koskela 2016). This represents the selected PFOA critical effect of
+       morphometric parameters of femurs and tibias at 13 and 17 months - dosing is 0.3 mg/kg/d (LOAEL). The
+       average serum concentration was estimated in the mice (8.29 mg/L) using a three-compartment
+       pharmacokinetic model (Wambaugh 2013) using animal species, strain, sex-specific parameters. (ATSDR
+       2018) ................................................................................................................................................................. 24
+       Figure 3: Figure reproduced from Onishchenko (2011). This was selected as a PFOA critical effect for change
+       in inactive periods seen at 0.3 mg/kg/d (LOAEL). (Onishchenko 2011) The average serum concentration was
+       estimated in the mice (8.29 mg/L) using a three-compartment pharmacokinetic model (Wambaugh 2013)
+       using animal species, strain, sex-specific parameters. (ATSDR 2018). Note: because the POD dose and
+       pharmacokinetic model are the same as Koskela (2016), the derived POD serum concentrations are the
+       same. ................................................................................................................................................................. 27
+   4.b. Development of MCLG ....................................................................................................... 28
+       Table 3: Development of Non-Cancer MCLG for PFOA ..................................................................................... 30
+       Figure 4. Using the Goeden Model, the POD and its parameters for PFOA were converted to an THSV of 0.028
+       mg/L. An RSC set at 50% means that half of this (0.014 mg/L) will be from ingested drinking water. The MCLG
+       of PFOA in drinking water should then be set at 0.008 ug/L or 8 PPT to protect from adverse health events. 31
+
+5. PFOS ...............................................................................................................................32
+   5.a. Review of Critical Study ..................................................................................................... 33
+   5.b. Development of MCLG ....................................................................................................... 34
+
+
+
+                                                                                                                                                                              2
+       Figure 5: NOAEL critical effect of increased IL-4 levels determined by Dong 2011. The dose administered is
+       over 60 days and is thus converted to the daily dose of 0.0167 mg/kg/day (total dose of 1 mg/kg over 60
+       days). ................................................................................................................................................................. 35
+       Figure 6: Serum PFOS level reported by Dong (2011) Table 1. ......................................................................... 36
+       Table 4: Development of Non-Cancer MCLG for PFOS ...................................................................................... 38
+       Figure 7. Using the Goeden Model, the reference dose and its parameters for PFOS were converted to an
+       THSV of 0.024 mg/L. An RSC set at 50% means that half of this (0.012 mg/L) will be from ingested drinking
+       water. The MCLG of PFOS in drinking water should then be set at 0.014 ug/L or 14 PPT to protect the breast
+       fed infant from adverse health events. ............................................................................................................. 39
+6. PFNA ...............................................................................................................................40
+   6.a. Summary of Critical Study................................................................................................. 41
+   6.b. Development of MCLG ....................................................................................................... 42
+       Figure 8: PFNA NOAEL of 1 mg/kg identified by Das (2015).............................................................................. 43
+       Table 5: Development of Non-Cancer MCLG for PFNA ..................................................................................... 46
+       Figure 9. Using the Goeden Model, the reference dose and its parameters for PFNA were converted to an
+       THSV of 0.023 mg/L. An RSC set at 50% means that half of this (0.0115 mg/L) will be from ingested drinking
+       water. The MCLG of PFNA in drinking water should then be set at 0.006 ug/L or 6 PPT to protect from
+       adverse health events. ...................................................................................................................................... 47
+7. PFHXs .............................................................................................................................48
+   7.a. Summary of Critical Study................................................................................................. 48
+   7.b. Development of MCLG ....................................................................................................... 53
+       Figure 10: BMDL0.5SD derived by Ali (2019) of 13.9 mg/mL using data from the critical study of Chang (2018).
+       ........................................................................................................................................................................... 54
+       Table 6: Development of Non-Cancer MCLG for PFHxS .................................................................................... 56
+       Figure 11. Using the Goeden Model, the reference dose and its parameters for PFHxS were converted to an
+       THSV of 0.046 mg/L. An RSC set at 50% means that half of this (0.023 mg/L) will be from ingested drinking
+       water. The MCLG of PFHXS in drinking water should then be set at 0.020 ug/L or 20 PPT to protect from
+       adverse health events. ...................................................................................................................................... 57
+
+8. PFHpA .............................................................................................................................58
+9. PFBS ...............................................................................................................................58
+   9.a. Review of Critical Study ..................................................................................................... 59
+   9.b. Development of MCLG ....................................................................................................... 61
+       Figure 12: Critical effect of PFBS on total thyroxine (T4) levels identified by Feng 2017 used to develop
+       BMDL10 POD. ..................................................................................................................................................... 62
+       Table 7: Development of Non-Cancer MCLG for PFBS ...................................................................................... 65
+
+10. GenX (HFPO dimer acid and its ammonium salt) ..................................................66
+   10.a. Review of Critical Study................................................................................................... 67
+   10.b. Development of MCLG ..................................................................................................... 71
+       Table 8: Development of Non-Cancer MCLG for GenX ..................................................................................... 73
+11. Summary ......................................................................................................................74
+References .........................................................................................................................75
+Appendix A: Drexel PFAS Advisory Group (DPAG) ....................................................84
+
+
+                                                                                                                                                                                  3
+Appendix B: Acronyms and Abbreviations List ...........................................................86
+
+
+
+
+                                                                                                       4
+1. Executive Summary
+   The Drexel PFS Advisory Group (DPAG) is a unique multidisciplinary team engaged
+
+by the Commonwealth of PA to provide recommendations for Maximum Allowable
+
+Contaminant Level Goals MCLGs to the Commonwealth of Pennsylvania for Per-
+
+and polyfluoroalkyl substances (PFAS) in drinking water. Observational epidemiology
+
+supports the need for drinking water values below the current recommendations of the
+
+United States Environmental Protection Agency (US EPA) lifetime health advisory LHA
+
+level of 70 ppt for PFOS and PFOA individually or in combination. Furthermore, the
+
+identification of other PFAS in drinking water requires a broader consensus
+
+consideration of all these substances. As of this report, the US EPA has not initiated its
+
+process for establishing MCLs or MCLGs under the Safe Drinking Water Act. Therefore,
+
+specific guidelines for the Commonwealth of Pennsylvania were deemed necessary to
+
+protect the safety and well-being of Pennsylvanians.
+
+
+   The DAPG consist of experts in the fields of medical toxicology, epidemiology,
+
+environmental toxicology, water drinking standards, and risk assessment. The
+
+biographies of the members of the DPAG are included as Appendix A.
+
+
+   The Pennsylvania Department of Environmental Protection (PADEP) tasked the
+
+DPAG to review the existing and proposed PFA standards from across the country and
+
+independently develop MCLGs to inform the initial phase of the rulemaking process for
+
+establishing state drinking water standards. (Appendix B and C) The effort commenced
+
+in January 2020 and continued to the delivery of this report. Because of restrictions on
+
+
+
+
+                                                                                             5
+face-to-face interactions due to the Covid19 pandemic, much of the advisory groups
+
+work was done through virtual conferences between DPAG and PA DEP during 2020.
+
+
+       The DPAG methodically evaluated existing and proposed standards from across
+
+the country for PFAs considered under US EPA method 537.1. PADEP asked DPAG to
+
+provide specific recommendations on perfluorononanoic acid (PFNA),
+
+perfluorooctanesulfonic acid (PFOS), perfluorooctanoic acid (PFOA),
+
+perfluorohexanesulfonic acid (PFHxS), perfluoroheptanoic acid (PFHpA), and
+
+perfluorobutanesulfonic acid (PFBS). DPAG added the ammonium salt of
+
+hexafluoropropylene oxide dimer (GenX) to the list of reviewed PFAS. This latter
+
+addition was approved by the PA DEP.
+
+       PA DEP charged the advisory group with producing MCLGs within a year.
+
+Hence, the initial effort was to review the existing national and state derive PFA
+
+assessments, review the pertinent literature in a focused manner, and generally benefit
+
+from prior efforts to develop PFAS health-based values. Once complete, the DPAG
+
+independently reconsidered all of the PFAS in question and formed draft
+
+recommendations for the PA DEP in the summer of 2020.
+
+       The PA DEP placed no expectations on the DPAG other than a scientifically
+
+defensible approach in developing these values.
+
+       Furthermore, by charging a group with developing MCLGs, the commonwealth
+
+asked that we focus on developing values that were not as much influenced by
+
+technical difficulties necessary to achieve them – e.g. measurement, remediation, or
+
+other mitigation. DPAG purposely sought to maintain an independent mindset with
+
+developing these MCLGs and to focus on identifying concentrations that would protect
+
+
+
+                                                                                          6
+human health. Each consideration and the evidence behind the evaluation as well as
+
+methodical calculation are included in the individual summaries. The Reference Dose
+
+and recommended Chronic Non-Cancer MCLGs for the seven PFAS considered are
+
+Table 1.
+
+ PFAS                                           Reference Dose MCLG proposed
+ perfluorooctanoic acid (PFOA)                  3.9 ng/kg/day       8 PPT
+ perfluorooctanesulfonic acid (PFOS)            3.1 ng/kg/day       14 PPT
+ perfluorononanoic acid (PFNA)                  2.2 ng/kg/day       6 PPT
+ perfluorohexanesulfonic acid (PFHxS)           4.0 ng/kg/day       20 PPT
+ perfluoroheptanoic acid (PFHpA)                None derived        8 PPT
+ perfluorobutanesulfonic acid (PFBS)            39 ng/kg/day        55 PPT
+ ammonium salt of hexafluoropropylene           75 ng/kg/day        108 PPT
+ oxide dimer (GenX)
+Table 1: Summary of Reference Dose and proposed Chronic Non-Cancer MCLG for
+perfluorononanoic acid (PFNA), perfluorooctanesulfonic acid (PFOS), perfluorooctanoic acid
+(PFOA), perfluorohexanesulfonic acid (PFHxS), perfluoroheptanoic acid (PFHpA),
+perfluorobutanesulfonic acid (PFBS), and the ammonium salt of hexafluoropropylene oxide
+dimer (GenX)
+
+
+
+
+                                                                                             7
+2. Background
+       Per- and polyfluoroalkyl substances (PFAS), and the polymers and surfactants
+
+made from them, are a large family of greater than 4000 man-made chemicals that
+
+contain carbon, fluorine, and other elements and have been used widely in many
+
+industrial and consumer applications since the 1950’s. Perfluoroalkyl substances are
+
+aliphatic substances where all of the carbons are attached to fluorine with the exception
+
+of the last one. Polyfluoroalkyl substances are aliphatic substances where at least one,
+
+but not all of the carbons are attached to fluorine and contain the perfluoroalkyl moiety
+
+(CnF2n+1).
+
+
+
+   The carbon-fluorine bond is stable and strong. The perfluoroalkyl moiety’s chemical
+
+and thermal stability as well as its lipophobic and hydrophobic properties allow it to be
+
+very useful in a variety of industries world-wide. They are used to help make products
+
+more resistant to oils, grease, stains, and water, and they are used in many industries
+
+because they help reduce friction, through their surfactant applications by lowering their
+
+surface tension properties i.e. automotive, construction, aerospace. These properties
+
+also contribute to their bioaccumulation and environmental persistence. The length of
+
+the fluorinated carbon chain distinguishes the short from the long chain PFAS. Long
+
+chain PFAS are perfluoroalkyl carboxylic acids with 8 or more carbon chains and
+
+perfloroalkane sulfonic acids with 6 carbon chains and greater. While not specifically
+
+stated, perfluoroalkyl chains with 7 or greater carbon atoms are generally considered
+
+long chain. The fluorinated carbon chain length determines properties that influence the
+
+substance behavior in the environment, organisms, and bioaccumulation. Long chain
+
+
+
+                                                                                            8
+compounds include PFNA (9 carbon carboxylic acid), PFOA (8 carbon carboxylic acid),
+
+PFHpA (7 carbon carboxylic acid), PFOS (8 carbon sulfonic acid), and PFHxS (7 carbon
+
+sulfonic acid). Short chain PFAS include GenX chemicals (6 carbon oxide dimer acid),
+
+and PFBS (4 carbon sulfonic acid).
+
+
+   PFASs are present in the environment as a result of their use in a wide array of
+
+industrial, commercial, and residential products and applications, including newspaper
+
+printing, textile and paper production, metal plating, surfactants in fluoropolymer
+
+production, and aqueous film-forming foams (AFFFs), and include consumer products
+
+such as outdoor apparel, dental floss, and car wax (Prevedouros 2006, Paul
+
+2008, Konwick 2008). PFASs are emitted to the environment both directly throughout
+
+their product and use cycle and indirectly from transformations of their precursors. The
+
+majority of emissions are released directly into aquatic
+
+environments (Prevedouros 2006, Paul 2008); however, accurate quantification of
+
+emissions and resulting environmental exposure are largely lacking (Guo 2009).
+
+2.a. PFAS in Wastewater
+
+   PFAS have been found in wastewater treatment plant influents from both municipal
+
+and industrial sources, with treated wastewater effluents and sewage sludges (including
+
+biosolids) now being viewed as major sources of PFAS to the aquatic environment
+
+(Ahrens 2011), which may substantially impact rural water sources. A range of poly- and
+
+perfluoroalkyl acids (PFAA) have been routinely detected in wastewater effluents in
+
+various countries, including the United States (US) (see review by Hamid 2016). In
+
+addition to treated wastewater, various PFAS compounds have been detected in
+
+sewage sludges (Venkatesan 2013). In fact, a review by Clarke (2011) ranked PFAS as
+
+
+                                                                                           9
+the highest priority group of emerging contaminants in biosolids. Taken together, due to
+
+the unmitigated use of PFAS in consumer products and the long-term persistence of
+
+these compounds, reuse of treated wastewater or land application of biosolids may
+
+present a source of PFAS that impact rural communities and agricultural operations.
+
+2.b. PFAS from Landfill Leachate
+
+   Due to the widespread use of PFAS in commercial products, various congeners
+
+and concentrations of PFAS are likely to be present in all landfills. Landfills
+
+receiving waste from industrial facilities (e.g., paints, textiles used in furniture, carpet,
+
+upholstery) are expected to have higher concertation of PFAS (Guerra 2014, ITRC
+
+2020). However, low concentrations of PFAS have been detected in the range of ppt to
+
+ppb levels at municipal landfills likely due to the use of PFAS on some paper
+
+products (Arvaniti 2012, Renou 2008, ITRC 2020). It is important to note that some
+
+landfills transferred their leachate to WWTPs for treatment. Perfluoroalkyl sulfonic acids
+
+(PFSAs) and Perfluoroalkyl carboxylic acids (PFCAs) are the most common PFASs in
+
+landfills, which are known as PFAAs. PFCAs and PFSAs have the carbon chain length
+
+C4-C18 as well as C4-C10, respectively. Additionally, PFAAs precursors (e.g., FTOH,
+
+n:2 FTCA, and n:2 FTUCAs) existing in the consumer products (Ye 2015; Kotthoff 2015)
+
+can degrade to PFAAs throughout disposal in the landfill and product use (Lang
+
+2016, Allred 2015).
+
+2.c. PFAS from the use of AFFF
+
+   The U.S. Department of Defense (DoD) has used aqueous film forming foam (AFFF)
+
+to suppress fires since the 1970s. PFASs are known to contaminate over 500 DoD
+
+sites (Thompson 2012), and repeated historic use at firefighter training areas has
+
+
+
+                                                                                                10
+resulted in groundwater and porous media contamination, with groundwater
+
+concentrations of select PFASs reaching low mg/L levels (Moody 1999, 2000, 2003,
+
+Anderson 2016, Murray 2010, Backe 2013, McGuire 2014, Filipovic 2015, Schultz
+
+2004). While PFAAs are often not the dominant PFASs in AFFF formulations at
+
+impacted sites, PFAAs and 6:2 FtS are often the dominant PFASs found in
+
+contaminated groundwater (Backe 2013, Houtz 2013, McGuire 2014, Schultz 2004).
+
+The predominance of PFAAs in groundwaters is hypothesized to be a result of abiotic
+
+and biotic reactions in the subsurface that transform the parent PFAS compounds in
+
+AFFF formulation (e.g., fluorotelomer thioamido sulfonates, FtTAoS) into FtSs and
+
+PFAAs (Harding-Marjanovic 2015).
+
+
+2.d. PFAS Fate and Transport in the Environment
+
+       While there are many aspects that make PFASs chemistry unique, of particular
+
+note are their biological and chemical stability, promoting their persistence in the
+
+environment), and the comparatively high solubility limits and adsorptive nature of some
+
+PFASs, especially of shorter chain length, making them relatively mobile in aqueous
+
+systems (Zareitalabad 2013). Perfluoroalkyl acids (PFAAs), which have a negatively
+
+charged head group, low volatility, and high water solubility, are considered to be highly
+
+mobile in aqueous phases (Ahrens 2011, Ahrens and Bundschuh 2014), and PFAA
+
+transport has often been observed or inferred in the environment (Moody 1999,
+
+Lindstrom 2011, McGuire 2014, Baduel 2015, Filipovic 2015). As a consequence
+
+of such mobility and concerns of their human health effects, drinking water wells at
+
+several downstream localities of DoD sites have been temporarily abandoned. The
+
+sorption behavior of PFASs is influenced by their physicochemical properties which vary
+
+
+                                                                                        11
+depending on their functional head group and chain length (Ahrens 2009, 2011, Ahrens
+
+and Ebinghaus 2010). PFAA sorption generally increases with increasing chain length.
+
+Longer chain length PFAAs have been demonstrated to bioaccumulate and possibly
+
+biomagnify. (Prevedouros 2006, Conder 2008) In addition to the ecological effects,
+
+bioaccumulation within a food web may lead to human exposure through dietary
+
+consumption (e.g., fish). As a consequence, sediments and biota are considered to act
+
+as a sink for longer chains PFAAs in aquatic ecosystems.
+
+
+
+
+3. Approach
+   The DPAG reviewed a number of recommendations made by EPA and State
+
+agencies that chose to create a summative approach to PFAS, combining multiple
+
+minimal risk levels or advisory levels into one cumulative drinking water value. No clear
+
+consensus exists on this approach and the use of a summative approach was clearly
+
+designed to be a shortcut based on a presumption that the agents all have similar
+
+health effects and endpoints. While this approach may work for other toxins such as
+
+dioxins, furans, and coplanar polychlorinated biphenyls, it does not appear to be based
+
+on evidence available for PFAS. The DPAG therefore committed early in the process to
+
+developing an individual MCLG for each of the requested PFAS. DPAG further
+
+recommends that all PFAS be reviewed individually as they arise for analysis, even if
+
+the individual MCLG ultimately needs to be based on chemical similarities to other
+
+PFAS only (e.g. see PFHpA in our recommendations).
+
+
+
+
+                                                                                        12
+   For each of the PFAS studied, the DPAG identified points of departure and rationale
+
+for selection from risk assessments published by other states, the EPA, and a TSTR.
+
+DPAG then assessed the underlying critical studies driving the selection of the POD.
+
+Every effort was made to use the experience and published findings from other
+
+agencies and build and refine on these as much as possible into a best practice
+
+approach. USEPA (2000), Beck (2016)
+
+
+3.a. Maximum Contaminant Level Goals
+
+   Maximum Contaminant Level Goals (MCLGs) are maximum drinking water
+
+concentrations designed to protect human health. MCLGs are non-enforceable as they
+
+are chosen solely based on protection of human health and do not take into account
+
+whether analytical testing is available to detect the contaminant at the MCLG level or
+
+whether adequate technology exists to remediate or remove the contaminant at the
+
+MCLG level. Conversely, Maximum Contaminant Levels (MCLs), are derived from
+
+MCLGs but also take into account the availability of analytical testing, adequate
+
+technology for contaminant remediation, efficacy under field conditions, and cost.
+
+MCLGs include a margin of safety incorporated into the level via the use of uncertainty
+
+factors that ensures no adverse human health effects would result from lifetime
+
+exposure to the contaminant in drinking water at the MCLG level. MCLGs are derived
+
+separately for and non-cancer endpoints and cancer endpoints.
+
+
+3.b. Non-Cancer Endpoints
+
+   The derivation of an MCLG is based on the assumption that for non-cancer
+
+endpoints, a dose threshold exists. Doses above that threshold potentially place a
+
+
+
+                                                                                         13
+person at risk for an adverse human health effect, whereas below that threshold the
+
+person is not at risk. To ensure that exposure at the MCLG and below does not place
+
+any person, including vulnerable populations, at risk, an adequate margin of safety is
+
+built into the derivation.
+
+   Available animal model studies are reviewed to determine the point of departure
+
+(POD), which is the first step in the MCLG derivation. The point of departure (POD) may
+
+be an administered dose, a modeled dose, or a serum level. If the POD is a serum
+
+level, a dose adjustment factor may be applied to derive a dose. In considering animal
+
+model studies as candidates for the POD, a number of factors should be considered,
+
+study duration (acute, subacute, chronic), route of exposure, intensity of exposure,
+
+study quality, relevance of the animal model adverse health effect to human health, and
+
+interspecies differences in absorption, distribution, metabolism and excretion of the
+
+substance. Animal model studies may be considered irrelevant for the derivation of an
+
+MCLG based on the above considerations and therefore not be used for the POD.
+
+   If an animal model study meets the criteria discussed above and is considered
+
+relevant to human health, then it serves as a candidate along with other such studies for
+
+the POD. Several PODs are available. The most commonly used POD is the no-
+
+observed-adverse-effect level (NOAEL), the highest dose administered in the animal
+
+model study that did not result in toxicity where toxicity is defined by alteration of
+
+biomarkers, change in body weight or body weight gain, lesions, or anatomical
+
+abnormalities at necropsy. In some circumstances, such as the absence of a NOAEL in
+
+an animal model study, the lowest-observed adverse-effect level (LOAEL) may be used
+
+as the POD. (USEPA 2002)
+
+
+
+
+                                                                                         14
+   An alternative POD that may be used with robust datasets is the lower confidence
+
+limit of the benchmark dose (BMDL). Calculating the BMDL requires sufficient
+
+datapoints from the animal model study/studies that a dose-response curve can be
+
+modeled. The benchmark response (BMR) is the acceptable level of change in the
+
+animal model adverse health effect. A BMR of 10% is typically considered the
+
+acceptable level of change as it is at or near the limit of sensitivity of many bioassays.
+
+For continuous variables (e.g. body weight), a BMR of 10% corresponds to a 10%
+
+deviation in the outcome of interest, whereas for quantal data (e.g. organ toxicity) a
+
+BMR of 10% corresponds to a 10% increase in the incidence of the adverse effect.
+
+Statistical modelling of the dose response curve is used to calculate the dose that
+
+corresponds to the chosen BMR, known as the benchmark dose (BMD), and the lower
+
+95% one-sided (or two-sided) confidence limit of the BMD is the BMDL. The DPAG, in
+
+discussion with the PA DEP, determined that the BMDL that corresponded to a BMD
+
+with a BMR of 10% (referred to as the BMDL10) would be the default POD when the
+
+BMD method was employed. (USEPA 2012)
+
+   The EPA recommends a number of approaches to derive human equivalent oral
+
+exposures (HED) from a laboratory animal species derived POD. (USEPA 2002) The
+
+preferred approach is physiologically-based toxicokinetic modeling applying a dose
+
+adjustment factor. The DAF is multiplied by the animal exposure (in mg/kg/d) to achieve
+
+the human equivalent exposure (in mg/kg/d). In lieu of data to support either of these
+
+types of approaches, body weight scaling to the 3⁄4 power (i.e., BW3/4) is endorsed as
+
+a general default procedure to extrapolate toxicologically equivalent doses of orally
+
+administered agents from all laboratory animals to humans for the purposes of deriving
+
+
+
+
+                                                                                             15
+an oral Reference Dose (RfD). Use of these methods is generally combined with a
+
+default interspecies uncertainty factor, UFA, reduced from 10 to 100.5.
+
+   Once the HED is identified, the reference dose (RfD) is calculated by dividing the
+
+HED by uncertainty factors (UF) to create an adequate margin of safety. UFs have a
+
+value between 100 (i.e. 1), 100.5 (i.e. 3), or 101 (i.e. 10). A default UFH of 10 is applied
+
+for the potential variability in sensitivity to the exposure in the human population. An
+
+UFA of 10 each is applied for the uncertainty of extrapolation from an animal model to
+
+humans unless some dose adjustment factor can be accurately applied. A default UFL
+
+of 10 is applied when the LOAEL is used rather than the NOAEL or BMD. A UFS is
+
+applied when extrapolating from sub-chronic animal model studies to chronic human
+
+exposure. An additional UFD, referred to as a modifying factor, may be applied to
+
+account for uncertainty about the quality of the study or data set. All the UFS are
+
+multiplied to develop a UFT, or total uncertainty factor. Figure 1 provides an illustration
+
+but does not represent an actual PFA or the order of endpoints.
+
+
+
+
+                                                                                               16
+Figure 1: POD sought amongst various endpoints (LOAEL, NOAEL, BMDL10) and then a Reference
+Dose derived.
+
+   The RfD is typically expressed in mg/kg/d and is the daily ingested dose of a
+
+substance that is considered to be without an increased risk of an adverse human
+
+health effect. The RfD can be converted into a Drinking Water Equivalent Level
+
+(DWEL), the concentration of the substance in water that would yield the RfD for the
+
+target population based on established drinking water rates. If the POD suggests that
+
+the target population is adults, then standard assumptions about weight (e.g. 70-kg
+
+adult) and consumption (2-L of water per day) are used. Different weight and
+
+consumption standards are applied if the POD suggest the target population is, for
+
+example, infants.
+
+
+
+
+                                                                                        17
+   The MCLG is subsequently derived from the DWEL by accounting for the relative
+
+source contribution (RSC) of drinking water to total daily dose of the substance so that
+
+the total daily dose does not exceed the RfD. For substances where the relative source
+
+contribution is unknown, a default RSC of 0.2 is used. When the relative contribution of
+
+various sources to daily dose has been determined, the RSC of drinking water may be
+
+used instead of the default RSC but may be no greater than 0.8 to account for potential
+
+unknown exposure sources. (USEPA 2000)
+
+
+3.c. Goeden Model discussion
+
+   An alternative method to convert RfD to MCLG is the transgenerational toxicokinetic
+
+model. This approach considers water consumption from conception to adulthood and
+
+adjusts for the fact that relative source contribution of water is higher early in life. It
+
+assumes that a child will have a certain level of exposure in-utero because of the PFA in
+
+the mother’s body and further exposure during breastfeeding or bottle feeding. This
+
+model requires specific toxicokinetic information about the substance in question and
+
+cannot be applied to every substance. The model for this report was provided to the
+
+DPAG by Minnesota Department of Health (MDH) as an excel spreadsheet. Parameters
+
+for this model are listed in Appendix C. Although RfD was always calculated, the POD
+
+serum level was divided by UFT to determine a corresponding internal target human
+
+serum level (THSV). Working backward from the target human serum level, reduced by
+
+50% to account for the RSC of an infant, an MCLG was derived from the model so that
+
+the highest serum level ever achieved from birth to adulthood never exceeded the
+
+reference dose. The model had sufficient data for application to MCLG
+
+recommendations for PFOA, PFOS, PFNA, and PFHxS. Table 2 lists some of the key
+
+
+                                                                                              18
+model parameters and the preferred tendency (central or upper) of the parameter.
+
+Please note: The THSV is useful for informing public health policy and interpreting
+
+population-based exposure potential. This value is based on population-based
+
+parameters and should not be used for clinical assessment or for interpreting serum
+
+levels in individuals.
+
+
+     Model         Tendency of        PFOA             PFOS            PFHxS           PFNA
+   Parameter        Parameter
+
+ Half-Life, days     Central          840 a           1241 b           1935            1417c
+   Placental         Central          0.87 d           40 d            0.70 d          0.69 d
+ Transfer Ratio
+   Breastmilk        Central          0.052 d         0.017 d         0.014 d          0.032 d
+ Transfer Ratio
+   Volume of         Central          0.170 e         0.230 e          0.25 f          0.200
+                                                                                         d,g
+  Distribution
+   (Vd), L/kg
+    Relative         Central            50              50               50              50
+    Source
+  Contribution
+   (RSC), %
+  Duration of            Upper          12              12               12              12
+   Exclusive
+ Breastfeeding,
+    months
+
+ a) Bartell 2010; b) Li 2018; c) Zhang 2013; d) MDH 2020, 2019; e) Thompson 2010; f) Sundstrom
+ 2012; Ali 2019 g) ATSDR 2018
+Table 2: Exposure Model Parameters used in transgenerational model (Goeden 2019) for
+derivation of proposed MCLG.
+
+3.d. Cancer Endpoints
+
+   MCLGs for cancer endpoints are historically set at zero although there may be
+
+scenarios under which a non-zero MCLG is appropriate for a cancer endpoint. The
+
+rationale behind a zero MCLG for cancer endpoints is that historically extrapolation of
+
+cancer risk from high dose animal studies to low dose human exposures was performed
+
+using the linear no-threshold model. The absence of a threshold in this extrapolation
+
+
+
+                                                                                                 19
+model results in some cancer risk being associated with any dose. Therefore, the only
+
+level goal that can be considered protective of human health is zero. (USEPA 2005)
+
+   Current carcinogen risk assessment allows for the consideration of threshold effects
+
+in extrapolation of cancer risk. A threshold effect may be present if cancer is only
+
+observed when an exposure meets a certain intensity or duration. However, the
+
+absence of cancer at low level exposures should not be assumed to constitute a
+
+threshold as low level exposures may be associated with cancer risk that is undetected
+
+due to studies that are underpowered to detect cancer at that exposure intensity. The
+
+mechanism by which the carcinogen increases cancer risk may inform whether a
+
+threshold effect is present. If the carcinogen induces cancer secondary to a toxic effect
+
+then the threshold is the dose at which the toxic effect occurs and doses below that
+
+threshold, after applying uncertainty factors, should be considered non-carcinogenic.
+
+MCLGs for carcinogens that act by a mutagenic mode of action are still set at zero as
+
+the linear-no threshold model is most appropriate for that mechanism.
+
+   Substances that are only carcinogenic above a certain exposure intensity or duration
+
+may have non-zero MCLGs utilizing the same derivation process as for non-cancer
+
+endpoints, discussed above. For such substances, the MCLG for the cancer endpoint
+
+and the MCLG for the non-cancer endpoint are both derived and the lower value of the
+
+two serves as the overall MCLG for the substance.
+
+   Numerous epidemiological studies of PFAS, especially PFOA and PFOS, have
+
+examined occupational and environmental exposures but have failed to detect
+
+consistent findings across studies. (Bonefeld-Jorgensen 2011, Chang ET 2014, Eriksen
+
+2009, Hardell 2014, Innes 2014, Klaunig 2015, Yeung 2013). The International Agency
+
+
+
+
+                                                                                        20
+for Research on Cancer (IARC) has classified PFOA as “possibly carcinogenic to
+
+humans” (Group 2B), based on limited evidence in humans that it can cause testicular
+
+and kidney cancer, and limited evidence in lab animals. The EPA has not officially
+
+classified PFOA as to its carcinogenicity. EPA’s Scientific Advisory Board, based mainly
+
+from studies in lab animals, stated that PFOA shows “suggestive evidence of
+
+carcinogenicity, but not sufficient to assess human carcinogenic potential.”
+
+   PFOA and PFOS show positive associations with cancers of the prostate, kidney,
+
+testis, and thyroid but with a) only small elevations in relative risk intervals (0.5 and 2.0
+
+(with 95% confidence intervals including 1.0), b) evidence of negative associations as
+
+well, and c) inconsistencies across the studies. Furthermore, exposure response
+
+relationships do not follow the monotonic pattern of increasing dose causing increasing
+
+response. The strongest example is that associations found at lower environmental
+
+community studies are not supported by those found in the workplace where exposures
+
+are higher by one or two orders of magnitude. Furthermore, although animal studies
+
+support target organ as the liver, testis (Leydig cells), and pancreas (acinar cells), these
+
+are not the types of cancers identified by human studies. Some drinking water
+
+recommendations rely on an effect produced by expression of peroxisome proliferator-
+
+activated receptor-alpha (PPARalpha) which is specific to rodents. For example, CEPA
+
+(2019) and NJDEP (2017, 2018) have cancer minimal risk levels for PFOA and PFOS
+
+derived heavily from animal studies. After careful review, the DPAG concluded that
+
+cancer endpoints for PFAS that rely heavily on animal studies are not supported by the
+
+totality of human and animal evidence. Furthermore, there is insufficient evidence to
+
+argue that Non-Cancer MCLGs would not be protective of cancer risk.
+
+
+
+
+                                                                                            21
+4. PFOA
+   After a literature search and a review of the available evidence and
+
+recommendations from various agencies, the DPAG developed an MCLG
+
+recommendation for PFOA based on Non-Cancer endpoints. The agencies with the
+
+most relevant inputs were the US EPA, the ATSDR (ATSDR 2018), the MDH (MDH
+
+2020 PFOA), NJDEP (NJDEP 2017), and MDHHS (MDHHS 2019). The US EPA
+
+selected Lau (2006) because it met their criteria for chronic exposure, multiple dose
+
+groups, use of a concurrent control, and with serum data amenable for modeling. (US
+
+EPA 2016) MDH used Lau (2006) as well and used the serum level estimated by US
+
+EPA. The ATSDR selected identical LOAELs from Onishchenko (2011) and Koskela
+
+(2016). Both studies had the same populations of laboratory animals and evaluated a
+
+single dosing group. These studies identified developmental effects (neurobehavioral
+
+and skeletal) as critical. The DPAG selected Koskela (2016) and Onishchenko (2011)
+
+as the critical studies. (ATSDR 2018, Appendix A, Table A8)
+
+   The serum concentration at the LOAEL of 0.3 mg/kg/d from Onishchenko (2011) and
+
+Koskela (2016) was below the modeled serum concentrations from two immunotoxicity
+
+studies evaluated by ATSDR (a sensitive effect seen in other PFAS). (Lau 2006)
+
+MDHHS also selected the critical studies by ATSDR as also being protective for
+
+immunotoxicity. (MDDHS 2019) The DPAG rejected the BMDL from Loveless (2006)
+
+used by NJDEP. Loveless (2006) was a 14-day exposure study in rats and mice, with
+
+liver weight changes being the critical effect identified. NJDEP (2017) Liver weight
+
+changes, in and of themselves, translate questionably as an adverse effect in humans
+
+
+
+
+                                                                                        22
+and the POD identified was higher than those when considering immunotoxicity. From
+
+Onishchenko and Koskela, the ATSDR estimated the POD average serum
+
+concentration in the mice (8.29 mg/L) using a three-compartment pharmacokinetic
+
+model (Wambaugh 2013) using animal species-, strain-, sex-specific parameters. This
+
+was adopted by the DPAG as the POD for PFOA.
+
+
+4.a. Review of Critical Studies
+
+   Koskela (2016) investigated the administration of PFOA at a dose of 0.3 mg/kg/d
+
+administered orally mixed with food to pregnant C57BL/6/Bkl mice starting on GD1 to
+
+investigate developmental outcomes on long bone morphology and bone cell
+
+differentiation. Female offspring were sacrificed at the age of 13 or 17 months for
+
+examination.
+
+   Body weights of PFOA exposed offspring were higher than controls throughout the
+
+lifetime of the animals, reaching statistical significance at 13 and 17 months. Significant
+
+increases in the femur and tibial periosteal area and medullary area were seen at 17
+
+months but not at 13 months in PFOA exposed offspring. Tibial mineral density was
+
+decreased in PFOA exposed offspring at both 13 and 17 months. Femur and tibial
+
+cortical area, trabecular parameters, and femur mineral density were unaffected by
+
+PFOA exposure. There was no significant effect of PFOA exposure on biomechanical
+
+properties of the femur or tibia. Concentration of PFOA in pooled tibias and femurs was
+
+significantly greater in exposed offspring at both 13 and 17 months.
+
+
+
+
+                                                                                         23
+Figure 2: Effects of PFOA reproduced from (Koskela 2016). This represents the selected PFOA
+critical effect of morphometric parameters of femurs and tibias at 13 and 17 months - dosing is
+0.3 mg/kg/d (LOAEL). The average serum concentration was estimated in the mice (8.29 mg/L)
+using a three-compartment pharmacokinetic model (Wambaugh 2013) using animal species,
+strain, sex-specific parameters. (ATSDR 2018)
+
+
+   In an in vitro study, the effect of PFOA on the viability of MC3T3 osteoblast
+
+precursor cells were assessed using an MTT-test on days 1, 7, and 10. A significant
+
+decrease in cell viability was seen on days 7 and 10 at a PFOA concentration of 100
+
+mcM and above but not at a concentration of 10 mcM. A significant decrease in the
+
+alkaline phosphatase activity of osteoblasts was seen at day 7 at a PFOA concentration
+
+of 100 mcM and above but not at a concentration of 10 mcM. An increase in calcium
+
+and in OCN mRNA was seen at PFOA concentrations of 1 and 10 mcM but not at
+
+higher concentrations.
+
+
+
+
+                                                                                              24
+   In a second in vitro study investigating the effect of PFOA on osteoclasts, the
+
+number of TRACP+ cells containing three or more nuclei was increased at PFOA
+
+concentration of 10 mcM and above with evidence for a dose response relationship.
+
+Osteoclasts were not significantly affected at 1 mcM. Resorption pit area was
+
+significantly increased at a PFOA concentration of 1 mcM, but with no evidence of a
+
+dose response relationship and a decrease in pit area with increasing PFOA
+
+concentration.
+
+   Onishchenko (2011) investigated the administration of PFOA or PFOS at a dose of
+
+0.3 mg/kg/d administered orally via food to pregnant C57BL/6/Bkl mice starting on GD1
+
+to investigate Motor function, circadian activity, and emotion-related behavior in
+
+exposed offspring. One pump per litter was sacrificed at birth for brain and liver tissue
+
+samples of PFOS and PFOA levels. Offspring were weaned on postnatal day 21 and
+
+injected subcutaneously with microtransponders. Test for locomotor and circadian
+
+activity were performed at age of 5 to 8 weeks. Animals were tested for emotion-related
+
+behavior in elevated plus maze and forced swim test. Test for motor strength and motor
+
+coordination were performed in animals at 3 to 4 months old.
+
+   Administration of PFOS or PFOA did not affect damn weight gain, litter size, or sex
+
+ratio. There were no differences in offspring body or brain weight between groups at
+
+birth. Absolute liver weight was increased in PFOA-exposed offspring as compared to
+
+controls, but not in PFOS-exposed offspring. Among exposed pups, PFOS
+
+concentrations at birth or greater than PFOA concentrations in the brain, but lower in
+
+the liver.
+
+
+
+
+                                                                                            25
+   PFOS-exposed males walked significantly less than male controls when exploring a
+
+new environment, while PFOS-exposed females do not differ from controls. PFOA
+
+exposure did not have a significant effect on locomotor activity in either sex.
+
+   Circadian activity was measured using the TraffiCage system. During adaptation to
+
+the new cage, PFOS-exposed males displayed decreased activity during the first two
+
+hours of the test, while PFOS-exposed females displayed decreased activity during the
+
+first hour only. PFOA-exposed males were more active during the first hour of the test,
+
+while PFOA-exposed females demonstrated decreased activity as compared to
+
+controls. After habituation to the cage, PFOS exposure After habituation to the cage,
+
+PFOS exposure did not significantly affect activity counts over light or dark periods,
+
+either in males or females. PFOA exposed males demonstrated greater activity as
+
+compared to controls, especially during the dark phase, while PFOA exposure in
+
+females had no effect on activity level. PFOS exposure was associated with a greater
+
+number of inactive periods during both light and dark phase in both males and females,
+
+although only the difference in females reached statistical significance. PFOA
+
+demonstrated an opposite effect, decreasing the number of inactive periods in both light
+
+and dark phase which met significance in both phases for males but only in the light
+
+phase for females. (see Figure 3)
+
+
+
+
+                                                                                         26
+Figure 3: Figure reproduced from Onishchenko (2011). This was selected as a PFOA critical effect
+for change in inactive periods seen at 0.3 mg/kg/d (LOAEL). (Onishchenko 2011) The average
+serum concentration was estimated in the mice (8.29 mg/L) using a three-compartment
+pharmacokinetic model (Wambaugh 2013) using animal species, strain, sex-specific parameters.
+(ATSDR 2018). Note: because the POD dose and pharmacokinetic model are the same as Koskela
+(2016), the derived POD serum concentrations are the same.
+
+
+   Evaluation for anxiety-related behavior in the elevated plus maze demonstrated that
+
+PFOS-exposed male mice walked less total distance than did controls, which was
+
+consistent with previous findings of decreased locomotor activity in this group, but which
+
+based on time spent in open and closed arms did not seem to reflect changes in
+
+anxiety-related behavior. No significant differences in anxiety-related behavior were
+
+noted in PFOS-exposed females or in PFO- exposed males or females.
+
+   No effect of PFOA or PFOS was demonstrated in either sex in depression-like
+
+behavior in the forced swimming test.
+
+   Muscle strength in the hanging wire test was less in PFOS-exposed males who had
+
+significantly shorter fall latency than controls. No effect was seen in PFOS-exposed
+
+female mice or in PFOA exposure in either sex.
+
+   Inconsistent findings were demonstrated between PFOS and PFOA exposure and
+
+motor coordination in the accelerating rotarod test. PFOA-exposed females had shorter
+
+
+                                                                                              27
+fall latency in every trial, but it only met statistical significance in 1 of 4 trials, while
+
+PFOA exposed males had similar fall latencies as compared to controls. PFOS-exposed
+
+females had shorter fall latency in 2 of 4 trials while PFOS-exposed males had shorter
+
+fall latency that was significant in only one of four trials.
+
+
+4.b. Development of MCLG
+
+   Following the approach used by MDHHS and MDH to identify a species-specific
+
+DAF, DPAG selected the PFOA serum half-life of 840 days (2.3 years). (Bartell 2010)
+
+This was considered more relevant for exposure to the general population than
+
+occupational exposure studies used by ATSDR. (ATSDR 2018, Bartell 2010). studied
+
+200 individuals (100 men, 100 women) exposed by drinking PFOA-contaminated water.
+
+DAPG used the volume of distribution (Vd = 0.17 L/kg) selected by MDHHS and MDH
+
+that was based on human data. (Thompson 2010). These were the references used by
+
+EPA in 2016 when they derived a PFOA clearance of 1.4 x 10-4 l/k/d and developed
+
+their health advisory level.
+
+   DPAG accepted the UFs selected by ATSDR for a UFT of 300. (ATSDR 2018) This
+
+resulted in a THSV of 0.028 mg/L for the Goeden Model. Setting the target for the
+
+breast fed infant as 0.014 (50%RSC), the MCLG for drinking water is recommended to
+
+be 8 ng/L (8PPT) to protect breastfed infants and throughout life. (Figure 4, Table 3)
+
+
+
+
+                                                                                                28
+                                       PFOA
+Dose Response Modeling        LOAEL
+Method
+POD                           The average serum concentration was estimated in the mice
+                              (8.29 mg/L) using a three-compartment pharmacokinetic
+                              model (Wambaugh 2013) using animal species, strain, sex-
+                              specific parameters. (ATSDR 2018)
+HED = POD x DAF (mg/kg/d)     DAF = Ke x Vd
+                              Ke = 0.000825175 (8.2 x 10-4) based on a human serum
+                              half-life of 840 days (Bartell 2010)
+                              Vd = 0.17 L/kg (Thompson 2010)
+                              HEDLOAEL = PODLOAEL x DAF
+                              HEDLOAEL = PODLOAEL x Ke x Vd
+                              HEDLOAEL = 8.29 mg/L x 0.0000825175 x 0.17 L/kg
+                              HEDLOAEL = 0.001163 mg/kg/d or 1.163 x 10-3 mg/kg/d
+Uncertainty Extrapolation
+
+Human Variability (UFH)       10 (standard)
+
+Animal to Human (UFA)         3 (DAF applied)
+
+Subchronic to Chronic (UFS)   1 (Chronic effect studied)
+
+LOAEL to NOAEL (UFL)          10 (standard)
+
+Database (UFD)                1
+
+Total Composite (UFT)         300
+
+RfD = HED/UFT (mg/kg/d)       RfD = 0.001163 mg/kg/d/300
+                              RfD = 3.9 ng/kg/day (3.9 x 10-6 mg/kg/d)
+THSV = POD / UFT              THSV= 8.29 mg/L/ 300
+                              THSV= 0.028 mg/L
+Receptor                      Infant exposure via breastmilk for 1 year, from mother
+                              chronically exposed via water, followed by lifetime of
+                              exposure via drinking water. Protective for short-term,
+                              subchronic and chronic. (also protective of formula fed
+                              infant). Goeden Model Parameters: Placental transfer of
+                              87% and breastmilk transfer of 5.2% (MDH (2020 PFOA)).
+                              The Human Serum half-life is set at 840 days (Bartell 2010).
+
+
+                                                                                      29
+                               The Volume of distribution of 0.17 L/kg (Thompson 2010)
+                               Other factors include, 95th percentile drinking water intake,
+                               consumers only, from birth to more than 21 years old. Upper
+                               percentile (mean plus two standard deviations) breast milk
+                               intake rate. Time-weighted average water ingestion rate from
+                               birth to 30-35 years of age is used to calculate maternal
+                               serum concentration at delivery. (Goeden 2019) A Relative
+                               Source Contribution of 50% (0.5) is applied and based on
+                               studies which showed that infants RSC is similar to NHANES
+                               95th percentiles for 3-11 (2013-2014) and over 12 years old
+                               (2015-2016) participants. (CDC 2019)
+Chronic Non-Cancer MCLG        The model produces a Chronic Non-Cancer MCLG of 8 ng/L
+                               (ppt). This protects health during the growth and
+                               development of a breast fed infant. (Figure 4)
+  Table 3: Development of Non-Cancer MCLG for PFOA
+
+
+
+
+                                                                                       30
+Figure 4. Using the Goeden Model, the POD and its parameters for PFOA were converted to an
+THSV of 0.028 mg/L. An RSC set at 50% means that half of this (0.014 mg/L) will be from ingested
+drinking water. The MCLG of PFOA in drinking water should then be set at 0.008 ug/L or 8 PPT to
+protect from adverse health events.
+
+
+
+
+                                                                                             31
+5. PFOS
+   After a literature search and a review of the available evidence and
+
+recommendations from various agencies, the DPAG developed an MCLG
+
+recommendation for PFOS based on Non-Cancer endpoints. DPAG reviewed a number
+
+of candidate MRL levels developed by US EPA and ATSDR. (ATSDR 2018, Dong I
+
+2011, Pachkowski 2019, Peden-Adams 2008, Vassiliadou 2010, Butenhoff 2009)
+
+Although immune function has not been examined following chronic-duration oral
+
+exposure in laboratory animal studies, the lowest LOAEL doses were for immunological
+
+effects in intermediate-duration animal studies. These were seen at doses lower than
+
+hepatotoxicity or developmental effects. ATSDR did not select an immunotoxicity study
+
+as a critical study but did develop a “candidate MRL” using the immunotoxicity study by
+
+Dong (2011). The NOAEL endpoint was suppression of natural killer cell activity and
+
+anti-Sheep Red Blood Cell Antibody response in mice. Laboratory animal studies,
+
+particularly studies in mice, provide supporting evidence of the immunotoxicity of PFOS.
+
+Human epidemiological studies are consistent with this evidence as well. After the
+
+calculation of HEDs and application of UFs to all of these studies, the resultant MRLs
+
+were nearly identical to those using other studies by agencies such as MDHHS. Thus,
+
+DPAG concluded the study by Dong l (2011) and the POD of 2.36 mg/L were
+
+appropriate. This study was selected over the other immunotoxicity studies because it
+
+identified the highest NOAEL for immunotoxicity and the longest exposure duration.
+
+
+
+
+                                                                                         32
+5.a. Review of Critical Study
+
+   Dong l (2011) administered PFOS to adult male C57DL6 mice to investigate
+
+immunotoxicity outcomes. PFOS with 2% Tween 80 was administered by oral garage
+
+daily for 60 days to a targeted total administer dose over that period of 0, 0.5, 1, 5, 25,
+
+and 50 mg/kg body weight with controls being administered deionized water with
+
+solubilizer only. 12 mice were included in each group. Mice were immunized on the 54th
+
+day of PFOS dosing by intravenous injection of sheep red blood cells (SRBC). Six of the
+
+12 mice from each treatment group or sacrificed seven days later and blood was
+
+obtained by cardiac puncture. The remaining six mice were administered a booster
+
+immunization of SRBC to the right rear foot pad on the final day of PFOS dosing to
+
+investigate delayed type hypersensitivity response (DTH) and other immunoglobulin
+
+assays.
+
+   Mice exposed at the highest dose of 50 mg/kg had significantly lower body weight as
+
+compared to controls; however, body weight change was insignificant at other dose
+
+levels. Similarly, food intake on the final day of dosing was significantly less at the
+
+highest 50 mg/kg dosing group as compared to controls but was there was no
+
+significant difference at other dose levels. Relative spleen and thymus weights were
+
+decreased at the highest 50 mg/kg dose, but not significantly different than other dose
+
+levels. Relative liver weight was increased at both the 25 mg/kg dose and 50 mg/kg
+
+dose as compared to controls.
+
+   Serum PFOS concentration increased in a dose response fashion with increasing
+
+absolute dose administered. There was no significant effect of treatment dose on serum
+
+corticosterone level.
+
+
+
+
+                                                                                              33
+   IFNgamma level was significantly decreased at the 50 mg/kg dose, without
+
+significant changes at other dose levels. IL-4 levels were significantly increased at the 5
+
+mg/kg dose and above. For both IFNgamma and IL-4, changes in levels were largely
+
+dose-dependent except at the lowest 0.5 mg/kg dose. The number of cells secreting IL-
+
+2 and IL-10 were decreased and increased, respectively, in the 50 mg/kg dose group,
+
+but no significant differences were seen at lower dose regimens. As with other
+
+cytokines, changes in levels were largely does dependent at the higher dose regimens
+
+only.
+
+   With respect to immunoglobulin synthesis, IgM levels declined with a dose-response
+
+relationship at the 5 mg/kg dose and above. IgG, IgG1, and IgE production were all
+
+increased only at the 50 mg/kg dose with other lower dose regimens not affecting serum
+
+levels. IgG2a levels and delayed-type hypersensitivity response were unaffected by
+
+PFOS administration.
+
+
+5.b. Development of MCLG
+
+Dong (2011) identified immune suppression, specifically increased IL-4 and decreased
+
+Sheep RBC specific IgM levels in the mouse model. Doses administered over 60 days
+
+were converted to mg/kg/d by dividing by 60 days. Thus, doses were 0, 0.00833,
+
+0.0167, 0.0833, 0.4167, and 0.8333 mg/kg/d. The NOAEL of 0.0167 mg/kg/day (total
+
+dose over 60 days of 1 mg/kg) was selected because it was the highest dose without a
+
+statistically significant effect. (Figure 5 is reproduced from Dong (2011; Figure 1)
+
+
+
+
+                                                                                         34
+Figure 5: NOAEL critical effect of increased IL-4 levels determined by Dong 2011. The dose
+administered is over 60 days and is thus converted to the daily dose of 0.0167 mg/kg/day (total
+dose of 1 mg/kg over 60 days).
+
+       Dong provided the serum PFOS level at each dose and thus the 1 mg/kg dose
+
+results in a serum PFOS level of 2.36 mg/L (+/- 0.47). This is found in Figure 6.
+
+
+
+
+                                                                                              35
+Figure 6: Serum PFOS level reported by Dong (2011) Table 1.
+
+
+   DPAG followed the approach adopted by MDH and MDHHS and applied the PFOS
+
+specific clearance rate of 1241 days (Li 2018) and the EPA reported Vd of 0.23 L/kg to
+
+develop the DAF. DPAG agreed with MDHHS application of a UFT of 100. This
+
+produced a THSV of 0.024 mg/mL. Setting the target to protect the breast fed infant as
+
+0.012 mg/mL (50%RSC), the MCLG for drinking water is recommended to be 8 ng/L
+
+(8PPT) to protect breast fed infants and throughout life. (Figure 7, Table 4)
+
+
+
+
+                                          PFOS
+ Dose Response Modeling                   NOAEL
+ Method
+ POD                                      2.36 μg/mL(or 2.36 mg/L)
+
+ HED = POD x DAF (mg/kg/d)                Toxicokinetic Adjustment based on
+                                          Chemical- Specific Clearance Rate (Li
+                                          2018, MDH 2020 PFOS)
+                                          DAF = Vd (L/kg) x (Ln2/Half-life, days)
+                                          DAF = 0.23 L/kg x (0.693/1241 days) =
+                                          DAF = 0.00013 L/kg/d
+                                          HED = POD x DAF (mg/kg/d)
+                                          HED = 2.36 mg/L x 0.00013 L/kg/d
+                                          HED = 0.000307 mg/kg/d
+
+
+
+                                                                                     36
+Uncertainty Extrapolation
+
+Human Variability (UFH)       10
+
+Animal to Human (UFA)         3 (DAF applied)
+
+Subchronic to Chronic (UFS)   1
+
+LOAEL to NOAEL (UFL)          1
+
+Database (UFD)                3
+
+Total Composite (UFT)         100
+
+RfD = HED/UFT (mg/kg/d)       RfD = HED/UFT (mg/kg/d)
+                              RfD = 0.000307 mg/kg-d/100
+                              RfD = 3.1 ng/kg/d or 3.1x 10-6 mg/kg-d
+THSV = POD/UFT                TSHV = 2.36 mg/L/100
+                              TSHV = 0.024 mg/mL
+Receptor                      Infant exposure via breastmilk for 1 year,
+                              from mother chronically exposed via
+                              water, followed by lifetime of exposure via
+                              drinking water. Protective for short-term,
+                              subchronic and chronic. The 95th
+                              percentile water intake rates (Table 3-1
+                              and 3-3, USEPA 2019) or upper
+                              percentile breastmilk intake rates (Table
+                              15-1, USEPA 2019) were used. Breast-
+                              fed infant, which is also protective of a
+                              formula-fed infant using Minnesota
+                              Department of Health Model based on
+                              Goeden (2019). Placental transfer of 40%
+                              (MDH 2020 PFOS). Breastmilk transfer of
+                              1.7% (MDH 2020 PFOS). Human Serum
+                              half-life of 1241 days (Li 2018) Volume of
+                              distribution of 0.23 L/kg (USA EPA
+                              2016c) 95th percentile drinking water
+                              intake, consumers only, from birth to
+                              more than 21 years old (Goeden [2019])
+                              Upper percentile (mean plus two
+
+
+                                                                      37
+                                        standard deviations) breast milk intake
+                                        rate (Goeden 2019) Time-weighted
+                                        average water ingestion rate from birth to
+                                        30-35 years of age (to calculate maternal
+                                        serum concentration at delivery) (Goeden
+                                        2019)
+ Chronic Non-Cancer MCLG                The model produces a Chronic Non-
+                                        Cancer MCLG of 14 ng/L (ppt). This
+                                        protects health during the growth and
+                                        development of a breast fed infant. Figure
+                                        7
+Table 4: Development of Non-Cancer MCLG for PFOS
+
+
+
+
+                                                                               38
+Figure 7. Using the Goeden Model, the reference dose and its parameters for PFOS were
+converted to an THSV of 0.024 mg/L. An RSC set at 50% means that half of this (0.012 mg/L) will
+be from ingested drinking water. The MCLG of PFOS in drinking water should then be set at
+0.014 ug/L or 14 PPT to protect the breast fed infant from adverse health events.
+
+
+
+
+                                                                                             39
+6. PFNA
+
+   After a literature search and a review of the available evidence and
+
+recommendations from various agencies, the DPAG developed an MCLG
+
+recommendation for PFNA based on Non-Cancer endpoints. The critical study identified
+
+was Das (2015). ATSDR released a provisional minimal risk level for intermediate
+
+exposure based on an analysis of Das (Das 2015, Rogers 2014, Wolf 2010). The HED
+
+of the NOAEL of 1 mg/kg/d identified in the Das (2015) developmental toxicity study
+
+was selected as the POD for the ATSDR MRL. At this dose, there was no statistical
+
+difference from controls for developmental landmarks of eye opening, preputial
+
+separation in makes, and vaginal opening in females. A TWA serum PFNA
+
+concentration was estimated for dams using the serum concentration in the control
+
+group (0.015 μg/mL) as the baseline concentrations and the terminal concentration for
+
+the 1 mg/kg/d group (13.67 μg/mL) resulting in an estimated TWA serum concentration
+
+of 6.8 μg/mL. Das (2015) provided the serum concentrations directly to the ATSDR.
+
+NJDEP (2015) used the same study and the same dose of 1 mg/kg/d, but as a LOAEL
+
+for increased liver weight in pregnant mice. DPAG studied the controversy surrounding
+
+liver weight and similar effects produced by expression of peroxisome proliferator-
+
+activated receptor-alpha (PPARalpha) which is specific to rodents. DPAG agreed with
+
+ATSDR’s selected POD and further agreed with Michigan’s application of the Goeden
+
+transgenerational toxicokinetic model to this POD. Interestingly, the resulting MCLG is
+
+lower than the MCL determined by NJDEP (2015).
+
+
+
+
+                                                                                          40
+6.a. Summary of Critical Study
+
+   This study administered PFNA to pregnant CD-1 mice by oral gavage daily on
+
+gestational day 1 - 17 to assess for developmental toxicity outcomes. Treatment groups
+
+included 1 mg/kg/d, 3 mg/kg/d, 5 mg/kg/d, and 10 mg/kg/d while controls received
+
+deionized water. Mice were allocated to two groups: one group was sacrificed on GD 17
+
+for analysis of gravity uterus, live fetuses, and maternal and fetal liver analysis. The
+
+second group was allowed to give birth and pregnancy outcomes and postnatal survival,
+
+growth, and development of the pups were monitored.
+
+
+
+   Mice in the highest 10 mg/kg/d dose group demonstrated overt toxicity beginning on
+
+GD 8. Therefore, the highest dose utilized for the remainder of the study was 5 mg/kg/d.
+
+The 3 mg/kg/d and 5 mg/kg/d groups demonstrated increased maternal weight gain as
+
+compared to controls for GD 11 to GD 17 which of the authors opined was likely due to
+
+dose-related enlargement of maternal liver. Increases in absolute and relative liver
+
+weight were seen at necropsy on GD 17 at the 1 mg/kg/d, 3 mg/kg/d, and 5 mg/kg/d
+
+doses. These changes demonstrated a dose response relationship in pregnant mice but
+
+not in non-pregnant mice. The authors noted that liver enlargement is common to PFAA
+
+exposure and it’s probably mediated by activation of the PPARalpha signaling pathway.
+
+   With respect to pregnancy outcomes, there was no effect of treatment group on
+
+number of implants, number of life fetuses, or fetal weights. Absolute and relative liver
+
+weight was increased in PFNA exposed fetuses as compared to controls; however,
+
+there was no dose-response relationship. There was no effect of treatment group on
+
+
+
+
+                                                                                            41
+skeletal or visceral examination of fetuses. Full litter resorption occurred at the 10 mg/kg
+
+dose; however, this was associated with overt maternal toxicity, as noted above.
+
+   Postnatal survival of pups was decreased at the 5 mg/kg/d dose with deaths starting
+
+on PND 2 and only 20% of pups surviving to weaning. Treatment at the two lower dose
+
+levels did not affect pup survival. Exposure at the 3 mg/kg/d and 5 mg/kg/d was
+
+associated with decreased weight gain in pups with a dose response relationship.
+
+Decreased body weight was more persistent in male pups without any evidence of
+
+catch up growth in the post weaning period, whereas females typically recovered to
+
+control levels by 7 weeks of age. Relative liver weight was increased in pups at all
+
+treatment levels as compared to controls. This effect became less strong in the post
+
+weaning period and at PND 70 no significant effects remained. There were dose-
+
+dependent delays in postnatal development in the 3 mg/kg/d and 5 mg/kg/d groups with
+
+respect to eye opening, preputial separation, and vaginal opening.
+
+   Analysis of liver mRNA transcripts demonstrated PPARalpha-dependent gene
+
+expression in both fetal and neonatal mouse liver with activation of other transcripts
+
+regulated by other pathways. PPARalpha activation persisted to young adulthood and
+
+then declined, which the authors attributed to body burden of PFNA.
+
+
+
+6.b. Development of MCLG
+
+   The HED of the NOAEL of 1 mg/kg/d identified in the Das (2015) developmental
+
+toxicity study was selected as the POD for the MRL. At this dose, there was no
+
+statistical difference from controls for developmental landmarks of eye opening,
+
+preputial separation in makes, and vaginal opening in females. (Figure 8)
+
+
+
+                                                                                         42
+Figure 8: PFNA NOAEL of 1 mg/kg identified by Das (2015)
+
+
+   A TWA serum PFNA concentration was estimated for dams using the serum
+
+concentration in the control group (0.015 μg/mL) as the baseline concentrations and the
+
+terminal concentration for the 1 mg/kg/d group (13.67 μg/mL) resulting in an estimated
+
+
+
+
+                                                                                     43
+TWA serum concentration of 6.8 μg/mL. Das provided the serum concentrations directly
+
+to ATSDR. (ATSDR 2018) DPAG agreed with ATSDR’s selected POD and UFTs and
+
+further agreed with MDH DAF calculations and the use of Goeden transgenerational
+
+toxicokinetic model to this POD. Setting the target to protect the breast fed infant as
+
+0.0115 mg/mL (50%RSC), the MCLG for drinking water is recommended to be 6 ng/L (6
+
+PPT) to protect breast fed infants and throughout life. (Figure 8, Table 5)
+
+
+
+
+                                                                                          44
+                                   PFNA
+Dose Response Modeling        NOAEL
+Method
+POD                           A NOAEL of 1 mg/kg/d was identified for
+                              developmental effects. Das (2015) The average serum
+                              concentration for NOAEL (1 mg/kg/d) was estimated
+                              (6.8 mg/L) in dams using an empirical clearance
+                              model (Wambaugh 2013).
+HEDNOAEL = POD x DAF          DAF = Ke x Vd
+(mg/kg/d)                     Ke = 0.000489165 (4.8 x 10-4) based on a human
+                              serum half-life of 1417 days. The human serum half-
+                              lives were an arithmetic mean of 2.5 years (913 days)
+                              for 50 year old or younger females and 4.3 years
+                              (1570 days) for females older than 50 years old and all
+                              males. An average of 3.9 years (1417 days) was
+                              calculated based on those averages. (calculated from
+                              Zhang 2013)
+                              Vd = 0.2 L/kg (ATSDR 2018; Ohmori 2003)
+
+                              HEDNOAEL = POD x DAF (mg/kg/d)
+                              HEDNOAEL = POD x Ke x Vd
+                              HEDNOAEL = 6.8 mg/L x 0.000489165 x 0.2 L/kg
+                              HEDNOAEL = 0.000665 mg/kg/d
+Uncertainty Extrapolation
+
+Human Variability (UFH)       10
+
+Animal to Human (UFA)         3
+
+Subchronic to Chronic (UFS)   1
+
+LOAEL to NOAEL (UFL)          1
+
+Database (UFD)                10
+
+Total Composite (UFT)         300 (as per ATSDR 2018)
+
+RfD = HED/UFT (mg/kg/d)       RfD = HED/UFT (mg/kg/d)
+                              RfD = 0.000665 mg/kg/d / 300
+                              RfD = 2.2 ng/kg/day (2.2 x 10-6 mg/kg/d)
+THSV = POD/UFT                THSV = POD/UFT
+                              THSV = 6.8 mg/L / 300
+
+
+                                                                                45
+                                    THSV = 0.023 mg/L
+
+ Receptor                           Breast-fed infant, which is also protective of a formula-
+                                    fed infant Placental transfer of 69%. Breastmilk
+                                    transfer of 3.2% (MDH 2020) Half-life = 1417 days (3.9
+                                    years). (Zhang 2013, MDDHS 2019, ATSDR 2018)
+                                    Volume of distribution = 0.2 L/kg (ATSDR 2018,
+                                    Ohmori 2003). Applied to the Goeden Model. 95th
+                                    percentile drinking water intake, consumers only, from
+                                    birth to more than 21 years old (Goeden 2019) Upper
+                                    percentile (mean plus two standard deviations) breast
+                                    milk intake rate (Goeden 2019) Time-weighted
+                                    average water ingestion rate from birth to 30-35 years
+                                    of age (to calculate maternal serum concentration at
+                                    delivery) (Goeden 2019) Relative Source Contribution
+                                    of 50% (0.5) Based on NHANES 95th percentiles for
+                                    3-11 (2013-2014) and over 12 years old (2015-2016)
+                                    participants (CDC 2019)
+ Chronic Non-Cancer MCLG            The model produces a Chronic Non-Cancer MCLG of
+                                    6 ppt. This protects health during the growth and
+                                    development of a breast fed infant. Figure 8
+Table 5: Development of Non-Cancer MCLG for PFNA
+
+
+
+
+                                                                                        46
+Figure 9. Using the Goeden Model, the reference dose and its parameters for PFNA were
+converted to an THSV of 0.023 mg/L. An RSC set at 50% means that half of this (0.0115 mg/L) will
+be from ingested drinking water. The MCLG of PFNA in drinking water should then be set at
+0.006 ug/L or 6 PPT to protect from adverse health events.
+
+
+
+
+                                                                                             47
+7. PFHXs
+   After a literature search and a review of the available evidence and
+
+recommendations from various agencies, the DPAG developed an MCLG
+
+recommendation for PFHxS based on Non-Cancer endpoints. The critical study
+
+selected was Chang S (2018). This study identified reduced litter size following a 14 day
+
+prior to pregnancy oral exposure in Adult CD-1 female mice. Serum levels were
+
+measured at 14 days. MDHHS (MDHHS (2020 PFHXS) and NTP (2018) identified a
+
+POD of 32.4 mg/L serum concentration for male rats based on BMDL20 analysis of this
+
+study. DPAG had selected a BMR of 10% (hence BMDL10) as the preferred method for
+
+using BMD to select a POD and therefore rejected the use of BMDL20. NHDES and Ali
+
+(2019) provided rigorous and more recent analysis and used a BMR of 50% of the
+
+Standard Deviation (BMDL0.5SD). This was in keeping with EPA guidance on the
+
+selection criteria for BMRs and so was acceptable to the DPAG. The BMDL0.5SD derived
+
+by Ali (2019) using data from the critical study was 13.9 mg/mL and provided the basis
+
+for the MCLG.
+
+
+
+
+7.a. Summary of Critical Study
+
+   This study administered potassium perfluorohexanesulfonate (PFHxS) to CD-1 mice
+
+to assess for reproductive and developmental toxicity. Both male and female mice were
+
+assigned to one of four treatment groups: control, 0.3 mg/kg/d, 1 mg/kg/d, and 3
+
+mg/kg/d with 30 mice of each sex assigned to each treatment group. Following an
+
+acclimation period that included observation of female mice for estrous cyclicity, male
+
+
+                                                                                          48
+and female mice were administered vehicle control or aqueous solution of PFHxS by
+
+oral gavage daily beginning 14 days prior to cohabitation. Males were administered
+
+vehicle or treatment for a total of at least 42 days with scheduled sacrifice one day post-
+
+last dose. F0 females were administered vehicle or treatment until lactation day 21 with
+
+scheduled sacrifice one day later. After weaning on postnatal day 21, F1 offspring were
+
+directly dosed with PFHxS for an additional 14 days at the same respective maternal
+
+dose.
+
+   F0 mice were observed daily for clinical signs of toxicity before and 2 hours after oral
+
+gavage dosing. No signs of clinical toxicity were noted at any of the treatment levels.
+
+Body weights and food consumption were recorded weekly. There was a significant
+
+body-weight gain in male mice at the 0.3 mg/kg/d and 1 mg/kg/d dose levels but not at
+
+the 3 mg/kg/d dose; therefore, this was not considered to be treatment-related. There
+
+were no significant differences in body-weight gain in female mice across all treatment
+
+groups. There was no significant difference in food consumption across all treatment
+
+groups in either sex.
+
+   Functional observational battery and motor activity assessment was performed on
+
+10 mice/sex/treatment group prior to scheduled sacrifice and no significant differences
+
+were noted across the treatment groups in any of the measured outcomes or in trend of
+
+motor activity over time.
+
+   Among F0 mice, there was no significant difference among treatment groups with
+
+respect to any of the reproductive function outcomes investigated. In males, PFHxS did
+
+not affect sperm motility, count, density, and morphology. In females, PFHxS did not
+
+affect mating index, fertility index, or precoital interval.
+
+
+
+
+                                                                                          49
+   With respect to pregnancy outcomes in F0 mice, there was no significant difference
+
+between treatment groups in number of implantations, mean gestation length, number
+
+of dams with viable pups, pops born to implant ratio, and sex ratio. The number of pups
+
+born per litter and mean live litter size was significantly reduced in the 1 mg/kg/d and 3
+
+mg/kg/d as compared to controls. The authors opined that the toxicological significance
+
+of that fighting was unclear due to 1) the lack of a dose response relationship; 2) no
+
+significant difference in pup to implant ratio among treatment groups; and 3) the lack of
+
+other negative effects on developmental or reproductive outcomes.
+
+   At F0 mice necropsy, there was no significant findings on macroscopic examinations
+
+across treatment groups. With the exception of liver weight, there was no difference
+
+across treatment groups on absolute or relative organ weights as compared to controls.
+
+PFHxS was associated with a significant, dose-dependent increase in both absolute
+
+and relative liver weight at the 1 mg/kd/d and 3 mg/kg/d in both male and female mice.
+
+This was considered to be an adaptive response.
+
+   With the exception of liver tissue, there was no difference across treatment groups in
+
+tissue histology. Liver tissue demonstrated primarily centrilobular hepatocellular
+
+hypertrophy among treatment groups with a dose-response relationship. In male mice
+
+only at the highest 3 mg/kg/d dose, mild microvesicular fatty change and minimal single-
+
+cell necrosis was noted in 6 of 10 and 4 of 10 mice, respectively. In female mice only at
+
+the highest 3 mg/kg/d dose, a low incidence of cytoplasmic vacuolation was seen in 3
+
+out of 10 mice. Liver tissue findings were considered by the authors to be consistent
+
+with an adaptive response.
+
+
+
+
+                                                                                         50
+   There was no difference between F0 treatment groups with any hematology
+
+parameters or with serum TSH levels. And male mice only at the highest 3 mg/kg/d
+
+dose, there was a significant decrease in serum total cholesterol and bilirubin and a
+
+significant increase in alkaline phosphatase. This was considered to be an adaptive
+
+change related to increased metabolism of the parasites and unlikely to be of
+
+toxicological significance. There were no other significant differences in male mice in
+
+clinical chemistry parameters or in female mice in any clinical chemistry parameters.
+
+   Among F1 mice, there was no significant difference between treatment groups on
+
+pub survival, body weight at birth or anytime thereafter, balanopreputial separation in
+
+males, vaginal patency in females, or areolae/nipple analgen retention in males. In male
+
+pups, a significantly increased anogenital distance was seen at all treatment levels as
+
+compared to controls; when adjusted to cube root body weight, a significantly increased
+
+anogenital distance was seen at the 0.3 mg/kg/d and 3 mg/kg/d treatment levels but not
+
+the 1 mg/kg/d treatment level. Among female pups, a decreased anogenital distance
+
+relative to cube root body weight was seen at the 1 mg/kg/d treatment level but no other
+
+treatment groups. The authors opined that these findings should not be considered toxic
+
+logically relevant in that no dose-response relationship was seen and that shortening of
+
+the anogenital distance rather than lengthening is indicative of anti-androgenic activity.
+
+   At F1 mice necropsy, with the exception of liver and thyroid weight, there was no
+
+difference across treatment groups on absolute or relative organ weight as compared to
+
+controls. Absolute liver weight was significantly increased in males at the highest 3
+
+mg/kg/d dose on PND 36 and relative liver weight was increased at the highest 3
+
+mg/kg/d dose in males and females on PND 21 and 36. This was considered an
+
+
+
+
+                                                                                          51
+adaptive response. And female mice only at the highest 3 mg/kg/d dose, there was a
+
+significant increase in relative thyroid weight at PND 36 only but not on absolute thyroid
+
+weight. However, there were no thyroid histological abnormalities including hypertrophy
+
+in that group and no corresponding change in serum TSH levels.
+
+   With the exception of liver tissue, there was no difference across treatment groups in
+
+tissue histology. Liver tissue demonstrated mild centrilobular hepatocellular hypertrophy
+
+in both male and female pups with no evidence of necrosis. This was considered an
+
+adaptive response.
+
+   Analysis of liver mRNA transcript levels in F0 and F1 mice demonstrated increased
+
+transcripts that are sensitive to PPAR-alpha activation and CAR activation in the high-
+
+dose treatment group as compared to controls across both sexes in F0 and F1 mice.
+
+Cyp3a11, which is associated with PXR activation, was increased in the high-dose
+
+treatment group in F0 males and F1 pups of both sexes. Transcripts associated with fatty
+
+acid metabolism were increased in the high-dose treatment group across both sexes in
+
+F0 and F1 mice. However, transcripts associated with cellular stress were not increased.
+
+   A second toxicokinetic study was performed by the authors to determine serum and
+
+liver PFHxS concentrations at the same daily doses as the main study. The toxicokinetic
+
+study was divided into two subsets: 5 mice/sex/dose were administered PFHxS at 0.3
+
+mg/kg/d, 1 mg/kg/d, and 3 mg/kg/d or vehicle control for 14 days prior to scheduled
+
+sacrifice. 7 mice/sex/dose were administered PFHxS at 0.3 mg/kg/d, 1 mg/kg/d, and 3
+
+mg/kg/d or vehicle control for 14 days prior to cohabitation. Male mice were dosed for
+
+an additional 14 days with scheduled sacrifice one day post-last dose. Female mice
+
+were dosed through mating and gestation with scheduled sacrifice on gestation day 18.
+
+
+
+
+                                                                                          52
+Serum and liver sample collections were obtained at necropsy for male and female
+
+mice. For fetal serum and liver concentrations, pooled fetal blood and liver sample by
+
+litter were obtained at necropsy. The toxicokinetic study found that steady state
+
+observations for PFHxS were similar to that seen for PFOS as previously reported in
+
+rodent and monkey studies.
+
+   The authors concluded that it all doses studied, there was no effect of PFHxS on
+
+body weight, food consumption, estrus cyclicity, mating, fertility, gestation length,
+
+spermatogenesis, or macro and microscopic evaluation of reproductive organs in F0
+
+mice. A slight decrease in live litter size what is considered equivocal due to no dose
+
+response relationship and no change in the pump to implant ratio. Among F1 mice, there
+
+was no effect of PFHxS on survival, birthweight, or reproductive development. Changes
+
+in liver weight, liver tissue microscopy, and clinical chemistry findings were all
+
+considered to be adaptive in nature.
+
+7.b. Development of MCLG
+
+   The BMDL0.5SD derived by (Ali 2019) using data from the critical study of Chang
+
+(2018) was 13.9 mg/mL and provided the basis for the MCLG. (Figure 9)
+
+
+
+
+                                                                                          53
+Figure 10: BMDL0.5SD derived by Ali (2019) of 13.9 mg/mL using data from the critical study of
+Chang (2018).
+
+   DPAG agreed with the DAF, UFTs, and application of the Goeden Model by MDH
+
+and MDHHS. Setting the target to protect the breast fed infant as 0.023 mg/mL
+
+(50%RSC), the MCLG for drinking water is recommended to be 20 ng/L (20 PPT) to
+
+protect breast fed infants and throughout life. (Figure 10, Table 6)
+
+
+
+
+                                                                                                 54
+                                   PFHxS
+Dose Response Modeling        lower confidence limit on the BMD on 50% of
+Method                        the SD (BMDL0.5SD)
+POD                           13.9 mg/mL
+
+HED = POD x DAF               DAF based on Chemical-Specific Clearance Rate
+                              DAF = Vd (L/kg) x (Ln2/Half- life, days)
+                              DAF = 0.25 L/kg x (Ln2/1935 days)
+                              DAF = 9.0 x 10-2 mL/kg/d
+                              HED = POD x DAF
+                              HED = 13.9 mg/mL x 8.61x10-2 mL/kg/d
+                              HED = 1.196 x 10-3 mg/kg/d
+Uncertainty Extrapolation
+
+Human Variability (UFH)       10
+
+Animal to Human (UFA)         3 based on application of DAF
+
+Subchronic to Chronic (UFS)   3 based on extrapolation from Chang S (2018)
+
+LOAEL to NOAEL (UFL)          1
+
+Database (UFD)                3 based on small number of studies
+
+Total Composite (UFT)         300
+
+RfD = HED/UFT (mg/kg/d)       Reference Dose = HED /UFT
+                              Reference Dose = 1.196 x 10-3 mg/kg/d / 300
+                              Reference Dose = 3.98 ng/kg/d (rounded to 4.0
+                              ng/kg/d)
+ITHSL = POD / UFT             ITHSL = 13.9 mg/mL / 300
+                              ITHSL = 0.0463 mg/mL
+Receptor                      Breast-fed infant, which is also protective of a
+                              formula-fed infant. Placental transfer of 70% (MDH
+                              2020 PFHXS). Breastmilk transfer of 1.4% (Li
+                              2019). Half-life = 1935 days. Vd = 0.25 L/kg
+                              (USEPA 2016, Han 2012). 95th percentile drinking
+                              water intake, consumers only, from birth to more
+                              than 21 years old (Goeden [2019]) Upper
+                              percentile (mean plus two standard deviations)
+                              breast milk intake rate (Goeden 2019) Time-
+
+
+                                                                                   55
+                                   weighted average water ingestion rate from birth to
+                                   30-35 years of age (to calculate maternal serum
+                                   concentration at delivery) (Goeden 2019) Relative
+                                   Source Contribution of 50% (0.5). Based on
+                                   NHANES 95th percentiles for 3-11 (2013-2014) and
+                                   over 12 years old (2015-2016) participants (CDC
+                                   2019)
+ Chronic Non-Cancer MCLG           The model produces a Chronic Non-Cancer MCLG
+                                   of 20 ppt. This protects health during the growth
+                                   and development of a breast fed infant.
+Table 6: Development of Non-Cancer MCLG for PFHxS
+
+
+
+
+                                                                                         56
+Figure 11. Using the Goeden Model, the reference dose and its parameters for PFHxS were
+converted to an THSV of 0.046 mg/L. An RSC set at 50% means that half of this (0.023 mg/L) will
+be from ingested drinking water. The MCLG of PFHXS in drinking water should then be set at
+0.020 ug/L or 20 PPT to protect from adverse health events.
+
+
+
+
+                                                                                             57
+8. PFHpA
+   PFHpA is a difficult compound to develop advisories for because there is a paucity
+
+of evidence on its toxicity. The DPAG decided to base recommendations on its chemical
+
+structure. MDHHS (2019) has made similar recommendations for other PFAS that lack
+
+sufficient scientific evidence to form conclusions about health advisory levels. Like
+
+PFOA, PFHpA is a carboxylic acid. PFHpA is a 7-carbon molecule and PFOA is an 8
+
+carbon molecule. The DPAG concludes that the MCLG for PFHpA should be
+
+conservatively set at the same threshold for PFOA – 8 PPT.
+
+
+
+
+9. PFBS
+   After a literature search and a review of the available evidence and
+
+recommendations from various agencies, the DPAG developed an MCLG
+
+recommendation for PFBS based on Non-Cancer endpoints. The DPAG identified Feng
+
+2017 as the critical study. The ATSDR 2018 considered the available data inadequate
+
+for identifying a critical endpoint and evaluating dose-response relationships but did not
+
+review Feng 2017. USEPA (2018 PFBS) selected Lieder (2009) and the critical effect of
+
+papillary tubular ductal epithelium hyperplasia in P0 females. They applied BMD with a
+
+BMR of 10%. The derived BMDL10 (HED) of 11.5 mg/kg/d was modified with a UFT of
+
+1000 to achieve a reference dose of 1x10-2 (mg/kg/d). Interestingly, USEPA (2018
+
+PFBS) identified the decreased serum total T4 in newborn (PND 1) mice from Feng
+
+2017 as a critical effect and performed a BMD modeling, but selected a BMR of 20%
+
+
+
+
+                                                                                        58
+over control response rate. The modeled BMDL20 and applied a UFT of 300 achieved
+
+the same reference dose of 1x10-2 (mg/kg/d) as the kidney critical effect from Lieder
+
+2009. MDHHS identified the kidney effects as a potentially compensatory response and
+
+thought the thyroid effects had greater functional significance. However, they removed
+
+the allometric scaling used in the draft USEPA (2018 PFBS) and applied the PFBS
+
+specific DAF developed by MDH. Thus, MDHHS was able to develop a chemical
+
+specific HED. However, MDH did use the BMDL20 identified by the US EPA to calculate
+
+their HED. DPAG chose to continue with use of the BMDL10 as the standard approach
+
+where the model fit was valid and used the USEPA (2018 PFBS) BMD modeling which,
+
+in addition to the BMDL20, included a calculated BMDL10 of 1.84 mg/kg/d. This BMDL10
+
+POD HED of 1.84 mg/kg/d was divided by 0.149 to remove the DAF employed by
+
+USEPA (2018 PFBS) prior to subjecting the data to BMD analysis (USEPA 2018
+
+PFBS). This results in a POD of 12.35 mg/kg/d. DPAG agreed with the application of
+
+half-life ratios by MDH of the new chemical specific DAF of 316 (human serum half-
+
+life/female mouse serum half-life = 665 hours/2.1 hours = 316). (MDH 2020 PFBS)
+
+Dividing by the new chemical specific DAF of 316 (human serum half-life/female mouse
+
+serum half-life = 665 hours/2.1 hours = 316) results in a HED of 0.039 mg/kg/d.
+
+
+
+
+9.a. Review of Critical Study
+
+   This study investigated the effects of prenatal perfluorobutanesulfonate (PFBS)
+
+exposure on perinatal growth and development, people on site, and reproductive and
+
+thyroid endocrine system function in female ICR mice. PFBS potassium salt was
+
+administered orally to pregnant mice at doses of 50, 200, and 500 mg/kg/d from GD1 to
+
+
+                                                                                        59
+GD20. Administration of the test substance did not affect weight gain, fetal loss, or
+
+behavior of the dams at the doses studied. 30 dams were assigned to one of three
+
+experimental groups: 1) sequential examination of perinatal survival and growth,
+
+pubertal onset, and ovarian and uterine development; 2) hypothalamic-pituitary-gonadal
+
+hormone and hypothalamic pituitary thyroid hormone measurements at postnatal days
+
+1, 30, and 60; 3) measurement of serum levels of PFBS.
+
+   Postnatal day 1 body weights of female offspring at the 200 mg/kg/d dose and above
+
+were decreased relative to controls. These dose groups remained underweight
+
+throughout weaning, pubertal, and adult periods. Delays in eye-opening, vaginal
+
+opening, and first estrous period were seen in female offspring at the 200 mg/kg/d dose
+
+and above with a dose response relationship.
+
+   Absolute and relative ovary weight were decreased at the 200 mg/kg/d dose and
+
+above, although no dose response relationship was seen. Number of primordial follicles,
+
+primary follicles, secondary follicles, early actual follicles, enter follicles, pre-ovulatory
+
+follicles, and corpora lutea were decreased at the 200 mg/kg/d dose and above,
+
+although no dose response relationship was seen.
+
+   Absolute and relative uterine weight were decreased at the 200 mg/kg/d dose and
+
+above, although no dose response relationship was seen. Total uterine diameter,
+
+endometrial thickness, and myometrial thickness were decreased at the 200 mg/kg/d
+
+dose and above, with a minimal dose response relationship.
+
+   Number of days spent in diestrus stage were significantly increased in female
+
+offspring at the 200 mg/kg/d dose and above as compared to controls, although no dose
+
+response relationship was seen. Levels of serum E2 were decreased at the 200
+
+
+
+
+                                                                                                 60
+mg/kg/d dose and above on postnatal day 30 and 60 but not on postnatal day 1 and
+
+with no dose response relationship. Levels of luteinizing hormone (LH) were decreased
+
+at the 200 mg/kg/d dose and above on postnatal day 30 but not on postnatal day 1 or
+
+60 with no discernible dose response relationship. Levels of P4 were decreased at the
+
+200 mg/kg/d dose and above on postnatal day 60 but not on postnatal day 1 or 30 with
+
+no discernible dose response relationship. Levels of gonadotropin-releasing hormone
+
+(GnRH) were not affected at any of the doses studied.
+
+   Total T3 and total T4 was significantly decreased in female offspring at the 200
+
+mg/kg/d dose and above on postnatal day 1, 30 and 60, although no clear dose
+
+response relationship was seen. TSH and hypothalamic Trh mRNA were both increased
+
+at the 200 mg/kg/d dose and above on postnatal day 30, but not on postnatal day 1 or
+
+60. In dams, total T4, total T3, free T4 were decreased and TSH was increased at the
+
+200 mg/kg/d dose and above without an obvious dose response relationship.
+
+
+
+9.b. Development of MCLG
+
+   DPAG agreed with USEPA selection of a decreased serum total T4 in newborn
+
+(PND 1) mice from Feng 2017 but used the USEPA reported BMDL10 of 1.84 mg/kg/d.
+
+
+
+
+                                                                                       61
+Figure 12: Critical effect of PFBS on total thyroxine (T4) levels identified by Feng 2017 used to
+develop BMDL10 POD.
+
+   This BMDL10 POD HED of 1.84 mg/kg/d was divided by 0.149 (USEPA 2018 PFBS)
+
+page F-10 to F-13) to remove the DAF employed prior to subjecting the data to BMD
+
+analysis (USEPA 2018 PFBS). This results in a POD of 12.35 mg/kg/d. Dividing by the
+
+chemical specific DAF of 316 (human serum half-life/female mouse serum half-life =
+
+665 hours/2.1 hours = 316) (MDH 2020 PFBS) results in a HED of 0.039 mg/kg/d.
+
+DPAG agreed with the UFT applied by USEPA. Applying the USEPA ingestion rate for
+
+
+
+
+                                                                                                    62
+birth to < 1 year old and a conservative 20% RSC, the MCLG for drinking water is
+
+recommended to be 55 ng/L (55 PPT) to protect infants and throughout life. (Table 7)
+
+
+
+
+                                                                                       63
+                                    PFBS
+Dose Response Modeling Method      BMDL10
+
+POD HED Units                      US EPA reported BMDL10 of 1.84 mg/kg/d. This
+                                   was divided by 0.149 (USEPA 2018 PFBS) to
+                                   derive a POD of 12.35 mg/kg/d.
+POD x DAF = HED                    DAF = (human serum half-life/female mouse serum
+                                   half-life)
+                                   DAF = 665 hours/2.1 hours
+                                   DAF = 317 (MDH 2020 PFBS).
+                                   HED = POD (BMDL10) / DAF
+                                   HED = 12.35 mg/kg/d / 317day.
+                                   HED = 0.0390 mg/kg/d
+Uncertainty Extrapolation (USEPA 2018)
+
+Human Variability (UFH)            10
+
+Animal to Human (UFA)              3
+
+Subchronic to Chronic (UFS)        3
+                                   A UFS of 3 is applied because the POD comes from
+                                   a developmental study of mice. Although this is a
+                                   susceptible life stage, additional concern over
+                                   potential hazards following longer-term (chronic)
+                                   cannot be completely accounted for with this study.
+LOAEL to NOAEL (UFL)               1 (BMDL)
+
+Database (UFD)                     10 The database lacks studies of chronic duration,
+                                   neurodevelopment, and immunotoxicity.
+Total Composite (UFT)              1000
+
+HED/UFT= Reference Dose (mg/kg-    39.0 ng/kg/day (0.000039 mg/kg/d)
+day)
+Receptor                           infant
+
+Ingestion Rate (L/day)             Based on National Health and Nutrition Examination
+                                   Survey (NHANES) 2005−2010, 95th percentile of
+                                   water intake for consumers only (direct and indirect
+                                   consumption) for infants (birth to <1 year old) of
+                                   1.106 L/day, per Table 3-17, USEPA Exposure
+                                   Factors Handbook, 2019.
+
+
+                                                                               64
+Body Weight (Kg)                        An infant body weight of 7.8 kilograms was used
+                                        and represents a time-weighted average for birth to
+                                        1 year old (Table 8-1, USEPA 2019).
+Normalized Drinking Water Intake        0.142
+(L/kg-day)
+Relative Source Contribution            20%
+
+Chronic Non-Cancer MCLG                 Chronic Non-Cancer MCLG = RfD x RSC / DWI
+                                        Chronic Non-Cancer MCLG = 0.055 ug/L or 55 PPT
+Table 7: Development of Non-Cancer MCLG for PFBS
+
+
+
+
+                                                                                    65
+10. GenX (HFPO dimer acid and its
+ammonium salt)
+   After a literature search and a review of the available evidence and
+
+recommendations from various agencies, the DPAG developed an MCLG
+
+recommendation for GenX based on Non-Cancer endpoints. US EPA 2018 selected the
+
+DuPont oral reproductive/developmental toxicity study in mice as the critical study.
+
+(DuPont-18405-1037, 2010). DPAG reviewed this and found it sufficiently robust to
+
+provide quality data.
+
+   US EPA selected liver effects (single-cell necrosis in male mice) as the critical effect
+
+for deriving the subchronic and chronic RfDs for GenX (HFPO dimer acid and its
+
+ammonium salt). USEPA (2018) evaluated the relevance of this endpoint in humans
+
+and noted that, per Hall, (Hall 2012) liver effects accompanied by effects such as
+
+necrosis or inflammation, among others, are indicative of liver tissue damage (USEPA,
+
+2018). This effect is distinct from PPARα-mediated rodent hepatocarcinogenesis. US
+
+EPA performed BMD modeling with a BMR of 10%. They reported a BMDL10 of 0.15
+
+mg/kg/d based on BMD Multistage 2 model. DAF of 0.15 was developed using
+
+allometric scaling, per USEPA (2018 GenX) guidance, since no chemical-specific data
+
+on human serum half-life was available that would allow this conversion. Conversely,
+
+NCDEQ (NCDDHS 2017) decided against BMD modeling, stating it was statistically
+
+unreliable due to poor model fit and large confidence interval. They chose a NOAEL
+
+POD and applied a UFT of 1000 to achieve a subsequent RfD at 100 ng/kg/day.
+
+
+
+
+                                                                                         66
+   Ultimately, DPAG adopted the approach used by the EPA to develop a HEDBMDL10,
+
+applied a UFT 300 and produced an RfD of 76.7 ng/kg/day. The ingestion modeling
+
+used by NCDEQ to target bottle fed infants was in keeping with the DPAG approach of
+
+targeting the most vulnerable populations for protective MCLG. The final MCLG is 108
+
+PPT.
+
+
+
+
+10.a. Review of Critical Study
+
+   This study investigated subchronic toxicity of H-28548 (HFPO dimer acid ammonium
+
+salt) in Crl:CD1(ICR) mice. Adult male and female mice were administered H-28548 at a
+
+dose of 0, 0.1, 0.5, or 5 mg/kg/d by oral gavage with a total of 10 mice per sex per dose
+
+for 96 (males) or 97 (females) days. Mice were observed daily for signs of acute toxicity.
+
+Body weight, food consumption, and detail the clinical observations were performed
+
+weekly. Ophthalmology examination, functional observational battery, and motor activity
+
+were evaluated at outset and at the conclusion of the study. Hematology and clinical
+
+chemistry studies were performed at study conclusion. Surviving mice were sacrificed
+
+and gross and microscopic pathological examinations were performed.
+
+   Body weight and body weight gain were increased in the male 5 mg/kg/d dose group
+
+relative to control, which was attributed to increased liver weight and not considered an
+
+adverse effect. No statistically significant change in body weight or body weight gain
+
+were seen any other dose groups. Food consumption and food efficiency were
+
+increased in the male 5 mg/kg/d dose group relative to control, which was attributed to
+
+increased liver weight and body weight, respectively, and not considered an adverse
+
+
+
+
+                                                                                         67
+effect. No statistically significant change in food consumption or food efficiency were
+
+seen any other dose groups.
+
+   No acute toxicity or test substance related deaths were seen at any of the doses
+
+studied. The test substance had no effect on functional observational battery outcomes
+
+at any of the doses studied.
+
+   Mean corpuscular hemoglobin (MCHC) was decreased in the male 5 mg/kg/d group
+
+relative to controls; because the decrease was minimal (97% of control) and there were
+
+no other statistically significant changes in red cell parameters, this outcome was
+
+considered to be spurious. Platelet count was increased in males at 0.5 and 5 mg/kg/d,
+
+but this did not demonstrate a dose-response relationship, was not associated with
+
+clinical signs or pathological changes, and was not seen in a previous 28-day gavage
+
+study and was considered to be unrelated to the test substance and not adverse.
+
+Absolute monocyte count was decreased in females at 0.1 mg/kg/d. However, similar
+
+changes were not demonstrated in the higher dose groups and this effect was
+
+considered to be not test substance related or adverse.
+
+   AST, ALT, sorbitol dehydrogenase, alkaline phosphatase and total bile acids were
+
+increased in the male 5 mg/kg/d group as compared to controls. ALT, sorbitol
+
+dehydrogenase, and alkaline phosphatase were increased in the female 5 mg/kg/d
+
+group as compared to controls. Changes in these parameters correlated with
+
+hepatocellular damage and/or cholestasis and were considered to be adverse effects
+
+related to the test substance. Significant differences in liver function parameters were
+
+not seen at the lower test doses. Total protein and albumin were increased, and total
+
+cholesterol was decreased in male mice at the 5 mg/kg/d dose, however the magnitude
+
+
+
+
+                                                                                           68
+of change was small, was considered to be related to the test substance but non-
+
+adverse in nature. Albumin was increased and bilirubin was decreased in the female 5
+
+mg/kg/d group, however the magnitude of change was small and was considered to be
+
+non-adverse. Decreased Billy Rubin was also seen in male mice at the 0.5 mg/kg/d
+
+dose, but this finding was not replicated at higher doses and was considered to be
+
+spurious.
+
+   Serum potassium was decreased in male and female mice at the 5 mg/kg/d dose.
+
+The changes were not associated with any clinical signs of hypokalemia and this finding
+
+was considered to be non-adverse. Chloride was higher in male mice at the 5 mg/kg/d
+
+dose, which was considered to be unrelated to the test substance and non-adverse.
+
+   Absolute and relative liver weight were increased in male mice at the 0.5 and 5
+
+mg/kg/d those groups relative to control, with a dose response relationship. Absolute
+
+and relative liver weight were increased in female mice at the 5 mg/kg/d dose group
+
+only. These changes were associated with gross and microscopic pathology findings
+
+and were considered to be treatment related.
+
+   Relative kidney weight as compared to brain was increased in males at the 5
+
+mg/kg/d dose group; however, absolute and relative kidney weight as compared to body
+
+were unchanged and this finding therefore was considered to be of uncertain
+
+significance. Relative brain and epididymis weight were lower and relative heart weight
+
+as compared to brain was higher in males at the 5 mg/kg/d dose; however, absolute
+
+changes in the organ weights were not significant and these findings were not
+
+associated with any microscopic pathology findings and were considered to be not
+
+related to the test substance. Relative spleen weight was decreased in females at the
+
+
+
+
+                                                                                        69
+0.5 and 5 mg/kg/d dose groups; however, there was no dose response relationship or
+
+findings on microscopic pathology examination and these findings were therefore
+
+considered spurious and unrelated to the test substance. Absolute and relative ovary
+
+weight were increased in females at the 0.5 mg/kg/d dose; however, there was no dose
+
+response relationship, the increased ovary weight was attributed to ovarian cysts
+
+present in three female mice in that dose group, and this finding was therefore
+
+considered spurious and unrelated to the test substance.
+
+   There was a significant increase in enlarged and discolored livers in males at the 0.5
+
+and 5 mg/kg/d dose group and in females at the 5 mg/kg/d dose group as compared to
+
+controls. These findings were considered to be related to the test substance. There
+
+were no other findings on gross pathology examination that were considered to be
+
+related to the test substance.
+
+   On microscopic examination, hepatocellular hypertrophy without liver cell injury was
+
+seen in male mice at the 0.5 mg/kg/d dose, which was considered to be treatment
+
+related but not adverse. Hepatocellular hypertrophy, hepatocellular single cell necrosis,
+
+and increased pigment concentration in Kupffer cells were seen in both male and and
+
+female mice at the 5 mg/kg/d dose. An increased number of mitotic figures were seen in
+
+male but not female mice at the same dose. Incidences and severity of liver changes
+
+were greater in males as compared to females. These changes correlated with clinical
+
+chemistry effects and were considered to be both treatment related and adverse effects.
+
+Minimal renal tubular epithelial hypertrophy was seen in male mice at the 5 mg/kg/d
+
+dose, but this was not associated with renal tubular cell degeneration or necrosis or any
+
+
+
+
+                                                                                       70
+change in clinical chemistry parameters and was therefore considered to be non-
+
+adverse. No other microscopic observations were considered to be treatment related.
+
+   An additional pharmacokinetic study was performed in which male and female adult
+
+mice were administered the same H-28548 doses at 5 mice per sex dose per timepoint
+
+and evaluated for plasma concentration of the test substance approximately two hours
+
+after dosing on test days 0, 28, and 95. These mice were also evaluated for bodyweight,
+
+food consumption, and clinical signs of overt toxicity but did not have the ophthalmology
+
+(postexposure), neurobehavioral, hematology, clinical chemistry, or pathology
+
+examinations. Test substance concentration in blood was similar on days 0, 28, and 95
+
+and female mice indicating rapid clearance of the substance from the blood and steady
+
+state concentrations achieved on the first day of dosing. In male mice, steady state
+
+concentration was achieved by day 28.
+
+
+
+10.b. Development of MCLG
+
+   DAPG adopted the USEPA performed BMD modeling with a BMR of 10% and a
+
+reported BMDL10 of 0.15 mg/kg/d based on BMD Multistage 2 model. A DAF of 0.15
+
+was developed using allometric scaling, per USEPA (2018 GenX) guidance, since no
+
+chemical-specific data on human serum half-life was available that would allow this
+
+conversion. DPAG adopted the approach used by the EPA to develop a HEDBMDL10,
+
+applied a UFT 300 and produced an RfD of 76.7 ng/kg/day. The ingestion modeling
+
+used by NCDHHS (2017) to target bottle fed infants was in keeping the DPAG approach
+
+of targeting the most vulnerable populations for protective MCLG (Table 8). The final
+
+MCLG is 108 PPT.
+
+
+
+                                                                                        71
+                                         GenX
+Method of Administered Dose          BMR 10%
+conversion to Internal Serum Level   BMDL10 of 0.15 mg/kg/d based on BMD Multistage
+                                     2 model developed by USEPA (2018 GenX)
+Method to Derive Human Equivalent    Allometric DAF = (BWA1/4/BWH1/4)
+Dose
+Dose Response Modeling Method        BMDL10 from USEPA (2018 GenX)
+
+HEDBMDL10 = POD x DAF                DAF = (BWA1/4/BWH1/4)
+                                     DAF = (0.0372 kg) 1/4/(80 kg)1/4
+                                     DAF = 0.15
+                                     HEDBMDL10 = POD (BMDL10 ) x DAF
+                                     HEDBMDL10 = 0.15mg/kg/d x 0.15
+                                     HEDBMDL10 = 0.0225 mg/kg/d
+Uncertainty Extrapolation
+
+Human Variability (UFH)              10
+
+Animal to Human (UFA)                3
+
+Subchronic to Chronic (UFS)          3
+
+LOAEL to NOAEL (UFL)                 1 (BMDL)
+
+Database (UFD)                       3 (insufficient number of studies)
+
+Total Composite (UFT)                300
+
+RfD = HED/UFT (mg/kg/d)              76.7 ng/kg/day (76.7 x10-6 mg/kg/d)
+
+Receptor                             Bottle fed infant
+
+Ingestion Rate (L/day)               Based on National Health and Nutrition Examination
+                                     Survey (NHANES) 2005−2010, 95th percentile of
+                                     water intake for consumers only (direct and indirect
+                                     consumption) for infants (birth to <1 year old) of
+                                     1.106 L/day, per Table 3-17, USEPA Exposure
+                                     Factors Handbook, 2019.
+Body Weight BW (Kg)                  An infant body weight of 7.8 kilograms was used
+                                     and represents a time-weighted average for birth to
+                                     1 year old (Table 8-1, USEPA 2019).
+
+
+
+                                                                                 72
+ Normalized Drinking Water Intake       0.142
+ (NDWI) (L/kg-day)
+ Relative Source Contribution (RSC)     20%
+
+ MCLG                                   MCLG = RfD x RSC / NDWI
+                                        MCLG = 0.108 ug/L or 108 PPT
+Table 8: Development of Non-Cancer MCLG for GenX
+
+
+
+
+                                                                       73
+11. Summary
+
+   The DPAG had the opportunity to build on the diligent work of a great number of US
+
+and State agencies who preceded us. We strove to find the best practices wherever
+
+possible and apply them in a scientifically valid and data driven manner. As new
+
+information becomes available, we would welcome the opportunity to review these
+
+MCLG recommendations and modify when appropriate. The summary of
+
+recommendations are as follows:
+
+   1. These proposed Non-Cancer MCLGs are suggested with the health of the most
+
+      vulnerable populations in mind
+
+   2. Individual MCLGs are advisable and the most scientifically rigorous approach
+
+   3. Non-Cancer MCLGs are low enough to protect against Cancer endpoints
+
+
+ PFAS                                       Reference Dose     MCLG proposed
+ perfluorooctanoic acid (PFOA)              3.9 ng/kg/day      8 PPT
+ perfluorooctanesulfonic acid (PFOS)        3.1 ng/kg/day      14 PPT
+ perfluorononanoic acid (PFNA)              2.2 ng/kg/day      6 PPT
+ perfluorohexanesulfonic acid (PFHxS)       4.0 ng/kg/day      20 PPT
+ perfluoroheptanoic acid (PFHpA)            None derived       8 PPT
+ perfluorobutanesulfonic acid (PFBS)        39 ng/kg/day       55 PPT
+ ammonium salt of hexafluoropropylene       75 ng/kg/day       108 PPT
+ oxide dimer (GenX)
+
+      We would like to thank the Commonwealth of Pennsylvania and the
+
+Pennsylvania Department of Environmental Protection for the opportunity to participate
+
+in this important work and protect the health and safety of Pennsylvanians.
+
+
+
+
+                                                                                     74
+References
+
+Ahrens L (2011). “Polyfluoroalkyl compounds in the aquatic environment: a review of
+their occurrence and fate.” Journal of Environmental Monitoring 13 (1):20-31. doi:
+10.1039/c0em00373e.
+
+Ahrens L, Bundschuh M (2014). “Fate and effects of poly-and perfluoroalkyl substances
+in the aquatic environment: A review.” Environmental toxicology and chemistry 33
+(9):1921-1929.
+
+Ahrens L, Ebinghaus R (2010). “Spatial distribution of polyfluoroalkyl compounds in dab
+(Limanda limanda) bile fluids from Iceland and the North Sea.” Marine Pollution Bulletin
+60 (1):145-148.
+
+Ahrens L, Siebert U, Ebinghaus R (2009). “Total body burden and tissue distribution of
+polyfluorinated compounds in harbor seals (Phoca vitulina) from the German Bight.”
+Marine Pollution Bulletin 58 (4):520-525.
+
+Ali JM, Roberts SM, Gordon DS, Stuchal LD (2019). “Derivation of a chronic reference
+dose for perfluorohexane sulfonate (PFHxS) for reproductive toxicity in mice.” 2019.
+Regul Toxicol Pharmacol. 2019 Nov;108:104452. doi: 10.1016/j.yrtph.2019.104452.
+Epub 2019 Sep 2. PMID: 31487490
+
+Anderson RH, Long GC, Porter RC, and Anderson JK (2016). ‘Occurrence of select
+perfluoroalkyl substances at US Air Force aqueous film-forming foam release sites other
+than fire-training areas: Field-validation of critical fate and transport properties.”
+Chemosphere 150:678-685. doi: 10.1016/j.chemosphere.2016.01.014.
+
+ATSDR (2018). Agency for Toxic Substances and Disease Registry. Toxicological
+Profile for Perfluoroalkyls. Draft for Public Comment. June 2018.
+https://www.atsdr.cdc.gov/toxprofiles/tp200.pdf Accessed online December 9, 2020
+
+Backe WJ, Day TC, Field JA (2013). “Zwitterionic, cationic, and anionic fluorinated
+chemicals in aqueous film forming foam formulations and groundwater from US military
+bases by nonaqueous large-volume injection HPLC-MS/MS.” Environmental science &
+technology 47 (10):5226-5234.
+
+Baduel C, Paxman CJ, Mueller JF (2015). “Perfluoroalkyl substances in a firefighting
+training ground (FTG), distribution and potential future release.” Journal of hazardous
+materials 296:46-53.
+
+
+
+
+                                                                                          75
+Bartell SM, Calafat AM, Lyu C, Kato K, Rayn P, Steenland K (2010). “Rate of decline in
+serum PFOA concentrations after granular activated carbon filtration at two public water
+systems in Ohio and West Virginia.” Environ Health Perspect 118(2):222-228.
+
+Beck NB, Becker RA, Erraguntla N, Farland WH, Grant RL, Gray G, Kirman C, LaKind,
+JS, Lewis RJ, Nance P, Pottenger LH, Santos SL, Shirley S, Simon T, and Dourson ML
+(2016). “Approaches for describing and communicating overall uncertainty in toxicity
+characterizations: U.S. Environmental Protection Agency’s Integrated Risk Information
+System (IRIS) as a case study.’ Environment International 89-90, 110-128.
+
+Bonefeld-Jorgensen EC, Long M, Bossi R, Ayotte P, Asmund G, Kruger T, (2011)
+“Perfluorinated compounds are related to breast cancer risk in Greenlandic Inuit: a case
+control study.” Environ Health 2011:10;88.
+
+Butenhoff J, Chang SC, Ehresman DJ, York RG 2009. “Evaluation of potential
+reproductive and developmental toxicity of potassium perfluorohexanesulfonate in
+Sprague Dawley rats.” Reprod. Toxicol. 2009:27;331–341.
+
+California Environmental Protection Agency (CEPA) (2019). Notification Level
+Recommendations for Perfluorooctanoic Acid (PFOA) and Perfluorooctane Sulfonate
+(PFOS) in Drinking Water. Prepared by Pesticide and Environmental Toxicology Branch
+Office of Environmental Health Hazard Assessment. Accessed online Dec 2020.
+https://oehha.ca.gov/water/notification-level/notification-level-recommendations-
+perfluorooctanoic-acid-pfoa
+
+Center for Disease Control (CDC) (2019). Fourth National Report on Human Exposure
+to Environmental Chemicals, Updated Tables, January 2019, Volume One.
+https://www.cdc.gov/exposurereport/pdf/
+FourthReport_UpdatedTables_Volume1_Jan2019-508.pdf
+
+Chang ET, Adami H, Boffetta P, Cole P, Starr TB, Mandel JS (2014). “A critical review
+of perfluorooctanoate and perfluorooctanesulfonate exposure and cancer risk in
+humans.” Critical Reviews in Toxicology 2014:44:sup1, 1-81, DOI:
+10.3109/10408444.2014.905767
+
+Chang S, Butenhoff JL, Parker GA, Coder PS, Zitzow JD, Krisko RM, Bjork JA, Wallace,
+KB, Seed JG (2018). “Reproductive and developmental toxicity of potassium
+perfluorohexanesulfonate in CD-1 mice.” Reprod Toxicol 2018:78;150–168.
+
+Clarke BO, Smith SR (2011). “Review of ‘emerging’ organic contaminants in biosolids
+and assessment of international research priorities for the agricultural use of biosolids.”
+Environment international 37(1):226-247.
+
+Conder JM, Hoke RA, de Wolf W, Russell MH, Buck RC (2008). "Are PFCAs
+bioaccumulative? A critical review and comparison with regulatory criteria and persistent
+lipophilic compounds." Environmental science & technology 42 (4):995-1003.
+
+
+
+                                                                                          76
+Das KP, Grey BE, Rosen MB, (2015). “Developmental toxicity of perfluorononanoic
+acid in mice.” Reproductive Toxicology 51:133-144.
+
+Dong GH, Liu MM, Wang D, Zheng L, Liang ZF, Jin YH (2011). “Sub-chronic effect of
+perfluorooctanesulfonate (PFOS) on the balance of type 1 and type 2 cytokine in adult
+C57BL6 mice.” Arch Toxicol. Oct;85(10):1235-44. doi: 10.1007/s00204-011-0661-x.
+Epub 2011 Feb 16. PMID: 21327619.
+
+DuPont-18405-1037: E.I. du Pont de Nemours and Company (2010). An Oral (Gavage)
+Reproduction/Developmental Toxicity Screening Study of H-28548 in Mice. USEPA
+OPPTS 870.3550; OECD Test Guideline 421. Study conducted by WIL Research
+Laboratories, LLC (Study Completion Date: December 29, 2010), Ashland, OH. (as
+cited in USEPA (2018)).
+
+Eriksen KT, Sørensen M, McLaughlin JK, Lipworth L, Tjønneland A, Overvad K,
+Raaschou-Nielsen O (2009). “Perfluorooctanoate and perfluorooctanesulfonate plasma
+levels and risk of cancer in the general Danish population.” J Natl Cancer Inst. 2009 Apr
+15;101(8):605-9. doi: 10.1093/jnci/djp041. Epub 2009 Apr 7. PMID: 19351918.
+
+Feng X, Cao X, Zhao S, Wang X, Hua X, Chen L, Chen L (2017). “Exposure of pregnant
+mice to perfluorobutanesulfonate causes hypothyroxinemia and developmental
+abnormalities in female offspring.” Toxicol Sci 155: 409-419.
+
+Filipovic MA, Woldegiorgis K, Norström MB (2015). “Historical usage of aqueous fillm
+forming foam: A case study of the widespread distribution of perfluoroalkyl acids from a
+military airport to groundwater, lakes, soils and fish.” Chemosphere 189:39-45.
+
+Goeden HM, Greene CW, Jacobus, JA (2019) “A transgenerational toxicokinetic model
+and its use in derivation of Minnesota PFOA water guidance.” J. Exposure Sci. Env.
+Epidemiol. 29:183-195.
+
+Guo Z, Liu X, Krebs KA, Roache NF. 2009. "Perfluorocarboxylic acid content in 116
+articles of commerce." Research Triangle Park, NC: US Environmental Protection
+Agency.
+
+Hall AP, Elcombe CR, Foster JR, (2012) “Liver Hypertrophy: A Review of Adaptive
+(Adverse and Non-adverse) Changes—Conclusions from the 3rd International ESTP
+Expert Workshop.” Toxicologic Pathol. 40:971-94.
+
+Hamid H, Li L (2016). “Role of wastewater treatment plant (WWTP) in environmental
+cycling of poly-and perfluoroalkyl (PFAS) compounds.” Ecocycles 2 (2):43-53.
+
+Han X, Nabb DL, Russell MH, Kennedy GL, Rickard RW (2012). “Renal elimination of
+perfluorocarboxylates (PFCAs).” Chem Res Toxicol. 25:35–46
+
+
+
+
+                                                                                       77
+Hardell E, Karrman A, van Bavel, Bao J, Carlberg M, Hardell L (2014). “Case-control
+study on perfluorinated alkyl acids (PFAAs) and the risk of prostate cancer.” Environ Int
+2014,63;35–9.
+
+Harding-Marjanovic, Katie C, Erika F Houtz, Shan Yi, Jennifer A Field, David L Sedlak,
+and Lisa Alvarez-Cohen (2015). “Aerobic biotransformation of fluorotelomer thioether
+amido sulfonate (Lodyne) in AFFF-amended microcosms.” Environmental science &
+technology 49(13):7666-7674.
+
+Houtz EF, Higgins CP, Field JA (2013). “Persistence of perfluoroalkyl acid precursors in
+AFFF-impacted groundwater and soil.” Environmental Science & Technology 47
+(15):8187-8195. doi: 10.1021/es4018877.
+
+Innes KE, Wimsatt JH, Frisbee S, Ducatman AM (2014). “Inverse association of
+colorectal cancer prevalence to serum levels of perfluorooctane sulfonate (PFOS) and
+perfluorooctanoate (PFOA) in a large Appalachian population.” BMC Cancer
+2014,14,45.
+
+Institute of Medicine (2011). Committee on Standards for Developing Trustworthy
+Clinical Practice Guidelines; Editors: Robin Graham, Michelle Mancher, Dianne Miller
+Wolman, Sheldon Greenfield, and Earl Steinberg. Clinical Practice Guidelines We Can
+Trust. Washington (DC): National Academies Press (US); 2011.
+
+Klaunig JE, Shinohara M, Iwai H, Chengelis CP, Kirkpatrick JB, Wang Z, Bruner RH
+(2015). “Evaluation of the chronic toxicity and carcinogenicity of perfluorohexanoic acid
+(PFHxA) in Sprague-Dawley rats.” Toxicol. Pathol. 43 (2), 209–220.
+
+Konwick BJ, Tomy GT, Ismail N, Peterson JT, Fauver RF, Higginbotham D, Fisk AT
+(2008). “Concentrations and patterns of perfluoroalkyl acids in Georgia, USA surface
+waters near and distant to a major use source.” Environmental toxicology and
+chemistry 27 (10):2011-2018.
+
+Koskela A, Finnilä MA, Korkalainen M, Spulber S, Koponen J, Håkansson H,
+Tuukkanen J, Viluksela M (2016) “Effects of developmental exposure to
+perfluorooctanoic acid (PFOA) on long bone morphology and bone cell differentiation.”
+Toxicol Appl Pharmacol. 301:14-21.
+
+Li Y, Fletcher T, Mucs D, Scott K, Lindh CH, Tallving P, Jakobsson K (2018). “Half-lives
+of PFOS, PFHxS and PFOA after end of exposure to contaminated drinking water.”
+Occup Environ Med. 2018 Jan;75(1):46-51. doi: 10.1136/oemed-2017-104651. Epub
+2017 Nov 13. PMID: 29133598; PMCID: PMC5749314.
+
+Lindstrom AB, Strynar MJ, Libelo EL (2011). “Polyfluorinated Compounds: Past,
+Present, and Future.” Environmental Science & Technology 45 (19):7954-7961. doi:
+
+
+
+
+                                                                                        78
+Loveless SE, Finlay C, Everds NE, Frame SR, Gillies PJ, O'Connor JC, Powley CR,
+Kennedy GL (2006). “Comparative responses of rats and mice exposed to
+linear/branched, linear, or branched ammonium perfluorooctanoate (APFO).”
+Toxicology. 2006 Mar 15;220(2-3):203-17. doi: 10.1016/j.tox.2006.01.003. Epub 2006
+Jan 31. PMID: 16448737.
+
+McGuire MEC, Schaefer T, Richards WJ, Backe JA, Field EF, Houtz E, Sedlak DL,
+Guelfo JL, Wunsch A, Higgins CP (2014). “Evidence of remediation-induced alteration
+of subsurface poly-and perfluoroalkyl substance distribution at a former firefighter
+training area.” Environmental Science & Technology 2014;48 (12):6644-6652. doi:
+10.1021/es5006187.
+
+MDHHS (2019). Michigan Department of Health and Human Services. Michigan Public
+health drinking water screening levels for PFAS Michigan Department of Health and
+Human Services, Division of Environmental Health Michigan PFAS Action Response
+Team Human Health Workgroup February 22, 2019
+https://www.michigan.gov/documents/pfasresponse/MDHHS_Public_Health_Drinking_
+Water_Screening_Levels_for_PFAS_651683_7.pdf
+
+MDH (2020 PFOA). Minnesota Department of Health. Toxicological Summary for:
+Perfluorooctanoate (PFOA). Accessed online December 2020.
+https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfoa.p
+df
+
+MDH (2020 PFOS). Minnesota Department of Health. Toxicological Summary for
+Perfluorooctane sulfonate (PFOS). Accessed online December 2020.
+https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfos.pd
+f
+
+MDH (2020 PFHXS). Minnesota Department of Health. Toxicological Summary for:
+Perfluorohexane sulfonate (PFHxS). Accessed online December 2020.
+https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfhxs.p
+df
+
+MDH (2020 PFBS). Minnesota Department of Health. Toxicological Summary for:
+Perfluorobutane Sulfonate (PFBS). Accessed online December 2020.
+https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfbssu
+mmary.pdf
+
+Moody CA, Field JA (1999). “Determination of perfluorocarboxylates in groundwater
+impacted by fire-fighting activity.” Environmental Science & Technology 1999;33
+(16):2800-2806. doi: 10.1021/es981355+.
+
+Moody CA, Field JA (2000). “Perfluorinated surfactants and the environmental
+implications of their use in fire-fighting foams.” Environmental Science & Technology
+2000;34(18):3864-3870. doi: 10.1021/es991359u.
+
+
+                                                                                        79
+Moody CA, Hebert GN, Strauss SH, Field JA (2003). Occurrence and persistence of
+perfluorooctanesulfonate and other perfluorinated surfactants in groundwater at a fire-
+training area at Wurtsmith Air Force Base, Michigan, USA. Journal of Environmental
+Monitoring.
+
+Murray KE, Thomas SM, Bodour AA (2010). "Prioritizing research for trace pollutants
+and emerging contaminants in the freshwater environment." Environmental Pollution
+158 (12):3462-3471. doi: 10.1016/j.envpol.2010.08.009.
+
+NRC (2009). National Research Council. Science and Decisions: Advancing Risk
+Assessment. Washington D.C.: National Academies Press.
+
+NJDEP (2015). New Jersey DEP DWQI. Maximum contaminant level recommendation
+for perfluorononanoic acid in drinking water. Trenton, NJ: New Jersey Drinking Water
+Quality Institute. https://www.nj.gov/dep/watersupply/pdf/pfoa-recommend.pdf
+
+NJDEP (2017). New Jersey DEP DWQI. Appendix A - Health-based Maximum
+Contaminant Level Support Document: Perfluorooctanoic Acid (PFOA). Trenton, NJ:
+New Jersey Drinking Water Quality Institute.
+https://www.nj.gov/dep/watersupply/pdf/pfoa-appendixa.pdf
+
+NJDEP (2018). New Jersey DEP DWQI. Appendix A - Health-based Maximum
+Contaminant Level Support Document: Perfluorooctane sulfonate (PFOS). Trenton, NJ:
+New Jersey Drinking Water Quality Institute.
+https://www.state.nj.us/dep/watersupply/pdf/pfos-recommendation-appendix-a.pdf
+
+NCDHHS (2017). North Carolina Department of Health and Human Services. Questions
+and Answers Regarding North Carolina Department of Health and Human Services
+Updated Risk Assessment for GenX (Perfluoro-2-propoxypropanoic acid). July 14,
+2017. Accessed online Dec 2020. https://files.nc.gov/ncdeq/GenX/DEQ-
+GenX%20FAQ%2008212017%201.pdf
+
+National Toxicology Program (NTP) (2018). TOX-96: Toxicity Report Tables and Curves
+for Short-term Studies: Perfluorinated Compounds: Sulfonates. Retrieved from
+https://tools.niehs.nih.gov/cebs3/views/?action=main.dataReview&bin_id=3874 .
+
+Ohmori K, Kudo N, Katayama K, (2003). Comparison of the toxicokinetics between
+perfluorocarboxylic acids with different carbon chain length. Toxicology 2003;184:135-
+140.
+
+Onishchenko N, Fischer C, Wan Ibrahim WN, Negri S, Spulber S, Cottica D, Ceccatelli
+S (2011) Prenatal exposure to PFOS or PFOA alters motor function in mice in a sex-
+related manner. Neurotox Res. 2011;19(3):452-61.
+
+
+
+
+                                                                                          80
+Pachkowski B, Post GB, Stern AH (2019). The derivation of a Reference Dose (RfD) for
+perfluorooctane sulfonate (PFOS) based on immune suppression. Environ Res.
+2019;171:452- 469.
+
+Paul AG, Jones KC, Sweetman AJ (2008). A first global production, emission, and
+environmental inventory for perfluorooctane sulfonate. Environmental science &
+technology 2008;43 (2):386-392.
+
+Peden-Adams MM, Keller JM, EuDaly JM, Berger J, Gilkeson GS, Keil DE (2008).
+Suppression of Humoral Immunity in Mice following Exposure to Perfluorooctane
+Sulfonate. Toxicol. Sci. 2008:104(1); 144-154.
+
+Prevedouros K, Cousins IT, Buck RC, Korzeniowski SH (2006). Sources, fate and
+transport of perfluorocarboxylates. Environmental Science & Technology 2006;40
+(1):32-44. doi: 10.1021/es0512475.
+
+Schultz M, Barofsky DF, Field JA (2004). Quantitative determination of fluorotelomer
+sulfonates in groundwater by LC MS/MS. Environ Sci Technol. 2004;38:1828-35. doi:
+10.1021/es035031j.
+
+Sundstrom M, Chang SC, Noker PE, Gorman GS, Hart JA, Ehresman DJ, Bergman A,
+Butenhoff JL. (2012). Comparative pharmacokinetics of perfluorohexanesulfonate
+(PFHxS) in rats, mice, and monkeys. Reproductive Toxicology, 33, 441-451.
+
+Thompson J, Lorber M, Toms LML, Kato K, Calafat AM, Mueller JF (2010). Use of
+simple pharmacokinetic modeling to characterize exposure of Australians to
+perfluorooctanoic acid and perfluorooctane sulfonic acid. Environment International
+36:390–397.
+
+Thompson T, Ells S, Greenberg M, Leeson A, Magar V, Menzie C, Patton C, Pound M,
+Reible D, Rider D (2012). SERDP and ESTCP Workshop on Research and
+Development Needs for Long-Term Management of Contaminated Sediments. DTIC
+Document.
+
+United States Environmental Protection Agency (2000). Methodology for Deriving
+Ambient Water Quality Criteria for the Protection of Human Health. EPA-822-B-00-004.
+USEPA Office of Water, Washington, DC. Accessed online Dec 2020.
+https://www.epa.gov/wqc/methodology-deriving-ambient-water-quality-criteria-
+protection-human-health-2000-documents
+
+United States Environmental Protection Agency (USEPA) (2002). A Review of the
+Reference Dose and Reference Concentration Processes. Risk Assessment Forum.
+EPA/630/P-02/002F, December 2002.
+
+United States Environmental Protection Agency (USEPA) (2005). Guidelines for
+Carcinogen Risk Assessment. Report #EPA/630/P-03/001F.
+
+
+                                                                                       81
+United States Environmental Protection Agency (USEPA) (2011). Recommended Use
+of Body Weight3/4 as the Default Method in Derivation of the Oral Reference Dose.
+EPA/100/R11/0001. USEPA, Office of the Science Advisor, Risk Assessment Forum,
+Washington, DC. Accessed online Dec 2020.
+https://www.epa.gov/sites/production/files/2013-09/documents/recommended-use-of-
+bw34.pdf
+
+United States Environmental Protection Agency (USEPA) (2012). Benchmark Dose
+Technical Guidance. Report #EPA/100/R-12/001.
+https://www.epa.gov/sites/production/files/2015-
+01/documents/benchmark_dose_guidance.pdf
+
+United States Environmental Protection Agency (USEPA) (2018 PFBS). Human Health
+Toxicity Values for Perfluorobutane Sulfonic Acid (CASRN 375-73-5) and Related
+Compound Potassium Perfluorobutane Sulfonate (CASRN 29420-49-3). Public
+Comment Draft. EPA-823- R-18-307. USEPA, Office of Research and Development,
+Washington, DC. Accessed online Dec 2020.
+https://www.epa.gov/sites/production/files/2018-
+11/documents/pfbs_public_comment_draft_toxicity_assessment_nov2018-508.pdf
+
+United States Environmental Protection Agency (USEPA) (2018 GenX). Human Health
+Toxicity Values for Hexafluoropropylene Oxide (HFPO) Dimer Acid and Its Ammonium
+Salt (CASRN 13252-13-6 and CASRN 62037-80-3), Also Known as “GenX Chemicals”.
+Public Comment Draft. EPA-823- P-18-001. USEPA Office of Water, Washington, DC.
+Accessed online Dec 2020. https://www.epa.gov/sites/production/files/2018-
+11/documents/genx_public_comment_draft_toxicity_assessment_nov2018-508.pdf
+
+United States Environmental Protection Agency (USEPA) (2019) Exposure Factors
+Handbook Chapter 3 (Update): Ingestion of Water and Other Select Liquids.
+EPA/600/R-18/259F. USEPA Office of Research and Development, Washington, DC.
+Accessed online Dec 2020. https://www.epa.gov/expobox/about-exposure-factors-
+handbook
+
+Vassiliadou I, Costopoulou D, Ferderigou A, Leondiadis L (2010). Levels of
+perfluorooctanesulfonate (PFOS) and perfluorooctanoate (PFOA) in blood samples from
+different groups of adults living in Greece. Chemosphere 2010,80,1199–206.
+
+Venkatesan AK, Halden RU (2013). National inventory of perfluoroalkyl substances in
+archived US biosolids from the 2001 EPA National Sewage Sludge Survey. Journal of
+hazardous materials 252:413-418.
+
+Wambaugh JF, Setzer RW, Pitruzzello AM, (2013). “Dosimetric anchoring of in vivo
+and in vitro studies for perfluorooctanoate and perfluorooctanesulfonate.” Toxicol Sci
+136(2):308-327.
+
+
+
+
+                                                                                         82
+Yeung LW, Guruge KS, Taniyasu S, Yamashita N, Angus PW, Herath CB (2013).
+“Profiles of perfluoroalkyl substances in the liver and serum of patients with liver cancer
+and cirrhosis in Australia.” Ecotoxicol Environ Saf 2013 , 96 , 139 – 46
+
+Zareitalabad P, Siemens J, Hamer M, Amelung W (2013). “Perfluorooctanoic acid
+(PFOA) and perfluorooctanesulfonic acid (PFOS) in surface waters, sediments, soils
+and wastewater - A review on concentrations and distribution coefficients.”
+Chemosphere 91 (6):725-732. doi: 10.1016/j.chemosphere.2013.02.024.
+
+Zhang Y, Beesoon S, Zhu L, Martin JW (2013). “Biomonitoring of perfluoroalkyl acids in
+human urine and estimates of biological half-life.” Environ Sci Technol 47(18):10619-
+10627.
+
+
+
+
+                                                                                         83
+Appendix A: Drexel PFAS Advisory Group (DPAG)
+Drexel PFAS Advisory Group (DPAG) adhered an evidence-based approach in
+
+developing its proposal. (Institute of Medicine (2011), NRC (2009)) The process was
+
+transparent and reviewed by PADEP at regular intervals. No member disclosed a
+
+conflict of interest. The panel was multidisciplinary and included a wide array of
+
+expertise. Literature and scientific evidence were reviewed with a systematic approach
+
+that rated the quality of the evidence, grade the strength of recommendations,
+
+incorporate values and preferences, and acknowledge differences in opinion.
+
+Recommendations were articulated in a structured framework repeatable across each
+
+PFA examined. They are now submitted for external review by DEP.
+
+
+Project Leader and Medical Toxicologist:
+
+   •   Richard J Hamilton MD FAAEM, FACEP, FACMT. Professor and Chair,
+
+       Emergency Medicine, Drexel University College of Medicine. Board Certified in
+
+       Medical Toxicology by the American Board of Emergency Medicine and is a
+
+       Fellow of the American College of Medical Toxicology.
+
+Medical Toxicologist Panel:
+
+   •   David Vearrier MD FAAEM, FACMT, FAACT Professor of Emergency Medicine,
+
+       Drexel University College of Medicine. Board Certified in Medical Toxicology by
+
+       the American Board of Emergency Medicine and is a Fellow of the American
+
+       College of Medical Toxicology and a Fellow of the American Academy of Clinical
+
+       Toxicology.
+
+   •   Rita McKeever MD FAAEM, FACMT, Associate Professor of Emergency
+
+       Medicine, Drexel University College of Medicine. Board Certified in Medical
+
+
+                                                                                      84
+       Toxicology by the American Board of Emergency Medicine and is a Fellow of the
+
+       American College of Medical Toxicology
+
+Expert Panel:
+
+   •   Charles N Haas Ph.D - LD Betz Professor of Environmental Engineering & Head,
+
+       Dept. of Civil, Architectural & Environmental Engineering, Drexel University
+
+   •   Christopher Sales Ph.D. Assistant Professor, Architectural & Environmental
+
+       Engineering, Drexel University
+
+   •   Marie Kurtz PhD, Senior Scientist; Assistant Research Professor, Academy of
+
+       Natural Sciences, Drexel University
+
+   •   Esther D. Chernak, MD, MPH Associate Clinical Professor, Drexel University
+
+       College of Medicine and Dornsife School of Public Health
+
+   •   Tom Hipper, MSPH, MA Adjunct Professor, Program Manager of the Center for
+
+       Public Health Readiness and Communication Dornsife School of Public Health,
+
+       Drexel University
+
+
+
+
+                                                                                      85
+Appendix B: Acronyms and Abbreviations List
+
+ATSDR: Agency for Toxic Substances and            NCDHHS: North Carolina Department of Health
+Disease Registry                                  and Human Services
+BMD: benchmark dose                               NHDES: New Hampshire Department of
+BMDL: lower confidence limit on the benchmark     Environmental Services
+dose                                              NHANES: National Health and Nutrition
+BMR: benchmark response                           Examination Survey
+BW: body weight                                   NJDEP: New Jersey Department of
+Bwa: body weight animal                           Environmental Protection
+BWh: body weight human                            ng: nanogram
+CDC: Centers for Disease Control and Prevention   NOAEL: no observed adverse effect level
+CEPA: California Environmental Protection         OECD: Organization for Economic Co-operation
+Agency                                            and Development
+DPAG: Drexel PFAS Advisory Group                  PA DEP: Pennsylvania Department of
+DAF: dosimetric adjustment factor                 Environmental Protection
+GD: gestational day                               PFAS: per- and polyfluoroalkyl substances
+GenX: ammonium salt of hexafluoropropylene        PFBS: perfluorobutane sulfonic acid
+oxide dimer                                       PFHpA : perfluoroheptanoic acid
+HBV: health-based value                           PFHxA: perfluorohexanoic acid
+HED: human equivalent dose                        PFHxS: perfluorohexane sulfonic acid
+HEDLOAEL: HED determined by LOAEL                 PFNA: perfluorononanoic acid
+HEDBMDL10: HED determined by a BMR of             PFOA: perfluorooctanoic acid
+10%                                               PFOS: perfluorooctane sulfonic acid
+HEDBMDL0.5SD: HED determined by a BMR of          PND: postnatal day
+                                                  POD: point of departure
+50% of SD
+                                                  PODHED: point of departure human equivalent
+HFPO: hexafluoropropylene oxide
+                                                  dose
+HRA: health risk assessment
+                                                  PPAR: peroxisome proliferator-activated receptor
+THSV = Internal Target Human Serum Value          ppt: parts per trillion
+kg: kilogram                                      RfD: reference dose
+L: liter                                          RSC: relative source contribution
+LD: lactation day
+                                                  TWA: time weighted average
+LHA: lifetime health advisory
+                                                  UF: uncertainty factor
+LOAEL: lowest observed adverse effect level       μg: microgram
+MCL: Maximum Contaminant Level
+                                                  USEPA: United States Environmental Protection
+MDH: Minnesota Department of Health
+                                                  Agency
+MDHHS: Michigan Department of Health and
+Human Services
+mg: milligram
+mg/kg/d: milligrams per kilogram per day
+MI: Michigan
+ml: milliliter
+MPART: Michigan PFAS Action Response Team
+
+
+
+
+                                                                                                 86
+
