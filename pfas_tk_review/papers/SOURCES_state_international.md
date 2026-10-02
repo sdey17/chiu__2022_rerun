@@ -47,3 +47,39 @@ Output CSV: `../db/state_international_regulatory.csv`.
 
 ## C. This run's retrievals
 
+### MDH (Minnesota) — URLs verified this run by md5-matching the live file against the on-disk PDF
+
+| Chemical | URL | md5 match |
+|---|---|---|
+| PFOA | https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfoa.pdf | yes |
+| PFOS | https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfos.pdf | yes |
+| PFHxS | https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfhxs.pdf | yes |
+| PFHxA | https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfhxa.pdf | yes |
+| PFBA | https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfba2summ.pdf | yes |
+| PFBS | https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfbssummary.pdf | yes |
+
+Index page that lists all of them (not bot-protected): https://www.health.state.mn.us/communities/environment/risk/guidance/gw/table.html
+Companion "info" sheets also exist (`pfoainfo.pdf`, `pfosinfo.pdf`, `pfhxsinfo.pdf`, `pfbainfo.pdf`, `pfbsinfo.pdf`) and `pfhxsnote.pdf` (= the on-disk `MDH 2025 PFHxS MCL recommendation note.pdf`).
+
+### NJ DWQI — URLs verified this run by md5-matching live file vs on-disk PDF
+
+| Chemical | URL | md5 match |
+|---|---|---|
+| PFOA (2017) | https://www.nj.gov/dep/watersupply/pdf/pfoa-appendixa.pdf | yes |
+| PFOS (2018) | https://www.nj.gov/dep/watersupply/pdf/pfos-recommendation-appendix-a.pdf | yes |
+| PFNA (2015) | https://www.nj.gov/dep/watersupply/pdf/pfna-health-effects.pdf | yes |
+
+Dead ends tried for PFNA before finding the right path: `pfna-appendixa.pdf`, `pfnaappendixa.pdf`, `pfna_recommendation.pdf` (= the DWQI recommendation letter, not the support document), `pfna.pdf`, under both `www.nj.gov/dep/watersupply/pdf/` and `dep.nj.gov/wp-content/uploads/watersupply/`. NJ serves BOTH hosts; `dep.nj.gov/wp-content/uploads/...` returns an HTML 404 page with a `.pdf` extension, so always check `file`.
+
+### Re-retrieved this run (fixing broken prior captures)
+
+| Filename | URL | Status |
+|---|---|---|
+| `NJDEP 2022 comments on WHO PFAS draft guidelines.pdf`/`.txt` | https://dep.nj.gov/wp-content/uploads/dsr/njdep-comments-who-pfas-guidelines.pdf | SUCCESS (445 KB, 2257 lines) — replaces the 212-byte Incapsula block page |
+
+### Michigan MPART Science Advisory Workgroup — URL verified this run (md5 match vs on-disk PDF)
+
+https://www.michigan.gov/-/media/Project/Websites/PFAS-Response/Reports/2019-Health-Based-Drinking-Water-Value-Recommendations-PFAS-MI.pdf
+
+Dead ends: `.../Reports/Health-Based-Drinking-Water-Value-Recommendations-for-PFAS-in-Michigan.pdf` under both `www.michigan.gov/pfasresponse/-/media/...` and `www.michigan.gov/-/media/...` return HTML 404 bodies. The live path needs the `2019-` prefix and the abbreviated `PFAS-MI` suffix. michigan.gov is NOT bot-protected; a plain UA suffices, and the `?rev=`/`?hash=` query strings are optional.
+
