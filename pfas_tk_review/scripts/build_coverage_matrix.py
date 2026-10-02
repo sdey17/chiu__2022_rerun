@@ -40,7 +40,12 @@ CHEM_ALIAS = {
     "5:3 fluorotelomer acid": "5:3 FTCA",
 }
 # Rows naming several compounds at once cannot be attributed to one of them.
-MULTI = re.compile(r"\band\b|,|multiple|^all$|short-chain|menstrual")
+MULTI = re.compile(r"\band\b|,|multiple|^all$|short-chain|menstrual|mixture")
+
+# A trailing parenthetical that names an isomer or qualifier, not a compound.
+QUALIFIER = re.compile(
+    r"\s*\((linear|branched|total|mono-branched|di-branched|n-|L-|br|iso)[^)]*\)\s*$",
+    re.I)
 
 # ---- canonical species -------------------------------------------------
 SPECIES_PATTERNS = [
@@ -48,8 +53,13 @@ SPECIES_PATTERNS = [
     (r"monkey|primate|macaque|cynomolgus|rhesus", "monkey"),
     (r"\brat\b", "rat"),
     (r"mouse|mice", "mouse"),
-    (r"pig|swine|cow|cattle|sheep|dog|rabbit|chicken|fish|trout|zebrafish",
-     "other"),
+    (r"rabbit", "rabbit"),
+    (r"pig|swine|minipig", "pig"),
+    (r"cow|cattle|bovine|calf|calves", "cattle"),
+    (r"sheep|ewe|lamb|goat|ovine|caprine", "sheep/goat"),
+    (r"chicken|hen|quail|duck|bird|poultry", "bird"),
+    (r"fish|trout|carp|tilapia|minnow|salmon|zebrafish", "fish"),
+    (r"dog|beagle|canine", "dog"),
 ]
 
 # ---- canonical parameters ---------------------------------------------
@@ -68,6 +78,14 @@ def norm_chem(s):
     t = s.strip()
     if MULTI.search(t.lower()):
         return None
+    # Collapse isomer-resolved rows onto the parent compound so that, say,
+    # "PFOS (linear, nPFOS)" and "PFOS (branched)" both count toward PFOS.
+    prev = None
+    while prev != t:
+        prev = t
+        t = QUALIFIER.sub("", t).strip()
+    t = re.sub(r"\s*\((branched|linear)[^)]*isomer[^)]*\)\s*$", "", t,
+               flags=re.I).strip()
     return CHEM_ALIAS.get(t.lower(), t)
 
 
@@ -81,7 +99,7 @@ def norm_species(s, default=None):
     for pat, name in SPECIES_PATTERNS:
         if re.search(pat, t):
             return name
-    return "other"
+    return None
 
 
 def norm_param(s):
@@ -172,6 +190,14 @@ def main() -> None:
         if r.get("clearance_low", "").strip():
             add(chem, sp, "clearance", study, r.get("sex"))
 
+    # non-rodent and gap-fill extraction
+    for r in read("tk_gap_fill.csv"):
+        chem, sp = norm_chem(r["chemical"]), norm_species(r["species"])
+        param = norm_param(r["parameter"])
+        study = f"{r['study']} {r['year']}"
+        if r.get("value", "").strip():
+            add(chem, sp, param, study, r.get("sex"))
+
     # the EPA population fits
     for r in read("master_exposure_halflife.csv"):
         chem, sp = norm_chem(r["chemical"]), norm_species(r["species"])
@@ -182,7 +208,8 @@ def main() -> None:
                 add(chem, sp, param, study, r.get("sex"), measured=False)
 
     chems = sorted({k[0] for k in cov})
-    species = ["human", "monkey", "rat", "mouse", "other"]
+    species = ["human", "monkey", "rat", "mouse", "rabbit", "pig",
+               "cattle", "sheep/goat", "bird", "fish", "dog"]
 
     # ---- the matrix ----------------------------------------------------
     print("PFAS TOXICOKINETIC COVERAGE MATRIX")
@@ -219,7 +246,7 @@ def main() -> None:
                     "studies": "; ".join(sorted(e["studies"])[:6]) if e else "",
                 }
                 rows.append(rec)
-                if status != "has_data" and s != "other":
+                if status != "has_data":
                     gaps.append(rec)
 
     with (DB / "coverage_matrix.csv").open("w", newline="") as fh:
@@ -228,24 +255,24 @@ def main() -> None:
         w.writerows(rows)
 
     print("SUMMARY")
-    tot = len(chems) * 4 * 4           # chemicals x 4 core species x 4 params
-    have = sum(1 for r in rows if r["status"] == "has_data"
-               and r["species"] != "other")
-    one = sum(1 for r in rows if r["status"] == "single_study_only"
-              and r["species"] != "other")
-    none = sum(1 for r in rows if r["status"] == "no_data"
-               and r["species"] != "other")
-    print(f"  {len(chems)} chemicals x 4 species x 4 parameters = {tot} cells")
+    tot = len(chems) * len(species) * len(PARAMS)
+    have = sum(1 for r in rows if r["status"] == "has_data")
+    one = sum(1 for r in rows if r["status"] == "single_study_only")
+    none = sum(1 for r in rows if r["status"] == "no_data")
+    print(f"  {len(chems)} chemicals x {len(species)} species x "
+          f"{len(PARAMS)} parameters = {tot} cells")
     print(f"    {have:>4} have two or more studies   ({have/tot*100:.0f}%)")
     print(f"    {one:>4} rest on a SINGLE study     ({one/tot*100:.0f}%)")
     print(f"    {none:>4} have no data at all        ({none/tot*100:.0f}%)")
 
-    print("\n  Best-covered chemicals (cells with any data, out of 16):")
-    for c in chems:
-        n = sum(1 for r in rows if r["chemical"] == c and r["species"] != "other"
+    per_chem = len(species) * len(PARAMS)
+    print(f"\n  Best-covered chemicals (cells with any data, out of {per_chem}):")
+    for c in sorted(chems, key=lambda c: -sum(
+            1 for r in rows if r["chemical"] == c and r["status"] != "no_data")):
+        n = sum(1 for r in rows if r["chemical"] == c
                 and r["status"] != "no_data")
         if n:
-            print(f"    {c:<14} {n:>2}/16")
+            print(f"    {c:<14} {n:>2}/{per_chem}")
 
     print(f"\nwrote {DB/'coverage_matrix.csv'}  ({len(rows)} cells, "
           f"{len(gaps)} of them gaps)")

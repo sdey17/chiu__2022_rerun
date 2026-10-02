@@ -625,6 +625,58 @@ that Vd to compute clearance — circular. The measured value is 121.
 Neither **OEHHA 2024 nor EPA 2024 cites Chiu 2022 at all** (verified by grep
 over both complete documents, 38,696 and 13,747 lines).
 
+### 5.5 The states agree with each other by repeating one derivation
+
+Adding thirteen US state and further international bodies (261 rows,
+`db/state_international_regulatory.csv`) widens the picture rather than
+settling it.
+
+```bash
+python3 scripts/all_agency_clearance.py   # -> db/all_agency_clearance.csv
+```
+
+For **PFOA**, five jurisdictions — New Jersey DWQI, Michigan MPART,
+Pennsylvania DEP, the Drexel advisory group that supports it, and New Hampshire
+DES — all adopt **0.140 mL/kg-day**. That looks like consensus. It is one
+derivation performed five times: every one computes `CL = Vd·ln2/t½` from
+**Thompson 2010's Vd of 170 mL/kg** and **Bartell 2010's 2.3 y half-life**. The
+same pattern repeats for PFOS at 0.128–0.130, where the Vd is Thompson's 230.
+
+Across all 42 adopted values:
+
+| how the number was produced | n |
+|---|---|
+| renal clearance only | 11 |
+| **computed from Thompson 2010's assumed Vd** | **9** |
+| animal-derived | 7 |
+| adopted wholesale from another agency | 7 |
+| measured: intake vs serum at steady state | 4 |
+| other or unstated | 4 |
+
+Recall from §5.4 what Thompson's Vd actually is: *calibrated* from two US water
+communities using an **assumed** 2.3-year half-life, not measured. So the
+apparent agreement among states is not independent confirmation — it is one
+assumption propagating, and §5.1a shows the measured Vd is 121 mL/kg, not 170.
+
+The jurisdictions that do **not** use it diverge sharply, and in both
+directions: OEHHA's measured intake-vs-serum clearance is ~2× the
+Thompson-derived cluster, while its renal-clearance-only figure is 2–8× below
+it. **Minnesota MDH is the one state that broke ranks**, adopting OEHHA's
+0.280/0.390 wholesale and landing twice as far from its neighbours as any
+methodological disagreement between them.
+
+Two further observations worth recording:
+
+- **New York derived its PFOA clearance (0.092) from Macon et al. 2011, a mouse
+  study.** Using animal data to set a human clearance factor is a different kind
+  of assumption from the others here.
+- **Four states set their human PFHxS clearance (0.086–0.090) from Sundström
+  2012's cynomolgus monkey Vd.** The human PFHxS factor in Michigan, Minnesota,
+  New Hampshire and New York rests on a monkey volume of distribution.
+- The extraction also caught an apparent error: **ITRC's PFOS entry uses
+  Bartell 2010's 840-day half-life, which is the PFOA value.** Recorded as
+  found, not corrected.
+
 ---
 
 ## 6. In vitro binding to albumin and related proteins
@@ -786,6 +838,37 @@ the primary full text.**
 ---
 
 ## 9. What nobody knows
+
+### 9.0 The shape of the hole, measured
+
+Before the specific gaps, the general one. Merging every extraction in `db/`
+onto a single grid of chemical × species × parameter, and counting *distinct
+studies* per cell:
+
+```bash
+python3 scripts/build_coverage_matrix.py   # -> db/coverage_matrix.csv
+```
+
+| | cells | share |
+|---|---|---|
+| two or more studies | 131 | 11% |
+| **a single study only** | **101** | **8%** |
+| **no data at all** | **1,000** | **81%** |
+
+28 chemicals × 11 species × 4 parameters = 1,232 cells. **Four fifths are
+empty.** Even PFOS, the best-covered compound in the world, fills 28 of its 44
+cells; PFOA 25.
+
+Coverage collapses away from four compounds and two species. PFOA, PFOS, PFHxS,
+PFBS, PFBA and PFHxA account for most of what exists. The replacement
+chemistries that are displacing them — HFPO-DA aside — are nearly empty:
+6:2 Cl-PFESA has 2 of 44 cells, cC6O4 2, ADONA 3, and the diPAPs 1 each.
+
+This is the context for every ratio in this report. **When a cell holds one
+study, a headline number is that study**, which is how the 31× mouse/rat PFOA
+ratio came to rest on Lou 2009 alone (§3.2).
+
+### 9.1 Specific gaps
 
 Ranked by how much a single experiment would settle.
 

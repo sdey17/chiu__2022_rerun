@@ -430,22 +430,22 @@ if (DB / "gasiorowski_vd.csv").exists():
 # Needs coverage_matrix.csv from scripts/build_coverage_matrix.py.
 if (DB / "coverage_matrix.csv").exists():
     cm = load("coverage_matrix.csv")
-    SPECIES = ["human", "monkey", "rat", "mouse"]
+    SPECIES = ["human", "monkey", "rat", "mouse", "rabbit", "dog", "pig",
+               "cattle", "sheep/goat", "bird", "fish"]
     PARAMS = ["half-life", "clearance", "Vd", "k"]
-    cells = {(r["chemical"], r["species"], r["parameter"]): int(r["n_studies"])
-             for r in cm}
-    # Order chemicals by total coverage so the sparse tail reads as a block.
-    totals = {}
+    # Cell value: distinct studies, summed over the four parameters, so one
+    # panel shows the whole grid including the species that are entirely empty.
+    cell = {}
     for r in cm:
-        if r["species"] in SPECIES:
-            totals[r["chemical"]] = totals.get(r["chemical"], 0) + int(r["n_studies"])
-    chems = sorted(totals, key=lambda c: -totals[c])
+        k = (r["chemical"], r["species"])
+        cell[k] = cell.get(k, 0) + int(r["n_studies"])
+    chems = sorted({r["chemical"] for r in cm},
+                   key=lambda c: -sum(cell.get((c, s), 0) for s in SPECIES))
 
-    # Sequential blue ramp, light -> dark, for a magnitude encoding.
     RAMP = ["#cde2fb", "#9ec5f4", "#6da7ec", "#3987e5", "#2a78d6",
             "#256abf", "#184f95", "#0d366b"]
-    EMPTY = "#f2f1ed"          # no data: off-ramp, deliberately not a light blue
-    BOUNDS = [1, 2, 3, 5, 8, 12, 20, 10 ** 6]
+    EMPTY = "#f2f1ed"
+    BOUNDS = [1, 2, 4, 8, 16, 32, 64, 10 ** 6]
 
     def shade(n):
         if n == 0:
@@ -455,53 +455,46 @@ if (DB / "coverage_matrix.csv").exists():
                 return col
         return RAMP[-1]
 
-    fig, axes = plt.subplots(1, 4, figsize=(13.2, 7.4), sharey=True)
-    for ax, param in zip(axes, PARAMS):
-        for yi, chem in enumerate(chems):
-            for xi, sp in enumerate(SPECIES):
-                n = cells.get((chem, sp, param), 0)
-                ax.add_patch(plt.Rectangle((xi, yi), 0.92, 0.92,
-                                           facecolor=shade(n),
-                                           edgecolor=SURFACE, linewidth=1.5))
-                if n:
-                    # Dark fills need light text; the ramp crosses over at ~5.
-                    ax.annotate(str(n), (xi + 0.46, yi + 0.46), ha="center",
-                                va="center", fontsize=8.5,
-                                color="#ffffff" if n > 4 else INK)
-        ax.set_xlim(-0.1, len(SPECIES))
-        ax.set_ylim(-0.1, len(chems))
-        ax.set_xticks([i + 0.46 for i in range(len(SPECIES))])
-        ax.set_xticklabels(SPECIES, fontsize=9)
-        ax.set_yticks([i + 0.46 for i in range(len(chems))])
-        ax.set_yticklabels(chems, fontsize=9)
-        ax.set_title(param, loc="left", color=INK, fontsize=11,
-                     fontweight="bold", pad=8)
-        ax.invert_yaxis()
-        ax.grid(False)
-        for s in ax.spines.values():
-            s.set_visible(False)
-        ax.tick_params(length=0)
+    fig, ax = plt.subplots(figsize=(10.6, 9.4))
+    for yi, chem in enumerate(chems):
+        for xi, sp in enumerate(SPECIES):
+            n = cell.get((chem, sp), 0)
+            ax.add_patch(plt.Rectangle((xi, yi), 0.92, 0.92,
+                                       facecolor=shade(n), edgecolor=SURFACE,
+                                       linewidth=1.5))
+            if n:
+                ax.annotate(str(n), (xi + 0.46, yi + 0.46), ha="center",
+                            va="center", fontsize=8.5,
+                            color="#ffffff" if n > 8 else INK)
+    ax.set_xlim(-0.1, len(SPECIES))
+    ax.set_ylim(-0.1, len(chems))
+    ax.set_xticks([i + 0.46 for i in range(len(SPECIES))])
+    ax.set_xticklabels(SPECIES, fontsize=9.5, rotation=35, ha="right")
+    ax.set_yticks([i + 0.46 for i in range(len(chems))])
+    ax.set_yticklabels(chems, fontsize=9)
+    ax.invert_yaxis()
+    ax.grid(False)
+    for sp_ in ax.spines.values():
+        sp_.set_visible(False)
+    ax.tick_params(length=0)
 
-    n_none = sum(1 for r in cm if r["species"] in SPECIES
-                 and r["status"] == "no_data")
-    n_one = sum(1 for r in cm if r["species"] in SPECIES
-                and r["status"] == "single_study_only")
-    n_tot = len(chems) * len(SPECIES) * len(PARAMS)
-    fig.suptitle("Half of the PFAS toxicokinetic grid is empty",
-                 x=0.008, ha="left", fontweight="bold", color=INK, fontsize=13)
-    fig.text(0.008, 0.945,
-             f"Distinct studies per chemical × species × parameter. "
-             f"Of {n_tot} cells, {n_none} ({n_none/n_tot*100:.0f}%) have no data "
-             f"and {n_one} ({n_one/n_tot*100:.0f}%) rest on a single study.",
-             fontsize=9.5, color=INK2, ha="left")
+    n_none = sum(1 for r in cm if r["status"] == "no_data")
+    n_one = sum(1 for r in cm if r["status"] == "single_study_only")
+    n_tot = len(cm)
+    titled(ax, "Four fifths of the PFAS toxicokinetic grid is empty",
+           f"Distinct studies per chemical \u00d7 species, summed over half-life, "
+           f"clearance, Vd and k.\nAcross all {n_tot:,} chemical \u00d7 species "
+           f"\u00d7 parameter cells, {n_none:,} ({n_none/n_tot*100:.0f}%) have no "
+           f"data and {n_one} ({n_one/n_tot*100:.0f}%) rest on a single study.")
     handles = [plt.Rectangle((0, 0), 1, 1, facecolor=EMPTY, edgecolor=SURFACE)] + \
               [plt.Rectangle((0, 0), 1, 1, facecolor=c, edgecolor=SURFACE)
-               for c in RAMP[:6]]
-    labels = ["none", "1", "2", "3", "4–5", "6–8", "9–12"]
-    fig.legend(handles, labels, loc="lower center", ncol=7, fontsize=9,
-               frameon=False, bbox_to_anchor=(0.5, 0.005),
-               title="distinct studies", title_fontsize=9)
-    fig.tight_layout(rect=(0, 0.055, 1, 0.925))
+               for c in RAMP]
+    labels = ["none", "1", "2", "3\u20134", "5\u20138", "9\u201316",
+              "17\u201332", "33\u201364", "65+"]
+    fig.legend(handles, labels, loc="lower center", ncol=9, fontsize=9,
+               frameon=False, bbox_to_anchor=(0.5, 0.004),
+               title="distinct studies (all four parameters)", title_fontsize=9)
+    fig.tight_layout(rect=(0, 0.065, 1, 1))
     fig.savefig(FIG / "fig7_coverage_matrix.png", dpi=200)
     plt.close(fig)
     print(f"wrote {FIG/'fig7_coverage_matrix.png'}")
@@ -563,3 +556,89 @@ if (DB / "cphea_fitted_halflives.csv").exists():
     fig.savefig(FIG / "fig8_rat_pfoa_dose_dependence.png", dpi=200)
     plt.close(fig)
     print(f"wrote {FIG/'fig8_rat_pfoa_dose_dependence.png'}")
+
+
+# ---- Figure 9: agency clearance factors, by how each was produced ----------
+# Needs all_agency_clearance.csv from scripts/all_agency_clearance.py.
+if (DB / "all_agency_clearance.csv").exists():
+    ac = load("all_agency_clearance.csv")
+    CHEMS9 = ["PFOA", "PFOS", "PFHxS", "PFNA"]
+    AQUA = "#1baf7a"                     # validated categorical slot 3
+    METHOD_COLOR = {
+        "measured: intake vs serum at steady state": BLUE,
+        "computed from Thompson 2010 assumed Vd": ORANGE,
+        "renal clearance only": AQUA,
+    }
+    LEGEND = [("measured: intake vs serum", BLUE),
+              ("computed from Thompson 2010 assumed Vd", ORANGE),
+              ("renal clearance only", AQUA),
+              ("adopted from another agency, animal-derived, or unstated", MUTED)]
+    SHORTEN = [
+        ("Minnesota Department of Health", "Minnesota MDH"),
+        ("New Jersey Drinking Water Quality", "New Jersey DWQI"),
+        ("Michigan PFAS Action Response", "Michigan MPART"),
+        ("New Hampshire Department of Environmental", "New Hampshire DES"),
+        ("New York State Department of Health", "New York DOH"),
+        ("Pennsylvania Department of Environmental", "Pennsylvania DEP"),
+        ("Drexel PFAS Advisory Group", "Drexel DPAG (for PA)"),
+        ("ITRC (Interstate", "ITRC"),
+        ("Health Canada", "Health Canada"),
+        ("EFSA CONTAM Panel", "EFSA"),
+        ("US EPA (IRIS)", "US EPA IRIS"),
+    ]
+
+    def short(name):
+        for long, s_ in SHORTEN:
+            if name.startswith(long[:26]):
+                return s_
+        return name[:30]
+
+    counts = [len([r for r in ac if r["chemical"] == c]) for c in CHEMS9]
+    fig, axes = plt.subplots(len(CHEMS9), 1, figsize=(9.4, 11.6),
+                             gridspec_kw={"height_ratios": counts})
+    for ax, chem in zip(axes, CHEMS9):
+        sel = sorted([r for r in ac if r["chemical"] == chem],
+                     key=lambda r: float(r["clearance_mL_kg_day"]))
+        vals = [float(r["clearance_mL_kg_day"]) for r in sel]
+        ys = list(range(len(sel)))[::-1]
+        for y, r in zip(ys, sel):
+            v = float(r["clearance_mL_kg_day"])
+            col = METHOD_COLOR.get(r["method"], MUTED)
+            ax.plot([min(vals) * 0.8, v], [y, y], color="#e6e5e1",
+                    linewidth=1.2, zorder=2)
+            ax.scatter([v], [y], s=80, color=col, edgecolor=SURFACE,
+                       linewidth=1.8, zorder=4)
+            ax.annotate(f"{v:.3f}", (v, y), xytext=(8, 0),
+                        textcoords="offset points", va="center", fontsize=8,
+                        color=INK2)
+        ax.set_yticks(ys)
+        ax.set_yticklabels([short(r["agency"]) for r in sel], fontsize=8.5)
+        ax.set_xscale("log")
+        ax.set_xlim(min(vals) * 0.75, max(vals) * 2.4)
+        ticks = [t for t in (0.01, 0.02, 0.05, 0.1, 0.2, 0.5)
+                 if min(vals) * 0.7 <= t <= max(vals) * 2.5]
+        ax.set_xticks(ticks)
+        ax.set_xticklabels([f"{t:g}" for t in ticks])
+        ax.minorticks_off()
+        ax.set_title(f"{chem}    {max(vals)/min(vals):.1f}x spread across "
+                     f"{len(sel)} values", loc="left", color=INK, fontsize=11,
+                     fontweight="bold", pad=6)
+        recessive(ax)
+    axes[-1].set_xlabel("adopted human clearance factor (mL/kg-day, log scale)")
+
+    fig.suptitle("The states agree with each other by repeating one derivation",
+                 x=0.008, y=0.992, ha="left", fontweight="bold", color=INK,
+                 fontsize=12.5)
+    fig.text(0.008, 0.967,
+             "Nine of 42 adopted clearance factors are computed from Thompson "
+             "2010\u2019s volume of distribution,\nwhich was itself calibrated "
+             "against an assumed half-life rather than measured.",
+             fontsize=9, color=INK2, ha="left", va="top")
+    fig.legend(handles=[Line2D([], [], marker="o", linestyle="", markersize=8,
+                               color=c, label=l) for l, c in LEGEND],
+               loc="lower center", ncol=2, fontsize=8.5, frameon=False,
+               bbox_to_anchor=(0.5, 0.002))
+    fig.tight_layout(rect=(0, 0.052, 1, 0.945))
+    fig.savefig(FIG / "fig9_agency_clearance.png", dpi=200)
+    plt.close(fig)
+    print(f"wrote {FIG/'fig9_agency_clearance.png'}")
