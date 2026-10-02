@@ -38,7 +38,20 @@ Built on top of the existing work in this repository (`../literature`,
 | `reabsorption_axis.csv` | 5 | renal reabsorption of PFOA by species, and the half-life it predicts |
 | `cphea_fitted_halflives.csv` | 186 | terminal slopes refitted here from the EPA CPHEA raw curves — **read the `tail_selection_flag` column and §8 item 9 before using these** |
 
-### `db/primary_2026/` — the five full texts supplied 2026-10-02
+### `db/combined/` — the consolidated deliverable
+
+| File | Rows | What it holds |
+|---|---|---|
+| `tk_parameters.csv` | 699 | half-life, clearance, Vd, MRT, bioavailability, GFR and reabsorption by chemical × species × sex × source, units normalised, every row carrying its provenance |
+| `binding.csv` | 192 | protein binding constants and unbound fractions with the method for each |
+| `transporters.csv` | 253 | transporter Km, PBPK Tm/KT, mRNA sex ratios and direction |
+| `regulatory.csv` | 215 | what each agency adopted, from which study, under which assumptions |
+| `PFAS_TK_combined.xlsx` | — | all four as one filterable workbook |
+
+Rebuild with `python3 scripts/build_combined_datasets.py` then
+`python3 scripts/export_combined_xlsx.py`.
+
+### `db/primary_2026/` — the nine full texts supplied 2026-10-02
 
 | File | Rows | What it holds |
 |---|---|---|
@@ -49,6 +62,12 @@ Built on top of the existing work in this repository (`../literature`,
 | `lou2009_mouse_tk.csv` | 9 | Lou 2009 Table 2: sex-resolved mouse PFOA Vd, ke and half-life in serum, liver and kidney |
 | `lou2009_saturable_resorption.csv` | 10 | Lou 2009 Table 4: the saturable-resorption model parameters, Tm and KT |
 | `thompson2010_vd_calibration.csv` | 2 | Thompson 2010 supplementary Table S1 — the two communities the 170 mL/kg human Vd was calculated from |
+| `han2012_table4_reabsorption_axis.csv` | 11 | the reabsorption axis at its source, with OEHHA's adapted value alongside each |
+| `han2012_table6_transporter_km.csv` | 13 | rat and human renal transporter Km values for PFCAs |
+| `han2012_table7_pbpk_tm_kt.csv` | 8 | the Tm and KT constants published PFOA PBPK models run on |
+| `yang2010_human_apical_transporters.csv` | 4 | human OATP1A2, OAT4 and URAT1 PFOA uptake, with the assay conditions |
+| `kudo2001_chain_length_elimination.csv` | 8 | rat urinary and faecal recovery by chain length and sex |
+| `tatumgibbs2011_pfna_rat_mouse.csv` | 4 | the only strain-matched rat-vs-mouse PFNA experiment |
 
 ## Reproducing it
 
@@ -73,7 +92,16 @@ python3 scripts/thompson_vd_circularity.py            # is the human Vd a measur
 python3 scripts/primary_sex_species_decomposition.py  # sex vs species, from primaries
 python3 scripts/argoul_reabsorption_check.py          # the axis, independently recomputed
 python3 scripts/validate_cphea_fits.py                # our own fits vs published values
+python3 scripts/han2012_axis_at_source.py             # the axis at its origin
+python3 scripts/saturation_margin_km_vs_kt.py         # in vitro Km vs PBPK KT
+
+# the deliverables
+python3 scripts/build_combined_datasets.py            # -> db/combined/*.csv
+python3 scripts/export_combined_xlsx.py               # -> db/combined/*.xlsx
+python3 scripts/make_figures_primary.py               # -> figures/fig10..fig15
 ```
+
+`SUMMARY.md` is the illustrated standalone summary with full citations.
 
 `scripts/fetch_papers.sh` re-downloads the agency PDFs listed in
 `papers/DOWNLOAD_MANIFEST.csv`.

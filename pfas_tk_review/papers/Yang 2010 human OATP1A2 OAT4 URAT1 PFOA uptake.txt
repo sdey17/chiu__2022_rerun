@@ -1,0 +1,570 @@
+TOXICOLOGICAL SCIENCES 117(2), 294–302 (2010)
+doi:10.1093/toxsci/kfq219
+Advance Access publication July 16, 2010
+
+
+
+
+ Characterization of Cellular Uptake of Perfluorooctanoate via Organic
+Anion-Transporting Polypeptide 1A2, Organic Anion Transporter 4, and
+Urate Transporter 1 for Their Potential Roles in Mediating Human Renal
+                Reabsorption of Perfluorocarboxylates
+                                                     Ching-Hui Yang, Kyle P. Glover, and Xing Han1
+
+
+
+
+                                                                                                                                                                 Downloaded from academic.oup.com/toxsci/article/117/2/294/1643194 by INACTIVE user on 02 October 2026
+                                  DuPont Haskell Global Centers for Health & Environmental Sciences, Newark, Delaware 19714
+
+  1
+      To whom correspondence should be addressed at DuPont Haskell Global Centers for Health & Environmental Sciences, PO Box 50, 1090 Elkton Road,
+                                       Newark, DE 19714. Fax: (302) 451-3568. E-mail: xing.han@usa.dupont.com.
+
+                                                             Received June 16, 2010; accepted July 9, 2010
+
+                                                                                            In experimental animals, PFO is metabolically inert,
+   It has been hypothesized that human renal apical membrane                             distributed mainly to the liver and plasma, and excreted
+transporters play a key role in human renal reabsorption of
+                                                                                         primarily via the urinary route (Kemper, 2003). PFO
+perfluorooctanoate (PFO), which contributes to the long half-life
+                                                                                         elimination is highly species dependent. Biological half-lives
+of PFO in humans. In the present study, PFO uptake kinetics
+of human organic anion-transporting polypeptide (OATP) 1A2,                              of PFO range from hours in female rats (Kemper, 2003) and
+organic anion transporter (OAT) 4, and urate transporter 1                               rabbits (Kudo and Kawashima, 2003); days in male rats
+(URAT1) in stably transfected cell lines was investigated. OAT4                          (Kemper, 2003); weeks in dogs (Hanhijarvi et al., 1988), mice
+and URAT1, but not OATP1A2, were shown to mediate saturable                              (Lou et al., 2009), and monkeys (Butenhoff et al., 2004b) to
+PFO cellular uptake. OAT4-mediated PFO uptake was stimulated                             years in humans (Olsen et al., 2007). It has been proposed that
+by a low extracellular pH, which was evidenced as a lower                                renal proximal tubular reabsorption of PFO plays a key role in
+Michaelis constant (Km) at pH 6 (172.3 ± 45.9mM) than that at pH                         renal clearance of PFO, and the PFO renal reabsorption levels
+7.4 (310.3 ± 30.2mM). URAT1-mediated PFO uptake was greatly                              in different species contribute to the large variation of
+enhanced by an outward Cl2 gradient, and its Km value was                                biological half-lives of PFO in those species, including human
+determined to be 64.1 ± 30.5mM in the absence of extracellular
+                                                                                         (Andersen et al., 2008). Harada et al. (2005) have shown that
+Cl2. The inhibition of OATP1A2- or OAT4-mediated estrone-3-
+                                                                                         human PFO renal clearance was only ~0.001% of the
+sulfate uptake or URAT1-mediated urate uptake has been
+compared for linear perfluorocarboxylates (PFCs) with carbon                             glomerular filtration rate, which validated the importance of
+chain lengths from 4 to 12. A clear chain length–dependent                               active renal reabsorption of PFO in humans.
+inhibition was observed, suggesting that PFCs in general are                                Active tubular reabsorption of organic anions in kidney is
+substrates of OAT4 and URAT1 but with different levels of                                mediated via apical membrane transport proteins, which are
+affinities to the transporters depending on their chain length. Our                      often species specific (El-Sheikh et al., 2008; Hilgendorf et al.,
+results suggest that OAT4 and URAT1 are key transporters in                              2007). In rats, proximal tubule brush border membrane–
+renal reabsorption of PFCs in humans and, as a result, may                               expressed organic anion-transporting polypeptide (Oatp) 1a1
+contribute significantly to the long half-life of PFO in humans.
+                                                                                         has been shown to facilitate active cellular uptake of PFO
+   Key Words: perfluorooctanoic acid; PFOA; renal reabsorption;
+OAT4; URAT1; OATP1A2.
+                                                                                         (Weaver et al., 2010; Yang et al., 2009), and its potential
+                                                                                         involvement in renal reabsorption of PFO has been linked to the
+                                                                                         sex-dependent renal elimination of PFO in rats (Yang et al.,
+   Perfluorooctanoic acid (PFOA) is a commercially important                             2009). In humans, OATP1A2 (also known as human OAPT-A,
+fluorochemical that has been used primarily in an ammonium                               OATP1, or OATP) is the closest ortholog of rat Oatp1a1 based
+salt form as a surface-active agent in the production of various                         on their shared amino acid identities (67%; Kullak-Ublick et al.,
+fluoropolymers. Under physiological conditions, PFOA is                                  1995). The expression of OATP1A2 in human kidney is
+primarily in its deprotonated anionic form as perfluoroocta-                             localized to the apical domain of distal nephrons (Lee et al.,
+noate (PFO). PFO has been a subject of intensive research                                2005), which has been suggested to be responsible for the active
+regarding to its mammalian toxicity, environmental persis-                               tubular reabsorption of the cancer drug methotrexate (Badagnani
+tence, and human exposure (Kennedy et al., 2004; Lau et al.,                             et al., 2006). Human organic anion transporter (OAT) 4 has been
+2007; Vestergren and Cousins, 2009).                                                     identified as a renal apical transporter in the proximal tubule cells
+ The Author 2010. Published by Oxford University Press on behalf of the Society of Toxicology. All rights reserved.
+For permissions, please email: journals.permissions@oxfordjournals.org
+                                   CHARACTERIZATION OF CELLULAR UPTAKE OF PERFLUOROOCTANOATE                                                                  295
+
+(Ekaratanawong et al., 2004) and facilitates the reabsorption of                CO2. Both CHO and HEK293 cells were transfected with endotoxin-free quality
+conjugated steroids such as estrone-3-sulfate (E3S) with high                   of OAT4, OATP1A2, and URAT1 plasmid DNAs using SuperFect Transfection
+                                                                                Reagent (Qiagen, Valencia, CA) according to the manufacturer’s instruction.
+affinity (Cha et al., 2000). Nakagawa et al. (2009) has provided                Both cell types were also transfected with vector control plasmid DNA as mock
+evidence of OAT4-mediated PFO uptake in transiently trans-                      cells. At 48-h posttransfection, stable clones were selected in complete medium
+fected human embryonic kidney 293 (HEK293) cells. Human                         containing 400 lg/ml G418 sulfate (Calbiochem). Single clones were isolated by
+urate transporter 1 (URAT1) shares 42% amino acid identity                      diluting cells at 0.5 cell/200 ll of medium and plated 200 ll per well in a 96-well
+with OAT4 and is also localized to the apical membrane of the                   culture plate with subsequent propagation of clonal cells. The expression levels
+                                                                                of OATP1A2 or OAT4 transporter clones were screened by 3H-E3S uptake
+epithelium of proximal tubules (Enomoto et al., 2002). URAT1                    activities, and URAT1 clones were screened by 14C-uric acid uptake activities.
+was discovered as an apical urate transporter, playing a pivotal                Single clones of OAT4/CHO, OATP1A2/HEK293, and URAT1/HEK293 that
+role in renal reabsorption of urate to maintain urate homeostasis               exerted the highest E3S or urate transport activities among 30 picked clones were
+(Enomoto et al., 2002). Because of their apical membrane                        used for all further assays.
+
+
+
+
+                                                                                                                                                                      Downloaded from academic.oup.com/toxsci/article/117/2/294/1643194 by INACTIVE user on 02 October 2026
+localization in the distal and proximal tubules and demonstrated
+                                                                                    Reverse transcription-PCR. The integration of transporter genes into host
+roles in renal reabsorption of organic anions, OATP1A2, OAT4,                   cell genome was confirmed by reverse transcription-PCR (RT-PCR). Total RNA
+and URAT1 were good candidates as potential PFO transporters                    isolation of transporter and mock cells were carried out using TRIzol Reagent
+that mediate renal reabsorption in humans.                                      (Invitrogen) based on the manufacturer’s instruction. Three and a half micrograms
+   The objectives of the present study were to evaluate PFO                     of purified RNA was primed with oligo dT primers for the synthesis of single-
+                                                                                stranded cDNAs in a 20 ll reaction using SuperScript First-Strand Synthesis
+transport potential and characterize PFO uptake kinetics of
+                                                                                System (Invitrogen). The transporter genes were amplified using 1 ll of cDNA or
+OATP1A2, OAT4, and URAT1 in stably transfected cell lines.                      50-ng transporter plasmid DNAs (as positive controls) in a 50-ll PCR containing
+Inhibition of marker substrate transport of OATP1A2, OAT4, or                   200nM each of gene-specific primer set: for OATP1A2, forward primer 5#-
+URAT1 by perfluorocarboxylates (PFCs) of different chain                        CTGAAGAGCAACATGGGAGAAACTGAGAAAAGAATTG-3# and reverse
+lengths was investigated to reveal possible chain length–                       primer 5#-GGACAATTACAATTTAGTTTTCAATTCATCATCTTTC-3#; for
+                                                                                OAT4, forward primer 5#-ATGGCGTTCTCGAAGCTCTT-3# and reverse
+dependent PFC transport via these specific membrane transporters.
+                                                                                primer 5#-CTAGAGCGAGGTACTTTCCACA-3#; and for URAT1, forward
+The findings of this study provide key mechanistic information of               primer 5#-ATGGCATTTTCTGAACTCCTGGACC-3# and reverse primer 5#-
+human renal handling of PFO, which will be a significant step                   TTTAGGACAGAGTTCCCCAGCG-3#. The thermal cycling conditions were
+toward our understanding of the long PFO half-life in humans.                   denaturation at 94C for 2 min, 30 cycles of 94C for 10 s, 55C for 30 s, 72C for
+                                                                                1 min, and extension for 7 min at 72C. The PCR products were analyzed by 1%
+                                                                                agarose gel electrophoresis.
+
+                                                                                    Uptake kinetics and inhibition. On day 1, OAT4- or OATP1A2-
+                   MATERIALS AND METHODS                                        expressing cells and their corresponding mock cells were seeded in 12-well
+                                                                                plates at a density of 1 3 105 per well, whereas URAT1-expressing and mock
+   Materials. 14C-PFOA (chemical purity > 99%, labeled at the carboxyl          cells were seeded at a density of 2 3 105 per well. HEK293 cells were seeded
+carbon, ammonium salt; activity, 2.11 GBq/mmol) was purchased from              in poly-D-lysine–coated 12-well plates (BD Biosciences, San Jose, CA). On day
+Amersham Pharmacia Biotech (Piscataway, NJ). 3H-E3S (2.12 GBq/lmol) was         2, cell culture medium was replaced with 1 ml of medium supplemented with
+purchased from PerkinElmer (Waltham, MA). 14C-uric acid (1.91 GBq/mmol)         5mM sodium butyrate to induce transporter protein expression (Yang et al.,
+was purchased from Moravek Biochemicals and Radiochemicals (Brea, CA).          2009). The cells were cultured for another 24 h before the uptake assay. The
+Perfluorobutanoic acid (PFBA, C4) and perfluoroheptanoic acid (PFHpA, C7)       uptake buffer contained (in mM) 137.93 NaCl, 5.33 KCl, 1.26 CaCl2, 0.49
+were purchased from Sigma-Aldrich (St Louis, MO). Perfluoropentanoic acid       MgCl2, 0.41 MgSO4, 0.44 KH2PO4, 0.34 Na2HPO4, 4.17 NaHCO3, and 5.56
+(PFPA, C5), perfluorohexanoic acid (PFHxA, C6), PFOA (C8), perfluoronona-       D-glucose (pH value varied for OAT4 and OATP1A2 uptake assays according
+noic acid (PFNA, C9), perfluorodecanoic acid (PFDA, C10), perfluoroundecanoic   to the study design; 10mM 4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid
+acid (PFUA, C11), and perfluorododecanoic acid (PFDdA, C12) were purchased      (HEPES) was included in URAT1 uptake assays and the pH was maintained at 7.4).
+from Oakwood Product (West Columbia, SC). The purities of the perfluor-         The Cl-free buffer for URAT1-mediated uptake assays contained (in mM) 137.93
+ocarboxylic acids were equal or greater than 97%. E3S, sulfobromophthalein      sodium gluconate, 5.33 potassium gluconate, 1.26 calcium gluconate, 0.90 MgSO4,
+(BSP), probenecid, glutaric acid, and p-aminohippurate (PAH) were purchased     0.44 KH2PO4, 0.34 Na2HPO4, 4.17 NaHCO3, 5.56 D-glucose, and 10 HEPES
+from Sigma-Aldrich. Cell culture medium was obtained from Invitrogen            (pH 7.4).
+(Carlsbad, CA), and Hank’s balanced salt solution (HBSS) was obtained from          To start the uptake assay, the cells were washed twice with 2 ml of 37C
+Mediatech Inc. (Manassas, VA). All other chemicals were from Sigma-Aldrich.     prewarmed HBSS. Substrate uptake was initiated by adding 0.5 ml of 37C
+The full-length complementary DNA (cDNA) OmicsLink Expression clones            prewarmed dosing solution that contained 3H-E3S, 14C-uric acid, or 14C-PFO.
+of human OATP1A2 (SLCO1A2, accession number NM_005075), OAT4                    In OAT4-mediated E3S or PFO concentration-dependent uptake experiments,
+(SLC22A11, accession number NM_018484), and URAT1 (SLC22A12, accession          OAT4-expressing or mock cells were incubated with the dosing solution for
+number AB071863) and the vector control with enhanced green fluorescent         10 s. In URAT1-mediated PFO concentration-dependent uptake experiments,
+protein insert were purchased from GeneCopoeia (Germantown, MA).                the cells were incubated with the substrate for 30 s. Uptake was terminated by
+                                                                                the removal of the dosing solution and washing of the cells twice with 2 ml ice-
+   Cell culture and stable transfection. Chinese hamster ovarian (CHO) cell     cold HBSS. Cells were then solubilized in 500 ll of 1 N NaOH with shaking for
+line (# CCL-61; ATCC, Manassas, VA) was grown in complete McCoy’s 5A            10 min. After pH neutralization by 250 ll of 2 N HCl, 700 ll of the cell lysate
+medium (Mediatech). HEK293 cell line (# CRL-1573; ATCC) was maintained          was transferred to a glass vial and mixed with 6 ml of Ultima Gold XR
+in complete Minimum Essential Medium Eagle (Mediatech). Media were              Scintillation Cocktail (PerkinElmer) for radioactivity determination using a
+supplemented with 10% (vol/vol) fetal bovine serum (Hyclone, Logan, UT),        liquid scintillation analyzer (Tri-carb 2700 TR; PerkinElmer). Twenty micro-
+100 U/ml penicillin (Lonza, Walkersville, MD), and 0.1 mg/ml streptomycin       liters of the remaining cell lysate was taken for the determination of protein
+(Lonza). Cells were cultured at 37C in a 90% humidified atmosphere with 5%     concentrations using a Lowry-based DC protein assay (Bio-Rad, Hercules, CA).
+296                                                                  YANG, GLOVER, AND HAN
+
+   For OAT4 cis-inhibition experiments, OAT4-expressing CHO cells were
+incubated with either 7nM 3H-E3S or 5lM 14C-PFOA for 10 s in the absence
+or presence of 100lM inhibitors BSP, probenecid, glutarate, or PAH. Inhibition
+of passive diffusion in mock cells was negligible.
+   For OAT4 trans-stimulation experiments, OAT4-expressing CHO cells were
+preincubated with either glutarate or PAH (10mM each) for 2 h before the start
+of the uptake assay.
+   For PFCs chain length–dependent inhibition experiments, OAT4- and
+OATP1A2-expressing cells were incubated with 7nM 3H-E3S for 10 or 30 s,
+respectively, and URAT1-expressing cells were incubated with 6lM 14C-uric
+acid for 1 min, in the absence or presence of 100lM PFCs with chain lengths
+ranging from 4 to 12 (C4–C12). Mock cells were treated the same way as their
+corresponding transporter-expressing cells were treated.
+
+
+
+
+                                                                                                                                                                               Downloaded from academic.oup.com/toxsci/article/117/2/294/1643194 by INACTIVE user on 02 October 2026
+   Data analysis. Nonspecific passive diffusion of PFO to mock CHO cells
+can be described by a nonsaturable linear kinetics (Han et al., 2008; Yang et al.,
+2009):
+                                              
+                              vpar ¼ Pdif  S ;                               ð1Þ
+
+where vpar is the velocity of PFO (picomole per minute per milligram) passive
+diffusion, [S] is the substrate concentration (micromolar), and Pdif is passive
+diffusion constant (microliter per minute per milligram) and was obtained by
+linear regression to Equation 1.
+   The total cellular uptake of PFO in OAT4-expressing CHO cells is
+considered to be the sum of OAT4-mediated uptake (saturable) and the
+nonspecific passive diffusion (nonsaturable):                                               FIG. 1. E3S (A) and PFO (B) uptake in OATP1A2-expressing HEK293
+                                                                                          cells (filled bars) and in mock (vector-transfected) cells (open bars) at pH 6, 7,
+                                  Vmax  ½S                                              and 8. The cells were incubated with 7nM 3H-E3S or 5lM 14C-PFO for 30 s,
+                         vsum ¼              þ Pdif ½S;                            ð2Þ
+                                  Kmax þ ½S                                              and the cell-associated radioactivity (in disintegrations per minute per well) was
+                                                                                          used to represent the uptake rate. Data were averaged from three individual
+where vsum is the initial uptake velocity (picomole per minute per milligram) in          experiments with duplicate wells in each experiment.
+OAT4-expressing cells, Vmax is the maximum velocity (picomole per minute
+per milligram) for transporter-mediated uptake, and Km is the Michaelis
+constant (micromolar) for transporter-mediated uptake. Vmax and Km values of
+                                                                                          RT-PCR. Supplementary figure 1 shows that, with correspond-
+OAT4-mediated PFO uptake kinetics were obtained by nonlinear regression to
+Equation 2 with the input of Pdif from Equation 1.                                        ing gene-specific primers, the full-length PCR products of
+   URAT1 specifically mediated PFO uptake was described by                                OATP1A2-, OAT4-, and URAT1-expressing cells exhibited
+                                                                                          bands for OATP1A2, OAT4, and URAT1 genes whose size
+                                         Vmax  ½S
+                             vURAT1 ¼               ;                               ð3Þ   were 2013, 1653, and 1646 bp, respectively (lane 3). The bands
+                                         Kmax þ ½S
+                                                                                          with the same sizes were also shown for the PCR products
+where vURAT1 is the difference of the initial uptake velocity in URAT1-                   amplified using OATP1A2, OAT4, and URAT1 plasmid DNA
+expressing HEK293 cells and in mock HEK293 cells. Vmax and Km values of                   as the templates (lane 2 in Supplementary fig. 1) but were
+URAT1-mediated PFO uptake kinetics were obtained by nonlinear regression                  absent from the RT-PCR products of the vector-transfected
+to Equation 3.
+   All curve fittings of nonlinear regressions were conducted in the software
+                                                                                          (mock) control cells (lane 4 in Supplementary fig. 1).
+package Origin (version 7.0; OriginLab, MA).
+   The percentage of OATP1A2- or URAT1-mediated marker substrate (E3S                     Organic Anion-Transporting Polypeptide 1A2
+or urate, respectively) uptake in the presence of 100lM PFCs was calculated
+according to:                                                                                Because OATPs’ transport activities are often enhanced at
+                                                                                          a lower extracellular pH (Leuthold et al., 2009), we screened
+                                            vtransporter; PFC  vmock; PFC
+   Percentage relative to the control ¼                                    3 100;         our OATP1A2-expressing HEK293 cells at pH 6, 7, and 8 for
+                                                 vtransporter  vmock
+                                                                                          their uptake activities of E3S and PFO. Figure 1A shows that
+where vtransporter, PFC and vmock, PFC are initial uptake velocities of the substrate     E3S was taken up by OATP1A2-expressing HEK293 cells at
+in the transporter cells or the mock cells, respectively, in the presence of PFCs,        higher rates than mock (vector-transfected) cells, and the uptake
+whereas vtransporter and vmock are substrate uptake velocities in the absence of
+PFCs.
+                                                                                          rates were pH dependent only for OATP1A2 cDNA-transfected
+                                                                                          cells where acidic pH significantly enhanced E3S uptake rates.
+                                                                                          In contrast, PFO uptake rates were not significantly different
+                                   RESULTS                                                between OATP1A2-expressing HEK293 cells and mock cells
+                                                                                          at any of the pH conditions (Fig. 1B).
+Reverse Transcription-PCR                                                                    The potential of PFC chain length–dependent inhibition of
+ Expression of OATP1A2, OAT4, and URAT1 messenger                                         OATP1A2-mediated E3S uptake was investigated at pH 6.
+RNA has been confirmed in the transporter-expressing cells by                             Figure 2 shows that, at 100lM PFCs, no inhibitory effect was
+                                     CHARACTERIZATION OF CELLULAR UPTAKE OF PERFLUOROOCTANOATE                                                             297
+
+
+
+
+                                                                                                                                                                   Downloaded from academic.oup.com/toxsci/article/117/2/294/1643194 by INACTIVE user on 02 October 2026
+   FIG. 2. Inhibition of 7nM 3H-E3S uptake at pH 6 in OATP1A2-expressing
+HEK293 cells by 100lM PFCs at different chain lengths. The values were
+presented as the percentage relative to the control E3S uptake in the absence of
+PFCs. Error bars represent SDs of three individual experiments with duplicate
+incubations in each experiment.
+
+
+
+seen for chain length between 4 and 7, whereas ~30% of
+inhibition was seen by PFO. Perfluorodecanoate (PFD, C10)
+showed the most inhibition (~70%), but the inhibition level
+was reduced at longer chain lengths (for C11 and C12).
+
+Organic Anion Transporter 4
+   E3S is a marker substrate for human OAT4 with reported Km
+values ranged from 1.01 to 21.7lM (Cha et al., 2000; Islam
+et al., 2007; Ugele et al., 2008; Zhou et al., 2006). In the
+present study, uptake of E3S in OAT4 cDNA-transfected CHO
+cells was shown to be time and concentration dependent
+(Supplementary fig. 2), and the Km value was determined to be                         FIG. 3. Concentration-dependent uptake of PFO by mock cells (non-
+38.1 ± 8lM.                                                                        transfected CHO cells, open circles) or OAT4-expressing CHO cells (filled
+                                                                                   circles) at pH 7.4 (A) and 6 (B). The difference of PFO uptake was shown with
+   Hagos et al. (2007) has reported that (1) OAT4-mediated                         open squares and was fitted to the standard Michaelis-Menten equation. PFO
+6-carboxylfluorescein (6-CF) or E3S uptake was significantly                       (containing ~500 dpm/ll 14C-PFO) was incubated with the cells for 10 s. Data
+cis-inhibited by 500lM of probenecid but much less so by                           were obtained from three independent experiments with duplicate wells in each
+glutarate and PAH and (2) both glutarate and PAH significantly                     experiment. For clarity reason, only the averaged values were shown.
+trans-stimulated OAT4-mediated 6-CF and E3F uptake. We
+have confirmed the same observations using our OAT4-                               concentrations (Fig. 3, open circles and Equation 1). PFO
+expressing CHO cells (Supplementary fig. 3).                                       uptake in OAT4-expressing cells was not saturated even at
+   PFO uptake in OAT4-expressing CHO cells increased as                            1mM of PFO concentration (Fig. 3, filled circles) because of
+a function of time with an apparent saturation phase after 10 s                    this passive diffusion component. The differences of PFO
+of incubation (Supplementary fig. 4). Because OAT4 uptake                          uptake velocities measured in OAT4-expressing cells and in
+kinetics of known substrates is pH dependent (Hagos et al.,                        mock cells exhibited saturable kinetics that can be described by
+2007), we compared OAT4-mediated PFO uptake rates at                               a standard Michaelis-Menten equation (Fig. 3, open squares,
+different pH values. Supplementary figure 5 shows that                             Equation 2). Pdif, Km, and Vmax values from Equation 2
+acidification of the uptake buffer from pH 8 to 5.5 increased                      were determined to be 17.5 ± 6.7 ll/min/mg, 310.3 ± 30.2lM,
+PFO uptake by more than 250%. This observation is consistent                       and 37.4 ± 12.5 nmol/min/mg, respectively, at pH 7.4,
+with the previously reported pH-dependent trend for OAT4-                          and 20.6 ± 6.6 ll/min/mg, 172.3 ± 45.9lM, and 36.6 ± 7.1
+mediated membrane transport (Hagos et al., 2007).                                  nmol/min/mg, respectively, at pH 6. Both Pdif and Vmax values
+   Concentration-dependent PFO uptake in OAT4-expressing                           were not pH dependent, whereas the Km value was about half at
+cells and in mock cells was determined under pH 7.4 and 6                          pH 6 than that at pH 7.4 (p < 0.05).
+conditions (Fig. 3). A passive diffusion process was identified                       Supplementary figure 6 shows that, analogous to OAT4-
+for PFO uptake in the mock cells, which was demonstrated by                        mediated E3S uptake (Supplementary fig. 2), OAT4-mediated
+a linear relationship between PFO uptake velocities and PFO                        PFO uptake was significantly (1) cis-inhibited by both BSP
+298                                                              YANG, GLOVER, AND HAN
+
+
+
+
+                                                                                                                                                                     Downloaded from academic.oup.com/toxsci/article/117/2/294/1643194 by INACTIVE user on 02 October 2026
+  FIG. 4. Inhibition of 7nM 3H-E3S uptake at pH 7.4 in OAT4-expressing
+CHO cells by 100lM PFCs at different chain lengths. The values were
+presented as the percentage relative to the control E3S uptake in the absence of
+PFCs. Inhibition of E3S uptake in mock cells was negligible (data not shown).
+Error bars represent SDs of triplicate incubations.
+
+
+and probenecid (100lM each) but not by glutarate and PAH
+(Supplementary fig. 6A) and (2) trans-stimulated by both
+glutarate and PAH (Supplementary fig. 6B) due to the asym-
+metric transport characteristics of OAT4 (Hagos et al., 2007).
+   OAT4 transport activity toward PFCs as a chemical class
+was investigated by inhibition of OAT4-mediated E3S uptake.
+The initial uptake velocities of 7nM 3H-E3S in OAT4-
+expressing CHO cells were determined in the absence or
+presence of 100lM PFCs at chain lengths ranged from 4 to 12.
+The percentage relative to control 3H-E3S uptake by individual
+PFC was compared in Figure 4. It is shown that, starting from
+perfluoroheptanoate (PFHp, C7), OAT4-mediated E3S uptake
+was inhibited with a chain length–dependent manner by the
+PFCs. The correlation between longer chain length and higher
+inhibition potential extended to PFD (C10). However, this
+trend was reversed for perfluoroundecanoate (PFU, C11) and
+perfluorododecanoate (PFDd, C12), which showed a reduction
+of inhibition potential compared with PFD (Fig. 4).
+                                                                                      FIG. 5. Urate (A) and PFO (B) uptake in URAT1-expressing
+                                                                                   HEK293 cells (filled bars) and in mock (vector-transfected) cells (open bars)
+Urate Transporter 1                                                                under Cl-present or Cl-free (chloride salts were replaced by gluconate salts)
+   Enomoto et al. (2002) have shown that urate uptake via                          condition. The cells were incubated with 6lM 14C-uric acid or 5lM 14C-PFO
+URAT1 is dramatically enhanced by an outward Cl gradient                          for 1 min, and the cell-associated radioactivity (in disintegrations per minute
+                                                                                   per well) was used to represent the uptake rate. Data were averaged from three
+(intracellular Cl > extracellular Cl) as a result of an                          individual experiments with duplicate wells in each experiment.
+exchange mechanism for urate and inorganic Cl in URAT1.
+In the present study, we measured URAT1-mediated urate and                         than fourfold in the URAT1-expressing cells but was not
+PFO uptake in Cl-present and Cl-free (chloride salts were                        changed significantly in the mock control cells.
+replaced by gluconate salts) buffers.                                                 Time-dependent PFO uptake under the Cl-free condition is
+   Figure 5A shows that urate uptake rate in URAT1-expressing                      shown in Figure 6A. PFO uptake rate in URAT1-expressing
+HEK293 cells in a Cl-present buffer was significantly higher                      HEK293 cells increased over incubation time, whereas in mock
+(p < 0.01) than that in the mock cells. When Cl was com-                          control cells, PFO uptake rate stayed at a much lower level
+pletely replaced by gluconate, urate uptake rate was enhanced                      for the entire incubation duration (5 min). The concentration-
+by more than threefold in the URAT1-expressing cells but was                       dependent PFO uptake under the Cl-free condition was also
+not changed in the mock cells. Figure 5B shows that PFO                            investigated. Figure 6B shows evidence of baseline PFO-
+uptake rate under the Cl-present condition was higher in                          specific transport in mock HEK293 cells, which was manifested
+URAT1-expressing cells than that in the mock cells, but their                      by the slight curvature of the relationship between PFO uptake
+difference was not statistically significant (p > 0.01). Under                     rates in the mock cells and PFO concentrations (open circles
+the Cl-free condition, PFO uptake rate was enhanced by more                       in Fig. 6B). Therefore, URAT1-specific uptake kinetics was
+                                     CHARACTERIZATION OF CELLULAR UPTAKE OF PERFLUOROOCTANOATE                                                             299
+
+
+
+
+                                                                                                                                                                   Downloaded from academic.oup.com/toxsci/article/117/2/294/1643194 by INACTIVE user on 02 October 2026
+                                                                                      FIG. 7. Inhibition of 6lM 14C-uric acid uptake under the Cl-free
+                                                                                    condition in URAT1-expressing HEK293 cells by 100lM PFCs at different
+                                                                                    chain lengths. The values were presented as the percentage relative to the
+                                                                                    control urate uptake in the absence of PFCs. Error bars represent SDs of two
+                                                                                    individual experiments with duplicate incubations in each experiment.
+
+                                                                                    that PFO has a long half-life of ~2.3 (Bartell et al., 2010) or 3.8
+                                                                                    (Olsen et al., 2007) years in humans suggests that PFO renal
+                                                                                    elimination in humans is very inefficient when compared with
+                                                                                    other animal species in which PFO half-lives range from a few
+                                                                                    hours in rabbits (Kudo and Kawashima, 2003) and female rats
+                                                                                    (Kemper, 2003) to a few weeks in dogs (Hanhijarvi et al.,
+                                                                                    1988), mice (Lou et al., 2009), and monkeys (Butenhoff et al.,
+                                                                                    2004b).
+                                                                                       In rats, renal handling of PFO involves active secretion
+                                                                                    via proximal tubule basolateral membrane transporters Oat1
+                                                                                    and Oat3 (Nakagawa et al., 2008; Weaver et al., 2010)
+   FIG. 6. Time-dependent (A) and concentration-dependent (B) uptake of             and reabsorption via proximal tubule brush border (apical)
+PFO by mock (open circles) or URAT1-expressing (open squares) cells under           membrane transporter Oatp1a1 (Weaver et al., 2010; Yang
+the Cl-free condition. The difference of PFO uptake in URAT1-expressing
+                                                                                    et al., 2009). The higher expression level of Oapt1a1 in the
+and mock cells was also plotted in (B) with filled circles and was fitted to the
+standard Michaelis-Menten equation. The cells were incubated with 5lM 14C-          male rat kidney has been related to the longer PFO half-life in
+PFO in (A) and PFO incubation (containing ~500 dpm/ll 14C-PFO) with the             the male rat than that in the female rat (Yang et al., 2009),
+cells was carried out for 30 s in (B). Data were obtained from three individual     which strongly indicates an important role of renal reabsorption
+incubations in (A) and four individual experiments with duplicate incubations       in PFO biological half-lives in rats.
+in each experiment in (B). For clarity reason, only the SDs of the differences of
+                                                                                       Human OAT1 and OAT3 have similar affinities to PFO
+PFO uptake in URAT1-expressing and mock cells were shown in (B).
+                                                                                    compared with their rat orthologs (Nakagawa et al., 2008).
+analyzed by using the difference of the uptake rates from the                       Therefore, tubular secretion of PFO in human kidneys via
+URAT1-expressing cells and the mock cells (solid circles in                         OAT1 and OAT3 transporters is expected to be as effective as
+Fig. 6B; Equation 3). The Km and Vmax values for URAT1-                             it is in rat kidneys, especially considering the high expression
+mediated PFO uptake were determined to be 64.1 ± 30.5lM                             levels of OAT1 and OAT3 in human kidneys (Hilgendorf
+and 323.6 ± 89.8 pmol/min/well, respectively.                                       et al., 2007; Motohashi et al., 2002). This leaves tubular
+   PFCs exhibited chain length–dependent inhibition of URAT1-                       reabsorption as a plausible mechanism for species-related
+mediated urate uptake. Figure 7 shows that, at 100lM of PFCs,                       differences in PFO renal elimination and for the long half-life
+uptake of 6lM 14C-uric acid under the Cl-free condition was                        of PFO in humans. The renal tubule apical membrane transport
+inhibited the most and roughly at the same levels by PFHp                           system that is responsible for tubular reabsorption of organic
+(C7), PFO (C8), Perfluorononanoate (PFN) (C9), and PFD                              anions is mainly made up by the solute carrier (SLC) proteins
+(C10). PFCs with shorter (C4–C6) or longer (C11 and C12)                            (El-Sheikh et al., 2008). In humans, OAT4 (SLC22A11) and
+chain lengths showed relatively less inhibition.                                    URAT1 (SLC22A12) are expressed in the proximal tubule of
+                                                                                    the kidney (Ekaratanawong et al., 2004; Enomoto et al., 2002),
+                               DISCUSSION                                           whereas OATP1A2 (SLCO1A2) is expressed in the kidney
+                                                                                    distal tubule (Lee et al., 2005). Our present study suggests that
+   Based on animal studies, renal elimination is a determining                      PFO is not a substrate, but likely an inhibitor, of OATP1A2,
+factor for PFO’s body clearance (Kemper, 2003). The finding                         whereas both OAT4- and URAT1-mediated saturable cellular
+300                                                    YANG, GLOVER, AND HAN
+
+
+uptake of PFO, and therefore, are likely involved in tubular
+reabsorption of PFO.
+   Human OATP1A2 is mainly expressed in the blood-brain
+barrier (BBB; Gao et al., 2000; Lee et al., 2005), the kidney
+(Badagnani et al., 2006; Lee et al., 2005), and the small intestine
+(Glaeser et al., 2007). OATP1A2 exhibited pH-dependent
+uptake of the known substrate, E3S (Fig. 1A), which is consis-
+tent with the observation of other OATPs (Leuthold et al.,
+2009). However, OATP1A2 did not mediate PFO uptake at a
+pH range between 6 and 8 (Fig. 1B). This is a clear indication
+that OATP1A2 is not involved in PFO renal reabsorption,
+
+
+
+
+                                                                                                                                                     Downloaded from academic.oup.com/toxsci/article/117/2/294/1643194 by INACTIVE user on 02 October 2026
+intestinal absorption, and BBB uptake. Because OATP1A2 is
+the most important influx transporter in the BBB (Lee et al.,
+2005; Urquhart and Kim, 2009), its lack of PFO transport                FIG. 8. A schematic representation of human renal proximal tubular
+activity may have at least partly contributed to the findings that    secretion (via OAT1 and OAT3) and reabsorption (via OAT4 and URAT1) of
+                                                                      PFCs. A hypothetical efflux pathway is speculated to pump intracellular PFCs
+PFO could not effectively pass BBB (Harada et al., 2007;              back to the systemic circulation.
+Maestri et al., 2006).
+   Despite PFO not being an OATP1A2 substrate, PFCs                   2002). Under the Cl-free condition, the Km value for URAT1-
+exhibited a chain length–dependent inhibition of OATP1A2-             mediated PFO uptake is 64.1 ± 30.5lM. Assuming Cl is
+mediated E3S uptake, with PFD (C10) showing the most                  a simple exchanger for URAT1-mediated PFO uptake, this Km
+potency (Fig. 2). For PFO, the inhibition was relatively weak         value, although measured under a Cl-free condition, should
+and the uptake of 7nM E3S was reduced to ~70% in the                  reflect the true PFO-URAT1 affinity under physiological
+presence of 100lM of PFO. In human, this potential                    conditions. Our data suggest that URAT1 could be a key
+OATP1A2 inhibitory effect by PFO is considered negligible             transporter involving in human renal reabsorption of PFO.
+for the general population with a mean serum PFO concentra-           Weaver et al. (2010) have also shown enhanced PFO uptake in
+tion of ~5 ng/ml (12nM) (Butenhoff et al., 2004a).                    rat Urat1-expressing cells under a normal Cl-containing
+   OAT4-mediated PFO uptake was pH sensitive (Supplemen-              buffering condition. This indicates that the mechanism of PFO
+tary fig. 5). Compared with the uptake kinetic parameters             renal reabsorption via URAT1 may not be limited to humans.
+obtained at pH 7.4, the Vmax value was almost unchanged at pH            We have shown that PFCs were able to cis-inhibit URAT1-
+6, whereas the Km value was lowered to half. This suggests that       mediated urate uptake with a chain length–dependent manner
+a more alkaline urine would cause a lower level PFO renal             (Fig. 7). This result suggests a potential of PFCs to reduce urate
+reabsorption via OAT4 (clearance ¼ Vmax/Km). We have also             renal reabsorption, which does not correlate well with the
+shown a PFC chain length–dependent inhibition of OAT4-                observation of a positive association between PFO and uric
+mediated E3S uptake, with PFD (C10) exhibiting the highest            acid serum levels (Steenland et al., 2010). More importantly, it
+inhibition potential (Fig. 4). Because PFO is both a substrate        has been suggested that regulation of urate blood level in
+and an inhibitor of OAT4, it is reasonable to assume that other       humans is not achieved by URAT1 alone but through
+PFCs with OAT4 inhibition potencies were also substrates of           a coordination of multiple renal transport proteins (Eraly et al.,
+OAT4 and were reabsorbed in the human kidney via OAT4.                2008), such as OAT1 (Ichida et al., 2003), OAT3 (Bakhiya
+Besides being expressed in the human kidney, OAT4 is also             et al., 2003), OAT4 (Hagos et al., 2007), OAT10 (Bahn et al.,
+expressed in human placenta (Cha et al., 2000; Ugele et al.,          2008), NPT1 (Uchino et al., 2000), and URATv1 (Anzai et al.,
+2003). This tissue localization suggests that OAT4 may be             2008). Therefore, it would be inappropriate to assume a direct
+involved in transcellular transport of PFO across the placental       connection between urate blood level and the potential of PFO
+barrier that has been documented previously (Midasch et al.,          renal reabsorption via URAT1.
+2007; Monroy et al., 2008).                                              PFCs, especially those with chain lengths between 7 and 10,
+   URAT1 is a member of the OAT family with 42% amino                 have been shown directly (via uptake assays; Weaver et al.,
+acid identity as OAT4 and has been confirmed to play a key            2010) or indirectly (via inhibition assays, the present study) to
+role in urate homeostasis via a renal reabsorption mechanism          be substrates of OAT1, OAT3, OAT4, and URAT1. Among
+(Enomoto et al., 2002). In the present study, URAT1 substrate         them, OAT1 and OAT3 locate at the basolateral membrane of
+transport activity in URAT1-expressing cells was not high             the proximal tubular cells and excrete PFCs from the blood side
+enough to characterize URAT1-mediated PFO uptake kinetics             to the urine side, whereas OAT4 and URAT1 at the brush border
+under a normal buffering condition that contains Cl (Fig. 5B).       membrane are responsible for the reabsorption of PFCs back
+Under a Cl-free buffering condition, URAT1-mediated urate            into the proximal tubular cells (Fig. 8). Even though cellular
+or PFO uptake rate was dramatically enhanced as a result of           electrochemical gradient favors the removal of negatively
+a Cl exchange mechanism for URAT1 (Enomoto et al.,                   charged intracellular PFCs and we have shown the significant
+                                     CHARACTERIZATION OF CELLULAR UPTAKE OF PERFLUOROOCTANOATE                                                                   301
+
+contribution of passive diffusion in cellular transport of PFO                       a major basolateral bile acid and steroid transporter in human intestinal,
+(Han et al., 2008; Yang et al., 2009), one would expect                              renal, and biliary epithelia. Hepatology 42, 1270–1279.
+intracellular accumulation of PFCs without an efficient and                        Bartell, S. M., Calafat, A. M., Lyu, C., Kato, K., Ryan, P. B., and Steenland, K.
+                                                                                     (2010). Rate of decline in serum PFOA concentrations after granular
+active efflux pathway on the basolateral membrane (Fig. 8).
+                                                                                     activated carbon filtration at two public water systems in Ohio and West
+However, such an accumulation did not occur in the kidney of                         Virginia. Environ. Health Perspect. 118, 222–228.
+the rat (Oatp1a1 instead of OAT4 and URAT1 in this case for                        Butenhoff, J. L., Gaylor, D. W., Moore, J. A., Olsen, G. W., Rodricks, J.,
+rat renal reabsorption; Kemper, 2003; Yang et al., 2009).                            Mandel, J. H., and Zobel, L. R. (2004a). Characterization of risk for general
+Therefore, we rationalize that there could be PFC efflux                             population exposure to perfluorooctanoate. Regul. Toxicol. Pharmacol. 39,
+transporter(s) residing in the basolateral membrane that assist(s)                   363–380.
+in moving intracellular PFCs back to the systemic circulation.                     Butenhoff, J. L., Kennedy, G. L., Jr., Hinderliter, P. M., Lieder, P. H., Jung, R.,
+                                                                                     Hansen, K. J., Gorman, G. S., Noker, P. E., and Thomford, P. J. (2004b).
+The potential candidate transporters that could fulfill this role
+                                                                                     Pharmacokinetics of perfluorooctanoate in cynomolgus monkeys.
+
+
+
+
+                                                                                                                                                                         Downloaded from academic.oup.com/toxsci/article/117/2/294/1643194 by INACTIVE user on 02 October 2026
+were multidrug resistance–associated protein 6 (El-Sheikh et al.,                    Toxicol. Sci. 82, 394–406.
+2008; Scheffer et al., 2002) and organic solute transporter a/b                    Cha, S. H., Sekine, T., Kusuhara, H., Yu, E., Kim, J. Y., Kim, D. K.,
+(Ballatori et al., 2005). It would be important for future studies                   Sugiyama, Y., Kanai, Y., and Endou, H. (2000). Molecular cloning and
+to investigate if these transporters, by working with OAT4 and                       characterization of multispecific organic anion transporter 4 expressed in the
+URAT1, were involved in renal reabsorption of PFCs and, as                           placenta. J. Biol. Chem. 275, 4507–4512.
+a result, contributed to the observed long serum half-life of PFO                  Ekaratanawong, S., Anzai, N., Jutabha, P., Miyazaki, H., Noshiro, R.,
+in humans.                                                                           Takeda, M., Kanai, Y., Sophasan, S., and Endou, H. (2004). Human organic
+                                                                                     anion transporter 4 is a renal apical organic anion/dicarboxylate exchanger in
+                                                                                     the proximal tubules. J. Pharmacol. Sci. 94, 297–304.
+                                                                                   El-Sheikh, A. A., Masereeuw, R., and Russel, F. G. (2008). Mechanisms of
+                      SUPPLEMENTARY DATA                                             renal anionic drug transport. Eur. J. Pharmacol. 585, 245–255.
+                                                                                   Enomoto, A., Kimura, H., Chairoungdua, A., Shigeta, Y., Jutabha, P.,
+   Supplementary data are available online at http://toxsci                          Cha, S. H., Hosoyamada, M., Takeda, M., Sekine, T., Igarashi, T., et al.
+.oxfordjournals.org/.                                                                (2002). Molecular identification of a renal urate anion exchanger that
+                                                                                     regulates blood urate levels. Nature 417, 447–452.
+                                                                                   Eraly, S. A., Vallon, V., Rieg, T., Gangoiti, J. A., Wikoff, W. R., Siuzdak, G.,
+                                                                                     Barshop, B. A., and Nigam, S. K. (2008). Multiple organic anion transporters
+                        ACKNOWLEDGMENTS                                              contribute to net renal excretion of uric acid. Physiol. Genomics 33,
+                                                                                     180–192.
+   We thank Drs Robert Buck, Morel Symons, Gerald                                  Gao, B., Hagenbuch, B., Kullak-Ublick, G. A., Benke, D., Aguzzi, A., and
+Kennedy, and Robert Rickard (DuPont) for commenting on                               Meier, P. J. (2000). Organic anion-transporting polypeptides mediate
+                                                                                     transport of opioid peptides across blood-brain barrier. J. Pharmacol.
+this manuscript.                                                                     Exp. Ther. 294, 73–79.
+                                                                                   Glaeser, H., Bailey, D. G., Dresser, G. K., Gregor, J. C., Schwarz, U. I.,
+                                                                                     McGrath, J. S., Jolicoeur, E., Lee, W., Leake, B. F., Tirona, R. G., et al.
+                              REFERENCES                                             (2007). Intestinal drug transporter expression and the impact of grapefruit
+                                                                                     juice in humans. Clin. Pharmacol. Ther. 81, 362–370.
+Andersen, M. E., Butenhoff, J. L., Chang, S. C., Farrar, D. G., Kennedy, G. L.,    Hagos, Y., Stein, D., Ugele, B., Burckhardt, G., and Bahn, A. (2007). Human
+  Jr., Lau, C., Olsen, G. W., Seed, J., and Wallace, K. B. (2008).                   renal organic anion transporter 4 operates as an asymmetric urate transporter.
+  Perfluoroalkyl acids and related chemistries—toxicokinetics and modes of           J. Am. Soc. Nephrol. 18, 430–439.
+  action. Toxicol. Sci. 102, 3–14.                                                 Han, X., Yang, C. H., Snajdr, S. I., Nabb, D. L., and Mingoia, R. T. (2008).
+Anzai, N., Ichida, K., Jutabha, P., Kimura, T., Babu, E., Jin, C. J.,                Uptake of perfluorooctanoate in freshly isolated hepatocytes from male and
+  Srivastava, S., Kitamura, K., Hisatome, I., Endou, H., et al. (2008). Plasma       female rats. Toxicol. Lett. 181, 81–86.
+  urate level is directly regulated by a voltage-driven urate efflux transporter   Hanhijarvi, H., Ylinen, M., Haaranen, T., and Nevalainee, T. (1988). A proposed
+  URATv1 (SLC2A9) in humans. J. Biol. Chem. 283, 26834–26838.                        species difference in the renal excretion of perfluorooctanoic acid in the
+Badagnani, I., Castro, R. A., Taylor, T. R., Brett, C. M., Huang, C. C.,             beagle dog and rat. In New Development of Biosciences: Their Implications
+  Stryke, D., Kawamoto, M., Johns, S. J., Ferrin, T. E., Carlson, E. J., et al.      for Laboratory Animal Science (A. C. Beynen and H. A. Solleveld, Eds.),
+  (2006). Interaction of methotrexate with organic-anion transporting poly-          pp. 409–412. Martinus Nijhoff Publishers, Dordrecht, Netherlands.
+  peptide 1A2 and its genetic variants. J. Pharmacol. Exp. Ther. 318, 521–529.     Harada, K., Inoue, K., Morikawa, A., Yoshinaga, T., Saito, N., and
+Bahn, A., Hagos, Y., Reuter, S., Balen, D., Brzica, H., Krick, W.,                   Koizumi, A. (2005). Renal clearance of perfluorooctane sulfonate and
+  Burckhardt, B. C., Sabolic, I., and Burckhardt, G. (2008). Identification of       perfluorooctanoate in humans and their species-specific excretion.
+  a new urate and high affinity nicotinate transporter, hOAT10 (SLC22A13).           Environ. Res. 99, 253–261.
+  J. Biol. Chem. 283, 16332–16341.                                                 Harada, K. H., Hashida, S., Kaneko, T., Takenaka, K., Minata, M., Inoue, K.,
+Bakhiya, A., Bahn, A., Burckhardt, G., and Wolff, N. (2003). Human organic           Saito, N., and Koizumi, A. (2007). Biliary excretion and cerebrospinal fluid
+  anion transporter 3 (hOAT3) can operate as an exchanger and mediate                partition of perfluorooctanoate and perfluorooctane sulfonate in humans.
+  secretory urate flux. Cell. Physiol. Biochem. 13, 249–256.                         Environ. Toxicol. Pharmacol. 24, 134–139.
+Ballatori, N., Christian, W. V., Lee, J. Y., Dawson, P. A., Soroka, C. J.,         Hilgendorf, C., Ahlin, G., Seithel, A., Artursson, P., Ungell, A. L., and
+  Boyer, J. L., Madejczyk, M. S., and Li, N. (2005). OSTalpha-OSTbeta:               Karlsson, J. (2007). Expression of thirty-six drug transporter genes in human
+302                                                              YANG, GLOVER, AND HAN
+
+  intestine, liver, kidney, and organotypic cell lines. Drug Metab. Dispos. 35,      human maternal and umbilical cord blood samples. Environ. Res. 108,
+  1333–1340.                                                                         56–62.
+Ichida, K., Hosoyamada, M., Kimura, H., Takeda, M., Utsunomiya, Y.,                Motohashi, H., Sakurai, Y., Saito, H., Masuda, S., Urakami, Y., Goto, M.,
+  Hosoya, T., and Endou, H. (2003). Urate transport via human PAH                    Fukatsu, A., Ogawa, O., and Inui, K. (2002). Gene expression levels
+  transporter hOAT1 and its gene structure. Kidney Int. 63, 143–155.                 and immunolocalization of organic ion transporters in the human kidney.
+Islam, R., Anzai, N., Ekaratanawong, S., Kundu-Srivastava, S., Jin, C. J.,           J. Am. Soc. Nephrol. 13, 866–874.
+   Noshiro-Kofuji, R., Miyao, K., Yamanishi, A., Fukutomi, T., Kanai, Y.,          Nakagawa, H., Hirata, T., Terada, T., Jutabha, P., Miura, D., Harada, J. H.,
+   et al. (2007). Characterization of human orgnic anion transporter 4 (hOAT4)       Inoue, K., Anzai, N., Endou, H., Inui, K., et al. (2008). Roles of organic
+   as a low affinity p-aminohippurate (PAH) transporter. J. Kyorin Med. Soc.         anion transporters in the renal excretion of perfluorooctanoic acid. Basic
+   38, 61–68.                                                                        Clin. Pharmacol. Toxicol. 103, 1–8.
+Kemper, R. A. (2003). In Perfluorooctanoic Acid: Toxicokinetics in the Rat.        Nakagawa, H., Terada, T., Harada, K. H., Hitomi, T., Inoue, K., Inui, K., and
+  DuPont Haskell Laboratories, Report ID: DuPont-7473. USEPA Adminis-                Koizumi, A. (2009). Human organic anion transporter hOAT4 is a transporter
+                                                                                     of perfluorooctanoic acid. Basic Clin. Pharmacol. Toxicol. 105, 136–138.
+
+
+
+
+                                                                                                                                                                      Downloaded from academic.oup.com/toxsci/article/117/2/294/1643194 by INACTIVE user on 02 October 2026
+  trative Record AR-226.1499.
+Kennedy, G. L., Jr., Butenhoff, J. L., Olsen, G. W., O’Connor, J. C.,              Olsen, G. W., Burris, J. M., Ehresman, D. J., Froehlich, J. W., Seacat, A. M.,
+  Seacat, A. M., Perkins, R. G., Biegel, L. B., Murphy, S. R., and Farrar, D. G.     Butenhoff, J. L., and Zobel, L. R. (2007). Half-life of serum elimination of
+  (2004). The toxicology of perfluorooctanoate. Crit. Rev. Toxicol. 34,              perfluorooctanesulfonate, perfluorohexanesulfonate, and perfluorooctanoate
+  351–384.                                                                           in retired fluorochemical production workers. Environ. Health Perspect. 115,
+Kudo, N., and Kawashima, Y. (2003). Toxicity and toxicokinetics of                   1298–1305.
+  perfluorooctanoic acid in humans and animals. J. Toxicol. Sci. 28, 49–57.        Scheffer, G. L., Hu, X., Pijnenborg, A. C., Wijnholds, J., Bergen, A. A., and
+Kullak-Ublick, G. A., Hagenbuch, B., Stieger, B., Schteingart, C. D.,                Scheper, R. J. (2002). MRP6 (ABCC6) detection in normal human tissues
+  Hofmann, A. F., Wolkoff, A. W., and Meier, P. J. (1995). Molecular and             and tumors. Lab. Invest. 82, 515–518.
+  functional characterization of an organic anion transporting polypeptide         Steenland, K., Tinker, S., Shankar, A., and Ducatman, A. (2010). Association
+  cloned from human liver. Gastroenterology 109, 1274–1282.                          of perfluorooctanoic acid (PFOA) and perfluorooctane sulfonate (PFOS) with
+Lau, C., Anitole, K., Hodes, C., Lai, D., Pfahles-Hutchens, A., and Seed, J.         uric acid among adults with elevated community exposure to PFOA.
+  (2007). Perfluoroalkyl acids: a review of monitoring and toxicological             Environ. Health Perspect. 118, 229–233.
+  findings. Toxicol. Sci. 99, 366–394.                                             Uchino, H., Tamai, I., Yamashita, K., Minemoto, Y., Sai, Y., Yabuuchi, H.,
+Lee, W., Glaeser, H., Smith, L. H., Roberts, R. L., Moeckel, G. W.,                  Miyamoto, K., Takeda, E., and Tsuji, A. (2000). p-aminohippuric acid
+  Gervasini, G., Leake, B. F., and Kim, R. B. (2005). Polymorphisms in               transport at renal apical membrane mediated by human inorganic phosphate
+  human organic anion-transporting polypeptide 1A2 (OATP1A2): implica-               transporter NPT1. Biochem. Biophys. Res. Commun. 270, 254–259.
+  tions for altered drug disposition and central nervous system drug entry.        Ugele, B., Bahn, A., and Rex-Haffner, M. (2008). Functional differences in
+  J. Biol. Chem. 280, 9610–9617.                                                     steroid sulfate uptake of organic anion transporter 4 (OAT4) and organic
+Leuthold, S., Hagenbuch, B., Mohebbi, N., Wagner, C. A., Meier, P. J., and           anion transporting polypeptide 2B1 (OATP2B1) in human placenta.
+  Stieger, B. (2009). Mechanisms of pH-gradient driven transport mediated by         J. Steroid Biochem. Mol. Biol. 111, 1–6.
+  organic anion polypeptide transporters. Am. J. Physiol. Cell Physiol. 296,       Ugele, B., St-Pierre, M. V., Pihusch, M., Bahn, A., and Hantschmann, P.
+  C570–C582.                                                                         (2003). Characterization and identification of steroid sulfate transporters of
+Lou, I., Wambaugh, J. F., Lau, C., Hanson, R. G., Lindstrom, A. B.,                  human placenta. Am. J. Physiol. Endocrinol. Metab. 284, E390–E398.
+  Strynar, M. J., Zehr, R. D., Setzer, R. W., and Barton, H. A. (2009).            Urquhart, B. L., and Kim, R. B. (2009). Blood-brain barrier transporters and
+  Modeling single and repeated dose pharmacokinetics of PFOA in mice.                response to CNS-active drugs. Eur. J. Clin. Pharmacol. 65, 1063–1070.
+  Toxicol. Sci. 107, 331–341.                                                      Vestergren, R., and Cousins, I. T. (2009). Tracking the pathways of human
+Maestri, L., Negri, S., Ferrari, M., Ghittori, S., Fabris, F., Danesino, P., and     exposure to perfluorocarboxylates. Environ. Sci. Technol. 43, 5565–5575.
+  Imbriani, M. (2006). Determination of perfluorooctanoic acid and perfluor-       Weaver, Y. M., Ehresman, D. J., Butenhoff, J. L., and Hagenbuch, B. (2010).
+  ooctanesulfonate in human tissues by liquid chromatography/single                  Roles of rat renal organic anion transporters in transporting perfluorinated
+  quadrupole mass spectrometry. Rapid Commun. Mass Spectrom. 20,                     carboxylates with different chain lengths. Toxicol. Sci. 113, 305–314.
+  2728–2734.                                                                       Yang, C. H., Glover, K. P., and Han, X. (2009). Organic anion transporting
+Midasch, O., Drexler, H., Hart, N., Beckmann, M. W., and Angerer, J. (2007).         polypeptide (Oatp) 1a1-mediated perfluorooctanoate transport and evidence
+ Transplacental exposure of neonates to perfluorooctanesulfonate and                 for a renal reabsorption mechanism of Oatp1a1 in renal elimination of
+ perfluorooctanoate: a pilot study. Int. Arch. Occup. Environ. Health 80,            perfluorocarboxylates in rats. Toxicol. Lett. 190, 163–171.
+ 643–648.                                                                          Zhou, F., Illsley, N. P., and You, G. (2006). Functional characterization of
+Monroy, R., Morrison, K., Teo, K., Atkinson, S., Kubwabo, C., Stewart, B.,           a human organic anion transporter hOAT4 in placental BeWo cells.
+ and Foster, W. G. (2008). Serum levels of perfluoroalkyl compounds in               Eur. J. Pharm. Sci. 27, 518–523.
+

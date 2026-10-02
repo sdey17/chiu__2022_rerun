@@ -1,0 +1,9 @@
+species,tmc_mg_h_kg,kt_mg_L,tmc_over_kt_L_d_kg,tmc_unit_note,kt_note,original_ref_in_han
+male rat,0.516,0.209,59.3,,,47
+male rat,270,67,96,mg/h/kg^0.75,derived from in vitro measurement,49
+female rat,0.00935,0.05,4.49,,,47
+female rat,3,67,1.08,mg/h/kg^0.75,derived from in vitro measurement,49
+mouse,860.9,0.0015,13800000,,"= Lou 2009 Table 4; both SEs exceed the estimates",48
+monkey,5,0.055,2181,,,42
+monkey,0.15,0.055,65,,,50
+human,6,0.055,2618,mg/h/kg^0.75,,50

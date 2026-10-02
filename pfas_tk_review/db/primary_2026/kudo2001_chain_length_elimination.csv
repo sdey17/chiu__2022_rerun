@@ -1,0 +1,9 @@
+chemical,n_carbons,sex,pct_dose_urine_120h,pct_dose_feces_120h,total_recovery_pct_5d,route_verdict,source
+PFHpA,7,male,92,2-5,93,renal dominant,"Kudo 2001 abstract and sec 3.1/4.2"
+PFOA,8,male,55,2-5,95,renal dominant,"Kudo 2001"
+PFNA,9,male,2.0,2-5,64,"faecal becomes major route","Kudo 2001 sec 4.2 explicit"
+PFDA,10,male,0.2,2-5,78,"faecal major route","Kudo 2001 sec 3.1 and 4.2 explicit"
+PFHpA,7,female,,2-5,74,,"Kudo 2001"
+PFOA,8,female,80,2-5,57,renal dominant,"Kudo 2001; significantly higher than male"
+PFNA,9,female,51,2-5,76,renal dominant,"Kudo 2001; significantly higher than male 2.0%"
+PFDA,10,female,,2-5,78,"faecal major route","Kudo 2001 sec 4.2 explicit for both sexes"

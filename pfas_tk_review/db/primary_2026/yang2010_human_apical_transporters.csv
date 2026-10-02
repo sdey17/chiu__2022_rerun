@@ -1,0 +1,5 @@
+transporter,substrate,km_uM,km_sd,condition,saturable_pfoa_uptake,note
+OATP1A2,PFOA,,,standard buffer,NO,"closest human orthologue of rat Oatp1a1; did NOT mediate saturable PFOA uptake"
+OAT4,PFOA,172.3,45.9,pH 6.0,YES,"uptake stimulated by low extracellular pH"
+OAT4,PFOA,310.3,30.2,pH 7.4,YES,"physiological pH gives the weaker affinity"
+URAT1,PFOA,64.1,30.5,"absence of extracellular chloride",YES,"uptake greatly enhanced by an outward Cl- gradient; the Km requires zero extracellular Cl-, a non-physiological condition"

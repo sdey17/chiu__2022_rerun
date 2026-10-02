@@ -229,6 +229,30 @@ runs the safe way: the rat was dosed at 20.14 mg/kg and the mice at 0.08–10, a
 female rat PFOA clearance *falls* as dose rises (§4.2), so a dose-matched
 comparison would widen the female gap, not narrow it.
 
+**The whole pattern replicates in a second compound.** Tatum-Gibbs 2011 is the
+only strain-matched rat-versus-mouse PFNA experiment, run in one laboratory with
+both sexes of both species:
+
+| PFNA half-life | rat (Sprague-Dawley) | mouse (CD-1) |
+|---|---|---|
+| male | 30.6 d | 34.3–68.9 d |
+| female | **1.4 d** | 25.8–68.4 d |
+| sex ratio M/F | **21.9×** | ~1.0–1.3× |
+| species ratio, same sex | — | male 1.1–2.3×, **female 18–49×** |
+
+Rat sex difference large, mouse sex difference absent, species gap concentrated
+in females — the identical structure to PFOA, in a different compound, with the
+strain confound removed. Its abstract also records that mouse PFNA elimination
+is "non-linear with exposure dose" while the rat's is "by and large linear",
+which is the §4.2 dose-dependence pattern with the species roles reversed from
+PFOA and is not explained here.
+
+Two incidental confirmations from this paper: its measured mouse ceiling of
+**68.9 d** is the figure against which §3.2's composite of 227 d sits 3.3× too
+high, and it independently cites Lou 2009 as "21.7 days for males and 15.6 days
+for females", confirming that those two numbers are the sexes and not a dose
+range.
+
 **And the Vd-versus-clearance question settles inside one experiment.** Argoul
 2026 dosed 11 PFAS as a single cocktail to one sex of one strain:
 
@@ -283,6 +307,43 @@ half-life span:
 | mouse female | 0.299 | 0.0160 | 12.9 d | 21.5 d | 0.60 |
 | mouse male | 0.252 | 0.0100 | 17.5 d | 25.6 d | 0.68 |
 
+**The axis, read at its origin.** OEHHA's Table A6.4 says it is adapted from
+Han et al. 2012, and that review is now on disk, so the chain can be checked:
+
+```bash
+python3 scripts/han2012_axis_at_source.py
+```
+
+The adaptation preserved nine of eleven rows and altered two: **human 99.94% →
+99.8%** and **male rat 93.7% → 93.2%**. Neither changes a conclusion; the
+primary figures are used from here on. Han also calls its own values "rough
+estimates" in the body text, a caveat the citation chain dropped.
+
+More importantly, Han states a point this review had missed. **Humans have the
+longest PFOA half-life but not the largest reabsorption.** In absolute terms
+humans reabsorb 51 mL/d/kg against the male rat's 270 and the mouse's 318–324.
+What is extreme about humans is the *fraction*. That is because the axis has two
+factors, not one:
+
+```
+CL_renal = [fu · GFR] × [1 − FR]
+            filtration   escape fraction
+```
+
+and both vary across species. Decomposing the 333× male-mouse-to-human gap in
+renal clearance:
+
+| factor | contribution | basis |
+|---|---|---|
+| escape fraction | **50×** | 3.0% escapes in mouse vs 0.06% in human |
+| filtration term | **6.5×** | GFR 16.7 vs 2.57 L/d/kg |
+
+On a log scale reabsorption carries **68%** and GFR **32%**. So the single-axis
+framing is justified — reabsorption is the bigger term — but a third of the
+human/rodent difference is simply that humans filter blood about six times more
+slowly per kg, which no transporter story explains and which the allometric
+scaling in §3.6 would partly absorb.
+
 **An independent dataset reproduces the axis.** Everything above traces to one
 compilation (Han 2012, via OEHHA Table A6.4). Argoul 2026 Table 4 reports the
 three quantities the axis needs — unbound fraction, free filtration clearance,
@@ -322,8 +383,10 @@ humans sit — that behaves predictably.
 
 ### 3.4 Two honest caveats
 
-**The "99.8%" is softer than it looks.** It depends on an unbound fraction
-OEHHA *assumed* to be 0.02 for every species. Fischer et al. 2024 measured human
+**The "99.94%" is softer than it looks.** It depends on an unbound fraction
+assumed to be 0.02 for every species — **Han 2012's assumption**, stated in its
+own Table 4 footnotes, which OEHHA inherited rather than introduced (this report
+previously attributed it to OEHHA). Fischer et al. 2024 measured human
 serum PFOA f_unbound at **0.00061** by solid-phase microextraction — 33× lower.
 Recomputed, the figure is 96.2%. The qualitative claim survives; the headline
 number does not. The *prediction* above is unaffected, because `fu · GFR · (1−FR)`
@@ -406,6 +469,35 @@ understates the primary value. In oestradiol-treated males and in ovariectomised
 females, oatp1 mRNA was undetectable at 21 PCR cycles — the regulation is close
 to on/off, not graded, which is why a 23× mRNA swing can support a 71×
 half-life difference.
+
+**In the human, the reabsorptive transporter is a different protein.** This is
+the most consequential thing the new full texts changed. Yang 2010 tested the
+three candidate human apical transporters and found that **OATP1A2 — the closest
+human orthologue of rat Oatp1a1 — does *not* mediate saturable PFOA uptake at
+all.** What does: **OAT4** (Km 172.3 µM at pH 6, 310.3 µM at pH 7.4) and
+**URAT1** (Km 64.1 µM), with chain-length-dependent inhibition across C4–C12 for
+both.
+
+So the axis is real at the level of fractional reabsorption, and §3.3 shows it
+predicts half-lives across seven species — but it is **implemented by different
+proteins in rat and human**. The rat's reabsorptive step runs through an
+androgen-induced transporter; the human's runs through two that are not
+androgen-regulated. That is a mechanistic reason to expect what §5.3 reports
+epidemiologically: no human sex difference of the rat's kind, and whatever human
+sex difference exists arising from something else. It also means rat-to-human
+extrapolation of the *reabsorption mechanism* — as opposed to the reabsorbed
+fraction — has no molecular warrant.
+
+One caveat on URAT1 that resolves a contradiction §4.3 flagged. Yang's 64.1 µM
+was measured **in the absence of extracellular chloride**; the paper says URAT1
+uptake "was greatly enhanced by an outward Cl⁻ gradient". URAT1 is an exchanger,
+so under physiological chloride that transport is much weaker. Louisse 2023
+found URAT1 transported nothing, and the two results are probably not in
+conflict at all — they are the same transporter under different counter-ion
+conditions. Han 2012's own Table 6 lists a human URAT1 row with **no Km value
+entered**, which suggests its authors reached the same judgement about the
+number's physiological relevance. Yang's conclusion that URAT1 "may contribute
+significantly to the long half-life of PFO in humans" is weaker than it reads.
 
 **In the mouse, the mechanism is not established.** Mouse renal Oatp1a1 is
 *also* androgen-dependent (Cheng 2005; Cheng 2006; Isern 2001 independently),
@@ -575,6 +667,58 @@ Hocking mean 227.6 ng/mL against human URAT1 Km 64.1 µM = 26,542 ng/mL — is
 **~117×**, at which the Michaelis–Menten term is 99.1% linear. Tubular water
 reabsorption concentrates luminal fluid ~100-fold, closing two of the four
 orders; a 20–800× margin remains.
+
+**Two caveats, pulling opposite ways — and the second is serious.**
+
+```bash
+python3 scripts/saturation_margin_km_vs_kt.py
+```
+
+*The tightest margin above uses a number that may not apply in vivo.* Yang
+2010's human URAT1 Km of 64.1 µM was measured **in the absence of extracellular
+chloride** (§3.4). Under physiological chloride that transport is much weaker,
+and Louisse 2023 found none at all. Drop URAT1 and the binding margin is set by
+OAT4 at 172.3–310.3 µM, which *widens* the tightest margin from ~117× to
+310–840×. This caveat strengthens the section's conclusion.
+
+*The PBPK models agencies rely on imply the opposite conclusion.* Han 2012
+Table 7 compiles the transport-affinity constants that published PFOA PBPK
+models actually run on. The human value is **KT = 0.055 mg/L = 0.133 µM** —
+**483–2,336× lower than any in vitro Km ever measured for a human apical
+transporter.** At that value the margins invert:
+
+| human serum PFOA | ÷ PBPK KT (0.133 µM) | ÷ lowest in vitro Km (64.1 µM) |
+|---|---|---|
+| general population, ~4 ng/mL | 0.1× | 0.0002× |
+| Lubeck WV, 68 ng/mL | 1.2× | 0.003× |
+| Little Hocking OH, 448 ng/mL | **8.1×** | 0.017× |
+| occupational, ~1000 ng/mL | **18.2×** | 0.038× |
+
+So on the PBPK parameters, reabsorption is already **saturated** in the
+contaminated communities — which would make clearance dose-dependent there and
+mean a single clearance factor cannot transfer between exposure settings. That
+is the opposite of this section's conclusion, from the same literature.
+
+**The in vitro side should be believed, for three reasons that are worth
+stating rather than assuming.** (a) The KT values are not measurements: Han's
+footnote says "Tmc and KT are obtained by fitting PFOA plasma elimination
+curves", and the two rows in the same table marked "derived from an in vitro
+measurement" carry KT = 67 mg/L — about 1,200× higher, and squarely inside the
+in vitro Km range. (b) The fitted values are poorly identified: the mouse row is
+Lou 2009 Table 4, where Tm = 860.9 ± 1298.3 and KT = 0.0015 ± 0.0022 both have
+standard errors exceeding the estimate, and its Tmc/KT of 1.4 × 10⁷ L/d/kg is
+four orders off every other species in the table. (c) The dose-response evidence
+agrees with the in vitro side: §4.2 finds human half-life essentially
+dose-independent and §4.6 finds the between-person association does not survive
+age adjustment, whereas saturation at 68–448 ng/mL would make half-life rise
+with exposure across exactly that range.
+
+**So the answer stands, but its basis is narrower than the section originally
+claimed.** Saturation is unreachable at human exposures according to every
+direct measurement of the transporters; the contrary implication of the PBPK
+constants is an artefact of fitting a saturable model to data that do not
+constrain its parameters. What would settle it is a measured human KT, and
+nobody has one.
 
 ### 4.4 The four slopes that do exist all land in the same place
 
@@ -920,6 +1064,21 @@ mice (Table 2):
 | PFNA | 28.6% | 71.4% |
 | PFDA | 7.3% | 92.7% |
 
+**And the rat agrees, from 25 years earlier.** Kudo 2001 followed urine and
+faeces for four PFCAs in Wistar rats over 120 h: urinary recovery falls from
+**92% (PFHpA, C7) → 55% (PFOA, C8) → 2.0% (PFNA, C9) → 0.2% (PFDA, C10)** in
+males, while faecal recovery rises with chain length. The paper states outright
+that "feces must become a major route of elimination when PFCA was hardly
+eliminated in urine as was observed with PFNA in male rats and PFDA in both
+sexes." Two laboratories, two species, two decades apart, same monotonic
+hand-off from renal to faecal as the chain lengthens. This is now one of the
+better-replicated findings in the review.
+
+In the rat the hand-off is also **sex-dependent**: female rats put 51% of a PFNA
+dose in urine against the male's 2.0%, so C9 is a renal compound in females and
+a faecal one in males. That is the same androgen-regulated step as §3.4, seen in
+the route split rather than the half-life.
+
 This does not adjudicate the human dispute — it is a different species, and the
 mouse is the species §3.4 flags as having multi-route redundancy. But it shows
 the route split is **strongly chain-length dependent within one species and one
@@ -1237,7 +1396,33 @@ the primary full text.**
 10. **One gap this review listed as open was not open.** §3.4 stated that no
    sex-resolved mouse PFOA half-life pair had been measured anywhere. Lou 2009
    Table 2 reports it — female 15.6 d, male 21.7 d — and the "15.6–21.7 d range"
-   EPA quotes from that paper is the two sexes, not a dose range.
+   EPA quotes from that paper is the two sexes, not a dose range. Tatum-Gibbs
+   2011 cites it the same way, independently.
+11. **The fu = 0.02 assumption behind the reabsorption axis is Han 2012's, not
+   OEHHA's.** §3.4 attributed it to OEHHA. It is stated in the footnotes to Han's
+   own Table 4; OEHHA inherited it. Han also calls those values "rough
+   estimates", a caveat the citation chain dropped.
+12. **OEHHA's adaptation of Han's Table 4 altered two values** — human 99.94% →
+   99.8% and male rat 93.7% → 93.2%. Neither changes a conclusion. §3.3 now
+   quotes the primary figures.
+13. **§3.3's "single axis" is two factors, and the report said one.** Han 2012
+   points out that humans reabsorb *less* PFOA in absolute terms (51 mL/d/kg)
+   than male rats (270) or mice (318–324); what is extreme is the fraction. Of
+   the 333× male-mouse-to-human renal clearance gap, the escape fraction carries
+   50× and the ~6× lower human GFR carries 6.5× — 68% and 32% on a log scale.
+   The axis framing survives because reabsorption is the larger term, but a third
+   of the species difference is filtration rate, not transport.
+14. **§4.3's conclusion was stated more strongly than its basis supports.**
+   Saturation is unreachable on every in vitro transporter measurement, but the
+   PBPK constants agencies' models run on (Han 2012 Table 7, human KT = 0.133 µM)
+   are 483–2,336× lower and imply saturation *is* reached in contaminated
+   communities. §4.3 now gives both and argues for the in vitro side rather than
+   assuming it.
+15. **The human reabsorptive transporter is not the rat's.** §3.4 implied the
+   Oatp1a1 mechanism extends to humans. Yang 2010 shows **OATP1A2, the closest
+   human orthologue, does not transport PFOA at all**; human apical reabsorption
+   runs through OAT4 and URAT1, neither androgen-regulated. The reabsorbed
+   *fraction* transfers across species; the *mechanism* does not.
 
 ---
 

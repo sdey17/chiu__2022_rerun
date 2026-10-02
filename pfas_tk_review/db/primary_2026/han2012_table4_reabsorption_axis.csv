@@ -1,0 +1,12 @@
+species,sex,gfr_L_d_kg,clr_mL_d_kg,net_secretion_mL_d_kg,net_reabsorption_mL_d_kg,pct_reabsorption,oehha_a6_4_value,note
+rabbit,female,4,670,590,,,net secretion,"not applicable - net secretion"
+rabbit,male,4,640,560,,,net secretion,"not applicable - net secretion"
+rat,female,14.4,666,378,,,net secretion,"not applicable - net secretion"
+dog,female,5.3,50.8,,55,52,52,matches OEHHA
+dog,male,5.3,43,,63,59,59,matches OEHHA
+Japanese macaque,female,8.5,32,,138,81.2,81.2,matches OEHHA
+Japanese macaque,male,8.5,15,,155,91.2,91.2,matches OEHHA
+rat,male,14.4,18.2,,270,93.7,93.2,"OEHHA states 93.2; Han 2012 Table 4 gives 93.7"
+mouse,female,16.7,16,,318,95.2,95.2,matches OEHHA
+mouse,male,16.7,10,,324,97.0,97.0,matches OEHHA
+human,both,2.57,0.03,,51,99.94,99.8,"OEHHA states 99.8; Han 2012 Table 4 gives 99.94"

@@ -1,15 +1,35 @@
 # Papers wanted, ranked by what each would change
 
-**Status, 2026-10-02: five received.** Argoul/Gayrard 2026, Thompson 2010 (with
+**Status, 2026-10-02: nine received.** Argoul/Gayrard 2026, Thompson 2010 (with
 all five supplementary files and the appended corrigendum), Kudo 2002,
-Lou 2009 and the Huang 2021 corrigendum are now in `papers/` and
+Lou 2009, the Huang 2021 corrigendum, **Han 2012, Yang 2010, Kudo 2001 and
+Tatum-Gibbs 2011** are now in `papers/` and
 `papers/supplementary/`, extracted into `db/primary_2026/`, and folded into the
 report (§3.2a, §3.3, §3.4, §3.6, §5.1c, §5.3, §6.2, §8). That includes all three
 items the "if you can only get three" section named. What each one settled is
 recorded under its entry below.
 
-**Still wanted:** tier 1 item 4 (Buist & Klaassen 2004 — downgraded, see below),
-items 5–7, and the tier 2 and tier 3 lists.
+**Still wanted:** tier 1 items 5 (Cheng & Klaassen) and 6 (Han 2003 — note its
+*companion* Han 2012 has now arrived, which was the more important half); tier 2
+items Sundström 2012 and Kemper 2003; and the tier 3 list, of which
+Hanhijärvi 1988 matters most because it is the entire dog column. Item 4 (Buist
+& Klaassen 2004) is downgraded and item 7 (Yang) is **received**.
+
+**What the four newest ones settled.** Han 2012 is the source OEHHA's Table A6.4
+adapts: the adaptation altered two values (human 99.94→99.8, male rat
+93.7→93.2), the fu = 0.02 assumption turns out to be Han's rather than OEHHA's,
+and Han's own text makes a point this review had missed — humans reabsorb *less*
+PFOA in absolute terms than rodents, so the axis is two factors (filtration and
+escape fraction), splitting 32%/68%. Yang 2010 showed that **OATP1A2, the human
+orthologue of rat Oatp1a1, does not transport PFOA at all** — human reabsorption
+runs through OAT4 and URAT1 — and that its URAT1 Km required zero extracellular
+chloride, which probably reconciles it with Louisse 2023 rather than
+contradicting it. Its Km values, set against Han's Table 7 PBPK constants,
+exposed a 483–2,336× disagreement that flips §4.3's saturation conclusion
+depending on which family is used. Kudo 2001 gave the rat chain-length series
+(92→55→2.0→0.2% urinary across C7–C10) and, with Argoul, makes the renal-to-
+faecal hand-off a two-species replicated finding. Tatum-Gibbs 2011 replicated
+the entire sex/species pattern in PFNA with strains matched.
 
 Every item here was attempted and failed — publisher 403, paywall, not indexed,
 or behind a proof-of-work wall. Retrieval logs are in `papers/SOURCES_*.md`.
