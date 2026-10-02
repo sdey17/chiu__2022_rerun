@@ -23,6 +23,12 @@ harmless; time is normalised to hours.
 
 Input:  papers/CPHEA-Animal-PFAS-PK extracted_data/*.csv  (7,962 rows, 20 studies)
 Output: db/cphea_fitted_halflives.csv
+
+NOTE: this window rule has a known failure mode -- on a biphasic curve the most
+log-linear segment is the shallow terminal tail, not the dominant elimination
+phase that a published half-life describes. See report section 8 item 9. After
+re-running this script, re-run `validate_cphea_fits.py --write` to restore the
+`tail_selection_flag` column, which this script does not emit.
 """
 import csv
 import glob

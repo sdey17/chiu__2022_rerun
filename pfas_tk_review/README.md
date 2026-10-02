@@ -36,6 +36,19 @@ Built on top of the existing work in this repository (`../literature`,
 | `mouse_rat_decomposition.csv` | 14 | the mouse/rat half-life ratio split into its Vd and clearance terms |
 | `sex_decomposition.csv` | 21 | the same split applied to the female/male difference within each species |
 | `reabsorption_axis.csv` | 5 | renal reabsorption of PFOA by species, and the half-life it predicts |
+| `cphea_fitted_halflives.csv` | 186 | terminal slopes refitted here from the EPA CPHEA raw curves — **read the `tail_selection_flag` column and §8 item 9 before using these** |
+
+### `db/primary_2026/` — the five full texts supplied 2026-10-02
+
+| File | Rows | What it holds |
+|---|---|---|
+| `argoul2026_mouse_tk.csv` | 11 | Argoul 2026 Tables 1/2/4: clearance, Vss, MRT, bioavailability, renal/faecal split, unbound fraction and renal clearance for 11 PFAS in female mice |
+| `argoul2026_allometry_human.csv` | 11 | mouse-to-human allometric scaling against measured human clearances |
+| `kudo2002_rat_tk.csv` | 6 | Kudo 2002 Tables 2–3: Vd, clearance and half-life in both sexes, plus the probenecid arm |
+| `kudo2002_transporter_mrna.csv` | 6 | the six renal transporters, their sex ratios, and whether each actually transports PFOA |
+| `lou2009_mouse_tk.csv` | 9 | Lou 2009 Table 2: sex-resolved mouse PFOA Vd, ke and half-life in serum, liver and kidney |
+| `lou2009_saturable_resorption.csv` | 10 | Lou 2009 Table 4: the saturable-resorption model parameters, Tm and KT |
+| `thompson2010_vd_calibration.csv` | 2 | Thompson 2010 supplementary Table S1 — the two communities the 170 mL/kg human Vd was calculated from |
 
 ## Reproducing it
 
@@ -54,6 +67,12 @@ python3 scripts/vd_vs_dose.py                  # does Vd track exposure?
 python3 scripts/agency_clearance_comparison.py # why agencies disagree
 python3 scripts/reabsorption_axis.py           # the single mechanistic axis
 python3 scripts/make_figures.py                # all five figures
+
+# the five primary full texts supplied 2026-10-02
+python3 scripts/thompson_vd_circularity.py            # is the human Vd a measurement?
+python3 scripts/primary_sex_species_decomposition.py  # sex vs species, from primaries
+python3 scripts/argoul_reabsorption_check.py          # the axis, independently recomputed
+python3 scripts/validate_cphea_fits.py                # our own fits vs published values
 ```
 
 `scripts/fetch_papers.sh` re-downloads the agency PDFs listed in

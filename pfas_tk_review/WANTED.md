@@ -1,5 +1,16 @@
 # Papers wanted, ranked by what each would change
 
+**Status, 2026-10-02: five received.** Argoul/Gayrard 2026, Thompson 2010 (with
+all five supplementary files and the appended corrigendum), Kudo 2002,
+Lou 2009 and the Huang 2021 corrigendum are now in `papers/` and
+`papers/supplementary/`, extracted into `db/primary_2026/`, and folded into the
+report (§3.2a, §3.3, §3.4, §3.6, §5.1c, §5.3, §6.2, §8). That includes all three
+items the "if you can only get three" section named. What each one settled is
+recorded under its entry below.
+
+**Still wanted:** tier 1 item 4 (Buist & Klaassen 2004 — downgraded, see below),
+items 5–7, and the tier 2 and tier 3 lists.
+
 Every item here was attempted and failed — publisher 403, paywall, not indexed,
 or behind a proof-of-work wall. Retrieval logs are in `papers/SOURCES_*.md`.
 
@@ -14,12 +25,18 @@ article. Drop files anywhere in the repo — `papers/` is the natural home.
 
 ## Tier 1 — would change or directly test a conclusion in the report
 
-### 1. Argoul / Gayrard 2026 — the missing mouse limb
+### 1. Argoul / Gayrard 2026 — the missing mouse limb — **RECEIVED**
 *Nonlinear mixed-effects modelling of IV and oral kinetics of 11 PFAS in female
 mice.* Environ Res 2026. **PMID 42162713**, doi:10.1016/j.envres.2026.124802
 
 11 PFAS × clearance, Vd, half-life and bioavailability, IV and oral, 119-day
-sampling, NLME. **This is the single most valuable missing paper.**
+sampling, NLME. **It was the single most valuable missing paper and it earned
+that.** What it gave: a single-experiment test of §3.1 (clearance spans 5,254×,
+Vss 7.7×); an independent recomputation of the §3.3 reabsorption axis putting
+mouse PFOA at 95.9% against OEHHA's 95.2–97%; the first quantitative route split
+for ten compounds (§5.3); mouse unbound fractions (§6.2); and the allometry test
+in the new §3.6, where four of eight compounds scale within 1.25× but PFOA
+misses by 3.4×. With Lou 2009 it retires the "one mouse study" caveat for PFOA.
 
 *What it changes:* §3.2 records that the mouse side of the PFOA, PFHxS and PFNA
 species ratios each rests on exactly **one** study (Lou 2009, Sundström 2012,
@@ -27,7 +44,7 @@ Tatum-Gibbs 2011) while the rat side is replicated four to six times. The
 headline 31× mouse/rat PFOA ratio depends on a single mouse datum. This paper
 would independently re-measure that limb across 11 compounds at once.
 
-### 2. Thompson et al. 2010 — the most load-bearing citation nobody has read
+### 2. Thompson et al. 2010 — the most load-bearing citation nobody has read — **RECEIVED**
 *Environ Int 36:390.* **PMID 20236705**, doi:10.1016/j.envint.2010.02.008
 
 *What it changes:* §5.4 and §5.5 show that **nine of 42** adopted regulatory
@@ -36,33 +53,44 @@ clearance factors are computed from this paper's Vd, and EPA's own Table B-26
 It is the hinge of the entire regulatory layer, and this project has only ever
 seen it second-hand.
 
-Two specific things to settle:
-- **Zhang 2013 and Andersson 2025 give transposed values for it** — 170/230 vs
-  230/170 mL/kg for PFOA/PFOS. One of them is wrong and it has propagated.
-- Confirm the derivation: the account on disk says Vd was *calibrated* as
-  `Dose·t½/(Css·ln2)` from two US water communities using an **assumed** 2.3-year
-  half-life. If so, every clearance derived from it is circular.
+Both questions settled in §5.1c, with `scripts/thompson_vd_circularity.py`:
+- **The transposition was Andersson 2025's alone.** Thompson gives PFOA = 170,
+  PFOS = 230. Zhang 2013 has it right. This file was wrong to name Zhang.
+- **The derivation is confirmed.** Supplementary Table S1 is headed "Input data
+  for the calibration of the Vd parameter" with a column headed "calculated Vd",
+  and Eq. 2c reproduces both published values to three figures from an assumed
+  kP of 0.0008/day (2.37 y), taken from Bartell 2010 — measured in the same two
+  communities. The half-life cancels exactly out of any clearance derived this
+  way, but Vd stays proportional to it (168 mL/kg at 2.3 y, 277 at 3.8 y). The
+  appended corrigendum is that error made and corrected by a factor of 0.6.
+- **Bonus:** PFOS's 230 was never calibrated against data at all — it is
+  170 × 1.35, scaled on a cited monkey model.
 
-### 3. Kudo et al. 2002 — the mechanistic foundation of the female-rat story
+### 3. Kudo et al. 2002 — the mechanistic foundation of the female-rat story — **RECEIVED**
 *Sex hormone-regulated renal transport of perfluorooctanoic acid.* Chem Biol
 Interact 139(3):301–316. **PMID 11879818**, doi:10.1016/s0009-2797(02)00006-6
 
-*What it changes:* §3.4 rests the rat mechanism on this paper's castration and
-testosterone-replacement experiments, which we have **only from the abstract**.
-It is also needed to resolve a flat contradiction: EPA's PFHxA review states the
-rat male/female Oatp1a1 mRNA ratio is **2.5-fold**, EPA's PFOA assessment says
-**5–20-fold**, and neither traces to anything in the abstract. The report
-currently refuses to quote any single fold-value because of this.
+*What it gave:* the contradiction is resolved and EPA is wrong both times. The
+primary text gives **oatp1 (Oatp1a1) 23×**, **OAT-K 2.5×** and **OAT2 0.13×** —
+so EPA's "2.5-fold" is the OAT-K ratio misattributed, and 5–20-fold understates
+it. Beyond that: Table 2 measures Vd in *both* sexes in one experiment (345.6 vs
+211.2 mL/kg) against a 44.3× clearance difference, giving the clean 89%/11%
+clearance/Vd split in §3.2a; Table 3's probenecid arm collapses male, castrated
+male and female renal clearance onto a common value; and the paper's own
+conclusion — OAT2/OAT3 secretion, with explicit agnosticism about oatp1 — turns
+out to have been refuted by the later direct transport assays, which is now
+recorded in §3.4 as a piece of intellectual history worth knowing.
 
-### 4. Buist & Klaassen 2004 — the only direct rat-vs-mouse transporter comparison
+### 4. Buist & Klaassen 2004 — **DOWNGRADED, no longer tier 1**
 *Rat and mouse differences in gender-predominant expression of organic anion
 transporter (Oat1-3; Slc22a6-8) mRNA.* Drug Metab Dispos 32(6):620–625.
 **PMID 15155553**, doi:10.1124/dmd.32.6.620
 
-*What it changes:* §3.4 concludes the mouse mechanism is **unestablished**,
-partly on this paper's finding that the one clear rat/mouse species difference
-is in **Oat2 — which does not transport PFOA**. That conclusion deserves to rest
-on the full text rather than an abstract.
+*Why downgraded:* the load-bearing half of this was "Oat2 does not transport
+PFOA", and that is now settled directly from **Weaver 2010 Fig. 9A**, whose full
+PMC text has been on disk all along — no significant net Oat2-mediated uptake of
+C7, C8, C9 or C10 in Oat2-expressing CHO cells. The abstract is enough for the
+rat-versus-mouse expression claim itself. Still useful, no longer decisive.
 
 Companions, same request: **Buist 2002** (PMID 11907168), **Buist & Klaassen
 2003** (PMID 12695343, doi:10.1124/dmd.31.5.559).
@@ -110,11 +138,11 @@ therefore the ultimate source of the reabsorption axis in §3.3.
 
 | paper | identifier | why |
 |---|---|---|
-| **Lou et al. 2009**, *Modeling single and repeated dose pharmacokinetics of PFOA in mice.* Toxicol Sci 107(2):331–341 | **PMID 19005225**, doi:10.1093/toxsci/kfn234 | the 31× mouse/rat PFOA ratio rests on this alone; **no source consulted reports male and female mouse PFOA half-lives separately**, so EPA's re-analysis pair (M 25.6 d, F 21.5 d) has never been checked against a published measurement |
+| **Lou et al. 2009** — **RECEIVED** | **PMID 19005225**, doi:10.1093/toxsci/kfn234 | **It does report the sexes separately** — Table 2: female t½ 15.6 d, male 21.7 d, with Vd 0.135 vs 0.226 L/kg. The "15.6–21.7 d range" EPA quotes is the two sexes, not a dose range. With Kudo 2002 this gives §3.2a's headline: the Vd sex ratio is 1.67× in mouse and 1.64× in rat while the clearance sex ratio is 0.83× and 44.3× |
 | **Sundström et al. 2012**, mouse PFHxS. Reprod Toxicol 33(4):441–451 | **PMID 21856411**, doi:10.1016/j.reprotox.2011.07.004 | sole mouse source for PFHxS; also the monkey Vd four states use. (Cited as both 2011 and 2012 — same paper, 2011 e-pub / 2012 issue) |
 | **Tatum-Gibbs et al. 2011**, PFNA mouse/rat | doi:10.1016/j.tox.2011.01.003 | sole mouse PFNA source; our fitted 227 d sits 3.3× above its ceiling |
 | **Kemper 2003**, DuPont Haskell unpublished | — | the PFOA rat dose series behind §4.2's female dose-dependence; unpublished report |
-| **Huang et al. 2021 corrigendum** | **PMID 33665134**, **PMC7902757**, doi:10.1016/j.toxrep.2021.02.001 | **which NTP numbers were corrected is unknown**; all affected rows are flagged |
+| **Huang et al. 2021 corrigendum** — **RECEIVED** | **PMID 33665134**, **PMC7902757**, doi:10.1016/j.toxrep.2021.02.001 | It is a units-label fix only: AUC and AUC/Dose in Tables 2–4 should read mM·hr, not μM·hr. Verified arithmetically (CL = 4.0 μmol/kg ÷ 7320 μmol/L·hr = 0.546 mL/hr/kg, matching the printed CL). No half-life, clearance or Vd changed, and we store no AUC, so every flagged row was always correct |
 | **Kudo et al. 2001**, *Comparison of the elimination between perfluorinated fatty acids with different carbon chain length in rats.* Chem Biol Interact 134(2):203–216 | **PMID 11311214**, doi:10.1016/s0009-2797(01)00155-7 | the 120-h urinary percentages by chain length and sex, the <5% faecal figures and the biliary comparison behind §5.3. Note: its dose-dependence is of *testosterone*, not of PFOA dose |
 | **Ohmori et al. 2003**, PFCA chain-length TK | **PMID 12499116** | one of two studies giving rat PFOA sex ratio ≈70× |
 
@@ -154,8 +182,31 @@ therefore the ultimate source of the reabsorption axis in §3.3.
 
 ---
 
-## If you can only get three
+## If you can only get three — all three received, 2026-10-02
 
-1. **Argoul/Gayrard 2026** — rebuilds the mouse limb the species comparison rests on
-2. **Thompson et al. 2010** — the assumption nine regulatory clearance factors inherit
-3. **Kudo et al. 2002** — the experiment the whole female-rat mechanism rests on
+1. ~~**Argoul/Gayrard 2026**~~ — rebuilt the mouse limb, and gave the
+   single-experiment version of §3.1 as well
+2. ~~**Thompson et al. 2010**~~ — the assumption turned out to be a calculation,
+   and its supplementary Table S1 is the proof
+3. ~~**Kudo et al. 2002**~~ — settled the fold-value, and moved the mechanism
+   argument from assertion to elimination
+
+## What to get next, in order
+
+1. **Kudo et al. 2001** (PMID 11311214) — tier 2. Now the most useful remaining
+   item: Kudo 2002 covers PFOA only, and this is the chain-length series from the
+   same laboratory, which would let §3.3's axis be tested against rat data the
+   way Argoul let it be tested against mouse data.
+2. **Yang 2009 / Yang 2010** — tier 1 item 7, unchanged. §4.3's saturation margin
+   still depends on Km values read second-hand, and Louisse 2023 contradicts
+   Yang 2010 on URAT1.
+3. **Han 2012** (PMID 21985250) — tier 1 item 6's companion, and now the more
+   important half of it: it is the compilation OEHHA's Table A6.4 is adapted
+   from, so it is the primary source of the reabsorption axis itself. Argoul 2026
+   corroborates the axis for the mouse, which makes the rat and human rows the
+   remaining unverified ones.
+4. **Sundström 2012** (PMID 21856411) and **Tatum-Gibbs 2011** — tier 2. PFHxS
+   and PFNA are now the only compounds where the mouse limb still rests on one
+   study each.
+5. **Hanhijärvi 1988** — tier 3, but it is the entire dog column and two
+   regulatory tabulations of it disagree.
