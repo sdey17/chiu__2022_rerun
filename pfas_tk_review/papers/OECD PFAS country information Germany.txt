@@ -1,0 +1,60 @@
+Germany
+                 Key Links
+
+                  •   PFC-Portal: Start | Umweltbundesamt (site available in German only)
+
+
+
+
+Overview of Risk Reduction Approaches
+
+Germany addresses chemical risk management also through EU regulations, e.g. German authorities
+are part of the group of five countries which proposed to restrict the manufacture, placing on the
+market and use of all PFASs within the EU (see restriction proposal). Germany developed threshold
+and guide values to limit the amount of PFCAs and PFSAs in drinking water and sludge t. In addition,
+the German Federal Environment Agency published an issue of the “What Matters” magazine which is
+dedicated to inform the general public about PFASs (see magazine).
+
+The German Human Biomonitoring commission has decided to set HBM I values for PFOA and PFOS
+in blood plasma of 2 ng PFOA/ml and 5 ng PFOS/ml based on literature review (see report). The HBM
+I value represents the concentration of a substance in a body matrix below which, according to the
+Commission’s current assessment, adverse health effects are not expected and therefore, no
+exposure reduction measures are necessary. The Federal States of Germany proposed limit values
+for groundwater for several PFAS. The German Federal Environment Agency has been looking at
+PFAS in drinking water and has thereby derived drinking water guide values or health orientation
+values for certain PFASs (see report). The report is currently being revised and an updated version is
+expected for 2023/2024. As a supplement to the report the German Federal Environment Agency
+published in 2019 an opinion on a temporary action value for PFOA and PFOS (see Opinion). In
+summer 2023, the amended federal soil protection regulation (Bundesbodenschutzverordnung) will be
+enacted which sets PFAS limit-values for the pathway soil-groundwater.
+Table with Key Elements of Risk Reduction Approaches
+
+           Action               Path taken        BEPs            Category of       Articles     Life cycle       Method of       Public-        Level of
+                                               Implemented      PFASs addressed    covered?       stage(s)        approach        private       constraint
+                                                                                                 addressed                      partnership
+                                                                                                                               encouraged?
+
+ Dialogue with stakeholders       Increase     No information      All PFASs         Yes       Whole life cycle   Dialogue         Yes            None
+ to exchange information        awareness        available
+ and convey concern re          for industry
+ PFASs, and provide              and public
+ information to public
+ Link to Do without
+ perfluorinated chemicals
+ and prevent their discharge
+ into the environment (2009)
+    Link to What Matters 1-
+  2020: PFAS. Came to stay
+            (2020))
+ Threshold and guide values      Manage            Water         Perfluoroalkyl       No        Product use;      Regulatory       No         Water
+   for different media, e.g.     exposure      management,       carboxylic and                   Product                                     treatment
+  drinking water and sludge                     off-gas and      Sulfonic acids                   disposal                                    measures
+                                                solid waste                                                                                      Monitoring
+                                               management
+        HBM-1 values              Limit         PFOA and               No          Analysis          No             None       HBM-1 values       Limit
+                                exposure,         PFOS                                                                                          exposure,
+                                awareness                                                                                                       awareness
+                                  rising                                                                                                          rising
+ Limit values for groundwater      Limit            No           Short and long-      No             No            Analysis        No             None
+                                 exposure                         chain PFAS
+

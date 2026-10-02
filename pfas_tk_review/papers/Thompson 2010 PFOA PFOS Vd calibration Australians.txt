@@ -1,0 +1,81 @@
+SOURCE: https://www.sciencedirect.com/science/article/abs/pii/S0160412010000292
+RETRIEVED: Firecrawl stealth proxy via https://doi.org/10.1016/j.envint.2010.02.008, 2026-10-01
+STATUS: Publisher abstract + Introduction + section-snippet teasers. Full text PAYWALLED
+        (Elsevier, not in PMC, not OA). Everything below is verbatim from the publisher page.
+
+CITATION: Thompson J, Lorber M, Toms L-ML, Kato K, Calafat AM, Mueller JF.
+  Use of simple pharmacokinetic modeling to characterize exposure of Australians to
+  perfluorooctanoic acid and perfluorooctane sulfonic acid.
+  Environment International 2010;36(4):390-397. PMID 20236705.
+  doi:10.1016/j.envint.2010.02.008. Elsevier PII S0160412010000292.
+  (Note: the PII is ...0292, NOT ...0334 as previously guessed in this project's notes.)
+
+=========================================================================================
+*** THE DECISIVE SENTENCE (settles the 170/230 transposition) ***
+=========================================================================================
+From the ABSTRACT, verbatim:
+
+  "Key parameters for this model include the elimination rate constants and the volume of
+   distribution within the body. A volume of distribution was calibrated for PFOA to a
+   value of 170 ml/kg bw using data from two communities in the United States where the
+   residents' serum concentrations could be assumed to result primarily from a known and
+   characterized source, drinking water contaminated with PFOA by a single fluoropolymer
+   manufacturing facility. For PFOS, a value of 230 ml/kg bw was used, based on adjustment
+   of the PFOA value."
+
+=> PFOA = 170 mL/kg bw (calibrated).  PFOS = 230 mL/kg bw (adjusted from the PFOA value).
+
+RESOLUTION OF THE CONFLICT LOGGED IN research_notes/.../human_halflife_assumptions.md Q2:
+  - Zhang et al. 2013 Methods ("V was 170 and 230 mL/kg for PFOA and PFOS") is CORRECT.
+  - Andersson et al. 2025 (Environ Res 285:122487) Introduction, verbatim:
+    "Thompson et al. used pharmacokinetic modelling with assumptions regarding daily intake
+     of contaminated drinking water, yielding 230 mL/kg body weight for PFOA and 170 mL/kg
+     for PFOS (Thompson et al., 2010)."
+    => Andersson et al. 2025 has TRANSPOSED the two values. This is an error in Andersson
+       2025, not in Zhang 2013.
+  - Consistent with: US EPA 2016/2024 (PFOA 170, PFOS 230, both citing Thompson 2010);
+    OEHHA 2024 PHG sec 4.8 (describes the PFOA 170 calibration and the PFOS 230 as
+    170 x 1.35); Yao et al. 2023 EHP (cites Thompson 2010 for 170/230, though its own
+    sentence is typographically garbled: "The Vd values of PFOS and PFOS were set to 230
+    and 170 mL/kg, respectively").
+
+=========================================================================================
+REST OF THE ABSTRACT (verbatim)
+=========================================================================================
+"Perfluorooctanoic acid (PFOA) and perfluorooctane sulfonic acid (PFOS) have been used for
+a variety of applications including fluoropolymer processing, fire-fighting foams and
+surface treatments since the 1950s. ... Here we describe the application of a simple one
+compartment pharmacokinetic model to estimate total intakes of PFOA and PFOS for the
+general population of urban areas on the east coast of Australia. ... Applying measured
+Australian serum data to the model gave mean +/- standard deviation intake estimates of
+PFOA of 1.6 +/- 0.3 ng/kg bw/day for males and females >12 years of age combined based on
+samples collected in 2002-2003 and 1.3 +/- 0.2 ng/kg bw/day based on samples collected in
+2006-2007. Mean intakes of PFOS were 2.7 +/- 0.5 ng/kg bw/day for males and females >12
+years of age combined based on samples collected in 2002-2003, and 2.4 +/- 0.5 ng/kg
+bw/day for the 2006-2007 samples. ANOVA analysis was run for PFOA intake and demonstrated
+significant differences by age group (p=0.03), sex (p=0.001) and date of collection
+(p<0.001). Estimated intake rates were highest in those aged >60 years, higher in males
+compared to females, and higher in 2002-2003 compared to 2006-2007. The same results were
+seen for PFOS intake with significant differences by age group (p<0.001), sex (p=0.001)
+and date of collection (p=0.016)."
+
+MODEL (verbatim, from the "Modeling" section snippet):
+"A simple, single compartment, 1st-order pharmacokinetic (PK) model which predicts PFOA and
+PFOS concentrations in blood serum as a function of dose, elimination rate, and volume of
+distribution, is used in this study. This model is given as:
+  d(CP)/dt = (DP(t))/Vd - kP x CP(t)
+where CP is the serum concentration (ng/ml) of the target chemical (PFOS or PFOA), DP is
+the daily absorbed dose (ng/kg bw/day), Vd is the volume of distribution (ml/kg bw), and
+kP is the first-order elimination rate in the body (day...)"
+
+NOTE ON SCOPE: The paper is an EXPOSURE-RECONSTRUCTION paper. The Vd is a calibrated
+nuisance parameter, not a measurement. Per OEHHA 2024 PHG sec 4.8 p.57, the calibration
+used Emmett et al. 2006 serum (448 ng/mL Little Hocking, 68 ng/mL Lubeck), water at
+3550 and 500 ng/L, 1.4 L/day intake, fa = 0.91, and an ASSUMED half-life of 2.3 y.
+The abstract's own wording ("calibrated", "based on adjustment of the PFOA value") confirms
+neither value is an independent measurement.
+
+Thompson et al. 2010 also published a companion conference abstract on venesection:
+  Thompson J, Toms L-ML, Eaglesham G, Hobson P, Mueller JF. "Comparison of PFOS and PFOA
+  serum concentrations in people undergoing regular venesections and in the broader
+  community." Organohalogen Compd 2010;72:826-829. (Precursor to Lorber et al. 2015.)

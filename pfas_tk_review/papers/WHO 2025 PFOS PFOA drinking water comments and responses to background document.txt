@@ -1,0 +1,206 @@
+    PFOS and PFOA in Drinking-water: Background document for development of WHO
+                         Guidelines for Drinking-water Quality
+
+Background
+
+
+In view of the public health concerns of per- and polyfluoroalkyl substances (PFAS), the World Health
+Organization (WHO) initiated the development of a background document for the Guidelines for
+drinking-water quality (GDWQ) on PFAS in drinking-water with a focus on perfluorooctane sulfonate
+(PFOS) and perfluorooctanoic acid (PFOA). The process was initiated in 2017. Preliminary drafts were
+discussed at numerous consultations with the authors and the chemical working group, including in
+July 2018, April 2019, March 2021 and October 2021. The document also went through a peer review
+process in 2021, with the feedback provided considered by the chemical working group. As part of
+this process, the draft background document was offered for public consultation from 29 September
+to 11 November 2022, during which 25 sets of comments were received from different stakeholders.
+
+
+WHO’s responses to the most common comments received during the public consultation period
+
+
+Comment: The WHO's conclusion that the scientific uncertainties are too significant to derive a
+health-based value for PFOS and PFOA is incorrect. Addressing scientific uncertainty is inherent to the
+practice of risk assessment and is not a justifiable reason for not establishing a health-based guideline
+value.
+
+        Response: The derivation of health-based guideline values for PFOS and PFOA is technically
+        possible and is not necessarily precluded by scientific uncertainty. The uncertainty in this case
+        refers principally to a lack of consensus on key issues raised below, rather than uncertainty
+        which could be characterized. The draft background document cites health-based values
+        derived by multiple authoritative agencies, including: Health Canada, U.S. Environmental
+        Protection Agency, European Food Safety Authority, U.S. Agency for Toxic Substances and
+        Disease Registry, and others. The draft document also points out that health-based values
+        established previously span orders of magnitude. Therefore, recognizing that multiple health-
+        based values for PFOA and PFOS have already been established, and further recognizing the
+        lack of scientific consensus on the key end point and risk assessment approach for these
+        compounds, WHO proposed for its draft background document, a provisional guideline value
+        based on technical achievability, while emphasizing the need to achieve contamination levels
+        as low as reasonably practical. In parallel the background document emphasized the need to
+        prevent contamination of water sources and to stop non-essential uses of PFAS.
+
+        However, in response to multiple requests from stakeholders, recognizing the value of
+        assessing the evidence beyond PFOS and PFOA and to ensure that the latest evidence is taken
+        into account since the background document was drafted, WHO will be undertaking a more
+        comprehensive review on PFAS that will include further examination of whether international
+        health-based guideline values can be established.
+Comment: The provisional guideline value of 100 ng/L for PFOA and PFOS proposed in the WHO draft
+background document is not sufficiently health-protective because it is significantly higher than other
+health-based values recently derived by other agencies. Further, treatment technologies are available
+to achieve much greater removal efficiencies than those suggested in the draft document.
+
+        Response: The provisional guideline value of 100 ng/L for PFOA and PFOS proposed in the draft
+        background document is not a health-based value and the draft background document does
+        not suggest this is a safe level of exposure. Therefore, the WHO’s proposed provisional
+        guideline value should not be compared to health-based values established by other agencies.
+
+        The draft background document found that high pressure membrane processes, adsorption
+        and ion-exchange can reduce PFOS and PFOA contamination levels by ≥ 90%, and that these
+        technologies can consistently and reliably reduce PFAS-contaminated waters to below 100
+        ng/L. However, the draft background document did not intend to suggest that these
+        technologies couldn’t reduce PFOS and PFOA contamination to concentrations lower than 100
+        ng/L. Therefore, the provisional guideline value should not be interpreted as the lowest
+        concentrations of PFOA and PFOS that can be achieved with available treatment technologies;
+        in fact, it is expected that well-operated treatment processes designed for PFAS removal are
+        able to achieve concentrations well below this value.
+
+        Instead, the provisional guideline value of 100 ng/L was proposed recognizing that achieving
+        lower levels is unlikely to be feasible globally, especially for resource limited countries and
+        contexts that do not have these systems in place or do not have the ability to consistently
+        operate them effectively. WHO guideline values are developed to inform the establishment of
+        national standards and regulations, and therefore take into account that there is limited
+        benefit in establishing requirements that cannot practically be achieved. It should also be
+        noted that WHO guideline values usually consider “reasonably practicable treatment”, where
+        this is usually interpreted as conventional water treatment (coagulation, flocculation, filtration
+        and chlorination). Nevertheless, the draft document emphasizes that the provisional guideline
+        values “should not be considered as licenses to allow contamination (up to these levels)”, and
+        further advises that Member States “should strive to achieve concentrations that are as low
+        as reasonably practical, even when lower than the provisional guideline value.”
+
+        It is recognized that this is an area of active research with new data continuing to emerge and
+        therefore WHO will keep the state of science on treatment achievability under review.
+
+Comment: The WHO draft background document did not incorporate a systematic review of the
+literature, and therefore attempts to draw conclusions on health effects without considering all the
+relevant data.
+
+        Response: WHO’s draft background document was prepared in line with WHO's Policies and
+        procedures manual for developing the Guidelines for drinking-water quality. In preparing
+        chemical background documents for the Guidelines for drinking-water quality, WHO does not
+        usually carry out stand-alone systematic reviews. Instead, the background documents,
+        including the drinking-water guideline values are, where possible, based on up to date
+        assessments carried out by WHO (e.g. monographs in the Environmental Health Criteria or
+        CICAD series). In the absence of a suitable WHO assessment, the background documents may
+        instead be based on one or more recent high-quality peer-reviewed national assessments.
+        Accordingly, in the absence of a WHO assessment on PFAS, the background document
+       considered the evidence reviews conducted by multiple national and regional agencies,
+       providing a summary of the literature for each health endpoint of concern with details on a
+       subset of the data. This intent was stated in the background document; for example, in section
+       4 on human health effects, it states: “Although this section highlights several studies related
+       to the toxicological effects of PFOA and PFOS exposure in humans as illustrative examples, it
+       is not intended to be a comprehensive summary of all the data available.”
+
+Comment: The names and affiliations of those who contributed to the document are not transparent
+and there is concern about potential conflict(s) of interest.
+
+       The development of the document was overseen by an expert working group and included an
+       external peer review process. All peer reviewers, working group members, and contributing
+       authors were required to declare any potential conflicts of interest and signed a declaration of
+       interest form. None of these individuals disclosed any interests that precluded their
+       involvement in the development of the background document. Traditionally, WHO has
+       published the names of all those who are involved in preparation of a background document
+       for the Guidelines for drinking-water quality only in the final background document. In
+       response to concerns raised post the public review process, WHO has made available the
+       names of key contributors to the background document. Specifically, the names of the lead
+       authors, chemical working group members who guided document development and peer
+       reviewers are included on the WHO webpage: PFOS and PFOA in drinking-water: background
+       document for development of WHO Guidelines for drinking-water quality. As noted on the
+       webpage, these contributors disclosed interests related to PFAS and it was determined that
+       no interests were declared that precluded involvement in development of the draft
+       background document.
+
+       WHO will continue to only engage experts in its work on PFAS, including the wider assessment
+       on PFAS, who have signed WHO’s declaration of interest form and have been determined to
+       not have any conflicts that would preclude involvement. Furthermore, the names of all experts
+       who will be involved in the wider WHO assessment on PFAS will be posted on WHO’s website
+       throughout the development process.
+
+
+Additional information
+
+The draft background document mentions chemical guideline values. What are those?
+
+       A guideline value normally represents the concentration of a constituent that does not result
+       in any significant risk to health over a lifetime of consumption. The health effects
+       information in the chemical background documents, including guideline values, are usually
+       based on international chemical risk assessments (e.g. from WHO’s chemical safety team). In
+       the absence of a suitable WHO assessment, guideline values may be based on one or more
+       recent high quality, peer reviewed national or regional assessments.
+
+       In certain cases, WHO recommends a provisional guideline value that is higher than the
+       health-based value (i.e. based on a chemical risk assessment). The provisional guideline
+       value takes into account practical issues, including those associated with the feasibility of
+        monitoring or treating the contaminant1. WHO has established a number of provisional
+        guideline values at concentrations that are reasonably achievable through practical
+        treatment approaches or that are detectable by standard analytical methods.
+
+        Chemical guideline values should be adapted in national standards and regulations, including
+        establishing stricter values in national standards compared to the provisional guideline
+        values, when resources are available.
+
+Who were the experts who participated in developing the GDWQ?
+
+        The contributors included the experts from the Guideline Development Group and working
+        groups for the Guidelines for drinking-water quality: Fourth edition incorporating the first
+        and second addenda, who formulate the recommendations related to chemical, microbial
+        or protection and control aspects based on the evidence. Their names can be found in the
+        Acknowledgement section of the Guidelines.
+
+        Additional contributors provide expertise and comments for all WHO assessments of
+        drinking-water contaminants, including for PFOS and PFOA. For the PFOS and PFOA
+        document, their names will be included in the final background document. As of 29
+        September 2022, contributors include:
+
+        •    Dr Ruth Bevan, independent consultant, United Kingdom; Mr Brad Lampe, WHO
+             Collaborating Centre NSF International; Professor Peter Jarvis, Cranfield University,
+             United Kingdom; and Professor John Fawell, Cranfield University, United Kingdom
+             prepared the initial drafts of the background document, under the coordination of WHO
+             and its experts from the chemical working group.
+        •    Experts from the chemical working group of WHO’s Guidelines for Drinking-water
+             Quality guided the development of this document: Dr Mari Asami, National Institute of
+             Public Health, Japan; Mr Richard Carrier, Health Canada, Canada; Dr Joseph Cotruvo,
+             Joseph Cotruvo & Associates, United States of America; Dr David Cunliffe, South
+             Australian Department of Health, Australia; Dr Alexander Eckhardt, Umweltbundesamt
+             (Federal Environment Agency), Germany; Dr Akihiko Hirose, National Institute of Health
+             Sciences of Japan, Japan; Dr Peter Marsden, formerly Drinking Water Inspectorate,
+             United Kingdom; Dr Ed Ohanian, Environmental Protection Agency, United States of
+             America; Professor Choon Nam Ong, National University of Singapore, Singapore; Dr
+             Betsy Behl, Environmental Protection Agency, United States of America; and Dr
+             Emanuela Testai, National Institute of Health, Italy.
+        •    Peer reviewers included Antonia Calafat, CDC, United States of America; Milou
+             Dingemans, KWR Water Research Institute, the Netherlands; Dr Michael Dourson,
+             Toxicology Excellence for Risk Assessment, United States of America; Nick Fletcher,
+             Food Standards Australia New Zealand, Australia; Tony Fletcher, London School of
+             Hygiene and Tropical Medicine, United Kingdom; Philippe Grandjean, University of
+             Southern Denmark and Harvard T.H. Chan, School of Public Health, Denmark and United
+             States of America; Roberta Hoffman-Caris, KWR Water Research Institute, the
+
+1
+  An example of a provisional guideline value is the value established for lead at 10 μg/L. Although
+there is no apparent safe level of lead, this value takes into account difficulties in achieving lower
+values where lead-containing materials are used in water systems.
+             Netherlands; Philip McCleaf, Uppsala Vatten Och Avfall AB, Sweden; Katie Pelch,
+             University of North Texas Health Science Center, United States of America; Marc-Andre
+             Verner, University of Montreal, Canada; Graham White, formerly Health Canada,
+             Canada; and additional experts from the Environmental Protection Agency, United
+             States of America.
+       •     WHO Unit on Water, Sanitation, Hygiene and Health provided coordination, strategic
+             direction and liaison with the WHO Unit on Chemical Safety and Health.
+
+Did the experts and contributors declare their conflicts of interest?
+
+       All authors, chemical working group members and peer reviewers have disclosed
+       circumstances that could give rise to actual or ostensible conflicts of interest and have signed
+       a Declaration of Interest form. No authors, working group members or reviewers declared
+       any interests that were considered by the WHO Secretariat to preclude their involvement in
+       development of the draft background document.
+

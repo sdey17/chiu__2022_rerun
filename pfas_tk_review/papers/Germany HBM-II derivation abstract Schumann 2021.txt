@@ -1,0 +1,37 @@
+1. Regul Toxicol Pharmacol. 2021 Apr;121:104868. doi:
+10.1016/j.yrtph.2021.104868.  Epub 2021 Jan 21.
+
+Human biomonitoring (HBM)-II values for perfluorooctanoic acid (PFOA) and 
+perfluorooctane sulfonic acid (PFOS) - Description, derivation and discussion.
+
+Schümann M(1), Lilienthal H(2), Hölzer J(2).
+
+Author information:
+(1)Department for Hygiene, Social and Environmental Medicine, MA 1/31, 
+Ruhr-University Bochum, Universitätsstrasse 150, 44801, Bochum, Germany. 
+Electronic address: michael.schuemann@hamburg.de.
+(2)Department for Hygiene, Social and Environmental Medicine, MA 1/31, 
+Ruhr-University Bochum, Universitätsstrasse 150, 44801, Bochum, Germany.
+
+For evaluation of internal exposure to harmful substances, the Human 
+Biomonitoring Commission of the German Environment Agency (HBM Commission) 
+develops toxicologically justified assessment values (HBM-I and HBM-II). The 
+HBM-I value corresponds to the concentration of a compound in human biological 
+material below which no adverse health effects are expected to occur. 
+Consequently, no action is required when the HBM-I value is not exceeded 
+(HBM-Commission, 1996). In 2016, the HBM Commission developed HBM-I values of 
+2 ng PFOA/mL and 5 ng PFOS/mL in blood serum or plasma, respectively. A detailed 
+delineation of supporting arguments was published in April 2018 (HBM-Commission, 
+2018). In contrast to the HBM-I, the HBM-II value corresponds to the 
+concentration in human biological material which, when exceeded, may lead to 
+health impairment which is considered as relevant to exposed individuals 
+(HBM-Commission, 1996, HBM-Commission, 2014). HBM-II VALUES FOR PFOA AND PFOS: 
+On September 17, 2019, the HBM Commission of the German Environment Agency 
+established the following HBM-II values: Women at child-bearing age: 5 ng 
+PFOA/mL blood plasma; 10 ng PFOS/mL blood plasma; All other population groups: 
+10 ng PFOA/mL blood plasma; 20 ng PFOS/mL blood plasma.
+
+Copyright © 2021. Published by Elsevier Inc.
+
+DOI: 10.1016/j.yrtph.2021.104868
+PMID: 33484797 [Indexed for MEDLINE]

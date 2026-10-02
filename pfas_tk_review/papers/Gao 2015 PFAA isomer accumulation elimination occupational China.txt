@@ -1,0 +1,54 @@
+SOURCE: ACS publisher page via Firecrawl stealth (https://doi.org/10.1021/acs.est.5b00778), 2026-10-01
+STATUS: ABSTRACT ONLY (paywalled; not in PMC).
+
+CITATION: Gao Y, Fu J, Cao H, Wang Y, Zhang A, Liang Y, Wang T, Zhao C, Jiang G.
+  Differential Accumulation and Elimination Behavior of Perfluoroalkyl Acid Isomers in
+  Occupational Workers in a Manufactory in China.
+  Environ Sci Technol 2015;49(11):6953-6962. PMID 25927957. doi:10.1021/acs.est.5b00778.
+
+ABSTRACT (verbatim)
+"In this study, serum and urine samples were collected from 36 occupational workers in a
+fluorochemical manufacturing plant in China from 2008 to 2012 to evaluate the body burden
+and possible elimination of linear and branched perfluoroalkyl acids (PFAAs). Indoor dust,
+total suspended particles (TSP), diet, and drinking water samples were also collected to
+trace the occupational exposure pathway to PFAA isomers. The geometric mean concentrations
+of perfluorooctanesulfonate (PFOS), perfluorooctanoate (PFOA), and perfluorohexanesulfonate
+(PFHxS) isomers in the serum were 1386, 371, and 863 ng mL-1, respectively. The linear
+isomer of PFOS, PFOA, and PFHxS was the most predominant PFAA in the serum, with mean
+proportions of 63.3, 91.1, and 92.7% respectively, which were higher than the proportions
+in urine. The most important exposure routes to PFAA isomers in the occupational workers
+were considered to be the intake of indoor dust and TSP. A renal clearance estimation
+indicated that branched PFAA isomers had a higher renal clearance rate than did the
+corresponding linear isomers. Molecular docking modeling implied that linear PFOS (n-PFOS)
+had a stronger interaction with human serum albumin (HSA) than branched isomers did, which
+could decrease the proportion of n-PFOS in the blood of humans via the transport of HSA."
+
+VALUES
+  Serum GM (n=36 workers, Yingcheng Hubei plant, 2008-2012):
+     PFOS 1386 ng/mL, PFOA 371 ng/mL, PFHxS 863 ng/mL
+  Linear fraction in serum: PFOS 63.3%, PFOA 91.1%, PFHxS 92.7%  (all higher than in urine)
+  Direction of the isomer effect on renal clearance: BRANCHED > LINEAR
+  Proposed mechanism: stronger HSA binding of n-PFOS (molecular docking)
+
+CONSISTENCY CHECK ACROSS THE ISOMER LITERATURE
+  Gao 2015 (urine/serum, renal clearance):   branched cleared FASTER than linear.
+  Kawabata 2025 (Chemosphere 385:144409, bile+urine+CSF): branched C7-C8 PFCAs had HIGHER
+      renal AND higher total clearance than linear; C9+ no difference, because biliary/fecal
+      clearance dominates from C9 and does not discriminate isomers.
+  Xu 2020 Arvidsjaur (serum decay):          all three branched PFOS classes had SHORTER
+      half-lives than L-PFOS (1.04-1.27 y vs 2.91 y).
+  Li 2022 Ronneby (serum decay):             MIXED - 2/6m-PFOS 2.67 y and L-PFOS 2.73 y are
+      indistinguishable, 3/4/5m-PFOS 3.43 y and 1m-PFOS 5.01 y are SLOWER than linear.
+  Nilsson 2022b (serum decay, firefighters): branched FRACTION ROSE over 5 years, i.e.
+      branched as a group cleared SLOWER; 1m-PFOS slowest at 11.5 y.
+  Andersson 2025 (fecal+urinary mass balance, Ronneby): branched PFOS k 0.17-0.21/y vs
+      L-PFOS 0.22/y, i.e. branched marginally SLOWER.
+  => The sign of the isomer effect is NOT consistent across designs. The renal-clearance
+     designs (Gao, Kawabata) say branched is faster; the serum-decay designs in
+     sulfonate-dominated cohorts (Li 2022, Nilsson 2022b, Andersson 2025) say branched PFOS
+     is the same or slower, with 1m-PFOS clearly slowest. A plausible reconciliation is that
+     branched isomers are preferentially excreted by the KIDNEY but that the kidney is a
+     minor route for PFOS (Andersson 2025: 85% of 2/6m-PFOS elimination is fecal), so a
+     renal advantage does not translate into a shorter total half-life for sulfonates. For
+     PFCAs, where urine is the major route, Kawabata's C7-C8 result and Xu 2020's
+     carboxylate behaviour are consistent with that reading. This is an INFERENCE.

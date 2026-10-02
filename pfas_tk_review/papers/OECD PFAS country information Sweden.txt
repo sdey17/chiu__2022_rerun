@@ -1,0 +1,113 @@
+Sweden
+
+                    Key Link                                   Recent Initiatives
+                                                               A report was recently published that presents
+                     •   PFASs in the action plan for
+                                                               results from the Swedish Chemicals Agency’s
+                         a toxic-free everyday
+                                                               work on PFASs relating to Sweden’s Action
+                         environment (selected parts
+                                                               Plan for a toxic-free everyday environment and
+                         of the original report 6/17)
+                                                               describes further efforts that are needed.
+                                                               The Swedish Chemicals Agency decided that
+                                                               companies are required to provide information
+                                                               on highly fluorinated substances (PFASs) for
+                                                               the agency's Products Register. The new
+                                                               provisions came into force on 1st January 2019.
+                                                               As a result, information concerning PFASs
+                                                               will have to be reported to the Products
+                                                               Register starting from February 2020.
+
+
+
+Overview of risk reduction approaches
+Sweden addresses certain PFASs through EU Regulations. The Swedish Chemicals Agency (CA) (KemI) has
+been assigned by the Swedish government to develop a national action plan with the aim to increase the safety
+of drinking water supplies. In December 2010, the Swedish Government assigned KemI to prepare and
+implement an action plan for a toxic-free everyday environment: Action plan for a toxic-free everyday
+environment 2011 – 2014. The Action Plan has been prolonged to 2020. One focal area for the action plan is
+highly fluorinated substances (PFASs). A report was prepared to present results from the Swedish Chemicals
+Agency’s work on PFASs relating to the Action Plan and describes further efforts that are needed.
+KemI has also been assigned to investigate potential national and/or EU regulations and other measurements
+(specifically for firefighting foams but other uses may also be considered). Within the national action plan the
+Swedish CA is also performing a survey of different PFASs and their uses on the market and the occurrence of
+alternatives. The Swedish CA will also work for an EU-action plan for the group of PFAS substances. In
+addition there are also activities by other Swedish agencies.
+
+
+
+
+                                                   1
+Table with key elements of risk reduction approaches
+
+
+         Action                     Path taken                BEPs          Category of       Articles    Life cycle    Method of      Public-      Level of
+                                                           Implemented        PFASss         covered?      stage(s)     approach       private     constraint
+                                                                             addressed                    addressed                  partnership
+                                                                                                                                     encouraged?
+
+
+Analysis of PFAS in                 Monitoring             Not relevant    Both target (19     Yes         Use in        Analysis        No           None
+fire-fighting foams                                                       different PFASs)                products
+                                                                           and non-target
+                                                                              screening
+                                                                               analysis
+Development of a              Political target to reduce   Not relevant     All PFASs          Yes        Whole life    Voluntary,      Yes        Potentially
+national action plan for       the use andemissions                                                        cycle        Regulatory                 regulations
+PFAS                               that will lead to                                                                                                 and/or
+                              exposure to humans via                                                                                                voluntary
+                              drinking water. Increase                                                                                             agreement
+                               knowledge for PFASs
+Investigating and if                Manage the             Not relevant     All PFASs          Yes          Use in      Voluntary        Yes        Potentially
+needed suggest national          manufacture, sale,                                                      products and      and                     regulations
+and/or EU regulations            import and export                                                         articles     regulatory                   and/or
+and other measurements,                                                                                                                             voluntary
+specially for fire-fighting                                                                                                                        agreement
+foams
+Mapping of uses and               Literature survey        Not relevant     All PFASs          Yes          Use in      Literature       No          None
+applications of PFAs and                                                                                 products and    survey
+the alternatives on the                                                                                    articles
+market
+
+
+                                                                                 2
+Action value for drinking     Manage exposure          Water          Sum of seven      No   Product use?    Regulatory   No        Water
+water                                                management       PFAS (PFOA,                                                 treatment
+                                                                     PFHpA, PFHxA,                                                measures
+                                                                      PFPeA, PFOS,
+                                                                                                                                 Monitoring
+                                                                     PFHxS, PFBS)
+Collection of analytical       Risk assessment              -            All PFASs       -    Discharges     Voluntary    Yes     Voluntary
+data of PFAS in drinking                                                                     from all life                       agreements
+water from Swedish                                                                            cycles are
+                                                                                                                                 Monitoring
+municipalities                                                                                addressed
+Monitoring and              Continuous monitoring     Not relevant            -         No    Discharges      Analysis    No     Monitoring
+screening of PFASs in                                                                        from all life
+the environment                                                                               cycles are
+                                                                                              addressed
+Development of                         -              Not relevant            -         No    Discharges      Analysis    No     Basis for the
+preliminary guidelines                                                                       from all life                      preparation of
+values for PFAS in soil                                                                       cycles are                            general
+and groundwater                                                                               addressed                           guidelines
+                                                                                                                                   regarding
+                                                                                                                                remediation of
+                                                                                                                                    PFAS-
+                                                                                                                                 contaminated
+                                                                                                                                     areas
+Proposal for                           -                    -              PFOS         -         -          Regulatory    -          -
+Environmental Quality
+Standard level for PFOS
+in groundwater body
+
+
+Additional resources
+
+      •   Occurence and use of highly fluorinated substances and alternatives (2015).
+
+
+
+
+                                                                             3
+

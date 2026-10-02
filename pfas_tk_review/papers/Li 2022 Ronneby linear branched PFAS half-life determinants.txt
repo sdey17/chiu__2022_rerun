@@ -1,0 +1,58 @@
+SOURCE: PubMed structured abstract (efetch db=pubmed), 2026-10-01
+STATUS: ABSTRACT ONLY. Full text PAYWALLED (Elsevier, not in PMC, not OA; Firecrawl on the
+        ScienceDirect full-text URL returned HTTP 403). All half-life values with CIs are
+        carried in the structured abstract, verbatim below.
+
+CITATION: Li Y, Andersson A, Xu Y, Pineda D, Nilsson CA, Lindh CH, Jakobsson K, Fletcher T.
+  Determinants of serum half-lives for linear and branched perfluoroalkyl substances after
+  long-term high exposure - A study in Ronneby, Sweden.
+  Environment International 2022;163:107198. PMID 35447437.
+  doi:10.1016/j.envint.2022.107198.
+
+ABSTRACT (verbatim)
+[BACKGROUND] "Per- and polyfluoroalkyl substances (PFAS) are persistent substances with
+surfactant and repellent properties. Municipal drinking water contaminated with PFAS had
+been distributed for decades to one third of households in Ronneby, Sweden. The source was
+firefighting foam used in a nearby airfield since the mid-1980s. Clean water was provided
+from December 16, 2013."
+[AIMS] "The purpose was to estimate serum half-lives and their determinants in the study
+population for different PFAS."
+[METHODS] "Up to ten blood samples were collected between 2014 and 2018 from 114
+participants (age 4-84 years at entry, 53% female). 19 PFAS were analysed. Linear mixed
+models were used to estimate the half-lives."
+[RESULTS] "Eight PFAS were increased in Ronneby: perfluorooctanoic acid (PFOA),
+perfluoropentane sulfonate (PFPeS), perfluorohexane sulfonate (PFHxS), perfluoroheptane
+sulfonate (PFHpS), linear perfluorooctane sulfonate (L-PFOS) and three branched
+perfluorooctane sulfonates (1m-PFOS, 3/4/5m-PFOS and 2/6m-PFOS). The mean estimated
+half-lives (in years) were 0.94 (95 %CI 0.86-1.02) for PFPeS, 2.47 (2.27-2.7) for PFOA,
+2.67 (2.51-2.85) for 2/6m-PFOS, 2.73 (2.55-2.92) for L-PFOS, 3.43 (3.19-3.71) for
+3/4/5m-PFOS, 4.52 (4.14-4.99) for PFHxS, 4.55 (4.14-5.06) for PFHpS, and 5.01 (4.56-5.55)
+for 1m-PFOS. The most important determinants of a shorter half-life were young age, and
+better kidney function measured by estimated glomerular filtration rate and ratio of paired
+urine and serum PFAS levels, followed by female sex during their fertile period aged 15-50.
+Markers of gut inflammation and reduced permeability i.e. zonulin and calprotectin were
+also possibly associated with shorter half-life. The results also suggested a
+time-dependent PFAS elimination process, with more rapid elimination in the first year
+after the end of exposure."
+[CONCLUSION] "The half-life estimates are in line with past estimates for some PFAS such as
+PFOA, and the novel results for different PFOS isomers. These results provide observational
+support for elimination routes - renal, fecal and maternal."
+
+WHY THIS MATTERS FOR THIS SWEEP
+1. It is the ONLY human study that reports separate half-lives, with confidence intervals,
+   for three named branched PFOS isomers alongside L-PFOS, in the same subjects. The
+   branched isomers do NOT behave as a single group: 2/6m-PFOS (2.67 y) is FASTER than
+   L-PFOS (2.73 y) while 1m-PFOS (5.01 y) is nearly twice as slow. Treating "branched PFOS"
+   as one entity (as Nilsson 2022b's "sum of branched" row does) averages over a ~1.9-fold
+   spread.
+2. PFPeS (0.94 y) and PFHpS (4.55 y) human half-lives come from here and from Xu 2020;
+   these two compounds have no other source.
+3. The cohort starts at age 4, so this is the principal source of paediatric human PFAS
+   half-life information - but as an age-stratified covariate inside an adult cohort,
+   not a dedicated paediatric study.
+4. eGFR and the paired urine/serum ratio are reported as determinants, which makes this the
+   closest thing in the literature to a renal-function-impairment analysis of PFAS
+   elimination.
+5. The elimination constants (k) from this same panel were re-used by Andersson et al. 2025
+   (Environ Res 285:122487) to compute the only body-burden-based human Vd values
+   (74 mL/kg PFOA, 93 mL/kg L-PFOS). The two papers are not independent.

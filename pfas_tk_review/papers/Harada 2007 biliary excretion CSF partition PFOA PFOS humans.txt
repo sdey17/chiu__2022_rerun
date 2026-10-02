@@ -1,0 +1,50 @@
+SOURCE: PubMed abstract (efetch db=pubmed), 2026-10-01. Full text paywalled (Elsevier).
+CITATION: Harada KH, Hashida S, Kaneko T, Takenaka K, Minata M, Inoue K, Saito N, Koizumi A.
+  Biliary excretion and cerebrospinal fluid partition of perfluorooctanoate and
+  perfluorooctane sulfonate in humans. Environ Toxicol Pharmacol 2007;24(2):134-139.
+  PMID 21783801. doi:10.1016/j.etap.2007.04.003.
+
+ABSTRACT (verbatim)
+"Perfluorooctane sulfonate (PFOS) and perfluorooctanoate (PFOA) are detected in the
+environment and, more specifically, in wildlife and humans. The large variation in the
+reported biological half-lives for PFOA and PFOS has remained unexplored. In this study, we
+aimed to evaluate their partition from serum to bile and cerebrospinal fluid (CSF) in
+humans. Four pairs of serum and bile, and 7 pairs of serum and CSF were donated by patients.
+In considering biliary excretion, the median concentrations of PFOA and PFOS in serum
+samples were 3.8 and 23.2 ng/mL, respectively, whereas those in bile samples were 1.0 and
+27.9 ng/mL, respectively. The median ratio of PFOS concentrations (bile/serum: 0.60) was
+significantly higher than that for PFOA, 0.21 (p<0.01). Biliary excretion rates for PFOA and
+PFOS in the present study subjects were estimated as 1.06 and 2.98 mL/kg/day, respectively,
+which is significantly higher than serum clearances via urine in humans and might represent
+a major excretion route. Biliary reabsorption rates of PFOA and PFOS were estimated to be
+0.89 and 0.97, respectively. In considering partition into the cerebrospinal fluid, the
+median concentrations of PFOA and PFOS in serum samples were 2.6 and 18.4 ng/mL,
+respectively, whereas those in CSF samples were 0.06 and 0.10 ng/mL, respectively. The
+median ratio of PFOS concentrations (CSF/serum: 9.1 (x10-3)) was comparable to that of PFOA,
+17.6 (x10-3), suggesting that PFOA and PFOS cannot pass through the blood-brain barrier
+freely. In conclusion, the biliary excretion of these compounds was comparable in both rats
+and humans and the long half-lives in humans might be attributable to low levels of
+excretion in urine and high biliary reabsorption rates."
+
+VALUES
+  n = 4 serum/bile pairs (patients with biliary drainage); n = 7 serum/CSF pairs.
+  Bile/serum ratio: PFOS 0.60, PFOA 0.21 (p<0.01).
+  BILIARY clearance: PFOA 1.06 mL/kg/day, PFOS 2.98 mL/kg/day.
+  Biliary REABSORPTION fraction: PFOA 0.89, PFOS 0.97.
+  CSF/serum ratio: PFOA 17.6 x 10^-3, PFOS 9.1 x 10^-3.
+  Bile flow assumed 350 mL/day (per Andersson et al. 2025 sec 4, who re-derive the ratio
+  using 604 mL/day from Boyer & Bloomer 1974 as a sensitivity check).
+
+SCALE CHECK, done by Andersson et al. 2025 (Environ Res 285:122487) sec 4, quoted verbatim:
+  "Dividing our fecal clearance of 0.017 mL/day/kg for PFOA and 0.046 mL/day/kg for PFOS ...
+   with their respective biliary clearance yield ratios of 1.6 % for PFOA and 1.5 % for
+   PFOS. However, Harada et al. assumed a conservative bile flow of 350 mL/day, while
+   another study estimated it to be 604 mL/day. If a bile flow of 604 mL is instead assumed,
+   the ratios of biliary/fecal clearance would be 0.9 % for both PFOA and PFOS. This
+   suggests that only a small percentage of the PFOA and PFOS (and possibly other PFAS) that
+   is excreted in bile ends up in feces, i.e., there is an enterohepatic recirculation of
+   approximately 99 %."
+=> Harada 2007's biliary clearance is a clearance into bile, NOT a net elimination; ~99% is
+   reabsorbed in the gut. This is exactly the step that bile-acid sequestrants interrupt,
+   and it is why cholestyramine raises fecal PFOS 23-fold (Andersson 2025) while probenecid
+   (an OAT inhibitor acting on the renal route) does nothing.

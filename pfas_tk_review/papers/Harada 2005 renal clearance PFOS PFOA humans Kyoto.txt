@@ -1,0 +1,67 @@
+SOURCE: https://www.sciencedirect.com/science/article/abs/pii/S0013935104002397
+RETRIEVED: Firecrawl via https://doi.org/10.1016/j.envres.2004.12.003, 2026-10-01
+STATUS: Publisher Abstract + Introduction + section-snippet teasers. Full text PAYWALLED
+        (Elsevier, not in PMC). Numeric clearance values below come from the SECONDARY
+        source named explicitly, because the primary tables are behind the paywall.
+
+CITATION: Harada K, Inoue K, Morikawa A, Yoshinaga T, Saito N, Koizumi A.
+  Renal clearance of perfluorooctane sulfonate and perfluorooctanoate in humans and their
+  species-specific excretion. Environmental Research 2005;99(2):253-261.
+  PMID 16194675. doi:10.1016/j.envres.2004.12.003. Elsevier PII S0013935104002397.
+
+ABSTRACT (verbatim)
+"Perfluorooctane sulfonate (PFOS) and perfluorooctanoate (PFOA) are detected in the
+environment, as well as more specifically in wildlife and humans. However, the toxicokinetic
+aspects of perfluorochemicals in humans are unclear. In this study, we measured
+concentrations of PFOA and PFOS in subjects who had lived in Kyoto city for more than 10
+years. The serum concentrations of PFOA and PFOS were higher in females who menstruated
+than those who did not menstruation (P<0.01), but in males this did not change by age; the
+levels in females reached those in males at an age of >=60 years. We then determined the
+renal clearances of PFOA and PFOS in young (20-40 years old, N=5 for each sex) and old
+(>=60 years old, N=5 for each sex) subjects of both sexes. All young females were
+menstruating, while all old females were not. The renal clearances were 10^-5-fold smaller
+than the glomerular filtration rate in humans, suggesting the absence of active excretion
+in human kidneys. The renal clearances of PFOA and PFOS were approximately one-fifth of the
+total clearance based on their serum half-lives, assuming a one-compartment model. The sex
+differences in renal clearance that have been reported in rats and Japanese macaques were
+not found in our human subjects. We tried to build a one-compartment pharmacokinetic model
+using the reported half-lives in human. The model was simple but could predict the serum
+concentrations in both males and females fairly well. We therefore suggest that an internal
+dose approach using a pharmacokinetic model should be taken because of the large species
+differences in kinetics that exist for PFOA and PFOS."
+
+DESIGN (verbatim from section snippets)
+"In Study 1, we evaluated the serum concentrations of PFOS and PFOA in both females and
+males of various ages who had been residents of Kyoto city for more than 10 years ...
+In total, 48 Kyoto city dwellers (20 males and 28 females) participated ...
+The number and demographic features of the participants in Study 2 are summarized in Table
+2. In total, 20 subjects (10 males and 10 females) participated, of whom 14 (6 males and 8
+females) were Kyoto city dwellers for >=10 years and 6 [were not]."
+
+DISCUSSION (verbatim)
+"We clearly demonstrated that the serum concentrations of PFOA and PFOS increased with age
+in females, reaching the levels found for males at ages above 60 years. Another novel
+finding was associated with the renal clearances of these chemicals, namely that the renal
+clearances of PFOA and PFOS were almost negligible in both sexes in humans, in clear
+contrast to the large active excretion in other species"
+
+NUMERIC RENAL CLEARANCES - taken from a SECONDARY source, quoted verbatim:
+Andersson AG, Fletcher T, Xu Y, Karrman A, Pineda D, Nilsson CA, Lindh CH, Jakobsson K,
+Li Y. Environ Res 2025;285:122487, Discussion sec 4:
+  "two studies using 24-h urine measurements yielded similar mean renal clearances of 0.033
+   (mL/day/kg) in women (K. Harada et al., 2005), 0.027 in men (K. Harada et al., 2005) and
+   0.044 in both men and women (Yukiko Fujii et al., 2015) for PFOA and 0.019 for women
+   (K. Harada et al., 2005) and 0.012 for men (K. Harada et al., 2005) for PFOS"
+  => Harada 2005 mean renal clearance, 24-h urine:
+       PFOA: 0.033 mL/day/kg (women), 0.027 mL/day/kg (men)
+       PFOS: 0.019 mL/day/kg (women), 0.012 mL/day/kg (men)
+Also compiled in Yao et al. 2023 EHP 131:37003 Table 3 (column "Adults ... Kyoto, n=20"):
+       PFOA 1.365 mL/kg/day   <-- NOTE: this value in Yao's Table 3 is ~40x the value
+       Andersson 2025 attributes to Harada 2005. The flattened Table 3 columns in the Yao
+       text are mis-aligned and this attribution could not be verified; DO NOT USE the
+       1.365 figure without reading Yao's Table 3 in the typeset PDF.
+
+Vd: the 0.3 L/kg associated with Harada 2005 (and carried into ATSDR 2021 Table A-3) is a
+one-compartment MODEL PARAMETER applied to literature half-lives, not an independent
+measurement. The abstract itself says "We tried to build a one-compartment pharmacokinetic
+model using the reported half-lives in human."

@@ -1,0 +1,47 @@
+SOURCE: PubMed structured abstract (efetch db=pubmed), 2026-10-01. Full text: J-Stage, not retrieved.
+CITATION: Fujii Y, Niisoe T, Harada KH, Uemoto S, Ogura Y, Takenaka K, Koizumi A.
+  Toxicokinetics of perfluoroalkyl carboxylic acids with different carbon chain lengths in
+  mice and humans. J Occup Health 2015;57(1):1-12. PMID 25422127. doi:10.1539/joh.14-0136-OA.
+
+ABSTRACT (verbatim)
+[OBJECTIVES] "Perfluoroalkyl carboxylic acids (PFCAs) consist of analogs with various carbon
+chain lengths. Their toxicokinetics have remained unexplored except in the case of
+perfluorooctanoic acid (8 carbon chemicals). This study aimed to investigate the
+toxicokinetics of PFCAs with six to fourteen carbon atoms (C6 to C14) in mice and humans."
+[METHODS] "We applied a two-compartment model to mice administered PFCAs intravenously or by
+gavage. The time courses of the serum concentration and tissue distribution and elimination
+were evaluated for 24 hours after treatment. For human samples, urine from healthy
+volunteers, bile from patients who underwent biliary drainage, and cerebral spinal fluid
+(CSF) from brain drainage were collected."
+[RESULTS] "The mouse experiment showed that short-chained PFCAs (C6 and C7) were rapidly
+eliminated in the urine, whereas long-chain PFCAs (C8 to C14) accumulated in the liver and
+were excreted slowly in feces. Urinary clearance of PFCAs in humans also decreased with
+increasing alkyl chain lengths, while biliary clearances increased. C9 to C10 had the
+smallest total clearance for both mice and humans. However, disparities existed in the
+magnitude of the total clearance between mice and humans. A slightly higher partition ratio
+(brain/serum) was observed for long-chained PFCAs in mice, but this was not observed in the
+corresponding partition ratio in humans (CSF/serum)."
+[CONCLUSIONS] "The large sequestration volumes of PFCAs in the liver seem to be attributable
+to the liver's large binding capacity in both species. This will be useful in evaluating
+PFCA bioaccumulation in other species."
+
+NUMERIC HUMAN CLEARANCES, from a SECONDARY source quoted verbatim
+Andersson AG et al. Environ Res 2025;285:122487, Discussion sec 4:
+  "...0.044 in both men and women (Yukiko Fujii et al., 2015) for PFOA..."   [renal]
+  "Fujii et al. also estimated a mean fecal PFOA clearance of 0.052 mL/day/kg (Yukiko Fujii
+   et al., 2015) from human bile PFOA concentrations, based on a half-life of 3.8 years and
+   Vd of 200 mL/kg. They also estimated a mean fecal PFOA clearance of 0.021 mL/day/kg
+   (Y. Fujii and Harada, 2025) based on the absorption ratio from the mouse gut."
+  => Fujii 2015: PFOA renal clearance 0.044 mL/day/kg; PFOA fecal clearance 0.052 mL/day/kg
+     (the latter derived using an ASSUMED 3.8 y half-life and an ASSUMED Vd of 200 mL/kg -
+     therefore circular with respect to half-life and must not be used to derive one).
+  => There is a later paper, Fujii Y & Harada KH 2025, which re-derives the fecal PFOA
+     clearance as 0.021 mL/day/kg from the mouse gut absorption ratio. That paper was NOT
+     located in this sweep (cited only as "Fujii and Harada, 2025" in Andersson 2025's
+     reference list, bib11) and is a loose end.
+
+WHY THIS MATTERS: this is the primary human evidence that the dominant elimination route
+SWITCHES with chain length - urine for C6-C7, bile/feces for C8+ - with a total-clearance
+MINIMUM at C9-C10. That non-monotonicity is the mechanistic reason a single "chain length
+predicts half-life" rule fails, and it anticipates the Abraham 2024 observation that human
+half-life FALLS from PFOA (C8, 2011 d) to PFDoDA (C12, 295 d) while Vd rises 3-fold.

@@ -1,0 +1,2615 @@
+## ATTACHMENT 1
+
+New Hampshire Department of Environmental Services
+
+Technical Background Report for the June 2019 Proposed Maximum Contaminant 
+Levels (MCLs) and Ambient Groundwater Quality Standards (AGQSs) for
+Perfluorooctane sulfonic Acid (PFOS), Perfluorooctanoic Acid (PFOA), 
+Perfluorononanoic Acid (PFNA), and Perfluorohexane sulfonic Acid (PFHxS)
+
+And
+
+Letter from Dr. Stephen M. Roberts, Ph.D. dated 6/25/2019 – Findings of Peer 
+Review Conducted on Technical Background Report
+
+June 28, 2019
+
+---
+
+New Hampshire Department of Environmental Services
+
+Technical Background Report for the June 2019 Proposed Maximum Contaminant 
+Levels (MCLs) and Ambient Groundwater Quality Standards (AGQSs) for
+Perfluorooctane sulfonic Acid (PFOS), Perfluorooctanoic Acid (PFOA), 
+Perfluorononanoic Acid (PFNA), and Perfluorohexane sulfonic Acid (PFHxS)
+
+June 28, 2019
+
+---
+
+## Table of Contents
+
+Abbreviations................................................................................................................................................. i
+Acknowledgements...................................................................................................................................... iii
+Section I. Executive Summary....................................................................................................................... 1
+Section II. Introduction................................................................................................................................. 2
+Section III. Reference Dose Derivation......................................................................................................... 3
+Perfluorooctanoic acid or perfluorooctanoate (PFOA), CAS# 335-67-1................................................... 4
+Principal study & consideration of health effects................................................................................. 4
+Determination of a point of departure................................................................................................. 6
+Application of uncertainty factors........................................................................................................ 6
+Estimation of a human equivalent oral dose........................................................................................ 7
+Perfluorooctane sulfonic acid or perfluorooctane sulfonate (PFOS), CAS# 1763-23-1............................ 9
+Principal study & consideration of health effects................................................................................. 9
+Determination of point of departure.................................................................................................. 10
+Application of uncertainty factors...................................................................................................... 11
+Estimation of a human equivalent oral dose...................................................................................... 11
+Perfluorononanoic acid or perfluorononanoate (PFNA), CAS# 375-95-1............................................... 13
+Principal study & consideration of health effects............................................................................... 13
+Determination of a point of departure............................................................................................... 14
+Application of uncertainty factors...................................................................................................... 14
+Estimation of a human equivalent oral dose...................................................................................... 15
+Perfluorohexane sulfonic acid or perfluorohexane sulfonate (PFHxS), CAS# 355-46-4......................... 17
+Principal study & consideration of health effects............................................................................... 17
+Determination of a point of departure............................................................................................... 18
+Application of uncertainty factors...................................................................................................... 18
+Estimation of a human equivalent oral dose...................................................................................... 19
+Summary of Recommended RfDs for PFOA, PFOS, PFNA and PFHxS..................................................... 21
+Recommended RfDs............................................................................................................................ 21
+Discussion of scientific uncertainties.................................................................................................. 21
+Section IV. Drinking Water Exposure Assumptions, Modeling and Resulting MCLs................................... 25
+Application of Goeden et al. (2019) for exposure modeling.................................................................. 26
+Human half-life and Vd assumptions................................................................................................... 26
+Placental & breastmilk transfer ratios................................................................................................ 28
+
+---
+
+Duration of breastfeeding................................................................................................................... 28
+Breastmilk and drinking water ingestion rate assumptions............................................................... 29
+Consideration of the Relative Source Contribution (RSC)...................................................................... 30
+Section V. Discussion of the MCLs proposed by NHDES............................................................................. 34
+Modeled Exposure Results.................................................................................................................. 34
+Limitations and uncertainties............................................................................................................. 36
+Conclusions......................................................................................................................................... 37
+References.................................................................................................................................................. 38
+
+---
+
+### Abbreviations
+
+AFFF - aqueous film forming foam
+
+AGQS - Ambient Groundwater Quality Standard
+
+APFO – ammonium perfluorooctanoate
+
+ATSDR – Agency for Toxic Substances and Disease Registry
+
+BMD – benchmark dose
+
+BMDL – benchmark dose lower-bound confidence limit
+
+C8 – an alternative name for perfluorooctanoic acid
+
+CAR – constitutive androstane receptor
+
+CAS# - Chemical Abstracts Service Registry Number
+
+CDC – Centers for Disease Control and Prevention 
+[Image: Image106]
+
+CSF – cancer slope factor
+
+d - day
+
+DAF – dosimetric adjustment factor
+
+IR – ingestion rate
+
+IRIS - Integrated Risk Information System
+
+kg - kilogram
+
+L - liter
+
+LHA – lifetime health advisory
+
+Ln – natural logarithm
+
+LOAEL – lowest observed adverse effect level
+
+MCL – maximum contaminant level
+
+mg - milligram
+
+MDH – Minnesota Department of Health
+
+MRL – minimal risk level
+
+ng - nanogram
+
+NHDES – New Hampshire Department of Environmental Services
+
+NH DHHS – New Hampshire Department of Health & Human Services
+
+NIS - National Immunization Survey
+
+NJDWQI – New Jersey Drinking Water Quality Institute
+
+NOAEL – no observed adverse effect level
+
+---
+
+NTP – National Toxicology Program
+
+PFAS – perfluoroalkyl substances
+
+PFHxS – perfluorohexane sulfonic acid
+
+PFNA – perfluorononanoic acid
+
+PFOA – perfluorooctanoic acid
+
+PFOS – perfluorooctane sulfonic acid
+
+POD – point of departure
+
+PPAR - peroxisome proliferator-activated receptor
+
+ppb –parts-per-billion
+
+ppt – parts-per-trillion
+
+RME – reasonable maximum exposure
+
+RSC – relative source contribution
+
+t1/2 – half-life
+
+UF – uncertainty factor
+
+USEPA – U.S. Environmental Protection Agency
+
+Vd – volume of distribution
+
+WHO – World Health Organization
+
+α – alpha, used to denote specific subtypes of biological molecules (i.e., proteins)
+
+β – beta, used to denote specific subtypes of biological molecules (i.e., proteins)
+
+γ - gamma, used to denote specific subtypes of biological molecules (i.e., proteins)
+[Image: Image106]
+
+---
+
+### Acknowledgements
+
+New Hampshire Department of Environmental Services would like to thank the numerous New 
+Hampshire stakeholders and residents who provided valuable technical commentary on the initially 
+proposed MCLs for PFOA, PFOS, PFNA and PFHxS. This includes New Hampshire’s residents, academic 
+institutions, community advocacy groups, representatives for the business community and 
+municipalities. The science followed in deriving the currently proposed maximum contaminant levels 
+was enacted in part as a result of their contributions. Additionally, NHDES is grateful for insights and 
+information shared by professionals from other state agencies, interstate collaborative working groups 
+and professional societies.
+
+---
+
+### Section I. Executive Summary
+
+The objective of the health-based risk assessment was identifying drinking water concentrations of 
+perfluorooctanoic acid (PFOA), perfluorooctane sulfonic acid (PFOS), perfluorononanoic acid (PFNA) and 
+perfluorohexane sulfonic acid (PFHxS) that provide adequate protection of human health at all life 
+stages, including but not limited to pre-natal development. This document provides the technical basis 
+for the proposed maximum contaminant levels (MCLs,) which by law become Ambient Groundwater 
+Quality Standards (AGQSs), following evaluation of technical comments submitted up to April 12<sup>th</sup>, 2019,
+public comment deadline, as well as peer-reviewed scientific literature published since January 1<sup>st</sup>, 2019,
+and external review by Dr. Stephen Roberts at the University of Florida. As a result of this process, 
+NHDES is proposing the following maximum contaminant levels (MCLs):
+
+• **12 ng/L for Perfluorooctanoic acid, or perfluorooctanoate (PFOA)**
+
+• **15 ng/L for Perfluorooctane sulfonic acid, or perfluorooctane sulfonate (PFOS)**
+
+• **11 ng/L for Perfluorononanoic acid, or perfluorononanoate (PFNA)**
+
+• **18 ng/L for Perfluorohexane sulfonic acid, or perfluorohexane sulfonate (PFHxS)**
+
+These health-based values are intended as health-protective limits against the chronic health effects for 
+a through-life exposure. The primary associated health outcomes are hepatotoxicity and changes in lipid 
+metabolism (PFOA and PFNA), suppressed immune response to vaccines (PFOS) and impaired female 
+fertility (PFHxS). Secondary associated health effects that are expected to be less sensitive are changes 
+in thyroid and sex hormone levels, early-life growth delays, changes in cholesterol levels and biomarkers
+of liver function, neurobehavioral effects, and a possible risk for certain cancers (i.e., testicular and 
+kidney cancer).
+[Image: Image106]
+
+These proposed MCLs are lower than those proposed in January 2019 (NHDES 2019) as a result of new 
+studies and models that indicate the standards need to be lower to be adequately protective of health 
+at all life stages. Specifically, a peer reviewed toxicokinetic model was published by the Minnesota 
+Department of Health (Goeden et al., 2019) that predicts blood serum levels across a lifetime. Using 
+similar studies as those from the initial proposal and those suggested in technical comments submitted 
+by April 12<sup>th</sup>, 2019, this model indicates lower standards are necessary to avoid unacceptable elevations
+in the serum levels of breastfed infants and children who were breastfed as infants.
+
+The technical basis for the proposed MCLs is detailed in Sections III and IV, and the modeling results and 
+conclusions are presented in Section V. Briefly, this risk assessment utilized upper value, “conservative”
+estimates regarding: daily water consumption rates throughout life, breastmilk consumption rates 
+through infancy, the duration of exclusive breastfeeding (12 months), relative source contribution,
+absorption efficiency and consideration of breastmilk transfer. Central tendency, or less conservative,
+assumptions included: use of uncertainty factors, human half-life estimates, placental and breastmilk 
+transfer efficiencies of PFAS, and the recommendation of individual MCLs instead of assuming 
+toxicological equivalency among the four PFAS evaluated.
+
+The health effects of PFAS is an evolving area of research and it is expected that future research will 
+improve our understanding of the quantitative risks associated with PFAS. This may result in higher or 
+lower recommendations for these and other PFAS in the future. NHDES is committed to reviewing new 
+scientific information on PFAS to improve the understanding of this large group of chemicals and making 
+future recommendations for evidence-based health protective drinking water standards.
+
+---
+
+### Section II. Introduction
+
+Perfluorooctanesulfonic acid (PFOS), perfluorooctanoic acid (PFOA), perfluorononanoic acid (PFNA), and 
+perfluorohexanesulfonic acid (PFHxS) are individual compounds in a large class of chemicals known as 
+perfluorinated compounds (PFCs) and more broadly as per- and polyfluoroalkyl substances (PFAS). They 
+have been widely used since the 1940s in commercial, industrial, and household products and 
+applications, including production of water, grease, and stain-resistant materials, fire suppression 
+foams, non-stick cookware, wax removers, etc. (ATSDR 2018b).
+
+All four compounds have been detected in New Hampshire’s groundwater and surface water. Their 
+widespread use, persistence and mobility in the environment and bioaccumulative properties has 
+resulted in the detection of PFAS in blood serum in humans and animals worldwide. This has led to 
+considerable research into their toxicity and health effects. The health effects associated with PFAS 
+exposure are currently being researched extensively by toxicologists and epidemiologists worldwide, 
+resulting in numerous publications being released on a continuous basis.
+
+According to the Agency for Toxic Substances and Disease Registry (ATSDR)(ATSDR 2018b) the following 
+health impacts may be associated with PFAS (specific compounds as noted by ATSDR):
+[Image: Image106]
+
+• Hepatotoxicity - changes in certain liver enzymes in serum (PFOA, PFOS, PFHxS)
+
+• Increases in total and LDL cholesterol levels (PFOA, PFOS, PFNA)
+
+• Small decreases in birth weight (PFOA, PFOS)
+
+• Endocrine system effects (PFOA, PFOS)
+
+• Reproductive toxicity - decreased fertility (PFOA, PFOS)
+
+• Immunotoxicity - decreased vaccine response (PFOA, PFOS, PFHxS)
+
+• Suggestive evidence of carcinogenicity, specifically testicular and kidney cancer (PFOA, PFOS)
+
+• Suggestive evidence of association with pregnancy-induced hypertension and/or pre-eclampsia 
+(PFOA, PFOS)
+
+For additional information on the toxicity and health effects of these compounds, please visit the ATSDR 
+webpage at: https://www.atsdr.cdc.gov/pfas/health-effects.html
+
+In addition to the ATSDR draft toxicological profile on perfluoroalkyls, several other state (NJDWQI 2017, 
+2018ab; MDH 2018, 2019ab; MI PFAS Science Advisory Panel 2018), federal (EPA 2016ab; NTP 2016) and 
+international agencies (IARC 2016; Health Canada 2016ab; EFSA 2018) have reviewed the toxicological 
+data related to PFAS and identified similar associated health impacts.
+
+This document presents the health-based risk assessment that derived the proposed MCLs and Ambient 
+Groundwater Quality Standards (AGQS) for these four compounds. In January 2019, NHDES released its 
+initially proposed MCLs along with a supporting document that explained the rationale used and 
+scientific literature reviewed to arrive at its recommendation (NHDES, 2019). The current report is not 
+an exhaustive review of all existing studies that reference PFOA, PFOS, PFNA, PFHxS or other PFAS;
+rather, it is an update to the previous assessment after evaluation of newer studies and technical 
+comments since the initial MCL proposal in January 2019 (NHDES, 2019).
+
+---
+
+Section III. Reference Dose Derivation
+
+The U.S. EPA (2002) defines a reference dose (RfD) as:
+
+“An estimate (with uncertainty spanning perhaps an order of magnitude) of a daily oral 
+exposure to the human population (including sensitive subgroups) that is likely to be 
+without an appreciable risk of deleterious effects during a lifetime.”
+
+For PFAS, a RfD can be expressed in units of nanograms of specified PFAS (ng), per kilogram of a person’s 
+body weight (kg), per day (ng/kg-d). This allows for estimation of chemical-specific daily doses that are
+readily scaled to persons of differing sizes. A RfD is not the same as the minimal risk levels (MRLs) 
+developed and used by ATSDR in that 1) MRLs are not developed with the same considerations as RfDs, 
+and 2) MRLs are not used to define action or clean up levels for chemical contaminants (EPA 2002; 
+ATSDR 2018a). NHDES derived RfDs for PFOA, PFOS, PFNA and PFHxS (Table 1). *Additionally, it is 
+important to note that a RfD is a population-level value and its associated blood concentration is* <u><em>not</em></u> 
+<u><em>considered a clinically-relevant value for individuals.</em></u>
+
+**Table 1. Summary of RfDs and MCLs.**
+
+| Compound | Reference dose (RfD) | Exposure Assumptions | Maximum Contaminant Level (MCL) |
+| --- | --- | --- | --- |
+| Perfluorooctanoic acid (PFOA) | 6.1 ng/kg-d | See Section IV | 12 ng/L |
+| Perfluorooctanesulfonic acid (PFOS) | 3.0 ng/kg-d | See Section IV | 15 ng/L |
+| Perfluorononanoic acid (PFNA) | 4.3 ng/kg-d | See Section IV | 11 ng/L |
+| Perfluorohexanesulfonic acid (PFHxS) | 4.0 ng/kg-d | See Section IV | 18 ng/L |
+
+Derivation of a RfD requires selection of three components (Equation 2): a point of departure (POD), 
+uncertainty factors (UF) and, where appropriate, a dosimetric adjustment factor (DAF). The POD is based 
+on a sensitive and human-relevant critical health effect from either animal or human studies. For PFAS, 
+this is typically a blood concentration of a certain compound at which there is no observable adverse 
+effect in animals (e.g. rodents). As rodents are not humans, the UF is applied to be protective by 
+reducing the animal POD to a lower and acceptable human target serum level. The DAF then converts, 
+by estimation, the blood concentration (ng/mL) to a body weight-adjusted (kg) amount of the chemical 
+(ng) external to the body that would need to be ingested on a daily basis to reach the human target 
+serum level.
+[Image: Image106]
+
+$$
+\mathsf{R e f e r e n c e d o s e(n g/k g/d)}=\frac{\mathsf{P o i n t o f d e p a r t u r e(n g/m L)}}{\mathsf{T o t a l u n c e r t a i n t y f a c t o r s(u n i t l e s s)}}\times\mathsf{D o s i m e t r i c a d j u s t m e n t f a c t o r(m L/k g/d)}
+$$
+
+As the EPA RfDs for PFOA and PFOS were deemed insufficiently protective, and there are no values for 
+PFNA or PFHxS in the EPA Integrated Risk Information System (IRIS) database, NHDES evaluated the RfDs
+proposed by other agencies and derived its own values. The remainder of Section III describes how RfDs 
+for PFOA, PFOS, PFNA and PFHxS were derived following evaluation of relevant studies and technical
+comments submitted to NHDES by April 12<sup>th</sup>, 2019, as well as scientific uncertainties specific to the RfDs.
+
+---
+
+# Perfluorooctanoic acid or perfluorooctanoate (PFOA), CAS# 335-67-1
+
+*Principal study & consideration of health effects*
+
+For the derivation of a RfD and MCL for PFOA, NHDES recommends the critical health effect of increased 
+relative liver weight (Loveless et al., 2006; NJDWQI 2017) as an indicator for the onset of hepatotoxicity. 
+This is the same critical health effect previously selected in the initial MCL proposal (NHDES 2019), and 
+based on review of the literature and technical comments received, NHDES remains confident in this 
+recommendation.
+
+Since the initial MCL proposal by NHDES at the start of January 2019, additional studies have been 
+published related to associations between PFOA and human health impacts along with studies 
+demonstrating toxicity in rodent models. Relative to the critical effect proposed by NHDES, there are
+three new studies that merit acknowledgment with regard to relative liver toxicity. This includes two 
+studies from highly-exposed populations (Bassler et al., 2019; Nian et al., 2019) and evaluation of 
+background exposure levels from the 2011-2014 NHANES dataset (Jain and Ducatman 2019). Bassler and 
+colleagues (2019) reported associations between non-clinical biomarkers of hepatocyte apoptosis (cell 
+death) as well as altered inflammatory disease of the liver with exposure to PFOA and other PFAS within
+a subset of subjects from the C8 Cohort (mean PFOA serum level 94.6 ng/mL). In the C8 Health Study of 
+China (n = 1,605 participants, median PFOA serum level of 6.19 ng/mL), liver enzyme markers such as 
+ALT and AST showed significant increases with natural log (ln)-unit changes of PFOA, other PFAS and 
+their isomers (Nian et al., 2019). Analysis of the 2011-2014 NHANES data (n=2,883 subjects) detected 
+consistent associations between PFAS, including PFOA, and increased ALT and GGT in obese individuals. 
+It is noted that the cross-sectional design of certain studies and the lack of adjustments for false 
+discovery following multiple comparisons underscore typical challenges of relying on epidemiological 
+studies to demonstrate causal relationships, or their utility for determining the POD in RfD development.
+Qualitatively, these studies reinforce NHDES consideration of altered liver function and hypertrophy in 
+rodents as a critical health effect for the basis of its PFOA RfD.
+[Image: Image106]
+
+Studies published prior to 2019 were considered as a part of the initial PFAS MCL proposal put forward 
+by NHDES (2019). This included evaluation of peer-reviewed evidence for:
+
+• associated immunotoxicity as summarized by the National Toxicology Program (NTP 2016),
+ATSDR (2018b), DeWitt et al., (2012), Kirk et al., (2018) and Chang et al., (2016),
+
+• developmental toxicity in animal models (Butenhoff et al., 2004; Lau et al., 2006; White et al., 
+2007; Wolf et al., 2007; Hu et al., 2010; Onishchenko et al., 2011; White et al., 2011; Albrecht et 
+al., 2013; Cheng et al., 2013; Koustas et al., 2014; Quist et al., 2015ab; Koskela et al., 2016), 
+associated fetal and neonatal growth impacts in humans (reviewed by Verner et al., 2015; Negri 
+et al., 2017; Rappazzo et al., 2017; Liew et al., 2018 and ATSDR 2018b) and consideration of 
+developmental outcomes evaluated in the U.S. EPA LHA for PFOA of 70 ng/L (EPA 2016a),
+
+• associated human-health outcomes based on the C8 studies (Frisbee et al., 2009, 2010; 
+Steenland et al., 2009, 2010ab, 2013; Stein et al. 2009, 2013; Lopez-Espinosa et al., 2011, 
+2012ab; Gallo et al., 2012; Savitz et al., 2012ab; Steenland and Woskie 2012; Barry et al., 2013; 
+Darrow et al., 2013; Fletcher et al., 2013; Vieira et al., 2013; Watkins et al., 2013; Winquist et al., 
+2013; Darrow et al., 2016),
+
+---
+
+• and delayed mammary gland development in mice (White et al., 2007, 2009, 2011; Macon et al.,
+2011; Tucker et al., 2015).
+
+In its initial proposal, NHDES agreed with the assessment made by the New Jersey Drinking Water 
+Quality Institute (NJDWQI) relative to adverse effects on the liver and NHDES maintains this position. In 
+their 2017 document, NJDWQI summarized evidence from studies in non-human primates, various 
+strains of rodents, including PPARα knock-out mice, as well as the existing epidemiologic studies. This 
+lead the NJDWQI to the conclusion that there was “consistency among non-occupational studies, as well
+as evidence of specificity, exposure-response, strength, and biological plausibility for PFOA and ALT.  
+These findings provide evidence supporting a causal relationship between PFOA and ALT” (NJDWQI 
+2017). They also acknowledge the limited epidemiologic evidence, as of 2017, to definitively prove a 
+causal relationship with PFOA and liver disease, and the available studies did not find an association.
+(NJDWQI 2017). While NHDES does not agree with the application of a full database uncertainty factor
+(NJDWQI 2018), the arguments made for consideration of hepatic effects for human health risk 
+assessment were deemed appropriate given the existing information on PFOA.
+
+The ATSDR 2018 draft toxicity profile for perfluoroalkyls recognized the likely associations between 
+PFOA and hepatotoxicity (e.g., increased serum enzyme concentrations and effects on serum bilirubin) 
+after consideration of similar epidemiological studies and the NJDWQI 2017 report (NJDWQI 2017; 
+ATSDR 2018b). After additional review of this same document (ATSDR 2018b), NHDES agrees there is 
+concern for the associations between exposure to PFOA and the following human health outcomes: 
+increases in serum lipids (i.e., total and LDL cholesterol), disruption of thyroid hormone function and 
+transport, decreased vaccine response, decreased fertility and reduced birth weight. The scientific 
+evidence is less clear regarding other suggested human health associations and merit further 
+investigation to establish whether these effects are truly linked to PFOA exposure. As this relates to the 
+RfD derived by NHDES, it was determined that the animal study selected by ATSDR was not appropriate 
+for RfD derivation following NHDES understanding of EPA methodology (EPA 2002) and was therefore 
+not selected for use in the initial or final MCL proposal.
+[Image: Image106]
+
+Regarding carcinogenicity, NHDES derived a PFOA MCL based on non-cancer endpoints. The U.S. EPA 
+and International Agency for Research on Cancer (IARC) determined that the current evidence indicates 
+that PFOA is a suggestive (EPA 2016) or possible (IARC 2016) carcinogen in humans. This is specific to
+suggestive evidence for increased risks of kidney and testicular cancer seen in rodents and mixed 
+associations from human studies (Barry et al., 2013). Two other agencies, the USEPA (2016a) and 
+NJDWQI (2017), have derived cancer values for PFOA using the same principal rodent study for PFOA 
+carcinogenicity (Butenhoff et al. 2012). The U.S. EPA (2016a) and NJDWQI (2017) arrived at possible MCL 
+values of 500 ng/L and 14 ng/L, respectively, for a one-in-a-million risk for testicular cancer. More 
+recently, the California Office of Environmental Health Hazard Assessment (2019) has recommended a 
+similar value of 14 ng/L for PFOA citing concern for liver damage and cancer. This discrepancy in cancerbased MCL estimates highlights the need for better information to inform cancer risk assessment for 
+PFOA, and is expected to be an evolving area of research in years to come. Regardless of whichever is 
+the more accurate assessment, the proposed MCL for PFOA is lower than the more conservative of 
+these two estimates.
+
+---
+
+#### Determination of a point of departure
+
+As previously proposed by NHDES (2019), the principal study and point of departure (POD) was the same 
+study (Loveless et al., 2006) recommended and benchmark dose modeled by the NJDWQI (2017). The 
+critical health effect was increased relative liver weight in male mice following a 14-d oral exposure to 
+APFO (Loveless et al., 2006). There is consistent evidence for liver toxicity across wild-type and PPARα 
+knock-out mice (Butenhoff et al., 2004; Loveless et al., 2008; Son et al., 2008; Cui et al., 2009; Elcombe 
+et al., 2010; Yahia et al., 2010; Tan et al., 2013; Wang et al., 2015; Rebholz et al., 2016; Li et al., 2017), as 
+well as persistent effect on liver size and structure following gestational exposure to similar dosing 
+regimens (Quist et al., 2015). Rat studies have suggested that this effect is an adaptive response that will 
+dissipate following cessation of the exposure to PFOA (Butenhoff et al., 2004; Hall et al., 2012). Beyond 
+rodent models, cynomolgus monkeys display hepatic hypertrophy, increased serum triglycerides and 
+decreased serum T4 following chronic exposure (26 weeks) to APFO (Butenhoff et al., 2002). As it relates
+to the present human health risk assessment for an MCL, these effects are not entirely adaptive as 
+animal studies suggest persistent changes in the liver following exposure during early life stages (Quist 
+et al., 2015a). NHDES also maintains its previous position that whether the response is adaptive is not 
+relevant to drinking water exposures as the general population should not require recovery periods 
+from public water. Furthermore, unlike rodents that display relatively short half-lives for PFOA and other 
+PFAS, once humans are exposed to increased levels of PFOA they will maintain elevated serum levels on 
+a time scale of months to years. This means that brief external exposures become chronic internal 
+doses, especially if the external dose is relatively high. The effects on liver function are considered a 
+chronic health outcome based on the existing body of literature.
+[Image: Image106]
+
+This POD is based on the benchmark dose modeling work conducted by the NJDWQI (2017) in their 
+technical documents for their proposed RfD and MCL of 2.0 ng/kg-d and 14 ng/L, respectively, that 
+identified a POD for PFOA of 4,351 ng/mL based on increased liver weight. NHDES did not arrive at the 
+same RfD due to differences in the application of uncertainty factors. Differences in the final MCL are 
+due to NH’s use of the transgenerational exposure model for breastfeeding (Goeden et al., 2019).
+
+#### Application of uncertainty factors
+
+A total uncertainty factor of 100 was applied to the POD for PFOA based on:
+
+$$
+\mathsf{I n t r a s p e c i e s\;v a r i a b i l i t y\;(10)\times I n t e r s p e c i e s\;v a r i a b i l i t y\;(3)\times D a t a b a s e\;l i m i t a t i o n s\;(3)=100}
+$$
+
+For the non-risk assessor, the units of 3 and 10 are for partial (half) and full log units. So, a full log unit of 
+10 equals 10<sup>1</sup>, but a half log unit of 10<sup>½</sup> or 10<sup>0.5</sup> is equal to 3.162. As a convention of risk assessment 
+using EPA methodology (EPA 2002), the value of 3.162 is presented as 3. Thus, 10 × 3 × 3 is rounded to 
+100 from 99.982.
+
+$$
+10^{1},
+$$
+
+$$
+10^{0.5}
+$$
+
+The full factor of 10 for intraspecies variability was deemed appropriate to protect for the poorly 
+characterized differences in toxico-dynamics (× 3) and -kinetics (× 3) within the human population. As 
+NHDES applied a DAF to convert the rodent serum concentration to an oral human dose, only a partial 
+uncertainty factor (× 3) was applied for interspecies variability. As the NJDWQI (2017) derived a 
+benchmark dose, there was no need for any additional uncertainty factors to account for lowest observed adverse effect level (LOAEL) to no observed adverse effect level (NOAEL) conversion. As the 
+critical effect of hepatic hypertrophy is considered the onset of the adverse effect in a sensitive model 
+species, no additional uncertainty factor was applied to account for acute-to-chronic duration of 
+exposure.
+
+Although NHDES agrees with the NJDWQI selection of a critical health effect and derivation of the POD
+for PFOA (NJDWQI 2017), NHDES concluded there is insufficient evidence supporting the application of 
+the more conservative full database uncertainty factor (× 10). In technical comments submitted on the 
+initially proposed MCLs, this decision was the subject of multiple critiques. On one hand, some have
+argued the use of a partial uncertainty factor was under-protective as the NJDWQI applied a full factor 
+(× 10) due to concerns for observations of delayed mammary gland development in mice exposed to 
+PFOA during perinatal development (NJDWQI 2017, and references therein). NHDES notes that the 
+USEPA LHA (2016a) and CDC’s ATSDR draft report (2018b) did not apply any database uncertainty factor 
+with respect to the mammary gland development studies in rodents given the lack of clarity towards 
+human health relevance (Table 3). Similar to New Hampshire, two other state agencies, Minnesota 
+(MDH 2018) and New York (presentation, October, 2018), derived RfDs for PFOA affording only a partial 
+uncertainty factor for this and other adverse health impacts observed in rodent and epidemiological 
+studies. It should be noted that both of these other agencies did not use the same POD as NJDWQI or 
+NHDES, where Minnesota utilized a higher POD and New York utilized a lower POD compared to the 
+benchmark dose (BMD) value from Loveless et al., (2006). Thus, NHDES believes that the application of a 
+partial database uncertainty factor (× 3) is appropriately protective without being overly conservative 
+given the critical health effect selected and the existing toxicological and epidemiological database.
+[Image: Image106]
+
+#### Estimation of a human equivalent oral dose
+
+The POD represents an internal animal serum level associated with the adverse health outcome of 
+concern. Dividing the POD by the total uncertainty factor yields a protective target serum level 
+equivalent for the human population. *This is not a clinical or diagnostic value, nor should it be 
+interpreted as such.*
+
+$$
+Target\mathrm{serm}\;\mathrm{level}\;\mathrm{for}\;PFOA=\frac{4.351\;\mathrm{ng/mL}}{100}=43.5\;\mathrm{ng/mL}
+$$
+
+To estimate how this internal blood level corresponds to an external oral dose of the specified 
+compound, a dosimetric adjustment factor is applied by multiplication to identify a dose in ng of 
+specified PFAS, per kg of individual body weight, per day (ng/kg-d). This step accounts for the highlybioaccumulative nature and unique half-life estimates of each compound, and is consistent with prior 
+risk assessment methods for derivation of RfDs for PFAS (USEPA 2016ab; NJDWQI 2017, 2018a; ATSDR 
+2018b; MDH 2018, 2019ab). The human equivalent oral dose is estimated by the following equations:
+
+$$
+\mathsf{R e f e r e n c e d o s e(R f D)}=\frac{\mathsf{P o i n t o f d e p a r t u r e(P O D)}}{\mathsf{T o t a l u n c e r t a i n t y f a c t o r s(U F)}}\times\mathsf{D o s i m e t r i c a d j u s t m e n t f a c t o r(D A F)}
+$$
+
+Where the DAF is equal to,
+
+---
+
+$$
+DAF=V_{d}\times\left(\frac{\ln(2)}{t_{1/2}}\right)
+$$
+
+$$
+DAF=170mL/kg\times\left(\frac{Ln(2)}{840days}\right)=1.40\times10^{-1}mL/kg-d
+$$
+
+Consistent with the initial PFOA MCL proposal (NHDES 2019), the volume of distribution (Vd) for PFOA 
+was 170 mL/kg (Thompson et al., 2010; EPA, 2016a). For its revised and final proposal, NHDES selected 
+the serum half-life of 2.3 years for PFOA (Bartell et al., 2010). NHDES acknowledges that the half-life of 
+2.3 years is slightly less conservative than the initially proposed value for RfD derivation of 2.7 years (Li 
+et al. 2018; NHDES 2019). This change was due, in part, to the consideration of this half-life being more
+appropriate given the significantly higher exposure specific to PFOA described in Bartell et al. (2010) and 
+the larger sample size than that in Li et al. (2018).
+
+$$
+(V_{d})
+$$
+
+Thus, using this chemical-specific DAF and the aforementioned point of departure and uncertainty 
+factors, NHDES derived an oral reference dose for PFOA of 6.1 ng/kg-d.
+[Image: Image106]
+
+$$
+\mathrm{Reference\;dose\;(RfD)}=\frac{4.351\;\mathrm{ng/mL}}{100}\times1.40\times10^{-1}\;\mathrm{mL/kg-d}=6.1\;\mathrm{ng/kg-d}
+$$
+
+---
+
+### Perfluorooctane sulfonic acid or perfluorooctane sulfonate (PFOS), CAS# 1763-23-1
+
+#### Principal study & consideration of health effects
+
+For the derivation of a RfD for PFOS, NHDES recommends the critical health effect of suppressed 
+immunoglobulin M (IgM) production in male mice as proposed by the Minnesota Department of Health 
+(Dong et al., 2011; MDH, 2019a). While NHDES previously proposed a RfD based on developmental 
+toxicity, the review of existing and emerging evidence and technical comments suggest that the use of 
+this immunotoxic endpoint represents a more appropriately cautious approach for the risk assessment 
+of PFOS.
+
+Since the initial MCL proposal by NHDES at the start of January 2019, additional studies have been 
+published related to associations between PFOS and human health impacts along with studies 
+demonstrating toxicity in rodent models. In the same studies that found associations between PFOA and 
+serological markers of liver function (Nian et al., 2019; Jain and Ducatman, 2019; Bassler et al., 2019), 
+PFOS was also associated with liver dysfunction and markers of hepatic inflammatory responses.
+Relative to the critical health effect selected by NHDES, one additional study on immunosuppression in 
+humans was published since January 2019. In a prospective study of 3-month old infants from China (n = 
+201 participants), cord blood levels of branched isomers of PFOS were associated with reduced 
+concentrations of antibodies towards enterovirus 71 (a causative viral agent of hand-foot-and-mouth 
+disease; Zeng et al., 2019). Aside from hepatic and immune effects, additional studies have suggested 
+associations between prenatal PFOS levels and early onset of puberty in girls from the Danish Birth 
+Cohort (Ernst et al., 2019) and an estrogen-mediated relationship between cord blood levels of PFOS 
+and birth weight (Wang et al., 2019). As with many epidemiological studies on PFAS, many of these 
+recent studies possessed various combinations of limitations including a lack of analysis for other 
+environmental contaminants, limited sample size and lack of analysis for the influence of breastfeeding.
+However, they collectively demonstrate that there is a growing body of evidence for adverse health 
+impacts associated with PFOS.
+[Image: Image106]
+
+Studies published prior to 2019 were considered as a part of the initial PFAS MCL proposal put forward 
+by NHDES (2019). This included evaluation of peer-reviewed evidence for:
+
+• immunotoxicity as summarized by the National Toxicology Program (NTP 2016), ATSDR (2018b) 
+DeWitt et al., (2012) and Chang et al., (2016),
+
+• developmental toxicity in animal models (Lau et al., 2003; Thibodeaux et al., 2003; Luebker et 
+al., 2005ab; Yahia et al., 2008; Butenhoff et al., 2009; Onishchenko et al., 2011; Rogers et al.,
+2014; Wan et al., 2014), fetal and neonatal growth impacts in humans (reviewed by Verner et 
+al., 2015; Negri et al., 2017; Rappazzo et al., 2017; Liew et al., 2018 and ATSDR 2018b) and
+consideration of delayed development in the U.S. EPA LHA for PFOS of 70 ng/L (EPA 2016b),
+
+• neurobehavioral and thyroid hormone-associated effects (as reviewed by ATSDR 2018b).
+
+NHDES acknowledges that the current understanding of the immunotoxic effects of PFOS, other PFAS 
+and their interactions is an evolving area of research. As described by DeWitt et al. (2019), the 
+interpretation of immunosuppression is important to consider when evaluating the relevance of 
+associated outcomes from human studies, as well as measured responses from rodents. The current 
+body of literature is not mature enough to clearly evaluate clinical relevance to humans, or lack thereof
+
+---
+
+(Chang et al., 2016); however, the NTP (2016) concluded that PFOS is “presumed to be an immune 
+hazard to humans” based on animal and human data available at that time. Mouse studies indicate that 
+PFOS impairs the T cell-dependent antibody response at low doses following sub-chronic exposure 
+durations (Dong et al., 2009, 2011; reviewed by DeWitt et al., 2012, 2019), and was selected as the basis 
+for a PFOS RfD by several agencies including NJDWQI (NJDWQI 2018; further detailed by Pachkowski et 
+al. 2019), NYDOH (2018) and proposed by MDH (2019a). Although the ATSDR MRL for PFOS was based 
+on developmental delays (Luebker et al., 2005ab), they applied an additional uncertainty factor of 10 
+due to the evidence for immunotoxicity (ATSDR, 2018b). Collectively, this indicates that the lower dose 
+range at which the immunotoxic effects occur in rodents is recognized as an appropriately protective 
+range for selection of a POD. There is a critical need for replication and use of larger study populations 
+for understanding the immunomodulatory associations reported for PFOS and other PFAS.
+
+NHDES derived a PFOS MCL based on non-cancer endpoints due to a lack of adequate carcinogenicity 
+studies. IARC has not classified the carcinogenicity of PFOS at this time. The U.S. EPA determined that 
+PFOS was a suggestive carcinogen (EPA, 2016b). This is specific to suggestive evidence for increased 
+incidence of liver and thyroid adenomas in rats following chronic exposure. The recommendation of 
+using non-cancer endpoints over cancer endpoints is not unique to NHDES, as other agencies have 
+concluded that non-cancer health endpoints are adequately protective (MDH 2018; Michigan PFAS 
+Science Advisory Panel 2018). Should additional information become available that is adequate for 
+derivation of a cancer slope factor (CSF) for PFOS, NHDES will consider this in the framework of the MCL
+process.
+
+#### Determination of point of departure
+
+Following review of the technical documents deriving RfDs for PFOS based on immunosuppression in 
+mice (NJDWQI, 2018; ATSDR 2018b; Pachkowski et al., 2019; MDH, 2019), NHDES agreed with the RfD 
+derivation recently proposed by the Minnesota Department of Health (MDH 2019). This POD is based on 
+serum concentrations of PFOS at the no observable adverse effect level (NOAEL) for suppressed IgM 
+production in male mice following 60-d oral exposure (Dong et al. 2011). As summarized by MDH (2019), 
+the critical effect reported in Dong et al. (2011) was suppressed IgM production with a NOAEL of 2,620 
+ng/mL (oral dose, 0.0167 mg/kg-d) and a LOAEL of 10,750 ng/mL (oral dose, 0.083 mg/kg-d). A prior 
+study by Dong et al. (2009) reported a NOAEL of 674 ng/mL (oral dose, 0.008 mg/kg-d) for reduced
+plaque forming cell response to sheep red blood cells, and a similar oral LOAEL as Dong et al. (2011). 
+However, the early work by Dong et al. (2009) did not include the intermediate dose of 0.0167 mg/kg[Image: Image106]-d 
+that was identified as a NOAEL in their later work (Dong et al. 2011). This is further complicated as the 
+specific effect was not replicated in both studies where plaque forming cell response was only measured 
+in Dong et al. (2009) and IgM concentrations in the later Dong et al. (2011). As both of these metrics 
+describe different aspects of the same immune process they do support the consideration of 
+immunosuppression at these low doses as a POD. There remains the issue of discordance in dosing. 
+While benchmark dose modeling of these endpoints using the original data might prove valuable to 
+demonstrating these different metrics support a similar POD, the original data was not available for 
+modeling and the reported data has been described as unamenable to benchmark dose modeling
+(NJDWQI 2018). As a result, NHDES agreed with the use of the NOAEL (2,620 ng/mL) for IgM suppression 
+(Dong et al., 2011) instead of the lower NOAEL of 674 ng/mL (Dong et al., 2009) as a POD.
+
+---
+
+$$
+\mathsf{I n t r a s p e c i e s\;v a r i a b i l i t y\;(10)\times I n t e r s p e c i e s\;v a r i a b i l i t y\;(3)\times D a t a b a s e\;l i m i t a t i o n s\;(3)=100}
+$$
+
+For the non-risk assessor, the units of 3 and 10 are for partial (half) and full log units. So, a full log unit of 
+10 equals 10<sup>1</sup>, but a half log unit of 10<sup>½</sup> or 10<sup>0.5</sup> is equal to 3.162. As a convention of risk assessment 
+using EPA methodology (EPA 2002), the value of 3.162 is presented as 3. Thus, 10 × 3 × 3 is rounded to 
+100 from 99.982.
+
+$$
+10^{1},
+$$
+
+$$
+10^{\%}\text{or}10^{0.5}
+$$
+
+The full factor of 10 for intraspecies variability was deemed appropriate to protect for the poorly 
+characterized differences in toxico-dynamics (× 3) and -kinetics (× 3) within the human population. As 
+NHDES applied a DAF to convert the rodent serum concentration to an oral human dose, only a partial 
+uncertainty factor (× 3) was applied for interspecies variability. The POD was based on the NOAEL 
+described in Dong et al. (2011); thus, there was no need for additional uncertainty factors to account for 
+LOAEL to NOAEL conversion. Dong et al. (2011) conducted a 60-day exposure so no additional 
+uncertainty factor was applied for acute-to-chronic duration of exposure. As described by MDH (2019), 
+an additional partial (× 3) database uncertainty factor was applied due to concerns for reports of thyroid 
+disruption (decreased T4) in neonatal animals and the implications of these observations in terms of 
+neurodevelopment that has not yet been adequately studied. NHDES agreed with this consideration 
+given the suggestive evidence for the human relevance of altered T4 levels (reviewed by Ballesteros et 
+al., 2017 and ATSDR, 2018b) and their potential implications for impaired neurodevelopment in humans 
+(Grandjean and Landrigan, 2014).
+[Image: Image106]
+
+$$
+\mathsf{T}_{4}
+$$
+
+#### Estimation of a human equivalent oral dose
+
+The POD represents an internal animal serum level associated with the adverse health outcome of 
+concern. Dividing the POD by the total uncertainty factor yields a protective target serum level 
+equivalent for the human population. *This is not a clinical or diagnostic value, nor should it be 
+interpreted as such.*
+
+$$
+Target\mathrm{s}\mathrm{r}\mathrm{u}\mathrm{m}\mathrm{~level}\mathrm{for}\mathrm{PFOS}=\frac{2.360\mathrm{ng}/\mathrm{mL}}{100}=23.6\mathrm{ng}/\mathrm{mL}
+$$
+
+To estimate how this internal blood level corresponds to an external oral dose of the specified 
+compound, a dosimetric adjustment factor is applied by multiplication to identify a dose in ng of specific 
+PFAS per kg of individual body weight per day (ng/kg-d). This step accounts for the highlybioaccumulative nature and unique half-life estimates of each compound, and is consistent with prior 
+risk assessment methods for derivation of RfDs for PFAS (EPA, 2016ab; NJDWQI, 2017, 2018a; ATSDR,
+2018b; MDH, 2018, 2019ab). The human equivalent oral dose is estimated by the following equations:
+
+$$
+\mathsf{R e f e r e n c e d o s e(R f D)}=\frac{\mathsf{P o i n t o f d e p a r t u r e(P O D)}}{\mathsf{T o t a l u n c e r t a i n t y f a c t o r s(U F)}}\times\mathsf{D o s i m e t r i c a d j u s t m e n t f a c t o r(D A F)}
+$$
+
+---
+
+Where the DAF is equal to,
+
+$$
+DAF=V_{d}\times\left(\frac{\ln(2)}{t_{1/2}}\right)
+$$
+
+$$
+DAF=230\ mL/kg\times\left(\frac{Ln(2)}{1.241\ days}\right)=1.28\times10^{-1}\ mL/kg-d
+$$
+
+Consistent with the initial PFOS MCL proposal (NHDES 2019), the Vd for PFOS was 230 mL/kg (Thompson 
+et al., 2010). In its revised and final proposal, NHDES maintains its use of a 3.4-year half-life estimate 
+based on the average across men and women, described in Li et al. (2018; NHDES 2019). NHDES 
+considered the longer half-life values reported for retired fluorochemical workers (Olsen et al. 2007), 
+and deemed these to be inappropriately conservative given the use of the Minnesota transgenerational 
+model for exposure assessment which emphasizes early-life and breastfeeding exposures.
+
+$$
+\mathsf{V}_{\mathsf{d}}
+$$
+
+Thus, using this chemical-specific DAF and the aforementioned point of departure and uncertainty 
+factors, NHDES derived an oral reference dose for PFOS of 3.0 ng/kg-d.
+[Image: Image106]
+
+$$
+\mathrm{Reference\;dose\;(RfD)}=\frac{2.360\;\mathrm{ng/mL}}{100}\times1.28\times10^{-1}\;\mathrm{mL/kg-d}=3.0\;\mathrm{ng/kg-d}
+$$
+
+---
+
+### Perfluorononanoic acid or perfluorononanoate (PFNA), CAS# 375-95-1
+
+*Principal study & consideration of health effects*
+
+For the derivation of a RfD and MCL for PFNA, NHDES recommends the critical health effect of increased 
+relative liver weight in pregnant mice (Das et al., 2015; NJDWQI, 2018) as an indicator for the onset of 
+hepatotoxicity. This is the same critical health effect previously selected in the initial MCL proposal 
+(NHDES, 2019), and based on additional review of the literature NHDES remains confident in this 
+decision.
+
+Since the initial MCL proposal by NHDES at the start of January 2019, additional studies have been 
+published related to associations between PFNA and associated human health impacts along with 
+studies demonstrating toxicity in rodent models. In the same studies that found associations between 
+PFOA and serological markers of liver function (Nian et al., 2019; Jain and Ducatman, 2019; Bassler et al., 
+2019), PFNA was also associated with liver dysfunction and markers of hepatic inflammatory responses.
+As discussed later, this co-association between multiple PFAS and the same health outcomes is 
+acknowledged as a present challenge of epidemiological research. The same study of the Danish Birth 
+Cohort that associated PFOS with an early onset of puberty in girls found that prenatal serum levels of 
+PFNA were associated with delayed onset of puberty in boys (Ernst et al., 2019). Ernst and colleagues 
+(2019) noted that these associations merit caution in their interpretation and require replication due to
+their novelty. Unlike PFOA and PFOS, PFNA has been the subject of relatively less research and its lower 
+background serum concentrations compared to PFOA and PFOS present a challenge to identifying its 
+effects in human populations.
+
+Studies published prior to 2019 were considered as a part of the initial PFAS MCL proposal put forward 
+by NHDES (2019). At the time, two major documents reviewed the toxicity of PFNA in humans and 
+rodents (NJDWQI, 2018; ATSDR, 2018b). As noted in both documents, relatively little research has been 
+conducted on PFNA despite its historical use and presence in a variety of environmental media. The 
+NJDWQI concluded there was limited evidence associating PFNA with changes in serum ALT as a 
+biomarker of hepatotoxicity (NJDWQI, 2018), whereas the ATSDR determined these inconsistencies in 
+epidemiological data did not merit inclusion of hepatotoxicity as an associated health outcome for PFNA
+(ATSDR, 2018b). In its initial proposal, NHDES agreed with the assessment made by the NJDWQI relative 
+to adverse effects on the liver and NHDES maintains this position. Given the limited amount of 
+epidemiological data currently available for PFNA and its similarity in chemical structure to PFOA and 
+biological activities in animal models, NHDES determined that the associated hepatotoxic effects were 
+[Image: Image106]
+more relevant and sensitive for human health risk assessment than the developmental and endocrine 
+effects reported in animal studies. While NHDES does not agree with the application of the database 
+uncertainty factor or animal-to-human dose extrapolation, the arguments made for consideration of 
+hepatotoxicity by NJDWQI (2018) were deemed appropriate given the existing information.
+
+To date, the carcinogenicity of PFNA has not been reported in a rodent model. The human 
+carcinogenicity of PFNA has not been classified by the U.S. EPA, IARC or CDC (ATSDR). Therefore, NHDES 
+did not conduct a cancer-based risk assessment for PFNA. Should additional information become 
+available that is adequate for consideration of a cancer slope factor (CSF) for PFNA, NHDES recommends 
+consideration as to whether its development and application of such values would be more protective 
+than the proposed MCL.
+
+---
+
+#### Determination of a point of departure
+
+As previously proposed by NHDES (2019), the principal study and point of departure (POD) was the same 
+study (Das et al., 2015) recommended and benchmark dose modeled by the NJDWQI (2018). The critical 
+health effect was increased relative liver weight in pregnant mice following a 17-d (duration of 
+gestation) oral exposure to PFNA (Das et al., 2015). The internal LOAEL for these mice was 12,400 ng/mL 
+which corresponded to an oral dose of 1.0 mg/kg-d (Das et al., 2015). While no significant mortality was 
+observed at this dose, higher oral doses (>5.0 mg/kg-d) were associated with neonatal mortality in mice. 
+Wolf et al. (2010) demonstrated the profound effects of PFNA on mouse pups were due to PPARα 
+activation which raises uncertainty about the qualitative and quantitative relevance of this outcome to 
+human health. Additional studies demonstrate that rodent models display hepatotoxic responses 
+towards PFNA (Wolf et al., 2010; Wang et al., 2015), with evidence of PPARα-independent mechanisms 
+(Rosen et al., 2017).
+
+This POD is based on the benchmark dose modeling work conducted by the NJDWQI (2018) in their 
+technical documents for their proposed MCL of 13 ng/L. It should be noted that NJDWQI did not derive a 
+RfD as a part of the MCL development, as a ratio method was used instead of a DAF with water ingestion 
+rate to convert the target serum level to a corresponding water concentration. NHDES did not arrive at 
+the same MCL because NHDES opted to derive a RfD consistent with the other PFAS evaluated, as well 
+as use of the transgenerational exposure model for breastfeeding (Goeden et al., 2019; MIDHHS, 2019).
+[Image: Image106]
+
+*Application of uncertainty factors*
+
+A total uncertainty factor of 100 was applied to the POD for PFNA based on:
+
+$$
+\mathsf{I n t r a s p e c i e s\;v a r i a b i l i t y\;(10)\times I n t e r s p e c i e s\;v a r i a b i l i t y\;(3)\times D a t a b a s e\;l i m i t a t i o n s\;(3)=100}
+$$
+
+For the non-risk assessor, the units of 3 and 10 are for partial (half) and full log units. So, a full log unit of 
+10 equals 10<sup>1</sup>, but a half log unit of 10<sup>½</sup> or 10<sup>0.5</sup> is equal to 3.162. As a convention of risk assessment 
+using EPA methodology (EPA 2002), the value of 3.162 is presented as 3. Thus, 10 × 3 × 3 is rounded to 
+100 from 99.982.
+
+$$
+10^{1},
+$$
+
+$$
+10^{\%}
+$$
+
+$$
+10^{0.5}
+$$
+
+The full factor of 10 for intraspecies variability was deemed appropriate to protect for the poorly 
+characterized differences in toxico-dynamics (× 3) and -kinetics (× 3) within the human population. As 
+NHDES applied a DAF to convert the rodent serum concentration to an oral human dose, only a partial 
+uncertainty factor (× 3) was applied for interspecies variability. As the NJDWQI (2018) derived a 
+benchmark dose, there was no need for any additional uncertainty factors to account for LOAEL to 
+NOAEL conversion. As with PFOA, the critical effect of hepatic hypertrophy is considered the onset of 
+the adverse effect in a sensitive model species. Consistent with PFOA, no additional uncertainty factor 
+was applied to account for acute-to-chronic duration of exposure. The NJDWQI applied a full LOAEL to 
+NOAEL uncertainty factor (× 10) to account for differences between the 17-d exposure in Das et al. 
+(2015) and longer exposures resulting in reported adverse effects (summarized in NJDWQI, 2018). As 
+increased liver weight in mice is already considered to be a highly-sensitive critical effect in response to 
+PFAS, NHDES determined this was overly conservative given similar uncertainty factor considerations for 
+the similar perfluorinated carboxylic acid, PFOA.
+
+---
+
+In its original proposal, NHDES applied a full database uncertainty factor (× 10) to account for the limited 
+existing literature on PFNA (× 3), as well as the absence of a serum-derived human half-life estimate (× 
+3; NHDES 2019). As a part of its revision to the proposed RfDs and subsequent MCLs, NHDES utilized the 
+more conservative half-life of PFNA derived for men and older women. Given the application of this 
+more conservative half-life estimate, NHDES removed the associated partial uncertainty factor for PFNA. 
+NHDES retained the partial uncertainty factor of × 3 to account for a lack of multigenerational rodent 
+studies using PFNA, as well as concern for potential immunotoxic impacts seen with other PFAS (NTP 
+2016; DeWitt et al., 2012, 2019).
+
+#### Estimation of a human equivalent oral dose
+
+The POD represents an internal animal serum level associated with the adverse health outcome of 
+concern. Dividing the POD by the total uncertainty factor yields a protective target serum level 
+equivalent for the human population. *This is not a clinical or diagnostic value, nor should it be 
+interpreted as such.*
+
+$$
+Target\mathrm{s}\mathrm{r}\mathrm{u}\mathrm{m}\mathrm{~level}\mathrm{for}\mathrm{PFNA}=\frac{4.900\mathrm{ng}/\mathrm{mL}}{100}=49.0\mathrm{ng}/\mathrm{mL}
+$$
+
+To estimate how this internal blood level corresponds to an external oral dose of the specified 
+compound, a dosimetric adjustment factor is applied by multiplication to identify a dose in ng of specific 
+PFAS per kg of individual body weight per day (ng/kg-d). This step accounts for the highlybioaccumulative nature and unique half-life estimates of each compound, and is consistent with prior 
+risk assessment methods for derivation of RfDs for PFAS (USEPA 2016ab; NJDWQI 2017, 2018a; ATSDR 
+2018b; MDH 2019ab). The human equivalent oral dose is estimated by the following equations:
+[Image: Image106]
+
+$$
+\mathsf{R e f e r e n c e d o s e(R f D)}=\frac{\mathsf{P o i n t o f d e p a r t u r e(P O D)}}{\mathsf{T o t a l u n c e r t a i n t y f a c t o r s(U F)}}\times\mathsf{D o s i m e t r i c a d j u s t m e n t f a c t o r(D A F)}
+$$
+
+Where the DAF is equal to,
+
+$$
+DAF=V_{d}\times\left(\frac{\ln(2)}{t_{1/2}}\right)
+$$
+
+$$
+DAF=200mL/kg\times\left(\frac{Ln(2)}{1.570days}\right)=8.83\times10^{-2}mL/kg-d
+$$
+
+Consistent with the initial PFNA MCL proposal (NHDES 2019), the Vd for PFNA was 200 mL/kg based on 
+similar assumptions made by ATSDR (ATSDR 2018b). In this revised proposal, NHDES adjusted the halflife value from 2.5 to 4.3 years based on urinary half-lives estimated for men and older women, groups 
+that tend to eliminate PFAS slower than younger and reproductive age women (Zhang et al., 2013; 
+NHDES, 2019). As previously discussed in its initial proposal (NHDES, 2019), NHDES would prefer to have 
+more reliable serum half-life estimates for PFNA instead of the urinary-derived estimates reported by 
+Zhang and colleagues (2013). However, since the submission of the initial proposal no additional studies 
+have been published that report a serum-based estimate for the half-life of PFNA in humans. Should 
+additional peer-reviewed studies emerge that provide more rigorous estimates of these values, NHDES 
+recommends consideration as to whether such data would represent and merit a significant change for 
+the PFNA RfD.
+
+$$
+\mathsf{V}_{\mathsf{d}}
+$$
+
+---
+
+Thus, using this chemical-specific DAF and the aforementioned point of departure and uncertainty 
+factors, NHDES derived an oral reference dose for PFNA of 4.3 ng/kg-d.
+
+$$
+\mathrm{Reference\;dose\;(RfD)}=\frac{4.900\;\mathrm{ng/mL}}{100}\times8.83\times10^{-2}\;\mathrm{mL/kg-d}=4.3\;\mathrm{ng/kg-d}
+$$
+
+---
+
+### Perfluorohexane sulfonic acid or perfluorohexane sulfonate (PFHxS), CAS# 355-46-4
+
+#### Principal study & consideration of health effects
+
+For the derivation of a RfD and MCL for PFHxS, NHDES recommends the critical health effect of impaired 
+female reproduction as determined by reduced litter size initially reported in Chang et al. (2018). This 
+RfD derivation is currently under peer-review with a scientific journal (Ali et al. *in review).* This is the 
+same critical health effect previously proposed in the initial MCL proposal (NHDES 2019), albeit the 
+present value is adjusted for benchmark dose modeling and selection of endpoint specific factors for 
+dosimetric adjustment. NHDES developed the revised RfD in collaboration with external collaborators, 
+Dr.’s Leah Stuchal and Stephen Roberts at the University of Florida, and awaits external peer-review on 
+the soundness of its derivation. Should peer-review recommend revision and adjustment of the 
+proposed RfD, NHDES will review the current MCL to determine if adjustments are required to be 
+adequately protective of human health.
+
+Since its initial proposal (NHDES, 2019), there has been a limited amount of new information generated 
+relative to PFHxS. The Minnesota Department of Health proposed a RfD for PFHxS of 9.7 ng/kg-d based 
+on reduced free T4 in exposed rats using unpublished data from the NTP. At the time of writing this 
+recommendation, the ATSDR has not released a revision to their 2018 draft MRL of 20 ng/kg-d based 
+upon thyroid follicular cell damage in rats (ATSDR, 2018b). PFHxS showed similar associations with 
+serological markers of liver function and inflammation as reported for PFOA, PFOS and PFNA (Nian et al., 
+2019; Jain and Ducatman, 2019; Bassler et al., 2019). Despite its legacy of widespread environmental 
+occurrence associated primarily with AFFF use and growing regulatory interests, relatively little new 
+toxicological information has emerged for PFHxS as of June 2019.
+[Image: Image106]
+
+Studies published prior to 2019 were considered as a part of the initial PFAS MCL proposal put forward 
+by NHDES (2019). This included re-evaluation of peer-reviewed evidence considered by ATSDR (2018b) 
+including:
+
+• thyroid toxicity including altered thyroid histology and reduced T4 levels in rodent models 
+(Butenhoff et al., 2008; Chang et al., 2018; Ramhøj et al., 2018), as well as epidemiology studies 
+for altered T4 levels (Ballesteros et al., 2017),
+
+• immunomodulation in humans (Grandjean et al., 2012; Dong et al., 2013; Humblet et al., 2014; 
+Okada et al., 2014; Buser and Scinicariello 2016; Stein et al., 2016; Zhu et al., 2016)
+
+• reproductive and developmental toxicity in rodents (Butenhoff et al., 2008; Viberg et al., 2013; 
+Chang et al., 2018; Ramhøj et al., 2018)
+
+• hepatotoxicity or changes in lipid metabolism in rodents (Butenhoff et al., 2008; Bijland et al., 
+2011; Rosen et al., 2017; Chang et al., 2018; Ramhøj et al., 2018) and humans (Nelson et al., 
+2010; Starling et al., 2014; Mattsson et al. 2015).
+
+• and human carcinogenicity (Hardell et al., 2010; Bonefel et al., 2014; Hurley et al., 2018).
+
+To date, the carcinogenicity of PFHxS has not been reported in a rodent model. The human 
+carcinogenicity of PFHxS has not been classified by the U.S. EPA, IARC or CDC (ATSDR). Therefore, NHDES 
+did not conduct a cancer-based risk assessment for PFHxS. Should additional information become 
+available that is adequate for consideration of a CSF for PFHxS, NHDES recommends consideration as to 
+whether its development and application would be more protective than the proposed MCL.
+
+---
+
+#### Determination of a point of departure
+
+As described in its initial MCL proposal (NHDES 2019), the principal study and point of departure (POD)
+was the same study (Chang et al., 2018) that has been adjusted primarily by use of benchmark dose 
+modeling (Ali et al., *in review).* The critical health effect was reduced litter size in mice following a 14-d,
+prior to pregnancy, oral exposure to PFHxS (Chang et al., 2018). As mentioned above, the details and 
+methodology for derivation of the POD for PFHxS are currently under review in Ali et al (*in review).* 
+Benchmark dose (BMD) modeling was performed using Benchmark Dose Software (BMDS) (Version 3.1; 
+USEPA, 2019). The critical effect endpoint was a change in the mean live litter size for adult CD-1 female 
+mice, and due to the unavailability of litter-specific data was modeled based on PFHxS serum 
+concentrations on study day 14 (reported in Chang et al., 2018). This resulted in a benchmark dose of 
+41,200 ng/mL and a 95% lower confidence limit on the benchmark dose (BMDL) of 13,900 ng/mL.
+NHDES determined that this is an appropriately cautious endpoint given the limited number of animal 
+studies (reviewed in NHDES, 2019), considerably longer half-lives of PFHxS in humans when compared to 
+other PFAS (Olsen et al., 2007; Zhang et al., 2013; Worley et al., 2017; Li et al., 2018), environmental 
+occurrence and exposures (Daly et al., 2018), as well as suggestive associations of reproductive impacts
+in humans (Vélez et al., 2015; Zhou et al., 2017; Zhang et al., 2018).
+
+#### Application of uncertainty factors
+
+A total uncertainty factor of 300 was applied to the POD for PFHxS based on:
+
+$$
+\begin{array}{r}{\mathsf{I n t r a s p e c i e s\;v a r i a b i l i t y\;(10)\times I n t e r s p e c i e s\;v a r i a b i l i t y\;(3)\times D u r a t i o n\;o f\;e x p o s u r e\;(3)}}\\ {\times\;\mathsf{D a t a b a s e\;l i m i t a t i o n s\;(3)=300}}\end{array}
+$$
+
+For the non-risk assessor, the units of 3 and 10 are for partial (half) and full log units. So, a full log unit of 
+10 equals 10<sup>1</sup>, but a half log unit of 10<sup>½</sup> or 10<sup>0.5</sup> is equal to 3.162. As a convention of risk assessment 
+using EPA methodology (EPA 2002), the value of 3.162 is presented as 3. Thus, 10 × 3 × 3 × 3 is rounded 
+to 300 from 316.14.
+
+The full factor of 10 for intraspecies variability was deemed appropriate to protect for the poorly 
+characterized differences in toxico-dynamics (× 3) and -kinetics (× 3) within the human population. As 
+NHDES applied a DAF to convert the rodent serum concentration to an oral human dose, only a partial 
+uncertainty factor (× 3) was applied for interspecies variability. As benchmark dose modeling was used 
+to derive a POD, detailed in Ali et al. (*in review),* there was no need for any additional uncertainty factors 
+to account for LOAEL to NOAEL convers[Image: Image106]ion. After careful evaluation of technical comments and reassessment of the literature and principal study, an additional but partial uncertainty factor (× 3) was 
+applied to account for acute-to-chronic duration of exposure of female mice. In Chang et al. (2018), 
+female mice received a less than chronic exposure (14 days) to PFHxS prior to the start of pregnancy. 
+Because of the relatively limited number of studies on PFHxS and evidence for adverse impacts following 
+longer exposure to similar compounds (i.e., PFOS), this was determined to be appropriate without being 
+overly conservative (e.g., a full factor of × 10).
+
+In its original proposal, NHDES applied a full database uncertainty factor (× 10) to account for the limited 
+existing literature on PFHxS (× 3), as well as associations with thyroid hormone and transport 
+interference (× 3; NHDES 2019). As a part of its revision to the proposed RfD and subsequent MCL,
+
+---
+
+NHDES determined the existing single-generation studies provide some basis for evaluating the 
+reproductive and developmental toxicity of PFHxS. However, NHDES retained a partial uncertainty factor 
+(× 3) to account for a lack of multigenerational rodent studies, as well as concern for potential 
+immunotoxic impacts seen with other PFAS that have yet to be assessed (NTP 2016; DeWitt et al., 2019).
+The protracted human half-life of PFHxS relative to other PFAS underscores the need for additional 
+research into biological impacts following chronic exposures.
+
+#### Estimation of a human equivalent oral dose
+
+The POD represents an internal animal serum level associated with the adverse health outcome of 
+concern. Dividing the POD by the total uncertainty factor yields a protective target serum level 
+equivalent for the human population. *This is not a clinical or diagnostic value, nor should it be 
+interpreted as such.*
+
+$$
+Target\mathrm{s}\mathrm{r}\mathrm{u}\mathrm{m}\mathrm{~level}\mathrm{for}\mathrm{PF}\mathrm{H}\mathrm{x}\mathrm{S}=\frac{13,900\mathrm{~ng}/\mathrm{mL}}{300}=46.3\mathrm{~ng}/\mathrm{mL}
+$$
+
+To estimate how this internal blood level corresponds to an external oral dose of the specified 
+compound, a dosimetric adjustment factor is applied by multiplication to identify a dose in ng of specific 
+PFAS per kg of individual body weight per day (ng/kg-d). This step accounts for the highlybioaccumulative nature and unique half-life estimates of each compound, and is consistent with prior 
+risk assessment methods for derivation of RfDs for PFAS (USEPA 2016ab; NJDWQI 2017, 2018a; ATSDR 
+2018b; MDH 2019ab). The human equivalent oral dose is estimated by the following equations:
+[Image: Image106]
+
+$$
+\mathsf{R e f e r e n c e d o s e(R f D)}=\frac{\mathsf{P o i n t o f d e p a r t u r e(P O D)}}{\mathsf{T o t a l u n c e r t a i n t y f a c t o r s(U F)}}\times\mathsf{D o s i m e t r i c a d j u s t m e n t f a c t o r(D A F)}
+$$
+
+Where the DAF is equal to,
+
+$$
+DAF=V_{d}\times\left(\frac{\ln(2)}{t_{1/2}}\right)
+$$
+
+$$
+DAF=213\ mL/kg\times\left(\frac{Ln(2)}{1.716\ days}\right)=8.61\times10^{-2}\ mL/kg-d
+$$
+
+In its revised MCL proposal for PFHxS, NHDES has changed both the Vd and half-life estimate for PFHxS 
+to reflect the female-specific health impact utilized as the basis of the RfD. The Vd for PFHxS was 
+reduced from 287 to 213 mL/kg which reflects a female-specific Vd value for PFHxS (Sundström et al.,
+2012). Sundström et al. (2012) reports the volume of distribution for cynomolgus monkeys, not humans, 
+and no human Vd is currently available for PFHxS. Similar to ATSDR (ATSDR 2018b) and other agencies 
+(MDH 2019b; MIDHHS 2019), NHDES used the non-human primate value as an estimate for the human 
+volume of distribution. Similarly, NHDES adjusted the half-life value from 5.3 to the female-specific
+estimate of 4.7 years (average) based on a study of a community exposed to PFHxS through 
+contaminated drinking water (Li et al. 2018; discussed in NHDES 2019). It is noted that use of this 
+average half-life estimate for women is less conservative than longer average half-life estimates of 8.5 
+years (Olsen et al., 2007) or 7.4 years (Li et al., 2018) that rely on serum levels in men, or longer 
+estimates of 7.7-35 years for women depending on age (Zhang et al., 2013). However, given the 
+conservative nature and sex-specific effect selected for the POD of PFHxS, the use of a 4.7-year half-life 
+in women was deemed appropriate without being overly-conservative.
+
+$$
+V_{\mathrm{d}}
+$$
+
+$$
+V_{\mathrm{d}}
+$$
+
+$$
+V_{\mathrm{d}}
+$$
+
+$$
+V_{\mathrm{d}}
+$$
+
+---
+
+Thus, using this chemical-specific DAF and the aforementioned point of departure and uncertainty 
+factors, NHDES derived an oral reference dose for PFHxS of 4.0 ng/kg-d.
+
+$$
+\mathrm{Reference\;dose\;(RfD)}=\frac{13,900\;\mathrm{ng/mL}}{300}\times8.61\times10^{-2}\;\mathrm{mL/kg-d}=4.0\;\mathrm{ng/kg-d}
+$$
+
+---
+
+# Summary of Recommended RfDs for PFOA, PFOS, PFNA and PFHxS
+
+*Recommended RfDs*
+
+NHDES recommends the following chronic oral RfDs for PFOA, PFOS, PFNA and PFHxS:
+
+• PFOA, 6.1 ng/kg-d
+
+• PFOS, 3.0 ng/kg-d
+
+• PFNA, 4.3 ng/kg-d
+
+• PFHxS, 4.0 ng/kg-d
+
+These RfDs are for protection from the primary health effects of liver toxicity (PFOA and PFNA), immune 
+suppression of antibody responses (PFOS) and reduced female fertility (PFHxS) based on evidence from 
+animal studies. In addition to these primary health outcomes, these RfDs are expected to be reasonably 
+protective for associated and secondary (less sensitive) health outcomes that occur at similar or higher 
+serum concentrations in rodents. Secondary health effects for these and other PFAS include disruption 
+of thyroid and sex hormone levels and their signaling, teratogenic effects, early-life growth delays, 
+changes in cholesterol levels, neurobehavioral effects, renal toxicity and fertility in rodent models. 
+NHDES believes its selection of PODs, uncertainty factors and DAFs for each RfD provides adequate 
+protection of human health from appreciable risk of these primary and secondary health effects during a 
+lifetime.
+
+Table 2 presents the NHDES recommended RfDs or MRLs, along with their applied uncertainty factors
+those selected by other agencies that have evaluated these same PFAS. The application of uncertainty 
+factors follows EPA guidance (EPA 2002), and is dependent on the principal study selected and 
+consideration of other available studies. However, it is not uncommon for different risk assessors and 
+toxicologists to arrive at different applications of uncertainty factors when considering where 
+reasonable and health-protective conservatism is being applied in the risk assessment process.
+[Image: Image106]
+
+#### Discussion of scientific uncertainties
+
+While the human health effects of PFAS is a rapidly growing area of scientific research, the exact nature 
+of their associated health effects in humans remains uncertain (ATSDR, 2018b; Michigan Panel, 2018). 
+The cross-sectional nature of most epidemiological studies precludes proof of causality between 
+measured PFAS serum concentrations and the reported associated health outcomes. This is especially 
+problematic as the extraordinarily long half-lives of PFAS (years) make it difficult to disentangle the 
+associated health effects in these studies from co-exposure to other environmental contaminants with 
+relatively shorter half-lives (days to weeks). Additionally, there is a general lack of true control groups 
+for comparison as various combinations of PFAS are detectable in the blood of virtually all populations 
+from around the world. There is concern for the implications of reverse causation with certain health 
+outcomes associated to PFAS. As an evolving area of scientific research, NHDES anticipates new findings 
+will improve the understanding of PFAS-related health effects in humans.
+
+Due to the limitations of epidemiological studies, RfDs were derived using animal data. There are 
+inherent uncertainties associated with RfDs derived from animal studies (EPA 2002), specifically related to considerations of human health relevance (e.g., biological plausibility) and translation of animal 
+findings to human equivalent values (i.e., uncertainty factors and DAFs).
+
+As a part of its initial proposal (NHDES, 2019), NHDES considered the contentious issue of peroxisome 
+proliferator-activated receptor subtype α (PPARα) activation in rodents and its relevance to human 
+health. The activation of PPARα is a contributing pathway for several of the reported toxic responses in 
+rodent models evidenced by genetic knockout studies and gene expression profiling studies (reviewed 
+by ATSDR 2018b and NHDES 2019). This is especially true for hepatotoxicity and changes in lipid 
+metabolism in rodents following exposure to PFAS due to upregulation of rodent specific pathways 
+leading to oxidative stress (Perkins et al., 2004; Loveless et al., 2006; Rosen et al., 2007, 2008, 2017; Das 
+et al., 2017; reviewed by ATSDR, 2018b). *In vitro* testing demonstrates that PFAS show a stronger 
+binding affinity for rodent PPARα when compared to human PPARα (Wolf et al., 2008). These and other 
+studies reviewed by NHDES (2019) suggest qualitative and quantitative differences in toxicity between 
+species for PPARα-dependent effects.
+
+Such qualitative and quantitative differences raise concern for selection of critical health effects such as 
+liver toxicity based on rodent studies (reviewed by Klaunig et al., 2012), and have been a major criticism 
+of the half-lives derived by NHDES and other agencies for RfDs for PFOA, PFOS, PFNA and PFHxS. Based 
+on existing toxicological information, NHDES contends that selected critical effects from animal studies
+are appropriate for the protection of human health. While the physiological roles of PPARs (i.e., PPARα, 
+β and γ) in humans are less defined than those of the other nuclear receptors like the estrogen or 
+androgen receptor, there is evidence that they are involved in lipid metabolism (Issemann and Green, 
+1990; Lee et al., 1995) and function of muscle, adipose and immune cells throughout the body (Tyagi et 
+al., 2011). Independent of PPARα activation, there is evidence for other mechanisms for rodent toxicity 
+(e.g. mitochondrial dysfunction) that are potentially relevant to humans and other organisms 
+(Hagenaars et al., 2013; Cui et al., 2015; reviewed by Li et al., 2017; Li et al., 2018; NHDES, 2019).
+Furthermore, evidence from non-human primates further suggest that effects on the liver, cholesterol 
+levels, thyroid hormones and the immune system are relevant to humans and not isolated to rodent
+studies (Griffith and Long 1980; Thomford 2001; Butenhoff et al., 2002; Seacat et al., 2002). Taken 
+collectively, this supports the NHDES risk assessment and derivation of RfDs using the selected critical 
+health effects.
+[Image: Image106]
+
+With respect to uncertainty factors, NHDES received multiple comments regarding its application of 
+uncertainty factors in the initially proposed MCLs (NHDES, 2019). Table 2 presents the uncertainty 
+factors used by other state or federal agencies for the derivation of RfDs for PFOA, PFOS, PFNA or PFHxS,
+and demonstrates that NHDES’s selections are within the norms of the professional practice. As 
+previously explained for each compound, NHDES considered available information from human and 
+animal studies to arrive at the total uncertainty factors applied for each RfD. Difference in principal 
+study selection and consideration of available data results in differences in the selection and application 
+of total uncertainty factors (EPA 2002). Given the selection of principal studies and considerations of 
+exposure assumptions described in Section IV, NHDES remains confident that its application of 
+uncertainty factors is appropriate without being overly conservative.
+
+---
+
+Table 2. Interagency Differences in Uncertainty Factors. Summary of uncertainty factor allocations, RfDs and MRLs 
+by government risk assessment groups.
+Specific Uncertainty ATSDR<sup>a</sup> US EPA<sup>b,c</sup> TX CEQ<sup>d</sup> MN DOH<sup>e-g</sup> NJ DWQI<sup>h-j</sup> NH DES NY DOH<sup>k</sup>
+
+| Specific Uncertainty Factors | ATSDRa (MRLs) | US EPAb,c (RfD) | TX CEQd (RfD) | MN DOHe-g (RfD) | NJ DWQIh-j (RfD) | NH DES (RfD) | NY DOHk (RfD) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| PFOA |  |  |  |  |  |  |  |
+| Principal Study | Koskela et al. 2016 | Lau et al. 2006 | Macon et al. 2011 | Lau et al. 2006 | Loveless et al. 2006 | Loveless et al. 2006 | Macon et al. 2011 |
+| Human Variability | 10 | 10 | 10 | 10 | 10 | 10 | 10 |
+| Interspecies Differences | 3 | 3 | 1 | 3 | 3 | 3 | 3 |
+| Duration of Exposure | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| LOAEL to NOAEL | 10 | 10 | 30 | 1 | 1 | 1 | 1 |
+| Database Insufficiency | 1 | 1 | 1 | 3 | 10 | 3 | 3 |
+| Total Uncertainty Factor | 300 | 300 | 300 | 100 | 300 | 100 | 100 |
+| RfD (ng/kg-d) | 3.0 | 20.0 | 12.0 | 18.0 | 2.0 | 6.1 | 1.5 |
+
+| Principal Study | Luebker et al. 2005 | Luebker et al. 2005 | Zeng et al. 2011 | Dong et al. 2011 | Dong et al. 2009 | Dong et al. 2011 | Dong et al. 2009 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Human Variability | 10 | 10 | 10 | 10 | 10 | 10 | 10 |
+| Interspecies Differences | 3 | 3 | 1 | 3 | 3 | 3 | 3 |
+| Duration of Exposure | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| LOAEL to NOAEL | 1 | 1 | 10 | 1 | 1 | 1 | 1 |
+| Database Insufficiency | 10 | 10 | 1 | 3 | 1 | 3 | 1 |
+| Total Uncertainty Factor | 300 | 300 | 100 | 100 | 30 | 100 | 30 |
+| RfD (ng/kg-d) | 2.0 | 20.0 | 23.0 | 3.0 | 1.8 | 3.0 | 1.8 |
+
+| Principal Study | Das et al. 2015 | n.a. | Fang et al. 2010 | n.a. | Das et al. 2015 | Das et al. 2015 | n.a. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Human Variability | 10 | - | 10 | - | 10 | 10 | - |
+| Interspecies Differences | 3 | - | 1 | - | 3 | 3 | - |
+| Duration of Exposure | 1 | - | 10 | - | 10 | 1 | - |
+| LOAEL to NOAEL | 1 | - | 1 | - | 1 | 1 | - |
+| Database Insufficiency | 10 | - | 10 | - | 3 | 3 | - |
+| Total Uncertainty Factor | 300 | - | 1,000 | - | 1,000 | 100 | - |
+| RfD (ng/kg-d) | 3.0 |  | 12.0 |  | 0.73 | 4.3 |  |
+
+| Principal Study | Butenhoff et al. 2009 | n.a. | Hoberman &amp; York 2003 | Unpublished NTP data | n.a. | Chang et al. 2018 | n.a. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Human Variability | 10 | - | 10 | 10 | - | 10 | - |
+| Interspecies Differences | 3 | - | 1 | 3 | - | 3 | - |
+| Duration of Exposure | 1 | - | 1 | 1 | - | 3 | - |
+| LOAEL to NOAEL | 1 | - | 3 | 1 | - | 1 | - |
+| Database Insufficiency | 10 | - | 10 | 10 | - | 3 | - |
+| Total Uncertainty Factor | 300 | - | 300 | 300 | - | 300 | - |
+| RfD (ng/kg-d) | 20.0 |  | 3.8 | 9.7 |  | 4.0 |  |
+
+n.a. indicates the specific compound was not assessed or reported on by the specific agency.
+
+<sup>a</sup> ATSDR, 2018b. Draft Toxicological Profile for Perfluoroalkyls
+
+<sup>b</sup> U.S. EPA, 2016a. Health Effects Support Document for Perfluorooctanoic Acid (PFOA)
+
+<sup>c</sup> U.S. EPA, 2016b. Health Effects Support Document for Perfluorooctane Sulfonate (PFOS)
+
+https://www.tceq.texas.gov/assets/public/implementation/tox/evaluations/pfcs.pdf
+
+<sup>d</sup> TX Commission on Environmental Quality (TXCEQ), 2016. Perfluoro Compounds (PFCs): available at:
+
+<sup>e</sup> Minnesota Department of Health (MDH), 2018. Toxicological Summary for: Perfluorooctanoate.
+
+<sup>f</sup> Minnesota Department of Health (MDH), 2019a. Toxicological Summary for: Perfluorooctane sulfonate.
+
+<sup>g</sup> Minnesota Department of Health (MDH), 2019b. Toxicological Summary for: Perfluorohexane sulfonate.
+
+---
+
+<sup>h</sup> New Jersey Drinking Water Quality Institute (NJDWQI), 2017. Appendix A: Health-Based Maximum Contaminant Level 
+Support Document: Perfluorooctanoic Acid (PFOA)
+
+<sup>i</sup> New Jersey Drinking Water Quality Institute (NJDWQI), 2018a. Appendix A: Health-Based Maximum Contaminant Level
+Support Document: Perfluorooctane Sulfonate (PFOS)
+
+<sup>j</sup> New Jersey Drinking Water Quality Institute (NJDWQI), 2018b. Appendix A: Health-Based Maximum Contaminant Level 
+Support Document: Perfluorononanoic Acid (PFNA)
+
+<sup>k</sup> New York Department of Health (NYDOH), 2018 and personal communications. Presentation available at:
+
+https://www.health.ny.gov/environmental/water/drinking/dwqc/
+
+---
+
+### Section IV. Drinking Water Exposure Assumptions, Modeling and Resulting MCLs
+
+Using the reference dose (RfD) derived in Section III, the MCL considers the estimated daily intake of 
+water from a specific source and how much drinking water contributes to the total exposure from all 
+other sources of a specified contaminant. Specific methodologies for deriving health protective water 
+criteria are detailed by the EPA (USEPA 1989, 2004, 2017, 2018). Although NHDES chose a different 
+approach, the conventional method for deriving drinking water values utilizes the following equation:
+
+$$
+\mathsf{M a x i m u m\;c o n t a m i n a n t\;l e v e l\;(n g/L)}=\frac{\mathsf{R e f e r e n c e\;d o s e\;(n g/k g\cdot d)}}{\mathsf{D a i l y\;w a t e r\;i n g e s t i o n\;r a t e\;(L/k g\cdot d)}}\times\mathsf{R e l a t i v e\;s o u r c e\;c o n t r i b u t i o n\;(u n i t l e s s)}
+$$
+
+For a simple example, a drinking water value for PFOA using the currently recommended RfD, 95<sup>th</sup>
+percentile ingestion rate of lactating women and a relative source contribution of 0.5 (meaning 50%) is 
+shown below. This approach was used in the initially proposed MCL, but is not being applied following 
+consideration of breastfeeding (Goeden et al., 2019).
+
+$$
+\mathrm{Example}\;\mathrm{for}\;\mathrm{PFOA}\;(\mathrm{not}\;\mathrm{an}\;\mathrm{actual}\;\mathrm{MCL}\;\mathrm{recommendation}\;\mathrm{by}\;\mathrm{NHDES})=\frac{6.1\;\mathrm{ng/kg-d}}{0.055\;\mathrm{L/kg-d}}\times0.5=55\;\mathrm{ng/L}
+$$
+
+The daily water ingestion rate is a body-weight adjusted factor specific to certain age groups, to gender, 
+and to lactation or pregnancy status. In its initial proposal, NHDES selected the water ingestion rate of 
+the 95<sup>th</sup> percentile of lactating women, an estimated value of 0.055 L/kg-d (EPA, 2011; NHDES, 2019). 
+While lower estimates are more reflective of the central tendencies of the general population, especially 
+non-lactating women, they were deemed inadequately protective for the larger population. The values 
+are selected from the Exposure Factors Handbook (EPA 2011), which was recently updated specifically
+for these ingestion rates (see Chapter 3 of EPA, 2019). These updated values were used by NHDES.
+
+Instead of applying a fixed daily water ingestion rate that is assumed to be protective across a lifespan, 
+NHDES applied the toxicokinetic model described by Goeden et al. (2019) to consider how changes in 
+water ingestion at a given MCL are predicted to influence internal blood levels of each PFAS. This is due 
+to the prolonged and elevated internal doses (i.e., serum levels) predicted across infancy and childhood 
+resulting from PFAS in breastmilk. NHDES acknowledges that this is a departure from typical 
+methodology for deriving such a standard, but the unique properties of PFAS (i.e., long half-lives) merit 
+its application to be truly protective across all life stages for the chronic health impacts associated with
+these chemicals.
+[Image: Image106]
+
+The relative source contribution (RSC) is an estimate of how much of the typical daily exposure will be 
+allowed to come from drinking water. EPA recommends an RSC floor of 20% of the RfD and a ceiling of 
+80% of the RfD. The intention of an RSC ceiling of 80% is to ensure that total exposure from all sources 
+does not exceed 100% of the RfD with a margin of safety for potential unknown or underestimated 
+exposures. PFAS are present in a wide variety of environmental media (Moriwaki et al., 2003; Trudel et 
+al., 2008; Haug 2011; Haug et al., 2011; Winkens et al., 2017, 2018) and consumer products (Haug 2011; 
+Carpet and Textile Treatment - Washburn et al., 2005; Winkens et al. 2017; Cosmetics - Kang et al., 
+2016; Fast Food Packaging – Schaider et al., 2017), with an ever-growing number of potential sources 
+identified (Boronow et al., 2019; Kim et al., 2019; Nakayama et al., 2019). Thus, for the typical person, it 
+is unlikely that drinking water is responsible for 100% of their exposure. However, an exact profile for 
+the proportions of exposure from various sources remains poorly characterized. The latter part of this
+section details how this was evaluated by NHDES to arrive at a RSC of 50% for PFOA, PFOS, PFNA and 
+PFHxS.
+
+---
+
+### Application of Goeden et al. (2019) for exposure modeling
+
+As a part of the evaluation of published research and technical comments on the initially proposed MCLs 
+(NHDES, 2019), NHDES has adopted the use of the transgenerational toxicokinetic model (detailed in 
+Goeden et al., 2019), for the determination of appropriately protective health-based MCLs. This is a 
+toxicokinetic model that predicts the serum concentration of PFAS due to drinking water exposure and 
+consumption of breastmilk or formula across a lifespan starting at birth (Goeden et al., 2019). It does 
+not predict an effect (health outcome) due to exposure from drinking water, only the blood 
+concentration for an individual in a reasonable maximum exposure (RME) scenario. The tolerable blood 
+concentration in the RME scenario, or threshold, is determined by the chemical-specific RfD and RSC. 
+This Excel-based model is available upon request from the MN Department of Health.
+
+After review of the model and studies on the placental transfer (Fei et al., 2007; Midasch et al., 2007; 
+Monroy et al., 2008; Fromme et al., 2010; Beesoon et al., 2011; Kim et al., 2011; Liu et al., 2011; 
+Needham et al., 2011; Lee et al., 2013; Porpora et al., 2013; Zhang et al., 2013; Kato et al., 2014; Cariou 
+et al., 2015; Manzano-Salgado et al., 2015; Fisher et al., 2016; Yang et al., 2016; Chen et al., 2017; 
+Mamsen et al., 2019) and breastmilk transfer (Karrman et al., 2007; Haug et al., 2011; Kim et al., 2011; 
+Liu et al., 2011; Cariou et al., 2015; Gyllenhammer et al., 2018) of PFOA, PFOS, PFNA and PFHxS, NHDES 
+determined this novel and “fit-for-purpose” tool (Goeden et al., 2019) was necessary to evaluate 
+exposure outcomes from the proposed MCLs. Specifically, the transfer of PFAS into breastmilk combined 
+with the relatively high breastmilk and water ingestion rates of infants results in a prolonged elevation 
+of serum levels throughout childhood. Under RME assumptions, the serum levels are predicted to be 
+drastically higher than background serum levels seen in the general population, which is assumed to be 
+free of widespread PFAS contamination in drinking water. Furthermore, this elevation throughout 
+childhood into late adolescence limits the RSC allotment for exposure to other sources of PFAS in the 
+environment that, to date, are not regulated.
+[Image: Image106]
+
+The following subsections describe the inputs selected by NHDES for RME modeling using Goeden et al. 
+(2019). A summary of model inputs, and associated references, used by NHDES for selection of the 
+proposed MCLs are provided in Table 3.
+
+#### Human half-life and Vd assumptions
+
+$$
+V_{d}
+$$
+
+Explanations of the selected half-lives for PFOA, PFOS, PFNA and PFHxS are described in the discussions 
+of DAFs in Section III of this report. For PFOA, an average serum-based half-life was selected from Bartell 
+et al. (2010), which was estimated from a sample population of 200 individuals from the Mid-Ohio valley 
+who were exposed to PFOA from their drinking water supply due to contamination from a DuPont 
+facility. NHDES selected the half-life estimates from Li et al. (2018) for PFOS and PFHxS. These serumderived half-life estimates were determined to be more representative of the general population, and 
+were obtained from a Swedish community (n = 106 participants) exposed to PFAS, namely PFOS and 
+PFHxS, from drinking water contaminated by AFFF use at a nearby airbase (Li et al., 2018). Finally, the 
+half-life estimate for PFNA was selected from Zhang et al. (2013) which reports urine-based values from 
+a Chinese population (n = 86 participants).
+
+Similar to the half-life values, the volume of distribution (Vd) estimates were identical to those selected 
+by NHDES to derive RfDs for PFOA, PFOS, PFNA and PFHxS (Section III, and references therein).
+
+$$
+\left(V_{d}\right)
+$$
+
+---
+
+Table 3. Exposure Model Parameters. Summary of parameters utilized in the transgenerational model 
+(Goeden et al., 2019) by NHDES for derivation of proposed MCLs.
+Central or Upper
+
+| Model Parameter | Central or Upper Tendency of Parameter | PFOA | PFOS | PFHxS | PFNA |
+| --- | --- | --- | --- | --- | --- |
+| Half-Life, years (yrs) | Central | 2.3a | 3.4b | 4.7b | 4.3c |
+| Placental Transfer Ratio | Central | 0.72d | 0.40d | 0.70d | 0.69e |
+| Breastmilk Transfer Ratio | Central | 0.050d | 0.017d | 0.014d | 0.032e |
+| Volume of Distribution (Vd), L/kg | Central | 0.170f | 0.230f | 0.213g | 0.200e,h |
+| Relative Source Contribution (RSC), % | Central | 50 | 50 | 50 | 50 |
+| Duration of Exclusive Breastfeeding, months | Upper | Same for All 4 PFAS Exposure Scenario Models |  |  |  |
+| Water Ingestion Rates, mL/kg-di (EPA Exposure Factors Handbook, 2019 Update) |  |  |  |  |  |
+| Birth to <1 mon | Upper |  | 224 |  |  |
+| 1 to <3 mons | Upper |  | 267 |  |  |
+| 3 to <6 mons | Upper |  | 158 |  |  |
+| 6 to <11 mons | Upper |  | 133 |  |  |
+| 1 to <2 yrs | Upper |  | 57 |  |  |
+| 2 to <3 yrs | Upper |  | 67 |  |  |
+| 3 to <6 yrs | Upper |  | 45 |  |  |
+| 6 to <11 yrs | Upper |  | 41 |  |  |
+| 11 to <16 yrs | Upper |  | 31 |  |  |
+| 16 to <18 yrs | Upper |  | 31 |  |  |
+| 18 to <21 yrs | Upper |  | 31 |  |  |
+| 21+ yrs | Upper |  | 44 |  |  |
+| Lactating Woman | Upper |  | 47 |  |  |
+| Breastmilk Ingestion Rates, mL/kg-d (EPA Exposure Factors Handbook, 2011) |  |  |  |  |  |
+| Birth to <1 mon | Upper |  | 220 |  |  |
+| 1 to <3 mons | Upper |  | 190 |  |  |
+| 3 to <6 mons | Upper |  | 150 |  |  |
+| 6 to <12 mons | Upper |  | 130 |  |  |
+
+$$
+\overline{3.4^{b}}
+$$
+
+$$
+0.70^{\circ}
+$$
+
+$$
+0.170^{\mathrm{f}}
+$$
+
+$$
+2\ to<3\ yrs
+$$
+
+$$
+6to<11\text{yrs}
+$$
+
+$$
+11\ to<16\ yrs
+$$
+
+$$
+16to<18yrs
+$$
+
+;;  b
+<sup>a</sup> Bartell et al., 2010 Li et al., 2018; <sup>c</sup> Zhang et al., 2013;
+
+<sup>d</sup> MDH, 2018, 2019ab
+
+<sup>e</sup> MIDHHS, 2019; <sup>f</sup> Thompson et al., 2010; <sup>g</sup> Sundström et al., 2012; Ali et al., in review
+; 
+<sup>h</sup> ATSDR, 2018b
+
+<sup>i</sup> Body weight and age-specific adjustments to the Vd were maintained the same as described in Goeden et al., 2019.
+
+$$
+\mathsf{V}_{\mathsf{d}}
+$$
+
+---
+
+#### Placental & breastmilk transfer ratios
+
+NHDES applied previously selected placental and breastmilk transfer ratios for PFOA (MDH 2018), PFOS 
+(MDH 2019), PFNA (MIDHHS 2019) and PFHxS (MDH 2019). In line with the MDH and MIDHHS, NHDES 
+opted to use central tendency values for each PFAS versus the upper or 95<sup>th</sup> percentile estimate for 
+transfer in the RME scenarios (Table 3).
+
+The exact quantitative nature of PFAS transfer across the placenta remains an active area of research. 
+For example, Mamsen et al. (2019) demonstrated that the accumulation of PFAS in fetal tissues begins 
+early in pregnancy and continues throughout gestation as specific PFAS are taken up by the forming 
+organs with slightly different efficiencies. Several studies of cord blood compared to maternal serum 
+levels of PFAS have been used to estimate placental transfer ratios and are used in the model to predict 
+the “at birth” serum level (Fei et al., 2007; Midasch et al., 2007; Monroy et al., 2008; Fromme et al., 
+2010; Beesoon et al., 2011; Kim et al., 2011; Liu et al., 2011; Needham et al., 2011; Lee et al., 2013; 
+Porpora et al., 2013; Kato et al., 2014; Cariou et al., 2015; Manzano-Salgado et al., 2015; Fisher et al., 
+2016; Yang et al., 2016; Chen et al., 2017; Mamsen et al., 2019). The average maternal-to-cord blood or 
+placenta ratios ranged from 0.20 (Mamsen et al., 2019) to 1.24 (Midasch et al., 2007) for PFOA, 0.14 
+(Fisher et al., 2014) to 0.60 (Midasch et al., 2007) for PFOS, 0.24 (Mamsen et al., 2019) to 1.18 (Monroy 
+et al., 2008) for PFNA, and 0.23 (Fisher et al., 2016) to 1.25 (Monroy et al., 2008) for PFHxS. A point of 
+caution in interpreting placental transfer ratios in these studies is the trimester of pregnancy that data 
+are collected. Changes in blood volume over the coruse of pregnancy are expected to affect the 
+maternal blood concentration, thereby influences cord blood to maternal blood concentration ratios for 
+various PFAS. Collectively, these studies provide valuable and reliable information for estimating the 
+transfer from mother to newborn. This model does not predict fetal blood or tissue concentrations of 
+PFAS as this compartmentalization is poorly understood, although recent work, such as Mamsen et al.
+(2019) may lead to the development of such models.
+[Image: Image106]
+
+Compared to placental transfer efficiencies that are well-documented for PFAS, a small body of 
+literature informs our understanding of the PFAS in breastmilk. As a part of its review of the technical 
+documents described by MDH (2018, 2019ab) and MIDHHS (2019), NHDES reviewed the source papers 
+for the breastmilk transfer ratios (Karrman et al., 2007; Haug et al., 2011; Kim et al., 2011; Liu et al., 
+2011; Cariou et al., 2015; Gyllenhammer et al., 2018). These studies demonstrate that the small average 
+percentage (0.6-11% across various PFAS) transferred from a mother’s serum, which is typically at 
+concentrations of ng/mL or ppb, results in breastmilk at concentration ranges well above most existing 
+drinking water advisories. Combined with relatively high ingestion rates of breastmilk relative to the 
+infant’s body weight, this results in a spike of infant blood concentrations that the model predicts will
+remain high through childhood.
+
+#### Duration of breastfeeding
+
+A major assumption for the breastfeeding component of this model is the duration of exclusive 
+breastfeeding. Consistent with the RME scenarios selected by other states (MDH, 2018, 2019ab; 
+MIDHHS, 2019), NHDES used a 12-month duration of *exclusive breastfeeding* for all four RME scenarios. 
+Similar to the CDC, the World Health Organization (WHO) defines exclusive breastfeeding as:
+
+---
+
+“Exclusive breastfeeding means that the infant receives only breast milk. No other liquids 
+or solids are given – not even water – with the exception of oral rehydration solution, or 
+drops/syrups of vitamins, minerals or medicines.” – WHO eLENA (2019)
+
+A central tendency assumption for the duration of exclusive breastfeeding would be 6 months, but 
+NHDES selected a more conservative modeling parameter of 12 months of exclusive breastfeeding. A 
+12-month exclusive breastfeeding duration is a conservative assumption because the CDC recommends
+6 months of exclusive breastfeeding and some continuation through infancy given the clear benefits to 
+an infant’s health and their long-term development. After 6 months of age, the recommendation is that 
+other food items are introduced and breastfeeding continues for up to 2 years of age.
+
+This assumption has been argued by some to be overly conservative relative to the RME scenarios as 1) 
+CDC recommended exclusive breastfeeding for up to 6 months of age and 2) if an infant were exclusively 
+breastfeeding at or after 12 months of age, it is unlikely they are not ingesting other fluids or foods. 
+NHDES contends that this is a reasonable assumption given 1) the role that the duration of exclusive 
+breastfeeding plays in the MN model and 2) the high rates of breastfeeding in New Hampshire and 
+breastfeeding trends across the nation.
+
+MDH notes that the duration of breastfeeding, along with breastmilk intake rates and water 
+concentration, are the most sensitive parameters of the model (MDH 2017). The duration of exclusive 
+breastfeeding and breastfeeding with complimentary foods varies, but the CDC recommends up to 2 
+years of breastfeeding with the addition of complimentary foods. The transgenerational model does not 
+contain parameters for apportionment of exposure from breastmilk versus complimentary foods, or 
+formula, across the first two years of life. Given this uncertainty for mixed exposures for breastfed 
+infants, NHDES agreed that the assumption of a 12-month exclusive breastfeeding duration was 
+appropriate for estimate for the purpose of the model.
+[Image: Image106]
+
+Results from the National Immunization Survey (NIS) indicate that, in the general U.S. population of 
+newborns, approximately 24.9% ± 1.2 (± half 95% CI) of infants are exclusively breastfed at 6 months of 
+age. By 12 months, 35.9% ± 1.3 of infants consume breastmilk along with complimentary foods and 
+liquids (CDC, 2018a). New Hampshire specific estimates from this same dataset are that 30.2% ± 5.8 of 
+infants exclusively breastfeed at 6 months of age, while 45.6% ± 6.5 breastfeed at 12 months of age in 
+addition to complimentary foods (CDC, 2018a). Based on the historical trends, the 2018 Breastfeeding 
+Report Card (CDC, 2018b) indicates more women nationwide are breastfeeding or want to breastfeed 
+their children, giving weight to the consideration of breastfeeding and selecting a conservative window 
+of 12 months.
+
+$$
+24.9\%\pm1.2
+$$
+
+$$
+35.9\%\pm1.3
+$$
+
+$$
+30.2\%\pm5.8
+$$
+
+$$
+45.6\%\pm6.5
+$$
+
+#### Breastmilk and drinking water ingestion rate assumptions
+
+This transgenerational model evaluates the impact of changing water ingestion rates across a lifespan.
+These ingestion rates are expressed as liters of water per kilogram of an individual’s body weight per day 
+(L/kg-d). As a person grows, their physiological demand for water changes and this is reflected by agespecific ingestion rates, or life-process specific rates in the case of pregnant and lactating women. To put 
+this in context of historical practice, the EPA typically assumed a drinking water ingestion rate of 2 L/d for adults and 1 L/d for infants and children under 10 years of age (U.S. EPA, 2000). After adjusting for 
+body weight, these typical rates would underestimate the water consumption of infants, children and 
+lactating and pregnant women. Thus, consideration of these life-stage specific values is prudent for a 
+persistent and highly-bioaccumulative class of drinking water contaminants.
+
+To be protective of the general population including high-end water consumers, NHDES applied the 95<sup>th</sup>
+percentile water and breastmilk ingestion rates throughout life in the RME scenarios for PFOA, PFOS, 
+PFHxS and PFNA. The use of the 95<sup>th</sup> percentile for water ingestion rates is consistent with the initial 
+proposal, and this is simply an extension to other life stages. Recently updated values in 2019 Updated 
+Chapter 3 of the Exposure Factors Handbook (EPA, 2019) were combined with estimated breastmilk 
+ingestion rates from Chapter 15 of the 2011 Edition (EPA, 2011). As these changes were specific to water 
+ingestion, not breastmilk, the difference between the 2011 and 2019 estimates for infants, a change of -
+9% to +3% for those <1 year of age, was determined to be a minor and tolerable change to the RME 
+scenarios. The breastfed RME exposure was the driver of the MCL for all evaluated PFAS, and therefore 
+protective of an individual in the formula-fed RME scenario.
+
+### Consideration of the Relative Source Contribution (RSC)
+
+Exposure to PFAS is not solely due to drinking water, so in order for the MCL to be health protective 
+NHDES needs to account for the contribution of other sources towards the reference dose (RfD). The 
+proportion of exposure attributed to a specific source is accounted for through the relative source 
+contribution (RSC). With respect to a MCL, the RSC is the percentage of total exposure typically 
+accounted for by drinking water (EPA 2000). This value can be referred to as a proportion or percentage, 
+and EPA recommends a ceiling of 80% and a floor of 20%. A smaller RSC for drinking water exposure 
+results in a lower regulatory standard, but implies that sources other than water contribute more 
+significantly to exposure. 
+[Image: Image106]
+
+Presently, there is no inventory of all relevant sources of PFAS exposure to determine what proportion 
+each source shares in an RSC for the general population. Several studies have characterized specific 
+media such as dust, food (Kowalczyk et al., 2013; reviewed by EFSA, 2018) and breastmilk (previously 
+discussed) and estimated the percentages of total exposure attributable to these sources; but no single 
+study has merged these findings to estimate the reasonable and realistic RSC for drinking water.
+
+In the absence of such data, the EPA provides a decision tree for identifying an appropriate RSC 
+(replicated in Figure 1; EPA 2000). Following this process, NHDES determined:
+
+• (Box 6 to 8a) *Yes, there are significant known sources of these PFAS other than drinking water.*
+As a result of their dispersion into the environment and lack of adequate removal from waste 
+streams, there are known sources of PFAS that contribute to environmental exposures. This 
+includes release into surface water and implications for fish and shellfish consumption (Fair et 
+al., 2019), and the impacts of PFAS contamination of soil (Filipovic et al., 2015; Scher et al., 
+2018), dust (Fu et al., 2015; Winkens et al., 2018) and agriculture-related exposures (Nascimento 
+et al., 2018; reviewed by Ghisi et al., 2019).
+
+---
+
+• (Box 8a to 8c) *Yes, there is some information to make a characterization of exposure.* As 
+mentioned above, there is some data on environmental sources to make rough 
+characterizations. Additionally, there is blood data from the National Health and Nutrition 
+Examination Survey (NHANES) to estimate the general exposure of the U.S. population to PFAS. 
+The NHANES data for blood levels of PFAS is assumed to reflect general exposure to all sources 
+in the U.S. population, and is presumed to not reflect the results of excessively high exposures, 
+relative to the proposed MCLs, due to contaminated drinking water as seen in the communities 
+of Southern New Hampshire Pease Tradeport and Southern New Hampshire.
+
+• (Box 8c to 13) *NHDES performed apportionment with a 50% ceiling and 20% floor for each of the 
+assessed PFAS.* This apportionment was achieved using the EPA subtraction method (EPA 2000).
+
+The subtraction method (EPA 2000) estimates an apportionment of the RSC is based on assumed 
+knowledge of the background exposure. For PFAS, the subtraction method has been mathematically 
+applied as follows (NJDWQI 2018; MDH 2018, 2019ab):
+
+$$
+\mathsf{R e l a t i v e~S o u r c e~C o n t r i b u t i o n}=\frac{\mathsf{T a r g e t~s e r u m~l e v e l~}\left(\frac{\mathsf{n g}}{\mathsf{m L}}\right)-\mathsf{R e f e r e n c e~o r~b a c k g r o u n d~p o p u l a t i o n~l e v e l~}\left(\frac{\mathsf{n g}}{\mathsf{m L}}\right)}{\mathsf{T a r g e t~s e r u m~l e v e l~}\left(\frac{\mathsf{n g}}{\mathsf{m L}}\right)}\times100\%
+$$
+
+The difference between the target serum level and the RfD is that the former is an internal blood 
+concentration while the latter is the external amount of the chemical that could come from multiple 
+sources. For each of the compounds, the target serum levels were: PFOA – 43.5 ng/mL, PFOS – 23.6 
+ng/mL, PFNA – 49.0 ng/mL and PFHxS – 46.3 ng/mL. The reference population serum level is meant to 
+reflect a background level of exposure from the general population, not one that is highly exposed due 
+to a specific environmental source such as drinking water. Using the NHANES average serum values, 
+subtracting this background level from the target serum level (the maximum allowable level) results in a 
+proportion that is presumably permissible for drinking water alone. Other sources including food, dust, 
+treated consumer products (e.g., carpeting, cookware, food packaging, etc.) are assumed to be included 
+in the reference or background population blood concentrations.
+[Image: Image106]
+
+Using this approach with the NHANES 2013-2014 data for children ranging in age from 3 to 19 years (as 
+reported in Daly et al., 2018), NHDES arrived at RSCs of 50% for PFOA, PFOS, PFNA and PFHxS. Unlike its 
+initial proposal, NHDES selected the NHANES dataset over the use of NH-specific estimates. The NHspecific blood data was focused on communities whose primary exposure was associated with drinking 
+water, and would therefore overestimate non-drinking water exposure sources if used to establish an 
+RSC as initially proposed in January (NHDES, 2019). Thus, the NHANES dataset was deemed more 
+appropriate to account for other non-drinking water sources of exposure. For an understanding of how 
+the NHANES data compares to that collected from one of the highly-exposed communities in New 
+Hampshire and the limitations of interpreting these findings, readers are referred to Daly et al. (2018).
+
+Instead of using the general population (i.e., all ages), NHDES estimated RSCs based on the serum 
+concentrations from those younger than 19 years of age (Table 4). As emphasized in several comments 
+made to NHDES on its initial proposal, the risk assessment needs to consider current information for 
+children. Since the phase out of certain PFAS, but not all, the national average serum levels have 
+declined suggesting some reduction of background exposure. Given the emphasis of the RME on infancy and early childhood, NHDES determined it was appropriate to derive the RSC with specific consideration 
+of this group. All of the values for PFOA, PFOS, PFNA and PFHxS were at or above 48.3%, therefore 
+NHDES opted for an RSC of 50%.
+
+NHDES acknowledges that the use of the general NHANES estimates that includes adults with historically 
+high exposures results in similar or more restrictive RSC values; especially for PFOS. However, the RME 
+scenarios for the proposed MCLs indicate that the predicted serum level for the 95<sup>th</sup> percentile of adult 
+water consumers is approximately equal to or below the 20% RSC and therefore sufficiently protective 
+after considering the context of the national dataset. Furthermore, the cap of 50% despite calculated 
+higher RSCs for each of these accounts for the unknown and novel sources of PFAS exposure, as well as 
+the higher serum levels of PFAS found in New Hampshire’s highly-exposed communities.
+
+Table 4. Relative Source Contribution Estimates. Various relative source contribution (RSC) values resulting from 
+use of the EPA subtraction method (EPA 2002) in combination with available serum data for the geometric 
+mean (GM) and 95<sup>th</sup> percentile from the NHANES 2013-2014 dataset, as reported in Daly et al. (2018).
+**Resulting RSC** 
+[Image: Image106]
+
+| Reference Population | Reference Serum level (ng/mL) | Target Serum Level (ng/mL) | Resulting RSC Allotment for Drinking Water (%) |
+| --- | --- | --- | --- |
+| PFOA |  |  |  |
+| 3-5 year olds (GM) | 2.00 | 43.5 | 95.4 |
+| 6-11 year olds (GM) | 1.89 | 43.5 | 95.7 |
+| 12-19 year olds (GM) | 1.66 | 43.5 | 96.2 |
+| 3-5 year olds (95th percentile) | 5.58 | 43.5 | 87.2 |
+| 6-11 year olds (95th percentile) | 3.84 | 43.5 | 91.2 |
+| 12-19 year olds (95th percentile) | 3.47 | 43.5 | 92.0 |
+| PFOS |  |  |  |
+| 3-5 year olds (GM) | 3.38 | 24.0 | 85.9 |
+| 6-11 year olds (GM) | 4.15 | 24.0 | 82.7 |
+| 12-19 year olds (GM) | 3.54 | 24.0 | 85.3 |
+| 3-5 year olds (95th percentile) | 8.82 | 24.0 | 63.3 |
+| 6-11 year olds (95th percentile) | 12.40 | 24.0 | 48.3 |
+| 12-19 year olds (95th percentile) | 9.30 | 24.0 | 61.3 |
+| PFNA |  |  |  |
+| 3-5 year olds (GM) | 0.76 | 49.0 | 98.4 |
+| 6-11 year olds (GM) | 0.81 | 49.0 | 98.3 |
+| 12-19 year olds (GM) | 0.60 | 49.0 | 98.8 |
+| 3-5 year olds (95th percentile) | 3.49 | 49.0 | 92.9 |
+| 6-11 year olds (95th percentile) | 3.19 | 49.0 | 93.5 |
+| 12-19 year olds (95th percentile) | 2.00 | 49.0 | 95.9 |
+| PFHxS |  |  |  |
+| 3-5 year olds (GM) | 0.72 | 46.3 | 98.4 |
+| 6-11 year olds (GM) | 0.91 | 46.3 | 98.0 |
+| 12-19 year olds (GM) | 1.27 | 46.3 | 97.3 |
+| 3-5 year olds (95th percentile) | 1.62 | 46.3 | 96.5 |
+| 6-11 year olds (95th percentile) | 4.14 | 46.3 | 91.1 |
+| 12-19 year olds (95th percentile) | 6.30 | 46.3 | 86.4 |
+
+---
+
+1. Identify populations of concern.
+2. Identify relevant exposure sources & pathways.
+3. Are adequate data available to describe central tendencies & high-ends for relevant exposure sources/pathways?
+4. No to #3. Are there sufficient data, physical/chemical property information, fate and transport information, and/or generalized information available to characterize the likelihood of exposure to relevant sources?
+5a. No to #4. Use 20% RSC with respect to RfD or POD/UF.
+or
+5b. No to #4. Gather more information and re-review.
+6. Yes to #4. Are there significant known or potential uses/sources other than the source of concern?
+7. No to #6. Use 50% RSC with respect to RfD or POD/UF.
+8a. Yes to #6. Is there some information available on each source to make a characterization of exposure?
+8b. No to #8a. Use 20% RSC with respect to RfD or POD/UF.
+8c. Yes to #8a. Perform apportionment as described in Box 12 or 13, with a 50% ceiling/20% floor.
+12. No to #11. Use subtraction of appropriate intake levels from sources other than source of concern, including a 80% ceiling and 20% floor.
+13. Yes to #11. Apportion the RfD (or POD/UF) including a 80% ceiling and 20% floor using the percentage approach.
+
+**Figure 1.** Adaptation of EPA decision tree (EPA, 2000) for determining the RSC.  Black boxes, text and arrows 
+outline the decision process used by NHDES to arrive at the subtraction method for PFAS with a 50% ceiling.
+The target serum level is a population assessment value, *not clinical,* from the derivation of the RfDs, detailed in 
+Section III.
+
+---
+
+### Section V. Discussion of the MCLs proposed by NHDES
+
+Based on the previously described RfDs, exposure considerations and application of the 
+transgenerational model (Figure 2), the proposed maximum contaminant levels (MCLs) are:
+
+• **12 ng/L for Perfluorooctanoic acid, or perfluorooctanoate (PFOA)**
+
+• **15 ng/L for Perfluorooctane sulfonic acid, or perfluorooctane sulfonate (PFOS)**
+
+• **11 ng/L for Perfluorononanoic acid, or perfluorononanoate (PFNA)**
+
+• **18 ng/L for Perfluorohexane sulfonic acid, or perfluorohexane sulfonate (PFHxS)**
+
+These health-based values are intended as health-protective limits against the chronic health effects for 
+a through-life exposure. The primary associated health outcomes are hepatotoxicity and changes in lipid 
+metabolism (PFOA and PFNA), suppressed immune response to vaccines (PFOS) and impaired female 
+fertility (PFHxS). Secondary associated health effects that are expected to be less sensitive are changes 
+in thyroid and sex hormone levels, early-life growth delays, changes in cholesterol levels and biomarkers
+of liver function, neurobehavioral effects, and a possible risk for certain cancers (i.e., testicular and 
+kidney).
+
+#### Modeled Exposure Results
+
+Figure 2 shows the model result for predicted serum concentrations at the proposed MCL for each PFAS. 
+The exposure starts at birth with the assumption that the mother is at a steady-state serum level from 
+consumption of water at the modeled drinking water concentration. The solid blue line represents the 
+highest exposure in the RME model, showing the predicted serum level for a breastfed infant who 
+consumes breastmilk and water at the 95<sup>th</sup> percentile ingestion rates throughout life and is born to and 
+breastfeeds from a mother with a similar water consumption rate. The solid green line represents the 
+predicted serum level for a formula-fed infant who consumes formula (reconstituted with water at the 
+MCL) and water at the 95<sup>th</sup> percentile ingestion rates throughout life and is born to a mother with a 
+similar water consumption rate. The dashed lines represent the predicted serum concentrations for 
+individuals at the central tendency or average breastmilk, formula and water ingestion rates.
+[Image: Image106]
+
+There is a clear spike in predicted serum levels of breastfed infants due to the aforementioned transfer 
+efficiencies of PFAS into breastmilk. For infants, this is concerning due to the potential for hand-tomouth behaviors in later infancy that have been shown to contribute to PFAS exposure in children of 
+this age (Trudel et al., 2008). Because of these potential exposures and the suspected health impacts on 
+early development, NHDES selected an MCL value that does not allow the predicted infant serum level 
+to exceed the 50% RSC of the RfD or target serum level. It is true that the central tendency consumers
+fall well below this threshold. However, it has been shown that when considering variants on the RME 
+scenarios the use of the 95<sup>th</sup> percentile ingestion rate is adequately protective for other factors (e.g., 
+higher breastmilk transfer efficiencies or longer half-life estimates) (Goeden et al., 2019).
+
+The long half-lives of these compounds result in significantly elevated serum levels peaking at the 
+cessation of breastfeeding and continuing through the remainder of childhood. While the predicted 
+steady-state concentrations for adults or formula-fed infants would allow less restrictive MCLs, 
+breastfed children could potentially exceed the RfD due to other sources such as dust (Winkens et al., 
+2018) or foods and food packaging (D’eon et al., 2009; reviewed by EFSA, 2018). This point further 
+emphasizes the appropriateness of the 50% cap on the RSC as selected by NHDES.
+
+---
+
+| Age (Years) | Upper IR, Breastfed (ng/mL or ppb) | Average IR, Breastfed (ng/mL or ppb) | Upper IR, Formula Fed (ng/mL or ppb) | Average IR, Formula Fed (ng/mL or ppb) |
+| --- | --- | --- | --- | --- |
+| 1 | 20.5 | 5.5 | 4.5 | 2.2 |
+| 10 | 4.5 | 1.5 | 3.5 | 1.5 |
+| 20 | 2.8 | 1 | 3.2 | 1.2 |
+| 30 | 3.8 | 1.5 | 4.8 | 1.8 |
+| 40 | 3.8 | 1.5 | 5 | 2 |
+| 50 | 3.8 | 1.5 | 5 | 2 |
+
+| Age (Years) | Upper IR, Breastfed (ng/mL or ppb) | Average IR, Breastfed (ng/mL or ppb) | Upper IR, Formula Fed (ng/mL or ppb) | Average IR, Formula Fed (ng/mL or ppb) |
+| --- | --- | --- | --- | --- |
+| 1 | 12.5 | 3.5 | 4.2 | 2 |
+| 10 | 5.8 | 2 | 4.8 | 1.8 |
+| 20 | 3.8 | 1.3 | 3.8 | 1.3 |
+| 30 | 4.8 | 1.8 | 4.8 | 1.8 |
+| 40 | 5 | 2 | 5 | 2 |
+| 50 | 5 | 2 | 5 | 2 |
+
+| Age (Years) | Upper IR, Breastfed (ng/mL or ppb) | Average IR, Breastfed (ng/mL or ppb) | Upper IR, Formula Fed (ng/mL or ppb) | Average IR, Formula Fed (ng/mL or ppb) |
+| --- | --- | --- | --- | --- |
+| 1 | 23.5 | 7 | 9.2 | 3.8 |
+| 10 | 12.5 | 4.2 | 8.8 | 3.2 |
+| 20 | 8 | 2.5 | 7.5 | 2.5 |
+| 30 | 8.8 | 3 | 8.8 | 3 |
+| 40 | 9 | 3.2 | 9 | 3.2 |
+| 50 | 9.2 | 3.3 | 9.2 | 3.3 |
+
+| Age (Years) | Upper IR, Breastfed (ng/mL or ppb) | Average IR, Breastfed (ng/mL or ppb) | Upper IR, Formula Fed (ng/mL or ppb) | Average IR, Formula Fed (ng/mL or ppb) |
+| --- | --- | --- | --- | --- |
+| 1 | 24.5 | 7.5 | 5.5 | 2.5 |
+| 10 | 9.5 | 3.5 | 5.5 | 2 |
+| 20 | 5 | 1.5 | 4.8 | 1.3 |
+| 30 | 5.5 | 2 | 5.5 | 1.8 |
+| 40 | 5.7 | 2 | 5.7 | 2 |
+| 50 | 5.8 | 2 | 5.8 | 2 |
+
+**Figure 2.** Predicted serum PFAS concentrations in response to upper (95th percentile) and average (mean) water 
+ingestion rates (IR) at the proposed MCLs. Blue lines indicate results for breastfed infants with 12 months exclusive 
+breastfeeding, and green lines indicate results for formula-fed infants. Solid lines represent upper IRs and dashed 
+lines indicate average (mean) IRs. Estimates made using the model described in Goeden et al. (2019).
+
+---
+
+Using the proposed MCL values for each compound, serum concentrations attributable to drinking 
+water can be estimated for an individual across various life stages (adapted from Figure 2). For 
+newborns (at birth), the estimated drinking water contribution to serum concentrations for the 95<sup>th</sup>
+percentile consumer would be: 2.9 ng/mL for PFOA, 2.2 ng/mL for PFOS, 4.0 ng/mL for PFNA and 6.9 
+ng/mL for PFHxS. The model does not predict fetal tissue concentrations, so the predicted at-birth 
+values represent the aforementioned placental transfer efficiencies. The predicted drinking water 
+contribution to serum concentrations for the 95<sup>th</sup> percentile breastmilk consumer (at the end of 1 year 
+of exclusive breastfeeding) would be: 20.6 ng/mL for PFOA, 12.4 ng/mL for PFOS, 25.1 ng/mL for PFNA 
+and 23.5 ng/mL for PFHxS. Adults at steady state following constant water consumption at the 95<sup>th</sup>
+percentile are predicted to have drinking water contributions of PFAS equal to or less than: 3.8 ng/mL 
+for PFOA, 5.1 ng/mL for PFOS, 5.7 ng/mL for PFNA and 9.2 ng/mL for PFHxS.
+
+As a point of caution in interpretation, the previously described results assume no fluctuation from the 
+95<sup>th</sup> percentile drinking water consumption rate across an individual lifespan. That is to say, the 95<sup>th</sup>
+percentile consumer remains the 95<sup>th</sup> percentile consumer every day. These estimates include several 
+conservative and protective assumptions, such as the use of the 95<sup>th</sup> percentile of drinking water 
+ingestion rates (adjusted for body weight) throughout life, not the average water consumer or 
+fluctuations between these tendencies. Additionally, the modeled outputs may not reflect individual 
+variations in biology throughout life (Fàbrega et al., 2014; Worley et al., 2017) and are intended for 
+population-level exposure assessment. However, as described by Goeden et al. (2019), this fit-forpurpose tool provides important insight into exposures during critical life stages of development. 
+Further development and refinement of multi-compartment models will certainly prove useful for future 
+risk assessments of these and other PFAS.
+[Image: Image106]
+
+The proposed MCLs are predicted to result in a modest increase of serum concentrations due to drinking 
+water levels; but, as argued by Post et al. (2017), such increases relative to background are preferred 
+over the significantly larger serum levels that are predicted for the previously proposed MCLs (NHDES, 
+2019) or the EPA lifetime health advisories (EPA, 2016ab). Based on current evidence, this level of 
+exposure is expected to be sufficiently health protective relative to current background levels reported 
+in populations of concern, such as children and adolescents (Table 4).
+
+#### Limitations and uncertainties
+
+As with any risk assessment, this process was subject to uncertainty and limitations. Limitations included 
+recommendation of individual versus group-based MCLs for PFAS, and consideration of background 
+exposure using the RME scenarios described in Section IV. A major uncertainty was quantifying the exact 
+risks of disease incidence for each compound, which is also a significant challenge for quantifying, or 
+monetizing, the benefits of the proposed MCLs.
+
+A limitation to the present assessment is that the transgenerational model’s RME scenarios focus on the 
+predicted impact of drinking water exposure, not other background sources of exposure. In general, 
+there is a downward trend for the background levels of most measured PFAS based on the NHANES 
+data. NHDES considered this with its use of the NHANES data to derive and apply a 50% RSC for each
+compound. Although PFOA and PFOS were recently phased out by most U.S. manufacturers, there 
+remains potential for exposure to these and other PFAS from imported products or the degradation of precursors into PFOA or PFOS in the environment. Nevertheless, the appropriate level of conservatism 
+applied in the assumptions of drinking water ingestion rates and RSC provide reasonable protection.
+
+At this time, NHDES is not recommending a class-based approach to regulation of these compounds. 
+This is a limitation of the present risk assessment given the considerable number of PFAS detected in the 
+environment and used in commerce. However, individual assessment of each compound found each 
+one to have relatively unique toxico-dynamic and –kinetic properties based on consideration of existing 
+animal toxicity and human data. Despite similarity in the range of the proposed MCLs for these 4 PFAS, it 
+is likely that future individual assessments, using current EPA methodology, of shorter carbon chain 
+PFAS will result in higher drinking water values for shorter carbon chain compounds as a result of 
+shorter half-lives. Given these considerations, it was determined that a class based approach was not 
+advisable at this time. Should other state agencies or the U.S. EPA identify science-based methods for 
+group regulation that account for some of the unique properties of these compounds, NHDES will 
+consider this approach.
+
+Currently, there is uncertainty to quantifying the health risks associated with exposure to PFOA, PFOS, 
+PFNA, PFHxS and other PFAS. A growing number of epidemiological and animal toxicity studies are 
+adding to the body of evidence for the biological activity and health outcomes associated with these 
+contaminants. However, the exact nature of PFAS-related health hazards remains elusive due to a 
+variety of factors including, but not limited to: a limited understanding of the toxicological mechanism of 
+action, their occurrence world-wide and lack of control (i.e., PFAS-free) populations to compare health 
+outcomes against, lack of long-term studies despite decades of use, and co-exposure with other PFAS
+and other environmental contaminants. Additional research is critically needed to address this issue and 
+better characterize and quantify the risks associated with PFAS.
+[Image: Image106]
+
+#### Conclusions
+
+The lower MCLs proposed in this report are primarily due to consideration of the elevated serum levels 
+predicted for infants and young children under a reasonable maximum exposure scenario. At the initially 
+proposed values, these spikes in infant blood levels of PFAS would result in unacceptable reductions in 
+the margin of exposure from infancy through childhood due to the unique properties of PFAS. Their 
+capacity to transfer through breastmilk combined with relatively long half-lives of each compound 
+merits the use of novel methods (i.e., Goeden et al., 2019) to provide a more accurate assessment of 
+exposure. This is not a recommendation against breastfeeding for women who are currently 
+breastfeeding or plan to breastfeed as the benefits of breastfeeding are very well-defined relative to the 
+potential risk associated with PFAS. NHDES recommends these MCLs to afford adequate long-term 
+health protection of the population based on its assessment of these four PFAS.
+
+The human health impacts of PFAS is a continuously evolving area of scientific research, and is expected 
+to continue changing in the future. The assessments made by NHDES are based on currently available 
+information but recognizes that science is a process, not an outcome. Future assessments of these and 
+other PFAS compounds may result in higher or lower health protective values based on the best 
+available science at the time. NHDES will continue to review emerging information as a part of its 
+ongoing efforts to understand the impacts of PFAS contamination across New Hampshire.
+
+---
+
+### References
+
+Agency for Toxic Substances and Disease Registry (ATSDR). 2018a. Toxic Substances Portal: Minimal Risk 
+Levels (MRLs) – For Professionals. Updated June 21, 2018. https://www.atsdr.cdc.gov/mrls/index.asp
+
+Agency for Toxic Substances and Disease Registry (ATSDR). 2018b. Toxicological Profile for 
+Perfluoroalkyls – Draft for Public Comment, June 2018. Accessed online at: 
+https://www.atsdr.cdc.gov/toxprofiles/tp200.pdf.
+
+Albrecht PP, Torsell NE, Krishnan P, et al. 2013. A species difference in the peroxisome proliferatoractivated receptor α-dependent response to the developmental effects of perfluorooctanoic acid. 
+Toxicol Sci 131(2):568-582.
+
+Ali JM, Roberts SM, Gordon DS, Stuchal LD. (in review) Derivation of a chronic reference dose for 
+perfluorohexane sulfonate (PFHxS) for reproductive toxicity in mice.
+
+Ballesteros V, Costa O, Iñiguez C, Fletcher T, Ballester F, Lopez-Espinosa MJ. 2017. Exposure to 
+perfluoroalkyl substances and thyroid function in pregnant women and children: A systematic review of 
+epidemiologic studies. Environ Int, 99:15-28. doi: 10.1016/j.envint.2016.10.015.
+[Image: Image106]
+
+Bartell SM, Calafat AM, Lyu C, et al. 2010. Rate of decline in serum PFOA concentrations after granular 
+activated carbon filtration at two public water systems in Ohio and West Virginia. Environ Health 
+Perspect 118(2):222-228
+
+Barry V, Winquist A, Steenland K. 2013. Perfluorooctanoic acid (PFOA) exposures and incident cancers 
+among adults living near a chemical plant. Environ Health Perspect 121(11-12):1313-1318.
+
+Bassler J, Ducatman A, Elliott M, Wen S, Wahlang B, Barnett J, Cave MC. 2019. Environmental 
+perfluoroalkyl acid exposures are associated with liver disease characterized by apoptosis and altered 
+serum adipocytokines. Environ Pollut. 247:1055-1063. doi: 10.1016/j.envpol.2019.01.064
+
+Beesoon S, Webster GM, Shoeib M, Harner T, Benskin JP, Martin JW. 2011. Isomer profiles of 
+perfluorochemicals in matched maternal, cord, and house dust samples: manufacturing sources and 
+transplacental transfer. Environ Health Perspect. 119(11):1659-64. doi: 10.1289/ehp.1003265.
+
+Bijland S, Rensen PC, Pieterman EJ, et al. 2011. Perfluoroalkyl sulfonates cause alkyl chain lengthdependent hepatic steatosis and hypolipidemia mainly by impairing lipoprotein production in APOE*3-
+Leiden CETP mice. Toxicol Sci 123(1):290-303. 10.1093/toxsci/kfr142.
+
+Boronow KE, et al. 2019. Serum concentrations of PFASs and exposure-related behaviors in African 
+American and non-Hispanic white women. Journal of Exposure Science & Environmental Epidemiology, 
+pp. 1-12.
+
+Butenhoff J, Costa G, Elcombe C, et al. 2002. Toxicity of ammonium perfluorooctanoate in male 
+Cynomolgus monkeys after oral dosing for 6 months. Toxicol Sci 69(1):244-257.
+
+Butenhoff JL, Chang S, Ehresman DJ, et al. 2009a. Evaluation of potential reproductive and 
+developmental toxicity of potassium perfluorohexanesulfonate in Sprague Dawley rats. Reprod Toxicol 
+27:331-341.
+
+---
+
+Butenhoff JL, Ehresman DJ, Chang SC, et al. 2009b. Gestational and lactational exposure to potassium 
+perfluorooctanesulfonate (K+PFOS) in rats: Developmental neurotoxicity. Reprod Toxicol 27(3-4):319-
+330.
+
+Butenhoff JL, et al. 2008. Evaluation of potential reproductive and developmental toxicity of potassium 
+perfluorohexanesulfonate in Sprague Dawley rats. Reproductive Toxicology, 27, 331-341.
+
+Butenhoff, J.L., G.L. Kennedy, Jr., S.-C. Chang, and G.W. Olsen. 2012. Chronic dietary toxicity and 
+carcinogenicity study with ammonium perfluorooctanoate in Sprague-Dawley rats. Toxicology 298:1–13.
+
+Butenhoff, J.L., G.L. Kennedy, S.R. Frame, J.C. O’Conner, and R.G. York. 2004. The reproductive 
+toxicology of ammonium perfluorooctanoate (APFO) in the rat. Toxicology 196:95–116.
+
+California Office of Environmental Health Hazard Assessment. 2019. PFOA and PFOS Notification Levels. 
+https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/PFOA_PFOS.html
+
+Cariou R, Veyrand B, Yamada A, et al. 2015. Perfluoroalkyl acid (PFAA) levels and profiles in breast milk, 
+maternal and cord serum of French women and their newborns. Environ Int 84:71-81.
+
+Chang ET, et al. 2016. A critical review of perfluorooctanoate and perfluorooctanesulfonate exposure 
+and immunological health conditions in humans. Crit Rev Toxicol., 46(4): 279-331.
+
+Chang S, et al. 2018. Reproductive and developmental toxicity of potassium perfluorohexanesulfonate in 
+CD-1 mice. Reproductive Toxicology 78: 150-168.
+
+Chen F, Yin S, Kelly BC, Liu W. 2017. Isomer-Specific Transplacental Transfer of Perfluoroalkyl Acids: 
+Results from a Survey of Paired Maternal, Cord Sera, and Placentas. Environ Sci Technol. 51(10):5756-
+5763. doi: 10.1021/acs.est.7b00268.
+[Image: Image106]
+
+Cheng J, Fujimura M, Zhao W, et al. 2013. Neurobehavioral effects, c-Fos/Jun expression and tissue 
+distribution in rat offspring prenatally co-exposed to MeHg and PFOA: PFOA impairs Hg retention. 
+Chemosphere 91(6):758-764.
+
+Cui L, Zhou QF, Liao CY, et al. 2009. Studies on the toxicological effects of PFOA and PFOS on rats using 
+histological observation and chemical analysis. Arch Environ Contam Toxicol 56(2):338-349.
+
+Cui Y, et al. 2015. Investigation of the Effects of Perfluorooctanoic Acid (PFOA) and Perfluorooctane 
+Sulfonate (PFOS) on Apoptosis and Cell Cycle in a Zebrafish (Danio rerio) Liver Cell Line. Int J Environ Res 
+Public Health. 12(12):15673-82.
+
+Daly ER, Chan BP, Talbot EA, Nassif J, Bean C, Cavallo SJ, Metcalf E, Simone K, Woolf AD. 2018. Per- and 
+polyfluoroalkyl substance (PFAS) exposure assessment in a community exposed to contaminated 
+drinking water, New Hampshire, 2015. Int J Hyg Environ Health. 221(3):569-577. doi: 
+10.1016/j.ijheh.2018.02.007.
+
+Das KP, Grey BE, Rosen MB, et al. 2015. Developmental toxicity of perfluorononanoic acid in mice. 
+Reprod Toxicol 51:133-144. 10.1016/j.reprotox.2014.12.012.
+
+Das KP, Wood CR, Lin MT, et al. 2017. Perfluoroalkyl acids-induced liver steatosis: Effects on genes 
+controlling lipid homeostasis. Toxicology 378:37-52. 10.1016/j.tox.2016.12.007.
+
+---
+
+D'eon JC, Crozier PW, Furdui VI, Reiner EJ, Libelo EL, Mabury SA. 2009. Observation of a commercial 
+fluorinated material, the polyfluoroalkyl phosphoric acid diesters, in human sera, wastewater treatment 
+plant sludge, and paper fibers. Environ. Sci. Technol. 43: 4589-4594.
+
+DeWitt JC, Blossom SJ, Schaider LA. 2019. Exposure to per-fluoroalkyl and polyfluoroalkyl substances 
+leads to immunotoxicity: epidemiological and toxicological evidence. J Expo Sci Environ Epidemiol. 
+29(2):148-156. doi: 10.1038/s41370-018-0097-y
+
+DeWitt JC, Peden-Adams MM, Keller JM, Germolec DR. 2012. Immunotoxicity of Perfluorinated 
+Compounds: Recent Developments. Toxicologic Pathology, 40: 300-311.
+
+Dong GH, Liu MM, Wang D, et al. 2011. Sub-chronic effect of perfluorooctanesulfonate (PFOS) on the 
+balance of type 1 and type 2 cytokine in adult C57BL6 mice. Arch Toxicol 85(10):1235-1244.
+
+Dong GH, Zhang YH, Zheng L, et al. 2009. Chronic effects of perfluorooctanesulfonate exposure on 
+immunotoxicity in adult male C57BL/6 mice. Arch Toxicol 83(9):805-815.
+
+Elcombe CR, Elcombe BM, Foster JR, et al. 2010. Hepatocellular hypertrophy and cell proliferation in 
+Sprague-Dawley rats following dietary exposure to ammonium perfluorooctanoate occurs through 
+increased activation of the xenosensor nuclear receptors PPARα and CAR/PXR. Arch Toxicol 84(10):787-
+798.
+[Image: Image106]
+
+Ernst A, Brix N, Lauridsen LLB, Olsen J, Parner ET, Liew Z, Olsen LH, Ramlau-Hansen CH. 2019. Exposure 
+to Perfluoroalkyl Substances during Fetal Life and Pubertal Development in Boys and Girls from the 
+Danish National Birth Cohort. Environ Health Perspect. 127(1):17004. doi: 10.1289/EHP3567.
+
+European Food Safety Authority (EFSA). 2018. Risk to human health related to the presence of 
+perfluorooctane sulfonic acid and perfluorooctanoic acid in food. EFSA Journal, 16(12):5194
+
+Fàbrega F, Kumar V, Schuhmacher M, Domingo JL, Nadal M. 2014. PBPK modeling for PFOS and PFOA: 
+validation with human experimental data. Toxicol Lett. 230(2):244-51. doi: 10.1016/j.toxlet.2014.01.007.
+
+Fair PA, Wolf B, White ND, Arnott SA, Kannan K, Karthikraj R, Vena JE. 2019. Perfluoroalkyl substances 
+(PFASs) in edible fish species from Charleston Harbor and tributaries, South Carolina, United States: 
+Exposure and risk assessment. Environ Res. 171:266-277. doi: 10.1016/j.envres.2019.01.021
+
+Fang X, Fenga Y, Wang J, et al. 2010. Perfluorononanoic acid-induced apoptosis in rat spleen involves 
+oxidative stress and the activation of caspase-independent death pathway. Toxicology 267: 54-59
+
+Fei C, McLaughlin JK, Tarone RE, et al. 2007. Perfluorinated chemicals and fetal growth: A study within 
+the Danish National Birth Cohort. Environ Health Perspect 115:1677-1682.
+
+Filipovic M., Woldegiorgis A., Norström K., Bibi M., Lindberg M., Österås A.H. Historical usage of aqueous 
+film forming foam: A case study of the widespread distribution of perfluoroalkyl acids from a military 
+airport to groundwater, lakes, soils and fish. Chemosphere. 2015;129:39–45. doi: 
+10.1016/j.chemosphere.2014.09.005
+
+Fisher M, Arbuckle TE, Liang CL, et al. 2016. Concentrations of persistent organic pollutants in maternal 
+and cord blood from the maternal-infant research on environmental chemicals (MIREC) cohort study. 
+Environ Health 15(1):59.
+
+---
+
+Fromme H, Mosch C, Morovitz M, et al. 2010. Pre- and postnatal exposure to perfluorinated compounds 
+(PFCs). Environ Sci Technol 44(18):7123-7129.
+
+Fu J, Gao Y, Wang T, Liang Y, Zhang A, Wang Y, Jiang G. 2015. Elevated levels of perfluoroalkyl acids in 
+family members of occupationally exposed workers: the importance of dust transfer. Sci Rep. 20;5:9313. 
+doi: 10.1038/srep09313.
+
+Ghisi R, Vamerali T, Manzetti S. 2019. Accumulation of perfluorinated alkyl substances (PFAS) in 
+agricultural plants: A review. Environ Res. 169:326-341. doi: 10.1016/j.envres.2018.10.023.
+
+Gleason JA, Post GB, Fagliano JA. 2015. Associations of perfluorinated chemical serum concentrations 
+and biomarkers of liver function and uric acid in the US population (NHANES), 2007-2010. Environ Res 
+136:8-14. 10.1016/j.envres.2014.10.004.
+
+Goeden HM, Greene CW, Jacobus JA. 2019. A transgenerational toxicokinetic model and its use in 
+derivation of Minnesota PFOA water guidance. J Expo Sci Environ Epidemiol. 29(2):183-195. doi: 
+10.1038/s41370-018-0110-5.
+
+Grandjean P, et al. 2012. Serum Vaccine Antibody Concentrations in Children Exposed to Perfluorinated 
+Compounds. JAMA, 307(4): 391-397.
+
+Grandjean P, Landrigan PJ. (2014). Neurobehavioural effects of developmental toxicity. Lancet Neurol . 
+13, 330–338.
+
+Gyllenhammar I, Benskin JP, Sandblom O, Berger U, Ahrens L, Lignell S, Wiberg K, Glynn A. 2018. 
+Perfluoroalkyl Acids (PFAAs) in Serum from 2-4-Month-Old Infants: Influence of Maternal Serum 
+Concentration, Gestational Age, Breast-Feeding, and Contaminated Drinking Water. Environmental 
+Science and Technology. 2018 Jun 19;52(12):7101-7110. doi: 10.1021/acs.est.8b00770
+[Image: Image106]
+
+Hagenaars A, et al. 2013. Mechanistic toxicity study of perfluorooctanoic acid in zebrafish suggests 
+mitochondrial dysfunction to play a key role in PFOA toxicity. Chemosphere, 91(6): 844-56.
+
+Hall AP, Elcombe CR, Foster JR, et al. 2012. Liver hypertrophy: A review of adaptive (adverse and nonadverse) changes- conclusions from the 3rd International ESTP Expert Workshop. Toxicol Pathol 40:971-
+994.
+
+Haug LS, et al. 2011. Investigation on Per- and Polyfluorinated Compounds in Paired Samples of House 
+Dust and Indoor Air from Norwegian Homes. Environmental Science & Technology, 45, 7991-7998.
+
+Haug LS. 2011. Characterisation of human exposure pathways to perfluorinated compounds –
+comparing exposure estimates with biomarkers of exposure. Dissertation for the degree of Doctor of 
+Philosophiae, University of Oslo.
+
+Haug, L.S., Huber, S., Becher, G., Thomsen, C. 2011. Characterisation of human exposure pathways to 
+perfluorinated compounds - comparing exposure estimates with biomarkers of exposure. Environ. Int. 
+37: 687-693.
+
+Health Canada. 2016a. Perfluorooctanoic acid (PFOA) in drinking water. Available online at: 
+https://www.canada.ca/content/dam/hc-sc/healthy-canadians/migration/health-system-systeme-
+<u>sante/consultations/acide-perfluorooctanoic-acid/alt/perfluorooctanoic-eng.pdf</u>
+
+---
+
+Health Canada. 2016b. Perflurooctane sulfonate (PFOS) in drinking water. Available online at:
+https://www.canada.ca/content/dam/hc-sc/healthy-canadians/migration/health-system-systeme-
+<u>sante/consultations/perfluorooctane-sulfonate/alt/perfluorooctane-sulfonate-eng.pdf</u>
+
+Hu Q, Strynar MJ, DeWitt JC. 2010. Are developmentally exposed C57BL/6 mice insensitive to 
+suppression of TDAR by PFOA? J Immunotoxicol 7(4):344-349.
+
+International Agency for Research on Cancer (IARC) 2016: CAS No. 335-67-1, Agent = Perfluorooctanoic 
+acid (PFOA) Group 2B, Volume 110, 2016 online, Available at: 
+http://monographs.iarc.fr/ENG/Classification/latest_classif.php
+
+Jain RB, Ducatman A. 2019. Selective Associations of Recent Low Concentrations of Perfluoroalkyl 
+Substances with Liver Function Biomarkers: NHANES 2011 to 2014 Data on US Adults Aged ≥20 Years. J 
+Occup Environ Med. 61(4):293-302.
+
+Kang H, et al. 2016. Elevated levels of short carbon-chain PFCAs in breast milk among Korean women: 
+Current status and potential challenges. Environmental Research, 148, 351-359.
+
+Kärrman A, Ericson I, van Bavel B, et al. 2007. Exposure of perfluorinated chemicals through lactation: 
+Levels of matched human milk and serum and a temporal trend, 1996-2004, in Sweden. Environ Health 
+Perspect 115:226-230.
+
+Kato K, Wong LY, Chen A, et al. 2014. Changes in serum concentrations of maternal poly- and 
+perfluoroalkyl substances over the course of pregnancy and predictors of exposure in a multiethnic 
+cohort of Cincinnati, Ohio pregnant women during 2003-2006. Environ Sci Technol 48(16):9600-9608.
+[Image: Image106]
+
+Kim D-H, et al. 2019. Assessment of individual-based perfluoroalkyl substances exposure by multiple 
+human exposure sources. Journal of Hazardous Materials, 365, 26-33.
+
+Kim SK, Lee KT, Kang CS, et al. 2011. Distribution of perfluorochemicals between sera and milk from the 
+same mothers and implications for prenatal and postnatal exposures. Environ Pollut 159(1):169-174.
+
+Kirk M, Smurthwaite K, Bräunig J et al. (2018). The PFAS Health Study: Systematic Literature Review. 
+Canberra: The Australian National University.
+
+Klaunig JE, Hocevar BA, Kamendulis LM. 2012. Mode of action analysis of perfluorooctanoic acid (PFOA) 
+tumorigenicity and human relevance. Reprod Toxicol 33(4):410-418.
+
+Koskela A, Finnila MA, Korkalainen M, et al. 2016. Effects of developmental exposure to 
+perfluorooctanoic acid (PFOA) on long bone morphology and bone cell differentiation. Toxicol Appl 
+Pharmacol 301:14-21. 10.1016/j.taap.2016.04.002.
+
+Koustas E, Lam J, Sutton P, et al. 2014. The Navigation Guide - evidence-based medicine meets 
+environmental health: Systematic review of nonhuman evidence for PFOA effects on fetal growth. 
+Environ Health Perspect 122(10):1015-1027.
+
+Kowalczyk J., Ehlers S., Oberhausen A., Tischer M., Furst P., Schafft H., Lahrssen-Wiederholt M. 
+Absorption, distribution, and milk secretion of the perfluoroalkyl acids PFBS, PFHxS, PFOS, and PFOA by 
+dairy cows fed naturally contaminated feed. J. Agric. Food Chem. 2013;61:2903–2912. doi: 
+10.1021/jf304680j
+
+---
+
+Lau C, Anitole K, Hodes C, Lai D, Pfahles-Hutchens A, Seed J. 2007. Perfluoroalkyl acids: a review of 
+monitoring and toxicological findings. Toxicol. Sci. 99: 366-394.
+
+Lau C, Thibodeaux JR, Hanson RG, et al. 2003. Exposure to perfluorooctane sulfonate during pregnancy 
+in rat and mouse. II: Postnatal evaluation. Toxicol Sci 74(2):382-392.
+
+Lau C, Thibodeaux JR, Hanson RG, et al. 2006. Effects of perfluorooctanoic acid exposure during 
+pregnancy in the mouse. Toxicol Sci 90(2):510-518.
+
+Lee SS-T, Pineau T, Drago J, Lee EJ, Owens JW, Kroetz DL, Fernandez-Salguero PM, Westphal H, and 
+Gonzalez FJ. 1995. Targeted disruption of the a isoform of the peroxisome proliferator-activated 
+receptor gene in mice results in abolishment of the pleiotropic effects of peroxisome proliferators. Mol 
+Cell Biol 15:3012–3022
+
+Lee YJ, Kim M-K, Bae J, et al. 2013. Concentrations of perfluoroalkyl compounds in maternal and 
+umbilical cord sera and birth outcomes in Korea. Chemosphere 90(5):1603-1609.
+
+Li K, Gao P, Xiang P, Zhang X, Cui X, Ma LQ. 2017a. Molecular mechanisms of PFOA-induced toxicity in 
+animals and humans: Implications for health risks. 99:43-54.
+
+Li K, Sun J., Yang J, Roberts SM, Zhang X, Cui X, Wei S, Ma LQ. 2017b. Molecular Mechanisms of 
+Perfluorooctanoate-Induced Hepatocyte Apoptosis in Mice Using Proteomic Techniques. Environmental 
+Science & Technology, 51, 11380-11389.
+[Image: Image106]
+
+Li Y, Fletcher T, Mucs D, et al. 2018. Half-lives of PFOS, PFHxS and PFOA after end of exposure to 
+contaminated drinking water. Occup Environ Med 75(1):46-51. 10.1136/oemed-2017-104651.
+
+Liew Z, et al. 2018. Developmental Exposures to Perfluoroalkyl Substances (PFASs): An Update of 
+Associated Health Outcomes. Current Environmental Health Reports 5:1-19.
+
+Liu J, Li J, Liu Y, et al. 2011. Comparison on gestation and lactation exposure of perfluorinated 
+compounds for newborns. Environ Int 37(7):1206-1212.
+
+Loveless SE, Finlay C, Everds NE, et al. 2006. Comparative responses of rats and mice exposed to 
+linear/branched, linear, or branched ammonium perfluorooctanoate (APFO). Toxicology 220:203-217.
+
+Loveless SE, Hoban D, Sykes G, et al. 2008. Evaluation of the immune system in rats and mice 
+administered linear ammonium perfluorooctanoate. Toxicol Sci 105(1):86-96.
+
+Luebker DJ, Case MT, York RG, et al. 2005a. Two-generation reproduction and cross-foster studies of 
+perfluorooctanesulfonate (PFOS) in rats. Toxicology 215(1-2):126-148.
+
+Luebker DJ, York RG, Hansen KJ, et al. 2005b. Neonatal mortality from in utero exposure to 
+perfluorooctanesulfonate (PFOS) in Sprague-Dawley rats: Dose-response, and biochemical and 
+pharmacokinetic parameters. Toxicology 215(1-2):149-169.
+
+Macon MB, Villanueva LR, Tatum-Gibbs K, et al. 2011. Prenatal perfluorooctanoic acid exposure in CD-1 
+mice: Low-dose developmental effects and internal dosimetry. Toxicol Sci 122(1):134-145.
+
+---
+
+Mamsen LS, Björvang RD, Mucs D, Vinnars MT, Papadogiannakis N, Lindh CH, Andersen CY, 
+Damdimopoulou P. 2019. Concentrations of perfluoroalkyl substances (PFASs) in human embryonic and 
+fetal organs from first, second, and third trimester pregnancies. Environ Int. 124:482-492. doi: 
+10.1016/j.envint.2019.01.010. Epub 2019 Jan 24.
+
+Manzano-Salgado CB, Casas M, Lopez-Espinosa MJ, et al. 2015. Transfer of perfluoroalkyl substances 
+from mother to fetus in a Spanish birth cohort. Environ Res 142:471-478. 10.1016/j.envres.2015.07.020
+
+Michigan Department of Health and Human Services (MIDHHS). 2019. Public health drinking water 
+screening levels for PFAS. Available online at: 
+https://www.michigan.gov/documents/pfasresponse/MDHHS_Public_Health_Drinking_Water_Screenin
+<u>g&#95;Levels&#95;for&#95;PFAS&#95;651683&#95;7.pdf</u>
+
+Michigan PFAS Science Advisory Panel Report. 2018. Scientific Evidence and Recommendations for 
+Managing PFAS Contamination in Michigan. December 7, 2018. Available online at: 
+https://www.michigan.gov/documents/pfasresponse/Science_Advisory_Board_Report_641294_7.pdf
+
+Midasch O, Drexler H, Hart N, et al. 2007. Transplacental exposure of neonates to 
+perfluorooctanesulfonate and perfluorooctanoate: A pilot study. Int Arch Occup Environ Health 80:643-
+648.
+[Image: Image106]
+
+Minnesota Department of Health. 2018 - Toxicological Summary for: Perfluorooctanoate: 
+http://www.health.state.mn.us/divs/eh/risk/guidance/gw/pfoa.pdf
+
+Minnesota Department of Health. 2019 - Toxicological Summary for: Perfluorooctane sulfonate: 
+https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfos.pdf
+
+Minnesota Department of Health. 2019 - Toxicological Summary for: Perfluorohexane sulfonate: 
+https://www.health.state.mn.us/communities/environment/risk/docs/guidance/gw/pfhxs.pdf
+
+Monroy R, Morrison K, Teo K, et al. 2008. Serum levels of perfluoroalkyl compounds in human maternal 
+and umbilical cord blood samples. Environ Res 108:56-62.
+
+Moriwaki H, et al. 2003. Concentrations of perfluorooctane sulfonate (PFOS) and perfluorooctanoic acid 
+(PFOA) in vacuum cleaner dust collected in Japanese homes. J. Environ. Monit., 5, 753-757.
+
+Nakayama SF, et al. 2019. Worldwide trends in tracing poly- and perfluoroalkyl substances (PFAS) in the 
+environment. Trends in Analytical Chemistry. Article in press, available online 2/14/19.
+
+Nascimento RA, Nunoo DBO, Bizkarguenaga E, Schultes L, Zabaleta I, Benskin JP, Spanó S, Leonel J. 2018. 
+Sulfluramid use in Brazilian agriculture: A source of per- and polyfluoroalkyl substances (PFASs) to the 
+environment. Environ Pollut. 242(Pt B):1436-1443. doi: 10.1016/j.envpol.2018.07.122.
+
+Needham LL, Grandjean P, Heinzow B, et al. 2011. Partition of environmental chemicals between 
+maternal and fetal blood and tissues. Environ Sci Technol 45(3):1121-1126.
+
+Negri E, et al. 2017. Exposure to PFOA and PFOS and fetal growth: a critical merging of toxicological and 
+epidemiological data. Critical Reviews in Toxicology 47: 482-508.
+
+---
+
+New Hampshire Department of Environmental Services (NHDES). 2019. Summary Report on the New 
+Hampshire Department of Environmental Services Development of Maximum Contaminant Levels and 
+Ambient Groundwater Quality Standards for Perfluorooctanesulfonic Acid (PFOS), Perfluorooctanoic 
+Acid (PFOA), Perfluorononanoic Acid (PFNA), And Perfluorohexanesulfonic Acid (PFHxS). Available at: 
+https://www.des.nh.gov/organization/commissioner/pip/publications/documents/r-wd-19-01.pdf
+
+Nian M, Li QQ, Bloom M, Qian ZM, Syberg KM, Vaughn MG, Wang SQ, Wei Q, Zeeshan M, Gurram N, 
+Chu C, Wang J, Tian YP, Hu LW, Liu KK, Yang BY, Liu RQ, Feng D, Zeng XW, Dong GH. 2019. Liver function 
+biomarkers disorder is associated with exposure to perfluoroalkyl acids in adults: Isomers of C8 Health 
+Project in China. Environ Res. 172:81-88. doi: 10.1016/j.envres.2019.02.013.
+
+NJ DWQI 2017: NJ Drinking Water Quality Institute (DWQI). 2016. Health-Based Maximum Contaminant 
+Level Support Document: Perfluorooctanoic Acid (PFOA). Available online at: 
+https://www.state.nj.us/dep/watersupply/pdf/pfoa-appendixa.pdf
+
+NJ DWQI 2018: NJ Drinking Water Quality Institute (DWQI). 2018. Health-Based Maximum Contaminant 
+Level Support Document: Perfluorononanoic Acid (PFNA). Available online at: 
+https://www.state.nj.us/dep/watersupply/pdf/pfna-health-effects.pdf
+
+NJ DWQI 2018: NJ Drinking Water Quality Institute (DWQI). 2018. Health-Based Maximum Contaminant 
+Level Support Document: Perfluorooctane Sulfonate (PFOS). Available online at: 
+https://www.state.nj.us/dep/watersupply/pdf/pfos-recommendation-appendix-a.pdf
+
+New York Department of Health (NYDOH), 2018 presentation and professional communications. 
+Presentation available at: https://www.health.ny.gov/environmental/water/drinking/dwqc/
+
+NTP 2016: National Toxicology Program. NTP Monograph: Immunotoxicity Associated with Exposure to 
+Perfluorooctanoic Acid or Perfluorooctane Sulfonate. September 2016.
+
+Olsen GW, Burris JM, Ehresman DJ, Froehlich JW, Seacat AM, Butenhoff JL, Zobel LR. 2007. Half-life of 
+serum elimination of perfluorooctanesulfonate, perfluorohexanesulfonate, and perfluorooctanoate in 
+retired fluorochemical production workers. Environ Health Perspect 115(9):1298–1305, PMID: 
+17805419, 10.1289/ehp.10009.
+[Image: Image106]
+
+Onishchenko N, Fischer C, Wan Ibrahim WN, et al. 2011. Prenatal exposure to PFOS or PFOA altersmotor 
+function in mice in a sex-related manner. Neurotox Res 19(3):452-461.
+
+Perkins RG, Butenhoff JL, Kennedy GL, et al. 2004. 13-Week dietary toxicity study of ammonium 
+perfluorooctanoate (APFO) in male rats. Drug Chem Toxicol 27(4):361-378.
+
+Porpora MG, Lucchini R, Abballe A, et al. 2013. Placental transfer of persistent organic pollutants: A 
+preliminary study on mother-newborn pairs. Int J Environ Res Public Health 10(2):699-711.
+
+Post GB, Gleason JA, Cooper KR. 2017. Key scientific issues in developing drinking water guidelines for 
+perfluoroalkyl acids: Contaminants of emerging concern. PLoS Biol. 15(12):e2002855. doi: 
+10.1371/journal.pbio.2002855.
+
+Quist EM, Filgo AJ, Cummings CA, et al. 2015a. Hepatic mitochondrial alteration in CD-1 mice associated 
+with prenatal exposures to low doses of perfluorooctanoic acid (PFOA). Toxicol Pathol 43(4):546-557. 
+10.1177/0192623314551841.
+
+---
+
+Quist EM, Filgo AJ, Cummings CA, et al. 2015b. Supplemental data: Hepatic mitochondrial alteration in 
+CD-1 mice associated with prenatal exposures to low doses of perfluorooctanoic acid (PFOA). (Toxicol 
+Pathol 43(4):546-557). Toxicol Pathol 43:546-557.
+
+Ramhoj L, et al. 2018. Perfluorohexane Sulfonate (PFHxS) and a Mixture of Endocrine Disrupters Reduce 
+Thyroxine Levels and Cause Antiandrogenic Effects in Rats. Toxicological Sciences, 163(2), 579-591.
+
+Rappazzo KM, et al. 2017. Exposure to Perfluorinated Alkyl Substances and Health Outcomes in Children: 
+A Systematic Review of the Epidemiologic Literature. International Journal of Environmental Research 
+and Public Health, 14, 691.
+
+Rebholz SL, Jones T, Herrick RL, et al. 2016. Hypercholesterolemia with consumption of PFOA-laced 
+Western diets is dependent on strain and sex of mice. Toxicology reports 3:46-54. 
+10.1016/j.toxrep.2015.11.004.
+
+Rogers JM, Ellis-Hutchings RG, Grey BE, et al. 2014. Elevated blood pressure in offspring of rats exposed 
+to diverse chemicals during pregnancy. Toxicol Sci 137(2):436-446. 10.1093/toxsci/kft248.
+
+Rosen MB, Abbott BD, Wolf DC, et al. 2008a. Gene profiling in the livers of wild-type and PPARα-null 
+mice exposed to perfluorooctanoic acid. Toxicol Pathol 36(4):592-607.
+
+Rosen MB, Das KP, Rooney J, et al. 2017. PPARα-independent transcriptional targets of perfluoroalkyl 
+acids revealed by transcript profiling. Toxicology Toxicology. 15;387:95-107. doi: 
+10.1016/j.tox.2017.05.013.
+
+Rosen MB, Lee JS, Ren H, et al. 2008b. Toxicogenomic dissection of the perfluorooctanoic acid transcript 
+profile in mouse liver: Evidence for the involvement of nuclear receptors PPARα and CAR. Toxicol Sci 
+103(1):46-56.
+
+Rosen MB, Thibodeaux JR, Wood CR, et al. 2007. Gene expression profiling in the lung and liver of PFOAexposed mouse fetuses. Toxicology 239:15-33.
+
+Schaider LA, et al. 2017. Fluorinated Compounds in U.S. Fast Food Packaging. Environmental Science & 
+Technology Letters, 4, 105-111.
+
+Scher DP, Kelly JE, Huset CA, Barry KM, Hoffbeck RW, Yingling VL, Messing RB. 2018. Occurrence of 
+perfluoroalkyl substances (PFAS) in garden produce at homes with a history of PFAS-contaminated 
+drinking water. Chemosphere. 196:548-555. doi: 10.1016/j.chemosphere.2017.12.179.
+[Image: Image106]
+
+Son H, Kim S, Shin HI, et al. 2008. Perfluorooctanoic acid-induced hepatic toxicity following 21-day oral 
+exposure in mice. Arch Toxicol 82:239-246.
+
+Stein CR, McGovern KJ, Pajak AM, et al. 2016. Perfluoroalkyl and polyfluoroalkyl substances and 
+indicators of immune function in children aged 12-19 y: National Health and Nutrition Examination 
+Survey. Pediatr Res 79(2):348-357.
+
+Suh KS, et al. 2017. Perfluorooctanoic acid induces oxidative damage and mitochondrial dysfunction in 
+pancreatic β-cells. Mol Med Rep. 15(6): 3871-3878.
+
+---
+
+Sundström M, Chang SC, Noker PE, et al. 2012. Comparative pharmacokinetics of 
+perfluorohexanesulfonate (PFHxS) in rats, mice, and monkeys. Reprod Toxicol 33(4):441-451.
+
+Tan X, Xie G, Sun X, et al. 2013. High fat diet feeding exaggerates perfluorooctanoic acid-induced liver 
+injury in mice via modulating multiple metabolic pathways. PLoS ONE 8(4):e61409.
+
+Texas Commission on Environmental Quality (TCEQ). 2016. Perfluorocompounds (PFCs). Available online 
+at: https://www.tceq.texas.gov/assets/public/implementation/tox/evaluations/pfcs.pdf
+
+Thibodeaux JR, Hanson RG, Rogers JM, et al. 2003. Exposure to perfluorooctane sulfonate during 
+pregnancy in rat and mouse. I: Maternal and prenatal evaluations. Toxicol Sci 74(2):369-381.
+
+Thomford PJ. 2001. 4-Week capsule toxicity study with ammonium perfluorooctanoate (APFO) in 
+Cynomolgus monkeys. APME Ad-Hoc APFO toxicology working group.
+
+Thompson J, Lorber M, Toms LM, et al. 2010. Use of simple pharmacokinetic modeling to characterize 
+exposure of Australians to perfluorooctanoic acid and perfluorooctane sulfonic acid. Environ Int 
+36(4):390-397. 10.1016/j.envint.2010.02.008.
+
+Trudel D, et al. 2008. Estimating Consumer Exposure to PFOS and PFOA. Risk Analysis, 28(2), 251-269. 
+Erratum issued, 2008. Risk Analysis, 28(3), 807.
+
+Trudel D, Horowitz L, Wormuth M, Scheringer M, Cousins IT, Hungerbuheler K. 2008. Estimating 
+consumer exposure to PFOS and PFOA. Risk Anal. 28: 251-269.
+
+Tucker DK, Macon MB, Strynar MJ, et al. 2015. The mammary gland is a sensitive pubertal target in CD-1 
+and C57Bl/6 mice following perinatal perfluorooctanoic acid (PFOA) exposure. Reprod Toxicol 54:26-36. 
+10.1016/j.reprotox.2014.12.002.
+
+Tyagi S, Gupta P, Saini AS, Kaushal C, Sharma S (October 2011). "The peroxisome proliferator-activated 
+receptor: A family of nuclear receptors role in various diseases". J Adv Pharm Technol Res. 2(4): 236–40.
+
+USEPA (U.S. Environmental Protection Agency). 2000. Methodology for Deriving Ambient Water Quality 
+Criteria for the Protection of Human Health (2000) Documents. Accessed online at: 
+https://www.epa.gov/wqc/methodology-deriving-ambient-water-quality-criteria-protection-human-
+<u>health-2000-documents</u>
+[Image: Image106]
+
+USEPA (U.S. Environmental Protection Agency). 2002. A Review of the Reference Dose and Reference 
+Concentration Processes. EPA/630/P-02/0002F. Risk Assessment Forum, Washington, DC. Accessed 
+online at: https://www.epa.gov/osa/review-reference-dose-and-reference-concentration-processes
+
+USEPA (U.S. Environmental Protection Agency). 2011. Exposure Factors Handbook: 2011 Edition. 
+EPA/600/R-090/052F. Office of Research and Development, National Center for Environmental 
+Assessment, Washington, D.C. 1436 pp. Accessed online at: 
+https://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=236252.
+
+USEPA (U.S. Environmental Protection Agency). Benchmark Dose Technical Guidance. Document # 
+EPA/100/R-12/001. June 2012. Accessed online at: https://www.epa.gov/risk/benchmark-dose-
+<u>technical-guidance</u>
+
+---
+
+USEPA (U.S. Environmental Protection Agency). 2016a. Health Effects Support Document for 
+Perfluorooctanoic acid (PFOA). Document # EPA 822-R-16-003. May 2016. Accessed online at: 
+https://www.epa.gov/sites/production/files/2016-05/documents/pfoa_hesd_final_508.pdf
+
+USEPA (U.S. Environmental Protection Agency). 2016b. Health Effects Support Document for 
+Perfluorooctane Sulfonate (PFOS). Document # EPA 822-R-16-002. May 2016. Accessed online at: 
+https://www.epa.gov/sites/production/files/2016-05/documents/pfos_hesd_final_508.pdf
+
+USEPA (U.S. Environmental Protection Agency). 2019. Exposure Factors Handbook: Chapter 3 Update. 
+EPA/600/R-090/052F. Office of Research and Development, National Center for Environmental 
+Assessment, Washington, D.C. Accessed online at: https://www.epa.gov/sites/production/files/2019-
+<u>02/documents/efh&#95;-&#95;chapter&#95;3&#95;update.pdf</u>
+
+Vanden Heuvel JP, Thompson JT, Frame SR, et al. 2006. Differential activation of nuclear receptors by 
+perfluorinated fatty acid analogs and natural fatty acids: A comparison of human, mouse, and rat 
+peroxisome proliferator-activated receptor-α, -ß, and -γ, liver x receptor-ß, and retinoid x receptor-α. 
+Toxicol Sci 92(2):476-489.
+
+Vélez MP, Arbuckle TE, Fraser WD. 2015. Maternal exposure to perfluorinated chemicals and reduced 
+fecundity: The MIREC study. Hum Reprod 30(3):701-709. 10.1093/humrep/deu350.
+
+Verner MA, Loccisano AE, Morken NH, et al. 2015. Associations of perfluoroalkyl substances (PFAS) with 
+lower birth weight: An evaluation of potential confounding by glomerular filtration rate using a 
+physiologically based pharmacokinetic model (PBPK). Environ Health Perspect 123(12):1317-1324.
+[Image: Image106]
+
+Viberg H, Lee I, Eriksson P. 2013. Adult dose-dependent behavioral and cognitive disturbances after a 
+single neonatal PFHxS dose. Toxicology 304:185-191.
+
+Vieira VM, Hoffman K, Shin M, et al. 2013. Perfluorooctanoic acid exposure and cancer outcomes in a 
+contaminated community: A geographic analysis. Environ Health Perspect 121(3):318-323.
+
+Wan HT, Zhao YG, Leung PY, et al. 2014b. Perinatal exposure to perfluorooctane sulfonate affects 
+glucose metabolism in adult offspring. PLoS ONE 9(1):e87137. 10.1371/journal.pone.0087137.
+
+Wang H, Du H, Yang J, Jiang H, O K, Xu L, Liu S, Yi J, Qian X, Chen Y, Jiang Q, He G. 2019. S, PFOA, 
+estrogen homeostasis, and birth size in Chinese infants. Chemosphere. 221:349-355. doi: 
+10.1016/j.chemosphere.2019.01.061.
+
+Wang J, Yan S, Zhang W, et al. 2015. Integrated proteomic and miRNA transcriptional analysis reveals 
+the hepatotoxicity mechanism of PFNA exposure in mice. J Proteome Res 14(1):330-341. 
+10.1021/pr500641b.
+
+Washburn ST, et al. 2005. Exposure assessment and risk characterization for perfluorooctanoate in 
+selected consumer articles. Environmental Science & Technology, 39(11), 3904-10.
+
+White SS, Calafat AM, Kuklenyik Z, et al. 2007. Gestational PFOA exposure of mice is associated with 
+altered mammary gland development in dams and female offspring. Toxicol Sci 96(1):133-144.
+
+---
+
+White SS, Kato K, Jia LT, et al. 2009. Effects of perfluorooctanoic acid on mouse mammary gland 
+development and differentiation resulting from cross-foster and restricted gestational exposures. 
+Reprod Toxicol 27(3-4):289-298.
+
+White SS, Stanko JP, Kato K, et al. 2011. Gestational and chronic low-dose PFOA exposures and 
+mammary gland growth and differentiation in three generations of CD-1 mice. Environ Health Perspect 
+119(8):1070-1076.
+
+WHO. e-Library of Evidence for Nutrition Actions (eLENA). 2019. Exclusive breastfeeding for optimal 
+growth, development and health of infants. Available online at: 
+https://www.who.int/elena/titles/exclusive_breastfeeding/en/
+
+Winkens K, et al. 2017. Early life exposure to per- and polyfluoroalkyl substances (PFASs): A critical 
+review. Emerging Contaminants, 3, 55-68.
+
+Winkens K, et al. 2018. Perfluoroalkyl acids and their precursors in floor dust of children’s bedrooms –
+Implications for indoor exposure. Environment International, 119, 493-502.
+
+Winkens K, Giovanoulis G, Koponen J, Vestergren R, Berger U, Karvonen AM, Pekkanen J, Kiviranta H, 
+Cousins IT. 2018. Perfluoroalkyl acids and their precursors in floor dust of children's bedrooms -
+Implications for indoor exposure. Environ Int. 119:493-502. doi: 10.1016/j.envint.2018.06.009.
+
+Wolf CJ, Fenton SE, Schmid JE, et al. 2007. Developmental toxicity of perfluorooctanoic acid in the CD-1 
+mouse after cross-foster and restricted gestational exposures. Toxicol Sci 95(2):462-473.
+
+Wolf CJ, Schmid JE, Lau C, et al. 2012. Activation of mouse and human peroxisome proliferator-activated 
+receptor-alpha (PPARa) by perfluoroalkyl acids (PFAAs): Further investigation of C4-C12 compounds. 
+Reprod Toxicol 33:546-551.
+
+Wolf CJ, Takacs ML, Schmid JE, et al. 2008. Activation of mouse and human peroxisome proliferatoractivated receptor alpha by perfluoroalkyl acids of different functional groups and chain lengths. Toxicol 
+Sci 106(1):162-171.
+[Image: Image106]
+
+Wolf CJ, Zehr RD, Schmid JE, et al. 2010. Developmental effects of perfluorononanoic Acid in themouse 
+are dependent on peroxisome proliferator-activated receptor-alpha. PPAR Res 2010 
+10.1155/2010/282896.
+
+Worley RR, Yang X, Fisher J. 2017. Physiologically based pharmacokinetic modeling of human exposure 
+to perfluorooctanoic acid suggests historical non drinking-water exposures are important for predicting 
+current serum concentrations. Toxicol Appl Pharmacol. 330:9-21. doi: 10.1016/j.taap.2017.07.001.
+
+Yahia D, El-Nasser MA, Abedel-Latif M, et al. 2010. Effects of perfluorooctanoic acid (PFOA) exposure to 
+pregnant mice on reproduction. J Toxicol Sci 35(4):527-533.
+
+Yahia D, Tsukuba C, Yoshida M, et al. 2008. Neonatal death of mice treated with perfluorooctane 
+sulfonate. J Toxicol Sci 33(2):219-226.
+
+Yang L, Wang Z, Shi Y, et al. 2016. Human placental transfer of perfluoroalkyl acid precursors: Levels and 
+profiles in paired maternal and cord serum. Chemosphere 144:1631-1638. 
+10.1016/j.chemosphere.2015.10.063.
+
+---
+
+Zeng HC, Li YY, Zhang L, et al. 2011. Prenatal exposure to perfluorooctanesulfonate in rat resulted in 
+long-lasting changes of expression of synapsins and synaptophysin. Synapse 65(3): 225-33.
+
+Zeng XW, Bloom MS, Dharmage SC, Lodge CJ, Chen D, Li S, Guo Y, Roponen M, Jalava P, Hirvonen MR, 
+Ma H, Hao YT, Chen W, Yang M, Chu C, Li QQ, Hu LW, Liu KK, Yang BY, Liu S, Fu C, Dong GH. 2019. 
+Prenatal exposure to perfluoroalkyl substances is associated with lower hand, foot and mouth disease 
+viruses antibody response in infancy: Findings from the Guangzhou Birth Cohort Study. Sci Total Environ. 
+663:60-67. doi: 10.1016/j.scitotenv.2019.01.325.
+
+Zhang T, Sun H, Lin Y, Qin X, Zhang Y, Geng X, Kannan K. 2013. Distribution of poly- and perfluoroalkyl 
+substances in matched samples from pregnant women and carbon chain length related maternal 
+transfer. Environ Sci Technol. 47(14):7974-81. doi: 10.1021/es400937y.
+
+Zhang Y, Beesoon S, Zhu L, et al. 2013. Biomonitoring of perfluoroalkyl acids in human urine and 
+estimates of biological half-life. Environ Sci Technol 47(18):10619-10627. 10.1021/es401905e.
+
+Zhu Y, Qin XD, Zeng XW, et al. 2016. Associations of serum perfluoroalkyl acid levels with T-helper cellspecific cytokines in children: By gender and asthma status. Sci Total Environ 559:166-173. 
+10.1016/j.scitotenv.2016.03.187.
+[Image: Image106]

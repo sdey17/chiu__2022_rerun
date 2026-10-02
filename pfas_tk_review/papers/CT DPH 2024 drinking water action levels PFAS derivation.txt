@@ -1,0 +1,503 @@
+   CT DPH Drinking Water Action Levels
+        for six PFAS, set July 2023
+                            Cheryl Fields, Toxicologist
+                              Xun Che, Toxicologist
+
+
+                  Northeast Conference on the Science of PFAS
+                                 April 2, 2024
+
+
+
+
+Connecticut Department of Public Health
+     Keeping Connecticut Healthy                                1
+                      AGENDA
+
+
+• Overview CT DPH PFAS Drinking Water Action Levels
+• What are Cl-PFESAs and why should we care?
+• Approach and Key Decision Points in Derivations
+• Comparison with Other States
+• Questions
+
+
+
+
+                                                      2
+Overview of CT DPH Drinking Water
+          Action Levels
+                  For Six PFAS
+
+
+
+
+          Environmental Health and Drinking Water Branch   3
+    CT DPH Drinking Water PFAS Action Levels
+
+         Connecticut DPH Drinking Water Action Levels for 10 PFAS
+                   6:2        8:2                                   HFPO-DA
+                Cl-PFESA   Cl-PFESA      PFOS       PFNA       PFOA (GenX) PFHxS            PFHxA   PFBS   PFBA
+Action Levels
+                   2          5            10         12         16           19       49    240    760    1800
+(ng/L):
+
+
+
+
+  Action Levels in CT: non-regulatory guidelines for drinking water that are protective of
+      public health and also feasible based upon analytical detection and treatment
+                                        technology.
+                                      Environmental Health and Drinking Water Branch                              4
+    CT DPH Drinking Water PFAS Action Levels
+
+         Connecticut DPH Drinking Water Action Levels for 10 PFAS
+                   6:2        8:2                                   HFPO-DA
+                Cl-PFESA   Cl-PFESA      PFOS       PFNA       PFOA (GenX) PFHxS PFHxA            PFBS   PFBA
+Action Levels
+                   2          5            10         12         16           19       49   240   760    1800
+(ng/L):
+
+
+                           June 2022: PFOS, PFOA, PFNA, PFHxS
+
+ Action Levels: non-regulatory guidelines for drinking water that are protective of public
+  health and also feasible based upon analytical detection and treatment technology.
+
+
+                                      Environmental Health and Drinking Water Branch                            5
+    CT DPH Drinking Water PFAS Action Levels
+
+         Connecticut DPH Drinking Water Action Levels for 10 PFAS
+                   6:2      8:2                                   HFPO-DA
+                Cl-PFESA Cl-PFESA      PFOS       PFNA       PFOA (GenX) PFHxS PFHxA            PFBS   PFBA
+Action Levels
+                   2        5            10         12         16           19       49   240   760    1800
+(ng/L):
+
+
+                            June 2022: PFOS, PFNA, PFOA, PFHxS
+   June 2023: PFHxA, PFBS, PFBA, HFPO-DA, and 6:2 – and 8:2 Cl-PFESA
+ Action Levels: non-regulatory guidelines for drinking water that are protective of public
+  health and also feasible based upon analytical detection and treatment technology.
+
+
+                                    Environmental Health and Drinking Water Branch                            6
+     Uses, Sources and Environmental Occurrence
+                                                                       Environmental
+   PFAS                       Usage and sources
+                                                                      occurrence in CT
+               Replacement for PFOS; found in consumer products,       soil, groundwater,
+   PFBS
+               flame retardant etc.                                      surface water
+               Photographic film; by products of stain-resistant       soil, groundwater,
+   PFBA
+               fabrics, food packaging, carpets                          surface water
+               Degradation product of surfactants; also found in       soil, groundwater,
+  PFHxA
+               AFFF                                                      surface water
+               PFOA replacement; by-product of fluoromonomer
+   GenX                                                                       soil
+               production
+               Trade name “F-53B”, a replacement for PFOS used a
+6:2 Cl-PFESA                                                            drinking water
+               mist suppressant in electroplating industry in China
+
+8:2 Cl-PFESA Impurity of "F-53B" product                                drinking water
+                                                                                            7
+What are Cl-PFESAs?
+Why should we be concerned?
+
+
+
+
+     Environmental Health and Drinking Water Branch   8
+                     Cl-PFESAs: Naming Conventions
+
+
+
+
+Naming convention 6:2 chloropolyfluoroether sulfonic acid                8:2 chloropolyfluoroether sulfonic acid
+adopted by DPH    (6:2 Cl-PFESA)                                         (8:2 Cl-PFESA)
+CASRN                56426-58-1                                          763051-92-9
+Commercial name      F-53B “major”                                       F-53B “minor”
+EPA Methods 533,     9-Chlorohexadecafluoro-3-oxanonane-                 11-Chloroeicosafluoro-3-oxaundecane-1-sulfonic acid
+537.1                1-sulfonic acid (9CL-PF3ONS)                        (11CL-PF3OUdS)
+Synonyms             6:2 Cl-PFAES; C8 Cl-PFESA;                      8:2 Cl-PFAES; C10 Cl-PFESA
+                     chlorinated polyfluoroalkyl ether sulfonic acid chlorinated polyfluoroalkyl ether sulfonic acid
+NYSDOH               6:2 chlorinated polyfluoroethersulfonic acid        chlorinated polyfluoroethersulfonic acid
+(Brase et al 2021)   (6:2 Cl-PFESA)                                      (8:2 Cl-PFESA)
+                                        Environmental Health and Drinking Water Branch                                    9
+                             Cl-PFESAs: Overview
+
+• No federal or state toxicity values
+• Detected sporadically in CT private wells and in some instances, as the sole PFAS
+  identified in drinking water
+• Structurally similar to PFOS, 6:2 Cl-PFESA is environmentally persistent, a has higher
+  bioaccumulative potential than PFOS
+• Available toxicity data indicates toxicity is similar or more potent than PFOS
+
+Cl-PFESA time-line
+- 1970: first synthesized; used in China for decades
+- 2013: first report of environmental occurrence, China
+- 2018: detected in rivers & lakes globally, including U.S.
+
+                                    Environmental Health and Drinking Water Branch         10
+                         Cl-PFESAs: Human Exposure
+
+
+• Detected in human blood, cord blood,                                         • China: 3rd most frequently detected PFAS in
+  placenta and breast milk                                                       serum
+                                                                               • U.S.: detected in serum only infrequently
+• Placenta transfer rates:
+ 8:2 Cl-PFESA (0.62) > 6:2 Cl-PFESA (0.44) > PFOS (0.43)               NHANES (2017-18)       6-2 Cl-PFESA Serum Levels (µg/L)
+
+• Crosses blood-brain barrier                                          Demographic            50th       75th     90th       95th
+                                                                       Total population       <LOD       <LOD     <LOD       0.1
+• Longest human half-life (15.3 years) of any
+  PFAS                                                                 Non-Hispanic Black     <LOD       <LOD     0.1        0.1
+                                                                       Non-Hispanic Asian     <LOD       0.2      1.3        2.5
+
+
+
+
+                                         Environmental Health and Drinking Water Branch                                             11
+                        Cl-PFESAs: Toxicity Data
+
+Mammalian data (6:2 Cl-PFESA)
+• Acute single dose studies: neurotoxicity in rats (Zhang 2016)
+• Five subchronic (28-d to 10 wk) repeated dose oral toxicity studies
+    • Liver: toxicity in two mice strains (Zhang 2018, Pan 2021) and in tigers (Wang 2020)
+    • Thyroid: lower T3 and T4, but no effect on TSH in rats (Hong 2020)
+    • GI: gut barrier dysfunction & colonic inflammation in mice (Pan 2019)
+    • Reproduction:↓ testis & epididymis WT, but no effects on fertility in mice (Zhou 2018)
+• Toxicokinetic study: half-life 4.1 d in male rats (Yi 2022), no TK info in mice
+• Database limitations: No studies of chronic toxicity/carcinogenicity or neurotoxicity, no 2-
+ gen study
+                                  Environmental Health and Drinking Water Branch           12
+                   Cl-PFESAs Toxicity Data (continued)
+
+Non-mammalian data (6:2 Cl-PFESA):
+• 2-generation repro/developmental study (180-d) in zebrafish (Shi 2018):
+     • ↑ serum testosterone, ↓egg production. In F0 adult males: ↑ serum estradiol & vitellogenin, disrupted spermatogenesis.
+       In F1: maternal transfer of F-53B adversely affected growth & reproduction; F1 & F2: ↑malformations and ↓ survival
+• Developmental toxicity:
+     • Zebrafish (Shi 2017): delayed hatching,↑ malformations, ↓ survival, disrupted cardiac development and ↓heartrate
+     • Chickens (Briels 2018): ↓ heartrate before hatching, but no effects chick survival, hatching, or body mass
+• Liver toxicity: 4 studies: in larvae (7d) and adult (21-d, 28-d, 56-d) zebrafish
+     • Duration and dose-related cytoplasmic vacuolation (Shi 2019, Wang 2022, Wu 2019, Yi 2019)
+     • Aberrant hepatic lipid metabolism, hepatotoxicity via PPAR-γ (Wang 2022)
+In vitro data:
+• 6:2 Cl disturbed lipid homeostasis in Human HepG2 cells via enhancement of lipid accumulation and fatty acid β-
+  oxidation (Li 2023). Cytotoxic to human liver HL-7702 cells (Sheng 2018)
+• both Cl-PFESAs bind to and activate all 3 PPARs and promote adipogenesis (Li 2018)
+• thyroid hormone receptor binding affinity: 6:2 Cl > PFOS > 8:2 Cl-PFESA; all interact with transthyretin (Xin 2018)
+                                               Environmental Health and Drinking Water Branch                               13
+                      Cl-PFESAs: Human Epi data
+
+In humans, 6:2 Cl-PFESA-related effects are similar or more serious than PFOS
+• Development: lower birth WT and preterm birth (Chu 2020)
+• Endocrine effects:
+   • Newborn thyroid homeostasis - 70% greater potency than PFOS for FT3 (Liu et al 2023)
+   • 29% ↑ odds of PCOS – similar to PFOS (Zhan et al 2023) (EPA: Radke et al 2023)
+   • Estradiol levels (ref 40)
+• Lipids:
+   • Tot Chol, Trig, LDL-C and HDL-C, and dyslipidemia (Mi 2022) (Liu 2022)
+   • In diabetics: ↑Tot Chol and LDL, but no effect on Trig of HbA1c (Han 2021)
+   • Metabolic syndrome (Yu 2021)
+   • 6:2 Cl ↑ Tot Chol and LDL-C, 8:2 ↓HDL-C (Cong 2021, China C-8 Project)
+• Liver cancer (Cao 2022)
+
+                                    Environmental Health and Drinking Water Branch          14
+           6:2 Cl-PFESAs: Selection of Critical Study
+
+• Liver toxicity in (56-d to 10 wk) repeated dose oral toxicity studies
+  Study    Duration     Dose           Animal POD             Target Organ; Description
+           (species)    (mg/kg-d)      (mg/kg-d)
+  Zhang*   56-d gavage 0, 0.04, 0.2,   NOAEL: 0.2             dose-related ↑ absolute liver WT of 10, 30 and 260%
+  (2018)   (male        1              LOAEL: 1.0             across all doses. ↑ relative liver WT at 0.2 and 1 mg/kg-d
+           Balb/c mice)                                       (~ 30 and 250%); hepatocellular necrosis, steatosis and
+                                                              ballooning at 1 mg/kg
+                                                              ↑ serum ALT and ALP, ↑ Trig and LDL, ↓ Tot Chol and HDL
+                                                              ↑ liver fatty acids (Tot Chol and Trig)
+  Pan**    10-wk water 0, 1, 3, 10     LOAEL (10        Liver damage & disorders in lipid metabolism via PPAR-γ
+  (2021)   (female     (µg/L)          ug/L) for sig. ↑ (hepatic cytoplasmic vacuolation and hepatomegaly, ↑ a.
+           C57Bl/6                     AST, ALT         acids ↓acyl-carnitine (fatty acid transport, metabolic
+           mice)                                        disease). ↑ ALT and AST, ↑ liver: Tot Chol and Trig
+
+                                      *Zhang (2018) selected as Critical Study
+                  **Pan (2021) did not report serum PFAS concentration or estimate a dose per BW
+
+                                        Environmental Health and Drinking Water Branch                                     15
+Derivation of 6 PFAS Action Levels
+   Approaches used and Key Decision Points
+
+
+
+
+              Environmental Health and Drinking Water Branch   16
+              Key Decision Points for Toxicity Values
+
+
+Critical Effects
+     Liver effects: GenX, 6:2 Cl-PFESA
+     Thyroids effects: PFBS, PFBA [PFHxS]
+     Developmental effects: PFHxA [PFOA, PFNA]
+Point of Departure
+     NOAEL, LOAEL, or BMDL
+Dosimetric Adjustment                                                          RfD = POD × DAF ÷ UF
+     Ratio of clearance when POD is an administered dose
+     Clearance when POD is an internal dose
+Uncertainty Factors
+       differences between humans and animals
+       variability among humans
+       use of a LOAEL instead of a NOAEL or BMD for the POD
+       use of data from short-term studies to protect against effects from long-term exposure
+       deficiencies of the database
+   Key Decision Points for Exposure Assumptions
+
+
+• Water Ingestion Rate (IR)
+                           Water      Body       Per-BW water IR
+                           intake     weight     (L/kg-d)
+                            (L/d)     (kg)
+  Infant                   1.106      7.8        0.142
+  Lactating Women          3.061      73         0.042                        Action Level =
+  Adult (ages 21 to <80)   3.192      80         0.040
+                                                                     RfD × RSC ÷ Water Ingestion Rate
+    Upper percentile, consumer only intake values (EPA EFH, 2011)
+    Central Tendency body weight (EPA EFH, 2011; ATSDR 2021)
+
+• Relative Source Contribution
+      EPA’s default minimal value 20%
+                       Summary Key Decision Points_Tox values
+                                      GenX            PFHxA            PFBS         PFBA       6:2 Cl-PFESA    8:2 Cl-PFESA
+
+Critical Health Effect/
+                                     LIVER        DEVELOPMENTAL     THYROID       THYROID         LIVER            LIVER
+Target organ
+Dose-Response Approach             BMDL10ER         BMDL5RD         BMDL0.5SD      NOAEL         NOAEL
+POD                                                                                            0.2 (admin),
+(administered dose, mg/kg/d) /     0.09 (admin)     10.6 (admin)   22.5 (admin)    6 (admin)
+Animal Serum dose (mg/L)                                                                       18.9 (serum)
+Total Uncertainty Factors            3000              300             100          1000          3000        Based on
+                                                                                                              surrogate data
+DAF (unitless)/                                                                                               for 6:2 Cl-PFESA
+                                   0.14 (DAF)      0.0048 (DAF)    0.0027 (DAF)   0.23 (DAF)    0.000029
+Clearance Factor (L/kg-d)
+
+     Vol. of distribution (L/kg)        -              0.73            0.23          0.48          0.23
+
+                 Human half-live        -            11.5 days      43.8 days      2.8 days     15.3 years
+
+
+Reference Dose (ng/kg-d)               4               170            540           1300           0.2               0.219
+          Summary Key Decision Points_Exposure Assumptions
+
+
+                                 GenX          PFHxA              PFBS              PFBA          6:2 Cl-PFESA    8:2 Cl-PFESA
+
+
+Critical Effect /target organ    Liver      Developmental       Thyroid           Thyroid             Liver        (surrogate)
+
+                                                                                                                       0.2
+RfD (ng/kg-d)                      4            170               540               1300               0.2
+                                                                                                                   (surrogate)
+
+Relative Source Contribution      20%            20%               20%               20%              20%             20%
+
+
+Water Ingestion Rate (L/kg-d)    0.042          0.142             0.142             0.142             0.040          0.040
+
+                                Lactating
+Sensitive Receptor                          Infant, 0-1 yrs   Infant, 0-1 yrs   Infant, 0-1 yrs       Adult          Adult
+                                 woman
+
+                                                                                                  <1; use MRL of <1; use MRL
+                                                                                                                         20  of
+ACTION LEVEL (ng/L, ppt)          19            240               760               1800
+                                                                                                         2             5
+Derivation of Action Levels for GenX,
+         PFHxA, PFBS, PFBA
+   Approaches used and Key Decision Points
+
+
+
+
+              Environmental Health and Drinking Water Branch   21
+          CT DPH Chemical-Specific Derivation
+Hexafluoropropylene Oxide-Dimer Acid (HFPO-DA, GenX)
+
+Point of Departure (POD)                                                          Uncertainly Factors
+BMDL10ER= 0.09 mg/kg/d, based on liver effects in female                            Rodent vs. Human Sensitivity   3
+mice (DuPont 2010, NTP 2019 reanalysis) –administered dose                          Human-to-Human Variation       10
+                                                                                    Use of LOAEL                   1
+Dosimetric Adjustment Factor (DAF)                                                  Shorter exposure duration      10
+                                                                                    Database Uncertainty           10
+(BWadult human /BWfemale mouse)3/4/(BWadult human /BWfemale mouse) =
+                                                                                    Total Uncertainty Factor       3000
+(80kg/0.0349kg)-1/4 = 0.14
+
+
+                           RfD = POD × (MWGenX acid ÷ MWGenX ammonium salt) × DAF ÷ Total UF = 4 ng/kg-d
+
+
+
+            Action Level = 4.0 × 10-6 mg/kg-d × 0.2 ÷ 0.042 L/kg-d × 1000000 ng/mg                = 19 ng/L
+                                      RfD               RSC      IR           unit conversion factor
+
+
+                                              Environmental Health and Drinking Water Branch                              22
+         CT DPH Chemical-Specific Derivation
+Perfluorohexanoic Acid (PFHxA)
+
+Point of Departure (POD)                                                       Uncertainly Factors
+BMDL5RD= 10.6 mg/kg/d, based on decreased body weight in                         Rodent vs. Human Sensitivity   3
+rat pups (Loveless et al. 2009) –administered dose                               Human-to-Human Variation       10
+                                                                                 Use of LOAEL                   1
+Dosimetric Adjustment Factor (DAF)                                               Shorter exposure duration      1
+                                                                                 Database Uncertainty           10
+clearancehuman ÷ clearanceanimal = 0.00184 L/kg-h ÷ 0.383
+                                                                                 Total Uncertainty Factor       300
+L/kg-h = 0.0048
+
+
+                                         RfD = POD × DAF ÷ Total UF = 1.7 × 10-4 mg/kg-d
+
+
+
+           Action Level = 1.7 × 10-4 mg/kg-d × 0.2 ÷ 0.142 L/kg-d × 1000000 ng/mg =239ng/L  240 ng/L
+                                   RfD               RSC       IR          unit conversion factor
+
+
+                                           Environmental Health and Drinking Water Branch                             23
+          CT DPH Chemical-Specific Derivation
+Perfluorobutane Sulfate (PFBS)
+
+Point of Departure (POD)                                                        Uncertainly Factors
+BMDL0.5SD= 22.5 mg/kg/d, based on decreased serum total                           Rodent vs. Human Sensitivity   3
+thyroxine (T4) in mice pups (Feng et al. 2017) –administered                      Human-to-Human Variation       10
+dose                                                                              Use of LOAEL                   1
+                                                                                  Shorter exposure duration      1
+Dosimetric Adjustment Factor (DAF)                                                Database Uncertainty           3
+                                                                                  Total Uncertainty Factor       100
+clearancehuman ÷ clearanceanimal= (ln2 * human Vd ÷ human
+t1/2) ÷ clearanceanimal = 0.693 * 0.23 L/kg ÷ 1051.2 h ÷ 0.056
+L/kg-h = 0.0027
+                       RfD = POD × (MWPFBS acid ÷ MWPFBS potassium salt) × DAF ÷ Total UF = 5.4 × 10-4 mg/kg-d
+
+
+
+           Action Level = 5.4 × 10-4 mg/kg-d × 0.2 ÷ 0.142 L/kg-d × 1000000 ng/mg =761 ng/L  760 ng/L
+                                    RfD               RSC       IR          unit conversion factor
+
+
+                                            Environmental Health and Drinking Water Branch                             24
+         CT DPH Chemical-Specific Derivation
+Perfluorobutanoic Acid (PFBA)
+
+Point of Departure (POD)                                                       Uncertainly Factors
+NOAEL = 6 mg/kg/d, based on decreased serum total                                Rodent vs. Human Sensitivity       3
+thyroxine (T4) in male rats (Butenhoff et al. 2012) –                            Human-to-Human Variation           10
+administered dose                                                                Use of LOAEL                       1
+                                                                                 Shorter exposure duration          10
+Dosimetric Adjustment Factor (DAF)                                               Database Uncertainty               3
+                                                                                 Total Uncertainty Factor           1000
+clearancehuman ÷ clearanceanimal = (ln2 * human Vd ÷ human
+t1/2) ÷ clearanceanimal = 0.693 * 0.4845 L/kg ÷ 67.9 h ÷
+0.02161 L/kg-h = 0.23
+                           RfD = POD × (MWPFBA acid ÷ MWPFBA ammonium salt) × DAF ÷ Total UF = 1.3 × 10-3 mg/kg-d
+
+
+
+           Action Level = 1.3 × 10-3 mg/kg-d × 0.2 ÷ 0.142 L/kg-d × 1000000 ng/mg =1831ng/L  1800 ng/L
+                                   RfD               RSC      IR           unit conversion factor
+
+
+                                           Environmental Health and Drinking Water Branch                                  25
+          CT DPH Chemical-Specific Derivation
+6:2 chloropolyfluoroether sulfonic acid (6:2 Cl-PFESA)
+
+Point of Departure (POD)                                                       Uncertainly Factors
+NOAEL = 18.9 mg/L, based on liver effects in male mice                           Rodent vs. Human Sensitivity           3
+(Zhang et al. 2018) –internal dose                                               Human-to-Human Variation               10
+                                                                                 Use of LOAEL (n/a)                     1
+Dosimetric Adjustment Factor (DAF)                                               Shorter exposure duration              10
+Vd x (ln2/ t1/2) = 0.23 L/kg x (0.693/5585 d) = 0.0000285 L/kg-                  Database Uncertainty                   10
+d  0.000029                                                                     Total Uncertainty Factor               3000
+
+
+
+                         RfD = POD × (MW6:2 Cl-PFESA acid ÷ MW6:2 Cl-PFESA ammonium salt) × DAF ÷ Total UF = 1.7× 10-7 mg/kg-d
+
+
+
+           Action Level = 1.7× 10-7 mg/kg-d × 0.2 ÷ 0.04 L/kg-d × 1000000 ng/mg = 0.85 ng/L  2 ng/L
+                                        RfD               RSC       IR           unit conversion factor             MRL
+
+
+                                           Environmental Health and Drinking Water Branch                                        26
+          CT DPH Chemical-Specific Derivation
+8:2 chloropolyfluoroether sulfonic acid (8:2 Cl-PFESA)
+
+Point of Departure (POD)                                                       Uncertainly Factors
+NOAEL = 18.9 mg/L, based on liver effects in male mice                           Rodent vs. Human Sensitivity           3
+(Zhang et al. 2018) –internal dose                                               Human-to-Human Variation               10
+                                                                                 Use of LOAEL                           1
+Dosimetric Adjustment Factor (DAF)                                               Shorter exposure duration              10
+Vd x (ln2/ t1/2) = 0.23 L/kg x (0.693/5585 d) = 0.0000285 L/kg-                  Database Uncertainty                   10
+d  0.000029                                                                     Total Uncertainty Factor               3000
+
+
+
+                         RfD = POD × (MW6:2 Cl-PFESA acid ÷ MW6:2 Cl-PFESA ammonium salt) × DAF ÷ Total UF = 1.7× 10-7 mg/kg-d
+
+
+
+           Action Level = 1.7× 10-7 mg/kg-d × 0.2 ÷ 0.04 L/kg-d × 1000000 ng/mg = 0.85 ng/L  5 ng/L
+                                        RfD               RSC       IR           unit conversion factor             MRL
+
+
+                                           Environmental Health and Drinking Water Branch                                        27
+Comparison with EPA and other states
+ Drinking water guidance and regulatory values
+
+
+              Environmental Health and Drinking Water Branch   28
+       Comparison with EPA and Other States
+                     EPA           NY           NJ             CT           NH MA             VT        MI           MN               CA     OH
+                    (2022)       (2022)       (2023)         (2022)                                   (2019)        (2018-          (2021) (2022)
+                                                                                                                    2021)
+PFBS                 2,000       ∑13100a          -             760           -       -        -        420           100            500    2100
+
+PFBA                    -        ∑13100a          -           1,800           -       -        -          -          7,000            -      -
+
+PFHxA                   -        ∑13100a          -             240           -       -        -      400,000         200             -      -
+
+GenX                   10         ∑630a          20             19            -       -        -        370             -             -      21
+
+6:2 Cl-                 -         ∑630a          2b              2c           -       -        -          -             -             -      -
+PFESA
+8:2 Cl-                 -         ∑630a          2b             5c,d          -       -        -          -             -             -      -
+PFESA
+       All values are in units of ppt (ng/L); values in grey cells are Notification Levels; values in bold are regulatory levels.
+
+  a.     NY sum of 6: PFHpS, PFUnA, PFDoA, GenX, 6:2 Cl; 8:2 Cl; sum of 13: PFBA, PFBS, PFPeA, PFPeS, PFHxA; ADONA, 4:2 FTS, 6:2 FTS,
+         8:2 FTS, NFDHA, PFEESA, PFMPA, PFMBA
+  b.     NJ DEP guidance is for a group of related chlorinated perfluoroether carboxylates (Cl-PFPECAs)
+  c.     CT DPH AL based on EPA’s Method 533 Detection Limit (MDL) used for UCMR5 for 6:2 Cl-PFESA (aka 9Cl-PF3ONS)
+  d.     CT DPH AL derived using surrogate RfD for 6:2 CL-PFESA and set at EPA Method 533 MDL used for UCMR5 for 11Cl-PF3OUdS)
+                                                                                                                                                    29
+       QUESTIONS?
+
+
+
+              Thank You!
+ For questions or additional information:
+                 Cheryl.Fields@ct.gov
+
+                   Xun.Che@ct.gov
+
+
+Connecticut Department of Public Health
+

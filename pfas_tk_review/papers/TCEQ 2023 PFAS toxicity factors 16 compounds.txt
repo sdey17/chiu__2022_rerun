@@ -1,0 +1,641 @@
+                Per- and Poly-fluoroalkyl Substances (PFAS)
+                                            February 14, 2023
+Table 1. Reference Dose (RfD) and Reference Concentration (RfC) Values for 16 PFAS
+    CASRN                      PFAS1                  Acronym         Formula           RfD           RfC
+                                                                                      (mg/kg-       (mg/m3)
+                                                                                        day)
+  375-22-4           Perfluorobutyric acid              PFBA          C4HF7O2         1.0E-03        3.5E-03
+  375-73-5        Perfluorobutane sulfonate             PFBS         C5HF9O3S         1.4E-03        4.9E-03
+                   (Perfluorobutane sulfonic
+                             acid)
+  2706-90-3         Perfluoropentanoic acid            PFPeA          C5HF9O2         5.0E-04          NA
+  355-46-4        Perfluorohexane sulfonate            PFHxS         C6HF13O3S        3.8E-06        1.3E-05
+                   (Perfluorohexane sulfonic
+                             acid)
+  307-24-4          Perfluorohexanoic acid             PFHxA          C6HF11O2        5.0E-04          NA
+  375-85-9          Perfluoroheptanoic acid            PFHpA          C7HF13O2        2.3E-05          NA
+  1763-23-1      Perfluorooctanoic sulfonate            PFOS         C8HF17O3S        2.3E-05        8.1E-05
+                  (Perfluorooctane sulfonic
+                            acid)
+  335-67-1          Perfluorooctanoic acid              PFOA          C8HF15O2        1.2E-05        4.1E-06
+                     (Perfluorooctanoate)
+  754-91-6              Perfluorooctane                PFOSA       C8H2F17NO2S        1.2E-05        4.1E-06
+                          sulfonamide
+  375-95-1          Perfluorononanoic acid              PFNA          C9HF17O2        1.2E-05        2.8E-05
+  335-76-2          Perfluorodecanoic acid              PFDA         C10HF19O2        1.5E-05        5.3E-05
+  335-77-3        Perfluorodecane sulfonate             PFDS        C10HF21SO3        1.2E-05          NA
+  2058-94-8        Perfluoroundecanoic acid             PFUA         C11HF21O2        1.2E-05          NA
+  307-55-1         Perfluorododecanoic acid            PFDoA         C12HF23O2        1.2E-05        4.2E-05
+ 72629-94-8        Perfluorotridecanoic acid           PFTrDA        C13HF25O2        1.2E-05          NA
+  376-06-7        Perfluorotetradecanoic acid          PFTeDA        C14HF27O2        1.2E-05          NA
+CASRN, Chemical Abstracts Services Registry Number; NA, not applicable; RfC, reference concentration; RfD,
+reference dose
+1
+ Bolded PFAS had at least some chemical-specific toxicology data (e.g., PFOSA had an LD50).
+Background and Revisions
+On June 15, 2011, the TCEQ derived oral reference doses (RfDS) for sixteen PFAS. Later, the
+TCEQ updated these values to reflect changes in the 2012 revision of the TCEQ Guidelines to
+Develop Toxicity Factors (RG-442), which were subsequently updated again in 2015. With this
+2023 update, the TCEQ is adopting RfDs derived by the EPA’s IRIS program for perfluorobutryic
+acid (PFBA) and perfluorohexanoic acid (PFHxA). These EPA RfDs underwent peer review by an
+external expert panel that included a TCEQ staff member (Joseph T. Haney, MS of the Texas
+Commission on Environmental Quality (TCEQ) Toxicology, Risk Assessment, and Research
+Division). The change to the RfD for PFBA results in a commensurate change to the RfC
+calculated through route-to-route extrapolation. Additionall, the RfD for PFHxA is now used a
+surrogate value for the perflouropentanoic acid (PFPeA), which has no useful toxicity data and
+was previously surrogated to perfluourohexane sulfonate (PFHxS). The previous Background
+and Information Sources sections from the 2011 version of this document, Appendix A (US
+EPA’s provisional health advisory values) and references to it, as well as the comparisons (e.g.,
+to older EPA health advisories) have been omitted from this version as these are now outdated.
+This assessment is yet to be fully updated scientifically but will be used in the near future as the
+TCEQ has begun the process of systematically collecting PFAS data for the eventual derivation
+of toxicity factors in accordance with the most recent TCEQ toxicity factor guidelines (TCEQ
+2015). The future development support document (DSD) will contain updated background
+information, a detailed description of the sources of information utilized, the most recent
+toxicity data and information available, etc. The revision of this document only represents an
+interim step in the TCEQ evaluation process as the PFAS DSD, expected within the next 1-2
+years, will contain the latest scientific information and toxicity factor derivations. For the
+current list of toxicity factors for 16 PFAS chemicals, see Table 1.
+
+Oral Toxicity Factors
+PFOA
+For perfluorooctanoic acid (PFOA), several animal toxicological studies have been conducted,
+including subchronic, developmental/reproductive, and chronic toxicity/carcinogenicity studies
+in several animal species, in both sexes. Ultimately, EPA (2009) used a benchmark dose 95%
+lower confidence limit at the 10% response level of 0.46 mg/kg-day-based on increased
+maternal liver weight from a mouse developmental study (Lau et al. 2006). To this BMDL 10, EPA
+applied a toxicokinetic (TK) interspecies data-derived extrapolation factor of 81 (the half-life of
+PFOA in humans is years, as opposed to days for laboratory animals), a toxicodynamic
+interspecies uncertainty factor (UF) of 3, and an intrahuman UF of 10. TCEQ used the BMDL 10 of
+0.46 mg/kg-day for liver weight effects as a point of departure to derive a potential RfD. For
+comparison, TCEQ used results from other studies as well.
+To investigate the low-dose effects of PFOA on offspring, in Macon et al. (2011) timed-pregnant
+CD-1 mice were dosed orally by gavage with PFOA for all or half of gestation. In the full
+gestation study, mice were administered 0, 0.3, 1.0, or 3.0 mg/kg-day from gestation days (GD)
+1-17. In the late gestation study, mice were administered 0, 0.01, 0.1 or 1.0 mg/kg-day from GD
+10-17. Exposure to PFOA significantly (p<0.05) increased offspring relative liver weights in all
+treatment groups (0.3-3.0 mg/kg-day) in the full gestation study, and in the 1.0 mg/kg-day
+group in the late gestation study. Thus, the lowest observed adverse effect level (LOAEL) for
+increased liver weight of offspring in the full gestation study is 0.3 mg/kg-day, which is also the
+LOAEL for liver effects in other mouse studies (Onishchenko et al. 2011 as cited by Macon et al.
+200, Loveless et al. 2006). This is a more recent and lower point of departure for liver effects
+than that used by the EPA (2009), and will be used by the TCEQ to derive a potential RfD. More
+notably, Macon et al. (2011) found that developmental effects of the mammary gland were at
+least as sensitive as liver effects. Full gestational exposure to the LOAEL of the 0.3 mg/kg-day
+(no no-observed-adverse-effect-level [NOAEL] identified) significantly reduced mammary gland
+development in offspring that persisted into adulthood, and the NOAEL for these effects could
+be significantly lower as late gestation exposure to PFOA produced these effects at a LOAEL of
+0.01 mg/kg-day, although late gestational-exposed mice were evaluated at postnatal day 21
+and not in adulthood. As the mammary gland effects form full gestational exposure are known
+not to have reversed by the time they were evaluated in adulthood, the LOAEL of 0.3 mg/kg-
+day was used to derive a second potential RfD from this study. For comparison, the LOAEL for
+mammary effects from the late gestational exposure (0.01 mg/kg-day) was also used.
+The Loveless et al. (2006) subacute study dosed male Male Crl:CD(SD)IGS BR rats and Crl:CD-
+1(ICR)BR mice by oral gavage with 0.3-30 mg/kg-day for 29 days. Overall, body weight gains
+(test days 0-13) were 55% and 22% of control, respectively, in rats dosed with 10 or 30
+mg/kg/linear/branched ammonium perfluorooctanoate (AFPO), and 74% and 15% of control,
+respectively, in rats does with 10 or 30 mg/kg linear AFPO, and increases in serum
+corticosterone levels to 135 and 196& control, respectively. In mice dosed with 10 or 30 mg/kg-
+day, marked systemic toxicity and stress were observed as evidenced by a loss in body weight
+of 3.8 and 6.6 g, respectively (despite a tripling of liver weight relative to control), an
+approximate 230% increase in serum corticosterone, and increases in absolute numbers of
+peripheral blood neutrophils and monocytes with an accompanying decrease in absolute
+lymphocyte numbers. Immune-related findings at 10 and 30 mg/kg-day likely represent
+secondary responses to the systemic toxicity and stress observed at these doses. An increase in
+organ weight of over 10% relative to control is typically considered adverse. Liver weight and
+liver/body weight were increased over 30% at 0.3 mg/kg-day in Loveless et al. (2006), which will
+be used as the LOAEL for derivation of a potential RfD and is consistent with the mouse LOAEl
+of Macon et al. (2011) for liver effects.
+In addition to the data-based TK factor (81)1 and intrahuman uncertainty factor (UF) of 10 used
+by the EPA for their subchronic RfD, other study-specific UFs are required for derivation of
+potential chronic RfDs (see the table next page). Because liver effects in Lau et al. (2006) were
+in the dams during a subacute (GD 1-17) exposure in a developmental study and the RfD is for
+the long-term (i.e., chronic) exposure, TCEQ will also use a UF for extrapolation from subacute
+to chronic exposure. However, the subacute-to-chronic UF will be reduced from 10 to 3
+because liver effects have also been observed in available chronic studies (see Table 3-3 of
+ATSDR 2009) and would yield a similar point of departure as that from Lau et al. with a
+
+1 Calculating the toxicokinetic portion of the interspecies on the basis of plasma CL: CL animal / CL human = 8.07
+ml/kg/day / 0.10 ml/kg/day = 80.7 or 81
+subacute-to-chronic UF of 3 (e.g., 0.46 mg/kg-day / 3 = 0.15 mg/kg-day = chronic LOAEL of 1.5
+mg/kg-day divided by LOAEL-to-NOAEL UF of 10). A subacute-to-chronic UF of 3 will also be
+used for Loveless et al. (2006), along with a LOAEL-to-NOAEL UF of 3 for that study. For liver
+effects found in Macon et al. (2011), a LOAEL-to-NOAEL of 3 will be used since a NOAEL for liver
+effects was not identified but study authors believe it may be approximately 0.1 mg/kg-day
+(i.e., 0.3 mg/kg-day / 3 = 0.1 mg/kg-day). For the mammary gland development effects LOAEL
+from full gestational exposure in Macon et al. (2011), a LOAEL-to-NOAEL UF of at least 10-30 is
+justified since late gestational exposure produced these effects at a dose of 30 times lower
+(although the persistence of effects into adulthood from late gestational exposure were not
+evaluated). For the mammary gland effects from late gestational exposure, a LOAEL-to-NOAEL
+UF of 3 is justified. Lastly, TCEQ will use animal-to-human UF of 1 (because TK already adjusted
+for as per Section 5.3.2 of the 2012 TCEQ guidelines) and a database UF of 1 as the toxicological
+database for PFOA is relatively robust, particularly in laboratory animals (see the following
+Figure 1 and Table 2).
+
+
+
+
+ Figure 1. Existing Information on Health Effects of PFOA in Laboratory Animals (Figure 3-10 of
+                                          ATSDR 2009)
+Table 2. Potential PFOA RfD Values (based on information in Table 3-3 of ATSDR 2009)
+    Study         POD     TK       TD    Subacute- LOAEL-       Intra-   Database     Potential
+   (effect)     (mg/kg- Factor     UF       to-      to-       human        UF          RfD
+                  day)                    Chronic NOAEL           UF                  (mg/kg-
+                                            UF       UF                                 day)
+   Lau et a.
+                  0.46      81      1        3         NA         10          1        1.9E-04
+    (liver)
+ Macon et al.
+                  0.3       81      1       NA          3         10          1        1.2E-04
+    (liver)
+ Macon et al.
+ (mammary                                                                            1.2E-05 to
+                  0.3       81      1       NA        10-30       10          1
+ glands-full                                                                          3.7E-05
+  exposure)
+ Macon et al.                                                                        4.1E-06 to
+                  0.01      81      1       NA          3        3-10         1
+ (mammary                                                                             1.4E-05
+     Study          POD     TK           TD   Subacute- LOAEL-    Intra-   Database   Potential
+    (effect)      (mg/kg- Factor         UF      to-      to-    human        UF        RfD
+                    day)                       Chronic NOAEL        UF                (mg/kg-
+                                                 UF       UF                            day)
+  glands-late
+  exposure)
+  Loveless et
+                     0.3         81       1      3        3        10         1        4.1E-05
+   al. (liver)
+NA, not applicable; POD, point of departure
+
+
+The potential chronic RfDs based on liver effects (4.1E-05 to 1.9E-04 mg/kg-day) are very similar
+and seem reasonable compared to EPA’s 2009 subchronic RfD (2.0E-04 mg/kg-day), which was
+also based on liver effects. However, examination of the potential RfDs based on mammary
+gland developmental effects in mice reveals that protection against liver effects may not
+adequately protect against developmental effects due to in utero exposure of the developing
+fetus to this common PFAS. Use of the lower RfD value based on permanent mammary gland
+development effects in Macon et al. (2011) may be viewed as also offering protection even if
+the mammary effects due to 0.01 mg/kg-day late gestational exposure did persist into
+adulthood because use of that lower LOAEL (0.01 mg/kg-day) with a lower intrahuman UF of 3
+results in a similar RfD (see the table above). Thus the RfD (1.25E-05 mg/kg-day) is based on
+permanent mammary gland development effects in Macon et. al. (2011).
+PFOA RfD = 0.3 mg/kg-day / (81 x 1 x 30 x 10 x 1) = 1.2E-05 mg/kg-day
+
+
+PFOS
+For perfluorooctane sulfonate (PFOS), several animal toxicological studies have been
+conducted, including subchronic, developmental/reproductive, and chronic
+toxicity/carcinogenicity studies in several animal species, in both sexes. Ultimately, EPA (2009)
+used a cynomolgus monkey NOAEL of 0.03 mg/kg-day for increased levels of thyroid stimulating
+hormone (TSH) in males, reduced total triiodothyronine (T3) levels in males and females, and
+reduced levels of high-density lipoproteins (HDL) in females (Seacat et al. 2002). EPA (2009) also
+used a TK interspecies data-derived extrapolation factor of 13 (the half-life of PFOS in humans is
+in years, as opposed to days for laboratory animals), a TD interspecies UF of 3, and an
+intrahuman UF of 10. TCEQ used this study to derive a potential RfD.
+While a review of the scientific literature since ATSDR (2009) showed similar or higher initial
+potential points of departure for different species (e.g., Mollenahur et al. 2011, Zeng et al.
+2011, Onishchenko et al. 2011), differences in interspecies TK can potentially result in
+significantly different points of departure after TK adjustment. In the Zeng et al. (2011) study
+pregnant Sprague Dawley (SD) rats were given 0.1, 0.6, or 2.0 mg/kg-day orally by gavage from
+GD 0 to GD20. PFOS concentration in the hippocampus of offspring was evaluated on postnatal
+(PND) 0 and PND21. The offspring hippocampus from PFOS-treated maternal groups showed
+significant adverse changes in the structure of synapses beginning at 0.1 mg/kg-day (active
+zone length decreased 10%), with all three measures being statistically significantly affected at
+0.6 mg/kg-day and above (active zone length, number of vesicles per area, synaptic interface
+curvature). The structure of synapses affects synaptic connection between neurons, which is
+critical to normal functioning of the central nervous system. The offspring from PFOS-treated
+maternal groups also differed significantly from controls with respect to the expression of
+synaptic vesicle associated proteins, which play an important role in nervous signal
+transmission. More specifically, the mRNA levels of synapsin1 (Syn1), synapsin2 (Syn2), and
+synaptophysin (Syp) were decreased in treated groups either on PND0 or on PND21. These
+study results showed significant adverse synaptic structural changes in the hippocampus (and
+lower mRNA levels of synaptic vesicle associated proteins) and add to the database of other
+study results showing developmental neurotoxicity induced by PFOS in laboratory animals (e.g.
+increased motor activity, reduced habitation, and impairment of cognitive function). TCEQ
+considers the clear LOAEL from this study to be 0.6 mg/kg-day, where all three measures of
+hippocampus synaptic structure were adversely affected, which will be used to derive a
+potential RfD.
+In addition to other factors and UF, because the Seacat et al. (2002) monkey study used
+subchronic (183-day) exposure and the RfD is for the long-term (i.e. chronic) exposure, TCEQ
+will also use a UF of 3 for the extrapolation from subchronic to chronic exposure. Additionally,
+TCEQ will use a database UF of 1 as the toxicological database for PFOS is relatively robust,
+particularly in laboratory animals (see Figure 2 below as well as information in Table 3-4 in
+ATSDR 2009).
+
+
+
+
+Figure 2. Existing Information on Health Effects of PFOS in Laboratory Animals (see Figure 3-11
+                                        of ATSDR 2009)
+
+
+        Potential PFOS RfD = 0.03 mg/kg-day / (13 x 1 x 10 x 3 x 1) = 7.7E-05 mg/kg-day
+The rat study of Zeng et al. (2011) requires a different data-derived TK interspecies adjustment
+factor. Using the same methodology as EPA did, because data support using the same volumes
+of distribution for rodents and humans (per EPA), the equations to calculate the TK interspecies
+factor can be simplified to: human-half life / animal half-life. TCEQ used the same human PFOS
+half-life as EPA (1,971 days) with a rat PFOS half-life of 7.5 days (ATSDR 2009, Cui et al. 2011),
+resulting in a TK factor of 263. Zeng et al (2011) also requires a LOAEL-to-NOAEL UF. Because
+one adverse effect on hippocampus synapses structure was statistically significant at a dose 6
+times lower (i.e. 0.1 mg/kg-day, which is 6 times lower than the POD of 0.6 mg/kg-day used by
+EPA 2009), TCEQ will use a LOAEL-to-NOAEL UF of 10 along with the TK factor of 263, animal-to-
+human UF of 1 (because TK already adjusted for as per Section 5.3.2 of the 2012 TCEQ
+guidelines), intrahuman UF of 10, and database UF of 1.
+        Potential PFOS RfD = 0.6 mg/kg-day / (263 x 1 x 10 x 10 x1) = 2.3E-05 mg/kg-day
+The potential chronic RfDs are very similar (within a factor of 3.4). However, examination of the
+potential RfDs shows that protection against thyroid effects may not adequately protect against
+neurological development effects due to in utero exposure of the developing fetus to this
+common PFAS. Thus, the RfD will be based on Zeng et al. (2011).
+PFOS RfD = 0.6 mg/kg-day / (263 x 1 x 10 x 10 x1) = 2.3E-05 mg/kg-day
+
+
+PFBA
+For perfluorobutryic acid (PFBA, heptaflurobutryic acid or perflourobutanoic acid), the EPA IRIS
+program has finalized a chronic RfD that the TCEQ has adopted. The following is a summary of
+the USEPA (2022a). From the identified human health hazards of potential concern (liver,
+thyroid, developmental toxicity), hepatocellular hypertrophy and increased relative liver weight
+(i.e., liver hypertrophy) and decreased thyroxine (T4) in adult male rats after subchronic (90-
+day) exposure, as reported in Butenhoff et al. (2012), were selected as the basis for the RfD. A
+NOAEL of 6 mg/kg-day PFBA ammonium salt was identified for liver hypertrophy, and a NOAEL
+of 6 mg/kg-day PFBA ammonium salt was identified for decreased T4. These values were used
+as the points of departure (PODs). After converting the PODs from units of mg/kg-day PFBA
+ammonium salt to units of mg/kg-day PFBA (by multiplying by the ratio of the molecular
+weights of the free acid and the ammonium salt), the ratio of serum clearance values between
+rats and humans was used to account for toxicokinetic differences between species, resulting in
+the human equivalent doses (PODHED) of 1.15 mg/kg-day and 1.27 mg/kg-day for liver
+hypertrophy and decreased T4, respectively. The RfD for PFBA was calculated by dividing the
+PODHED values by a composite uncertainty factor of 1,000 to account for residual toxicokinetic
+and toxicodynamic uncertainty in the extrapolation from rats to humans (UFA of 3),
+interindividual differences in human susceptibility (UFH of 10), extrapolation from subchronic-
+to-chronic exposure duration (UFs of 10), and deficiencies in the toxicity database (UF D of 3).
+The RfD for PFBA was derived based on liver and thyroid effects and is 1.0E-03 mg/kg day.
+PFBA RfD = 1.15 mg/kg-day and 1.27 mg/kg-day / (3 x 10 x 10 x 3) = 1.0E-03 mg/kg day
+
+
+PFBS
+For perfluorobutane sulfonate (PFBS), the Minnesota Department of Health previously
+published a subchronic RfD based on rat subchronic (90-day) study NOAEL of 60 mg/kg-day for
+decreased hemoglobin and hematocrit, and histological changes in the kidney (Leider et al.
+2009, York 2003). Review of relevant information in ATSFR (2009) did not identify a lower point
+of departure. The human equivalent dose of 0.42 mg/kg-day was obtained by the Minnesota
+Department of Health using a TK interspecies factor of 142 (for extrapolation of male rats to
+humans, detailed calculation was not provided by the Minnesota Department of Health).
+Appropriate UFs are as follows: 1 for interspecies TD differences, 10 for intrahuman variability,
+3 from subchronic to chronic, and 10 for significant database insufficiencies (i.e., only one study
+available).
+PFBS RfD = 60 mg/kg-day / (142 x 1 x 10 x 3 x 10) = 1.4E-03 mg/kg-day
+
+
+PFOSA
+For perfluorooctane sulfonamide (PFOSA), only LD50 data were found in the Registry of Toxic
+Effects of Chemical Substances (RTECS). The rodent oral LD50 of >172 mg/kg for PFOSA may be
+similar to that for PFOA (LD50 of 189 mg/kg), another 8-carbon PFAS for which the toxicity
+database is more robust. The RfD for PFOA has a more scientifically defensible basis than using
+an uncertain LD50 value to derive an RfD for PFOSA. The RfD for PFOA was used as the
+surrogate for PFOSA.
+PFOSA RfD = 1.2E-0.5 mg/kg-day
+
+
+PFNA
+For perfluorononanoic acid (PFNA), a few toxicity studies are mentioned in RTECS, but
+reproductive studies provided much higher points of departure (20-85 mg/kg-day per
+information from RTECS) than Feng et al. (2010). In Fang et al. (2010), rats receiving 1, 3, or 5
+mg/kg-day for 2 weeks showed dose-dependent decreases in absolute spleen weight
+(decreased by 22.2%, 28.7%, and 57.9%, respectively, p<0.01) compared to the control group.
+However, the ratio of spleen weight to body weight only significantly decreased (8.5% lower
+than control, p<0.01) in the 5 mg/kg-day group. Significantly increased levels of pro-
+inflammatory cytokines interleukin-1 (IL-1), IL-6, and tumor necrosis factor alpha (TNA-alpha,
+149.4%, 140.5%, and 130.1% of the control values, respectively), which play important roles in
+cellular apoptosis, also occurred at 5 mg/kg-day. The number of apoptotic spleen cells
+significantly increased in animals receiving 3 and 5 mg/kg-day. TCEQ considers 1 mg/kg-day as
+the NOAEL for spleen cell apoptosis, which also protects against spleen weight decreases
+(normalized to body weight) and other effects, and will use this NOAEL to derive a potential
+RfD.
+Additionally, ATSDR (2009) cites Kennedy (1987), another subacute study, but in mice. In
+Kennedy (1987), dietary dosing of male and female mice with approximately 5.3 mg/kg-day
+PFNA for 14 days results in increased absolute liver weight by 178-190% relative to control.
+ATSDR (2009) indicates 0.5 mg/kg-day is the LOAEL for increases (50-70%) in absolute liver
+weight (see Table 3-5 of ATSDR 2009). TCEQ will also use this LOAEL to derive a potential RfD.
+In the rat, the rate of elimination appears to vary with the perfluoroalkyl carbon chain length,
+although the sex difference is also a common feature (Tatum-Gibbs et al. 2011, ATSDR 2009).
+Information for the mouse is less complete, but a similar trend is apparent. Tatum-Gibbs et al.
+(2011) provides sex-specific rat half-lives for PFNA that when combines average approximately
+16 days (30 days for males, 1.4-2.4 days for females), which is very similar to the 17 days used
+by EPA for PFOA in mice. Using the same methodology as EPA did for PFOA and PFOS, because
+data support using the same volumes of distribution for rodents and humans (per EPA), the
+equations to calculate the TK interspecies factor can be simplified to: human half-life / animal
+half-life. Due to the similar carbon chain length of PFOA (8 carbons ) and PFNA (9 carbons),
+similar elimination trends in rats and mice with carbon chain length, and similar PFNA half-lives
+in rats as PFOA in mice (mentioned above), the PFNA half-life in mice was assumed to be the
+same as that in rats. Furthermore, although PFNA half-life information for humans was not
+available, the similarity in half-life between PFOA and PFNA in rodents (rats, mice) is assumed
+to extend to humans. Consequently, the relative half-lives for rats/mice and humans are
+assumed to be the same for PFNA as for PFOA, maintaining the human-to-rodent-half-life ration
+of approximately 81. Thus, TCEQ used the TK interspecies factor of 81 calculated by EPA for
+PFOA for derivation of the PFNA RfD.
+To summarize, TCEQ will use the rat NOAEL of 1 mg/kg-day and the mouse LOAEL of 0.5 mg/kg-
+day with a TK interspecies extrapolation factor of 81, a TD interspecies UF of 1, an intrahuman
+UF of 10, a UF of 10 for extrapolation from subacute to chronic, and a database UF of 10.
+
+
+         Potential PFNA RfD = 1 mg/kg-day / (81 x 1 x 10 x 10 x 10) = 1.2E-05 mg/kg-day
+The mouse study (Kennedy 1987) LOAEL requires an additional LOAEL-to-NOAEL UF of 3:
+      Potential PFNA RfD = 0.5 mg/kg-day / (81 x 1 x 10 x 10 x 10 x 3) = 2.1E-06 mg/kg-day
+These potential RfDs are very similar (within a factor of 6) and both are considered protective
+based on available data. Thus, TCEQ will use the value based on spleen apoptosis in rats as the
+RfD for PFNA.
+PNFA RfD = 1 mg/kg-day / (81 x 1 x 10 x 10 x 10) = 1.2E-05 mg/kg-day
+
+
+PFDA
+For perfluorodecanoic acid (PFDA), several subacute (e.g., 7-10 day) toxicity studies were
+available, but other studies provided much higher points of departure (21-120 mg/kg-day per
+information from RTECS) than Harris and Birnbaum (1989). For Harris and Birnbaum (1989), to
+determine if PFDA exhibits teratogenic effects or is a developmental toxicant, time-mated
+C57BL/6N mice were administered PFDA orally by gavage in corn oil (10 mg/kg) on GD 10-13 or
+GD 6-15 at levels of 0, 0.25, 0.5, 1.0, 2.0, 4.0, 8.0, 16.0, or 32.0 mg/kg-day or 0, 0.03, 0.3, 1.0,
+3.0, 6.4, or 12.8 mg/kg-day, respectively. Dams were killed on GD 18 and maternal and fetal
+toxicity were assessed. Fetuses were examined for external, visceral, or skeletal malformations.
+No hydronephrosis, cleft palate, or edema was observed, nor were any other soft tissue other
+skeletal malformations detected. Note that only the fetuses in the control and 12.8 mg/kg-day
+groups were examined for visceral malformations or variations. Maternal body weight gain
+(corrected for the weight of the gravid uterus) was significantly reduced as a result of PFDA
+treatment at 6.4 and 12.8 mg/kg-day (GD 6-15), and at 16.0 and 32.0 mg/kg-day (GD 10-13).
+Fetal viability was decreased only in those groups showing maternal body weight loss. Fetal
+weight per litter was decreased 33% at 6.4 mg/kg-day and fetal body weights were significantly
+reduced at levels as low as 0.1 mg/kg-day (GD) and 0.5 mg/kg-day (GD). As effects on offspring
+are a particular concern because they are a potentially susceptible subpopulation (ATSDR
+2009), TCEQ will conservatively use 0.1 mg/kg-day as the LOAEL for decreases in fetal body
+weight (GD 6-15) to derive a potential RfD.
+Additionally, ATSDR (2009) cited 1.2 mg/kg-day as the NOAEL for increased liver weight
+(approximately 30%) in subacute (1-week) rat study (Kawashima et al. 1995). More specifically,
+Kawashima et al. (1995) compared the effects of lower dietary doses of PFDA (1.2-9.5 mg/kg-
+day) and PFOA (2.4-38 mg/kg-day) on hepatic effects in male rats in a 7-day dietary study.
+Based on administered dose, PFDA was more potent than PFOA in reducing body weight gain
+and food consumption, and causing hepatomegaly. Both chemicals had comparable potencies
+in elevating hepatic cholesterol and triacylglycerol, but only PFOA elevated hepatic
+phospholipids. PFDA lowered the activity of glutathione (GSH)-related enzymes in the same
+manner as PFOA. The LOAEL for increased liver weight (approximately 30% greater than
+control) was 2.4 mg/kg-day, with an associated NOAEL of 1.2 mg/kg-day, which will be used by
+TCEQ to derive a potential RfD.
+TCEQ recognizes there is significant uncertainty in interspecies extrapolation for PFDA given: (1)
+the absence of chemical-specific half-life data for derivation of a rat-to-human TK factor; (2) rat
+data indicate a decreasing elimination rate trend with increasing perfluoroalkyl chain length;
+and (3) the elimination of PFDA in male-female rats is estimated to be about 7-140 times slower
+than PFOA (ATSDR 2009). In recognition of this uncertainty, TCEQ will use the most
+conservative data-based TK interspecies extrapolation factor available from other RfD
+derivations for longer carbon chain PFAS as a surrogate for PFDA (i.e., the TK interspecies
+extrapolation factor of 81 for PFOA [8-carbon] is the most conversative surrogate value for
+PFDA [10-carbon]), That is, in order to derive an RfD for a chemical that may otherwise go
+unaddressed at a site, TCEQ will assume the ratio of human-to-rodent half-lives for PFDA is the
+same as that for PFOA (i.e., the PFDA half-lives for both humans and rats/mice are assumed to
+be increased by approximately 81). The following UFs will also be used for both the rat NOAEL
+and mouse LOAEL: a TD interspecies UF of 1, an intrahuman UF of 10, and a database UF of 10
+for significant insufficiencies (e.g., no chronic or subchronic studies).
+The subacute rat study (Kawashima et al. 1995) requires an additional subacute-to-chronic UF
+of 10:
+        Potential PFDA RfD = 1.2 mg/kg-day / (81 x 1 x 10 x 10 x 10) = 1.5E-05 mg/kg-day
+The developmental mouse study (Harris and Birnbaum 1989) LOAEL requires an additional
+LOAEL-to-NOAEL UF of 3:
+        Potential PFDA RfD = 0.1 mg/kg-day / (81 x 1 x 3 x 10 x 10) = 4.1E-06 mg/kg-day
+These potential RfDs are very similar (within a factor of 4) and both are considered protective
+based on available data. Thus, TCEQ will use the value based on reduced rat body weight as the
+RfD for PFDA:
+PFDA RfD = 1.2 mg/kg-day / (81 x 1 x 10 x 10 x 10) = 1.5E-05 mg/kg-day
+
+
+PFHxS
+For perfluorohexane sulfonate (PFHxS), ATSDR (2009) indicates that a single study was
+available. The subchronic (42-56 day) study evaluated the reproductive and developmental
+effects of this perfluoroalkyl compound in male and female rats exposed from premating until
+PND 21 (females) (Hoberman and York 2003). Doses of 0, 0.3, 1, 3, or 10 mg/kg-day were
+administered by oral gavage. PFHxS did not significantly affect any reproductive or
+developmental parameter nor did it induce maternal toxicity as assessed by clinical chemistry,
+hematology, and organ histopathology. PFHxS did induce hematology findings in male rats at
+greater than or equal to 0.3 mg/kg-day and liver and thyroid effects at greater than or equal to
+3 mg/kg-day. More specifically, male rats receiving doses greater than or equal to 0.3 mg/kg-
+day for at least 42 days had significantly increased prothrombin time, doses greater than or
+equal to 1 mg/kg-day had significantly decreased hemoglobin concentration, and doses greater
+than or equal to 3 mg/kg-day had decreased erythrocyte count and hematocrit. Female rats
+receiving up to 10 mg/kg-day PFHxS did not have any significant hematology findings. The
+thyroid effects in male rats (i.e., hypertrophy-hyperplasia of thyroid follicular cells) were
+thought to be a compensatory response to liver hypertrophy. The dose of 0.3 mg/kg-day is the
+LOAEL for hematology findings in male rats (ATSDR 2009).
+TCEQ recognizes there is significant uncertainty in interspecies extrapolation for PFHxS given
+the absence of chemical-specific half-life data for derivation of a rat-to-human TK factor. In
+recognition of this uncertainty and that half-life generally increases (i.e., elimination rate
+decreases) with increasing carbon chain length (ATSDR 2009), TCEQ will use a data-based TK
+interspecies extrapolation factor available for an 8-carbon PFAS (PFOS) as a surrogate for the 6-
+carbon PFHxS. This appears reasonable based on available half-life data since the human half-
+life for PFOS (1,053-2,701 days) is most similar to that for PFHxS (2,662 days) among PFAS with
+reported human half-lives (Tables 3-8 of ATSDR 2009). Therefore, to derive an RfD for a
+chemical that may otherwise go unaddressed at a site, TCEQ will assume the ratio of human-to-
+rat half-lives for PFHxS is the same as those of PFOS, maintaining the human-to-rat half-life
+ratio of approximately 263. The following UFs will also be used: a TD interspecies UF of 1, a
+LOAEL-to-NOAEL UF of 3, an intrahuman UF of 10, and a database UF of 10 for significant
+insufficiencies (e.g., only one study).
+PFHxS RfD = 0.3 mg/kg-day / (263 x 1 x 3 x 10 x 10) = 3.8E-06 mg/kg-day
+
+
+PFDoA
+For perfluorododecanoic acid (PFDoA), ATSDR (2009) indicates that dosing of Sprague-Dawley
+rats with 5 mg/kg-day PFDoA by oral gavage for 14 days resulted in a 25% reduction in final
+body weight relative to a control group, as well as decreased serum testosterone and estradiol
+(Shi et al. 2007). This subacute study had a NOAEL of 1 mg/kg-day for reduced body weight.
+TCEQ recognizes there is significant uncertainty in interspecies extrapolation for PFDoA given:
+(1) the absence of chemical-specific half-life data for derivation of a rat-to-human TK factor;
+and (2) rat data indicate a decreasing elimination rate trend with increasing perfluoroalkyl chain
+length. In recognition of this uncertainty, TCEQ will use the most conservative data-based TK
+interspecies extrapolation factor available from other RfD derivations for longer carbon chain
+PFAS as a surrogate for PFDoA (i.e., the TK interspecies extrapolation factor of 81 for PFOA [8-
+carbon] is the most conservative surrogate value for PFDoA [12-carbon]). Therefore, to derive
+an RfD for a chemical that may otherwise go unaddressed at a site, TCEQ will assume the ratio
+of human-to-rat half-lives for PFDoA is the same as that for PFOA (i.e., the PFDoA half-lives for
+both humans and rats are assumed to be increased by the same factor over those for PFOA,
+maintaining the human-to-rat half life ratio of approximately 81). The following UFs will also be
+used: a TD interspecies UF of 1, a subacute-to-chronic UF of 10, an intrahuman UF of 10, and a
+database UF of 10 for significant insufficiencies (e.g., no chronic or subchronic studies).
+PFDoA RfD: 1 mg/kg-day / (81 x 1 x 10 x 10 x 10) = 1.2E-05 mg/kg-day
+
+
+PFHxA
+For perfluorohexanoic acid (PFHxA), the EPA IRIS program has derived a draft chronic RFD
+(USEPA 2022b). The draft RfD underwent peer review by an external expert panel that included
+a TCEQ staff member (Joseph T. Haney, MS, of the TCEQ Toxicology, Risk Assessment, and
+Research Division), who determined that the value was scientifically up-to-date and defensible.
+Accordingly, the TCEQ has adopted the draft EPA RfD as a final TCEQ RfD. The following is a
+summary of the USEPA (2022b). From the identified hazards of potential concern (i.e., hepatic,
+hematopoietic, and developmental toxicity), decreased offspring body weight in neonatal mice
+(Loveless et al., 2009) was selected as the basis for the RfD of 5E-04 mg/kg-day. A benchmark
+dose 95% lower confidence limit at the 5% relative deviation response level (BMDL5RD) of
+10.62 mg/kg-day PFHxA sodium salt was identified for this endpoint and was used as the POD.
+The PODHED of 0.048 mg/kg-day was derived by applying the ratio of the clearance between
+female rats and humans and a calculation based on the differences in molecular weight of the
+free acid and sodium salt. The RfD for PFHxA was calculated by dividing the PODHED by a
+composite uncertainty factor of 100 to account for toxicodynamic and toxicokinetic uncertainty
+in the extrapolation from rats to humans (UFA of 3), interindividual differences in human
+susceptibility (UFH of 10), and deficiencies in the toxicity evidence base (UFD of 3).
+PFHxA RfD = 0.048 mg/kg-day / (3 x 10 x 3) = 5E-04 mg/kg-day
+
+
+PFAS with no toxicity data
+No toxicity data were found for perfluoropetanoic acid (PFPeA), perfluoroheptanoic acid
+(PFHpA), perfluorodecane sulfonate (PFDS), perfluoroundecanonic acid (PFUA),
+perfluorotridecanoic acid (PFTrDA), and perfluorotetradecanoic acid (PFTeDA). Recognizing that
+elimination rate for PFAS generally decreases as carbon chain length increases and there is
+uncertainty associated with assigning surrogate values, an RfD from a PFAS with the same or
+longer carbon chain length was conservatively assigned as the surrogate RfD values for these
+PFAS, except for PFTrDA and PFTeDA. For PFTrDA (13 carbon) and PFTeDA (14 carbon), there is
+no PFAS of the same or longer carbon chain length with an RfD, so the RfD for PFDoA (12
+carbon) was used.
+PFPeA RfD = RfD for PFHxA = 5.0E-04 mg/kg-day
+PFHpA RfD = RfD for PFOS = 2.3E-05 mg/kg-day
+PFDS RfD = RfD for PFDOA = 1.2E-05 mg/kg-day
+PFUA RfD = RfD for PFDOA = 1.2E-05 mg/kg-day
+PFTrDA RfD = RfD for PFDOA = 1.2E-05 mg/kg-day
+PFTeDA RfD = RfD for PFDOA = 1.2E-05 mg/kg-day
+
+
+
+Inhalation Toxicity Factors
+PFOA and PFOSA
+For PFOA, only two relatively low-exposure inhalation studies were available (ATSDR 2009). In
+one study, male CD rats were exposed head-only 6 hours/day, 5 days/week for 2 weeks to
+APFO dusts (Kennedy et al. 1986), whereas in the other study, a developmental study, pregnant
+Sprague-Dawley rats were exposed whole-body to APFO dusts 6 hours/day on GD 6-15 (Staples
+et al. 1984). The lowest LOAEL was 7.6 mg/m3 for exposure concentration-related increases in
+absolute and relative liver weight and histological alterations in the liver (i.e., increased
+absolute and relative liver weight; hepatocellular hypertrophy and necrosis); no significant
+effects were reported at 1 mg/m3 (Kennedy et al. 1986). Serum PFOA levels were not
+monitored in this study, but a TK study in male rats exposed nose-only 6 hours/day, 5
+days/week for 3 weeks reported that PFOA serum levels in a group exposed to 10 mg/m 3 had
+achieved a steady-state concentration of approximately 20,000 ng/mL by day 14 of the study
+(Hinderliter et al. 2006). Kennedy et al. (1986) also examined several organs and tissues
+microscopically and reported that no significant findings were observed. In the developmental
+study, an exposure concentration of 25 mg/m3 induced a 10% decrease in a newborn body
+weight on PND 1; this exposure concentration also resulted in decreased weight gain in the
+dams by 37% on GD 6-15 (Staples et al. 1984). Serum PFOA levels were not monitored in this
+study. TCEQ will use a NOAEL of 1 mg/m3 for increases in absolute and relative liver weight and
+histological alterations in the liver in rats (Kennedy et al. 1986) to derive a reference
+concentration (RfC) for PFOA.
+The TK interspecies data-derived extrapolation factor of 81 for PFOA used by EPA for their
+subchronic RfD will also be used to account for interspecies TK differences following inhalation,
+along with: a TD interspecies UF of 3, a UF of 10 for extrapolation from subacute to chronic, an
+intrahuman UF of 10, and a database UF of 10 for significant insufficiency in the inhalation
+database (e.g., no subchronic or chronic studies).
+PFOA RfC = 1 mg/m3 / (81 x 3 x 10 x 10 x 10) = 4.1E-06 mg/m3
+As with the RfD for PFOA, the RfC will serve as a surrogate for PFOSA:
+PFOSA RfC = 4.1E-06 mg/m3
+
+
+PFNA
+For PFNA, male CD rats exposed nose-only to greater than or equal to 590 mg/m3 ammonium
+perfluorononanoate dusts for 4 hours (Kinney et al. 1989) exhibited lung noise and labored
+breathing during exposure and throughout a 12-day recovery period, and final body weight was
+reduced 18% five days post-exposure compared to controls (ATSDR 2009). For this acute study,
+the NOAEL for these effects in males was 67 mg/m3, which will be used to derive an RfC.
+As with oral exposure for PFNA, TCEQ will use a TK interspecies extrapolation factor of 81 and a
+TD interspecies UF of 3. Additionally, the following UFs are appropriate: an intrahuman UF of
+10, a UF of 10 for extrapolation from acute to subchronic, a UF of 10 for extrapolation from
+subchronic to chronic, and a database UF of 10 for significant insufficiency in the inhalation
+database (e.g., no subchronic or chronic studies, or even subacute).
+PFNA RfC = 67 mg/m3 / (81 x 3 x 10 x 10 x 10 x 10) = 2.8E-05 mg/m3
+
+
+PFBA, PFBS, PFHxS, PFOS, PFDS, and PFDoA
+For PFBA, PFBS, PFHxS, PFOS, PFDA, and PFDoA, all of which had toxicity data in 2011 when the
+TCEQ originally derived toxicity values, RfC values were derived using route-to-route
+extrapolation from their RfD values because the effects of PFAS in laboratory animals do not
+appear to be route-specific. That is, because the health effects of these substances appear to be
+independent of the route of exposure (ATSDR 2009), route-to-route extrapolation is supported.
+Assuming equal absorption in the absence of inhalation absorption data, the following general
+equation is used where the human adult body weight is 70 kg and the human daily ventilation
+volume is 20 m3:
+RfD in mg/kd-day x 70 kg/ 20 m3-day = RfC in mg/m3
+PFBA RfC = 1.0E-03 mg/kg-day x 70 kg/ 20 m3-day = 3.5E-03 mg/m3
+PFBS RfC = 1.4E-03 mg/kg-day x 70 kg/ 20 m3-day = 4.9E-03 mg/m3
+PFHxS RfC = 3.8E-06 mg/kg-day x 70 kg/ 20 m3-day = 1.3E-05 mg/m3
+PFOS RfC = 2.3E-05 mg/kg-day x 70 kg/ 20 m3-day = 8.1E-05 mg/m3
+PFDA RfC = 1.5E-05 mg/kg-day x 70 kg/ 20 m3-day = 5.3E-05 mg/m3
+PFDoA RfC = 1.2E-05 mg/kg-day x 70 kg/ 20 m3-day = 4.2E-05 mg/m3
+As RfDs typically derive cleanup values and surrogate RfDs were assigned to PFAS with no
+toxicity data (PFPeA, PFHpA, PFDS, PFUA, PFTrDA, and PFTeDA), no surrogate RfC values were
+derived for these PFAS.
+
+
+Joseph “Kip” Haney, MS
+(2023 updates reviewed by Janet Hamilton, Ph.D. and Sabine Lange, Ph.D.)
+
+
+
+References:
+ATSDR. 2009. Draft Toxicological Profile for Perfluoroalkyls. May 2009.
+Butenhoff KF, Bjork JA, Chang S, Ehresman DJ, Parker GA, Das K, Lau C, Lieder PH, van Otterdijk
+FM, Wallace KB. 2012. Toxicological evaluation of ammonium perfluorobutyrate in rats: twenty-
+eight day and ninety-day oral gavage studies. Reprod Toxicol 33:513-530.
+Cui L, Liao CY, Zhou QF, et al. 2011. Excretion of PFOA and PFOS in male rats during a
+subchronic exposure. Arch Environ Contam Toxicol 58(1): 205-13.
+Fang X, Fenga Y, Wang J, et al. 2010. Perfluorononanoic acid-induced apoptosis in rat spleen
+involves oxidative stress and the activation of caspase-independent death pathway. Toxicology
+267: 54-59.
+Harris MW, Birnbaum LS. 1989. Developmental toxicity of perfluorodecanoic acid in C57BL/6N
+mice. Fundam Appl Toxicol 12:442-448.
+Hinderliter PM, DeLorme MP, Kennedy GL. 2006. Perfluorooctanoic acid: Relationship between
+repeated inhalation exposures and plasma PFOA concentration in the rat. Toxicology 222:80-85.
+Hoberman AM, York RG. 2003. Oral (gavage) combined repeated dose toxicity study of T-7706
+with the reproduction/developmental toxicity screening test. Argus Research.
+Kawashima Y, Kobayashi H, Miura H, et al. 1995. Characterization of hepatic responses of rat to
+administration of perfluorooctanoic and perfluorodecanoic acids at low levels. Toxicology
+99(3):169178.
+Kennedy GL, Hall GT, Brittelli MR, et al. 1986. Inhalation toxicity of ammonium
+perfluorooctanoate. Food Chem Toxicol 24(12): 1325-1329.
+Kennedy GL. 1987. Increase in mouse liver weight following feeding of ammonium
+perfluorooctanoate and related fluorochemicals. Toxicol Lett 39(2-3): 295-300.
+Kinney LA, Chromey NC, Kennedy Jr GL. 1989. Acute inhalation toxicity of ammonium
+perfluorononanoate. Food Chem Toxicol 21(1): 46-48.
+Lau C, Thibodeaux JR, Hanson RG, et al. 2006. Effects of perfluorooctanonic acid exposure
+during pregnancy in the mouse. Toxicol Sci 90(2):510-518.
+Leider PH, SC Chang, RG York, JL Buttenhoff. 2009. Toxicological evaluation of potassium
+perfluorobutanesulfonate in 90-day oral gavage study with Sprague-Dawley rats. Toxicology
+255:45-52.
+Loveless SE, Finlay C, Everds NE, et al. 2006. Comparative responses of rats and mice exposed to
+linear/branched, linear, or branched ammonium perfluorooctanoate (APFO). Toxicology 220(2-
+3):203217.
+Loveless SE, Slezak B, Serex T, Lewis J, Mukerji P, O’Connor JC, Donner EM, Frame SR,
+Korzeniowski SH, Buck RC. 2009. Toxicological evaluation of sodium perfluorohexanoate.
+Toxicology 264:32-44.
+Macon MB, Villanueva LR, Tatum-Gibbs K, et al. 2011. Prenatal perfluorooctanoic acid exposure
+in CD-1 mice: low dose developmental effects and internal dosimetry. Toxicol Sci First published
+online: April 11, 2011 (doi: 10.1093/toxsci/kfr076).
+Onishchenko N, Fisher C, Ibrahim WNW, et al. 2011. Prenatal exposure to PFOS or PFOA alters
+motor function in mice in a sex-related manner. Neurotox Res 19(3): 452-61.
+Seacat AM, Thomford PJ, Hansen KJ, et al. 2002. Subchronic toxicity studies on
+perfluorooctanesulfonate potassium salt in cynomolgus monkeys. Toxicol Sci 68(1):249-264.
+Shi Z, Zhang H, Liu Y, et al. 2007. Alterations in gene expression and testosterone synthesis in
+the testes of male rats exposed to perfluorododecanoic acid. Toxicol Sci 98(1):206-215.
+Staples RE, Burgess BA, Kerns WD. 1984. The embryo-fetal toxicity and teratogenic potential of
+ammonium perfluorooctanoate (APFO) in the rat. Fundam Appl Toxicol 4:429-440.
+Tatum-Gibbs K, Wambaughb JF, Das KP, et al. 2011. Comparative pharmacokinetics of
+perfluorononanoic acid in rat and mouse. Toxicology 281: 48-55.
+Texas Commission on Environmental Quality (TCEQ). 2015a. Guidelines to Develop Toxicity
+Factors. Office of Executive Director. RG-442. TCEQ, Austin, TX. Available at:
+https://www.tceq.texas.gov/downloads/toxicology/publications/rg-442.pdf
+United States Environmental Protection Agency (USEPA). 2009. Provisional Health Advisories
+for Perfluorooctanoic Acid (PFOA) and Perfluorooctane Sulfonate (PFOS). Available at
+https://www.epa.gov/sites/default/files/2015-09/documents/pfoa-pfos-provisional.pdf.
+United States Environmental Protection Agency (USEPA). 2022a. IRIS Toxicological Review of
+Perfluorobutanoic Acid (PFBA) and Related Salts (Final Report, 2022). Integrated Risk
+Information System, Center for Public Health and Environmental Assessment, Office of
+Research and Development, U.S. Environmental Protection Agency, Washington DC,
+EPA/635/R-22/277F
+United States Environmental Protection Agency (USEPA). 2022b. Toxicological Review of
+Perfluorohexanoic Acid [CASRN 307-24-4] and Related Salts (External Review Draft, 2022).
+Integrated Risk Information System, Center for Public Health and Environmental Assessment,
+Office of Research and Development, U.S. Environmental Protection Agency, Washington DC,
+EPA/635/R-21/312a
+York RG 2003. Oral (Gavage) Repeated Dose 90-Day Toxicity Study of Potassium
+Perfluorobutane Sulfonate (PFBS) in Rats. Argus Research Protocol Number 418-026.
+Zeng HC, Li YY, Zhang L, et al. 2011. Prenatal exposure to perfluorooctanesulfonate in rat
+resulted in long-lasting changes of expression of synapsis and synaptophysin. Synpase 65(3):
+225-33.
+
