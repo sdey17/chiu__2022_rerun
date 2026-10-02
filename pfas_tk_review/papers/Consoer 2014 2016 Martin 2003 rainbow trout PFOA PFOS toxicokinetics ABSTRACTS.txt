@@ -1,0 +1,163 @@
+1. Environ Toxicol Chem. 2016 Mar;35(3):717-27. doi: 10.1002/etc.3230. Epub 2016 
+Feb 9.
+
+Toxicokinetics of perfluorooctane sulfonate in rainbow trout (Oncorhynchus 
+mykiss).
+
+Consoer DM(1)(2), Hoffman AD(1), Fitzsimmons PN(1), Kosian PA(1), Nichols JW(1).
+
+Author information:
+(1)Office of Research and Development, National Health and Environmental Effects 
+Research Laboratory, Mid-Continent Ecology Division, US Environmental Protection 
+Agency, Duluth, Minnesota, USA.
+(2)Department of Toxicology, University of Minnesota-Duluth, Duluth, Minnesota, 
+USA.
+
+Rainbow trout (Oncorhynchus mykiss) confined to respirometer-metabolism chambers 
+were dosed with perfluorooctane sulfonate (PFOS) by intra-arterial injection and 
+sampled to obtain concentration time-course data for plasma and either urine or 
+expired water. The data were then analyzed using a 2-compartment 
+clearance-volume model. Renal and branchial clearance rates (mL/d/kg) determined 
+for all experiments averaged 19% and 81% of total clearance, respectively. 
+Expressed as mean values for all experiments, the steady-state volume of 
+distribution was 277 mL/kg and the terminal half-life was 86.8 d. Additional 
+animals were exposed to PFOS in water, resulting in an average calculated 
+branchial uptake efficiency of 0.36%. The renal clearance rate determined in the 
+present study is approximately 75 times lower than that determined in earlier 
+studies with perfluorooctanoate (PFOA). Previously, it was suggested that PFOA 
+is a substrate for membrane transporters in the trout kidney. The present study 
+suggests that glomerular filtration may be sufficient to explain the observed 
+renal clearance rate for PFOS, although a role for membrane transporters cannot 
+be ruled out. These findings demonstrate that models developed to predict the 
+bioaccumulation of perfluoroalkyl acids by fish must account for differences in 
+renal clearance of individual compounds.
+
+© 2015 SETAC.
+
+DOI: 10.1002/etc.3230
+PMID: 26332333 [Indexed for MEDLINE]
+
+
+2. Aquat Toxicol. 2014 Nov;156:65-73. doi: 10.1016/j.aquatox.2014.07.022. Epub
+2014  Aug 8.
+
+Toxicokinetics of perfluorooctanoate (PFOA) in rainbow trout (Oncorhynchus 
+mykiss).
+
+Consoer DM(1), Hoffman AD(1), Fitzsimmons PN(1), Kosian PA(1), Nichols JW(2).
+
+Author information:
+(1)US Environmental Protection Agency, Office of Research and Development, 
+National Health and Environmental Effects Research Laboratory, Mid-Continent 
+Ecology Division, 6201 Congdon Boulevard, Duluth, MN 55804, USA.
+(2)US Environmental Protection Agency, Office of Research and Development, 
+National Health and Environmental Effects Research Laboratory, Mid-Continent 
+Ecology Division, 6201 Congdon Boulevard, Duluth, MN 55804, USA. Electronic 
+address: nichols.john@epa.gov.
+
+Rainbow trout (Oncorhynchus mykiss) confined to respirometer-metabolism chambers 
+were dosed with perfluorooctanoate (PFOA) by intra-arterial (i.a.) injection and 
+sampled to obtain concentration time-course data for plasma, urine, and expired 
+water. The data were then analyzed by compartmental modeling to estimate rates 
+of renal and branchial clearance. Averaged across all animals, the renal 
+clearance rate (1.35mL/h/kg) was more than ten times greater than the branchial 
+clearance rate (0.12mL/h/kg). The average whole-body elimination half-life was 
+12.6d, which is somewhat longer than values obtained in previous studies with 
+smaller trout. The tissue distribution of PFOA was assessed by collecting 
+tissues at the end of chambered exposures and in a separate tissue time-course 
+experiment. From the time-course study it appeared that an internal steady-state 
+was established within 24h of i.a. injection. Consistent with previous studies, 
+the rank order of PFOA concentration in tissues at steady state was: 
+plasma>liver>kidney>muscle. In a second set of chambered experiments, fish were 
+exposed to PFOA in water to determine the rate of branchial uptake. Branchial 
+uptake rates were too low to assess directly by measuring PFOA concentrations in 
+inspired and expired water. Uptake rate constants (mean 0.19L/d/kg; 0.1% uptake 
+efficiency) were therefore estimated by compartmental modeling using plasma 
+concentration time-course data and model parameters derived from the elimination 
+experiments. It is clear from this effort that elimination of PFOA by trout 
+occurs primarily via the renal route. This finding is consistent with numerous 
+studies of mammals and suggests that trout possess membrane transporters that 
+facilitate the movement of PFOA from plasma to urine.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.aquatox.2014.07.022
+PMID: 25150511 [Indexed for MEDLINE]
+
+
+3. Environ Toxicol Chem. 2003 Jan;22(1):196-204.
+
+Bioconcentration and tissue distribution of perfluorinated acids in rainbow 
+trout (Oncorhynchus mykiss).
+
+Martin JW(1), Mabury SA, Solomon KR, Muir DC.
+
+Author information:
+(1)University of Guelph, Department of Environmental Biology, Bovey Building, 
+Guelph, Ontario N1G 2W1, Canada. jmartin@chem.utoronto.ca
+
+Comment in
+    Environ Toxicol Chem. 2013 Nov;32(11):2421-3. doi: 10.1002/etc.2376.
+
+Rainbow trout (Oncorhynchus mykiss) were exposed simultaneously to a homologous 
+series of perfluoroalkyl carboxylates and sulfonates in a flow-through system to 
+determine compound-specific tissue distribution and bioconcentration parameters 
+for perfluorinated acids (PFAs). In general, PFAs accumulated to the greatest 
+extent in blood > kidney > liver > gall bladder. Carboxylates and sulfonates 
+with perfluoroalkyl chain lengths shorter than seven and six carbons, 
+respectively, could not be detected in most tissues and were considered to have 
+insignificant bioconcentration factors (BCFs). For detectable PFAs, carcass BCFs 
+increased with increasing length of the perfluoroalkyl chain, ranging from 4.0 
+to 23,000, based on wet weight concentrations. Carboxylate carcass BCFs 
+increased by a factor of eight for each additional carbon in the perfluoroalkyl 
+chain between 8 and 12 carbons, but this relationship deviated from linearity 
+for the longest PFA tested, possibly because of decreased gill permeability. In 
+general, half-lives (3.9-28 d) and uptake rates (0.053-1.700 L/kg/d) also 
+increased with increasing length of the perfluoroalkyl chain in all tissues. 
+Sulfonates had greater BCFs, half-lives, and rates of uptake than the 
+corresponding carboxylate of equal perfluoroalkyl chain length, indicating that 
+hydrophobicity, as predicted by the critical micelle concentration, is not the 
+only determinant of PFA bioaccumulation potential and that the acid function 
+must be considered.
+
+PMID: 12503765 [Indexed for MEDLINE]
+
+
+4. Environ Toxicol Chem. 2003 Jan;22(1):189-95.
+
+Dietary accumulation of perfluorinated acids in juvenile rainbow trout 
+(Oncorhynchus mykiss).
+
+Martin JW(1), Mabury SA, Solomon KR, Muir DC.
+
+Author information:
+(1)University of Guelph, Department of Environmental Biology, Bovey Building, 
+Guelph, Ontario N1G 2W1, Canada. jmartin@chem.utoronto.ca
+
+Comment in
+    Environ Toxicol Chem. 2013 Nov;32(11):2421-3. doi: 10.1002/etc.2376.
+
+Perfluorinated acids (PFAs) recently have emerged as persistent global 
+contaminants after their detection in wildlife and humans from various 
+geographic locations. The highest concentrations of perfluorooctane sulfonate 
+are characteristically observed in high trophic level organisms, indicating that 
+PFAs may have a significant bioaccumulation potential. To examine this 
+phenomenon quantitatively, we exposed juvenile rainbow trout (Oncorhynchus 
+mykiss) simultaneously to a homologous series of perfluoroalkyl carboxylates and 
+sulfonates for 34 d in the diet, followed by a 41-d depuration period. Carcass 
+and liver concentrations were determined by using liquid chromatography-tandem 
+mass spectrometry, and kinetic rates were calculated to determine 
+compound-specific bioaccumulation parameters. Depuration rate constants ranged 
+from 0.02 to 0.23/d, and decreased as the length of the fluorinated chain 
+increased. Assimilation efficiency was greater than 50% for all test compounds, 
+indicating efficient absorption from food. Bioaccumulation factors (BAFs) ranged 
+from 0.038 to 1.0 and increased with length of the perfluorinated chain; 
+however, BAFs were not statistically greater than 1 for any PFA. Sulfonates 
+bioaccumulated to a greater extent than carboxylates of equivalent 
+perfluoroalkyl chain length, indicating that hydrophobicity is not the sole 
+determinant of PFA accumulation potential and that the acid function must be 
+considered. Dietary exposure will not result in biomagnification of PFAs in 
+juvenile trout, but extrapolation of these bioaccumulation parameters to larger 
+fish and homeothermic organisms should not be performed.
+
+PMID: 12503764 [Indexed for MEDLINE]

@@ -1,0 +1,114 @@
+1. Food Chem. 2013 Nov 15;141(2):1489-95. doi: 10.1016/j.foodchem.2013.04.035.
+Epub  2013 Apr 19.
+
+Transfer of perfluorooctane sulfonic acid (PFOS) from contaminated feed to dairy 
+milk.
+
+van Asselt ED(1), Kowalczyk J, van Eijkeren JC, Zeilmaker MJ, Ehlers S, Fürst P, 
+Lahrssen-Wiederholt M, van der Fels-Klerx HJ.
+
+Author information:
+(1)RIKILT, Wageningen University and Research Centre, P.O. Box 230, 6700 AE 
+Wageningen, The Netherlands. esther.vanasselt@wur.nl
+
+Dietary intake is the predominant route for human exposure to perfluorooctane 
+sulfonic acid (PFOS). Single pollution events may thus affect human exposure if 
+polluted ground and water is used to produce animal feed or food. In this study, 
+a physiologically based pharmacokinetic (PBPK-) model is derived that describes 
+the uptake of PFOS from contaminated feed by cows and its subsequent elimination 
+through the cows' milk. Parameter values of the model were estimated by fitting 
+to experimental data of a cow feeding trial. Model calculations showed that 
+almost all PFOS ingested is excreted through the cows' milk. The elimination 
+rate, however, was low as the estimated half-life in the cow was 56days and it 
+may, thus, take a long time after an initial pollution event to produce 
+PFOS-free milk. The derived model can be used to estimate the transfer of PFOS 
+through the dairy food chain and can be used for comparison of various 
+contamination routes.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foodchem.2013.04.035
+PMID: 23790943 [Indexed for MEDLINE]
+
+
+2. J Agric Food Chem. 2014 Feb 5;62(5):1167-73. doi: 10.1021/jf404355b. Epub 2014
+ Jan 28.
+
+Distribution and excretion of perfluorooctane sulfonate (PFOS) in beef cattle 
+(Bos taurus).
+
+Lupton SJ(1), Huwe JK, Smith DJ, Dearfield KL, Johnston JJ.
+
+Author information:
+(1)Biosciences Research Laboratory, ARS, USDA , 1605 Albrecht Boulevard, Fargo, 
+North Dakota 58102, United States.
+
+Perfluorooctane sulfonate (PFOS), a perfluoroalkyl surfactant used in many 
+industrial products, is present in industrial wastes and in wastewater treatment 
+plant biosolids. Biosolids are commonly applied to pastures and crops used for 
+animal feed; consequently, PFOS may accumulate in the edible tissues of grazing 
+animals or in animals exposed to contaminated feeds. There are no data on the 
+absorption, distribution, and excretion of PFOS in beef cattle, so a 28-day 
+study was conducted to determine these parameters for PFOS in three Lowline 
+Angus steers given a single oral dose of PFOS at approximately 8 mg/kg body 
+weight. PFOS concentrations were determined by liquid chromatography-tandem mass 
+spectrometry in multiple tissue compartments. The major route of excretion was 
+in the feces (11 ± 1.3% of the dose, mean ± standard deviation) with minimal 
+PFOS elimination in urine (0.5 ± 0.07% of the dose). At day 28 the mean plasma 
+concentration remained elevated at 52.6 ± 3.4 μg/mL, and it was estimated that 
+35.8 ± 4.3% of the dose was present in the plasma. Plasma half-lives could not 
+be calculated due to multiple peaks caused by apparent redistributions from 
+other tissues. These data indicate that after an acute exposure PFOS persists 
+and accumulates in edible tissues. The largest PFOS body burdens were in the 
+blood (∼36%), carcass remainder (5.7 ± 1.6%), and the muscle (4.3 ± 0.6%). It 
+was concluded that PFOS would accumulate in edible tissues of beef, which could 
+be a source of exposure for humans.
+
+DOI: 10.1021/jf404355b
+PMID: 24443932 [Indexed for MEDLINE]
+
+
+3. Chemosphere. 2016 Aug;156:280-285. doi: 10.1016/j.chemosphere.2016.05.003.
+Epub  2016 May 12.
+
+Perfluoroalkylated substances in edible livers of farm animals, including 
+depuration behaviour in young sheep fed with contaminated grass.
+
+Zafeiraki E(1), Vassiliadou I(2), Costopoulou D(2), Leondiadis L(2), Schafft 
+HA(3), Hoogenboom RLAP(1), van Leeuwen SPJ(4).
+
+Author information:
+(1)RIKILT-Wageningen UR, Akkermaalsbos 2, 6708 WB Wageningen, The Netherlands.
+(2)Mass Spectrometry and Dioxin Analysis Laboratory, NCSR 'Demokritos', 
+Neapoleos 27, 15310 Athens, Greece.
+(3)Federal Institute for Risk Assessment (BfR), Berlin, Germany.
+(4)RIKILT-Wageningen UR, Akkermaalsbos 2, 6708 WB Wageningen, The Netherlands. 
+Electronic address: stefan.vanleeuwen@wur.nl.
+
+Perfluoroalkylated substances (PFASs) present a potential health risk for 
+consumers. In animals these compounds are known to accumulate in livers. In 
+order to determine potential PFASs contamination in commercially available 
+livers, samples from farmed sheep, horses, cows, pigs and chicken were collected 
+from the Dutch market. PFOS was the only detectable PFAS and its concentration 
+was higher in free ranging animals like cows and sheep. The detected levels of 
+PFOS in the liver samples were very low (up to 4.5 ng g(-1) ww). To further 
+study the kinetic behaviour in foraging animals, samples from a study in which 
+sheep were fed with grass obtained from a river floodplain, were examined. PFOS 
+was the only detectable PFAS in the contaminated grass pellets, showing a level 
+of about 0.5 μg kg(-1). Young blackhead sheep were fed with either clean or 
+contaminated grass for a period up to 112 days. A time-dependent increase in 
+liver PFOS concentrations was observed from 2.4 to 10.9 ng g(-1) ww after 8 and 
+112 days respectively. A time-dependent depuration was observed in livers of 
+animals switched to clean grass after 56 days of exposure, from 9.2 to 
+4.7 ng g(-1) ww after 64 and 112 days respectively. The percentage of PFOS 
+ingested from the grass and retained in the liver was estimated to be 12% at day 
+56, and decreased gradually to 6% after 56 days on clean grass, showing that the 
+decrease in levels is not only caused by an increase in liver weight. Levels 
+detected in commercial livers but also those in the sheep study would not lead 
+to exceedance of the current TDI for PFOS set by EFSA. Therefore, it can be 
+assumed that they do not present a risk for human health.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.chemosphere.2016.05.003
+PMID: 27179427 [Indexed for MEDLINE]

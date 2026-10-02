@@ -1,0 +1,1053 @@
+pmc Environ Sci Technol Environ Sci Technol 822 acssd 0213155 es Environmental Science & Technology 0013-936X 1520-5851 pmc-is-collection-domain yes pmc-collection-title ACS AuthorChoice PMC11500426 PMC11500426.1 11500426 11500426 39394996 10.1021/acs.est.4c05405 1 Article 
+### Development of a
+Physiologically Based Pharmacokinetic
+(PBPK) Model for F-53B in Pregnant Mice and Its Extrapolation
+to Humans Zhang Jing † Li Shen-Pan † Li Qing-Qing ‡ Zhang Yun-Ting † https://orcid.org/0000-0002-2578-3369 Dong Guang-Hui † https://orcid.org/0000-0001-8285-4795 Canchola Alexa § ∥ https://orcid.org/0000-0003-3918-1841 Zeng Xiaowen * † https://orcid.org/0000-0003-3355-6921 Chou Wei-Chun * § ∥ 
+### † Joint
+International Research Laboratory of Environment and Health, Ministry
+of Education, Guangdong Provincial Engineering Technology Research
+Center of Environmental Pollution and Health Risk Assessment, Department
+of Occupational and Environmental Health, School of Public Health, Sun Yat-sen University , Guangzhou 510080, China 
+### ‡ Acacia
+Lab for Implementation Science, Institute for Global Health, Dermatology Hospital of Southern Medical University , Guangzhou 510515, China 
+### § Department
+of Environmental Sciences, University of
+California , Riverside, California 92521, United States 
+### ∥ Environmental
+Toxicology Graduate Program, University
+of California , Riverside, California 92521, United States 
+### * E-mail: zxw63@mail.sysu.edu.cn . 
+### * E-mail: weichunc.chou@ucr.edu . 12 10 2024 22 10 2024 58 42 473391 18928 18939 01 06 2024 30 09 2024 28 09 2024 24 10 2024 25 10 2024 14 02 2026 © 2024 The Authors. Published by American Chemical Society 2024 The Authors https://creativecommons.org/licenses/by-nc-nd/4.0/ Permits non-commercial access and re-use, provided that author attribution and integrity are maintained; but does not permit creation of adaptations or other derivative works ( https://creativecommons.org/licenses/by-nc-nd/4.0/ ). Chlorinated polyfluorinated ether sulfonic acid (F-53B),
+a commonly
+utilized alternative for perfluorooctane sulfonate, was detected in
+pregnant women and cord blood recently. However, the lack of detailed
+toxicokinetic information poses a significant challenge in assessing
+the human risk assessment for F-53B exposure. Our study aimed to develop
+a physiologically based pharmacokinetic (PBPK) model for pregnant
+mice, based on toxicokinetic experiments, and extrapolating it to
+humans. Pregnant mice were administered 80 μg/kg F-53B orally
+and intravenously on gestational day 13. F-53B concentrations in biological
+samples were analyzed via ultraperformance liquid chromatography–mass
+spectrometry. Results showed the highest F-53B accumulation in the
+brain, followed by the placenta, amniotic fluid, and liver in fetal
+mice. These toxicokinetic data were applied to F-53B PBPK model development
+and evaluation, and Monte Carlo simulations were used to characterize
+the variability and uncertainty in the human population. Most of the
+predictive values were within a 2-fold range of experimental data
+(>72%) and had a coefficient of determination (R 2 ) greater
+than 0.68. The developed mouse model was then extrapolated to the
+human and evaluated with human biomonitoring data. Our study provides
+an important step toward improving the understanding of toxicokinetics
+of F-53B and enhancing the quantitative risk assessments in sensitive
+populations, particularly in pregnant women and fetuses. The first physiologically based pharmacokinetic
+(PBPK) model
+for F-53B in pregnant mice was developed and extrapolated to humans,
+providing reasonable predictions and facilitating the potential application
+of risk assessments to other PFAS compounds. F-53B physiologically based pharmacokinetic (PBPK)
+modeling Monte Carlo (MC) simulation perfluorooctanesulfonate
+(PFOS) University of California, Riverside 10.13039/100007602 NA Guangzhou Municipal Science and Technology Project 10.13039/501100010256 2024A04J6476 Natural Science Foundation of Guangdong Province 10.13039/501100003453 2021B1515020015 National Natural Science Foundation of China 10.13039/501100001809 82073503 pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access yes pmc-prop-olf no pmc-prop-manuscript no pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement yes pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes pmc-license-ref CC BY-NC-ND document-id-old-9 es4c05405 document-id-new-14 es4c05405 ccc-price 
+### 1 
+### Introduction Chlorinated polyfluorinated
+ether sulfonic acid (F-53B), a mixture
+of mostly 6:2 and 8:2 Cl-PFESAs, was first synthesized in 1970 and
+was subsequently used widely as a mist suppressant in Chinese industries. 1 With global restrictions on perfluorooctanesulfonate
+(PFOS), F-53B has emerged as the primary alternative, leading to substantial
+market expansion in China. However, concerns regarding its environmental
+presence and potential toxicity have garnered considerable attention. 1 F-53B is widely distributed in various environmental
+matrices, including air, 2 , 3 surface water, 4 , 5 and sediments. 6 Several epidemiological
+studies have indicated that F-53B can be detected in hair, urine,
+and nail samples. 7 Additionally, due to
+its potential trans-placental effect, F-53B has been detected in maternal
+and cord blood, breast milk, and placenta. 8 , 9 − 11 Regarding the potential toxicities of F-53B, limited
+toxicological studies indicated that F-53B might contribute to hepatic
+toxicity, 12 reproductive toxicity, 13 development toxicity, 14 and gut microbiota dysbiosis. 12 Despite
+these emerging health concerns, the lack of regulation of F-53B has
+led to its continued widespread use. Early life represents a
+critical period of susceptibility to exogenous
+chemical exposure. 15 , 16 , 17 Several epidemiological studies have indicated that F-53B can penetrate
+the placental barrier 8 , 18 and might be associated with
+a range of adverse birth outcomes in human populations, including
+preeclampsia, 19 gestational diabetes mellitus, 20 , 21 fetal birth weight reduction and increased preterm delivery risk, 11 , 22 endocrine hormone changes, 23 - 25 and childhood neurodevelopmental
+deficiencies. 26 These effects may have
+detrimental consequences on the offspring’s growth and development.
+Despite the documented potential toxicities, regulating the use of
+F-53B and characterizing their potential risks is difficult. This
+is primarily due to lack of detailed toxicokinetic (TK) information
+necessary for understanding the absorption, distribution, metabolism,
+and elimination (ADME) properties of F-53B. Furthermore, a mechanistic
+model for extrapolating the dosimetry from animal to human populations,
+as well as accounts of TK variability between species and across life
+stages, are crucial components of comprehensive risk assessment strategies
+for PFAS compounds. 27 This gap can be addressed
+by developing a physiologically based pharmacokinetic (PBPK) model
+validated across species and life stages. Previously, our laboratory
+successfully developed a generic PBPK
+model for PFOS within a Bayesian framework, applicable to multiple
+species including mice, rats, monkeys, and humans. 28 Subsequently, this model was extended to include additional
+life stages, such as gestation and lactation. 29 Building upon our previous modeling efforts and considering scientific
+data gaps, the aim of this study was to construct a PBPK model for
+F-53B specifically for pregnant mice and humans. This model aims to
+support risk assessment efforts focused on sensitive subpopulations,
+notably pregnant women and fetuses. Utilizing in-house experimental
+data from single-dose experiments involving pregnant C57BL/6J female
+mice administered F-53B orally and intravenously (IV), allows us to
+calibrate and validate the PBPK model for F-53B in pregnant mice.
+Monte Carlo (MC) simulations were incorporated into the model to simulate
+population by characterizing the uncertainty and variability of model
+parameters on F-53B dosimetry during pregnancy. Subsequently, this
+model was further extrapolated to human populations and validated
+with human biomonitoring data collected from the literature. All model
+code and raw data are openly available on GitHub ( https://github.com/choulab210 ) to support the replication of our findings and allow the application
+and extension of this model to other PFAS compounds. 
+### 2 
+### Materials and Methods 
+### 2.1 
+### Chemical and Materials F-53B (CAS:
+73606-19-6) was purchased from Jianglaibio Co., Ltd. (Shanghai, China),
+with a purity of >97%. Chemicals were dissolved in dimethyl sulfoxide
+(DMSO) to create concentrated stock solutions. All the chemicals used
+were of HPLC grade or highest quality available; a complete description
+of target analytes and reagents is given in Tables S1 and S2 . 
+### 2.2 
+### Toxicokinetic Study in Pregnant Mice Eighty C57BL/6J female and male mice were obtained from the Medical
+Laboratory Animal Center of Guangdong, mated in a 1:1 ratio, and maintained
+under a 12 h light/dark cycle with ad libitum access to food and water.
+The study was approved by the ethics committee of Sun Yat-Sen University
+(SYSU-IACUC-2022-001602). The pregnant mice were divided into two
+groups and administered 80 μg/kg body weight (BW) of F-53B orally
+( n = 20) or via lateral tail vein injection ( n = 20) on gestation day (GD) 13. Dose setting can be found Section S1 . Samples of plasma, liver, placenta,
+urine, and feces were collected from dams, and samples of brain and
+liver were collected from fetuses from GD13 to GD17, with additional
+samples of amniotic fluid, fat, brain, heart, spleen, kidney, small
+intestine, and stomach taken at GD17. Blood samples were taken at
+specified intervals, and urine and fecal samples were collected regularly
+( Table 1 ). Samples
+were frozen at −80 °C before analysis, with the F-53B
+content measured using ultraperformance liquid chromatography and
+protein binding assays conducted by ultrafiltration centrifugation.
+Detailed treatment and calculations of protein binding methods are
+described in Sections S2–S3 and eqs S1–S2 . 
+### Table 1 
+### 
+### Summary of Experimental Data from
+Pregnant Mice used in the PBPK Model a   | Oral | IV |   | 
+ Sample size b | Measured time (h) | Measured
+time (h) | Purpose | 
+ Plasma ( n  = 4–6) c | 2, 4, 8, 12, 24,
+36, 48, 72, 96 | 0.5, 2, 4, 8, 12, 24, 48, 72, 96 | Calibration | 
+ Liver ( n  = 2–4) d | 2, 4, 8, 12, 24, 48, 96 | 2, 4, 8, 12,
+24, 48, 96 | Calibration | 
+ Fetal
+brain ( n  = 2–4) d | 2, 4, 8, 12, 24,
+48, 96 | 2, 4, 8, 12, 24, 48, 96 | Calibration | 
+ Fetal liver ( n  = 2–4) d | 2, 4, 8, 12, 24, 48, 96 | 2, 4, 8, 12, 24, 48, 96 | Evaluation | 
+ Placenta ( n  = 2–4) d | 2, 4, 8, 12, 24, 48, 96 | 2, 4, 8, 12,
+24, 48, 96 | TK study | 
+ Amniotic
+fluid ( n  = 4) | 96 | 96 | Evaluation | 
+ Fat ( n  = 4) | 96 | 96 | Evaluation | 
+ Brain ( n  = 4) e | 96 | 96 | Evaluation | 
+ Heart ( n  = 4) e | 96 | 96 | Evaluation | 
+ Spleen ( n  = 4) e | 96 | 96 | Evaluation | 
+ Kidney ( n  = 4) | 96 | 96 | TK study | 
+ Small intestine ( n  = 4) | 96 | 96 | TK study | 
+ Stomach ( n  = 4) | 96 | 96 | TK study | 
+ Urine ( n  = 4) f | 0, 0–2, 2–4, 4–8, 8–12, 12–24, 24–36, 36–48, 48–72, 72–96 | 0, 0–2, 2–4, 4–8, 8–12, 12–24, 24–36, 36–48, 48–72, 72–96 | TK study | 
+ Feces ( n  = 4) f | 0, 0–2, 2–4, 4–8, 8–12, 12–24, 24–36, 36–48, 48–72, 72–96 | 0, 0–2, 2–4, 4–8, 8–12, 12–24, 24–36, 36–48, 48–72, 72–96 | TK study | 
+
+### a PBPK, physiologically based pharmacokinetic.
+Measured time refers to the time after exposure, i.e., 0 h refers
+to the beginning of GD13; “TK study” refers to data
+only used to calculate the accumulation. 
+### b For each time point. 
+### c Obtained plasma from the repeat
+blood collection group ( n = 4) at each time point
+and additionally obtained plasma from euthanasia group ( n = 2) at time points of 2, 4, 8, 12, 24, and 48 h. 
+### d At 96 h, four were euthanized
+and at the remaining time points, two were euthanized. 
+### e The mean value of the concentrations
+in these three tissues was taken as the concentration of the rest
+of the body. 
+### f Collected
+from the repeat blood
+collection group. 
+### 2.3 
+### Development and Validation of the PBPK Model
+in Pregnant Mice A PBPK model for pregnant mice ( Figure 1 ) was developed to
+predict the time-course toxicokinetic profiles of F-53B. The developed
+PFOS PBPK models during adulthood and pregnancy in rats and humans
+from our previous studies 28 , 29 were used as the basis
+to extrapolate to the present model. Briefly, the pregnancy model
+structure comprises seven organ compartments, including plasma, liver,
+kidney, fat, mammary gland, placenta, and other parts of the body.
+The mouse and human models used a consistent model structure, assuming
+compartments were homogeneous and interconnected through the circulating
+blood system (plasma compartment). Both oral and IV exposure routes,
+based on in-house experimental data, were included in the model. Oral
+exposure to F-53B was modeled by using a two-compartment system consisting
+of the stomach and intestines. This system simulates the absorption
+of F-53B in the stomach followed by its transport to the intestine
+tract via gastric emptying. ( eqs S3–S5 ). The process of renal reabsorption has been reported to play a
+critical role in the PFAS fate and biodistribution. 30 Thus, the physiologically based descriptions, including
+renal reabsorption and basolateral/apical transporters, were included
+in both mouse and human models ( eqs S6–S9 ). The renal filtration by glomerular filtration rate (GFR) was also
+incorporated ( eqs S10–S11 ). Elimination
+of F-53B in the model was described through urine ( eq S12 ) and feces ( eq S13 ). Mass
+balance differential equations were applied to depict the rate of
+change of F-53B within each of the compartments defined in the model
+( eqs S14–S15 ). However, since the
+metabolic pathway of F-53B remains poorly understood, metabolisms
+of F-53B were not considered in our model. Gender-specific physiological
+parameters, including BW, cardiac output (QCC), the volume of mammary
+gland and fat, and glomerular filtration rate, were collected from
+the literature 31 − 34 and incorporated into the model ( Tables S3–S4 ). The abbreviations of all parameters and their meaning are listed
+in Table S3 . 
+### Figure 1 
+### A schematic of the PBPK
+model for F-53B in pregnant mice and humans.
+(A) The maternal model consisted of seven compartments, including
+the plasma, liver, placenta, fat, mammary glands, kidney, and rest
+of the body. (B) The fetal model consists of the plasma, brain, liver,
+rest of the body, and amniotic fluid. On the other hand, the fetal submodel included
+five organ compartments
+(plasma, fetal brain, fetal liver, rest of the body, and amniotic
+fluid). The fetal submodel and its circulation were defined as compartments
+separate from the maternal model. Fetal exposure to F-53B occurs exclusively
+through placental transfer, with the excretion from the fetal plasma
+to the placenta, and subsequently returning to maternal circulation
+( Figure 1 ). The transfer
+of F-53B between the placenta and fetal plasma, as well as between
+the rest of the fetal body and the amniotic fluid compartment, was
+modeled as a bidirectional diffusion process governed by first-order
+rate constants (Ktrans1, Ktrans2, Ktrans3, and Ktrans4), 31 , 35 , 36 The transfer of F-53B between
+the placenta and fetus or the rest of the fetal body and the amniotic
+fluid during pregnancy was defined using eqs S16 – S19 . 
+### 2.3.1 
+### Model Parameterization and Calibration The parameters for the pregnancy PBPK model for F-53B in both mice
+and humans include physiological and chemical-specific parameters.
+Physiological parameters, such as QCC, fractions of blood flow to
+specific tissues, BW, and the volume fractions of individual organs,
+were collected from previous studies 32 , 34 − 48 ( Table S4 ). Among these parameters, some
+parameters, such as BW, QCC, volume of the mammary gland, fat (VF),
+placenta (VPla), and blood flow of mammary, etc., were described as
+growth equations reflecting the dynamic changes function during pregnancy
+( Figure S1 and Tables S5–S6 ). Chemical-specific
+parameters included partition coefficients, rate constants of absorption/elimination,
+partition coefficients, protein binding parameters, and renal reabsorption
+parameters. The protein binding, partition coefficients, and absorption/elimination
+parameters were derived from our in-house experimental data. The equations
+were described ( eqs S3, S20–S23 ).
+Other toxicokinetic parameters derived from our in-house experimental
+data were described in eqs S24–S25 . Due to the absence of experimental values, the renal reabsorption
+parameters (e.g., Vmax_baso_invitro, Km_baso, Vmax_apical_invitro,
+and Km_apical) for both pregnant mice and fetus models were assumed
+to be the same as fitted values from previously published gestational
+PFOS PBPK models in rats and humans. 29 These
+reabsorption parameters were used to describe the Michaelis–Menten
+kinetic equation for understanding the renal handling of F-53B, including
+its reabsorption back into the bloodstream, which influences the overall
+clearance and retention. During model calibration, these parameters
+were set as initial values. Before model calibration, a sensitivity
+analysis was conducted to identify the most influential parameters.
+These identified parameters were subsequently optimized with observed
+TK profiles by using the Nelder–Mead approach implemented with
+the modFit function in the R package FME. 49 All collected and calibrated chemical-specific parameters for mouse
+and human models are presented in Table S7 . 
+### 2.3.2 
+### Model Evaluation and Sensitivity Analysis The model calibration was conducted by comparing its predictions
+with observations from the independent evaluation data set, which
+consisted of an experimental TK data set excluded from calibration
+data ( Table 1 ). Model
+performance was evaluated through statistical criteria and goodness-of-fit
+analysis in accordance with the PBPK model guidance published by the
+World Health Organization (WHO). 50 The
+goodness-of-fit analysis involved calculating the coefficient of determination
+(R 2 ) from a linear regression of log-transformed observed
+versus predicted values for both the calibration and evaluation data
+sets. The model was considered valid and acceptable if the predicted
+toxicokinetic profiles matched the observed values, and the predictions
+fell within a 2-fold range of the experimental data. To identify
+the most sensitive parameters that significantly influence model simulations
+(e.g., selected dose metrics), we conducted local sensitivity analyses.
+This analysis aimed to determine which model parameters had high impacts
+on maternal and fetal areas under the curves (AUC) in plasma. Specifically,
+the AUCs were derived from the gestational model in mice following
+a single oral dose of 80 μg/kg/day and in humans following a
+daily dose of 0.122 ng/kg/day over a pre-pregnancy duration of 30
+years and a pregnancy duration of 40 weeks. Each parameter was varied
+by 1% of its original value to assess its effect on the model output,
+and the normalized sensitivity coefficient (NSC) was calculated. 31 , 35 , 36 , 51 An absolute NSC value of ≥30% was considered indicative of
+significant influence. 29 The detailed equations
+are provided eqs S26–S27 . 
+### 2.4 
+### Human PBPK Model Extrapolation and Monte Carlo
+Analysis The structure of the PBPK model for F-53B in pregnant
+women was consistent with that of the mice model. Once the mouse PBPK
+model was calibrated, we extrapolated its application to humans by
+adjusting it to reflect differences between species in physiological
+and chemical-specific parameters. This involved replacing the physiological
+parameters, such as tissue volume and blood flow in mice, with corresponding
+parameters for humans ( Table S4 ). While
+mice had an average body weight of 0.025 kg in experimental measurements,
+humans were assumed to be 60 kg. Several rate constants ( k ) in humans including absorption, elimination, and renal reabsorption
+parameters ( Table S7 ) were estimated using
+an allometric scaling equation. 52 where k human and k mouse are the rate constants in humans and mouse,
+respectively. BW human and BW mouse refer to the body weight in humans and mice, respectively,
+and −0.25 is the allometric exponent. In addition, the human
+biomonitoring data sets obtained from the literature (refer to Table S10 ) were used to validate the human PBPK
+model. Given the limited availability of detailed human population
+exposure information, exposure doses were determined based on Estimated
+daily intakes (EDIs) reported in the literature, ranging from 0.067
+ng/kg/day to 1.87 ng/kg/day ( Table S8 ).
+Utilizing these exposure doses, predicted values were obtained by
+simulating exposure from birth to 30 years along with 38 weeks of
+pregnancy (collection time points for most biomonitoring data sets)
+and subsequently compared with measured data. The detailed assumption
+was provided in Section S7 . Monte
+Carlo analyses were applied to pregnancy PBPK models of humans to
+characterize the uncertainty and interindividual variability of parameters
+on model output. Only influential parameters (i.e., parameters with
+NSC values ≥30%) and calibration parameter values were included
+in the Monte Carlo analyses, with their mean values considered as
+the central tendency of the distributions ( Table S9 ). The parameter values were then randomly sampled based
+on predefined probability distributions from previous studies. 28 , 29 , 34 Each parameter distribution was
+truncated at the 2.5th and 97.5th percentiles to establish the upper
+and lower bounds ( Table S9 ), with the details
+described ( Section S8 ). 34 
+### 2.5 
+### Code Availability and Result Reproducibility The PBPK model was implemented by using the R package “mrgsolve”. 53 Ordinary differential equations (ODEs) were
+written in FORTRAN and solved by the DLSODA solver to significantly
+speed up the calculations. The model code, along with all data sets
+utilized for calibration and evaluation of the present PBPK models,
+can be downloaded from GitHub at the following link: https://github.com/choulab210 . 
+### 3 
+### Results 
+### 3.1 
+### Pharmacokinetic Data The temporal
+trends of F-53B in pregnant and fetal mice administered orally and
+intravenously are shown in Figure S2 , with
+the peak plasma concentrations occurring at 24 h (0.25 μg/mL)
+and 8 h (0.37 μg/mL) in pregnant mice. Figure 2 shows the accumulation of F-53B in organs
+and body fluids after 96 h of administration. The accumulations of
+F-53B in selected tissue/organs through the oral (O) and IV administration
+routes were as follows: liver (O: 25.72%, IV: 30.14%) > plasma
+(O:
+22.51%, IV: 25.16%) ≈ kidney (O: 17.79%, IV: 23.11%) > fetal
+brain (O: 11.03%, IV: 12.52%) > placenta (O: 4.16%, IV: 4.62%)
+≈
+amniotic fluid (O: 3.35%, IV: 4.08%) ≈ intestine (O: 2.27%,
+IV: 4.54%) > fetal liver (O: 1.47%, IV: 1.99%) > other tissues
+(O:
+0.17%, IV: 1.21%), which indicated that the liver was the target organ
+of F-53B accumulation in pregnant mice, and the fetal brain was the
+main organ in the fetus. Using protein binding assays, we found that
+F-53B was highly bound to plasma proteins, with a binding ratio of
+98.70% ± 0.56% and 99.54% ± 0.19% by oral and intravenous
+administration, respectively ( Table S11 ). In addition, after administration of 80 μg/kg F-53B to pregnant
+mice for 96 h, the excreted percentage via urine was 33.72% ±
+4.65% and 32.55% ± 4.25%, respectively, and via feces was 2.30%
+± 1.39% and 2.81% ± 0.38%, respectively. The clearance was
+determined to be 2.33 ± 1.21 and 1.82 ± 1.08 mL/h/kg. Other
+TK parameters were summarized in Table S12 . 
+### Figure 2 
+### Percentage of F-53B accumulation in pregnant mice and fetal tissues
+after 96 h of exposure through (A) oral and (B) intravenous (IV) administrations.
+Different colors represent various tissues/organs and their respective
+accumulation percentages. 
+### 3.2 
+### Model Calibration and Evaluation for Mice The F-53B PBPK model, developed based on oral and IV administration
+corresponding to in-house pharmacokinetic studies, was calibrated
+with F-53B concentrations in plasma and target organ concentrations
+(e.g., maternal plasma, maternal liver, and fetal brain) of pregnant
+and fetal mice. Global goodness-of-fit was evaluated by comparing
+model predictions against observed values and estimating the residual
+between predictions and observations ( Figure 3 ). The model demonstrated satisfactory performance
+on both calibration and evaluation data set measured in pregnant and
+fetal mice, with an adjusted coefficient of determination (R 2 ) of 0.68. Additionally, the percentages of the predicted values
+within 2- and 3-fold errors were 72% and 80%, respectively. These
+results indicated that over 72% and 80% of model predictions fell
+within 2- and 3-fold error ranges of measured data, respectively.
+However, the model underpredicts the lower concentrations at later
+time points, suggesting that an elimination mechanism may not be properly
+accounted for or calibrated. 
+### Figure 3 
+### Overall model calibration and evaluation results.
+(A) Global evaluation
+of the goodness of model fit between the observed ( x -axis) and predicted values ( y -axis) and (B) predicted-to-observed
+ratios versus predicted values plot for F-53B in pregnant mice. In
+plot B, the histogram represents the distribution of predicted-to-observed
+ratios. The abbreviation R 2 represents the adjusted determination
+coefficients estimated based on calibration data sets. The %2e and
+%3e indicate the percentage of predicted values was within a 2 and
+3-fold error range, respectively. The simulated results predicted by the calibrated
+PBPK model were
+compared with measured values in the plasma, liver, and fetal brain
+from calibration pharmacokinetic data through oral and IV administration
+( Figure S3A–F ). The time-course
+concentration profiles for F-53B exhibit visual consistency with the
+measured values in plasma through oral administration ( Figure S3A ), as well as in the liver and fetal
+brain through both oral ( Figures S3B,C )
+and IV administrations ( Figure S3E,F ).
+However, the model appears to underestimate the concentration of plasma
+following IV administration ( Figure S3D ). In addition, as shown in Figure 4 for evaluation data, model simulations at 96 h postexposure
+for fat and rest of body in pregnant mice and amniotic fluid and liver
+in fetal mice through oral or IV administration agreed with most of
+the data set. (The model simulations at different time points were
+presented in Figure S4 ). Overall, these
+findings indicate that the model adequately simulates both calibration
+and evaluation data sets. 
+### Figure 4 
+### Comparison of model predictions with in-house
+experimental data
+(mean ± SD). (A) Mother (fat and rest of body) and (B) fetus
+(amniotic fluid and fetal liver) at 96 h postexposure. 
+### 3.3 
+### Sensitivity Analysis The local sensitivity
+analysis was conducted based on the dose metrics of 96-h AUCs of F-53B
+concentration in plasma, liver, and placenta in pregnant mice and
+in plasma, brain, and liver in fetal mice. Figure 5 is a representative figure displaying the
+parameters with absolute values of NSCs ≥ 0.3 in the mouse
+gestational models. The complete sensitivity analysis results for
+all parameters can be found in Table S13 . The results showed that the body weight (BW) and partition coefficients
+in the rest of body (PRest) had a significant influence across maternal
+plasma, liver, and placenta AUC in mice. Similarly, the partition
+coefficient of liver and placenta significantly impacts the predictions
+of liver and placental AUC. In fetuses, beyond these maternal parameters,
+the placental transfer rate constants (Ktrans1C and Ktrans2C) notably
+impact the AUCs of plasma, brain, and liver tissues in the fetal mouse.
+Notably, the liver blood flow (QLC_Fet) and brain blood flow (QBC_Fet)
+were significant determinants of the liver AUC and brain AUC in fetal
+mice. 
+### Figure 5 
+### Normalized sensitivity coefficients (NSCs) of optimized parameters
+using the area under curves (AUCs) of F-53B in (A) plasma, liver,
+and placenta in the pregnant mice, and (B) plasma, brain, and liver
+in the fetal mice after a single oral dose of 80 μg/kg/day on
+GD13. Only parameters with NSC ≥ 0.3 are shown in the plots. 
+### 3.4 
+### Extrapolation of PBPK Model from Mice to Humans The PBPK model developed for pregnant mice was extrapolated to
+humans, and population simulations (1000 individuals) were generated
+by varying relevant physiological parameters with Monte Carlo simulations.
+By considering possible exposure scenarios and doses (the EDIs of
+F-53B range from 0.067 to 1.87 ng/kg/day, simulated at 0.122 ng/kg/day
+for a 30-year exposure along with 38 weeks of pregnancy) ( Table S8 ), which was obtained from literature, 54 − 58 the human gestational PBPK model was simulated to compare with the
+human biomonitoring data during pregnancy ( Figure 6 ). The results indicated that the median
+values (1.43 ng/mL) of simulated F-53B concentrations in human populations
+with a range of predictions (range: 0.92–2.12) were quite close
+to the values of biomonitoring data obtained from the literature 8 , 9 , 11 , 18 , 19 , 21 , 22 , 25 , 59 − 69 in maternal plasma (median: 1.66 ng/mL and range: 0.094–5.48
+ng/mL). However, the predicted cord blood concentration (median: 0.59
+and range: 0.091–1.16 ng/mL) underestimated the measured concentration
+(median: 2.75 and range: 1.26–5.27 ng/mL). 
+### Figure 6 
+### Histogram of simulated
+concentrations compared with measured values
+of F-53B concentration. The figure compares simulated concentrations
+with measured values (mean ± SD) in maternal plasma (blue circles)
+and cord blood (gray diamonds) reported in different studies and various
+human populations in China. The corresponding numeric data are available
+in Table S9 . 
+### 4 
+### Discussion This study comprehensively
+investigated the toxicokinetics of F-53B,
+a substitute for PFOS, in pregnant mice to address the gaps in the
+sparse existing data. Building on previous modeling efforts, a PBPK
+model for pregnant mice was developed, and subsequently, the model
+was extrapolated to pregnant women to enhance the utility of our findings
+for risk assessment in susceptible populations. The integration of
+Monte Carlo simulations has enabled the model to account for variability
+and uncertainty in the sensitive and estimated parameters. The accuracy
+of our predictions, validated by human biomonitoring data, underscores
+our model’s ability to assess risks to sensitive populations,
+such as pregnant women and the fetus. Additionally, our work lays
+the groundwork for extending these modeling approaches to other PFAS
+chemicals, expanding the scope of risk assessment for emerging contaminants. 
+### 4.1 
+### Sensitivity Analysis This study indicated
+that the model parameters’ sensitivities differed between the
+maternal and fetal PBPK models. In the maternal model, the most sensitive
+parameters to F-53B levels were the body weight and partition coefficients
+of the respective predicted tissues. These findings highlighted the
+impacts of changes in physiological and physicochemical parameters
+during pregnancy on the distribution of F-53B. Specifically, increased
+body weight during pregnancy can change the volume of distribution
+and metabolic and clearance rates, which are essential considerations
+for dosimetry adjustment in derivative guidance levels (i.e., reference
+dose) for pregnant populations. Moreover, the partition coefficients
+were notably impactful, indicating unique distribution characteristics
+that might modify F-53B exposure during pregnancy, which highlight
+the necessity of specific modeling of F-53B distribution in target
+tissues to better predict the chemical levels and potential toxicities.
+For the fetal model, the most sensitive parameters were the bidirectional
+placental transfer rate constants (Ktrans1C and Ktrans2C), which determine
+the rate and extent of F-53B transfer between the mother and fetus.
+These findings are consistent with previous studies in PFOS in rats
+and humans, 29 , 31 , 35 and highlight similar mechanisms of transplacental effects of PFOS
+and F-53B. However, unlike in previous PFOS studies where renal reabsorption
+and excretion parameters were frequently sensitive, 29 these parameters do not play a key role in our F-53B models.
+This distinction might reflect the differences in the pharmacokinetic
+properties between PFOS and F-53B, suggesting F-53B may interact differently
+with renal transport proteins not similar to PFOS. While the sensitivity
+analysis may suggest that the renal parameters are not as critical
+for F-53B, the model’s underprediction of elimination-phase
+concentrations ( Figure 2 ) adds uncertainty to these results. This highlights the need for
+further investigation into renal elimination mechanisms and suggests
+that additional data on renal clearance and metabolism of F-53B could
+improve the model accuracy. Our findings are critical for developing
+specific models for F-53B in the pregnant population that reflect
+the specific pharmacokinetic properties of F-53B during pregnancy. 
+### 4.2 
+### Model Evaluation and Extrapolation Although the current mice model can adequately simulate most available
+data, it has slight uncertainties when extrapolating to humans. The
+human model was extrapolated from the mice model and compared to multiple
+biomonitoring studies. Due to the biomonitoring data being collected
+from different regions in China and lacking detailed historical exposure
+information, estimating the exposure doses and sources of F-53B is
+uncertain. To account for population variability based on various
+exposure scenarios (the EDIs of F-53B ranged from 0.067 to 1.87 ng/kg/day,
+and were simulated at 0.122 ng/kg/day for 30 years prepregnancy along
+with 38 weeks of pregnancy), 54 − 58 the population exposure to F-53B was simulated by integrating the
+PBPK model with the MC simulation. The simulated values were then
+compared with the observed maternal plasma and cord blood levels from
+human biomonitoring studies. 8 , 9 , 11 , 18 , 19 , 21 , 22 , 25 , 59 − 69 As shown in Figure 5 , the estimated F-53B levels (median value: 1.44 ng/mL) in maternal
+plasma are well in agreement with the observed values (median value:
+1.66 ng/mL) but the model slightly overestimated levels in cord blood
+(predicted median value: 2.76 ng/mL vs observed median value: 0.59
+ng/mL). The reason for the overestimation is currently unknown, but
+it may be attributed to factors, such as potential differences in
+placental transfer rates, fetal metabolism, or inaccuracies in the
+estimated exposure scenarios. Additionally, the parameters used in
+the human model were extrapolated from the mice model using surface
+area scaling, which may not fully account for interspecies differences
+between humans and mice. Further refinement of the model parameters,
+especially those related to placental transport and fetal distribution,
+will help adjust our prediction more closely to observed data. Continued
+investigation is required to understand and address these uncertainties. 
+### 4.3 
+### Potential Application in Risk Assessment The physiological and biochemical parameters make significant changes
+during pregnancy, influencing the ADME properties of chemicals and
+highlighting the necessity for adjustment when deriving reference
+doses for sensitive populations. This study developed the first PBPK
+model for F-53B in pregnant mice and humans, incorporating physiological
+processes, such as transporter-mediated renal reabsorption/excretion
+and dynamic changes in physiological parameters during pregnancy.
+Our model provides a framework for understanding the relationship
+between maternal exposure and infant target tissue dose, enhancing
+the science of assessing F-53B exposure and associated health risks
+among sensitive populations. Extrapolating the model from pregnant
+mice to humans helps to depict the relationship between external and
+internal levels in pregnant women and fetuses at different developmental
+stages. Although several studies have investigated the reproductive,
+developmental, and neural toxicity of F-53B, 70 many are not representative, and the evidence remains insufficient.
+After clarifying the association and mechanism, based on epidemiological
+studies and toxic effect studies in mice, the present PBPK model can
+be used to calculate the reference dose of F-53B exposure in pregnant
+women and assess the associated health risk. 
+### 4.4 
+### Limitations Several limitations need
+to be addressed in interpreting our results. First, due to the lack
+of toxicokinetic/toxicodynamic information in pregnant mice and fetuses,
+our model was not well-fitted and could not be further parametrized.
+Some chemical-specific parameters were retained from our previous
+PFOS models 28 , 29 instead of using F-53B-specific.
+Although F-53B has a similar structure and function to PFOS, there
+are differences in binding to various proteins, such as HSA, OAT,
+and urate transporter 1 (URAT1). 71 Second,
+the elimination mechanisms, including enterohepatic circulation and
+metabolism of F-53B, were not described in the current model, which
+led to the underprediction of the lower concentration in our model
+( Figures 2 and S3 ). Our model assumed that F-53B excreted via
+bile will move to the feces directly rather than returning to the
+small intestine for potential enterohepatic circulation. However,
+recent studies have shown that long-chain PFAS, such as PFOS, can
+bind to the apical sodium-dependent bile acid transporter (ASBT, Slc10a2)
+and the Na + –taurocholate cotransport polypeptide
+(NTCP, Slc10a1), which may be responsible for the maintenance of high
+concentrations in the liver. 72 Yi et al. 73 reported that 6:2 Cl-PFESA is susceptible to
+reductive dichlorination in rats (13.6% transformation in the liver)
+to form persistent 6:2 H-PFESA. However, these physicochemical mechanisms
+have all failed to be added to the model due to a lack of detailed
+parametric descriptions of the key transporter proteins. Third, due
+to a lack of TK data and parameters from experiments on pregnant women
+and their fetuses, placental transport was described as a bidirectional
+passive diffusion process without adding the active transport possibly
+mediated by OAT4. 60 , 64 In addition, some of the chemical-specific
+parameters of the fetus were assumed to be identical with those of
+the mother. Although we calibrated these parameters with internal
+exposure levels, the biological reliability of the model would be
+improved if placental transport and fetal chemical parameters for
+F-53B were obtained by using experiments in vivo and in vitro. Examples
+of such studies include those by Personne et al., 74 who investigated placental transport parameters for cis - and trans -permethrin as well as fetal
+partition coefficients using in vivo assays, and by Ke et al., 75 who incorporated in vitro-calculated cytochrome
+P450 3A4 enzyme concentrations in a pregnancy PBPK model to better
+fit the elimination of antenatal corticosteroids. These studies demonstrate
+the feasibility of using in vivo and in vitro approaches to obtain
+relevant data for improving the model accuracy. Fourth, for the gestational
+PBPK modeling in humans, since exposure information is not fully available
+over time and across regions, we assumed that humans were exposed
+constantly and simulated internal exposure concentrations in pregnant
+women using EDIs reported ( Table S8 ). This
+simulation method had been successfully applied to PBPK modeling of
+PFOS, 29 and the plasma biomonitoring concentrations
+of pregnant women were within the range of our simulations. Fifth,
+we acknowledge that the assumptions on the Monte Carlo simulation
+about parameter distributions, such as physiological parameters being
+normally distributed and partition coefficients, rate constants, and
+other chemical-specific parameters being log-normally distributed,
+are based on commonly used practices but lack strong empirical support.
+The default coefficients of variation were set to 20% for partition
+coefficients and 30% for physiological and other chemical-specific
+parameters. These assumptions could potentially impact the results
+and conclusions of our study. A recent study 76 has shown, that different assumptions about parameter distributions
+can significantly influence the outcomes of Monte Carlo PBPK modeling,
+especially for sensitive subpopulations. Future studies should explore
+the sensitivity of model predictions to these assumptions and consider
+incorporating empirical data to better define parameter distributions.
+Finally, the potential oversimplification of time-varying physiological
+changes may present a flaw and limitation in sensitivity analysis
+( Section S7 ) and Monte Carlo simulation
+( Section S8 ). In sensitivity analysis,
+using the baseline parameter value instead of time-varying parameters
+to estimate the impact of changes on model outputs may overlook critical
+variations at different time points. Future studies should aim to
+refine this approach by incorporating more detailed data on the trajectories
+of time-varying parameters and their impacts at different stages of
+the simulation. Additionally, by only considering the variability
+in baseline physiological parameter values and updating physiological
+values using the same growth equations, we may not account for all
+individual variability and complex interactions in physiological processes.
+The growth equations might differ across various populations and individual
+cases, representing general trends but failing to capture the variability
+in growth among different populations. Further investigation and refinement
+of the model are feasible if more detailed data becomes available. 
+### Supporting Information Available The Supporting Information is
+available free of charge at https://pubs.acs.org/doi/10.1021/acs.est.4c05405 . Toxicokinetic study in pregnant mice; protein binding
+assay; equations and code for the pregnancy PBPK model; calculation
+of chemical-specific parameters; toxicokinetic parameters; sensitivity
+analysis; Monte Carlo simulations; target analytes’ information;
+instruments and reagents; model parameters description of gestational
+PBPK model of mice and humans; population estimated daily intakes
+(EDIs) for F-53B; values and parameter distributions used in the Monte
+Carlo analysis for the gestational; maternal plasma and cord blood
+biomonitoring data; F-53B plasma protein binding ratio (mean ±
+SEM); pharmacokinetic parameters of F-53B following oral or IV administration
+in pregnant mice; sensitive parameters identified by the local sensitivity
+analysis; plot of simulated values of growth equations versus experimental
+values of body weight; experimental concentrations of F-53B via oral
+and IV administrations in maternal and fetal mice; fitting plot between
+model predictions and observed values; comparison of model predictions
+of fetal liver with in-house experimental data ( PDF ) 
+### Supplementary Material 
+### es4c05405_si_001.pdf The authors
+declare no competing financial interest. 
+### Acknowledgments This study was supported by the
+National Science
+Foundation of China (No. 82073503), the Natural Science Foundation
+of Guangdong Province (No. 2021B1515020015), the Guangzhou Science
+and Technology Project (No. 2024A04J6476), and the University of California,
+Riverside College of Natural & Agricultural Sciences New Faculty
+Startup funds. 
+### References Wang S. ; Huang J. ; Yang Y. ; Hui Y. ; Ge Y. ; Larssen T. ; Yu G. ; Deng S. ; Wang B. ; Harman C. 
+ First Report of a Chinese PFOS Alternative Overlooked
+for 30 Years: Its Toxicity, Persistence, and Presence in the Environment . Environ. Sci. Technol. 
+ 2013 , 47 ( 18 ), 10163 – 10170 . 10.1021/es401525n . 23952109 
+ Liu L.-S. ; Guo Y.-T. ; Wu Q.-Z. ; Zeeshan M. ; Qin S.-J. ; Zeng H.-X. ; Lin L.-Z. ; Chou W.-C. ; Yu Y.-J. ; Dong G.-H. ; et al. Per-
+and Polyfluoroalkyl Substances in Ambient Fine
+Particulate Matter in the Pearl River Delta, China: Levels, Distribution
+and Health Implications . Environ. Pollut. 
+ 2023 , 334 , 122138 10.1016/j.envpol.2023.122138 . 37453686 
+ Liu W. ; Qin H. ; Li J. ; Zhang Q. ; Zhang H. ; Wang Z. ; He X. 
+ Atmospheric Chlorinated Polyfluorinated
+Ether Sulfonate and Ionic
+Perfluoroalkyl Acids in 2006 to 2014 in Dalian, China . Environ. Toxicol. Chem. 
+ 2017 , 36 ( 10 ), 2581 – 2586 . 10.1002/etc.3810 . 28418092 
+ Pan Y. ; Zhang H. ; Cui Q. ; Sheng N. ; Yeung L. W. Y. ; Sun Y. ; Guo Y. ; Dai J. 
+ Worldwide Distribution
+of Novel Perfluoroether Carboxylic and Sulfonic Acids in Surface Water . Environ. Sci. Technol. 
+ 2018 , 52 ( 14 ), 7621 – 7629 . 10.1021/acs.est.8b00829 . 29749740 
+ Wei C. ; Wang Q. ; Song X. ; Chen X. ; Fan R. ; Ding D. ; Liu Y. 
+ Distribution,
+Source Identification
+and Health Risk Assessment of PFASs and Two PFOS Alternatives in Groundwater
+from Non-Industrial Areas . Ecotoxicol. Environ.
+Saf. 
+ 2018 , 152 , 141 – 150 . 10.1016/j.ecoenv.2018.01.039 . 29402442 
+ MacInnis J. J. ; Lehnherr I. ; Muir D. C. G. ; Quinlan R. ; De Silva A. O. 
+ Characterization
+of Perfluoroalkyl Substances in Sediment Cores from High and Low Arctic
+Lakes in Canada . Sci. Total Environ. 
+ 2019 , 666 , 414 – 422 . 10.1016/j.scitotenv.2019.02.210 . 30802657 
+ Wang Y. ; Shi Y. ; Vestergren R. ; Zhou Z. ; Liang Y. ; Cai Y. 
+ Using Hair,
+Nail and Urine Samples for Human Exposure Assessment of Legacy and
+Emerging per- and Polyfluoroalkyl Substances . Sci. Total Environ. 
+ 2018 , 636 , 383 – 391 . 10.1016/j.scitotenv.2018.04.279 . 29709855 
+ Chen F. ; Yin S. ; Kelly B. C. ; Liu W. 
+ Chlorinated Polyfluoroalkyl Ether
+Sulfonic Acids in Matched Maternal, Cord, and Placenta Samples: A
+Study of Transplacental Transfer . Environ. Sci.
+Technol. 
+ 2017 , 51 ( 11 ), 6387 – 6394 . 10.1021/acs.est.6b06049 . 28482666 
+ Chu C. ; Zhou Y. ; Li Q. Q. ; Bloom M. S. ; Lin S. ; Yu Y. J. ; Chen D. ; Yu H. Y. ; Hu L. W. ; Yang B. Y. ; Zeng X. W. ; Dong G. H. 
+ Are Perfluorooctane
+Sulfonate Alternatives Safer? New Insights from a Birth Cohort Study . Environ. Int. 
+ 2020 , 135 , 105365 10.1016/j.envint.2019.105365 . 31830731 
+ Awad R. ; Zhou Y. ; Nyberg E. ; Namazkar S. ; Yongning W. ; Xiao Q. ; Sun Y. ; Zhu Z. ; Bergman Å. ; Benskin J. P. 
+ Emerging Per- and Polyfluoroalkyl Substances (PFAS)
+in Human Milk from Sweden and China . Environ.
+Sci. Process Impacts 
+ 2020 , 22 ( 10 ), 2023 – 2030 . 10.1039/D0EM00077A . 32940316 
+ Ji D. ; Pan Y. ; Qiu X. ; Gong J. ; Li X. ; Niu C. ; Yao J. ; Luo S. ; Zhang Z. ; Wang Q. ; Dai J. ; Wei Y. 
+ Unveiling
+Distribution of Per- and Polyfluoroalkyl Substances in
+Matched Placenta-Serum Tetrads: Novel Implications for Birth Outcome
+Mediated by Placental Vascular Disruption . Environ.
+Sci. Technol. 
+ 2023 , 57 ( 14 ), 5782 – 5793 . 10.1021/acs.est.2c09184 . 36988553 
+ Li S. ; Wu L. Y. ; Zeng H. X. ; Zhang J. ; Qin S. J. ; Liang L. X. ; Andersson J. ; Meng W. J. ; Chen X. Y. ; Wu Q. Z. ; Lin L. Z. ; Chou W. C. ; Dong G. H. ; Zeng X. W. 
+ Hepatic Injury and Ileitis Associated with Gut Microbiota
+Dysbiosis in Mice upon F–53B Exposure . Environ. Res. 
+ 2024 , 248 , 118305 10.1016/j.envres.2024.118305 . 38307183 
+ Liang L. X. ; Liang J. ; Li Q. Q. ; Zeeshan M. ; Zhang Z. ; Jin N. ; Lin L. Z. ; Wu L. Y. ; Sun M. K. ; Tan W. H. ; Zhou Y. ; Chu C. ; Hu L. W. ; Liu R. Q. ; Zeng X. W. ; Yu Y. ; Dong G. H. 
+ Early Life Exposure
+to F-53B Induces Neurobehavioral Changes in Developing Children and
+Disturbs Dopamine-Dependent Synaptic Signaling in Weaning Mice . Environ. Int. 
+ 2023 , 181 , 108272 10.1016/j.envint.2023.108272 . 37890264 
+ Wu L. ; Zeeshan M. ; Dang Y. ; Zhang Y. T. ; Liang L. X. ; Huang J. W. ; Zhou J. X. ; Guo L. H. ; Fan Y. Y. ; Sun M. K. ; Yu T. ; Wen Y. ; Lin L. Z. ; Liu R. Q. ; Dong G. H. ; Chu C. 
+ Maternal Transfer of
+F-53B Inhibited Neurobehavior in Zebrafish Offspring Larvae and Potential
+Mechanisms: Dopaminergic Dysfunction, Eye Development Defects and
+Disrupted Calcium Homeostasis . Sci. Total Environ. 
+ 2023 , 894 , 164838 10.1016/j.scitotenv.2023.164838 . 37353013 
+ Goudarzi H. ; Nakajima S. ; Ikeno T. ; Sasaki S. ; Kobayashi S. ; Miyashita C. ; Ito S. ; Araki A. ; Nakazawa H. ; Kishi R. 
+ Prenatal Exposure to
+Perfluorinated Chemicals and Neurodevelopment
+in Early Infancy: The Hokkaido Study . Sci. Total
+Environ. 
+ 2016 , 541 , 1002 – 1010 . 10.1016/j.scitotenv.2015.10.017 . 26473702 
+ Lien G. W. ; Huang C. C. ; Shiu J. S. ; Chen M. H. ; Hsieh W. S. ; Guo Y. L. ; Chen P. C. 
+ Perfluoroalkyl Substances in Cord
+Blood and Attention Deficit/Hyperactivity Disorder Symptoms in Seven-Year-Old
+Children . Chemosphere 
+ 2016 , 156 , 118 – 127 . 10.1016/j.chemosphere.2016.04.102 . 27174824 
+ Waterland R. A. ; Michels K. B. 
+ Epigenetic Epidemiology
+of the Developmental Origins
+Hypothesis . Annu. Rev. Nutr. 
+ 2007 , 27 , 363 – 388 . 10.1146/annurev.nutr.27.061406.093705 . 17465856 
+ Zheng P. ; Liu Y. ; An Q. ; Yang X. ; Yin S. ; Ma L. Q. ; Liu W. 
+ Prenatal and
+Postnatal Exposure to Emerging and Legacy Per-/Polyfluoroalkyl
+Substances: Levels and Transfer in Maternal Serum, Cord Serum, and
+Breast Milk . Sci. Total Environ. 
+ 2022 , 812 , 152446 10.1016/j.scitotenv.2021.152446 . 34952085 
+ Tian Y. ; Zhou Q. ; Zhang L. ; Li W. ; Yin S. ; Li F. ; Xu C. 
+ In Utero Exposure to
+Per-/Polyfluoroalkyl Substances
+(PFASs): Preeclampsia in Pregnancy and Low Birth Weight for Neonates . Chemosphere 
+ 2023 , 313 , 137490 10.1016/j.chemosphere.2022.137490 . 36513200 
+ Xu C. ; Zhang L. ; Zhou Q. ; Ding J. ; Yin S. ; Shang X. ; Tian Y. 
+ Exposure to Per- and Polyfluoroalkyl
+Substances as a Risk Factor for Gestational Diabetes Mellitus through
+Interference with Glucose Homeostasis . Sci.
+Total Environ. 
+ 2022 , 838 , 156561 10.1016/j.scitotenv.2022.156561 . 35691348 
+ Zhang Y. ; Chen R. ; Gao Y. ; Qu J. ; Wang Z. ; Zhao M. ; Bai X. ; Jin H. 
+ Human Serum Poly- and
+Perfluoroalkyl Substance Concentrations and Their Associations with
+Gestational Diabetes Mellitus . Environ. Pollut. 
+ 2023 , 317 , 120833 10.1016/j.envpol.2022.120833 . 36493933 
+ Xu C. ; Yin S. ; Liu Y. ; Chen F. ; Zhong Z. ; Li F. ; Liu K. ; Liu W. 
+ Prenatal Exposure to Chlorinated Polyfluoroalkyl Ether
+Sulfonic Acids and Perfluoroalkyl Acids: Potential Role of Maternal
+Determinants and Associations with Birth Outcomes . J. Hazard. Mater. 
+ 2019 , 380 , 120867 10.1016/j.jhazmat.2019.120867 . 31330388 
+ Liu X. ; Zhang L. ; Liu J. ; Zaya G. ; Wang Y. ; Xiang Q. ; Li J. ; Wu Y. 
+ 6: 2 Chlorinated Polyfluoroalkyl
+Ether Sulfonates Exert Stronger Thyroid Homeostasis Disruptive Effects
+in Newborns than Perfluorooctanesulfonate: Evidence Based on Bayesian
+Benchmark Dose Values from a Population Study . Environ. Sci. Technol. 
+ 2023 , 57 ( 31 ), 11489 – 11498 . 10.1021/acs.est.3c03952 . 37490343 
+ Liu H. ; Pan Y. ; Jin S. ; Li Y. ; Zhao L. ; Sun X. ; Cui Q. ; Zhang B. ; Zheng T. ; Xia W. ; Zhou A. ; Campana A. M. ; Dai J. ; Xu S. 
+ Associations of Per-/Polyfluoroalkyl
+Substances with Glucocorticoids and Progestogens in Newborns . Environ. Int. 
+ 2020 , 140 , 105636 10.1016/j.envint.2020.105636 . 32474218 
+ Cao Z. ; Li J. ; Yang M. ; Gong H. ; Xiang F. ; Zheng H. ; Cai X. ; Xu S. ; Zhou A. ; Xiao H. 
+ Prenatal Exposure to
+Perfluorooctane Sulfonate Alternatives and Associations with Neonatal
+Thyroid Stimulating Hormone Concentration: A Birth Cohort Study . Chemosphere 
+ 2023 , 311 ( Pt 1 ), 136940 10.1016/j.chemosphere.2022.136940 . 36273603 
+ Zhou Y. ; Li Q. ; Wang P. ; Li J. ; Zhao W. ; Zhang L. ; Wang H. ; Cheng Y. ; Shi H. ; Li J. ; Zhang Y. 
+ Associations of Prenatal PFAS Exposure
+and Early Childhood Neurodevelopment:
+Evidence from the Shanghai Maternal-Child Pairs Cohort . Environ. Int. 
+ 2023 , 173 , 107850 10.1016/j.envint.2023.107850 . 36857906 
+ National Academies
+of Sciences, Engineering, and Medicine . Building
+Confidence In New Evidence Streams For Human Health
+Risk Assessment ; National Academies of Sciences,
+Engineering, and Medicine , 2023 . 10.17226/26906 . 37579039 Chou W. C. ; Lin Z. 
+ Bayesian Evaluation
+of a Physiologically Based Pharmacokinetic (PBPK)
+Model for Perfluorooctane Sulfonate (PFOS) to Characterize the Interspecies
+Uncertainty between Mice, Rats, Monkeys, and Humans: Development and
+Performance Verification . Environ. Int. 
+ 2019 , 129 , 408 – 422 . 10.1016/j.envint.2019.03.058 . 31152982 
+ Chou W. C. ; Lin Z. 
+ Development of a Gestational
+and Lactational Physiologically Based
+Pharmacokinetic (PBPK) Model for Perfluorooctane Sulfonate (PFOS)
+in Rats and Humans and Its Implications in the Derivation of Health-Based
+Toxicity Values . Environ. Health Perspect 
+ 2021 , 129 ( 3 ), 37004 10.1289/EHP7671 . 33730865 
+ PMC7969127 Yang C. H. ; Glover K. P. ; Han X. 
+ Characterization
+of Cellular Uptake
+of Perfluorooctanoate via Organic Anion-Transporting Polypeptide 1A2,
+Organic Anion Transporter 4, and Urate Transporter 1 for Their Potential
+Roles in Mediating Human Renal Reabsorption of Perfluorocarboxylates . Toxicol. Sci. 
+ 2010 , 117 ( 2 ), 294 – 302 . 10.1093/toxsci/kfq219 . 20639259 
+ Loccisano A. E. ; Campbell J. L. Jr. ; Butenhoff J. L. ; Andersen M. E. ; Clewell H. J. III 
+ Evaluation of
+Placental and Lactational Pharmacokinetics of PFOA and PFOS in the
+Pregnant, Lactating, Fetal and Neonatal Rat Using a Physiologically
+Based Pharmacokinetic Model . Reprod. Toxicol. 
+ 2012 , 33 ( 4 ), 468 – 490 . 10.1016/j.reprotox.2011.07.003 . 21872655 
+ Yoon M. ; Schroeter J. D. ; Nong A. ; Taylor M. D. ; Dorman D. C. ; Andersen M. E. ; Clewell H. J. III 
+ Physiologically
+Based Pharmacokinetic Modeling of Fetal and Neonatal Manganese Exposure
+in Humans: Describing Manganese Homeostasis during Development . Toxicol. Sci. 
+ 2011 , 122 ( 2 ), 297 – 316 . 10.1093/toxsci/kfr141 . 21622944 
+ Worley R. R. ; Fisher J. 
+ Application of Physiologically-Based Pharmacokinetic
+Modeling to Explore the Role of Kidney Transporters in Renal Reabsorption
+of Perfluorooctanoic Acid in the Rat . Toxicol.
+Appl. Pharmacol. 
+ 2015 , 289 ( 3 ), 428 – 441 . 10.1016/j.taap.2015.10.017 . 26522833 
+ PMC4662604 Worley R. R. ; Yang X. ; Fisher J. 
+ Physiologically Based
+Pharmacokinetic
+Modeling of Human Exposure to Perfluorooctanoic Acid Suggests Historical
+Non Drinking-Water Exposures Are Important for Predicting Current
+Serum Concentrations . Toxicol. Appl. Pharmacol. 
+ 2017 , 330 , 9 – 21 . 10.1016/j.taap.2017.07.001 . 28684146 
+ PMC5664934 Loccisano A. E. ; Longnecker M. P. ; Campbell J. L. Jr ; Andersen M. E. ; Clewell H. J. III 
+ Development of PBPK Models for PFOA
+and PFOS for Human Pregnancy and Lactation Life Stages . J. Toxicol. Environ. Health Part A 
+ 2013 , 76 ( 1 ), 25 – 57 . 10.1080/15287394.2012.722523 . PMC3502013 23151209 Yoon M. ; Nong A. ; Clewell H. J. ; Taylor M. D. ; Dorman D. C. ; Andersen M. E. 
+ Evaluating Placental
+Transfer and Tissue Concentrations
+of Manganese in the Pregnant Rat and Fetuses after Inhalation Exposures
+with a PBPK Model . Toxicol. Sci. 
+ 2009 , 112 ( 1 ), 44 – 58 . 10.1093/toxsci/kfp198 . 19726578 
+ Yang X. ; Doerge D. R. ; Fisher J. W. 
+ Prediction
+and Evaluation of Route
+Dependent Dosimetry of BPA in Rats at Different Life Stages Using
+a Physiologically Based Pharmacokinetic Model . Toxicol. Appl. Pharmacol. 
+ 2013 , 270 ( 1 ), 45 – 59 . 10.1016/j.taap.2013.03.022 . 23566954 
+ Qi Z. ; Whitt I. ; Mehta A. ; Jin J. ; Zhao M. ; Harris R. C. ; Fogo A. B. ; Breyer M. D. 
+ Serial
+Determination
+of Glomerular Filtration Rate in Conscious Mice Using FITC-Inulin
+Clearance . Am. J. Physiol. Renal Physiol. 
+ 2004 , 286 ( 3 ), F590 – 6 . 10.1152/ajprenal.00324.2003 . 14600035 
+ Hanwell A. ; Linzell J. L. 
+ The Time Course of Cardiovascular Changes in Lactation
+in the Rat . J. Physiol. 
+ 1973 , 233 ( 1 ), 93 – 109 . 10.1113/jphysiol.1973.sp010299 . 4759126 
+ PMC1350541 Addis T. ; Poo L. J. ; Lew W. 
+ The Quantities
+of Protein Lost by
+the Various Organs and Tissues of the Body during a Fast . J. Biol. Chem. 
+ 1936 , 115 ( 1 ), 111 – 116 . 10.1016/S0021-9258(18)74756-X . Carter A. M. ; Gu W. 
+ Cerebral Blood Flow
+in the Fetal Guinea-Pig . J. Dev Physiol. 
+ 1988 , 10 ( 2 ), 123 – 129 . 3397505 
+ Haddad S. ; Restieri C. ; Krishnan K. 
+ Characterization
+of Age-Related Changes
+in Body Weight and Organ Weights from Birth to Adolescence in Humans . J. Toxicol Environ. Health Part A 
+ 2001 , 64 ( 6 ), 453 – 464 . 10.1080/152873901753215911 . 11732696 Kapraun D. F. ; Wambaugh J. F. ; Setzer R. W. ; Judson R. S. 
+ Empirical Models
+for Anatomical and Physiological Changes in a Human Mother and Fetus
+during Pregnancy and Gestation . PLoS One 
+ 2019 , 14 ( 5 ), e0215906 10.1371/journal.pone.0215906 . 31048866 
+ PMC6497258 Hejtmancik M. R. ; Ryan M. J. ; Toft J. D. ; Persing R. L. ; Kurtz P. J. ; Chhabra R. S. 
+ Hematological Effects in F344 Rats
+and B6C3F1Mice during
+the 13-Week Gavage Toxicity Study of Methylene Blue Trihydrate . Toxicol. Sci. 
+ 2002 , 65 ( 1 ), 126 – 134 . 10.1093/toxsci/65.1.126 . 11752692 
+ Hsu V. ; de L. T. Vieira M. ; Zhao P. ; Zhang L. ; Zheng J. H. ; Nordmark A. ; Berglund E. G. ; Giacomini K. M. ; Huang S.-M. 
+ Towards Quantitation
+of the Effects of Renal Impairment
+and Probenecid Inhibition on Kidney Uptake and Efflux Transporters,
+Using Physiologically Based Pharmacokinetic Modelling and Simulations . Clin. Pharmacokinet. 
+ 2014 , 53 ( 3 ), 283 – 293 . 10.1007/s40262-013-0117-y . 24214317 
+ PMC3927056 Davies B. ; Morris T. 
+ Physiological Parameters in Laboratory
+Animals and
+Humans . Pharm. Res. 
+ 1993 , 10 ( 7 ), 1093 – 1095 . 10.1023/A:1018943613122 . 8378254 
+ Brown R. P. ; Delp M. D. ; Lindstedt S. L. ; Rhomberg L. R. ; Beliles R. P. 
+ Physiological
+Parameter Values for Physiologically Based Pharmacokinetic Models . Toxicol. Ind. Health 
+ 1997 , 13 ( 4 ), 407 – 484 . 10.1177/074823379701300401 . 9249929 
+ Yang X. ; Doerge D. R. ; Teeguarden J. G. ; Fisher J. W. 
+ Development of a
+Physiologically Based Pharmacokinetic Model for Assessment of Human
+Exposure to Bisphenol A . Toxicol. Appl. Pharmacol. 
+ 2015 , 289 ( 3 ), 442 – 456 . 10.1016/j.taap.2015.10.016 . 26522835 
+ Soetaert K. ; Petzoldt T. 
+ Inverse Modelling, Sensitivity and Monte Carlo Analysis
+in R Using Package FME . J. Stat. Software 
+ 2010 , 33 ( 3 ), 1 – 28 . 10.18637/jss.v033.i03 . WHO (World Health Organization) . Characterization
+and application of physiologically based phamacokinetic models in
+risk assessment . https://iris.who.int/handle/10665/44495 . accessed 2024 April 09. Lin Z. ; Fisher J. W. ; Ross M. K. ; Filipov N. M. 
+ A Physiologically
+Based Pharmacokinetic Model for Atrazine and Its Main Metabolites
+in the Adult Male C57BL/6 Mouse . Toxicol. Appl.
+Pharmacol. 
+ 2011 , 251 ( 1 ), 16 – 31 . 10.1016/j.taap.2010.11.009 . 21094656 
+ Kim S. J. ; Shin H. ; Lee Y. B. ; Cho H. Y. 
+ Sex-Specific
+Risk
+Assessment of PFHxS Using a Physiologically Based Pharmacokinetic
+Model . Arch. Toxicol. 
+ 2018 , 92 ( 3 ), 1113 – 1131 . 10.1007/s00204-017-2116-5 . 29143853 
+ Elmokadem A. ; Riggs M. M. ; Baron K. T. 
+ Quantitative
+Systems Pharmacology
+and Physiologically-Based Pharmacokinetic Modeling With Mrgsolve:
+A Hands-On Tutorial . CPT: pharmacometrics Syst.
+Pharmacol. 
+ 2019 , 8 ( 12 ), 883 – 893 . 10.1002/psp4.12467 . 31652028 
+ PMC6930861 Wang Y. ; Li X. ; Zheng Z. ; Shi Y. ; Cai Y. 
+ Chlorinated Polyfluoroalkyl
+Ether Sulfonic Acids in Fish, Dust, Drinking Water and Human Serum:
+From External Exposure to Internal Doses . Environ.
+Int. 
+ 2021 , 157 , 106820 10.1016/j.envint.2021.106820 . 34391985 
+ Jin Q. ; Shi Y. ; Cai Y. 
+ Occurrence
+and Risk of Chlorinated Polyfluoroalkyl
+Ether Sulfonic Acids (Cl-PFESAs) in Seafood from Markets in Beijing,
+China . Sci. Total Environ. 
+ 2020 , 726 , 138538 10.1016/j.scitotenv.2020.138538 . 32315852 
+ Chen X. ; Feng X. ; Sun X. ; Li Y. ; Yang Y. ; Shan G. ; Zhu L. 
+ Quantifying Indirect
+Contribution
+from Precursors to Human Body Burden of Legacy PFASs Based on Paired
+Blood and One-Week Duplicate Diet . Environ.
+Sci. Technol. 
+ 2022 , 56 ( 9 ), 5632 – 5640 . 10.1021/acs.est.1c07465 . 35417148 
+ Sun Q. ; Bi R. ; Wang T. ; Su C. ; Chen Z. ; Diao J. ; Zheng Z. ; Liu W. 
+ Are There Risks Induced by Novel
+and Legacy Poly- and Perfluoroalkyl Substances in Coastal Aquaculture
+Base in South China . Sci. Total Environ. 
+ 2021 , 779 , 146539 10.1016/j.scitotenv.2021.146539 . 34030277 
+ Wang Y. ; Gao X. ; Liu J. ; Lyu B. ; Li J. ; Zhao Y. ; Wu Y. 
+ Exposure to Emerging
+and Legacy Polyfluoroalkyl Substances in the
+Sixth Total Diet Study - China, 2016–2019 . China CDC Wkly 
+ 2022 , 4 ( 9 ), 168 – 171 . 10.46234/ccdcw2022.042 . 35356411 
+ PMC8930408 Pan Y. ; Zhu Y. ; Zheng T. ; Cui Q. ; Buka S. L. ; Zhang B. ; Guo Y. ; Xia W. ; Yeung L. W. ; Li Y. ; Zhou A. ; Qiu L. ; Liu H. ; Jiang M. ; Wu C. ; Xu S. ; Dai J. 
+ Novel Chlorinated Polyfluorinated Ether Sulfonates and Legacy Per-/Polyfluoroalkyl
+Substances: Placental Transfer and Relationship with Serum Albumin
+and Glomerular Filtration Rate . Environ. Sci.
+Technol. 
+ 2017 , 51 ( 1 ), 634 – 644 . 10.1021/acs.est.6b04590 . 27931097 
+ Gao K. ; Zhuang T. ; Liu X. ; Fu J. ; Zhang J. ; Fu J. ; Wang L. ; Zhang A. ; Liang Y. ; Song M. ; Jiang G. 
+ Prenatal Exposure to Per- and Polyfluoroalkyl Substances (PFASs)
+and Association between the Placental Transfer Efficiencies and Dissociation
+Constant of Serum Proteins-PFAS Complexes . Environ.
+Sci. Technol. 
+ 2019 , 53 ( 11 ), 6529 – 6538 . 10.1021/acs.est.9b00715 . 31099564 
+ Cai D. ; Li Q. Q. ; Chu C. ; Wang S. Z. ; Tang Y. T. ; Appleton A. A. ; Qiu R. L. ; Yang B. Y. ; Hu L. W. ; Dong G. H. ; Zeng X. W. 
+ High Trans-Placental Transfer of
+Perfluoroalkyl Substances Alternatives in the Matched Maternal-Cord
+Blood Serum: Evidence from a Birth Cohort Study . Sci. Total Environ. 
+ 2020 , 705 , 135885 10.1016/j.scitotenv.2019.135885 . 31841927 
+ Wang J. ; Pan Y. ; Wei X. ; Dai J. 
+ Temporal Trends in Prenatal Exposure
+(1998–2018) to Emerging and Legacy Per- and Polyfluoroalkyl
+Substances (PFASs) in Cord Plasma from the Beijing Cord Blood Bank,
+China . Environ. Sci. Technol. 
+ 2020 , 54 ( 20 ), 12850 – 12859 . 10.1021/acs.est.0c01877 . 32915549 
+ Li Y. ; Lu X. ; Yu N. ; Li A. ; Zhuang T. ; Du L. ; Tang S. ; Shi W. ; Yu H. ; Song M. ; Wei S. 
+ Exposure to Legacy
+and Novel Perfluoroalkyl Substance Disturbs the
+Metabolic Homeostasis in Pregnant Women and Fetuses: A Metabolome-Wide
+Association Study . Environ. Int. 
+ 2021 , 156 , 106627 10.1016/j.envint.2021.106627 . 33991873 
+ Liu Y. ; Li A. ; An Q. ; Liu K. ; Zheng P. ; Yin S. ; Liu W. 
+ Prenatal and Postnatal
+Transfer of Perfluoroalkyl Substances from
+Mothers to Their Offspring . Crit. Rev. Environ.
+Sci. Technol. 
+ 2022 , 52 ( 14 ), 2510 – 2537 . 10.1080/10643389.2021.1886556 . Xia X. ; Zheng Y. ; Tang X. ; Zhao N. ; Wang B. ; Lin H. ; Lin Y. 
+ Nontarget Identification of Novel Per- and Polyfluoroalkyl
+Substances in Cord Blood Samples . Environ. Sci.
+Technol. 
+ 2022 , 56 ( 23 ), 17061 – 17069 . 10.1021/acs.est.2c04820 . 36343112 
+ Zhang B. ; Wei Z. ; Gu C. ; Yao Y. ; Xue J. ; Zhu H. ; Kannan K. ; Sun H. ; Zhang T. 
+ First Evidence of Prenatal
+Exposure to Emerging Poly- and Perfluoroalkyl Substances Associated
+with E-Waste Dismantling: Chemical Structure-Based Placental Transfer
+and Health Risks . Environ. Sci. Technol. 
+ 2022 , 56 ( 23 ), 17108 – 17118 . 10.1021/acs.est.2c05925 . 36399367 
+ Fan Y. ; Guo L. ; Wang R. ; Xu J. ; Fang Y. ; Wang W. ; Lv J. ; Tang W. ; Wang H. ; Xu D.-X. ; Tao L. ; Huang Y. 
+ Low Transplacental Transfer of PFASs in the Small-for-Gestational-Age
+(SGA) New-Borns: Evidence from a Chinese Birth Cohort . Chemosphere 
+ 2023 , 340 , 139964 10.1016/j.chemosphere.2023.139964 . 37633609 
+ Li Q. Q. ; Huang J. ; Cai D. ; Chou W. C. ; Zeeshan M. ; Chu C. ; Zhou Y. ; Lin L. ; Ma H. M. ; Tang C. ; Kong M. ; Xie Y. ; Dong G. H. ; Zeng X. W. 
+ Prenatal
+Exposure to Legacy and Alternative Per- and Polyfluoroalkyl Substances
+and Neuropsychological Development Trajectories over the First 3 Years
+of Life . Environ. Sci. Technol. 
+ 2023 , 57 ( 9 ), 3746 – 3757 . 10.1021/acs.est.2c07807 . 36800558 
+ Li X. ; Liu H. ; Wan H. ; Li Y. ; Xu S. ; Xiao H. ; Xia W. 
+ Sex-Specific
+Associations between Legacy and Novel per- and Polyfluoroalkyl
+Substances and Telomere Length in Newborns in Wuhan, China: Mixture
+and Single Pollutant Associations . Sci. Total
+Environ. 
+ 2023 , 857 ( Pt 3 ), 159676 10.1016/j.scitotenv.2022.159676 . 36283531 
+ He Y. ; Lv D. ; Li C. ; Liu X. ; Liu W. ; Han W. 
+ Human Exposure
+to F-53B in China and the Evaluation of Its Potential Toxicity: An
+Overview . Environ. Int. 
+ 2022 , 161 , 107108 10.1016/j.envint.2022.107108 . 35121495 
+ Lu Y. ; Guan R. ; Zhu N. ; Hao J. ; Peng H. ; He A. ; Zhao C. ; Wang Y. ; Jiang G. 
+ A Critical Review on
+the Bioaccumulation, Transportation, and Elimination of per- and Polyfluoroalkyl
+Substances in Human Beings . Crit. Rev. Environ.
+Sci. Technol. 
+ 2024 , 54 ( 2 ), 95 – 116 . 10.1080/10643389.2023.2223118 . Cao H. ; Zhou Z. ; Hu Z. ; Wei C. ; Li J. ; Wang L. ; Liu G. ; Zhang J. ; Wang Y. ; Wang T. ; Liang Y. 
+ Effect of Enterohepatic Circulation
+on the Accumulation of Per- and Polyfluoroalkyl Substances: Evidence
+from Experimental and Computational Studies . Environ. Sci. Technol. 
+ 2022 , 56 ( 5 ), 3214 – 3224 . 10.1021/acs.est.1c07176 . 35138827 
+ Yi S. ; Yang D. ; Zhu L. ; Mabury S. A. 
+ Significant Reductive
+Transformation of 6: 2 Chlorinated Polyfluorooctane Ether Sulfonate
+to Form Hydrogen-Substituted Polyfluorooctane Ether Sulfonate and
+Their Toxicokinetics in Male Sprague-Dawley Rats . Environ. Sci. Technol. 
+ 2022 , 56 ( 10 ), 6123 – 6132 . 10.1021/acs.est.1c00616 . 33947185 
+ Personne S. ; Brochot C. ; Marcelo P. ; Corona A. ; Desmots S. ; Robidel F. ; Lecomte A. ; Bach V. ; Zeman F. 
+ Evaluation
+of Placental Transfer and Tissue Distribution of Cis- and Trans-Permethrin
+in Pregnant Rats and Fetuses Using a Physiological-Based Pharmacokinetic
+Model . Front. Pediatr. 
+ 2021 , 9 , 730383 10.3389/fped.2021.730383 . 34631627 
+ PMC8495120 Ke A. B. ; Milad M. A. 
+ Evaluation
+of Maternal Drug Exposure Following the
+Administration of Antenatal Corticosteroids During Late Pregnancy
+Using Physiologically-Based Pharmacokinetic Modeling . Clin. Pharmacol. Ther. 
+ 2019 , 106 ( 1 ), 164 – 173 . 10.1002/cpt.1438 . 30924921 
+ Schacht C. M. ; Meade A. E. ; Bernstein A. S. ; Prasad B. ; Schlosser P. M. ; Tran H. T. ; Kapraun D. F. 
+ Evaluating
+the Impact of Anatomical
+and Physiological Variability on Human Equivalent Doses Using PBPK
+Models . Toxicol. Sci. 
+ 2024 , 200 ( 2 ), 241 10.1093/toxsci/kfae067 . 38796678
