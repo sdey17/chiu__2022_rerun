@@ -1,0 +1,8 @@
+transporter,tissue,sex_predominance,fold,androgen_dependent,note,source
+Oatp1a1,kidney,male,,yes,"apical, proximal tubule, reabsorbs organic anions from the lumen; fold not quantified in the text (Fig. 1 only)","Cheng 2005 abstract, Results and Discussion"
+Oatp1a1,liver,male,,yes,,"Cheng 2005 abstract and Results"
+Oatp3a1,kidney,male,3.3,,"the only renal fold value stated numerically","Cheng 2005 Results, citing Melia 1998"
+Oatp4c1,kidney,male,,,"direction only","Cheng 2005 abstract and Results"
+Oatp1a6,kidney,,,,"almost exclusively renal; liver shows a female-predominant difference, kidney not stated","Cheng 2005 Results"
+Oatp1a4,liver,female,,,"no kidney sex difference","Cheng 2005 Results"
+Oatp1a6,liver,female,,,,"Cheng 2005 abstract and Results"

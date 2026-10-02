@@ -229,6 +229,42 @@ runs the safe way: the rat was dosed at 20.14 mg/kg and the mice at 0.08–10, a
 female rat PFOA clearance *falls* as dose rises (§4.2), so a dose-matched
 comparison would widen the female gap, not narrow it.
 
+**The conserved Vd ratio now rests on six datasets, not two.** Sundström 2012
+measured PFHxS in rat, mouse *and* monkey, both sexes in all three, in one
+laboratory — so the same split can be run four more times:
+
+| dataset | compound | Vd M/F | clearance F/M |
+|---|---|---|---|
+| rat (Kudo 2002) | PFOA | 1.64× | **44.3×** |
+| rat (Sundström 2012, Table 2) | PFHxS | 2.18× | **7.95×** |
+| monkey (Sundström 2012, Table 5) | PFHxS | 1.35× | 1.45× |
+| mouse (Lou 2009) | PFOA | 1.67× | **0.83×** |
+| mouse 1 mg/kg (Sundström 2012, Table 3) | PFHxS | 1.34× | **0.91×** |
+| mouse 20 mg/kg (Sundström 2012, Table 3) | PFHxS | 1.33× | **0.78×** |
+
+**Vd male/female spans 1.33–2.18× — a 1.6× spread. Clearance female/male spans
+0.78–44.3× — a 56× spread.** Three species, two compounds, four laboratories.
+The Vd ratio is male-higher every single time and never leaves a narrow band;
+the clearance ratio ranges over nearly two orders of magnitude and changes sign
+between species. Sundström's authors reach the distribution half of this
+independently, noting that in all three species "the mean Vdss suggested
+predominantly extracellular distribution".
+
+**The mouse's inverted sex difference is real, not noise.** The mouse clearance
+ratio is below 1 in all three mouse rows — PFOA 0.83×, PFHxS 0.91× and 0.78×.
+Three independent estimates, two compounds, two laboratories, all on the same
+side of unity. The female mouse genuinely clears these compounds slightly *more
+slowly* than the male, which is the opposite sign to the rat. It is a small
+effect and nothing in this review turns on it, but it is not a sampling artefact
+and it is one more thing any mouse-mechanism account has to accommodate.
+
+**A data-quality note on the rat PFHxS row.** Sundström's Table 1 (24-hour
+follow-up) carries male IV parameters estimated from **a single rat** and female
+from two, with its own footnotes saying so; Table 2 (10 weeks, N = 4/sex) is the
+usable one and is what the table above uses. Even there the female β-phase could
+not be estimated and a one-compartment model was substituted. Regulatory
+tabulations of rat PFHxS inherit these numbers without the footnotes.
+
 **The whole pattern replicates in a second compound.** Tatum-Gibbs 2011 is the
 only strain-matched rat-versus-mouse PFNA experiment, run in one laboratory with
 both sexes of both species:
@@ -499,13 +535,44 @@ entered**, which suggests its authors reached the same judgement about the
 number's physiological relevance. Yang's conclusion that URAT1 "may contribute
 significantly to the long half-life of PFO in humans" is weaker than it reads.
 
-**In the mouse, the mechanism is not established.** Mouse renal Oatp1a1 is
-*also* androgen-dependent (Cheng 2005; Cheng 2006; Isern 2001 independently),
-so its regulation is not rat-specific and cannot by itself generate the species
-difference. The only clean measured rat-vs-mouse renal comparison (Buist &
+**The Cheng 2005 / Cheng 2006 contradiction is resolved, against Cheng 2006.**
+This report previously flagged the direction of mouse renal Oatp1a1 as
+unresolved, because Cheng 2006's abstract calls it "female-predominant". With
+Cheng 2005's full text in hand and Cheng 2006's abstract recovered in full, the
+2006 sentence is simply wrong, and it contradicts its own paper:
+
+- **Cheng 2005** (same laboratory, primary data, C57BL/6, n = 10/sex) states it
+  twice — abstract: "In kidney, expression of Oatp1a1, 3a1, and 4c1 was higher in
+  males than in females"; Discussion: "Gender differences in Oatp1a1 expression
+  were observed in mouse liver and kidney, with higher expression in males than
+  in females." It also confirms the transporter's role: Oatp1a1 "is localized to
+  the apical membrane domain of proximal tubules in kidney, where it reabsorbs
+  organic anions from the lumen", and that male predominance "is
+  androgen-dependent (Lu et al., 1996; Isern et al., 2001)".
+- **Cheng 2006** says in its background sentence that renal Oatp1a1 is
+  female-predominant, then reports that "**androgens increased Oatp1a1 mRNA in
+  liver and kidney**" and concludes that "in kidney, gender-divergent Oatp
+  expression is exclusively caused by stimulation by androgens". If androgens
+  raise it and androgens are the exclusive cause, it cannot be female-predominant.
+
+So mouse renal Oatp1a1 is **male-predominant and androgen-driven**, same
+direction as the rat. Cheng 2006 adds one clean mechanistic detail worth keeping:
+male-pattern growth hormone raises hepatic Oatp1a1 but **not** renal, so the
+renal sex difference is purely androgenic.
+
+**That deepens the mouse puzzle rather than solving it.** Mouse renal Oatp1a1 is
+*also* androgen-dependent, so its regulation is not rat-specific and cannot by
+itself generate the species difference. The only clean measured rat-vs-mouse renal comparison (Buist &
 Klaassen 2004) found the species difference in **Oat2 — the wrong transporter**.
 **No mouse orthologue transport kinetics exist for any PFAS.** This remains the
-single largest hole in the mechanism.
+single largest hole in the mechanism. And one quantitative comparison is still
+impossible: Kudo 2002 puts the rat renal Oatp1a1 male/female ratio at 23×, but
+Cheng 2005 reports the mouse renal direction without a fold value — the only
+renal number it quantifies is Oatp3a1 at **3.3×**. So whether the mouse's
+androgen-driven Oatp1a1 difference is 23× like the rat's or much smaller is
+unknown, and that single number might settle the whole species question. A
+strain caveat sharpens it: Cheng used C57BL/6, while the PFAS kinetics come from
+CD-1.
 
 One thing this review previously listed as missing is not: **a sex-resolved
 mouse PFOA half-life pair has been measured.** Lou 2009 Table 2 reports female

@@ -64,52 +64,82 @@ def save(fig, name):
 
 # ---------------------------------------------------------------- fig 10
 def fig10_sex_vs_species():
-    """The headline: Vd sex ratio is conserved, clearance sex ratio is not."""
+    """Six datasets: the Vd sex ratio is conserved, the clearance ratio is not."""
     kudo = {r["parameter"]: r for r in load("kudo2002_rat_tk.csv")}
     lou = {(r["matrix"], r["parameter"]): r for r in load("lou2009_mouse_tk.csv")}
+    sund = load("sundstrom2012_pfhxs_three_species.csv")
 
-    vd_rat = float(kudo["volume_of_distribution"]["ratio_M_over_F"])
-    vd_mouse = float(lou[("sera", "vd")]["ratio_M_over_F"])
-    cl_rat = (float(kudo["total_clearance_per_day"]["female"])
-              / float(kudo["total_clearance_per_day"]["male"]))
-    cl_mouse = (float(lou[("sera", "clearance_derived")]["female"])
-                / float(lou[("sera", "clearance_derived")]["male"]))
+    def pick(sp, sex, dose, tbl):
+        for r in sund:
+            if (r["species"] == sp and r["sex"] == sex
+                    and r["dose_mgkg"] == dose and r["source_table"] == tbl):
+                return r
 
-    fig, axes = plt.subplots(1, 2, figsize=(9.2, 4.0))
-    for ax, (vals, lab, note) in zip(axes, [
-        ((vd_rat, vd_mouse), "Volume of distribution\nmale ÷ female",
-         "conserved across species"),
-        ((cl_rat, cl_mouse), "Clearance\nfemale ÷ male",
-         "species-specific, and enormous"),
-    ]):
-        xs = [0, 1]
-        bars = ax.bar(xs, vals, width=0.46, color=[BLUE, ORANGE], zorder=3)
+    rows = [
+        ("rat\nPFOA", "rat",
+         float(kudo["volume_of_distribution"]["male"]) / float(kudo["volume_of_distribution"]["female"]),
+         float(kudo["total_clearance_per_day"]["female"]) / float(kudo["total_clearance_per_day"]["male"])),
+        ("rat\nPFHxS", "rat", None, None),
+        ("monkey\nPFHxS", "monkey", None, None),
+        ("mouse\nPFOA", "mouse",
+         float(lou[("sera", "vd")]["male"]) / float(lou[("sera", "vd")]["female"]),
+         float(lou[("sera", "clearance_derived")]["female"]) / float(lou[("sera", "clearance_derived")]["male"])),
+        ("mouse\nPFHxS 1", "mouse", None, None),
+        ("mouse\nPFHxS 20", "mouse", None, None),
+    ]
+    spec = {1: ("rat", "10", "Table 2"), 2: ("monkey (cynomolgus)", "10", "Table 5"),
+            4: ("mouse", "1", "Table 3"), 5: ("mouse", "20", "Table 3")}
+    for i, (sp, dose, tbl) in spec.items():
+        m, f = pick(sp, "male", dose, tbl), pick(sp, "female", dose, tbl)
+        rows[i] = (rows[i][0], rows[i][1],
+                   float(m["vd_mL_kg"]) / float(f["vd_mL_kg"]),
+                   float(f["clearance_mL_d_kg"]) / float(m["clearance_mL_d_kg"]))
+
+    COL = {"rat": BLUE, "mouse": ORANGE, "monkey": AQUA}
+    labs = [r[0] for r in rows]
+    vds = [r[2] for r in rows]
+    cls = [r[3] for r in rows]
+    cols = [COL[r[1]] for r in rows]
+    x = list(range(len(rows)))
+
+    fig, axes = plt.subplots(1, 2, figsize=(11.2, 4.6), sharex=True)
+    for ax, vals, title, note in (
+        (axes[0], vds, "Volume of distribution — male ÷ female",
+         "conserved: a 1.6× spread across all six"),
+        (axes[1], cls, "Clearance — female ÷ male",
+         "not conserved: a 56× spread, and it changes sign"),
+    ):
+        bars = ax.bar(x, vals, width=0.62, color=cols, zorder=3)
         for b, v in zip(bars, vals):
             ax.annotate(f"{v:.2f}×" if v < 10 else f"{v:.0f}×",
                         (b.get_x() + b.get_width() / 2, v), xytext=(0, 4),
                         textcoords="offset points", ha="center", va="bottom",
-                        fontsize=10, color=INK, fontweight="semibold")
+                        fontsize=9, color=INK, fontweight="semibold")
         ax.axhline(1, color=RULE, linewidth=1.2, zorder=2)
-        ax.text(-0.52, 0.90, "1× = no difference", fontsize=7.5, color=MUTED,
-                va="top", ha="left")
         ax.set_yscale("log")
-        ax.set_ylim(0.5, 120)
-        ax.set_xticks(xs)
-        ax.set_xticklabels(["rat\n(Kudo 2002)", "mouse\n(Lou 2009)"])
-        ax.set_xlim(-0.55, 1.55)
-        ax.yaxis.set_major_formatter(FuncFormatter(
-            lambda v, _p: f"{v:g}×" if v >= 1 else f"{v:g}×"))
+        ax.set_ylim(0.45, 160)
+        ax.set_xticks(x)
+        ax.set_xticklabels(labs, fontsize=8.6)
+        ax.set_xlim(-0.7, len(rows) - 0.3)
+        ax.yaxis.set_major_formatter(FuncFormatter(lambda v, _p: f"{v:g}×"))
         grid(ax)
-        titles(ax, lab.replace("\n", " — "), note)
+        titles(ax, title, note)
 
-    fig.suptitle("PFOA: the sex difference lives in clearance, not distribution",
+    handles = [plt.Line2D([], [], marker="s", linestyle="", markersize=8,
+                          color=c, label=k) for k, c in COL.items()]
+    axes[1].legend(handles=handles, loc="upper right", ncol=3)
+
+    fig.suptitle("The sex difference lives in clearance, not distribution",
                  x=0.012, ha="left", fontsize=13, color=INK, fontweight="semibold")
-    fig.text(0.012, -0.055,
-             "Both panels: one IV dose, both sexes, within a single experiment. "
-             "Kudo 2002 Table 2 (Wistar rat, 20.14 mg/kg);\nLou 2009 Table 2 "
-             "(CD-1 mouse, 1 and 10 mg/kg). Log scale. The mouse clearance ratio "
-             "is below 1 — the female mouse\nclears PFOA slightly slower than the "
-             "male, the opposite sign to the rat.",
+    fig.text(0.012, -0.10,
+             "Six datasets measuring BOTH terms in BOTH sexes within single "
+             "experiments: three species, two compounds, four laboratories.\n"
+             "Kudo 2002 Table 2 (Wistar rat, PFOA); Lou 2009 Table 2 (CD-1 mouse, "
+             "PFOA); Sundström 2012 Tables 2, 3 and 5 (Sprague-Dawley rat,\n"
+             "CD-1 mouse at 1 and 20 mg/kg, cynomolgus monkey, PFHxS). Log scale. "
+             "All three mouse clearance ratios sit below 1 — the female\nmouse "
+             "clears these compounds slightly slower than the male, the opposite "
+             "sign to the rat.",
              fontsize=7.8, color=MUTED, va="top")
     fig.tight_layout(rect=(0, 0, 1, 0.93))
     save(fig, "fig10_sex_vs_species_decomposition.png")

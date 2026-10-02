@@ -201,6 +201,24 @@ def build_tk():
                 provenance="primary_2026/kudo2001_chain_length_elimination.csv",
                 notes=r.get("route_verdict")))
 
+    for r in rows(os.path.join(PRIM, "sundstrom2012_pfhxs_three_species.csv")):
+        base = dict(chemical="PFHxS", species=r["species"], strain=r["strain"],
+                    sex=r["sex"], dose=r["dose_mgkg"], dose_units="mg/kg",
+                    route=r["route"], n_animals=r["n"],
+                    study="Sundstrom et al.", year="2012",
+                    pmid_or_doi="21856411 / 10.1016/j.reprotox.2011.07.004",
+                    source_table=r["source_table"],
+                    provenance="primary_2026/sundstrom2012_pfhxs_three_species.csv",
+                    notes=r.get("note"))
+        for par, key, un, meth in (
+                ("halflife", "halflife_d", "d", r["halflife_type"]),
+                ("clearance", "clearance_mL_d_kg", "mL/kg-day", ""),
+                ("vd", "vd_mL_kg", "mL/kg", r["vd_type"]),
+                ("pct_dose_in_urine_24h", "pct_dose_urine_24h", "% of dose", "")):
+            if r.get(key):
+                out.append(rec(parameter=par, value=num(r[key]), units=un,
+                               method=meth, **base))
+
     for r in rows(os.path.join(PRIM, "han2012_table4_reabsorption_axis.csv")):
         for par, key, un in (("gfr", "gfr_L_d_kg", "L/d/kg"),
                              ("renal_clearance", "clr_mL_d_kg", "mL/d/kg"),
@@ -298,6 +316,21 @@ def build_transporters():
             "pmid_or_doi": "20639259 / 10.1093/toxsci/kfq219",
             "provenance": "primary_2026/yang2010_human_apical_transporters.csv",
             "notes": r["note"]})
+    for r in rows(os.path.join(PRIM, "cheng2005_mouse_oatp_sex.csv")):
+        out.append({
+            "transporter": r["transporter"], "species": "mouse (C57BL/6)",
+            "chemical": "(endogenous organic anions)",
+            "measure": f"mRNA sex predominance, {r['tissue']}",
+            "value": r["fold"] or r["sex_predominance"],
+            "units": "fold" if r["fold"] else "direction only",
+            "direction": "apical / reabsorptive" if r["transporter"] == "Oatp1a1" else "",
+            "condition": f"androgen-dependent: {r['androgen_dependent']}"
+                         if r["androgen_dependent"] else "",
+            "study": "Cheng et al.", "year": "2005",
+            "pmid_or_doi": "15843488 / 10.1124/dmd.105.003640",
+            "provenance": "primary_2026/cheng2005_mouse_oatp_sex.csv",
+            "notes": r["note"]})
+
     for r in rows(os.path.join(PRIM, "kudo2002_transporter_mrna.csv")):
         for key, meas in (("male_over_female_fold", "renal mRNA, male/female fold"),
                           ("female_over_male_fold", "renal mRNA, female/male fold")):

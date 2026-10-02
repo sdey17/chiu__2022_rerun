@@ -1,0 +1,842 @@
+                                                                Reproductive Toxicology 33 (2012) 441–451
+
+
+
+                                                              Contents lists available at ScienceDirect
+
+
+                                                            Reproductive Toxicology
+                                             journal homepage: www.elsevier.com/locate/reprotox
+
+
+
+
+Comparative pharmacokinetics of perﬂuorohexanesulfonate (PFHxS) in rats,
+mice, and monkeys
+Maria Sundström a , Shu-Ching Chang b , Patricia E. Noker c , Gregory S. Gorman c,d,1 ,
+Jill A. Hart b , David J. Ehresman b , Åke Bergman a , John L. Butenhoff b,∗
+a
+  Environmental Chemistry Unit, Department of Materials and Environmental Chemistry, Stockholm University, SE-106 91 Stockholm, Sweden
+b
+  Medical Department, 3M Company, St. Paul, MN 55144 United States
+c
+  Southern Research Institute, Birmingham, AL 35255 United States
+d
+  Samford University, Birmingham, AL 35229 United States
+
+
+
+
+a r t i c l e        i n f o                           a b s t r a c t
+
+Article history:                                       Perﬂuorohexanesulfonate (PFHxS) has been found in biological samples from wildlife and humans. The
+Received 30 March 2011                                 human geometric mean serum PFHxS elimination half-life has been estimated to be 2665 days. A series
+Received in revised form 16 June 2011                  of studies was undertaken to establish pharmacokinetic parameters for PFHxS in rats, mice, and monkeys
+Accepted 22 July 2011
+                                                       after single administration with pharmacokinetic parameters determined by WinNonlin® software. Rats
+Available online 11 August 2011
+                                                       and mice appeared to be more effective at eliminating PFHxS than monkeys. With the exception of
+                                                       female rats, which had serum PFHxS elimination half-life of approximately 2 days, the serum elimination
+Keywords:
+                                                       half-lives in the rodent species and monkeys approximated 1 month and 4 months, respectively, when
+Perﬂuorohexanesulfonate
+PFHxS
+                                                       followed over extended time periods (10–24 weeks). Collectively, these studies provide valuable insight
+Pharmacokinetics                                       for human health risk assessment regarding the potential for accumulation of PFHxS in humans.
+Rats                                                                                                                   © 2011 Elsevier Inc. All rights reserved.
+Monkeys
+Mice
+
+
+
+
+1. Introduction                                                                            Due to its stability and use in product applications such as
+                                                                                       ﬁre-ﬁghting foam and carpet, fabric, and upholstery stain protec-
+    Perﬂuorohexanesulfonate (PFHxS) is one of a number of func-                        tors, it may not be surprising that PFHxS initially was found in
+tionalized, perﬂuorinated compounds that have been produced for                        pooled serum from the United States general population [4]. The
+over half a century for use in specialized applications [1] as well                    geometric mean serum PFHxS elimination half-life in 26 retired
+as becoming the subject of increasing investigation with regard to                     production workers was estimated to be approximately 7.3 years
+environmental and health-related properties [2]. The unique prop-                      (95% CI = 5.8–9.2), suggesting poor elimination of PFHxS in humans
+erties of this and other perﬂuorinated surfactants, such as high                       [5]. Exceptional stability to environmental and metabolic degra-
+surface activity, exceptional stability to degradation, density, sol-                  dation together with poor elimination from the body in the case
+ubility characteristics, and low intermolecular interactions, have                     of several perﬂuorinated surfactants [5], including PFHxS, create a
+been exploited in numerous industrial and consumer applications                        potential for accumulation and biomagniﬁcation. Accordingly, 3M
+[3]. However, these same properties also create challenges for man-                    Company, the major manufacturer of PFHxS in the past, phased
+aging these materials in the environment.                                              out the production of these compounds and associated products
+                                                                                       between 2000 and 2002.
+                                                                                           Numerous biomonitoring studies have found PFHxS widely dis-
+                                                                                       tributed at low ng/mL concentrations in individual samples from
+  ∗ Corresponding author at: 3M Company, Medical Department, 3M Center 220-
+                                                                                       the general population [6–12]. The National Health and Nutri-
+06-W-08, St. Paul, MN 55144, United States. Tel.: +1 651 733 1962;
+                                                                                       tion Examination Survey (NHANES), a representative sample of the
+fax: +1 651 733 9066.                                                                  United States general population aged 12 and older, reported a
+    E-mail addresses: maria.sundstrom@mmk.su.se (M. Sundström),                        geometric mean serum PFHxS concentration of 1.96 ng/mL (95%
+s.chang@mmm.com (S.-C. Chang), noker@southernresearch.org (P.E. Noker),                CI = 1.76–2.17) for the 2007/2008 survey period [11]. This geomet-
+ggorman@samford.edu (G.S. Gorman), jahart@mmm.com (J.A. Hart),
+                                                                                       ric mean was similar to the 1999/2000 NHANES survey-period
+djehresman@mmm.com (D.J. Ehresman), ake.bergman@mmk.su.se (Å. Bergman),
+jlbutenhoff@mmm.com (J.L. Butenhoff).                                                  geometric mean of 2.13 ng/mL (95% CI = 1.91–2.38) [11], suggest-
+  1
+    Formerly with Southern Research Institute; currently with Samford University.      ing that serum PFHxS concentrations in the general population
+
+0890-6238/$ – see front matter © 2011 Elsevier Inc. All rights reserved.
+doi:10.1016/j.reprotox.2011.07.004
+442                                           M. Sundström et al. / Reproductive Toxicology 33 (2012) 441–451
+
+
+from 1999/2000 through 2007/2008 are not decreasing or are doing                and non-hispanic blacks). Although the pooled nature of the sam-
+so at a much lower rate than was observed in the same study                     ples limits the ability to make inferences, the mean pooled PFHxS
+for serum concentrations of the eight-carbon congener, perﬂuo-                  serum concentrations in the children were generally higher than
+rooctanesulfonate (PFOS), which showed a 57% decrease in serum                  means for pooled 2001/2002 NHANES adolescents and adults. This
+geometric mean concentration, consistent with its estimated mean                observation of higher values in children than adolescents and adults
+serum elimination half-life of 4.8 years (95% CI = 4.0–5.8 years) [5].          was also made by both Olsen et al. [12] and Kato et al. [24] for
+However, the NHANES data did show a decline from the 1999/2000                  a component of carpet and fabric protection chemistry formerly
+geometric mean of 2.14 to 1.67 ng/mL in the 2005/2006 sampling                  manufactured before the 3 M phaseout, N-methyl-N-(2-ethoxy)-
+period, a reduction of 22%, but the geometric mean increased to                 perﬂuorooctanesulfonamide. These observations suggest a unique
+1.96 in the 2007/2008 survey. Olsen et al. [7] reported an approx-              exposure pattern to PFHxS for children, and exposure to carpeted or
+imately 30% (0.4 ng/mL) decline in geometric mean serum PFHxS                   upholstered surfaces treated with formulations containing PFHxS
+among American Red Cross blood donors from six regional blood                   is a potential contributing factor.
+donation centers between 1999/2000 and 2006, consistent with                        Several cross-sectional epidemiological studies have evaluated
+the NHANES data through 2006. PFHxS has been measured in cord                   associations of serum PFHxS with various health outcomes. No
+blood [13–15] and newborn blood spots [10]. Evaluations of dried                association of serum PFHxS concentrations have been found with:
+blood spot samples obtained from the Newborn Screening Pro-                     atopic dermatitis and serum IgE in Taiwanese based on cord blood
+gram in New York State by Spliethoff et al. [10] demonstrated that              concentrations of PFHxS taken in 2004 and evaluation of serum
+the mean whole-blood concentration of PFHxS among 10 sample                     IgE and parent-reported atopic dermatitis at 2 years of age in 2006
+pools was 2.4 ng/mL in 2000, declining to approximately 1.3 ng/mL               [15]; thyroid hormones in New York anglers [25] with samples
+in 2007, an approximate 46% reduction in the mean value. Trend                  taken between 1995 and 1997 and in pregnant women from
+analysis produced a statistically signiﬁcant decreasing trend with              Edmonton, Alberta, Canada in a case–control study from 2005 to
+a halving time of 8.2 years, consistent with the serum PFHxS elim-              2006 [26]; with maternal serum PFHxS and fetal weight and length
+ination half-life reported by Olsen et al. [5]. In a longitudinal study         of gestation in births from Alberta, Canada between 2005 and 2006
+of serum PFHxS in men, mothers, and children from three cities in               [27]. Stein and Savitz [28] reported a positive association of serum
+Germany [16], geometric men serum PFHxS was found to decrease                   PFHxS concentrations in children aged 5–18 with parent- or self-
+in all three cities and groups in the 2-year time period spanning               reported ADHD with medication based on serum samples taken
+2006 and 2008 with percent reductions in the geometric mean                     in the 2005/2006 time period (odds ratio 1.59, 95% CI = 1.21–2.08).
+ranging from 14.3% to 41.4%.                                                    Nelson et al. [29] found a negative association of total and non-
+    Although the distribution of PFHxS has typically been focused               HDL cholesterol and no associations with body size and insulin
+on blood-based media, human milk also has been studied [17,18].                 resistance with serum PFHxS based on cross-sectional analysis of
+In a temporal trend study with pooled human milk samples from                   NHANES data from the 2003/2004 survey period. This contrasted
+Stockholm, Sweden, Sundström et al. [17] reported an apparent but               with positive associations with serum non-HDL cholesterol that
+non-statistically signiﬁcant decreasing trend of 6.1% per year in the           were found for serum PFOS and perﬂuorooctanoate (PFOA). These
+pooled sample concentrations from 2001 through 2008, associated                 studies are cross-sectional in nature and none have identiﬁed
+with a halving time of 11 years.                                                clear, causal associations of serum PFHxS with health outcomes in
+    These biomonitoring studies may provide evidence in support                 humans. Furthermore, none of these investigators has followed up
+of a low elimination rate for PFHxS in humans, or, they may                     with methodologically superior epidemiological study designs.
+suggest continued low-level environmental exposure, or perhaps                      In contrast to its eight-carbon congener, PFOS, which has
+both of these plausible explanations. Active environmental expo-                been extensively studied for potential health effects [2], there
+sures to PFHxS may still exist, because PFHxS has been frequently               are only a few published studies related to the potential toxi-
+detected in house dusts in samples collected between 2000 and                   cological properties of PFHxS. In a study designed to investigate
+2008 [19–22]. The dust containing PFHxS potentially could origi-                potential reproductive, developmental, systemic toxicological, and
+nate from carpet and upholstery that were previously treated with               neurological responses, Butenhoff et al. [30] exposed male and
+PFHxS-containing surface protectant products. Based on a study                  female rats to potassium PFHxS by oral gavage at dose levels
+from The Netherlands, dietary sources may also contribute to PFHxS              of 0, 0.3, 1, 3, and 10 mg/kg-d for 2 weeks prior to mating and
+exposure [23].                                                                  during mating, gestation, and lactation (postnatal day 22) for
+    A study of children serum concentrations of PFHxS and other                 parental females as well as during mating and through study
+ﬂuorochemicals may provide some insight into the potential role                 day 42 for males (6 weeks). The F1 offspring were sacriﬁced on
+of household exposures to PFHxS. Olsen et al. [12] surveyed PFHxS               postnatal day 22 at the end of weaning. There were no treatment-
+serum concentrations in 598 children aged 2–12 who participated                 related effects in maternal rats or their offspring. In males, notable
+in a national multi-center study of Streptococcal group A infection             effects included increased liver-to-body weight and liver-to-brain
+between January 1994 and March 1995. In that time period, the                   weight ratios, centrilobular hepatocellular hypertrophy, hyperpla-
+geometric mean of the childrens’ serum PFHxS was 4.5 ng/mL (95%                 sia of thyroid follicular cells, and decreased hematocrit. The mean
+CI = 4.1–5.1), with boys having a somewhat higher geometric mean                serum PFHxS concentrations in males across the PFHxS dose lev-
+than girls (5.3 ng/mL versus 3.4 ng/mL, respectively). The distribu-            els ranged from 44 ␮g/mL at 0.3 mg/kg to 201 ␮g/mL at 10 mg/kg.
+tion of serum PFHxS in the children appeared to be bimodal, with                In pooled pup serum from post natal day 22, serum PFHxS con-
+11% having serum PFHxS greater than 30 ng/mL, 64% of those values               centrations ranged from 9 ␮g/mL at 0.3 mg/kg to 94 ␮g/mL at
+being for boys. Because PFHxS residues may have been present in                 10 mg/kg. At the end of gestation, maternal serum PFHxS ranged
+carpet and upholstery treated for stain resistance, the authors spec-           from 3 ␮g/mL at 0.3 mg/kg to 60 ␮g/mL at 10 mg/kg. These serum
+ulated that exposure patterns unique to children, such as playing on            concentrations were at least three orders of magnitude higher than
+treated surfaces, may have accounted for the apparent bimodal dis-              the geometric mean values reported for human general popula-
+tribution. Higher PFHxS concentrations were reported by Kato et al.             tions. PFHxS has been demonstrated as an agonist for both the
+in analysis of pooled children samples from NHANES [24]. Duplicate              human and the mouse forms of the xenosensor nuclear recep-
+pooled samples from the 2001/2002 NHANES were used for each                     tor NR1C1 (peroxisome proliferator activated receptor alpha, or
+of two age categories (3–5 years and 6–11 years) divided by sex                 PPAR␣) [31]. Therefore, the hepatic hypertrophic effects observed
+into three ethnic pools (non-hispanic whites, Mexican Americans,                in the study by Butenhoff et al. likely resulted from activation of
+                                                       M. Sundström et al. / Reproductive Toxicology 33 (2012) 441–451                                                       443
+
+
+PPAR␣. Expression of PPAR␣ was observed in both human and rat                            2.3. Analytical methods
+primary hepatocytes in culture with 25 ␮M potassium PFHxS for
+                                                                                         2.3.1. Monkey IV pharmacokinetic study
+24 h based on qRT-PCR for Cyp4A1 (rat) and Cyp4A11 (human)
+                                                                                             For the cynomolgus monkey IV pharmacokinetic study, PFHxS standards in
+mRNA [32], while mRNA expression for Acox was not increased                              serum and urine were prepared in ranges of 5–20,000 ng/mL and 10–500 ng/mL,
+in the same human hepatocyte populations, as it was in the                               respectively. Monkey serum or urine samples (0.5 mL) were fortiﬁed with an inter-
+rat hepatocytes. Consistent with its eight-carbon congener, PFOS,                        nal standard, perﬂuorooctanoate (PFOA), followed by the addition of an ion-pairing
+PFHxS reduced serum total cholesterol and triglycerides in male                          reagent (tetrabutylammonium hydrogen sulfate) and carbonate/bicarbonate buffer
+                                                                                         and extraction with ethyl acetate. The ethyl acetate layer was removed by evapora-
+APOE*3.Leiden.CETP mice fed approximately 6 mg/kg-d potas-                               tion, and the resulting residue was reconstituted in mobile phase (95% methanol
+sium PFHxS in their diet via enhanced lipoprotein-lipase-mediated                        with 1.5% formic acid, 5% 5 mM ammonium acetate). After ﬁltration through a
+clearance of triglycerides (TG) associated with very-low-density                         0.2 ␮m syringe, the samples were transferred to auto sampler vials and analyzed
+lipoproteins, as well as decreased production of VLDL-TG and                             by LC–MS/MS using an Applied Biosystems-Sciex model API 3000 mass spectrom-
+                                                                                         eter (Applied Biosystems/MDS-Sciex Instrument Corporation, Foster City, CA). For
+VLDL-apolipoprotein B [33]. Also, decreased apolipoprotein A1 syn-
+                                                                                         PFHxS, the parent negative ion was monitored at 399 atomic mass units (amu). For
+thesis led to decreased HDL production, resulting in decreased                           the internal standard PFOA, the negative ion was transitioned and monitored from
+serum HDL.                                                                               413 → 369 amu.
+   The presence of PFHxS at low ng/mL concentrations in human
+general population serum, its low elimination rate in humans,                            2.3.2. Pharmacokinetic studies in rats and mice
+                                                                                              For studies with rats and mice using K+ PFHxS, serum and urine samples were
+and the possible continuing exposure from sources such as house
+                                                                                         used as collected. Commercially purchased newborn calf serum (Invitrogen, Carls-
+dust and diet warrants a need to understand potential health risk                        bad, CA, USA) was used as blank matrix for preparation of serum matrix standards.
+associated with exposure and the potential association of serum                          Liver, kidney, urine, and feces collected from naïve rats or mice, as appropriate,
+concentrations with effects. As limited pharmacokinetic and tox-                         were used as blank matrix for preparation of matrix-speciﬁc standards. Liver or kid-
+icological data were available for PFHxS [30], the purpose of the                        ney samples were allowed to thaw, and approximately 0.2 g of liver or kidney was
+                                                                                         weighed and homogenized with deionized water in a clean polypropylene tube. The
+studies reported herein was to establish pharmacokinetic parame-                         ratio between liver or kidney and water was 1:4 (w/w). After the primary homoge-
+ters for PFHxS in monkeys, rats, and mice.                                               nization step, the whole homogenate was further sonicated for 30 min. Fecal samples
+                                                                                         were allowed to thaw and then the entire fecal sample for each rat or mouse was
+                                                                                         weighed and homogenized with deionized water in a clean polypropylene tube.
+2. Materials and methods
+                                                                                         The ratio between feces and water was 1:3 (w/w). After the primary homogeniza-
+                                                                                         tion step, the whole homogenate was centrifuged at 2500 × g for 20 min and the
+2.1. Materials
+                                                                                         corresponding supernatant was referred to as fecal extract.
+                                                                                              To prepare matrix-matched PFHxS standard curves, a PFHxS solution prepared
+    The potassium salt of PFHxS (K+ PFHxS, >99% pure, 96.1% linear isomer,
+                                                                                         in methanol was aliquoted volumetrically to clean polypropylene tubes followed by
+1% internal monomethyl branch, 2.8% isopropyl branch) was supplied by 3M
+                                                                                         the addition of 100 ␮L of the appropriate blank matrix (serum, urine, liver, kidney,
+Company (St. Paul, MN). Administered doses are for K+ PFHxS; however, con-
+                                                                                         or fecal extract) to each tube. The matrix-matched standard curves for PFHxS ranged
+centrations in serum, liver, urine and feces are reported as PFHxS anion, and
+                                                                                         from 10 to 1000 ng/mL.
+percent recoveries of administered dose in those matrices are corrected for the
+                                                                                              One-hundred (100) ␮L of the processed samples were aliquoted into clean
+potassium salt. Potassium perﬂuorooctanoate (K+ PFOA, >99% purity), used as
+                                                                                         polypropylene tubes followed by the addition of internal standard, 18 O3 -PFHxS.
+an internal standard for analytical extractions in the IV pharmacokinetic study
+                                                                                         One mL of 1.0 N formic acid was added to all tubes, followed by 100 ␮L sat-
+in cynomolgus monkeys, was supplied by 3M Company (St. Paul, MN). Stable-
+                                                                                         urated ammonium sulfate. Samples were vortexed between each addition. All
+isotope-labeled 18 O3 -PFHxS (CF3 (CF2 )5 S(18 O3 − )), used as an internal standard
+                                                                                         samples were extracted using solid phase extraction (SPE). Details for SPE and
+for extractions in the rat and mouse studies, was supplied by Research Trian-
+                                                                                         LC–MS/MS conditions were same as perﬂuorooctanesulfonate and they have been
+gle Institute (Research Triangle Park, NC, USA). All other chemicals used were
+                                                                                         described previously [38–40]. Brieﬂy, the SPE method utilized Oasis® HLB car-
+reagent-grade.
+                                                                                         tridges (Waters Corporation, Milford, MA, USA) and used 18 O3 -PFHxS as an internal
+                                                                                         standard. Applied Biosystems Sciex model API 4000 mass spectrometer (Applied
+2.2. Laboratory animals and husbandry                                                    Biosystems/MDS-Sciex Instrument Corporation, Foster City, CA) was used for the
+                                                                                         analysis. PFHxS ion transitions monitored were 399 → 80 amu for PFHxS anion and
+    Studies were completed in the following chronological order: monkeys, rats,          405 → 86 amu for the 18 O3 -PFHxS internal standard.
+and mice. Male and female Sprague- Dawley (SD) rats and CD-1 mice (8–10 weeks
+old) were purchased from Charles River Laboratory (Wilmington, MA or Portage,            2.4. Rats
+MI). All rats and mice were housed in standard cages. Rat chow (Purina Lab Chow
+or Teklad Mouse/Rat Chow) and tap water were provided ad libitum through-                2.4.1. Dose effect on elimination
+out the study except when fasting was required. Environmental controls for                   To determine the effect of increasing dose on the clearance proﬁle of PFHxS in
+the animal room were set to maintain a temperature of 72 ± 3 ◦ F, humidity of            the serum, liver, urine, and feces of male and female Sprague Dawley rats within
+30–70%, a minimum of 10 exchanges of room air per hour and a 12-h light/dark             96 h following a single oral dose, rats (N = 4/sex/group) were given single oral doses
+cycle.                                                                                   of 1, 10, or 100 mg K+ PFHxS/kg body weight. The rats were placed in metabolism
+    e three male and three female cynomolgus monkeys (Macaca fascicularis) des-          caging and urine and feces were collected every 24 h after dosing for 96 h. Clini-
+ignated for use in this study were selected from an in-house colony of monkeys that      cal observations were made after dosing and periodically until euthanasia by CO2
+were housed at Southern Research Institute (Birmingham, AL) prior to use on this         asphyxiation at 96 h, at which time gross necropsies were performed. Serum (pro-
+study. These monkeys were purchased from Charles Rivers BRF, Inc. (Houston, TX).         cessed from blood) and liver samples were harvested and stored at −80 ◦ C pending
+With the exception of one male, these same monkeys previously were given single          LC–MS/MS analysis as previously described.
+IV bolus doses of the potassium salts of perﬂuorobutanesulfonate (PFBS, 10 mg/kg),
+perﬂuorobutyrate (PFBA, 10 mg/kg), perﬂuorohexanoate (PFHxA, 10 mg/kg), and              2.4.2. IV and oral pharmacokinetics of PFHxS in jugular-cannulated rats after a
+perﬂuorooctanoate (PFOA, 10 mg/kg) in earlier studies. The studies with PFBA, PFBS,      single dose of K+ PFHxS
+and PFOA have been previously published [34–36]. Certiﬁed, commercial, dry mon-               Male and female Sprague Dawley jugular-cannulated rats (N = 3/sex/dose group)
+key chow #5048 (PMI Feeds, Inc., St. Louis, MO) was fed to the monkeys 2–3 times         were administered a single dose 10 mg K+ PFHxS/kg body weight either by tail-vein
+each day. The diet was supplemented with fresh fruit/treats several times each           IV injection or by oral gavage. K+ PFHxS solution was prepared in saline (for IV study)
+week. Tap water (Birmingham, Alabama public water supply) was available to the           or distilled water (for oral gavage). Interim blood samples (approximately ∼0.5 mL)
+monkeys ad libitum. The monkeys were housed in a room that was maintained at             were collected from cannula to obtain serum at 0.25, 0.5, 1, 2, 4, 8, 18, and 24 h post-
+a temperature of 68–70.3 ◦ F and a relative humidity of 22.2–65.7%. An automatic         dose. Serum samples stored at −80 ◦ C pending analysis for PFHxS by LC–MS/MS as
+timer was set to control the room lights which provided 12-h of light/dark cycle         previously described.
+per day.
+    Studies were performed in facilities accredited by the Association for Assess-       2.4.3. Ten-week study on the elimination of PFHxS in serum, urine, and feces after
+ment and for the Accreditation of Laboratory Animal Care International. All              a single IV dose of K+ PFHxS
+procedures involving animals were reviewed and approved by the Institutional Ani-             Male and female Sprague Dawley rats (N = 4/sex) were given a single IV dose
+mal Care and Use Committee. Animal care and procedures followed guidelines as            of 10 mg K+ PFHxS/kg body weight. The K+ PFHxS solution was prepared in saline.
+speciﬁed the U.S. Department of Health and Human Services Guide for the Care and         Periodic interim serum (obtained from tail vein bleeding), urine, and fecal samples
+the Use of Laboratory Animals [37].                                                      were collected throughout the study for 10 weeks post-dose. At study termination,
+444                                                          M. Sundström et al. / Reproductive Toxicology 33 (2012) 441–451
+
+
+rats were euthanized via CO2 asphyxiation, blood (collected via abdominal aorta)
+and liver samples were harvested. All samples taken, including serum, urine, feces,
+and liver, were frozen with liquid nitrogen and stored at −80 ◦ C pending analysis
+for PFHxS by LC–MS/MS as previously described.
+
+2.5. Serum uptake and urinary and fecal elimination in mice
+
+    Male and female CD-1 mice were given a single oral dose of either 1 or 20 mg
+K+ PFHxS/kg body weight. The K+ PFHxS solution was prepared in vehicle (0.5% Tween
+20). At designated times (2, 4, and 8 h post-dose and days 1, 8, 15, 22, 36, 50, 64,
+and 162 post-dose), groups of mice (N = 4/sex/dose group) were euthanized via CO2
+asphyxiation. Blood (collected via abdominal aorta and processed to serum), kid-
+neys, and liver samples were harvested. In addition, 24-h urine and feces were
+collected from mice prior to the day of necropsy. Serum samples were obtained
+after blood clotting and centrifugation (2000 × g, 15 min). All samples taken, includ-
+ing serum, urine, feces, kidneys, and liver, were frozen with liquid nitrogen and
+stored at −80 ◦ C pending analysis for PFHxS by LC–MS/MS.
+
+2.6. IV pharmacokinetic study in cynomolgus monkeys
+
+     K+ PFHxS was dissolved in sterile saline, USP (Phoenix Pharmaceutical Company,
+St. Joseph, MO; Lot 8101050) at 5 mg/mL. The formulation was stored refrigerated
+and used for dosing within 1 day after preparation; it was considered to be stable              Fig. 1. Mean estimated percent of administered (PFHxS) dose recovered in serum,
+during this period. Dosing solution concentration and homogeneity analyses were                 liver, urine, and feces of male Sprague Dawley rats given a single oral dose of either
+not performed.                                                                                  1 mg/kg (blue bars), 10 mg/kg (red bars), or 100 mg/kg (green bars) of K+ PFHxS with
+     On day 0, each of the three male and three female cynomolgus monkeys received              N = 4 rats per dose group. Serum and liver samples were harvested at 96 h post-
+a single IV dose of K+ PFHxS at 10 mg/kg into a superﬁcial arm or leg vein. Doses were          dose while urine and feces were collected continuously for 96 h post-dose. The total
+administered at a volume of 2 mL/kg based on the day 0 body weights. All monkeys                percent accounted and unaccounted for are also illustrated in the chart. Error bars
+were observed twice daily for clinical signs. Each monkey was weighed on days 0, 4,             represent standard error. (For interpretation of the references to color in this ﬁgure
+7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77, 84, 91, 98, 105, 112, and 119. Urine was collected   legend, the reader is referred to the web version of this article.)
+in standard metabolism cages for 24-h intervals on the following days: prior to dose
+administration (day −3; baseline), on day 1 (0–24 h post-dose), on day 2 (24–48 h
+post-dose), and on days 7, 14, 21, 28, 42, 56, and 70. The volume of each urine
+sample was measured. Urine samples were stored frozen (approximately −20 ◦ C).
+Fecal samples were also collected but were not analyzed. Blood samples (2 mL) were
+                                                                                                was the major route of excretion in male and female rats. Within
+collected at time 0 (pre-dose); 0.5, 2, 4, 8, 24, and 48 h; and subsequently on days            96 h following a single oral dose at 1, 10, and 100 mg K+ PFHxS/kg
+4, 7, 14, 21, 28, 42, 56, 70, and 171 post-dose. Samples were collected into tubes              body weight, females excreted 35%, 28%, and 41% of the dose in
+without anticoagulant and were allowed to clot at room temperature. The blood                   urine, respectively (Fig. 4). Males excreted only about 6–7% of the
+samples were then centrifuged, and the serum separated and stored at −20 ◦ C until
+                                                                                                dose in urine at the 1 and 10 mg/kg dose level, but excreted 30%
+analyzed.
+                                                                                                at the 100 mg/kg dose level, suggesting that urinary excretion in
+2.7. Data analysis                                                                              males is dose-dependent (Fig. 4). In observing daily urinary excre-
+                                                                                                tion over the 96-h period following dosing, ﬁrst-day excretion was
+    Selected pharmacokinetic parameters were calculated from the serum PFHxS                    signiﬁcantly higher in both males and females at the 100 mg/kg
+concentration versus time data using WinNonlin® software (Pharsight Corp.; Moun-
+tain View, CA). Data were ﬁt to either a two-compartmental or a non-compartmental
+                                                                                                dose (Fig. 4). Mean daily fecal excretion was <0.5% of administered
+model. Statistically signiﬁcant (p < 0.05) differences in the sex-speciﬁc arithmetic            dose at all time points (data not shown).
+means for each pharmacokinetic parameter were determined by the Student’s t-
+test when applicable. Mean values and standard errors (SE) for each parameter
+were calculated, except in the case of the mouse study, in which the mean by sex
+for each group of mice at each time point was used. When available, data for the
+fecal and/or urinary excretion of PFHxS were expressed as a percent of the admin-
+istered dose eliminated during the collection period. Liver PFHxS concentrations,
+when available, were expressed as the mean ± SE concentration by sex and group.
+Statistically signiﬁcant (p < 0.05) differences in the sex-speciﬁc arithmetic means for
+each pharmacokinetic parameter were determined by the Student’s t-test.
+
+
+3. Results
+
+3.1. Rats
+
+3.1.1. Dose effect on elimination
+    Results of the experiment to investigate dose effects on elimi-
+nation are presented in Figs. 1–4. The mean ± standard error (SE)
+percents of the PFHxS administered dose recovered in serum, liver,
+urine, and feces 96 h after a single oral dose of either 1, 10, or 100 mg
+K+ PFHxS/kg body weight as well as the total recovered in those
+four matrices and the unaccounted percent of dose are presented in
+Figs. 1 and 2 for males and females, respectively. Regardless of sex,
+mean serum PFHxS concentrations were non-linear in proportion                                   Fig. 2. Mean estimated percent of administered (PFHxS) dose recovered in serum,
+to dose after 96 h (Fig. 3), and liver concentrations were signif-                              liver, urine, and feces of female Sprague Dawley rats given a single oral dose of either
+icantly lower than corresponding serum concentrations. Female                                   1 mg/kg (blue bars), 10 mg/kg (red bars), or 100 mg/kg (green bars) of K+ PFHxS with
+serum and liver concentrations were considerably lower than those                               N = 4 rats per dose group. Serum and liver samples were harvested at 96 h post-
+                                                                                                dose while urine and feces were collected continuously for 96 h post-dose. The total
+of males given equivalent doses. This suggested faster serum elimi-
+                                                                                                percent accounted and unaccounted for are also illustrated in the chart. Error bars
+nation in female rats, which was also reﬂected as higher percents of                            represent standard error. (For interpretation of the references to color in this ﬁgure
+given dose recovered in urine in female rats than in male rats. Urine                           legend, the reader is referred to the web version of this article.)
+                                                         M. Sundström et al. / Reproductive Toxicology 33 (2012) 441–451                                                       445
+
+                                                                                           Table 1
+                                                                                           Mean ± SE estimated values for pharmacokinetic parameters in jugular-cannulated
+                                                                                           Sprague Dawley rats (N = 3/sex) given either a single oral or a single IV dose of 10 mg
+                                                                                           K+ PFHxS/kg body weight and followed up for 24 h based on a two-compartment
+                                                                                           model.
+
+                                                                                             Parameter                        Sex          Oral                 IV
+
+                                                                                             Tmax (day)                       Male         N/Aa                 N/A
+                                                                                                                              Female       0.02 ± 0.01          N/A
+
+                                                                                             Cmax (␮g/mL)                     Male         N/A                  60.40b
+                                                                                                                              Female       63.57 ± 3.39         58.70 ± 9.56
+
+                                                                                             Serum [PFHXS]last (␮g/mL)        Male         61.30 ± 3.48         31.47 ± 8.72
+                                                                                                                              Female       29.82 ± 1.68         27.15 ± 6.40
+
+                                                                                             ␣ (1/day)                       Male         N/A                  90.72b
+                                                                                                                              Female       57.72 ± 11.16c       41.28 ± 10.23
+
+                                                                                             ␤ (1/day)                       Male         N/A                  0.096b
+                                                                                                                              Female       0.300 ± 0.228c       0.400 ± 0.080
+
+                                                                                             T1/2 ˛ (day)                     Male         N/A                  0.008b
+                                                                                                                              Female       0.073 ± 0.003c       0.020 ± 0.006
+Fig. 3. Mean PFHxS concentration in serum (␮g/mL) and liver (␮g/g) of male and
+female Sprague Dawley rats (N = 4/sex/dose group) at 96 h post-dose following a sin-         T1/2 ˇ (day)                     Male         N/A                  6.83b
+gle oral dose of either 1, 10, or 100 mg K+ PFHxS/kg body weight. Blue bars represent                                         Female       0.83 ± 0.53c         1.83 ± 0.26
+serum, and red bars represent liver. Error bars represent standard error. (For inter-
+                                                                                             CL (mL/day/kg)                   Male         N/A                  40.32b
+pretation of the references to color in this ﬁgure legend, the reader is referred to the
+                                                                                                                              Female       N/A                  119 ± 47
+web version of this article.).
+                                                                                             AUC (␮g day/mL)                  Male         N/A                  248b
+                                                                                                                              Female       54.94 ± 45.31c       109.35 ± 31.55
+
+3.1.2. IV and oral pharmacokinetics of PFHxS in                                              Vdss (mL/kg)                     Male         N/A                  N/A
+jugular-cannulated rats after a single dose of K+ PFHxS                                                                       Female       N/A                  278 ± 66
+    Presented in Table 1 are the pharmacokinetic parameters                                  a
+                                                                                               Not available, could not be estimated.
+calculated from serum concentrations of PFHxS obtained from                                  b
+                                                                                               Parameters estimated was based on N = 1 rat.
+                                                                                             c
+jugular-cannulated rats that received either a single IV or a single                           Parameters estimated was based on N = 2 rats.
+oral dose of 10 mg K+ PFHxS/kg body weight. A two-compartmental
+model best ﬁt the data.                                                                    (Vdss ) were 58.70 ± 9.56 ␮g/mL, 0.020 ± 0.006 day, 1.83 ± 0.26 day,
+    For the IV study, although three male rats were dosed, due to                          119 ± 47 mL/day/kg, and 278 ± 66 mL/kg, respectively.
+lack of signiﬁcant elimination over the 24-h period, serum val-                                For the oral gavage study, again, it was not possible to estimate
+ues from two male rats did not ﬁt the model, hence it was not                              parameters reliably for males due to lack of signiﬁcant serum elimi-
+possible to calculate parameters reliably for males. For females,                          nation over the 24-h period. In addition, although three female rats
+mean pharmacokinetic values (expressed as mean ± SE) for Cmax ,                            were dosed, serum values from one female rat did not ﬁt the model
+T1/2 ˛, T1/2 ˇ, clearance (CL), volume of distribution at steady state                     due to lack of signiﬁcant elimination over the 24-h period, hence
+                                                                                           pharmacokinetic parameter estimation was obtained based on two
+                                                                                           female rats. For females, mean pharmacokinetic values (expressed
+                                                                                           as mean ± SE) for Tmax , Cmax , T1/2 ˛, T1/2 ˇ were 0.02 ± 0.01 day,
+                                                                                           63.57 ± 3.39 ␮g/mL, 0.073 ± 0.003 day, and 0.83 ± 0.53 day. CL and
+                                                                                           Vdss could not be estimated.
+                                                                                               Based on the IV study, the mean serum elimination half-lives
+                                                                                           (T1/2 ) in male and female rats were 6.83 days (based on data from
+                                                                                           one male rat) and 1.83 ± 0.26 days, respectively. These values likely
+                                                                                           are not reliable due to the short duration (24 h) of the observation
+                                                                                           period.
+                                                                                               Comparing the AUC values obtained from the IV and oral stud-
+                                                                                           ies in female rats yields a bioavailability of 50%. Again, due to the
+                                                                                           short duration of the observation period, this value for bioavailabil-
+                                                                                           ity based on AUC estimates may not be reliable. The female Cmax
+                                                                                           values did not differ signiﬁcantly between the oral and IV doses,
+                                                                                           and Tmax after oral dosing was estimated to be at approximately
+                                                                                           30 min. These latter observations suggest approximately complete
+                                                                                           bioavailability.
+
+                                                                                           3.1.3. Ten-week study on the elimination of PFHxS in serum,
+Fig. 4. Mean estimated percent of administered (PFHxS) dose recovered in urine
+                                                                                           urine, and feces after a single IV dose of K+ PFHxS in rats
+of male and female Sprague Dawley rats given a single oral dose of either 1, 10,
+or 100 mg K+ PFHxS/kg body weight (N = 4/sex/dose group) and 24-h urine sam-                  The means ± SE for several pharmacokinetic parameters esti-
+ples were collected for 96 h post-dose. Blue bars represent urine samples collected        mated from rats given a single IV dose of 10 mg K+ PFHxS/kg body
+between 0 and 24 h post-dose, red bars represent urine samples collected between           weight and observed for 10 weeks are presented in Table 2. Also
+24 and 48 h post-dose, green bars represent urine samples collected between 48             included in Table 2 are serum and liver PFHxS concentrations upon
+and 72 h post-dose, and violet bars represent urine samples collected between 72
+                                                                                           terminal sacriﬁce.
+and 96 h post-dose. Error bars represent standard error. (For interpretation of the
+references to color in this ﬁgure legend, the reader is referred to the web version of        After a single IV dose at 10 mg/kg, mean Cmax serum
+this article.)                                                                             PFHxS concentrations were lower in males than in females
+446                                                    M. Sundström et al. / Reproductive Toxicology 33 (2012) 441–451
+
+Table 2
+Mean ± SE estimated values for pharmacokinetic parameters in Sprague Dawley
+rats (N = 4/sex) given a single IV dose of K+ PFHxS at 10 mg/kg and followed up
+for 10 weeks based on use of a two-compartment model for males and one-
+compartment model for females.
+
+ Parameter                                    Sex                 Value
+
+ Tmax (day)                                   Male                N/Aa
+                                              Female              N/A
+
+ Cmax (␮g/mL)                                 Male                61.87 ± 1.90
+                                              Female              79.10 ± 8.58
+
+ Serum [PFHxS]last (␮g/mL)                    Male                6.25 ± 1.06
+                                              Female              <LLOQb
+
+ Liver [PFHxS]last (␮g/g)                     Male                6.62 ± 0.68
+                                              Female              <LLOQc
+
+ % PFHxS dose in urine, 0–24 h                Male                0.70 ± 0.07
+                                              Female              13.28 ± 2.88
+
+ ␣ (1/day)                                   Male                0.7428 ± 0.1362
+                                              Female              0.4226 ± 0.0190        Fig. 6. Mean percent (%) PFHxS dose eliminated in urine in male (solid diamonds)
+                                                                                         and female (open circlies) Sprague Dawley rats (N = 4/sex) at various time after a
+ ␤ (1/day)                                   Male                0.0238 ± 0.0005
+                                                                                         single IV dose of 10 mg K+ PFHxS/kg body weight. Each data point represents a 24-h
+                                              Female              N/A
+                                                                                         collection period. Error bars represent standard error.
+ T1/2 ␣ (day)                                 Male                0.96 ± 0.18
+                                              Female              1.64 ± 0.08
+
+ T1/2 ␤ (day)                                 Male                29.1 ± 0.6
+                                              Female              N/A                    0.4226 ± 0.0190 day−1 , respectively). In the second phase of
+ CL (mL/day/kg)                               Male                6.71 ± 0.06            elimination (terminal or ␤ phase), mean  for serum elimina-
+                                              Female              53.35 ± 4.38           tion of PFHxS could only be estimated in male rats, and was
+                                                                                         0.0238 ± 0.0005 day−1 , resulting in an estimated serum T1/2 of
+ AUC (␮g day/mL)                              Male                1490 ± 12
+                                              Female              187 ± 15               29.1 ± 0.6 days. Serum T1/2 of PFHxS in female rats was likely a
+                                                                                         single-phase event, which was estimated to be 1.64 ± 0.08 days
+ Vdss (mL/kg)                                 Male                275 ± 5
+                                              Female              126 ± 14
+                                                                                         based on ␣ .
+                                                                                             At the end of the study, mean PFHxS concentration in liver were
+ a
+      Not available, could not be estimated.
+ b
+                                                                                         similar to the paired serum PFHxS concentrations in male rats.
+      LLOQ (lower limit of quantiﬁcation) for serum = 10 ng/mL.
+  c
+      LLOQ (lower limit of quantiﬁcation) for liver = 50 ng/g.                           However, in females at study termination, mean PFHxS concentra-
+                                                                                         tion in liver and serum were below LLOQ (50 ng/g and 10 ng/mL,
+                                                                                         respectively). Mean Vdss for male and female rats were 275 ± 5
+(61.87 ± 1.90 ␮g/mL and 79.10 ± 8.58 ␮g/mL, respectively). At the                        and 126 ± 14 mL/kg, respectively. The estimated percent of admin-
+end of the 10-week follow-up period, mean serum PFHxS con-                               istered PFHxS dose excreted during overnight urine and fecal
+centration in males was 6.25 ± 1.06 ␮g/mL (Fig. 5). In contrast,                         collections are shown in Figs. 6 and 7, respectively. Mean urinary
+the mean serum PFHxS concentration in females was below the                              excretion of PFHxS in females was much higher than that in males
+lower limit of quantitation (LLOQ, 0.01 ␮g/mL) from day 16 post-                         during the ﬁrst week of the study. Mean daily fecal excretion never
+dose through study termination. The serum PFHxS elimination                              exceeded 0.5% of the administered dose and, for the majority of
+appeared to be bi-phasic in male rats. In the initial elimination                        measurements, was ≤0.03% of administered dose.
+phase (␣ phase), mean  for serum elimination of PFHxS were
+different between males and females (0.7428 ± 0.1362 day−1 and
+
+
+
+
+                                                                                         Fig. 7. Mean percent (%) PFHxS dose eliminated in feces in male (solid diamonds)
+Fig. 5. Mean serum PFHxS concentrations (␮g/mL) in male (solid squares) and              and female (open circlies) Sprague Dawley rats (N = 4/sex) at various time after a
+female (open circles) Sprague Dawley rats (N = 4/sex) over time after a single IV        single IV dose of 10 mg K+ PFHxS/kg body weight. Each data point represents a 24-h
+dose of 10 mg K+ PFHxS/kg body weight. Error bars represent standard error.              collection period. Error bars represent standard error.
+                                                          M. Sundström et al. / Reproductive Toxicology 33 (2012) 441–451                                                      447
+
+Table 3                                                                                     Table 4
+Estimated pharmacokinetic parameters in CD-1 mice (N = 4/sex/dose group/time                Mean ± SE for % dose recovered in 24-h urine and feces in male and female CD-1
+point) given a single oral dose of K+ PFHxS at 1 or 20 mg/kg and followed for 23 weeks      mice (N = 4/sex/dose group/time point) given a single oral dose of K+ PFHxS at 1 or
+(162 days) based on a non-compartmental model.                                              20 mg/kg and followed for 23 weeks (162 days).
+
+  Parameter                  Sex                  1 mg/kg              20 mg/kg               Time (day)      1 mg K+ PFHxS/kg body            20 mg K+ PFHxS/kg body weight
+                                                                                                              weight dose group                dose group
+  Tmax (day)                 Male                 0.33                 0.17
+                             Female               2                    0.17                                   Male            Female           Male              Female
+  Cmax (␮g/mL)               Male                 8.35                 139                    PFHxS dose recovered in 24-h urine
+                             Female               9.85                 184                      2          0.882 ± 0.346   0.317 ± 0.137       1.654 ± 0.511     2.552 ± 1.016
+                                                                                                8          0.815 ± 0.265   1.177 ± 0.184       0.766 ± 0.407     1.726 ± 0.257
+  Serum [PFHxS]last          Male                 0.19 ± 0.04          2.06 ± 0.60
+                                                                                                15         0.730 ± 0.182   0.599 ± 0.259       0.189 ± 0.287     <LLOQa
+    (␮g/mL)
+                                                                                                22         0.537 ± 0.279   0.684 ± 0.096       0.516 ± 0.303     0.455 ± 0.185
+                             Female               0.12 ± 0.04          1.67 ± 0.55
+                                                                                                36         0.485 ± 0.059   0.528 ± 0.099       0.513 ± 0.079     0.231 ± 0.145
+  % PFHxS dosed in           0.882 ± 0.346        1.654 ± 0.511                                 50         0.217 ± 0.116   0.277 ± 0.028       0.156 ± 0.059     0.140 ± 0.010
+    urine, 0–24 h                                                                               64         0.165 ± 0.071   0.135 ± 0.107       <LLOQ             <LLOQ
+                             Female               0.317 ± 0.137        2.552 ± 1.016            162        <LLOQ           <LLOQ               0.006 ± 0.006     <0.010 ± 0.005
+
+   (1/day)                  Male                 0.0227               0.0248                 % PFHxS dose recovered in 24-h feces
+                             Female               0.0279               0.0259                   2          1.120 ± 1.398   <LLOQb              0.051 ± 0.024     0.226 ± 0.094
+                                                                                                8          <LLOQ           <LLOQ               0.032 ± 0.015     0.139 ± 0.029
+  T1/2 (day)                 Male                 30.5                 27.97                    15         <LLOQ           <LLOQ               0.038 ± 0.018     0.052 ± 0.019
+                             Female               24.82                26.81                    22         <LLOQ           <LLOQ               0.006 ± 0.005     0.095 ± 0.042
+  CL (mL/day/kg)             Male                 2.94                 4.83                     36         <LLOQ           <LLOQ               <LLOQ             0.047 ± 0.011
+                             Female               2.68                 3.79                     50         <LLOQ           <LLOQ               <LLOQ             0.023 ± 0.008
+                                                                                                64         <LLOQ           <LLOQ               <LLOQ             0.013 ± 0.002
+  AUC (␮g day/mL)            Male                 340                  4138                     162        <LLOQ           <LLOQ               <LLOQ             <LLOQ
+                             Female               372                  5270
+                                                                                              a
+                                                                                                  LLOQ (lower limit of quantiﬁcation) for urine = 10 ng/mL.
+  Vd (mL/kg)                 Male                 129                  195                    b
+                                                                                                  LLOQ (lower limit of quantiﬁcation) for feces = 40 ng/g.
+                             Female               96                   147
+
+                                                                                            Urinary elimination predominated. There was no clear indication of
+3.2. Mice                                                                                   a major sex-related difference; although, female mice that received
+                                                                                            20 mg/kg dose had a higher percent dose recovered in urine and
+    Table 3 provides the several pharmacokinetic parameters esti-                           feces than male mice receiving the same dose during initial col-
+mated in male and female mice from data obtained after single                               lections. Although lower than the Vd values obtained in rats, Vd
+oral doses of 1 or 20 mg K+ PFHxS/kg body weight. By dose groups,                           estimates in mice were still in a range consistent with a predomi-
+mean PFHxS concentrations for serum, kidneys, and liver are pre-                            nant extracellular distribution (Table 3).
+sented in Fig. 8 (1 mg/kg K+ PFHxS) and Fig. 9 (20 mg/kg K+ PFHxS).
+Mean PFHxS concentrations were highest in serum followed by                                 3.3. Monkeys
+liver and then kidney. Regardless of dose, mean serum elimi-
+nation T1/2 values were quite similar between male and female                                  Presented in Table 5 are pharmacokinetic parameters in
+mice (30.50 days versus 24.82 days at 1 mg/kg and 27.97 versus                              cynomolgus monkeys upon the administration of a single IV dose
+26.81 days at 20 mg/kg for males and females, respectively). Less                           of 10 mg/kg K+ PFHxS. No adverse clinical signs related to dos-
+than 3% of the administered PFHxS dose was recovered in the urine                           ing with PFHxS were noted in these monkeys and each monkey
+and feces at any given 24-h sample collection period (Table 4).                             either gained weight or maintained weight during the course of
+
+
+
+
+Fig. 8. Mean serum, kidney, and liver PFHxS concentrations in ␮g/mL (serum) or              Fig. 9. Mean serum, kidney, and liver PFHxS concentrations in ␮g/mL (serum) or
+␮g/g (kidney and liver) for male and female CD-1 mice (N = 4/sex/time point) over           ␮g/g (kidney and liver) for male and female CD-1 mice (N = 4/sex/time point) over
+162 days following a single oral dose of 1 mg K+ PFHxS/kg body weight. Male mouse           162 days following a single oral dose of 20 mg K+ PFHxS/kg body weight. Male mouse
+data for serum, kidney, and liver are illustrated with solid squares, circles, and dia-     data for serum, kidney, and liver are illustrated with solid squares, circles, and dia-
+monds, respectively. Female mouse data for serum, kidney, and liver are illustrated         monds, respectively. Female mouse data for serum, kidney, and liver are illustrated
+with open squares, circles, and diamonds, respectively. Error bars represent standard       with open squares, circles, and diamonds, respectively. Error bars represent standard
+error.                                                                                      error.
+448                                                   M. Sundström et al. / Reproductive Toxicology 33 (2012) 441–451
+
+Table 5
+Mean ± SE estimated values for pharmacokinetic parameters in cynomologus mon-
+keys (N = 3/sex) given a single IV dose of K+ PFHxS at 10 mg/kg and followed up for
+171 days based on a non-compartmental model.
+
+ Parameter                               Male                     Female
+
+ Serum [PFHxS]0.5 h (␮g/mL)                108 ± 20                 148 ± 17
+ Serum [PFHxS]24 h (␮g/mL)               35.20 ± 5.15             39.50 ± 9.73
+ Serum [PFHxS]day 171 (␮g/mL)            17.27 ± 2.41             11.73 ± 4.91
+ % Dose in urine, 0–24 h                 0.102 ± 0.010            0.055 ± 0.033
+ Cmax (␮g/mL)                              180 ± 17                 180 ± 20
+ T1/2 (day)                                141 ± 30                  87 ± 27
+ CL (mL/day/kg)                           1.33 ± 0.12              1.93 ± 0.41
+ AUC (␮g day/mL)                         7462 ± 675               5794 ± 1396
+ Vdss (mL/kg)                              287 ± 52                 213 ± 28
+
+
+
+
+the study (Fig. 10). Mean serum concentrations at 24 h for males
+and females were 35.20 ± 5.15 ␮g/mL and 39.50 ± 9.73 ␮g/mL,
+respectively. PFHxS was still quantiﬁable in serum at day 171                           Fig. 10. Individual cynomologus monkey body weight data (kg) over time after a sin-
+(17.27 ± 2.41 ␮g/mL and 11.73 ± 4.91 ␮g/mL in males and females,                        gle IV dose of 10 mg K+ PFHxS/kg body weight. Solid circles, squares, and diamonds
+respectively). For all monkeys, very low levels (∼0.03% of the                          represent male monkey weight data while open circles, squares, and diamonds
+administered PFHxS dose) was consistently recovered in the urine                        represent female monkey weight data.
+
+during any given 24-h period of sample collection during the study
+with no clear indication of a sex-related difference in the urinary                     versus 141 ± 30 days, respectively); however, this difference was
+excretion of PFHxS. Concentration-versus-time data were best ﬁt                         not statistically signiﬁcant (Student’s t test, p > 0.05) within the
+to a non-compartmental model (Fig. 11). Mean serum elimination                          limits of study design. Similar to rats and mice, the mean Vdss
+half-lives for PFHxS were less for females than males (87 ± 27 days                     suggested predominantly extracellular distribution.
+
+
+
+
+Fig. 11. Serum PFHxS concentrations (␮g/mL) in male (left column) and female (right column) cynomologus monkeys (N = 3/sex) over time after a single IV dose of 10 mg
+K+ PFHxS/kg body weight. Error bars represent standard error.
+                                              M. Sundström et al. / Reproductive Toxicology 33 (2012) 441–451                                     449
+
+
+4. Discussion                                                                   contaminant of their PFOS sample, for 38 days after dosing. The
+                                                                                effective oral dose of PFHxS in the Benskin et al. study was 30 ␮g/kg.
+    The geometric mean human serum PFHxS elimination half-                      They found that branched PFHxS was preferentially eliminated over
+life has previously been estimated to be approximately 2665 days                the linear form, with serum elimination half-lives of 3.5–6.9 days
+(95% CI = 2117–3358 days) [5]. To further understand the species                for branched forms and 15.9 days for linear PFHxS. Although linear
+differences in elimination, the results from this series of studies             and branched isomers were not distinguished from one another in
+have established pharmacokinetic parameters of PFHxS for the rat,               the present studies reported herein, the K+ PFHxS sample used con-
+mouse, and monkey. The present work provides not only classi-                   tained 3.8% branched isomers. Based on our observations and those
+cal pharmacokinetic parameters from short-term studies, but also                of Benskin et al., serum elimination half-life data for PFHxS based
+evaluation of PFHxS elimination over extended time periods. The                 on relatively short-term follow-up periods likely overestimates the
+reported data are of value in interpreting the results of toxicological         rate of elimination over a more extended period. This overestima-
+and epidemiological studies for human health risk assessment.                   tion in shorter-duration studies may be due to an initial, more rapid
+    With the exception of one male monkey, the monkeys used in                  phase elimination of PFHxS in male rats, as shown by the time-
+the present study had also been used previously to study the phar-              dependent decrease in % PFHxS dose recovered in urine and feces
+macokinetics of PFBS, PFBA, PFHxA, and PFOA. These prior studies                (see Figs. 6 and 7) as well as the potential for early elimination of
+were conducted over an approximately 10-month period (from                      branched isomers.
+April 10, 2000 until February 9, 2001). Based on last drawn serum                   The elimination kinetics of PFHxS by species are similar to those
+concentrations below 5 ng/mL and the serum elimination half-lives               of PFOS in mice, male rats, monkeys, and humans. Of the perﬂuo-
+determined for PFBS [13], PFBA [12], and PFHxA (1.5 and 0.8 days for            roalkyls for which pharmacokinetic data are available, including
+males and females, respectively, unpublished) and the time elapsed              PFBA [34], PFHxA [45], PFOA [5,36,46–51], PFBS [35], and PFOS
+between the last serum sample for these three compounds and the                 [5,44,52], PFHxS and PFOS have the lowest elimination rates. Both
+date of dosing for PFHxS on February 9, 2001, no interference would             PFBA and PFHxA appear to be eliminated the most efﬁciently in
+be expected between these three compounds and PFHxS. The last                   the species studied (mice, rats, monkeys, and humans for PFBA,
+draw for PFOA on February 9, 2001, revealed that the males were                 and rats and monkeys for PFHxA), with serum elimination half-
+at or approaching the method LLOQ (20 ng/mL) and the females                    lives of hours to several days. PFBS half-lives of elimination were
+averaged approximately 3000 ng/mL serum PFOA concentrations.                    in the range of those reported for PFBA and PFHxA for rats and
+Because PFHxS was administered on the same day as the last PFOA                 monkeys (mice have not been studied); however, the estimated
+draw, it is possible that some interaction between PFOA and PFHxS               human elimination half-life of approximately 1 month contrasts
+kinetics may have occurred.                                                     to the estimated 3-day human serum PFBA elimination half-life.
+    The principal differences observed between species in the phar-             Serum PFOA elimination rates in mice and monkeys are similar
+macokinetic parameters measured were in elimination rates. Rats                 with half-lives of approximately 2–3 weeks, while male rats half-
+and mice appeared to be more effective at eliminating PFHxS                     life is approximately 1 week, the female rat half-life a matter of
+than monkeys, with female rats demonstrating much more rapid                    hours, and, in humans, estimated at 3.5 years (geometric mean, 95%
+elimination than male rats and male and female mice. With the                   CI = 3.0–4.1 years).
+exception of female rats, which had serum PFHxS elimination half-                   Differential expression of organic anion transporters among
+life of approximately 2 days, the serum elimination half-lives in the           species and sex within species, as well as developmental stage, may
+rodent species followed over extended time periods (10–23 weeks)                inﬂuence the similarities and differences observed in the kinetic
+were on the order of 1 month; whereas, in monkeys, the serum                    proﬁles of the various perﬂuoroalkyls. Based on studies conducted
+elimination half-lives approximated 4 months when studied over                  with PFOA, it may be reasonable to speculate that the differences in
+a 24-week period. Within the ﬁrst 24 h after K+ PFHxS administra-               PFHxS elimination between species and the sex difference in PFHxS
+tion, at least 0.7% or more of the administered PFHxS dose was                  elimination within species in rats could be due to differences in
+recovered in the urine in rats and mice. The urinary recovery was               expression of organic anion transporters. Numerous studies have
+between 0.05 and 0.1% in monkeys for the initial 24 h, consistent               demonstrated that difference in the elimination of PFOA in rats is
+with the slower elimination observed in cynomolgus monkeys than                 mediated by testosterone [53,54] and the potential role of differen-
+in rodents. Volumes of distribution at steady state (Vdss ) estimated           tial (by sex) expression of renal organic anion transporters in rats
+for the species studied (rats, mice, and monkeys) appeared to be                in the observed sex difference in renal excretion of PFOA was fur-
+similar. Although Vdss from female rats was likely an underestimate             ther established by Kudo et al. [55], which included the possible
+due to the fast elimination of PFHxS in serum, it would be reason-              role of apical expression of the uptake transporter, Oatp1, in renal
+able to conclude that the Vdss in the three species studied likely is           proximal tubules of male rats in facilitating reabsorption of PFOA
+in the range of 200–300 mL/kg body weight based on review of all                from the urinary ﬁltrate. Hinderliter et al. [49] further showed that
+the data. Thus, PFHxS appears to be distributed predominantly in                the enhanced urinary excretion of PFOA in female rats developed
+extracellular space.                                                            concurrently with sexual maturation. Furthermore, PFOA has been
+    The difference in serum elimination half life between sexes in              demonstrated to be a potential substrate for renal organic anion
+monkeys and mice were not statistically signiﬁcant under study                  transporters in rats [56–58] and humans [59,60].
+conditions. In contrast, large differences between male and female                  Analysis of the kinetic data from the single-dose IV study in
+rats were evident. In rats, sex differences in pharmacokinetics have            monkeys with K+ PFHxS reported herein as well as with K+ PFOS [43]
+been noted for perﬂuorobutyrate (PFBA) [34], PFOA (ﬁrst observed                and K+ PFOA [36] in the same set of male and female cynomolgus
+by Grifﬁth and Long [41] and reviewed by Kudo and Kawashima                     monkeys (with the exception of one male) has suggested a potential
+[42]) and PFOS (in this issue) [43]. In the study reported herein for           role for saturable renal tubular reabsorption [61]. Andersen et al.
+PFHxS, the estimated serum elimination half-life for female rats                [61] suggested that changing the transport maximum in a human
+was less than 2 days based on IV studies; whereas, estimated mean               pharmacokinetic model could account for the longer half-life of
+serum elimination half-lives of 6.83 or 29.1 days were obtained                 PFOS in humans as compared to monkeys. At this time, it is not
+for males after IV administration and follow-up periods of 24 h                 known to what extent the kinetics of the perﬂuoroalkylsulfonates
+or 10 weeks, respectively. In studying the elimination of linear                may be determined by organic anion transporter mediated pro-
+and branched PFOS in male Sprague Dawley rats, Benskin et al.                   cesses and how these may differ between species and sex within
+[44] also followed the elimination of linear and branched PFHxS, a              species.
+450                                           M. Sundström et al. / Reproductive Toxicology 33 (2012) 441–451
+
+
+    In the only human serum PFHxS elimination study available to                macokinetic handling when estimating exposure and assessing
+date reported by Olsen et al. [5], the geometric mean serum PFHxS               risk.
+elimination half-life among 26 retired ﬂuorochemical workers fol-
+lowed for approximately 5 years was estimated at 2665 days (95%                 Conﬂict of interest statement
+CI = 2117–3358 days). This reported value is in stark contrast to
+the mean serum PFHxS elimination half-life of 114 days observed                     Maria Sundström and Åke Bergman are with Stockholm Univer-
+among the three male and three female monkeys reported herein                   sity which received a grant from 3M Company for perﬂuoroalkyl
+as well as the serum PFHxS elimination values reported herein for               research. Shu-Ching Chang, David Ehresman, Jill Hart, and John
+rats and mice.                                                                  Butenhoff are employees of the 3M Company, a former manufac-
+    Consistent with the low serum PFHxS elimination rate observed               turer of PFHxS and related materials. Patricia Noker (current active
+in retired workers, Olsen et al. [7] reported an approximately                  employee) and Gregory Gorman (former employee) of Southern
+30% (0.4 ng/mL) decline in geometric mean serum PFHxS among                     Research Institute were contracted by 3M Company to conduct the
+American Red Cross blood donors from six regional blood dona-                   IV pharmacokinetic study in monkeys. Major funding for the study
+tion centers in the 5-year period between 1999/2000 and 2006.                   was from 3M Company.
+In the same approximate time period between 1999/2000 and
+2005/2006, Kato et al. [11] reported a 22% decrease in the geometric
+mean United States general population serum PFHxS concentration                 Acknowledgements
+which was followed in 2007/2008 by a 17% (0.29 ng/mL) increase
+in the 2005/2006 geometric mean value. However, inspection of                      This work was ﬁnancially supported by 3M Company. The
+their data suggests that serum PFHxS concentrations have been                   authors wish to acknowledge the technical contributions of Trina
+relatively stable with the exception of an apparent decline in the              John, Al Eveland, and Jeremy Zitzow in the conduct of these studies.
+geometric mean in the 2005/2006 sampling period. Whether the
+decrease in 2005/2006 was real or due to unexplained variabil-                  References
+ity remains unclear. Some insight comes from a longitudinal study
+of mothers, their children, and men from three cities in Germany                 [1] Lehmler HJ. Synthesis of environmentally relevant ﬂuorinated surfactants–a
+                                                                                     review. Chemosphere 2005;58(March (11)):1471–96.
+[16]. Over a 2-year period from 2006 to 2008 within the same set of              [2] Lau C, Anitole K, Hodes C, Lai D, Pfahles-Hutchens A, Seed J, et al. A
+individuals, geometric mean serum concentrations of PFHxS were                       review of monitoring and toxicological ﬁndings. Toxicol Sci 2007;99(2):
+observed to decline by 14–41% in the groups of mothers, their chil-                  366–94.
+                                                                                 [3] Kissa E. Fluorinated surfactants and repellents. New York: Marcel Dekker; 2001.
+dren, and men from the three cities. In reporting on trends in human             [4] Hansen KJ, Clemen LA, Ellefson ME, Johnson HO. Compound-speciﬁc, quantita-
+milk PFHxS concentrations from Stockholm, Sweden from 2001                           tive characterization of organic ﬂuorochemicals in biological matrices. Environ
+through 2008, Sundström et al. [17] reported a negative slope of                     Sci Technol 2001;35(February (4)):766–70.
+                                                                                 [5] Olsen GW, Burris JM, Ehresman DJ, Froehlich JW, Seacat AM, Butenhoff JL,
+6.1% per year associated with a halving time of 11 years that was                    et al. Half-life of serum elimination of perﬂuorooctanesulfonate, perﬂuoro-
+not statistically signiﬁcant for trend. These biomonitoring studies                  hexanesulfonate, and perﬂuorooctanoate in retired ﬂuorochemical production
+support the slow elimination of PFHxS from the body or suggest                       workers. Environ Health Perspect 2007;115(September (9)):1298–305.
+                                                                                 [6] Calafat AM, Wong LY, Kuklenyik Z, Reidy JA, Needham LL. Polyﬂuoroalkyl
+continued exposure, or both.
+                                                                                     chemicals in the U.S. population: data from the National Health and Nutri-
+    PFHxS, next to PFOS and PFOA, has been the third most fre-                       tion Examination Survey (NHANES) 2003–2004 and comparisons with NHANES
+quently detected perﬂuoroalkyl in blood-based samples from the                       1999–2000. Environ Health Perspect 2007;115(November (11)):1596–602.
+                                                                                 [7] Olsen GW, Mair DC, Church TR, Ellefson ME, Reagen WK, Boyd TM, et al.
+general population [6,7,9,10]. The presence of endogenous steroid
+                                                                                     Decline in perﬂuorooctanesulfonate and other polyﬂuoroalkyl chemicals in
+sulfates in human serum samples has been suggested to cause                          American Red Cross adult blood donors, 2000–2006. Environ Sci Technol
+a possible interference leading to an overestimation of serum                        2008;42(13):4989–95.
+PFHxS concentration, because these steroid sulfates share the same               [8] Holzer J, Midasch O, Rauchfuss K, Kraft M, Reupert R, Angerer J, et al.
+                                                                                     Biomonitoring of perﬂuorinated compounds in children and adults exposed
+MS/MS transition ions (99 or 80 amu) that are monitored routinely                    to perﬂuorooctanoate (PFOA) – contaminated drinking water. Environ Health
+during PFHxS analyses [62,63]. However, this issue is a result of the                Perspect 2008;116(February (5)):651–7.
+use of methanol as the strong solvent in the mobile phase. Kato et al.           [9] Haug LS, Thomsen C, Becher G. Time trends and the inﬂuence of age and gen-
+                                                                                     der on serum concentrations of perﬂuorinated compounds in archived human
+[64] have shown that adequate separation of the interfering steroid                  samples. Environ Sci Technol 2009;43(6):2131–6.
+sulfates was achieved using acetonitrile in place of methanol in the            [10] Spliethoff HM, Tao L, Shaver SM, Aldous KM, Pass KA, Kannan K, et al. Use of
+mobile phase. In the studies reported herein, interference by steroid                newborn screening program blood spots for exposure assesment: declining lev-
+                                                                                     els of perﬂuorinated compounds in New York state infants. Environ Sci Technol
+sulfates in serum was obviated by the methods employed. In the                       2008;42:5361–7.
+monkey study, only parent ion for PFHxS was monitored. In the                   [11] Kato K, Wong L-Y, Jia LT, Kuklenyik Z, Calafat AM. Trends in exposure to polyﬂu-
+rat and mouse studies, SPE was used with acetonitrile as the elut-                   oroalkyl chemicals in the U.S. population: 1999–2008. Environ Sci Technol;
+                                                                                     doi:10.1021/es1043613, online April 6, 2011., in press.
+ing solvent, and the LC–MS/MS analyses used acetonitrile as the
+                                                                                [12] Olsen GW, Church TR, Hansen KJ, Burris JM, Butenhoff JL, Mandel JH, et al.
+strong solvent in the mobile phase. In the methods used for the rat                  Quantitative evaluation of perﬂuorooctanesulfonate (PFOS) and other ﬂuoro-
+and mouse studies, accuracy and precision were enhanced by the                       chemicals in the serum of children. J Child Health 2004;2:53–76.
+use of the internal standard, 18 O3 -PFHxS, which produced a strong             [13] Monroy R, Morrison K, Teo K, Atkinson S, Kubwabo C, Stewart B, et al. Serum lev-
+                                                                                     els of perﬂuoroalkyl compounds in human maternal and umbilical cord blood
+parent ion (405 amu) and the resulting negative product ion S18 O3 −                 samples. Environ Res 2008;108(1):56–62.
+(86 amu) as the quantitative internal standard ion.                             [14] Hanssen L, Rollin H, Odland JO, Moe MK, Sandanger TM. Perﬂuorinated com-
+    In summary, the pharmacokinetic proﬁle of PFHxS was eval-                        pounds in maternal serum and cord blood from selected areas of South Africa:
+                                                                                     results of a pilot study. J Environ Monit 2010;12(6):1355–61.
+uated for multiple species, including rat, mouse, and monkey.
+                                                                                [15] Wang I-J, Hsieh W-S, Chen C-Y, Fletcher T, Lien G-W, Chiang H-L, et al. The effect
+There were variations in the serum elimination half-lives of PFHxS                   of prenatal perﬂuorinated chemicals exposure on pediatric atopy. Environ Res
+across the three species with sex-speciﬁc elimination differences                    2011;111(6):785–91.
+                                                                                [16] Brede E, Wilhelm M, Goen T, Muller J, Raunchfuss K, Kraft M, et al. Two-year
+observed in the rat but not demonstrated in mice or monkeys.
+                                                                                     follow-up biomonitoring pilot study of residents’ and controls’ PFC plasma lev-
+Although these estimates may not represent the same active                           els after PFOA reduction in public drinking water system in Arnsberg, Germany.
+processes between species, they do allow comparison of serum                         Int J Hyg Environ Health 2010;213(3):217–23.
+elimination. As exempliﬁed by these data for PFHxS, differences                 [17] Sundström M, Ehresman DJ, Bignert A, Butenhoff JL, Olsen GW, Chang SC, et al.
+                                                                                     A temporal trend study (1972–2008) of perﬂuorooctanesulfonate, perﬂuoro-
+in pharmacokinetic handling between species, and between sexes                       hexanesulfonate, and perﬂuorooctanoate in pooled human milk samples from
+within species, underscore the importance of understanding phar-                     Stockholm, Sweden. Environ Int 2011;37(1):178–83.
+                                                        M. Sundström et al. / Reproductive Toxicology 33 (2012) 441–451                                                        451
+
+
+[18] Karrman A, Ericson I, van Bavel B, Darnerud PO, Aune M, Glynn A, et al. Expo-        [42] Kudo N, Kawashima Y. Toxicity and toxicokinetics of perﬂuorooctanoic acid in
+     sure of perﬂuorinated chemicals through lactation: levels of matched human                humans and animals. J Toxicol Sci 2003;28(May (2)):49–57.
+     milk and serum and a temporal trend, 1996–2004, in Sweden. Environ Health            [43] Chang S-C, Noker PE, Gorman GS, Gibson SJ, Hart JA, Ehresman DJ, et al. Compar-
+     Perspect 2007;115(February (2)):226–30.                                                   ative pharmacokinetics of perﬂuorooctanesulfonate (PFOS) in rats, mice, and
+[19] D’Hollander W, Roosens L, Covaci A, Cornelis C, Reynders H, Van Campen-                   monkeys. Reprod Toxicol; in press.
+     hout K, et al. Brominated ﬂame retardants and perﬂuorinated compounds                [44] Benskin JP, De Silva AO, Martin LJ, Arsenault G, McCrindle R, Riddell N, et al. Dis-
+     in indoor dust from homes and ofﬁces in Flanders, Belgium. Chemosphere                    position of perﬂuorinated acid isomers in Sprague-Dawley rats; part 1: single
+     2010;81(4):478–87.                                                                        dose. Environ Toxicol Chem 2009;28(March (3)):542–54.
+[20] Kato K, Calafat AM, Needham L. Polyﬂuoroalkyl chemicals in house dust. Envi-         [45] Chengelis CP, Kirkpatrick JB, Myers NR, Shinohara M, Stetson PL, Sved DW.
+     ron Res 2009;109(5):518–23.                                                               Comparison of the toxicokinetic behavior of perﬂuorohexanoic acid (PFHxA)
+[21] Kubwabo C, Stewart B, Zhu J, Marro L. Occurrence of perﬂuorosulfonates and                and nonaﬂuorobutane-1-sulfonic acid (PFBS) in cynomolgus monkeys and rats.
+     other perﬂuorochemicals in dust from selected homes in the city of Ottawa,                Reprod Toxicol 2009;27(3–4):400–6.
+     Canada. J Environ Monit 2005;7(November (11)):1074–8.                                [46] Hundley SG, Sarrif AM, Kennedy GL. Absorption, distribution, and excretion
+[22] Strynar MJ, Lindstrom AB. Perﬂuorinated compounds in house dust from Ohio                 of ammonium perﬂuorooctanoate (APFO) after oral administration to various
+     and North Carolina, USA. Environ Sci Technol 2008;42(10):3751–6.                          species. Drug Chem Toxicol 2006;29(2):137–45.
+[23] Noorlander CW, van Leeuwen SPJ, Dirk te Biesebeek J, Mengelers MJB, Zeil-            [47] Loveless SE, Finlay C, Everds NE, Frame SR, Gillies PJ, O’Connor JC, et al. Com-
+     maker MJ. Levels of perﬂuorinated compounds in food and dietary intake                    parative responses of rats and mice exposed to linear/branched, linear, or
+     of PFOS and PFOA in The Netherlands. J Agric Food Chem 2011;59(13):                       branched ammonium perﬂuorooctanoate (APFO). Toxicology 2006;220(March
+     7496–505.                                                                                 (2–3)):203–17.
+[24] Kato K, Calafat AM, Wong LY, Wanigatunga AA, Caudill SP, Needham L. Polyﬂu-          [48] Hinderliter PM, Delorme MP, Kennedy GL. Perﬂuorooctanoic acid: relationship
+     oroalkyl compounds in pooled sera from children participating in the National             between repeated inhalation exposures and plasma PFOA concentration in the
+     Health and Nutrition Examination Survey 2001–2002. Environ Sci Technol                    rat. Toxicology 2006;211(February):139–48.
+     2009;43(7):2641–7.                                                                   [49] Hinderliter PM, Han X, Kennedy GL, Butenhoff JL. Age effect on perﬂuorooc-
+[25] Bloom MS, Kannan K, Spliethoff HM, Tao L, Aldous KM, Vena JE. Exploratory                 tanoate (PFOA) plasma concentration in post-weaning rats following oral gav-
+     assessment of perﬂuorinated compounds and human thyroid function. Physiol                 age with ammonium perﬂuorooctanoate (APFO). Toxicology 2006;225(August
+     Behav 2010;99(2):240–5.                                                                   (2–3)):195–203.
+[26] Chan E, Burstyn I, Cherry N, Bamforth F, Martin JW. Perﬂuorinated acids and          [50] Hinderliter PM, Jepson GW. Development of a biologically based model
+     hypothyroxinemia in pregnant women. Environ Res 2011;111(4):559–64.                       to describe perﬂuorooctanoic acid (PFOA) kinetics. Toxicologist 2001:60s
+[27] Hamm MP, Cherry NM, Chan E, Martin JW, Burstyn I. Maternal exposure                       [Abstract #700 of 40th annual meeting].
+     to perﬂuorinated acids and fetal growth. J Exposure Sci Environ Epidemiol            [51] Hinderliter PM, Mylchreest E, Gannon SA, Butenhoff JL, Kennedy Jr GL. Per-
+     2010;20:589–97.                                                                           ﬂuorooctanoate: placental and lactational transport pharmacokinetics in rats.
+[28] Stein CR, Savitz DA. Serum perﬂuorinated compound concentration and atten-                Toxicology 2005;211(July (1–2)):139–48.
+     tion deﬁcit/hyperactivity disorder in children aged 5 to 18 years. Environ Health    [52] De Silva AO, Benskin JP, Martin LJ, Arsenault G, McCrindle R, Riddell N, et al.
+     Perspect; doi:10.1289/ehp.1003538, online June 10, 2011., in press.                       Disposition of perﬂuorinated acid isomers in Sprague-Dawley rats; part 2: sub-
+[29] Nelson JW, Hatch EE, Webster TF. Exposure to polyﬂuoroalkyl chemicals and                 chronic dose. Environ Toxicol Chem 2009;28(March (3)):555–67.
+     cholesterol, body weight, and insulin resistance in the general U.S. population.     [53] Kudo N, Suzuki E, Katakura M, Ohmori K, Noshiro R, Kawashima Y. Comparison
+     Environ Health Perspect 2010;118(2):197–202.                                              of the elimination between perﬂuorinated fatty acids with different carbon
+[30] Butenhoff JL, Chang SC, Ehresman DJ, York RG. Evaluation of potential repro-              chain length in rats. Chem Biol Interact 2001;134(April (2)):203–16.
+     ductive and developmental toxicity of potassium perﬂuorohexanesulfonate in           [54] Vanden Heuvel JP, Davis 2nd JW, Sommers R, Peterson RE. Renal excretion of
+     Sprague Dawley rats. Reprod Toxicol 2009;27(3–4):331–41.                                  perﬂuorooctanoic acid in male rats: inhibitory effect of testosterone. J Biochem
+[31] Wolf CJ, Takacs ML, Schmid JE, Lau C, Abbott BD. Activation of mouse and human            Toxicol 1992;7(Spring (1)):31–6.
+     peroxisome proliferator-activated receptor alpha by perﬂuoroalkyl acids of dif-      [55] Kudo N, Katakura M, Sato Y, Kawashima Y. Sex hormone-regulated renal
+     ferent functional groups and chain lengths. Toxicol Sci 2008;106(November                 transport of perﬂuorooctanoic acid. Chem Biol Interact 2002;139(March
+     (1)):162–71.                                                                              (3)):301–16.
+[32] Bjork JA, Wallace KB. Structure–activity relationships and human relevance for       [56] Katakura M, Kudo N, Tsuda T, Hibino Y, Mitsumoto A, Kawashima Y. Rat organic
+     perﬂuoroalkyl acid-induced transcriptional activation of peroxisome prolifer-             anion transporter 3 and organic anion transporting polypeptide 1 mediate
+     ation in liver cell cultures. Toxicol Sci 2009;111(September (1)):89–99.                  perﬂuorooctanoic acid transport. J Health Sci 2007;53(1):77–83.
+[33] Bijland S, Rensen PCN, Pieterman EJ, Maas ACE, van der Hoorn JW, van Erk MJ,         [57] Weaver YM, Ehresman DJ, Butenhoff JL, Hagenbuch B. Roles of rat renal organic
+     et al. Perﬂuoroalkyl sulfonates cause chain length-dependent hepatic steatosis            anion transporters in transporting perﬂuorinated carboxylates with different
+     and hypolipidemia mainly by impairing lipoprotein production in APOE*3-                   chain lengths. Toxicol Sci 2010;113(2):305–14.
+     Leiden.CETP mice. Toxicol Sci; doi:10.1093/toxsci/kfr 142, online june 24, 2011,     [58] Yang CH, Glover KP, Han X. Organic anion transporting polypeptide (Oatp) 1a1-
+     in press.                                                                                 mediated perﬂuorooctanoate transport and evidence for a renal reabsorption
+[34] Chang S, Das K, Ehresman DJ, Ellefson ME, Gorman GS, Hart JA, et al. Com-                 mechanism of Oatp1a1 in renal elimination of perﬂuorocarboxylates in rats.
+     parative pharmacokinetics of perﬂuorobutyrate (PFBA) in rats, mice, monkeys,              Toxicol Lett 2009;190(October (2)):163–71.
+     and humans and relevance to human exposure via drinking water. Toxicol Sci           [59] Yang CH, Glover KP, Han X. Characterization of cellular uptake of per-
+     2008;104:40–53.                                                                           ﬂuorooctanoate via organic anion transporting polypeptide 1A2, organic
+[35] Olsen GW, Chang SC, Noker PE, Gorman GS, Ehresman DJ, Lieder PH, et al. A com-            anion transporter 4, and urate transporter 1 for their potential roles in
+     parison of the pharmacokinetics of perﬂuorobutanesulfonate (PFBS) in rats,                mediating human renal reabsorption of perﬂuorocarboxylates. Toxicol Sci
+     monkeys, and humans. Toxicology 2009;256(1–2):65–74.                                      2010;117(2):294–302.
+[36] Butenhoff JL, Kennedy Jr GL, Hinderliter PM, Lieder PH, Jung R, Hansen KJ, et al.    [60] Nakagawa H, Terada T, Harada KH, Hitomi T, Inoue K, Inui K, et al. Human
+     Pharmacokinetics of perﬂuorooctanoate in cynomolgus monkeys. Toxicol Sci                  organic anion transporter hOAT4 is a transporter of perﬂuorooctanoic acid.
+     2004;82(December (2)):394–406.                                                            Basic Clin Pharmacol Toxicol 2009;105:136–8.
+[37] ILAR. Guide for the care and use of laboratory animals. Washington, DC:              [61] Andersen ME, Clewell 3rd HJ, Tan YM, Butenhoff JL, Olsen GW. Pharma-
+     National Research Council, Institute of Laboratory Animal Resources. National             cokinetic modeling of saturable, renal resorption of perﬂuoroalkylacids in
+     Academy Press; 1996.                                                                      monkeys-probing the determinants of long plasma half-lives. Toxicology
+[38] Ehresman DJ, Froehlich JW, Olsen GW, Chang SC, Butenhoff JL. Comparison                   2006;227(October (1–2)):156–64.
+     of human whole blood, plasma, and serum matrices for the determination of            [62] Benskin JP, Bataineh M, Martin JW. Simultaneous characterization of
+     perﬂuorooctanesulfonate (PFOS), perﬂuorooctanoate (PFOA), and other ﬂuoro-                perﬂuoroalkyl carboxylate, sulfonate, and sulfonamide isomers by liq-
+     chemicals. Environ Res 2007;103(February (2)):176–84.                                     uid chromatography–tandem mass spectrometry. Anal Chem 2007;79(17):
+[39] Chang SC, Thibodeaux JR, Eastvold ML, Ehresman DJ, Bjork JA, Froehlich JW, et al.         6455–64. Aug 1.
+     Negative bias from analog methods used in the analysis of free thyroxine in rat      [63] Chan E, Sandhu M, Benskin JP, Ralitsch M, Thibault N, Birkholz D, et al. Endoge-
+     serum containing perﬂuorooctanesulfonate (PFOS). Toxicology 2007;234(May                  nous high-performance liquid chromatography/tandem mass spectrometry
+     (1–2)):21–33.                                                                             interferences and the case of perﬂuorohexane sulfonate (PFHxS) in human
+[40] Chang SC, Ehresman DJ, Bjork JA, Wallace K, Parker GA, Stump DG, et al.                   serum; are we overestimating exposure? Rapid Commun Mass Spectrom
+     Gestational and lactational exposure to potassium perﬂuorooctanesulfonate                 2009;23(April (10)):1405–10.
+     (K + PFOS) in rats: toxicokinetics, thyroid hormone status, and related gene         [64] Kato K, Basden BJ, Needham LL, Calafat AM. Improved selectivity for the analysis
+     expression. Reprod Toxicol 2009;27(3–4):387–99.                                           of maternal serum and cord serum for polyﬂuoroalkyl chemicals. J Chromatogr
+[41] Grifﬁth FD, Long JE. Animal toxicity studies with ammonium perﬂuorooc-                    A 2011;1218(16):2133–7.
+     tanoate. Am Ind Hyg Assoc J 1980;41(August (8)):576–83.
+

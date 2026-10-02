@@ -1,19 +1,27 @@
 # Papers wanted, ranked by what each would change
 
-**Status, 2026-10-02: nine received.** Argoul/Gayrard 2026, Thompson 2010 (with
+**Status, 2026-10-02: eleven received.** Argoul/Gayrard 2026, Thompson 2010 (with
 all five supplementary files and the appended corrigendum), Kudo 2002,
-Lou 2009, the Huang 2021 corrigendum, **Han 2012, Yang 2010, Kudo 2001 and
-Tatum-Gibbs 2011** are now in `papers/` and
+Lou 2009, the Huang 2021 corrigendum, **Han 2012, Yang 2010, Kudo 2001,
+Tatum-Gibbs 2011, Sundström 2012 and Cheng 2005** are now in `papers/` and
 `papers/supplementary/`, extracted into `db/primary_2026/`, and folded into the
 report (§3.2a, §3.3, §3.4, §3.6, §5.1c, §5.3, §6.2, §8). That includes all three
 items the "if you can only get three" section named. What each one settled is
 recorded under its entry below.
 
-**Still wanted:** tier 1 items 5 (Cheng & Klaassen) and 6 (Han 2003 — note its
-*companion* Han 2012 has now arrived, which was the more important half); tier 2
-items Sundström 2012 and Kemper 2003; and the tier 3 list, of which
-Hanhijärvi 1988 matters most because it is the entire dog column. Item 4 (Buist
-& Klaassen 2004) is downgraded and item 7 (Yang) is **received**.
+**Still wanted, and the list is now short.** Tier 1 item 6 (**Han 2003**, the
+100× free-fraction conflict); tier 2 **Kemper 2003** (unpublished DuPont report,
+EPA docket); and from tier 3 **Hanhijärvi 1988**, which is the entire dog column.
+Everything else in tier 1 and the top of tier 2 has arrived or been downgraded.
+
+**Two items closed without the paper.** Tier 1 item 5 (Cheng & Klaassen) is
+**resolved**: Cheng 2005's full text is here, and the Cheng 2006 abstract —
+recovered in full from the publisher's metadata — turns out to contradict
+*itself*, so no full text is needed to settle the direction (see §3.4).
+**Hanhijärvi 1988** was attempted again and is not online; HERO 5412773 confirms
+the citation but it is a 1988 book chapter with no digital full text. Han 2012
+Table 4 now supplies dog CLR (50.8 female, 43 male mL/d/kg) and reabsorbed
+fractions (52%/59%) compiled from it, which is the best available substitute.
 
 **What the four newest ones settled.** Han 2012 is the source OEHHA's Table A6.4
 adapts: the adaptation altered two values (human 99.94→99.8, male rat
@@ -159,7 +167,7 @@ therefore the ultimate source of the reabsorption axis in §3.3.
 | paper | identifier | why |
 |---|---|---|
 | **Lou et al. 2009** — **RECEIVED** | **PMID 19005225**, doi:10.1093/toxsci/kfn234 | **It does report the sexes separately** — Table 2: female t½ 15.6 d, male 21.7 d, with Vd 0.135 vs 0.226 L/kg. The "15.6–21.7 d range" EPA quotes is the two sexes, not a dose range. With Kudo 2002 this gives §3.2a's headline: the Vd sex ratio is 1.67× in mouse and 1.64× in rat while the clearance sex ratio is 0.83× and 44.3× |
-| **Sundström et al. 2012**, mouse PFHxS. Reprod Toxicol 33(4):441–451 | **PMID 21856411**, doi:10.1016/j.reprotox.2011.07.004 | sole mouse source for PFHxS; also the monkey Vd four states use. (Cited as both 2011 and 2012 — same paper, 2011 e-pub / 2012 issue) |
+| **Sundström et al. 2012** — **RECEIVED** | **PMID 21856411**, doi:10.1016/j.reprotox.2011.07.004 | Still the sole mouse PFHxS source, but now read directly. Confirms the monkey Vdss four states use (287 male / 213 female mL/kg) at source, and adds three more datasets to §3.2a's decomposition, taking it from two to six. Also exposes a data-quality problem regulatory tabulations inherit silently: its Table 1 male rat IV parameters come from **a single animal** and the female β-phase in Table 2 was not estimable |
 | **Tatum-Gibbs et al. 2011**, PFNA mouse/rat | doi:10.1016/j.tox.2011.01.003 | sole mouse PFNA source; our fitted 227 d sits 3.3× above its ceiling |
 | **Kemper 2003**, DuPont Haskell unpublished | — | the PFOA rat dose series behind §4.2's female dose-dependence; unpublished report |
 | **Huang et al. 2021 corrigendum** — **RECEIVED** | **PMID 33665134**, **PMC7902757**, doi:10.1016/j.toxrep.2021.02.001 | It is a units-label fix only: AUC and AUC/Dose in Tables 2–4 should read mM·hr, not μM·hr. Verified arithmetically (CL = 4.0 μmol/kg ÷ 7320 μmol/L·hr = 0.546 mL/hr/kg, matching the printed CL). No half-life, clearance or Vd changed, and we store no AUC, so every flagged row was always correct |

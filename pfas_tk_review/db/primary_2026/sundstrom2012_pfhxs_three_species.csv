@@ -1,0 +1,11 @@
+species,strain,sex,n,dose_mgkg,route,followup,halflife_d,halflife_type,clearance_mL_d_kg,vd_mL_kg,vd_type,auc_ug_d_mL,pct_dose_urine_24h,source_table,note
+rat,Sprague-Dawley,male,4,10,iv,10 weeks,29.1,T1/2 beta (2-compartment),6.71,275,Vdss,1490,0.70,Table 2,"SE 0.6 / 0.06 / 5 / 12 / 0.07"
+rat,Sprague-Dawley,female,4,10,iv,10 weeks,1.64,"derived from alpha 0.4226/day (1-compartment fit)",53.35,126,Vdss,187,13.28,Table 2,"SE 4.38 / 14 / 15 / 2.88; beta not estimable"
+rat,Sprague-Dawley,male,1,10,iv,24 h,6.83,T1/2 beta,40.32,,,248,,Table 1,"N=1 rat - see footnote b; not used for ratios"
+rat,Sprague-Dawley,female,3,10,iv,24 h,1.83,T1/2 beta,119,278,Vdss,109.35,,Table 1,"SE 0.26 / 47 / 66 / 31.55"
+mouse,CD-1,male,4,1,oral,23 weeks (162 d),30.5,non-compartmental,2.94,129,Vd,340,0.882,Table 3,
+mouse,CD-1,female,4,1,oral,23 weeks (162 d),24.82,non-compartmental,2.68,96,Vd,372,0.317,Table 3,
+mouse,CD-1,male,4,20,oral,23 weeks (162 d),27.97,non-compartmental,4.83,195,Vd,4138,1.654,Table 3,
+mouse,CD-1,female,4,20,oral,23 weeks (162 d),26.81,non-compartmental,3.79,147,Vd,5270,2.552,Table 3,
+monkey (cynomolgus),,male,3,10,iv,171 days,141,non-compartmental,1.33,287,Vdss,7462,0.102,Table 5,"SE 30 / 0.12 / 52 / 675 / 0.010; M vs F half-life difference NOT significant (p>0.05)"
+monkey (cynomolgus),,female,3,10,iv,171 days,87,non-compartmental,1.93,213,Vdss,5794,0.055,Table 5,"SE 27 / 0.41 / 28 / 1396 / 0.033"

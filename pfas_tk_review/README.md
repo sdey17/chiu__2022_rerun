@@ -42,16 +42,16 @@ Built on top of the existing work in this repository (`../literature`,
 
 | File | Rows | What it holds |
 |---|---|---|
-| `tk_parameters.csv` | 699 | half-life, clearance, Vd, MRT, bioavailability, GFR and reabsorption by chemical × species × sex × source, units normalised, every row carrying its provenance |
+| `tk_parameters.csv` | 736 | half-life, clearance, Vd, MRT, bioavailability, GFR and reabsorption by chemical × species × sex × source, units normalised, every row carrying its provenance |
 | `binding.csv` | 192 | protein binding constants and unbound fractions with the method for each |
-| `transporters.csv` | 253 | transporter Km, PBPK Tm/KT, mRNA sex ratios and direction |
+| `transporters.csv` | 260 | transporter Km, PBPK Tm/KT, mRNA sex ratios and direction |
 | `regulatory.csv` | 215 | what each agency adopted, from which study, under which assumptions |
 | `PFAS_TK_combined.xlsx` | — | all four as one filterable workbook |
 
 Rebuild with `python3 scripts/build_combined_datasets.py` then
 `python3 scripts/export_combined_xlsx.py`.
 
-### `db/primary_2026/` — the nine full texts supplied 2026-10-02
+### `db/primary_2026/` — the eleven full texts supplied 2026-10-02
 
 | File | Rows | What it holds |
 |---|---|---|
@@ -68,6 +68,8 @@ Rebuild with `python3 scripts/build_combined_datasets.py` then
 | `yang2010_human_apical_transporters.csv` | 4 | human OATP1A2, OAT4 and URAT1 PFOA uptake, with the assay conditions |
 | `kudo2001_chain_length_elimination.csv` | 8 | rat urinary and faecal recovery by chain length and sex |
 | `tatumgibbs2011_pfna_rat_mouse.csv` | 4 | the only strain-matched rat-vs-mouse PFNA experiment |
+| `sundstrom2012_pfhxs_three_species.csv` | 10 | PFHxS in rat, mouse and monkey, both sexes in all three, one laboratory |
+| `cheng2005_mouse_oatp_sex.csv` | 7 | mouse renal and hepatic Oatp sex predominance and androgen dependence |
 
 ## Reproducing it
 
