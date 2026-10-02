@@ -1,0 +1,678 @@
+                                                    i An update to this article is included at the end
+
+
+
+
+                                                                    Environment International 36 (2010) 390–397
+
+
+
+                                                                   Contents lists available at ScienceDirect
+
+
+                                                              Environment International
+                                                   j o u r n a l h o m e p a g e : w w w. e l s ev i e r. c o m / l o c a t e / e n v i n t
+
+
+
+
+Use of simple pharmacokinetic modeling to characterize exposure of Australians to
+perﬂuorooctanoic acid and perﬂuorooctane sulfonic acid
+Jack Thompson a,⁎, Matthew Lorber b, Leisa-Maree L. Toms a, Kayoko Kato c,
+Antonia M. Calafat c, Jochen F. Mueller a
+a
+    The University of Queensland, National Research Centre for Environmental Toxicology, 39 Kessels Road, Coopers Plains, QLD, 4108, Australia
+b
+    Ofﬁce of Research and Development, United States Environmental Protection Agency, 1200 Pennsylvania Ave, Washington, District of Columbia 20460, USA
+c
+    Centers for Disease Control and Prevention, Atlanta, GA, 30341-3724, USA
+
+
+
+
+a r t i c l e           i n f o                           a b s t r a c t
+
+Article history:                                          Perﬂurooctanoic acid (PFOA) and perﬂuorooctane sulfonic acid (PFOS) have been used for a variety of
+Received 13 December 2009                                 applications including ﬂuoropolymer processing, ﬁre-ﬁghting foams and surface treatments since the 1950s.
+Accepted 22 February 2010                                 Both PFOS and PFOA are polyﬂuoroalkyl chemicals (PFCs), man-made compounds that are persistent in the
+Available online 16 March 2010
+                                                          environment and humans; some PFCs have shown adverse effects in laboratory animals. Here we describe
+                                                          the application of a simple one compartment pharmacokinetic model to estimate total intakes of PFOA and
+Keywords:
+Perﬂuorooctanoic acid
+                                                          PFOS for the general population of urban areas on the east coast of Australia. Key parameters for this model
+PFOA                                                      include the elimination rate constants and the volume of distribution within the body. A volume of
+Perﬂuorooctane sulfonic acid                              distribution was calibrated for PFOA to a value of 170 ml/kg bw using data from two communities in the
+PFOS                                                      United States where the residents' serum concentrations could be assumed to result primarily from a known
+Pharmacokinetic modeling                                  and characterized source, drinking water contaminated with PFOA by a single ﬂuoropolymer manufacturing
+Blood monitoring                                          facility. For PFOS, a value of 230 ml/kg bw was used, based on adjustment of the PFOA value. Applying
+Australia                                                 measured Australian serum data to the model gave mean ± standard deviation intake estimates of PFOA of
+                                                          1.6 ± 0.3 ng/kg bw/day for males and females N 12 years of age combined based on samples collected in
+                                                          2002–2003 and 1.3 ± 0.2 ng/kg bw/day based on samples collected in 2006–2007. Mean intakes of PFOS
+                                                          were 2.7 ± 0.5 ng/kg bw/day for males and females N 12 years of age combined based on samples collected in
+                                                          2002–2003, and 2.4 ± 0.5 ng/kg bw/day for the 2006–2007 samples. ANOVA analysis was run for PFOA
+                                                          intake and demonstrated signiﬁcant differences by age group (p = 0.03), sex (p = 0.001) and date of
+                                                          collection (p b 0.001). Estimated intake rates were highest in those aged N 60 years, higher in males compared
+                                                          to females, and higher in 2002–2003 compared to 2006–2007. The same results were seen for PFOS intake
+                                                          with signiﬁcant differences by age group (p b 0.001), sex (p = 0.001) and date of collection (p = 0.016).
+                                                                                                                                © 2010 Elsevier Ltd. All rights reserved.
+
+
+
+
+1. Introduction                                                                                  proliferators, hepatotoxic and potentially carcinogenic (Kennedy
+                                                                                                 et al., 2004; OECD, 2002). Epidemiologically no deﬁnitive correlations
+   Polyﬂuoroalkyl chemicals (PFCs) such as perﬂuorooctanoic acid                                 have yet been observed between PFC serum concentrations in human
+(PFOA) and perﬂuorooctane sulfonic acid (PFOS) have been used                                    populations and adverse health effects or illness (Alexander and
+commercially since the 1950s for a variety of applications including                             Olsen, 2007; Emmett et al., 2006a). However some correlations have
+ﬂuoropolymer processing, ﬁre-ﬁghting foams, and paper and textile                                been reported with regards to human reproductive health (Olsen
+surface treatments (Paul et al., 2009; Prevedouros et al., 2006). Both                           et al., 2009), and between PFOA/PFOS and cholesterol levels, which
+PFOA and PFOS have received attention in recent years due to                                     have potentially serious implications regarding risk from heart
+persistence in both the environment and humans (Giesy and Kannan,                                disease (Steenland et al., 2009). The persistence of PFCs in the
+2002). Unlike legacy lipophilic persistent pollutants such as poly-                              environment and slow elimination rates in humans means they are
+chlorinated biphenyls and dichlorodiphenyltrichloroethane, PFCs                                  likely to accumulate in people. This is supported by the consistent
+bind to blood proteins such as albumin (Han et al., 2003). In animal                             detection of both PFOA and PFOS in the blood of the general
+systems PFOA and PFOS have been shown to be peroxisome                                           population of various countries (e.g. Calafat et al., 2007; Yeung
+                                                                                                 et al., 2008).
+                                                                                                     In response to environmental concerns, production of PFOS was
+    ⁎ Corresponding author. Tel.: + 61 7 3274 9060; fax: +61 7 3274 9003.                        ceased by 3 M, its major manufacturer, in 2002 (OECD, 2002); in
+      E-mail address: jthompson@entox.uq.edu.au (J. Thompson).                                   Australia usage has ceased in all areas except those where alternatives
+
+0160-4120/$ – see front matter © 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.envint.2010.02.008
+                                               J. Thompson et al. / Environment International 36 (2010) 390–397                                       391
+
+
+are not available (NICNAS, 2007a). In 2009, PFOS was added to the                with PFOA from a single ﬂuoropolymer manufacturing facility. The
+Stockholm Convention against persistent organic pollutants but                   higher than background serum PFOA concentrations of residents in
+continues to be manufactured in countries such as China (Wang                    these communities have been related to exposure to the contaminated
+et al., 2009). The use and import of PFOA in Australia has been                  drinking water, and well characterized serum and water concentration
+discouraged by the relevant authority (NICNAS, 2007b). In the United             data were available for both communities. The full details of this
+States, the 2010/15 PFOA stewardship program implemented by the                  calibration exercise are provided in the supplementary material.
+United States Environmental Protection Agency (USEPA) in conjunc-                Brieﬂy, average water concentrations were multiplied by an assumed
+tion with eight major manufacturers aims to reduce PFOA emissions                daily consumption rate (1.4 L/day (EPA, 1997)) and an assumed
+by 95% by 2010 and the cessation of all production is aimed at for 2015          gastrointestinal absorption fraction of 91% to give a daily dose (DP) to
+(US EPA, 2009). Despite the increased regulation of these compounds,             be used in Eq. (2c). As discussed below, a high GI absorption was
+exposure to the general public may be expected to continue for some              justiﬁed based on the high absorption rates seen in animals (Hundley
+time.                                                                            et al., 2006; OECD, 2002). 91% was chosen speciﬁcally following the
+    In this work we describe the application of a simple 1st order one           example of Trudel et al. (2008) who used this value in their ‘high’
+compartment pharmacokinetic (PK) model to previously reported                    exposure modeling scenario based on the 95th percentile of the
+PFOA and PFOS concentrations from pooled serum samples collected                 Hundley et al. results. The average serum PFOA concentrations were
+from the general population in urban centers on the east coast of                used as the CP term, and with this information, similar values for Vd
+Australia. Models of the type used here have previously been used to             were obtained for both communities (173 ml/kg bw and 165 ml/kg
+estimate intakes for various PFCs using both forward (i.e. from                  bw). The average value of 170 ml/kg bw was used as the Vd for
+concentrations in exposure media such as food (e.g.Fromme et al.,                application to the Australian serum PFOA data.
+2007)) and backward (from concentrations in the body (Trudel et al.
+2008)) approaches. Although a range of PFCs are being found in                   2.1.2. Final model inputs: application to the Australian data
+humans and the environment, the model is applied here to PFOA and                    A list of the parameters used in the model applied to the Australian
+PFOS only, due to the predominance of these compounds in serum.                  serum data are given in Table 1 and described in detail below.
+
+2. Methods                                                                       1) Australian pooled serum PFOA and PFOS concentration data (CP)
+                                                                                    Concentrations of PFOA and PFOS have been determined in pooled
+2.1. Modeling                                                                       serum samples collected in 2002–2003 and 2006–2007 from
+                                                                                    Australian residents. Details of the population stratiﬁcation (sex,
+   A simple, single compartment, 1st-order pharmacokinetic (PK)                     age (b15, 16–30, 31–45, 46–60 and N60 years), and region), analyses
+model which predicts PFOA and PFOS concentrations in blood serum                    and results have been published previously (Karrman et al., 2006;
+as a function of dose, elimination rate, and volume of distribution, is             Toms et al., 2009). The 2002–2003 pools consisted of 1 ml of serum
+used in this study. This model is given as:                                         samples from 100 individual donors, the 2006–2007 pools contained
+                                                                                    1 ml serum samples from 30 individual donors.
+dðCPÞ = dt = ðDPðtÞÞ = Vd  kP × CPðtÞ                                  ð1Þ         For the purposes of modeling, a mean age for each pool was
+                                                                                    calculated from the average individual donor ages contributing to
+where CP is the serum concentration (ng/ml) of the target chemical                  the pool. Only data for ages N12 years were used because the
+(PFOS or PFOA), DP is the daily absorbed dose (ng/kg bw/day), Vd is                 application of the pharmacokinetic model is considered only valid
+the volume of distribution (ml/kg bw), and kP is the ﬁrst-order                     for steady state conditions as could be expected from long-term
+elimination rate in the body (day− 1). Assuming steady state                        background exposures. The only exception is in the 2002–2003
+conditions exist, one can easily solve for blood serum concentration                samples where the males b16 years had a mean age of 11 years but
+and intake dose as:                                                                 were still included in intake calculations. The mean age along with
+                                                                                    age speciﬁc typical body weights (Australian Bureau of Statistics,
+CP = DP = ðkP × VdÞ                                                    ð2aÞ
+                                                                                    2008) were used in the calculation of intakes. Descriptive statistical
+and                                                                                 analysis was used to estimate average intake doses, standard
+                                                                                    deviations and ranges. ANOVA analysis was undertaken incorporat-
+DP = CP × kP × Vd                                                     ð2bÞ          ing age group, gender and collection period. The conventional 5%
+                                                                                    cut-off was used to report results as statistically signiﬁcant.
+   Or rearranged to calculate the volume of distribution (Vd)                       Statistical analysis was carried out using SPSS 17.0. (SPSS Inc./
+                                                                                    Chicago IL, US).
+Vd = DP = ðCP × kPÞ                                                    ð2cÞ      2) Elimination rate constants (kP)
+                                                                                    The elimination rate constants (kP = ln 2/t1/2) were assigned
+                                                                                    values of 0.0008 day− 1 (PFOA) and 0.0003 day− 1 (PFOS). The
+2.1.1. Calibration of the volume of distribution (Vd) parameter                     elimination rate for PFOA was based on a serum half life of
+    The volume of distribution is deﬁned as the total amount of a                   2.3 years, taken from a recent study examining the declining serum
+substance in the body divided by its concentration in the blood or                  concentrations in the same US communities as used for the Vd
+serum (Vd [ml/kg bw] = mass in body [ng/kg bw] / concentration in                   calibration exercise, after steps were taken to reduce water supply
+blood or serum [ng/ml]) (Birkett, 1988). While Vd likely has a                      contamination (Bartell et al., 2010). The PFOS elimination rate was
+physiological underpinning speciﬁc to the contaminant and the animal                based on the results of an occupational cohort study suggesting
+species in which it is applied, it is best thought of as a modeling                 serum half lives of 5.4–5.9 years (Olsen et al., 2007).
+parameter which needs to be carefully assigned. Previous PFC                     3) Volume of distribution (Vd)
+modeling has relied upon Vd values obtained through animal dosing                   As described brieﬂy above and in detail in the supplementary
+studies (e.g. Harada et al., 2003; Washburn et al., 2005), such as those            material, a Vd value of 170 ml/kg bw was calibrated for PFOA
+estimated by Andersen et al. (2006), Grifﬁth and Long (1980), or                    based on available human speciﬁc data. A study by Andersen et al.
+Seacat et al. (2002). In this work a value was calibrated from human                (2006) which calculated values for both PFOS and PFOA, suggested
+serum and exposure data. Speciﬁcally, we used data from two                         a Vd for PFOS 20–50% greater than that for PFOA, depending on
+communities where drinking water supplies had been contaminated                     route of exposure (i.e. oral or intravenous). Using the average of
+392                                                           J. Thompson et al. / Environment International 36 (2010) 390–397
+
+
+Table 1
+Parameters used in model to estimate PFC intakes in the Australian population.
+
+  PFC      Volume of distribution (Vd)               Daily intakes [ng/kg-b.w]                        Serum PFOA concentration (CP)                        PFOA serum elimination rate
+           [mL/kg b.w]                               (Dose (DP)/0.91)                                 [ng/mL] mean (range)                                 constant (kP) [day− 1]
+
+           Value Source                              Values               Source                      Values                      Source                   Value            Source
+
+  PFOA 170        Calibrated using data from two     0.5–1.1 (2002/03) Output of the model       2006–07:                         Karrman et al. (2006),   0.0008           Bartell et al
+                  communities in the US,             0.5–0.8 (2006/07) (Eq. (2a)–(2c)), assuming 6 (4.2–7.7); 2002–03             Toms et al. (2009)                        (2010)
+                  as described in text and                             91% GI absorption         7.6 (5–9.9)
+                  Supplementary material
+  PFOS     230    Adjusted from the calibrated       2.2–3.7 (2002/030 Output of the model       2006–07:                  Karrman et al. (2006),          0.0003           Olsen et al
+                  data by 35%, in accordance         1.7–3.6 (2006/07) (Eq. (2a)–(2c)), assuming 18.6 (13.4–28.5); 2002–03 Toms et al. (2009)                               (2007)
+                  with the differences in PFOA                         91% GI absorption         21.3 (12.6–29.5)
+                  and PFOS volumes of
+                  distribution calculated by
+                  Andersen et al. (2006)
+
+
+
+
+      these differences (35%) the calibrated PFOA value was adjusted                            As discussed by Karrman et al. (2006), the 2002–2003 pools were drawn from 100
+                                                                                                individuals and therefore it seems unlikely that one particularly individual could raise
+      accordingly to give a Vd for PFOS of 230 ml/kg bw.
+                                                                                                the concentration of the entire pool to such an extent and therefore contamination or
+                                                                                                an analytical error is suspected.
+3. Results                                                                                           The various intake estimates by age and gender are displayed in Table 2. In summary,
+                                                                                                for combined male and female pools, the average estimated intakes± standard deviation
+    The model was applied to estimate intake of PFOA and PFOS for the general                   (and range) on a bodyweight basis were 1.6 ± 0.3 (1.1–2.1) ng/kg bw/day for PFOA based
+Australian population using the measured PFOA and PFOS concentrations in two sets of            on the 2002–2003 samples (39 pools). The same intakes on a bodyweight independent
+pooled serum samples. One male pool in the 2002–2003 samples with concentrations                basis (obtained by multiplying by an average bodyweight corresponding to the average
+of PFOS around four times higher than the mean of the remaining pools (88 ng/ml                 pool age) were 68± 21, (30–111) ng/day. For PFOS, based on the same samples, mean
+serum cf. 23 ± 3.5 ng/ml) was excluded from statistical analysis so as not to bias results.     estimated intake (and range) was 2.7± 0.5 (1.6–3.8), or 118 ± 41 (50–191) ng/day. For
+
+
+Table 2
+Estimated PFOA/PFOS intakes and serum concentrations by age, gender and collection period.
+
+  Gender 2002–2003                                                                                   2006–2007
+
+             Mean age        PFOA in serum PFOA intake    PFOS in serum PFOS intake    Mean age PFOA in serum PFOA intake    PFOS in serum PFOS intake
+             (years)         (ng/ml)       (ng/kg bw/day) (ng/ml)       (ng/kg bw/day) (years)  (ng/ml)       (ng/kg bw/day) (ng/ml)       (ng/kg bw/day)
+
+  Male       11              8.2               1.9                 20               2.5              13          6.6              1.4                20               2.5
+             11              8.5               1.4                 24               3.0              13          5.5              1.2                18               2.3
+             11              9.7               1.4                 18               2.3              14          6.3              1.4                17               2.1
+             11              9.9               1.4                 21               2.6              14          5.7              1.2                14               1.8
+             25              6.7               1.5                 20               2.5              14          4.9              1.1                15               1.9
+             25              6.3               1.7                 22               2.7              14          6.0              1.3                16               2.0
+             25              7.1               1.8                 18               2.3              24          5.9              1.3                17               2.2
+             25              7.5               1.8                 17               2.2              24          5.8              1.3                18               2.2
+             40              7.1               2.1                 22               2.8              38          7.1              1.5                22               2.8
+             40              7.0               2.1                 23               3.0              38          6.7              1.4                19               2.5
+             40              8.3               1.4                 88a              11a              52          7.2              1.6                21               2.7
+             40              8.7               1.4                 22               2.8              53          6.6              1.4                28               3.6
+             54              7.0               1.5                 29               3.7              72          7.7              1.7                27               3.4
+             54              8.6               1.6                 26               3.3              72          7.2              1.6                29               3.6
+             55              7.0               1.5                 21               2.7
+             55              9.8               1.5                 26               3.3
+             72              8.4               1.8                 25               3.2
+             73              8.5               1.9                 24               3.0
+             73              8.8               1.5                 28               3.6
+             73              8.7               1.9                 27               3.5
+  Female     12              6.4               1.4                 16               2.0              14          4.9              1.1                16               2.1
+             12              7.8               1.6                 21               2.7              14          5.4              1.2                17               2.2
+             12              9.2               1.9                 20               2.5              14          6.7              1.4                20               2.5
+             13              6.5               1.7                 13               1.6              14          5.5              1.2                14               1.7
+             25              5.0               1.4                 15               1.9              14          5.8              1.3                16               2.0
+             26              6.5               1.7                 20               2.6              14          5.7              1.2                16               2.1
+             26              6.0               2.0                 17               2.2              14          5.6              1.2                15               1.9
+             26              5.8               1.4                 14               1.8              14          6.0              1.3                19               2.4
+             39              5.1               1.1                 19               2.4              22          4.6              1.0                13               1.7
+             40              6.8               1.4                 23               2.9              24          5.3              1.1                17               2.1
+             40              5.5               1.3                 16               2.1              38          4.2              0.9                14               1.8
+             40              7.0               1.2                 19               2.5              38          4.8              1.0                16               2.0
+             54              8.0               1.1                 26               3.3              52          6.0              1.3                20               2.5
+             54              8.6               1.5                 25               3.2              53          5.8              1.3                18               2.2
+             54              6.2               1.2                 16               2.1              71          7.3              1.6                24               3.1
+             55              7.6               1.5                 23               2.9              73          7.0              1.5                26               3.3
+             74              9.5               1.7                 30               3.8
+             75              9.2               1.3                 25               3.2
+             75              7.7               1.6                 21               2.7
+ a
+      Denotes outlier pool, PFOS results excluded from ANOVA analysis.
+                                                          J. Thompson et al. / Environment International 36 (2010) 390–397                                                        393
+
+
+
+
+           Fig. 1. Estimated intake of PFOA (ng/kg bw/day) by age (years) and year of sample collection (2002–2003 and 2006–2007), for females (A) and males (B).
+
+
+the 2006–2007 samples (30 pools) intake estimates for PFOA were 1.3 ± 0.2 (0.9–1.7)         higher average age and causing the use of a larger average bodyweight, thus ‘diluting’
+ng/kg bw/day, or 54 ± 15 (36–83) ng/day. For PFOS, the same samples gave estimates          the estimated intakes further.
+of 2.4 ±0.5 (1.7–3.6) ng/kg bw/day, or 100 ± 37 (59–190) ng/day. Inclusion of the               It should be noted that all intake estimates presented here are based on pooled
+outlying pool only affected the overall mean intake estimate slightly, increasing it        serum concentrations, and as such are not reﬂective of the variability across individuals,
+from 2.7 to 2.9 ng/kg bw/day, but increased the standard deviation from 0.5 to 1.5.         nor do they provide estimates of the upper and lower bounds of these intakes. Instead,
+When considering only the male pools, inclusion of this pool increased the mean             the use of pooled samples should provide information about the central tendency
+intake estimate from 2.9 to 3.4 ng/kg bw/day and the standard deviation from 0.4 to 2.      (approximately the arithmetic mean) of intakes within any given age group.
+    Intake estimates by age and gender for PFOA are displayed graphically in Figs. 1
+and 2 (see Supplementary information, Figures S1 and S2 for PFOS). ANOVA analysis
+was run comparing age groups (b15, 16–30, 31–45, 46–60 and N60 years); sex; and             4. Discussion
+year of collection (2002–2003, 2006–2007) and results are summarized in Table 3. For
+PFOS and PFOA, a signiﬁcant difference (p b 0.001) in overall mean intakes across all age
+                                                                                            4.1. Pharmacokinetic model: inputs data quality and possible limitations
+groups was observed. In the previous reports, higher serum concentrations of PFOA and
+PFOS were observed in male pools, hence intakes estimated here were higher in males
+compared to females (PFOA and PFOS p = 0.001, for intakes expressed as ng/kg bw/               The main aim of this paper was to estimate Australian PFOA and
+day). As there was a signiﬁcant difference in the intake estimates for both compounds       PFOS intakes based on reliable blood serum concentration data
+depending on collection period, comparison of speciﬁc age groups was done with              available (Karrman et al., 2006; Toms et al., 2009). This was done
+ANOVA using the data from each period separately. The 2006–2007 comparisons are
+                                                                                            through the use of a one compartment steady state PK model. Before
+given in Table 4, the 2003–2007 comparisons are available in the supplementary
+material (Table S2). For both periods the differences between age groups were               we can discuss the results it is important to evaluate uncertainties
+similar. Signiﬁcantly higher intakes were estimated in the younger (b16 years) and          associated with the application of the model in general (i.e.
+older age groups (41–60 years and N 60 years). The age trends observed for both             assumption of steady state), and for PFCs speciﬁcally (e.g. volume of
+compounds are based on the assumption that the Vd parameter is not affected with            distribution, elimination rates).
+age. The signiﬁcant differences between sample collection periods could be related to
+the different analytical methods employed for measuring the serum concentrations,
+                                                                                               The use of data from a steady state model assumes a more or less
+and also differences in the individual donor make up of the pools. In 2006–2007 a           consistent intake of the target chemicals over a period substantially
+larger percentage of older individuals was unintentionally sampled giving the pools a       longer than the elimination half lives of the chemicals. In our model
+
+
+
+
+               Fig. 2. Estimated intake of PFOA (ng/day) by age (years) and year of sample collection (2002–2003 and 2006–2007), for females (A) and males (B).
+394                                                       J. Thompson et al. / Environment International 36 (2010) 390–397
+
+
+Table 3
+ANOVA analysis of variables affecting PFC intake estimates.
+
+                               PFOS (ng/day)                           PFOS (ng/kg bw/day)                  PFOA (ng/day)                 PFOA (ng/kg bw/day)
+
+                               Signiﬁcant         p value              Signiﬁcant          p value          Signiﬁcant       p value      Signiﬁcant        p value
+
+  Age                          y                  b 0.001              y                   b0.001           y                b0.001       y                  0.03
+  Gender                       y                  b 0.001              y                    0.001           y                b0.001       y                  0.001
+  Collection period            n                    0.275              y                    0.016           y                 0.01        y                 b0.001
+
+
+
+we assume serum half lives of 2.3 and 5.6 years for PFOA and PFOS                                For the Australian population, we are less certain of the time they
+respectively, hence we can assume that it takes 7 (PFOA) and 17                              have been exposed to PFCs and the possible variations in exposure
+(PFOS) years (approximately 3 half lives) to attain 88% of steady state.                     concentrations. Little to no data are currently available regarding
+In the US calibration communities, the use of PFOA in ﬂuoropolymer                           environmental concentrations of PFOA or PFOS in Australia and no
+manufacturing over the last 50 years suggests that the water supply                          commercial manufacture is recorded (NICNAS, 2007a,b). However,
+has been impacted for a sufﬁcient amount of time. Also, the calibration                      several industrialized nations show similar serum PFC concentrations
+exercise was restricted to include blood serum data only from those                          in the general population (e.g. Germany, USA, Japan, China; (as
+known to obtain their water from the impacted water supplies.                                compiled in Fromme et al., 2009)) potentially indicating similar
+However, data were unavailable on the time they lived at their current                       sources of exposure are prevalent, or a similar degree of background
+locations, but still, the higher PFOA levels in their blood than in the                      contamination and similar lengths of exposure exist internationally.
+general US population justiﬁed use of this regional data in the                              Evidence of long-term environmental contamination and increasing
+calibration exercise. The use of the serum half life calculated by Bartell                   PFOS concentrations has been seen through analysis of archived
+et al. (2010) from populations in this region no doubt contributes to                        guillemot eggs collected between 1968 and 2003 from an island in the
+the accuracy of the calibration.                                                             Baltic Sea (Holmstrom et al., 2005). Similarly, sediment cores obtained
+    It should also be noted that the steady state assumption depends                         from Tokyo Bay showed increasing concentrations of PFOS in layers
+not only on the duration of exposure, but also its variability, and if                       dating from around 1958 up until the present (Ahrens et al., 2009).
+water concentrations were to ﬂuctuate signiﬁcantly in this ‘calibra-                         Given the international data, and the similarity of Australian serum
+tion’ population then this assumption and therefore model may not be                         concentrations to those in the US and elsewhere (Fromme et al.,
+valid. However, there are plausible arguments to suggest that this is                        2009), an extended exposure period allowing for the attainment of
+not the case. PFOA is a slowly excreted bio-accumulating compound                            steady state in the Australian population is a reasonable assumption,
+with a half life of the order of years. Despite the likely day to day and                    and the comparison of the serum data from the two collection periods
+month to month variations in water concentration, it is the use of an                        suggests similar exposures in at least the 4 years between 2002 and
+appropriate mean concentration which would allow accurate mod-                               2006.
+eling of the population. A number of sources are reviewed in the                                 Model input parameters included serum concentrations, body
+supplementary material, all of which provide similar water concen-                           mass, gastrointestinal adsorption rate, volume of distribution and half
+trations, suggesting that the value used is reasonable. In the case that                     lives of the chemicals in the body. A brief discussion regarding the
+the data reviewed does not provide accurate average concentrations,                          quality of these inputs is also warranted. The serum data that we used
+the actual Vd would be higher or lower corresponding with a higher                           for this study is based on pooled samples from more than 3800
+or lower average. This means the estimated Australian intakes would                          (2002–2003 period) and 900 (2006–2007) Australians, which
+require re-calculation, but until further information is available in this                   represents roughly 0.02% and 0.004% of the Australian population as
+regard, it does not preclude these ﬁrst estimates to be useful.                              of 2003 and 2007, respectively (ABS, 2008). Samples for the two
+                                                                                             studies were analyzed in independent laboratories (University of
+                                                                                             Orebro and Centers for Disease Control and Prevention) using a
+                                                                                             substantial set of QA/QC criteria (Karrman et al., 2006; Toms et al.,
+Table 4
+                                                                                             2009). The reproducibility of the pools as well as the relatively small
+Signiﬁcant differences in PFC intake estimates between age groups for period 2006–
+2007.                                                                                        differences between the two sampling periods (which includes
+                                                                                             analysis by two different laboratories) may be seen as an indication
+  Age           Comparison      PFOS intake                   PFOA intake                    of the good data quality. We thus consider the serum data to provide
+  group
+                                ng/kg bw/day    ng/day        ng/kg bw/day    ng/day         robust estimates of the average body burden of these strata at the time
+  b 16 yrs      16–30 yrs       n.s             0.006         n.s             b0.001         of sampling. While there is a possibility that the use of pathology
+                31–45 yrs       n.s             b0.001        n.s             b0.001         specimens may cause some bias towards a selected (potentially sick)
+                46–60 yrs       b0.001          b0.001        0.011           b0.001         population, a previous study examining serum dioxin concentrations
+                N60 yrs         b0.001          b0.001        b0.001          b0.001
+                                                                                             compared pathology samples from the same laboratory with those
+  16–30 yrs     b16 yrs         n.s             0.006         n.s             b0.001
+                31–45 yrs       n.s             n.s           n.s             0.029          collected for insurance purposes from what may be considered a
+                46–60 yrs       0.001           b0.001        0.003           b0.001         healthy population. This comparison indicated a difference between
+                N60 yrs         b0.001          b0.001        b0.001          b0.001         the two groups of less than 20%, and thus within the limits of normal
+  31–45 yrs     b16 yrs         n.s             b 0.001       n.s             b 0.001        analytical variability. The authors concluded that the risk of
+                16–30 yrs       n.s             n.s           n.s             0.029
+                                                                                             introducing a bias appeared minimal (Harden et al., 2003). Presum-
+                46–60 yrs       0.021           0.002         0.007           0.004
+                N60 yrs         b0.001          b0.001        b0.001          b0.001         ably similar ﬁndings would hold for PFCs as well as dioxins. We also
+  46–60 yrs     b16 yrs         b0.001          b0.001        0.011           b0.001         consider it unlikely that our population's body weight is not
+                16–30 yrs       0.001           b0.001        0.003           b0.001         representative.
+                31–45 yrs       0.021           0.002         0.007           0.004
+                                                                                                 For this study we assumed a gastrointestinal absorption rate of
+                N60 yrs         0.005           0.042         0.007           n.s
+  N 60 yrs      b 16 yrs        b0.001          b0.001        b0.001          b0.001         91%, consistent with the ﬁndings of Hundley et al. (2006), which show
+                16–30 yrs       b0.001          b0.001        b0.001          b0.001         PFOA (as its ammonium salt) to be well absorbed by various test
+                31–45 yrs       b0.001          b0.001        b0.001          b0.001         species, and the work compiled in the OECD hazard assessment
+                46–60 yrs       0.005           0.042         0.007           n.s            showing similar ﬁndings for PFOS (OECD, 2002). To our knowledge
+Note: n.s. = not signiﬁcant, p N 0.05.                                                       there is no information available that suggests PFOA and PFOS are not
+                                                J. Thompson et al. / Environment International 36 (2010) 390–397                                            395
+
+
+well absorbed and hence we may assume that uncertainty associated                 a renal saturable reabsorption process as responsible, suggesting that a
+with this input parameter is small.                                               more complicated model is warranted for pharmacokinetic modeling of
+    For the elimination rates, we rely on two separate data sources. For          PFCs. Despite this, we can consider it unlikely that saturable reabsorp-
+PFOA the half life used was taken from a recent study done in the same            tion occurred with the residents of the US communities and thus the
+location in the US as the calibration data was taken from (Bartell et al.,        accuracy of the estimated Vd or use of the simple PK model, because the
+2010). For PFOS we rely on the data from one cohort of retiring                   experimental doses of Seacat et al. and Andersen et al. resulted in serum
+ﬂuorochemical workers, with much higher than background serum                     concentrations in the 10s of parts per million, while those in the affected
+concentrations. The cohort consisted of 24 males and two females                  communities were sub parts per million (b1 ppm). If a saturable
+(Olsen et al., 2007). There is possibly some uncertainty surrounding              reabsorption hypothesis proves to be applicable at doses such as those of
+these estimates due to probable ongoing background exposures                      the US communities used for Vd calibration then this would potentially
+during the depuration period, and given the ages of the female                    affect both the half life assigned and correspondingly the Vd. If
+subjects (65 and 55 years), factors such as menstruation and parity               reabsorption were to occur then one might expect longer half lives,
+may not properly be accounted for in female half lives. It should be              and a compensating decrease in Vd. However a half life derived from the
+noted that this study provided a different estimate for the serum half            same population was used in the modeling, therefore one would expect
+life of PFOA, at 3.3–3.8 years, or an elimination rate of 0.0005 day− 1,          any effects of possible renal reabsorption to be incorporated already in
+as opposed to the rate of 0.0008 day− 1 used here. As the half life for           this value. The previous best estimate for a PFOA half life was that
+PFOA was derived from the same population as used in the calibration              provided by Olsen et al. (2007) taken from a cohort of retiring
+exercise we deemed it more appropriate to use this than the                       ﬂuorochemical workers. The longer half life given by Olsen et al.
+occupationally derived half life.                                                 possibly indicates reabsorption or some other difference in pharmaco-
+    Lastly our model requires a volume of distribution input parameter            kinetics was more likely a factor in this estimate than that of Bartell et al.
+(Vd). As outlined above, this is a calibration parameter obtained through         (2010). These two factors support the assumption that kinetics and
+studies where constant intake could be assumed and considerable work              distribution in both the calibration and general Australian populations
+has been undertaken to review and estimate Vd for the present study               are similar.
+(see Supplementary material). Nevertheless we recognize that there is
+uncertainty with this parameter and in recognition of this others have            4.2. Australian PFOA and PFOS intakes: trends with regards to age, sex,
+applied ‘high’, ‘medium’ and ‘low’ values in their models. For example,           and sample collection period
+Trudel et al. (2008) assigned values of 1300, 3600, and 6000 ml/kg,
+based on studies using Cynomolgus monkeys (Grifﬁth and Long, 1980;                    As is expected, the age and sex trends correspond with those of the
+Noker, 2003). For our study we apply only one value though it is obvious          body burdens, and detailed discussion has previously been published
+from Eq. (2a)–(2c) that a change in Vd would directly translate to an             (Karrman et al., 2006; Toms et al., 2009). Some of these will brieﬂy be
+equal change in the estimated intake of PFCs in our model (i.e. if we             summarized again here. For both collection periods, males showed
+increase Vd by a factor 2 it will result in a factor 2 increase in the            higher estimated intakes than females, across all age groups which
+predicted intake of PFOS and PFOA). ). Vieira et al. (2008) working with          has been shown previously in other populations (e.g. Calafat et al.,
+the same US population used a Vd scaled up from work done on                      2007). As these intakes are estimated from backward modeling of
+monkeys (Butenhoff et al., 2004), the values used were 181 and 198 ml/            measured serum concentrations, we cannot conclude whether males
+kg for males and females, both relatively close to the value of 170 ml/kg         are actually exposed to higher concentrations of PFOS and PFOA, or
+used here. The consistency between these values adds plausibility to the          whether there are differences in elimination kinetics between males
+value calculated here, and would seem to suggest similar distribution             and females. A combination of both may apply. For both males and
+kinetics in both monkeys and humans.                                              females, PFOS and PFOA intakes were higher in the younger
+    The Vd used here has the beneﬁt of being based on measurements in             (b16 years and 16–30 years) and older age groups (45–60 years and
+humans as opposed to animals. In this work, as described above and in             N60 years), but overall an increase was seen with age, when estimates
+the Supplementary material, we have used data from two US                         were made in ng/day. This trend was more apparent for PFOS than
+communities to attempt to calibrate a more ‘human speciﬁc’ value.                 PFOA. The relatively high concentrations in some of the younger age
+This exercise was based upon a number of assumptions, ﬁrstly, that the            groups are possibly related to lifestyle factors such as mouthing
+serum concentrations of residents in the two communities resulted only            objects as infants, a preference for certain food types, and possibly a
+from the consumption of contaminated water supplies, and secondly                 period of higher accumulation early in life, via in utero (placental)
+that distribution and kinetics of PFOA in humans are the same both at             transfer and breast feeding.
+low background doses (e.g. Australia) and at high exposure doses (e.g.                Relatively little is known as to the sources of background PFC
+US communities, calibration population). With regard to the ﬁrst                  exposure in Australia. Neither PFOA nor PFOS have been manufactured
+assumption, the high contamination of the drinking water likely reduces           in Australia (NICNAS, 2007a,b) and therefore exposure likely results
+the signiﬁcance of other exposure routes. Only individuals known to               from indirect sources such as degradation of precursors, and/or from
+obtain their drinking water from the impacted supplies were included in           secondary emissions, including use and disposal of products containing
+the calibration. However, as noted earlier, data were unavailable as to           residual amounts of these compounds present from manufacture.
+the time the individuals in this cohort lived at their current address, so        Consumption of contaminated food and drink, and inhalation or
+the length of time of exposure is not known. One could also argue that            ingestion of contaminated dust is also likely to play a signiﬁcant role
+the application of assumed water consumption rates and mean water                 (Fromme et al., 2009). Total daily PFOA and PFOS intakes as estimated
+concentrations are not necessarily accurate measures of PFOA intake.              here will provide both initial exposure data for Australians and a useful
+Still, when all factors are considered, authors reporting on this site            gauge to assess the relative importance of various exposure routes as
+concluded that contaminated drinking water was the cause of the                   they are characterized. This exposure data may then be useful to inform
+elevated serum levels of PFOA (Emmett et al., 2006b; Steenland et al.,            any intervention strategies to reduce exposure if deemed necessary.
+2009).
+    Some factors contribute to a greater degree of uncertainty regarding          4.3. Australian PFOA and PFOS exposure compared with international
+general use of the 1-compartment PK model. In dosing studies using                data
+Cynomolgus monkeys, a plateau of serum concentrations were
+observed by Seacat et al. (2002) in animals given 0.75 mg/kg bw/day.                 To our knowledge no information currently exists on the intake of
+Andersen et al. (2006) observed a similar phenomena and hypothesized              PFOA and PFOS in the Australian population. A number of studies have
+396                                            J. Thompson et al. / Environment International 36 (2010) 390–397
+
+
+estimated intakes for populations elsewhere. Dietary studies in Japan            Acknowledgements
+(Karrman et al., 2009), Germany (Fromme et al., 2007) and the
+UK (Mortimer et al., 2009) have estimated dietary intakes for                       We acknowledge the technical assistance of Brian Basden, Jack
+PFOA of 0.45–2 ng/kg bw/day, 2.9 ng/kg bw/day (median value) and                 Reidy, and Tao Jia in measuring the serum concentrations of PFOA.
+10 ng/kg bw/day, respectively. The same studies estimated similar                EnTox is a partnership between Queensland Health and The
+intakes for PFOS of 0.35–5.04 ng/kg bw/day (Japan), 1.4 ng/kg bw/day             University of Queensland.
+(median value, Germany) and 10 ng/kg bw/day (UK). The total
+intakes estimated here for the Australian population are similar to the
+estimated German and Japanese dietary intakes, but slightly lower than           Appendix A. Supplementary data
+those from the UK. In Canada, dietary intakes have been estimated at
+0.2–0.4 ng/kg bw/day in 1998 and 0.1–0.4 ng/kg bw/day in 2004, and                  Supplementary data associated with this article can be found, in
+PFOS intakes at 0.1–0.2 ng/kg bw/day and 0.8–2 ng/kg bw/day in the               the online version, at doi:10.1016/j.envint.2010.02.008.
+same periods (Ostertag et al., 2009). Again, these dietary intake
+estimates are similar to the total intakes estimated here.
+    In addition to dietary studies and subsequent forward modeling               References
+efforts, more comprehensive models incorporating a variety of potential
+                                                                                 ABS. 3105.0.65.001—Australian historical population statistics, 2008 In: Statistics ABo,
+exposure routes and scenarios have been published (Fromme et al.,                    ed. Australian Historical Population Statistics. Canberra: Australian Bureau of
+2009; Trudel et al., 2008). Along with dietary exposures, Trudel et al.              Statistics; 2008.
+(2008) considered other potential routes such as inhalation, dust                Ahrens L, Yamashita N, Yeung LWY, Taniyasu S, Horii Y, Lam PKS, Ebinghaus R.
+                                                                                     Partitioning behavior of per- and polyﬂuoroalkyl compounds between pore water
+ingestion, dermal transfer from consumer goods, all based on                         and sediment in two sediment cores from Tokyo Bay, Japan. Environ Sci Technol
+concentrations reported in the literature. The authors estimated a                   2009;43:6969–75.
+range of 1–130 ng/kg bw/day and 3–220 ng/kg bw/day for PFOA and                  Alexander BH, Olsen GW. Bladder cancer in perﬂuorooctanesulfonyl ﬂuoride manu-
+                                                                                     facturing workers. Ann Epidemiol 2007;17:471–8.
+PFOS intakes for Americans and Europeans, with “intermediate” values             Andersen ME, Clewell HJ, Tan YM, Butenhoff JL, Olsen GW. Pharmacokinetic modeling
+in their simulations in the range of 2.5–9.8 ng/kg bw/day (PFOA) and                 of saturable, renal resorption of perﬂuoroalkylacids in monkeys—probing the
+12–54.6 ng/kg bw/day (PFOS). Again, the lower end of these estimates                 determinants of long plasma half-lives. Toxicology 2006;227:156–64.
+                                                                                 Australian Bureau of Statistics 2008 3235.0 population by age and sex, regions of Australia,
+is similar to those obtained in the present study for PFOA; for PFOS, the
+                                                                                     2007. http://www.census.abs.gov.au/ausstats/abs@.nsf/Products/3235.0~2007~Main
+intakes estimated here are considerably lower. Using a similar multi-                +Features~Queensland?OpenDocument.
+pathway analysis, Fromme et al. (2009) estimated average (and upper              Bartell SM, Calafat AM, Lyu C, Kato K, Ryan PB, Steenland K. Rate of decline in serum PFOA
+                                                                                     concentrations after granulated activated carbon ﬁltration at two public water
+level) intake of PFOA as 2.9 (12.6) ng/kg bw/day, and 1.6 (8.8) ng/
+                                                                                     systems in Ohio and West Virginia. Environ Health Perspect 2010;118:222–8.
+kg bw/day for PFOS, more in accord with the current study.                       Birkett DJ. Pharmacokinetics made easy 2: volume of distribution. Australian Prescriber,
+                                                                                     vol. 11. ; 1988. p. 36–7.
+                                                                                 Butenhoff JL, Kennedy GL, Hinderliter PM, Lieder PH, Jung R, Hansen KJ, Gorman GS,
+4.4. Conclusion                                                                      Noker PE, Thomford PJ. Pharmacokinetics of perﬂuorooctanoate in cynomolgus
+                                                                                     monkeys. Toxicol Sci 2004;82:394–406.
+                                                                                 Calafat AM, Wong L-Y, Kuklenyik Z, Reidy JA, Needham LL. Polyﬂuoroalkyl chemicals in
+    In conclusion, despite no history of manufacture of PFOS or PFOA,                the U.S population: data from the national health and nutrtion examination survey
+studies have shown sections of the Australian population to have body                (NHANES) 2003–2004 and comparisons with NHANES 1999–2000. Environ Health
+burdens similar to those observed in other industrialized nations. The               Perspect 2007;115:1596–602.
+                                                                                 EFSA. Perﬂuorooctane sulfonate (PFOS), perﬂuorooctanoic acid (PFOA) and their salts.
+use of available pooled serum data in a simple PK model has allowed                  Scientiﬁc Opinion of the Panel on Contaminants in the Food chain1 (Question No
+the estimation of daily intakes for persons over 12 years living in                  EFSA-Q-2004-163). EFSA J 2008;653:1-131.
+urban centers on the Australian East Coast. Estimated intakes ranged             Emmett EA, Zhang H, Shofer FS, Freeman D, Rodway NV, Desai C, Shaw LM. Community
+                                                                                     exposure to perﬂuorooctanoate: relationships between serum levels and certain
+from 1.1–2.1 ng/kg bw/day to 1.6–3.8 ng/kg bw/day for PFOA and                       health parameters. J Occup Environ Med 2006a;48:771–9.
+PFOS respectively based on pools collected in 2002–2003, and 0.9–                Emmett EA, Shofer FS, Zhang H, Freeman D, Desai C, Shaw LM. CCommunity exposure to
+1.7 ng/kg bw/day and 1.7–3.6 ng/kg bw/day for those collected in                     perﬂuorooctanoate: Relationships between serum concentrations and exposure
+                                                                                     sources. J Occup Environ Med 2006b;48:759–70.
+2006–2007. These intake estimates are well below the recently
+                                                                                 Fromme H, Schlummer M, Moller A, Gruber L, Wolz G, Ungewiss J, Bohmer S, Dekant W,
+released tolerable daily intakes (TDI) proposed by the European food                 Mayer R, Liebl B, Twardella D. Exposure of an adult population to perﬂuorinated
+safety authority (EFSA) of 1.5 µg/kg bw/day for PFOA, and 150 ng/                    substances using duplicate diet portions and biomonitoring data. Environ Sci
+                                                                                     Technol 2007;41:7928–33.
+kg bw/day for PFOS (EFSA, 2008). Although there is some uncertainty
+                                                                                 Fromme H, Tittlemier SA, Volkel W, Wilhelm M, Twardella D. Perﬂuorinated
+regarding the steady state application of the model itself and some of               compounds—exposure assessment for the general population in western countries.
+the input parameters (e.g. Vd), the intake estimates produced are in                 Int J Hyg Environ Health 2009;212:239–70.
+reasonable agreement with other modeled intake estimates. They are               Giesy JP, Kannan K. Perﬂuorochemical surfactants in the environment. Environ Sci
+                                                                                     Technol 2002;36:146A–52A.
+also comparable with intake estimates based on exposure media, such              Grifﬁth FD, Long JE. Animal toxicity studies with ammonium perﬂuorooctanoate. Am
+as food concentrations, from other countries. The intakes estimated                  Ind Hyg Assoc J 1980;41:576–83.
+here are the ﬁrst for Australia, and show similar trends to what has             Han X, Snow TA, Kemper RA, Jepson GW. Binding of perﬂuorooctanoic acid to rat and
+                                                                                     human plasma proteins. Chem Res Toxicol 2003;16:775–81.
+been observed elsewhere, with higher intakes and concentrations                  Harada K, Saito N, Sasaki K, Inoue K, Koizumi A. Perﬂuorooctane sulfonate
+seen in males relative to females, and higher intakes of PFOS relative               contamination of drinking water in the Tama River, Japan: estimated effects on
+to PFOA. Others have suggested diet and drinking water to be the                     resident serum levels. Bull Environ Contam Toxicol 2003;71:31–6.
+                                                                                 Harden F, Müller JF, Toms L, Gaus C, Hobson P, Moore M, Päpke O, Ryan J. Determination
+major contributors to PFOA and PFOS body burdens. To date no                         of the levels of dioxins in the Australian population by analysis of blood serum. The
+information is available in this regard for the Australian population,               Australian Dioxin Project; 2003.
+and further work is currently underway to elucidate speciﬁc exposure             Holmstrom KE, Jarnberg U, Bignert A. Temporal trends of PFOS and PFOA in Guillemot
+                                                                                     eggs from the Baltic Sea, 1968–2003. Environ Sci Technol 2005;39:80–4.
+routes.
+                                                                                 Hundley SG, Sarrif AM, Kennedy Jr GL. Absorption, distribution, and excretion of
+                                                                                     ammonium perﬂuorooctanoate (APFO) after oral administration to various species.
+                                                                                     Drug Chem Toxicol 2006;29:137–45.
+Disclaimer                                                                       Karrman A, Mueller JF, Van Bavel B, Harden F, Toms L-ML, Lindstrom G. Levels of 12
+                                                                                     perﬂuorinated chemicals in pooled Australian serum, collected 2002–2003, in
+   The ﬁndings and conclusions in this paper are those of the authors                relation to age, gender, and region. Environ Sci Technol 2006;40:3742–8.
+                                                                                 Karrman A, Harada KH, Inoue K, Takasuga T, Ohi E, Koizumi A. Relationship between
+and do not necessarily represent the views and policies of the CDC or                dietary exposure and serum perﬂuorochemical (PFC) levels—a case study. Environ
+the US Environmental Protection Agency.                                              Int 2009;35:712–7.
+                                                         J. Thompson et al. / Environment International 36 (2010) 390–397                                                        397
+
+Kennedy Jr GL, Butenhoff JL, Olsen GW, O'Connor J, Seacat AM, Perkins RG, Biegel LB,       Prevedouros K, Cousins IT, Buck RC, Korzieniowski SH. Sources, fate and transport of
+    Murphy SR, Farrar DG. The toxicology of perﬂuorooctanoate. Crit Rev Toxicol                perﬂuorocarboxylates. Environ Sci Technol 2006;40:32–44.
+    2004;34:351–84.                                                                        Seacat AM, Thomford PJ, Hansen KJ, Olsen GW. Subchronic toxicity studies on perﬂuor-
+Mortimer DN, Gem M, Clarke DB, Lloyd AS, Hird S. PFOS, PFOA and other ﬂuorinated               ooctanesulfonate potassium salt in cynomolgus monkeys. Toxicol Sci 2002;68:249–64.
+    organic chemicals in food. organohalogen compounds: A10317. Presented at               Steenland K, Tinker S, Frisbee S, Ducatman A, Vaccarino V. Association of perﬂuor-
+    Dioxin 2009 conference, Beijing China; 2009.                                               ooctanoic acid and perﬂuorooctane sulfonate with serum lipids among adults living
+NICNAS. NICNAS alert no. 5 Perﬂuorooctane sulfonate (PFOS) & Perﬂuoroalkyl sulfonate           near a chemical plant. Am J Epidemiol 2009;170:1268–78.
+    (PFAS). In: DoHA, ed. Sydney: Australian Government; 2007a.                            Toms L-ML, Calafat A, Kato K, Thompson J, Harden F, Hobson P, Sjodin A, Mueller JF.
+NICNAS. NICNAS alert no. 6 Perﬂuorooctanoic acid (PFOA) & Perﬂuorocarboxylic acid              Polyﬂuoroalkyl chemicals (PFCs) in human blood serum from children and adults
+    (PFCA). In: Ageing Ha, ed. Sydney: Australian Government; 2007b.                           in Australia. Environ Sci Technol 2009;43:4194–9.
+Noker, P. 2003 A pharmacokinetic study of potassium perﬂuorooctanoate in the               Trudel D, Horowitz L, Wormuth M, Scheringer M, Cousins IT, Hungerbuhler K.
+    cynomolgus monkey. Southern Research Institute Study ID: 99214. Southern                   Estimating consumer exposure to PFOS and PFOA. Risk Anal 2008;28:251–69.
+    Research Institute. US EPA Public Docket AR-226-1228, Washington, DC. http://          US EPA. Exposure factors handbook; 1997. U.S. Environmental Protection Agency,
+    www.regulations.gov/search/index.jsp.                                                      National Center for Environmental Assessment. Washington, DC.
+OECD. Co-operation on existing chemicals: hazard assessment of perﬂuorooctane              US EPA. 2010/2015 PFOA Stewardship Program. In: EPA U, ed. Pollution prevention &
+    sulfonate (PFOS) and its salts. OECD; 2002.                                                toxics. Washington DC: USEPA; 2009.
+Olsen GW, Burris JM, Ehresman DJ, Froelich JW, Seacat AM, Butenhoff JL, Zobel LR. Half-    Vieira V, Webster T, Bartell S, Steenland K, Savitz D, Fletcher T. PFOA community health
+    life of serum elimination of perﬂuorooctanesulfonate, perﬂuorohexanesulfonate,             studies: exposure via drinking water contaminated by a teﬂon manufacturing
+    and perﬂuorooctanoate in retired ﬂuorochemical production workers. Environ                 facility. Organohalogen Compd 2008;70:730–2.
+    Health Perspect 2007;115:1298–305.                                                     Wang T, Wang Y, Liao C, Cai Y, Jiang G. Perspectives on the inclusion of perﬂuorooctane
+Olsen GW, Butenhoff JL, Zobel LR. Perﬂuoroalkyl chemicals and human fetal                      sulfonate into the Stockholm convention on persistent organic pollutants. Environ
+    development: an epidemiologic review with clinical and toxicological perspectives.         Sci Technol 2009;43:5171–5.
+    Reprod Toxicol 2009;27:212–30.                                                         Washburn ST, Bingman TS, Braithwaite SK, Buck RC, Buxton LW, Clewell HJ, Haroun LA, Kester
+Ostertag SK, Chan HM, Moisey J, Dabeka R, Tittlemier SA. Historic dietary exposure to          JE, Rickard RW, Shipp AM. Exposure assessment and risk characterization for
+    perﬂuorooctane sulfonate, perﬂuorinated carboxylates, and ﬂuorotelomer unsat-              perﬂuorooctanoate in selected consumer articles. Environ Sci Technol 2005;39:3904–10.
+    urated carboxylates from the consumption of store-bought and restaurant foods for      Yeung LWY, Miyake Y, Taniyasu S, Wang Y, Yu HX, So MK, Jiang GB, Wu YN, Li JG, Giesy
+    the Canadian population. J Agric Food Chem 2009;57:8534–44.                                JP, Yamashita N, Lam PKS. Perﬂuorinated compounds and total and extractable
+Paul AG, Jones KC, Sweetman AJ. A ﬁrst global production, emission, and environmental          organic ﬂuorine in human blood samples from China. Environ Sci Technol 2008;42:
+    inventory for perﬂuorooctane sulfonate. Environ Sci Technol 2009;43:386–92.                8140–5.
+                     Update
+     Environment International
+  Volume 36, Issue 6, August 2010, Page 647–648
+
+
+DOI: https://doi.org/10.1016/j.envint.2010.05.008
+                                                                  Environment International 36 (2010) 647–648
+
+
+
+                                                                 Contents lists available at ScienceDirect
+
+
+                                                            Environment International
+                                                 j o u r n a l h o m e p a g e : w w w. e l s ev i e r. c o m / l o c a t e / e n v i n t
+
+
+
+Corrigendum
+
+Corrigendum to: Use of simple pharmacokinetic modeling to characterize exposure
+of Australians to perﬂuorooctanoic acid and perﬂuorooctane sulfonic acid
+[Environment International 36 (2010) 390–7]
+Jack Thompson a,⁎, Matthew Lorber b, Leisa-Maree L. Toms a, Kayoko Kato c,
+Antonia M. Calafat c, Jochen F. Mueller a
+a
+  The University of Queensland, National Research Centre for Environmental Toxicology, 39 Kessels Road, Coopers Plains, QLD, 4108, Australia
+b
+  Ofﬁce of Research and Development, United States Environmental Protection Agency, 1200 Pennsylvania Ave, Washington, District of Columbia 20460, USA
+c
+  Centers for Disease Control and Prevention, Atlanta, GA, 30341-3724, USA
+
+
+
+
+    The authors regret the errors that appeared in their paper.
+    We have identiﬁed an error in our recent article “Use of simple pharmacokinetic modeling to characterize exposure of Australians to
+perﬂuorooctanoic acid and perﬂuorooctane sulfonic acid” (Thompson et al. 2010). We published estimated daily intakes for PFOS and PFOA based
+on a simple pharmacokinetic model which incorporated a volume of distribution (Vd) for PFOA calibrated using data from several communities
+in West Virginia, USA. The equation used is dependent on the elimination rate (kP) and was given in the paper as Vd = DP / (CP × kP) where CP
+and DP are the serum concentrations of PFOS or PFOA, and DP is the absorbed daily dose. During preparation of the manuscript we used the PFOA
+half life published by Olsen et al. (2007) of 3.3 years, equating to a kP of 0.0005 day− 1. Near completion of our manuscript, Bartell et al. (2010)
+published a paper suggesting a half life of 2.5 years (kP = 0.0008 day− 1). Because Bartell et al. conducted their study in the same communities
+used to establish our Vd, we decided to use this more recent value. Although we used the new kP and corresponding Vd to calculate the intakes
+given on a ng/day basis, we did not use them in the intake calculations given in the units of ng/kg bw/day. Therefore, all intake estimates given in
+ng/kg bw/day throughout the text and in columns 3, 5, 8, and 10 of Table 2 need to be adjusted down by multiplication with a factor of 0.6. This
+correction applies to both the PFOA and PFOS intake estimates, as the Vd we used for PFOS was based on adjustment of that for PFOA. The revised
+Table 2 is provided below.
+    Despite a change in numbers, the overall patterns observed and discussed in our paper are not affected. We also stress that the intake
+estimates given in units of ng/day are valid and do not need to be corrected.
+
+
+References                                                                                     Olsen GW, Burris JM, Ehresman DJ, Froelich JW, Seacat AM, Butenhoff JL, et al. Half-life
+                                                                                                   of serum elimination of perﬂuorooctanesulfonate, perﬂuorohexanesulfonate, and
+                                                                                                   perﬂuorooctanoate in retired ﬂuorochemical production workers. Environ Health
+Bartell SM, Calafat AM, Lyu C, Kato K, Ryan PB, Steenland K. Rate of decline in serum              Perspect 2007;115:1298–305.
+    PFOA concentrations after granulated activated carbon ﬁltration at two public              Thompson J, Lorber M, Toms LM, Kato K, Calafat AM, Mueller JF. Use of simple
+    water systems in Ohio and West Virginia. Environ Health Perspect 2010;118:                     pharmacokinetic modeling to characterize exposure of Australians to perﬂuor-
+    222–8.                                                                                         ooctanoic acid and perﬂuorooctane sulfonic acid. Environ Int 2010;36:390–7.
+
+
+
+
+      PII: S0160-4120(10)00094-2.
+      DOI of original article: 10.1016/j.envint.2010.02.008.
+    ⁎ Corresponding author. Tel.: + 61 7 3274 9060; fax: +61 7 3274 9003.
+      E-mail address: jthompson@entox.uq.edu.au (J. Thompson).
+
+0160-4120/$ – see front matter © 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.envint.2010.05.008
+648                                                     J. Thompson et al. / Environment International 36 (2010) 647–648
+
+
+Table 2
+Estimated PFOA/PFOS intakes and serum concentrations by age, gender and collection period.
+
+             2002–2003                                                                        2006–2007
+
+ Gender Mean age          PFOA in serum   PFOA intake    PFOS in serum      PFOS intake    Mean age        PFOA in serum   PFOA intake    PFOS in serum   PFOS intake
+        (years)           (ng/ml)         (ng/kg bw/day) (ng/ml)            (ng/kg bw/day) (years)         (ng/ml)         (ng/kg bw/day) (ng/ml)         (ng/kg bw/day)
+
+ Male        11           8.2             1.1               20              1.5               13           6.6             0.9            20              1.5
+             11           8.5             0.8               24              1.8               13           5.5             0.7            18              1.4
+             11           9.7             0.8               18              1.4               14           6.3             0.8            17              1.3
+             11           9.9             0.8               21              1.6               14           5.7             0.7            14              1.1
+             25           6.7             0.9               20              1.5               14           4.9             0.6            15              1.2
+             25           6.3             1.0               22              1.6               14           6.0             0.8            16              1.2
+             25           7.1             1.1               18              1.4               24           5.9             0.8            17              1.3
+             25           7.5             1.1               17              1.3               24           5.8             0.8            18              1.3
+             40           7.1             1.3               22              1.7               38           7.1             0.9            22              1.7
+             40           7.0             1.3               23              1.8               38           6.7             0.9            19              1.5
+             40           8.3             0.9               88a             6.8a              52           7.2             0.9            21              1.6
+             40           8.7             0.8               22              1.7               53           6.6             0.9            28              2.1
+             54           7.0             0.9               29              2.2               72           7.7             1.0            27              2.1
+             54           8.6             1.0               26              2.0               72           7.2             0.9            29              2.2
+             55           7.0             0.9               21              1.6
+             55           9.8             0.9               26              2.0
+             72           8.4             1.1               25              1.9
+             73           8.5             1.1               24              1.8
+             73           8.8             0.9               28              2.2
+             73           8.7             1.1               27              2.1
+ Female      12           6.4             0.8               16              1.2               14           4.9             0.67           16              1.3
+             12           7.8             1.0               21              1.6               14           5.4             0.73           17              1.4
+             12           9.2             1.2               20              1.5               14           6.7             0.91           20              1.6
+             13           6.5             1.0               13              1.0               14           5.5             0.75           14              1.1
+             25           5.0             0.8               15              1.1               14           5.8             0.79           16              1.3
+             26           6.5             1.0               20              1.6               14           5.7             0.78           16              1.3
+             26           6.0             1.2               17              1.3               14           5.6             0.76           15              1.2
+             26           5.8             0.8               14              1.1               14           6.0             0.82           19              1.5
+             39           5.1             0.6               19              1.5               22           4.6             0.63           13              1.1
+             40           6.8             0.8               23              1.8               24           5.3             0.72           17              1.3
+             40           5.5             0.8               16              1.2               38           4.2             0.57           14              1.1
+             40           7.0             0.7               19              1.5               38           4.8             0.65           16              1.3
+             54           8.0             0.7               26              2.0               52           6.0             0.82           20              1.6
+             54           8.6             0.9               25              1.9               53           5.8             0.79           18              1.4
+             54           6.2             0.7               16              1.3               71           7.3             0.99           24              2.0
+             55           7.6             0.9               23              1.8               73           7.0             0.95           26              2.1
+             74           9.5             1.0               30              2.3
+             75           9.2             0.8               25              1.9
+             75           7.7             1.0               21              1.6
+ a
+      Denotes outlier pool, PFOS results excluded from ANOVA analysis.
+

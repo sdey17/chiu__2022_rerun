@@ -1,0 +1,12 @@
+======================================================================
+FILE: 1-s2.0-S0160412010000292-mmc2.doc
+======================================================================
+Table S1 Input data for the calibration of the Vd parameter from two US communities with characterized exposure and body burden data
+Community	Serum PFOA concentrationa
+(ng/mL)	 Water PFOA concentrationb
+(ng/L)	water consumption ratec
+(L/day)	daily intake
+(ng/day)	 GI absorptiond	daily dose	calculated Vd		Little Hockinga	448	3,550	1.4 	4970 	0.91 (91%)	62 ng/kg-day	173 mL/kg-b.w		Lubeckb	68	500	1.4 	700 	0.91 (91%)	9 ng/kg-day	165 mL/kg-b.w		notes: aserum and water values taken from Emmet et al. (2006); bserum values from Dupont (2004) and water values from Dupont (2006); cassumption based on EPA exposure handbook (1997);dassumption.
+
+
+

@@ -1,0 +1,878 @@
+                                                                     Environmental Research 303 (2026) 124802
+
+
+                                                                     Contents lists available at ScienceDirect
+
+
+                                                                    Environmental Research
+                                                            journal homepage: www.elsevier.com/locate/envres
+
+
+
+
+Nonlinear mixed-effects modeling of the intravenous and oral kinetics of
+eleven perfluoroalkyl substances in female mice
+Chloé ML. Argoul a,b , Pierre-Louis Toutain a,c , Nicole Picard-Hagen b , Laila Mselli-Lakhal b,
+Yannick Dauwe b , Béatrice B. Roques a , Marlène Z. Lacroix a , Véronique Gayrard b,*
+a
+    INTHERES, Université de Toulouse, INRAE, ENVT, Toulouse, France
+b
+    Univ Toulouse, EI Purpan, ENVT, INRAE TOXALIM, Toulouse, France
+c
+    The Royal Veterinary College, University of London, London, United Kingdom
+
+
+
+
+A R T I C L E I N F O                                       A B S T R A C T
+
+Keywords:                                                   Restrictions on long-chain per- and polyfluoroalkyl substances (PFAS) have prompted the recourse to structural
+Perfluoroalkyl substances                                   analogs. However, limited toxicokinetic (TK) data hinders the understanding of how structure influences
+Toxicokinetics                                              persistence. We investigated the TK of 11 PFAS in mice, including perfluoroalkyl carboxylic acids (PFCA),
+Mice
+                                                            perfluoroalkane sulfonic acids (PFSA), and ether derivatives of PFCA, GenX, and PFO2OA. Following intravenous
+Allometry
+                                                            and oral administration of PFAS mixture, plasma, urine and feces were collected over 119 days. Data were
+                                                            analyzed using nonlinear mixed-effects modeling, and allometry was used to predict human clearance from
+                                                            mouse data.
+                                                               Plasma clearances of long-chain PFCA and PFSA were at least 150 times lower than those of shorter-chain
+                                                            analogs. Ether linkages reduced clearance by about 25-fold for GenX and 4-fold for PFO2OA compared to
+                                                            PFHxA. Renal excretion accounted for 70%–100% of total clearance for short-chain PFAS (PFBS, PFBA, PFHxA)
+                                                            and ether derivatives, as well as PFOA and PFDS. PFHxS and PFOS showed balanced renal and fecal clearance,
+                                                            while long-chain PFCA (PFNA, PFDA) were primarily eliminated via feces. Deep tissue compartments, identified
+                                                            for PFHxA and PFO2OA, contributed to prolonged terminal half-lives. Mean residence time ranged from less than
+                                                            1 day for PFBA, PFHxA, GenX, and PFO2OA to up to 68 days for other PFAS, with PFBS showing nonlinear
+                                                            disposition, characterized by rapid initial clearance followed by a sharp decline. The allometric approach reliably
+                                                            predicted human plasma clearance from mouse clearance.
+                                                               These findings showed that mechanistic TK modeling is valuable for accurately estimating clearance,
+                                                            providing critical insights to support risk assessment of PFAS.
+
+
+
+
+1. Introduction                                                                              (Prevedouros et al., 2006). Among them, perfluorooctanoic acid (PFOA)
+                                                                                             and perfluorooctane sulfonic acid (PFOS), belonging respectively to the
+    Perfluoroalkyl and polyfluoroalkyl substances (PFAS) are a large                         perfluoroalkyl carboxylic acid (PFCA) and perfluoroalkane sulfonic acid
+group of man-made chemicals that contain fluorine atoms bonded to                            (PFSA) groups, have been the most studied, and their widespread
+carbon chains. Due to their water- and oil-repellent properties, they                        environmental contamination has been documented in numerous
+have been widely used in industrial and consumer products since the                          studies since the early 2000s (Giesy and Kannan, 2001). This widespread
+1940s, particularly in the semiconductor and electronics industries, fire-                   diffusion has led to the exposure of the global population to this class of
+fighting foams, and textiles (Gaines, 2023; Prevedouros et al., 2006).                       compounds, with water and food as the main routes of exposure for
+PFAS release from these products, combined with their persistence due                        adults (Trudel et al., 2008). Biomonitoring studies have therefore
+to the stability of the carbon-fluorine bonds (Buck et al., 2011), has led                   consistently detected PFOA, PFOS, perfluorononanoic acid (PFNA), and
+to global contamination of the biotic and abiotic environment                                perfluorohexanesulfonic acid (PFHxS) in all or nearly all human serum
+
+
+
+  * Corresponding author.UMR 1331 Toxalim, Ecole Nationale Vétérinaire de Toulouse, 23 chemin des Capelles – BP 87614, 31076 Toulouse, France.
+    E-mail addresses: chloe.argoul@gmail.com (C.ML. Argoul), pltoutain@wanadoo.fr (P.-L. Toutain), nicole.hagen@envt.fr (N. Picard-Hagen), laila.lakhal@inrae.fr
+(L. Mselli-Lakhal), yannick.dauwe@gmail.com (Y. Dauwe), beatrice.roques@envt.fr (B.B. Roques), marlene.lacroix@envt.fr (M.Z. Lacroix), veronique.gayrard@
+envt.fr (V. Gayrard).
+
+https://doi.org/10.1016/j.envres.2026.124802
+Received 26 January 2026; Received in revised form 12 May 2026; Accepted 18 May 2026
+Available online 19 May 2026
+0013-9351/© 2026 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+C.ML. Argoul et al.                                                                                                      Environmental Research 303 (2026) 124802
+
+
+samples with mean concentrations in the nanogram-per-milliliter                   conditions.
+(ng/mL) range (EFSA CONTAM Panel et al., 2020; Fillol et al., 2021).                  Although TK studies of PFAS have been previously conducted in
+The high serum concentrations of these long-chain PFAS are attributed             mice, most have focused on a single compound or only a few compounds
+to their very low rate of body elimination, leading to half-lives in the          at a time (Chang et al., 2008, 2012; Gannon et al., 2016; Sundström
+range of years (Abraham et al., 2024; Olsen et al., 2007; Xu et al., 2020).       et al., 2012; Tatum-Gibbs et al., 2011). This limited scope hinders broad
+The listing of PFOS, PFOA, and PFHxS under the Stockholm Convention               comparisons of TK properties across PFAS. In addition, variations in
+on Persistent Organic Pollutants has led to their phase-out in many               experimental conditions, including dosing routes, sampling durations,
+countries and their replacement by structural analogs, including per­             and analytical or modeling approaches, further complicate data com­
+fluoroether carboxylic and sulfonic acids (PFECA and PFESA) (Wang                 parison and interpretation. Most available studies have used oral
+et al., 2013, 2017). Hence, nowadays, thousands of analogs exist, and             administration, which only allows estimation of the terminal half-life
+the diffusion of these emerging PFAS in the environment has already               but does not permit the determination of key TK parameters such as
+been described (Evich et al., 2022; Houde et al., 2006; Lau et al., 2007;         clearance, volume of distribution at steady state, or absolute bioavail­
+Pan et al., 2017, 2018; Ryu et al., 2024). Some of these emerging al­             ability. These parameters can only be reliably assessed using intrave­
+ternatives may appear less toxic than PFOA and PFOS at the adminis­               nous (IV) administration (Benet and Zia-Amirhosseini, 1995). However,
+tered doses but prove equally or more potent because they produce the             the only two published studies involving IV administration of PFAS in
+same toxic effect at a lower internal dose (Gomis et al., 2018).                  mice (Fujii et al., 2015; Zhu et al., 2023) were limited by short follow-up
+    The persistence of PFAS has been shown to vary with their molecular           periods and the absence of advanced data analysis, preventing the
+structure, specifically the length of the carbon chain. Indeed, short-chain       estimation of these key parameters and thereby restricting comprehen­
+PFAS are eliminated more quickly than long-chain perfluoroalkyl car­              sive TK modeling of PFAS.
+boxylic acids (PFCA with ≥7 perfluorinated carbon atoms) and per­                     We recently proposed an innovative approach to the design of TK
+fluoroalkane sulfonic acids (PFSA with ≥6 perfluorinated carbon atoms)            studies, combining a cocktail dosing strategy with data analysis using
+(Chengelis et al., 2009; Huang et al., 2019; Kim et al., 2016; Ohmori             nonlinear mixed-effects modeling (NLMEM) (Gayrard et al., 2021). This
+et al., 2003; Olsen et al., 2009; Sundström et al., 2012; Tatum-Gibbs            integrated approach allows for the simultaneous analysis of data from
+et al., 2011). Dawson et al. (2023) provided quantitative evidence                multiple animals and compounds under consistent experimental condi­
+linking PFAS chemical structure to their predicted half-life. However,            tions, offering a powerful framework for comparative evaluation of
+the detection of certain emerging PFAS in human blood circulation                 PFAS TK properties in mice. A major advantage of NLMEM is its capacity
+(Zhang et al., 2022) underscores the need for more comprehensive                  to incorporate covariates, such as molecular structure or physiological
+toxicokinetic (TK) studies, particularly comparative investigations               parameters, to explain inter-individual variability as well as its ability to
+across different PFAS families conducted under identical experimental             cope with sparse and unbalanced datasets (Aarons, 1993; Aarons and
+conditions, in order to better understand how the chemical properties of          Graham, 2001; Hing et al., 2001a, 2001a, 2001a). Furthermore, it is well
+PFAS relate to their potential for persistence.                                   suited to accounting for nonlinearities in TK processes, making it
+    The urinary route has been described as the main route of elimina­            particularly valuable for complex compounds such as PFAS.
+tion for PFCA with fewer than 10 carbons and PFSA, with no metabo­                    In this context, our study aimed to investigate structure-related dif­
+lization pathways identified for either family (EFSA CONTAM Panel                 ferences in the TK of PFAS in mice, with a particular focus on renal and
+et al., 2020). The key role of renal excretion in PFAS toxicokinetics (TK)        fecal clearance. To achieve this, we evaluated the TK parameters of 11
+is underscored by the strong influence of PFCA chain length on their              PFAS in mice within a single integrated study, using a cocktail dosing
+renal elimination rate (Han et al., 2012). Based on paired serum and              approach, and accounting for urinary and fecal elimination pathways.
+urinary PFAS concentrations from 30 human samples, renal clearance of             TK data were analyzed using NLMEM to enhance parameter estimation
+PFCA decreased as perfluorinated carbon chain length increased up to              and account for possible covariates. The selected 11 PFAS encompassed
+C9-C10 (Zhang et al., 2013). Although TK data in humans remain scarce,            PFCA and PFSA with carbon chain lengths ranging from C4 to C10. In
+a recent case study involving a single human volunteer (Abraham et al.,           addition, ether derivatives of the perfluoroalkyl ether carboxylic acid
+2024) highlighted the inherent challenges in detecting long-chain PFAS            (PFECA) family were included, such as HFPO-DA (GenX) and PFO2OA.
+in urine. In this study, the combination of low administered doses and            Finally, human PFAS clearance was extrapolated from mouse data using
+analytical limitations prevented a reliable estimation of urinary clear­          an allometric approach to provide insights into human exposure and
+ance. These constraints underscore the critical need for complementary            PFAS elimination.
+experimental models that enable robust and comparable characteriza­
+tion of PFAS TK across different PFAS families under standardized                 2. Materials and methods
+experimental conditions, thereby facilitating a clearer understanding of
+the mechanisms governing their disposition.                                       2.1. Chemicals and dosing solutions
+    Although the half-lives of long-chain PFAS in mice (Pizzurro et al.,
+2019) are approximately 50 times shorter than in humans (where they                   Ammonium acetate, sodium chloride (NaCl), sodium phosphate
+can extend to several years), mice may represent a relevant model for             dibasic (Na2HPO4), sodium phosphate monobasic monohydrate
+investigating how the chemical structure of PFAS influences their                 (NaH2PO4), PFOA, perfluorohexanesulfonic acid potassium salt
+elimination pathways and rates. Indeed, as observed in humans, urinary            (PFHxSK), perfluorobutanoic acid (PFBA), perfluorodecanoic acid
+clearance of PFCA in mice decreases with increasing carbon chain length           (PFDA),     perfluorobutanesulfonic     acid   (PFBS),      and    per­
+(Fujii et al., 2015). Moreover, our recent findings indicate that the             fluorooctanesulfonic acid potassium salt (PFOSK) were purchased from
+fraction of unbound PFAS in plasma follows a U-shaped trend with                  Sigma-Aldrich (Saint-Louis, Missouri, USA). 2,3,3,3-tetrafluoro-2-(hep­
+perfluorinated carbon chain length (4–10 carbons), decreasing from                tafluoropropoxy) propanoic acid (GenX) and perfluoro-3,6-
+high values for shorter chains and increasing for longer chains in both           dioxaoctanoic acid (PFO2OA) were obtained respectively from Man­
+mice and humans, regardless of PFAS family (Argoul et al., 2025).                 chester Organics (Manchester, England) and Apollo Scientific (Stock­
+    This suggests that a key mechanism governing renal clearance is               port, England). Sodium perfluorodecanesulfonate (PFDSNa),
+similarly influenced by PFAS chemical structure in both mice and                  perfluorohexanoic acid (PFHxA), and PFNA were purchased from Clin­
+humans. Furthermore, the assessment of PFAS-specific TK parameters in             isciences (Nanterre, France).
+mice is crucial for enabling interspecies extrapolation of internal                   The mixed solution (MPFAC-HIF-IS) of seven isotope-labeled stan­
+dosimetry and for reproducing, in toxicological studies performed in              dards (IS), including M3PFBA, MPFHxA, MPFHxS, MPFOA, MPFNA,
+mice, the internal exposures observed in humans under environmental               MPFDA, MPFOS, was obtained from Wellington Laboratories (Ontario,
+
+                                                                              2
+C.ML. Argoul et al.                                                                                                            Environmental Research 303 (2026) 124802
+
+
+Canada). Water was provided by an ultrapure water system (ELGA,                            Intravenous administrations were performed via a lateral tail vein
+Blagnac, France), and organic solvents (methanol, MeOH; acetonitrile,                  using a 0.5-mL insulin syringe with a fixed needle (0.30 mm × 12 mm,
+AcN; and isopropanol, IprOH) were liquid chromatography–mass spec­                     Aniject 0.5 mL INS 100U Pentafine, 30G × 1.2). Oral administrations
+trometry (LC-MS)-quality solvents from Thermo Fisher (Fisher Scienti­                  were performed by gavage using a feeding probe. For both routes of
+fic, Illkirch, France).                                                                administration, blood samples were taken immediately antemortem by
+                                                                                       puncture of the submandibular vein using a lancet in anesthetized
+                                                                                       mouse at designated time points after administration: 15 and 30 min; 1,
+2.2. Animals
+                                                                                       2, 4, 8, 24, and 48 h; 3, 8, 15, 30, 60, and 119 days, from 3 to 5 mice at
+                                                                                       each sampling time.
+   The protocol was authorized by the French Ministry of Research
+                                                                                           Blood samples were collected in heparinized propylene tubes and
+under the number #37670–2022 061 416 168 720 (Toxcométhique
+                                                                                       cooled on ice before centrifugation for 30 min at 3000 g and 4 ◦ C. Then,
+INRAE Toxalim). The experimental study was carried out on 108 female
+                                                                                       separated plasma was stored at − 80 ◦ C prior to analyses.
+C57BL/6 mice aged 12 weeks, purchased from Janvier Labs (Le Genest-
+                                                                                           From the 24-h collection point, three mice per sampling time point
+Saint-Isle, France). Mice were housed in groups of six in polypropylene
+                                                                                       and route of administration were placed individually in metabolism
+cages before dosing and in groups of 3 after administration. The cages
+                                                                                       cages for 24 h prior to each blood sampling time, i.e., on days 1, 2, 3, 8,
+were placed in a ventilated enclosure, illuminated by an artificial 12/
+                                                                                       15, 30, 60, and 119 post-administration, to allow for complete 24-h
+12 h light/dark cycle. Commercial feed (2018 Global rodent diet,
+                                                                                       collection of urine and feces. Fecal samples collected over 24 h were
+Envigo, Gannat, France) and drinking water were supplied ad libitum.
+                                                                                       weighed, and urine output volumes during the same period were
+Before administration, mice weighed an average of 20.0 ± 0.8 g.
+                                                                                       measured. Aliquots were stored at − 80 ◦ C pending analyses.
+                                                                                           Background PFAS concentrations and their evolution over time were
+2.3. Experimental design                                                               assessed by collecting blood from four untreated mice on the day of
+                                                                                       administration and from four other mice at the end of the study (119
+   A mixture of 11 PFAS was administered intravenously (IV) to 51                      days after the first administration). Urine and feces were also collected
+mice, while a further 49 mice received it by oral route. The PFAS family,              from six of the eight mice that underwent blood sampling.
+compound name, abbreviation, carbon chain length and molecular
+weight are provided in Table S1. The corresponding structures are
+depicted in Fig. S1. The administered doses (Table 1) were selected                    2.4. Sample preparation
+based on a preliminary TK study conducted under similar experimental
+conditions (Argoul et al., 2024), which allowed the identification of dose                 Aliquots of 50 μL of plasma samples were mixed for 2 min at
+levels suitable for characterizing PFAS disposition while remaining                    1200 rpm (4 ◦ C) with 200 μL of the isotopic standard (IS) solution
+within a low molar dose range.                                                         diluted 100 times in MeOH. Aliquots of 50 μL of urine samples were
+   The IV and oral dosing solutions of the 11-PFAS mixture were pre­                   mixed at ambient temperature with 50 μL of phosphate buffer (0.028 M,
+pared in saline containing 10% and 5% ethanol, respectively. The                       pH 7.4, 0.6% NaCl) and 50 μL of the IS solution diluted 50 times in
+administered volumes of the IV (5 mL/kg) and oral (10 mL/kg) dosing                    MeOH. The samples were then centrifuged at 20 000 g for 10 min (4 ◦ C),
+solutions were adjusted to the animal's body weight recorded just before               and the supernatants were recovered for LC-MS/MS analysis. Plasma
+administration.                                                                        samples collected between 15 min and 4 h post-dosing were also
+
+                      Table 1
+                      Main toxicokinetic parameters of 11 PFAS obtained following intravenous and oral cocktail administration of 11 PFAS.
+                                               Number
+                                                                          Intravenous
+                                                  of           MW                          Oral dose        CL          VSS      MRT          F
+                                                                              dose
+                                               carbons
+                                    Units                      g/mol          mg/kg          mg/kg       mL/kg/day     L/kg        day       %
+                                    PFBA           4          214.04           1.41           1.81          783        0.14       0.18       68
+                                   PFHxA           6          314.05           1.28           1.71          6830        4.0       0.63       54
+                        PFCA        PFOA           8          414.07          0.080           0.10           4.5       0.089      19.5       70
+                                    PFNA           9          464.08           0.11           0.15           2.1       0.11       52.8       74
+                                    PFDA          10          514.08          0.077           0.11           1.8       0.12       68.1       97
+                                                                                                                                From <1
+                                    PFBS           4           300.1           1.55           1.82        22-2589      0.17                  62
+                                                                                                                                  to 8
+                                   PFHxS           6          400.12          0.094           0.10           1.3       0.062      46.5       100
+                        PFSA
+                                    PFOS           8          500.13          0.038          0.056           2.7       0.11       43.1       80
+                                    PFDS          10          600.15          0.019          0.039           5.2       0.28       53.3       56
+
+                                    GenX           6          330.05          0.052          0.050          274        0.095      0.35       100
+                       PFECA
+                                  PFO2OA           6          346.05           0.17           0.23          1570       0.48       0.32       73
+
+                      MW: molecular weight; CL: plasma clearance; Vss: steady-state volume of distribution; MRT: mean residence time; and F:
+                      bioavailability (0 to 100%). Parameters were obtained by simultaneously modeling data collected after intravenous and oral
+                      routes with an NLMEM. Low clearances (≤5 mL/kg/day) and high MRTs (>19 days) are indicated in red, while high clearances
+                      (≥274 mL/kg/day) and low MRTs (<1 day) are in blue. The doses were back-calculated from the assay of the dosing solutions.
+                      Most relative standard errors (RSEs) measuring precision of estimates were lower than 20% (see Supplemental Tables S5–S26).
+
+                                                                                   3
+C.ML. Argoul et al.                                                                                                    Environmental Research 303 (2026) 124802
+
+
+reanalyzed after 10-fold dilution in the blank mouse plasma (see Section        obtained after the last time point where plasma concentrations were no
+2.4) used for calibration to accurately quantify PFAS concentrations            longer quantified.
+exceeding the upper limit of quantification (ULOQ, 1000 ng/mL). Urine               By simultaneously analyzing plasma, urine, and feces data collected
+samples obtained 24 h post-dosing were analyzed twice, with and                 after the IV and oral routes of administration, NLMEM provides a more
+without a 50-fold dilution in the blank urine used for calibration, to          reliable estimate of urinary, fecal, and total clearances and bioavail­
+assess the PFAS urine concentrations above ULOQ (1000 ng/mL).                   ability than the NCA (see Section 4). Moreover, this model-based
+    Aliquots of 50 mg of feces were mixed with 500 μL of a mixture of           framework allows for the assessment of covariate effects, such as the
+MeOH and water (50:50, v/v) and 20 μL of IS solution diluted 5 times in         influence of diuresis on PFAS renal clearance. Among the structural
+MeOH in 2-mL tubes containing Lysing Matrix E (MP Biomedicals,                  models evaluated, a one-compartment model was selected for PFHxS,
+Irvine, California, USA). The FastPrep-24 5G system (MP Biomedicals,            PFOA, PFOS, PFNA, PFDA, and PFDS. In contrast, a two-compartment
+Irvine, California, USA) was used to grind the feces and homogenize the         model provided a better description of the data for PFBS, PFBA, and
+whole using two 40-s cycles at 6 m/s. Samples were then centrifuged for         GenX based on the likelihood ratio test (LRT), the Akaike information
+15 min at 20 000 g (4 ◦ C), and the supernatant was filtered through PTFE       criterion (AIC), and inspection of different diagnostic plots, with special
+filters (0.45 μm, Whatman filters) before LC-MS/MS analysis. Due to the         attention to the 50th quantiles of the visual predictive check (VPC). A
+non-homogeneous distribution of the non-persistent PFAS (PFBS, PFBA,            three-compartment model offered a better fit and was preferred for the
+PFHxA, GenX, and PFO2OA) in feces, the entire 24-h fecal output post-           two remaining PFAS (PFHxA and PFO2OA). The models were parame­
+dosing was processed in 50-mg aliquots. The resulting supernatants              terized using clearances and volumes of distribution. For a one-
+were thoroughly homogenized prior to filtration and subsequent anal­            compartment model, the parameters estimated were the central vol­
+ysis. For the remaining PFAS, only a single 50-mg fecal aliquot was             ume of distribution (V1), urinary clearance (CLu), and fecal clearance
+prepared and analyzed.                                                          (CLf), with total systemic clearance defined as the sum of elimination
+                                                                                clearances (CL = CLu + CLf). For two-compartment models, additional
+2.5. Analytical procedure                                                       parameters included the peripheral volume of distribution (V2) and the
+                                                                                inter-compartmental clearance (CL2), describing exchanges between the
+    All samples were quantified by LC-MS/MS using a Nexera LC-40                central and peripheral compartments. For three-compartment models, a
+system coupled to an 8045 triple quadrupole mass spectrometer (Shi­             second peripheral compartment was included, characterized by its vol­
+madzu, Kyoto, Japan), following the method previously described for             ume of distribution (V3) and an additional inter-compartmental clear­
+mouse plasma (Argoul et al., 2024). Briefly, calibrators                        ance (CL3). In this parameterization, plasma concentrations were
+(0.5–1000 ng/mL for plasma and 1-1000 ng/mL for urine and feces) and            described by mass-balance differential equations governing the distri­
+quality control (QC: 1.5; 15; 300; 750 ng/mL for plasma and 4; 15; 400          bution of PFAS between compartments and elimination from the central
+and 750 ng/mL for urine and feces) were prepared in their respective            compartment through urinary and fecal clearances. For elimination
+matrices: commercial mouse plasma (Innovative Research, Novi,                   clearance, urinary and fecal clearances were estimated for PFAS com­
+Michigan, USA) for plasma, pig urine supplied by the laboratory for             pounds with measurable concentrations in both matrices. It was
+urine and methanol/water (50:50, v:v) for feces. PFAS were quantified           assumed that these were the only elimination pathways, so total clear­
+using internal calibration with the corresponding isotope-labeled stan­         ance was estimated as the sum of urinary and fecal clearances. To avoid
+dard. When the matching isotope-labeled standard was unavailable, the           accounting for unabsorbed PFAS, the first 48 h post-administration were
+standard with the closest structure (same functional group and chain            excluded when calculating fecal clearance. This ensured that measured
+length) was used. Accordingly, the isotopic compound MPFHxS was                 elimination reflected true clearance rather than unabsorbed residues.
+chosen for PFBS, MPFOS for PFDS, and MPFHxA for both GenX and                   Coding was implemented using a sequence block to account for the fact
+PFO2OA.                                                                         that urine and feces were collected intermittently within defined time
+    The lower limit of quantification (LLOQ) was defined as the lowest          windows after administration. To model bioavailability (F), an ilogit
+calibration standard that could be reliably quantified, with accuracy           transformation was used to constrain the estimates between 0 and 1 (i.e.,
+between 80 and 120% and precision below 20%. In plasma, LLOQ                    up to 100%). A urine volume covariate (ranging from 0.19 to 1.64 mL/
+ranged from 0.5 to 10 ng/mL (Argoul et al., 2024). In urine, LLOQs were         24 h) was used to model urinary clearance using Eq. (1):
+5 ng/mL for most PFAS, except PFBS and PFOA (1 ng/mL), PFNA                                      (     )θ
+(10 ng/mL) and PFBA (50 ng/mL). In feces, LLOQs were 1 ng/mL in                                    UV UV
+                                                                                CLu i = θCLu pop                                                      Eq. 1
+methanol/water for all compounds, except PFBA, which could not be                                  0.5
+reliably quantified due to contamination. Accuracy and precision of
+                                                                                where CLu_i is the urinary clearance for an individual i, and θCLu_pop is the
+urine and feces assays were assessed from 3 replicate measurements of
+                                                                                typical population value of urinary clearance when UV, the observed
+QC samples over two days. For feces, recoveries were evaluated by
+                                                                                urinary volume, is 0.5 mL (the median UV in our dataset). This UV value
+spiking mouse blank feces with a mixture of PFAS at 10 and 100 ng/mL
+                                                                                was used to scale and center the covariate, so θCLu corresponds to a
+over two days. Method performance data are summarized in Table S2.
+                                                                                “median” subject. θUV is an exponent describing the strength and di­
+                                                                                rection of the relationship between UV and CLu_i. UV as a covariate was
+2.6. Toxicokinetic analyses
+                                                                                considered statistically significant when its 95% confidence interval
+                                                                                estimated using a bootstrap approach excluded 0.
+    TK analyses were performed using Phoenix WinNonlin® (version
+                                                                                    A hierarchical nonlinear mixed-effects framework was used to
+8.5.2.4; Certara, Radnor, PA, USA). The plasma mass concentrations
+                                                                                describe both population-average TK and individual variability. Popu­
+determined by LC-MS/MS were converted into molar concentrations.
+                                                                                lation parameters (fixed effects) correspond to the typical TK values in
+The amounts of PFAS excreted in urine and feces were calculated by
+                                                                                the study population, while inter-individual variability was modeled
+multiplying their respective concentrations by the corresponding urine
+                                                                                using random effects assuming a log-normal distribution. For an indi­
+volume or feces weight collected at each sampling time.
+                                                                                vidual i, model parameters were expressed according to Eq. (2).
+    Plasma concentration-time profiles of PFAS were first analyzed using
+a non-compartmental approach (NCA) to provide an initial value for the          Pi = Ppop ⋅ exp(ηi )                                                    Eq. 2
+nonlinear mixed-effects modeling (NLMEM) and to highlight its possible
+inconsistency. Subsequently, the data were analyzed using NLMEM to              where Pi is the individual parameter value, Ppop is the typical population
+better characterize key TK parameters from sparse sampling. Indeed,             value, and ηi represents the individual random effect assumed to follow
+this modeling approach enables the analysis of sparse urinary data              a normal distribution with mean 0 and variance ω2.
+
+                                                                            4
+C.ML. Argoul et al.                                                                                                    Environmental Research 303 (2026) 124802
+
+
+
+
+Fig. 1. Semi-logarithmic plots of individual plasma concentrations (μmol/L) versus time (days) in mice after intravenous administration. A: Long-chain PFAS
+(LLOQ1: lower limit of quantification for PFOA and PFOS; LLOQ2: for other long-chain PFAS); B: Short-chain perfluoroalkyl carboxylic acids (PFCA; LLOQ1 and
+LLOQ2: for PFBA and PFHxA, respectively); C: Short-chain perfluoroalkane sulfonic acids (PFSA; LLOQ corresponds to the short-chain PFSA studied, PFBS); D:
+Perfluoroether carboxylic acids (PFECA; GenX and PFO2OA, LLOQ shown as the common value for both compounds).
+
+
+    Three random effects were included in the model: urinary clearance,          in the proximal tubule. Although Andersen et al. (2006) used a
+fecal clearance, and central volume of distribution (V1). They were              Michaelis-Menten model, we adopted a simplified empirical model that
+retained or excluded based on biological relevance and acceptable                reproduces the saturable behavior of proximal tubular reabsorption, as
+shrinkage values. Random effects were modeled using exponential                  the full Michaelis-Menten model could not be reliably identified from
+models. The between-subject variability (BSV%) was calculated using              plasma and urine data alone.
+the coefficient of variation formula. Plasma concentrations below the                This empirical model describes proximal tubular clearance as a
+limit of quantification (BLQ) were censored and handled using the M3             fraction of the glomerular filtration rate (GFR), modulated by free
+method (Wijk et al., 2025). The residual error model combined additive           plasma concentration (Eq. (3)):
+and proportional components for each matrix, with the additive
+                                                                                                                fu × Conc plasma
+component representing constant variability and the proportional                 CL proximal = GFR × fu ×                                               Eq. 3
+                                                                                                            Kmfree + fu × Conc plasma
+component representing variability that scales with predicted concen­
+trations, both estimated separately for each matrix. Parameter estima­               It should be noted that GFR is a physiological property of mice with a
+tion was performed using the Laplacian engine, and parameter precision           known approximate value of 10 L/kg/day (Qi et al., 2004). In addition,
+was assessed via bootstrap analysis (n = 100 or 200). Secondary pa­              we previously estimated the unbound fraction (fu) in this mouse strain
+rameters such as mean residence time (MRT), volume at steady state               by equilibrium dialysis, obtaining fu = 0.29 (Argoul et al., 2025).
+(Vss), and terminal half-life were derived from primary parameter                    Equation (3) describes a saturable proximal tubular clearance
+estimates.                                                                       (Cl_proximal) as a function of free plasma concentration (fu × Con­
+    In the case of PFBS, urinary excretion following IV administration           c_plasma), starting from a very low value near 0 when fu × Conc_plasma
+showed substantial elimination within the first 24 h, followed by                is much lower than Km_free, and approaching fu × GFR when fu × Con­
+markedly reduced elimination. This suggested nonlinear renal clear­              c_plasma is much higher than Km_free. Km_free is the free plasma con­
+ance, possibly due to saturable reabsorption in the proximal tubule.             centration for which Cl_proximal is equal to half fu × GFR. To obtain a
+Consistent with observations for other PFAS and species (Andersen                satisfactory fit for PFBS, it was necessary to include a (distal) clearance
+et al., 2006), we postulated the presence of active saturable reabsorption       of secretion (not described by Andersen et al. (2006). This secretory
+
+
+                                                                             5
+C.ML. Argoul et al.                                                                                                      Environmental Research 303 (2026) 124802
+
+
+
+
+Fig. 2. Percentages (mean +standard deviation) of the administrated PFAS dose recovered in urine (A) and feces (B) at each 24-h collection time following
+intravenous PFAS administration. It should be noted that urinary excretion became marginal after 3 days post-administration, while PFBS remained detectable in
+plasma over a longer period, which is consistent with the model predictions.
+
+
+
+
+                                                                              6
+C.ML. Argoul et al.                                                                                                                  Environmental Research 303 (2026) 124802
+
+
+clearance was modeled using a Michaelis-Menten component as Eq. (4):                           Supplementary Material (Fig. S2). Plasma concentration-time profiles
+                                                                                               for each PFAS examined demonstrated comparable decay patterns
+                         Vmax secretion
+CLsecretion =                                                                    Eq. 4         following both intravenous and oral administration. These profiles
+                Kmsecretion + fu × Plasma Conc
+                                                                                               highlight the differences in persistence between short-chain and long-
+where Vmax_secretion (μmol/kg/day) is the maximum secretion ca­                                chain PFAS. Specifically, plasma concentrations of long-chain PFCA
+pacity of the distal convoluted tubule, Km_secretion (μmol/L) is the free                      (with 9 and 10 carbon chains) and PFSA (with 6, 8, and 10 carbon
+plasma concentration of PFBS for which a secretion is half-maximal, and                        chains) remained above LLOQ up to the last sampling time (119 days).
+fu xPlasma_Conc is the free PFBS plasma concentration.                                         PFOA was quantified up to 60 days following both IV and oral dosing,
+    To assess the predictive value of mouse clearance estimates relative                       but was no longer quantified at 119 days, in part because of the higher
+to human data (Abraham et al., 2024), plasma clearance values for                              LLOQ.
+selected PFAS obtained in the present study were extrapolated to                                   In contrast, among short-chain PFCA, PFBA plasma concentrations
+humans using a classical allometric model based on body weight (BW,                            were below LLOQ from 48 or 72 h following IV and oral administration,
+kg) using Eq. (5):                                                                             respectively, and PFHxA was no longer quantified 48 h after both IV and
+                     (         )                                                               oral dosing. Similarly, all PFBS plasma concentrations were quantifiable
+                       BWhuman                                                                 up to 24 h after oral dosing and up to 3 days after intravenous (IV)
+CLhuman = CLmouse ×              Ŝlope                            Eq. 5
+                       BWmouse                                                                 dosing. Beyond these time points, only sparse quantifiable PFBS con­
+                                                                                               centrations were observed.
+where clearance values were expressed per kilogram of BW, assuming a                               The concentration profiles of the emerging PFAS compounds (GenX
+human BW of 80 kg (Abraham et al., 2024) and a mouse BW of 0.02 kg,                            and PFO2OA) resembled those of short-chain PFCA, with quantifiable
+as observed in the present study. The allometric exponent (slope) was                          levels detected only up to 2- or 3-days post-administration.
+estimated by nonlinear regression in Phoenix with an exponential re­
+sidual error model. Human clearance was predicted using the fitted
+exponent and compared with values reported by Abraham et al. (2024)                            3.2. Urinary and fecal excretion of PFAS
+to evaluate scaling accuracy. Additional predictions were generated
+using conventional allometric exponents of − 0.25 (metabolic body                                  Three among the four control mice had PFBS urinary concentrations
+weight) and − 0.33 (body surface area).                                                        above the LLOQ (1 ng/mL). PFOS concentrations were also quantified
+                                                                                               above 1 ng/mL in the urine of three control mice and in the feces of
+3. Results                                                                                     control mouse samples analyzed.
+                                                                                                   Fig. 2 shows the amount of PFAS recovered daily in urine and feces,
+3.1. Plasma concentrations                                                                     expressed as a percentage of the administered dose, at the different
+                                                                                               collection times following IV dosing. The results obtained for oral dosing
+    Plasma concentrations of PFAS in control mice were all below the                           are given in the supplementary material (Fig. S3). Following both
+LLOQ, indicating minimal or no contamination during sample collec­                             intravenous and oral administrations, almost all of the administered
+tion, processing, and analysis.                                                                dose of short-chain PFCA (PFBA, PFHxA), PFBS, and PFECA (GenX and
+    Fig. 1 shows the plasma concentration-time profiles of PFAS after IV                       PFO2OA) was recovered in urine within the 24 h post-dosing. For these
+administration. The results for oral dosing are provided in the                                PFAS, less than 5% of the administered dose was recovered in feces.
+                                                                                               Residual urinary concentrations of PFHxA, PFO2OA, and PFBS remained
+
+                       Table 2
+                       Relative contributions of urinary and fecal pathways to plasma clearance, and effect of diuresis on urinary clearance.
+                                                                                                                     urinary             urinary
+                                                                        Slope
+                                                                                          Slope:       Slope:     clearance for       clearance for
+                                     PFAS        CLu      CLfecal     (covariate
+                                                                                          Lower        Upper      diuresis of 0.2     diuresis of 2.5
+                                                                       diuresis)
+                                                                                         limit of     limit of       mL /day             mL/day
+                                                                        Scalar           95% CI       95% CI
+                                     Units        %          %                                                      mL/kg/day           mL/kg/day
+                                                                       (median)
+                                     PFBA        100         0          -0.134           -0.586        0.799            NS                  NS
+                                    PFHxA        99.3       0.7          -1.04           -1.598       -0.278          19400                1970
+                         PFCA        PFOA        79.1       20.9         0.24             0.038        0.55            2.79                 5.3
+                                     PFNA        28.6       71.4        0.546             0.214        0.989           0.36                 1.6
+                                     PFDA         7.3       92.7        1.215             1.178        1.251           0.043               0.90
+                                     PFBS        major     Minor         NA                NA           NA             NA                   NA
+                                    PFHxS         44         56         0.699             0.359        0.928           0.30                1.37
+                         PFSA
+                                     PFOS        46.3       53.7        0.543             0.261        0.857           0.71                2.98
+                                     PFDS         70         30          0.26            -0.013        0.855            NS                  NS
+                                     GenX        98.2       1.8         0.0839            0.082        0.085           249                  307
+                        PFECA
+                                   PFO2OA        97.6       2.4         -0.828           -1.523        0.294            NS                  NS
+
+                       CLu: urinary clearance; CLfecal: fecal clearance; Slope: exponent θUV (median bootstrap estimate) describing the strength and
+                       direction of the relationship between the collected urinary volume and CLu (see Eq. (1)). The slope was not statistically sig­
+                       nificant (NS) if its 95% confidence interval (CI) included zero (indicated in red). A significant positive slope (green) indicates
+                       that CLu increases with urinary output, whereas a significant negative slope (orange, observed only for PFHxA) indicates a
+                       decrease in CLu with increasing urinary output. To illustrate the covariate effect, urinary clearance was calculated for extreme
+                       urine outputs of 0.2 and 2.5 mL/day.
+
+                                                                                           7
+C.ML. Argoul et al.                                                                                                           Environmental Research 303 (2026) 124802
+
+
+Table 3
+Allometric prediction of human plasma clearance for various PFAS based on mouse clearance estimates.
+  ​            ​                                          Human predicted clearance                                                    ​
+               Mice clearance     Human clearance         Slope (metabolic body         Slope (Body        Slope                           Ratio Measured/predicted for
+               (measured)         (measured)a             weight = − 0.25               surface area)      (estimated) = − 0.4138          slope = -0.4138
+                                                                                        = − 0.33
+                   mL/kg/d        mL/kg/d                 mL/kg/d                       mL/kg/d            mL/kg/d                         Scalar
+      PFBA         783            21.8                    98.5                          50.7               25.3                            0.86
+      PFHxA        6830           56.9                    859                           442                221                             0.26
+      PFOA         4.54           0.042                   0.571                         0.294              0.147                           0.29
+      PFNA         2.1            0.067                   0.264                         0.136              0.068                           0.98
+      PFDA         1.78           0.148                   0.224                         0.115              0.058                           2.56
+      PFBS         22-2589        1.88                    NC                            NC                 NC                              NC
+      PFHxS        1.34           0.053                   0.168                         0.087              0.043                           1.22
+      PFOS         2.68           0.088                   0.337                         0.174              0.087                           1.01
+      PFDS         5.15           NA                      0.648                         0.334              0.166                           NA
+      GenX         274            43.0                    34.5                          17.7               8.9                             4.86
+      PFO2OA       1570           NA                      197                           102                50.7                            NA
+
+Human clearance was predicted using the two standard allometric exponents (slopes) of − 0.25 (metabolic body weight) and − 0.33 (body surface area), as well as the
+exponent of − 0.4138, estimated from the observed data.
+NA: not available.
+NC: not calculated.
+  a
+    Abraham et al., (2024).
+
+
+for up to 8 days, 8 days, and 119 days, respectively, following admin­                high clearance, while longer-chain PFCA (PFOA, PFNA, and PFDA, with
+istration for all mice.                                                               8, 9, and 10 carbons, respectively) have very low clearance. In contrast,
+    Based on the available sparse data, PFHxS was exclusively elimi­                  all studied PFSA (PFHxS, PFOS, PFDS) showed low clearance, including
+nated in urine over the 119 days following administration. Similarly,                 PFHxS, despite its shorter chain length (n = 6). Notably, PFBS, though a
+PFOA and PFDS were primarily eliminated in urine within 60 and 119                    short-chain PFSA (n = 4), initially displays high clearance that quickly
+days, respectively, following IV and oral administration. The mean                    diminishes, consistent with other PFSA. Finally, both studied emerging
+percentage of these PFAS doses recovered daily in urine ranged from                   PFECA (GenX and PFO2OA) exhibited high clearance rates.
+approximately 0.15% to 4.5%, with minor fluctuations over the sam­                        In contrast to plasma clearances, all PFAS (except PFHxA) exhibited
+pling periods. Fecal excretion was very low for PFOA, about 0.5%–2%                   low volumes of distribution (Vss ranging from 0.062 to 0.48 L/kg). For
+over the 15 days post-dosing, and PFDS was partially quantified in feces              PFHxA, however, a much higher Vss of 4.0 L/kg was estimated from the
+only during the first 3 days post-dosing.                                             three-compartmental modeling of its disposition. Using this model, a
+    The percentage of the PFOS doses recovered in feces was approxi­                  volume of 3.8 L/kg was estimated for the deepest peripheral compart­
+mately equivalent to that recovered in urine; however, residual PFOS                  ment. Notably, this deep compartment (identified for PFHxA and also
+concentrations in control samples prevented the accurate determination                for PFO2OA) was not observed for the other PFAS compounds. Without
+of the relative proportions in urine and feces. In contrast, PFNA and                 this deep compartment, the Vss of PFHxA would have been only 0.12 L/
+PFDA were primarily excreted in feces, with percentages 1.15- to 25-fold              kg (see Section 4).
+higher than those observed in urine over the 119 days post-dosing.                        MRT, which reflects the average time a PFAS molecule remains in the
+                                                                                      body, is the best index for assessing the overall body persistence of PFAS.
+                                                                                      MRT is a hybrid parameter, determined by both clearance and Vss.
+3.3. TK parameters
+                                                                                      Based on MRT values, PFAS can be divided into two distinct groups:
+                                                                                      PFAS with very high MRTs (19.5–68 days), attributed to extremely low
+3.3.1. Basic parameters
+                                                                                      clearance, including PFOA, PFNA, PFDA, PFBS at low plasma concen­
+    The NCA TK parameters of PFAS obtained after IV and oral dosing
+                                                                                      trations, PFHxS, PFOS, and PFDS; and PFAS with short MRTs (<1 day),
+are respectively presented in Table S3 and Table S4. For all PFAS com­
+                                                                                      due to high clearance, such as PFBA, PFHxA, GenX, and PFO2OA. It is
+pounds except PFBS and PFHxA, the estimates of the four key tox­
+                                                                                      important to note that half-lives often reported in the literature
+icokinetic parameters, plasma clearance (CL), volume of distribution at
+                                                                                      following an NCA (reported in Tables S3–S4) do not convey the same
+steady state (Vss), mean residence time (MRT), and bioavailability (F),
+                                                                                      information and should be interpreted cautiously in the context of
+were consistent with those obtained from the NLMEM. Given that the
+                                                                                      compartmental modeling with several compartments because, unlike
+NLMEM is considered the more robust method (see Section 4), only its
+                                                                                      MRT, the terminal half-life does not reliably reflect the overall persis­
+results are presented in Table 1. Detailed NLME analysis results (Sup­
+                                                                                      tence of PFAS in the body (see Section 4). For all investigated PFAS,
+plementary Material, Table S5–S26) show that the relative standard
+                                                                                      bioavailability was relatively high, ranging from 54% to 100%.
+errors (RSE) of the TK parameters are mostly below 20%, reflecting good
+precision of estimates. The inspection of Table 1 reveals clear trends in
+                                                                                      3.3.2. Urinary and fecal clearances
+plasma clearance, the primary TK parameter reflecting the organism's
+                                                                                          Thanks to the simultaneous NLMEM of urinary and fecal data for IV
+capacity to eliminate a substance. Two distinct groups emerge: sub­
+                                                                                      and oral routes, it was possible to estimate the contribution of urinary
+stances with very low clearance rates (≤5 mL/kg/day), including PFOA,
+                                                                                      and fecal clearances to the total clearance (Table 2). In addition, the
+PFNA, PFDA, PFHxS, PFOS, and PFDS, and those with high clearance
+                                                                                      urinary volume was included in the model as a covariate of urinary
+rates (≥274 mL/kg/day), such as PFBA, PFHxA, GenX, and PFO2OA.
+                                                                                      clearance to assess a possible influence of urine output on renal clear­
+PFHxA exhibits the highest clearance, reaching 6830 mL/kg/day. Using
+                                                                                      ance efficiency (see Eq. (1)).
+the NLMEM, it was concluded that only PFBS displays markedly
+                                                                                          Renal clearance was identified as the primary route of elimination
+nonlinear kinetics following intravenous administration, with clearance
+                                                                                      for most PFAS, contributing to at least 60% of total clearance for PFBA
+decreasing from 2589 mL/kg/day at peak plasma concentrations to
+                                                                                      (100%), PFBS (100%), PFHxA (99%), PFOA (79%), PFDS (70%), GenX
+22 mL/kg/day at trough levels.
+                                                                                      (98%), and PFO2OA (98%). For PFOS and PFHxS, renal and fecal
+    This pattern is strongly related to chain length: Short-chain PFCA,
+                                                                                      clearances contributed almost equally to overall elimination. In
+specifically PFBA (n = 4 carbons) and PFHxA (n = 6 carbons), exhibit
+
+                                                                                 8
+C.ML. Argoul et al.                                                                                                           Environmental Research 303 (2026) 124802
+
+
+contrast, long-chain PFCA, such as PFNA and PFDA, were predomi­                      Prueksaritanont et al., 2017).
+nantly eliminated in feces, with renal clearance representing only 29%                   The reliability of our approach is reinforced by the close corre­
+and 7% of total clearance, respectively.                                             spondence between our clearance estimates for PFHxS, PFOS, PFBA,
+    Renal clearance of PFBS was shown to be nonlinear, with clearances               PFOA and PFNA and literature values from oral single-PFAS female mice
+and half-lives varying according to the free plasma concentration of                 TK studies: 1.3 vs. 2.7 mL/kg/day for PFHxS (Sundström et al., 2012),
+PFBS.                                                                                2.7 vs. 4.7 mL/kg/day for PFOS (Chang et al., 2012), 912 vs.
+    The model was improved and inter-individual variability reduced for              783 mL/kg/day for PFBA (Chang et al., 2008), 6.0 vs. 4.5 mL/kg/day for
+all PFAS, with the exception of PFBS, by incorporating urinary volume                PFOA (Lou et al., 2009) and 7.1 vs. 2.1 mL/kg/day for PFNA
+as a covariate to model urinary clearance. For most PFAS, the rela­                  (Tatum-Gibbs et al., 2011). This interpretation is further supported by
+tionship between diuresis and clearance was positive, with a significant             previous single-compound TK studies showing linear TK over dose
+increase in clearance with higher urinary output. On the contrary, a                 ranges encompassing those used in the present work. For example, linear
+statistically significant negative correlation was observed only for                 TK has been reported for PFNA over doses ranging from 2 to
+PFHxA.                                                                               21.5 μmol/kg (Tatum-Gibbs et al., 2011) and for PFBA up to
+                                                                                     140 μmol/kg (Chang et al., 2008). These ranges include the total PFAS
+3.3.3. Predictive value of mouse plasma clearance for humans                         doses administered in our mixture study (17.4 μmol/kg for the intra­
+   Using Eq. (4), allometric scaling of mouse clearance to predict                   venous route and 22 μmol/kg for the oral route), suggesting that
+human clearance yielded an allometric exponent (slope) of − 0.4138                   nonlinear processes such as transporter saturation were unlikely to
+when clearance was expressed per kilogram of BW and 0.5862 when                      significantly influence the estimated TK parameters. The median clear­
+clearance was not a priori scaled by BW. Table 3 gives the predicted                 ance values we obtained were generally lower than those reported by
+human plasma clearance values for the 11 PFAS investigated in mice.                  Zurlinden et al., 2025; Zurlinden et al., 2025), except for PFBA and
+Three predictions were generated: two using standard allometric expo­                PFHxA (Table S27). Unlike their meta-analysis pooling multiple studies,
+nents of − 0.25 (metabolic body weight) and − 0.33 (body surface area),              our data include plasma and urinary measurements under standardized
+and one optimal prediction based on the allometric coefficient estimated             conditions, providing additional information that plasma alone cannot
+from the observed data (− 0.4138). The ratio of measured human                       capture. Indeed, incorporating quantifiable urinary and fecal excretion
+clearance (Abraham et al., 2024) to predicted human clearance provides               data, especially at time points when plasma concentrations had fallen
+an estimate of the bias, which did not exceed a factor of 5. In contrast,            below the limit of quantification, allowed us to estimate not only urinary
+direct comparison of mouse and human clearances showed discrep­                      and fecal clearances, but also a much more robust total plasma clearance
+ancies of up to 120-fold for PFHxA.                                                  than would have not been possible using censored plasma concentration
+                                                                                     data alone. This explains why, all else being equal, our clearance esti­
+4. Discussion                                                                        mates were often lower than those reported by Zurlinden et al. (2025).
+                                                                                     PFBS provides an emblematic example of this difference. At high plasma
+    This study aimed not only to characterize the TK of 11 PFAS in mice              concentrations, our estimate of the maximal plasma clearance of PFBS
+in relation to their chemical structure, but also to derive quantitative             (2589 mL/kg/day) was similar to that reported by Zurlinden et al.
+parameters that could inform human exposure and PFAS elimination. By                 (2025), i.e. 1963 mL/kg/day with a 95% credible interval of
+examining how structural features affect plasma clearance, bioavail­                 1342-2613 mL/kg/day). However, when PFBS plasma concentrations
+ability, volume of distribution, and elimination routes, we sought to                declined to become lower than the limit of quantification, clearance
+identify generalizable trends relevant to human risk assessment. We also             could still be estimated from urinary excretion data, yielding a much
+showed that extrapolating numerical TK values from mice to humans is                 lower minimal value (22 mL/kg/day). In other words, this approach
+informative but requires ad hoc allometric scaling.                                  enabled us to demonstrate the strongly nonlinear TK of PFBS and to
+    The TK study was carried out using a cocktail approach involving                 propose a mechanistic explanation based on saturation of renal tubular
+intravenous and oral administration of a mixture of 11 PF AS, including              reabsorption. The absence of clear sex-related differences in PFAS TK in
+both PFCA and PFSA with alkyl chain length varying from 4 to 10 car­                 mice suggests that, despite being derived from females only, our results
+bons, as well as two representatives of the PFECA family. This meth­                 are likely to have broader applicability.
+odology offers clear advantages, notably a reduction in the number of                    Data analysis was performed using NLMEM, a powerful approach for
+animals used in line with the 3 R rule, and the ability to directly compare          simultaneously analyzing sparse and unbalanced data from both intra­
+the TK parameters across all 11 PFAS under identical experimental                    venous and oral administrations (Aarons, 1993; Aarons and Graham,
+conditions (Frick et al., 1998; Nguyen et al., 2016). More importantly,              2001; Hing et al., 2001a, 2001b, 2002). While NCA can provide useful
+biomonitoring studies have confirmed widespread human exposure to                    preliminary insights, it is often limited (or even misleading) when data
+multiple PFAS, supporting the relevance of the mixture approach as a                 are censored or when the terminal phase is poorly defined. In such cases,
+more realistic model of human exposure scenarios (Eriksson et al., 2017;             estimates of terminal half-life and the associated volume of distribution
+Fillol et al., 2021; Göckener et al., 2020). In this context, cocktail stra­        (i.e., Varea) can be unrealistic. These issues are far less likely with
+tegies have been widely used in pharmacology to simultaneously assess                NLMEM, particularly when simultaneously fitting plasma, urine, and
+the pharmacokinetics of multiple compounds and have been shown to                    fecal data from both IV and oral administration routes. Moreover,
+generate robust and informative data while reducing experimental                     NLMEM enables the development of structural compartmental models
+burden and supporting the 3 R principles (Allen et al., 1998;                        with mechanistic relevance. This was especially valuable for PFBS,
+
+
+Table 4
+Unbound fractions (fu), estimated glomerular filtration clearances (Clfg), and measured renal clearances (ClR) of PFAS in mice.
+                        PFBA          PFBS            PFHxA          PFHxS           PFOA          PFOS          PFNA             PFDA       GenX          PFO2OA
+
+  Fu(%)                   77a         29                25             1.3            0.87          0.25          0.35             0.42        26            10
+  Clfg(mL/kg/d)         7700          2900            2500           130             87            25            35               42         2600          1000
+  ClR(mL/kg/d)           783          22-2589         6780             0.589          3.59          1.24          0.6              0.13       269          1533
+  a
+    The unbound fractions of PFAS are derived from our previous study (unpublished observations), with the exception of PFBA, for which the fu value was reported by
+Ryu et al. (2024). The glomerular filtration clearance was estimated as the product of fu with the glomerular filtration rate (GFR), assumed to be 11 mL/kg/min (Qi
+et al., 2004b).
+
+                                                                                 9
+C.ML. Argoul et al.                                                                                                     Environmental Research 303 (2026) 124802
+
+
+which showed clear nonlinear kinetics. For this compound, we devel­               renal clearance to plasma clearance), as well as PFOA (79%) and PFDS
+oped a physiologically grounded model incorporating the glomerular                (70%). Urinary and fecal clearances contributed equally to the overall
+filtration rate (GFR) and the unbound plasma fraction (fu) to predict             elimination of PFOS and PFHxS. In contrast, fecal clearance of PFNA and
+PFBS disposition. The model highlighted a major role for proximal                 PFDA appeared to be the primary route of elimination, representing 71%
+tubular reabsorption, which appeared saturable. This explains the very            and 93% of total clearance. These results are consistent with those re­
+high initial plasma clearance observed after intravenous but not oral             ported previously by (Fujii et al., 2015), showing that short-chain PFCA
+dosing, and the subsequent near-complete reabsorption at lower free               (C6, C7) were rapidly eliminated in urine, while longer-chain PFCA
+plasma PFBS concentrations, leading to a marked decline in renal                  (C8–C14) were slowly excreted in feces during the 24 h following IV and
+elimination and a prolonged persistence of residual PFBS in the body.             oral administrations (Fujii et al., 2015). Rapid and almost complete
+     Based on this NLMEM, the estimated oral bioavailability of all               elimination of GenX in the urine has also already been described by
+examined PFAS was high, ranging from 54% for PFHxA to 100% for                    (Gannon et al., 2016), with 31% and 39% of the dose recovered in the
+PFHxS and GenX, with no clear pattern associated with PFAS family or              urine of male and female mice 12 h after administration, and about 90%
+chain length. These findings are consistent with prior observations of            recovered after 7 days. Further studies focusing on transporter in­
+efficient intestinal absorption of PFAS in rats (Kudo and Kawashima,              teractions would be required to clarify the relationship between PFAS
+2003) and humans (Abraham et al., 2024).                                          structure and elimination pathways.
+     Except for PFHxA, the Vss of all tested PFAS were low, ranging from              Because urine is a major elimination route for most PFAS, we
+0.062 L/kg for PFHxS to 0.48 L/kg for PFO2OA. These values align with             examined their renal handling in mice by comparing measured renal
+those previously reported in rats (Chang et al., 2008; Gannon et al.,             clearance with glomerular filtration clearance, estimated as the product
+2016; Huang et al., 2019; Kim et al., 2016; Sundström et al., 2012;              of fu with GFR, assumed to be 10 L/kg.d (Qi et al., 2004). For PFO2OA,
+Tatum-Gibbs et al., 2011), monkeys (Butenhoff et al., 2004; Chang et al.,         renal clearance was of the same order as Clfg (Table 4), indicating
+2008; Sundström et al., 2012), and humans (Abraham et al., 2024). In             elimination by filtration alone. PFHxA renal clearance exceeded that of
+contrast, PFHxA (a high-clearance PFAS) exhibited a notably higher Vss            Clfg, consistent with active tubular secretion, a process also reported in
+of 4.0 L/kg in our study. Multicompartmental modeling indicated the               humans (Abraham et al., 2024). For all other PFAS, renal clearance was
+presence of a relatively large, deep compartment (volume: 3.8 L/kg),              below Clfg, suggesting tubular reabsorption. This reabsorption may be
+which accounts for this elevated Vss. This value is significantly higher          driven by concentration gradients resulting from water reabsorption, as
+than values previously reported in female rats following oral dosing              supported by the positive association between urinary flow and clear­
+(0.47 L/kg) (Chengelis et al., 2009). These findings suggest that, while          ance for PFHxS, PFOA, PFOS, PFNA, GenX, and PFDA. Increased diuresis
+the distribution of most PFAS is largely limited to extracellular spaces,         likely reduces reabsorption through dilution or, more likely, a bulk flow.
+PFHxA undergoes additional very slow distribution into a deep                     This mechanism is supported by studies showing that mannitol infusion
+compartment. This is supported by the low distributional clearance                markedly increased PFOA clearance in mice (Katakura et al., 2007). In
+(88 mL/kg/day) and the prolonged terminal half-life of PFHxA (22.8                contrast, PFHxA showed a negative correlation between diuresis and
+days), despite its relatively short MRT of 0.63 days. The case of PFHxA           clearance, possibly due to shortened proximal tubule transit time or
+illustrates that the short, 1-day follow-up period for plasma PFHxA               disruption of transporter function and ion gradients needed for active
+quantification failed to capture this deep distribution phase, which              secretion. Abraham et al. (2024) also reported higher urinary clearances
+became evident only through urine data detectable up to 8 days (IV) and           for short-chain PFAS and PFECA compared to long chains, following oral
+15 days (oral). This case also illustrates that, for a PFAS exhibiting            administration to a single human volunteer. Consistent with our find­
+multicompartmental disposition, the terminal half-life is not a reliable          ings, urinary clearances of MPFBA and MPFHxA were close to their
+metric for assessing persistence in the body, and that MRT should always          respective total clearances (Abraham et al., 2024). In contrast, the
+be preferred to more accurately express the overall compound                      contribution of urinary clearance to total clearance for GenX was much
+persistence.                                                                      lower than what we observed in our study.
+     The plasma clearance of PFCA was shown to decrease with                          Mice and humans differ markedly in physiological parameters
+increasing carbon chain length, ranging from 6 to 10, in accordance with          affecting TK, making direct interspecies comparisons of clearance (e.g.,
+previous data from (Ohmori et al., 2003) in rats. In contrast, the three          L/kg/day) misleading without scaling. Allometric scaling of PFAS
+long-chain PFSA investigated (C6–C10) all exhibit uniformly low                   clearance in mice gave reasonably accurate predictions of human
+clearance. The lower elimination rate of long-chain PFAS from 6 per­              plasma clearance (per kg). When clearance was not pre-scaled by BW,
+fluorinated carbons for PFSA and 7 perfluorinated carbons for PFCA                we estimated an allometric exponent of − 0.414 (95% CI, − 0.510 to
+compared to short chains has already been reported in other studies               − 0.317) for BW-normalized plasma clearance. This corresponds to an
+(Huang et al., 2019; Ohmori et al., 2003). By comparing families, the             exponent of 0.59 for absolute clearance, which is closer to the value
+very large difference of clearance between the two representatives of the         expected from scaling by body surface area (approximately 0.66, i.e.
+PFCA and PFSA families with 6 carbon atoms, PFHxA (5 perfluorinated               − 0.34 on a per-kg basis) than from the classical metabolic body-weight
+carbons) and PFHxS (6 perfluorinated carbons), with respectively the              relationship (0.75, i.e. − 0.25 on a per-kg basis). This is consistent with
+highest (6780 mL/kg/d) and the lowest (1.3 mL/kg/d) plasma clearance              the fact that PFAS are negligibly metabolized and that their elimination
+values, suggests that clearance is more related to the number of per­             is governed primarily by excretory processes. Renal clearance is highly
+fluorinated carbons than to the total number of carbons.                          species-dependent and may be influenced by differences in transporter
+     The mean residence time of the different PFAS depends mainly on              expression, such as organic anion transporters (OATs), which could be
+plasma clearance, as Vss were relatively similar across PFAS, and                 overexpressed in mice relative to humans.
+increased with carbon chain length of both PFCA and PFSA, ranging
+from 0.18 days for PFBA to 68 days for PFDA. For PFBS, due to the                 5. Conclusion
+nonlinearity of the disposition, the MRT varied from a minimum of
+0.067 days (about 1.6 h) to a very large value (≫100 days), exceeding                 This study provides a detailed characterization of the toxicokinetic
+those reported for other PFAS.                                                    profile of 11 PFAS in mice, demonstrating major differences in elimi­
+     Thanks to NLMEM, it was possible to assess the relative contributions        nation pathways between short- and long-chain compounds. The results
+of urinary and fecal clearance to overall PFAS elimination. Urine was the         also offer valuable data for emerging compounds such as ether de­
+main route of elimination for 7 PF AS, with complete or near-complete             rivatives of PFCA, whose clearance values, although elevated, were
+elimination in urine for the low-persistence PFAS, including PFBS,                lower than that of PFHxA, their PFCA counterpart of equivalent carbon
+PFBA, PFHxA, PFO2OA, and GenX (98%–100% of the contribution of                    chain length, by approximately 25-fold for GenX and 4-fold for PFO2OA.
+
+                                                                             10
+C.ML. Argoul et al.                                                                                                                                  Environmental Research 303 (2026) 124802
+
+
+For most PFAS, urinary elimination predominated, underscoring renal                                 Argoul, C.M., Toutain, P.-L., Berard, S., Picard-Hagen, N., Gayrard, V., Lacroix, M.Z.,
+                                                                                                         2025. Structure-related differences in plasma protein binding of per- and
+handling as a key determinant of persistence. In addition, appropriate
+                                                                                                         polyfluoroalkyl substances in mice and humans. Environ. Toxicol. Pharmacol. 120,
+physiological or allometric scaling of murine clearance allowed                                          104879. https://doi.org/10.1016/j.etap.2025.104879.
+reasonable predictions of human values, providing valuable insights for                             Benet, L.Z., Zia-Amirhosseini, P., 1995. Basic principles of pharmacokinetics. Toxicol.
+PFAS risk assessment.                                                                                    Pathol. 23, 115–123. https://doi.org/10.1177/019262339502300203.
+                                                                                                    Buck, R.C., Franklin, J., Berger, U., Conder, J.M., Cousins, I.T., de Voogt, P., Jensen, A.A.,
+                                                                                                         Kannan, K., Mabury, S.A., van Leeuwen, S.P., 2011. Perfluoroalkyl and
+Funding                                                                                                  polyfluoroalkyl substances in the environment: terminology, classification, and
+                                                                                                         origins. Integrated Environ. Assess. Manag. 7, 513–541. https://doi.org/10.1002/
+                                                                                                         ieam.258.
+   The study was funded by the French National Research Program for                                 Butenhoff, J.L., Kennedy, G.L., Hinderliter, P.M., Lieder, P.H., Jung, R., Hansen, K.J.,
+Environmental and Occupational Health of ANSES [grant number 2021/                                       Gorman, G.S., Noker, P.E., Thomford, P.J., 2004. Pharmacokinetics of
+                                                                                                         perfluorooctanoate in cynomolgus monkeys. Toxicol. Sci. Off. J. Soc. Toxicol. 82,
+1/226] and the French National Research Agency (ANR) program
+                                                                                                         394–406. https://doi.org/10.1093/toxsci/kfh302.
+LiTEN.                                                                                              Chang, S.-C., Das, K., Ehresman, D.J., Ellefson, M.E., Gorman, G.S., Hart, J.A., Noker, P.
+                                                                                                         E., Tan, Y.-M., Lieder, P.H., Lau, C., Olsen, G.W., Butenhoff, J.L., 2008. Comparative
+                                                                                                         pharmacokinetics of perfluorobutyrate in rats, mice, monkeys, and humans and
+CRediT authorship contribution statement                                                                 relevance to human exposure via drinking water. Toxicol. Sci. 104, 40–53. https://
+                                                                                                         doi.org/10.1093/toxsci/kfn057.
+    Chloé ML. Argoul: Conceptualization, Investigation, Writing –                                  Chang, S.-C., Noker, P.E., Gorman, G.S., Gibson, S.J., Hart, J.A., Ehresman, D.J.,
+                                                                                                         Butenhoff, J.L., 2012. Comparative pharmacokinetics of perfluorooctanesulfonate
+original draft, Writing – review & editing. Pierre-Louis Toutain:
+                                                                                                         (PFOS) in rats, mice, and monkeys. Reprod. Toxicol. 33, 428–440. https://doi.org/
+Conceptualization, Investigation, Writing – original draft, Writing – re­                                10.1016/j.reprotox.2011.07.002.
+view & editing. Nicole Picard-Hagen: Conceptualization, Writing –                                   Chengelis, C.P., Kirkpatrick, J.B., Myers, N.R., Shinohara, M., Stetson, P.L., Sved, D.W.,
+review & editing. Laila Mselli-Lakhal: Investigation, Writing – review                                   2009. Comparison of the toxicokinetic behavior of perfluorohexanoic acid (PFHxA)
+                                                                                                         and nonafluorobutane-1-sulfonic acid (PFBS) in cynomolgus monkeys and rats.
+& editing. Yannick Dauwe: Investigation. Béatrice B. Roques:                                            Reprod. Toxicol., Recent Advances in Perfluoroalkyl Acid Research 27, 400–406.
+Conceptualization, Writing – review & editing. Marlène Z. Lacroix:                                      https://doi.org/10.1016/j.reprotox.2009.01.013.
+Conceptualization, Investigation, Writing – original draft, Writing – re­                           Dawson, D.E., Lau, C., Pradeep, P., Sayre, R.R., Judson, R.S., Tornero-Velez, R.,
+                                                                                                         Wambaugh, J.F., 2023. A machine learning model to estimate toxicokinetic half-
+view & editing. Véronique Gayrard: Conceptualization, Funding                                           lives of Per- and polyfluoro-alkyl substances (PFAS) in multiple species. Toxics 11,
+acquisition, Investigation, Writing – original draft, Writing – review &                                 98. https://doi.org/10.3390/toxics11020098.
+editing.                                                                                            EFSA CONTAM Panel, Schrenk, D., Bignami, M., Bodin, L., Chipman, J.K., del Mazo, J.,
+                                                                                                         Grasl-Kraupp, B., Hogstrand, C., Hoogenboom, L. (Ron), Leblanc, J.-C., Nebbia, C.S.,
+                                                                                                         Nielsen, E., Ntzani, E., Petersen, A., Sand, S., Vleminckx, C., Wallace, H.,
+                                                                                                         Barregård, L., Ceccatelli, S., Cravedi, J.-P., Halldorsson, T.I., Haug, L.S.,
+Declaration of Competing Interest                                                                        Johansson, N., Knutsen, H.K., Rose, M., Roudot, A.-C., Van Loveren, H., Vollmer, G.,
+                                                                                                         Mackay, K., Riolo, F., Schwerdtle, T., 2020. Risk to human health related to the
+    The authors declare that they have no known competing financial                                      presence of perfluoroalkyl substances in food. EFSA J. 18, e06223. https://doi.org/
+                                                                                                         10.2903/j.efsa.2020.6223.
+interests or personal relationships that could have appeared to influence
+                                                                                                    Eriksson, U., Mueller, J.F., Toms, L.-M.L., Hobson, P., Kärrman, A., 2017. Temporal
+the work reported in this paper.                                                                         trends of PFSAs, PFCAs and selected precursors in Australian serum from 2002 to
+                                                                                                         2013. Environ. Pollut. 220, 168–177. https://doi.org/10.1016/j.
+                                                                                                         envpol.2016.09.036.
+Acknowledgements                                                                                    Evich, M.G., Davis, M.J.B., McCord, J.P., Acrey, B., Awkerman, J.A., Knappe, D.R.U.,
+                                                                                                         Lindstrom, A.B., Speth, T.F., Stevens, C.T., Strynar, M.J., Wang, Z., Weber, E.J.,
+   We gratefully acknowledge Laura Lamireau for her valuable contri­                                     Henderson, W.M., Washington, J.W., 2022. Per- and polyfluoroalkyl substances in
+                                                                                                         the environment. Science 375. https://doi.org/10.1126/science.abg9065 eabg9065.
+bution to the experimental studies.
+                                                                                                    Fillol, C., Oleko, A., Saoudi, A., Zeghnoun, A., Balicco, A., Gane, J., Rambaud, L.,
+                                                                                                         Leblanc, A., Gaudreau, É., Marchand, P., Le Bizec, B., Bouchart, V., Le Gléau, F.,
+Appendix A. Supplementary data                                                                           Durand, G., Denys, S., 2021. Exposure of the French population to bisphenols,
+                                                                                                         phthalates, parabens, glycol ethers, brominated flame retardants, and perfluorinated
+                                                                                                         compounds in 2014–2016: results from the esteban study. Environ. Int. 147, 106340.
+   Supplementary data to this article can be found online at https://doi.                                https://doi.org/10.1016/j.envint.2020.106340.
+org/10.1016/j.envres.2026.124802.                                                                   Frick, L.W., Adkison, K.K., Wells-Knecht, K.J., Woollard, P., Higton, D.M., 1998. Cassette
+                                                                                                         dosing: rapid In Vivo assessment of pharmacokinetics. Pharmaceut. Sci. Technol.
+                                                                                                         Today 1, 12–18. https://doi.org/10.1016/S1461-5347(98)00010-8.
+Data availability                                                                                   Fujii, Y., Niisoe, T., Harada, K.H., Uemoto, S., Ogura, Y., Takenaka, K., Koizumi, A.,
+                                                                                                         2015. Toxicokinetics of perfluoroalkyl carboxylic acids with different carbon chain
+                                                                                                         lengths in mice and humans. J. Occup. Health 57, 1–12. https://doi.org/10.1539/
+    Data will be made available on request.
+                                                                                                         joh.14-0136-OA.
+                                                                                                    Gaines, L.G.T., 2023. Historical and current usage of per- and polyfluoroalkyl substances
+References                                                                                               (PFAS): a literature review. Am. J. Ind. Med. 66, 353–378. https://doi.org/10.1002/
+                                                                                                         ajim.23362.
+                                                                                                    Gannon, S.A., Fasano, W.J., Mawn, M.P., Nabb, D.L., Buck, R.C., Buxton, L.W., Jepson, G.
+Aarons, L., 1993. Sparse data analysis. Eur. J. Drug Metab. Pharmacokinet. 18, 97–100.
+                                                                                                         W., Frame, S.R., 2016. Absorption, distribution, metabolism, excretion, and kinetics
+    https://doi.org/10.1007/BF03220012.
+                                                                                                         of 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoic acid ammonium salt
+Aarons, L., Graham, G., 2001. Methodological approaches to the population analysis of
+                                                                                                         following a single dose in rat, mouse, and cynomolgus monkey. Toxicology 340, 1–9.
+    toxicity data. Toxicol. Lett. 120, 405–410. https://doi.org/10.1016/S0378-4274(01)
+                                                                                                         https://doi.org/10.1016/j.tox.2015.12.006.
+    00272-7.
+                                                                                                    Gayrard, V., Moreau, J., Picard-Hagen, N., Helies, V., Marchand, P., Antignac, J.-P.,
+Abraham, K., Mertens, H., Richter, L., Mielke, H., Schwerdtle, T., Monien, B.H., 2024.
+                                                                                                         Toutain, P.-L., Leandri, R., 2021. Use of mixture dosing and nonlinear mixed effect
+    Kinetics of 15 per- and polyfluoroalkyl substances (PFAS) after single oral
+                                                                                                         modeling of eight environmental contaminants in rabbits to improve extrapolation
+    application as a mixture – a pilot investigation in a Male volunteer. Environ. Int. 193,
+                                                                                                         value of toxicokinetic data. Environ. Health Perspect. 129, 117006. https://doi.org/
+    109047. https://doi.org/10.1016/j.envint.2024.109047.
+                                                                                                         10.1289/EHP8957.
+Allen, M.C., Shah, T.S., Day, W.W., 1998. Rapid determination of oral pharmacokinetics
+                                                                                                    Göckener, B., Weber, T., Rüdel, H., Bücking, M., Kolossa-Gehring, M., 2020. Human
+    and plasma free fraction using cocktail approaches: methods and application. Pharm.
+                                                                                                         biomonitoring of per- and polyfluoroalkyl substances in German blood plasma
+    Res. 15, 93–97. https://doi.org/10.1023/a:1011909022226.
+                                                                                                         samples from 1982 to 2019. Environ. Int. 145, 106123. https://doi.org/10.1016/j.
+Andersen, M.E., Clewell, H.J., Tan, Y.-M., Butenhoff, J.L., Olsen, G.W., 2006.
+                                                                                                         envint.2020.106123.
+    Pharmacokinetic modeling of saturable, renal resorption of perfluoroalkylacids in
+                                                                                                    Giesy, J.P., Kannan, K., 2001. Global distribution of perfluorooctane sulfonate in wildlife.
+    monkeys—Probing the determinants of long plasma half-lives. Toxicology 227,
+                                                                                                         Environ. Sci. Technol. 35, 1339–1342. https://doi.org/10.1021/es001834k.
+    156–164. https://doi.org/10.1016/j.tox.2006.08.004.
+                                                                                                    Gomis, M.I., Vestergren, R., Borg, D., Cousins, I.T., 2018. Comparing the toxic potency in
+Argoul, C.M., Dauwe, Y., Lakhal, L., Toutain, P.-L., Picard-Hagen, N., Gayrard, V.,
+                                                                                                         vivo of long-chain perfluoroalkyl acids and fluorinated alternatives. Environ. Int.
+    Lacroix, M.Z., 2024. Development of an LC-MS/MS method for the simultaneous
+                                                                                                         113, 1–9. https://doi.org/10.1016/j.envint.2018.01.011.
+    quantification of 11 perfluoroalkyl compounds in mouse plasma for toxicokinetic
+    applications. J. Pharm. Biomed. Anal. 255, 116596. https://doi.org/10.1016/j.
+    jpba.2024.116596.
+
+
+                                                                                               11
+C.ML. Argoul et al.                                                                                                                                   Environmental Research 303 (2026) 124802
+
+Han, X., Nabb, D.L., Russell, M.H., Kennedy, G.L., Rickard, R.W., 2012. Renal elimination            Pizzurro, D.M., Seeley, M., Kerper, L.E., Beck, B.D., 2019. Interspecies differences in
+    of perfluorocarboxylates (PFCAs). Chem. Res. Toxicol. 25, 35–46. https://doi.org/                    perfluoroalkyl substances (PFAS) toxicokinetics and application to health-based
+    10.1021/tx200363w.                                                                                   criteria. Regul. Toxicol. Pharmacol. 106, 239–250. https://doi.org/10.1016/j.
+Hing, J.P., Woolfrey, S.G., Greenslade, D., Wright, P.M., 2001a. Analysis of toxicokinetic               yrtph.2019.05.008.
+    data using NONMEM: impact of quantification limit and replacement strategies for                 Prevedouros, K., Cousins, I.T., Buck, R.C., Korzeniowski, S.H., 2006. Sources, fate and
+    censored data. J. Pharmacokinet. Pharmacodyn. 28, 465–479. https://doi.org/                          transport of perfluorocarboxylates. Environ. Sci. Technol. 40, 32–44. https://doi.
+    10.1023/a:1012247131190.                                                                             org/10.1021/es0512475.
+Hing, J.P., Woolfrey, S.G., Greenslade, D., Wright, P.M., 2001b. Is mixed effects                    Prueksaritanont, T., Tatosian, D.A., Chu, X., Railkar, R., Evers, R., Chavez-Eng, C.,
+    modeling or naïve pooled data analysis preferred for the interpretation of single                    Lutz, R., Zeng, W., Yabut, J., Chan, G.H., Cai, X., Latham, A.H., Hehman, J.,
+    sample per subject toxicokinetic data? J. Pharmacokinet. Pharmacodyn. 28,                            Stypinski, D., Brejda, J., Zhou, C., Thornton, B., Bateman, K.P., Fraser, I., Stoch, S.A.,
+    193–210. https://doi.org/10.1023/a:1011507100493.                                                    2017. Validation of a microdose probe drug cocktail for clinical drug interaction
+Hing, J.P., Woolfrey, S.G., Greenslade, D., Wright, P.M.C., 2002. Distinguishing animal                  assessments for drug transporters and CYP3A. Clin. Pharmacol. Ther. 101, 519–530.
+    subsets in toxicokinetic studies: comparison of non-linear mixed effects modelling                   https://doi.org/10.1002/cpt.525.
+    with non-compartmental methods. J. Appl. Toxicol. JAT 22, 437–443. https://doi.                  Qi, Z., Whitt, I., Mehta, A., Jin, J., Zhao, M., Harris, R.C., Fogo, A.B., Breyer, M.D., 2004.
+    org/10.1002/jat.883.                                                                                 Serial determination of glomerular filtration rate in conscious mice using FITC-Inulin
+Houde, M., Bujas, T.A.D., Small, J., Wells, R.S., Fair, P.A., Bossart, G.D., Solomon, K.R.,              clearance. Am. J. Physiol. Ren. Physiol. 286, F590–F596. https://doi.org/10.1152/
+    Muir, D.C.G., 2006. Biomagnification of perfluoroalkyl compounds in the bottlenose                   ajprenal.00324.2003.
+    dolphin (Tursiops truncatus) food web. Environ. Sci. Technol. 40, 4138–4144.                     Ryu, S., Burchett, W., Zhang, S., Modaresi, S.M.S., Agudelo Areiza, J., Kaye, E.,
+    https://doi.org/10.1021/es060233b.                                                                   Fischer, F.C., Slitt, A.L., 2024. Species-specific unbound fraction differences in highly
+Huang, M.C., Dzierlenga, A.L., Robinson, V.G., Waidyanatha, S., DeVito, M.J., Eifrid, M.                 bound PFAS: a comparative study across human, rat, and mouse plasma and
+    A., Granville, C.A., Gibbs, S.T., Blystone, C.R., 2019. Toxicokinetics of                            albumin. Toxics 12, 253. https://doi.org/10.3390/toxics12040253.
+    perfluorobutane sulfonate (PFBS), perfluorohexane-1-sulphonic acid (PFHxS), and                  Sundström, M., Chang, S.-C., Noker, P.E., Gorman, G.S., Hart, J.A., Ehresman, D.J.,
+    perfluorooctane sulfonic acid (PFOS) in Male and female hsd:sprague dawley SD rats                   Bergman, Å., Butenhoff, J.L., 2012. Comparative pharmacokinetics of
+    after intravenous and gavage administration. Toxicol. Rep. 6, 645–655. https://doi.                  perfluorohexanesulfonate (PFHxS) in rats, mice, and monkeys. Reprod. Toxicol., A
+    org/10.1016/j.toxrep.2019.06.016.                                                                    Second Special Issue on Recent Advances in Perfluoroalkyl Acid Research 33,
+Katakura, M., Kudo, N., Tsuda, T., Hibino, Y., Mitsumoto, A., Kawashima, Y., 2007. Rat                   441–451. https://doi.org/10.1016/j.reprotox.2011.07.004.
+    organic anion transporter 3 and organic anion transporting polypeptide 1 mediate                 Tatum-Gibbs, K., Wambaugh, J.F., Das, K.P., Zehr, R.D., Strynar, M.J., Lindstrom, A.B.,
+    perfluorooctanoic acid transport. J. Health Sci. 53, 77–83. https://doi.org/10.1248/                 Delinsky, A., Lau, C., 2011. Comparative pharmacokinetics of perfluorononanoic
+    jhs.53.77.                                                                                           acid in rat and mouse. Toxicology 281, 48–55. https://doi.org/10.1016/j.
+Kim, S.-J., Heo, S.-H., Lee, D.-S., Hwang, I.G., Lee, Y.-B., Cho, H.-Y., 2016. Gender                    tox.2011.01.003.
+    differences in pharmacokinetics and tissue distribution of 3 perfluoroalkyl and                  Trudel, D., Horowitz, L., Wormuth, M., Scheringer, M., Cousins, I.T., Hungerbühler, K.,
+    polyfluoroalkyl substances in rats. Food Chem. Toxicol. 97, 243–255. https://doi.                    2008. Estimating consumer exposure to PFOS and PFOA. Risk Anal. 28, 251–269.
+    org/10.1016/j.fct.2016.09.017.                                                                       https://doi.org/10.1111/j.1539-6924.2008.01017.x.
+Kudo, N., Kawashima, Y., 2003. Toxicity and toxicokinetics of perfluorooctanoic acid in              Wang, Z., Cousins, I.T., Scheringer, M., Hungerbühler, K., 2013. Fluorinated alternatives
+    humans and animals. J. Toxicol. Sci. 28, 49–57. https://doi.org/10.2131/jts.28.49.                   to long-chain perfluoroalkyl carboxylic acids (PFCAs), perfluoroalkane sulfonic acids
+Lau, C., Anitole, K., Hodes, C., Lai, D., Pfahles-Hutchens, A., Seed, J., 2007.                          (PFSAs) and their potential precursors. Environ. Int. 60, 242–248. https://doi.org/
+    Perfluoroalkyl acids: a review of monitoring and toxicological findings. Toxicol. Sci.               10.1016/j.envint.2013.08.021.
+    99, 366–394. https://doi.org/10.1093/toxsci/kfm128.                                              Wang, Z., DeWitt, J.C., Higgins, C.P., Cousins, I.T., 2017. A never-ending story of Per-
+Lou, I., Wambaugh, J.F., Lau, C., Hanson, R.G., Lindstrom, A.B., Strynar, M.J., Zehr, R.D.,              and polyfluoroalkyl substances (PFASs)? Environ. Sci. Technol. 51, 2508–2518.
+    Setzer, R.W., Barton, H.A., 2009. Modeling single and repeated dose                                  https://doi.org/10.1021/acs.est.6b04806.
+    pharmacokinetics of PFOA in mice. Toxicol. Sci. Off. J. Soc. Toxicol. 107, 331–341.              Wijk, M., Wasmann, R.E., Jacobson, K.R., Svensson, E.M., Denti, P., 2025. A pragmatic
+    https://doi.org/10.1093/toxsci/kfn234.                                                               approach to handling censored data below the lower limit of quantification in
+Nguyen, T.T., Bénech, H., Pruvost, A., Lenuzza, N., 2016. A limited sampling strategy                   pharmacokinetic modeling. CPT Pharmacometrics Syst. Pharmacol. 14, 1042–1049.
+    based on maximum a posteriori Bayesian estimation for a five-probe phenotyping                       https://doi.org/10.1002/psp4.70015.
+    cocktail. Eur. J. Clin. Pharmacol. 72, 39–51. https://doi.org/10.1007/s00228-015-                Xu, Y., Fletcher, T., Pineda, D., Lindh, C.H., Nilsson, C., Glynn, A., Vogs, C., Norström, K.,
+    1953-5.                                                                                              Lilja, K., Jakobsson, K., Li, Y., 2020. Serum half-Lives for Short- and long-chain
+Ohmori, K., Kudo, N., Katayama, K., Kawashima, Y., 2003. Comparison of the                               Perfluoroalkyl acids after ceasing exposure from drinking water contaminated by
+    toxicokinetics between perfluorocarboxylic acids with different carbon chain length.                 Firefighting foam. Environ. Health Perspect. 128, 77004. https://doi.org/10.1289/
+    Toxicology 184, 135–140. https://doi.org/10.1016/S0300-483X(02)00573-5.                              EHP6785.
+Olsen, G.W., Burris, J.M., Ehresman, D.J., Froehlich, J.W., Seacat, A.M., Butenhoff, J.L.,           Zhang, B., Wei, Z., Gu, C., Yao, Y., Xue, J., Zhu, H., Kannan, K., Sun, H., Zhang, T., 2022.
+    Zobel, L.R., 2007. Half-life of serum elimination of Perfluorooctanesulfonate,                       First evidence of prenatal exposure to emerging Poly- and Perfluoroalkyl substances
+    Perfluorohexanesulfonate, and perfluorooctanoate in retired fluorochemical                           associated with E-Waste dismantling: Chemical structure-based placental transfer
+    production workers. Environ. Health Perspect. 115, 1298–1305. https://doi.org/                       and health risks. Environ. Sci. Technol. 56, 17108–17118. https://doi.org/10.1021/
+    10.1289/ehp.10009.                                                                                   acs.est.2c05925.
+Olsen, G.W., Chang, S.-C., Noker, P.E., Gorman, G.S., Ehresman, D.J., Lieder, P.H.,                  Zhang, Y., Beesoon, S., Zhu, L., Martin, J.W., 2013. Biomonitoring of Perfluoroalkyl acids
+    Butenhoff, J.L., 2009. A comparison of the pharmacokinetics of                                       in human urine and estimates of biological half-life. Environ. Sci. Technol. 47,
+    perfluorobutanesulfonate (PFBS) in rats, monkeys, and humans. Toxicology 256,                        10619–10627. https://doi.org/10.1021/es401905e.
+    65–74. https://doi.org/10.1016/j.tox.2008.11.008.                                                Zhu, Y., Pan, X., Jia, Y., Yang, X., Song, X., Ding, J., Zhong, W., Feng, J., Zhu, L., 2023.
+Pan, Y., Zhang, H., Cui, Q., Sheng, N., Yeung, L.W.Y., Guo, Y., Sun, Y., Dai, J., 2017. First            Exploring route-specific pharmacokinetics of PFAS in mice by coupling in vivo tests
+    report on the occurrence and bioaccumulation of hexafluoropropylene oxide trimer                     and physiologically based toxicokinetic models. Environ. Health Perspect. 131,
+    acid: an emerging concern. Environ. Sci. Technol. 51, 9553–9560. https://doi.org/                    127012. https://doi.org/10.1289/EHP11969.
+    10.1021/acs.est.7b02259.                                                                         Zurlinden, T.J., Dzierlenga, M.W., Kapraun, D.F., Ring, C., Bernstein, A.S., Schlosser, P.
+Pan, Y., Zhang, H., Cui, Q., Sheng, N., Yeung, L.W.Y., Sun, Y., Guo, Y., Dai, J., 2018.                  M., Morozov, V., 2025. Estimation of species- and sex-specific PFAS
+    Worldwide distribution of novel perfluoroether carboxylic and sulfonic acids in                      pharmacokinetics in mice, rats, and non-human primates using a Bayesian
+    surface water. Environ. Sci. Technol. 52, 7621–7629. https://doi.org/10.1021/acs.                    hierarchical methodology. Toxicol. Appl. Pharmacol. 499, 117336. https://doi.org/
+    est.8b00829.                                                                                         10.1016/j.taap.2025.117336.
+
+
+
+
+                                                                                                12
+

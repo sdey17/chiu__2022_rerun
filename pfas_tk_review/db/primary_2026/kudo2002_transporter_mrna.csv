@@ -1,0 +1,7 @@
+transporter,direction,male_over_female_fold,female_over_male_fold,hormonal_response,correlates_with_renal_clearance,transports_pfoa_direct_assay,source
+oatp1 (Oatp1a1),apical / reabsorptive,23.0,,"castration and estradiol reduce it in males; testosterone raises it in females and castrated males",inverse in males only,"YES - Weaver 2010 Fig 5, C8-C10","Kudo 2002 Fig 4A, p.310"
+oatp2,-,1.0,,no difference across all eight groups,no,no,"Kudo 2002 Fig 4B"
+OAT-K,apical,2.5,,"castration and estradiol reduce it in males; unchanged in females",not tested,not tested,"Kudo 2002 Fig 4C"
+OAT2,basolateral / secretory,,7.5,"castration and estradiol raise it in males; testosterone lowers it; unchanged in females",positive in males (multiple regression),"NO - Weaver 2010 Fig 9A, no net uptake of C7-C10","Kudo 2002 Fig 3B; abstract gives male = 13% of female (7.7x)"
+OAT3,basolateral / secretory,,,"ovariectomy roughly doubles it; otherwise flat","positive; highest regression coefficient","YES - Weaver 2010, C8-C9","Kudo 2002 Fig 3C"
+OAT1,basolateral / secretory,,,"no difference among male groups; slightly lower in females",not significant,"YES - Weaver 2010, Km C8 = 43.2 uM","Kudo 2002 Fig 3A"

@@ -1,0 +1,682 @@
+TOXICOLOGICAL SCIENCES 107(2), 331–341 (2009)
+doi:10.1093/toxsci/kfn234
+Advance Access publication November 12, 2008
+
+
+
+
+Modeling Single and Repeated Dose Pharmacokinetics of PFOA in Mice
+     Inchio Lou,* John F. Wambaugh,* Christopher Lau,†,1 Roger G. Hanson,† Andrew B. Lindstrom,‡ Mark J. Strynar,‡
+                              R. Dan Zehr,† R. Woodrow Setzer,* and Hugh A. Barton*,2
+
+
+
+
+                                                                                                                                                        Downloaded from academic.oup.com/toxsci/article/107/2/331/1680685 by Applied Life Studies Library user on 02 October 2026
+ *National Center for Computational Toxicology; †Reproductive Toxicology Division, National Health and Environmental Effects Research Laboratory; and
+  ‡Human Exposure and Atmospheric Science Division, National Exposure Research Laboratory, Office of Research and Development, U.S. Environmental
+                                           Protection Agency, Research Triangle Park, North Carolina 27711
+
+                                                  Received July 28, 2008; accepted October 31, 2008
+
+                                                                            degradation (Butenhoff et al., 2004). PFOA is widespread in
+   Perfluorooctanoic acid (PFOA) displays complicated pharma-               wildlife and humans—from polar bears living in Greenland
+cokinetics in that serum concentrations indicate long half-lives
+                                                                            (Dietz et al., 2008), to giant pandas in China (Dai et al., 2006),
+despite which steady state appears to be achieved rapidly. In this
+                                                                            from the general population to occupationally exposed workers
+study, serum and tissue concentration time-courses were obtained
+for male and female CD1 mice after single, oral doses of 1 and              (Betts, 2007; Olsen et al., 2007). Average blood levels from the
+10 mg/kg of PFOA. When using one- and two-compartment models,               general population in the United States are approximately 4–5
+the pharmacokinetics for these two dosages are not consistent               parts per billion (Calafat et al., 2007).
+with serum time-course data from female CD1 mice administered                  The toxicology of PFOA has been extensively reviewed
+60 mg/kg, or with serum concentrations following repeated daily             (Andersen et al., 2008; Lau et al., 2007; Kennedy et al., 2004).
+doses of 20 mg/kg PFOA. Some consistency between dose regimens              PFOA is associated with liver enlargement in rodents and
+could be achieved using the saturable resorption model of Andersen          nonhuman primates. Hepatocellular adenomas, Leydig cell
+et al. In this model PFOA is cleared from the serum into a filtrate         tumors, and pancreatic acinar cell tumors occurred in rats
+compartment from which it is either excreted or resorbed                    (Biegel et al., 2001; Cook et al., 1992). Exposure to a high
+into the serum by a process presumed transporter mediated with
+                                                                            dose of PFOA (20 mg/kg) for two days late in gestation was
+a Michaelis-Menten form. Maximum likelihood estimation found
+                                                                            sufficient to produce neonatal mortality and birth weight
+a transport maximum of Tm 5 860.9 (1298.3) mg/l/h and half-
+maximum concentration of KT 5 0.0015 (0.0022) mg/l where the                reduction in mice (Wolf et al., 2007). Further investigations
+estimated standard errors (in parentheses) indicated large un-              showed the daily PFOA treatment with 5 mg/kg and lower
+certainty. The estimated rate of flow into and out of the filtrate          doses during gestation was associated with effects (White et al.,
+compartment, 0.6830 (1.0131) l/h was too large to be consistent with        2007; Abbott et al., 2007).
+a biological interpretation. For these model parameters a single dose          PFOA is found in human blood and breast milk from the
+greater than 40 mg/kg, or a daily dose in excess of 5 mg/kg were            general population in countries worldwide (Butenhoff et al.,
+necessary to observe nonlinear pharmacokinetics for PFOA in                 2004). Workers occupationally exposed to fluorochemicals
+female CD1 mice. These data and modeling analyses more fully                have serum levels of PFOA approximately one order of
+characterize PFOA in mice for purposes of estimating internal               magnitude higher than those reported in the general
+exposure for use in risk assessment.
+                                                                            population. The PFOA serum elimination half-life in work-
+   Key Words: perfluorooctanoic acid (PFOA); compartment
+                                                                            ers was estimated as 3.8 years (Olsen et al., 2007). This
+model; resorption model; pharmacokinetic parameters; statistical
+analysis; CD1 mice.                                                         is much longer than in laboratory animals, for example,
+                                                                            hours for the female rat to days for the male rat to weeks for
+                                                                            the monkey (Lau et al., 2007). Gender differences are
+                                                                            particularly notable in rats, with limited differences in other
+   Perfluorooctanoic acid (PFOA) and related compounds are                  animals (Kudo and Kawashima, 2003). The basis for the
+used primarily as surface-active agents in the production of                species and gender differences in elimination of PFOA is
+various fluoropolymers and fluoroelastomers (Kudo and                       still not well understood PFOA is high bound to plasma
+Kawashima, 2003). Because of the strength of the carbon-                    proteins and this does not appear to differ substantially
+fluorine bond, PFOA is stable to metabolic and environmental                across species (Kudo and Kawashima, 2003). Differential
+                                                                            expression of transporter proteins in the kidney may be one
+  1
+    To whom correspondence should be addressed at Mail Drop 67, U.S.        explanation and is clearly a major factor in the sex difference
+Environmental Protection Agency, Research Triangle Park, NC 27711. Fax:
+                                                                            observed in rats (Kudo et al., 2002). Transporter activity has
+(919) 541-4017. E-mail: lau.christopher@epa.gov.
+  2
+    Current address: Pfizer, Inc., PDM PK/PD Modeling, Eastern Point Rd.,   been confirmed in rat, in which organic anion transporters
+MS 8220-4328, Groton, CT 06340.                                             1 and 3, organic anion transporting polypeptide 1, and
+Published by Oxford University Press 2008.
+332                                                        LOU ET AL.
+
+
+perhaps others mediate PFOA cross-membrane transport               PFOA time course data to estimate the pharmacokinetic
+(Kudo et al., 2002; Nakagawa et al., 2008). Recent studies         parameters—volume of distribution, absorption rate, and
+with expressed human and rat organic anion transporters            elimination rate—for female and male CD-1 mice based
+1 and 2 found similar activity (Nakagawa et al., 2008). In         upon PFOA concentrations following single and repeated
+addition, liver distribution in rats is dose-dependent (Kudo       doses. The saturable resorption model, which elaborates the
+et al., 2007) and transporter-dependent (Han et al., 2008),        description of elimination, also was applied to investigate the
+whereas studies in mice have demonstrated that both uptake         kinetic behaviors of PFOA in mice. These analyses charac-
+and efflux transporters in liver are regulated by PFOA             terize models for mice that provide initial estimates of
+(Cheng and Klaassen, 2008; Maher et al., 2008). These kinds        dosimetry that could be applied in risk assessment, though
+
+
+
+
+                                                                                                                                                            Downloaded from academic.oup.com/toxsci/article/107/2/331/1680685 by Applied Life Studies Library user on 02 October 2026
+of effects presumably underlie the observation of the need to      they may also be considered intermediate steps in the
+incorporate time-dependent changes in pharmacokinetic              development of a more complete physiologically based
+modeling for PFOA and PFOS (Harris and Barton, 2008;               pharmacokinetic model that would better characterize PFOA
+Tan et al., 2008)                                                  tissue distribution, which is not directly addressed by any of
+   A margin of exposure approach was used in the U.S. EPA’s        these current models.
+PFOA preliminary risk assessment, which compared mea-
+sured human blood levels with laboratory animal blood levels
+associated with toxic effects (U.S. EPA, 2005). The area
+                                                                                        MATERIALS AND METHODS
+under the blood concentration-time curve (AUC), concentra-
+tion at steady state (Css), or peak concentration (Cmax) were
+                                                                      PFOA (ammonium salt; >98% pure) was purchased from Fluka Chemical
+dose metrics for evaluating effects in this draft assessment.      (Steinheim, Switzerland). Nuclear magnetic resonance analysis kindly provided
+The cross-species pharmacokinetic extrapolation using AUC          by 3M Company (St Paul, MN) indicated that approximately 98.9% of the
+or Css (e.g., Csshuman/Cssmouse) and a one-compartment             chemical was straight-chain and the remaining 1.1% was branched isomers.
+pharmacokinetic model is estimated by the ratio of half-lives      [1,2-13C]-PFOA was purchased from Perkin-Elmer (Wellesley, MA) and used
+                                                                   as an internal standard in the quantitative analysis. For all studies, PFOA dosing
+assuming the volume of distribution is a similar fraction of
+                                                                   solutions were dissolved in deionized water and prepared fresh daily.
+body weight across species, for example, Css ¼ dose rate              Complete data tables are available as an online supplement.
+(mg/kg/day)/[volume of distribution (l/kg) 3 elimination rate
+                                                                       Animal treatment. All animal studies were conducted in accordance with
+constant (1/day)], where half-life equals ln 2/elimination rate    the Institutional Animal Care and Use Committee guidelines established by
+constant. To date, the one-compartment model has been used         the U.S. Environmental Protection Agency’s Office of Research and
+for PFOA pharmacokinetic analysis in rat and monkey                Development/National Health and Environmental Effects Research Labora-
+(Harada et al., 2005; U.S. EPA, 2005; Washburn et al.,             tory. Procedures and facilities were consistent with the recommendations
+2005). However, the half-life estimated in humans and              of the 1996 National Research Council’s ‘‘Guide for the Care and Use of
+                                                                   Laboratory Animals,’’ the Animal Welfare Act, and Public Health Service
+animals may not be constant and animal half-lives estimated        Policy on the Humane Care and Use of Laboratory Animals. Animal facilities
+by following blood levels after a single dose may not be           were controlled for temperature (20–24°C) and relative humidity (40–60%)
+comparable with estimates from humans who have had                 and kept under a 12-h light-dark cycle. Mature male and female CD-1 mice
+chronic exposure. Monkey and rat data have been interpreted        (70–80 days of age) were purchased from Charles River Laboratories
+                                                                   (Raleigh, NC) and shipped by truck to our facilities, with a transit time of
+as indicating that the volume of distribution changes with
+                                                                   less than one hour. Animals were segregated by sex, housed in polypropylene
+concentration (Trudel et al., 2008; Washburn et al., 2005).        cages (three per cage), and provided pellet chow (LabDiet 5001, PMI
+Large volumes of distribution do not seem likely, however,         Nutrition International, St. Louis, MO) and tap water ad libitum. Mice were
+because PFOA is known to rapidly achieve quasi-steady-state        allowed several days for acclimation and randomly assigned to treatment
+in blood (Andersen et al., 2006; Lau et al., 2006).                groups. Several studies were undertaken involving single or repeated
+Alternatively, monkey data suggests that excretion is              dosing. Two studies with very similar designs were carried out in which
+                                                                   mice were given a single oral gavage treatment of either 1 mg/kg or 10 mg/kg
+concentration dependent (faster elimination rate at higher         PFOA. In the first study (PK1), three males and three females from each dose
+concentrations), that is, half-lives are not constant (Andersen    group were sacrificed by decapitation at the following time intervals: 4, 8, or
+et al., 2006). These issues increase the difficulty in             12 h, and 1, 3, 6, 9, 13, 20, 27, 34, 42, or 48 days. Trunk blood was collected for
+extrapolating from one species to another. A recently              serum preparation and stored at 20°C; liver and kidney were dissected, flash-
+developed biologically motivated pharmacokinetic model of          frozen on dry-ice and stored at 80°C until being processed for analysis. For
+                                                                   the second study (PK2), the evaluation time points were extended to include
+saturable, renal resorption that depends on kinetic factors for    55, 62, 70, and 80 days. Serum, liver and kidneys were collected and stored as
+transport successfully described the monkey data (Andersen         described previously. Based upon initial modeling efforts, a study at a higher
+et al., 2006). The difference in apparent elimination rates with   dose was carried out in which female mice were given 60 mg/kg PFOA (6 mg/
+increasing dose indicated that capacity-limited, saturable         ml dosing solution, 10 ml/kg dosing volume) and three mice were sacrificed at
+transport processes may be involved in the kinetic behavior        each of the following time intervals: 2, 4, 6, 8, 12, 24, 36 h, or 2, 4, 6, 8, 11, 14,
+                                                                   21 days, 28 days. Only serum was analyzed for these animals. Finally,
+of PFOA.                                                           a repeated dose study was carried out in which five animals received 20 mg/kg/
+   In this study, one- and two-compartment models with first       day for 17 days and serum was obtained 24 h after the final dose as previously
+order absorption and clearance were statistically analyzed for     described (Lau et al., 2006).
+                                              SINGLE AND REPEATED DOSE PHARMACOKINETICS OF PFOA                                                               333
+
+    PFOA determination. Serum samples were thawed and mixed well by                                                                              
+                                                                                                 ka D          k21  a                   k21  b
+vortexing; an aliquot (25–100 ll) was removed for analysis. The volume of               CðtÞ ¼                              eat þ                     ebt
+serum assayed was varied to optimize detection of PFOA because levels were                        V1      ðka  aÞðb  aÞ            ðka  bÞða  bÞ
+                                                                                                                               
+very high at early time points and very low at the latest. Liver and kidney                                 k21  ka
+                                                                                                                         eka t
+were thawed, weighed and homogenized (polytron) in 5 volumes of                                        ða  ka Þðka  bÞ
+deionized, distilled water. Analysis of PFOA in serum and tissues was
+performed using a modification of a method originally developed by Hansen             Two-compartment model, central compartment, where D and ka are as above
+et al. (2001). Briefly, 25–100 ll of serum or 25 ll of tissue homogenate was      and V1, volume of central compartment; k12, rate constant for transfer from
+combined with 1 ml of 0.5M tetrabutylammonium hydrogen sulfate (pH 10)            compartment 1 to compartment 2; k21, rate constant for transfer from
+and 2 ml of 0.25M sodium carbonate and then vortexed for 20 min in a 15 ml        compartment 2 to compartment 1; a, agglomerate rate constant representing
+                                                                                  net loss from the central compartment during the distribution phase;
+
+
+
+
+                                                                                                                                                                     Downloaded from academic.oup.com/toxsci/article/107/2/331/1680685 by Applied Life Studies Library user on 02 October 2026
+of polypropylene tube. Three hundred microliters of this mixture was then
+transferred to a fresh 15 ml of polypropylene tube and 25 ll of a 1 ng/ll         b, agglomerate rate constant representing net loss from the central compartment
+solution of 13C-PFOA was added as an internal standard. Five milliliters of       after the distributional phase is complete.
+methyl tert-butyl ether (MTBE) was then added and vortexed again for                  The models were fit by using generalized nonlinear least square (gnls) using
+20 min. The sample was centrifuged at 2000 3 g for 3 min to separate the          the R function gnls in package nlme (Pinheiro et al., 2007), to estimate the
+aqueous and organic phases, and 1 ml of the MTBE layer was transferred            parameters. The likelihood ratio test was applied to compare the one- and two-
+to a 5-ml polypropylene tube where it was evaporated to dryness at 45°C           compartment models to determine which model better described the data.
+under a gentle stream of dry nitrogen. The residue was then solubilized in            Initially, one-compartment models were fit with a separate parameter value
+400 ll of a 2mM ammonium acetate/acetonitrile (1:1 by vol) solution and           for each gender, dose-level, and experimental block in each tissue. Conditional
+transferred to a polypropylene autosampler vial. No pH adjustments were           F-tests (Pinheiro and Bates, 2000) on linear combinations of the dose-block-
+made for this solution. Extracts were analyzed using an Agilent 1100 high-        gender specific parameters were then used to determine the extent to which
+performance liquid chromatograph (Agilent Technology, Palo Alto, CA)              each parameter could be simplified. An orthogonal series of contrasts,
+coupled with an API 3000 triple quadrupole mass spectrometer (Applied             analogous to those in multi-factorial analysis of variance, was developed, so
+Biosystems, Foster City, CA) (LC/MS/MS). Ten microliters of the extract was       that interaction terms were first tested (in order of decreasing complexity)
+injected onto a Luna C18(2) 3 3 50 mm, 5-lm column (Phenomenex,                   followed by main effects terms. That is, we first tested for a given parameter
+Torrance, CA) using an isocratic mobile phase consisting of 30% 2mM               type (e.g., volume of distribution) whether there was a significant three-way
+ammonium acetate solution and 70% acetonitrile at a flow rate of 200 ll/min.      interaction (dose 3 block 3 gender), which was followed by (if the three-way
+PFOA and 13C2-PFOA were monitored using parent and daughter ion                   interaction was not significant) dose 3 block, dose 3 gender, block 3 gender,
+transitions of 413 / 369 and 415 / 370, respectively. Peak integrations and       and then gender, block and dose. Using the results of these tests, a new
+areas were determined using Analyst software (Applied Biosystems Version          statistical model was constructed by collapsing over the effects that were not
+1.4.2, Foster City, CA). For each analytical batch, matrix-matched calibration    significant. For example, if only gender effects remained significant for volume
+curves were prepared as described above using mouse serum spiked with             of distribution, a new model would be constructed in which volume of
+varying levels of PFOA. For quality control, check standards were prepared        distribution was allowed to vary among genders, but not across blocks or dose
+by spiking large volumes of mouse serum at several arbitrary levels. These        levels. When block was found to be significant, it was incorporated as a random
+check standards were stored frozen and aliquots analyzed with each analytical     effect in a nonlinear mixed-effects model, fit using the function nlme.
+set. Different preparations of standards were used for each experimental              One- and two-compartment pharmacokinetic analysis of 60 mg/kg
+study; the concentration of each newly prepared standard was compared with        data. Subsequent to the analysis of 1 and 10 mg/kg data, an oral time course
+the previous batch to ensure consistency. In addition, control mouse serum        in serum of female mice exposed to 60 mg/kg was collected based upon
+samples were fortified at two or three levels in duplicate with known             preliminary model predictions that the time course should be biphasic. This
+quantities of PFOA during the preparation of each analytical set. Duplicate       data was also evaluated for one- and two-compartment model fits.
+fortified and several check standards were run in each analytical batch to            The data differ from that collected for 1 and 10 mg/kg doses in having
+assess precision and accuracy. The limit of quantification (LOQ) was set as       replicate values for about half the measurements, so a hierarchical statistical
+the lowest calibration point on the standard curve. Analytical batches were       model was fit to the data, with Vd (in the one-compartment model) and V1 (in
+considered to be acceptable if: matrix and reagent blanks had no significant      the two-compartment model) varying among subjects. ke and ka were found to
+PFOA peaks approaching the LOQ, the standard curve had a correlation              not be statistically identifiable as individually varying parameters. In this
+coefficient > 0.98, and all standard curve points, fortified, and check samples   model, the distribution of the log of the compartment volume is assumed to be
+were within 70–130% of the theoretical and previously determined values,          Gaussian, and the population mean and variance are additional parameters to be
+respectively.                                                                     estimated. Estimation was via the method of Lindstrom and Bates (1990), as
+   One- and two-compartment pharmacokinetic analysis of 1 and 10 mg/kg            implemented in the package nlme (Pinheiro et al., 2007) for R (R Development
+data. The PFOA single oral dose time course data at the two lower doses           Core Team, 2007).
+included three tissues (blood sera, liver and kidney), two genders (female and       Saturable resorption model analysis. Our saturable resorption model was
+male mice), and two doses (1 and 10 mg/kg) collected in two experimental          adapted with minor modifications from Andersen et al. (2006), and
+blocks (PK1 and PK2). Thus, there are 24 data sets in all. We estimated           implemented using Matlab (version R2007a, The Mathworks, Natick, MA)
+parameters using R (version 2.4.1, R Development Core Team, 2007). One-           (see Appendix) to simulate and predict the single and repeated oral dose data
+and two-compartment models were fit to blood sera, liver, and kidney time-        for blood sera in female mice. Solutions were obtained using a stiff solver
+course data for each gender, dose, and block.                                     (ode23s) that implemented the modified Rosenbrock (2,3) pair approach
+   The one- and two-compartment models with first order absorption and first      (Shampine and Reichelt, 1997). All the simulations were run on a computer
+order elimination can be described as:                                            equipped with 3-GHz Dual Core Pentium 4 processor and the Windows XP
+                                                                                  operating system.
+                                  ka D                                               The salient feature of the Andersen et al. (2006) model is that the free
+                     CðtÞ ¼                 ðeke t  eka t Þ
+                              ðka  ke Þ=Vd                                       concentration of PFOA in the central compartment (given by free* C1) is
+                                                                                  cleared to a filtrate compartment where it is either excreted or resorbed via
+   One-compartment model, where D, dose; Vd, volume of distribution; ka,          a saturable process with a Michaelis-Menten form. We examined the original
+adsorption rate constant; ke, elimination rate constant.                          three compartment (two body, one filtrate) model with eight model parameters
+334                                                                       LOU ET AL.
+
+
+                                   Second Compartment                              observed concentration (4 or 8 h). The liver concentrations
+                                         (Vt, C2)                                  were often higher than those in sera, whereas both were
+                                                                                   substantially higher than the kidney concentrations. The data
+                                            Qd
+                                                                                   from sera, liver, and kidney and plots for all the male and
+             Oral Dose             Central Compartment                             female mice dosed with 1 and 10 mg/kg are presented in the
+                (D)                   (Vc, C1, free)
+                                                                                   Supplemental Materials.
+                                     Qfil            Tm, KT                           For single doses of 1 and 10 mg/kg the pharmacokinetics are
+                                   Filtrate Compartment Qfil                       essentially linear, as illustrated in Figure 3 in which the female
+                                                                                   serum time courses collapse, when scaled by dose, onto
+
+
+
+
+                                                                                                                                                               Downloaded from academic.oup.com/toxsci/article/107/2/331/1680685 by Applied Life Studies Library user on 02 October 2026
+                                          (Vfil, C3)
+                                                                                   approximately the same line on a semilogarithmic plot. The
+ FIG. 1. A schematic for the renal saturable resorption pharmacokinetic
+model.
+                                                                                   pharmacokinetics were quite different at the highest dose, 60
+                                                                                   mg/kg, appearing roughly bi-exponential with low concen-
+                                                                                   trations, as a fraction of total dose, achieved more rapidly.
+as well as a simplified, two-compartment (one body, one filtrate) model with six
+parameters (Fig. 1). Oral uptake was assumed to be first order with the same       Statistical Analysis of Compartmental Pharmacokinetic
+rate we determined for the one-compartment model.
+    We determined the model parameters for female mice via Maximum
+                                                                                     Models
+Likelihood Estimation. Values of the likelihood function were calculated for          Pharmacokinetic data are routinely analyzed using classical
+eight sets of observations in sera: the two blocks each of 1 mg/kg and 10 mg/kg    one and two-compartmental models and serum concentration data
+single doses, the 60 mg/kg single dose, the 17-day repeated 20 mg/kg/day dose
+                                                                                   (Table 2). To compare clearance and apparent volume of
+observations, and the repeated dose data from Lau et al. (2006) for 7 and
+17 days also at 20 mg/kg/day. We allowed the coefficient of variation to be        distribution, as reflected by liver and kidney concentrations, data
+different for each of these eight sets of observations so that our likelihood      for each of these tissues were also fitted using the compartmental
+function depended upon either six or eight model parameters and eight variance     models. For the 1 and 10 mg/kg data, all kinetic parameters were
+parameters. The contribution to the likelihood of for each animal was              identified and estimated in the one-compartment model. With the
+calculated—for a few animals where replicate measures had been performed,
+                                                                                   two-compartment model, it was possible to estimate parameters in
+the results were averaged. We used a Nelder-Mead optimizer (Lagarias et al.,
+1998) to find the combination of parameters that maximized the likelihood. We      only six of the twenty-four 1 and 10 mg/kg data sets for blood
+numerically approximated the second derivative (D’Errico, 2007) of the             sera, liver and kidney, due to failures of convergence. These
+likelihood function at the optimized parameter values to obtain the standard       failures are likely to be related to the inability to uniquely estimate
+error for each parameter estimate.                                                 some of the parameters. We compared the one- and two-
+                                                                                   compartment models for estimating the available corresponding
+                                                                                   identified parameters using the likelihood ratio test and found that
+                                                                                   none of the results were significant (p > 0.05), that is, adding
+                                 RESULTS                                           a second compartment did not significantly improve the ability of
+                                                                                   the model to account for the data. Thus, we at first focused on the
+Experimental Data                                                                  one-compartment model for further parameter estimation studies
+   Serum, and in some cases tissue concentrations, of PFOA in                      with the 1 and 10 mg/kg data.
+mice were obtained in several studies including time course                           Vd and ke differed significantly between males and females
+data following a single dose at three different dosages and                        for all three tissues, although the differences generally are not
+single time points following two durations of repeated dosing                      large (Table 2). Vd differed between doses in kidney. Vd also
+(Table 1).                                                                         varied significantly between the two blocks in sera, which was
+   The blood sera, liver and kidney concentration time-courses                     therefore included in the estimation of experimental error (all
+after single oral doses of 1 and 10 mg/kg are plotted in Figure 2                  p < 0.05). The absorption rate constant, ka, was marginally
+for the male and female mice. Male and female mice fairly                          estimable with these data, so it was estimated as a single value
+rapidly absorbed PFOA, as judged by the time of maximum                            across all data sets for each tissue.
+
+                                                                      TABLE 1
+                                                       Pharmacokinetic Studies of PFOA in Mice
+
+                                                        Dose                           Sex                      Tissues                     Sampling
+
+Single dose (PK 1)                            1, 10 mg/kg                          Male, female           Serum, liver, kidney         Time course
+Single dose (PK 2)                            1, 10 mg/kg                          Male, female           Serum, liver, kidney         Time course
+Single dose                                   60 mg/kg                             Female                 Serum                        Time course
+Repeated dose                                 20 mg/kg, 17 days                    Female                 Serum                        24 h after final dose
+Repeated dose; Lau et al. (2006)              20 mg/kg, 7 and 17 days              Female                 Serum                        24 h after final dose
+                                                                             SINGLE AND REPEATED DOSE PHARMACOKINETICS OF PFOA                                                    335
+
+                                                                                      1 mg/kg Plasma         1 mg/kg Liver        1 mg/kg Kidney
+                                                                                      10 mg/kg Plasma        10 mg/kg Liver       10 mg/kg Kidney
+
+                                                               102
+
+
+
+                           PFOA Concentration (mg/L or ug/g)
+                                                               101
+
+                                                               100
+
+
+                                                                                       Female                                               Male
+
+
+
+
+                                                                                                                                                                                          Downloaded from academic.oup.com/toxsci/article/107/2/331/1680685 by Applied Life Studies Library user on 02 October 2026
+                                                                    2
+                                                               10
+
+
+                                                               100
+
+
+                                                               10−2
+
+                                                                        0      20         40        60         80         0        20        40         60    80
+                                                                                                                    Day
+                                                                            FIG. 2. Experimental data plots for different doses, genders, and blocks.
+
+
+   The mean and 95% confidence intervals for each parameter                                                         blood sera and liver. As shown in Table 2, female mice have
+are shown in Table 2. Because the initial sampling time point                                                       lower values of Vd in blood sera and kidney, but higher values
+4 h, is too late to capture the absorption processes, the 95%                                                       in liver, than male mice. In all the three tissues, ke values are
+confidence intervals for ka for blood sera and liver are quite                                                      modestly higher in female mice than in male mice.
+wide. We cannot identify ka for kidney from our data. To solve                                                         The one-compartment model was successful in describing
+this problem, we first explored the sensitivities of estimates of                                                   the 1 and 10 mg/kg single dose serum data sets with estimated
+Vd and ke to values of ka by estimating Vd and ke while fixing ka                                                   values of Vd (¼ 0.135 l/kg) and ke (¼ 0.00185/h) for female
+at 0.3, 0.5, 1, and 1.5/h. The estimates and 95% confidence                                                         mice. These same two parameter values fail to predict serum
+intervals were insensitive to the particular value chosen for ka,                                                   concentrations for both the higher, 60 mg/kg single dose and
+so ka for kidney was set to the mean (0.527/h) of ka values in                                                      repeated dose (20 mg/kg) blood sera data.
+                                                                                                                       The serum concentrations resulting from doses of 10 and
+                                                                                                                    60 mg/kg, converge after roughly a day, indicating that linear
+                                                                                                                    pharmacokinetic models—including both one and two-
+                                                                                                                    compartment models—cannot reproduce the observed phar-
+                                                                                                                    macokinetics. Though the 60 mg/kg single dose data was
+                                                                                                                    well-described by a two-compartment analysis (Table 3), as is
+                                                                                                                    shown in Figures 4a and 4b, predictions made using the two-
+                                                                                                                    compartment parameter estimates from the 60 mg/kg data
+                                                                                                                    were not consistent with the 1 and 10 mg/kg blood sera data.
+                                                                                                                    Jointly analyzing all the available data to optimize the two-
+                                                                                                                    compartment model, also shown in Figure 4, resulted in pre-
+                                                                                                                    dictions that did not reproduce any of the dose regimens.
+                                                                                                                       After 7 and 17 days of dosing female CD1 mice with 20 mg/kg
+                                                                                                                    PFOA, Lau et al. (2006) found that the measured serum levels were
+                                                                                                                    approximately equal (176 ± 56 vs. 172 ±34 mg/l, respectively). We
+                                                                                                                    use recalculated values based on the original, individual mouse
+                                                                                                                    data that are somewhat different from what was reported by Lau
+                                                                                                                    et al. (2006). Additional 17 day, 20 mg/kg repeated dose
+                                                                                                                    experiments were performed for five female CD1 mice and
+                                                                                                                    a serum PFOA concentration of 130 ± 23 mg/l was measured.
+                                                                                                                       The one-compartment model only fit the repeated dose data
+   FIG. 3. Serum concentrations scaled by dose for females administered single
+                                                                                                                    if the elimination rate ke was increased from 0.00185/h to
+doses of 1, 10, and 60 mg/kg. Points are means, error bars are 95% confidence
+intervals for the means. 1 and 10 mg/kg dose groups are largely superimposed and                                    0.0255/h, that is, the half-life of PFOA in blood sera decreased
+linear in time on this semi-log suggesting linear first-order kinetics at these doses.                              from 15 to 1.2 days. This results in the contradiction that differ-
+The 60 mg/kg group has a substantially different shape and time course.                                             ent kinetics were observed when using the one-compartment
+336                                                                   LOU ET AL.
+
+                                                                TABLE 2
+                                     One compartment model parameters for 1 and 10 mg/kg doses of PFOA
+
+                                                                          Female (95% confidence interval)          Male (95% confidence interval)
+
+Blood Sera               Vd (L/kg)                                             0.135 (0.102-0.179)                     0.226 (0.202-0.253)
+                         ka (1/h)                                              0.537 (0.300-0.960)
+                         ke (1/h)                                            0.00185 (0.00175-0.00196)               0.00133 (0.00120-0.00148)
+                         >t½ (day)                                              15.6 (14.7 – 16.5)                      21.7 (19.5 – 24.1)
+Liver                    Vd (L/kg)                                             0.161 (0.148-0.176)                     0.120 (0.111-0.129)
+
+
+
+
+                                                                                                                                                     Downloaded from academic.oup.com/toxsci/article/107/2/331/1680685 by Applied Life Studies Library user on 02 October 2026
+                         ka (1/h)                                              0.517 (0.303-0.881)
+                         ke (1/h)                                            0.00161 (0.00143-0.00181)               0.00129 (0.00115-0.00145)
+Kidney                   Vd(L/kg)               1 mg/Kg                        0.822 (0.745-0.908)                     1.280 (1.145-1.432)
+                                                10 mg/Kg                       1.092 (1.004-1.188)                     1.700 (1.520-1.902)
+                         ka (1/h)                                               0.527
+                         ke (1/h)                                            0.00151 (0.00138-0.00166)               0.00113 (0.000992-0.00128)
+
+
+
+model to predict the single and repeated dose experimental                   by our parameter estimates, although within the 95%
+data, though whether this was a consequence of dose-                         confidence limits. Confidence limits are calculated using 200
+dependent differences or the system not being stationary and                 random draws using the estimated covariance matrix for the
+exhibiting kinetic changes with exposure could not be                        likelihood function. When we analyzed the single dose data
+differentiated based upon these data alone.                                  sets alone, we found that the repeated dose concentrations
+   The two-compartment model predictions for repeated doses,                 observed by Lau et al. (2006) were greatly underpredicted.
+shown in Figure 4c, did not show the rapid approach to steady                   As indicated by Figure 6, the saturable resorption model
+state that had been observed following 7- and 17-day repeated                allows linear behavior at low doses before switching to much
+dose observations. Neither parameters optimized using the                    more rapid clearance at high doses. This is evident in the
+60 mg/kg single dose data alone nor those obtained from                      predicted filtrate concentration time-course shown in Figure
+optimizations performed with all the single and repeated dose data           6—once the transport from the filtrate to the primary
+provided a good description of repeated dose pharmacokinetics.               compartment saturates, the concentration in the filtrate com-
+   The saturable resorption model (Andersen et al., 2006), on                partment is predicted to spike so PFOA is rapidly eliminated.
+the other hand, can produce results that are consistent not only                As a measure of model performance, we calculated the Akaike
+with the 1, 10, and 60 mg/kg single dose data (Fig. 5a), but also            Information Criterion (AIC) (Akaike, 1974) for the resorption
+consistent with repeated dose data (Fig. 5b). We performed                   models with one and two body compartments. We found that with
+a maximum likelihood optimization using both the single and                  one body compartment the AIC was 314.37, whereas with two
+repeated dose data sets (Table 4). Simulation results indicated              body compartments the AIC was 293.58. The lower AIC for the
+that with repeated doses the PFOA serum concentrations                       two body compartment model indicated that the additional model
+reached pseudo-steady state very rapidly (two days after the                 parameters necessary to describe the second body compartment
+first dosing), and the minimum and maximum serum levels                      were supported by better fitting of the data.
+were approximately 125 and 180 mg/l. The new 17-day                             Andersen et al. (2006) found that the saturable model was
+repeated dose concentrations were well predicted, whereas the                not strongly sensitive to the value of the filtrate compartment
+7- and 17-day data from Lau et al. (2006) were underpredicted                and used an arbitrary value of 0.1 l. Using the AIC, we
+                                                                             similarly found that the marginal increase in likelihood
+                                                                             introduced by including the filtrate volume is not offset
+                       TABLE 3                                               by the uncertainty of an additional parameter. Additionally, we
+  Two-Compartment Model Parameters for 60 mg/kg Doses of                     found that the available data did not support estimating the free
+             PFOA in Female Mouse Serum                                      fraction of PFOA. For both the filtrate volume and free fraction
+                                                                             we assumed the values used by Andersen et al. (2006). The
+Parameter                                  Value (95% confidence interval)   optimized parameter values are reported in Table 4.
+                                                                                The estimated parameter uncertainties for Qfil, Tm, and KT
+Absorption rate (ka)                            1.05 (0.27–4.01) /h
+Volume of distribution in the                   0.27 (0.22–0.34) l           are all quite large; the estimated standard errors are larger than
+  central compartment (Vc)                                                   their mean values. This combination of parameters seems to
+Rate constant for transfer from                0.012 (0.0065–0.023) /h       be weakly identifiable given the available data. Assuming
+  compartment 2 to compartment 1 (k21)                                       a base value for overall cardiac output of 16.5 l/h and scaling
+a                                              0.037 (0.020–0.067) /h
+                                                                             by a factor of 0.025^(3/4) then the total mouse cardiac output
+b                                             0.0017 (0.0011–0.0026) /h
+                                                                             should be 1.04 l/h. In this case, the optimized value of Qfil
+                                            SINGLE AND REPEATED DOSE PHARMACOKINETICS OF PFOA                                                                337
+
+
+
+
+                                                                                                                                                                     Downloaded from academic.oup.com/toxsci/article/107/2/331/1680685 by Applied Life Studies Library user on 02 October 2026
+  FIG. 4. Comparing predictions for the two-compartment model when fit to all the available data (dashed line) with a fit to just the 60 mg/kg data (dotted line).
+Neither model does a good job of describing all of the data, whereas the saturable resorption model (solid line) is more consistent between doses.
+
+(0.6830 l/h) is roughly two thirds of the total output. For                       (Luippold et al., 2002). Thus, our optimized value for Qfil
+comparison, in monkeys Andersen et al. (2006) assumed that                        does not appear to have a direct physiologic analog.
+Qfil was 10% of cardiac output to the kidney, corresponding to                       Using our calibrated saturable resorption model, we in-
+Qfil ¼ 0.0943 l/h. For a standard body weight of 0.025 kg,                        vestigated what doses of PFOA are predicted to show the two
+glomerular filtration for female C57BL/6J mice is much                            different kinetic behaviors. For selected dose levels, we
+smaller, 0.00945 l/h (Qi et al., 2004), whereas in adult male                     predicted changes in kinetics from low dose to high dose
+CD1 mice the urinary flow rate is even smaller—0.000076 l/h                       (Fig. 7). Only one phase was predicted at low doses (< 40 mg/kg),
+
+
+
+
+   FIG. 5. Predictions and quantiles for the saturable resorption model when optimized using all available data. The predictions for the maximum likelihood
+estimated parameters are indicated by a solid line, with open squares indicating where model predictions should be compared with observations for the repeated
+dose data. Dashed lines indicate the 95% upper and lower quantiles using the estimated parameter uncertainty. The Lau et al. (2006) 7- and 17-day observations as
+well as our new 17-day observations are indicated by solid triangles.
+338                                                                       LOU ET AL.
+
+                        TABLE 4
+ Assumed and Optimized PFOA Resorption Model Parameters
+
+Parameter                                 Value (SE)            Source
+
+Body weight (BW)                   25 g                  Assumed standard value
+Cardiac output                     16.5 l/h for mice     Barbee et al. (1992)
+Absorption rate (ka)               0.537 /h              Estimated from single
+                                                           dose data using one-
+                                                           compartment model
+
+
+
+
+                                                                                                                                                                   Downloaded from academic.oup.com/toxsci/article/107/2/331/1680685 by Applied Life Studies Library user on 02 October 2026
+Volume of distribution of       0.0027 (0.0002) l        Optimized
+  the central compartment (Vc)
+Volume of renal filtrate (Vfil) 0.01 l                   Assumed,
+                                                         Andersen et al. (2006)
+Renal blood filtrate rate (Qfil)   0.6830 (1.0131) l/h   Optimized
+Volume of distribution of          0.0545 (0.0151) l     Optimized
+   second body
+   compartment (Vt)
+Intercompartmental                 0.00059 (0.00037) l/h Optimized
+   clearance (Qd)
+Transport maximum (Tm)             860.9 (1298.3) mg/l/h Optimized
+Transport affinity                 0.0015 (0.0022) mg/l Optimized                   FIG. 6. Saturable resorption model predictions using parameters obtained
+   constant (KT)                                                                  with a maximum likelihood estimate show that the concentration in the filtrate
+Proportion of PFOA                 0.02                  Assumed,                 compartment (dashed) spikes early on allowing the concentration in the primary
+   free in serum (free)                                  Andersen et al. (2006)   compartment (solid) to rapidly converge for doses of 10 and 60 mg/kg.
+
+
+
+whereas two phases occurred at the high doses (> 40 mg/kg)                        process, because they dictate clearance, are the most important
+with a fast initial elimination rate giving way to a much slower rate             for predicting long-term concentrations.
+after roughly one day. Simulations using an earlier version of the
+model were the basis for selecting the 60 mg/kg dose, which did                                                 DISCUSSION
+demonstrate biphasic behavior predicted by the saturable re-
+sorption model but not previously observed in the serum time                         For 1 and 10 mg/kg single doses, kinetic parameters differ
+course data with lower doses. For repeated doses, daily doses of                  significantly between genders but the magnitude of the
+0.01, 0.1, and 1 mg/kg saturated after about two weeks, whereas                   differences are small indicating PFOA pharmacokinetic
+for 5 mg/kg the serum concentration quickly saturated. Within                     behaviors are similar in female and male mice in contrast
+a day of daily doses of 50 and 500 mg/kg, serum concentration                     to rats. The values of the parameter ka were not well
+saturated at the same concentration as with 5 mg/kg.                              estimated, and the 95% confidence intervals were wide. This
+   Normalized sensitivity coefficients, defined as (change of                     is because the PFOA absorption in mice was fairly rapid, and
+output/output)/(change of input/input), were used to test the                     the absorption was almost finished before the initial
+parameter sensitivity at different days after a single dose of                    sampling time point (4 h). Due to the uncertain estimation
+20 mg/kg (Fig. 8). After 1 day, the most sensitive parameters                     of ka values, we used only one ka for female and male mice
+were Qfil, Tm, and KT, that is, the kinetics of the resorption                    for each tissue.
+
+
+
+
+  FIG. 7. Delineation of predictions for the PFOA concentration (mg/l) in the central compartment. For the single dose (top) solid lines depict doses of 0.1, 1,
+10, 100, and 1000 mg/kg. The dashed line indicates a dose of 40 mg/kg which is roughly where the onset of nonlinearity occurs. For the repeated dose (bottom)
+solid lines depict repeated daily doses of 0.001, 0.1, 1, 50, and 500 mg/kg. The dashed line indicates a daily dose of 5 mg/kg.
+                                                              SINGLE AND REPEATED DOSE PHARMACOKINETICS OF PFOA                                                339
+
+                                         0.02                                          ties in predicted dose metrics. However, none of these models
+                                                                               Vc
+                                                                               Vt
+                                                                                       describe tissue dosimetry, which would require a physiologically
+                                                                                       based pharmacokinetic model structure. The recent demonstra-
+   Normalized Sensitivity Coefficient
+
+
+
+                                                                               Qd
+                                         0.01                                          tions that PFOA exposures in mice alter transporter expression
+                                                                               Tm
+                                                                               KT      in at least the liver (Cheng and Klaassen, 2008; Maher et al.,
+                                                                               Qfil    2008), raise further questions about the time course and dose-
+                                           0
+                                                                               ka      response for these changes and how they affect serum, liver, or
+                                                                               Vfil    other tissue concentrations. Additional experimental work
+                                                                               free    would also benefit from quantifying the fecal and urinary
+
+
+
+
+                                                                                                                                                                     Downloaded from academic.oup.com/toxsci/article/107/2/331/1680685 by Applied Life Studies Library user on 02 October 2026
+                                        −0.01
+                                                                                       elimination from mice because current analyses assume nearly
+                                                                                       complete absorption and do not distinguish elimination routes.
+                                        −0.02                                          Models that are more physiologically based would potentially
+                                                                                       need to explicitly address these issues.
+
+                                        −0.03
+                                                0   5   10        15      20                                            FUNDING
+                                                        Day
+                                                                                         Interagency Agreement (RW-75-92207501) with the
+   FIG. 8. Analysis of the parameter sensitivity by increasing each parameter
+in turn by 1% and comparing predicted concentrations for a 20 mg/kg single             National Toxicology Program at the National Institute for
+dose with those for the optimized/assumed value. Note that plot points for             Environmental Health Science was a source of partial funding.
+several parameters are on top of each other near zero.
+
+                                                                                                             ACKNOWLEDGMENTS
+   The one-compartment model is successful in describing the
+1 and 10 mg/kg single dose data sets with the estimated values                            The United States Environmental Protection Agency through
+of Vd, ka, and ke, but fails in predicting the higher, 60 mg/kg                        its Office of Research and Development funded and managed
+single dose and the repeated dose data. Similarly, although the                        the research described here. This research has been subjected to
+60 mg/kg data can be described by a two-compartment model,                             Agency’s administrative review and approved for peer review.
+for the optimized parameters that model overestimates the 1 and                        We appreciate technical assistance from Kaberi Das.
+10 mg/kg single dose data. Neither model predicts the repeated
+dose observations without changing some model parameters
+                                                                                                                        APPENDIX
+drastically from the single dose case.
+   The saturable resorption model of Andersen et al. (2006)
+reconciles the lower two doses with the high single dose by                            function [dCdt]¼pfoa_ode_new2compab(t,C,P)
+allowing the clearance to change for different exposure levels in                      % From one-compartment analysis of 1 and 10 mg/kg data:
+place of the first order or proportional clearance in the previous 1                   ka¼0.537;
+and 2 compartment models. At low dose or the early period of                           % From Andersen et al. (2006):
+repeated dose for our data, the PFOA concentration in the filtrate                     Vfil ¼ 0.01;                                              %[Vfil] ¼ L
+compartment is low and is proportional to dose, which has a low                        free ¼ 0.02;                                              %[free] ¼ 1
+net urine elimination rate, whereas at high dose (including                            % Parse the parameter vector P
+pseudosteady state of repeated dose for our data), the PFOA                            Vc ¼ P(1);                                                % [Vc] ¼ L
+concentration in the filtrate compartment is high and resorption                       Vt ¼ P(2);                                                % [Vt] ¼ L
+                                                                                       kd ¼ P(3);                                                %[kd] ¼ 1/h
+is saturated, which results in a high net urine elimination rate.                      Qd ¼ kd*Vc;                                               %[Qd] ¼ L/h
+   The saturable resorption model does not, however, com-                              Tm ¼ P(4);                                                %[Tm] ¼ mg/L/h
+pletely reconcile the single dose data with the repeated dose                          KT ¼ P(5);                                                %[KT] ¼ mg/L
+concentrations. Though parameters can be estimated such that                           kfil ¼ P(6);                                              %[kfil] ¼ 1/h
+most data is with the 95% confidence intervals, the concen-                            Qfil ¼ kfil*Vc;                                           %[Qfil] ¼ L/h
+trations observed after repeated doses by Lau et al. (2006) seem                       % Note that gut compartment has different units:
+                                                                                       dCdt¼zeros(4,1);
+to be systematically higher than predicted. This may reflect
+                                                                                       dCdt(1) ¼ ka/Vc*C(4)-Qd/Vc*free*C(1)þQd/                  %[C(1)] ¼ mg/L
+experimental variability in light of the repeated dose data                              Vc*C(2)-Qfil/Vc*C(1)*freeþ
+reported here, which was lower than that previously measured.                            Tm*C(3)/(KTþC(3));
+   The modeling analyses presented here can be used to                                 dCdt(2) ¼ 1/Vt*(free*Qd*C(1) - Qd*C(2));                  %[C(2)] ¼ mg/L
+estimate initial internal dose metrics for toxicity studies carried                    dCdt(3) ¼ 1/Vfil*(Qfil*C(1)*free-Vc*Tm*C(3)/              %[C(3)] ¼ mg/L
+                                                                                         (KTþC(3))-Qfil*C(3));
+out in adult mouse. Characterization of the uncertainties in the
+                                                                                       dCdt(4) ¼ -ka*C(4);                                       %[C(3)] ¼ mg
+parameter estimates permits some description of the uncertain-
+340                                                                         LOU ET AL.
+
+                               REFERENCES                                            Kennedy, G. L., Butenhoff, J. L., Olsen, G. W., O’Connor, J. C., Seacat, A. M.,
+                                                                                       Perkins, R. G., Biegel, L. B., Murphy, S. R., and Farrar, D. G. (2004). The
+Abbott, B. D., Wolf, C. J., Schmid, J. E., Das, K. P., Zehr, R. D., Helfant, L.,       toxicology of perfluorooctanate. Crit. Rev. Toxicol. 34, 351–384.
+  Nakayama, S., Lindstrom, A. B., Strynar, M. J., and Lau, C. S. (2007).             Kudo, N., Katakura, M., Sato, Y., and Kawashima, Y. (2002). Sex hormone-
+  Perfluorooctanoic acid (PFOA)-induced developmental toxicity in the mouse            regulated renal transport of perfluorooctanoic acid. Chem. Biol. Interact. 139,
+  is dependent on expression of peroxisome proliferator activated receptor-            301–316.
+  alpha (PPARa). Toxicol. Sci. 98, 571–581.                                          Kudo, N., and Kawashima, Y. (2003). Toxicity and toxicokinetics of
+Akaike, H. (1974). A new look at the statistical model identification. IEEE            perfluorooctanoic acid in humans and animals. J. Toxicol. Sci. 28, 49–57.
+  Trans. Automat. Contr. 19, 716–723.                                                Kudo, N., Sakai, A., Mitsumoto, A., Hibino, Y., Tsuda, T., and Kawashima, Y.
+Andersen, M. E., Butenhoff, J. L., Chang, S. C., Farrar, D. G., Kennedy, G. L.,        (2007). Tissue distribution and hepatic subcellular distribution of perfluor-
+
+
+
+
+                                                                                                                                                                         Downloaded from academic.oup.com/toxsci/article/107/2/331/1680685 by Applied Life Studies Library user on 02 October 2026
+  Jr., Lau, C., Olsen, G. W., Seed, J., and Wallace, K. B. (2008).                     ooctanoic acid at low dose are different from those at high dose in rats. Biol.
+  Perfluoroalkyl acids and related chemistries—Toxicokinetics and modes of             Pharm. Bull. 30, 1535–1540.
+  action. Toxicol. Sci. 102, 3–14.                                                   Lagarias, J. C., Reeds, J. A., Wright, M. H., and Wright, P. E. (1998).
+Andersen, M. E., Clewell, H. J., Tan, Y., Butenhoff, J. L., and Olsen, G. W.           Convergence properties of the Nelder-Mead Simplex Method in Low
+  (2006). Pharmacokinetic modeling of saturable, renal resorption of                   Dimensions. SIAM J. Optim. 9, 112–147.
+  perfluoroalkylacids in monkeys—Probing the determinants of long plasma             Lau, C., Anitole, K., Hodes, C., Lai, D., Pfahles-Hutchens, A., and Seed, J.
+  half-lives. Toxicology 227, 156–164.                                                 (2007). Perfluoroalkyl acids: A review of monitoring and toxicological
+Barbee, R. W., Perry, B. D., Ré, R. N., and Murgo, J. P. (1992). Microsphere          findings. Toxicol. Sci. 99, 366–394.
+  and dilution techniques for the determination of blood flows and volumes in        Lau, C., Thibodeaux, J. R., Hanson, R. G., Narotsky, M. G., Rogers, J. M.,
+  conscious mice. Am. J. Physiol. 263(3 Pt 2), R728–R733.                              Lindstrom, A. B., and Strynar, M. J. (2006). Effects of perfluorooctanoic acid
+Betts, K. S. (2007). Perfluoroalkyl acids: what is the evidence telling us?            exposure during pregnancy in the mouse. Toxicol. Sci. 90, 510–518.
+  Environ. Health Perspect. 115, A250–A256.                                          Lindstrom, M. J., and Bates, D. M. (1990). Nonlinear mixed effects models for
+Biegel, L. B., Hurtt, M. E., Frame, S. R., O’Connor, J. C., and Cook, J. C.            repeated measures data. Biometrics 46, 673–687.
+  (2001). Mechanisms of extrahepatic tumor induction by peroxisome                   Luippold, G., Pech, B., Schneider, S., Osswald, H., and Muhlbauer, B. (2002).
+  proliferators in male CD rats. Toxicol. Sci. 60, 44–55.                              Age dependency of renal function in CD-1 mice. Am. J. Physiol. Renal
+Butenhoff, J. L., Gaylor, D. W., Moore, J. A., Olsen, G. W., Rodricks, J.,             Physiol. 282, 886–890.
+  Mandel, J. H., and Zobel, L. R. (2004). Characterization of risk for general       Maher, J. M., Aleksunes, L. M., Dieter, M. Z., Tanaka, Y., Peters, J. M.,
+  population exposure to perfluorooctanoate. Regul. Toxicol. Pharmacol. 39,           Manautou, J. E., and Klaassen, C. D. (2008). Nrf2 and PPAR{alpha}-
+  363–380.                                                                            Mediated Regulation of Hepatic Mrp Transporters after Exposure to
+Calafat, A. M., Wong, L.-Y., Kuklenyik, Z., Reidy, J. A., and Needham, L. L.          Perfluorooctanoic Acid and Perfluorodecanoic Acid. Toxicol. Sci 106,
+  (2007). Polyfluoroalkyl chemicals in the U.S. population: Data from the             319–328.
+  National Health and Nutrition Examination Survey (NHANES) 2003-2004                Nakagawa, H., Hirata, T., Terada, T., Jutabha, P., Miura, D., Harada, K. H.,
+  and comparisons with NHANES 1999-2000. Environ. Health Perspect. 115,                Inoue, K., Anzai, N., Endou, H., Inui, K., et al. (2008). Roles of organic
+  1596–1602.                                                                           anion transporters in the renal excretion of perfluorooctanoic acid. Basic
+Cheng, X., and Klaassen, C. D. (2008). Critical role of PPAR{alpha} in                 Clin. Pharmacol. Toxicol. 103, 1–8.
+  perfluorooctanoic acid- and perfluorodecanoic acid-induced down-regulation         Olsen, G. W., Burris, J. M., Ehresman, D. J., Froehlich, J. W., Seacat, A. M.,
+  of Oatp uptake transporters in mouse livers. Toxicol. Sci. 106, 37–45.               Butenhoff, J. L., and Zobel, L. R. (2007). Half-life of serum elimination of
+Cook, J. C., Murray, S. M., Frame, S. R., and Hurtt, M. E. (1992). Induction of        perfluorooctanesulfonate, perfluorohexanesulfonate, and perfluooctanoate in
+  Leydig cell adenomas by ammonium perfluorooctanoate: A possible                      retired fluorochemical production workers. Environ. Health Perspect. 115,
+  endocrine-related mechanism. Toxicol. Appl. Pharmacol. 113, 209–217.                 1298–1305.
+Dai, J., Li, M., Jin, Y., Saito, N., Xu, M., and Wei, F. (2006).                     Pinheiro, J. C., and Bates, D. M. (2000). In Mixed-Effects Models in S and
+  Perfluorooctanesulfonate and periluorooctanoate in red panda and giant               S-PLUS. Springer, New York.
+  panda from China. Environ. Sci. Technol. 40, 5647–5652.                            Pinheiro, J. C., Bates, D. M., DebRoy, S., Sarkar, D., and R Core Team
+D’Errico, J. R. (2007). Automatic numerical differentiation, MatlabCentral.            (2007). In Nlme: Linear and Nonlinear Mixed Effects Models. R package
+  Available from: http://www.mathworks.com/matlabcentral/fileexchange/loadFile.        version 3, pp. 1–84. The R Foundation for Statistical Computing, Vienna,
+  do?objectId¼#3490. Accessed January 31, 2008.                                        Austria.
+Dietz, R., Bossi, R., Rigét, F. F., Sonne, C., and Born, E. W. (2008). Increasing   Qi, Z., Whitt, I., Mehta, A., Jin, J., Zhao, M., Harris, R. C., Fogo, A. B., and
+  perfluoroalkyl contaminants in east Greenland polar bears (Ursus maritimus):         Breyer, M. D. (2004). Serial determination of glomerular filtration rate in
+  A new toxic threat to the Arctic bears. Environ. Sci. Technol. 42, 2701–2707.        conscious mice using FITC-insulin clearance. Am. J. Physiol. Renal Physiol.
+Han, X., Yang, C. H., Snajdr, S. I., Nabb, D. L., and Mingoia, R. T. (2008).           286, 509–596.
+  Uptake of perfluorooctanoate in freshly isolated hepatocytes from male and         R Development Core Team. (2007). R: A Language and Environment for
+  female rats. Toxicol. Lett. 181, 81–86.                                              Statistical Computing. R Foundation for Statistical Computing, Vienna,
+Harada, K., Inoue, K., Morikawa, A., Yoshinaga, T., Saito, N., and                     Austria. ISBN 3-900051-07-0. http://www.R-project.org.
+  Koizumi, A. (2005). Renal clearance of perfluorooctane sulfonate and               Shampine, L. F., and Reichelt, M. W. (1997). The Matlab ODE suite. SIAM J.
+  perfluorooctanoate in humans and their species-specific excretion. Environ.          Sci. Comput. 18(1), 1–22.
+  Res. 99, 253–261.                                                                  Tan, Y. M., Clewell, H. J., 3rd, and Andersen, M. E. (2008). Time
+Hansen, K. J., Clemen, L. A., Ellefson, M. E., and Johnson, H. O. (2001).              dependencies in perfluorooctylacids disposition in rat and monkeys: A
+  Compound-Specific, Quantitative Characterization of Organic Fluorochem-              kinetic analysis. Toxicol. Lett. 177, 38–47.
+  icals in Biological Matrices. Environ. Sci. Technol. 35, 779–770.                  Trudel, D., Horowitz, L., Wormuth, M., Scheringer, M., Cousins, I. T., and
+Harris, L. A., and Barton, H. A. (2008). Comparing single and repeated dosimetry       Hungerbiihler, K. (2008). Estimating consumer exposure to PFOS and
+  data for perfluorooctane sulfonate in rats. Toxicol. Lett. 181, 148–156.             PFOA. Risk Anal. 28, 251–269.
+                                           SINGLE AND REPEATED DOSE PHARMACOKINETICS OF PFOA                                                                    341
+
+U.S. EPA. (2005). Draft risk assessment of the potential human health effects   White, S. S., Calafat, A. M., Kuklenyik, Z., Villanueva, L., Zehr, R. D., Helfant, L.,
+  associated with exposure to perfluorooctanoic acid and its salts (PFOA).       Strynar, M. J., Lindstrom, A. B., Thibodeaux, J. R., Wood, C., et al. (2007).
+  OPPT, Washington, DC. Available from: http://www.epa.gov/oppt/pfoa/            Gestational PFOA exposure of mice is associated with altered mammary gland
+  pubs/pfoarisk.pdf. Accessed September 28, 2008.                                development in dams and female offspring. Toxicol. Sci. 96, 133–144.
+Washburn, S. T., Bingman, T. S., Braithwaite, S. K., Buck, R. C.,               Wolf, C. J., Fenton, S. E., Schmid, J. E., Calafat, A. M., Kuklenyik, Z.,
+ Buxton, L. W., Clewell, H. J., Haroun, L. A., Kester, J. E., Rickard, R. W.,    Bryant, X. A., Thibodeaux, J. R., Das, K. P., White, S. S., Lau, C. S., et al.
+ and Shipp, A. M. (2005). Exposure assessment and risk characterization for      (2007). Developmental toxicity of perfluorooctanoic acid in the CD-1 mouse
+ perfluorooctanoate in selected consumer articles. Environ. Sci. Technol. 39,    after cross-foster and restricted gestational exposure. Toxicol. Sci. 95,
+ 3904–3910.                                                                      461–473.
+
+
+
+
+                                                                                                                                                                         Downloaded from academic.oup.com/toxsci/article/107/2/331/1680685 by Applied Life Studies Library user on 02 October 2026
+

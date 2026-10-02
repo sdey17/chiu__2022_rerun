@@ -1,0 +1,794 @@
+                                                     i An update to this article is included at the end
+
+
+
+
+                                                                        Toxicology Reports 6 (2019) 645–655
+
+
+                                                                     Contents lists available at ScienceDirect
+
+
+                                                                         Toxicology Reports
+                                                        journal homepage: www.elsevier.com/locate/toxrep
+
+
+
+
+Toxicokinetics of perﬂuorobutane sulfonate (PFBS), perﬂuorohexane-1-                                                                                                T
+sulphonic acid (PFHxS), and perﬂuorooctane sulfonic acid (PFOS) in male
+and female Hsd:Sprague Dawley SD rats after intravenous and gavage
+administration
+M.C. Huanga, A.L. Dzierlengaa, V.G. Robinsona, S. Waidyanathaa, M.J. DeVitoa, M.A. Eifridb,
+                                              ⁎
+C.A. Granvilleb, S.T. Gibbsb, C.R. Blystonea,
+a
+  Division of the National Toxicology Program, National Institutes of Environmental Health Sciences, National Institute of Health, Department of Health and Human
+Services, Research Triangle Park, NC 27709, United States
+b
+  Battelle Memorial Institute, Columbus, OH, 43201, United States
+
+
+
+
+A R T I C LE I N FO                                         A B S T R A C T
+
+Keywords:                                                   Perﬂuorinated alkyl substances (PFAS) are persistent contaminants that have been detected in the environment
+Perﬂuorinated alkyl acids                                   and in humans. With the PFAS chemical class, there are perﬂuorinated alkyl acids, many of which have been
+Perﬂuorinated chemicals                                     associated with certain toxicities. Because toxicity testing cannot feasibly be conducted for each individual PFAS,
+Rats                                                        the National Toxicology Program (NTP) designed studies to compare toxicities across diﬀerent subclasses of
+Toxicokinetics
+                                                            PFAS and across PFAS of diﬀerent chain lengths to better understand the structure-toxicity relationship.
+PFBS
+                                                            Pharmacokinetic studies were conducted in parallel to these toxicity studies to facilitate comparisons across
+PFHxS
+PFOS                                                        PFAS and to provide context for human relevance. Here, the toxicokinetic parameters of perﬂuorobutane sul-
+                                                            fonate (PFBS), perﬂuorohexane-1-sulphonic acid (PFHxS), or perﬂuorooctane sulfonate (PFOS) after a single
+                                                            intravenous or gavage administration in male and female Hsd:Sprague-Dawley rats are reported. Concentrations
+                                                            of these PFAS were measured in the liver, kidney, and brain. Plasma half-life increased with longer chain length
+                                                            after gavage administration: PFBS- males averaged 3.3 h, females 1.3 h; PFHxS- males averaged 16.3 days, fe-
+                                                            males 2.1 days; PFOS- males and females averaged ˜ 20 days. There were dose-dependent changes in clearance
+                                                            and systemic exposure for all administered chemicals and the direction of change was diﬀerent in PFOS com-
+                                                            pared to the others. Liver:plasma ratios of PFOS were the highest followed by PFHxS and PFBS, while brain:-
+                                                            plasma ratios were low in all three sulfonates. Sex diﬀerences in plasma half-life and tissue distribution were
+                                                            observed for PFBS and PFHxS, but not PFOS. These data provide a direct comparison of the kinetics of three
+                                                            diﬀerent perﬂuoroalkyl sulfonic acids and allow for the contextualization of toxicity data in rats for human risk
+                                                            assessment of this chemical class.
+
+
+
+
+1. Introduction                                                                                   environment and the estimated long half-life of PFAS in human sera
+                                                                                                  have led to the removal or reduced use of PFAS like perﬂuorooctanoic
+    Poly- and perﬂuorinated alkyl substances (PFAS) are used in a                                 acid (PFOA) and perﬂuorooctane sulfonate (PFOS). Replacement PFAS,
+variety of products to impart repellency of water, oil, and/or grease.                            many of which have shorter carbon chains, have been developed [5].
+They contain chains of carbons bonded to ﬂuorines and some contain                                Some studies show that these replacement chemicals are less toxic for
+other functional groups, such as carboxylate or sulfonate moieties. Due                           some endpoints (Mahpatra et al., 2017) but others indicate that shorter-
+to their chemical properties, PFAS are resistant to degradation and                               chained PFAS still have biological eﬀects which may be toxic [6,7].
+persist in the environment and in organisms [1]. Additionally, rodent                                 Part of the decrease in toxicity observed with the shorter-chain
+and human studies have identiﬁed a variety of adverse eﬀects asso-                                PFAS has been attributed to diﬀerences in toxicokinetics. Toxicokinetic
+ciated with PFAS exposure, including liver, endocrine, developmental,                             properties of PFAS often vary with chain length, where shorter,
+and immune toxicity, among others [2–4]. The presence of PFAS in the                              straight-chain PFAS are eliminated faster than the longer chain varieties
+
+
+  ⁎
+      Corresponding author at: Division of the National Toxicology Program, NIEHS, PO Box 12233 (MD K2-12), Research Triangle Park, NC, 27709, United States.
+      E-mail address: blystonecr@niehs.nih.gov (C.R. Blystone).
+
+https://doi.org/10.1016/j.toxrep.2019.06.016
+Received 6 May 2019; Received in revised form 25 June 2019; Accepted 27 June 2019
+Available online 28 June 2019
+2214-7500/ Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+M.C. Huang, et al.                                                                                                              Toxicology Reports 6 (2019) 645–655
+
+
+(Ohmari, 2003; [8]). Kinetic properties can also vary greatly depending              2. Materials and methods
+on the sex and species/strain in which the study was conducted. PFOA
+displays a large sex diﬀerence in rats [9,10], with a half-life on the               2.1. Chemicals
+order of hours in female rats but days in male rats. Rodents often dis-
+play a faster elimination for some long-chain PFAS than humans, ty-                      Potassium perﬂuorobutane sulfonate (KPFBS; CAS# 29420-49-3;
+pically within hours, whereas in humans the corresponding half-life                  Lot# 20070201; Ivy Fine Chemicals), perﬂuorohexane-1-sulphonic acid
+may extend on the order of years [11]. The high variability of PFAS                  potassium salt (PFHxSKlt; CAS# 3871-99-6; Lot# 230002; Interchim),
+toxicokinetics makes it challenging to interpret animal toxicity data and            and perﬂuorooctane sulfonate (PFOS; CAS# 1763-23-1; Lot# T20 G;
+extrapolate toxicity to humans in the absence of toxicokinetic data. In              Matrix Scientiﬁc), were purchased commercially. Chemical identity was
+addition, any comparison of toxicities across chemicals, e.g. long chain             conﬁrmed by infrared spectroscopy, 13C and 19F nuclear magnetic re-
+vs short chain, would also necessitate an understanding of the absorp-               sonance       (NMR)      spectroscopy.     Purity    (KPFBS = 96%;
+tion, distribution, and elimination of each PFAS in the same animal                  PFHxSKslt = 99.9%; PFOS = 96.7%) was determined by a combination
+strain, species and sex.                                                             of ion chromatography, and gas chromatography (GC) with ﬂame io-
+    The increasing use of replacement PFAS creates a need for com-                   nization or electron capture detection (ECD).
+parative toxicity studies, particularly between diﬀerent subclasses and
+chain lengths, to help predict toxicity of new PFAS. To contribute to this           2.2. Animals
+eﬀort, the National Toxicology Program (NTP) conducted subchronic
+toxicity studies of seven perﬂuorinated alkyl acids, a subgroup of PFAS,                 Male and female Hsd:Sprague Dawley rats, approximately eight
+in male and female Hsd:Sprague-Dawley rats; three sulfonates and four                weeks of age, were purchased from Harlan Laboratories, Inc. (now
+carboxylates with varying chain lengths (reported in NTP Toxicity                    Envigo, Inc., Indianapolis, IN) and delivered to Battelle (Columbus,
+Reports 96 and 97). Toxicokinetic studies were completed in the same                 OH). Prior to shipment, jugular catheters were implanted in rats for
+strain to complement these toxicity studies, providing information on                intravenous (IV) administration. Irradiated NTP-2000 feed (Zeigler
+internal dose to enable translation of the toxicities observed. Here, we             Brothers, Inc., Gardners, PA) was provided ad libitum. Animals were
+report the plasma kinetic parameters and tissue concentrations of the                maintained on a 12:12 light cycle. Prior to dosing, rats were rando-
+three perﬂuoroalkyl sulfonic acids: perﬂuorobutane sulfonate                         mized using a partitioning algorithm program (Xybion PATH/TOX
+(C4HF9O3S; PFBS), perﬂuorohexane-1-sulphonic acid (C6HF13O3S;                        SYSTEM, Xybion Medical Systems Corporation, Version 4.2.2) to ensure
+PFHxS), and perﬂuorooctane sulfonate (C8HF17O3S; PFOS) (Fig. 1), in                  that mean body weights of rats in each group were similar. Additional
+male and female Hsd:Sprague-Dawley rats.                                             animals were included as replacements in the event that dosing was
+                                                                                     believed to be incomplete or an insuﬃcient volume of blood was col-
+                                                                                     lected.
+
+                                                                                     2.3. Dose formulation and administration
+
+                                                                                         Doses for each chemical are given in Table 1. All chemicals were
+                                                                                     formulated in 2% Tween 80 (pH 6–8) in deionized water. Since the
+                                                                                     primary objective of the study was to evaluate the kinetics of the che-
+                                                                                     micals and not necessarily toxicity, no vehicle control group was in-
+                                                                                     cluded. All formulations were analyzed by high performance liquid
+                                                                                     chromatography using validated analytical methods (r ≥ 0.99; preci-
+                                                                                     sion ≤ 5%; accuracy, ≤ ± 10%). All gavage formulations were within
+                                                                                     10% of the target concentration. A single bolus IV (4 mL/kg) or gavage
+                                                                                     dose (three dose levels; 5 mL/kg) was administered based on the body
+                                                                                     weight on the day of dosing. For PFOS, repeat doses, 2 mg/kg/d for ﬁve
+                                                                                     days, were administered to compare kinetics to the single administra-
+                                                                                     tion. The chemicals PFBS and PFHxS were purchased as salts but the
+                                                                                     measurement in blood and tissues was as the original chemical. Thus,
+                                                                                     when discussing the dose, the abbreviation for the ion form is used
+                                                                                     whereas in the results, the abbreviated chemical name is used (e.g.
+                                                                                     KPFBS vs. PFBS).
+
+                                                                                     2.4. Sample collection
+
+                                                                                         Blood was collected at 10–13 time points (n = 3/time point) de-
+                                                                                     termined based on the preliminary studies and literature. Each animal
+                                                                                     was bled twice at most. Actual times for blood collection were recorded
+                                                                                     at each time point; target blood collection times are shown in Table 1.
+                                                                                     Rats were anesthetized with 70% CO2 (30% O2) and blood was col-
+                                                                                     lected via the retro-orbital sinus (˜ 0.7 mL) into glass tubes containing
+                                                                                     ethylenediaminetetraacetic acid, gently inverted, and placed on wet ice
+                                                                                     until separated into plasma. Plasma was separated by centrifugation at
+                                                                                     1750 x g for 10 min at 4 °C and stored at -20 °C. In speciﬁc gavage dose
+                                                                                     groups (20 mg/kg for KPFBS; 16 mg/kg for PFHxSKlt; 2 mg/kg, 20 mg/
+                                                                                     kg, and 2 mg/kg x 5 for PFOS), the liver, kidney, and brain were col-
+Fig. 1. Sulfonate perﬂuorinated alkyl acids evaluated: perﬂuorobutane sulfo-         lected from 3 animals per timepoint to measure chemical concentra-
+nate (PFBS), perﬂuorohexane-1-sulphonic acid (PFHxS), or perﬂuorooctane              tions. Due to anticipated diﬀerences in kinetics, each chemical was
+sulfonate (PFOS).                                                                    evaluated at a diﬀerent range of time points for tissue collection: PFBS-
+
+                                                                               646
+M.C. Huang, et al.                                                                                                                    Toxicology Reports 6 (2019) 645–655
+
+
+Table 1
+The route of administration and doses administered for the three sulfonates.
+    Chemical                  Route               Dose                   Dose                      Time points of blood collection
+    Administered                                  (mg/kg)                (mmol/kg)
+
+    KPFBS                     IV                  4                      0.0118                    0.083, 0.25, 0.5, 0.75, 1, 1.5, 3, 6, 12, 24, 48 hrs (M & F)
+                              Gavage              4                      0.0118                    0.083, 0.25, 0.5, 0.75, 1, 1.5, 3, 6, 9, 12, 24, 48 hrs (M & F)
+                                                  20                     0.0591
+                                                  100                    0.2957
+    PFHxSK                    IV                  4                      0.0091                    0.083, 0.25, 0.5, 1, 3, 6, 12, 24, 192, 528, 864, 1200 hrs (M)
+                                                                                                   0.083, 0.25, 0.5, 1, 3, 6, 12, 24, 48, 96, 192, 288, 528 hrs (F)
+                              Gavage              4                      0.0091                    0.25, 1, 3, 6, 12, 24, 192, 528, 864, 1200 hrs (M)
+                                                  16                     0.0365                    0.25, 1, 3, 6, 12, 24, 48, 96, 192, 288, 528 hrs (F)
+                                                  32                     0.0730
+    PFOS                      IV                  2                      0.004                     0.083, 1, 6, 12, 24, 192, 528, 864, 1200 hrs, 11, 15, 20 wks (M & F)
+                              Gavage              2                      0.004                     0.083, 1, 6, 12, 24, 192, 528, 864, 1200 hrs, 11, 15, 20 wks (M & F)
+                                                  2 (x 5)a               0.020b
+                                                  20                     0.040
+
+a
+    Dose administered for 5 days.
+b
+    Total dose administered.
+
+0.5, 1, 3, 6, 12 h; PFHxS- 3, 6, 12, 24, 192, 538, 1200 h; PFOS- 6, 24,              85:15 (v/v)) was run at an isocratic gradient at a ﬂow rate of 500 μL/
+864, 1704, 3216 h.                                                                   minute. Turbo Ionspray™ (Sciex) ionization sources were operated in
+                                                                                     the negative ion mode.
+                                                                                         A quadratic regression with 1/x weighing was used to relate
+2.5. Sample preparation and analysis                                                 LC–MS/MS peak area response ratio of analyte to IS with the con-
+                                                                                     centration of calibration standards. The concentration in samples was
+    An analytical method using protein precipitation followed by liquid              calculated using the response ratio, the regression equation, initial
+chromatography (LC) tandem mass spectrometry (MS/MS) was used to                     sample volume, and when applicable dilution. The concentration in
+quantitate PFBS, PFHxS, and PFOS in Hsd:Sprague Dawley rat plasma,                   plasma was expressed as ng/mL and in tissues as ng/g. The limit of
+liver, kidney, and brain. The validation included an assessment of lin-              quantitation (LOQ) in plasma was 25 ng/mL and 5 ng/g of organ tissue.
+earity (r), inter- and intraday accuracy (estimated as standard error,               All concentrations above LOQ were reported. Data from study samples
+RE), and inter- and intraday precision (estimated as relative standard               were considered valid if: the matrix calibration curve was linear
+deviation, RSD), absolute recovery, extract and matrix stability, re-                (r ≥ 0.99); at least 75% of matrix standards were within 15% of nom-
+injection reproducibility, and limit of detection (LOD). Analytical                  inal (except at the LOQ where it was 20%); at least 67% of the QC
+method validation parameters are given in Supplemental Table S1-S4.                  samples were within 15% of nominal values.
+    Stock solutions of chemical analyte were prepared in methanol and
+further diluted in either methanol (plasma PFBS) or acetonitrile then in
+American Society for Testing and Materials (ASTM) Type I water to                    2.6. Toxicokinetic (TK) modeling
+generate concentrations of standards in the working range. Stock so-
+lutions of the internal standard (IS) was prepared in methanol and di-                   All concentrations above LOQ were used in TK analysis. Semi-log
+luted in either acetonitrile (plasma PFBS) or ASTM Type I water fol-                 plots of the plasma and tissue (liver, kidney, and brain) concentration
+lowed by dilution in 1% formic acid in acetonitrile (plasma PFBS),                   versus time data sets were prepared by sex, by dose, and by route of
+10 mM ammonium acetate, pH 5.0 (plasma PFHxS) or in ASTM Type 1                      administration. WinNonlin (Version 5.0.1, Pharsight Corporation,
+water to generate working IS solutions. Matrix calibration curves were               Mountain View, CA) was used for TK analysis. Individual animal con-
+prepared in duplicate by adding the standard solutions to blank rat                  centration-time values were used to ﬁnd a model that best ﬁt the data
+plasma/tissue. Quality control (QC) samples were prepared in blank rat               set. One- and/or two-compartment models with and without weighting
+plasma/tissue using a procedure similar to that for the matrix stan-                 were tested based on the appearance of the plasma concentration vs.
+dards, using an independent stock solution. Matrix blanks were pre-                  time plot. The model and the weighting factor that resulted in the best
+pared the same as matrix standards except the addition of the analyte.               goodness of ﬁt were selected as the ﬁnal model. The primary and sec-
+    Tissues (100–300 mg) were homogenized in a volume of ASTM Type                   ondary parameters, including a measure of their variability, were es-
+1 water ten times the volume of the tissue. For plasma, 100 μL of IS                 timated using the WinNonlin software.
+solution (PFHxS: 200 ng/mL; PFOS: 500 ng/mL), was added to 100 μL                        Cmax is the maximal plasma concentration, with the time of max-
+of plasma and mixed thoroughly. For PFBS, 400 μL of IS (50 ng/mL) was                imum concentration as Tmax. Assuming ﬁrst-order kinetics, half-lives for
+added. For tissues, 200 μL of IS (100 ng/mL) was added to 100 μL of                  the initial (α T1/2) and terminal (β T1/2) elimination phases were cal-
+tissue homogenate. Then, 0.05 N potassium hydroxide in 1:1 metha-                    culated as 0.693/α and 0.693/β, respectively, where α and β are the bi-
+nol:water was added to the homogenates and rotated for 12 h for di-                  exponential disposition rate constants. Half-lives for the absorption (k01
+gestion. Samples were neutralized with 0.1 N hydrochloric acid, vor-                 half-life) and elimination (k10 half-life) were calculated as 0.693/k01
+texed and centrifuged. The supernatant was analyzed by LC–MS/MS.                     and 0.693/k10, respectively. Apparent volume of central (V1) and per-
+Matrix calibration standards, QC samples and matrix blanks were also                 ipheral (V2) distribution and apparent clearance (CL) were calculated
+prepared in the same manner as study samples and run with each batch                 using standard equations [12]. Bioavailability was calculated using the
+of samples.                                                                          area under the curve (AUC) and the equation:
+    The LC–MS/MS system used was an Agilent 1100 and 1200 (Santa
+                                                                                     F% = [AUC(gavage))/(Dose(gavage)]/ [AUC(IV))/(Dose(IV)] *100
+Clara, CA) coupled to a Sciex API 3000, 4000 Q Trap, or 5000 mass
+spectrometer (Toronto, Canada). Chromatography was performed using                      To facilitate comparisons, plasma concentrations and kinetic para-
+a Luna C18(2)-HST column (C18, 100 x 3.0 mm, 2.5 μm for PFBS;                        meters were converted to a molar basis using the molecular weight of
+Phenomenex, Torrance, CA). For the analysis of PFBS, mobile phase                    PFBS (300.1 g/mol), PFHxS (400.1 g/mol), and PFOS (500.1 g/mol).
+(0.1% formic acid in acetonitrile: 1 mM aqueous ammonium acetate,                    The dose administered was converted to a mmol/kg value using the
+
+                                                                               647
+M.C. Huang, et al.                                                                                                            Toxicology Reports 6 (2019) 645–655
+
+
+
+
+Fig. 2. Plasma concentrations (nM; mean and SEM) of PFBS, PFHxS, or PFOS in male and female Hsd:Sprague-Dawley rats after a single administration of chemical.
+Three gavage and one iv dose were administered.
+
+
+molecular weight of the KPFBS (338.2 g/mol), PFHxSK (438.2 g/mol),                 1.1 and 1.5 h in female rats, which was approximately 2 to 3-fold faster
+and PFOS (500.1 g/mol) (Table 1).                                                  than males. The AUC was 3 to 6-fold lower in females compared to
+                                                                                   males given the same dose; clearance was around 3 to 6-fold higher in
+                                                                                   females. As observed in males, the dose-adjusted AUC decreased while
+3. Results
+                                                                                   clearance increased with increasing doses. The overall volume of dis-
+                                                                                   tribution (V1+V2) was similar for both males (167–335 mL/kg) and
+   There were no animals found dead or moribund due to toxicity and
+                                                                                   females (165–415 mL/kg). Bioavailability was generally higher in fe-
+no treatment-related clinical signs observed following an IV or gavage
+                                                                                   males than males and decreased in both sexes with increasing dose.
+administration at any dose level for the three PFAS.
+                                                                                       Liver, kidney, and brain tissues were collected at selected time
+                                                                                   points in the 20 mg/kg group of male and female rats up to 12 h post-
+3.1. PFBS                                                                          dose. Liver and kidney concentrations of PFBS were below the detection
+                                                                                   limit at the last measured time point in females. Brain concentrations
+    Plasma concentrations of PFBS over time are shown in Fig. 2A and               were detected in all but the last time point in males and only at the ﬁrst
+B. A two-compartment model was the best ﬁt for male rats (IV and                   time point in females. Overall, concentrations of PFBS were higher in
+gavage) and female rats (IV) while a one-compartment model was a                   the liver than in the kidney in both sexes. PFBS concentrations in all
+better ﬁt for the female gavage exposure data. Toxicokinetic parameters            tissues decreased slightly over time, with females having a faster de-
+for PFBS are shown in Table 2. After IV administration, the Cmax in                crease than males (Fig. 3A, B). In males, liver:plasma ratios were gen-
+males was 0.118 mM. The overall plasma elimination (k10) half-life was             erally above 1, dropping below 1.0 at 12 h, while kidney:plasma ratios
+around 2 h. In females, the Cmax was similar to that in males. The k10             remained around 0.29 to 0.38 (Fig. 3C). In female rats, the liver:plasma
+half-life was 6-fold faster in females compared to males, 0.36 h. The              ratios were lower and kidney:plasma ratios were higher than those in
+AUC was approximately 7-fold lower and clearance was 7-fold faster in              males (Fig. 3D). Brain:plasma ratios ranged from 0.01 to 0.02 in males
+females.                                                                           and was 0.02 in females at 0.5 h (data not shown).
+    In males administered KPFBS by gavage, Cmax was reached by 1.4 to
+2.4 h. The k10 half-life ranged from 2.7 to 4.4 h. Cmax and AUC in-
+creased with dose in male rats, but these increases did not appear to be           3.2. PFHxS
+dose-proportional. The dose-adjusted AUC decreased roughly 3-fold
+from the 4 to 100 mg/kg dose, while clearance increased 3-fold. In fe-                Plasma concentrations of PFHxS over time are shown in Fig. 2C and
+male rats, Cmax was lower and reached earlier than in males; Tmax was              D. A two-compartment model was used to describe the data after an IV
+under 1.5 h for all dose groups. The average k10 half-life was between             administration while a one-compartment model was used for gavage
+
+                                                                             648
+M.C. Huang, et al.                                                                                                               Toxicology Reports 6 (2019) 645–655
+
+
+Table 2
+Summary of pharmacokinetic properties (mean ± SEM) in plasma after a single IV or gavage dose (three dose levels) of KPFBS in male and female Hsd:Sprague
+Dawley Rats.
+                               Male                                                              Female
+
+  Dose (mg/kg)                 4a (IV)         4a              20a              100a             4a (IV)         4b              20b               100b
+
+  Cmaxc (mM)                   0.118 ± 0.017   0.053 ± 0.008   0.250 ± 0.026    0.750 ± 0.070    0.104 ± 0.016   0.028 ± 0.001   0.129 ± 0.006     0.422 ± 0.035
+  Tmaxc (hr)                   n/a             2.37 ± 0.56     2.18 ± 0.24      1.42 ± 0.18      n/a             0.99 ± 0.13     0.71 ± 0.16       1.42 ± 0.27
+  k10 T1/2 (hr)                2.26 ± 0.33     4.37 ± 18.1     2.73 ± 0.84      2.86 ± 0.39      0.36 ± 0.03     1.50 ± 0.10     1.23 ± 0.12       1.11 ± 0.10
+  α T1/2 (hr)                  0.53 ± 0.25     1.37 ± 31.5     2.37 ± 1.07      2.60 ± 0.61      0.28 ± 0.03     n/a             n/a               n/a
+  β T1/2 (hr)                  4.22 ± 0.28     4.89 ± 1.67     5.36 ± 1.24      5.25 ± 1.19      0.95 ± 0.10     n/a             n/a               n/a
+  AUCc (μM*hr)                 0.387 ± 0.023   0.513 ± 0.050   1.776 ± 0.150    4.399 ± 0.332    0.053 ± 0.004   0.088 ± 0.011   0.364 ± 0.078     1.289 ± 0.165
+  AUCc / Dose (μM *hr/mg/kg)   0.097 ± 0.006   0.128 ± 0.012   0.089 ± 0.007    0.044 ± 0.003    0.013 ± 0.001   0.022 ± 0.003   0.018 ± 0.004     0.013 ± 0.002
+  CL (mL/hr/kg)                34.5 ± 2.0      26.0 ± 2.5      37.6 ± 3.1       75.5 ± 5.8       252 ± 18        152 ± 20        183 ± 39          259 ± 33
+  V1 (mL/kg)d                  113 ± 16        164 ± 677       148 ± 52         311 ± 55         123 ± 12        328 ± 57        326 ± 95          415 ± 83
+  V2 (mL/kg)e                  74.8 ± 18.8     13.3 ± 544      19.0 ± 17.7      23.9 ± 19.5      42 ± 7          n/a             n/a               n/a
+  Ff (%)                       n/a             133             92               46               n/a             166             137               97
+
+n/a: not applicable.
+CL=clearance.
+F=bioavailability.
+T1/2=half-life.
+a
+   Two-compartment model.
+b
+   One-compartment model.
+c
+  Predicted from model.
+d
+  Volume of distribution for the central compartment.
+e
+  Volume of distribution for the peripheral compartment.
+f
+  Estimated by dividing dose-normalized IV AUC by dose-normalized Gavage AUC.
+
+administration (Fig. 2C, D). Toxicokinetic parameters for PFHxS are                  7 h. The k10 half-life was around 2 weeks. The dose-adjusted AUC de-
+shown in Table 3. After IV administration, male rats had a Cmax of                   creased with increasing dose and clearance remained approximately the
+0.11 mM and a k10 half-life of 13 days. Female rats had a similar Cmax               same. Females tended to have slightly lower Cmax at the same ad-
+but the k10 half- life was ˜18-fold shorter, 0.7 days. AUC was 14-fold               ministered dose and earlier Tmax. k10 half-life was ˜7.5-fold shorter than
+lower and clearance approximately 14-fold higher in female rats com-                 in males. The AUC was 10-fold lower and clearance 10-fold faster in
+pared to males.                                                                      females compared to males. The overall volume of distribution
+   After gavage administration, the Cmax in males was reached within                 (V1+V2) was similar for both males (123–224 mL/kg) and females
+
+
+
+
+Fig. 3. Tissue concentrations (nM; mean and SEM) and tissue:plasma ratios (mean and SEM) in male (A, C) and female (B, D) Hsd:Sprague-Dawley rats after a single
+gavage administration of KPFBS (20 mg/kg).
+
+
+                                                                               649
+M.C. Huang, et al.                                                                                                                Toxicology Reports 6 (2019) 645–655
+
+
+Table 3
+Summary of pharmacokinetic properties (mean ± SEM) after a single IV or gavage dose (three dose levels) of PFHxSK in male and female Hsd:Sprague Dawley Rats.
+                               Male                                                                 Female
+
+                                        a        b                   b                 b
+  Dose (mg/kg)                 4 (IV)          4                16                32                4 (IV) a        4b             16 b             32 b
+
+  Cmaxc (mM)                   0.11 ± 0.01     0.08 ± 0.01      0.29 ± 0.02       0.41 ± 0.04       0.15 ± 0.03     0.06 ± 0.01    0.21 ± 0.02      0.30 ± 0.02
+  Tmaxc (hr)                   n/a             6.90 ± 1.26      5.89 ± 0.82       5.28 ± 0.99       n/a             2.81 ± 0.38    2.24 ± 0.48      1.87 ± 0.43
+  k10 T1/2 (days)              13.0 ± 1.5      17.6 ± 1.8       16.5 ± 1.1        14.8 ± 1.2        0.70 ± 0.08     2.33 ± 0.07    2.19 ± 0.06      1.98 ± 0.05
+  α T1/2 (hr)                  13.0 ± 3.8      n/a              n/a               n/a               0.70 ± 0.31     n/a            n/a              n/a
+  β T1/2 (days)                33.8 ± 6.4      n/a              n/a               n/a               1.56 ± 0.04     n/a            n/a              n/a
+  AUCc (μM*hr)                 50.74 ± 4.97    49.74 ± 4.00     167.0 ± 9.5       212.7 ± 15.0      3.65 ± 0.17     5.20 ± 0.22    16.30 ± 1.02     20.84 ± 1.30
+  AUCc / Dose (μM *hr/mg/kg)   12.7 ± 1.4      12.4 ± 1.0       10.4 ± 0.6        6.65 ± 0.47       0.912 ± 0.044   1.30 ± 0.06    1.02 ± 0.06      0.651 ± 0.041
+  CL (mL/hr/kg)                0.197 ± 0.019   0.201 ± 0.016    0.239 ± 0.014     0.376 ± 0.027     2.73 ± 0.13     1.92 ± 0.09    2.46 ± 0.15      3.84 ± 0.24
+  V1d (mL/kg)                  88.4 ± 5.1      123 ± 11         137 ± 9           192 ± 17          66.3 ± 7.6      155 ± 9        186 ± 14         264 ± 20
+  V2e (mL/kg)                  136 ± 27        n/a              n/a               n/a               77.6 ± 10.8     n/a            n/a              n/a
+  Ff (%)                       n/a             98               82                52                n/a             142            112              71
+
+n/a: not applicable.
+CL=clearance.
+F=bioavailability.
+T1/2=half-life.
+a
+  Two-compartment model.
+b
+  One-compartment model.
+c
+   Predicted from model.
+d
+  Volume of distribution for the central compartment.
+e
+  Volume of distribution for the peripheral compartment.
+f
+  Estimated by dividing dose-adjusted IV AUC by dose-adjusted Gavage AUC.
+
+(155–264 mL/kg). Bioavailability decreased approximately 2-fold with                  time (Fig. 4B). Liver:plasma ratios were less than one at all time points
+increasing dose in both males and females.                                            (range of 0.50 to 0.82) and increased over time (Fig. 4C). In females,
+    Following a single gavage administration of 16 mg/kg PFHxSK in                    liver:plasma ratios ranged from 0.29 to 0.55 and had minimal changes
+male and female rats, PFHxS was detected in the liver and kidney at all               over time (Fig. 4D). Kidney:plasma ratios were between 0.23 and 0.31
+timepoints (Fig. 4A). In the brain, PFHxS was below detection limit at                in males and 0.26 and 0.44 in females with minimal change over time.
+the last time point in males and at the last two time points in females.              Brain:plasma ratios of PFHxS were low in both sexes, ranging from
+Concentrations of PFHxS were highest in the liver and around 1 to 3-                  0.01-0.02 (data not shown).
+fold less in the kidney. In the brain, PFHxS concentrations were ˜40-fold
+lower than liver concentrations. In females, tissue concentrations of
+PFHxS were similar to concentrations in males but decreased faster over
+
+
+
+
+Fig. 4. Tissue concentrations (nM; mean and SEM) and tissue:plasma ratios (mean and SEM) in male (A, C) and female (B, D) Hsd:Sprague-Dawley rats after a single
+gavage administration of PFHxSK (16 mg/kg).
+
+
+                                                                                650
+M.C. Huang, et al.                                                                                                               Toxicology Reports 6 (2019) 645–655
+
+
+Table 4
+Summary of pharmacokinetic properties (mean ± SEM) after a single IV, single gavage dose (2 and 10 mg/kg), or repeated dose (2 mg/kg/day for ﬁve days) of PFOS
+in male and female Hsd:Sprague Dawley Rats.
+                               Male                                                              Female
+
+  Dose (mg/kg)                 2 (IV)          2               2 (x5)a         20                2 (IV)          2               2 (x5)a          20
+
+  Cmaxb (mM)                   0.01 ± 0.01     0.01 ± 0.01     0.11 ± 0.01     0.21 ± 0.03       0.01 ± 0.01     0.02 ± 0.01     0.14 ± 0.02      0.27 ± 0.03
+  Tmaxb (hr)                   n/a             14.3 ± 2.7      0.94 ± 0.15     16.4 ± 2.78       n/a             12.2 ± 5.2      0.92 ± 0.16      13.7 ± 3.3
+  k10 T1/2 (days)              22.0 ± 2.1      19.9 ± 3.8      19.0 ± 3.2      14.5 ± 2.1        23.0 ± 3.7      28.4 ± 11.0     21.1 ± 4.3       18.0 ± 3.1
+  α T1/2 (days)                4.6 ± 2.7       3.1 ± 2.4       0.3 ± 0.1       4.0 ± 2.9         0.3 ± 0.3       0.8 ± 2.1       0.3 ± 0.2        2.2 ± 3.0
+  β T1/2 (days)                39.7 ± 4.4      40.5 ± 5.5      33.4 ± 4.2      35.8 ± 4.2        32.8 ± 3.7      40.7 ± 3.5      40.0 ± 2.5       36.0 ± 4.0
+  AUCb (μM*hr)                 7.32 ± 0.42     9.86 ± 0.74     58.18 ± 3.00    149.76 ± 10.60    10.72 ± 0.78    17.74 ± 1.02    89.18 ± 5.00     213.94 ± 16.00
+  AUCb / Dose (μM *hr/mg/kg)   3.66 ± 0.21     4.93 ± 0.37     5.82 ± 0.30     7.49 ± 0.53       5.36 ± 0.39     8.87 ± 0.51     8.92 ± 0.50      10.67 ± 0.80
+  CL (mL/hr/kg)                0.546 ± 0.031   0.406 ± 0.031   0.068 ± 0.004   0.267 ± 0.019     0.373 ± 0.027   0.226 ± 0.013   0.045 ± 0.003    0.186 ± 0.013
+  V1c (mL/kg)                  417 ± 31        280 ± 48        176 ± 27        34.6 ± 4.8        297 ± 43        222 ± 84        136 ± 25         27.9 ± 4.7
+  V2d (mL/kg)                  264 ± 71        244 ± 81        123 ± 42        43.9 ± 7.7        124 ± 62        93.4 ± 93.0     86.3 ± 37.3      27.5 ± 6.5
+  Fe (%)                       n/a             135             159             205               n/a             165             166              200
+
+n/a: not applicable.
+F = Bioavailability.
+T1/2=half-life.
+a
+   Dose administered over ﬁve days.
+b
+   Predicted from model (two-compartment).
+c
+  Volume of distribution for the central compartment.
+d
+  Volume of distribution for the peripheral compartment.
+e
+  Estimated by dividing dose-adjusted IV AUC by dose-adjusted Gavage AUC.
+
+3.3. PFOS                                                                            ratio was close to one in males and between 1 and 2 in female rats;
+                                                                                     these ratios remained steady over time (Fig. 6C, D). Brain:plasma ratios
+    Plasma concentrations of PFOS over time are shown in Fig. 2E and                 ranged from 0.06 to 0.12 in males and 0.04 to 0.10 in females in the
+F. A two-compartment model was used to describe the plasma con-                      20 mg/kg group, with no apparent change over time (Fig. 6E, F). Repeat
+centration data after IV and gavage exposure (single or repeat dosing of             gavage dosing of 2 mg/kg over ﬁve days led to brain:plasma ratios of
+PFOS). Toxicokinetic parameters are shown in Table 4. After IV ad-                   0.09-0.13 in both sexes.
+ministration in males, the Cmax was 0.01 mM and the k10 half-life was
+22 days. There were no sex diﬀerences observed.                                      4. Discussion
+    After gavage administration of 2 mg/kg, the Cmax in male rats was
+similar to the Cmax reached with IV administration and the Tmax was                       Understanding the kinetics of PFAS in animals, which can vary due
+14 h (Table 4). The Cmax reached in the 20 mg/kg dose group was                      to multiple factors including carbon chain length as well as the sex and
+proportional, 0.21 mM. Additionally, the Cmax in animals following                   strain of the animal, is important for evaluating the human relevance of
+repeat dosing (10 mg/kg total dose) was about half of the Cmax seen                  PFAS toxicity studies and for comparing across subclasses of PFAS.
+with a single dose of 20 mg/kg. The plasma k10 half-life ranged from 14              Thus, to inform the interpretation of the NTP’s toxicity data, the NTP
+to 19 days for all doses. The AUC increased proportionally with dose,                evaluated the toxicokinetics of seven PFAS chemicals in male and fe-
+indicated by only slight increases in the dose-adjusted AUC. Clearance               male Hsd:Sprague-Dawley rats. Here, we report toxicokinetic para-
+in animals dosed with 20 mg/kg was lower than clearance in 2 mg/kg                   meters and tissue concentrations for three of these chemicals: PFBS,
+animals. Clearance following repeat dosing was 4 to 6-fold lower than                PFHxS, and PFOS. Since humans are exposed to PFAS primarily through
+the clearance observed with single administration doses. In female rats,             drinking water, the oral gavage experiments are more pertinent; the IV
+the Cmax, Tmax, and k10-half-life were similar to those in male rats. The            experiments were used to determine bioavailability.
+AUC was on average 1.5-fold higher and clearance 1.5-fold lower in                        Following gavage administration, absorption of all three PFAS oc-
+females compared to males. Bioavailability slightly increased in both                curred within 24 h, along with distribution into tissues. PFBS, PHFxS,
+males and females with increasing dose. The overall volume of dis-                   and PFOS were detected in the liver, kidney, and brain with the most
+tribution (V1+V2) was similar at the 2 and 20 mg/kg dose for both                    accumulation in the liver, followed by the kidney, and low concentra-
+males (524 and 78.5 mL/kg, respectively) and females (315 and                        tions in the brain. These ﬁndings are consistent with previous reports
+55.1 mL/kg, respectively). With repeat dosing, the overall volume of                 on tissue distribution of these PFAS [13–15]. The liver:plasma ratios of
+distribution was 299 mL/kg in males and 222.3 mL/kg in females.                      all three PFAS were much higher than ratios in kidney or brain, which is
+    Tissue concentrations of PFOS were dose-dependent and decreased                  consistent with the liver being a primary target organ of PFAS accu-
+gradually over time (Fig. 5). Following a single administration of either            mulation and toxicity [3,16]. With the exception of PFOS in the liver,
+2 mg/kg or 20 mg/kg PFOS in rats, PFOS was detected in all liver and                 the tissue:plasma ratios of the PFAS were around one or less. Ad-
+kidney samples, with liver having the highest concentrations of PFOS.                ditionally, the volume of distribution for all PFAS in this study was
+In the brain, PFOS was detected at all timepoints in the 20 mg/kg dose               below the aqueous volume of total body water in rats (668 mL/kg).
+group. PFOS was not detected in the brain at the last time point in male             Taken together, these results support the previous literature indicating
+rats with repeat dosing or in the 2 mg/kg animals, except at the 24 h                that PFAS remain in the plasma, likely due to their high binding aﬃnity
+timepoint. In males, the liver:plasma ratio was greater than one at all              to serum albumin [17,18]. No major changes in tissue accumulation of
+time points and increased over time for all doses, most dramatically in              PFOS or in systemic exposure were seen with repeat dosing. Tissue
+the 2 mg/kg dose group (Fig. 6A). In female rats, liver:plasma ratio                 concentrations of PFOS from rats following repeat dosing (5 doses of
+remained between 3 and 4 in the 2 mg/kg dose group over time                         2 mg/kg/day) were between concentrations from the 2 and 20 mg/kg
+(Fig. 6B). In the female repeat dose and 20 mg/kg group, liver:plasma                dose groups and the tissue:plasma ratios were similar to the other doses.
+ratios were initially lower (1 to 2.5) and increased to similar ratios as                 Due to consistencies in study design, we were able to compare ki-
+seen in the 2 mg/kg group by the last time point. PFOS kidney:plasma                 netics across three PFAS with diﬀerent chain lengths. Our results
+
+                                                                               651
+M.C. Huang, et al.                                                                                                             Toxicology Reports 6 (2019) 645–655
+
+
+
+
+Fig. 5. Liver and kidney concentrations (nM; mean and SEM) in male and female Hsd:Sprague-Dawley rats after a single gavage administration of PFOS (2 or 20 mg/
+kg) or multiple administrations of PFOS (2 mg/kg/day for ﬁve days).
+
+
+showed that PFOS had the highest Tmax out of the three. The dose-                  transporter proteins induced by long-chain PFAS may modify the
+adjusted AUC was much lower in males exposed to PFBS compared to                   transport kinetics of other PFAS. Furthermore, chain length may in-
+males exposed to PFHxS or PFOS (Fig. 7A). AUC also increased with                  ﬂuence the binding of PFAS to proteins. Short-chain PFAS have less
+chain length in females, where PFBS had the lowest and PFOS had the                aﬃnity for serum proteins than the long-chain chemicals and carbox-
+highest AUC (Fig. 7B). Shorter chain length PFAS had a shorter half-life           ylate PFAS have stronger aﬃnities than the sulfonate ones [17,18].
+than longer-chain analytes, corroborating ﬁndings from other studies               Because PFAS can also bind to proteins within tissues such as liver fatty
+(Ohmari et al., 2003; [8]). Since blood levels of PFAS were not mea-               acid-binding protein [21], diﬀerences in the aﬃnity for these proteins
+sured, tissue:plasma ratios were used to compare tissue accumulation.              could also lead to diﬀerences in tissue retention and elimination.
+The plasma:blood partitioning for the three sulfonate PFAS studied here            However, given species diﬀerences in protein expression and activity,
+have not been determined in rodents. In humans, PFOS, PFHxS and                    the association between chain length and kinetics observed in rats may
+other anionic PFAS show preferential binding in plasma with plasma:-               not be maintained in humans. For instance, the half-life of PFHxS in
+blood ratios of around 2:1 [19,20]. Plasma:blood partitioning for PFBS             humans is considerably longer than that of PFOA and PFOS [11,22,23].
+has not been reported in humans. However, PFBS does bind to human                      There was some evidence of saturation or induction of elimination
+serum albumin [18]. Thus, using the assumption that the three PFAS                 with administration of these PFAS. Changes in dose-adjusted AUC with
+evaluated in this study have plasma:blood ratios of 2:1 in both male and           increasing dose have also been observed in Charles River Sprague-
+female rats, tissue:plasma ratios reported in this study underestimate             Dawley rats exposed to PFOS [15]. Since these PFAS are not known to
+tissue:blood ratios and comparisons across chemicals and sexes can be              be metabolized further in the body [3], stimulation of elimination or
+made. In our study, the tissue:plasma ratios of PFOS tended to be higher           saturation of binding proteins/transporters may explain the changes in
+than PFBS or PFHxS. In summary, shorter chain lengths were associated              dose-adjusted AUC. High-aﬃnity resorption processes in the kidney
+with faster absorption, less tissue distribution, and higher elimination,          may play a primary role in PFAS kinetics, leading to sex diﬀerences and
+leading to less systemic exposure.                                                 longer half-lives for longer chain chemicals, but also are saturable such
+    Diﬀerences in elimination and systemic exposure due to chain                   that at higher doses the dose-adjusted systemic exposure decreases
+length of PFAS have been reported in other studies and may be due to a             [24]. In addition to renal resorption, perﬂuorinated alkyl acids, in-
+variety of mechanisms. Shorter chain PFAS have increased solubility                cluding the sulfonate PFAS, are thought to undergo hepatic transport
+which could contribute to faster elimination and diﬀerences in tissue              and enterohepatic circulation (Johnson 1984; [25,3]). PFBS, PFHxS,
+absorption (Danish EPA 2015). Additionally, longer chain carboxylate               and PFOS were found to be transported by both rat and human bile-acid
+PFAS were associated with increased induction of eﬄux transporter                  transporting protein Na+/taurocholate cotransporting polypeptide
+proteins, ABCB1 and ABCC1, in hepatocytes (Rusiecka and                            (NTCP) [26]. The high bioavailability (> 100%) observed at some
+Składanowski, 2008), potentially inﬂuencing their elimination. Since               doses may also be due to enterohepatic circulation, occurring with
+humans are typically exposed to numerous PFAS at a time, changes in                gavage but not IV administration.
+
+                                                                             652
+M.C. Huang, et al.                                                                                                            Toxicology Reports 6 (2019) 645–655
+
+
+
+
+Fig. 6. Tissue/plasma ratio (mean and SEM) for male and female Hsd:Sprague Dawley SD rats after a single gavage administration of PFOS (2 or 20 mg/kg) or
+multiple administrations of PFOS (2 mg/kg/day for ﬁve days).
+
+
+
+
+Fig. 7. Dose-adjusted area under the curve (AUC) of plasma concentrations vs. time of PFBS, PFHxS, or PFOS in male (A) and female (B) Hsd:Sprague-Dawley rats
+after a single gavage administration of chemical.
+
+
+    Sex diﬀerences in toxicokinetics were observed with PFHxS, to a               administration. Sex diﬀerences in PFBS kinetics have been reported but
+lesser extent with PFBS, but not with PFOS. These ﬁndings are generally           the literature is inconsistent [27,28]. In this study, the male half-life of
+consistent with the available literature of these PFSAs. In this study,           PFHxS was a little more than two weeks, while females displayed a half-
+PFBS, the shortest of the PFAS studied here, had a plasma k10 half-life           life of around two days. Similarly, a previous report in Sprague-Dawley
+on the order of ˜3-4 h in males and 1–2 hours in females after gavage             rats given 4 mg/kg PFHxS orally found females to have a half-life of
+
+
+                                                                            653
+M.C. Huang, et al.                                                                                                                    Toxicology Reports 6 (2019) 645–655
+
+
+around 2 days and males, 27 days [29]. For both PFBS and PFHxS, AUC               the toxicity observed in rodents translates to human risk.
+and dose-adjusted AUC in plasma were lower and clearance was higher
+in females compared to males. The lower Cmax and higher clearance of              Acknowledgements
+PFBS in females has been reported in monkeys and rats [28] but was not
+found in exposures of PFHxS to CD-1 mice or monkeys [14]. In this                     The authors would like to thank Stephen Ferguson and Brad Collins
+study, female rats tended to have lower liver, kidney, and brain con-             for their critical review of the manuscript and S. P. Hong and J. R.
+centrations of PFBS and PFHxS and faster elimination of these chemi-              Pirone for their assistance in data preparation and analysis. This work
+cals from the tissues than their male counterparts. This sex diﬀerence            was supported by the Intramural Research Program of the NIH,
+has been reported for PFHxS [14], but PFBS tissue distribution has been           National Institute of Environmental Health Sciences, Intramural
+previously studied only in male rodents [13].                                     Research project ZIA ES103316-04 and work was performed for the
+    The longest chain PFSA, PFOS, had a half-life in the range of 33–40           National Toxicology Program, National Institute of Environmental
+days and did not display a sex diﬀerence in half-life after IV or gavage          Health Sciences, National Institutes of Health, U.S. Department of
+administration. Similarly, other studies have reported that the plasma            Health and Human Services, under contracts N01-ES-55551,
+half-life of PFOS was not diﬀerent between sexes [29,30]. One report              HHSN273201000016C.
+did ﬁnd a sex diﬀerence in half-life: Charles River Sprague Dawley rats
+followed for 10 weeks after an oral dose of 2 or 15 mg/kg showed a 2-             References
+fold increase in half-life in females compared to males, 62 vs 38 days
+[15]. AUC was slightly higher in females than males in our study, which            [1] R.C. Buck, Toxicology data for alternative “short-chain” ﬂuorinated substances, in:
+was the opposite of PFBS and PFHxS. and consistent with the Chang                      J.C. DeWitt (Ed.), Toxicological Eﬀects of Perﬂuoroalkyl and Polyﬂuoroalkyl
+                                                                                       Substances, Humana Press, London, 2014, pp. 451–477.
+et al., 2012 report, but not Kim et al., 2016. Sex diﬀerences in liver,            [2] C. Lau, J.L. Butenhoﬀ, J.M. Rogers, The developmental toxicity of perﬂuoroalkyl
+kidney, and brain concentrations of PFOS were not apparent in our                      acids and their derivatives, Toxicol. Appl. Pharmacol. 198 (2004) 231–241.
+study, which is consistent with values reported in another study [15].             [3] C. Lau, K. Anitole, C. Hodes, D. Lai, A. Pfahles-Hutchens, J. Seed, Perﬂuoroalkyl
+                                                                                       acids: a review of monitoring and toxicological ﬁndings, Toxicol. Sci. 99 (2007)
+    The sex-dependence of elimination and tissue absorption reported in                366–394.
+rats has been attributed to diﬀerential expression of renal organic anion          [4] S.S. White, A.M. Calafat, Z. Kuklenyik, L. Villanueva, R.D. Zehr, L. Helfant,
+transporters that facilitate resorption [31,32]. Binding of PFAS to sex-               M.J. Strynar, A.B. Lindstrom, J.R. Thibodeaux, C. Wood, et al., Gestational PFOA
+                                                                                       exposure of mice is associated with altered mammary gland development in dams
+speciﬁc proteins such as liver and kidney-form α2μ-globulin may also
+                                                                                       and female oﬀspring, Toxicol. Sci. 96 (2007) 133–144.
+contribute to ineﬃcient clearance in males [33]. While many of these               [5] Z. Wang, I.T. Cousins, M. Scheringer, K. Hungerbuhler, Fluorinated alternatives to
+mechanistic studies focus on PFOA and other perﬂuorinated carbox-                      long-chain perﬂuoroalkyl carboxylic acids (PFCAs), perﬂuoroalkane sulfonic acids
+                                                                                       (PFSAs) and their potential precursors, Environ. Int. 60 (2013) 242–248.
+ylates, sulfonate PFAS may also have these interactions, given their
+                                                                                   [6] L.S. Kjeldsen, E.C. Bonefeld-Jorgensen, Perﬂuorinated compounds aﬀect the func-
+similar structure.                                                                     tion of sex hormone receptors, Environ. Sci. Pollut. Res. Int. 20 (2013) 8031–8044.
+    The doses used in these studies greatly exceed the levels that hu-             [7] E. Gorrochategui, E. Perez-Albaladejo, J. Casas, S. Lacorte, C. Porte, Perﬂuorinated
+mans are exposed to in the environment. Using body surface area                        chemicals: diﬀerential toxicity, inhibition of aromatase activity and alteration of
+                                                                                       cellular lipids in human placental cells, Toxicol. Appl. Pharmacol. 277 (2014)
+normalization [34], the human equivalent doses of doses in this study                  124–130.
+range from 0.32 to 16 mg/kg/day. In comparison, concentrations of                  [8] N. Kudo, E. Suzuki, M. Katakura, K. Ohmori, R. Noshiro, Y. Kawashima, Comparison
+perﬂuorinated sulfonic acids that have been detected in drinking water                 of the elimination between perﬂuorinated fatty acids with diﬀerent carbon chain
+                                                                                       length in rats, Chem. Biol. Interact. 134 (2001) 203–216.
+around the world range from 0.24 to 27 ng/L [35–37], though con-                   [9] H. Hanhijarvi, R.H. Ophaug, L. Singer, The sex-related diﬀerence in per-
+centrations in the 1700–8000 ng/L range have also been observed [22].                  ﬂuorooctanoate excretion in the rat, 2019 diﬀerence in perﬂuorooctanoate excre-
+The amounts in drinking water do not come close to the exposures used                  tion in the rat, Proc. Soc. Exp. Biol. Med. 171 (1982) 50–55.
+                                                                                  [10] J.V. Heuvel, B. Kuslikis, M. Van Refelghem, R. Peterson, Tissue distribution, me-
+in this animal study. Internal dose is also helpful in comparing animal                tabolism and elimination of perﬂuorooctanoic acid, J. Biochem. Toxicol. 6 (1991)
+with human exposures. Human plasma concentrations of PFHxS and                         83–92.
+PFOS have been found in the range of 0.1 to 70.7 ng/ml. PFBS in                   [11] G.W. Olsen, J.M. Burris, D.J. Ehresman, J.W. Froehlich, A.M. Seacat, J.L. Butenhoﬀ,
+                                                                                       L.R. Zobel, Half-life of serum elimination of perﬂuorooctanesulfonate, per-
+plasma was below detection limit in multiple studies ([38,39]; when                    ﬂuorohexanesulfonate, and perﬂuorooctanoate in retired ﬂuorochemical produc-
+detectable, concentrations of PFBS tend to be very low (e.g. 0.06 and                  tion workers, Environ. Health Perspect. 115 (2007) 1298–1305.
+0.46 ng/ml) (Jansen et al., 2019; [37]). Plasma concentrations in ani-            [12] J. Gabrielsson, D. Weiner, Pharmacokinetic and Pharmacodynamic Data Analysis:
+                                                                                       Concepts and Applications, third edition, Swedish Pharmaceutical Press,
+mals from this study are multiple orders of magnitude higher than
+                                                                                       Stockholm, Sweden, 2000.
+observed human plasma concentrations. Despite the high dose and in-               [13] J. Bogdanska, M. Sundstrom, U. Bergstrom, D. Borg, M. Abedi-Valugerdi,
+ternal exposure in animals compared to human exposures, this study                     A. Bergman, J. DePierre, S. Nobel, Tissue distribution of 35S-labelled per-
+was designed to evaluate the kinetics of the PFAS, which cannot be                     ﬂuorobutanesulfonic acid in adult mice following dietary exposure for 1-5 days,
+                                                                                       Chemosphere 98 (2014) 28–36.
+done in a controlled and systematic manner in humans, and not ne-                 [14] M. Sundstrom, S.C. Chang, P.E. Noker, G.S. Gorman, J.A. Hart, D.J. Ehresman,
+cessarily to evaluate risk and toxicity. These animal studies thus pro-                A. Bergman, J.L. Butenhoﬀ, Comparative pharmacokinetics of per-
+vide an idea of the trends in elimination of PFAS that could be expected               ﬂuorohexanesulfonate (PFHxS) in rats, mice, and monkeys, Reprod. Toxicol. 33
+                                                                                       (2012) 441–451.
+to occur in humans.                                                               [15] S.C. Chang, P.E. Noker, G.S. Gorman, S.J. Gibson, J.A. Hart, D.J. Ehresman,
+    The kinetics of PFOS and PFOA have been studied extensively, but                   J.L. Butenhoﬀ, Comparative pharmacokinetics of perﬂuorooctanesulfonate (PFOS)
+less is known about the toxicokinetics of short-chain PFAS, such as PFBS               in rats, mice, and monkeys, Reprod. Toxicol. 33 (2012) 428–440.
+                                                                                  [16] The Danish Environmental Protection Agency, Short-chain Polyﬂuoroalkyl
+and PFHxS. Our study corroborated much of the currently available                      Substances (PFAS) [Internet]. Copenhagen, Denmark, Accessed Nov 2018.
+literature on PFOS toxicokinetics and expanded the knowledge base on                   Available at (2015) https://www2.mst.dk/Udgiv/publications/2015/05/978-87-
+PFBS and PFHxS. Furthermore, our study provided a direct comparison                    93352-15-5.pdf.
+                                                                                  [17] P.D. Jones, W. Hu, W. De Coen, J.L. Newsted, J.P. Giesy, Binding of perﬂuorinated
+of kinetics across three diﬀerent chain length PFAS. In Sprague-Dawley                 fatty acids to serum proteins, Environ. Toxicol. Chem. 22 (2003) 2639–2649.
+rats in our study, shorter chain PFAS had faster plasma and tissue                [18] Y.M. Chen, L.H. Guo, Fluorescence study on site-speciﬁc binding of perﬂuoroalkyl
+elimination and lower systemic exposure compared to longer-chained                     acids to human serum albumin, Arch. Toxicol. 83 (2009) 255–261.
+                                                                                  [19] L. Hanssen, A.A. Dudarev, S. Huber, J.O. Odland, E. Nieboer, T.M. Sandanger,
+chemicals. Sex diﬀerences were found in the kinetic parameters and
+                                                                                       Partition of perﬂuoroalkyl substances (PFASs) in whole blood and plasma, assessed
+tissue distribution of PFBS and PFHxS, but not of PFOS. Because these                  in maternal and umbilical cord samples from inhabitants of arctic Russia and
+toxicokinetic studies were conducted in the same strain as studies done                Uzbekistan, Sci. Total Environ. 447 (2013) 430–437.
+with carboxylate PFAS and studies assessing PFAS toxicity at the NTP,             [20] D.J. Ehresman, J.W. Froehlich, G.W. Olsen, S.C. Chang, J.L. Butenhoﬀ, Comparison
+                                                                                       of human whole blood, plasma, and serum matrices for the determination of per-
+these data will facilitate future discussions comparing the kinetics and               ﬂuorooctanesulfonate (PFOS), perﬂuorooctanoate (PFOA), and other
+toxicities of perﬂuoroalkyl carboxylic and sulfonic acids as well as how
+
+                                                                            654
+M.C. Huang, et al.                                                                                                                                         Toxicology Reports 6 (2019) 645–655
+
+
+     ﬂuorochemicals, Environ. Res. 103 (2007) 176–184.                                                     using a physiologically based pharmacokinetic model, Reprod. Toxicol. 33 (2012)
+[21] D.J. Luebker, K.J. Hansen, N.M. Bass, J.L. Butenhoﬀ, A.M. Seacat, Interactions of                     452–467.
+     ﬂuorochemicals with rat liver fatty acid-binding protein, Toxicol. 176 (2002)                    [31] N. Kudo, et al., Sex hormone-regulated renal transport of perﬂuorooctanoic acid,
+     175–185.                                                                                              Chem. Biol. Interact. 139 (2002) 301–316.
+[22] Y. Li, T. Fletcher, D. Mucs, K. Scott, C.H. Lindh, P. Tallving, K. Jakobsson, Half-lives         [32] K. Ohmori, N. Kudo, K. Katayama, Y. Kawashima, Comparison of the toxicokinetics
+     of PFOS, PFHxS and PFOA after end of exposure to contaminated drinking water,                         between perﬂuorocarboxylic acids with diﬀerent carbon chain length, Toxicol. 184
+     Occup. Environ. Med. 75 (2018) 46–51.                                                                 (2003) 135–140.
+[23] R.R. Worley, S.M. Moore, B.C. Tierney, X. Ye, A.M. Calafat, S. Campbell,                         [33] X. Han, P.M. Hinderliter, T.A. Snow, G.W. Jepson, Binding of perﬂuorooctanoic
+     M.B. Woudneh, J. Fisher, Per- and polyﬂuoroalkyl substances in human serum and                        acid to rat liver-form and kidney-form alpha2u-globulins, Drug Chem. Toxicol. 27
+     urine samples from a residentially exposed community, Environ. Int. 106 (2017)                        (2004) 341–360.
+     135–143.                                                                                         [34] S. Reagan-Shaw, M. Nihal, N. Ahmad, Dose translation from animal to human
+[24] M.E. Andersen, H.J. Clewell 3rd, Y.M. Tan, J.L. Butenhoﬀ, G.W. Olsen,                                 studies revisited, FASEB J. 22 (2008) 659–661.
+     Pharmacokinetic modeling of saturable, renal resorption of perﬂuoroalkylacids in                 [35] S. Zhang, Q. Kang, H. Peng, M. Ding, F. Zhao, Y. Zhou, Z. Dong, H. Zhang, M. Yang,
+     monkeys–probing the determinants of long plasma half-lives, Toxicol. 227 (2006)                       S. Tao, et al., Relationship between perﬂuorooctanoate and perﬂuorooctane sulfo-
+     156–164.                                                                                              nate blood concentrations in the general population and routine drinking water
+[25] S.J. Genuis, D. Birkholz, M. Ralitsch, N. Thibault, Human detoxiﬁcation of per-                       exposure, Environ. Int. 126 (2019) 54–60.
+     ﬂuorinated compounds, Public Health 124 (2010) 367–375.                                          [36] H.A. Kabore, S. Vo Duy, G. Munoz, L. Meite, M. Desrosiers, J. Liu, T.K. Sory,
+[26] W. Zhao, J.D. Zitzow, D.J. Ehresman, S.C. Chang, J.L. Butenhoﬀ, J. Forster,                           S. Sauve, Worldwide drinking water occurrence and levels of newly-identiﬁed
+     B. Hagenbuch, Na+/Taurocholate cotransporting polypeptide and apical sodium-                          perﬂuoroalkyl and polyﬂuoroalkyl substances, Sci. Total Environ. 616-617 (2018)
+     dependent bile acid transporter are involved in the disposition of perﬂuoroalkyl                      1089–1100.
+     sulfonates in humans and rats, Toxicol. Sci. 146 (2015) 363–373.                                 [37] J. Hölzer, O. Midasch, K. Rauchfuss, M. Kraft, R. Reupert, J. Angerer, P. Kleeschulte,
+[27] G.W. Olsen, S.C. Chang, P.E. Noker, G.S. Gorman, D.J. Ehresman, P.H. Lieder,                          N. Marschall, M. Wilhelm, Biomonitoring of perﬂuorinated compounds in children
+     J.L. Butenhoﬀ, A comparison of the pharmacokinetics of perﬂuorobutanesulfonate                        and adults exposed to perﬂuorooctanoate-contaminated drinking water, Int.
+     (PFBS) in rats, monkeys, and humans, Toxicol. 256 (2009) 65–74.                                       Environ. Health Perspect. (2008) 651–657.
+[28] C.P. Chengelis, J.B. Kirkpatrick, N.R. Myers, M. Shinohara, P.L. Stetson, D.W. Sved,             [38] G.W. Olsen, C.C. Lange, M.E. Ellefson, D.C. Mair, T.R. Church, C.L. Goldberg,
+     Comparison of the toxicokinetic behavior of perﬂuorohexanoic acid (PFHxA) and                         R.M. Herron, Z. Medhdizadehkashi, J.B. Nobiletti, J.A. Rios, et al., Temporal trends
+     nonaﬂuorobutane-1-sulfonic acid (PFBS) in cynomolgus monkeys and rats, Reprod.                        of perﬂuoroalkyl concentrations in American Red Cross adult blood donors, 2000-
+     Toxicol. 27 (2009) 400–406.                                                                           2010, Environ. Sci. Technol. 46 (2012) 6330–6338.
+[29] S.J. Kim, S.H. Heo, D.S. Lee, I.G. Hwang, Y.B. Lee, H.Y. Cho, Gender diﬀerences in               [39] C.B. Manzano-Salgado, M. Casas, M.J. Lopez-Espinosa, F. Ballester,
+     pharmacokinetics and tissue distribution of 3 perﬂuoroalkyl and polyﬂuoroalkyl                        M. Basterrechea, J.O. Grimalt, A.M. Jimenez, T. Kraus, T. Schettgen, J. Sunyer,
+     substances in rats, Food Chem. Toxicol. 97 (2016) 243–255.                                            et al., Transfer of perﬂuoroalkyl substances from mother to fetus in a Spanish birth
+[30] A.E. Loccisano, J.L. Campbell Jr., J.L. Butenhoﬀ, M.E. Andersen, H.J. Clewell 3rd,                    cohort, Environ. Res. 142 (2015) 471–478.
+     Comparison and evaluation of pharmacokinetics of PFOA and PFOS in the adult rat
+
+
+
+
+                                                                                                655
+                Update 1 of 2
+          Toxicology Reports
+         Volume 8, Issue , 2021, Page 28–29
+
+
+DOI: https://doi.org/10.1016/j.toxrep.2020.12.007
+                                                              Toxicology Reports 8 (2021) 28–29
+
+
+                                                          Contents lists available at ScienceDirect
+
+
+                                                             Toxicology Reports
+                                                  journal homepage: www.elsevier.com/locate/toxrep
+
+
+
+
+Erratum regarding missing Declaration of Competing Interest statements in
+previously published articles
+
+    Declaration of Competing Interest statements were not included in             declare.
+the published version of the following articles that appeared in previous             “Toxicological evaluation of standardized Kaempferia parviflora
+issues of Toxicology Reports.                                                     extract: Sub-chronic and mutagenicity studies” [Toxicology
+    The appropriate Declaration/Competing Interest statements, pro­               Reports,2019;6C: 544–549] https://doi.org/10.1016/j.toxrep.2019.0
+vided by the Authors, are included below.                                         6.003.
+    “Risk assessment of human exposure to lead and cadmium in maize                   Declaration of competing interest: The Authors have no interests to
+grains cultivated in soils irrigated either with low-quality water or             declare.
+freshwater” [Toxicology Reports,2019;7C: 10–15] https://doi.org/10                    “Gallic acid protects rat liver mitochondria ex vivo from bisphenol A
+.1016/j.toxrep.2019.11.018.                                                       induced      oxidative    stress    mediated    damages”      [Toxicology
+    Declaration of competing interest: The Authors have no interests to           Reports,2019;6C: 578–589] https://doi.org/10.1016/j.toxrep.2019.0
+declare.                                                                          6.011.
+    “Quantifying association between liver tumor incidence and early-                 Declaration of competing interest: The Authors have no interests to
+stage liver weight increase â€ “An NTP data analysis” [Toxicology                declare.
+Reports,2019;6C: 674–682] https://doi.org/10.1016/j.toxrep.2019.0                     “Improved effect of pumpkin seed oil against the bisphenol-A
+7.001.                                                                            adverse effects in male mice” [Toxicology Reports,2018;5C: 857–863]
+    Declaration of competing interest: The Authors have no interests to           https://doi.org/10.1016/j.toxrep.2018.08.014.
+declare.                                                                              Declaration of competing interest: The Authors have no interests to
+    “Protective efficacy using Cape- golden berry against pre-                    declare.
+carcinogenic aflatoxins induced in rats” [Toxicology Reports,2019;6C:                 “Acute glufosinate-based herbicide treatment in rats leads to
+607–615] https://doi.org/10.1016/j.toxrep.2019.06.012.                            increased ocular interleukin-1Î2 and c-Fos protein levels, as well as
+    Declaration of competing interest: The Authors have no interests to           intraocular pressure” [Toxicology Reports,2019;6C: 155–160] https
+declare.                                                                          ://doi.org/10.1016/j.toxrep.2019.01.004.
+    “Complex toxicity as disruption of adipocyte or osteoblast differen­              Declaration of competing interest: The Authors have no interests to
+tiation in human mesenchymal stem cells under the mixed condition of              declare.
+TBBPA and TCDD” [Toxicology Reports,2018;5C: 737–743] https://doi.                    “Determination of trace metals in fruit juices in the Portuguese
+org/10.1016/j.toxrep.2018.06.007.                                                 market” [Toxicology Reports,2018;5C: 434–439] https://doi.org/10.10
+    Declaration of competing interest: The Authors have no interests to           16/j.toxrep.2018.03.010.
+declare.                                                                              Declaration of competing interest: The Authors have no interests to
+    “The use of structural alerts to avoid the toxicity of pharmaceuticals”       declare.
+[Toxicology Reports,2018;5C: 943–953] https://doi.org/10.1016/j.                      “Determination of polycyclic aromatic hydrocarbons (PAHs) and
+toxrep.2018.08.017.                                                               organochlorine pesticides (OCPs) in some personal care products in
+    Declaration of competing interest: The Authors have no interests to           Nigeria” [Toxicology Reports,2018;5C: 994–1001] https://doi.org/10
+declare.                                                                          .1016/j.toxrep.2018.10.003.
+    “Evaluation of neurotoxicity and hepatotoxicity effects of acute and              Declaration of competing interest: The Authors have no interests to
+sub-acute oral administration of unripe ackee (Blighia sapida) fruit              declare.
+extract” [Toxicology Reports,2019;6C: 656–665] https://doi.org/10.10                  “Elevated reproductive toxicity effects of diclofenac after with­
+16/j.toxrep.2019.06.019.                                                          drawal: Investigation of the therapeutic role of melatonin” [Toxicology
+    Declaration of competing interest: The Authors have no interests to           Reports,2019;6C: 571–577] https://doi.org/10.1016/j.toxrep.2019.0
+
+
+
+    DOIs of original article: https://doi.org/10.1016/j.toxrep.2018.08.020, https://doi.org/10.1016/j.toxrep.2019.01.001, https://doi.org/10.1016/j.toxrep.2019.
+06.013, https://doi.org/10.1016/j.toxrep.2018.01.007, https://doi.org/10.1016/j.toxrep.2018.03.001, https://doi.org/10.1016/j.toxrep.2019.06.017, https://doi.
+org/10.1016/j.toxrep.2018.02.002, https://doi.org/10.1016/j.toxrep.2018.11.007, https://doi.org/10.1016/j.toxrep.2019.06.014, https://doi.org/10.1016/j.tox­
+rep.2019.06.007, https://doi.org/10.1016/j.toxrep.2018.08.019, https://doi.org/10.1016/j.toxrep.2019.08.009, https://doi.org/10.1016/j.toxrep.2019.06.021,
+https://doi.org/10.1016/j.toxrep.2019.06.016.
+
+https://doi.org/10.1016/j.toxrep.2020.12.007
+
+Available online 22 December 2020
+2214-7500/© 2020 Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+                                                                                                                          Toxicology Reports 8 (2021) 28–29
+
+
+6.009.                                                                         declare.
+    Declaration of competing interest: The Authors have no interests to           “Acute oral toxicity evaluation of extracts of Hydrocotyle sib­
+declare.                                                                       thorpioides in wister albino rats as per OECD 425 TG” [Toxicology
+    “Elevated CPK levels after hydrazine inhalation exposure in an F16         Reports,2019;6C: 321–328] https://doi.org/10.1016/j.toxrep.2019.0
+aircraft technician” [Toxicology Reports,2018;5C: 927–928] https               4.001.
+://doi.org/10.1016/j.toxrep.2018.08.023.                                          Declaration of competing interest: The Authors have no interests to
+    Declaration of competing interest: The Authors have no interests to        declare.
+
+
+
+
+                                                                          29
+                Update 2 of 2
+          Toxicology Reports
+          Volume 8, Issue , 2021, Page 365
+
+
+DOI: https://doi.org/10.1016/j.toxrep.2021.02.001
+                                                                        Toxicology Reports 8 (2021) 365–365
+
+
+                                                                     Contents lists available at ScienceDirect
+
+
+                                                                         Toxicology Reports
+                                                           journal homepage: www.elsevier.com/locate/toxrep
+
+
+Corrigendum
+
+Corrigendum to “Toxicokinetics of perfluorobutane sulfonate (PFBS),
+perfluorohexane-1-sulphonic acid (PFHxS), and perfluorooctane sulfonic
+acid (PFOS) in male and female Hsd:Sprague Dawley SD rats after
+intravenous and gavage administration” [Toxicol. Rep. 6 (2019) 645–655]
+M.C. Huang a, A.L. Dzierlenga a, V.G. Robinson a, S. Waidyanatha a, M.J. DeVito a, M.A. Eifrid b,
+C.A. Granville b, S.T. Gibbs b, C.R. Blystone a, *
+a
+  Division of the National Toxicology Program, National Institutes of Environmental Health Sciences, National Institute of Health, Department of Health and Human
+Services, Research Triangle Park, NC, 27709, United States
+b
+  Battelle Memorial Institute, Columbus, OH, 43201, United States
+   The authors regret that an error in Tables 2, 3, and 4 was made. The                          Declaration of Competing Interest
+AUC and AUC/Dose values are labelled as μM*hr or μM*hr/mg/kg,
+respectively, but the units should be mM*hr or mM*hr/mg/kg,                                          The authors declare that they have no known competing financial
+respectively.                                                                                    interests or personal relationships that could have appeared to influence
+   The authors apologise for any inconvenience caused.                                           the work reported in this paper.
+
+
+
+
+   DOI of original article: https://doi.org/10.1016/j.toxrep.2019.06.016.
+ * Corresponding author.
+   E-mail address: blystonecr@niehs.nih.gov (C.R. Blystone).
+
+https://doi.org/10.1016/j.toxrep.2021.02.001
+
+Available online 18 February 2021
+2214-7500/Published by Elsevier B.V.
+
