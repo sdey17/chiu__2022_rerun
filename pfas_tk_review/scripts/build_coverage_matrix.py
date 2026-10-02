@@ -40,8 +40,17 @@ CHEM_ALIAS = {
     "5:3 fluorotelomer acid": "5:3 FTCA",
     "n- pfos": "PFOS", "iso- pfos": "PFOS", "1m-pfos": "PFOS",
 }
+
+# Isomer and label prefixes that qualify a parent compound rather than name a
+# different one. "n-PFOA", "iso-PFOA", "4m-PFOA" and "[14C]PFOA" are all PFOA
+# for coverage purposes; 11Cl-PF3OUdS is a genuinely distinct compound and is
+# deliberately NOT in this list.
+ISOMER_PREFIX = re.compile(
+    r"^(n|iso|br|lin|linear|branched|total|\d+m|\d+/\d+m|\[?1[34]C\]?|L|P)[-\s]+",
+    re.I)
 # Rows naming several compounds at once cannot be attributed to one of them.
-MULTI = re.compile(r"\band\b|,|multiple|^all$|short-chain|menstrual|mixture")
+MULTI = re.compile(r"\band\b|,|multiple|^all$|short-chain|menstrual|mixture|"
+                   r"\bvs\.?\b|\bversus\b")
 
 # A trailing parenthetical that names an isomer or qualifier, not a compound.
 QUALIFIER = re.compile(
@@ -87,6 +96,18 @@ def norm_chem(s):
         t = QUALIFIER.sub("", t).strip()
     t = re.sub(r"\s*\((branched|linear)[^)]*isomer[^)]*\)\s*$", "", t,
                flags=re.I).strip()
+    # Drop a trailing parenthetical that gives a systematic name, synonym or
+    # preparation, e.g. "(14C-labelled ammonium salt)", "(bis[...]phosphate)",
+    # "(GenX)". Nested brackets make a regex fragile, so split on the first
+    # " (" and keep the head when the tail is long enough to be descriptive.
+    if " (" in t:
+        head, tail = t.split(" (", 1)
+        if len(tail) >= 4 and head:
+            t = head.strip()
+    prev = None
+    while prev != t:
+        prev = t
+        t = ISOMER_PREFIX.sub("", t).strip()
     return CHEM_ALIAS.get(t.lower(), t)
 
 
@@ -209,6 +230,26 @@ def main() -> None:
                            ("vd_mL_kg", "Vd")):
             v = (r.get(col) or "").strip()
             if v and v.upper() != "NR":
+                add(chem, sp, param, study, r.get("sex"))
+
+    # The four late mining extractions. These are COMPILATIONS: each row names
+    # the primary study being cited, so the study credited here is that primary
+    # study, not the document it was read from. Counting the document instead
+    # would collapse hundreds of distinct studies into one.
+    for name, study_col, year_col in (
+            ("epa_appendix_b.csv", "primary_study", "primary_year"),
+            ("nj_dwqi_extraction.csv", "primary_study", "primary_year"),
+            ("state_docs_extraction.csv", "primary_study", "primary_year"),
+            ("final_sweep.csv", "study", "year")):
+        for r in read(name):
+            chem = norm_chem(r.get("chemical"))
+            sp = norm_species(r.get("species"))
+            param = norm_param(r.get("parameter"))
+            study = f"{(r.get(study_col) or '').strip()} {(r.get(year_col) or '').strip()}".strip()
+            # A row may carry a point value or only a reported range.
+            has_value = any((r.get(c) or "").strip() not in ("", "NR", "-", "none")
+                            for c in ("value", "ci_low", "ci_high"))
+            if has_value and study:
                 add(chem, sp, param, study, r.get("sex"))
 
     # the EPA population fits

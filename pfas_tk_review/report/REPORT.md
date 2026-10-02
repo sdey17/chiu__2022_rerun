@@ -918,13 +918,41 @@ python3 scripts/build_coverage_matrix.py   # -> db/coverage_matrix.csv
 
 | | cells | share |
 |---|---|---|
-| two or more studies | 131 | 11% |
-| **a single study only** | **101** | **8%** |
-| **no data at all** | **1,000** | **81%** |
+| two or more studies | 156 | 9% |
+| **a single study only** | **94** | **5%** |
+| **no data at all** | **1,466** | **85%** |
 
-28 chemicals × 11 species × 4 parameters = 1,232 cells. **Four fifths are
-empty.** Even PFOS, the best-covered compound in the world, fills 28 of its 44
-cells; PFOA 25.
+39 chemicals × 11 species × 4 parameters = 1,716 cells. **Five sixths are
+empty.** Even PFOS, the best-covered compound in the world, fills 29 of its 44
+cells; PFOA 27.
+
+By species, the collapse is steep: human 71 cells with any data, rat 61, mouse
+45, monkey 28 — then pig 13, cattle 9, bird 8, fish 6, sheep/goat 4, rabbit 3,
+**dog 2**.
+
+### 9.0a The gaps are real, not an artefact of searching
+
+That emptiness could be an indictment of this review's retrieval rather than of
+the literature. It was worth testing, and the test is the strongest single
+result about the shape of the field.
+
+Four regulatory compilations were mined in full — EPA's 2024 Appendix B, NJ
+DWQI's three MCL support documents, the remaining state and national documents,
+and a final targeted sweep — yielding **806 new extracted rows citing 332
+distinct primary studies**, of which roughly **125 had a first author not
+present anywhere else in the collection**.
+
+Coverage moved from 143 cells with two or more studies to **156**. Twelve cells.
+
+**The compilations deepen provenance; they do not widen coverage.** Hundreds of
+studies, concentrated on the same handful of chemical × species combinations
+that were already well covered. Some of what they add exists *only* through
+them — unpublished Clewell 2006 analyses, Clark data used by EPA 2021, NHANES
+survey rounds, and Hanhijärvi 1988's dog work, a book chapter not indexed in
+PubMed.
+
+So the empty five sixths of the grid is a property of the field, not of the
+search. **Nobody has measured these things.**
 
 Coverage collapses away from four compounds and two species. PFOA, PFOS, PFHxS,
 PFBS, PFBA and PFHxA account for most of what exists. The replacement
