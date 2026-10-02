@@ -598,6 +598,17 @@ Two details worth keeping: Shin 2011 is the only entry with a sex-specific Vd
 (181 male, 198 female), and Gomis 2017's 200 mL/kg is explicitly an *average of
 human and animal* values — a different circularity from Thompson's.
 
+**One caveat on comparability, which cuts in the strengthening direction.**
+These are not all the same kind of volume. Abraham reports a *terminal* volume
+(`Vd = D_abs/C₀`, back-extrapolated from the terminal phase, so Vz or V_area),
+while the EPA animal fits report **Vdss** and a **terminal beta-phase**
+half-life — established by recovering Zurlinden 2025's supplementary tables,
+where the variables are named `Vdss [pop]` and `halft_beta`. For a
+two-compartment drug Vz ≥ Vss, so the steady-state volume implied by Abraham's
+data is **at or below** 121 mL/kg. Treating his number as directly comparable to
+the assigned 170–200 therefore *understates* the gap rather than inflating it.
+Chiu's one-compartment fit has no such distinction, since Vz = Vss = V there.
+
 ### 5.2 The assumptions that move the number, with directions
 
 1. **Ongoing unmonitored exposure** → inflates half-life. The dominant bias.

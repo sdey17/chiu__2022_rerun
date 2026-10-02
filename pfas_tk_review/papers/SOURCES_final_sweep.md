@@ -108,3 +108,39 @@ Searched PubMed title/abstract for each of these names AND (half-life OR toxicok
 pharmacokinetic* OR clearance OR elimination OR depuration OR "volume of distribution"): 69 hits,
 and on title review the only in-scope new ones are those listed above. The 6:2 FTS hits are soil
 and sludge biotransformation studies (e.g. PMID 38070347), not animal TK.
+
+## Priority 2 - anything 2025-2026 reporting a PFAS half-life, clearance, Vd or elimination rate constant
+
+PubMed, title/abstract, publication date 2025/01/01-2026/12/31:
+`(perfluoro* OR PFAS OR polyfluoroalkyl) AND (half-life OR halflife OR toxicokinetic* OR pharmacokinetic* OR clearance OR "volume of distribution" OR elimination)`
+-> **261 hits.** Titles triaged for the first 100 (sorted by date); the rest were degradation chemistry,
+perfluorocarbon blood substitutes / ultrasound contrast agents, and health-outcome epidemiology.
+
+### Captured with numeric values
+| PMID | Study | What was captured |
+|---|---|---|
+| 42664870 | Kim M et al., Environ Int 2026 | **6:2 diPAP rat**: IV t1/2 32.1+/-4.3 h, CL 86.2+/-20.8 mL/h/kg, hepatic CL 75.3, CLint 334+/-56, near-complete oral F, biliary 14.5% of IV dose |
+| 42190831 | Fan X et al., Environ Pollut 2026 | **PFBA female rat**: terminal t1/2 68.7 h, central Vd 323 mL/kg |
+| 42202518 | Lai G et al., J Hazard Mater 2026 | **C7 HFPO-TA male CD-1 mouse**: PBPK serum t1/2 ~76 h |
+| 42290009 | Gillings MM et al., Environ Sci Technol 2026 | **house sparrow (bird)**: t1/2 29 d (PFBS) to 91 d (PFNA), juveniles; decline 0.43-1.25%/day |
+| 41720239 | Asshoff N et al., Environ Pollut 2026 | **male lambs (sheep)**: apparent plasma t1/2 0.3 d (PFPA) to 57 d (PFOS), 9 PFAS; FIRST TK data for PFAS other than PFOA/PFOS in lambs |
+| 39787095 | Lupton SJ et al., Food Addit Contam 2025 | **dairy cattle**: plasma t1/2 4-10 wk pooled across PFHxS, PFHpS, L-PFOS, 3Me-PFOS, 6Me-PFOS |
+| 42067648 | Inauen D et al., Arch Toxicol 2026 (OPEN ACCESS, PMC13379421) | **PFOS in cattle/sheep/chicken**, Table 1 + results text: Fa 0.954/0.974/0.990, ka 0.012/0.098/0.005 1/h, absorption t1/2 59/7/139 h, CLrenal 0.13/0.108/0.15 L/h/kg. 12 rows. |
+| 42162713 | Argoul CM et al. (Gayrard group), Environ Res 2026 | **11 PFAS, female mice, IV+oral, NLME**: MRT <1 d to 68 d |
+
+### Logged as gaps (retrieved, no numeric parameter available)
+- 41774853 Zhang J et al., Environ Sci Technol 2026 - Cl-PFESA/F-53B rat PBTK (abstract has no parameters)
+- 42127783 El Amraoui Aarab C et al., Chemosphere 2026 - chicken depuration (no rate in abstract)
+- 42689832 Kim JH et al., Environ Sci Technol 2026 - infant PBPK from breast milk (no numeric t1/2 in abstract)
+- 10.21203/rs.3.rs-9312722/v1 Ly T et al. - Atlantic salmon PBK, **PREPRINT, NOT PEER REVIEWED**
+
+### Preprints
+Europe PMC preprint-only search, 2025-2026, same terms: 11 hits, only two in scope -
+the Atlantic salmon PBK model above, and "A Human Next Generation PBK Model for PFOA"
+(PPR1224812) which is the preprint of the already-identified journal article PMID 41793954.
+Neither abstract carries a numeric TK parameter.
+
+### Highest-value remaining target for any future pass
+**PMID 42162713** (Argoul/Gayrard, Environ Res 2026): 11 PFAS x clearance/Vd/half-life/bioavailability,
+female mice, IV and oral, 119-day sampling, NLME. Elsevier, not in PMC, Europe PMC inEPMC=N, so the
+per-compound table is out of reach from here. Everything else in the abstract was captured.
