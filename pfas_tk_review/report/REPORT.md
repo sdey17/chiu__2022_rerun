@@ -599,6 +599,26 @@ produce. If that is right, corrections to PFOS half-lives based on Andersson's
 4:1 are not justified. Cholestyramine trials push the other way (Møller 2024,
 n = 45: 63% PFOS lowering in 12 weeks vs 3% control).
 
+**And two further routes appear in no agency's clearance accounting at all.**
+
+*Breastfeeding.* Mondal 2014 (C8 Science Panel, n = 633) finds each month of
+breastfeeding lowers maternal serum by **3% for PFOA, 3% PFOS, 2% PFNA, 1%
+PFHxS** — and raises the infant's by 6% and 4%. For a woman breastfeeding a
+year, that is a third of her PFOA burden leaving by a route no clearance factor
+counts. The mother's excretion is the infant's dose.
+
+*Menstrual blood loss.* Upson 2022 reviews the epidemiology: postmenopausal
+women carry higher PFAS than premenopausal women, concentrations rise with years
+since menopause and with hysterectomy, and a life-stage PBPK bias analysis
+reproduces the apparent PFAS–menopause association purely from the loss of this
+excretion route.
+
+This matters for §3's framing. The rat sex difference is transporter-mediated
+and androgen-driven; the **human** sex difference may be mostly mechanical —
+blood leaving the body. Wallis 2023 states the position plainly: sex differences
+from hormone-mediated transporters "have not been directly observed in humans."
+Two species, two different reasons for the same-looking pattern.
+
 ### 5.4 Agencies disagree about clearance more than about half-life
 
 ```bash
@@ -863,6 +883,34 @@ Coverage collapses away from four compounds and two species. PFOA, PFOS, PFHxS,
 PFBS, PFBA and PFHxA account for most of what exists. The replacement
 chemistries that are displacing them — HFPO-DA aside — are nearly empty:
 6:2 Cl-PFESA has 2 of 44 cells, cC6O4 2, ADONA 3, and the diPAPs 1 each.
+
+Two late additions moved cells without changing that picture. **EFSA 2020
+Appendix C** (`scripts/parse_efsa_appendix_c.py`, 109 records) carries mouse
+clearance and Vd for PFUnDA, PFDoDA, PFTrDA and PFTeDA from Fujii 2015 that
+appear nowhere else, and deepened twelve cells from single-study to corroborated
+— but opened none that were empty. Three of its rows were **refused** rather
+than parsed: the web rendering lost `<br>` separators, so the PFOS row offers 18
+half-lives against 20 doses, with one cell merging three values and another
+repeating one. Aligning those would have meant guessing which half-life belongs
+to which dose.
+
+And **Wallis 2023** supplies what are, in its own words, "the first and possibly
+only estimates of human elimination half-lives" for three fluoroethers, from the
+GenX Exposure Study after Cape Fear discharges were controlled:
+
+| compound | human half-life | 95% CI |
+|---|---|---|
+| PFO4DA | 127 d | 86–243 |
+| Nafion byproduct 2 | 296 d | 176–924 |
+| PFO5DoA | 379 d | 199–3,870 |
+
+These sit between the short-chain carboxylates (PFHxA ~32 d, PFHpA ~62 d) and
+the long-chain PFAAs (800–1,200 d) — consistent with ether oxygens shortening
+half-life, which is the design rationale for the replacement chemistries. They
+are the only human numbers testing it, from 44 people and two blood draws, and
+the widest interval spans twentyfold. (Note a transcription error in the paper
+itself: its Results text repeats Nafion byproduct 2's confidence interval for
+PFO4DA; the abstract's 86–243 is the consistent one.)
 
 This is the context for every ratio in this report. **When a cell holds one
 study, a headline number is that study**, which is how the 31× mouse/rat PFOA

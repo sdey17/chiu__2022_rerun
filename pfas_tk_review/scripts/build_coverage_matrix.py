@@ -38,6 +38,7 @@ CHEM_ALIAS = {
     "pfoa (as 8:2-ftoh metabolite)": "PFOA",
     "cc6o4 (perfluoro-dioxolane pfoa replacement)": "cC6O4",
     "5:3 fluorotelomer acid": "5:3 FTCA",
+    "n- pfos": "PFOS", "iso- pfos": "PFOS", "1m-pfos": "PFOS",
 }
 # Rows naming several compounds at once cannot be attributed to one of them.
 MULTI = re.compile(r"\band\b|,|multiple|^all$|short-chain|menstrual|mixture")
@@ -197,6 +198,18 @@ def main() -> None:
         study = f"{r['study']} {r['year']}"
         if r.get("value", "").strip():
             add(chem, sp, param, study, r.get("sex"))
+
+    # EFSA 2020 Appendix C, parsed by scripts/parse_efsa_appendix_c.py.
+    # "NR" is EFSA's own marker for not reported and must not count as data.
+    for r in read("efsa_appendix_c.csv"):
+        chem, sp = norm_chem(r["chemical"]), norm_species(r["species"])
+        study = f"EFSA 2020 App C via {r['reference'][:40]}"
+        for col, param in (("halflife", "half-life"),
+                           ("clearance_total_mL_kg_day", "clearance"),
+                           ("vd_mL_kg", "Vd")):
+            v = (r.get(col) or "").strip()
+            if v and v.upper() != "NR":
+                add(chem, sp, param, study, r.get("sex"))
 
     # the EPA population fits
     for r in read("master_exposure_halflife.csv"):
