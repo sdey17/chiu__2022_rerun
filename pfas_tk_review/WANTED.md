@@ -72,8 +72,9 @@ Companions, same request: **Buist 2002** (PMID 11907168), **Buist & Klaassen
   **PMID 15843488**, doi:10.1124/dmd.105.003640
 - Cheng X, Klaassen CD 2009, Drug Metab Dispos 37(11):2178–2185.
   **PMID 19679677**, doi:10.1124/dmd.109.027177
-- Cheng & Klaassen 2006, Mol Pharmacol — *identifier not captured in the logs;
-  this is the one whose abstract calls renal Oatp1a1 "female-predominant"*
+- Cheng X, Maher J, Lu H, Klaassen CD 2006, Mol Pharmacol 70(4):1291–1297.
+  **PMID 16807376**, doi:10.1124/mol.106.025122 — *the one whose abstract calls
+  renal Oatp1a1 "female-predominant"*
 
 *What it changes:* §3.4 states mouse renal Oatp1a1 is androgen-induced, which is
 why Oatp1a1 cannot by itself explain the rat/mouse difference. But Cheng 2006's
@@ -109,13 +110,12 @@ therefore the ultimate source of the reabsorption axis in §3.3.
 
 | paper | identifier | why |
 |---|---|---|
-| **Lou et al. 2009**, mouse PFOA PK | *not captured in logs* | the 31× mouse/rat PFOA ratio rests on this alone |
-| **Sundström et al. 2012**, mouse PFHxS | *not captured* | sole mouse source for PFHxS; also the monkey Vd four states use |
+| **Lou et al. 2009**, *Modeling single and repeated dose pharmacokinetics of PFOA in mice.* Toxicol Sci 107(2):331–341 | **PMID 19005225**, doi:10.1093/toxsci/kfn234 | the 31× mouse/rat PFOA ratio rests on this alone; **no source consulted reports male and female mouse PFOA half-lives separately**, so EPA's re-analysis pair (M 25.6 d, F 21.5 d) has never been checked against a published measurement |
+| **Sundström et al. 2012**, mouse PFHxS. Reprod Toxicol 33(4):441–451 | **PMID 21856411**, doi:10.1016/j.reprotox.2011.07.004 | sole mouse source for PFHxS; also the monkey Vd four states use. (Cited as both 2011 and 2012 — same paper, 2011 e-pub / 2012 issue) |
 | **Tatum-Gibbs et al. 2011**, PFNA mouse/rat | doi:10.1016/j.tox.2011.01.003 | sole mouse PFNA source; our fitted 227 d sits 3.3× above its ceiling |
 | **Kemper 2003**, DuPont Haskell unpublished | — | the PFOA rat dose series behind §4.2's female dose-dependence; unpublished report |
-| **Huang et al. 2021 corrigendum** | **PMID 33665134**, doi:10.1016/j.toxrep.2021.02.001 | **which NTP numbers were corrected is unknown**; all affected rows are flagged |
-| **Weaver et al. 2010**, rat renal OAT by chain length | *DOI not captured* | Tables 1–2 are the core transporter kinetic dataset |
-| **Kudo et al. 2001**, PFCA chain length elimination | PMID truncated in log | the dose-dependence and biliary data |
+| **Huang et al. 2021 corrigendum** | **PMID 33665134**, **PMC7902757**, doi:10.1016/j.toxrep.2021.02.001 | **which NTP numbers were corrected is unknown**; all affected rows are flagged |
+| **Kudo et al. 2001**, *Comparison of the elimination between perfluorinated fatty acids with different carbon chain length in rats.* Chem Biol Interact 134(2):203–216 | **PMID 11311214**, doi:10.1016/s0009-2797(01)00155-7 | the 120-h urinary percentages by chain length and sex, the <5% faecal figures and the biliary comparison behind §5.3. Note: its dose-dependence is of *testosterone*, not of PFOA dose |
 | **Ohmori et al. 2003**, PFCA chain-length TK | **PMID 12499116** | one of two studies giving rat PFOA sex ratio ≈70× |
 
 ---
@@ -143,6 +143,10 @@ therefore the ultimate source of the reabsorption axis in §3.3.
 - **ATSDR 2021 for dog values** — contains "dog"/"beagle"/"canine" only inside
   its literature-search Boolean strings.
 - **cC6O4** — already captured via Fustinoni 2023.
+- **Weaver et al. 2010**, rat renal OAT by chain length (PMID 19915082,
+  doi:10.1093/toxsci/kfp275) — was listed in tier 2 in error. The full PMC text,
+  including Tables 1–2 and the Yang 2009 Ki values quoted in its Discussion, is on
+  disk at `papers/Weaver 2010 rat renal OAT PFCA chain length.txt`.
 - Anything already in `papers/` — see that directory first; it holds ~75 full
   texts including Chiu 2022, Abraham 2024, Fischer 2024/2025, Andersson 2025,
   Rosato 2024, Li 2022, Zhang 2013, the EPA and OEHHA dossiers, and the EPA
