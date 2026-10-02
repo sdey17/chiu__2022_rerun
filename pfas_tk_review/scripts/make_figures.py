@@ -505,3 +505,61 @@ if (DB / "coverage_matrix.csv").exists():
     fig.savefig(FIG / "fig7_coverage_matrix.png", dpi=200)
     plt.close(fig)
     print(f"wrote {FIG/'fig7_coverage_matrix.png'}")
+
+
+# ---- Figure 8: dose dependence is sex-specific -----------------------------
+# Needs cphea_fitted_halflives.csv from scripts/fit_cphea_halflives.py.
+if (DB / "cphea_fitted_halflives.csv").exists():
+    fits = [r for r in load("cphea_fitted_halflives.csv")
+            if r["chemical"] == "PFOA" and r["species"] == "rat"
+            and r["dose_units"] == "mg/kg"]
+    fig, ax = plt.subplots(figsize=(8.4, 5.2))
+    for sex, col in (("Male", BLUE), ("Female", ORANGE)):
+        pts = [(float(r["dose"]), float(r["halflife_days"]), r["route"])
+               for r in fits if r["sex"] == sex and float(r["dose"] or 0) > 0]
+        if not pts:
+            continue
+        for d, h, route in pts:
+            ax.scatter([d], [h], s=78, color=col,
+                       marker="o" if route == "gavage" else "^",
+                       edgecolor=SURFACE, linewidth=1.8, zorder=4)
+        gav = [(d, h) for d, h, r_ in pts if r_ == "gavage"]
+        if len(gav) >= 3:
+            xs = [math.log(d) for d, _ in gav]
+            ys = [math.log(h) for _, h in gav]
+            n = len(xs)
+            mx, my = sum(xs) / n, sum(ys) / n
+            sxx = sum((a - mx) ** 2 for a in xs)
+            slope = sum((a - mx) * (b - my) for a, b in zip(xs, ys)) / sxx
+            lo, hi = min(xs), max(xs)
+            ax.plot([math.exp(lo), math.exp(hi)],
+                    [math.exp(my + slope * (lo - mx)),
+                     math.exp(my + slope * (hi - mx))],
+                    color=col, linewidth=2.2, zorder=3)
+            ax.annotate(f"{sex}  slope {slope:+.2f}",
+                        (math.exp(hi), math.exp(my + slope * (hi - mx))),
+                        xytext=(9, 0), textcoords="offset points",
+                        fontsize=9.5, color=col, va="center", fontweight="bold")
+    ax.set_xscale("log")
+    ax.set_yscale("log")
+    ax.set_xlim(0.06, 2600)
+    ax.set_xlabel("administered dose (mg/kg, log scale)")
+    ax.set_ylabel("fitted terminal half-life (days, log scale)")
+    titled(ax, "Only the female rat shows dose-dependent elimination",
+           "Terminal slopes fitted here from the EPA CPHEA raw curves. Circles are\n"
+           "gavage, triangles intravenous; lines fit the gavage points.")
+    recessive(ax, axis="both")
+    ax.legend(handles=[Line2D([], [], marker="o", linestyle="", markersize=8,
+                              color=BLUE, label="Male"),
+                       Line2D([], [], marker="o", linestyle="", markersize=8,
+                              color=ORANGE, label="Female")],
+              loc="upper center", bbox_to_anchor=(0.5, -0.145), ncol=2,
+              fontsize=9)
+    fig.text(0.012, 0.012,
+             "Saturating reabsorption (male, already dominant) changes little "
+             "with dose; saturating secretion (female) lengthens the half-life.",
+             fontsize=8, color=MUTED, ha="left")
+    fig.tight_layout(rect=(0, 0.035, 1, 1))
+    fig.savefig(FIG / "fig8_rat_pfoa_dose_dependence.png", dpi=200)
+    plt.close(fig)
+    print(f"wrote {FIG/'fig8_rat_pfoa_dose_dependence.png'}")

@@ -1,0 +1,49 @@
+# SOURCES — US state agencies and non-US national agencies (PFAS toxicokinetics)
+
+Retrieval log for PART 1 (US states) and PART 2 (non-US agencies).
+Files live in `/home/user/chiu__2022_rerun/pfas_tk_review/papers/`.
+Output CSV: `../db/state_international_regulatory.csv`.
+
+## A. Already on disk from the prior (terminated) run — read from disk, not re-fetched
+
+| Filename | Citation | Status |
+|---|---|---|
+| `MDH 2025 PFOA toxicological summary.pdf`/`.txt` | Minnesota Dept of Health, Toxicological Summary for PFOA | on disk |
+| `MDH 2025 PFOS toxicological summary.pdf`/`.txt` | MDH, Toxicological Summary for PFOS | on disk |
+| `MDH 2025 PFHxS MCL recommendation note.pdf`/`.txt` | MDH PFHxS MCL recommendation | on disk |
+| `MDH 2023 PFHxS toxicological summary.pdf`/`.txt` | MDH, Toxicological Summary for PFHxS | on disk |
+| `MDH 2023 PFHxA toxicological summary.pdf`/`.txt` | MDH, Toxicological Summary for PFHxA | on disk |
+| `MDH 2023 PFBS toxicological summary.pdf`/`.txt` | MDH, Toxicological Summary for PFBS | on disk |
+| `MDH 2018 PFBA toxicological summary.pdf`/`.txt` | MDH, Toxicological Summary for PFBA | on disk |
+| `NJ DWQI 2017 PFOA health-based MCL support document.pdf`/`.txt` | NJ Drinking Water Quality Institute | on disk |
+| `NJ DWQI 2018 PFOS health-based MCL support document.pdf`/`.txt` | NJ DWQI | on disk |
+| `NJ DWQI 2015 PFNA health-based MCL support document.pdf`/`.txt` | NJ DWQI | on disk |
+| `NJ DWQI 2023 review of interim EPA health advisories.pdf`/`.txt` | NJ DWQI | on disk |
+| `Michigan SAW 2019 health-based drinking water values PFAS.pdf`/`.txt` | Michigan PFAS Science Advisory Workgroup | on disk |
+| `NHDES 2019 PFAS MCL technical background report.txt` | New Hampshire DES | on disk (txt only) |
+| `TCEQ 2023 PFAS toxicity factors 16 compounds.pdf`/`.txt` | Texas Commission on Environmental Quality | on disk |
+| `WA DOH 2021 PFAS state action levels approach methods.pdf`/`.txt` | Washington State Dept of Health | on disk |
+| `NY DOH 2022 emerging contaminant notification levels PFAS.pdf`/`.txt` | New York State DOH | on disk |
+| `PA DPAG 2021 PFAS MCLG recommendations.pdf`/`.txt` + `PA DPAG 2021 PFAS MCLG workbook.pdf`/`.txt` | Pennsylvania Drinking Water PFAS Advisory Group / DEP contractor | on disk |
+| `PA DEP 2022 PFAS MCL proposed rulemaking preamble.pdf`/`.txt` | Pennsylvania DEP | on disk |
+| `NC SAB 2018 review GenX provisional health goal.pdf`/`.txt` | NC Secretaries' Science Advisory Board | on disk |
+| `CT DPH 2024 drinking water action levels PFAS derivation.pdf`/`.txt` | Connecticut DPH | on disk |
+| `RIVM 2018-0070 PFAS relative potency factor approach.pdf`/`.txt` | Netherlands RIVM | on disk |
+| `UK DWI 2024 drinking water quality standards advisory group report.pdf`/`.txt` | UK Drinking Water Inspectorate / WQSAG | on disk |
+| `NHMRC 2025 ADWG PFAS fact sheet.txt` | Australian NHMRC ADWG 2025 | on disk (txt only) |
+| `FSANZ perfluorinated compounds page.txt` | FSANZ | on disk (txt only) |
+| `WHO 2025 PFOS PFOA drinking water comments and responses to background document.pdf`/`.txt` | WHO | on disk |
+| `ITRC 2020 basis of PFOA PFOS regulatory values tables.xlsx`/`.txt`, `ITRC 2025 PFAS environmental media values tables.xlsx` | ITRC | on disk |
+| `OECD PFAS country information {Australia,Canada,Denmark,Germany,Japan,Korea,Netherlands,Norway,Sweden}.pdf`/`.txt` | OECD country information sheets | on disk |
+| `Germany HBM-I derivation abstracts Holzer 2021.txt`, `Germany HBM-II derivation abstract Schumann 2021.txt` | German HBM Commission (abstracts only) | on disk (abstracts only) |
+| `ECHA Annex XV PFAS restriction - industry commentary excerpt.pdf` | third-party commentary excerpt, NOT the ECHA annex | on disk; low value |
+
+## B. Broken/failed captures from the prior run — need re-retrieval
+
+| Filename | Problem |
+|---|---|
+| `Health Canada 2024 PFAS drinking water objective.pdf` | Not a PDF — a 19 KB French-language canada.ca HTML shell. Re-retrieval needed. |
+| `NJDEP 2022 comments on WHO PFAS draft guidelines.pdf` | 212-byte Imperva/Incapsula block page. Re-retrieval needed. |
+
+## C. This run's retrievals
+
