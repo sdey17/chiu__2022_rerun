@@ -103,7 +103,14 @@ python3 scripts/export_combined_xlsx.py               # -> db/combined/*.xlsx
 python3 scripts/make_figures_primary.py               # -> figures/fig10..fig15
 ```
 
+`EXECUTIVE_SUMMARY.md` is the two-page version: the five findings, what this
+work corrects in the published record (including in its own earlier output), and
+the one question still genuinely open.
+
 `SUMMARY.md` is the illustrated standalone summary with full citations.
+
+`WANTED.md` lists only what is still missing — the 11 full texts supplied during
+this work have been removed from it.
 
 `scripts/fetch_papers.sh` re-downloads the agency PDFs listed in
 `papers/DOWNLOAD_MANIFEST.csv`.
