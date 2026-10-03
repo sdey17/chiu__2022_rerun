@@ -1,0 +1,585 @@
+                                                                    Environment International 202 (2025) 109609
+
+
+                                                                      Contents lists available at ScienceDirect
+
+
+                                                                 Environment International
+                                                            journal homepage: www.elsevier.com/locate/envint
+
+
+Full length article
+
+Changes in serum perfluorooctane sulfonic acid and perfluorohexane
+sulfonic acid concentrations in firefighters accessing a voluntary
+perfluoroalkyl and polyfluoroalkyl substances reduction treatment program
+Ian Delaere a,f,* , Kerry Harris b, Sharyn Gaskin c , Yonatal Tefera c , Krystle Mitchell d,
+David Springer e, Simon Mills e
+a
+  Expotox Pty Ltd, Adelaide, South Australia 5000, Australia
+b
+  Integrative Health Solutions, Belair. South Australia 5052, Australia
+c
+  Adelaide Exposure Science and Health, School of Public Health, University of Adelaide, Waite Institute, Urrbrae, South Australia 5064, Australia
+d
+  South Australian Metropolitan Fire Service, Adelaide, South Australia 5000, Australia
+e
+  Envirolab Services, Sydney, New South Wales 2067, Australia
+f
+  Department of Health and Wellbeing, Adelaide, South Australia 5000, Australia
+
+
+
+
+A R T I C L E I N F O                                       A B S T R A C T
+
+Handling Editor: Shoji Nakayama                             Background: In 2018/2019 a voluntary baseline biomonitoring survey (n = 916) identified firefighters at a fire
+                                                            station with substantially elevated serum perfluorooctane sulfonic acid (PFOS) and perfluorohexane sulfonic acid
+Keywords:                                                   (PFHxS) concentrations. The South Australian Metropolitan Fire Service (SAMFS) initiated a voluntary treatment
+PFAS                                                        program (VTP) to address the impact of these exposures (participants n = 19). At the conclusion of the VTP, a
+Serum concentrations
+                                                            retrospective analysis of a de-identified and coded serum PFOS and PFHxS concentration spreadsheet was
+Reduction
+                                                            conducted independently of the VTP.
+Cholestyramine
+Plasma donation                                             Objective: This study reports longitudinal changes in serum PFOS and PFHxS concentrations and compares
+                                                            participants accessing the VTP with an observational group that did not seek treatment.
+                                                            Methods: The dataset included a treatment group (n = 19) and an observation group (n = 9). The treatment group
+                                                            was further subdivided into three subgroups: (1) plasma donation (n = 2), (2) cholestyramine administration (n
+                                                            = 12), and (3) a combination of plasma donation and cholestyramine administration (n = 5). Repeat samples
+                                                            identified participants’ maximum and minimum serum PFOS and PFHxS concentrations. The calculations only
+                                                            included data from participants whose serum PFOS and PFHxS concentrations decreased. Apparent half-lives
+                                                            were estimated using one-compartment first-order elimination kinetics. The study did not conduct statistical
+                                                            comparisons; conclusions were drawn based on visual observations.
+                                                            Results: The average change in serum concentration for the treatment group (PFOS: maximum decrease of 162
+                                                            ng/mL, annual decrease of 41 %, with a half-life of 1.2 years; PFHxS: maximum decrease of 37 ng/mL, annual
+                                                            decrease of 32 %, with a half-life of 2.5 years) was compared with the observation group (PFOS: maximum
+                                                            decrease of 41 ng/mL, annual decrease of 12 %, with a half-life of 7.3 years; PFHxS: maximum decrease of 6 ng/
+                                                            mL, annual decrease of 10 %, with a half-life of 9.4 years).
+                                                            Conclusion: This study shows that participants who received treatment eliminated PFOS and PFHxS from their
+                                                            serum at a greater rate than the observation group.
+
+
+
+
+1. Introduction                                                                                    chemical properties that impart oil and water repellency, friction
+                                                                                                   reduction, and temperature resistance (ITRC, 2023). They were initially
+   Per- and Polyfluoroalkyl Substances (PFAS) are persistent man-made                              used for the manufacturing of Teflon® and Scotchgard™ and can be
+chemicals used in a broad range of consumer products and industrial                                found in food packaging, cosmetics, waterproof textiles, and aqueous
+applications because of their resistance to degradation and desirable                              film-forming foams (AFFF) used to suppress flammable liquid fires
+
+
+
+    * Corresponding author at: Expotox Pty Ltd, PO Box 6269 Halifax Street, Adelaide, South Australia, 5000, Australia.
+      E-mail address: ian@expotox.au (I. Delaere).
+
+https://doi.org/10.1016/j.envint.2025.109609
+Received 30 October 2024; Received in revised form 5 May 2025; Accepted 12 June 2025
+Available online 16 June 2025
+0160-4120/© 2025 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+I. Delaere et al.                                                                                                     Environment International 202 (2025) 109609
+
+
+(Pelch et al., 2019).                                                             of PFOS increased approximately 10-fold in rats given cholestyramine in
+    PFAS is a global environmental contaminant (NAS, 2022). Food is               their diet as compared to rats fed a basal diet (Johnson et al., 1984). A
+adults’ primary source of background exposure (Schrenk et al., 2020).             case study involving a single human subject demonstrated that chole­
+The long-chain PFAS compounds perfluorohexane sulfonate (PFHxS),                  styramine, a therapeutic anionic exchange resin, removed PFOS and
+perfluorooctane sulfonate (PFOS), and perfluorooctanoic acid (PFOA)               PFHxS via faecal elimination (Genuis et al., 2010). A follow-up study
+(Buck et al., 2011) are often detected in human serum (Calafat et al.,            showed that cholestyramine treatment (4 g once daily for one week)
+2019; Li et al., 2017; Pitter et al., 2020; Toms et al., 2019).                   increased the faecal elimination of PFOS and PFHxS in all eight subjects
+    Authoritative reviews of the health effects of PFAS have been con­            (Genuis et al., 2013). Epidemiological studies have shown that chole­
+ducted. The National Academy of Sciences has concluded that there is              styramine significantly reduced serum PFAS concentrations, particularly
+sufficient evidence of an association between PFAS and the following              for PFOS, compared to reference populations (Andersen et al., 2021;
+diseases and health outcomes: decreased antibody response in adults               Ducatman et al., 2021). A substantial decrease in serum PFAS was
+and children, dyslipidemia in adults and children, decreased infant and           observed in a cross-over randomised clinical trial administering chole­
+fetal growth in children, and increased risk of kidney cancer in adults           styramine (4 g three times a day for 12 weeks) in 45 participants with
+(NAS, 2022).                                                                      elevated serum PFOS concentrations (Møller et al., 2024).
+    PFAS are absorbed following oral (Hinderliter et al., 2006), inhala­              In 2016, PFAS-containing AFFFs were removed from fire services in
+tion (Paris-Davila et al., 2023), and dermal (Franko et al., 2012) expo­          South Australia. A voluntary baseline biomonitoring survey conducted
+sure. PFAS are widely distributed in the body, with the highest                   from 2018 to 2019 (n = 916) identified firefighters at a fire station with
+concentrations in the liver, kidneys, and blood (ATSDR, 2020). In the             substantially elevated serum concentrations of perfluorooctane sulfonic
+blood, PFHxS, PFOS and PFOA bind to the albumin and other proteins                acid (PFOS) and perfluorohexane sulfonic acid (PFHxS) (data not pub­
+(Forsthuber et al., 2020). Studies suggest perfluoroalkyl substances are          lished). Occupational hygiene and environmental investigations
+not metabolised and do not undergo chemical reactions in the body                 revealed that the fire station soil and the chicken eggs produced on-site
+(ATSDR, 2020).                                                                    could be potential exposure pathways (Tefera et al., 2022).
+    Excretion occurs through urine and faeces in both sexes (ATSDR,                   The South Australian Metropolitan Fire Service (SAMFS) launched a
+2020). Serum PFAS concentrations may be lower in females due to the               voluntary treatment program (VTP) to address the impact of PFAS ex­
+loss of menstrual fluid (Upson et al., 2022), transfer to the foetus during       posures. Nineteen employees, under medical supervision, entered the
+pregnancy (Appel et al., 2022), and transfer to the infant through                VTP and selected personalised treatment strategies to reduce serum
+breastfeeding (Lakind et al., 2022), which are linked to sex and age-             PFAS concentrations. Serum concentrations were used to measure
+related PFAS elimination routes. Serum PFAS elimination half-lives                participant PFAS body burden.
+have been estimated for PFHxS (2.8 to 8.5 years), PFOS (3.4 to 5.7                    For context, participants in the VTP had mean maximum serum
+years), and PFOA (1.4 to 5.1 years) through a meta-analysis of 13 studies         concentrations of PFOS 197 ng/mL and PFHxS 60 ng/mL. These levels
+(Rosato et al., 2024), which demonstrates significant interindividual             were an order of magnitude higher than the SAMFS-specific occupa­
+variability within populations.                                                   tional average derived from the 2018–2019 MFS PFAS biomonitoring
+    The use and release of PFAS-containing AFFF into the environment              round (PFOS 13.5 ng/mL and PFHxS 6 ng/mL) (Tefera et al., 2023).
+has contributed to increased serum PFAS concentrations in certain                 Additionally, they were an order of magnitude higher than the age-
+populations (Bräunig et al., 2017). Biomonitoring studies on individuals         specific (46–60 years) 95th percentile levels reported in the general
+from communities drinking water or eating food contaminated by AFFF               Australian population (PFOS 13.1 ng/mL and PFHxS 5.7 ng/mL) (Toms
+have reported elevated blood PFAS concentrations, particularly PFHxS              et al., 2019).
+and PFOS, when compared to reference populations (Barton et al., 2020;                This study is a retrospective longitudinal analysis of a de-identified
+Li et al., 2018; Xu et al., 2021, 2020). Studies of occupational cohorts          and coded serum PFOS and PFHxS concentration dataset from VTP
+have found that military, civilian and aviation firefighters who use              participants and an observation group. The study was conducted inde­
+PFAS-containing foams in training exercises have higher PFAS concen­              pendently of the VTP and after its conclusion. The findings indicate that
+trations in their blood, particularly PFOS and PFHxS, than the general            PFOS and PFHxS were eliminated from the serum of participants who
+population (ATSDR, 2020; Gasiorowski et al., 2022; Jin et al., 2011;              underwent cholestyramine administration and or plasma donation at a
+Khalil et al., 2020; Leary et al., 2020; Mazumder et al., 2023; Nilsson           greater rate than those in the observation group. The study contributes
+et al., 2022; Rotander et al., 2015; Tefera et al., 2023). Concerns about         to the growing evidence of PFAS elimination treatments for individuals
+possible human health effects from exposures to PFAS-containing AFFF              with elevated serum PFAS levels.
+have been raised (Banwell et al., 2021) and clinical management
+guidelines for PFAS body burden have been published (NAS, 2022).                  2. Material and methods
+Options to reduce PFAS body burden in impacted individuals have been
+explored (PSAP, 2023).                                                            2.1. Ethics approval
+    Donating plasma or whole blood can help lower serum PFAS con­
+centrations by eliminating PFAS bound to plasma proteins from circu­                  The University of Adelaide Human Research Ethics Committee
+lation. Male venesection patients treated to alleviate symptoms of                approved access to the biomonitoring data used for this study (Approval
+disorders such as haemochromatosis showed serum PFAS concentrations               Number H-2021–209). Specifically, the ethics approval covers access to
+that were 40–50 % lower than men in the general population (Lorber                deidentified and coded serum PFAS concentration data; it does not
+et al., 2015). Decreases in serum PFAS concentrations were observed               authorise an intervention study on different treatment options for
+over time in a case study of a family (n = 6) undergoing venesection              firefighters.
+after residential exposures to PFAS (Genuis et al., 2014). A randomised
+clinical trial involving a cohort of firefighters (n = 285) examined the          2.2. Voluntary treatment program
+effect of plasma and blood donations on serum PFAS levels and found
+statistically significant decreases in serum PFAS concentrations over one             The South Australia VTP was a PFAS Reduction Program adminis­
+year (Gasiorowski et al., 2022).                                                  tered by the SAMFS and funded by the Government of South Australia.
+    Interrupting the PFAS enterohepatic recirculation pathway is                  Its goal was to assist firefighters access cost-free options to reduce in­
+another option to reduce serum PFAS concentrations. PFAS are excreted             dividual serum PFAS concentrations. The VTP included consultation
+through bile, but significant reabsorption occurs; thus, biliary excretion        with a general practitioner, intervention costs, and serum PFAS analysis.
+is not a primary elimination pathway (ATSDR, 2020). Faecal elimination            Before participating in the VTP, each participant read an information
+
+                                                                              2
+I. Delaere et al.                                                                                                        Environment International 202 (2025) 109609
+
+
+sheet and signed a consent form to publish deidentified biomonitoring           Table 1
+data for scientific and academic purposes.                                      The treatment groups, the number of participants, the samples per group, the
+    Enrolment in the VTP occurred from August 2019 to December 2019.            mean, range, and standard deviation of study duration and participant age.
+Inclusion required approval from a medical practitioner and a serum              Group              Number of      Samples      Study        Study        Mean
+PFAS concentration that exceeded the SAMFS-specific occupational                                    participants   (n = )       duration     duration     Age
+average derived from the 2018–2019 MFS PFAS biomonitoring round                                     (n = )                      PFOS         PFHxS        (years)
+                                                                                                                                years        years        (range;
+(PFOS 13.5 ng/mL and PFHxS 6 ng/mL), representing the median
+                                                                                                                                                          SD)
+interquartile serum PFAS concentrations at baseline for SAMFS fire­
+                                                                                 Observation        9a             20a          2.4 (1.2,    2.5 (1.3,    57.5
+fighters (Tefera et al., 2023).
+                                                                                                                                4.0; SD      4.0; SD      (35.8,
+    The VTP established a process for building a doctor-patient rela­                                                           1.0)         1.1)         66.2;
+tionship. Treatment options were discussed, and two options were                                                                                          SD 9.4)
+offered: cholestyramine administration and plasma donation. After                Treatment          19             86           2.4 (1.2,    2.4 (1.0,    51.4
+consulting the doctor, participants self-selected a preferred treatment                                                         3.6; SD      3.6; SD      (38.1,
+                                                                                                                                0.9)         0.9)         63.7;
+option. Participants organised subsequent appointments with the doc­                                                                                      SD 8.4)
+tor. Repeat serum PFAS analyses were collected to measure longitudinal           Plasma donation    2a             15a          2.2 (1.4,    2.2 (1.4,    43.9
+changes in PFAS body burden.                                                                                                    3.1; SD      3.1; SD      (38.1,
+                                                                                                                                0.9)         0.9)         49.7;
+                                                                                                                                                          SD 5.8)
+2.2.1. Treatment options
+                                                                                 Cholestyramine     12             46           2.5 (1.0,    2.4 (1.0,    52.1
+    The doctor prescribed off-label administration of cholestyramine.                                                           3.5; SD      3.5; SD      (43.9,
+Participants who chose this medication were informed of possible                                                                0.9)         0.9)         63.7;
+adverse effects. The doctor used professional clinical judgement to                                                                                       SD 8.2)
+commence dosing at 4 g/day, increasing to 12 g/day if tolerated. Doctor-         Cholestyramine     5              25           2.1 (1.3,    2.4 (1.3,    52.7
+                                                                                   + plasma                                     3.6; SD      3.6; SD      (43.2,
+patient consultations assessed patient tolerability and compliance with
+                                                                                   donation                                     1.0)         0.8)         62.3;
+this medicine. This study’s dataset did not include dosing duration or                                                                                    SD 8.0)
+participant compliance.                                                           a
+                                                                                    One participant was initially assigned to the observation group for 677 days
+    Participants self-organised plasma donations, which Lifeblood
+                                                                                (serum sample n = 2), then chose to manage serum PFAS body burden through
+collected. This study’s dataset did not include plasma donation fre­
+                                                                                plasma donation for 501 days (serum sample n = 10) and had these data
+quency, or the volume of plasma collected per session.                          assigned to the treatment group. Individual data from this participant is pre­
+                                                                                sented as a cross-over comparison.
+
+2.3. Study dataset                                                              2.4. Blood sample collection and analysis
+
+    After the VTP finished, a spreadsheet (PFAS summry Final deiden­                The sample collection and analysis for this study followed the pro­
+tified with control Feb23.xlxs) containing 28 deidentified and coded            cedures established by the SAMFS in the original unpublished voluntary
+participants was provided for analysis. The coded entries linked par­           baseline biomonitoring survey (2018–2019) (n = 916). Participants
+ticipants to a sample collection date, repeated serum PFOS, PFHxS, and          utilised commercial pathology laboratories for sample collection, while
+PFOA concentration data (ng/mL), and a treatment option.                        Envirolab Services, a NATA-accredited commercial laboratory, con­
+    Four treatment options were included: (1) plasma donation (n = 2),          ducted the chemical analysis and provided the SAMFS with deidentified
+(2) cholestyramine administration (n = 12), (3) combined plasma                 and coded results.
+donation and cholestyramine administration (n = 5), and (4) an obser­               A total of one hundred and six blood samples from participants (n =
+vation group (n = 9). Serum PFAS data for one participant in the                27) were collected at various pathology collection centres across South
+observation group was missing and therefore excluded from further               Australia between 2018 and 2022. The timing for blood sample collec­
+analyses.                                                                       tions, including the final one, was at the participants’ discretion. The
+                                                                                final sample collection was usually completed within six months of
+2.3.1. One participant was assigned to the observation and treatment            finishing treatment.
+groups                                                                              Serum Separating Tubes (SSTs) were employed for blood collection
+    Serum PFAS data from one participant was assigned to the obser­             to facilitate clotting and serum separation. The samples were stored in
+vation and treatment groups. After a lengthy initial period of non-             SSTs, transported in chilled esky containers, and kept at 2–6 ◦ C before
+treatment (Days = 677) (sample n = 2), the participant opted for                and after analysis by Envirolab Services. The storage durations before
+plasma donation to manage PFAS body burden for the rest of the sample           analysis are noted on individual analytical reports but generally
+collection period (Day = 501) (sample n = 10). Individual data from this        occurred within seven days of sample collection. During sample prepa­
+volunteer are presented as a crossover comparison.                              ration, formic acid (50 %) was added to serum extracts, which were then
+                                                                                centrifuged at 14,000 rpm for 10–15 min to precipitate larger poten­
+2.3.2. Observation group                                                        tially interfering molecules. The supernatant was purified using a weak
+    The spreadsheet contained an observational group (n = 9). All were          acid exchange solid phase extraction procedure.
+active male firefighters with between 10 and 30 years of service. These             The resulting extract was analysed for 28 PFAS compounds using
+firefighters voluntarily participated in multiple PFAS blood analyses and       high-performance liquid chromatography tandem mass spectrometry
+confirmed they were not receiving any treatment options.                        (LCMS-8040 triple quadrupole LC/MS/MS, Shimadzu Corp., Tokyo,
+                                                                                Japan). The laboratory reported on PFOS, PFHxS and PFOA. The
+2.3.3. Demographic data for treatment groups                                    remaining 25 PFAS were not reported as the number of samples reported
+    All study participants were male. Coded birth date data were pro­           below the LOQ was too high to provide a valid result. PFOA was reported
+vided on a separate spreadsheet. Participant age was calculated using an        in 78 of 106 samples (LOQ = 1 ng/mL, range (<1ng/mL – 5 ng/mL)),
+online calculator, using the date of birth and 31 December 2022 as the          comparable with background concentrations in the general Australian
+final date. Table 1 summarises the treatment groups, the number of              community (Toms et al., 2019); no further data analysis on PFOA was
+participants, the samples per group, and the mean, range, and standard          conducted. Reported concentrations for PFOS and PFHxS encompass
+deviation of study duration and participant age.
+
+                                                                            3
+I. Delaere et al.                                                                                                                        Environment International 202 (2025) 109609
+
+
+both linear and branched isomers for PFOS and PFHxS.                                         serum PFOS and PFHxS concentrations displayed a decrease. Serum
+                                                                                             PFAS data from participants were graphed to visually identify re­
+2.5. Quality assurance/control                                                               ductions in serum PFAS concentrations (Fig. 1). Professional judgement
+                                                                                             was used to determine the maximum and minimum serum concentra­
+    Mass-labelled internal standards were added before the sample                            tions, which were utilised for data analysis instead of the initial and final
+extraction and analysis began. To ensure the highest quality, the Na­                        collection dates.
+tional Institute of Standards and Technology standard reference material                         Background corrections were not made when calculating the esti­
+(SRM 1957) was run with each batch of samples. The average recoveries                        mated half-life, as the magnitude of the participant’s PFAS body burden
+(±relative standard deviations) were 95 % (±11 %), 104 % (±9.4 %),                           drove the outcome. Half-lives were estimated using one-compartment
+and 94 % (±6.9 %) for PFHxS, PFOS and PFOA respectively. Duplicates                          first-order elimination kinetics. They were calculated with an online
+and samples spikes were also run at a frequency of 10 % and 5 %                              half-life calculator (Cornell University, n.d.) when [PFAS (max)], [PFAS
+respectively, and these were within the laboratory acceptance criteria,                      (min)], and the time interval t = (Day [PFAS (min)] – Day [PFAS (max)]) are
+which was a relative percentage difference of 20–50 % for duplicates                         known. The half-life, expressed in days, was converted to years by
+and percent recovery of 60–140 % for matrix spikes. The limit of                             dividing by 365 (days/ per year).
+quantification (LOQ) values was defined as three times the method
+detection limits (MDL), which were determined using the precision of                         3. Results
+ten repeat preparations and analyses of very low background serum
+spikes. The MDL was defined as 2.8 times the standard deviation of the                       3.1. Study demographics
+ten replicates at 99 % confidence. The LOQ for PFHxS, PFOS and PFOA
+was 1 ng/ml.                                                                                     All study participants were male. One hundred and six samples were
+                                                                                             collected across four groups. The average duration of the study was 2.4
+                                                                                             years. The average age of participants in the treatment group was 51.4
+2.6. Data analysis
+                                                                                             years (38.1, 63.7; SD 8.4), while in the observation group it was 57.5
+                                                                                             years (35.8, 66.2; SD 9.4) (Table 1). Table 1 also breaks down the data
+    Repeat samples were used to calculate the maximum concentration,
+                                                                                             into treatment subgroups: plasma donation, cholestyramine, and a
+maximum decrease, annual decrease (%), and the estimated apparent
+                                                                                             combination of cholestyramine and plasma donation.
+half-life of participants’ serum (Equations A − C). The average values
+(means), ranges and standard deviations of the treatment and observa­
+                                                                                             3.2. Serum PFAS detections and concentrations
+tion groups were calculated and summarised in Table 2.
+
+                                                                                                 PFOS was reported in all samples [> LOQ = 1 ng/mL (106/106
+2.6.1. Calculations
+                                                                                             samples), range (1, 600 ng/mL)], and PFHxS was reported in 98 % of the
+   A. Maximum decrease in serum concentration
+                                                                                             samples in the study’s dataset [> LOQ = 1 ng/mL (104/106 samples),
+PFAS(max) −         PFAS(min)                                                                range (< 1, 250 ng/mL)]. All participants in the treatment group (100
+                                                                                             %) and 67 % and 56 % of those in the observation group reported
+B. Annual decrease in serum concentration (%)                                                maximum serum PFOS and PFHxS concentrations that exceeded the age-
+(PFAS(max) −         PFAS(min) /PFAS(max) )*(365/duration)*100                               specific (46–60 years) 95th percentile (13.1 ng/mL for PFOS and 5.7 ng/
+                                                                                             mL for PFHxS) as reported in the general Australian population (Toms
+C. Apparent half-life (t1/2)                                                                 et al., 2019).
+
+ln (2)/(ln [PFAS(max) )] −      ln [PFAS(min) )]/(Day [PFAS(min) ]                           3.3. Summary of treatment and observation group analysis
+   −    Day [PFAS(max) ])
+                                                                                                 Table 2 summarises the group mean, range, and standard deviation
+The calendar dates of serum samples were converted to days, with the                         of PFOS and PFHxS maximum serum concentrations (ng/mL), maximum
+initial collection date being day zero. For the participant in the crossover                 decrease in serum concentrations (ng/mL), annual decrease (percent),
+comparison, the initial serum collection date before the commencement                        and estimated apparent half-life (years). It also includes this data for the
+of plasma donation treatment was day zero.                                                   treatment subgroups: plasma donation, cholestyramine, and a combi­
+    The calculations considered only data from participants whose                            nation of cholestyramine and plasma donation.
+
+Table 2
+Group mean, range, and standard deviation of PFOS and PFHxS maximum serum concentrations (ng/mL), maximum decrease in serum concentration (ng/mL), repeat
+sample annual decrease (percent), and apparent half range (years).
+  Group                         Mean maximum serum               Mean maximum decrease in        Repeat sample PFOS (range; SD)             Repeat sample PFHxS (range; SD)
+                                concentrations (ng/mL) (range;   serum concentrations (ng/mL)
+                                SD)                              (range; SD)
+
+                                PFOS             PFHxS           PFOS            PFHxS           Annual decrease    Apparent half-          Annual decrease      Apparent half-
+                                                                                                 (percent)          live (years)            (percent)            live (years)
+
+  Observationa                  147 (6, 550;     43 (3, 170;     41 (1, 120;     6 (1, 20; SD    12 (3, 16; SD 5)   7.3 (3.5, 20.6; SD      10 (3, 19; SD 6)     9.4 (3.1, 22.1; SD
+                                SD 181)          SD 56)          SD 48)          6)                                 5.7)                                         6.3)
+  Treatment                     197 (21, 600;    60 (7, 250;     162 (14, 573;   37 (2, 159;     41 (15, 83; SD     1.2 (0.2, 3.1 SD;       32 (10, 85; SD       2.5 (0.4, 6.6; SD
+                                SD 169)          SD 58)          SD 154)         SD 43)          22)                0.8)                    25)                  1.9)
+  Plasma donation               290 (140,        93 (26, 160;    238 (85, 390;   80 (12, 148;    42 (20, 65; SD     1.4 (0.4, 2.3; SD       41 (15, 67; SD       2.0 (0.4, 3.5; SD
+                                440; SD 150)     SD 67)          SD 153)         SD 68)          23)                1)                      26)                  1.6)
+  Cholestyramine                192 (21, 600;    62 (7, 250;     157 (14, 573;   34 (2, 159;     36 (15, 83; SD     1.4 (0.4, 3.1; SD       29 (10, 85; SD       3.0 (0.4, 6.6; SD
+                                SD 172)          SD 63)          SD 164)         SD 41)          19)                0.8)                    23)                  2.0)
+  Cholestyramine +              170 (46, 470;    42 (17, 100;    143 (35, 350;   28 (9, 49; SD   52 (21, 77; SD     0.8 (0.2, 1.7; SD       36 (14, 70; SD       1.6 (0.4, 3.7; SD
+    plasma donation             SD 156)          SD 30)          SD 116)         14)             24)                0.6)                    20)                  1.3)
+  a
+       The mean was calculated for seven samples (n = 7); no decrease was observed in two samples.
+
+                                                                                         4
+I. Delaere et al.                                                                                                        Environment International 202 (2025) 109609
+
+
+
+
+  Fig. 1. Serum concentrations (n = 11) PFOS and PFHxS (ng/mL) of participant observation (− 677, 0) (n = 2) and treatment groups (Day (0, 501) (n = 10)).
+
+
+3.4. Mean maximum serum concentrations                                             4. Discussion
+
+   Repeat serum samples from the treatment group show mean                             The decreases in serum PFAS concentrations observed in the treat­
+maximum serum concentrations for PFOS of 197 ng/mL (21, 600; SD                    ment group indicate that plasma donation and the use of cholestyramine
+169) and PFHxS of 60 ng/mL (7, 250; SD 58). In comparison, repeat                  enhance the removal of PFAS from individuals with elevated serum
+serum samples from the observation group show mean maximum serum                   PFOS and PFHxS levels compared to the observation group. These
+concentrations for PFOS of 147 ng/mL (6, 550; SD 181) and PFHxS of 43              findings support evidence from two well-designed studies showing an
+ng/mL (3, 170; SD 56).                                                             increased rate of PFAS elimination from serum by removing PFAS bound
+                                                                                   to plasma proteins through plasma or blood donation (Gasiorowski
+3.5. Serum PFAS concentrations decrease over time                                  et al., 2022) and improved faecal elimination via therapeutic anion
+                                                                                   exchange resins such as cholestyramine (Møller et al., 2024). These re­
+    Repeat serum samples from the treatment group show a mean                      sults suggest that facilitating the removal of PFAS from individuals is
+maximum decrease in serum PFOS of 162 ng/mL (14, 573; SD 154) and                  achievable and may have substantial impacts.
+PFHxS of 37 ng/mL (2, 159; SD 43) when compared to the observation
+group, which had a mean maximum decrease in serum PFOS of 41 ng/                   4.1. Mean maximum serum concentrations
+mL (1, 120; SD 48) and PFHxS of 6 ng/mL (1, 20; SD 6). After adjusting
+for the period during which participants showed decreasing serum PFAS                  The treatment group’s mean maximum serum concentrations of
+concentrations, the treatment group had a mean annual decrease in                  PFOS and PFHxS were compared to relevant cohorts of Australian fire­
+PFOS of 41 % and PFHxS of 32 %. The observation group decreased 12 %               fighters sampled from 2018 to 2022. This treatment group had mean
+for PFOS and 10 % for PFHxS.                                                       maximum serum concentrations of PFOS (197 ng/mL) and PFHxS (60
+                                                                                   ng/mL), levels approximately an order of magnitude higher than those
+3.6. Estimated apparent half-life of serum PFAS                                    reported in two contemporary cohorts of Australian general firefighters
+                                                                                   (Gasiorowski et al., 2022; Tefera et al., 2023), and substantially higher
+    Fig. 1 shows the serum concentrations of PFOS and PFHxS (ng/mL)                than those reported in an Australian aviation firefighter cohort (PFOS
+plotted against the sample collection date for the participant whose data          27 ng/mL and PFHxS 14 ng/mL) (Nilsson et al., 2022).
+was analysed and presented as a crossover comparison. First-order ki­                  The difference in serum PFAS concentrations between the treatment
+netics equations were used to curve-fit the PFAS serum elimination data.           group and the other Australian firefighters studied remains poorly
+During the extended non-treatment period while the participant was in              characterised. The SAMFS rarely used foam containing PFAS from the
+the observation group, the estimated apparent serum half-life for PFOS             mid-1980s to 2016; consistent with international practice at the time,
+was 5.7 years, and for PFHxS was 22.1 years. In contrast, when the                 record keeping of foam use was not a formal requirement and were not
+participant donated plasma and was assigned to the treatment group,                kept. Some firefighters and stations may have experienced greater
+the estimated apparent serum half-life for both PFOS and PFHxS                     exposure than others due to the incidents they responded to or their
+decreased to 0.4 years.                                                            roles within the fire service (e.g., administrative officer, maintenance
+    The treatment groups’ mean apparent serum half-life (t1/2) estimates           work, firefighter, etc.). It is speculated that a contributing factor for the
+(in years) for PFOS are 1.2 years (0.2, 3.1; SD 0.8), while for PFHxS, they        treatment group may have been exposure to PFAS-containing AFFF
+are 2.5 years (0.4, 6.6; SD 1.9). In comparison, the observation group             through a food-grown-on-site exposure pathway (Tefera et al., 2022),
+had half-life (t1/2) estimates for PFOS of 7.3 years (3.5, 20.6; SD 5.7) and       particularly through the consumption of chicken eggs produced on-site.
+9.4 years (3.1, 22.1; SD 6.3) for PFHxS.
+
+
+
+
+                                                                               5
+I. Delaere et al.                                                                                                   Environment International 202 (2025) 109609
+
+
+4.2. Serum PFAS concentrations decrease over time                              impact the strength of comparative conclusions but contribute to the
+                                                                               evidence that treatment can enhance the elimination of serum PFAS.
+    Investigators examining declines in serum PFAS concentrations over             Estimating the half-life of PFAS (t1/2), defined as the time needed for
+time within relevant Australian firefighter cohorts have assessed their        PFAS concentrations in serum or plasma to decrease by half from an
+findings using three distinct comparative methodologies: mean change           initial concentration, is crucial for assessing PFAS persistence in in­
+in serum concentrations (ng/mL) (Gasiorowski et al., 2022), annual             dividuals. Despite the relatively straightforward visualisation and
+change as a percentage (Tefera et al., 2023), and the calculation of           mathematical derivation, the actual toxicokinetics of PFAS in pop­
+apparent half-life estimates (Nilsson et al., 2022). We utilised these         ulations are rather complex. A fundamental assumption for calculating
+methods to analyse the serum PFOS and PFHxS concentration data from            PFAS half-lives is that eliminating PFAS from the body approximates
+the treatment and observation groups, enhancing the read-across and            first-order elimination kinetics (ATSDR, 2020).
+comparability between the Australian firefighter cohorts.                          Participants’ serum PFAS data were plotted to identify concentration
+    The Fire Rescue Victoria study was a randomised clinical trial that        reductions visually. Generally, PFOS and PFHxS serum concentrations
+investigated plasma donation every six weeks, whole blood donation             decreased in the treatment and observation groups. The variability in
+every twelve weeks, and included an observation group. The primary             serum PFAS concentrations observed in this study may be related to
+endpoint was the mean change in serum PFOS and PFHxS concentra­                analytical uncertainty, ongoing background exposures, or mobilisations
+tions after 12 months (Gasiorowski et al., 2022). Normalising the mean         from organ compartments.
+maximum decrease in serum concentrations to an annual decline                      Fig. 1 presents data on an individual participant’s serum PFAS con­
+allowed for a comparison with the FRV study. The treatment group               centrations over time, analysed as a crossover comparison. The first-
+observed a mean maximum decrease in serum concentrations for PFOS              order elimination kinetics equation Ct = C0 e-kt (where Ct is the con­
+(162 ng/mL; 64.8 ng/mL/year) and PFHxS (37 ng/mL; 15.4 ng/mL/                  centration at time (t), C0 is the concentration at t = 0, k is the expo­
+year), compared to the FRV study’s decrease in PFOS (2.9 ng/mL/year            nential elimination constant, and (t) denotes time) fits the observation
+for plasma donation; 1.1 ng/mL/year for blood donation) and PFHxS              and treatment data. The elimination constant exponent (k = -0.005)
+(1.1 ng/mL/year for plasma donation; no significant change with blood          correlates well with the PFOS (R2 = 0.9001) and PFHxS (R2 = 0.9737)
+donation). Similarly, the observation group showed a mean maximum              treatment data (n = 10), indicating a strong plasma protein binding
+decrease in serum concentrations of PFOS (41 ng/mL; 17 ng/mL/year)             coefficient for both PFAS (Forsthuber et al., 2020). These findings sug­
+and PFHxS (6 ng/mL; 2.4 ng/mL/year), while the FRV study’s obser­              gest that the elimination of PFAS from the body through plasma dona­
+vation group indicated no change in serum PFOS and PFHxS levels.               tion can be approximated by first-order kinetics. Fig. 1 illustrates PFOS
+    Both this study and the FRV study suggest that treatment can               serum reintroductions throughout the time series, highlighting the ne­
+enhance the elimination of PFOS and PFHxS compared to the observa­             cessity of professional judgement in determining the maximum and
+tion groups. Regarding the FRV study, the extent of change in the mean         minimum concentrations used for calculations.
+maximum decrease in serum in the treatment and observation groups                  Aviation firefighters from Airservices Australia (AA) were studied in
+may be affected by the magnitude of maximum serum concentrations               a longitudinal post-exposure repeat sample observational study, exam­
+and the study duration.                                                        ining temporal serum PFAS changes. The primary endpoint focused on
+    The differences between this study and the FRV study (Gasiorowski          changes in PFOS, PFHxS, PFHpS, and PFOA serum concentrations,
+et al., 2022) include the study design (retrospective doctor-patient           which were normalised to an estimated apparent elimination half-life
+compared to prospective RCT), duration (average 2.4 years versus 1             for these compounds (Nilsson et al., 2022). By normalising participant
+year), participant numbers (n = 27 versus n = 285), defined treatment          data from the treatment and observation groups and presenting it as
+options, maximum serum concentrations of participants, and descriptive         group mean apparent half-life estimates for PFOS and PFHxS, a com­
+statistics. These differences impact the robustness of the comparative         parison could be made between this study and the AA study. Consider­
+conclusions; therefore, this study should be seen as supporting evidence       able inter-individual variation in apparent half-life estimates was
+for the RCTs demonstrating that plasma donation and cholestyramine             observed in the observation group (PFOS range 3.5–20.6 years and
+use can enhance the elimination of serum PFAS.                                 PFHxS range 3.1–22.1 years) and has been documented in earlier studies
+    The South Australian Metropolitan Fire Service conducted a longi­          (Xu et al., 2020).
+tudinal post-exposure repeat sample observational study to investigate             The observational group in this study showed an apparent mean half-
+temporal serum PFAS changes. The primary endpoint focused on                   life estimate of PFOS (7.3 years) and PFHxS (9.4 years), compared to a
+changes in serum PFOS, PFHxS, and PFOA concentrations, which were              mean half-life estimate of PFOS (6.5 years) and PFHxS (7.8 years) in the
+normalised to an annual percentage decrease (Tefera et al., 2023).             AA study (Nilsson et al., 2022). Both observational groups were at the
+Normalising the data from the treatment and observation groups to an           upper end of previously published half-life estimates for populations
+annual percentage decrease enabled a comparison between this study             following abrupt cessation of exposure (PFOS 3.4 to 5.7 years and PFHxS
+and the SAMFS study. The observational group in this study demon­              2.8 to 8.5 years) (Rosato et al., 2024). Meanwhile, the treatment group
+strated a mean annual percentage decrease for PFOS (12 %) and PFHxS            in this study showed a mean half-life estimate of PFOS (1.2 years; range
+(10 %), compared to the decline observed in the SAMFS study for PFOS           0.2–3.1 years) and PFHxS (2.5 years; range 0.4–6.6 years), which are
+(13 %) and PFHxS (7 %). These observational groups aligned with re­            below the lower bound of half-life estimates for PFOS and PFHxS in
+ports of a mean annual percentage decrease in Australian aviation              communities following abrupt cessation of exposure (Rosato et al.,
+firefighters for PFOS (12 %) and PFHxS (10 %) (Nilsson et al., 2022).          2024).
+Conversely, the treatment group in this study showed a mean annual                 The differences between this study and the AA study (Nilsson et al.,
+percentage decrease for PFOS (41 %) and PFHxS (32 %), which is sub­            2022) include the study design (retrospective doctor-patient versus
+stantially higher than that observed in the three compared observational       prospective repeat sample), duration (average of 2.4 years versus 5
+groups.                                                                        years), participant numbers (n = 27 versus n = 130), treatment options
+    The differences between this study and the SAMFS study (Tefera             compared to observational methods, role descriptions, and maximum
+et al., 2023) include the study design (retrospective doctor-patient           serum concentrations of participants. These limitations impact the
+versus prospective repeat sample), duration (average 2.4 years                 strength of comparative conclusions; however, the study adds to the
+compared to median 3.2 years), participant numbers (n = 27 versus n =          evidence that treatment can enhance the elimination of serum PFAS.
+130), treatment options versus observational study, descriptive statis­
+tics, data analysis (mean versus median interquartile range), and
+maximum serum concentrations of participants. These limitations again
+
+                                                                           6
+I. Delaere et al.                                                                                                              Environment International 202 (2025) 109609
+
+
+4.3. Strengths and limitations of the study                                      Acknowledgements
+
+    The study’s key strength lies in its longitudinal design. It uses                The authors thank the South Australian Government for funding the
+repeated sample measurements to compare temporal changes between                 PFAS Reduction Program and the South Australian Metropolitan Fire
+treatment and observation groups with substantially elevated serum               Service (MFS) for managing the voluntary treatment program and
+PFOS and PFHxS levels. The dataset was organised to investigate                  providing the PFAS biomonitoring data.
+changes in serum PFAS concentrations over time alongside treatment                   The authors want to acknowledge Station Officer Shaun Goad and
+options; however, it lacked data on active treatment windows, compli­            Senior Firefighter Nic Lewis for their dedication and contributions to
+ance, plasma donation frequency or donation volume. No statistical               establishing the South Australian PFAS Reduction Program.
+comparisons were made in the study; rather, conclusions were drawn
+from visual observations, and no background corrections were applied             Data availability
+when estimating serum half-life. Limitations related to participant
+numbers, population demographics, and treatment options affect the                   The authors do not have permission to share data.
+broader applicability of this research. To enhance the findings of this
+study, replicating the treatment and observation components in a pro­            References
+spective study that incorporates clinical trial-based study designs
+(Gasiorowski et al., 2022; Møller et al., 2024) in populations with sub­         Andersen, M.E., Hagenbuch, B., Apte, U., Corton, J.C., Fletcher, T., Lau, C., Roth, W.L.,
+                                                                                      Staels, B., Vega, G.L., Clewell, H.J., Longnecker, M.P., 2021. Why is elevation of
+stantially elevated serum PFAS levels following an abrupt cessation of                serum cholesterol associated with exposure to perfluoroalkyl substances (PFAS) in
+exposure would be beneficial. Despite these limitations, the study con­               humans? A workshop report on potential mechanisms. In: Toxicology. Elsevier
+tributes to our understanding of strategies to improve the elimination of             Ireland Ltd. https://doi.org/10.1016/j.tox.2021.152845
+                                                                                 Appel, M., Forsthuber, M., Ramos, R., Widhalm, R., Granitzer, S., Uhl, M.,
+PFAS from individuals with raised serum PFAS concentrations.                          Hengstschläger, M., Stamm, T., Gundacker, C., 2022. The transplacental transfer
+                                                                                      efficiency of per- and polyfluoroalkyl substances (PFAS): a first meta-analysis.
+                                                                                      J. Toxicol. Environ. Health B Crit. Rev. 25. https://doi.org/10.1080/
+5. Conclusion                                                                         10937404.2021.2009946.
+                                                                                 ATSDR, 2020. Toxicological Profile for Perfluoroalkyls. Atlanta, GA.
+    This report outlines changes in serum PFOS and PFHxS among par­              Banwell, C., Housen, T., Smurthwaite, K., Trevenar, S., Walker, L., Todd, K., Rosas, M.,
+                                                                                      Kirk, M., 2021. Health and social concerns about living in three communities
+ticipants in the VTP and an observational group. The changes in serum
+                                                                                      affected by per- and polyfluoroalkyl substances (PFAS): a qualitative study in
+PFAS concentrations within the treatment group indicate that chole­                   Australia. PLoS One 16. https://doi.org/10.1371/journal.pone.0245141.
+styramine administration and plasma donation successfully reduced                Barton, K.E., Starling, A.P., Higgins, C.P., McDonough, C.A., Calafat, A.M., Adgate, J.L.,
+                                                                                      2020. Sociodemographic and behavioral determinants of serum concentrations of
+PFOS and PFHxS levels in individuals with substantially elevated serum
+                                                                                      per- and polyfluoroalkyl substances in a community highly exposed to aqueous film-
+PFAS levels. Further research is necessary to develop effective strategies            forming foam contaminants in drinking water. Int. J. Hyg. Environ. Health 223,
+for reducing body burden in those with substantially elevated serum                   256–266. https://doi.org/10.1016/j.ijheh.2019.07.012.
+PFAS levels.                                                                     Bräunig, J., Baduel, C., Heffernan, A., Rotander, A., Donaldson, E., Mueller, J.F., 2017.
+                                                                                      Fate and redistribution of perfluoroalkyl acids through AFFF-impacted groundwater.
+                                                                                      Sci. Total Environ. 596–597, 360–368. https://doi.org/10.1016/j.
+Dear environment international                                                        scitotenv.2017.04.095.
+                                                                                 Buck, R.C., Franklin, J., Berger, U., Conder, J.M., Cousins, I.T., Voogt, P.D., Jensen, A.A.,
+                                                                                      Kannan, K., Mabury, S.A., van Leeuwen, S.P.J., 2011. Perfluoroalkyl and
+   Please consider this an accurate reflection of the contributions of                polyfluoroalkyl substances in the environment: terminology, classification, and
+each author and their agreement of the submission.                                    origins. Integr. Environ. Assess. Manag. 7, 513–541. https://doi.org/10.1002/
+                                                                                      ieam.258.
+   In the event Environment International will publish the manuscript,           Calafat, A.M., Kato, K., Hubbard, K., Jia, T., Botelho, J.C., Wong, L.Y., 2019. Legacy and
+the signatures from the authors will be sourced.                                      alternative per- and polyfluoroalkyl substances in the U.S general population: paired
+                                                                                      serum-urine data from the 2013–2014 national health and nutrition examination
+                                                                                      survey. Environ. Int. 131. https://doi.org/10.1016/j.envint.2019.105048.
+Declaration of generative AI and AI-assisted technologies in the                 Cornell University, n.d. Online Drug Half Life Calculator [WWW Document]. URL http://
+writing process                                                                       www-users.med.cornell.edu/~spon/picu/calc/halfcalc.htm (accessed 7.15.24).
+                                                                                 Ducatman, A., Luster, M., Fletcher, T., 2021. Perfluoroalkyl substance excretion: effects
+                                                                                      of organic anion-inhibiting and resin-binding drugs in a community setting. Environ.
+   During the preparation of this work, Ian Delaere used Grammarly to                 Toxicol. Pharmacol. 85. https://doi.org/10.1016/j.etap.2021.103650.
+improve the manuscript’s language and readability. After using this              Forsthuber, M., Kaiser, A.M., Granitzer, S., Hassl, I., Hengstschläger, M., Stangl, H.,
+tool/service, Ian Delaere reviewed and edited the content as needed and               Gundacker, C., 2020. Albumin is the major carrier protein for PFOS, PFOA, PFHxS,
+                                                                                      PFNA and PFDA in human plasma. Environ. Int. https://doi.org/10.1016/j.
+takes full responsibility for the content of the publication.                         envint.2019.105324.
+                                                                                 Franko, J., Meade, B., Frasch, H., Barbero, A., Anderson, S., 2012. Dermal penetration
+                                                                                      potential of perfluorooctanoic acid (PFOA) in human and mouse skin. J. Toxicol.
+CRediT authorship contribution statement                                              Environ. Health A.75, 50–62.
+                                                                                 Gasiorowski, R., Forbes, M.K., Silver, G., Krastev, Y., Hamdorf, B., Lewis, B., Tisbury, M.,
+   Ian Delaere: Writing – original draft, Methodology, Formal analysis,               Cole-Sinclair, M., Lanphear, B.P., Klein, R.A., Holmes, N., Taylor, M.P., 2022. Effect
+                                                                                      of plasma and blood donations on levels of perfluoroalkyl and polyfluoroalkyl
+Conceptualization. Kerry Harris: Writing – review & editing, Method­                  substances in firefighters in Australia: a randomized clinical trial. JAMA Netw. Open
+ology, Conceptualization. Sharyn Gaskin: Writing – review & editing,                  5, E226257. https://doi.org/10.1001/jamanetworkopen.2022.6257.
+Conceptualization. Yonatal Tefera: Writing – review & editing,                   Genuis, S.J., Birkholz, D., Ralitsch, M., Thibault, N., 2010. Human detoxification of
+                                                                                      perfluorinated compounds. Public Health 124, 367–375. https://doi.org/10.1016/j.
+Conceptualization. Krystle Mitchell: Writing – review & editing,                      puhe.2010.03.002.
+Conceptualization. David Springer: Writing – review & editing,                   Genuis, S.J., Curtis, L., Birkholz, D., 2013. Gastrointestinal elimination of perfluorinated
+Conceptualization. Simon Mills: Writing – review & editing, Data                      compounds using cholestyramine and chlorella pyrenoidosa. ISRN Toxicol 2013,
+                                                                                      1–8. https://doi.org/10.1155/2013/657849.
+curation.
+                                                                                 Genuis, S.J., Liu, Y., Genuis, Q.I.T., Martin, J.W., 2014. Phlebotomy treatment for
+                                                                                      elimination of perfluoroalkyl acids in a highly exposed family: a retrospective case-
+                                                                                      series. PLoS One 9, e114295. https://doi.org/10.1371/journal.pone.0114295.
+                                                                                 Hinderliter, P.M., Han, X., Kennedy, G.L., Butenhoff, J.L., 2006. Age effect on
+Declaration of competing interest
+                                                                                      perfluorooctanoate (PFOA) plasma concentration in post-weaning rats following oral
+                                                                                      gavage with ammonium perfluorooctanoate (APFO). Toxicology 225, 195–203.
+    The authors declare that they have no known competing financial                   https://doi.org/10.1016/J.TOX.2006.06.002.
+interests or personal relationships that could have appeared to influence        ITRC, 2023. Per- and Polyfluoroalkyl Substances (PFAS). District of Columbia.
+
+the work reported in this paper.
+
+                                                                             7
+I. Delaere et al.                                                                                                                                Environment International 202 (2025) 109609
+
+Jin, C., Sun, Y., Islam, A., Qian, Y., Ducatman, A., 2011. Perfluoroalkyl acids including         PSAP, 2023. First Report of the Independent PFAS Scientific Advisory Panel for Jersey-
+     perfluorooctane sulfonate and perfluorohexane sulfonate in firefighters. J. Occup.                The potential for an interim therapeutic phlebotomy service.
+     Environ. Med. 53, 324–328. https://doi.org/10.1097/JOM.0b013e31820d1314.                     Pitter, G., Da Re, F., Canova, C., Barbieri, G., Jeddi, M.Z., Daprà, F., Manea, F., Zolin, R.,
+Johnson, J., Gibson, S., Ober, R., 1984. Cholestyramine-enhanced fecal elimination of                  Bettega, A.M., Stopazzolo, G., Vittorii, S., Zambelli, L., Martuzzi, M., Mantoan, D.,
+     carbon-14 in rats after administration of ammonium [14C] perfluorooctanoate or                    Russo, F., 2020. Serum levels of perfluoroalkyl substances (PFAS) in adolescents and
+     potassium [14C] perfluorooctanesulfonate. Fundam. Appl. Toxicol. 4, 972–976.                      young adults exposed to contaminated drinking water in the Veneto region, Italy: a
+Khalil, N., Ducatman, A.M., Sinari, S., Billheimer, D., Hu, C., Littau, S., Burgess, J.L.,             cross-sectional study based on a health surveillance program. Environ. Health
+     2020. Per-and polyfluoroalkyl substance and cardio metabolic markers in                           Perspect. 128. https://doi.org/10.1289/EHP5337.
+     firefighters. J. Occup. Environ. Med. 62, 1076–1081. https://doi.org/10.1097/                Rosato, I., Bonato, T., Fletcher, T., Batzella, E., Canova, C., 2024. Estimation of per- and
+     JOM.0000000000002062.                                                                             polyfluoroalkyl substances (PFAS) half-lives in human studies: a systematic review
+Lakind, J.S., Verner, M.A., Rogers, R.D., Goeden, H., Naiman, D.Q., Marchitti, S.A.,                   and meta-analysis. Environ. Res. 242. https://doi.org/10.1016/j.
+     Lehmann, G.M., Hines, E.P., Fenton, S.E., 2022. Current breast milk PFAS levels in                envres.2023.117743.
+     the United States and Canada: after all this time, why don’t we know more? Environ.          Rotander, A., Toms, L., Aylward, L., Kay, M., Mueller, J., 2015. Elevated levels of PFOS
+     Health Perspect. 130. https://doi.org/10.1289/EHP10359.                                           and PFHxS in firefighters exposed to aqueous film forming foam (AFFF). Environ.
+Leary, D.B., Takazawa, M., Kannan, K., Khalil, N., 2020. Perfluoroalkyl substances and                 Int. 82, 28–34.
+     metabolic syndrome in firefighters: a pilot study. J. Occup. Environ. Med. 62, 52–57.        Schrenk, D., Bignami, M., Bodin, L., Chipman, J.K., del Mazo, J., Grasl-Kraupp, B.,
+     https://doi.org/10.1097/JOM.0000000000001756.                                                     Hogstrand, C., Hoogenboom, L., Leblanc, J.C., Nebbia, C.S., Nielsen, E., Ntzani, E.,
+Li, Y., Cheng, Y., Xie, Z., Zeng, F., 2017. Perfluorinated alkyl substances in serum of the            Petersen, A., Sand, S., Vleminckx, C., Wallace, H., Barregård, L., Ceccatelli, S.,
+     southern Chinese general population and potential impact on thyroid hormones. Sci.                Cravedi, J.P., Halldorsson, T.I., Haug, L.S., Johansson, N., Knutsen, H.K., Rose, M.,
+     Rep. 7. https://doi.org/10.1038/srep43380.                                                        Roudot, A.C., Van Loveren, H., Vollmer, G., Mackay, K., Riolo, F., Schwerdtle, T.,
+Li, Y., Fletcher, T., Mucs, D., Scott, K., Lindh, C.H., Tallving, P., Jakobsson, K., 2018.             2020. Risk to human health related to the presence of perfluoroalkyl substances in
+     Half-lives of PFOS, PFHxS and PFOA after end of exposure to contaminated drinking                 food. EFSA J. 18. https://doi.org/10.2903/j.efsa.2020.6223.
+     water. Occup. Environ. Med. 75, 46–51. https://doi.org/10.1136/oemed-2017-                   Tefera, Y.M., Gaskin, S., Mitchell, K., Springer, D., Mills, S., 2023. Temporal decline in
+     104651.                                                                                           serum PFAS concentrations among metropolitan firefighters: longitudinal study on
+Lorber, M., Eaglesham, G.E., Hobson, P., Toms, L.-M.-L., Mueller, J.F., Thompson, J.S.,                post-exposure changes following PFAS foam cessation. Environ. Int. 179. https://doi.
+     2015. The effect of ongoing blood loss on human serum concentrations of                           org/10.1016/j.envint.2023.108167.
+     perfluorinated acids. Chemosphere 118, 170–177. https://doi.org/10.1016/j.                   Tefera, Y.M., Gaskin, S., Mitchell, K., Springer, D., Mills, S., Pisaniello, D., 2022. Food
+     chemosphere.2014.07.093.                                                                          grown on fire stations as a potential pathway for firefighters’ exposure to per- and
+Mazumder, N.U.S., Hossain, M.T., Jahura, F.T., Girase, A., Hall, A.S., Lu, J., Ormond, R.              poly-fluoroalkyl substances (PFAS). Environ. Int. 168. https://doi.org/10.1016/j.
+     B., 2023. Firefighters’ exposure to per-and polyfluoroalkyl substances (PFAS) as an               envint.2022.107455.
+     occupational hazard: a review. Front. Mater. 10. https://doi.org/10.3389/                    Toms, L.M.L., Bräunig, J., Vijayasarathy, S., Phillips, S., Hobson, P., Aylward, L.L.,
+     fmats.2023.1143411.                                                                               Kirk, M.D., Mueller, J.F., 2019. Per- and polyfluoroalkyl substances (PFAS) in
+Møller, J.J., Lyngberg, A.C., Hammer, P.E.C., Flachs, E.M., Mortensen, O.S., Jensen, T.K.,             Australia: current levels and estimated population reference values for selected
+     Jürgens, G., Andersson, A., Soja, A.M.B., Lindhardt, M., 2024. Substantial decrease               compounds. Int. J. Hyg. Environ. Health 222. https://doi.org/10.1016/j.
+     of PFAS with anion exchange resin treatment – a clinical cross-over trial. Environ.               ijheh.2019.03.004.
+     Int. 185. https://doi.org/10.1016/j.envint.2024.108497.                                      Upson, K., Shearston, J.A., Kioumourtzoglou, M.A., 2022. An Epidemiologic review of
+NAS, 2022. Guidance on PFAS Exposure, Testing, and Clinical Follow-Up. National                        menstrual blood loss as an excretion route for per- and polyfluoroalkyl substances.
+     Academies Press, Washington, D.C. https://doi.org/10.17226/26156.                                 Curr. Environ. Health Rep. 9. https://doi.org/10.1007/s40572-022-00332-0.
+Nilsson, S., Smurthwaite, K., Aylward, L.L., Kay, M., Toms, L.M., King, L., Marrington, S.,       Xu, Y., Fletcher, T., Pineda, D., Lindh, C.H., Nilsson, C., Glynn, A., Vogs, C., Norström, K.,
+     Barnes, C., Kirk, M.D., Mueller, J.F., Bräunig, J., 2022. Serum concentration trends             Lilja, K., Jakobsson, K., Li, Y., 2020. Serum half-lives for short-and long-chain
+     and apparent half-lives of per- and polyfluoroalkyl substances (PFAS) in Australian               perfluoroalkyl acids after ceasing exposure from drinking water contaminated by
+     firefighters. Int. J. Hyg. Environ. Health 246. https://doi.org/10.1016/j.                        firefighting foam. Environ. Health Perspect. 128, 1–11. https://doi.org/10.1289/
+     ijheh.2022.114040.                                                                                EHP6785.
+Paris-Davila, T., Gaines, L.G.T., Lucas, K., Nylander-French, L.A., 2023. Occupational            Xu, Y., Nielsen, C., Li, Y., Hammarstrand, S., Andersson, E.M., Li, H., Olsson, D.S.,
+     exposures to airborne per- and polyfluoroalkyl substances (PFAS)—a review. Am. J.                 Engström, K., Pineda, D., Lindh, C.H., Fletcher, T., Jakobsson, K., 2021. Serum
+     Ind. Med. 66. https://doi.org/10.1002/ajim.23461.                                                 perfluoroalkyl substances in residents following long-term drinking water
+Pelch, K.E., Reade, A., Wolffe, T.A.M., Kwiatkowski, C.F., 2019. PFAS health effects                   contamination from firefighting foam in Ronneby. Sweden. Environ Int 147. https://
+     database: protocol for a systematic evidence map. Environ. Int. 130. https://doi.org/             doi.org/10.1016/j.envint.2020.106333.
+     10.1016/j.envint.2019.05.045.
+
+
+
+
+                                                                                              8
+

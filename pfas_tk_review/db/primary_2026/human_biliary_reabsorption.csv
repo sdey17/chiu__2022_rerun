@@ -1,0 +1,7 @@
+quantity,value,units,species,chemical,note,source
+biliary_resorption_rate,0.97,fraction,human,PFOS,"97% of PFOS secreted in bile is reabsorbed from the gut - the enterohepatic analogue of the 99.94% renal reabsorption in Han 2012 Table 4","Harada 2007, via EPA 2016 PFOS HESD p.2-17"
+bile_concentration,27.9,ng/mL,human,PFOS,"median; n=4 gallstone-surgery patients aged 63-76",Harada 2007 via EPA 2016
+serum_concentration,23.2,ng/mL,human,PFOS,"median; bile EXCEEDS serum, supporting bile as an excretion route",Harada 2007 via EPA 2016
+cholestyramine_effect,23 -> 14.4,ng/g serum,human,PFOS,"4 g/day in three doses for 20 weeks; 37% decrease; self-study n=1",Genuis 2010 via EPA 2016
+urinary_fraction_of_intake,16,% of estimated intake,human,PFOS,"no significant male/female difference",Zhang via EPA 2016 PFOS HESD
+menstruation_share_of_sex_difference,">30",% of the M/F half-life difference,human,PFOS,"Wong 2014 estimated ~30%; Verner & Longnecker 2015 revised serum loss from 432 to 868 mL/y, implying >30%","Wong 2014 / Verner & Longnecker 2015, via EPA 2016 PFOS HESD"

@@ -229,6 +229,18 @@ def build_tk():
                 provenance="primary_2026/ohmori2003_rat_chain_length.csv",
                 notes=r.get("note")))
 
+    for r in rows(os.path.join(PRIM, "delaere2025_firefighter_removal.csv")):
+        out.append(rec(
+            chemical=r["chemical"], species="human", parameter="halflife",
+            value=num(r["apparent_halflife_y"]), units="y",
+            method=f"one-compartment first-order; {r['group']}",
+            n_animals=r["n"], study="Delaere et al.", year="2025",
+            pmid_or_doi="Environ Int 202:109609",
+            source_table="abstract",
+            provenance="primary_2026/delaere2025_firefighter_removal.csv",
+            notes="CAVEAT: only participants whose concentrations decreased were "
+                  "included, and no statistical comparison was made"))
+
     for r in rows(os.path.join(PRIM, "shi2016_clpfesa_human.csv")):
         out.append(rec(
             chemical=r["chemical"], species="human", parameter=r["parameter"],

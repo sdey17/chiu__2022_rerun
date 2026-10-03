@@ -1225,6 +1225,49 @@ disagreement for PFOS, where our two human sources sit at 4:1 faecal and
 faecal-not-detected, straddles a compound that in mice is genuinely close to
 50:50 — so the dispute is about a compound where neither extreme is plausible.
 
+**The dispute largely dissolves once the biliary loop is quantified.** EPA's 2016
+PFOS Health Effects Support Document carries a number this review had never
+seen: Harada 2007 sampled serum and bile from four gallstone-surgery patients and
+measured a **biliary resorption rate of 0.97**. Bile PFOS (27.9 ng/mL) actually
+*exceeds* serum (23.2), so bile is a genuine excretion route — but **97% of what
+is secreted is reabsorbed from the gut.**
+
+That is the enterohepatic twin of §3.3's renal axis, and it reframes the whole
+section. Humans run **two near-complete reabsorption loops**, not one:
+
+| loop | fraction reabsorbed | source |
+|---|---|---|
+| renal (PFOA) | **99.94%** | Han 2012 Table 4 |
+| biliary (PFOS) | **97%** | Harada 2007 |
+
+Both are near-unity, both are the reason the human half-life is long, and
+crucially **both are interruptible** — which is why bile-acid sequestrants work:
+
+| | PFOS half-life | PFHxS |
+|---|---|---|
+| **Delaere 2025**, treated (cholestyramine and/or plasma donation, n=19) | **1.2 y** | **2.5 y** |
+| **Delaere 2025**, observation (n=9) | **7.3 y** | **9.4 y** |
+| ratio | **6.1×** | **3.8×** |
+
+plus Genuis 2010 (4 g/day cholestyramine, 20 weeks: PFOS 23 → 14.4 ng/g) and
+Møller 2024 (63% lowering in 12 weeks against 3% control). A sequestrant that
+blocks a 97% resorption loop should accelerate elimination several-fold, and it
+does.
+
+This also reconciles Andersson and Abraham without either being wrong. With 97%
+resorption, **gross** biliary flux is large while **net** faecal elimination is
+small. Andersson measured faeces in people with ongoing intake and saw a large
+signal; Abraham followed a labelled bolus and saw almost nothing leave by that
+route. Those are measurements of different quantities, and the 0.97 reconciles
+them.
+
+*Two caveats on Delaere.* Its own abstract states that "the study did not conduct
+statistical comparisons" and — more seriously — that "the calculations only
+included data from participants whose serum PFOS and PFHxS concentrations
+decreased." Conditioning on a decrease biases apparent half-lives downward in
+both arms. The direction of the treatment effect is credible; the absolute
+half-lives are not.
+
 **And two further routes appear in no agency's clearance accounting at all.**
 
 *Breastfeeding.* Mondal 2014 (C8 Science Panel, n = 633) finds each month of
@@ -1233,7 +1276,11 @@ PFHxS** — and raises the infant's by 6% and 4%. For a woman breastfeeding a
 year, that is a third of her PFOA burden leaving by a route no clearance factor
 counts. The mother's excretion is the infant's dose.
 
-*Menstrual blood loss.* Upson 2022 reviews the epidemiology: postmenopausal
+*Menstrual blood loss.* This now has a number attached. Wong 2014 fitted a
+population PK model to six NHANES cycles and concluded menstruation accounts for
+**about 30%** of the male/female PFOS half-life difference; Verner & Longnecker
+2015 revised the annual serum loss from 432 to 868 mL/year, implying **>30%**
+(both via EPA's 2016 PFOS document). Upson 2022 reviews the epidemiology: postmenopausal
 women carry higher PFAS than premenopausal women, concentrations rise with years
 since menopause and with hysterectomy, and a life-stage PBPK bias analysis
 reproduces the apparent PFAS–menopause association purely from the loss of this
@@ -1588,7 +1635,27 @@ the primary full text.**
    are 483–2,336× lower and imply saturation *is* reached in contaminated
    communities. §4.3 now gives both and argues for the in vitro side rather than
    assuming it.
-15. **The human reabsorptive transporter is not the rat's.** §3.4 implied the
+15. **The want list had the wrong identifier for the dog study, for the whole
+   project.** `WANTED.md` paired "Hanhijärvi et al. 1988, beagle dog" with
+   doi:10.1007/978-3-642-71248-7_96. That DOI is **Kojo, Hanhijärvi, Ylinen &
+   Kosma 1986, "Toxicity and Kinetics of Perfluoro-octanoic Acid in the Wistar
+   Rat"** — a 28-day rat study with no dog data in it at all (Hanhijärvi is a
+   co-author of both, which is how the two were conflated). Repeated retrieval
+   attempts were therefore chasing the wrong paper. The dog study is a separate
+   publication, indexed as EPA HERO 5412773.
+16. **A PFOS calculation inherited the PFOA volume.** EPA's 2016 PFOS document
+   records that Zhang's Tianjin intake estimates used "a volume of distribution
+   of **170 mL/kg** (Thompson et al. 2010; Egeghy and Lorber 2011)" — for
+   **PFOS**, whose value in Thompson is 230. Whether the 170 came from
+   misreading Thompson or from Egeghy & Lorber, a PFOS calculation ran on the
+   PFOA number, a 1.35× error in the conservative direction.
+17. **"PFAS are metabolically inert" is not universal.** §1 and most of the
+   literature treat PFAS as non-metabolised. Yi 2022 shows 6:2 Cl-PFESA
+   undergoing reductive dechlorination to 6:2 H-PFESA (13.6% in rat liver,
+   reductive conditions only) and notes it is the **second** perfluoroalkyl acid
+   reported to biotransform in mammals. The premise holds for the legacy
+   compounds this review centres on; it does not hold for the chlorinated ethers.
+18. **The human reabsorptive transporter is not the rat's.** §3.4 implied the
    Oatp1a1 mechanism extends to humans. Yang 2010 shows **OATP1A2, the closest
    human orthologue, does not transport PFOA at all**; human apical reabsorption
    runs through OAT4 and URAT1, neither androgen-regulated. The reabsorbed

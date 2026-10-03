@@ -1,0 +1,100 @@
+Toxic Interfaces of Neurones, Smoke and Genes
+Arch. Toxicol., Suppl. 9, 465-468 (1986)
+© by Springer-Verlag 1986
+
+
+
+
+Toxicity and Kinetics of Perfluoro-octanoic Acid
+in the Wistar Rat
+
+A. Kojo 1, H. Hanhijarvi 2, M. Ylinen 3, and V.-M. Kosma 4
+1 Department of Pharmacology and Toxicology, University of Kuopio, P.D.B. 6, SF-70211 Kuopio,
+2 Department of Environmental Hygiene and Toxicology, National Public Health Institute, P.D.B. 95,
+SF-70701 Kuopio,
+3 Department of Pharmaceutical Chemistry, University of Kuopio, and
+4 Department of Pathology, University of Kuopio, P.D.B. 6, SF-70211 Kuopio, Finland
+
+
+
+
+    Abstract. Perfluoro-octanoic acid [PFO; CF 3(CF 2)6COOH] is a single chain
+    fatty acid with surfactant properties. Thus far the kinetics and toxicity ofPFO
+    has not been studied thoroughly.
+        PFO was administered orally 3 mg/kg, 10 mg/kg, and 30 mg/kg to 36
+    Wistar rats daily for 28 consecutive days. Another 12 animals received 0.5 ml/
+    100 g saline each day. Animal behaviour, body weight, as well as, water and
+    food consumption were observed regularly. Blood, urine, and some viscera
+    were collected for the analysis ofPFO and histopathology.
+        Food consumption decreased with increasing dose of PFO. Serum PFO
+    concentrations were 6-19 times higher in the males than in the females (range
+    48.6-83.0 J.lg/ml males, and 2.4-11.2 J.lg/ml females) (p<0.001).
+        On the 7th day the mean PFO excretion in the low dose group for the males
+    was 157±63 J.lg/24 (SD) hand 255±27 J.lg/24 h for females (p<0.05). In the
+    high dose group the corresponding figures were 2476±665 J.lg/24 h (males)
+    and 2917 ±493 J.lg/24 h (females). On the 28th day the PFO excretion for the
+    low dose males was 609 ± 87 J.lg/24 h, 671 ± 65 J.lg/24 h for the females. In the
+    high dose group the figures were 4619±2886 J.lg/24 h (males) and
+    4379±692 J.lg/24 h (females).
+    Key words: Perfluoro-octanoic acid - Toxicity - Wistar rat
+
+
+
+Introduction
+
+Perfluoro-octanoic acid [PFO, CF 3(CF 2)6COOH] is a single chain fatty acid de-
+rivative. Perfluorinated fatty acids have commercial uses as corrosion inhibitors,
+wetting agents, fire extinguishants, and as surface active agents (Olson and An-
+dersen 1983). According to Griffith and Long (1980) the acute oral LDso for am-
+monium-PFO was 680 mg/kg for the male, and 430 mgjkg for the female ChR-
+CD albino rat. Still, a 90-day feeding study suggested, that the males were more
+susceptible to the subchronic effects ofPFO than the female animals (Griffith and
+466                                                                     A. Kojo et al.
+
+Long 1980). The organic fluoride concentrations in the pooled serum were clearly
+higher in the male than in the female rats. According to Hanhijarvi et al. (1982)
+the female Holtzman rats had an active secretion mechanism for PFO in the kid-
+ney. In the male rats the secretion was almost nonexistent.
+    The aim of the present study was to study the effects of PFO in male and fe-
+male Wi star rats during a 28-day oral toxicity study. Special attention was paid
+to the analysis of the PFO concentrations in serum and urine in the course of the
+study.
+
+Materials and Methods
+
+PFO was administered to 48 newly weaned Wistar rats in 0.9% NaCI solution
+omg/kg, 3 mg/kg, 10 mg/kg, and 30 mg/kg by intragastric gavage for 28 consec-
+utive days. The behaviour of the animals, and their feed and water consumption
+were observed regularly. The rats were weighed once a week and urine was col-
+lected on the 7th and 28th day of the study period. At the end of the study the
+blood was collected with cardiac puncture whereafter the animals were necrop-
+sied. Tissue specimens were fixed in 10% buffered formalin for histopathological
+examination.
+    PFO-concentrations in urine and serum were analyzed with a gas chromato-
+graphical method described elsewhere (Ylinen et al. 1985). Statistical evaluation
+was performed using SPSS statistical package installed in VAX 11/780 com-
+puter.
+
+Results
+
+Two weeks from the start there appeared a dose-related decrease in the physical
+activity of the animals. Lethargy, cyanosis, laboured ventilation and decreased
+weight gain were observed. The female animals were affected earlier and more fre-
+quently than the males. Food consumption decreased significantly with the in-
+creasing dose ofPFO. The female animals receiving 30 mg/kg ofPFO showed the
+decrease from the 10th day but all the dosed groups had reduzed food intake by
+the third week.
+    PFO concentrations in the plasma ranged between 48.6-83.0 Ilg/ml in the
+males and 2.4-11.2 Ilg/ml in the female animals (p < 0.001). The smallest concen-
+trations were observed in the group receiving 3 mg/kg and the highest in those ad-
+ministered 10 mg/kg of PFO daily (Fig. 1). The differences between the dosed
+groups within either sex were surprisingly small.
+    The mean urinary excretion of PFO in 24 h for each group is given in Table 1.
+On both days (7th and 28th) the PFO-concentrations were the higher, the larger
+the PFO dose. On the 28th day the PFO levels were 1.5-4 times higher than on
+the 7th day of the study. Additionally, after the first week the females excreted
+only a little more than the males, but at four weeks the difference had disappeared
+or was reversed.
+    The histopathological examination of the controls revealed one bronchopneu-
+monia and another one with a small chronic inflammatory focus in the liver.
+

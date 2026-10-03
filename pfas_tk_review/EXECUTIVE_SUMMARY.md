@@ -165,8 +165,8 @@ inheritance: PBPK models read ">90%" as "≈90%" and used a free fraction about
 
 | | |
 |---|---|
-| `db/combined/` | 1,434 rows in four schemas; 20 chemicals, 8 species groups; every row carries its provenance and primary source. Also one Excel workbook. |
-| `db/primary_2026/` | 20 per-paper extractions from the 21 full texts obtained during this work |
+| `db/combined/` | 1,438 rows in four schemas; 20 chemicals, 8 species groups; every row carries its provenance and primary source. Also one Excel workbook. |
+| `db/primary_2026/` | 24 per-paper extractions from the 25 full texts obtained during this work |
 | `scripts/` | 32 runnable scripts — every figure and table regenerates |
 | `figures/` | 15 figures |
 | `report/REPORT.md` | the full review, ~1,670 lines |

@@ -1,15 +1,16 @@
 # Papers still wanted
 
-**Nearly everything is in.** Twenty-one full texts were supplied between
+**Nearly everything is in.** Twenty-five full texts were supplied between
 2026-10-01 and 2026-10-03 and are now in `papers/`, extracted into
 `db/primary_2026/`, and folded into the report. Everything received has been
 removed from this list.
 
-**Received and removed (21):** Argoul/Gayrard 2026 · Thompson 2010 (+5
+**Received and removed (25):** Argoul/Gayrard 2026 · Thompson 2010 (+5
 supplementary + corrigendum) · Kudo 2002 · Kudo 2001 · Lou 2009 · Han 2012 ·
 Han 2003 · Yang 2010 · Yang 2009 · Tatum-Gibbs 2011 · Sundström 2012 ·
 Cheng 2005 · Cheng 2009 · Buist & Klaassen 2004 · Ohmori 2003 · Louisse 2024 ·
-Shi 2016 · Jia 2022 · Maso 2021 · Zurlinden 2025 · Huang 2021 corrigendum.
+Shi 2016 · Jia 2022 · Maso 2021 · Zurlinden 2025 · Huang 2021 corrigendum ·
+Yi 2022 · Delaere 2025 · Kojo 1986 · EPA 2016 PFOS HESD.
 Also removed: **Weaver 2010** (listed in error; on disk all along) and
 **Cheng 2006** (needed no full text — its own abstract contradicts itself, and
 Cheng 2005 and 2009 settle the direction).
@@ -48,10 +49,8 @@ yet it underpins Wambaugh 2013 and Worley & Fisher 2015.
 
 | paper | identifier | fills |
 |---|---|---|
-| **Hanhijärvi et al. 1988**, beagle dog | book chapter, doi:10.1007/978-3-642-71248-7_96 | **the entire dog column** — dog has 2 of 44 cells. Essentially the only primary dog PFAS study; not in PubMed. Re-attempted 2026-10-02 and confirmed not online: HERO 5412773 lists it, but it is a 1988 Springer chapter with no digital full text. **Needs a library scan.** Han 2012 Table 4's compiled values (CLR 50.8 F / 43 M mL/d/kg, 52%/59% reabsorbed) are the current substitute |
-| **Kerstner-Wood 2003**, SRI contract report | no DOI/PMID | the main source for neat human plasma f_unbound of PFOS/PFOA/PFHxS. Less critical now that Han 2003 is in hand and the binding conflict is resolved (§6.2), but it is still a primary source nobody has read |
-| **Yi et al. 2022**, 6:2 Cl-PFESA rat TK | **PMID 33947185** | the animal side of the compound with the longest human half-life. Shi 2016 (the human side) has now arrived |
-| **Delaere et al. 2025**, firefighter PFAS reduction programme | Environ Int 2025;202:109609 | a second controlled-removal study to set against Gasiorowski (§5.1a) |
+| **Hanhijärvi et al. 1988**, beagle dog — *"A proposed species difference in the renal excretion of perfluoro-octanoic acid in the beagle dog and rat"* | **EPA HERO 5412773**. ⚠️ **NOT** doi:10.1007/978-3-642-71248-7_96 — that DOI, which this list carried until 2026-10-03, is **Kojo, Hanhijärvi, Ylinen & Kosma 1986**, a Wistar *rat* study with no dog data. Hanhijärvi co-authors both, which is how they were conflated; every previous retrieval attempt was chasing the wrong paper | **the entire dog column** — dog has 2 of 44 cells. Han 2012 Table 4's compiled values (CLR 50.8 F / 43 M mL/d/kg, 52%/59% reabsorbed) are the current substitute |
+| **Kerstner-Wood 2003**, SRI contract report | no DOI/PMID | the main source for neat human plasma f_unbound of PFOS/PFOA/PFHxS. Less critical now that Han 2003 is in hand and the binding conflict is resolved (§6.2), but still a primary source nobody has read |
 
 ---
 
@@ -65,7 +64,7 @@ yet it underpins Wambaugh 2013 and Worley & Fisher 2015.
 - **Katakura 2007** — the only study testing Npt2 and Mrp2 for PFOA. Not indexed
   in PubMed or Europe PMC; *J Health Sci* has no located DOI. Known second-hand
   through OEHHA Table A6.3 and Weaver 2010's Discussion.
-- Anything already in `papers/` — 182 full-text extractions.
+- Anything already in `papers/` — 186 full-text extractions.
 
 ---
 
