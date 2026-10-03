@@ -16,7 +16,10 @@ Section 1 builds the foundation — one equation that governs the whole subject.
 Everything after is an application of it. Sections 2–4 answer the three
 questions you asked, in order. Sections 5–7 are the supporting evidence
 (assumptions, binding, transporters). Section 8 lists what this review corrects
-in the existing repository, section 9 what nobody knows yet.
+in the existing repository, section 9 what nobody knows yet. Section 10 is the
+practical summary; section 11 takes the same machinery and asks which *endpoint*
+a structure-activity model would have to predict, which turns out to change the
+species answer too.
 
 Code blocks are runnable from `pfas_tk_review/`. Every number traces to
 `db/*.csv`, and every row there carries a PMID or DOI and the table it came
@@ -1815,6 +1818,163 @@ single Ka.
 
 ---
 
+## 11. Toward a QSAR: choosing the endpoint before fitting anything
+
+Everything above treats the species question as a physiology problem. The same
+machinery answers a different question — which structures behave which way —
+but only if the endpoint is chosen correctly first. This section argues that
+the usual endpoint is the wrong one, proposes a replacement, and reports what
+the data already on disk say about it.
+
+### 11.1 Half-life is not a QSAR endpoint
+
+From the identity that opens this report,
+
+    t½ = ln2 · Vd / CL
+
+half-life is a composite of three terms that structure affects separately:
+
+| term | what sets it | is it chemistry? |
+|---|---|---|
+| plasma binding (fu) | albumin affinity, chain length, head group | yes |
+| glomerular filtration (GFR) | body size and renal physiology | **no** |
+| tubular transport | transporter affinity and direction | yes |
+
+GFR alone differs ~6.5× between mouse and human (§3.4) with no change in
+chemistry whatsoever. Fitting descriptors to half-life therefore asks a
+structural model to absorb a body-size term, and it cannot. This is the same
+failure as fitting descriptors to clearance in absolute units.
+
+### 11.2 The proposed endpoint: the renal handling ratio
+
+    R = CL_renal / (fu · GFR)
+
+R is the measured renal clearance divided by the clearance that free
+filtration alone would produce. It is dimensionless, and it has a mechanistic
+reading at every value:
+
+- R < 1 — net tubular **reabsorption**; less leaves than was filtered
+- R = 1 — pure filtration; no net transport
+- R > 1 — net tubular **secretion**; more leaves than was filtered
+
+R divides GFR out, so a mouse and a human are directly comparable, and it
+divides fu out, so the binding step is not counted twice. What remains is the
+transport step — the part a structural model could plausibly learn. `log10 R`
+is the working scale: signed, continuous, and spanning ~3 log units across the
+compounds below.
+
+R is a re-expression of the fractional reabsorption axis used throughout §3:
+**FR = 1 − R**, so FR = 99.94% is log10 R = −3.2. The reason to prefer R is
+arithmetic rather than conceptual. FR crowds against a ceiling at 1 (the
+interesting human-to-mouse range compresses into 95–99.99%) and runs
+unboundedly negative under secretion, where PFHxA reaches FR = −1.71. In log R
+the same range is an ordinary 3-log-unit axis with no special points.
+
+`scripts/qsar_endpoint_table.py` builds the table and runs every number below;
+output in `db/qsar/qsar_endpoint_table.csv`.
+
+### 11.3 What the one complete dataset says
+
+Argoul 2026 is the only source that measures CL_renal **and** fu for many
+compounds in one experiment, one species, one laboratory — which is the
+condition a structure-activity comparison requires and almost nothing else in
+this literature satisfies. Male mouse, nine compounds with both terms:
+
+| compound | fluorinated C | head group | ether O | fu % | R | log10 R | handling |
+|---|---|---|---|---|---|---|---|
+| PFDA | 9 | carboxylate | 0 | 0.42 | 0.0031 | −2.51 | reabsorbed |
+| PFHxS | 6 | sulfonate | 0 | 1.30 | 0.0045 | −2.34 | reabsorbed |
+| PFNA | 8 | carboxylate | 0 | 0.35 | 0.0171 | −1.77 | reabsorbed |
+| PFOA | 7 | carboxylate | 0 | 0.87 | 0.0413 | −1.38 | reabsorbed |
+| PFOS | 8 | sulfonate | 0 | 0.25 | 0.0496 | −1.30 | reabsorbed |
+| PFBA | 3 | carboxylate | 0 | 77.0 | 0.102 | −0.99 | reabsorbed |
+| GenX | 5 | ether-carboxylate | 1 | 26.0 | 0.104 | −0.98 | reabsorbed |
+| PFO2OA | 5 | ether-carboxylate | 2 | 10.0 | 1.533 | +0.19 | **secreted** |
+| PFHxA | 5 | carboxylate | 0 | 25.0 | 2.712 | +0.43 | **secreted** |
+
+875-fold span. "Fluorinated C" counts carbons bearing fluorine, so it excludes
+a PFCA's carboxyl carbon and includes every carbon of a PFSA. That definition
+was chosen because it makes PFOS and PFNA the same size on the chain axis — a
+prediction the table can falsify.
+
+Three findings, all of which constrain what a QSAR may assume:
+
+**Chain length alone does not order the endpoint.** Within the carboxylates the
+series is non-monotonic: C3 −0.99, C5 **+0.43**, C7 −1.38, C8 −1.77, C9 −2.51.
+PFHxA breaks it, and not marginally — it crosses from reabsorption into
+secretion. Any model using carbon number as its sole descriptor is already
+falsified on this dataset.
+
+**The head group carries about 3-fold at matched chain length.** PFNA and PFOS
+both have 8 fluorinated carbons; log10 R = −1.77 vs −1.30, a 2.9-fold
+difference. So the descriptor definition survives as an approximation — the two
+are closer to each other than either is to its own chain neighbours — but the
+head group is not negligible.
+
+**Ether oxygens are a strong, non-monotonic descriptor.** Three compounds with
+five fluorinated carbons each, differing only in ether substitution:
+
+| ether O | compound | log10 R | handling |
+|---|---|---|---|
+| 0 | PFHxA | +0.43 | secreted |
+| 1 | GenX | −0.98 | reabsorbed |
+| 2 | PFO2OA | +0.19 | secreted |
+
+Chain length is held constant and the endpoint moves 1.4 log units, with the
+single-ether compound retained and both of its neighbours secreted. Whatever
+the mechanism, it is not a monotonic function of ether count, and the
+replacement chemicals sit on both sides of the divide.
+
+### 11.4 The sensitivity that decides the species question
+
+R is linear in 1/fu, so the endpoint inherits the binding uncertainty of §6.2
+in full. Human PFOA, with CL_renal = 0.03 mL/d/kg and GFR = 2,570 mL/d/kg both
+fixed, under the three unbound fractions the literature carries:
+
+| fu | source | log10 R | gap to male mouse PFOA |
+|---|---|---|---|
+| 0.10 | PBPK models reading ">90% bound" as "≈90% bound" | −3.93 | 354× |
+| 0.02 | Han 2012's stated assumption | −3.23 | 71× |
+| 0.00061 | Fischer, measured at physiological ligand:protein | −1.72 | **2.2×** |
+
+This is the sharpest consequence of the binding adjudication in §6.2. Under the
+assumed fu, the mouse-to-human difference in the transport step is ~71× and the
+species gap is a transport-biology problem. Under the measured fu it is ~2× and
+the species gap is almost entirely a **binding** problem — which would mean the
+transporter work in §7, including the Oatp1a1 question, is explaining a
+quantity that barely differs between the species.
+
+The caveat is load-bearing and is the reason this is stated as a sensitivity
+rather than a result: Argoul's mouse fu and Fischer's human fu come from
+different methods at different ligand:protein ratios, which is precisely the
+artefact §6.2 diagnoses. Cross-method fu comparison is not yet legitimate.
+
+That makes one inexpensive experiment decisive for both the species question
+and the QSAR: **measure fu for these compounds in mouse, rat and human plasma
+by a single method at physiological ligand:protein ratio.** No animals are
+required. It is listed in §9 as a gap; §11 raises it to the top of the list,
+because every value of R in this section is proportional to it.
+
+### 11.5 What the QSAR cannot yet be fitted on
+
+Nine compounds in one species from one laboratory is a hypothesis generator,
+not a training set. The table above is the complete set of PFAS for which
+CL_renal and fu were measured together anywhere in this review. The per-compound
+material that exists alongside it, and what is missing:
+
+| asset | compounds | what it gives | what it lacks |
+|---|---|---|---|
+| Argoul 2026 (§3.2a) | 11 | CL, Vss, MRT, F, fu, R | one species, one sex, n small |
+| Louisse 2024 + Yang 2010 (§7) | 5 | human OAT1/3/4 Km | no matched fu or CL_renal |
+| Han 2012 Table 6 (§7) | 4 | rat Oat1/Oat3/Oatp1a1 Km | rat only; mixed methods |
+| Kudo 2001, Ohmori 2003 (§3) | 4 | chain-length elimination, both sexes | no fu, no CL_renal |
+| Fischer (§6) | 11 | log D at realistic ratio | no in vivo pairing |
+
+The binding and transporter columns are per-compound and could feed a QSAR
+directly; the in vivo column is the bottleneck. Expanding that column — a
+second species with CL_renal and fu measured together for the same compound
+set — is what turns this from an argument into a model.
+
 ## Appendix: the databases
 
 | file | rows | what it answers |
@@ -1836,6 +1996,7 @@ single Ka.
 | `mouse_rat_decomposition.csv` | 14 | the species gap split into Vd and CL terms |
 | `sex_decomposition.csv` | 21 | the same split for the sex difference |
 | `reabsorption_axis.csv` | 5 | renal reabsorption and the half-life it predicts |
+| `qsar/qsar_endpoint_table.csv` | 11 | per-compound structure descriptors paired with the renal handling ratio R (§11) |
 
 Figures in `figures/`; retrieval logs in `papers/SOURCES_*.md`; per-subtopic
 research notes in `research_notes/`.
