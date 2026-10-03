@@ -1,6 +1,6 @@
 # PFAS toxicokinetics: what the primary sources say
 
-A standalone summary of the review in `report/REPORT.md`, built after twenty-one
+A standalone summary of the review in `report/REPORT.md`, built after twenty-five
 previously unobtainable full texts were supplied. Every figure is reproducible
 from `scripts/`; every number traces to a table in a paper named in the
 citations at the end.
@@ -277,12 +277,12 @@ Full list of corrections, including three to EPA and OEHHA documents, in
 | `db/combined/regulatory.csv` | 215 | what each agency adopted, from which study, under which assumptions |
 | `db/combined/PFAS_TK_combined.xlsx` | — | all four as one workbook, filterable |
 
-1,434 rows in total, 20 distinct chemicals, 8 species groups. Every row carries a `provenance` column
+1,438 rows in total, 20 distinct chemicals, 8 species groups. Every row carries a `provenance` column
 naming the file it came from and a `study` / `pmid_or_doi` / `source_table` trio
 naming the primary source. Rebuild with
 `python3 scripts/build_combined_datasets.py`.
 
-The 20 per-paper extractions behind the newest findings are in
+The 24 per-paper extractions behind the newest findings are in
 `db/primary_2026/`, one file per table per paper.
 
 ---

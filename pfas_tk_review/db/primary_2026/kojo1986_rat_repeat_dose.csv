@@ -1,0 +1,6 @@
+parameter,male,female,ratio_M_over_F,units,note,source
+serum_PFOA_range,48.6-83.0,2.4-11.2,6-19,ug/mL,"28-day repeat oral dosing at 3/10/30 mg/kg/day; p<0.001",Kojo 1986 abstract
+urinary_excretion_d7_low_dose,157,255,0.62,ug/24h,"+/- 63 and 27; p<0.05, FEMALES higher",Kojo 1986 abstract
+urinary_excretion_d7_high_dose,2476,2917,0.85,ug/24h,"+/- 665 and 493",Kojo 1986 abstract
+urinary_excretion_d28_low_dose,609,671,0.91,ug/24h,"+/- 87 and 65",Kojo 1986 abstract
+urinary_excretion_d28_high_dose,4619,4379,1.05,ug/24h,"+/- 2886 and 692",Kojo 1986 abstract

@@ -1,0 +1,5 @@
+group,n,chemical,max_decrease_ng_mL,annual_decrease_pct,apparent_halflife_y,source
+treatment (cholestyramine and/or plasma donation),19,PFOS,162,41,1.2,Delaere 2025 abstract
+treatment (cholestyramine and/or plasma donation),19,PFHxS,37,32,2.5,Delaere 2025 abstract
+observation (no treatment),9,PFOS,41,12,7.3,Delaere 2025 abstract
+observation (no treatment),9,PFHxS,6,10,9.4,Delaere 2025 abstract

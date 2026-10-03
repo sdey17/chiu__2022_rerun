@@ -1,0 +1,755 @@
+pubs.acs.org/est                                                                                                                                 Article
+
+
+
+Signiﬁcant Reductive Transformation of 6:2 Chlorinated
+Polyﬂuorooctane Ether Sulfonate to Form Hydrogen-Substituted
+Polyﬂuorooctane Ether Sulfonate and Their Toxicokinetics in Male
+Sprague−Dawley Rats
+Shujun Yi, Diwen Yang, Lingyan Zhu,* and Scott A. Mabury*
+
+
+
+
+                                                                                                                                                                Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​56/​10/​6123/​9343329/​es1c00616.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+      Cite This: Environ. Sci. Technol. 2022, 56, 6123−6132                          Read Online
+
+
+ACCESS                         Metrics & More                            Article Recommendations              *
+                                                                                                              sı Supporting Information
+
+
+ABSTRACT: 6:2 chlorinated polyﬂuorooctane ether sulfonate (6:2 Cl-PFESA) was
+previously shown to undergo limited dechlorination in rainbow trout to yield 6:2
+hydrogen-substituted polyﬂuorooctane ether sulfonate (6:2 H-PFESA) as the sole
+metabolite. However, the biotransformation susceptibility of 6:2 Cl-PFESA has not been
+investigated in mammals and the biological behavior of 6:2 H-PFESA has not been deﬁned
+in any species. We investigated the respective transformation products of 6:2 Cl-PFESA and
+6:2 H-PFESA and their toxicokinetic properties in male Sprague−Dawley rats as a
+mammalian model. 6:2 H-PFESA was the sole detectable metabolite of 6:2 Cl-PFESA, with a
+transformation percentage of 13.6% in rat liver, but it resisted further degradation. 6:2 Cl-
+PFESA also transformed to 6:2 H-PFESA in reductive rat liver S9 incubations but remained
+stable under oxidative conditions, suggesting a reductive enzyme-dependent transformation
+pathway. 6:2 Cl-PFESA was more enriched in lipid-rich tissues, while 6:2 H-PFESA was
+more prone to cumulative urinary excretion. From this perspective, it may suggest a detoxiﬁcation mechanism for organisms to form
+the less hydrophobic 6:2 H-PFESA to alleviate total burdens. To date, 6:2 Cl-PFESA was the second perﬂuoroalkyl acid reported to
+undergo biotransformation in mammals. The toxicokinetic properties determined for 6:2 Cl-PFESA and 6:2 H-PFESA in blood and
+urine were found to be structure and dose dependent.
+KEYWORDS: 6:2 Cl-PFESA, 6:2 H-PFESA, biotransformation, reductive dechlorination, toxicokinetics, mammal
+
+
+■    INTRODUCTION
+Perﬂuorooctanesulfonate (PFOS) is one of the per- and
+                                                                                who are subject to multiple exposure routes. Shi et al.12
+                                                                                suggested that 6:2 Cl-PFESA was the most persistent PFAS in
+polyﬂuoroalkyl substances (PFASs) that was produced in the                      humans reported to date, with the longest estimated half-life
+largest quantities, resulting in its widespread occurrence in                   for renal clearance (median 280 years) and total elimination
+wildlife and surrounding environments.1,2 Due to concerns                       (median 15.3 years). However, the kinetic parameters were
+about its widespread pollution and potential toxicity, PFOS                     modeled, not measured, which may limit our understanding of
+was phased out globally in the early 2000s.3,4 This change was                  how this molecule will actually behave in humans upon
+mirrored by a generally decreasing trend in PFOS concen-                        exposure.
+trations in human sera since the year 2000.5 As a consequence,                    The strong C−F bonds in perﬂuoroalkyl acids (PFAAs)
+alternative molecules such as short-chain PFASs 6 and                           make them recalcitrant to degradation in natural environments,
+polyﬂuorinated ethers7,8 are being developed and applied.                       even under extreme conditions.17 Up to date, perﬂuoroalkyl
+However, the case of 6:2 chlorinated polyﬂuorooctane ether                      phosphinic acids (PFPiAs) are the only class of PFAAs that
+sulfonate (6:2 Cl-PFESA, trade name F-53B) is diﬀerent, as it                   have been identiﬁed as biodegradable. The C−P bonds in
+was already being used as a substitute for PFOS in the metal                    PFPiAs are susceptible to cleavage to form perﬂuoroalkyl
+plating industry as early as the 1970s.9 Recent studies                         phosphonic acids (PFPAs) in rainbow trout (Oncorhynchus
+demonstrated that 6:2 Cl-PFESA is ubiquitously distributed
+in worldwide surface water, soil, and airborne particulate
+                                                                                Special Issue: Emerging Contaminants: Fluorinated
+matter with the levels similar in magnitude to those of
+                                                                                Alternatives to Existing PFAS Compounds
+PFOS.9−14 The increased detection frequency and elevated
+proportion of 6:2 Cl-PFESA in humans in the past decade also                    Received: January 28, 2021
+reﬂects that it is being increasingly applied as a PFOS                         Revised: April 12, 2021
+alternative.15,16 These ﬁndings brought up the concern about                    Accepted: April 25, 2021
+humans undertaking a heavy burden of this novel compound,                       Published: May 5, 2021
+
+                                      © 2021 American Chemical Society                                                https://doi.org/10.1021/acs.est.1c00616
+                                                                         6123                                      Environ. Sci. Technol. 2022, 56, 6123−6132
+Environmental Science & Technology                                                pubs.acs.org/est                                          Article
+
+
+
+
+Figure 1. Chemical structures of 6:2 Cl-PFESA and 6:2 H-PFESA and the proposed transformation pathway between them.
+
+mykiss)18 and Sprague−Dawley rats.19 Although 6:2 Cl-PFESA                  out in accordance with the accepted standards of humane
+and PFOS share certain similarities in structures, the insertion            animal care under agreement from the regional ethics
+of an oxygen atom into the ﬂuorocarbon backbone and                         committee. The protocol was approved by the University of
+replacement of one ﬂuorine atom with chlorine in the molecule               Toronto Animal Care Committee (Protocol No. 20012198).
+make 6:2 Cl-PFESA theoretically less stable than PFOS.                      Twelve 8-week-old male Sprague−Dawley rats were obtained
+Investigations into 6:2 Cl-PFESA have intensively focused on                from Charles River Laboratories Inc. (Sherbrooke, QC,
+
+
+
+
+                                                                                                                                                           Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​56/​10/​6123/​9343329/​es1c00616.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+the chemical itself, i.e., its occurrence in the environment and            Canada). The rats were housed in cages in 3 groups and
+bioaccumulation and toxicities in the organisms. To our                     subjected to a 12 h/12 h light/dark cycle with food and water
+knowledge, there have been only two studies that looked at the              available ad libitum. The rats were allowed to acclimate to the
+biodegradability of 6:2 Cl-PFESA. One of them tested the                    laboratory environment for 3 weeks before exposure (weighted
+biotransformation of 6:2 Cl-PFESA in an aerobic soil and                    approximately 0.35 kg). A 5 mg neat standard of either 6:2 Cl-
+found negligible degradation of this compound.20 Another                    PFESA or 6:2 H-PFESA was dissolved in 10 mL of a dosing
+study from our lab demonstrated the biotransformation of 6:2                vehicle consisting of a 50:50 propylene glycol/water mixture,
+Cl-PFESA in rainbow trout and identiﬁed 6:2 hydrogen-                       with 0.1% soy lecithin added as an emulsiﬁer to increase
+substituted polyﬂuorooctane ether sulfonate (6:2 H-PFESA) as                solubility. The control vehicle was prepared in the same way as
+the predominant metabolite.21 However, the transformation                   the dosing vehicle except that no chemical was spiked in. The 3
+rate was low (mean ratio <0.1%), which hampered the                         groups of 4 rats were administered with either 6:2 Cl-PFESA,
+screening for other metabolites and overall understanding of                6:2 H-PFESA, or control solution at 3 mL/kg body weight
+6:2 H-PFESA. Nevertheless, the results shed light on the                    (BW) by oral gavage without prior fasting. The nominal
+susceptibility of 6:2 Cl-PFESA to reductive biotransformation               concentrations of 6:2 Cl-PFESA and 6:2 H-PFESA in rats were
+and stressed the signiﬁcance of probing the transformation                  around 1.5 mg/kg.
+potential in diﬀerent organisms, especially mammals which                      For the toxicokinetic studies, whole blood and urine samples
+often have active redox enzyme system and display higher                    were collected throughout the experimental duration (10 d).
+activities and capacities of metabolizing chemicals.22−24                   Whole blood samples were taken from the saphenous veins
+   This study aims to investigate the transformation of 6:2 Cl-             into lithium heparin (anticoagulation) rinsed vials (BD
+PFESA in mammals, taking male Sprague−Dawley rats as a                      Vacutainer), which happened at 0, 2, 4, 6, and 24 h and 3,
+model animal, which were dosed with either 6:2 Cl-PFESA or                  7, and 10 d postdose. Urine samples were collected at regular
+6:2 H-PFESA at around 1.5 mg/kg. The concentrations of 6:2                  intervals (i.e., 4−8, 28−32, 52−56, 76−80 and 172−176 h
+Cl-PFESA and 6:2 H-PFESA as well as their corresponding                     postdose), and the urine from the 4 rats in the same group
+metabolites were measured in various organs to unveil the                   were pooled as a composite sample. On day 10, the exposure
+target organs and potential enzymes which play key roles in the             was terminated by injection of 2000 mg/kg urethane
+biotransformation. In vitro incubations of either 6:2 Cl-PFESA              anesthesia as introduced by Rand et al.25 and Joudan et al.19
+or 6:2 H-PFESA with male Sprague−Dawley rat liver S9                        Compared with the more commonly used halogenated
+homogenates were performed to support the in vivo results.                  anesthetics, urethane avoids analytical signal overlap during
+Finally, the biological behavior of 6:2 Cl-PFESA and 6:2 H-                 target compound qualiﬁcation and quantiﬁcation on the
+PFESA in rats (speciﬁcally, the transformation products, oral               instrument. Approximately 10 mL of whole blood was
+bioavailability, toxicokinetic properties, and tissue distribution          collected via cardiac puncture into lithium heparin embedded
+proﬁles) were comprehensively compared from the perspec-                    tubes (BD Vacutainer). The animals were subsequently
+tives of chemical structure-, exposure concentration-, and                  euthanized by cervical dislocation, and liver, kidneys, heart,
+exposure route-dependence to provide insights into human risk               muscle, and fat (retroperitoneal adipose) samples were
+assessment upon 6:2 Cl-PFESA and 6:2 H-PFESA exposures.
+
+■
+                                                                            collected and stored in 50 mL Falcon tubes. All samples
+                                                                            were stored at −20 °C until extraction.
+     METHODS                                                                   2.3. Selection of Dosing Amount. The oral dosages of
+   2.1. Materials. The native 6:2 Cl-PFESA standard and                     6:2 Cl-PFESA and 6:2 H-PFESA and experimental duration
+isotope-labeled internal standard 13C4−PFOS, both with a                    were chosen by considering the following factors. In a previous
+purity of >98%, were obtained from Wellington Laboratories.                 toxicokinetic study,26 the mice received consecutive exposures
+The 6:2 H-PFESA standard with purity >95% was obtained                      of 6:2 Cl-PFESA at three levels for 56 d. The lowest dosage at
+from Professor Guibin Jiang’s research group (Chinese                       0.04 mg/kg/d, corresponded to a total amount of 2.24 mg/kg
+Academy of Sciences, Beijing, China). Further details of the                6:2 Cl-PFESA in mice after a 56 d exposure. By referring to
+chemicals used in the in vivo and in vitro studies are listed in            this value, the nominal dosing amount of 6:2 Cl-PFESA in our
+Text S1 of the Supporting Information (SI). Chemical                        study was set around 1.5 mg/kg. At this dosage, no mortality
+structures are sketched in Figure 1.                                        or acute toxicity eﬀect and no physical signs of stress were
+   2.2. Animal Treatment and Sample Collection. The                         observed throughout the experiment. In addition, the dosage
+animals used in this study were treated humanely with regards               here was selected to ensure that the concentrations of the
+to alleviation of suﬀering. All animal procedures were carried              potential metabolites were high enough for quantiﬁcation,
+                                                                     6124                                        https://doi.org/10.1021/acs.est.1c00616
+                                                                                                              Environ. Sci. Technol. 2022, 56, 6123−6132
+Environmental Science & Technology                                              pubs.acs.org/est                                           Article
+
+based on the preliminary in vitro data.19 The 10 d exposure              [CnF2n+1]−, [CnF2n−1]−, [SO2F]−, [SO3F]−, and [CF3O]−).
+period was set to be suﬃciently long to observe the terminal             Only the suspect PFASs were selected for the MS/MS analysis
+phase slope and allow calculation of kinetic parameters.27               under data-independent acquisition (DIA) mode coupled with
+   2.4. In Vitro Rat Liver S9 Incubation. The in vitro                   higher-energy collisional dissociation (HCD) to characterize
+incubations of 6:2 Cl-PFESA and 6:2 H-PFESA with rat liver               the proposed molecular formula and structure.31 Details of
+microsomes (S9 fraction) were conducted in 3 mL                          instrumental analysis by Vanquish UHPLC are provided in
+polypropylene Eppendorf tubes in triplicates. Rat liver S9 is            Text S4. All the information on accurate mass, stable isotopes,
+a pool of liver extracts from male Sprague−Dawley rats and               fragments, and MS/MS experiments in high resolution mode
+contains the phase I and II enzymes, including both oxidative            were integrated to ﬁnally conﬁrm the structure with very high
+and reductive enzymes, which were activated by NADPH                     conﬁdence.
+regenerating system (cofactor for phase I oxidative enzymes                 2.6. Quality Assurance and Quality Control (QA/QC).
+such as cytochrome P450) and DTT (nonnative cofactor for                 Limits of quantiﬁcation (LOQs) and recoveries (n = 3) of the
+reductases and deiodinases), respectively. The total volume of           compounds in the spiked rat tissues are provided with details
+reaction mixture was 500 μL, consisting of 100 μL of S9 (2               in the Supporting Information.
+
+
+
+
+                                                                                                                                                          Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​56/​10/​6123/​9343329/​es1c00616.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+mg/mL protein), 5 μL of either 6:2 Cl-PFESA or 6:2 H-                       2.7. Statistical Analysis. The areas under the curve
+PFESA stock solution prepared in methanol (1 ng/μL), and                 (AUC) of 6:2 Cl-PFESA and 6:2 H-PFESA in their respective
+10, 20, or 30 μL of DTT stock solution (dissolved in                     plots of molar concentration (in blood) versus time (0−10 d)
+phosphate buﬀer, 500 mM) to achieve low, middle, or high                 were obtained using an integration function (Origin V8.5),
+concentrations of DTT in the ﬁnal reaction system (10, 20, or            which represents the blood concentrations that can reach the
+30 mM, respectively), with the balance made up of 355, 345, or           target tissues and exert eﬀects after deducting the blood
+335 μL of 0.05 M phosphate buﬀer (pH 7.4). The DTT                       clearance. The overall bioavailability of the dosed compounds
+concentration adopted here was chosen in accordance with                 was calculated as the ratio of the AUC to the dosage, which
+previous literature to preserve reductase and deiodinase                 was scaled for a nominal dose of 1 pmol/g BW.32
+enzyme activities.28,29 Reactions were initiated by adding S9.              The extent of biotransformation of the dose compound in
+   Two types of experimental controls were applied to                    the target tissues was calculated as the ratio of the total molar
+accompany the tests: a nonenzymatic incubation control                   concentration of the transformation product to the molar
+(heat-inactivated S9) was designed to correct for both abiotic           concentration of the parent compound obtained at the end of
+(background) contamination and microbial transformation of               exposure. For example, one 6:2 Cl-PFESA molecule yields one
+target compounds; a negative control contained all the reaction          6:2 H-PFESA. The biotransformation percentage was calcu-
+components except DTT, was set up to test the possibility of             lated as follows
+oxidation being the ﬁrst step in degradation. All microsomal                                          Conc.(6: 2 H‐PFESA)
+incubations were conducted at 37 °C with triplicates. Sample                 Biotransformation(%) =
+                                                                                                      Conc.(6: 2 Cl‐PFESA)
+                                                                                                                           × 100%
+                                                                                                                                                  (1)
+collection took place at 1, 2, 4, and 18 h by adding 500 μL of
+ice-cold methanol into the system to terminate the reaction,             Absorption and elimination rate constant (k) were calculated
+and the sample was vortexed for 1 min. After the centrifuging            using a one-compartment model proposed by,19 and the
+at 8000 rpm for 30 min, 20 μL of supernatant was taken to                absorption and excretion half-lives (t1/2,abs and t1/2,elim,
+measure the residual levels of dosed compounds and screen for            respectively) are calculated from the k
+transformation intermediates in the incubations.                                        0.693
+   2.5. Extraction and Instrumental Analysis. The target                     t1/2 = −
+                                                                                          k                                                       (2)
+compounds in the samples were extracted using an ion-pair
+liquid−liquid extraction method according to our previous                Statistical analysis was performed with SPSS 16.0 (SPSS,
+studies.21 Identiﬁcation and quantiﬁcation of 6:2 Cl-PFESA               Chicago, IL, USA). Analyte concentrations were expressed as
+and 6:2 H-PFESA were performed on a Waters Acquity                       the mean ± standard deviation. One-way analysis of variance
+ultrahigh-performance liquid chromatograph (UHPLC)                       (ANOVA) was employed to estimate the signiﬁcance of
+coupled to a Waters Xevo TQ-S triple quadrupole mass                     diﬀerences between groups.
+spectrometer (MS/MS) (Waters, Milford, MA, USA),
+operated in negative electrospray ionization (ESI) mode as
+described in our previous study.21 Further details on the
+                                                                         ■    RESULTS AND DISCUSSION
+                                                                            3.1. Reductive Degradation from Cl- to H-substitu-
+extraction and instrumental analysis by Acquity UHPLC are                ent. We performed nontarget screening for potential
+provided in Text S2 and Text S3, respectively.                           metabolites of 6:2 Cl-PFESA and 6:2 H-PFESA in rat blood
+   Nontarget screening for potential metabolites was con-                collected at 24 h and livers harvested on day 7 and 10. We
+ducted on a Q Exactive HF-X Hybrid Quadrupole-Orbitrap                   conﬁrmed [SO2F]− and [CF3O]− as the ﬂagged ﬂuorinated ion
+mass spectrometer (Thermo Fisher Scientiﬁc) coupled with a               fragments for the target compounds in standard solution
+Vanquish UHPLC system (Thermo Fisher Scientiﬁc). For                     (Figure S1a). In line with this, the in-source fragmentation
+discovery and characterization of unknown metabolites in rat             scanning speciﬁcally conﬁrmed two identical features for
+samples, we used a novel untargeted workﬂow which ﬂagged                 potential PFAS candidates in rat blood and liver, dosed with
+PFASs by in-source fragmentation scanning.30 The primary                 6:2 Cl-PFESA (Figure S1b). Apart from the dosed compound
+MS data were acquired by scanning from 100 to 1000 m/z at                6:2 Cl-PFESA (m/z = 530.8955, RT = 6.64 min, Figure S1b),
+120000 resolution for full scan and from 50 to 300 m/z at                the feature with the most abundant averaged IRs and isotopic
+15000 resolution for in-source fragmentation ﬂagging scans.              peak clusters was suggested as 6:2 H-PFESA (m/z = 496.9345,
+The fragmentation scans were primarily designed to ﬂag the               RT = 6.11 min, Figure S1b). MS/MS fragmentation pattern
+retention time of compounds containing a perﬂuorinated                   was further employed to conﬁrm the chemical formula of the
+moiety by producing diagnostic ﬂuorinated fragments (e.g.,               detected compound (Figure S1b). The same identiﬁcation
+                                                                  6125                                          https://doi.org/10.1021/acs.est.1c00616
+                                                                                                             Environ. Sci. Technol. 2022, 56, 6123−6132
+Environmental Science & Technology                                                pubs.acs.org/est                                            Article
+
+protocol was applied for screening the dominant metabolites of              6:2 Cl-PFESA to form 6:2 H-PFESA was not NADPH-
+6:2 H-PFESA. As a result, only one feature for potential PFAS               dependent, discounting the involvement of oxidative enzymes
+candidate was identiﬁed in both rat blood and liver, dosed with             while stressing the critical role of microsomal reductase(s) or
+6:2 H-PFESA, which turned out to be the dosed compound                      deiodinase. Overall, the in vitro results conﬁrmed the reductive
+6:2 H-PFESA (Figure S1c). As a whole, the nontarget                         dechlorination of 6:2 Cl-PFESA in vivo. Supporting evidence is
+screening suggested that 6:2 H-PFESA was the sole detectable                provided by the case of polybrominated diphenyl ethers
+metabolite of 6:2 Cl-PFESA and it surprisingly resisted further             (PBDEs). Varying rates and degrees of reductive debromina-
+degradation in rats, even though the hydrogen substituent was               tion of PBDEs to form lower brominated congeners in ﬁsh,
+expected to be labile to oxidation.                                         birds, and rats have been reported.29,33−35 These studies
+   Previous studies reported that 6:2 Cl-PFESA was as                       concluded that reductive enzymes (possibly iodothyronine
+recalcitrant as the legacy PFAAs to oxidative degradation and               deiodinases) rather than oxidative ones were responsible for
+was extremely stable under various advanced oxidation                       the reductive debromination in organisms.36,37
+processes.9,20 In contrast with the previously established strong              It is well established that PFAAs are resistant to nucleophilic
+recalcitrance, we observed extensive transformation of 6:2 Cl-              displacement of ﬂuorine owing to the poor F− leaving group
+
+
+
+
+                                                                                                                                                             Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​56/​10/​6123/​9343329/​es1c00616.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+PFESA in rats, yielding 6:2 H-PFESA in abundance in tissues                 ability.17,38 Among the PFAAs, PFPiAs showed the ﬁrst
+(Table S3). The transformation occurred most intensively in                 evidence to be biodegradable in mammals due to the presence
+liver, corresponding to the highest local transformation                    of C−P bonds.19 For the ﬁrst time, we identiﬁed that 6:2 Cl-
+percentage of 13.6% (Duncan test, p < 0.01). Blood and                      PFESA was susceptible for reductive transformation in rats,
+kidneys exhibited medium high transformation percentages of                 becoming the second PFAA reported to undergo biotransfor-
+2.0% and 2.4%, respectively (Duncan test, p < 0.05). Heart,                 mation in mammals. Contrary to the initial assumption that
+muscle, and fat were least involved in the transformation                   the ﬂexible ether linkage in the ﬂuorinated carbon backbone
+(0.8%, 0.6%, and 1.0%, respectively). Although the sample size              should render 6:2 Cl-PFESA more readily degradable, it is very
+for urine was not suﬃcient for true statistical power, the ratio            intriguing that the transformation in rats was attributed to the
+of 6:2 H-PFESA to 6:2 Cl-PFESA in urine was relatively high                 chlorine atom anchored on the terminal carbon. The chlorine
+up to 6.5%, which was second only to that for liver and was 3.2             atom is a more favorable leaving group as a result of a larger
+times higher than that for blood. The predominant                           atomic radius than the ﬂuorine analogue,39−41 which may
+biotransformation happening in the liver corroborates that                  account for its susceptibility to dechlorination in biota, in the
+liver is the primary site for transformation, which was similar to          absence of vigorous chemical catalysis. The prominent β-
+the transformation of PFPiAs to PFPAs occurring in ﬁsh18 and                oxidation typically occurring for nonﬂuorinated carbons
+rat19 livers.                                                               adjacent to a hydroxyl group in liver metabolism was not
+   The fact that previous studies reached the opposite                      observed for 6:2 H-PFESA in rats.42,43 However, our results do
+conclusion regarding the vulnerability of 6:2 Cl-PFESA to                   not rule out the possibility that 6:2 H-PFESA is degradable in
+transformation implies that diﬀerent transformation mecha-                  the environment, where it might be subject to other
+nisms are at play in the present study; in other words, these               interventions. For example, unsaturated transient intermediates
+oxidative assay designs may not have adequately captured the                (e.g., 6:2 H-PFUESA) and multihydrogen substituted metab-
+metabolism pathway of 6:2 Cl-PFESA. To testify the                          olites (e.g., 6:2 2H-PFESA) were listed as suspected products
+hypothesis that in vivo dechlorination of 6:2 Cl-PFESA was a                in the anaerobic super-reduced cyanocobalamin tests.11
+result of a reductive-enzyme mediated process and to                           Although the in vitro transformation of 6:2 Cl-PFESA did
+speciﬁcally identify the actively involved enzyme components,               occur, the degradation potency in vivo was roughly 30 times
+we conducted in vitro S9 assays to compare the degradability of             higher than that in vitro (Table S3, Table S4), suggesting that
+6:2 Cl-PFESA incubated under oxidative and reductive                        although DTT is capable of preserving and activating the
+conditions, respectively. The nonenzymatic incubation (in-                  activities of reductive enzymes, it is far from being as powerful
+activated S9) and the negative control (omission of the                     as the highly complex enzymatic communities in vivo. In this
+reductant DTT) exhibited a constant ratio of 6:2 H-PFESA to                 regard, the in vitro system may not adequately mirror the in
+6:2 Cl-PFESA throughout the experiment (1.61 ± 0.05%,                       vivo scenario, due to the lack of some critical components in
+Table S4), which was identical to the ratio of 6:2 H-PFESA as               catalyzing the reactions. It is also worth noting that the mean
+an impurity in the standard of 6:2 Cl-PFESA. By contrast,                   transformation percent in rat liver was approximately 700 times
+incubations with gradient concentrations of DTT (low,                       higher than in ﬁsh liver21 (13.6% versus 0.019%), suggesting
+medium, and high) consistently demonstrated the trans-                      mammals are supremely competent for reductive trans-
+formation of 6:2 Cl-PFESA into 6:2 H-PFESA. The trans-                      formation of 6:2 Cl-PFESA in comparison to ﬁsh. In this
+formation rate, which was approximately 0.5% after subtracting              regard, it is informed that extensive dechlorination of 6:2 Cl-
+the background response of the control groups, was                          PFESA may also occur in humans, and further studies are
+signiﬁcantly higher than those of the negative controls                     warranted to understand the potential health risks of 6:2 Cl-
+(Dunnet test, p < 0.01, Table S4). However, the catalytic                   PFESA and 6:2 H-PFESA in human.
+activities of the enzymes were not enhanced by increasing the                  3.2. Oral Bioavailability of 6:2 Cl-PFESA and 6:2 H-
+dose of DTT, as the transformation rates in the three test                  PFESA. As depicted in Figure S2, the orally administered 6:2
+groups did not diﬀer signiﬁcantly from each other (Duncan                   Cl-PFESA or 6:2 H-PFESA underwent a gut and hepatic ﬁrst-
+test, p > 0.05, Table S4). The fact that transformation of 6:2              pass eﬀect, and the rest was subsequently absorbed into
+Cl-PFESA was absent from the oxidative S9 assay (where the                  systemic circulation to become bioavailable.32 Considering that
+predominant enzymes being activated were sulfotransferase                   biotransformation of a chemical may cause underestimation of
+and cytochrome P450) but present in the reductive                           its overall bioaccumulation potential,44,45 the determination of
+incubations (where DTT preserved the activities of the                      dosed 6:2 Cl-PFESA bioavailability corresponded to the total
+reductive enzymes) implied that biological dechlorination of                amount of 6:2 Cl-PFESA and formed 6:2 H-PFESA circulating
+                                                                     6126                                          https://doi.org/10.1021/acs.est.1c00616
+                                                                                                                Environ. Sci. Technol. 2022, 56, 6123−6132
+Environmental Science & Technology                                                         pubs.acs.org/est                                                 Article
+
+Table 1. Pharmacokinetic Parameters of Target Compounds in Sprague−Dawley Rats after Oral Gavage at around 1.5 mg/kga
+                 Bioavailability, pmol/g × d per
+                           pmol/g BW                       t1/2,abs, h (r2)                   t1/2,elim, d (r2)          Tmax, h               Cmax, pmol/g
+   Compound                  Blood                    Blood              Urine            Blood             Urine   Blood Urine              Blood            Urine
+6:2 Cl-PFESA                   6.5                 2.8 ± 0.2       9.3 ± 3.0           4.1 ± 0.6        2.1 ± 0.1    24        56       2649 ± 437          32 ± 8
+  (dosed)                                            (0.99)          (0.91)              (0.95)           (0.99)
+6:2 H-PFESA                    5.9                 1.6 ± 0.3       6.9 ± 0.4           4.2 ± 0.6        5.0 ± 1.6    6         56       2685 ± 153          77 ± 14
+  (dosed)                                            (0.97)          (0.99)              (0.98)           (0.81)
+6:2 H-PFESA                    −                   1.9 ± 0.3       10.4 ± 1.0          4.2 ± 1.1        2.4 ± 0.2    24        56       58                  1.8
+  (formed)                                           (0.99)          (0.99)              (0.89)           (0.99)
+a
+ The bioavailability of the dosed compounds into rat blood was determined as the AUC (pmol/g × d) relative to the dosing amount (pmol/g
+BW). Tmax, time of maximum concentration; Cmax, maximum concentration. Note:  stands for not applicable.
+
+in blood. In rats, oral bioavailability of 6:2 Cl-PFESA and 6:2
+H-PFESA within the 10 d exposure was 6.5 and 5.9 pmol/g ×
+
+
+
+
+                                                                                                                                                                           Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​56/​10/​6123/​9343329/​es1c00616.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+d per pmol/g BW, respectively (Table 1). The relative
+bioavailability of 6:2 Cl-PFESA and 6:2 H-PFESA was close to
+1, indicating that both compounds for the same external
+exposure level suﬀered from comparable ﬁrst-pass eﬀects, after
+which they were eﬃciently absorbed from the gastrointestinal
+tract into the bloodstream.
+   This ﬁnding is supported by previous observations that the
+bioaccumulation potential of PFASs is dictated primarily by
+the length of their ﬂuorocarbon backbones.46,47 Evidence is
+accumulating that PFAA transport into cells most likely being
+controlled by a combination of incorporation into the
+phospholipid membrane and facilitation by transport pro-
+teins,48−50 where the hydrophobic eﬀect is the likely driving
+force for the former process and the binding aﬃnities
+determine the latter one. The relatively high hydrophobicity
+and moderate molecular weights (530.89 and 496.93 g/mol,
+respectively) allow them to partition into the lipid bilayer and
+subsequently bind eﬃciently to transport proteins.49−51 As a
+consequence, the comparable bioavailability of the dosed 6:2
+Cl-PFESA and 6:2 H-PFESA enabled us to examine their
+biological behavior solely on the basis of structural eﬀects.
+   3.3. Comparison of the Pharmacokinetics between
+6:2 Cl-PFESA and 6:2 H-PFESA to Investigate the
+Structure-, Concentration-, and Route-dependent Ef-
+fects. Figure 2 depicts the temporal trends of all the identiﬁed
+compounds, including both the parent compounds (i.e., dosed
+6:2 Cl-PFESA and 6:2 H-PFESA) and their metabolite (i.e.,
+formed 6:2 H-PFESA), in the rat blood and urine after
+separate oral administration of 6:2 Cl-PFESA and 6:2 H-
+PFESA. As shown in Figure 2A, the time courses of the blood
+concentration of the dosed 6:2 Cl-PFESA and 6:2 H-PFESA                              Figure 2. Temporal trends of dosed 6:2 Cl-PFESA and 6:2 H-PFESA
+after respective administration were comparable. The max-                            (left y-axis) and formed 6:2 H-PFESA (right y-axis) in rat blood (A)
+                                                                                     and urine (B).
+imum concentrations in the rat blood for 6:2 Cl-PFESA (2649
+± 437 pmol/g) and 6:2 H-PFESA (2685 ± 153 pmol/g) were
+very similar. However, it took 24 and 6 h for 6:2 Cl-PFESA                           PFASs generally reached uptake equilibrium in rat blood
+and 6:2 H-PFESA to increase to the maximal values,                                   within 24 h. These ﬁndings support the peak times for 6:2 Cl-
+respectively. Although it was possible that their maximal                            PFESA and 6:2 H-PFESA observed here. In the exposure
+blood concentrations were not accurately captured due to the                         group of 6:2 Cl-PFESA, the accumulation pattern of the
+lack of sampling point during 6 to 24 h, it still evidenced that                     transformation product 6:2 H-PFESA in the rat blood
+6:2 H-PFESA achieved absorption equilibrium into blood                               paralleled that of its parent compound, which synchronously
+faster than 6:2 Cl-PFESA. Since the in vivo pharmacokinetics                         reached a peak of 58 ± 5 pmol/g at 24 h (Figure 2A). The
+of 6:2 Cl-PFESA and 6:2 H-PFESA using a mammalian model                              cumulative urinary excretions of the dosed 6:2 Cl-PFESA and
+have not been previously deﬁned, no accumulation data were                           its metabolite 6:2 H-PFESA, as well as the dosed 6:2 H-
+available for comparison. Instead, the results of several studies                    PFESA, are presented in Figure 2B. Urinary elimination of all
+investigating C8 PFASs, e.g., 6:2 polyﬂuoroalkyl phosphate                           compounds, no matter they were dosed directly or formed as
+ester (6:2 PAP) and C8 perﬂuoroalkyl phosphonic acid (C8                             metabolite, started at 56 h (Figure 2B). However, in contrast
+PFPA), which were dosed in rats with the same method as our                          to the similar blood concentrations of the two dosed
+study, provided some useful hints.19,27 In those studies, the C8                     compounds, the urine concentration of the dosed 6:2 H-
+                                                                              6127                                               https://doi.org/10.1021/acs.est.1c00616
+                                                                                                                              Environ. Sci. Technol. 2022, 56, 6123−6132
+Environmental Science & Technology                                                  pubs.acs.org/est                                            Article
+
+Table 2. Tissue Burdens Accumulated over 10 d and Tissue-to-Blood Ratios (TBRs) Were Determined on 10 dd
+                            6:2 Cl-PFESA (dosed)                        6:2 H-PFESA (dosed)                       6:2 H-PFESA (formed)
+                    Conc. (pmol/g)             TBRs              Conc. (pmol/g)             TBRs           Conc. (pmol/g)                   TBRs
+    Blood            546.4 ± 37.8                                 537.8 ± 85.7                               11.0 ± 2.6
+    Liver            556.3 ± 92.8          1.0 ± 0.2              487.2 ± 38.9            0.9 ± 0.2          76.5 ± 18.4                7.0 ± 0.5 *
+    Kidneys          363.6 ± 70.6          0.7 ± 0.3              495.1 ± 69.0            0.9 ± 0.3          8.9 ± 2.7                  0.8 ± 0.5
+    Heart            181.7 ± 35.0          0.3 ± 0.3 *            81.1 ± 11.4             0.2 ± 0.3          1.4 ± 0.3                  0.1 ± 0.5
+    Muscle           103.8 ± 19.2          0.2 ± 0.3 *            67.7 ± 15.0             0.1 ± 0.4          0.6 ± 0.1                  0.1 ± 0.4
+    Fat              231.6 ± 46.8          0.4 ± 0.3 *            103.3 ± 25.0            0.2 ± 0.4          2.3 ± 1.0                  0.2 ± 0.7
+    Urine            2.0 ± 0.3a            0.004 ± 0.002          22.2 ± 1.4b             0.04 ± 0.2         0.13 ± 0.02c               0.01 ± 0.4
+a
+  Concentration of dosed compound 6:2 Cl-PFESA in urine at day 10 was extrapolated via the elimination kinetics determined over days 0−8.
+b
+  Concentration of dosed compound 6:2 H-PFESA in urine at day 10 was extrapolated via the elimination kinetics determined over days 0−8.
+c
+ Concentrations of metabolite 6:2 H-PFESA in urine at day 10 was extrapolated via the elimination kinetics determined over days 0−8. dStatistical
+
+
+
+
+                                                                                                                                                               Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​56/​10/​6123/​9343329/​es1c00616.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+signiﬁcance on TBRs between dosed compounds and between dosed and formed 6:2 H-PFESA was determined by Duncan test and set as p < 0.05
+(*).
+
+PFESA was 2−4 times higher than that of the dosed 6:2 Cl-                     lation and elimination patterns in urine. To be speciﬁc, the
+PFESA throughout the exposure (Figure 2B). For instance, the                  dosed 6:2 H-PFESA was absorbed into urine 1.4 times faster
+maximum urinary concentrations of dosed 6:2 Cl-PFESA and                      than the dosed 6:2 Cl-PFESA, yet it was slowly eliminated
+6:2 H-PFESA at 56 h were 32 ± 8 and 77 ± 14 pmol/g,                           from urine, with an elimination half-life of 5.0 ± 1.6 d
+respectively (Figure 2B). The preferential renal excretion of                 compared to 1.9 ± 0.1 d for 6:2 Cl-PFESA (Table 1).
+6:2 H-PFESA was also obvious as the metabolic product. For                    Particularly, the urinary behavior of the formed 6:2 H-PFESA
+example, the maximum concentration of 6:2 Cl-PFESA was 46                     did not mimic the dosed 6:2 H-PFESA, including both the
+times higher than the formed 6:2 H-PFESA in blood, while the                  accumulation and elimination patterns (Table 1). Collectively,
+value was only 18 in urine.                                                   the dosed 6:2 H-PFESA was more quickly and signiﬁcantly
+   First-order kinetic models were adopted to determine the                   assimilated into the urinary compartment than the formed 6:2
+accumulation and elimination kinetics of the two dosed                        H-PFESA as well as the dosed 6:2 Cl-PFESA. These ﬁndings
+compounds and the formed 6:2 H-PFESA in the rat blood and                     suggest the urinary assimilation eﬃciency of target compounds
+urine, respectively. The ﬁt was excellent with square correlation             is both dose and structure dependent. As summarized by Han
+coeﬃcients (r2) ranging from 0.89 to 0.99 (Table 1). After                    et al.,52 renal clearance of PFAAs is the sum of three processes,
+being assimilated into blood, it took longer for the dosed 6:2                involving glomerular ﬁltration (i.e., an assimilation process),
+Cl-PFESA than 6:2 H-PFESA to reach absorption equilibrium                     renal tubular secretion, and renal tubular reabsorption.
+(t1/2,abs of 2.8 ± 0.2 h versus 1.6 ± 0.3 h, Table 1). However,               Considering that PFAAs vary in terms of their binding
+they had similar elimination rates from the systemic circulation              aﬃnities with plasma proteins, the assimilation eﬃciency of
+(t1/2,elim of 4.1 ± 0.6 d versus 4.2 ± 0.6 d, Table 1). These                 PFAAs is subject to the unbound fraction of PFAAs and the
+results suggested that 6:2 H-PFESA was more rapidly absorbed                  glomerular ﬁltration rate: the former is driven by the
+into the bloodstream and reached equilibrium faster than 6:2                  concentration diﬀerence from both sides of the ﬁltration
+Cl-PFESA. In addition, although being transformed from 6:2                    membrane, and the latter relies on the binding aﬃnities with
+Cl-PFESA in situ, the formed 6:2 H-PFESA exhibited very                       renal transport proteins, such as the organic anion transporters
+similar absorption and elimination rates as it behaved being                  (OATs) that facilitate the uptake process (transporting into
+directly dosed, regardless of the signiﬁcant diﬀerence in blood               the cell) of PFAAs.52 As denoted by the retention time on the
+concentrations (Table 1). It was in agreement with the notion                 C18 column (Figure S1a), 6:2 H-PFESA was weakened in
+that the dosed chemical suﬀers from primary metabolism via                    hydrophobicity compared to 6:2 Cl-FPESA. Similarly, Jing et
+hepatic ﬁrst-pass eﬀect, after which it was assimilated into                  al.53 found that the logKow of a perﬂuorinated anion was
+systemic circulating via a liver-blood route32 (Figure S2).                   around 2 orders of magnitude higher than that of its
+Although it is a fact that exchanges between the liver and the                hydrogenated counterpart. Compared to the corresponding
+blood are bilateral via a liver-blood-liver-blood route32 (Figure             ﬂuorinated molecules, the chlorinated compounds were even
+S2), the agreement in kinetics between the dosed and formed                   more hydrophobic due to the larger atom size of Cl than F
+6:2 H-PFESA suggests the blood concentrations for the                         atom.54,55 Therefore, the decreased hydrophobicity in
+formed 6:2 H-PFESA is predominantly a product of hepatic                      combination with reduced steric hindrance for 6:2 H-PFESA
+ﬁrst-pass eﬀect entering the blood via the liver-blood route,                 may lead to its better accommodation to urinary transport
+similar to the dosed 6:2 H-PFESA. Overall, both the dosed and                 proteins compared to its chlorinated homologue. Accordingly,
+formed 6:2 H-PFESA were assimilated into systemic                             the quicker urinary assimilation rate of the dosed 6:2 H-PFESA
+circulation 1.5−1.8 fold faster than 6:2 Cl-PFESA and exit                    compared to the formed 6:2 H-PFESA and 6:2 Cl-PFESA may
+the systemic circulation loop as quickly as 6:2 Cl-PFESA. The                 be explained by a concentration-driven eﬀect and stronger
+diﬀerence between absorption and elimination suggests that                    binding aﬃnities with urinary transport proteins, respectively.
+the prolonged ﬁrst-pass process by gut and liver for 6:2 Cl-                  The combined eﬀects are also striking in the higher propensity
+PFESA is responsible for its slower assimilation rate into blood,             for urinary excretion of 6:2 H-PFESA relative to 6:2 Cl-PFESA
+which in the current case is attributed to the structural eﬀect               throughout the duration of the experiment. Urinary excretion
+by the terminal chlorine substituent.                                         exhibited dose-dependent manner and increased with the
+   In urine, however, it was a diﬀerent story. First of all, the two          amount of target compound to which the animals were
+dosed compounds behaved diﬀerently in both the accumu-                        exposed.56−58 The stronger binding aﬃnity between 6:2 H-
+                                                                       6128                                          https://doi.org/10.1021/acs.est.1c00616
+                                                                                                                  Environ. Sci. Technol. 2022, 56, 6123−6132
+Environmental Science & Technology                                                  pubs.acs.org/est                                          Article
+
+PFESA and urinary transport proteins could result in a higher                   3.5. Implications. Using rats as a mammalian model, we
+fraction of 6:2 H-PFESA being reabsorbed by renal tubules,                   investigated the biotransformation potential, bioavailability,
+compared to 6:2 Cl-PFESA. For example, the longer half-life of               toxicokinetic properties, and tissue partitioning patterns of 6:2
+PFOA in humans is due to the high percentage (>99%) of                       Cl-PFESA and 6:2 H-PFESA, on a basis of a structure-
+reabsorption of PFOA in the kidneys,59,60 and the aﬃnity that                dependent comparison between the two chemicals and a
+these transporters have for PFOA renal absorption and the rate               concentration-dependent comparison as well as a route-
+at which they move into the membrane also aﬀect the                          dependent comparison between the dosed and formed 6:2
+reabsorption of PFOA.59 Likewise, high aﬃnity in urinary                     H-PFESA.
+uptake processes also existed for renal reabsorption in the cases
+                                                                                Our results emphasize that 6:2 Cl-PFESA is susceptible to
+of glucose61 and amino acids.62 Therefore, the longer retention
+                                                                             reductive dechlorination in rats, forming persistent 6:2 H-
+of 6:2 H-PFESA in urine observed in our study may be partly
+explained by the speciﬁc proteins, that facilitate its uptake,               PFESA under the experimental condition. This is the ﬁrst line
+which play a positive part in reabsorption.                                  of evidence demonstrating signiﬁcant transformation of 6:2 Cl-
+   3.4. Partitioning into Tissues. We also evaluated the                     PFESA in a mammalian model. This is also the ﬁrst attempt to
+
+
+
+
+                                                                                                                                                             Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​56/​10/​6123/​9343329/​es1c00616.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+factors determining partitioning patterns among blood and                    characterize the biological behavior of 6:2 H-PFESA in any
+peripheral tissues. Table 2 lists the accumulated concentrations             species. Compared with the limited transformation suscepti-
+of the dosed compounds as well as the formed 6:2 H-PFESA in                  bility in ﬁsh,68 the signiﬁcant reduction of 6:2 Cl-PFESA in rats
+diﬀerent compartments on day 10. Due to the lack of urine                    implies the prevailing occurrence of 6:2 H-PFESA in mammals
+samples on day 10, the urinary concentrations were                           and the natural environment, especially those under anaerobic
+extrapolated via the elimination kinetics based on the data                  conditions. Recent studies continuously reported the environ-
+from days 0−8. In general, the partition aﬃnities of both 6:2                mental occurrence of 6:2 H-PFESA in the water and sediment
+Cl-PFESA and 6:2 H-PFESA in target tissues decreased in the                  samples, demonstrating that transformation of 6:2 Cl-PFESA
+order of blood, liver, kidneys, fat, heart, muscle, and urine, with          in the environment is prevalent.11,69,70 However, we over-
+an exception that 6:2 H-PFESA as a metabolite of 6:2 Cl-                     looked the biotransformation of 6:2 Cl-PFESA and the
+PFESA was much more enriched in rat liver (76.5 ± 18.4                       distribution of 6:2 H-PFESA in humans, which may be subject
+pmol/g) than in blood (11.0 ± 2.6 pmol/g) (Table 2). To                      to a species-speciﬁc manner.71
+better describe the preferential disposition of the target
+                                                                                Chlorination increases the hydrophobicity of 6:2 Cl-PFESA
+compounds in various tissues, we calculated the tissue-to-
+                                                                             and its enhanced binding aﬃnities to lipoprotein-rich tissues,
+blood ratios (TBRs) as the concentration quotient of the
+compound in a speciﬁc tissue and in the blood. As shown in                   while the hydrogen substituent speeds up absorption into
+Table 2, the TBRs of the two dosed compounds and formed                      blood and urine and promotes the cumulative urinary
+6:2 H-PFESA were generally at the same order of magnitude.                   excretion of 6:2 H-PFESA. In this regard, the transformation
+However, the TBR of 6:2 H-PFESA in the urine, no matter                      of 6:2 Cl-PFESA to 6:2 H-PFESA may pose a smaller
+how it was dosed (mean value, 0.04) or formed (mean value,                   bioaccumulative potential and alleviate body burdens. Further
+0.01), was 1 order of magnitude higher than that of the dosed                studies are warranted to address the key determinants in
+6:2 Cl-PFESA (mean value, 0.004) (Table 2). The partitioning                 deciding the toxicokinetic properties of 6:2 Cl-PFESA and 6:2
+preference of 6:2 H-PFESA in urine was in agreement with its                 H-PFESA, particularly the binding aﬃnities and binding
+urinary toxicokinetic properties. Inversely, 6:2 Cl-PFESA was                modes-of-action with critical transport proteins as well as the
+more prone to partition to hydrophobic compartments such as                  dose-dependent eﬀect.
+
+                                                                             ■
+heart, muscle, and fat than 6:2 H-PFESA (Duncan test, p <
+0.05).                                                                             ASSOCIATED CONTENT
+   In general, both 6:2 Cl-PFESA and 6:2 H-PFESA were
+predominantly accumulated in the rat blood, liver, and kidneys,              * Supporting Information
+                                                                              sı
+
+which was in line with the ﬁndings demonstrated for other                    The Supporting Information is available free of charge at
+PFAAs.19,47 Binding aﬃnities with intrinsic proteins, such as                https://pubs.acs.org/doi/10.1021/acs.est.1c00616.
+the albumin in blood and liver fatty acid binding protein (L-
+FABP) expressed in liver and kidneys, presumably play                               Materials; dosing vehicle and rat sample extraction;
+important roles in the deposition of PFAAs in related                               instrumental analysis by Acquity UHPLC; instrumental
+tissues.49,63,64 The similar tissue distribution patterns of 6:2                    analysis by Vanquish UHPLC; Quality Assurance and
+Cl-PFESA and 6:2 H-PFESA are in agreement, in that, their                           Quality Control (QA/QC); limits of quantiﬁcations
+protein binding aﬃnities are mainly related to perﬂuorinated                        (LOQs) of target compounds in diﬀerent rat tissues;
+chain length.65,66 However, it was notable that 6:2 Cl-PFESA                        matrix spike recoveries of target compounds in diﬀerent
+was relatively enriched in the proteinaceous compartments of                        rat tissues; transformation percentage of 6:2 H-PFESA
+the rats, but 6:2 H-PFESA presented larger cumulative urinary                       upon 6:2 Cl-PFESA oral administration in rat
+excretion. This is most likely explained by the diﬀerent                            representative tissues; in vitro rat liver S9 incubations
+hydrophobicity between 6:2 Cl-PFESA and 6:2 H-PFESA and                             with 6:2 Cl-PFESA; chromatograms of marker ions in
+thereafter diﬀerent binding aﬃnities with related proteins                          in-source fragmentation ﬂagging scans (SID = 50 eV)
+located in relatively hydrophobic and hydrophilic compart-                          and full scans (CID = 50 eV) and MS/MS
+ments, respectively. Taken together, our ﬁndings suggest a                          fragmentation pattern screened for metabolites of 6:2
+general detoxiﬁcation mechanism for organisms to transform                          Cl-PFESA and 6:2 H-PFESA; and schematic represen-
+6:2 Cl-PFESA to the less hydrophobic product (i.e., 6:2 H-                          tation of the main pathway and related compartments to
+PFESA), by promoting the renal clearance to alleviate the                           track the 6:2 Cl-PFESA or 6:2 H-PFESA dose after oral
+exposure burdens in organisms.67                                                    administration (PDF)
+
+                                                                      6129                                         https://doi.org/10.1021/acs.est.1c00616
+                                                                                                                Environ. Sci. Technol. 2022, 56, 6123−6132
+Environmental Science & Technology
+
+■
+                                                                                       pubs.acs.org/est                                              Article
+
+    AUTHOR INFORMATION                                                          presence in the environment. Environ. Sci. Technol. 2013, 47 (18),
+                                                                                10163−10170.
+Corresponding Authors                                                            (10) Liu, W.; Qin, H.; Li, J.; Zhang, Q.; Zhang, H.; Wang, Z.; He, X.
+  Lingyan Zhu − State Key Laboratory of Pollution Processes                     Atmospheric chlorinated polyfluorinated ether sulfonate and ionic
+    and Environmental Criteria, College of Environmental                        perfluoroalkyl acids in 2006 to 2014 in Dalian, China. Environ.
+    Science and Engineering, Nankai University, Tianjin 300350,                 Toxicol. Chem. 2017, 36 (10), 2581−2586.
+    China; orcid.org/0000-0001-9318-7940; Phone: +86                             (11) Lin, Y.; Ruan, T.; Liu, A.; Jiang, G. Identification of novel
+    22 23500791; Email: zhuly@nankai.edu.cn                                     hydrogen-substituted polyfluoroalkyl ether sulfonates in environ-
+  Scott A. Mabury − Department of Chemistry, University of                      mental matrices near metal-plating facilities. Environ. Sci. Technol.
+    Toronto, Toronto M5S 3H6, Canada; orcid.org/0000-                           2017, 51 (20), 11588−11596.
+    0003-0091-8199; Phone: (416)-978-1780;                                       (12) Shi, Y.; Vestergren, R.; Xu, L.; Zhou, Z.; Li, C.; Liang, Y.; Cai,
+                                                                                Y. Human exposure and elimination kinetics of chlorinated
+    Email: scott.mabury@utoronto.ca                                             polyfluoroalkyl ether sulfonic acids (Cl-PFESAs). Environ. Sci.
+Authors                                                                         Technol. 2016, 50 (5), 2396−2404.
+                                                                                 (13) Shi, Y.; Vestergren, R.; Zhou, Z.; Song, X.; Xu, L.; Liang, Y.;
+  Shujun Yi − State Key Laboratory of Pollution Processes and                   Cai, Y. Tissue distribution and whole body burden of the chlorinated
+
+
+
+
+                                                                                                                                                                    Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​56/​10/​6123/​9343329/​es1c00616.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+    Environmental Criteria, College of Environmental Science                    polyfluoroalkyl ether sulfonic acid F-53B in crucian carp (Carassius
+    and Engineering, Nankai University, Tianjin 300350, China;                  carassius): Evidence for a highly bioaccumulative contaminant of
+    Department of Chemistry, University of Toronto, Toronto                     emerging concern. Environ. Sci. Technol. 2015, 49 (24), 14156−
+    M5S 3H6, Canada                                                             14165.
+  Diwen Yang − Department of Chemistry, University of                            (14) Pan, Y.; Zhang, H.; Cui, Q.; Sheng, N.; Yeung, L. W. Y.; Sun,
+    Toronto, Toronto M5S 3H6, Canada                                            Y.; Guo, Y.; Dai, J. Worldwide distribution of novel perfluoroether
+                                                                                carboxylic and sulfonic acids in surface water. Environ. Sci. Technol.
+Complete contact information is available at:                                   2018, 52 (14), 7621−7629.
+https://pubs.acs.org/10.1021/acs.est.1c00616                                     (15) Chen, F.; Yin, S.; Kelly, B. C.; Liu, W. Chlorinated
+                                                                                polyfluoroalkyl ether sulfonic acids in matched maternal, cord, and
+Notes                                                                           placenta samples: a study of transplacental transfer. Environ. Sci.
+The authors declare no competing ﬁnancial interest.                             Technol. 2017, 51 (11), 6387−6394.
+
+
+■
+                                                                                 (16) Wang, J.; Pan, Y.; Cui, Q.; Yao, B.; Wang, J.; Dai, J. Penetration
+    ACKNOWLEDGMENTS                                                             of PFASs across the blood cerebrospinal fluid barrier and its
+                                                                                determinants in humans. Environ. Sci. Technol. 2018, 52 (22),
+We gratefully acknowledge Nicole Riddell (Wellington                            13553−13561.
+Laboratories, Guelph, ON, Canada) and Guibin Jiang                               (17) Trojanowicz, M.; Bojanowska-Czajka, A.; Bartosiewicz, I.;
+(Chinese Academy of Sciences, Beijing, China) for the                           Kulisa, K. Advanced oxidation/reduction processes treatment for
+provision of chemical standards and Shira Joudan (University                    aqueous perfluorooctanoate (PFOA) and perfluorooctanesulfonate
+of Toronto) and Jessica D’eon (University of Toronto) for                       (PFOS)-a review of recent advances. Chem. Eng. J. 2018, 336, 170−
+useful discussions. The present study is funded by National                     199.
+Science Foundation of China (NSFC 21737003, 41991313)                            (18) Lee, H.; De Silva, A. O.; Mabury, S. A. Dietary bioaccumulation
+grand to Lingyan Zhu and a Natural Science and Engineering                      of perfluorophosphonates and perfluorophosphinates in juvenile
+                                                                                rainbow trout: evidence of metabolism of perfluorophosphinates.
+Research Council of Canada (NSERC) grant to Scott A.
+                                                                                Environ. Sci. Technol. 2012, 46 (6), 3489−3497.
+Mabury.
+
+■
+                                                                                 (19) Joudan, S.; Yeung, L. W.; Mabury, S. A. Biological cleavage of
+                                                                                the C-P bond in perfluoroalkyl phosphinic acids in male Sprague-
+    REFERENCES                                                                  Dawley rats and the formation of persistent and reactive metabolites.
+ (1) Giesy, J. P.; Kannan, K. Global distribution of perfluorooctane            Environ. Health Perspect. 2017, 125 (11), 117001.
+sulfonate in wildlife. Environ. Sci. Technol. 2001, 35 (7), 1339−1342.           (20) Chen, H.; Choi, Y. J.; Lee, L. S. Sorption, aerobic
+ (2) Yamashita, N.; Kannan, K.; Taniyasu, S.; Horii, Y.; Petrick, G.;           biodegradation, and oxidation potential of PFOS alternatives
+Gamo, T. A global survey of perfluorinated acids in oceans. Mar.                chlorinated polyfluoroalkyl ether sulfonic acids. Environ. Sci. Technol.
+Pollut. Bull. 2005, 51 (8−12), 658−668.                                         2018, 52 (17), 9827−9834.
+ (3) 3M Phase-out plan for POSF-based products. St Paul, MN, USA:                (21) Yi, S.; Zhu, L.; Mabury, S. A. First report on in vivo
+3M, 2000.                                                                       pharmacokinetics and biotransformation of chlorinated polyfluor-
+ (4) Tullo, A. 3M Study Raised EPA’s Concerns. Chem. Eng. News                  oalkyl ether sulfonates in rainbow trout. Environ. Sci. Technol. 2019,
+2000, 78 (22), 12−13.                                                           54 (1), 345−354.
+ (5) D’eon, J. C.; Mabury, S. A. Is indirect exposure a significant              (22) Letcher, R. J.; Norstrom, R. J.; Muir, D. C. G.
+contributor to the burden of perfluorinated acids observed in                   Biotransformation versus bioaccumulation: Sources of methyl sulfone
+humans? Environ. Sci. Technol. 2011, 45 (19), 7974−7984.                        PCB and 4,4‘-DDE metabolites in the polar bear food chain. Environ.
+ (6) Birnbaum, L. S.; Grandjean, P. Alternatives to PFASs:                      Sci. Technol. 1998, 32 (11), 1656−1661.
+perspectives on the science. Environ. Health Perspect. 2015, 123 (5),            (23) Fukami, J.; Shishido, T.; Fukunaga, K.; Casida, J. E. Oxidative
+A104−A105.                                                                      metabolism of rotenone in mammals, fish, and insects and its relation
+ (7) Wang, Z.; Cousins, I. T.; Scheringer, M.; Hungerbuehler, K.                to selective toxicity. J. Agric. Food Chem. 1969, 17 (6), 1217−1226.
+Hazard assessment of fluorinated alternatives to long-chain perfluor-            (24) Glickman, A. H.; Weitman, S. D.; Lech, J. J. Differential toxicity
+oalkyl acids (PFAAs) and their precursors: status quo, ongoing                  of trans-permethrin in rainbow trout and mice: I. Role of
+challenges and possible solutions. Environ. Int. 2015, 75, 172−179.             biotransformation. Toxicol. Appl. Pharmacol. 1982, 66 (2), 153−161.
+ (8) Wang, Z.; DeWitt, J. C.; Higgins, C. P.; Cousins, I. T. A never-            (25) Rand, A. A.; Mabury, S. A. Protein binding associated with
+ending story of per- and polyfluoroalkyl substances (PFASs)? Environ.           exposure to fluorotelomer alcohols (FTOHs) and polyfluoroalkyl
+Sci. Technol. 2017, 51 (5), 2508−2518.                                          phosphate esters (PAPs) in rats. Environ. Sci. Technol. 2014, 48 (4),
+ (9) Wang, S.; Huang, J.; Yang, Y.; Hui, Y.; Ge, Y.; Larssen, T.; Yu,           2421−2429.
+G.; Deng, S.; Wang, B.; Harman, C. First report of a Chinese PFOS                (26) Zhang, H.; Zhou, X.; Sheng, N.; Cui, R.; Cui, Q.; Guo, H.;
+alternative overlooked for 30 years: its toxicity, persistence, and             Guo, Y.; Sun, Y.; Dai, J. Subchronic hepatotoxicity effects of 6:2
+
+                                                                         6130                                             https://doi.org/10.1021/acs.est.1c00616
+                                                                                                                       Environ. Sci. Technol. 2022, 56, 6123−6132
+Environmental Science & Technology                                                         pubs.acs.org/est                                              Article
+
+chlorinated polyfluorinated ether sulfonate (6:2 Cl-PFESA), a novel                  (42) Dinglasan, M. J. A.; Ye, Y.; Edwards, E. A.; Mabury, S. A.
+perfluorooctanesulfonate (PFOS) alternative, on adult male mice.                    Fluorotelomer alcohol biodegradation yields poly- and perfluorinated
+Environ. Sci. Technol. 2018, 52 (21), 12809−12818.                                  acids. Environ. Sci. Technol. 2004, 38 (10), 2857−2864.
+  (27) D’eon, J. C.; Mabury, S. A. Exploring indirect sources of human               (43) Hagen, D. F.; Belisle, J.; Johnson, J. D.; Venkateswarlu, P.
+exposure to perfluoroalkyl carboxylates (PFCAs): evaluating uptake,                 Characterization of fluorinated metabolites by a gas chromatographic-
+elimination, and biotransformation of polyfluoroalkyl phosphate                     helium microwave plasma detectorThe biotransformation of
+esters (PAPs) in the rat. Environ. Health Perspect. 2011, 119 (3),                  1H,1H,2H,2H-perfluorodecanol to perfluorooctanoate. Anal. Biochem.
+344−50.                                                                             1981, 118 (2), 336−343.
+  (28) Browne, E. P.; Stapleton, H. M.; Kelly, S. M.; Tilton, S. C.;                 (44) Fisk, A. T.; Cymbalisty, C. D.; Tomy, G. T.; Muir, D. C.
+Gallagher, E. P. In vitro hepatic metabolism of 2,2′,4,4′,5-                        Dietary accumulation and depuration of individual C10-, C11-and
+pentabromodiphenyl ether (BDE 99) in Chinook salmon (Oncho-                         C14-polychlorinated alkanes by juvenile rainbow trout (Oncorhynchus
+rhynchus tshawytscha). Aquat. Toxicol. 2009, 92 (4), 281−287.                       mykiss). Aquat. Toxicol. 1998, 43 (2−3), 209−221.
+  (29) McKinney, M. A.; Dietz, R.; Sonne, C.; De Guise, S.;                          (45) Konwick, B. J.; Garrison, A. W.; Black, M. C.; Avants, J. K.;
+Skirnisson, K.; Karlsson, K.; Steingrímsson, E.; Letcher, R. J.                     Fisk, A. T. Bioaccumulation, biotransformation, and metabolite
+Comparative hepatic microsomal biotransformation of selected                        formation of fipronil and chiral legacy pesticides in rainbow trout.
+PBDEs, including decabromodiphenyl ether, and decabromodiphenyl
+
+
+
+
+                                                                                                                                                                        Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​56/​10/​6123/​9343329/​es1c00616.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+                                                                                    Environ. Sci. Technol. 2006, 40 (9), 2930−2936.
+ethane flame retardants in Arctic marine-feeding mammals. Environ.                   (46) Martin, J. W.; Mabury, S. A.; Solomon, K. R.; Muir, D. C.
+Toxicol. Chem. 2011, 30 (7), 1506−1514.                                             Dietary accumulation of perfluorinated acids in juvenile rainbow trout
+  (30) Liu, Y.; Pereira, A. D. S.; Martin, J. W. Discovery of C5-C17                (Oncorhynchus mykiss). Environ. Toxicol. Chem. 2003, 22 (1), 189−
+poly- and perfluoroalkyl substances in water by in-line SPE-HPLC-                   195.
+Orbitrap with in-source fragmentation flagging. Anal. Chem. 2015, 87                 (47) Martin, J. W.; Mabury, S. A.; Solomon, K. R.; Muir, D. C.
+(8), 4260−4268.                                                                     Bioconcentration and tissue distribution of perfluorinated acids in
+  (31) Han, J.; Yang, D.; Hall, D. R.; Liu, J.; Sun, J.; Gu, W.; Tang, S.;          rainbow trout (Oncorhynchus mykiss). Environ. Toxicol. Chem. 2003,
+Alharbi, H. A.; Jones, P. D.; Krause, H. M.; Peng, H. Toxicokinetics of             22 (1), 196−204.
+brominated azo dyes in the early life stages of zebrafish (Danio rerio)              (48) Fitzgerald, N. J. M.; Wargenau, A.; Sorenson, C.; Pedersen, J.
+is prone to aromatic substituent changes. Environ. Sci. Technol. 2020,              A.; Tufenkji, N.; Novak, P. J.; Simcik, M. F. Partitioning and
+54 (7), 4421−4431.                                                                  accumulation of perfluoroalkyl substances in model lipid bilayers and
+  (32) Gayrard, V.; Lacroix, M. Z.; Grandin, F. C.; Collet, S. H.; Mila,            bacteria. Environ. Sci. Technol. 2018, 52 (18), 10433−10440.
+H.; Viguie, C.; Gely, C. A.; Rabozzi, B.; Bouchard, M.; Leandri, R. D.               (49) Ng, C. A.; Hungerbühler, K. Bioaccumulation of perfluorinated
+Oral systemic bioavailability of bisphenol A and bisphenol S in pigs.               alkyl acids: observations and models. Environ. Sci. Technol. 2014, 48
+Environ. Health Perspect. 2019, 127 (7), 077005.
+                                                                                    (9), 4637−4648.
+  (33) Stapleton, H. M.; Brazil, B.; Holbrook, R. D.; Mitchelmore, C.
+                                                                                     (50) Lehmler, H. J.; Bummer, P. M. Mixing of perfluorinated
+L.; Benedict, R.; Konstantinov, A.; Potter, D. In vivo and in vitro
+                                                                                    carboxylic acids with dipalmitoylphosphatidylcholine. Biochim. Bio-
+debromination of decabromodiphenyl ether (BDE 209) by juvenile
+                                                                                    phys. Acta, Biomembr. 2004, 1664 (2), 141−149.
+rainbow trout and common carp. Environ. Sci. Technol. 2006, 40 (15),
+                                                                                     (51) Gao, K.; Zhuang, T.; Liu, X.; Fu, J.; Zhang, J.; Fu, J.; Wang, L.;
+4653−4658.
+                                                                                    Zhang, A.; Liang, Y.; Song, M.; Jiang, G. Prenatal exposure to per- and
+  (34) Van den Steen, E.; Covaci, A.; Jaspers, V. L. B.; Dauwe, T.;
+                                                                                    polyfluoroalkyl substances (PFASs) and association between the
+Voorspoels, S.; Eens, M.; Pinxten, R. Accumulation, tissue-specific
+distribution and debromination of decabromodiphenyl ether (BDE                      placental transfer efficiencies and dissociation constant of serum
+209) in European starlings (Sturnus vulgaris). Environ. Pollut. 2007,               proteins-PFAS complexes. Environ. Sci. Technol. 2019, 53 (11), 6529−
+148 (2), 648−653.                                                                   6538.
+  (35) Huwe, J. K.; Smith, D. J. Accumulation, whole-body depletion,                 (52) Han, X.; Nabb, D. L.; Russell, M. H.; Kennedy, G. L.; Rickard,
+and debromination of decabromodiphenyl ether in male Sprague-                       R. W. Renal elimination of perfluorocarboxylates (PFCAs). Chem. Res.
+Dawley rats following dietary exposure. Environ. Sci. Technol. 2007, 41             Toxicol. 2012, 25 (1), 35−46.
+(7), 2371−2377.                                                                      (53) Jing, P.; Rodgers, P. J.; Amemiya, S. High lipophilicity of
+  (36) Wang, F.; Wang, J.; Dai, J.; Hu, G.; Wang, J.; Luo, X.; Mai, B.              perfluoroalkyl carboxylate and sulfonate: implications for their
+Comparative tissue distribution, biotransformation and associated                   membrane permeability. J. Am. Chem. Soc. 2009, 131 (6), 2290−2296.
+biological effects by decabromodiphenyl ethane and decabrominated                    (54) Smart, B. E. Fluorine substituent effects (on bioactivity). J.
+diphenyl ether in male rats after a 90-day oral exposure study. Environ.            Fluorine Chem. 2001, 109 (1), 3−11.
+Sci. Technol. 2010, 44 (14), 5655−5660.                                              (55) Wang, Y.; Yu, N.; Zhu, X.; Guo, H.; Jiang, J.; Wang, X.; Shi, W.;
+  (37) Yamaguchi, Y.; Kawano, M.; Tatsukawa, R. Tissue distribution                 Wu, J.; Yu, H.; Wei, S. Suspect and nontarget screening of per-and
+and excretion of hexabromobenzene and its debrominated metabo-                      polyfluoroalkyl substances in wastewater from a fluorochemical
+lites in the rat. Arch. Environ. Contam. Toxicol. 1988, 17 (6), 807−812.            manufacturing park. Environ. Sci. Technol. 2018, 52 (19), 11007−
+  (38) Merino, N.; Qu, Y.; Deeb, R. A.; Hawley, E. L.; Hoffmann, M.                 11016.
+R.; Mahendra, S. Degradation and removal methods for perfluoroalkyl                  (56) Khanal, R. C.; Howard, L. R.; Wilkes, S. E.; Rogers, T. J.; Prior,
+and polyfluoroalkyl substances in water. Environ. Eng. Sci. 2016, 33                R. L. Urinary excretion of (Epi)catechins in rats fed different berries
+(9), 615−649.                                                                       or berry products. J. Agric. Food Chem. 2010, 58 (21), 11257−11264.
+  (39) Luthe, G.; Leonards, P. E.; Reijerink, G. S.; Liu, H.; Johansen, J.           (57) Zhou, S.; Hu, Y.; Zhang, B.; Teng, Z.; Gan, H.; Yang, Z.; Wang,
+E.; Robertson, L. W. Monofluorinated analogues of polybrominated                    Q.; Huan, M.; Mei, Q. Dose-dependent absorption, metabolism, and
+diphenyl ethers as analytical standards: synthesis, NMR, and GC-MS                  excretion of genistein in rats. J. Agric. Food Chem. 2008, 56 (18),
+characterization and molecular orbital studies. Environ. Sci. Technol.              8354−8359.
+2006, 40 (9), 3023−3029.                                                             (58) Unno, T.; Tamemoto, K.; Yayabe, F.; Kakuda, T. Urinary
+  (40) Bussan, A. L.; Strathmann, T. J. Influence of organic ligands on             excretion of 5-(3‘,4‘-dihydroxyphenyl)-γ-valerolactone, a ring-fission
+the reduction of polyhalogenated alkanes by iron (II). Environ. Sci.                metabolite of (−)-epicatechin, in rats and its in vitro antioxidant
+Technol. 2007, 41 (19), 6740−6747.                                                  activity. J. Agric. Food Chem. 2003, 51 (23), 6893−6898.
+  (41) Perlinger, J. A.; Buschmann, J.; Angst, W.; Schwarzenbach, R. P.              (59) Lupton, S. J.; Huwe, J. K.; Smith, D. J.; Dearfield, K. L.;
+Iron porphyrin and mercaptojuglone mediated reduction of                            Johnston, J. J. Absorption and excretion of 14C-perfluorooctanoic
+polyhalogenated methanes and ethanes in homogeneous aqueous                         acid (PFOA) in Angus cattle (Bos taurus). J. Agric. Food Chem. 2012,
+solution. Environ. Sci. Technol. 1998, 32 (16), 2431−2437.                          60 (4), 1128−1134.
+
+                                                                             6131                                             https://doi.org/10.1021/acs.est.1c00616
+                                                                                                                           Environ. Sci. Technol. 2022, 56, 6123−6132
+Environmental Science & Technology                                                pubs.acs.org/est                                 Article
+
+  (60) Harada, K. H.; Inoue, K.; Morikawa, A.; Yoshinaga, T.; Saito,
+N.; Koizumi, A. Renal clearance of perfluorooctane sulfonate and
+perfluorooctanoate in humans and their species-specific excretion.
+Environ. Res. 2005, 99 (2), 253−261.
+  (61) Shannon, J. A.; Fisher, S. The renal tubular reabsorption of
+glucose in the normal dog. Am. J. Physiol. 1938, 122 (3), 765−774.
+  (62) Roby, K. A.; Segal, S. Cystine and lysine reabsorption in the
+isolated perfused rat kidney. Am. J. Physiol. 1989, 256 (5), F901−8.
+  (63) Zhang, L.; Ren, X.; Guo, L. Structure-based investigation on the
+interaction of perfluorinated compounds with human liver fatty acid
+binding protein. Environ. Sci. Technol. 2013, 47 (19), 11293−11301.
+  (64) Luebker, D. J.; Hansen, K. J.; Bass, N. M.; Butenhoff, J. L.;
+Seacat, A. M. Interactions of flurochemicals with rat liver fatty acid-
+binding protein. Toxicology 2002, 176 (3), 175−185.
+  (65) McDonough, C. A.; Choyke, S.; Ferguson, P. L.; DeWitt, J. C.;
+Higgins, C. P. Bioaccumulation of novel per- and polyfluoroalkyl
+
+
+
+
+                                                                                                                                                  Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​56/​10/​6123/​9343329/​es1c00616.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+substances in mice dosed with an aqueous film-forming foam. Environ.
+Sci. Technol. 2020, 54 (9), 5700−5709.
+  (66) Cheng, W.; Ng, C. A. Predicting relative protein affinity of
+novel per-and polyfluoroalkyl substances (PFASs) by an efficient
+molecular dynamics approach. Environ. Sci. Technol. 2018, 52 (14),
+7972−7980.
+  (67) Zamek-Gliszczynski, M. J.; Hoffmaster, K. A.; Nezasa, K.;
+Tallman, M. N.; Brouwer, K. L. Integration of hepatic drug
+transporters and phase II metabolizing enzymes: mechanisms of
+hepatic excretion of sulfate, glucuronide, and glutathione metabolites.
+Eur. J. Pharm. Sci. 2006, 27 (5), 447−86.
+  (68) Yi, S.; Zhu, L.; Mabury, S. A. First report on in vivo
+pharmacokinetics and biotransformation of chlorinated polyfluor-
+oalkyl ether sulfonates in rainbow trout. Environ. Sci. Technol. 2019,
+54 (1), 345−354.
+  (69) Chen, H.; Munoz, G.; Duy, S. V.; Zhang, L.; Yao, Y.; Zhao, Z.;
+Yi, L.; Liu, M.; Sun, H.; Liu, J.; Sauvé, S. Occurrence and distribution
+of per- and polyfluoroalkyl substances in Tianjin, China: The
+contribution of emerging and unknown analogues. Environ. Sci.
+Technol. 2020, 54 (22), 14254−14264.
+  (70) Wang, X.; Yu, N.; Qian, Y.; Shi, W.; Zhang, X.; Geng, J.; Yu, H.;
+Wei, S. Non-target and suspect screening of per- and polyfluoroalkyl
+substances in Chinese municipal wastewater treatment plants. Water
+Res. 2020, 183, 115989.
+  (71) Galatius, A.; Bossi, R.; Sonne, C.; Rigét, F. F.; Kinze, C. C.;
+Lockyer, C.; Teilmann, J.; Dietz, R. PFAS profiles in three North Sea
+top predators: metabolic differences among species? Environ. Sci.
+Pollut. Res. 2013, 20 (11), 8013−8020.
+
+
+
+
+                                                                           6132                         https://doi.org/10.1021/acs.est.1c00616
+                                                                                                     Environ. Sci. Technol. 2022, 56, 6123−6132
+
