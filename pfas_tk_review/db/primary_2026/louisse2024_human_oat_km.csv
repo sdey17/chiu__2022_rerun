@@ -1,0 +1,16 @@
+chemical,transporter,km_uM,km_se,vmax_nmol_min_mg,efficiency_uL_min_mg,transported,source
+PFHpA,OAT1,159,98,3.4,21,yes,Louisse 2024 Table 1
+PFOA,OAT1,185,97,3.5,19,yes,Louisse 2024 Table 1
+PFNA,OAT1,,,,,no,Louisse 2024 Table 1
+PFBS,OAT1,,,,,no,Louisse 2024 Table 1
+PFHxS,OAT1,,,,,no,Louisse 2024 Table 1
+PFHpA,OAT3,367,199,3.2,9,yes,Louisse 2024 Table 1
+PFOA,OAT3,90,63,1.5,17,yes,Louisse 2024 Table 1
+PFNA,OAT3,42,38,1.0,24,yes,Louisse 2024 Table 1
+PFHxS,OAT3,778,8,5.8,8,yes,Louisse 2024 Table 1
+PFBS,OAT3,,,,,no,Louisse 2024 Table 1
+PFHpA,OAT4,60,15,4.5,75,yes,"Louisse 2023, tabulated in Louisse 2024 Table 1"
+PFOA,OAT4,47,15,4.5,96,yes,"Louisse 2023, via Louisse 2024 Table 1"
+PFNA,OAT4,58,15,8.5,147,yes,"Louisse 2023, via Louisse 2024 Table 1"
+PFHxS,OAT4,92,15,7.3,79,yes,"Louisse 2023, via Louisse 2024 Table 1"
+any,OAT2,,,,,"NO - no transport observed for any PFAS tested",Louisse 2024 abstract

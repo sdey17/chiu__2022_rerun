@@ -1,6 +1,6 @@
 # PFAS toxicokinetics: what the primary sources say
 
-A standalone summary of the review in `report/REPORT.md`, built after eleven
+A standalone summary of the review in `report/REPORT.md`, built after twenty-one
 previously unobtainable full texts were supplied. Every figure is reproducible
 from `scripts/`; every number traces to a table in a paper named in the
 citations at the end.
@@ -271,18 +271,18 @@ Full list of corrections, including three to EPA and OEHHA documents, in
 
 | File | Rows | What it holds |
 |---|---|---|
-| `db/combined/tk_parameters.csv` | 736 | half-life, clearance, Vd, MRT, bioavailability, GFR and reabsorption, by chemical × species × sex × source, units normalised |
-| `db/combined/binding.csv` | 192 | protein binding constants and unbound fractions, with the method for each |
-| `db/combined/transporters.csv` | 260 | transporter Km, Tm/KT, mRNA sex ratios and direction |
+| `db/combined/tk_parameters.csv` | 746 | half-life, clearance, Vd, MRT, bioavailability, GFR and reabsorption, by chemical × species × sex × source, units normalised |
+| `db/combined/binding.csv` | 198 | protein binding constants and unbound fractions, with the method for each |
+| `db/combined/transporters.csv` | 275 | transporter Km, Tm/KT, mRNA sex ratios and direction |
 | `db/combined/regulatory.csv` | 215 | what each agency adopted, from which study, under which assumptions |
 | `db/combined/PFAS_TK_combined.xlsx` | — | all four as one workbook, filterable |
 
-1,403 rows in total, 20 distinct chemicals, 8 species groups. Every row carries a `provenance` column
+1,434 rows in total, 20 distinct chemicals, 8 species groups. Every row carries a `provenance` column
 naming the file it came from and a `study` / `pmid_or_doi` / `source_table` trio
 naming the primary source. Rebuild with
 `python3 scripts/build_combined_datasets.py`.
 
-The 15 per-paper extractions behind the newest findings are in
+The 20 per-paper extractions behind the newest findings are in
 `db/primary_2026/`, one file per table per paper.
 
 ---
@@ -304,28 +304,39 @@ The 15 per-paper extractions behind the newest findings are in
 11. **Cheng X, Maher J, Lu H, Klaassen CD** (2006). Endocrine regulation of gender-divergent mouse organic anion-transporting polypeptide (Oatp) expression. *Molecular Pharmacology* 70(4):1291–1297. PMID 16807376. doi:10.1124/mol.106.025122 — *abstract only; the full text is paywalled.*
 12. **Huang MC, Dzierlenga AL, Robinson VG, Waidyanatha S, DeVito MJ, Eifrid MA, Granville CA, Gibbs ST, Blystone CR** (2019). Toxicokinetics of perfluorobutane sulfonate, perfluorohexane-1-sulphonic acid, and perfluorooctane sulfonic acid in male and female Hsd:Sprague Dawley SD rats after intravenous and gavage administration. *Toxicology Reports* 6:645–655. PMID 31334035. doi:10.1016/j.toxrep.2019.06.016 — with its **corrigendum**, *Toxicology Reports* 8:365. PMID 33665134. doi:10.1016/j.toxrep.2021.02.001
 
+13. **Han X, Snow TA, Kemper RA, Jepson GW** (2003). Binding of perfluorooctanoic acid to rat and human plasma proteins. *Chemical Research in Toxicology* 16(6):775–781. PMID 12807361. doi:10.1021/tx034005w
+14. **Yang C-H, Glover KP, Han X** (2009). Organic anion transporting polypeptide (Oatp) 1a1-mediated perfluorooctanoate transport and evidence for a renal reabsorption mechanism of Oatp1a1 in renal elimination of perfluorocarboxylates in rats. *Toxicology Letters* 190(2):163–171. PMID 19616083. doi:10.1016/j.toxlet.2009.07.011
+15. **Louisse J, Pedroni L, van den Heuvel JJMW, Rijkers D, Leenders L, Noorlander A, Punt A, Russel FGM, Koenderink JB, et al.** (2024). In vitro and in silico characterization of the transport of selected perfluoroalkyl carboxylic acids and perfluoroalkyl sulfonic acids by human organic anion transporter 1 (OAT1), OAT2 and OAT3. *Toxicology* 509:153961. doi:10.1016/j.tox.2024.153961
+16. **Ohmori K, Kudo N, Katayama K, Kawashima Y** (2003). Comparison of the toxicokinetics between perfluorocarboxylic acids with different carbon chain length. *Toxicology* 184(2–3):135–140. PMID 12499116
+17. **Cheng X, Klaassen CD** (2009). Tissue distribution, ontogeny, and hormonal regulation of xenobiotic transporters in mouse kidneys. *Drug Metabolism and Disposition* 37(11):2178–2185. PMID 19679677. doi:10.1124/dmd.109.027177
+18. **Buist SCN, Klaassen CD** (2004). Rat and mouse differences in gender-predominant expression of organic anion transporter (Oat1–3; Slc22a6–8) mRNA levels. *Drug Metabolism and Disposition* 32(6):620–625. PMID 15155553. doi:10.1124/dmd.32.6.620
+19. **Shi Y, Vestergren R, Xu L, Zhou Z, Li C, Liang Y, Cai Y** (2016). Human exposure and elimination kinetics of chlorinated polyfluoroalkyl ether sulfonic acids (Cl-PFESAs). *Environmental Science & Technology* 50(5):2396–2404. PMID 26866980. doi:10.1021/acs.est.5b05849
+20. **Jia Y, Zhu Y, Xu D, Feng X, Yu X, Shan G, Zhu L** (2022). Insights into the competitive mechanisms of per- and polyfluoroalkyl substances partition in liver and blood. *Environmental Science & Technology* 56(10):6192–6200. PMID 35436088. doi:10.1021/acs.est.1c08493
+21. **Maso L, Trande M, Liberi S, Moro G, Daems E, Linciano S, Sobott F, Covaceuszach S, Cassetta A, Fasolato S, Moretto LM, De Wael K, Cendron L, et al.** (2021). Unveiling the binding mode of perfluorooctanoic acid to human serum albumin. *Protein Science* 30(4):830–841. PMID 33550662. doi:10.1002/pro.4036
+22. **Zurlinden TJ, Dzierlenga MW, Kapraun DF, Ring C, Bernstein AS, Schlosser PM, Morozov V** (2025). Estimation of species- and sex-specific PFAS pharmacokinetics in mice, rats, and non-human primates using a Bayesian hierarchical methodology. *Toxicology and Applied Pharmacology* 499:117336. doi:10.1016/j.taap.2025.117336
+
 ### Supporting primary sources held in full in `papers/`
 
-13. **Weaver YM, Ehresman DJ, Butenhoff JL, Hagenbuch B** (2010). Roles of rat renal organic anion transporters in transporting perfluorinated carboxylates with different chain lengths. *Toxicological Sciences* 113(2):305–314. PMID 19915082. doi:10.1093/toxsci/kfp275
-14. **Zhao W, Zitzow JD, Weaver Y, Ehresman DJ, Chang SC, Butenhoff JL, Hagenbuch B** (2017). Organic anion transporting polypeptides contribute to the disposition of perfluoroalkyl acids in humans and rats. *Toxicological Sciences* 156(1):84–95. PMID 28013215. doi:10.1093/toxsci/kfw236
-15. **Abraham K, Mertens H, Richter L, Mielke H, et al.** (2024). Single oral dose of 15 PFAS in one adult volunteer; terminal half-lives, clearances and derived volumes of distribution. *Environment International*. PMID 39476597. doi:10.1016/j.envint.2024.109047
-16. **Fischer FC, et al.** (2024). Protein binding of PFAS measured by solid-phase microextraction (C18 fibre depletion) at environmentally relevant PFAS:protein ratios. *Environmental Science & Technology*. doi:10.1021/acs.est.3c07415 — and **Fischer FC, et al.** (2025). doi:10.1021/acs.est.5c05473
-17. **Andersson AG, et al.** (2025). The relative importance of fecal and urinary excretion of perfluorooctane sulfonic acid and perfluorooctanoic acid after high exposure — an observational study in Ronneby, Sweden. *Environmental Research* 285:122487. doi:10.1016/j.envres.2025.122487
-18. **Li Y, Andersson A, Xu Y, Pineda D, Nilsson CA, Lindh CH, Jakobsson K, Fletcher T** (2022). Determinants of serum half-lives of PFAS after end of exposure to contaminated drinking water, Ronneby cohort. *(Held as structured abstract; the full text is paywalled and the title line was not captured verbatim.)*
-19. **Chiu WA, et al.** (2022). Bayesian hierarchical pharmacokinetic modelling of PFAS in contaminated-water communities. *Environmental Health Perspectives*. doi:10.1289/EHP10103
-20. **Zurlinden TJ, et al.** (2025). Estimation of species- and sex-specific PFAS pharmacokinetics in mice, rats, and non-human primates using a Bayesian hierarchical methodology. *(EPA CPHEA animal PFAS PK database.)*
-21. **Louisse J, et al.** (2023). Perfluoroalkyl substances (PFASs) are substrates of the renal human organic anion transporter 4 (OAT4). *Archives of Toxicology*. PMID 36436016. doi:10.1007/s00204-022-03428-6
+23. **Weaver YM, Ehresman DJ, Butenhoff JL, Hagenbuch B** (2010). Roles of rat renal organic anion transporters in transporting perfluorinated carboxylates with different chain lengths. *Toxicological Sciences* 113(2):305–314. PMID 19915082. doi:10.1093/toxsci/kfp275
+24. **Zhao W, Zitzow JD, Weaver Y, Ehresman DJ, Chang SC, Butenhoff JL, Hagenbuch B** (2017). Organic anion transporting polypeptides contribute to the disposition of perfluoroalkyl acids in humans and rats. *Toxicological Sciences* 156(1):84–95. PMID 28013215. doi:10.1093/toxsci/kfw236
+25. **Abraham K, Mertens H, Richter L, Mielke H, et al.** (2024). Single oral dose of 15 PFAS in one adult volunteer; terminal half-lives, clearances and derived volumes of distribution. *Environment International*. PMID 39476597. doi:10.1016/j.envint.2024.109047
+26. **Fischer FC, et al.** (2024). Protein binding of PFAS measured by solid-phase microextraction (C18 fibre depletion) at environmentally relevant PFAS:protein ratios. *Environmental Science & Technology*. doi:10.1021/acs.est.3c07415 — and **Fischer FC, et al.** (2025). doi:10.1021/acs.est.5c05473
+27. **Andersson AG, et al.** (2025). The relative importance of fecal and urinary excretion of perfluorooctane sulfonic acid and perfluorooctanoic acid after high exposure — an observational study in Ronneby, Sweden. *Environmental Research* 285:122487. doi:10.1016/j.envres.2025.122487
+28. **Li Y, Andersson A, Xu Y, Pineda D, Nilsson CA, Lindh CH, Jakobsson K, Fletcher T** (2022). Determinants of serum half-lives of PFAS after end of exposure to contaminated drinking water, Ronneby cohort. *(Held as structured abstract; the full text is paywalled and the title line was not captured verbatim.)*
+29. **Chiu WA, et al.** (2022). Bayesian hierarchical pharmacokinetic modelling of PFAS in contaminated-water communities. *Environmental Health Perspectives*. doi:10.1289/EHP10103
+30. **Zurlinden TJ, et al.** (2025). Estimation of species- and sex-specific PFAS pharmacokinetics in mice, rats, and non-human primates using a Bayesian hierarchical methodology. *(EPA CPHEA animal PFAS PK database.)*
+31. **Louisse J, et al.** (2023). Perfluoroalkyl substances (PFASs) are substrates of the renal human organic anion transporter 4 (OAT4). *Archives of Toxicology*. PMID 36436016. doi:10.1007/s00204-022-03428-6
 
 ### Agency and regulatory documents
 
-22. **US EPA** (2024). *Final Human Health Toxicity Assessment for Perfluorooctanoic Acid (PFOA)*, EPA-815R24006, and its Appendix (Table B-26).
-23. **US EPA** (2024). *Final Human Health Toxicity Assessment for Perfluorooctane Sulfonic Acid (PFOS).*
-24. **US EPA** (2025). *IRIS Toxicological Review of Perfluorohexanesulfonic Acid (PFHxS)*, Table 3-3.
-25. **US EPA** (2023). *IRIS Toxicological Review of Perfluorohexanoic Acid (PFHxA).*
-26. **California OEHHA** (2024). *Public Health Goals for PFOA and PFOS in Drinking Water*, Appendix Tables A6.3, A6.4 and 4.8.1.
-27. **ATSDR** (2021). *Toxicological Profile for Perfluoroalkyls*, Tables 3-5 and 3-6.
-28. **EFSA CONTAM Panel** (2020). *Risk to human health related to the presence of perfluoroalkyl substances in food*, Appendix C.
-29. **New Jersey DWQI** (2017–2018). Health-based maximum contaminant level support documents for PFOA, PFOS and PFNA.
+32. **US EPA** (2024). *Final Human Health Toxicity Assessment for Perfluorooctanoic Acid (PFOA)*, EPA-815R24006, and its Appendix (Table B-26).
+33. **US EPA** (2024). *Final Human Health Toxicity Assessment for Perfluorooctane Sulfonic Acid (PFOS).*
+34. **US EPA** (2025). *IRIS Toxicological Review of Perfluorohexanesulfonic Acid (PFHxS)*, Table 3-3.
+35. **US EPA** (2023). *IRIS Toxicological Review of Perfluorohexanoic Acid (PFHxA).*
+36. **California OEHHA** (2024). *Public Health Goals for PFOA and PFOS in Drinking Water*, Appendix Tables A6.3, A6.4 and 4.8.1.
+37. **ATSDR** (2021). *Toxicological Profile for Perfluoroalkyls*, Tables 3-5 and 3-6.
+38. **EFSA CONTAM Panel** (2020). *Risk to human health related to the presence of perfluoroalkyl substances in food*, Appendix C.
+39. **New Jersey DWQI** (2017–2018). Health-based maximum contaminant level support documents for PFOA, PFOS and PFNA.
 
 ### Sources cited within the above and used as secondary attributions
 

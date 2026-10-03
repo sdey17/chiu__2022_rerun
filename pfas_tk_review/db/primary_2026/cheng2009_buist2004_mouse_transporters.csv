@@ -1,0 +1,7 @@
+finding,species,transporter,direction,source
+"male-predominant Oatps (Oatp1a1 and 3a1) in mouse kidneys are due to stimulatory effect of androgens",mouse,Oatp1a1 and Oatp3a1,male-predominant,"Cheng & Klaassen 2009 Discussion, citing Cheng 2006"
+"female-predominant Mrp3 in mouse kidney due to estrogens",mouse,Mrp3,female-predominant,Cheng & Klaassen 2009 Discussion
+"male-predominant Npt1, Npt2a, Urat1, Oatp4c1 in mouse kidney",mouse,"Npt1; Npt2a; Urat1; Oatp4c1",male-predominant,Cheng & Klaassen 2009 Results
+"female-predominant Asbt, Oat5, Pept2 in mouse kidney",mouse,"Asbt; Oat5; Pept2",female-predominant,Cheng & Klaassen 2009 Results
+"the most notable species difference: a LACK of Oat2 female predominance in mouse kidney",mouse vs rat,Oat2,"absent in mouse; strongly female-predominant in rat (7.5x, Kudo 2002)",Buist & Klaassen 2004 abstract
+"less dramatic Oat3 male predominance in mouse liver",mouse vs rat,Oat3,weaker in mouse,Buist & Klaassen 2004 abstract

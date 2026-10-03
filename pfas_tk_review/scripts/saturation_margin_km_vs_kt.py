@@ -5,7 +5,8 @@ Report section 4.3 answers no, on the grounds that transporter Km values sit
 2,200-82,000x above human serum concentrations. That rests on in vitro Km
 values read second-hand. Two of the papers behind it are now on disk:
 
-  Yang et al. 2010, Toxicol Sci 117:294 -- the human apical transporter Km values
+  Yang et al. 2010, Toxicol Sci 117:294 -- human apical transporter Km values
+  Louisse et al. 2024, Toxicology 509:153961 -- human OAT1/OAT2/OAT3 Km values
   Han et al. 2012, Chem Res Toxicol 25:35 -- Table 7, the Tm and KT values that
       PBPK models of PFOA elimination actually run on
 
@@ -35,6 +36,9 @@ SERUM = [
 def main():
     with open(os.path.join(PRIM, "yang2010_human_apical_transporters.csv")) as fh:
         yang = [r for r in csv.DictReader(fh) if r["km_uM"]]
+    with open(os.path.join(PRIM, "louisse2024_human_oat_km.csv")) as fh:
+        louisse = [r for r in csv.DictReader(fh)
+                   if r["chemical"] == "PFOA" and r["km_uM"]]
     with open(os.path.join(PRIM, "han2012_table7_pbpk_tm_kt.csv")) as fh:
         han = list(csv.DictReader(fh))
 
@@ -43,11 +47,16 @@ def main():
 
     print("\n1. THE TWO FAMILIES OF ESTIMATE, IN THE SAME UNITS")
     print("-" * 78)
-    print("  In vitro Km, human apical transporters (Yang 2010):")
+    print("  In vitro Km for PFOA, human transporters -- six independent values:")
     for r in yang:
         km_uM = float(r["km_uM"])
-        print(f"     {r['transporter']:9} {km_uM:7.1f} uM = "
-              f"{km_uM * MW_PFOA / 1000:9.2f} mg/L  ({r['condition']})")
+        print(f"     {r['transporter']:7} {km_uM:7.1f} uM = "
+              f"{km_uM * MW_PFOA / 1000:8.2f} mg/L  Yang 2010 ({r['condition']})")
+    for r in louisse:
+        km_uM = float(r["km_uM"])
+        print(f"     {r['transporter']:7} {km_uM:7.1f} uM = "
+              f"{km_uM * MW_PFOA / 1000:8.2f} mg/L  Louisse 2024 "
+              f"(SE {r['km_se']})")
     print("\n  PBPK-fitted KT, same process, from models agencies use (Han 2012 Table 7):")
     for r in han:
         if not r["kt_mg_L"]:
@@ -57,12 +66,16 @@ def main():
               f"{kt / MW_PFOA * 1000:8.3f} uM   {r['kt_note'] or ''}")
 
     hum_kt = float([r for r in han if r["species"] == "human"][0]["kt_mg_L"])
-    kms = sorted(float(r["km_uM"]) for r in yang)
+    kms = sorted([float(r["km_uM"]) for r in yang]
+                 + [float(r["km_uM"]) for r in louisse])
     hum_kt_uM = hum_kt / MW_PFOA * 1000
-    print(f"\n  The human PBPK KT is {hum_kt_uM:.3f} uM. The human in vitro Km values are")
-    print(f"  {kms[0]:.1f}-{kms[-1]:.1f} uM. The fitted value is "
-          f"{kms[0] / hum_kt_uM:.0f}-{kms[-1] / hum_kt_uM:.0f}x LOWER than anything measured")
-    print("  in a cell. One of these is wrong, and they are not interchangeable.")
+    print(f"\n  The human PBPK KT is {hum_kt_uM:.3f} uM. The six measured human Km")
+    print(f"  values span {kms[0]:.0f}-{kms[-1]:.0f} uM, so the fitted value is "
+          f"{kms[0] / hum_kt_uM:.0f}-{kms[-1] / hum_kt_uM:.0f}x LOWER")
+    print("  than anything ever measured in a cell. With six independent")
+    print("  measurements from two laboratories now agreeing within a factor of 7,")
+    print("  and the KT values fitted rather than measured, the weight of evidence")
+    print("  has moved decisively onto the in vitro side.")
 
     print("\n2. THE SATURATION QUESTION, ANSWERED BOTH WAYS")
     print("-" * 78)

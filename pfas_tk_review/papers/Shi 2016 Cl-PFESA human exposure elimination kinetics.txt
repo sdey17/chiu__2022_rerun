@@ -1,0 +1,668 @@
+                                                                                                                                           Article
+
+                                                                                                                                 pubs.acs.org/est
+
+
+
+
+Human Exposure and Elimination Kinetics of Chlorinated
+Polyﬂuoroalkyl Ether Sulfonic Acids (Cl-PFESAs)
+Yali Shi,† Robin Vestergren,‡ Lin Xu,† Zhen Zhou,§ Chuangxiu Li,† Yong Liang,§,⊥ and Yaqi Cai*,†,⊥
+†
+ State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research Center for Eco-Environmental Science, Chinese
+ Academy of Sciences, Beijing 100085, China
+‡
+ Department of Environmental Science and Analytical Chemistry (ACES), Stockholm University, Stockholm SE 10691, Sweden
+§
+
+
+
+
+                                                                                                                                                          Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​50/​5/​2396/​8568210/​es5b05849.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+ Key Laboratory of Optoelectronic Chemical Materials and Devices, Ministry of Education, School of Chemical and Environmental
+ Engineering, Jianghan University, Wuhan 430056, China
+⊥
+  Institute of Environment and Health, Jianghan University, Wuhan 430056, China
+    *
+    S Supporting Information
+
+
+
+
+    ABSTRACT: The incomplete mass-balance of organic ﬂuorine in human serum indicates the existence of unknown per- and
+    polyﬂuoroalkyl substances (PFASs) with persistent and bioaccumulative properties. Here we characterized human exposure and
+    elimination kinetics of chlorinated polyﬂuoroalkyl ether sulfonic acids (Cl-PFESAs) in metal plating workers (n = 19), high ﬁsh
+    consumers (n = 45), and background controls (n = 8). Cl-PFESAs were detected in >98% of the sampled individuals with serum
+    concentrations ranging <0.019−5040 ng/mL. Statistically higher median serum levels were observed in high ﬁsh consumers (93.7
+    ng/mL) and metal plating workers (51.5 ng/mL) compared to the background control group (4.78 ng/mL) (Kruskal−Wallis
+    rank sum test, p < 0.01). Cl-PFESAs could account for 0.269 to 93.3% of ∑PFASs in human serum indicating that this
+    compound class may explain a substantial fraction of previously unidentiﬁed organic ﬂuorine in the Chinese population.
+    Estimated half-lives for renal clearance (median 280 years; range 7.1−4230 years) and total elimination (median 15.3 years;
+    range 10.1−56.4 years) for the eight carbon Cl-PFESA suggest that this is the most biopersistent PFAS in humans reported to
+    date. The apparent ubiquitous distribution and slow elimination kinetics in humans underscore the need for more research and
+    regulatory actions on Cl-PFESAs and PFAS alternatives with similar chemical structures.
+
+
+■   INTRODUCTION
+Per- and polyﬂuoroalkyl substances have been ubiquitously
+                                                                         Furthermore, associations with immune system disorders,11,12
+                                                                         endocrine disruption,13,14 reduced fetal growth15 and gesta-
+detected in human samples from all over the world and                    tional diabetes16 have been suggested in the populations with a
+perﬂuoroctanoic acid (PFOA) and perﬂuorooctanesulfonic acid              low-level background exposure to PFASs.
+(PFOS) are two of the most predominant xenobiotic                           While signiﬁcant eﬀorts are being devoted to understand the
+compounds present in human blood today.1,2 Given this                    possible health eﬀects from exposure to PFOA and PFOS, there
+widespread contamination, concerns have been raised about                is also a growing concern that current exposure assessments do
+adverse human health eﬀects related to their toxicity.3,4                not capture the range of PFAS to which humans are exposed.
+Epidemiological studies have shown that exposure to PFASs                These concerns are supported by the ﬁndings that compound-
+(primarily PFOA and/or PFOS) may be associated with                      speciﬁc analysis of known PFASs can only explain 30−85% of
+biochemical or physiological alterations in human populations.5
+Some of the most robust ﬁndings include probable links to                Received: November 27, 2015
+kidney and testicular cancers,6 pregnancy-induced hyper-                 Revised: January 21, 2016
+tension,7 thyroid disease,8 ulcerative colitis,9 and high                Accepted: January 28, 2016
+cholesterol10 in populations with elevated exposure to PFOA.             Published: February 11, 2016
+
+                             © 2016 American Chemical Society     2396                                                     DOI: 10.1021/acs.est.5b05849
+                                                                                                            Environ. Sci. Technol. 2016, 50, 2396−2404
+Environmental Science & Technology                                                                                                       Article
+
+Table 1. Acronyms and Corresponding Chemical Structures of Cl-PFESAs Present in F-53B Technical Mixtures
+
+
+
+
+                                                                                                                                                        Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​50/​5/​2396/​8568210/​es5b05849.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+the extractable organic ﬂuorine in human serum samples from             important pathways of human exposure, (iii) evaluate the
+China, Japan, and the U.S.17,18 Since the ﬁrst detection of             contribution of Cl-PFESAs to body burden of known organic
+PFOS and PFOA in human serum samples,19 numerous                        ﬂuorine, and (iv) estimate the elimination kinetics of Cl-
+subclasses of PFASs, including perﬂuorooctane sulfonamides              PFESAs in humans.
+(FOSAs), perﬂuorooctane sulfonamidoacetates (FOSAAs),
+polyﬂuoroalkyl phosphate diesters (diPAPs), perﬂuorooctane-
+sulfonamidoethanol-based polyﬂuoroalkyl phosphate diesters
+                                                                        ■    METHODS
+                                                                           Nomenclature for Cl-PFESAs. According to the compre-
+(Sam-PAPs), ﬂuorotelomer sulfonates (FTSs), perﬂuoro-                   hensive terminology and classiﬁcation system by Buck et al.,31
+phosphonates (PFPAs), and perﬂuorophosphinates (PFPiAs),                PFESAs and perﬂuoroalkyl ether carboxylic acids (PFECAs)
+have been added to the list of analytes that can regularly be           belong to the subclass of PFASs called functionalized
+measured in human samples.20−22 Despite these discoveries,              perﬂuoropolyethers (PFPEs). However, there is no commonly
+the sum of novel PFASs typically makes a very small (<1%)               accepted nomenclature for how to name speciﬁc chemical
+contribution to the sum of known PFASs which is dominated               structures within this diverse group of substances which can
+by perﬂuoroalkane sulfonic (PFSAs) and perﬂuoroalkyl                    have numerous possible sequences of carbon and oxygen
+carboxylic acids (PFCAs).21,22                                          atoms. A previous paper by Ruan et al.29 used an X:Y
+   The identiﬁcation of PFASs that can accumulate in humans             terminology to indicate the position of the ether bond of Cl-
+represents a prerequisite for eﬀective exposure mitigation and          PFESAs. However, since this designation has often been used
+innovative screening approaches have recently been reported.            for the number of ﬂuorinated carbons (X) and hydrocarbons
+Strategies to identify novel PFASs primarily involve advanced           (Y) of telomer-based substances,31 it may be misrepresentative
+analytical techniques employing high resolution mass-spec-              to use the same system for PFECAs and PFESAs which, unlike
+trometry with sophisticated deconvolution algorithms.23−25              many telomer-based PFASs, are believed to be highly persistent
+However, studies of the patent literature and estimated                 in the environment.27,28 Herein we adopted a simpliﬁed
+production volumes combined with physicochemical property               acronym system to describe the Cl-PFESA homologues present
+estimations have also been instructive for identifying PFASs            in F-53B commercial mixtures based on the number of carbon
+that are likely to cause signiﬁcant exposure to wild-life and           atoms of the alkyl chain. Table 1 displays the chemical
+humans.26,27 One group of PFASs that have been identiﬁed as             structures and the acronyms for the three Cl-PFESAs discussed
+potentially problematic PFASs using both of these approaches            in this paper.
+is the chlorinated polyﬂuoroether sulfonic acids (Cl-PFE-                  Human Subjects. The human subjects in this study were
+SAs).23,26,28 Despite that these substances have been used in           selected to reﬂect two exposure scenarios with a hypothesized
+metal plating industry, under the trade name F-53B, for more            elevated exposure to Cl-PFESAs, namely (i) metal plating
+than 30 years, the occurrence of Cl-PFESAs in the abiotic               workers and (ii) high consumers of fresh water ﬁsh. One
+environment was only recently discovered.28,29 In a proceeding          control group with a perceived background exposure to Cl-
+paper, we provided the ﬁrst evidence for eﬃcient uptake and             PFESAs was included as a reference. In total, 72 paired blood
+accumulation of F-53B in crucian carp under natural                     and morning urine samples were collected from healthy
+conditions.30 Combined with widespread contamination of                 volunteers that had signed informed consent for participation
+surface water,28 sewage sludge29 and ﬁsh samples30 from China           and the sampling was approved by the ethical commission of
+we postulated that Cl-PFESAs could make a signiﬁcant                    the Research Center for Eco-Environmental Science, Chinese
+contribution to the body burden of PFASs in humans.                     Academy of Sciences. The samples from metal plating workers
+   In this study, we present the ﬁrst measurements of Cl-               (n = 19) were collected from employees of a medium size metal
+PFESAs in human samples from China with the speciﬁc                     plating facility in Yantai City, Shandong province with
+objectives to (i) determine the range of concentrations in              approximately 200 employees. All study subjects were full-
+human serum under diﬀerent exposure conditions, (ii) identify           time employed process workers that spend a signiﬁcant part of
+                                                                 2397                                                    DOI: 10.1021/acs.est.5b05849
+                                                                                                          Environ. Sci. Technol. 2016, 50, 2396−2404
+Environmental Science & Technology                                                                                                           Article
+
+their work day around the chrome plating vats where                       solution was concentrated to approximately 1 mL under
+ﬂuorinated surfactants, including F-53B, are used as mist                 nitrogen. The concentrated extracts were subsequently diluted
+suppressants. High consumers (n = 45) of fresh water ﬁsh were             using 50 mL ultrapure water and loaded onto a single-use Oasis
+selected from a cohort of ﬁshery employees and their families in          WAX cartridge (6 cc/150 mg), which was preconditioned using
+Hubei province which have previously been studied with                    4 mL 0.1% ammonium hydroxide (in methanol), 4 mL
+respect to their exposure to PFSAs and PFCAs.32 Given their               methanol and 4 mL ultrapure water at a rate of 1 drop/s, for
+employment at the ﬁshery, the diet of these individuals relied            cleanup. The cartridges were washed using 4 mL buﬀer solution
+heavily on ﬁsh from Tangxun Lake consumed at the ﬁshery                   (25 mmol/L acetic acid/ammonium acetate, pH = 4), 8 mL
+cantina or prepared in their homes. The average self-reported             ultrapure water and centrifuged for 10 min at 3000 rpm to
+consumption of ﬁsh was 93 g/day which is approximately three              remove the residual water. Finally, the target analytes were
+times the national average for ﬁsh and seafood consumption in             eluted using 4 mL methanol and 4 mL 0.1% ammonium
+China.33 The sample set from Hubei province also included a               hydroxide (in methanol), which was concentrated to 1 mL
+control group of eight individuals living in the city of Wuhan            under nitrogen.
+but far away from Tangxun Lake. The participants of this group               Urine samples (10 mL) were spiked with 2 ng of internal
+had a low to medium intake of ﬁsh and seafood and reported to
+
+
+
+
+                                                                                                                                                            Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​50/​5/​2396/​8568210/​es5b05849.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+                                                                          standards followed by adding 10 mL of 1% formic acid in water,
+never have eaten ﬁsh from Tangxun Lake.                                   and were then subsequently vortexed for 2 min and sonicated
+   In addition to the human specimens, 46 ﬁsh muscle samples              for 30 min. The samples were then loaded onto an Oasis WAX
+were collected from Tangxun Lake. The main species prepared               SPE cartridge following the above-mentioned process. For
+in the ﬁshery cantina were sampled in order to be                         additional details regarding extraction and cleanup, we refer to
+representative of the typical ﬁsh consumption of ﬁshery                   our previous publication.32,34
+employees and their families [yellow catﬁsh (n = 8), common                  Instrumental Analysis. PFESAs, PFSAs and PFCAs in
+carp (n = 8), white amur bream (n = 8), grass carp (n = 8),               extracts (5 μL injection volume) were quantiﬁed using high
+silver Carp (n = 6), and bighead carp (n = 8)].                           performance liquid chromatography (HPLC, Ultimate 3000,
+   Sample Collection. Urine samples were collected in 50 mL               Thermo Fisher Scientiﬁc Co.) coupled with electrospray
+polypropylene (PP) bottles. Whole blood samples were                      ionization tandem mass spectrometry (ESI-MS/MS, API
+obtained in a BD Vacutainer tube (Becton Dickinson                        4500, Applied Biosystems/MDS SCIEX, U.S.A.). The HPLC
+Vacutainer System, UK) with EDTA. Fish muscle samples                     instrument was equipped with a dual pump (HPG-3200RS),
+were stored in aluminum foil during transport to the laboratory           autosampler (WPS-3000RS), column compartment (TCC-
+where they were homogenized and freeze-dried. All samples                 3000RS) and DCMS Link software. Separation of the analytes
+were stored at −20 °C until analysis.                                     was achieved by an ACQUITY HSS PFP Column (1.8 μm, 100
+   Chemicals and Standards. The standards for native and                  Å, 5 cm × 2.1 mm, Waters Co.). The experimental conditions
+mass-labeled PFASs (PFAC-MXA, MPFAC-MXA) were                             for HPLC and ESI-MS/MS are described in the SI.
+purchased from Wellington laboratories (Guelph, ON,                          Quantiﬁcation was performed using an 8-point standard
+Canada), while C8, C10, and C12 Cl-PFESA were puriﬁed                     calibration curve (0.05, 0.1, 0.5, 1.0, 5, 10, 20, and 50 μg/L),
+from a technical F-53B product purchased from Shanghai                    spiked with 2 ng of mass-labeled PFSAs and PFCAs, using a 1/
+Synica Co., Ltd. (Shanghai, China), which contained 91%, 7%,              x2 weighted regression (r2 > 0.99) for Cl-PFESAs and PFOS.
+and 0.3% C8, C10, and C12 Cl-PFESA. The puriﬁcation was                   The matrix-speciﬁc limits of quantiﬁcation (MLQ) were
+performed using an autopuriﬁcation HPLC/MS system,                        determined at the lowest concentration resulting in a signal-
+including GILSON 215 (Gilson) and Shimadzu LCMS                           to-noise ratio (S/N) ≥ 10 (Details shown in Table S2).
+2010A (Shimadzu, Kyoto, Japan) with separation on an Agela                   Quality Assurance. All sampling equipment, laboratory
+Durashell C18 (250*20 mm, 5 μm) column. The structure and                 consumables, and solvents were checked for contamination and
+purity of the Cl-PFESA standards were further validated by                one procedural blank sample was conducted for every ten
+nuclear magnetic resonance spectrometer (19F-NMR, Bruker                  samples. However, all procedural, ﬁeld, and solvent injection
+AVANCE III 400 Hz) and a high performance liquid                          blanks were consistently below instrumental detection limits.
+chromatography coupled with an evaporative light-scattering               Instrumental drift was monitored by injecting a calibration
+and a single-quadruple MS detector (Agilent LCMS 1100−                    standard for every 10 sample injections and a new calibration
+1956A, U.S.A.). Further details regarding the HPLC conditions
+                                                                          curve was constructed if a deviation of more than ±20% from
+and conﬁrmation of the puriﬁed products are provided in the
+                                                                          its initial value was observed. Spike-recovery tests using 5 ng of
+Supporting Information (SI). Additional information regarding
+                                                                          PFOS and Cl-PFESAs were used to determine accuracy and
+solvents and chemical reagents is also provided in the SI.
+                                                                          precision for ﬁsh muscle (n = 4), human blood (n = 4), and
+   Sample Treatment. The human serum, urine, and ﬁsh
+                                                                          urine (n = 4). The seven most highly contaminated samples
+muscle samples from high ﬁsh consumers and background
+                                                                          were diluted using methanol and reanalyzed in order to ensure
+controls were analyzed as extracts from our previous study on
+                                                                          that all quantiﬁed concentrations were within the dynamic
+this cohort.32 All extracts, which had been carefully sealed and
+                                                                          range.
+stored at −20 °C, were sonicated and vortexed prior to the
+                                                                             Estimation of Renal Clearance. The renal clearance rate
+removal of aliquots for reanalysis. Whole blood and urine
+samples from metal plating workers were pretreated according              (CLrenal, mL/kg/day) is deﬁned as the volume of serum from
+to our previous report.32 Brieﬂy, 0.5 mL of whole blood was               which a chemical is removed under a given amount of time. In
+spiked with 2 ng of internal standard (13C4 PFOS) and                     line with Zhang et al.,35 we used the following equation to
+extracted with 5 mL acetonitrile (ACN). The supernatant was               calculate CLrenal from paired urine and serum samples:
+transferred into a new PP tube after shaking for 20 min at 250                           Curine × Vurine
+rpm and centrifuged for 10 min at 4000 rpm. The sample                       CLrenal =
+residues were extracted two more times and the 15 mL extract                             Cserum × m w
+
+                                                                   2398                                                      DOI: 10.1021/acs.est.5b05849
+                                                                                                              Environ. Sci. Technol. 2016, 50, 2396−2404
+Environmental Science & Technology                                                                                                             Article
+
+where Curine is the concentration in urine (ng/mL), Cserum is the           was judged as a reasonable assumption given the similarities in
+concentration in serum (ng/mL), Vurine is the daily urine                   uptake and tissue distribution of these compounds in crucian
+excretion volume (mL/day), and mw is the body weight (kg).                  carp.30
+Individual measurements in serum and urine together with                       C8 and C10 Cl-PFESAs were detected in 100% and 98% of
+recorded body weights from questionnaires were used to                      the samples respectively while the C12 homologue was
+calculate individual renal clearance rates for C8 Cl-PFESA and              consistently below the MLQ (0.045 ng/mL). Concentrations
+PFOS. The urine excretion volume was estimated to 1200 mL/                  of C8 and C10 Cl-PFESAs in serum for the control group, high
+day for females and 1400 mL/day for males.36 In order to                    ﬁsh consumers and metal plating workers are presented in
+express the renal clearance rates in terms of renal elimination             Figure 1 and summary statistics are provided in Table S4.
+half-lives (t1/2, renal, days), the following equation was used.35
+                   0.693 × Vd
+    t1/2,renal =
+                     CLrenal
+where Vd is the apparent volume of distribution (L/kg). Given
+
+
+
+
+                                                                                                                                                              Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​50/​5/​2396/​8568210/​es5b05849.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+the lack of mammalian toxicokinetic data for Cl-PFESAs, it was
+assumed that PFOS and C8 Cl-PFESA have the same Vd (230
+mL/kg)37 based on their similar blood/tissue distribution ratios
+in crucian carp.30
+   Exposure Mass-Balance and Calculation of Total
+Elimination Half-Lives. In order to estimate total elimination
+half-lives by all routes of excretion, a one-compartment model
+was used to establish a mass-balance of C8 Cl-PFESA and
+PFOS in high ﬁsh consumers. Assuming that the concen-
+trations in serum had reached a steady-state situation (i.e., no-
+change with time) in ﬁshery employees with >6 years of
+employment the total elimination half-life (days) was calculated
+according to the following equation:
+                  Cserum × 0.693 × Vd
+    t1/2, tot =                                                             Figure 1. Box-whisker plot of the Cl-PFESA serum concentrations in
+                           I
+                                                                            background control (BC), high ﬁsh consumers (FC) and metal plating
+where I (ng/kg/day) is the body weight normalized intake rate               workers (MW). The horizontal line in the box represents the median
+of chemical. The dietary intake was calculated as a weighted                value and the low and upper edge of the box mark the 25th and 75th
+arithmetic mean concentration of the ﬁve sampled ﬁsh species                percentiles. The whiskers extending from the box represent the
+which was multiplied with the average ﬁsh consumption (93 g/                maximum and minimum values excluding outliers.
+day) and divided by the average body weight determined from
+questionnaires (see Table S3). The range of measured serum                  Statistically signiﬁcantly higher median concentrations of C8
+concentrations was used to estimate inter-individual variability            and C10 Cl-PFESAs were observed in high ﬁsh consumers
+in elimination half-lives.                                                  (93.7 and 1.60 ng/mL) and metal plating workers (51.5 and
+   Statistical Evaluation. Statistical analyses were executed               1.60 ng/mL) compared to the background control group (4.78
+using the IBM PASW statistics 18.0 software (SPSS Inc., 1993−               and 0.08 ng/mL) (Kruskal−Wallis rank sum test, p < 0.01),
+2007) with a statistical signiﬁcance threshold of p < 0.05.                 whereas no statistically signiﬁcant diﬀerence was observed
+Summary statistics were calculated for analytes with detection              between metal plating workers and high ﬁsh consumers
+frequencies >50% in serum/whole blood, urine, and ﬁsh                       (Kruskal−Wallis rank sum test, p > 0.402). C8 Cl-PFESA
+samples. Concentrations below MLQ were assigned to be                       was detected in 74% of all urine samples ranging from 0.003 to
+MLQ/2 in the statistical analysis. Spearman’s rho values were               2.86 ng/mL. Contrastingly, C10 Cl-PFESA was only detected
+calculated for correlations. Mann−Whitney U-test and                        in two of the most highly exposed metal plating workers at
+Kruskal−Wallis rank sum test was used to test diﬀerences in                 0.002 and 0.038 ng/mL, respectively. The concentrations of C8
+concentrations and ratios between diﬀerent exposure groups.
+
+■
+                                                                            Cl-PFESA and PFOS in urine and serum from the same
+                                                                            individuals were strongly correlated (Spearman’s rho >0.827, p
+    RESULTS AND DISCUSSION                                                  < 0.01, Table S5), suggesting that measurements in urine
+   Concentrations of Cl-PFESAs in Human Specimens                           provide a good measure of the body burden of these two
+and Fish Samples. The matrix spike-recoveries for whole                     substances. C8 and C10 Cl-PFESAs were present in all ﬁsh
+blood, muscle, and urine were in the range 80.3−92.8%, 78.5−                muscle samples (Table S6) from Tangxun Lake whereas the
+104%, and 73.1−118% (see also Table S2). Reanalysis of linear               C12 homologue was consistently below MLQ (0.065 ng/g
+PFOS in the sample extracts provided excellent agreement (r2 >              ww). Median concentrations of C8 and C10 Cl-PFESAs ranged
+0.984) with previously reported values,32 demonstrating that                0.770 to 2.17 ng/g and 0.052 to 0.099 ng/g, respectively, in the
+storage did not have an eﬀect on the quantiﬁed concentrations               diﬀerent ﬁsh species.
+(Figure S7). For the 19 metal plating workers, concentrations                  Characterization of Exposure Pathways for Cl-PFESAs.
+in whole blood were transformed to serum equivalents using                  The high detection frequency of C8 and C10 Cl-PFESAs at
+the correction factor of 0.5 that has previously been estimated             similar levels in background exposed individuals indicates that
+for PFOS.38 Although the distribution between whole blood                   this class of contaminants may be ubiquitously present in the
+and serum has not been speciﬁcally studied for Cl-PFESAs, this              Chinese population. Although little is known about the
+                                                                     2399                                                      DOI: 10.1021/acs.est.5b05849
+                                                                                                                Environ. Sci. Technol. 2016, 50, 2396−2404
+Environmental Science & Technology                                                                                                         Article
+
+occurrence of Cl-PFESAs, the exposure of the background                  reﬂects a less eﬃcient respiratory or gastrointestinal uptake of
+population is probably occurring through several exposure                the C10 homologue. Alternative explanations could also be (i)
+pathways (e.g., dietary intake, drinking water and dust                  a faster elimination of C10 compared to C8 Cl-PFESA or (ii) a
+ingestion). At the same time, the 20-fold higher median                  diﬀerent distribution between serum and other body compart-
+concentration of C8 Cl-PFESA in high ﬁsh consumers                       ments. The relative importance of these explanations related to
+compared to background controls demonstrates that fresh                  the biological handling of C8 and C10 Cl-PFESA is further
+water ﬁsh may be a particularly important vector of human                discussed in the section on elimination kinetics.
+exposure. This is a sensible ﬁnding given that ﬁsh consumption              Although a signiﬁcantly elevated exposure was observed for
+has been identiﬁed as a main predictor of human exposure to              high ﬁsh consumers and metal plating workers compared to the
+long-chain PFSAs and PFCAs,39 which have a comparable                    background control group, a large interindividual variability in
+bioaccumulation potential in aquatic food webs with C8 Cl-               Cl-PFESA concentrations (ranging 2−3 orders of magnitude)
+PFESA.30 For metal plating workers, the elevated serum                   was also observed within the high exposure groups. For metal
+concentrations were probably due to inhalation of airborne Cl-           plating workers, statistically signiﬁcantly lower median values
+PFESAs. Since the chrome metal plating solutions containing              were observed in individuals with <1 years of employment
+
+
+
+
+                                                                                                                                                          Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​50/​5/​2396/​8568210/​es5b05849.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+F-53B typically have a pH close to zero, volatilization of the           (18.6 ng/mL) compared to those with >1 year of employment
+protonated species and subsequent inhalation is likely a major           (1347 ng/mL) (Figure S8 and Table S8). For chemicals with
+occupational exposure pathway.40 However, additional expo-               relatively long elimination half-lives, serum concentrations are
+sure pathways including ingestion of dust particles, hand-to-            expected to increase as a function of exposure duration until a
+mouth contact or dermal uptake could also contribute to the              steady-state is reached after an extended period of constant
+total exposure of Cl-PFESAs in the workplace environment.41              exposure.32,44 The higher serum concentrations in metal plating
+When comparing the exposure in high ﬁsh consumers and                    workers with >1 years of exposure may, therefore, reﬂect a slow
+metal plating workers with the background control group it               elimination rate in humans.32,44 However, additional factors
+should be noted that serum concentrations were not adjusted              related to the magnitude of occupational exposure (e.g.,
+for demographic factors such as age/birth cohort and gender              diﬀerent work tasks, use of personal protection equipment)
+which are known to be important predictors of human serum                or individual variability in elimination rates may also be
+concentrations for other PFASs.42,43 More comprehensive                  important to explain the individual variation in serum
+biomonitoring studies from diﬀerent regions of China are,                concentrations. The high ﬁsh consumer group was divided
+therefore, needed to better understand the human exposure to             into ﬁve diﬀerent subgroups, namely family members, > 0−1
+PFESAs.                                                                  years, > 1−3 years, > 3−6 years, and >6 years of employment at
+   When investigating the relationship between Cl-PFESA                  the ﬁshery. Although the lowest concentrations of both C8 and
+homologues in serum, strong correlations between C8 and                  C10 Cl-PFESAs were observed in the group with >0−1 years of
+C10 Cl-PFESAs were observed in high ﬁsh consumers (p <                   employment, there were no statistically signiﬁcant diﬀerences in
+0.01; Spearman’s rho =0.795) and metal plating workers (p <              median values of the diﬀerent employment groups (Figure S8
+0.01; Spearman’s rho =0.911), whereas no signiﬁcant                      and Table S8). The lack of a clear trend between Cl-PFESAs in
+correlation was observed in the background control group (p              serum and length of employment at the ﬁshery may be
+= 0.736; Spearman’s rho =0.143). There were also strong                  explained by the fact that many individuals in this group
+correlations observed between Cl-PFESA and PFOS serum                    reported a high ﬁsh consumption prior to starting their job at
+concentrations in the above three population groups (p ≤ 0.01;           the ﬁshery. Since the ﬁsh from Tangxun Lake was found to
+Spearman’s rho =0.602−0.823, Table S7). The strong                       contain similar or lower concentrations of Cl-PFESAs
+correlations between Cl-PFESA homologues and PFOS can                    compared to other parts of China,30 it is possible the majority
+be interpreted as an indication that these substances have               of ﬁshery employees have had a similar dietary exposure for a
+similar sources of exposure in the respective exposure groups            long time. Thus, the lack of a clear trend with duration of
+and similar toxicokinetic properties. However, it should be              exposure indicates that the serum concentrations in ﬁshery
+pointed out that ratios of Cl-PFESAs varied between the                  employees with >1 years of employment may be close to a
+exposure groups. A signiﬁcantly higher median C8/C10 ratio               steady-state.
+was observed in high ﬁsh consumers (53.3) compared to metal                 Contribution of Cl-PFESAs to the Sum of Known
+plating workers (36.6) (Mann−Whitney U-test, p < 0.01). The              PFASs. In addition to Cl-PFESAs, a wide range of PFSAs and
+diﬀerence in C8/C10 ratios between metal plating workers and             PFCAs were detected in serum and whole blood samples
+high ﬁsh consumers likely reﬂects the diﬀerence between near-            (Table S4). As reported previously by Zhou et al., highly
+ﬁeld and far-ﬁeld exposure pathways for these two groups.                elevated concentrations of PFOS (median 7840 ng/g) were
+While metal plating workers are exposed directly to the                  observed in ﬁsh consumers from Tangxun Lake compared to
+commercial F-53B mixture, the higher C8/C10 Cl-PFESA ratio               the control group (median 17.4 ng/g).32 Elevated, but highly
+in high ﬁsh consumers compared to metal plating workers may              variable concentrations of PFOS (median 40.0 ng/mL; range
+be due to preferential accumulation of C8 Cl-PFESA in aquatic            2.40−1323 ng/mL) were also observed in metal plating
+food chains and subsequently a diﬀerent homologue pattern in             workers which probably reﬂects the parallel use of both F-
+the primary exposure media. Intriguingly, the C8/C10 ratio in            53B and perﬂuorooctane sulfonyl ﬂuoride (POSF)-based
+serum of metal plating workers was substantially higher than in          commercial products. In Figure 2, the median composition
+commercial F-53B products (12.9 ± 2.6).29 Since no samples of            proﬁles of identiﬁed organic ﬂuorine attributed to ∑Cl-
+workplace exposure media (e.g., air and dust) were analyzed in           PFESAs, ∑PFSAs, and ∑PFCAs are presented for background
+this study, it is diﬃcult to fully explain this observation.             controls, high ﬁsh consumers and metal plating workers,
+However, assuming that the external exposure to Cl-PFESAs                respectively. The highest contribution of Cl-PFESAs was
+reﬂects the homologue pattern of the commercial mixture it               observed in metal plating workers (41.3%) followed by the
+seems plausible that the comparatively high C8/C10 ratio                 background control group (13.9%) and lowest contribution was
+                                                                  2400                                                     DOI: 10.1021/acs.est.5b05849
+                                                                                                            Environ. Sci. Technol. 2016, 50, 2396−2404
+Environmental Science & Technology                                                                                                                Article
+
+                                                                              human samples from diﬀerent parts of China are needed to
+                                                                              properly test this hypothesis.
+                                                                                 Elimination Kinetics of Cl-PFESAs. Since previous studies
+                                                                              in animal models47,48 and human populations35,49 have shown
+                                                                              that the clearance of PFASs may be sex-dependent, we
+                                                                              calculated summary statistics for males and females separately
+                                                                              (Table S9). However, due to the limited number of females in
+                                                                              this study (n = 14), which also displayed a low detection
+                                                                              frequency of Cl-PFESAs in urine, we could not detect any
+                                                                              statistically signiﬁcant diﬀerences between sexes. Hence, we
+Figure 2. Contribution of ∑Cl-PFESAs, ∑PFSAs and ∑PFCAs to                    hereafter discuss the elimination kinetics for Cl-PFESAs
+the total identiﬁed organic ﬂuorine content (ng F/mL) in human                without diﬀerentiating between males and females. The median
+serum samples from the background control group (BC), high ﬁsh                renal clearance rate of C8 Cl-PFESA (0.0016 mL/kg/day) was
+consumers (FC), and metal plating workers (MW). The stacked bar               approximately ﬁve times lower than that of PFOS (0.0074 mL/
+chart represent median values.
+
+
+
+
+                                                                                                                                                                 Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​50/​5/​2396/​8568210/​es5b05849.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+                                                                              kg/day) (Mann−Whitney U test, P < 0.001). A low detection
+                                                                              frequency of C10 Cl-PFESA in urine samples precluded
+                                                                              accurate determination of the renal clearance rates. However,
+observed in high ﬁsh consumers (0.923%). The relatively low                   the average of paired serum and urine samples from the two
+contribution of Cl-PFESAs in high ﬁsh consumers was                           most highly exposed metal plating workers (0.0006 mL/kg/
+primarily a consequence of the high PFOS concentrations,                      day) indicates a similar or slower excretion rate compared to
+which represented >74.9% of the ∑PFASs in these samples.                      C8 Cl-PFESA. The apparent trend of decreasing renal clearance
+The exposure to Cl-PFESAs relative to other known PFASs via                   rates in the order PFOS > C8 Cl-PFESA ≥ C10 Cl-PFESA is in
+ﬁsh consumption may, however, vary greatly between diﬀerent                   line with observations for other PFASs, for which a higher
+regions of China.26,28,29,45 In our previous study, we observed               hydrophobicity generally leads to a slower renal elimina-
+comparable concentrations of C8 Cl-PFESA in ﬁsh samples                       tion.32,35,50 Thus, it seems unlikely that the unexpectedly high
+from Tangxun Lake, Xiaoqing River and a Beijing ﬁsh market                    C8/C10 Cl-PFESA ratios in serum, as discussed above, could
+whereas the concentrations of PFOS varied substantially.30                    be explained by diﬀerences in elimination kinetics.
+Higher concentrations of Cl-PFESAs may generally be expected                     In order to estimate total elimination half-lives, we took
+in the central eastern provinces of China with heavy metal                    advantage of the fact that (i) the intake rate of C8 Cl-PFESA
+plating industry28,29 compared to western and northeastern                    could be determined for high ﬁsh consumers from measure-
+China, where there are few known point sources of Cl-                         ments in ﬁsh muscle samples and average ﬁsh consumption
+PFESAs.26,30,46 Given this anticipated geographical variability in            rates (Table S3) and (ii) serum concentrations of ﬁshery
+environmental concentrations of PFASs it may also be expected                 employees with >6 years of employment appeared to have
+that high ﬁsh consumers in some provinces of China have a                     reached steady-state. In Table 2, the total and renal elimination
+signiﬁcantly higher proportion of Cl-PFESAs in their serum.                   half-lives of C8 Cl-PFESA and PFOS from this study are
+   Transforming the serum concentrations of Cl-PFESAs to                      presented together with previously reported values for PFOS.
+organic ﬂuorine equivalents resulted in median values of 2.78                 Median total elimination half-lives of C8 Cl-PFESA and PFOS
+and 54.9 ng F/mL for the background control group and high                    were 15.3 and 6.7 years, respectively. The substantially longer
+ﬁsh consumers, respectively. These values are comparable to or                renal and total-elimination half-life of C8 Cl-PFESA compared
+higher than the range of arithmetic mean values of unidentiﬁed                to PFOS suggests that this compound is the most biopersistent
+organic ﬂuorine 2−18.5 ng F/mL in human serum samples                         PFAS in humans reported to date.32,35,41,51 At the same time,
+from ﬁve diﬀerent cities in China by Yeung et al.18 Assuming                  the 20-fold diﬀerence between renal excretion and total
+that Cl-PFESAs are present at a similar concentration range in                elimination half-lives indicates that other routes of clearance
+highly industrialized coastal provinces of China (as discussed                than urine are important for C8 Cl-PFESA. A similar, but less
+above) inclusion of this emerging class of PFASs could help to                pronounced, discrepancy between renal and total elimination
+close the mass-balance of the organic ﬂuorine in human serum.                 half-lives has also been observed for PFOS in previous studies
+However, additional biomonitoring studies combining com-                      (Table 2). Given the high persistence of PFESAs27,28 it seems
+pound-speciﬁc analysis with total organic ﬂuorine analysis of                 unlikely, but not impossible, that metabolism contributes to the
+
+Table 2. Estimated Biological Half-Lives via All Routes of Excretion (Total Elimination) and Renal Clearance for C8 Cl-PFESA
+and PFOS in Years
+
+                             C8 Cl-PFESA                              PFOS
+                     mean   median   min      max     mean    median     min        max                  study population                       reference
+ total elimination   18.5    15.3    10.1      56.4     7.7     6.7          3.0     19.1    predominantly male (58 males/14 females)           this study
+                                                        5.4     4.6          2.4     21.7    predominantly male (24 males/2 females)            ref 51
+                                                                5.5                          male                                               ref 53
+                                                                4.9                          female                                             ref 53
+ renal clearance     445    280       7.1    4230      46.7    81.9          4.5    696      predominantly male (58 males/14 females)           this study
+                                                        6.7     6.6          3.1     11      young females (<50 years)                          ref 35
+                                                       34      25            1.5    182      males and older females (>50 years)                ref 35
+                                                       22      44            6     2183      predominantly male                                 ref 41
+
+                                                                      2401                                                        DOI: 10.1021/acs.est.5b05849
+                                                                                                                   Environ. Sci. Technol. 2016, 50, 2396−2404
+Environmental Science & Technology                                                                                                               Article
+
+discrepancy between renal clearance and total elimination half-           cumulative risk assessment based on read-across extrapola-
+lives. A more probable explanation is that the diminished renal           tions58 may be a valid and useful approach for Cl-PFESAs.
+excretion, due to higher hydrophobicity27,29 and proteinophi-
+licity, makes biliary excretion relatively more important. This
+explanation ﬁnds some support in observations of a greater
+                                                                          ■
+                                                                          *
+                                                                              ASSOCIATED CONTENT
+                                                                          S Supporting Information
+biliary excretion of long-chain PFCAs in rodents.50,52 However,           The Supporting Information is available free of charge on the
+more research combining in vitro sorption experiments, in vivo            ACS Publications website at DOI: 10.1021/acs.est.5b05849.
+animal dosing, and observational studies in humans is needed
+to understand the toxicokinetics of novel PFASs.                               Additional information regarding solvents and chemical
+   The estimated elimination kinetics presented in Table 2                     reagents, the HPLC conditions and conﬁrmation of the
+demonstrates that C8 Cl-PFESA has a very long half-life in                     Cl-PFESA standard, detail experimental conditions for
+humans and that renal excretion cannot explain the total                       HPLC and ESI-MS/MS and other materials are shown in
+clearance. Nevertheless, it should be noted that the accuracy of               Tables S1−S9 and Figures S1−S8 (PDF)
+elimination half-lives is limited by the underlying assumptions
+                                                                          ■
+
+
+
+
+                                                                                                                                                                Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​50/​5/​2396/​8568210/​es5b05849.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+of the one-compartment model. First, the steady-state                         AUTHOR INFORMATION
+assumption may be an oversimpliﬁcation of the real exposure               Corresponding Author
+situation despite that prolonged exposure did not result in               *Tel: +86 (10) 62849239; fax: +86 (10) 62849182; e-mail:
+signiﬁcantly higher serum concentrations for the high ﬁsh                 caiyaqi@rcees.ac.cn (Y.C.).
+consumers. Second, the estimated total elimination half-lives
+rely on estimates of the daily intake via ﬁsh consumption and             Notes
+the uncertainty in the self-reported ﬁsh consumption rates will           The authors declare no competing ﬁnancial interest.
+be propagated to half-life calculations. Third, the assumption
+that C8 Cl-PFESAs has the same volume of distribution as
+PFOS is based on the blood/tissue distribution ratios in ﬁsh in
+                                                                          ■   ACKNOWLEDGMENTS
+                                                                          This work was jointly supported by the National Natural
+the absence of mammalian data.30 Despite these uncertainties,             Science Foundation of China (No. 21537004, 21377145,
+the general agreement in total elimination half-life values for           21321004), the Strategic Priority Research Program of the
+PFOS (AM 7.7; range 3.0−19.1 years) with those reported by                Chinese Academy of Sciences (XDB14010201), the National
+Olsen et al.51 (AM 5.4; range 2.4−21.0 years) provides some               Key Basic Research Program of China (2015CB931903), and
+conﬁdence to the approach.                                                the Swedish Research council FORMAS (No. 2014-514).
+    Implications for Human Exposure and Health Risk
+Assessment of PFAS Alternatives. This is the ﬁrst study, to
+our knowledge, of an emerging class of PFASs present in
+                                                                          ■   REFERENCES
+                                                                            (1) Kannan, K.; Corsolini, S.; Falandysz, J.; Fillmann, G.; Kumar, K.
+human samples at similar concentrations as PFOA and PFOS.                 S.; Loganathan, B. G.; Mohd, M. A.; Olivero, J.; Wouwe, N. V.; Yang, J.
+So far, the main explanation for the unidentiﬁed fraction of              H.; Aldous, K. M. Perfluorooctanesulfonate and related fluorochem-
+organic ﬂuorine in humans has emphasized the importance of                icals in human blood from several countries. Environ. Sci. Technol.
+unknown commercial ﬂuorosurfactants used in textile- or paper             2004, 38 (17), 4489−4495.
+treatment and their reaction intermediates.18,54,55 One of the              (2) Haines, D. A.; Murray, J. Human biomonitoring of environmental
+underlying reasons for the strong research focus on these                 chemicals–early results of the 2007−2009 Canadian Health Measures
+                                                                          Survey for males and females. Int. J. Hyg. Environ. Health 2012, 215
+substances is that they were the major commercial product
+                                                                          (2), 133−137.
+branches for the POSF- and telomer-based chemistry in Europe                (3) Lau, C.; Butenhoff, J. L.; Rogers, J. M. The developmental
+and North America with production volumes of several                      toxicity of perfluoroalkyl acids and their derivatives. Toxicol. Appl.
+thousand tons per year.26 The apparent ubiquitous distribution            Pharmacol. 2004, 198 (2), 231−241.
+of Cl-PFESAs in China, however, illustrates that persistent and             (4) Andersen, M. E.; Butenhoff, J. L.; Chang, S.-C.; Farrar, D. G.;
+bioaccumulative PFASs with signiﬁcantly lower production                  Kennedy, G. L., Jr; Lau, C.; Olsen, G. W.; Seed, J.; Wallace, K. B.
+volumes (estimated to ∼30 tons/year for F-53B) can also cause             Perfluoroalkyl acids and related chemistries–toxicokinetics and modes
+signiﬁcant human exposure on a regional scale. Given that                 of action. Toxicol. Sci. 2007, 102 (1), 3−14.
+chemicals with lower production volumes often require a less                (5) Steenland, K.; Fletcher, T.; Savitz, D. A. Epidemiologic evidence
+rigorous hazard- and risk assessment,56 the ﬁndings of Cl-                on the health effects of perfluorooctanoic acid (PFOA). Environ.
+                                                                          Health Persp. 2010, 118 (8), 1100−1108.
+PFESAs in humans may serve as an important example in the                   (6) Barry, V.; Winquist, A.; Steenland, K. Perfluorooctanoic acid
+context of chemical regulation of PFAS alternatives.                      (PFOA) exposures and incident cancers among adults living near a
+   The presence of Cl-PFESAs in human serum also raises                   chemical plant. Environ. Health Persp. 2013, 121 (11−12), 1313−1318.
+questions about the potential health risks related to this                  (7) Darrow, L. A.; Stein, C. R.; Steenland, K. Serum perfluor-
+exposure. Since the only toxicity study on Cl-PFESAs so far is            ooctanoic acid and perfluorooctane sulfonate concentrations in
+an acute dose study in Zebra ﬁsh, a traditional human health              relation to birth outcomes in the Mid-Ohio Valley, 2005−2010.
+risk assessment of this compound is not possible. Nevertheless,           Environ. Health Persp. 2013, 121 (10), 1207−1213.
+the similarities between PFOS and C8 Cl-PFESA with respect                  (8) Winquist, A.; Steenland, K. Perfluorooctanoic Acid Exposure and
+to (i) LC50 values in Zebra ﬁsh28 (ii) tissue distribution in             Thyroid Disease in Community and Worker Cohorts. Epidemiology
+                                                                          2014, 25 (2), 255−264.
+crucian carp30 and (iii) slow elimination kinetics in humans
+                                                                            (9) Steenland, K.; Zhao, L.; Winquist, A.; Parks, C. Ulcerative colitis
+(this study) certainly indicate that the biological handling of           and perfluorooctanoic acid (PFOA) in a highly exposed population of
+these compounds shares some common characteristics. Studies               community residents and workers in the mid-Ohio valley. Environ.
+on the toxicity of PFECAs further support that inclusion of               Health Persp. 2013, 121 (8), 900−905.
+ether bonds in the perﬂuoroalkyl chain does not seem to have                (10) Winquist, A.; Steenland, K. Modeled PFOA exposure and
+an eﬀect on the toxicological mode-of-action.57 Thus,                     coronary artery disease, hypertension, and high cholesterol in
+
+                                                                   2402                                                          DOI: 10.1021/acs.est.5b05849
+                                                                                                                  Environ. Sci. Technol. 2016, 50, 2396−2404
+Environmental Science & Technology                                                                                                                           Article
+
+community and worker cohorts. Environ. Health Persp. 2014, 122 (12),                 identified in firefighters using liquid chromatography quadrupole
+1299−1305.                                                                           time-of-flight tandem mass spectrometry and a case-control approach.
+  (11) Okada, E.; Sasaki, S.; Saijo, Y.; Washino, N.; Miyashita, C.;                 Environ. Sci. Technol. 2015, 49 (4), 2434−2442.
+Kobayashi, S.; Konishi, K.; Ito, Y. M.; Ito, R.; Nakata, A.; Iwasaki, Y.;              (26) Wang, Z.; Cousins, I. T.; Scheringer, M.; Hungerbühler, K.
+Saito, K.; Nakazawa, H.; Kishi, R. Prenatal exposure to perfluorinated               Fluorinated alternatives to long-chain perfluoroalkyl carboxylic acids
+chemicals and relationship with allergies and infectious diseases in                 (PFCAs), perfluoroalkane sulfonic acids (PFSAs) and their potential
+infants. Environ. Res. 2012, 112, 118−125.                                           precursors. Environ. Int. 2013, 60, 242−248.
+  (12) Grandjean, P.; Andersen, E.; Budtz-Jørgensen, E.; Nielsen, F.;                  (27) Gomis, M. I.; Wang, Z.; Scheringer, M.; Cousins, I. T. A
+Mølbak, K.; Weihe, P.; Heilmann, C. Serum vaccine antibody                           modeling assessment of the physicochemical properties and environ-
+concentrations in children exposed to perfluorinated compounds. J.                   mental fate of emerging and novel per- and polyfluoroalkyl substances.
+Am. Med.Assoc. 2012, 307 (4), 391−397.                                               Sci. Total Environ. 2015, 505, 981−991.
+  (13) Lopez-Espinosa, M. J.; Fletcher, T.; Armstrong, B.; Genser, B.;                 (28) Wang, S.; Huang, J.; Yang, Y.; Hui, Y.; Ge, Y.; Larssen, T.; Yu,
+Dhatariya, K.; Mondal, D.; Ducatman, A.; Leonardi, G. Association of                 G.; Deng, S.; Wang, B.; Harman, C. First report of a Chinese PFOS
+perfluorooctanoic acid (PFOA) and perfluorooctane sulfonate                          alternative overlooked for 30 years: its toxicity, persistence, and
+(PFOS) with age of puberty among children living near a chemical                     presence in the environment. Environ. Sci. Technol. 2013, 47 (18),
+plant. Environ. Sci. Technol. 2011, 45 (19), 8160−8166.                              10163−10170.
+
+
+
+
+                                                                                                                                                                            Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​50/​5/​2396/​8568210/​es5b05849.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+  (14) Joensen, U. N.; Veyrand, B.; Antignac, J. P.; Blomberg Jensen,                  (29) Ruan, T.; Lin, Y.; Wang, T.; Liu, R.; Jiang, G. Identification of
+M.; Petersen, J. H.; Marchand, P.; Skakkebaek, N. E.; Andersson, A.                  novel polyfluorinated ether sulfonates as PFOS Alternatives in
+M.; Le Bizec, B.; Jorgensen, N. PFOS (perfluorooctanesulfonate) in                   municipal sewage sludge in China. Environ. Sci. Technol. 2015, 49
+serum is negatively associated with testosterone levels, but not with                (11), 6519−6527.
+semen quality, in healthy men. Hum. Reprod. 2013, 28 (3), 599−608.                     (30) Shi, Y.; Vestergren, R.; Zhou, Z.; Song, X.; Xu, L.; Liang, Y.; Cai,
+  (15) Lam, J.; Koustas, E.; Sutton, P.; Johnson, P. I.; Atchley, D. S.;             Y. Tissue distribution and whole body burden of the chlorinated
+Sen, S.; Robinson, K. A.; Axelrad, D. A.; Woodruff, T. J. The                        polyfluoroalkyl ether sulfonic acid F-53B in crucian carp (Carassius
+navigation guide - evidence-based medicine meets environmental                       carassius): Evidence for a highly bioaccumulative contaminant of
+health: integration of animal and human evidence for PFOA effects on                 emerging concern. Environ. Sci. Technol. 2015, 49 (24), 14156−14165.
+fetal growth. Environ. Health Persp. 2014, 122 (10), 1040−1051.                        (31) Buck, R. C.; Franklin, J.; Berger, U.; Conder, J. M.; Cousins, I.
+  (16) Zhang, C.; Sundaram, R.; Maisog, J.; Calafat, A. M.; Barr, D. B.;             T.; de Voogt, P.; Jensen, A. A.; Kannan, K.; Mabury, S. A.; van
+Buck Louis, G. M. A prospective study of prepregnancy serum                          Leeuwen, S. P. Perfluoroalkyl and polyfluoroalkyl substances in the
+concentrations of perfluorochemicals and the risk of gestational                     environment: terminology, classification, and origins. Integr. Environ.
+diabetes. Fertil. Steril. 2015, 103 (1), 184−189.                                    Assess. Manage. 2011, 7 (4), 513−541.
+  (17) Miyake, Y.; Yamashita, N.; So, M. K.; Rostkowski, P.; Taniyasu,                 (32) Zhou, Z.; Shi, Y.; Vestergren, R.; Wang, T.; Liang, Y.; Cai, Y.
+S.; Lam, P. K.; Kannan, K. Trace analysis of total fluorine in human                 Highly elevated serum concentrations of perfluoroalkyl substances in
+blood using combustion ion chromatography for fluorine: a mass                       fishery employees from tangxun lake, China. Environ. Sci. Technol.
+balance approach for the determination of known and unknown                          2014, 48 (7), 3864−3874.
+organofluorine compounds. J. chromatogr. A 2007, 1154 (1−2), 214−                      (33) Zhao, S.; Price, O.; Liu, Z.; Jones, K. C.; Sweetman, A. J.
+221.                                                                                 Applicability of western chemical dietary exposure models to the
+  (18) Yeung, L. W. Y.; Miyake, Y.; Taniyasu, S.; Wang, Y.; Yu, H. X.;               Chinese population. Environ. Res. 2015, 140, 165−176.
+So, M. K.; Jiang, G. B.; Wu, Y. N.; Li, J. G.; Giesy, J. P.; Yamashita, N.;            (34) Zhou, Z.; Liang, Y.; Shi, Y.; Xu, L.; Cai, Y. Occurrence and
+Lam, P. K. S. Perfluorinated compounds and total and extractable                     transport of perfluoroalkyl acids (PFAAs), including short-chain
+organic fluorine in human blood samples from China. Environ. Sci.                    PFAAs in Tangxun Lake, China. Environ. Sci. Technol. 2013, 47
+Technol. 2008, 42 (21), 8140−8145.                                                   (16), 9249−9157.
+  (19) Hansen, K. J.; Clemen, L. A.; Ellefson, M. E.; Johnson, H. O.                   (35) Zhang, Y.; Beesoon, S.; Zhu, L.; Martin, J. W. Biomonitoring of
+Compound-specific, quantitative characterization of organic fluoro-                  perfluoroalkyl acids in human urine and estimates of biological half-
+chemicals in biological matrices. Environ. Sci. Technol. 2001, 35 (4),               life. Environ. Sci. Technol. 2013, 47 (18), 10619−10627.
+766−770.                                                                               (36) Borghi, L.; Meschi, T.; Amato, F.; Briganti, A.; Novarini, A.;
+  (20) Calafat, A. M.; Wong, L. Y.; Kuklenyik, Z.; Reidy, J. A.;                     Giannini, A. Urinary volume, water and recurrences in idiopathic
+Needham, L. L. Polyfluoroalkyl chemicals in the US population: Data                  calcium nephrolithiasis: A 5-year randomized prospective study. J.
+from the National Health and Nutrition Examination Survey                            Urol. 1996, 155 (3), 839−843.
+(NHANES) 2003−2004 and comparisons with NHANES 1999−                                   (37) Thompson, J.; Lorber, M.; Toms, L. M.; Kato, K.; Calafat, A.
+2000. Environ. Health Persp. 2007, 115 (11), 1596−1602.                              M.; Mueller, J. F. Use of simple pharmacokinetic modeling to
+  (21) Lee, H.; Mabury, S. A. A pilot survey of legacy and current                   characterize exposure of Australians to perfluorooctanoic acid and
+commercial fluorinated chemicals in human sera from United States                    perfluorooctane sulfonic acid. Environ. Int. 2010, 36 (4), 390−397.
+donors in 2009. Environ. Sci. Technol. 2011, 45 (19), 8067−8074.                       (38) Ehresman, D. J.; Froehlich, J. W.; Olsen, G. W.; Chang, S. C.;
+  (22) Gebbink, W. A.; Glynn, A.; Berger, U. Temporal changes                        Butenhoff, J. L. Comparison of human whole blood, plasma, and
+(1997−2012) of perfluoroalkyl acids and selected precursors                          serum matrices for the determination of perfluorooctanesulfonate
+(including isomers) in Swedish human serum. Environ. Pollut. 2015,                   (PFOS), perfluorooctanoate (PFOA), and other fluorochemicals.
+199, 166−173.                                                                        Environ. Res. 2007, 103 (2), 176−184.
+  (23) Liu, Y.; Pereira Ados, S.; Martin, J. W. Discovery of C5-C17                    (39) Haug, L. S.; Huber, S.; Becher, G.; Thomsen, C. Character-
+poly- and perfluoroalkyl substances in water by in-line SPE-HPLC-                    isation of human exposure pathways to perfluorinated compounds
+Orbitrap with in-source fragmentation flagging. Anal. Chem. 2015, 87                 -comparing exposure estimates with biomarkers of exposure. Environ.
+(8), 4260−4268.                                                                      Int. 2011, 37 (4), 687−693.
+  (24) Strynar, M.; Dagnino, S.; McMahen, R.; Liang, S.; Lindstrom,                    (40) Kaiser, M. A.; Dawson, B. J.; Barton, C. A.; Botelho, M. A.
+A.; Andersen, E.; McMillan, L.; Thurman, M.; Ferrer, I.; Ball, C.                    Understanding potential exposure sources of perfluorinated carboxylic
+Identification of novel perfluoroalkyl ether carboxylic acids (PFECAs)               acids in the workplace. Ann. Occup. Hyg. 2010, 54 (8), 915−922.
+and sulfonic acids (PFESAs) in natural waters using accurate mass                      (41) Gao, Y.; Fu, J.; Cao, H.; Wang, Y.; Zhang, A.; Liang, Y.; Wang,
+time-of-flight mass spectrometry (TOFMS). Environ. Sci. Technol.                     T.; Zhao, C.; Jiang, G. Differential accumulation and elimination
+2015, 49 (19), 11622−11630.                                                          behavior of perfluoroalkyl acid isomers in occupational workers in a
+  (25) Rotander, A.; Karrman, A.; Toms, L. M.; Kay, M.; Mueller, J. F.;              manufactory in China. Environ. Sci. Technol. 2015, 49 (11), 6953−
+Gomez Ramos, M. J. Novel fluorinated surfactants tentatively                         6962.
+
+                                                                              2403                                                           DOI: 10.1021/acs.est.5b05849
+                                                                                                                              Environ. Sci. Technol. 2016, 50, 2396−2404
+Environmental Science & Technology                                                                                Article
+
+ (42) Nøst, T. H.; Vestergren, R.; Berg, V.; Nieboer, E.; Odland, J. Ø.;
+Sandanger, T. M. Repeated measurements of per- and polyfluoroalkyl
+substances (PFASs) from 1979 to 2007 in males from Northern
+Norway: Assessing time trends, compound correlations and relations
+to age/birth cohort. Environ. Int. 2014, 67, 43−53.
+ (43) Berg, V.; Nøst, T. H.; Huber, S.; Rylander, C.; Hansen, S.;
+Veyhe, A. S.; Fuskevåg, O. M.; Odland, J. Ø.; Sandanger, T. M.
+Maternal serum concentrations of per- and polyfluoroalkyl substances
+and their predictors in years with reduced production and use. Environ.
+Int. 2014, 69, 58−66.
+ (44) Russell, M. H.; Waterland, R. L.; Wong, F. Calculation of
+chemical elimination half-life from blood with an ongoing exposure
+source: The example of perfluorooctanoic acid (PFOA). Chemosphere
+2015, 129, 210−216.
+ (45) Zhang, T.; Sun, H.; Lin, Y.; Wang, L.; Zhang, X.; Liu, Y.; Geng,
+X.; Zhao, L.; Li, F.; Kannan, K. Perfluorinated compounds in human
+
+
+
+
+                                                                                                                                 Downloaded from pubs.​acs.​org/​esthag/​article-pdf/​50/​5/​2396/​8568210/​es5b05849.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+blood, water, edible freshwater fish, and seafood in China: Daily intake
+and regional differences in human exposures. J. Agric. Food Chem.
+2011, 59, 11168−11176.
+ (46) Xie, S.; Wang, T.; Liu, S.; Jones, K. C.; Sweetman, A. J.; Lu, Y.
+Industrial source identification and emission estimation of perfluor-
+ooctane sulfonate in China. Environ. Int. 2013, 52, 1−8.
+ (47) Andersen, M. E.; Clewell, H. J., 3rd; Tan, Y. M.; Butenhoff, J. L.;
+Olsen, G. W. Pharmacokinetic modeling of saturable, renal resorption
+of perfluoroalkylacids in monkeys–probing the determinants of long
+plasma half-lives. Toxicology 2006, 227 (1−2), 156−64.
+ (48) Han, X.; Nabb, D. L.; Russell, M. H.; Kennedy, G. L.; Rickard,
+R. W. Renal elimination of perfluorocarboxylates (PFCAs). Chem. Res.
+Toxicol. 2012, 25 (1), 35−46.
+ (49) Zhang, T.; Sun, H.; Qin, X.; Gan, Z.; Kannan, K. PFOS and
+PFOA in paired urine and blood from general adults and pregnant
+women: Assessment of urinary elimination. Environ. Sci. Pollut. Res.
+2015, 22, 5572−5579.
+ (50) Kudo, N.; Suzuki, E.; Katakura, M.; Ohmori, K.; Noshiro, R.;
+Kawashima, Y. Comparison of the elimination between perfluorinated
+fatty acids with different carbon Chain length in rats. Chem.-Biol.
+Interact. 2001, 134 (2), 203−216.
+ (51) Olsen, G. W.; Mair, D. C.; Reagen, W. K.; Ellefson, M. E.;
+Ehresman, D. J.; Butenhoff, J. L.; Zobel, L. R. Preliminary evidence of a
+decline in perfluorooctanesulfonate (PFOS) and perfluorooctanoate
+(PFOA) concentrations in American Red Cross blood donors.
+Chemosphere 2007, 68 (1), 105−111.
+ (52) Ohmori, K.; Kudo, N.; Katayama, K.; Kawashima, Y.
+Comparison of the toxicokinetics between perfluorocaboxylic acids
+with different carbon chain length. Toxicology 2003, 184 (2−3), 135−
+140.
+ (53) Wong, F.; MacLeod, M.; Mueller, J. F.; Cousins, I. T. Enhanced
+elimination of perfluorooctane sulfonic acid by menstruating women:
+Evidence from population-based pharmacokinetic modeling. Environ.
+Sci. Technol. 2014, 48 (15), 8807−8814.
+ (54) Yeung, L. W.; Mabury, S. A. Bioconcentration of aqueous film-
+forming foam (AFFF) in juvenile rainbow trout (Oncorhyncus mykiss).
+Environ. Sci. Technol. 2013, 47 (21), 12505−12513.
+ (55) Loi, E. I.; Yeung, L. W.; Mabury, S. A.; Lam, P. K. Detections of
+commercial fluorosurfactants in Hong Kong marine environment and
+human blood: A pilot study. Environ. Sci. Technol. 2013, 47 (9), 4677−
+4685.
+ (56) Wang, Z.; Cousins, I. T.; Scheringer, M.; Hungerbuehler, K.
+Hazard assessment of fluorinated alternatives to long-chain perfluor-
+oalkyl acids (PFAAs) and their precursors: Status quo, ongoing
+challenges and possible solutions. Environ. Int. 2015, 75, 172−179.
+ (57) Gordon, S. C. Toxicological evaluation of ammonium 4,8-dioxa-
+3H-perfluorononanoate, a new emulsifier to replace ammonium
+perfluorooctanoate in fluoropolymer manufacturing. Regul. Toxicol.
+Pharmacol. 2011, 59 (1), 64−80.
+ (58) Borg, D.; Lund, B. O.; Lindquist, N. G.; Hakansson, H.
+Cumulative health risk assessment of 17 perfluoroalkylated and
+polyfluoroalkylated substances (PFASs) in the Swedish population.
+Environ. Int. 2013, 59, 112−123.
+
+                                                                            2404                  DOI: 10.1021/acs.est.5b05849
+                                                                                   Environ. Sci. Technol. 2016, 50, 2396−2404
+

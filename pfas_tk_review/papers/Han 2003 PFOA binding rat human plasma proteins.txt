@@ -1,0 +1,540 @@
+                                                   Chem. Res. Toxicol. 2003, 16, 775-781                                            775
+
+
+                Binding of Perfluorooctanoic Acid to Rat and Human
+                                  Plasma Proteins
+                   Xing Han,* Timothy A. Snow, Raymond A. Kemper, and Gary W. Jepson
+                        DuPont Haskell Laboratory for Health and Environmental Sciences, P.O. Box 50,
+                                                  Newark, Delaware 19714
+
+                                                           Received January 9, 2003
+
+
+              Perfluorooctanoic acid (PFOA) is a commercially important organic fluorochemical and is
+            considered to have a long half-life in human blood. In this paper, PFOA binding to rat and
+            human plasma proteins was investigated. On the basis of results from size-exclusion
+
+
+
+
+                                                                                                                                            Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​16/​6/​775/​42681315/​tx034005w.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+            chromatography and ligand blotting, most PFOA was in protein-bound form in male and female
+            rat plasma, and the primary PFOA binding protein in plasma was serum albumin. PFOA
+            binding to rat serum albumin (RSA) in the gas phase was observed by electrospray ionization
+            MS. 19F NMR experiments revealed that binding to RSA caused peak broadening and chemical
+            shift changes of PFOA resonances, and on the basis of this observation, the dissociation constant
+            was determined to be ∼0.3 mM. The dissociation constants for PFOA binding to RSA and
+            human serum albumin (HSA) and the numbers of PFOA binding sites on RSA and HSA were
+            also determined by a separation method using microdesalting columns. No significant difference
+            was found between PFOA binding to RSA and PFOA binding to HSA. The dissociation constants
+            for binding of PFOA to RSA or HSA and the numbers of PFOA binding sites were in the range
+            of 0.3-0.4 mM and 6-9, respectively. On the basis of these binding parameters and the
+            estimated plasma concentration of serum albumin, greater than 90% of PFOA would be bound
+            to serum albumin in both rat and human blood.
+
+
+                         Introduction                                      mechanism of sex-dependent elimination of PFOA in rats
+                                                                           has not been well-understood. It has been suggested that
+   Man-made organic fluorochemicals are used in indus-
+                                                                           female rats possess an active renal transport system for
+try as polymer additives, lubricants, fire retardants and
+                                                                           PFOA that is not expressed in male rats (5) or that PFOA
+suppressants, pesticides, and surfactants (1). Because of
+                                                                           binds to male rat specific proteins (9). PFOA is also
+the physical and chemical properties of the carbon
+                                                                           considered a potent peroxisome proliferator (10-12), and
+fluorine bond, many fluorochemicals are stable molecules
+                                                                           its induction of liver peroxisome proliferation in male rats
+that are resistant to biodegradation. The relative stability
+                                                                           is far more pronounced than that in female rats (13, 14)
+of these compounds has created focus on potential
+                                                                           presumably due to its slow elimination and accumulation
+persistence in the environment. Furthermore, the detec-
+                                                                           in the livers of male rats. The ADE of PFOA in humans
+tion of organic fluorine in human blood (2) has generated
+                                                                           are not well-defined. However, it was reported that PFOA
+questions about the relationship between organofluorine
+                                                                           persists in the plasma of occupationally exposed workers,
+blood levels and potential health effects.
+                                                                           even though this persistence was not associated with any
+   PFOA,1 a compound in which all of the aliphatic
+                                                                           hepatic toxicity (15).
+hydrogens of straight chain caprylic acid are replaced by
+                                                                              It has long been suggested that PFOA is circulated
+fluorine, is a commercially important organic fluoro-
+                                                                           throughout the body by noncovalently binding to plasma
+chemical. Persistence of PFOA in the human body has
+                                                                           proteins (16). However, the detailed plasma protein
+been suggested (3), and the level of PFOA in the blood of
+                                                                           binding properties of PFOA, which are potentially of
+workers at a PFOA manufacturing facility has been
+                                                                           great importance for understanding and predicting the
+measured (4). Extensive studies of the ADME of PFOA
+                                                                           ADE of PFOA in humans, have not been carefully
+in rats demonstrated that PFOA was distributed prima-
+                                                                           investigated. This motivated us to compare of the protein
+rily to the plasma, liver, and kidney and was not
+                                                                           binding states of PFOA in male and female rat plasma
+metabolized. Urinary elimination of PFOA, the major
+                                                                           by SEC, to identify PFOA binding protein by ligand
+excretion route of PFOA in rats, was significantly slower
+                                                                           blotting, and to determine the binding parameters by ESI
+in male rats than in female rats, resulting in a much
+                                                                           MS, 19F NMR, and microdesalting column separation.
+longer half-life of PFOA in male rats (15 days as
+compared to less than 1 day in female rats) (5-8). The                                  Experimental Procedures
+   * To whom correspondence should be addressed. Tel: 302-366-5214.           Materials. RSA and HSA (∼99% and fatty acid free) were
+Fax: 302-366-5003. E-mail: xing.han@usa.dupont.com.                        purchased from Sigma (St. Louis, MO). PFOA (∼96%, free acid)
+   1 Abbreviations: ADE, absorption, distribution, and elimination;
+                                                                           and 14C-PFOA (>99%, labeled at the carboxyl carbon, am-
+ADME, absorption, distribution, metabolism, and elimination; COSY,         monium salt; activity, 2.11 GBq/mmol) were purchased from
+correlation spectroscopy; ESI, electrospray ionization; FID, free induc-
+tion decay; HSA, human serum albumin; PFOA, perfluorooctanoic acid;        Aldrich (Milwaukee, WI) and Amersham Pharmacia Biotech
+PVDF, polyvinylidene fluoride; RSA, rat serum albumin; SEC, size-          (Piscataway, NJ), respectively. D2O (>99.9%) was obtained from
+exclusion chromatography.                                                  Isotec (Miamisburg, OH). All other chemicals were from Sigma.
+
+                                 10.1021/tx034005w CCC: $25.00 © 2003 American Chemical Society
+                                                   Published on Web 05/16/2003
+776   Chem. Res. Toxicol., Vol. 16, No. 6, 2003                                                                            Han et al.
+
+   Animals. Male and female Crl:CD(SD)IGS BR rats were              proteins the chemical shift of certain resonance of the ligand
+obtained from Charles River Laboratories (Raleigh, NC). The         changes and the extent of the change reflected the amount of
+Sprague-Dawley rat was chosen for this study because of the         the ligand bound to proteins. The theoretical and experimental
+extensive experience with this strain and its suitability with      procedures were described previously (17, 18). Briefly, if the
+respect to longevity, sensitivity, and low incidence of spontane-   fraction of ligand bound to protein was small, the dissociation
+ous diseases. At the time of dosing, rats were 6-8 weeks of age     constant Kd was given by the following equation:
+and the weight variation did not exceed 20% of the mean weight
+by dose group. Animals were housed individually in glass                                       n[P]T
+metabolism cages and provided with feed and water ad libitum.                         [L]T )         ‚ ∆δBapp - Kd                 (1)
+                                                                                                ∆δ
+Animal rooms were targeted at a temperature of 23 ( 1 °C and
+a relative humidity of 40-60%. Animal rooms were artificially       where ∆δ is the net change in chemical shift of the resonance
+illuminated (fluorescent light) on a 12 h light/dark cycle.         of the ligand (CF2 of PFOA in this case) due to the interaction
+   PFOA Administration. 14C-PFOA was administered by oral           of the ligand with the protein, [L]T is the total ligand concentra-
+gavage at a dose of approximately 25 mg/kg. The test substance      tion, [P]T is the total concentration of protein provided that the
+(specific activity, 0.158 MBq/mg) was dissolved in water and        protein is monomeric under the experimental condition, n is the
+administered in a volume of 4 mL/kg body weight. The purity         number of binding sites, and ∆δBapp is the apparent chemical
+of the dosing solution, which was greater than 99.3%, was
+
+
+
+
+                                                                                                                                          Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​16/​6/​775/​42681315/​tx034005w.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+                                                                    shift change for the ligand in the bound state. Thus, a plot of
+confirmed by HPLC. The chemical and radiochemical concentra-        [L]T vs 1/∆δ gives a straight line, which intercepts with the
+tion were verified by liquid scintillation counting. Animals were   y-axis at -Kd.
+fasted overnight prior to administration of the test substance.        Microdesalting Column Separation. Micro Bio-Spin col-
+   SEC. Plasma samples were collected from the tail vein 2 h        umns (Bio-Rad) were used to rapidly separate the protein-
+after dosing rats with 14C-PFOA and were analyzed immediately       PFOA complex from free PFOA. These columns had a molecular
+after collection. Twenty microliters of plasma samples was          mass cutoff of 6000 Da and were tested with bovine serum
+applied to a Bio-Rad Bio-Sil SEC 125-5 column (300 mm × 7.8         albumin, which showed (103 ( 6)% recovery rate of the protein.
+mm) and eluted with PBS at a flow rate of 1 mL/min at room          Quantification was accomplished by including 0.5 µM 14C-PFOA
+temperature. The absorption of eluate was monitored at 280          in each sample. Briefly, 50 or 60 µM of protein was titrated with
+nm and collected in 0.5 mL fractions. Fractions were mixed with     0.1-3 mM PFOA in PBS in a final volume of 70 µL. Samples
+7 mL of scintillation cocktail for determination of total radio-    were incubated at room temperature for 30 min before being
+activity.                                                           loaded onto the preequalibrated columns. The columns were
+   Ligand Blotting. Unreduced protein samples were subjected        centrifuged at 1000g for 4 min. Free PFOA was retained on the
+to SDS-PAGE (4-20% gradient Ready Gel, Bio-Rad) and                 column whereas protein-PFOA complex freely passed through
+electrotransferred onto a PVDF membrane with a Tris/glycine         the column. The radiochemical activity of 50-60 µL of the
+buffer that did not contain methanol. The PVDF membrane was         collected samples was determined, allowing quantitation of the
+then incubated in buffer A (50 mM Tris-HCl and 20% glycerol,        protein-bound PFOA. The concentration of free PFOA, [L]F, was
+pH 7.4) at room temperature for 1 h before blotting. After it       calculated accordingly.
+was washed three times with buffer B (10 mM Tris-HCl, 150              Dissociation constants of the binding, Kd, and the number of
+mM NaCl, pH 7.4) for 20 min each time, the membrane was             binding sites, n, were given by the following equation, which is
+incubated overnight at room temperature with 1.0 × 107 cpm          a variant of Scatchard analysis (19):
+of 14C-PFOA in buffer B. The membrane was then washed again
+three times with buffer B for 5 min each time, dried, and                                   [L]F [L]F Kd
+autoradiographed with a PhosphorImager (model 445SI, Mo-                                        )    +                             (2)
+                                                                                             r    n    n
+lecular Dynamics).
+   ESI MS. Protein ESI MS was performed on a Micromass              where r is the moles of PFOA bound per mole of protein, [L]F is
+Q-Tof II mass spectrometer, equipped with a Micromass Z spray       the concentration of unbound PFOA, and all other parameters
+ion source (Micromass, Manchester, U.K.). RSA with or without       stand for the same meaning as in eq 1. A plot of [L]F/r vs [L]F is
+the addition of PFOA was dissolved in 50 µM ammonium                a straight line with a slope of 1/n and an intercept of Kd/n.
+bicarbonate, pH 7.0, and was infused into the mass spectrometer
+at a rate of 5 µL/min. The mass spectrometer was scanned from
+800 to 6000 mass-to-charge ratios at a rate of 2-4 s per scan
+                                                                                                Results
+with the resulting positive ion spectra produced by averaging          PFOA Binding to Proteins in Rat Plasma as
+10 min of accumulative data. The electrospray source conditions     Determined by SEC. The protein binding state of PFOA
+were as follows: cone voltage, 20-50 V; source temperature,         in rat plasma was examined by a SEC method. Because
+80 °C; desolvation temperature, 80-150 °C.
+   19F NMR. 19F NMR was performed on a 360 MHz Bruker
+                                                                    the elimination of PFOA in rats is sex-dependent (5-8),
+                                                                    plasma samples from 14C-PFOA-treated male rats and
+AMX spectrometer (Bruker BioSpin, Bremmen, Germany) at
+23 °C with a dual 1H/19F probe. Samples (600 µL in 5 mm NMR         female rats were collected and analyzed. Figure 1 shows
+tubes) in PBS containing 0.05% NaN3 and 10% D2O were                the size-exclusion chromatograms of plasma from male
+composed of RSA with a fixed concentration of either 12.5 or 25     (A) and female (B) rats treated with 14C-PFOA, where
+µM and PFOA, whose concentrations were varied over a wide           elution of plasma proteins was measured at 280 nm
+range. Spin-lattice relaxation times (T1) for resonances of PFOA    (dotted lines) and the elution profile of 14C-PFOA was
+in PBS were measured by the inversion-recovery technique and        represented by the radioactivity (solid lines). The reten-
+were found to be around 1 s. One-dimensional (1D) 90° pulse         tion time of 14C-PFOA in PBS was around 20 min.
+spectra were collected with 25 kHz sweep width, 5 s pulse delay,    Therefore, the coelution of 14C-PFOA with plasma pro-
+16K data points, and 64-2048 scans. Two-dimensional (2D)            teins that was shown in Figure 1A,B demonstrates that
+COSY spectra were recorded with 512 complex t1 increments,
+                                                                    in rat plasma, most, if not all, PFOA was associated with
+1024 t2 points, and 16 scans for each FID. Chemical shifts were
+referenced to the CF2 resonance of PFOA in PBS (see Results        proteins. This finding is consistent with earlier reports
+for resonance assignments), which is set at 0 ppm. The CF2         (16), and it also shows that the extent of binding of PFOA
+resonance showed the largest chemical shift changes as a result     to plasma proteins does not appear to be sex-dependent.
+of protein binding of PFOA.                                            Identification of PFOA Binding Protein in Rat
+   Protein-ligand equilibrium binding constants were measured       Plasma by Ligand Blotting. Ligand blot assay has
+by taking advantage of the observation that once bound to           been widely and successfully used to identify specific
+PFOA Protein Binding                                                         Chem. Res. Toxicol., Vol. 16, No. 6, 2003 777
+
+
+
+
+                                                                  Figure 3. Identification of RSA-PFOA binding by ESI MS.
+
+
+
+
+                                                                                                                                  Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​16/​6/​775/​42681315/​tx034005w.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+                                                                  Mass spectra of 25 µM fatty acid free RSA with (A) or without
+                                                                  (B) the addition of 200 µM PFOA in 50 µM ammonium
+                                                                  bicarbonate, pH 7.0. The charge states of RSA or RSA-PFOA
+                                                                  complex and the numbers of PFOA molecules in association with
+                                                                  RSA are indicated.
+Figure 1. Size-exclusion chromatograms of plasma from 14C-
+PFOA-treated male (A) and female (B) rats. Both the UV            spectra of RSA with (A) and without (B) the presence of
+absorption at 280 nm (dotted lines) and the radiochromatograms    PFOA in 50 µM ammonium bicarbonate at pH 7.0. Only
+(solid lines) are shown. Plasma samples were applied to a Bio-    the mass-to-charge (m/z) ratios between 3260 and 4100
+Rad Bio-Sil SEC 125-5 column (300 mm × 7.8 mm) and eluted         are shown in Figure 3 for the purpose of clarity. Under
+with PBS buffer at a flow rate of 1 mL/min at room temperature.
+The retention time of standard 14C-PFOA dissolved in PBS on       mild electrospray source conditions and a solution pH of
+the same column was around 20 min and was marked as “Free         7.0, RSA ions are highly charged showing a charge state
+PFOA” on the figure.                                              distribution from +17 to +20 (Figure 3B). These are the
+                                                                  charge states of RSA while maintaining its native
+                                                                  conformation. Because denatured RSA molecules expose
+                                                                  more sites for protonation, they have lower m/z values
+                                                                  on the mass spectrum (m/z 800-2000, data not shown).
+                                                                  In principle, the binding of PFOA to RSA should lead to
+                                                                  an increase in mass by 414 Da for each bound PFOA
+                                                                  molecule. After an 8-fold molar excess of PFOA was
+                                                                  added to the protein solution, adduct ions of [RSA +
+                                                                  mPFOA + iH]i+ (i ) 17-20; m ) 1-6) were observed in
+                                                                  addition to the protein ions [RSA + iH] i+ (i ) 17-20)
+                                                                  (Figure 3A; the peaks are marked with corresponding
+                                                                  values of i and m). These data confirmed the binding of
+                                                                  PFOA to rat albumin and further suggested that the
+                                                                  binding is sustained in the gas phase under proper
+Figure 2. Identification of PFOA binding proteins by ligand       conditions. The stoichiometry of the PFOA-RSA complex
+blotting. A 2.5 µL amount of female (a and b) and male (c and
+d) rat plasma was run on a 4-20% gradient gel and stained
+                                                                  in the gas phase determined by MS suggests that RSA
+with Coomassie blue (a and c), and another gel run in parallel    may possess as many as six distinct binding sites for
+was transferred to a PVDF membrane, which was then blotted        PFOA.
+with buffer containing 1 × 107 cpm of 14C-PFOA (b and d).
+                                                                     Binding Affinity Determination by 19F NMR.
+binding proteins (20-23). In the current study, male and          PFOA was found to exhibit a significant fluorine chemical
+female rat plasma proteins were fractionated on a 4-20%           shift change upon binding to serum albumin. Figure 4A
+gradient gel. The gel images are shown in Figure 2c,a,            shows the chemical structure of PFOA and Figure 4B
+respectively. After they were transferred onto a PVDF             shows the 1D 19F NMR spectrum of PFOA in PBS buffer.
+membrane, plasma proteins were incubated with Tris                For convenience, the resonance that exhibited the largest
+buffer containing 14C-PFOA. The resulting autoradio-              chemical shift change due to protein binding was refer-
+grams for both male and female rat plasma samples are             enced as 0 ppm. Figure 4C shows the 1D PFOA spectrum
+shown in Figure 2d,b. Only one major protein at 66 kDa            in the region between -10 and 0 ppm and the corre-
+showed PFOA binding capability. On the basis of its               sponding 2D COSY spectrum. The J coupling connections
+molecular weight and its large quantity on the gel                between CηF3 and CF2 and between CâF2 and CδF2 were
+relative to other plasma proteins, this protein was               shown with dotted and dashed lines, respectively. The
+considered to be RSA.                                             resonance of CηF3 was assigned by integration, and CâF2
+  Binding of PFOA to RSA Studied by ESI MS.                       was assigned by comparing with the 1D 19F NMR spectra
+Ligand blotting experiments demonstrated that RSA is              of shorter chain length of perfluorinated fatty acids (C7
+the primary PFOA binding protein in rat plasma. To                to C3, data not shown). The final assignments were
+further characterize the PFOA-RSA complex, the bind-              labeled on the 1D spectrum of PFOA in Figure 4.
+ing of PFOA to RSA in a physiological buffer was                     Figure 5A shows the peak broadening and downfield
+investigated by using a Q-Tof II mass spectrometer                shift of the CF2 resonance of PFOA (200 µM) in the
+equipped with an ESI interface. Figure 3 shows the mass           presence of 100 µM RSA at pH 7.4. Binding isotherms
+778   Chem. Res. Toxicol., Vol. 16, No. 6, 2003                                                                     Han et al.
+
+
+
+
+                                                                                                                                   Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​16/​6/​775/​42681315/​tx034005w.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+                                                               Figure 5. Determination of PFOA-RSA binding affinity by
+                                                               19F NMR. (A) 19F NMR spectra (arbitrary y-scale) showing C F
+                                                                                                                            2
+                                                               resonance of PFOA (200 µM) in PBS solution (top) and in the
+                                                               presence of 100 µM of fatty acid free RSA (bottom). (B) Binding
+                                                               isotherms were obtained at 23 °C and plotted according to eq 1
+                                                               (Materials and Methods). Protein concentrations ([P]T) and
+                                                               dissociation constants (Kd) are indicated.
+
+                                                               Table 1. Dissociation Constants (Kd) of Binding between
+Figure 4. Resonance assignment of PFOA 19F NMR spectrum.        PFOA and RSAs and HSAs and the Number of PFOA
+(A) Chemical structure of PFOA. (B) One-dimensional 19F NMR              Binding Sites (n) on RSAs and HSAs
+spectrum of 1 mM PFOA in PBS, pH 7.4. The resonance that
+exhibited the largest chemical shift change upon binding to                                         RSA              HSA
+albumin was referenced as 0 ppm. (C) The -10 to 0 ppm region     Kd (mM)       NMRa             0.29 ( 0.10c
+of the 1D and 2D COSY PFOA spectra. Assignment based on                        micro-SECb       0.36 ( 0.08c      0.38 ( 0.04
+the J coupling was shown on the COSY spectrum. J coupling        n             micro-SECb        7.8 ( 1.5         7.2 ( 1.3
+connections between CηF3 and CF2 and between CâF2 and CδF2
+                                                                  a Average of the two K values (0.31 ( 0.15 and 0.27 ( 0.05
+were labeled by dotted and dashed lines, respectively.                                   d
+                                                               mM) obtained by NMR. b Values were obtained from three inde-
+were obtained by titrating RSA with PFOA (Figure 5B).          pendent experiments, and their standard deviations are shown.
+                                                               c On the basis of the result of unpaired t-test at 95% confidence
+Control experiments (data not shown) indicated that in
+                                                               interval, the difference of Kd values determined by NMR and
+the absence of protein, the PFOA resonances did not shift      micro-SEC is statistically insignificant.
+nor broaden even at the highest concentration that was
+used in the titration experiments. On the basis of eq 1        NMR study was used to determine the affinity of PFOA
+(Materials and Methods), the interception of the linear        binding to RSA. However, to estimate the PFOA binding
+binding isotherm with the y-axis is equal to -Kd and is        capacity of serum albumin, it is also necessary to know
+independent of the protein concentration. Figure 5B            the total number of PFOA binding sites on albumin.
+shows two binding isotherms representing PFOA binding          Microdesalting columns were used to separate and
+to 12.5 and 25 µM RSA in PBS, respectively. The two            quantify protein-bound and unbound PFOA. Scatchard
+isotherms possess different slopes but yield comparable        plots were prepared to illustrate the binding between
+Kd values of 0.31 ( 0.15 and 0.27 ( 0.05 mM, respec-           PFOA and serum albumin. Ultrafiltration, the conven-
+tively. Here, errors associated with Kd are from the           tional method for fast separation of protein-ligand
+scatter of the NMR measurements. Their average (0.29           complex from free ligand, failed because PFOA com-
+( 0.10 mM), therefore, is obtained to represent the Kd         pletely nonspecifically bound to the membrane of the
+value that is determined by NMR (see Table 1).                 ultrafiltration unit (Amicon Ultrafree centrifugal filter
+   Quantitative Comparison of PFOA Binding to                  with Biomax membranes, data not shown). The microde-
+RSA and HSA by Microdesalting Columns. The 19F                 salting columns were determined to be suitable for this
+PFOA Protein Binding                                                      Chem. Res. Toxicol., Vol. 16, No. 6, 2003 779
+
+                                                               demonstrate that if used with caution, ESI MS is an
+                                                               efficient and unique technique for identifying noncovalent
+                                                               protein complexes (28-32). Moreover, because it is
+                                                               capable of observing discrete combinations of ligand and
+                                                               protein in a complex by measurement of the molecular
+                                                               masses of all forms in the complex, ESI MS is by far the
+                                                               most straightforward way to obtain the stoichiometry of
+                                                               a complex. In our study, we were able to determine the
+                                                               stoichiometry of PFOA-RSA binding (at least 6:1) on a
+                                                               Q-Tof (Figure 3). This result is in agreement with the
+                                                               stoichiometry values that were determined in a solution
+                                                               phase by a column separation method (Table 1), which
+                                                               strongly supports the validity of the ESI MS method in
+                                                               determination of protein-ligand binding.
+                                                                  NMR methodology has been successfully used in the
+
+
+
+
+                                                                                                                            Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​16/​6/​775/​42681315/​tx034005w.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+                                                               study of protein-ligand binding affinity (17, 18). Binding
+                                                               to proteins caused the changes of the ligands’ (PFOAs,
+                                                               in this case) chemical shift and bandwidth, and these
+                                                               effects allowed the determination of the binding iso-
+                                                               therms by ligand titration experiments. The 19F NMR
+                                                               spectrum of PFOA has been reported and assigned
+                                                               previously by Goecke and co-workers. (33). However, the
+                                                               COSY spectrum of PFOA was not shown in this paper,
+                                                               which makes justification of their spectral assignments
+                                                               impossible. The resonance assignments of the 1D PFOA
+                                                               19F NMR spectrum presented here (Figure 4) confirmed
+
+                                                               Goecke et al.’s assignment on CηF3 but did not agree with
+Figure 6. Determination of binding affinity and number of      any of the six remaining assignments. The 2D COSY
+binding sites by microdesalting column separation. Binding     spectrum of PFOA is presented in Figure 4C to show the
+isotherms plotted according to eq 2 (Materials and Methods)    J coupling connectivity, which is the basis for our NMR
+were obtained from PFOA binding to 50 µM fatty acid free RSA   peak assignments.
+and 50 µM fatty acid free HSA in PBS at room temperature.
+                                                                  Plasma Protein Binding and Plasma Persistence
+                                                               of PFOA. The binding of small molecules, such as
+study because in control experiments serum albumin was         industrial chemicals and drugs, to plasma proteins has
+nearly 100% recovered after centrifugation of the column       long been recognized as one of the major determinants
+and free PFOA in PBS was more than 98% retained on             of their disposition in the body (34). It is known that
+the column (14C-PFOA was used as marker, data not              PFOA has a much longer plasma half-life in male rats
+shown).                                                        than in female rats. To examine if protein binding is a
+  Using this technique, the binding of PFOA to RSA and         factor in the persistence of PFOA in male rat plasma,
+HSA was compared and the data were represented by              we compared the extent of plasma protein binding of
+Scatchard plots (Figure 6). The resulting binding param-       PFOA in male rats to that of female rats. SEC and ligand
+eters are summarized in Table 1. The dissociation              blotting methods revealed that most of the PFOA was
+constants of PFOA binding to RSA and HSA were 0.36             bound to serum albumin regardless of gender (Figures 1
+( 0.08 and 0.38 ( 0.04 mM, respectively. The numbers           and 2), suggesting that there is no apparent correlation
+of binding sites of PFOA on RSA and HSA were also              between PFOA persistence and PFOA serum albumin
+determined, which are in a range of 6-9 for both RSA           binding in plasma. Serum albumin in plasma has a large
+and HSA (Table 1). This is in good agreement with the          capacity for binding PFOA (6-9 binding sites per mol-
+value determined by ESI MS. These data indicate that           ecule and mM concentration in plasma), giving an
+binding of PFOA to serum albumin is quantitatively             estimated free fraction of less than 5% based on the SEC
+similar between rats and humans.                               data (not shown). The fact that female rats (but not male
+                                                               rats) can still quickly eliminate PFOA suggests that the
+                                                               role of RSA binding in the distribution and elimination
+                      Discussion
+                                                               of PFOA could be much more complex. It is still contro-
+   A variety of techniques were used in this study to          versial as to what roles serum albumin plays in organic
+elucidate the protein binding properties of PFOA in rat        anion transport in tissues. There are examples demon-
+and human plasma. Most notable are the ESI MS and              strated that at physiological albumin concentration, the
+19F NMR methods.
+                                                               rate of hepatocyte ligand uptake was proportional to the
+   ESI MS is an emerging and fast-developing technique         concentration of the unbound ligands, which suggests
+in the study of noncovalent protein-protein, protein-          that it was the unbound ligands that drove ligand uptake
+DNA, and protein-ligand complexes (24-26). In contrast         (35). However, in other cases, the uptake rate was
+to most established methods, MS detects the formation          enhanced greatly by ligand binding to serum albumins.
+of noncovalent protein complexes in the gas phase. This        This kinetic behavior has been observed in vivo (36) and
+is made possible by using extremely “soft” ionization          in the isolated perfused liver (37-39) and heart (40),
+parameters in the ion source. Although the validity of         hepatocyte suspensions (41-44), and cultures (45, 46).
+the gas phase protein complex remains controversial (27),      Fewer studies have focused on the role of serum albumin
+there are an increasing number of examples, which              during renal secretion of organic anions, although avail-
+780   Chem. Res. Toxicol., Vol. 16, No. 6, 2003                                                                             Han et al.
+
+able evidence also supports an albumin-stimulated trans-                                   References
+portation mechanism. It has been shown that serum
+                                                                 (1) Banks, R. E., Smart, B. E., and Tatlow, J. C. (1994) In Organof-
+albumin-facilitated renal tubular secretion of p-amino-              luorine Chemistry: Principles and Commercial Applications,
+hippurate and methotrexate and this stimulatory effect               Plenum Press, NY.
+are not affected by the different binding affinities of these    (2) Taves, D. R. (1968) Evidence that there are two forms of fluoride
+                                                                     in human serum. Nature 217, 1050-1051.
+two ligands to albumin (47). Therefore, binding to serum
+                                                                 (3) Guy, W. S., Taves, D. R., and Brey, W. S. (1976) Biochemistry
+albumin alone will not explain the persistence of PFOA               involving carbon fluoride bonds, ACS Symposium Series No. 28
+in rats and other mechanisms should be explored.                     (Filler, R., Ed.) pp 117-134, American Chemical Society, Wash-
+                                                                     ington, DC.
+   The ligand blotting method was used to identify PFOA          (4) Ubel, F. A., Sorenson, S. D., and Roach, D. E. (1980) Health status
+binding protein in plasma (Figure 2). However, it is worth           of plant workers exposed to fluorochemicals: a preliminary report.
+noting that this method will not do well in the identifica-          Am. Ind. Hyg. Assoc. J. 41, 584-589.
+tion of low abundance protein(s). Therefore, we cannot           (5) Hanhijarvi, H., Ophaug, R. H., and Singer, L. (1982) The sex-
+                                                                     related difference in perfluorooctanoate excretion in the rat. Proc.
+completely rule out the possibility of the existence of              Soc. Exp. Biol. Med. 171, 50-55.
+protein(s) with low abundance in plasma but high affinity        (6) Hanhijarvi, H., Ylinen, M., Kojo, A., and Kosma, V. (1987)
+to PFOA. Further investigation on this issue might be                Elimination and toxicity of perfluorooctanoic acid during sub-
+
+
+
+
+                                                                                                                                            Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​16/​6/​775/​42681315/​tx034005w.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+                                                                     chronic administration in the Wistar rat. Pharmacol. Toxicol. 61,
+valuable to our understanding on the persistence of trace
+                                                                     66-68.
+amounts of PFOA in human blood where high PFOA                   (7) Ylinen, M., Kojo, A., Hanhijdrvi, H., and Peura, P. (1990)
+binding capacity (such as albumin) is not necessarily                Disposition of perfluorooctanoic acid in the rat after single and
+required.                                                            subchronic administration. Bull. Environ. Contam. Toxicol. 44,
+                                                                     46-53.
+  Serum Albumin’s PFOA Binding Properties. Se-                   (8) Kuslikis, B. I., van Rafelghem, M. J., and Peterson, R. E. (1991)
+rum albumin, the most abundant protein in plasma, is                 Tissue distribution, metabolism, and elimination of perfluorooc-
+present in the blood at ∼0.6 mM. It is the major transport           tanoic acid in male and female rats. J. Biochem. Toxicol. 6, 83-
+                                                                     92.
+protein for free fatty acids but is also capable of binding      (9) Vanden Heuvel, J. P., Davis, J. W., II, Sommers, R., and Peterson,
+an extraordinarily diverse range of steroid hormones,                R. E. (1992) Renal excretion of perfluorooctanoic acid in male
+metabolites, drugs, and other organic compounds. It has              rats: inhibitory effect of testosterone. J. Biochem. Toxicol. 7, 31-
+                                                                     36.
+been proposed that there are five binding sites on HSA
+                                                                (10) Ikeda, T., Aiba, K., Fukuda, K., and Tanaka, M. (1985) The
+for medium or long chain fatty acids (48-50) and the                 induction of peroxisome proliferation in rat liver by perfluorinated
+binding affinity is relatively high (Kd range from 0.05 to           fatty acids, metabolically inert derivatives of fatty acids. J.
+1.0 µM (51)). In contrast, HSA possesses more PFOA                   Biochem. 98, 475-482.
+                                                                (11) Pastoor, T. P., Lee, K. P., Perri, M. A., and Gillies, P. J. (1987)
+binding sites (n ) 6-9), but the binding affinity is lower           Biochemical and morphological studies of ammonium perfluo-
+(Kd ) 0.38 mM, Table 1). Because the critical micelle                rooctanoate-induced hepatomegaly and peroxisome proliferation.
+concentrations of PFOA free acid and its salts are high              Exp. Mol. Pathol. 47, 98-109.
+(∼9 and ∼30 mM, respectively) (52), PFOA is believed            (12) Sohlenius, A. K., Andersson, K., and DePierre, J. (1992) The
+                                                                     effects of perfluoro-octanoic acid on hepatic peroxisome prolifera-
+to be monomeric, i.e., not self-associated by forming                tion and related parameters show no sex-related differences in
+micelles under the conditions that the binding param-                mice. Biochem. J. 285, 779-783.
+eters were measured. The nearly perfect linearity of the        (13) Kawashima, Y., Uy-Yu, N., and Kozuka, H. (1989) Sex-related
+                                                                     difference in the inductions by perfluoro-octanoic acid of peroxi-
+binding isotherms shown in Figures 5 and 6 suggests that
+                                                                     somal beta-oxidation, microsomal 1-acylglycerophosphocholine
+PFOA-serum albumin binding is noncooperative. It is                  acyltransferase and cytosolic long-chain acyl-CoA hydrolase in rat
+not known if PFOA shares the same binding sites on                   liver. Biochem. J. 261, 595-600.
+serum albumin with fatty acid. However, if this was the         (14) Kudo, N., Bandai, N., Suzuki, E., Katakura, M., and Kawashima,
+                                                                     Y. (2000) Induction by perfluorinated fatty acids with different
+case, competition for binding sites would be much more               carbon chain length of peroxisomal â-oxidation in the liver of rats.
+favorable to fatty acids. It is estimated, based on the Kd           Chem.-Biol. Interact. 124, 119-132.
+values and apparent number of PFOA binding sites, that          (15) Gilliland, F. D., and Mandel, J. S. (1996) Serum perfluorooctanoic
+greater than 90% of PFOA would be bound to serum                     acid and hepatic enzymes, lipoproteins, and cholesterol: a study
+                                                                     of occupationally exposed men. Am. J. Ind. Med. 29, 560-568.
+albumin in blood provided that the PFOA concentration           (16) Ophaug, R. H., and Singer, L. (1980) Metabolic handling of
+in blood is far less than the value of Kd and that most of           perfluorooctanoic acid in rats. Proc. Soc. Exp. Biol. Med. 163, 19-
+serum albumin PFOA binding sites are available.                      23.
+                                                                (17) Kronis, K. A., and Carver, J. P. (1982) Specificity of isolectins of
+   In our study, we also compared PFOA binding proper-               wheat germ agglutinin for sialyloligosaccharides: a 360-MHz
+ties between RSA and HSA. Because serum albumin is                   proton nuclear magnetic resonance binding study. Biochemistry
+the major PFOA binding protein in plasma, comparison                 21, 3050-3057.
+                                                                (18) Sauter, N. K., Bednarski, M. D., Wurzburg, B. A., Hanson, J. E.,
+of the PFOA binding properties of serum albumins from                Whitesides, G. M., Skehel, J. J., and Wiley, D. C. (1989) Hemag-
+different species is important for understanding species-            glutinins from two influenza virus variants bind to sialic acid
+related blood kinetics and toxicity of PFOA and will be              derivatives with millimolar dissociation constants: a 500-MHz
+the basis for extrapolation of the animal models of PFOA             proton nuclear magnetic resonance study. Biochemistry 28, 8388-
+                                                                     8396.
+blood distribution and elimination to humans. Our               (19) Hammes, G. G. (2000) Ligand binding to macromolecules. In
+results demonstrated that RSA and HSA possess similar,               Thermodynamics and Kinetics for the Biological Sciences, p 125,
+if not identical, PFOA binding properties (Table 1).                 Wiley-Interscience, New York.
+                                                                (20) Pryzdial, E. L., and Kessler, G. E. (1996) Autoproteolysis or
+                                                                     plasmin-mediated cleavage of factor Xaalpha exposes a plasmi-
+   Acknowledgment. We thank the Association of                       nogen binding site and inhibits coagulation. J. Biol. Chem. 271,
+Plastics Manufacturers in Europe (APME) for sponsoring               16614-16620.
+this study. We are very grateful to Drs. Matthew S.             (21) Pryzdial, E. L., Lavigne, N., Dupuis, N., and Kessler, G. E. (1999)
+                                                                     Plasmin converts factor X from coagulation zymogen to fibrin-
+Bogdanffy and Paul M. Hinderliter for many helpful and               olysis cofactor. J. Biol. Chem. 274, 8500-8505.
+stimulating discussions. We also thank B. Robinson and          (22) Bocharov, A. V., Vishnyakova, T. G., Baranova, I. N., Patterson,
+S. Carpenter for excellent in-life technical assistance.             A. P., and Eggerman, T. L. (2001) Characterization of a 95 kDa
+PFOA Protein Binding                                                                     Chem. Res. Toxicol., Vol. 16, No. 6, 2003 781
+
+     high affinity human high-density lipoprotein-binding protein.         (37) Forker, E. L., and Luxon, B. A. (1983) Albumin-mediated trans-
+     Biochemistry 40, 4407-4416.                                                port of rose Bengal by perfused rat liver. Kinetics of the reaction
+(23) Anderson, O. M., Petersen, H. H., Jacobsen, C., Moestrup, S. K.,           at the cell surface. J. Clin. Invest. 72, 1764-1711.
+     Etzerodt, M., Andreasen, P. A., and Thogersen, H. C. (2001)           (38) Forker, E. L., Luxon, B. A., Snell, M., and Shurmantine, W. O.
+     Analysis of a two-domain binding site for the urokinase-type               (1982) Effect of albumin binding on the hepatic transport of rose
+     plasminogen activator-plasminogen activator inhibitor-1 complex            Bengal: surface-mediated dissociation of limited capacity. J.
+     in low-density-lipoprotein-receptor-related protein. Biochem. J.           Pharmacol. Exp. Ther. 223, 342-347.
+     357, 289-296.                                                         (39) Weisiger, R., Gollan, J., and Ockner, R. (1981) Receptor for
+(24) Loo, J. A. (1997) Studying noncovalent protein complexes by                albumin on the liver cell surface may mediate uptake of fatty acids
+     electrospray ionization mass spectrometry. Mass Spectrom. Rev.             and other albumin-bound substances. Science Washington, DC
+     16, 1-23.                                                                  211, 1048-1051.
+(25) Pramanik, B. N., Bartner, P. L., Mirza, U. A., Liu, Y.-H., and        (40) Hutter, J. F., Piper, H. M., and Spieckermann, P. G. (1984) Kinetic
+     Ganguly, A. K. (1998) Electrospray ionization mass spectrometry            analysis of myocardial fatty acid oxidation suggesting an albumin
+     for the study of noncovalent complexes: an emerging technology.            receptor mediated uptake process. J. Mol. Cell. Cardiol. 16, 219-
+     J. Mass Spectrom. 33, 911-920.                                             226.
+(26) Veenstra, T. D. (1999) Electrospray ionization mass spectrom-         (41) Nunes, R., Kiang, D.-L., Sorrentino, D., and Berk, P. D. (1988)
+     etry: a promising new technique in the study of protein/DNA                “Albumin-receptor” uptake kinetics do not require an intact
+     noncovalent complexes. Biochem. Biophys. Res. Commun. 257,                 lobular architecture and are not specific for albumin. J. Hepatol.
+     1-5.                                                                       7, 293-304.
+
+
+
+
+                                                                                                                                                        Downloaded from pubs.​acs.​org/​crtoec/​article-pdf/​16/​6/​775/​42681315/​tx034005w.​pdf by UNIV OF ILLINOIS CHICAGO user on 03 October 2026
+(27) Van der Kerk-van Hoof, A., and Heck, A. J. (1999) Covalent and        (42) Sorrentino, D., Robinson, R. B., Kiang, C.-L., and Berk, P. D.
+     noncovalent dissociations of gas-phase complexes of avoparcin and          (1989) At physiologic albumin/oleate concentrations oleate uptake
+     bacterial receptor mimicking precursor peptides studied by col-            by isolated hepatocytes, cardiac myocytes, and adipocytes is a
+     lisionally activated decomposition mass spectrometry. J. Mass              saturable function of the unbound oleate concentration. Uptake
+     Spectrom. 34, 813-819.                                                     kinetics are consistent with the conventional theory. J. Clin.
+(28) Ayed, A., Krutchinsky, A. N., Ens, W., Standing, K. G., and                Invest. 84, 1325-1333.
+     Duckworth, H. W. (1998) Quantitative evaluation of protein-           (43) Pond, S. M., Davis, C. K. C., Bogoyevitch, M. A., Gordon, R. A.,
+     protein and ligand-protein equilibria of a large allosteric enzyme         Weisiger, R. A., and Bass, L. (1992) Uptake of palmitate by
+     by electrospray ionization time-of-flight mass spectrometry. Rapid         hepatocyte suspensions: facilitation by albumin? Am. J. Physiol.
+     Commun. Mass Spectrom. 12, 339-344.                                        262, G883-G894.
+(29) de Brouwer, A. P. M., Versluis, C., Westerman, J., Roelofsen, B.,     (44) Burczynski, F. J., and Cai, Z. S. (1994) Palmitate uptake by
+     Heck, A. J. R., and Wirtz, K. W. A. (2002) Determination of the            hepatocyte suspensions: effect of albumin. Am. J. Physiol. 267,
+     stability of the noncovalent phospholipid transfer protein-lipid           G371-G379.
+     complex by electrospray time-of-flight mass spectrometry. Bio-        (45) Burczynski, F. J., Cai, Z. S., Moran, J. B., and Forker, E. L. (1989)
+     chemistry 41, 8013-8018.                                                   Palmitate uptake by cultured hepatocytes: albumin binding and
+(30) Ray, S. S., Singh, K., and Balaram, P. (2001) An electrospray              stagnant layer phenomena. Am. J. Physiol. 257, G584-G593.
+     ionization mass spectrometry investigation of 1-anilino-8-naph-
+                                                                           (46) Fleischer, A. B., Shurmantine, W. O., Luxon, B. A., and Forker,
+     thalene-sulfonate (ANS) binding to proteins. J. Am. Soc. Mass
+                                                                                E. L. (1986) Palmitate uptake by hepatocyte monolayers. Effect
+     Spectrom. 12, 428-438.
+                                                                                of albumin binding. J. Clin. Invest. 77, 964-970.
+(31) Ishigai, M., Langridge, J. I., Bordoli, R. S., and Gaskell, S. J.
+                                                                           (47) Besseghir, K., Mosig, D., and Roch-Ramel, F. (1989) Facilitation
+     (2000) Noncovalent associations of glutathione S-transferase and
+                                                                                by serum albumin of renal tubular secretion of organic anions.
+     ligands: a study using electrospray quadrupole/time-of-flight
+                                                                                Am. J. Physiol. 256, F475-F484.
+     mass spectrometry. J. Am. Soc. Mass Spectrom. 11, 606-614.
+(32) Witkowska, H. E., Green, B. N., Carlquist, M., and Shackleton,        (48) Hamilton, J. A., Era, S., Bhamidipati, S. P., and Reed, R. G. (1991)
+     C. H. L. (1996) Intact noncovalent dimer of estrogen receptor              Locations of the three primary binding sites for long-chain fatty
+     ligand-binding domain can be detected by electrospray ionization           acids on bovine serum albumin. Proc. Natl. Acad. Sci. U.S.A. 88,
+     mass spectrometry. Steroids 61, 433-438.                                   2051-2054.
+(33) Goecke, C. M., Jarnot, B. M., and Reo, N. V. (1992) A comparative     (49) Sklar, L. A., Hudson, B. S., and Simoni, R. D. (1977) Conjugated
+     toxicological investigation of perfluorocarboxylic acids in rats by        polyene fatty acids as fluorescent probes: binding to bovine serum
+     fluorine-19 NMR spectroscopy. Chem. Res. Toxicol. 5, 512-519.              albumin. Biochemistry 16, 5100-5108.
+(34) Wright, J. D., Boudinot, F. D., and Ujhelyi, M. R. (1996)             (50) Reed, R. G. (1986) Location of long chain fatty acid-binding sites
+     Measurement and analysis of unbound drug concentrations. Clin.             of bovine serum albumin by affinity labeling. J. Biol. Chem. 261,
+     Pharmacokinet. 30, 445-462.                                                15619-15624.
+(35) Sorrentino, D., Zifroni, A., van Ness, K., and Berk, P. D. (1994)     (51) Spector, A. (1975) Fatty acid binding to plasma albumin. J. Lipid
+     Unbound ligand drives hepatocyte taurocholate and BSP uptake               Res. 16, 165-179.
+     at physiological albumin concentration. Am. J. Physiol. 266,          (52) Kunleda, H., and Shinoda, K. (1976) Krafft points, critical micelle
+     G425-G432.                                                                 concentrations, surface tension, and solubilizing power of aqueous
+(36) Pardridge, W. M., Mietus, L. J., Frumar, A. M., Davidson, B. J.,           solutions of fluorinated surfactants. J. Phys. Chem. 80, 2468-2470.
+     and Judd, H. L. (1980) Effects of human serum on transport of
+     testosterone and estradiol into rat brain. Am. J. Physiol. 239,
+     E103-E108.                                                                 TX034005W
+

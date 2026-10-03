@@ -1,0 +1,573 @@
+                                                                          Toxicology 509 (2024) 153961
+
+
+                                                                   Contents lists available at ScienceDirect
+
+
+                                                                                Toxicology
+                                                         journal homepage: www.elsevier.com/locate/toxicol
+
+
+
+
+In vitro and in silico characterization of the transport of selected
+perfluoroalkyl carboxylic acids and perfluoroalkyl sulfonic acids by human
+organic anion transporter 1 (OAT1), OAT2 and OAT3
+Jochem Louisse a,*,1 , Lorenzo Pedroni b, Jeroen J.M.W. van den Heuvel c , Deborah Rijkers a ,
+Liz Leenders a , Annelies Noorlander a, Ans Punt a, Frans G.M. Russel c, Jan B. Koenderink c ,
+Luca Dellafiora b,*
+a
+  Wageningen Food Safety Research, Wageningen University and Research, Wageningen, the Netherlands
+b
+  Department of Food and Drug, University of Parma, Parma 43124, Italy
+c
+  Division of Pharmacology and Toxicology, Department of Pharmacy, Radboud University Medical Center, Nijmegen, the Netherlands
+
+
+
+
+A R T I C L E I N F O                                    A B S T R A C T
+
+Handling Editor: Dr. Mathieu Vinken                      Perfluoroalkyl carboxylic acids (PFCAs) and perfluoroalkyl sulfonic acids (PFSAs) belong to the group of poly-
+                                                         and perfluoroalkyl substances (PFASs), which may accumulate in humans due to their limited excretion. To
+Keywords:                                                provide more insights into the active renal excretion potential of PFASs in humans, this work investigated in vitro
+PFAS                                                     the transport of three PFCAs (PFHpA, PFOA, PFNA) and three PFSAs (PFBS, PFHxS and PFOS) using OAT1-,
+Transporter
+                                                         OAT2- or OAT3-transduced human embryonic kidney (HEK) cells. Only PFHpA and PFOA showed clear uptake in
+OAT1
+                                                         OAT1-transduced HEK cells, while no transport was observed for PFASs in OAT2-transduced HEK cells. In OAT3-
+OAT2
+OAT3                                                     transduced HEK cells only PFHpA, PFOA, PFNA, and PFHxS showed clear uptake. To study the interaction with
+Molecular modelling                                      the transporters, molecular docking and dynamics simulations were performed for PFHpA and PFHxS, for which
+                                                         a relatively short and long half-lives in humans has been reported, respectively. Docking analyses could not
+                                                         always distinguish the in vitro transported from the non-transported PFASs (PFHpA vs. PFHxS), whereas mo­
+                                                         lecular dynamic simulations could, as only a stable interaction of the PFAS with the inner part of transporter
+                                                         mouth was detected for those that were transported in vitro (PFHpA with OAT1, none with OAT2, and PFHpA and
+                                                         PFHxS with OAT3). Altogether, this study presents in vitro and in silico insight with respect to the selected PFASs
+                                                         transport by the human renal secretory transporters OAT1, OAT2, and OAT3, which provides further under­
+                                                         standing about the differences between the capability of PFAS congeners to accumulate in humans.
+
+
+
+
+1. Introduction                                                                               perfluorooctane sulfonate (PFOS) and perfluorooctanoic acid (PFOA),
+                                                                                              have been restricted due to health and environmental concerns (EU,
+    Perfluoroalkyl carboxylic acids (PFCAs) and perfluoroalkyl sulfonic                       2019, 2020; UNEP, 2009; Zhang et al. 2022). A major issue with PFASs is
+acids (PFSAs) belong to the group of poly- and perfluoroalkyl substances                      their persistence in animals and at an environmental level. Notable
+(PFASs), a widespread class of environmental contaminants capable of                          differences regarding species- and substance-specific kinetics have been
+accumulating in humans (Kashobwe et al. 2024). PFASs are referred to                          reported (Pizzurro et al. 2019). The analysis of data for PFBA, PFOA,
+as ‘fluorinated substances that contain at least one fully fluorinated                        PFBS, PFHxS, and PFOS, pointed to the longer half-lives PFASs with
+methyl or methylene carbon atom (without any H/Cl/Br/I atom                                   8-carbon chains have with respect to the 4-carbon chain ones. Moreover,
+attached to it)’ (OECD, 2021). These chemicals are commonly employed                          PFSAs’ half-lives are longer than those of PFCAs and specifically in
+in a variety of industrial and consumer uses, including electronics,                          humans PFOA, PFHxS, and PFOS exhibit longer half-lives compared to
+firefighting foams, textiles, cosmetics, and food contact materials. Both                     animals (Liu et al. 2024; Pizzurro et al. 2019; Rickard et al. 2022).
+production and use of the best-known and investigated PFASs such as                               PFASs are primarily excreted via bile and urine (Harada et al. 2007;
+
+
+    * Corresponding authors.
+      E-mail addresses: jochem.louisse@efsa.europa.eu (J. Louisse), luca.dellafiora@unipr.it (L. Dellafiora).
+    1
+      current affiliation: European Food Safety Authority, Parma, Italy
+
+https://doi.org/10.1016/j.tox.2024.153961
+Received 29 July 2024; Received in revised form 18 September 2024; Accepted 26 September 2024
+Available online 27 September 2024
+0300-483X/© 2024 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+J. Louisse et al.                                                                                                                             Toxicology 509 (2024) 153961
+
+
+Pizzurro et al. 2019). For various PFASs, such excretion is limited, as                  assessed the in vitro transport of PFOA by both human and rat
+they are highly bound to plasma proteins (Fischer et al. 2024), and there                OAT1/oat1, OAT2/oat2 and OAT3/oat3 showing that PFOA was
+may be subsequent reabsorption in the intestines and the kidney,                         transported by OAT1/oat1 and OAT3/oat3, whereas no transport was
+resulting in long half-lives and accumulation after repeated (daily)                     measured for OAT2/oat2. No data are available on the transport of
+exposure (Cao et al. 2022; Fujii et al. 2015). Factors contributing to the               PFSAs by these OAT transporters.
+prolonged residence time of these PFASs in the body include their                            The integration of in vitro and in silico studies targeting the trans­
+capability to bind to human serum albumin, globulins and plasma pro­                     porter interactions is crucial to enhance our comprehension of PFASs
+teins in general (e.g., (Fischer et al. 2024; Han et al. 2012)), enter­                  kinetics/dynamics in humans. In this respect, this research aims to gain
+ohepatic recirculation (Cao et al. 2022; Fujii et al. 2015), and active                  more insights into the OAT1, OAT2 and OAT3 kinetics for a set of PFASs
+reabsorption by transporter proteins in the kidney (such as OAT4) back                   (PFHpA, PFOA, PFNA, PFBS, PFOS and PFHxS; Fig. 1). Regarding the in
+to bloodstream (Han et al. 2012; Pizzurro et al. 2019). Our previous                     vitro part, cell accumulation studies using both control- and transporter-
+research demonstrated that of the 4 PFCAs (PFHpA, PFOA, PFNA, PFDA)                      transduced human embryonic kidney (HEK) cells were conducted.
+and 3 PFSAs tested (PFBS, PFHxS, PFOS), all but PFBS were transported                    Moreover, the apparent Km, Vmax and transporter efficiency (Vmax/
+in vitro by OAT4.                                                                        Km) were obtained for PFASs showing a > 2-fold increase in cellular
+    Although all being substrates for OAT4, reported half-lives for                      accumulation in transporter-transduced cells. Concerning the in silico
+PFHpA, PFOA, PFHxS, and PFOS largely differ (Table 1). Especially, a                     part, molecular docking and molecular dynamics simulation were car­
+relatively short half-life of PFHpA has been observed compared to the                    ried out in agreement with previous studies (Louisse et al. 2023) to
+others. Of course, although OAT4-mediated reabsorption in the human                      characterize transporter-ligand interactions from a molecular stand­
+kidney might contribute to the long half-life of certain PFASs, other                    point and supply a mechanistic rationale for the in vitro findings.
+kinetic aspects, including binding to plasma proteins and enterohepatic
+recirculation, may also play a role. Apart from transporters involved in                 2. Materials and methods
+reabsorption, it has been reported that certain PFASs are substrates of
+transporter proteins that are implicated in the active secretion of                      2.1. Test chemicals
+chemicals by the kidney, including OAT1, OAT2 and OAT3. Congener-
+specific differences in active secretion could therefore also (partly)                       Sigma-Aldrich (Zwijndrecht, The Netherlands) provided per­
+explain differences in PFASs’ half-lives and related potential to accu­                  fluoroheptanoic acid (PFHpA, 99 % purity), perfluorooctanoic acid
+mulate. Some studies are available in the literature that have assessed                  (PFOA, 95 % purity), perfluorononanoic acid (PFNA, 99 % purity), and
+whether PFASs are OAT1, OAT2 and/or OAT3 substrates. A study by                          perfluorobutane sulfonate (PFBS; 97 % purity) were obtained from
+Weaver and co-workers (Weaver et al. 2010) assessed the transport of                     Sigma-Aldrich. Synquest laboratories (Alachua FL, USA) provided per­
+PFOA, PFHpA, PFNA and PFDA by rat OAT1 and OAT3 in vitro and                             fluorohexane sulfonate (PFHxS, 95 % purity) and perfluorooctane sul­
+showed that PFHpA and PFOA are transported by rat oat1 and PFOA and                      fonate (PFOS, 97 % purity). All stocks were prepared in 100 % dimethyl
+PFNA by rat oat3. Nakagawa and co-workers (Nakagawa et al. 2008)                         sulfoxide (DMSO HybriMax, Sigma-Aldrich) pushing to 0.1 % the final
+
+Table 1
+Apparent Km and Vmax values and related transporter efficiencies (Vmax/Km) of OAT1- or OAT3-mediated cellular uptake of PFASs obtained in the present study.
+Data obtained from three studies (Fig. 4) were analysed using Graphpad Prism version 9.2.0 and are presented as best-fit values and standard errors between brackets.
+For comparison, apparent Km and Vmax values and related transporter efficiencies (Vmax/Km) of OAT4-mediated cellular uptake of PFASs from our previous study
+(Louisse et al. 2023), as well as reported distribution coefficients to human serum and half-lives in humans are also included.
+               OAT1                                 OAT3                                       OAT4                                    Reported             Reported
+                                                                                                                                       distribution         half-life in
+               Km     Vmax        Transporter       Km        Vmax          Transporter        Km      Vmax          Transporter
+                                                                                                                                       coefficients to      humans
+               (µM)   (nmol/      efficiency (µL/   (µM)      (nmol/        efficiency (µL/    (µM)    (nmol/        efficiency (µL/
+                                                                                                                                       human serum          (years)b
+                      min/mg      min/mg                      min/mg        min/mg                     min/mg        min/mg
+                                                                                                                                       (Lw/ Lserum)a
+                      protein)    protein)                    protein)      protein)                   protein)      protein)
+
+  PFHpA        159    3.4 (1.0)   21                367       3.2(1.1)      9                  60      4.5 (0.4)     75                2.5                  0.17c
+               (98)                                 (199)                                      (15)
+  PFOA         185    3.5 (0.9)   19                90(63)    1.5(0.4)      17                 47      4.5 (0.5)     96                2.9                  1.8c, 3.4d,
+               (97)                                                                            (15)                                                         3.8e, 2.8/
+                                                                                                                                                            2.4 f, 4.0 g,
+                                                                                                                                                            3.9 h
+  PFNA         -      -           -                 42(38)    1(0.3)        24                 58      8.5 (0.7)     147               3.0                  NR
+                                                                                               (15)
+  PFBS         -      -           -                 -         -             -                  -       -             -                 ND                   0.12c
+  PFHxS        -      -           -                 778       5.8(8)        8                  92      7.3 (1.0)     79                3.3                  2.9c, 7.1d,
+                                                    (1395)                                     (33)                                                         8.5e, 7.4/
+                                                                                                                                                            4.7 f, 12 g,
+                                                                                                                                                            16 h
+  PFOS         -      -           -                 -         -             -                  48      2.2 (0.4)     46                3.1                  2.9c, 4.6d,
+                                                                                               (24)                                                         5.4e, 4.6/
+                                                                                                                                                            3.1 f, 22 g,
+                                                                                                                                                            3.3 h
+  a
+   Fischer et al. (Fischer et al. 2024);
+  b
+   Studies were selected that contained half-live values of 3 or more of the PFASs tested in the present study;
+ c
+   Xu et al. (Xu et al. 2020): estimated by model;
+ d
+   Olsen et al. (Olsen et al. 2007): median;
+ e
+   Olsen et al. (Olsen et al. 2009): mean;
+ f
+   Li et al. (Li et al. 2018): mean (male/female);
+ g
+   Fu et al. (Fu et al. 2016): median;
+ h
+   Worley et al. (Worley et al. 2017): mean; -: no full kinetic study performed as less than 2-fold transport in transporter transduced cells compared to control cells was
+measured; NR: not reported; ND: could not be determined
+
+                                                                                     2
+J. Louisse et al.                                                                                                              Toxicology 509 (2024) 153961
+
+
+
+
+                                      Fig. 1. 3D and 2D representation of PFASs investigated in the present study.
+
+
+solvent concentrations.                                                        (Shimadzu FCV-11AL); degasser (Shimadzu DGU-20A3); and sample
+                                                                               tray holder (Shimadzu SIL-20 AC XR model). An Acquity BEH-C18
+2.2. In vitro kinetic studies                                                  analytical column (50 × 2.1 mm i.d., 1.7 μm, Waters, Milford, MA,
+                                                                               USA) was used to separate the PFAS at a column temperature of 35◦ C.
+2.2.1. In vitro transport studies                                              Additionally, to isolate and delay interferences out of the LC system a
+    Recombinant baculoviruses with the cDNA of human OAT1, OAT2 or             symmetry C18 analytical column (50 ×2.1 mm i.d., 5 µm, Waters, Mil­
+OAT3 downstream of a cytomegalovirus (CMV) promotor were pro­                  ford, MA, USA) was used as a guard column between the pump and the
+duced as per a previous study (Smeets et al. 2020). A baculovirus with         injector valve. The mobile phase consisted of 2 mM ammonium acetate
+the gene for enhanced yellow fluorescence protein (eYFP) was similarly         (Merck Millipore, Darmstadt, Germany) in Milli-Q water (prepared
+generated and used as a negative control. Additionally, transduction of        using a Milli-Q system with a resistivity of at least 18.2 M Ω cm− 1
+HEK293 cells and uptake assays were carried out according to a previous        (Merck Millipore)) (mobile phase A) and Acetonitrile ULC/MS grade
+study (Smeets et al. 2020). After culture medium removal, cells were           (Actu-All Chemicals, Oss, The Netherlands) (mobile phase B). A total of
+washed with buffer (HBSS plus 10 mM HEPES, pH 7.4). Uptake began by            20 μL were used as injection volume. The chromatographic gradient was
+replacing this solution with 150 µL of fresh transport buffer                  operated at a flow rate of 0.3 mL min− 1 starting from 25 % mobile phase
+(HBSS-HEPES, pH 7.4) supplemented with the PFAS under investigation            B in the first 0.1 min, a linear increase to 100 % B in 6 min with a final
+for 10 min. The reaction was terminated replacing the transport buffer         hold of 2.5 min. The gradient was returned to 25 % B within 0.1 min and
+with 400 µL ice-cold HBSS-HEPES buffer containing 0.5 % BSA (m/v).             held for 3.9 min to equilibrate before the next injection, resulting in a
+Subsequently the cells were washed twice with ice-cold HBSS-HEPES.             total run time of 12.5 min.
+The method reported by Rosenmai and co-workers (Rosenmai et al.                    Detection was achieved by MS/MS using a Sciex QTRAP 5500 system
+2018) was used to determine the PFAS concentration. Specifically, cells        (Sciex, Framingham, MA, USA) in negative electrospray ionization (ESI-
+were solubilized in 250 µL lysis buffer and the cell lysates stored in         ) mode, under the following conditions: ion spray voltage (IS) of
+Eppendorf tubes at − 80 ◦ C. These lysates were thawed prior LC-MS             − 4500 V; curtain gas (CUR) of 30 L h-1; source temperature (TEM) of
+analysis and for quantification of protein concentration.                      350 ◦ C; gas 1 (GS1) of 55 L h− 1; gas 2 (GS2) of 60 L h− 1; and collision
+                                                                               gas (CAD) high. PFASs fragmentation was achieved using collision-
+2.2.2. Sample preparation and LC-MS analysis                                   induced dissociation (CID) with argon as target gas. The analyses were
+   The internal standards (13C4-PFHpA, 13C4-PFOA, 13C5-PFNA, 13C3-             performed in multiple reaction monitoring (MRM) mode, using two
+PFBS, 18O2-PFHxS and 13C4-PFOS; Wellington Laboratories, Canada)               mass transitions per component selected based on the signal abundance
+were dissolved in 850 μL methanol (Actuall Chemicals, Oss, The                 and the transition selectivity. In Table S1 (see Supporting Information),
+Netherlands), added to 50 μL cell lysate, and vortexed prior centrifu­         information on the MRM transitions, de-clustering potential (DP),
+gation at maximum speed for 10 minutes at 4 ◦ C. LC-MS/MS analysis             entrance potential (EP), collision energy (CE) and cell exit potential
+was performed to determine the PFAS concentrations in the supernatant.         (CXP) are presented. The Analyst software was exploited to acquire data
+Some samples were further diluted with methanol containing internal            while their processing was achieved using the MultiQuantTM software
+standards. The LC-MS/MS analysis was performed using a Shimadzu                (Sciex, Framingham, MA, USA).
+UHPLC system (Shimadzu Corporation, Kyoto, Japan) containing: 2
+pumps (LC 20AD xr); column oven (Shimadzu CTO-20AC); pump switch
+
+                                                                           3
+J. Louisse et al.                                                                                                                Toxicology 509 (2024) 153961
+
+
+2.2.3. Protein concentration determination                                       using GROMACS (version 2021.4) (Abraham et al. 2015) with
+    The PFAS cellular content was normalised to cellular protein. For this       CHARMM36 all-atom force field parameters support (Best et al. 2012).
+purpose, 25 µl of each cell lysate was used to determine the protein             Both ligands were processed and parameterized with CHARMM36
+concentration in technical duplicate using the Pierce BCA Protein Assay          all-atom force field using the SwissParam tool (http://www.swissparam.
+Kit (Thermo Scientific, Waltham, MA). Samples were first diluted two             ch) (Zoete et al. 2011). Prior to running the MD simulation, each
+times with lysis buffer directly in a 96-wells plate (PS, F-bottom, clear;       OAT-PFAS complex was embedded into a dipalmitoylphosphatidylcho­
+Greiner Bio-One, Alphen aan de Rijn, The Netherlands). Subsequently a            line (DPCC) membrane using the CHARMM-GUI (Jo et al. 2008) mem­
+BSA standard curve (0.05 – 2 mg/mL in lysis buffer) was included to              brane builder tool (https://www.charmm-gui.org). CHARMM-GUI is an
+obtain the protein quantification of the samples. For the subsequent             online interface designed to facilitate the construction of biologically
+steps the manufacturer’s protocol was followed, and absorbance was               realistic membrane systems. Each input membrane-protein-ligand
+measured using a microplate reader (Synergy™ HT BioTek, Winooski,                complex was solvated with SPCE waters in a cubic periodic boundary
+VT) at 562 nm.                                                                   condition, and counter ions (Na+ and Cl-, 0.1 M) were added to
+                                                                                 neutralize the system. Prior to MD simulation, the minimization and
+2.3. In silico molecular modelling studies                                       equilibration steps provided by CHARMM-GUI were followed. To avoid
+                                                                                 steric clashes an energy minimization with a maximum of 5000 steps
+2.3.1. Data source                                                               was run followed by 250000 steps for isothermal (300 K) and 975000
+    The 3D structure of PFHpA and PFHxS were downloaded in the SDF               steps for isobaric (1 bar) equilibrations. An early-term 12 ns MD pro­
+format from the PubChem database (https://pubchem.ncbi.nlm.nih.                  duction, to monitor the earliest induced-fit movements (300 K with a
+gov) (Kim et al. 2021) (PubChem CID 67818 and 67734, respectively).              coupling time of 0.1 ps and 1 bar with a coupling time of 2.0 ps) was
+A visual check for all atom/bond assignment/geometries was performed             performed.
+using the UCSF Chimera software (version 1.15) (Pettersen et al. 2004).
+The acid group of both ligands was deprotonated as per physiological             3. Results
+conditions. Subsequently, the ligand 3D structures were stored in the
+MOL2 format to perform the following analysis. From the UniProt                  3.1. Kinetic studies in vitro
+database (https://www.uniprot.org) (Bateman et al. 2023) the amino­
+acidic sequence of OAT1 (UniProt ID Q4U2R8), OAT2 (UniProt ID                        First, it was assessed which PFAS congeners were substantially
+Q9Y694) and OAT3 (UniProt ID Q8TCC7) were downloaded as FASTA                    transported by OAT1, OAT2 or OAT3 to select those considered most
+files since no 3D structures were available in the Protein DataBank (PDB;        relevant for further analysis. We exposed transporter-transduced cells
+https://www.rcsb.org) (Berman et al. 2000) at the time of the analysis           and control-transduced cells (lacking transporter) to individual PFASs
+(last database access: 22nd March 2024).                                         (PFHpA, PFOA, PFNA, PFBS, PFOS and PFHxS; 1 µM) for 10 minutes.
+                                                                                 Fig. 2 shows the transport efficiency in transduced cells compared to the
+2.3.2. 3D modelling                                                              control ones. The transport was deemed substantial when at least twice
+    ColabFold (v1.5.5) (Mirdita et al. 2022), an AlphaFold2-based                compared to the control cell line, in agreement with our previous study
+notebook, was used to predict the 3D structures of the human OAT1,               (Louisse et al. 2023). Overall, substantial transport was observed for
+OAT2 and OAT3 starting from their primary sequences (available on                PFHpA and PFOA with OAT1, for PFHpA, PFOA, PFNA and PFHxS with
+UniProt, see above). Briefly, ColabFold as per manufacturer declaration,         OAT3, and for none of the congeners with OAT2 (Fig. 2).
+is an easy-to-use protein structure and complex AlphaFold2 and                       The time-dependent cellular accumulation in transporter-transduced
+Alphafold2-multimer (Jumper et al. 2021) based notebook (https://cola            cells and control-transduced cells was investigated for the PFASs
+b.research.google.com/github/sokrypton/ColabFold/blob/main/Alpha                 demonstrating a substantial transport (i.e. PFHpA, PFOA, PFNA and
+Fold2.ipynb). The 3D structures obtained were reliable at their core and         PFHxS; 10 µM, single exposure) (Fig. 3). This measurement enabled
+at their binding region and considered sufficient to use them for the            setting a proper time-point to accomplish the full kinetics study for the
+following docking and molecular dynamics studies.                                transport of PFHpA and PFOA by OAT1, and PFHpA, PFOA, PFNA and
+                                                                                 PFHxS by OAT3. One-minute exposure was considered the most suitable
+2.3.3. Docking analysis                                                          time point for exposure duration, as this was generally in the linear part
+    The docking analysis was performed using the software GOLD (Ge­              of the cellular uptake that is feasible to perform the incubations and
+netic Optimization for Ligand Docking; version 2022) as it already               collect reliable data for further quantification (Fig. 3).
+succeeded in estimating reliable ligands architectures of binding                    Subsequently, the Michaelis-Menten kinetics for OAT1-mediated
+(Dellafiora et al., 2015a; Dellafiora et al. 2015b). In each system, the         cellular uptake of PFHpA and PFOA, and OAT3-mediated cellular up­
+binding site was defined within a 10 Å-radius sphere centred at the              take of PFNA, PFOA, PFHpA, and PFHxS were determined. OAT1-,
+channel entrance, as previously determined (Louisse et al. 2023). The            OAT3, and control-transduced cells were exposed for 1 minute to
+internal GOLDScore scoring function was used as it proved high reli­             various PFAS concentrations (1, 3, 10, 30, 100 and 300 µM) and cellular
+ability for studying protein–ligand interactions (Pedroni et al. 2023).          amounts were measured. Congener amounts found in control-
+Specifically, positive scores indicate favoured interactions, and the            transduced cells were subtracted from those obtained in OAT1- or
+higher the score, the more plausible the binding architecture, as per            OAT3-transduced cells for each condition to quantify the OAT-mediated
+manufacturer declarations (https://www.ccdc.cam.ac.uk). Ten poses                PFAS cellular absorption. These data were elaborated to obtain the
+were generated for each ligand but only the best scored one was                  apparent Km, Vmax values, and related transporter efficiency values
+considered for the molecular dynamics simulation studies. We applied a           (Vmax/Km) (Table 1). From these studies, the in vitro transport of the
+semi-flexible docking protocol with the fully flexible ligand and the            OAT1 substrates PFHpA and PFOA was remarkably similar, with
+protein’s polar hydrogens free to rotate.                                        transporter efficiencies of 21 and 19 µL/min/mg protein, respectively
+                                                                                 (Table 1 and Fig. 4). Regarding the in vitro transport of OAT3 substrates,
+2.3.4. Molecular dynamics simulation                                             the transporter efficiency of PFNA was the highest (24 µL/min/mg
+   The complexes (i.e. OAT1/2/3-PFHpA/PFHxS) geometrical stability               protein) followed by PFOA (17 µL/min/mg protein), PFHpA (9 µL/min/
+was investigated performing molecular dynamics (MD) simulations, in              mg protein) and PFHxS (8 µL/min/mg protein) (Table 1 and Fig. 5). In
+agreement with our previous study for OAT4 (Louisse et al. 2023). For            general, the transporter efficiencies for OAT1 and OAT3 as measured in
+both ligands, the best scored docking pose in each protein was used as           the present study, were lower than those measured in our previous study
+the starting position during the MD simulations. These were carried out          for OAT4 (Table 1).
+
+                                                                             4
+J. Louisse et al.                                                                                                                         Toxicology 509 (2024) 153961
+
+
+
+
+Fig. 2. Cellular PFAS levels in transporter-transduced cells (OAT1, OAT2 or OAT3) or control-transduced cells (no transporter) upon exposure of cells to a mixture of
+PFASs (1 µM, for 10 minutes). Data are shown as the average (bars) and SEM (error bars) of six replicates from two studies (three replicates per study) per condition.
+
+
+
+
+Fig. 3. Cellular PFAS levels in transporter-transduced cells (OAT1 or OAT3) or control-transduced cells (no transporter) upon exposure of cells to PFHpA, PFOA,
+PFNA, or PFHxS, each at 10 µM, for different exposure durations. Data are shown as the average (circle or square) and SEM (error bars) of three replicates
+per condition.
+
+
+3.2. In silico molecular modelling studies                                            considered (Fig. 6A). Specifically, PFHpA and PFHxS were found ar­
+                                                                                      ranged at the inner site of OAT1 and OAT3, while they both interacted
+    In silico molecular modelling was performed to investigate the                    within OAT2 in an upper part of the extracellular side of the receptor.
+interaction of PFHpA and PFHxS with OAT1, OAT2, and OAT3, gaining                     Except for OAT2, where both ligands were docked far from the inner
+insights into the mechanistic rationale underpinning the observed in                  mouth of the receptor suggesting their effective transport as unlikely,
+vitro outcome. To that end, the ligand-transporter complex stability,                 docking studies could not provide a rationale to explain why PFHxS was
+which previously succeeded in studying PFAS-OAT4 interaction                          not a substrate of OAT1 in vitro, whereas PFHpA was, as they showed a
+(Louisse et al. 2023), was investigated by integrating docking studies                comparable binding pose (Fig. 6A). However, in line with our previous
+and MD simulations. In line with previous evidence on PFAS-OAT4                       study with OAT4 (Louisse et al. 2023) and as shown by the Root-Mean
+interaction (Louisse et al. 2023), docking simulations revealed that                  Squared Analysis (RMSD) of ligands’ trajectories (Fig. 6B), MD simula­
+both ligands could theoretically interact with the three transporters                 tions revealed that only PFASs that are efficiently transported in vitro (i.
+considered. Indeed, they recorded positive scores, which indicated their              e., PFHpA by OAT1, and both PFHpA and PFHxS by OAT3) could stably
+theoretical capability to interact with each transporter (see Materials               interact over time at the respective transporter mouth. This was indi­
+and Methods and Table S2 in the Supporting Information for further                    cated previously as a probative feature preluding the effective in vitro
+details), though with a different arrangement depending on the OAT                    transport of PFASs by OAT4 (Louisse et al. 2023). Conversely, PFHxS
+
+                                                                                  5
+J. Louisse et al.                                                                                                                        Toxicology 509 (2024) 153961
+
+
+
+
+Fig. 4. OAT1-mediated cellular uptake rates of PFHpA, and PFOA. OAT1-transduced cells and control-transduced cells were exposed for 1 minute to a range of PFAS
+concentrations and cellular amounts were determined. Amounts obtained in control-transduced cells were subtracted from amounts obtained in OAT1-transduced
+cells to obtain OAT1-mediated cellular uptake rates. Data are presented as average (circles) and standard error of the mean (error bars) of 6 data points per con­
+dition obtained from 3 independent studies. The Michaelis-Menten equation was fit to the data using Graphpad Prism version 9.2.0 and related kinetic constants
+(apparent Km and Vmax and transporter efficiencies) are presented in Table 1.
+
+
+
+
+Fig. 5. OAT3-mediated cellular uptake rates of PFHpA, PFOA, PFNA and PFHxS. OAT3-transduced cells and control-transduced cells were exposed for 1 minute to a
+range of PFAS concentrations and cellular amounts were determined. Amounts obtained in control-transduced cells were subtracted from amounts obtained in OAT3-
+transduced cells to obtain OAT3-mediated cellular uptake rates. Data are presented as average (circles) and standard error of the mean (error bars) of 6 data points
+per condition obtained from 3 independent studies. The Michaelis-Menten equation was fit to the data using Graphpad Prism version 9.2.0 and related kinetic
+constants (apparent Km and Vmax and transporter efficiencies) are presented in Table 1.
+
+
+within OAT1, as well as PFHpA and PFHxS within OAT2, showed an                       4. Discussion
+early detachment from the initial placement point, which was consid­
+ered to indicate their incapability of being efficiently transported.                   This research gained more insights about the in vitro transport of a set
+
+
+                                                                                 6
+J. Louisse et al.                                                                                                                     Toxicology 509 (2024) 153961
+
+
+
+
+Fig. 6. Molecular modelling results. A) Docking results. Proteins are represented in cartoon, while ligands in surface. The ring indicates the inner part of OATs
+mouth. The black arrows indicate the placement of ligands far from the inner part of the mouth of OAT2. B. RMSD analysis of ligands trajectories over time in MD
+simulations, showing only a stable interaction over time of PFHpA and PFHxS with the transporter mouth of OAT3 and of PFHpA with the transporter mouth
+of OAT1.
+
+
+                                                                                7
+J. Louisse et al.                                                                                                                    Toxicology 509 (2024) 153961
+
+
+of PFASs (i.e. PFHpA, PFOA, PFNA, PFBS, PFHxS and PFOS) applying                   enterohepatic recirculation, Zhao and co-workers (Zhao et al. 2015;
+OAT1-, OAT2- or OAT3-transduced HEK cells, as well as the in silico                Zhao et al. 2017) assessed the interaction of PFASs with transporters in
+interaction of PFHpA and PFHxS with OAT1, OAT2, and OAT3. PFHpA                    hepatocytes and intestinal cells, considered to play a role in the enter­
+and PFOA showed clear uptake in OAT1-transduced HEK cells, whereas                 ohepatic recirculation of PFASs, and various studies have reported on
+PFHpA, PFOA, PFNA, and PFHxS showed clear uptake in OAT3-                          the binding of PFASs to plasma proteins (e.g., ref. (Fischer et al. 2024)).
+transduced HEK cells. In OAT2-transduced HEK cells no PFASs trans­                 Such information may be of use to predict for other PFASs, for which
+port was detected. The docking studies performed for PFHpA and PFHxS               little in vivo information is available, whether they are of concern
+could not distinguish the in vitro transported from non-transported                regarding possible accumulation in humans. Possibly these in vitro data
+PFASs (PFHpS vs. PFHxS). The MD simulations could make this                        may also serve to further train machine learning models that estimate
+distinction, as only a stable interaction of the PFAS with the inner part of       half-lives of PFASs, as recently published by Dawson and co-workers
+transporter mouth was observed for those that were transported in vitro            (Dawson et al. 2023).
+(PFHpA with OAT1, none with OAT2, and PFHpA and PFHxS with                              We performed an in silico study regarding the interaction of PFHpA
+OAT3).                                                                             and PFHxS with OAT1, OAT2, and OAT3. The lack of appreciable PFAS
+    PFAS transport by human OAT1, OAT2 and OAT3 has been studied                   transport by OAT2 observed in vitro was confirmed and explained by the
+before for PFOA by Nakagawa and co-workers (Nakagawa et al. 2008).                 in silico data. Indeed, both compounds were found to be arranged far
+The findings for PFOA in the present study are in line with this report, in        from the inner part of the mouth of OAT2. Of note, a stable interaction in
+which similar transporter efficiencies by OAT1 and OAT3 were found,                the proximity of the inner part of the mouth of OAT4 was previously
+and no transport by OAT2. Transport of PFHpA, PFOA and PFNA has                    described as being related to an efficient transport of PFASs in vitro
+been studied for rat oat1/3 (Weaver et al. 2010). Only PFHpA and PFOA              (Louisse et al. 2023). MD simulations showed the early detachment of
+showed significant transport by rat oat1 (Weaver et al. 2010), being in            both compounds from the protein, further confirming their inability to
+line with our findings for human OAT1. PFHpA, PFOA and PFNA were                   move toward the inner part of the transporter protein. Also, a similar
+substrates for rat oat3 (Weaver et al. 2010), which are also substrates for        transport of these two PFASs observed in vitro by OAT1 and OAT3, and
+human OAT3, as found in the present study. Overall, limited (qualita­              the remarkable difference in transport of these PFASs by OAT1 (clear
+tive) differences in transport of PFHpA, PFOA and PFNA by rat oat1/3               transport for PFHpA, absence of transport for PFHxS) was supported and
+versus human OAT1/3 are expected based on the available in vitro evi­              explained by the in silico study. Indeed, efficiently transported ligands (i.
+dence. The present study is the first to report data of comparative in vitro       e., PFHpA by OAT1, and both PFHpA and PFHxS by OAT3) stably
+transport studies of PFSAs by OAT1/2/3, showing no transport by OAT1               interacted at the respective mouth of the OATs over time, while PFHxS
+and OAT2, and only transport, albeit limited, of PFHxS by OAT3                     within OAT1 did not. Therefore, the lack of a stable interaction at the
+(Table 1).                                                                         inner entrance of the transporter was proposed as a rationale to explain
+    It is of interest to note that the transporter efficiencies for OAT1 and       the incapability of OAT2 to transport PFHpA and PFHxS, and OAT1 to
+OAT3 determined in the present study, are lower than the transporter               transport PFHxS, as observed in vitro.
+efficiencies determined for OAT4 in our previous study (Louisse et al.                  Altogether, this study presents the in vitro and in silico characteriza­
+2023). These findings are in line with the relatively long half-lives re­          tion of the transport of selected PFASs by the human renal secretory
+ported for the PFASs that we have tested, suggesting a possible larger             transporters OAT1, OAT2, and OAT3, which provides information to
+reabsorption of these PFASs from pre-urine compared to their active                increase insights into the (differences) in the accumulation potential of
+secretion. However, it must be noted that a direct comparison of the in            PFAS congeners in humans.
+vitro transporter efficiencies has limitations, as net transport across the
+renal tubular cells depends also on the local (free) concentrations                5. Conclusion
+available in vivo on the apical and basolateral sides and the expression
+levels of the OATs. Furthermore, also other transporter proteins may                    This study assessed via a hybrid in vitro/in silico approach the
+influence renal reabsorption and/or excretion of PFASs.                            interaction of various PFASs, focusing on PFHpA and PFHxS for the in
+    A possible role of OAT1 and OAT3 in the kinetics of and related in­            silico part, with OAT1, OAT2 and OAT3. Despite OAT2 did not show any
+ternal exposure to PFOA has been studied in rats. In PFOA-exposed rats             significant transport activity for the PFASs studied, OAT1 and OAT3
+being co-exposed to probenecid, a reduced renal clearance and higher               showed different patterns of transport preferring certain PFASs than
+serum PFOA concentrations were found, which may suggest a role of                  others. The computational workflow applied here helped in better un­
+OAT1 and OAT3 in PFAS excretion in rats (Kudo et al. 2001). The role of            derstanding the mechanistic rationale underpinning such differences.
+OAT1 and OAT3 in PFAS excretion has also been evaluated for humans                 The study pointed to a key interaction that the PFAS under analysis must
+(Ducatman et al. 2021). In this study data of the C8 Health Project were           have at the inner mouth of the OAT under investigation to be efficiently
+assessed, comparing data from participants using probenecid (n=23)                 recognized and subsequently transported. Moreover, this study high­
+and participants that did not use this drug (n=56554), based on                    lighted the complexity beneath the OAT-PFAS interaction and in the
+self-reported information about pharmaceutical use. The authors                    OATs role in the excretion/reabsorption of such environmental pollut­
+concluded that probenecid was associated with modest, but not statis­              ants. This information on OAT-mediated PFAS transport may concur to
+tically significant increases in serum PFAS concentrations and that there          complete the current understanding of the excretion of PFASs. Specif­
+was no clear evidence to suggest that probenecid affected PFAS clear­              ically, besides providing mechanistic insights about the PFASs renal
+ance. It is of interest to note that probenecid has also been reported to be       elimination/re-uptake, the identification of specific OATs involved in
+an inhibitor of OAT4 (Morrissey et al. 2012), thereby possibly also                the transport of certain PFASs may provide information to foresee
+reducing OAT4-mediated PFAS reabsorption in the kidney and                         possible drug interactions which may affect the PFASs fate in terms of
+hampering in vivo assessment of the sole role of OAT1 and OAT3 in PFAS             renal elimination and re-uptake worth of future dedicated in­
+excretion.                                                                         vestigations. At the same time, further analysis should address the inter-
+    The long half-lives of certain PFASs relate, amongst others, to their          individual variability of such transporters to tackle the study of PFASs
+extensive binding to plasma proteins, their enterohepatic recirculation,           toxicokinetics from an individual standpoint allowing, e.g., to identify
+and their reabsorption in the kidney (Cao et al. 2022; Fischer et al. 2024;        subjects/population sub-groups with a faster/slower PFASs elimination
+Fujii et al. 2015; Han et al. 2012; Pizzurro et al. 2019). Kinetic infor­          rate. Overall, this research gave more insights into the understanding of
+mation on these processes can be obtained using in vitro and in silico             PFASs kinetics setting the ground for more informed and focused
+studies, as done in the present and our previous study for                         studies.
+transporter-mediated reabsorption in the kidney. Regarding
+
+                                                                               8
+J. Louisse et al.                                                                                                                                                  Toxicology 509 (2024) 153961
+
+
+CRediT authorship contribution statement                                                            Best, R., Zhu, X., Shim, J., Lopes, P., Mittal, J., Feig, M., Mackerell, A., 2012.
+                                                                                                         Optimization of the additive CHARMM all-atom protein force field targeting
+                                                                                                         improved sampling of the backbone φ, ψ and side-chain χ(1) and χ(2) dihedral
+    Lorenzo Pedroni: Writing – review & editing, Software, Investiga­                                    angles. J. Chem. Theory Comput. 8, 3257–3273.
+tion. Jochem Louisse: Writing – original draft, Project administration,                             Cao, H., Zhou, Z., Hu, Z., Wei, C., Li, J., Wang, L., Liu, G., Zhang, J., Wang, Y., Wang, T.,
+Methodology, Funding acquisition, Conceptualization. Luca Dellafiora:                                    Liang, Y., 2022. Effect of Enterohepatic Circulation on the Accumulation of Per- and
+                                                                                                         Polyfluoroalkyl Substances: Evidence from Experimental and Computational Studies.
+Writing – original draft, Project administration, Methodology, Funding                                   Environ. Sci. Technol. 56, 3214–3224.
+acquisition, Conceptualization. Annelies Noorlander: Writing – review                               Dawson, D., Lau, C., Pradeep, P., Sayre, R., Judson, R., Tornero-Velez, R., Wambaugh, J.,
+& editing. Liz Leenders: Writing – review & editing, Investigation.                                      2023. A machine learning model to estimate toxicokinetic half-lives of per- and
+                                                                                                         polyfluoro-alkyl substances (PFAS) in multiple species. Toxics 11, 98.
+Deborah Rijkers: Writing – review & editing, Investigation. Jeroen J.                               Dellafiora, L., Galaverna, G., Dall’Asta, C., Cozzini, P., 2015. a. Hazard identification of
+M.W. van den Heuvel: Writing – review & editing, Investigation. Ans                                      cis/trans-zearalenone through the looking-glass. Food Chem. Toxicol. 86, 65–71.
+Punt: Writing – review & editing, Funding acquisition, Conceptualiza­                               Dellafiora, L., Marchetti, M., Spyrakis, F., Orlandi, V., Campanini, B., Cruciani, G.,
+                                                                                                         Cozzini, P., Mozzarelli, A., 2015b. Expanding the chemical space of human serine
+tion. Jan B. Koenderink: Writing – review & editing, Methodology,                                        racemase inhibitors. Bioorg. Med Chem. Lett. 25, 4297–4303.
+Conceptualization. Frans G.M. Russel: Writing – review & editing.                                   Ducatman, A., Luster, M., Fletcher, T., 2021. Perfluoroalkyl substance excretion: effects
+                                                                                                         of organic anion-inhibiting and resin-binding drugs in a community setting. Environ.
+                                                                                                         Toxicol. Pharm. 85, 103650.
+Declaration of Competing Interest                                                                   EU. 2019. Regulation (EU) 2019/1021 of the European Parliament and of the Council of
+                                                                                                         20 June 2019 on persistent organic pollutants (recast). Off J EU 25.6.2019, L 169/
+    The authors declare that they have no known competing financial                                      145.
+                                                                                                    EU. 2020. Commission Delegated Regulation (EU) 2020/784 of 8 April 2020 amending
+interests or personal relationships that could have appeared to influence
+                                                                                                         Annex I to Regulation (EU) 2019/1021 of the European Parliament and of the
+the work reported in this paper.                                                                         Council as regards the listing of perfluorooctanoic acid (PFOA), its salts and PFOA-
+                                                                                                         related compounds. Off J EU 15.6.2020, L 188 I/181.
+Data Availability                                                                                   Fischer, F., Ludtke, S., Thackray, C., Pickard, H., Haque, F., Dassuncao, C., Endo, S.,
+                                                                                                         Schaider, L., Sunderland, E., 2024. Binding of per- and polyfluoroalkyl substances
+                                                                                                         (PFAS) to serum proteins: implications for toxicokinetics in humans. Environ. Sci.
+    Data will be made available on request.                                                              Technol. 58, 1055–1063.
+                                                                                                    Fu, J., Gao, Y., Cui, L., Wang, T., Liang, Y., Qu, G., Yuan, B., Wang, Y., Zhang, A.,
+                                                                                                         Jiang, G., 2016. Occurrence, temporal trends, and half-lives of perfluoroalkyl acids
+Acknowledgements                                                                                         (PFAAs) in occupational workers in China. Sci. Rep. 6, 38039.
+                                                                                                    Fujii, Y., Niisoe, T., Harada, K., Uemoto, S., Ogura, Y., Takenaka, K., Koizumi, A., 2015.
+    The work was supported by the Dutch Ministry of Agriculture, Na­                                     Toxicokinetics of perfluoroalkyl carboxylic acids with different carbon chain lengths
+                                                                                                         in mice and humans. J. Occup. Health 57, 1–12.
+ture and Food Quality (project KB-37–002–010). Also, this work has                                  Han, X., Nabb, D., Russell, M., Kennedy, G., Rickard, R., 2012. Renal elimination of
+been carried out in the frame of the ALIFAR project, funded by the                                       perfluorocarboxylates (PFCAs). Chem. Res Toxicol. 25, 35–46.
+Italian Ministry of University through the program ‘Dipartimenti di                                 Harada, K., Hashida, S., Kaneko, T., Takenaka, K., Minata, M., Inoue, K., Saito, N.,
+                                                                                                         Koizumi, A., 2007. Biliary excretion and cerebrospinal fluid partition of
+Eccellenza 2023–2027’.                                                                                   perfluorooctanoate and perfluorooctane sulfonate in humans. Environ. Toxicol.
+                                                                                                         Pharm. 24, 134–139.
+Disclaimer                                                                                          Jo, S., Kim, T., Iyer, V., Im, W., 2008. CHARMM-GUI: a web-based graphical user
+                                                                                                         interface for CHARMM. J. Comput. Chem. 29, 1859–1865.
+                                                                                                    Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O.,
+    Jochem Louisse is now employed with the European Food Safety                                         Tunyasuvunakool, K., Bates, R., Žídek, A., Potapenko, A., Bridgland, A., Meyer, C.,
+Authority (EFSA). The positions and opinions presented in this article                                   Kohl, S., Ballard, A., Cowie, A., Romera-Paredes, B., Nikolov, S., Jain, R., Adler, J.,
+                                                                                                         Back, T., Petersen, S., Reiman, D., Clancy, E., Zielinski, M., Steinegger, M.,
+are those of the author alone and do not necessarily represent the views/
+                                                                                                         Pacholska, M., Berghammer, T., Bodenstein, S., Silver, D., Vinyals, O., Senior, A.,
+any official position or scientific works of EFSA. The other authors have                                Kavukcuoglu, K., Kohli, P., Hassabis, D., 2021. Highly accurate protein structure
+nothing to declare.                                                                                      prediction with AlphaFold. Nature 596, 583–589.
+                                                                                                    Kashobwe, L., Sadrabadi, F., Brunken, L., Coelho, A., Sandanger, T.M., Braeuning, A.,
+                                                                                                         Buhrke, T., Öberg, M., Hamers, T., Leonards, P.E.G., 2024. Legacy and alternative
+Appendix A. Supporting information                                                                       perand polyfluoroalkyl substances (PFAS) alter the lipid profile of HepaRG cells.
+                                                                                                         Toxicology 506.
+   Supplementary data associated with this article can be found in the                              Kim, S., Chen, J., Cheng, T., Gindulyte, A., He, J., He, S., Li, Q., Shoemaker, B.,
+                                                                                                         Thiessen, P., Yu, B., Zaslavsky, L., Zhang, J., Bolton, E., 2021. PubChem in 2021:
+online version at doi:10.1016/j.tox.2024.153961.                                                         new data content and improved web interfaces. Nucleic Acids Res 49. D1388-D1395.
+                                                                                                    Kudo, N., Suzuki, E., Katakura, M., Ohmori, K., Noshiro, R., Kawashima, Y., 2001.
+References                                                                                               Comparison of the elimination between perfluorinated fatty acids with different
+                                                                                                         carbon chain length in rats. Chem. Biol. Inter. 134, 203–216.
+                                                                                                    Li, Y., Fletcher, T., Mucs, D., Scott, K., Lindh, C., Tallving, P., Jakobsson, K., 2018. Half-
+Abraham, M., Murtola, T., Schulz, R., Páll, S., Smith, J., Hess, B., Lindahl, E., 2015.
+                                                                                                         lives of PFOS, PFHxS and PFOA after end of exposure to contaminated drinking
+    GROMACS: high performance molecular simulations through multi-level parallelism
+                                                                                                         water. Occup. Environ. Med 75, 46–51.
+    from laptops to supercomputers. SoftwareX 1–2 19–25.
+                                                                                                    Liu, W.S., Liang, S.S., Cheng, M.M., Wu, M.T., Li, S.Y., Cheng, T.T., Liu, T.Y., Tsai, C.Y.,
+Bateman, A., Martin, M.J., Orchard, S., Magrane, M., Ahmad, S., Alpi, E., Bowler-
+                                                                                                         Lai, Y.T., Lin, C.H., Wang, H.T., Tsou, H.H., 2024. How renal toxins respond to renal
+    Barnett, E.H., Britto, R., Cukura, A., Denny, P., Dogan, T., Ebenezer, T., Fan, J.,
+                                                                                                         function deterioration and oral toxic adsorbent in pH-controlled releasing capsule.
+    Garmiri, P., Gonzales, L.J.D., Hatton-Ellis, E., Hussein, A., Ignatchenko, A.,
+                                                                                                         Environ. Toxicol.
+    Insana, G., Ishtiaq, R., Joshi, V., Jyothi, D., Kandasaamy, S., Lock, A., Luciani, A.,
+                                                                                                    Louisse, J., Dellafiora, L., van den Heuvel, J., Rijkers, D., Leenders, L., Dorne, J., Punt, A.,
+    Lugaric, M., Luo, J., Lussi, Y., MacDougall, A., Madeira, F., Mahmoudy, M.,
+                                                                                                         Russel, F., Koenderink, J., 2023. Perfluoroalkyl substances (PFASs) are substrates of
+    Mishra, A., Moulang, K., Nightingale, A., Pundir, S., Qi, G.Y., Raj, S., Raposo, P.,
+                                                                                                         the renal human organic anion transporter 4 (OAT4). Arch. Toxicol. 97, 685–696.
+    Rice, D.L., Saidi, R., Santos, R., Speretta, E., Stephenson, J., Totoo, P., Turner, E.,
+                                                                                                    Mirdita, M., Schütze, K., Moriwaki, Y., Heo, L., Ovchinnikov, S., Steinegger, M., 2022.
+    Tyagi, N., Vasudev, P., Warner, K., Watkins, X., Zellner, H., Bridge, A.J., Aimo, L.,
+                                                                                                         ColabFold: making protein folding accessible to all. Nat. Methods 19, 679–682.
+    Argoud-Puy, G.L., Auchincloss, A.H., Axelsen, K.B., Bansal, P., Baratin, D., Neto, T.
+                                                                                                    Morrissey, K., Wen, C., Johns, S., Zhang, L., Huang, S., Giacomini, K., 2012. The UCSF-
+    M.B., Blatter, M.C., Bolleman, J.T., Boutet, E., Breuza, L., Gil, B.C., Casals-Casas, C.,
+                                                                                                         FDA transportal: a public drug transporter database. Clin. Pharm. Ther. 92, 545–546.
+    Echioukh, K.C., Coudert, E., Cuche, B., de Castro, E., Estreicher, A., Famiglietti, M.L.,
+                                                                                                    Nakagawa, H., Hirata, T., Terada, T., Jutabha, P., Miura, D., Harada, K., Inoue, K.,
+    Feuermann, M., Gasteiger, E., Gaudet, P., Gehant, S., Gerritsen, V., Gos, A.,
+                                                                                                         Anzai, N., Endou, H., Inui, K., Kanai, Y., Koizumi, A., 2008. Roles of organic anion
+    Gruaz, N., Hulo, C., Hyka-Nouspikel, N., Jungo, F., Kerhornou, A., Le Mercier, P.,
+                                                                                                         transporters in the renal excretion of perfluorooctanoic acid. Basic Clin. Pharm.
+    Lieberherr, D., Masson, P., Morgat, A., Muthukrishnan, V., Paesano, S., Pedruzzi, I.,
+                                                                                                         Toxicol. 103, 1–8.
+    Pilbout, S., Pourcel, L., Poux, S., Pozzato, M., Pruess, M., Redaschi, N., Rivoire, C.,
+                                                                                                    OECD, 2021. Reconciling Terminology of the Universe of Per- and Polyfluoroalkyl
+    Sigrist, C.J.A., Sonesson, K., Arighi, C.N., Armin-ski, L., Chen, C.M., Chen, Y.X.,
+                                                                                                         Substances: Recommendations and Practical Guidance. In: Series on Risk
+    Huang, H.Z., Laiho, K., McGarvey, P., Natale, D.A., Ross, K., Vinayaka, C.R.,
+                                                                                                         Management No, 61. ENV/CBC/MONO, p. 25.
+    Wang, Q.H., Wang, Y.Q., Zhang, J., Bye-A-Jee, H., Zaru, R., Sundaram, S., Wu, C.H.,
+                                                                                                    Olsen, G., Burris, J., Ehresman, D., Froehlich, J., Seacat, A., Butenhoff, J., Zobel, L., 2007.
+    UniProt, C., 2023. UniProt: the universal protein knowledgebase in 2023. Nucleic
+                                                                                                         Half-life of serum elimination of perfluorooctanesulfonate,
+    Acids Res. 51 D523–D531.
+                                                                                                         perfluorohexanesulfonate, and perfluorooctanoate in retired fluorochemical
+Berman, H., Westbrook, J., Feng, Z., Gilliland, G., Bhat, T., Weissig, H., Shindyalov, I.,
+                                                                                                         production workers. Environ. Health Perspect. 115, 1298–1305.
+    Bourne, P., 2000. The protein data bank. Nucleic Acids Res 28, 235–242.
+
+
+                                                                                                9
+J. Louisse et al.                                                                                                                                               Toxicology 509 (2024) 153961
+
+Olsen, G., Chang, S., Noker, P., Gorman, G., Ehresman, D., Lieder, P., Butenhoff, J., 2009.        Weaver, Y., Ehresman, D., Butenhoff, J., Hagenbuch, B., 2010. Roles of rat renal organic
+    A comparison of the pharmacokinetics of perfluorobutanesulfonate (PFBS) in rats,                   anion transporters in transporting perfluorinated carboxylates with different chain
+    monkeys, and humans. Toxicology 256, 65–74.                                                        lengths. Toxicol. Sci. 113, 305–314.
+Pedroni, L., Dorne, J., Dall’Asta, C., Dellafiora, L., 2023. An in silico insight on the           Worley, R., Moore, S., Tierney, B., Ye, X., Calafat, A., Campbell, S., Woudneh, M.,
+    mechanistic aspects of gelsenicine toxicity: a reverse screening study pointing to the             Fisher, J., 2017. Per- and polyfluoroalkyl substances in human serum and urine
+    possible involvement of acetylcholine binding receptor. Toxicol. Lett. 386, 1–8.                   samples from a residentially exposed community. Environ. Int 106, 135–143.
+Pettersen, E., Goddard, T., Huang, C., Couch, G., Greenblatt, D., Meng, E., Ferrin, T.,            Xu, Y., Fletcher, T., Pineda, D., Lindh, C., Nilsson, C., Glynn, A., Vogs, C., Norström, K.,
+    2004. UCSF chimera—a visualization system for exploratory research and analysis.                   Lilja, K., Jakobsson, K., Li, Y., 2020. Serum half-lives for short- and long-chain
+    J. Comput. Chem. 25, 1605–1612.                                                                    perfluoroalkyl acids after ceasing exposure from drinking water contaminated by
+Pizzurro, D., Seeley, M., Kerper, L., Beck, B., 2019. Interspecies differences in                      firefighting foam. Environ. Health Perspect. 128, 77004.
+    perfluoroalkyl substances (PFAS) toxicokinetics and application to health-based                Zhang, P.P., Qi, C.Y., Ma, Z.N., Wang, Y.X., Zhang, L., Hou, X.J., 2022. Perfluorooctanoic
+    criteria. Regul. Toxicol. Pharm. 106, 239–250.                                                     acid exposure in vivo perturbs mitochondrial metabolic during oocyte maturation.
+Rickard, B.P., Rizvi, I., Fenton, S.E., 2022. Per- and poly-fluoroalkyl substances (PFAS)              Environ. Toxicol. 37, 2965–2976.
+    and female reproductive outcomes: PFAS elimination, endocrine-mediated effects,                Zhao, W., Zitzow, J., Ehresman, D., Chang, S., Butenhoff, J., Forster, J., Hagenbuch, B.,
+    and disease. Toxicology 465.                                                                       2015. Na+/taurocholate cotransporting polypeptide and apical sodium-dependent
+Rosenmai, A., Ahrens, L., le Godec, T., Lundqvist, J., Oskarsson, A., 2018. Relationship               bile acid transporter are involved in the disposition of perfluoroalkyl sulfonates in
+    between peroxisome proliferator-activated receptor alpha activity and cellular                     humans and rats. Toxicol. Sci. 146, 363–373.
+    concentration of 14 perfluoroalkyl substances in HepG2 cells. J. Appl. Toxicol. 38,            Zhao, W., Zitzow, J., Weaver, Y., Ehresman, D., Chang, S., Butenhoff, J., Hagenbuch, B.,
+    219–226.                                                                                           2017. Organic anion transporting polypeptides contribute to the disposition of
+Smeets, N., Litjens, C., van den Heuvel, J., van Hove, H., van den Broek, P., Russel, F.,              perfluoroalkyl acids in humans and rats. Toxicol. Sci. 156, 84–95.
+    Koenderink, J., de Wildt, S., 2020. Completing the enalaprilat excretion pathway-              Zoete, V., Cuendet, M., Grosdidier, A., Michielin, O., 2011. SwissParam: a fast force field
+    renal handling by the proximal tubule. Pharmaceutics 12, 935.                                      generation tool for small organic molecules. J. Comput. Chem. 32, 2359–2368.
+UNEP. 2009. Recommendations of the Persistent Organic Pollutants Review Committee
+    of the Stockholm Convention to amend Annexes A, B or C of the Convention. UNEP/
+    POPS/COP.4/17.
+
+
+
+
+                                                                                              10
+

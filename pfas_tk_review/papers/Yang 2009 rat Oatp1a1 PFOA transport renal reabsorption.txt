@@ -1,0 +1,632 @@
+                                                                   Toxicology Letters 190 (2009) 163–171
+
+
+
+                                                              Contents lists available at ScienceDirect
+
+
+                                                                    Toxicology Letters
+                                               journal homepage: www.elsevier.com/locate/toxlet
+
+
+
+
+Organic anion transporting polypeptide (Oatp) 1a1-mediated
+perﬂuorooctanoate transport and evidence for a renal reabsorption
+mechanism of Oatp1a1 in renal elimination of perﬂuorocarboxylates in rats
+Ching-Hui Yang, Kyle P. Glover, Xing Han ∗
+DuPont Haskell Global Centers for Health & Environmental Sciences, Newark, DE, USA
+
+
+
+
+a r t i c l e        i n f o                           a b s t r a c t
+
+Article history:                                       Organic anion transporting polypeptide (Oatp) 1a1 has been hypothesized to play a key role in rat renal
+Received 2 June 2009                                   reabsorption of perﬂuorooctanoate (PFO). We have investigated PFO uptake kinetics in Chinese Hamster
+Received in revised form 6 July 2009                   Ovary (CHO) cells that have been stably transfected with the cDNA encoding Oatp1a1. The Oatp1a1-
+Accepted 7 July 2009
+                                                       expressing CHO cells have been validated by their Oatp1a1 gene expression, estrone-3-sulfate (E3S)
+Available online 16 July 2009
+                                                       uptake kinetics, and the correlation between Oatp1a1 gene expression and E3S uptake activity that were
+                                                       both induced by the treatment of sodium butyrate. Oatp1a1-mediated PFO uptake underwent a saturable
+Keywords:
+                                                       process with a Km value of 162.2 ± 20.2 ␮M, which was effectively inhibited by known Oatp1a1 substrates
+Perﬂuorooctanoic acid
+Perﬂuorooctanoate
+                                                       sulfobromophthalein and taurocholate, and a major ﬂavonoid in grapefruit juice, naringin. The inhibition
+Perﬂuorocarboxylate                                    of Oatp1a1-mediated E3S uptake has been compared for linear perﬂuorocarboxylates with carbon chain
+PFOA                                                   lengths ranged from 4 to 12. There was no apparent inhibition by perﬂuorobutanoate and perﬂuoropen-
+Oatp1a1                                                tanoate at 1 mM. Inhibition was observed for perﬂuorohexanoate at 1 mM and the level of inhibition
+Tubular reabsorption                                   increased as the increase of the chain length up to perﬂuorodecanoate. The values of apparent inhibition
+                                                       constant (Ki,app ) were determined for perﬂuorocarboxylates with chain lengths between 6 and 10. The log
+                                                       values of Ki,app exhibited a negative linear relationship to the chain lengths and a positive linear relation-
+                                                       ship to the log values of the total clearance of perﬂuorocarboxylates in male rats. This in vitro-to-in vivo
+                                                       correlation strongly supports a tubular reabsorptive role of Oatp1a1 in rat renal elimination of perﬂuoro-
+                                                       carboxylates. Due to the sex-dependent expression of Oatp1a1 in rat kidney, Oatp1a1-mediated tubular
+                                                       reabsorption is suggested to be the mechanism for the sex-dependent renal elimination of PFO in rats.
+                                                                                                                    © 2009 Elsevier Ireland Ltd. All rights reserved.
+
+
+
+1. Introduction                                                                         (Vanden Heuvel et al., 1991; Kudo et al., 2001; Ohmori et al., 2003).
+                                                                                        The biological half-lives of PFO in experimental animals were con-
+     Perﬂuorooctanoic acid (PFOA) is a commercially important ﬂu-                       siderably shorter than those in humans, and showed signiﬁcant
+orochemical that has been used primarily in an ammonium salt                            interspecies variation (Hundley et al., 2006) and gender differences
+form as a surface-active agent in the production of various ﬂuo-                        (Vanden Heuvel et al., 1991; Kudo et al., 2001, 2002; Ohmori et al.,
+ropolymers. Under physiological conditions, PFOA is primarily in                        2003; Hundley et al., 2006). In rats, PFO was cleared by the kid-
+its deprotonated form as perﬂuorooctanoate (PFO). PFO (or PFOA)                         ney more than 20 times faster in females than in males (Kemper,
+has been a subject of intensive research regards to its potential in                    2003; Wambaugh et al., 2008). This sex-dependent renal clearance
+mammalian toxicities and environmental persistence (Kennedy et                          of PFO was hypothesized to be a result of sex-related differences in
+al., 2004; Prevedouros et al., 2006; Lau et al., 2007; Andersen et al.,                 rat renal transport of PFO (Kudo et al., 2002; Sabolic et al., 2007;
+2008).                                                                                  Andersen et al., 2008).
+     Serum half-life of PFO in human was estimated to be approx-                            In rat kidney, organic anion transporting polypeptide (Oatp)
+imately 3.5 years (Olsen et al., 2007). In experimental animals,                        1a1 is expressed at the brush-border (apical) membrane of the S3
+PFO was shown to be metabolically inert, distributed mainly to                          segment of the proximal tubule of the outer medulla (Bergwerk
+the liver and plasma, and excreted primarily via the urinary route                      et al., 1996). Oatp1a1 mediates sodium-independent transport of
+                                                                                        a wide range of amphipathic organic compounds including bile
+                                                                                        salts, organic dyes, steroid conjugates, thyroid hormones, anionic
+                                                                                        oligopeptides, numerous drugs, and other xenobiotic substances
+  ∗ Corresponding author at: DuPont Haskell Global Centers for Health & Environ-
+                                                                                        (Jacquemin et al., 1994; Eckhardt et al., 1999; Shitara et al., 2002;
+mental Sciences, P.O. Box 50, 1090 Elkton Road, Newark, DE 19714, USA.
+Tel.: +1 302 451 5808; fax: +1 302 451 3568.                                            Hata et al., 2003). The expression of Oatp1a1 in rat kidney is in
+     E-mail address: xing.han@usa.dupont.com (X. Han).                                  favor of the males. Based on separate reports, Oatp1a1 mRNA level
+
+0378-4274/$ – see front matter © 2009 Elsevier Ireland Ltd. All rights reserved.
+doi:10.1016/j.toxlet.2009.07.011
+164                                                       C.-H. Yang et al. / Toxicology Letters 190 (2009) 163–171
+
+
+was 5.8-fold (Lu et al., 1996) or approximately 20-fold (Kudo et al.,                    CTTAAGGGAAACAATCAGAAGAACACCATGG-3 and the reverse primer containing a
+2002; Li et al., 2002) higher in the male rat kidney than that in the                    XhoI site (in bold), 5 -CTCGAGTCATTACAGCTTCGTTTTCAGTTCTC-3 based on the
+                                                                                         original sequence published by Jacquemin et al. (1994) (GenBank/EMBL accession
+female’s. Oatp1a1 protein expression level in rat kidney has also
+                                                                                         number NM 017111). The resulting PCR products were T/A cloned into the pCR-
+been conﬁrmed to be much higher in the male than that in the                             XL-TOPO vector (Invitrogen) for sequencing veriﬁcation. The Oatp1a1 cDNA insert
+female (Gotoh et al., 2002). Oatp1a1 expression in rat kidney is also                    was then subcloned between AﬂII and XhoI in a mammalian expression vector,
+regulated by sex hormones. Castration of male rats produced a dra-                       pcDNA3.1(+) (Invitrogen). The pcDNA3.1(+)/Oatp1a1 recombinant construct was
+matic drop in the steady-state level of Oatp1a1 transcripts, which                       ampliﬁed in Escherichia coli TOP10 and the plasmid DNA was puriﬁed using EndoFree
+                                                                                         Plasmid Maxi Kit (Qiagen, Valencia, CA).
+was restored to normal by testosterone replacement (Lu et al., 1996;
+Gotoh et al., 2002). Considering the fact that PFO renal clearance
+                                                                                         2.3. Cell culture and stable transfection
+was signiﬁcantly lower in male rats, dramatically enhanced as a
+result of castration, and further reduced by testosterone admin-                             CHO cells (American Type Culture Collections) were grown in McCoy’s 5A
+istration (Kudo et al., 2002), it is logical to assume a potential                       medium (Mediatech) supplemented with 10% (v/v) fetal bovine serum (Invitrogen)
+reabsorptive role of Oatp1a1 in PFO renal transport, which could be                      and 100 units/ml penicillin and 0.1 mg/ml streptomycin at 37 ◦ C in a 90% humid-
+                                                                                         iﬁed atmosphere with 5% CO2 . Cells were transfected with pcDNA3.1(+)/Oatp1a1
+responsible for the sex-dependent renal elimination of PFO in rats.
+                                                                                         or pcDNA3.1(+) vector alone plasmid DNAs using SuperFect Transfection Reagent
+Additional supporting information for this hypothesis is available                       (Qiagen) according to the manufacturer’s instructions. Stable transfectants were
+for several other compounds reported in the literature. Signiﬁcantly                     selected in the medium containing 400 ␮g/ml G418 sulfate (Calbiochem, San Diego,
+higher renal clearance in female rats has been demonstrated for                          CA). Single clones of CHO/Oatp1a1 were isolated by diluting cells at 0.5 cell/200 ␮l
+                                                                                         of medium and plating 200 ␮L per well in a 96-well culture plate, and tested for
+the bile acid taurocholate, the steroid conjugate estradiol 17␤-d-                       3
+                                                                                           H-E3S uptake activities. The clone (clone # 4) exerting the highest E3S transport
+glucuronide, and the drug zenarestat (Gotoh et al., 2002; Kato et al.,                   activity among 30 picked clones was used for all further assays.
+2002). These compounds are all substrates of Oatp1a1 and their sex-
+dependent renal clearance differences have all been attributed to                        2.4. Reverse-transcription PCR
+the reabsorption mechanism mediated by rat renal Oatp1a1 (Gotoh
+et al., 2002; Kato et al., 2002). Katakura et al. (2007) has shown the                       The incorporation of Oatp1a1 gene into the CHO cell genome was conﬁrmed
+                                                                                         by reverse-transcription PCR. Total RNA isolation of Oatp1a1-expressing cells and
+preference of PFO uptake in Oatp1a1 cRNA-injected Xenopus laevis
+                                                                                         vector-transfected control cells were carried out using TRIzol Reagent (Invitro-
+oocytes in relative to the water-injected control cells. Unfortunately,                  gen) based on the manufacturer’s instruction. Three and a half micrograms of
+kinetic details of Oatp1a1-mediated PFO transport are not yet avail-                     puriﬁed RNA were utilized for the synthesis of single-stranded cDNA in a 20 ␮l
+able. Therefore, further investigation on PFO transport activity via                     reaction using a reverse-transcription PCR kit from Invitrogen (SuperScript First-
+Oatp1a1 at the molecular and cellular levels would greatly help to                       Strand Synthesis System). Oatp1a1 gene was ampliﬁed using 2 ␮l of the cDNA or
+                                                                                         50 ng pcDNA3.1(+)/Oatp1a1 plasmid DNA (positive control) in a 50 ␮l PCR reaction
+elucidate the role(s) of Oatp1a1 in rat renal elimination of PFO.
+                                                                                         with the primer set that has been described in the above method session “Oatp1a1
+    In the present study, we have stably transfected the cDNA                            Plasmid Construct”. PCR products were analyzed by 1% agarose gel electrophoresis.
+encoding rat Oatp1a1 gene into Chinese Hamster Ovary (CHO)
+cells and characterized the Oatp1a1-expressing CHO cells by                              2.5. Quantitative real-time PCR
+reverse-transcription PCR, real-time PCR, and uptake kinetics of a
+known Oatp1a1 substrate, estrone-3-sulfate (E3S). We have stud-                               Total RNA was isolated from Oatp1a1-expressing or vector-transfected control
+                                                                                         cells using TRIzol Reagent (Invitrogen) based on the manufacturer’s instruction.
+ied PFO time- and concentration-dependent uptake kinetics in
+                                                                                         Two micrograms of puriﬁed RNA were used for the single-stranded cDNA synthe-
+the Oatp1a1-expressing CHO cells and the inhibition of Oatp1a1-                          sis in a 20-␮l reaction. Relative quantiﬁcation of the target gene expression was
+mediated uptake by known substrates of organic anion transporters                        obtained with the Power SYBR Green PCR Master Mix using an ABI Prism 7000
+(Oats) and Oatps. Because perﬂuorocarboxylates in general showed                         Sequence Detection system (Applied Biosystems, Foster City, CA). Gene expression
+                                                                                         data were analyzed using ABI Prism 7000 SDS software version 1.1 with the RQ
+chain length-dependent renal elimination in rats (Kudo et al., 2001;
+                                                                                         Study Add On (Applied Biosystems). Reactions were carried out in triplicates, each
+Ohmori et al., 2003; Andersen et al., 2008), we have also studied the                    contained 1 ␮l of cDNA and primer sets of 5 -CAAAGGAGTTCAGCACCAACTACA-3 and
+inhibition of Oatp1a1-mediated E3S uptake by various perﬂuoro-                           5 -TCGTTGAGCAGCTACACCTTGT-3 to amplify the Oatp1a1 gene, or primer sets of 5 -
+carboxylates at different chain lengths (from 4 to 12). The intent                       AGAAGGTGGTGAAGCAGGCAT-3 and 5 -AGGTCCACCACTCTGTTGCTGT-3 to amplify
+of this work was to improve our current understanding of Oatp1a1                         the GAPDH gene as an endogenous control.
+transport activity towards PFO and its role in renal elimination of
+PFO in vivo.                                                                             2.6. Uptake kinetics and inhibition
+
+                                                                                              Oatp1a1-expressing or vector-transfected control CHO cells were seeded in 12-
+2. Methods                                                                               well plates at a density of 1 × 105 cells per well at day 1. At day 2, cell culture medium
+                                                                                         was replaced with 1 ml of the medium supplemented with 5 mM sodium butyrate to
+2.1. Materials                                                                           induce Oatp1a1 protein expression (Eckhardt et al., 1999). Twenty four-hour after the
+                                                                                         addition of sodium butyrate, cells were washed twice with 2 ml of 37 ◦ C pre-warmed
+     14
+        C-PFOA (chemical purity >99%, labeled at the carboxyl carbon, ammonium           HBSS. Uptake assay was initiated by adding 0.5 ml (for E3S) or 0.4 ml (for PFO) of 37 ◦ C
+salt; activity, 2.11 GBq/mmol) was purchased from Amersham Pharmacia Biotech             pre-warmed dosing solution (in HBSS) that contained approximately 700 dpm/␮l
+(Piscataway, NJ). 3 H-E3S (activity, 2.12 GBq/␮mol) was purchased from PerkinElmer       3
+                                                                                           H-E3S or 450 dpm/␮l 14 C-PFO for E3S and PFO uptake studies, respectively. The
+(Waltham, MA). Estrone-3-sulfate, sodium butyrate, perﬂuorobutanoic acid (PFBA,          substrate concentrations for time-dependent uptake of E3S and PFO were 2 ␮M and
+C4) and perﬂuoroheptanoic acid (PFHpA, C7) were purchased from Sigma–Aldrich             4 ␮M, respectively. In substrate concentration-dependent uptake, cells were allowed
+(St. Louis, MO). Perﬂuoropentanoic acid (PFPA, C5), perﬂuorohexanoic acid (PFHxA,        to incubate with the dosing solution for 30 s (E3S) or 2 min (PFO). Uptake assay was
+C6), PFOA (C8), perﬂuorononanoic acid (PFNA, C9), perﬂuorodecanoic acid (PFDA,           terminated by the removal of the dosing solution and washing of the cells twice
+C10), perﬂuoroundecanoic acid (PFUA, C11), and perﬂuorododecanoic acid (PFDdA,           with 2 ml of ice-cold HBSS each time. Cells were then solubilized in 500 ␮l of 1N
+C12) were purchased from Oakwood Product (West Columbia, SC). The purities of            NaOH with shaking for 10 min. After the addition of 250 ␮l of 2N HCl, 500 ␮l of the
+the perﬂuorocarboxylic acids were equal or greater than 97%. Sulfobromophthalein         cell lysate was transferred to a glass vial and mixed with 6 ml of Ultima Gold XR
+(BSP), taurocholate (TCA), naringin, probenecid, and p-aminohippurate (PAH) were         Scintillation Cocktail (PerkinElmer) for radioactivity determination using a liquid
+purchased from Sigma–Aldrich. Cell culture medium was obtained from Invitrogen           scintillation analyzer (Tri-carb 2700 TR, PerkinElmer). 20 ␮l of the remaining cell
+(Carlsbad, CA) and Hanks’ Balanced Salt Solution without calcium and magnesium           solution was taken for the determination of protein concentration using a Lowry-
+(HBSS) was obtained from Mediatech (Manassas, VA). All other chemicals were from         based DC protein assay (Bio-Rad, Hercules, CA).
+Sigma–Aldrich (St. Louis, MO).                                                                For PFO inhibition experiments, Oatp1a1-expressing and vector-transfected
+                                                                                         control CHO cells were incubated with 5 ␮M of 14 C-PFO for 2 min in the absence
+2.2. Oatp1a1 plasmid construct                                                           or presence of the inhibitors. Oatp1a1-mediated PFO active uptake was repre-
+                                                                                         sented by the difference of uptake velocities obtained from Oatp1a1-expressing cells
+    The coding region of Oatp1a1 gene was ampliﬁed from rat liver cDNA library           and vector-transfected control cells. Inhibition of PFO passive diffusion in vector-
+(Invitrogen) by PCR using the forward primer containing a AﬂII site (in bold), 5 -      transfected control cells was determined to be negligible.
+                                                             C.-H. Yang et al. / Toxicology Letters 190 (2009) 163–171                                                       165
+
+
+    For E3S inhibition experiments, Oatp1a1-expressing CHO cells were incubated
+with 2 ␮M of E3S (containing approximately 700 dpm/␮l 3 H-E3S) for 30 s in the
+absence or presence of perﬂuorocarboxylates of different chain lengths. Stock solu-
+tions of perﬂuorocarboxylates were prepared directly in HBSS, except for PFDA,
+PFUA, and PFDdA which were prepared in ethanol at 50 mM and then diluted in HBSS
+for a ﬁnal concentration of 100 ␮M. Inhibition of E3S uptake in vector-transfected
+control cells was determined to be negligible.
+
+2.7. Data analysis
+
+    Non-speciﬁc passive diffusion of E3S or PFO to vector-transfected control cells
+can be described by a non-saturable, linear kinetics (Han et al., 2008; Poirier et al.,
+2008):
+
+vpar = Pdif · [S]                                                                  (1)
+
+where vpar is the velocity of E3S or PFO (pmol/min/mg) passive diffusion, [S] is the
+substrate concentration (␮M), and Pdif is passive diffusion constant (␮l/min/mg) and
+was obtained by linear regression to Eq. (1).
+    The total cellular uptake of E3S or PFO in Oatp1a1-expressing CHO cells is con-
+sidered to be the sum of the transporter-mediated uptake via Oatp1a1 (saturable)
+and the non-speciﬁc passive diffusion (non-saturable):
+         Vmax · [S]
+vsum =              + Pdif [S]                                                     (2)
+         Km + [S]
+where vsum is the initial uptake velocity (pmol/min/mg) in Oatp1a1-expressing cells,
+Vmax is the maximum velocity (pmol/min/mg) for Oatp1a1-mediated uptake, and
+Km is the Michaelis constant (␮M) for Oatp1a1-mediated uptake. Vmax and Km were
+obtained by non-linear regression to Eq. (2) with the input of Pdif from Eq. (1).
+     When E3S concentration was much lower than the Km value of E3S uptake, the
+inhibition of E3S uptake by perﬂuorocarboxylates was described according to the
+following equation that assumes a competitive inhibition mechanism:
+            v0
+vi =                                                                               (3)
+       1 + [I]/Ki,app
+
+where vi and v0 represent the initial E3S uptake velocities in the presence and
+absence of perﬂuorocarboxylates, respectively; [I] (␮M) is the concentration of the
+inhibitors; and Ki,app (␮M) is the apparent inhibition constant and is determined by
+non-linear regression to Eq. (3).
+    All curve ﬁttings of non-linear regressions were conducted in the software pack-
+age Origin (version 7.0, OriginLab, MA).
+
+
+3. Results
+
+3.1. Reverse-transcription PCR
+                                                                                            Fig. 2. Time-dependent (A) and concentration-dependent (B) uptake of estrone-3-
+   Oatp1a1 mRNA has been conﬁrmed in the Oatp1a1-expressing                                 sulfate (E3S, containing approximately 700 dpm/␮l 3 H-E3S) by vector-transfected
+CHO cells by reverse-transcription PCR. Fig. 1 demonstrates that,                           control cells (open circle) or Oatp1a1-expressing cells (ﬁlled circle). Two micromo-
+with Oatp1a1 gene-speciﬁc primers, the reverse-transcription PCR                            lars of E3S was incubated with the cells in (A) and E3S incubation with the cells was
+                                                                                            carried out for 30 s in (B). Data were obtained from two individual experiments with
+product of the Oatp1a1-expressing cells exhibited a 2 kb band on
+                                                                                            samples in duplicate (A) or three individual experiments with samples in duplicate
+the agarose gel (lane 3), which is the correct size for Oatp1a1                             (B).
+gene. The same band was also shown for the PCR product using
+pcDNA3.1(+)/Oatp1a1 plasmid DNA as the template (lane 2), but
+was absent from the reverse-transcription PCR product of the                                shows that E3S uptake velocity in Oatp1a1-expressing cells
+pcDNA3.1(+) vector-transfected control cells (lane 4).                                      was linear for at least up to 30 s and E3S uptake rate in
+                                                                                            the vector-transfected control cells was much lower and not
+3.2. E3S uptake                                                                             dependent on incubation time. Substrate concentration-dependent
+                                                                                            curve showed saturable uptake of E3S in Oatp1a1-expressing
+   E3S is a known substrate for Oatp1a1 (Eckhardt et al., 1999).                            cells (Fig. 2B). Pdif , Km , and Vmax values for E3S uptake
+In the present study, uptake of E3S in Oatp1a1-expressing cells                             were determined to be 3.53 ± 0.97 ␮l/min/mg, 22.9 ± 6.3 ␮M, and
+was shown to be time- and concentration-dependent. Fig. 2A                                  2565.6 ± 101.4 pmol/min/mg, respectively, according to Eqs. (1) and
+                                                                                            (2) described in Section 2.7.
+
+                                                                                            3.3. Quantitative real-time PCR
+
+                                                                                                It has been shown that 24 h treatment of Oatp1a1-expressing
+                                                                                            CHO cells with 5 mM sodium butyrate resulted in a 10-fold increase
+                                                                                            in Oatp1a1-mediated E3S uptake (Eckhardt et al., 1999). In the
+                                                                                            present study, we are able to demonstrate a similar fold increase
+                                                                                            of E3S uptake in sodium butyrate-treated Oatp1a1-expressing CHO
+Fig. 1. Agarose gel analysis of PCR reactions using Oatp1a1 gene-speciﬁc primers.           cells. Furthermore, we are able to show, by using a quantitative
+Lane 1, DNA molecular weight markers in kilo base pair (kb); lane 2, PCR product
+                                                                                            real-time PCR approach, that the increase of E3S uptake corre-
+using pcDNA3.1(+)/Oatp1a1 plasmid DNA as the template; lane 3 and lane 4, reverse-
+transcription PCR products of Oatp1a1-expressing and vector-transfected control             lated well with sodium butyrate-induced Oatp1a1 gene expression.
+CHO cells, respectively.                                                                    Fig. 3 shows that sodium butyrate had little effect on vector-
+166                                                          C.-H. Yang et al. / Toxicology Letters 190 (2009) 163–171
+
+
+                                                                                            determined to be 5.57 ± 2.30 ␮l/min/mg, 162.2 ± 20.2 ␮M, and
+                                                                                            3422.2 ± 564.3 pmol/min/mg, respectively, according to Eqs. (1)
+                                                                                            and (2) described in Section 2.7.
+                                                                                                Potential for inhibition of Oatp1a1-mediated PFO uptake in
+                                                                                            Oatp1a1-expressing cells by known substrates of Oats and Oatps
+                                                                                            was investigated. Fig. 5 shows that the presence of BSP (0.25 mM),
+                                                                                            TCA (1 mM), and naringin (0.1, 0.5, and 1 mM) reduced Oatp1a1-
+                                                                                            mediated PFO uptake to 10–30% of the control and the inhibition by
+                                                                                            naringin was dose-dependent. In contrast, probenecid (1 mM) did
+                                                                                            not exhibit any signiﬁcant inhibition and PAH at 1 mM only mod-
+                                                                                            erately inhibited PFO uptake (62% of the control). Passive diffusion
+                                                                                            of PFO to vector-transfected control CHO cells was not inhibited by
+                                                                                            the presence of the inhibitors investigated (data not shown).
+
+                                                                                            3.5. Carbon chain length-dependent inhibition of
+                                                                                            Oatp1a1-mediated E3S uptake by linear perﬂuorocarboxylates
+
+                                                                                               Oatp1a1 transport activity towards perﬂuorocarboxylates as a
+                                                                                            chemical class was investigated by inhibition of Oatp1a1-mediated
+
+
+
+
+Fig. 3. Increase of estrone-3-sulfate (E3S) uptake velocity (A) and Oatp1a1 gene
+expression (B) in sodium butyrate-treated Oatp1a1-expressing CHO cells. Oatp1a1-
+expressing and vector-transfected control CHO cells were treated with or without
+5 mM sodium butyrate for 24 h before the uptake assay (A) or before the isolation of
+total RNA (B). A, uptake rates of 2 ␮M E3S (containing approximately 700 dpm/␮L
+3
+  H-E3S) at 30 s incubation time were compared in sodium butyrate-treated or non-
+treated cells; (B) Oatp1a1 gene expression was compared in sodium butyrate-treated
+or non-treated cells using quantitative real-time PCR. All gene expression levels were
+represented relative to the level of the vector-transfected control cells that were not
+treated with sodium butyrate (expression level counted as 1).
+
+
+transfected control cells. Without being treated with sodium
+butyrate, Oatp1a1-expressing CHO cells exhibited signiﬁcantly
+higher levels of E3S uptake as well as Oatp1a1 gene expres-
+sion relative to the vector-transfected control cells (Fig. 3). Once
+Oatp1a1-expressing cells were pre-treated with 5 mM sodium
+butyrate for 24 h, their E3S uptake velocity was further enhanced by
+7.8-fold, which correlated well with an 8.3-fold increase in Oatp1a1
+gene transcript (Fig. 3).
+
+3.4. PFO uptake and Its inhibition
+
+   PFO uptake velocities in Oatp1a1-expressing cells increased pro-
+portionally to incubation time for at least the initial 2 min (Fig. 4A,
+ﬁlled circles). There was signiﬁcant level of PFO uptake in the
+vector-transfected control cells (Fig. 4A, open circles), which is
+mainly due to a non-speciﬁc passive diffusion mechanism. This
+passive diffusion mechanism was demonstrated with the linear
+relationship between PFO uptake velocities in vector-transfected
+control cells and PFO concentrations (Fig. 4B, open circles, and
+                                                                                            Fig. 4. Time-dependent (A) and concentration-dependent (B) uptake of perﬂuo-
+Eq. (1) in Section 2). PFO uptake in Oatp1a1-expressing cells was                           rooctanoate (containing approximately 450 dpm/␮l 14 C-PFO) by vector-transfected
+not saturated even at 1 mM of PFO concentration because of this                             control cells (open circle) or Oatp1a1-expressing cells (ﬁlled circle). The difference of
+passive diffusion component (Fig. 4B, ﬁlled circles). After sub-                            PFO uptake in Oatp1a1-expressing and vector-transfected CHO cells was also plotted
+tracting out the uptake rates obtained from the vector-transfected                          in (B) with open squares and was ﬁtted to the standard Michaelis–Menten equation.
+                                                                                            Four micromolars of 14 C-PFO was incubated with the cells in (A) and PFO incubation
+control cells, PFO uptake exhibited saturable kinetics that can
+                                                                                            with the cells was carried out for 2 min in (B). Data were obtained from three indi-
+be described by a standard Michaelis–Menten equation (Fig. 4B,                              vidual experiments with samples in duplicate. For clarity reason, only the standard
+open squares). Pdif , Km , and Vmax values for PFO uptake were                              deviations for PFO uptake in Oatp1a1-expressing cells were shown in (B).
+                                                             C.-H. Yang et al. / Toxicology Letters 190 (2009) 163–171                                                         167
+
+
+                                                                                            plotted the relationship between the log values of CLtotal and Ki,app
+                                                                                            in Fig. 8, which can be adequately described by a linear function:
+
+                                                                                            Log(CLtotal ) = 2.233 Log(Ki,app ) − 2.627,            R2 = 0.982                  (5)
+
+                                                                                            4. Discussion
+
+                                                                                                PFO elimination is highly species-dependent. Biological half-
+                                                                                            lives of PFO range from hours for rabbits and female rats (Kemper,
+                                                                                            2003; Kudo and Kawashima, 2003), days for male rats (Kemper,
+                                                                                            2003), weeks for dogs, mice, and monkeys (Kudo and Kawashima,
+                                                                                            2003; Butenhoff et al., 2004; Lou et al., 2009), to years for human
+                                                                                            (Olsen et al., 2007). Among them, rats showed dramatic sex-related
+                                                                                            difference, which is a rather convenient handle for the elucida-
+                                                                                            tion of PFO elimination mechanism. The rat model could then be
+                                                                                            used as a surrogate to bridge our understanding of PFO elimination
+                                                                                            mechanism in other species, especially in humans.
+                                                                                                In rats, PFO renal clearance was determined to be 23.35 and
+                                                                                            1.05 ml/h/kg in females and males, respectively (average values,
+                                                                                            calculated from total clearance times the fraction of renal clear-
+                                                                                            ance in Table 4, Wambaugh et al., 2008). This more than 20-fold
+                                                                                            sex-dependent difference is not due to PFO plasma protein binding
+Fig. 5. Inhibition of 5 ␮M 14 C-PFO uptake in Oatp1a1-expressing CHO cells by               (Han et al., 2003), but rather was hypothesized as a result of sex-
+0.25 mM sulfobromophthalein (BSP), 1 mM taurocholate (TCA), probenecid, p-
+aminohippurate (PAH), and 0.1, 0.5, and 1 mM naringin. The values were presented
+as the percentage relative to Oatp1a1-mediated control PFO uptake in the absence of
+the inhibitors. Inhibition of 14 C-PFO passive diffusion in vector-transfected control
+cells was negligible (data not shown). Error bars represent standard deviations from
+two individual experiments with samples in duplicate.
+
+E3S uptake. The initial uptake velocities of 2 ␮M E3S in Oatp1a1-
+expressing cells were determined in the absence or presence of
+perﬂuorocarboxylates at chain lengths ranged from 4 to 12. The
+percentage relative to control E3S uptake by individual perﬂuoro-
+carboxylate was compared in Fig. 6. In order to get complete chain
+length coverage, perﬂuorocarboxylates were tested at both 1 mM
+(C4–C9, Fig. 6A) and 0.1 mM (C7–C12, Fig. 6B). Fig. 6A shows that,
+instead of inhibition, E3S uptake was actually slightly stimulated
+by perﬂuorobutanoate (PFB, C4, 117%) and perﬂuoropentanoate
+(PFP, C5, 119%). Inhibition of E3S uptake was observed starting
+from perﬂuorohexanoate (PFHx, C6, 61%) and the level of inhibition
+increased as the chain length increased from 6 to 9 (Fig. 6A). E3S
+uptake was essentially abolished in the presence of 1 mM of perﬂu-
+orononanoate (PFN, C9). Comparison of inhibition by longer chain
+length perﬂuorocarboxylates (C7–C12) was conducted at 0.1 mM of
+the inhibitors (Fig. 6B). The trend of longer chain length causing
+more inhibition extended to perﬂuorodecanoate (PFD, C10). How-
+ever, this trend was reversed for perﬂuoroundecanoate (PFU, C11)
+and perﬂuorododecanoic (PFDd, C12) which showed reduction of
+inhibition as the growth of the chain length (Fig. 6B).
+   Concentration-dependent inhibition of E3S uptake was inves-
+tigated for perﬂuorocarboxylates at chain lengths from 6 to 10
+to determine the values of apparent inhibition constant (Ki,app ,
+Fig. 7). Predictably, the longer the chain length, the lower of
+its Ki,app value was observed. The Ki,app values were deter-
+mined to be 1857.8 ± 214.4, 398.9 ± 20.3, 83.8 ± 14.8, 44.6 ± 4.1, and
+26.8 ± 2.5 ␮M for PFHx, perﬂuoroheptanoate (PFHp), PFO, PFN, and
+PFD (C6–C10), respectively. The relationship between chain lengths
+(N) of the linear perﬂuorocarboxylates and log values of Ki,app
+appears to be negatively correlated (Fig. 7F), from which an empir-
+ical linear equation was derived:
+
+Log(Ki,app ) = −0.463N + 5.881,             N = 6, 7, 8, 9, and 10,
+                                                                                            Fig. 6. Inhibition of 2 ␮M E3S (containing approximately 700 dpm/␮l 3 H-E3S)
+ R2 = 0.943                                                                       (4)       uptake in Oatp1a1-expressing CHO cells by 1 mM (A) or 0.1 mM (B) of perﬂuorocar-
+                                                                                            boxylates at different chain lengths. The values were presented as the percentage
+                                                                                            relative to the control E3S uptake in the absence of perﬂuorocarboxylates. Inhibi-
+  Because the values of rat total clearance (CLtotal , ml/day/kg) of                        tion of E3S uptake in vector-transfected control cells was negligible (data not shown).
+PFHp, PFO, PFN, and PFD are available (Ohmori et al., 2003), we                             Error bars represent standard deviations from at least triplicate incubations.
+168                                                         C.-H. Yang et al. / Toxicology Letters 190 (2009) 163–171
+
+
+
+
+Fig. 7. Concentration-dependent inhibition of 2 ␮M E3S (containing approximately 700 dpm/␮l 3 H-E3S) uptake in Oatp1a1-expressing CHO cells by PFHx (A), PFHp (B), PFO
+(C), PFN (D), and PFD (E) to obtain apparent inhibition constants (Ki,app ) for the perﬂuorocarboxylates. Relationship between the log values of Ki,app and the chain lengths (N)
+of the perﬂuorocarboxylates is represented by a linear function and shown in (F). Error bars represent standard deviations from two individual experiments with samples in
+duplicate. Note that the x-axis scales are different in graphs (A)–(E).
+
+
+
+related difference in PFO transport capabilities in rat kidneys (Kudo                      Oat5 (Youngblood and Sweet, 2004; Anzai et al., 2005), Oatp1a1,
+et al., 2002). The study of rat renal transporters and their involve-                      Oatp1a3v1 (old name, OAT-K1, Masuda et al., 1997), and Oatp1a3v2
+ment in PFO transport, therefore, is a necessary step to understand                        (old name, OAT-K2, Masuda et al., 1999). So far, PFO transport activ-
+the mechanism of sex-dependent PFO renal elimination in rats.                              ities have been investigated with Oat1, Oat2, and Oat3 (Katakura et
+    Renal clearance of PFO in rats was considered to involve tubu-                         al., 2007; Nakagawa et al., 2008) and Oatp1a1 (present study and
+lar secretion and reabsorption mechanisms via renal transporters                           Katakura et al., 2007). Oat2 did not exhibit PFO uptake activity in
+(Kudo et al., 2002; Andersen et al., 2006; Katakura et al., 2007;                          transiently transfected HEK293 cells (Nakagawa et al., 2008). Oat1
+Nakagawa et al., 2008). For Oats and Oatps that are expressed in                           and Oat3 were able to mediate PFO uptake in transiently trans-
+kidneys, their intracellular localizations in proximal tubular cells                       fected HEK293 cells but did not show signiﬁcant species-related
+are an important factor for their roles in renal clearance, being                          (rat vs. human) difference (Nakagawa et al., 2008). Therefore, the
+either active secretion (basolateral), reabsorption (apical), or efﬂux                     large difference in PFO elimination half-lives observed between rat
+(apical). In rats, Oat1 and Oat3 are known to be localized to the baso-                    and human cannot be readily linked to PFO renal transport medi-
+lateral membrane of the proximal tubular cells (Kojima et al., 2002;                       ated by Oat1 and Oat3 (Nakagawa et al., 2008). In addition, studies
+Ljubojevic et al., 2004). On the apical side (brush-border mem-                            showed that renal cortical Oat1 and Oat3 expression levels were
+brane), there are Oat2 (Kojima et al., 2002; Ljubojevic et al., 2007),                     (1) higher in males than those in females, (2) strongly reduced by
+                                                               C.-H. Yang et al. / Toxicology Letters 190 (2009) 163–171                                         169
+
+
+                                                                                              conclude that we have cloned the CHO cells that correctly expressed
+                                                                                              functional Oatp1a1 proteins.
+                                                                                                   PFO uptake in Oatp1a1-expressing CHO cells underwent a
+                                                                                              saturable process after correction for non-speciﬁc passive dif-
+                                                                                              fusion using vector-transfected control cells (Fig. 4B). The Km
+                                                                                              value for Oatp1a1-mediated PFO uptake was determined to be
+                                                                                              162.2 ± 20.2 ␮M. In a previous effort, we observed a similar sat-
+                                                                                              urable PFO uptake in freshly isolated rat hepatocytes (Han et
+                                                                                              al., 2008). The Km value for PFO uptake in rat hepatocytes was
+                                                                                              determined to be approximately 80–90 ␮M and PFO uptake was
+                                                                                              effectively inhibited by the presence of 0.25 mM BSP (Han et
+                                                                                              al., 2008). Because Oatp1a1 is abundantly expressed in rat liver
+                                                                                              (Bergwerk et al., 1996) and BSP is a well known substrate for
+                                                                                              Oatp1a1 (Jacquemin et al., 1994; Meier et al., 1997; Hata et al.,
+                                                                                              2003), Oatp1a1 is likely to be a major transport protein that was
+                                                                                              responsible for PFO uptake in rat hepatocytes. The relatively minor
+                                                                                              difference between the Km values determined in rat hepatocytes
+                                                                                              and in Oatp1a1-expressing CHO cells could be a result of possible
+                                                                                              difference in terminal N-glycosylation of Oatp1a1 in rat hepatocytes
+Fig. 8. Relationship between the values of total clearance (CLtotal ) of PFHx (C6), PFO       and in CHO cells. It is known that the Oatp1a1 proteins expressed in
+(C8), PFN (C9), and PFD (C10) in male rats and the apparent inhibition constants
+(Ki,app ) of these perﬂuorocarboxylates for their inhibition of 2 ␮M E3S uptake in
+                                                                                              cell systems, such as Xenopus oocytes (Lee et al., 2003), COS-7 cells
+Oatp1a1-expressing CHO cells. CLtotal values are obtained from a previous report              (Kouzuki et al., 1999), and Hela cells (Shi et al., 1995; Bergwerk et
+(Ohmori et al., 2003). A linear relationship is derived for the log values of CLtotal and     al., 1996; Wang et al., 2008), tend to have lower molecular weight
+Ki,app and is shown in the ﬁgure.                                                             (∼72 kDa) than the native Oatp1a1 expressed in rat livers (∼85 kDa,
+                                                                                              Eckhardt et al., 1999; Lee et al., 2003). It has been interpreted that
+                                                                                              the lower molecular weight of Oatp1a1 expressed in oocytes and
+castration in adult male rats, and (3) the reduced expression levels                          cell lines was a result of partial N-glycosylation (Lee et al., 2003;
+due to castration were restored by the treatment of testosterone                              Wang et al., 2008), which could affect the transport activity of
+(Ljubojevic et al., 2004). Assuming a tubular secretion role for Oat1                         Oatp1a1 (Lee et al., 2003; Wang et al., 2008). Other hepatic trans-
+and Oat3, this male-favored and androgen-stimulated expression                                porters may also play a role in PFO hepatic uptake, such as Oat3 that
+of Oat1 and Oat3 was in contradiction to the observation of female-                           has been discussed in our previous paper (Han et al., 2008). The Km
+favored and androgen-suppressed renal elimination of PFO in rats                              value for Oat3-mediated PFO cellular uptake was determined to
+(Vanden Heuvel et al., 1991; Kudo et al., 2001, 2002; Ohmori et                               be 80.2 ± 17.8 ␮M (Nakagawa et al., 2008), which is in an excellent
+al., 2003). Therefore, Oat1- and Oat3-mediated PFO renal transport                            agreement with the Km value we determined for PFO uptake in rat
+cannot explain the sex-dependent renal elimination of PFO in rats.                            hepatocytes (Han et al., 2008).
+     In rat kidney, Oatp1a1 is known for its sex-dependent                                         Another ﬁnding from our PFO uptake experiments was the
+(male  female) and sex hormone-regulated expression (Lu et al.,                              signiﬁcant contribution of passive diffusion to the total uptake
+1996; Gotoh et al., 2002; Li et al., 2002) that correlates very                               clearance. Uptake clearance due to Oatp1a1-mediated PFO trans-
+well with the sex-dependent and hormone-controlled PFO renal                                  port can be derived by Vmax /Km and the average value was
+elimination in rats, assuming an Oatp1a1-mediated reabsorption                                21.1 ␮l/min/mg. In comparison, the average value for PFO uptake
+mechanism. It has been shown that PFO uptake rate in Oatp1a1                                  clearance due to passive diffusion (Pdif ) was 5.57 ␮l/min/mg, which
+cRNA-injected X. laevis oocytes was signiﬁcantly higher than that                             accounted for 21% of the total clearance. In our previous PFO hep-
+in the water-injected control cells (Katakura et al., 2007). In the                           atic uptake study, we also observed signiﬁcant passive diffusion that
+present study, we established a single clone of CHO cells that                                contributed as high as 50–60% of total clearance (Han et al., 2008).
+were stably transfected with Oatp1a1 gene. We then conducted a                                Similar analysis showed that only 3.1% of E3S uptake clearance in
+more thorough characterization of Oatp1a1-mediated PFO uptake                                 Oatp1a1-expressing cells was due to passive diffusion. Our ﬁnding
+by using these Oatp1a1-expressing CHO cells.                                                  suggests that passive diffusion may be an important mechanism for
+     Oatp1a1-expressing CHO cells used in the present study were                              PFO distribution in vivo, although our method does not allow us to
+validated by their Oatp1a1 gene expression (Fig. 1), their uptake                             verify the actual localization of PFO as a result of the passive diffu-
+kinetics towards a known Oatp1a1 substrate, E3S (Fig. 2), and                                 sion process: either being cell surface attachment or intracellular
+the correlation between Oatp1a1 gene expression and E3S uptake                                distribution.
+activity that were both induced by the treatment of sodium                                         The inhibition of Oatp1a1-mediated PFO uptake in Oatp1a1-
+butyrate (Fig. 3). Our results showed that Oatp1a1 gene was indeed                            expressing CHO cells was investigated using well known Oatps and
+expressed in the Oatp1a1-expressing cells but not in the vector-                              Oats substrates. Inhibitor speciﬁcities for Oats and Oatps are gener-
+transfected control cells (Fig. 1). E3S uptake rate was signiﬁcantly                          ally quite poor (Lee and Kim, 2004). Nevertheless, we were able to
+higher in Oatp1a1-expressing cells than that in vector-transfected                            distinguish BSP and TCA from probenecid and PAH for their inhibi-
+control cells (Fig. 2) and was saturable. The Km value for Oatp1a1-                           tion capabilities of PFO uptake (Fig. 5). BSP (Jacquemin et al., 1994)
+mediated E3S uptake was determined to be 22.9 ± 6.3 ␮M which is                               and TCA (Eckhardt et al., 1999) are known standard Oatp1a1 sub-
+consistent to previously reported value of 12 ± 3 ␮M (Eckhardt et                             strates and therefore, their inhibition of Oatp1a1-mediated PFO
+al., 1999) or 20.4–39.0 ␮M (Leuthold et al., 2009). By pre-treating                           uptake was expected. Probenecid and PAH are known standard
+the cells with sodium butyrate, E3S uptake rate was 7.8-fold higher                           inhibitor and substrate for Oats (Lee and Kim, 2004) and their
+than that in non-treated cells (Fig. 3A), which again, was consistent                         inhibition of Oatp1a1-mediated PFO uptake was much less effec-
+with the reported observation (Eckhardt et al., 1999). More impor-                            tive, which is consistent with previous ﬁndings on the potency of
+tantly, this increase in E3S uptake rate correlated very well with the                        probenecid and PAH as Oatp1a1 inhibitors (Sugiyama et al., 2001;
+level of sodium butyrate-induced Oatp1a1 gene expression (8.3-                                Shitara et al., 2002). Our experiment is the ﬁrst step towards ﬁnd-
+fold induction, Fig. 3B). With all the evidence discussed above, we                           ing transporter-speciﬁc inhibitors for PFO uptake. Inhibitors with
+170                                                C.-H. Yang et al. / Toxicology Letters 190 (2009) 163–171
+
+
+distinct transporter speciﬁcities can be used as effective tools in               Acknowledgments
+future mechanistic studies of PFO transport either in vitro or in
+vivo.                                                                                We thank Dr. Robert Rickard for his critical comments and guid-
+    It has been shown that grapefruit juice inhibits the transport                ance throughout this work. We also want to thank Jiaming Yin for
+function of Oatps (Dresser et al., 2002; Satoh et al., 2005), and                 his invaluable technical assistance on molecular cloning and Robert
+naringin, the foremost ﬂavonoid in grapefruit juice, is the major and             Mingoia, Suzanne Snajdr, and Diane Nabb for their helps on lab
+selective inhibitor of human OATP1A2 (Bailey et al., 2007). In our                equipment set up and uptake assays.
+present work, we were able to demonstrate that naringin inhib-
+ited Oatp1a1-mediated PFO uptake in a dose-dependent manner
+                                                                                  References
+(Fig. 5). The implication of this ﬁnding is that grapefruit juice [con-
+tains 3 mM naringin (Dresser et al., 2002)] might be able to affect the           Andersen, M.E., Butenhoff, J.L., Chang, S.C., Farrar, D.G., Kennedy Jr., G.L., Lau,
+pharmacokinetics of PFO in rats by inhibiting Oatp1a1-mediated                        C., Olsen, G.W., Seed, J., Wallace, K.B., 2008. Perﬂuoroalkyl acids and related
+                                                                                      chemistries—toxicokinetics and modes of action. Toxicol. Sci. 102, 3–14.
+PFO renal transport. The actual in vivo relevance of this ﬁnding,
+                                                                                  Andersen, M.E., Clewell 3rd, H.J., Tan, Y.M., Butenhoff, J.L., Olsen, G.W., 2006. Phar-
+however, remains to be tested.                                                        macokinetic modeling of saturable, renal resorption of perﬂuoroalkylacids in
+    In order to connect our in vitro observation of Oatp1a1-                          monkeys—probing the determinants of long plasma half-lives. Toxicology 227,
+mediated PFO transport to in vivo mechanism of PFO elimination in                     156–164.
+                                                                                  Anzai, N., Jutabha, P., Enomoto, A., Yokoyama, H., Nonoguchi, H., Hirata, T., Shiraya, K.,
+rats, we took advantage of a ﬁnding that linear perﬂuorocarboxy-                      He, X., Cha, S.H., Takeda, M., Miyazaki, H., Sakata, T., Tomita, K., Igarashi, T., Kanai,
+lates underwent carbon chain length-dependent renal elimination                       Y., Endou, H., 2005. Functional characterization of rat organic anion transporter
+in rats, i.e., longer chain length perﬂuorocarboxylates tend to have                  5 (Slc22a19) at the apical membrane of renal proximal tubules. J. Pharmacol.
+                                                                                      Exp. Ther. 315, 534–544.
+longer elimination half-lives in rats (Kudo et al., 2001; Ohmori                  Bailey, D.G., Dresser, G.K., Leake, B.F., Kim, R.B., 2007. Naringin is a major and selective
+et al., 2003; Andersen et al., 2008; Chang et al., 2008). Assuming                    clinical inhibitor of organic anion-transporting polypeptide 1A2 (OATP1A2) in
+a common renal transport mechanism for perﬂuorocarboxylates,                          grapefruit juice. Clin. Pharmacol. Ther. 81, 495–502.
+                                                                                  Bergwerk, A.J., Shi, X., Ford, A.C., Kanai, N., Jacquemin, E., Burk, R.D., Bai, S., Novikoff,
+this chain length-related trend observed in vivo implies chain                        P.M., Stieger, B., Meier, P.J., Schuster, V.L., Wolkoff, A.W., 1996. Immunologic dis-
+length-dependent transport kinetics for perﬂuorocarboxylates. In                      tribution of an organic anion transport protein in rat liver and kidney. Am. J.
+the present work, the chain length-dependent Oatp1a1 transport                        Physiol. Gastrointest. Liver Physiol. 271, G231–238.
+                                                                                  Butenhoff, J.L., Kennedy Jr., G.L., Hinderliter, P.M., Lieder, P.H., Jung, R., Hansen, K.J.,
+kinetics was studied indirectly by comparing the capabilities of
+                                                                                      Gorman, G.S., Noker, P.E., Thomford, P.J., 2004. Pharmacokinetics of perﬂuorooc-
+perﬂuorocarboxylates to inhibit Oatp1a1-mediated E3S uptake.                          tanoate in cynomolgus monkeys. Toxicol. Sci. 82, 394–406.
+Because we demonstrated that PFO was both a substrate and                         Chang, S.C., Das, K., Ehresman, D.J., Ellefson, M.E., Gorman, G.S., Hart, J.A., Noker,
+                                                                                      P.E., Tan, Y.M., Lieder, P.H., Lau, C., Olsen, G.W., Butenhoff, J.L., 2008. Com-
+an inhibitor of Oatp1a1 (Figs. 4 and 5), it would be reason-
+                                                                                      parative pharmacokinetics of perﬂuorobutyrate in rats, mice, monkeys, and
+able to assume that other perﬂuorocarboxylates that inhibited                         humans and relevance to human exposure via drinking water. Toxicol. Sci. 104,
+Oatp1a1-mediated E3S uptake were also substrates of Oatp1a1 and                       40–53.
+their inhibitory potencies would correlate with their afﬁnities to                Dresser, G.K., Bailey, D.G., Leake, B.F., Schwarz, U.I., Dawson, P.A., Freeman, D.J., Kim,
+                                                                                      R.B., 2002. Fruit juices inhibit organic anion transporting polypeptide-mediated
+Oatp1a1. Perﬂuorocarboxylates with short chain lengths (PFB and                       drug uptake to decrease the oral availability of fexofenadine. Clin. Pharmacol.
+PFP) seem not to be the substrates of Oatp1a1 because they failed                     Ther. 71, 11–20.
+to inhibit E3S uptake at a fairly high concentration (Fig. 6A). Per-              Eckhardt, U., Schroeder, A., Stieger, B., Hochli, M., Landmann, L., Tynes, R., Meier,
+                                                                                      P.J., Hagenbuch, B., 1999. Polyspeciﬁc substrate uptake by the hepatic organic
+ﬂuorocarboxylates with medium chain lengths (between 6 and                            anion transporter Oatp1 in stably transfected CHO cells. Am. J. Physiol. 276,
+10) exhibited chain length-dependent inhibition (longer chain                         G1037–1042.
+length → higher inhibition, Fig. 6). Perﬂuorocarboxylates with long               Gotoh, Y., Kato, Y., Stieger, B., Meier, P.J., Sugiyama, Y., 2002. Gender difference in the
+                                                                                      Oatp1-mediated tubular reabsorption of estradiol 17beta-d-glucuronide in rats.
+chain lengths (PFU and PFDd) failed to follow this trend, indi-                       Am. J. Physiol. Endocrinol. Metab. 282, E1245–1254.
+cating an upper limit for the preference of Oatp1a1 towards the                   Han, X., Snow, T.A., Kemper, R.A., Jepson, G.W., 2003. Binding of perﬂuorooctanoic
+chain length. In order to quantitatively characterize this trend, we                  acid to rat and human plasma proteins. Chem. Res. Toxicol. 16, 775–781.
+                                                                                  Han, X., Yang, C.H., Snajdr, S.I., Nabb, D.L., Mingoia, R.T., 2008. Uptake of perﬂuorooc-
+obtained apparent inhibition constants (Ki,app ) for PFHx, PFHp, PFO,
+                                                                                      tanoate in freshly isolated hepatocytes from male and female rats. Toxicol. Lett.
+PFN, and PFD (Fig. 7, C6–C10). It is apparent that there was a negative               181, 81–86.
+correlation between the log values of Ki,app and the chain lengths,               Hata, S., Wang, P., Eftychiou, N., Ananthanarayanan, M., Batta, A., Salen, G., Pang, K.S.,
+                                                                                      Wolkoff, A.W., 2003. Substrate speciﬁcities of rat oatp1 and ntcp: implications
+and this relationship was adequately represented by a linear func-
+                                                                                      for hepatic organic anion uptake. Am. J. Physiol. Gastrointest. Liver Physiol. 285,
+tion (Fig. 7F). Because Ki,app represents the afﬁnity of an inhibitor to              G829–839.
+the transporter for a inhibition reaction, i.e., the smaller of a Ki,app          Hundley, S.G., Sarrif, A.M., Kennedy, G.L., 2006. Absorption, distribution, and excre-
+value, the higher of the afﬁnity, Fig. 7F clearly shows that perﬂuoro-                tion of ammonium perﬂuorooctanoate (APFO) after oral administration to
+                                                                                      various species. Drug Chem. Toxicol. 29, 137–145.
+carboxylates with longer chain lengths exhibited higher afﬁnities                 Jacquemin, E., Hagenbuch, B., Stieger, B., Wolkoff, A.W., Meier, P.J., 1994. Expression
+to the Oatp1a1 transporter. The relationship between perﬂuorocar-                     cloning of a rat liver Na(+)-independent organic anion transporter. Proc. Natl.
+boxylates afﬁnities to Oatp1a1 and their in vivo clearance rates is                   Acad. Sci. U.S.A. 91, 133–137.
+                                                                                  Katakura, M., Kudo, N., Tsuda, M., Hibino, Y., Mitsumoto, A., Kawashima, Y., 2007.
+revealed in Fig. 8, where a positive linear correlation between the                   Rat organic anion transporter 3 and organic anion transporting polypeptide 1
+log values of Ki,app and total clearance in male rats is shown. Because               mediate perﬂuorooctanoic acid transport. J. Health Sci. 53, 77–83.
+clearance can be deﬁned by Vmax /Km , where Km is another term                    Kato, Y., Kuge, K., Kusuhara, H., Meier, P.J., Sugiyama, Y., 2002. Gender difference
+                                                                                      in the urinary excretion of organic anions in rats. J. Pharmacol. Exp. Ther. 302,
+describing substrate afﬁnity to a transporter, a correlation between                  483–489.
+Ki,app and clearance can be expected. This in vitro-to-in vivo cor-               Kemper, R.A., 2003. Perﬂuorooctanoic acid: toxicokinetics in the rat. DuPont
+relation strongly supports a tubular reabsorptive role of Oatp1a1                     Haskell Laboratories, Report ID: DuPont-7473, USEPA Administrative Record AR-
+                                                                                      226.1499.
+in vivo. Because of the signiﬁcant higher expression of Oatp1a1
+                                                                                  Kennedy Jr., G.L., Butenhoff, J.L., Olsen, G.W., O’Connor, J.C., Seacat, A.M., Perkins, R.G.,
+in the kidney of the male rat, Oatp1a1-mediated renal reabsorp-                       Biegel, L.B., Murphy, S.R., Farrar, D.G., 2004. The toxicology of perﬂuorooctanoate.
+tion is suggested to be the mechanism for the sex-dependent renal                     Crit. Rev. Toxicol. 34, 351–384.
+                                                                                  Kojima, R., Sekine, T., Kawachi, M., Cha, S.H., Suzuki, Y., Endou, H., 2002. Immunolo-
+elimination of PFO in rats.
+                                                                                      calization of multispeciﬁc organic anion transporters, OAT1, OAT2, and OAT3, in
+                                                                                      rat kidney. J. Am. Soc. Nephrol. 13, 848–857.
+                                                                                  Kouzuki, H., Suzuki, H., Ito, K., Ohashi, R., Sugiyama, Y., 1999. Contribution of organic
+Conﬂict of interest                                                                   anion transporting polypeptide to uptake of its possible substrates into rat hep-
+                                                                                      atocytes. J. Pharmacol. Exp. Ther. 288, 627–634.
+                                                                                  Kudo, N., Katakura, M., Sato, Y., Kawashima, Y., 2002. Sex hormone-regulated renal
+      The authors declare that there are no conﬂicts of interest.                     transport of perﬂuorooctanoic acid. Chem. Biol. Interact. 139, 301–316.
+                                                                  C.-H. Yang et al. / Toxicology Letters 190 (2009) 163–171                                                              171
+
+
+Kudo, N., Kawashima, Y., 2003. Toxicity and toxicokinetics of perﬂuorooctanoic acid              Ohmori, K., Kudo, N., Katayama, K., Kawashima, Y., 2003. Comparison of the toxi-
+    in humans and animals. J. Toxicol. Sci. 28, 49–57.                                                cokinetics between perﬂuorocarboxylic acids with different carbon chain length.
+Kudo, N., Suzuki, E., Katakura, M., Ohmori, K., Noshiro, R., Kawashima, Y., 2001. Com-                Toxicology 184, 135–140.
+    parison of the elimination between perﬂuorinated fatty acids with different                  Olsen, G.W., Burris, J.M., Ehresman, D.J., Froehlich, J.W., Seacat, A.M., Butenhoff,
+    carbon chain length in rats. Chem. Biol. Interact. 134, 203–216.                                  J.L., Zobel, L.R., 2007. Half-life of serum elimination of perﬂuorooctane-
+Lau, C., Anitole, K., Hodes, C., Lai, D., Pfahles-Hutchens, A., Seed, J., 2007. Perﬂuo-               sulfonate,perﬂuorohexanesulfonate, and perﬂuorooctanoate in retired
+    roalkyl acids: a review of monitoring and toxicological ﬁndings. Toxicol. Sci. 99,                ﬂuorochemical production workers. Environ. Health Perspect. 115,
+    366–394.                                                                                          1298–1305.
+Lee, T.K., Koh, A.S., Cui, Z., Pierce, R.H., Ballatori, N., 2003. N-glycosylation controls       Poirier, A., Lave, T., Portmann, R., Brun, M.E., Senner, F., Kansy, M., Grimm, H.P.,
+    functional activity of Oatp1, an organic anion transporter. Am. J. Physiol. Gas-                  Funk, C., 2008. Design, data analysis, and simulation of in vitro drug transport
+    trointest. Liver Physiol. 285, G371–381.                                                          kinetic experiments using a mechanistic in vitro model. Drug Metab. Dispos. 36,
+Lee, W., Kim, R.B., 2004. Transporters and renal drug elimination. Annu. Rev. Phar-                   2434–2444.
+    macol. Toxicol. 44, 137–166.                                                                 Prevedouros, K., Cousins, I.T., Buck, R.C., Korzeniowski, S.H., 2006. Sources, fate and
+Leuthold, S., Hagenbuch, B., Mohebbi, N., Wagner, C.A., Meier, P.J., Stieger, B.,                     transport of perﬂuorocarboxylates. Environ. Sci. Technol. 40, 32–44.
+    2009. Mechanisms of pH-gradient driven transport mediated by organic anion                   Sabolic, I., Asif, A.R., Budach, W.E., Wanke, C., Bahn, A., Burckhardt, G., 2007. Gender
+    polypeptide transporters. Am. J. Physiol. Cell Physiol. 296, C570–582.                            differences in kidney function. Pﬂugers Arch. 455, 397–429.
+Li, N., Hartley, D.P., Cherrington, N.J., Klaassen, C.D., 2002. Tissue expression,               Satoh, H., Yamashita, F., Tsujimoto, M., Murakami, H., Koyabu, N., Ohtani, H., Sawada,
+    ontogeny, and inducibility of rat organic anion transporting polypeptide 4. J.                    Y., 2005. Citrus juices inhibit the function of human organic anion-transporting
+    Pharmacol. Exp. Ther. 301, 551–560.                                                               polypeptide OATP-B. Drug Metab. Dispos. 33, 518–523.
+Ljubojevic, M., Balen, D., Breljak, D., Kusan, M., Anzai, N., Bahn, A., Burckhardt, G.,          Shi, X., Bai, S., Ford, A.C., Burk, R.D., Jacquemin, E., Hagenbuch, B., Meier, P.J., Wolkoff,
+    Sabolic, I., 2007. Renal expression of organic anion transporter OAT2 in rats and                 A.W., 1995. Stable inducible expression of a functional rat liver organic anion
+    mice is regulated by sex hormones. Am. J. Physiol. Renal Physiol. 292, F361–372.                  transport protein in HeLa cells. J. Biol. Chem. 270, 25591–25595.
+Ljubojevic, M., Herak-Kramberger, C.M., Hagos, Y., Bahn, A., Endou, H., Burckhardt,              Shitara, Y., Sugiyama, D., Kusuhara, H., Kato, Y., Abe, T., Meier, P.J., Itoh, T.,
+    G., Sabolic, I., 2004. Rat renal cortical OAT1 and OAT3 exhibit gender differences                Sugiyama, Y., 2002. Comparative inhibitory effects of different compounds on
+    determined by both androgen stimulation and estrogen inhibition. Am. J. Physiol.                  rat Oatp1 (Slc21a1)-and Oatp2 (Slc21a5)-mediated transport. Pharm. Res. 19,
+    287, F124–138.                                                                                    147–153.
+Lou, I., Wambaugh, J.F., Lau, C., Hanson, R.G., Lindstrom, A.B., Strynar, M.J., Zehr, R.D.,      Sugiyama, D., Kusuhara, H., Shitara, Y., Abe, T., Meier, P.J., Sekine, T., Endou, H.,
+    Setzer, R.W., Barton, H.A., 2009. Modeling single and repeated dose pharmacoki-                   Suzuki, H., Sugiyama, Y., 2001. Characterization of the efﬂux transport of 17beta-
+    netics of PFOA in mice. Toxicol. Sci. 107, 331–341.                                               estradiol-d-17beta-glucuronide from the brain across the blood-brain barrier. J.
+Lu, R., Kanai, N., Bao, Y., Wolkoff, A.W., Schuster, V.L., 1996. Regulation of renal oatp             Pharmacol. Exp. Ther. 298, 316–322.
+    mRNA expression by testosterone. Am. J. Physiol. 270, F332–337.                              Vanden Heuvel, J.P., Kuslikis, B.I., Van Rafelghem, M.J., Peterson, R.E., 1991. Tissue
+Masuda, S., Ibaramoto, K., Takeuchi, A., Saito, H., Hashimoto, Y., Inui, K.I., 1999.                  distribution, metabolism, and elimination of perﬂuorooctanoic acid in male and
+    Cloning and functional characterization of a new multispeciﬁc organic anion                       female rats. J. Biochem. Toxicol. 6, 83–92.
+    transporter, OAT-K2, in rat kidney. Mol. Pharmacol. 55, 743–752.                             Wambaugh, J.F., Barton, H.A., Setzer, R.W., 2008. Comparing models for perﬂuo-
+Masuda, S., Saito, H., Nonoguchi, H., Tomita, K., Inui, K., 1997. mRNA distribution                   rooctanoic acid pharmacokinetics using Bayesian analysis. J. Pharmacokinet.
+    and membrane localization of the OAT-K1 organic anion transporter in rat renal                    Pharmacodyn. 35, 683–712.
+    tubules. FEBS Lett. 407, 127–131.                                                            Wang, P., Hata, S., Xiao, Y., Murray, J.W., Wolkoff, A.W., 2008. Topological assessment
+Meier, P.J., Eckhardt, U., Schroeder, A., Hagenbuch, B., Stieger, B., 1997. Substrate speci-          of oatp1a1: a 12-transmembrane domain integral membrane protein with three
+    ﬁcity of sinusoidal bile acid and organic anion uptake systems in rat and human                   N-linked carbohydrate chains. Am. J. Physiol. Gastrointest. Liver Physiol. 294,
+    liver. Hepatology 26, 1667–1677.                                                                  G1052–1059.
+Nakagawa, H., Hirata, T., Terada, T., Jutabha, P., Miura, D., Harada, J.H., Inoue, K., Anzai,    Youngblood, G.L., Sweet, D.H., 2004. Identiﬁcation and functional assessment of the
+    N., Endou, H., Inui, K., Kanai, Y., Koizumi, A., 2008. Roles of organic anion trans-              novel murine organic anion transporter Oat5 (Slc22a19) expressed in kidney.
+    porters in the renal excretion of perﬂuorooctanoic acid. Basic Clin. Pharmacol.                   Am. J. Physiol. Renal Physiol. 287, F236–244.
+    Toxicol. 103, 1–8.
+

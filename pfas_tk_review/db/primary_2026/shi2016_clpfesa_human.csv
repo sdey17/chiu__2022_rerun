@@ -1,0 +1,3 @@
+chemical,parameter,median,range,units,note,source
+6:2 Cl-PFESA,total elimination half-life,15.3,,years,"the longest human PFAS half-life on record",Shi 2016 abstract
+6:2 Cl-PFESA,renal clearance half-life,280,7.1-4230,years,"renal route contributes almost nothing to total elimination",Shi 2016 abstract

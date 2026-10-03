@@ -1,0 +1,359 @@
+0090-9556/04/3206-620–625$20.00
+DRUG METABOLISM AND DISPOSITION                                                                                                               Vol. 32, No. 6
+Copyright © 2004 by The American Society for Pharmacology and Experimental Therapeutics                                                        1344/1152158
+DMD 32:620–625, 2004                                                                                                                        Printed in U.S.A.
+
+
+        RAT AND MOUSE DIFFERENCES IN GENDER-PREDOMINANT EXPRESSION OF
+           ORGANIC ANION TRANSPORTER (OAT1–3; SLC22A6–8) mRNA LEVELS
+
+                                              Susan C. N. Buist and Curtis D. Klaassen
+      Department of Pharmacology, Toxicology, and Therapeutics, University of Kansas Medical Center, Kansas City, Kansas
+                                                   Received December 1, 2003; accepted March 2, 2004
+
+
+                                               This article is available online at http://dmd.aspetjournals.org
+
+
+ABSTRACT:
+
+Organic anion transporters (Oats) mediate the initial step of active                both strains without gender predominance. In both strains, Oat3
+renal excretion, specifically substrate uptake into proximal tubule                 mRNA was highest in kidney, and liver expression was male-pre-
+cells. Despite extensive characterization of rat Oats, mouse Oat                    dominant. However, only 129J mice had higher Oat3 mRNA levels
+expression patterns are virtually unknown. This study was de-                       in female kidney than in male kidney. During postnatal develop-
+signed to identify basal expression patterns of mouse Oat1                          ment, both Oat1 and Oat2 mRNA levels began to rise after 25 days
+(Slc22a6), Oat2 (Slc22a7), and Oat3 (Slc22a8) mRNA, compare                         of age. Oat3 mRNA levels rose gradually from birth through 40 days
+these patterns with those in rat, and characterize postnatal devel-                 of age. Oat2 mRNA increased 30-fold during the first 40 days,
+opment of mouse Oat mRNA. Tissues were collected from adult                         whereas Oat1 and Oat3 increased about 2-fold. The most notable
+male and female 129J and C57BL/6 mice, and male and female                          species differences in Oat mRNA expression were a lack of Oat2
+C57BL/6 mice 0 to 40 days of age. Oat mRNA levels were deter-                       female predominance in mouse kidney and a less dramatic Oat3
+mined by branched DNA signal amplification. Mouse Oat1 mRNA                         male predominance in mouse liver. With the exception of a signif-
+was primarily expressed in kidney of both strains, with male pre-                   icant species difference in Oat2 expression, many similarities were
+dominance. Mouse Oat2 mRNA levels were highest in kidney of                         found between rat and mouse Oat mRNA levels.
+
+
+
+
+   In kidney, organic anion transporters (Oats1) are generally accepted             days 12 through 18. Oat1 mRNA was initially detected in kidney and
+to function as uptake transporters that aid the passage of organic                  brain on embryonic day 14. Kidney levels rose throughout develop-
+anions from interstitial fluid into proximal tubule cells. Organic anion            ment, whereas transcript levels in brain decreased between fetal and
+transporters are important in pharmacology and toxicology because                   adult ages (Pavlova et al., 2000).
+many xenobiotics are cleared from the body as anionic moieties.                        Oat2 (Slc22a7) expression was determined by in situ hybridization
+Additional processes and transporters aid the movement of anions                    in adult mouse kidney and liver, where mRNA levels appeared to be
+through the cell and across the brush-border membrane. The impor-                   highest in liver (Pavlova et al., 2000). In kidney, expression was
+tance Oats possess in determining half-life, clearance, and even effi-              localized to the cortex. Additionally, Oat2 expression was determined
+cacy or toxicity of xenobiotics demands a clear understanding of Oat                in mouse kidney, liver, lung, and cartilage at embryonic day 14
+expression patterns in commonly used laboratory animal models.                      (Pavlova et al., 2000). Although Oat2 mRNA levels increased in
+   Oat expression has been extensively characterized in rat (Simonson               kidney throughout development, liver levels were consistently higher
+et al., 1994; Sekine et al., 1997, 1998; Kusuhara et al., 1999; Nakajima            than those in kidney (Pavlova et al., 2000).
+et al., 2000; Buist et al., 2002; Kobayashi et al., 2002). However,                    Oat3 (Slc22a8) was first described in mouse by identification of
+limited data are available regarding mouse Oat expression. Mouse                    differentially expressed genes in the juvenile polycystic kidney mouse
+Oat1 (Slc22a6) was predominantly detected in kidney of male mouse                   model (Brady et al., 1999). Furthermore, expression of this gene was
+tissues (Lopez-Nieto et al., 1997). Additionally, developmental ex-                 markedly decreased in kidney of the osteosclerosis mouse model,
+pression of mouse Oat1 in kidney was examined at embryonic days 15                  leading to the original name “reduced in osteosclerosis transporter”
+to 19. Greatest expression was found on embryonic day 19 (Lopez-                    (Brady et al., 1999). In C57BL/6J mice, Oat3 mRNA was highly
+Nieto et al., 1997). Pavlova et al. (2000) also determined prenatal                 expressed in kidney, but not in any other tissue examined (Brady et
+developmental expression of mouse Oat1 mRNA during embryonic                        al., 1999). Pavlova et al. (2000) observed limited expression of Oat3
+                                                                                    mRNA in mouse brain and liver at embryonic day 12. Kidney ex-
+                                                                                    pression of Oat3 mRNA was first observed on embryonic day 16 in
+  1
+     Abbreviations used are: Oat, organic anion transporter; bDNA, branched         the cortex. In adult mice, kidney levels of Oat3 mRNA were high,
+DNA; GH, growth hormone; KO, knockout; PFOA, perfluoro-octanoic acid; RLU,          with lower expression observed in liver (Pavlova et al., 2000).
+relative light unit(s).                                                                Investigations into expression of mouse Oat1 and Oat3 mRNA
+                                                                                    levels in various adult tissues have been limited to male mice. Tissue
+   Address correspondence to: Dr. Curtis D. Klaassen, Department of Pharma-
+                                                                                    distribution of Oat1 and Oat3 mRNA in female mice and Oat2 mRNA
+cology, Toxicology, and Therapeutics, Mail Stop #1018, University of Kansas
+Medical Center, Kansas City, KS 66160. Email: cklaasse@kumc.edu
+                                                                                    in both males and females remains to be determined. Furthermore,
+                                                                                    although embryonic expression of mouse Oat mRNA has been well
+                                                                                620
+                              SPECIES-PREDOMINANT EXPRESSION OF ORGANIC ANION TRANSPORTERS                                                                              621
+documented, no data exist regarding postnatal developmental expres-                                                        TABLE 1
+sion. Therefore, the primary goal of this study was to semiquantita-                 Oligonucleotide probes generated for analysis of mouse Oat1, Oat2, and Oat3
+tively determine Oat1, Oat2, and Oat3 mRNA levels in various tissues                                   expression by bDNA signal amplification
+of male and female mice. Furthermore, Oat expression was deter-                                   Target Sequencea                                   Functionb
+mined as a function of postnatal development in male and female                                  Oat1 (accession no. NM_008766)
+C57BL/6 mouse kidney. Additionally, these data were compared with                                  987–1007                                             CE
+Oat1, Oat2, and Oat3 mRNA levels in Sprague-Dawley rats to con-                                    1065–1088                                            CE
+tribute to the understanding of species differences.                                               1166–1183                                            CE
+                                                                                                   1411–1431                                            CE
+                                                                                                   968–986                                              LE
+                           Materials and Methods                                                   1008–1025                                            LE
+    Materials. Sodium chloride, HEPES sodium salt, HEPES free acid, lithium                        1109–1132                                            LE
+                                                                                                   1133–1149                                            LE
+lauryl sulfate, EDTA, and D-(⫹)-glucose were purchased from Sigma-Aldrich                          1184–1205                                            LE
+(St. Louis, MO). Micr-O-protect was purchased from Roche Diagnostics                               1228–1247                                            LE
+(Indianapolis, IN). Formaldehyde, 4-morpholinepropanesulfonic acid, sodium                         1248–1268                                            LE
+citrate, and NaHCO3 were purchased from Fischer Chemicals (Fairlawn, NJ).                          1348–1366                                            LE
+Chloroform, agarose, and ethidium bromide were purchased from AMRESCO                              1367–1384                                            LE
+                                                                                                   1385–1410                                            LE
+Inc. (Solon, OH).
+                                                                                                   1432–1453                                            LE
+    Animals. C57BL/6 mice were purchased from Charles River Laboratories                           1026–1042                                            BL
+Inc. (Wilmington, MA). Timed pregnant C57BL/6 females were purchased for                           1043–1064                                            BL
+the ontogeny study. 129J mice were purchased from The Jackson Laboratory                           1089–1108                                            BL
+(Bar Harbor, ME). Mice were maintained in a 12-h dark/light cycle, temper-                         1150–1165                                            BL
+ature- and humidity-controlled environment according to American Animal                            1206–1227                                            BL
+                                                                                                   1269–1289                                            BL
+Associations Laboratory Animal Care guidelines and allowed water and rat                           1290–1307                                            BL
+chow (Teklad; Harlan, Indianapolis, IN) ad libitum. Mice were euthanized at                        1308–1332                                            BL
+8 weeks of age (n ⫽ 5/gender). Kidney, liver, lung, small intestine, large                         1333–1347                                            BL
+intestine, and brain sections were immediately removed and snap-frozen in                        Oat2 (accession no. BC013474)
+liquid nitrogen. Only kidney and liver were obtained from C57BL/6 females                          1452–1473                                            CE
+for analysis. The ontogeny study was conducted on kidney tissue from                               1554–1572                                            CE
+                                                                                                   1615–1634                                            CE
+C57BL/6 mice euthanized every 5 days from birth (day 0) through 40 days of                         1701–1724                                            CE
+age (n ⫽ 5/gender/day).                                                                            1791–1815                                            CE
+    Total RNA Isolation. Total RNA was isolated using RNAzol B reagent                             1427–1451                                            LE
+(Tel-Test Inc., Friendswood, TX) according to the manufacturer’s protocol.                         1474–1490                                            LE
+RNA pellets were resuspended in diethyl pyrocarbonate-treated deionized                            1510–1530                                            LE
+                                                                                                   1594–1614                                            LE
+water. Total RNA concentrations were quantified spectrophotometrically at
+                                                                                                   1635–1655                                            LE
+260 nm. Integrity of RNA samples was analyzed by formaldehyde-agarose gel                          1656–1678                                            LE
+electrophoresis (1.2% agarose, 2.1 M formaldehyde in 1⫻ MOPS, 210 ␮g of                            1679–1700                                            LE
+ethidium bromide/mg of sample) with visualization under ultraviolet light by                       1725–1748                                            LE
+ethidium bromide fluorescence.                                                                     1749–1769                                            LE
+    Development of Specific Oligonucleotide Probe Sets for Branched DNA                            1770–1790                                            LE
+                                                                                                   1491–1509                                            BL
+(bDNA) Analysis. Gene sequences of interest were accessed from GenBank                             1531–1553                                            BL
+(mouse Oat1, Oat2, and Oat3; Table 1). Target sequences were analyzed with                         1573–1593                                            BL
+ProbeDesigner software version 1.0 (Bayer Corp., Emeryville, CA) for suit-                       Oat3 (accession no. NM_031194)
+ability as capture, label, or blocker probes. Multiple specific probes were                        1315–1336                                            CE
+developed to each Oat mRNA transcript (Table 1). All oligonucleotide probes                        1404–1425                                            CE
+were designed with a melting temperature of approximately 63°C. This en-                           1577–1599                                            CE
+                                                                                                   1645–1665                                            CE
+abled hybridization conditions to be held constant (i.e., 53°C) during each step                   1687–1710                                            CE
+for each oligonucleotide probe set. Each probe designed in ProbeDesigner was                       1337–1356                                            LE
+submitted to the National Center for Biotechnology Information for nucleotide                      1380–1403                                            LE
+comparison by the Basic Local Alignment Search Tool (BLASTn; Altschul et                           1426–1448                                            LE
+al., 1997) to ensure minimal cross-reactivity with other mouse sequences.                          1472–1492                                            LE
+                                                                                                   1516–1536                                            LE
+Oligonucleotides with a high degree of similarity (⬎80%) to other mouse gene
+                                                                                                   1557–1576                                            LE
+transcripts were eliminated from the design. Together, the high melting tem-                       1666–1686                                            LE
+perature and sequence specificity to the gene of interest ensure detection of the                  1357–1379                                            BL
+specific mRNA of interest. Probes were synthesized by QIAGEN Operon                                1449–1471                                            BL
+(Alameda, CA).                                                                                     1493–1515                                            BL
+    bDNA Assay. Reagents required for RNA analysis (i.e., lysis buffer,                            1537–1556                                            BL
+                                                                                                   1600–1623                                            BL
+amplifier/label probe buffer, and substrate solution) were supplied in the                         1624–1644                                            BL
+HV-QuantiGene bDNA signal amplification kit (Bayer Corp.-Diagnostics
+Div., Tarrytown, NY). Oat1, Oat2, and Oat3 mRNA levels were analyzed                  CE, capture extender; LE, label extender; BL, blocker.
+                                                                                      a
+                                                                                        Target refers to the sequence of the mRNA transcript as enumerated in the GenBank file.
+according to the method of Hartley and Klaassen (2000). Briefly, specific             b
+                                                                                        Function refers to the utility of the oligonucleotide probe in the bDNA assay.
+mouse Oat oligonucleotide probes were diluted in lysis buffer. Total RNA (1
+␮g/␮l; 10 ␮l) was added to each well of a 96-well plate containing 50 ␮l of
+capture hybridization buffer [0.05 M HEPES sodium salt, 0.05 M HEPES free           and luminescence was measured with a Quantiplex 320 bDNA luminometer
+acid, 0.037 M lithium lauryl sulfate, 0.5% (v/v) Micr-O-protect, 8 mM EDTA,         interfaced with Quantiplex Data Management software version 5.02 for anal-
+0.3% (w/v) nucleic acid blocking agent] and 50 ␮l of diluted probe set. Total       ysis of luminescence from 96-well plates. Data are presented as relative light
+RNA was allowed to hybridize to probe sets overnight at 53°C. Subsequent            units (RLU) per 10 ␮g total RNA.
+hybridization steps were carried out according to the manufacturer’s protocol,         Statistical Analysis. Bars represent mean ⫾ S.E.M. Data were analyzed by
+622                                                                BUIST AND KLAASSEN
+
+
+
+
+                                                           FIG. 1. Tissue expression of mouse Oat mRNA.
+   Top, Oat1 mRNA levels; middle, Oat2 mRNA levels; bottom, Oat3 mRNA levels. Left, C57BL/6 mouse strain; right, 129J mouse strain. Insets, enlargements of Oat3
+mRNA levels in liver. Six and 10 tissues were analyzed for Oat mRNA levels in C57BL/6 and 129J mouse strains, respectively. Only kidney and liver were available from
+female C57BL/6 mice (n ⫽ 5), whereas all six tissues were analyzed from male C57BL/6 mice (n ⫽ 5). All 10 tissues were analyzed in both male and female 129J mice
+(n ⫽ 5). 多, gender differences were identified by Student’s t test (p ⱕ 0.05). L. Intestine, large intestine.
+
+
+Student’s t test. Asterisks indicate a statistical difference ( p ⱕ 0.05) between   C57BL/6 and 129J mice (Fig. 1, top left and right). In liver, Oat1
+genders.                                                                            mRNA was nearly undetectable in both mouse strains. Oat2 mRNA
+                                                                                    levels were high in kidney with no apparent gender predominance
+                                   Results                                          (Fig. 1, middle left and right). Liver levels of Oat2 mRNA were low
+   Six tissues from C57BL/6 mice and 10 tissues from 129J mice were                 compared with kidney. Oat3 mRNA levels were similar between male
+analyzed for Oat1, Oat2, and Oat3 mRNA levels (Fig. 1). Transcript                  and female C57BL/6 mice in most tissues examined (Fig. 1, bottom
+levels for all three Oats were highest in kidney of both mouse strains.             left). However, kidney levels of Oat3 mRNA were higher in 129J
+Oat1 mRNA levels were male-predominant in kidney of both                            female mice than in males (Fig. 1, bottom right). Although Oat3
+                             SPECIES-PREDOMINANT EXPRESSION OF ORGANIC ANION TRANSPORTERS                                                                     623
+
+
+
+
+   FIG. 2. Comparison of rat and mouse kidney and liver Oat mRNA gender
+                                 differences.
+                                                                                     FIG. 3. Comparison of kidney and liver Oat mRNA levels in male and female
+   Male/female mRNA ratios are presented for Oat1 (top), Oat2 (middle), and Oat3                                   rats and mice.
+(bottom). Rat Oat differences were previously reported by Buist et al. (2002).
+                                                                                      Kidney/liver mRNA ratios are presented for Oat1 (top), Oat2 (middle), and Oat3
+                                                                                   (bottom). Rat Oat data were previously reported by Buist et al. (2002).
+mRNA levels were low in liver as compared with kidney, there was
+a distinct male predominance in liver in both strains (Fig. 1, bottom              in kidney than in liver, whereas in mouse, Oat2 mRNA is much higher
+insets).                                                                           in kidney than in liver. There was not a dramatic difference in relative
+   The relative expression patterns of Oat mRNA in C57BL/6 and                     tissue expression of Oat2 between female rats and mice. The Oat3
+129J mouse strains were compared with corresponding Oat mRNA in                    mRNA kidney/liver ratio in male rats was 6.9, whereas in C57BL/6
+Sprague-Dawley rats by gender (Fig. 2; Buist et al., 2002). Rat and                and 129J mice the ratio was 52 and 33, respectively (Fig. 3, bottom).
+mouse both demonstrate Oat1 male predominance in kidney. How-                      This second species difference is due to much lower levels of Oat3
+ever, the gender difference is more pronounced in both mouse strains               mRNA in male mouse liver than was observed in male rat liver as
+as compared with rat (Fig. 2, top). Oat2, which is expressed at similar            compared with respective kidney levels. As with the female Oat2
+levels by males and females in kidney of both C57BL/6 and 129J                     ratios, Oat3 mRNA kidney/liver ratios in female rats and mice were
+mouse strains, is distinctly female-predominant in rat, with mRNA                  similar.
+levels in male kidney being only 16% of those in female kidney (Fig.                  Postnatal development of Oat mRNA expression was examined in
+2, middle). Oat3 mRNA expression in rat liver is male-predominant,                 kidney of male and female C57BL/6 mice. Oat1 mRNA levels de-
+exhibiting 11-fold higher levels than females. Oat3 mRNA levels are                clined slightly from the day of birth through 10 days of age, at which
+also expressed in a male-predominant manner in liver of both mouse                 point mRNA expression reached a plateau (Fig. 4, top). Between 25
+strains; however, there is only an approximately 1.3- to 1.4-fold                  and 30 days of age, male levels of Oat1 mRNA began to climb and
+difference between males and females (Fig. 2, bottom).                             continued to do so through 40 days of age, whereas female levels
+   In addition to identifying differences in gender-predominant ex-                remained relatively constant. Male levels of Oat1 mRNA increased
+pression patterns, kidney/liver ratios were used to identify differences           2.5-fold from birth to 40 days of age, whereas female levels did not
+in relative tissue predominance (Fig. 3; Buist et al., 2002). The Oat1             change (Fig. 4, top). Additionally, male-predominant expression of
+relative tissue expression is similar between rat and mouse, the only              Oat1 mRNA becomes apparent at 30 days of age. Oat2 mRNA was
+difference being a slightly greater relative expression in kidney of               low from birth through 25 days of age in kidney (Fig. 4, middle).
+male mice with respect to liver than was observed in male rats (Fig.               Between 25 and 30 days of age, Oat2 mRNA levels began to rise, with
+3, top). Oat2 mRNA tissue predominance was quite different between                 male levels rising more sharply than female levels. By 40 days of age,
+male rat and mouse (Fig. 3, middle). In male rat, Oat2 mRNA is lower               male and female Oat2 mRNA levels had increased 38- and 25-fold
+624                                                                   BUIST AND KLAASSEN
+
+                                                                                           Nephrotoxicity associated with ␣2u-globulin illustrates the impor-
+                                                                                        tance of clearly characterizing gender and species differences. Ne-
+                                                                                        phropathy occurs in male rats following exposure to certain chemicals
+                                                                                        such as d-limonene (Lehman-McKeeman et al., 1989) or unleaded
+                                                                                        gasoline (Short et al., 1987). However, this phenomenon does not
+                                                                                        occur in female rats or male or female mice. Male rats accumulate
+                                                                                        ␣2u-globulin-rich protein droplets in kidney following exposure to
+                                                                                        certain chemicals, whereas females do not (Short et al., 1987). The
+                                                                                        accumulation of these droplets initiates a mechanism ultimately lead-
+                                                                                        ing to nephropathy (Short et al., 1989). Thus, ␣2u-globulin-associated
+                                                                                        nephropathy is both gender- and species-specific. Knowledge of the
+                                                                                        species-specific nature of ␣2u-globulin nephropathy has been critical
+                                                                                        to determining human risk assessment guidelines. Likewise, as sub-
+                                                                                        strates of Oats continue to be identified, knowledge of species differ-
+                                                                                        ences will be critical in evaluating the relevance or applicability of
+                                                                                        identified toxicities between species.
+                                                                                           C57BL/6 and 129J mice are commonly used as background strains
+                                                                                        in the development of knockout (KO) mice. Numerous KO mouse
+                                                                                        models are available that might be used to delineate mechanisms of
+                                                                                        differential expression. For example, Stat5b KO mice can be used to
+                                                                                        investigate the role of growth hormone (GH) in gender-specific ex-
+                                                                                        pression. However, to use such models, it is necessary to determine
+                                                                                        whether the gene of interest is differentially expressed in the back-
+                                                                                        ground, or wild-type, strain. In the case of Oats, Buist et al. (2002)
+                                                                                        identified female-predominant expression of Oat2 mRNA in kidney
+                                                                                        and male-predominant expression of Oat3 in liver of Sprague-Dawley
+                                                                                        rats. These expression patterns were subsequently related to GH
+                                                                                        regulation (Buist and Klaassen, 2003). The next goal was to examine
+                                                                                        the mechanisms of differential Oat2 and Oat3 expression in various
+                                                                                        mouse models of GH disruption. Therefore, mouse Oat expression in
+                                                                                        C57BL/6 and 129J mice was determined to identify the applicability
+                                                                                        of KO mouse models to investigate these gender-predominant expres-
+                                                                                        sion phenomena.
+                                                                                           Gender and species (rat versus mouse) differences in Oat mRNA
+                                                                                        expression are summarized in Figs. 1 to 3. Most notably, Oat2 mRNA
+                                                                                        levels are markedly higher in female (125 RLU) than in male (25
+                                                                                        RLU) rat kidney (Buist et al., 2002). However, Oat2 expression is not
+   FIG. 4. Developmental expression of Oat mRNA in C57BL/6 mouse kidney.                gender-predominant in mouse kidney. Interestingly, perfluoro-oc-
+   Top, Oat1 mRNA levels; middle, Oat2 mRNA levels; bottom, Oat3 mRNA                   tanoic acid (PFOA), a chemical used in the production of nonstick
+levels. Kidneys were removed from male and female C57BL/6 mice from birth (day          cookware and protective finishes on carpets, is excreted into urine by
+0) through 40 days of age (n ⫽ 5/age/gender) and analyzed for Oat mRNA levels.
+Gender differences at each time point were identified by Student’s t test (p ⱕ 0.05).   female rats at a greater rate than by male rats (Griffith and Long,
+                                                                                        1980; Hanhijärvi et al., 1982; Kudo et al., 2002). Additionally, PFOA
+from birth, respectively. By 40 days of age, Oat3 mRNA levels                           induces liver toxicity in male rats, but not in female rats, presumably
+increased 3-fold above levels at birth, with a similar expression                       due to differences in the urinary excretion rate (Griffith and Long,
+pattern in male and female kidney throughout development (Fig. 4,                       1980). Moreover, mice exhibit no sex-related difference in toxicity
+bottom).                                                                                following PFOA exposure (Sohlenius et al., 1992). Similarly, there is
+                                                                                        not a significant difference in Oat2 mRNA levels in kidney between
+                                   Discussion                                           male and female mice. Provided PFOA is a substrate of Oat2, urinary
+   Understanding species differences carries a 2-fold importance as                     excretion may be similar in male and female mice and may occur at
+regards xenobiotic disposition. First, knowledge of species differences                 a rate similar to that in female rats, thus avoiding the liver toxicity
+with respect to drug metabolism, clearance, and toxicity at the mo-                     observed in male rats. Hence, Oat2 expression may be an important
+lecular level enhances characterization of commonly used laboratory                     determinant in the excretion and toxicity of PFOA and should be
+animal models. Second, information regarding species differences                        examined as a possible factor in PFOA-related hepatotoxicity.
+increases the ability to apply animal data describing metabolism,                          Distribution of Oat mRNA between kidney and liver varies be-
+clearance, and toxicity to other species, such as humans. Oats are                      tween species. The Oat2 mRNA kidney/liver ratio is higher in mouse
+known to participate in clearance by transporting a wide range of                       than in rat (Fig. 3, middle). Additionally, the Oat3 mRNA kidney/liver
+xenobiotics, including nonsteroidal anti-inflammatory drugs, ␤-lac-                     ratio in male mice is much higher than in male rats. The differences
+tam antibiotics, vitamins, and antineoplastic drugs, thus influencing                   in distribution of Oats may translate into species differences in the
+the pharmacokinetics of such substrates. In this respect, knowledge of                  pharmacokinetics of Oat substrates if protein expression and transport
+Oat expression in commonly used animal models is necessary to                           activity are similar to mRNA expression. Thus, species differences are
+interpret data and extrapolate results across species.                                  important considerations in determining the most appropriate exper-
+                          SPECIES-PREDOMINANT EXPRESSION OF ORGANIC ANION TRANSPORTERS                                                                                 625
+imental animal models to use in answering questions regarding tox-         in the expression of Oat2 mRNA. Rats express Oat2 mRNA at high
+icity or urinary excretion following xenobiotic exposure.                  levels in female kidney and low levels in male kidney, whereas mice
+   Development of KO animals, and ensuing experiments, will help to        express high levels of Oat2 in kidney, without gender specificity.
+specifically determine the role individual Oats play in organic anion      Additionally, whereas rats and mice demonstrate a male-predominant
+excretion. An Oat3 KO mouse has already been developed (Sweet et           expression pattern of Oat3 in liver, the relative expression between
+al., 2002). This model has no known morphological defects. However,        liver and kidney is different in male rat as compared with male mouse.
+transport of taurocholate, estrone sulfate, and para-aminohippurate by     Specifically, the level of Oat3 mRNA in liver is higher in male rat
+renal slices of Oat3 KO mice is lower than that by wild-type controls.     than it is in male mouse with respect to kidney. These differences
+This model will ultimately help to define the role of Oat3 in mouse        indicate that species differences in Oats exist and may be important in
+kidney. Additionally, the data will likely be useful in understanding      the interpretation of data regarding pharmacokinetics and toxicity of
+the handling of organic anions by rat kidney.                              organic anions.
+   Transport by hepatic slices in the Oat3 KO mouse model may not
+be directly correlated to rat, due to higher expression of Oat3 in rat       Acknowledgments. We thank Jon Maher, Mindy Shelby, and Drs.
+liver with respect to kidney than is found in mice (Fig. 3, bottom). For   Tyra Leazer and Angela Slitt for their assistance in this project.
+example, hepatic uptake of taurocholate by liver slices from Oat3 KO
+mice does not differ from wild-type mouse uptake (Sweet et al.,                                                      References
+2002). Yet, male rat liver has relatively higher levels of Oat3 mRNA       Altschul SF, Madden TL, Schaffer AA, Zhang J, Zhang Z, Miller W, and Lipman DJ (1997)
+                                                                             Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.
+than have male mice. Therefore, Oat3 may play a larger role in hepatic       Nucleic Acids Res 25:3389 –3402.
+transport of taurocholate in male rat. However, other transporters such    Barnett HL, McNamara H, Shultz S, and Tompsett R (1949) Renal clearances of sodium
+as sodium taurocholate polypeptide likely transport a larger load of         penicillin G, procaine penicillin G and inulin in infants and children. Pediatrics 3:418 – 422.
+                                                                           Brady KP, Dushkin H, Fornzler D, Koike T, Magner F, Her H, Gullans S, Segre GV, Green RM,
+bile salts in liver than does Oat3 in most species. Thus, the expression     and Beier DR (1999) A novel putative transporter maps to the osteosclerosis (oc) mutation and
+of Oat3 in liver may not be of critical importance until faced with a        is not expressed in the oc mutant mouse. Genomics 56:254 –261.
+                                                                           Buist SCN, Cherrington NJ, Choudhuri S, Hartley DP, and Klaassen CD (2002) Gender-specific
+disease state, when Oat3 may act as a backup system of bile salt             and developmental influences on the expression of rat organic anion transporters (Oats).
+uptake. Nonetheless, species differences bear consideration, espe-           J Pharmacol Exp Ther 301:145–151.
+                                                                           Buist SCN and Klaassen CD (2003) Endocrine regulation of rat organic anion transporters. Drug
+cially if a KO model should also be developed for Oat2. Dramatically         Metab Dispos 31:559 –564.
+higher expression of Oat2 mRNA in female rat kidney will likely            Fetterman GH, Shuplock NA, Philipp FJ, and Gregg HS (1965) The growth and maturation of
+                                                                             human glomeruli and proximal convolutions from term to adulthood. Pediatrics 35:601– 619.
+dictate a female-predominant participation of Oat2 in renal organic        Griffith FD and Long JE (1980) Animal toxicity studies with ammonium perfluorooctanoate. Am
+anion transport that would not be observed in mice. Development of           Ind Hyg Assoc J 41:576 –583.
+an Oat2-deficient rat model would be an excellent method for deter-        Hanhijärvi H, Ophaug RH, and Singer L (1982) The sex-related difference in perfluorooctanoate
+                                                                             excretion in the rat. Proc Soc Exp Biol Med 171:50 –55.
+mining the importance of the marked gender difference in rat kidney        Hartley DP and Klaassen CD (2000) Detection of chemical-induced differential expression of rat
+expression of Oat2.                                                          hepatic cytochrome P450 mRNA transcripts using branched DNA signal amplification tech-
+                                                                             nology. Drug Metab Dispos 28:608 – 616.
+   Expression of Oats during postnatal development was examined in         Kobayashi Y, Hirokawa N, Ohshiro N, Sekine T, Sasaki T, Tokuyama S, Endou H, and
+the present study because infants often process xenobiotics differently      Yamamoto T (2002) Differential gene expression of organic anion transporters in male and
+                                                                             female rats. Biochem Biophys Res Commun 290:482– 487.
+from adults. Differences may be due to age-divergent expression of         Kudo N, Katakura M, Sato Y, and Kawashima Y (2002) Sex hormone-regulated renal transport
+metabolic enzymes and/or transport systems necessary for absorption          of perfluorooctanoic acid. Chem Biol Interact 139:301–316.
+                                                                           Kusuhara H, Sekine T, Utsunomiya-Tate N, Tsuda M, Kojima R, Cha SH, Sugiyama Y, Kanai
+or excretion. para-Aminohippurate, a classic substrate for the organic       Y, and Endou H (1999) Molecular cloning and characterization of a new multispecific organic
+anion transport system, and penicillin, another Oat substrate, are           anion transporter from rat brain. J Biol Chem 274:13675–13680.
+excreted less efficiently by newborns than by adults (West et al.,         Lehman-McKeeman LD, Rodriguez PA, Takigiku R, Caudill D, and Fey MI (1989) d-Limonene-
+                                                                             induced male rat-specific nephropathy: evaluation of the association between d-limonene and
+1948; Barnett et al., 1949). Furthermore, in humans, the capacity to         alpha 2u-globulin. Toxicol Appl Pharmacol 99:250 –259.
+transport organic anions does not mature until 7 to 8 months of age        Lopez-Nieto CE, You G, Bush KT, Barros JG, Beier DR, and Nigam SK (1997) Molecular
+                                                                             cloning and characterization of NKT, a gene product related to the organic cation transporter
+(West et al., 1948). Rat Oat transcripts in kidney are known to require      family that is almost exclusively expressed in the kidney. J Biol Chem 272:6471– 6478.
+20 to 45 days after birth to reach adult levels of expression (Buist et    Nakajima N, Sekine T, Cha SH, Tojo A, Hosoyamada M, Kanai Y, Yan K, Awa S, and Endou
+                                                                             H (2000) Developmental changes in multispecific organic anion transporter 1 expression in the
+al., 2002). Additionally, the current data demonstrate that renal Oats       rat kidney. Kidney Int 57:1608 –1616.
+in mice are also immature at birth and require approximately 25 days       Pavlova A, Sakurai H, Leclercq B, Beier DR, Yu ASL, and Nigam SK (2000) Developmentally
+                                                                             regulated expression of organic ion transporters NKT (OAT1), OCT1, NLT (OAT2) and Roct.
+to mature to adult levels. In particular, Oat1 and Oat2 mRNA remain          Am J Physiol 278:F635–F643.
+low through 25 days of age. Expression of both begins to rise at 30        Sekine T, Cha SH, Tsuda M, Apiwattanakul N, Nakajima N, Kanai Y, and Endou H (1998)
+days of age, whereas Oat3 expression matures more gradually. Addi-           Identification of multispecific organic anion transporter 2 expressed predominantly in the liver.
+                                                                             FEBS Lett 429:179 –182.
+tionally, Oat1 and Oat3 mRNA levels are increased 2- and 3-fold            Sekine T, Watanabe N, Hosoyamada M, Kanai Y, and Endou H (1997) Expression cloning and
+during the first 40 days of postnatal development, respectively. In          characterization of a novel multispecific organic anion transporter. J Biol Chem 272:18526 –
+                                                                             18529.
+contrast, Oat2 mRNA levels increase 30-fold during the same time           Short BG, Burnett VL, Cox MG, Bus JS, and Swenberg JA (1987) Site-specific renal toxicity
+frame. These data may be related to the fact that there is minimal           and cell proliferation in male rats exposed to petroleum hydrocarbons. Lab Investig
+                                                                             57:564 –577.
+tubular development, despite a full complement of nephrons, at birth       Short BG, Burnett VL, and Swenberg JA (1989) Elevated proliferation of proximal tubule cells
+(West et al., 1948). In fact, the length of human proximal tubules is        and localization of accumulated alpha 2u-globulin in F344 rats during chronic exposure to
+                                                                             unleaded gasoline or 2,2,4-trimethylpentane. Toxicol Appl Pharmacol 101:414 – 431.
+not fully mature by 3.5 years of age (Fetterman et al., 1965). Further-    Simonson GD, Vincent AC, Roberg KJ, Huang Y, and Iwanij V (1994) Molecular cloning and
+more, the increase in Oat expression during postnatal development            characterization of a novel liver-specific transport protein. J Cell Sci 107:1065–1072.
+may be linked to lengthening of the tubular structure by a common          Sohlenius AK, Andersson K, and DePierre JW (1992) The effects of perfluoro-octanoic acid on
+                                                                             hepatic peroxisome proliferation and related parameters show no sex-related differences in
+developmental trigger. Most importantly, recognition of the fact that        mice. Biochem J 285:779 –783.
+organic anion transport is less developed in newborns than in adults       Sweet DH, Miller DS, Pritchard JB, Fujiwara Y, Beier DR, and Nigam SK (2002) Impaired
+                                                                             organic anion transport in kidney and choroid plexus of organic anion transporter 3 (Oat3
+sets the stage to consider the age-dependent expression of Oats as a         (Slc22a8)) knockout mice. J Biol Chem 277:26934 –26943.
+mechanism for age-related changes in renal excretion and toxicity.         West JR, Smith HS, and Chasis H (1948) Glomerular filtration rate, effective renal blood
+                                                                             flow and maximal tubular excretory capacity in infancy. J Pediatr 32:10 –18. Financial
+   Overall, rat and mouse relative Oat mRNA levels share many                support for this research was provided by National Institutes of Health Grants ES-09649
+similarities. However, a significant species difference was identified       and ES-07079.
+
