@@ -219,6 +219,26 @@ def build_tk():
                 out.append(rec(parameter=par, value=num(r[key]), units=un,
                                method=meth, **base))
 
+    for r in rows(os.path.join(PRIM, "ohmori2003_rat_chain_length.csv")):
+        for sex, key in (("male", "halflife_male_d"), ("female", "halflife_female_d")):
+            out.append(rec(
+                chemical=r["chemical"], species="rat", sex=sex,
+                parameter="halflife", value=num(r[key]), units="d", route="iv",
+                method="terminal phase", study="Ohmori et al.", year="2003",
+                pmid_or_doi="12499116", source_table="abstract",
+                provenance="primary_2026/ohmori2003_rat_chain_length.csv",
+                notes=r.get("note")))
+
+    for r in rows(os.path.join(PRIM, "shi2016_clpfesa_human.csv")):
+        out.append(rec(
+            chemical=r["chemical"], species="human", parameter=r["parameter"],
+            value=num(r["median"]), units=r["units"], method="one-compartment",
+            study="Shi et al.", year="2016",
+            pmid_or_doi="26866980 / 10.1021/acs.est.5b05849",
+            source_table="abstract",
+            provenance="primary_2026/shi2016_clpfesa_human.csv",
+            notes=f"range {r['range']}; {r['note']}" if r["range"] else r["note"]))
+
     for r in rows(os.path.join(PRIM, "han2012_table4_reabsorption_axis.csv")):
         for par, key, un in (("gfr", "gfr_L_d_kg", "L/d/kg"),
                              ("renal_clearance", "clr_mL_d_kg", "mL/d/kg"),
@@ -261,6 +281,16 @@ def build_binding():
                 "study": r.get("study", ""), "year": r.get("year", ""),
                 "pmid_or_doi": r.get("pmid", "") or r.get("doi", ""),
                 "provenance": fn, "notes": r.get("notes", "")})
+    for r in rows(os.path.join(PRIM, "han2003_pfoa_albumin_binding.csv")):
+        out.append({
+            "chemical": "PFOA", "species": "rat and human",
+            "protein": r["protein"], "measure": r["parameter"],
+            "value": r["value"], "units": r["units"], "method": r["method"],
+            "study": "Han et al.", "year": "2003",
+            "pmid_or_doi": "12807361 / 10.1021/tx034005w",
+            "provenance": "primary_2026/han2003_pfoa_albumin_binding.csv",
+            "notes": f"ligand:protein {r['ligand_protein_molar_ratio']}; {r['note']}"})
+
     for r in rows(os.path.join(PRIM, "argoul2026_mouse_tk.csv")):
         if r.get("fu_pct"):
             out.append({
@@ -316,6 +346,21 @@ def build_transporters():
             "pmid_or_doi": "20639259 / 10.1093/toxsci/kfq219",
             "provenance": "primary_2026/yang2010_human_apical_transporters.csv",
             "notes": r["note"]})
+    for r in rows(os.path.join(PRIM, "louisse2024_human_oat_km.csv")):
+        out.append({
+            "transporter": r["transporter"], "species": "human",
+            "chemical": r["chemical"], "measure": "Km",
+            "value": r["km_uM"] or "no transport observed", "units": "uM",
+            "direction": "basolateral / secretory" if r["transporter"] in
+                         ("OAT1", "OAT2", "OAT3") else "apical / reabsorptive",
+            "condition": f"Vmax {r['vmax_nmol_min_mg']} nmol/min/mg; "
+                         f"efficiency {r['efficiency_uL_min_mg']} uL/min/mg"
+                         if r["vmax_nmol_min_mg"] else "",
+            "study": "Louisse et al.", "year": "2024",
+            "pmid_or_doi": "10.1016/j.tox.2024.153961",
+            "provenance": "primary_2026/louisse2024_human_oat_km.csv",
+            "notes": f"SE {r['km_se']}" if r["km_se"] else r["source"]})
+
     for r in rows(os.path.join(PRIM, "cheng2005_mouse_oatp_sex.csv")):
         out.append({
             "transporter": r["transporter"], "species": "mouse (C57BL/6)",

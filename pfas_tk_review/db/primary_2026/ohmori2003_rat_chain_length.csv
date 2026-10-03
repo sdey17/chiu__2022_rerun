@@ -1,0 +1,5 @@
+chemical,n_carbons,halflife_male_d,halflife_female_d,halflife_ratio_M_over_F,note,source
+PFHpA,7,0.10,0.05,2.0,,Ohmori 2003 abstract
+PFOA,8,5.63,0.08,70.4,"the second primary source for the ~70x rat PFOA sex ratio; Kudo 2002 gives 71x",Ohmori 2003 abstract
+PFNA,9,29.5,2.44,12.1,,Ohmori 2003 abstract
+PFDA,10,39.9,58.6,0.68,"the ONLY compound where the female half-life exceeds the male",Ohmori 2003 abstract

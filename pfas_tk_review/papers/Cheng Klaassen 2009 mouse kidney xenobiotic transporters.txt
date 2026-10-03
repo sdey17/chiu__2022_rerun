@@ -1,0 +1,880 @@
+0090-9556/09/3711-2178–2185$20.00
+DRUG METABOLISM AND DISPOSITION                                                                                                                  Vol. 37, No. 11
+Copyright © 2009 by The American Society for Pharmacology and Experimental Therapeutics                                                          27177/3525108
+DMD 37:2178–2185, 2009                                                                                                                          Printed in U.S.A.
+
+
+
+          Tissue Distribution, Ontogeny, and Hormonal Regulation of
+                  Xenobiotic Transporters in Mouse Kidneys
+                                                 Xingguo Cheng and Curtis D. Klaassen
+     Department of Pharmacology, Toxicology, and Therapeutics, University of Kansas Medical Center, Kansas City, Kansas
+                                                   Received February 16, 2009; accepted August 12, 2009
+
+
+ABSTRACT:
+
+Kidneys play important roles in the elimination of numerous en-                      highly expressed in liver and lung, Npt2c in liver and colon, Asbt in
+dogenous and exogenous chemicals. In recent years, at least 37                       ileum, and Abca1 in liver, lung, testis, ovary, and placenta of mice.
+xenobiotic transporters have been identified in mammalian kid-                       Most of these (13 of 14) transporters are lowly expressed in mouse
+neys. Although much progress has been made, information on 14                        kidneys until 15 days of age, which in part contributes to the
+of these transporters (ATP-binding cassette [Abc] a1, apical so-                     immaturity of excretory function in fetal and newborn kidneys. One
+dium bile acid transporter [Asbt], breast cancer resistance protein,                 exception is Ent2, which is highly expressed before birth and grad-
+concentrative nucleoside transporter 1, equilibrative nucleoside                     ually decreases after birth until reaching adult levels at 15 days of
+transporter [Ent] 2, Ent3, sodium-phosphate cotransporter [Npt] 1,                   age. Gender-divergent expression of male-predominant (Urat1 and
+Npt2a, Npt2b, Npt2c, organic anion transporter [Oat] 5, organic                      Oatp4c1) and female-predominant (Oat5) transporters in mouse
+anion-transporting polypeptide [Oatp] 4c1, peptide transporter 2,                    kidneys is primarily due to stimulatory effects of androgens and
+and uric acid transporter [Urat] 1) in kidneys is quite limited. There-              estrogens, respectively. In conclusion, the mRNA expression of
+fore, the purpose of the present study was to examine the tissue                     xenobiotic transporters in kidneys is determined by tissue, age,
+distribution, ontogeny, and hormonal regulation of these 14 trans-                   and sex hormones.
+porters in kidneys of mice. Other than in kidneys, Npt2b is also
+
+
+
+
+   Kidneys are pivotal in the elimination of numerous xenobiotics,                   1b), multidrug resistance-associated proteins (Mrp) 2 and 4, breast
+including drugs and environmental chemicals, as well as endogenous                   cancer resistance protein (Bcrp), and multidrug and toxin extrusion 1.
+metabolites. Kidneys have developed transport systems to prevent                     During the last decade, considerable progress has been made regard-
+urinary loss of filtered nutrients, such as glucose, oligopeptides, and              ing the identification and characterization of these organic anion and
+inorganic ions, as well as to facilitate the elimination of a variety of             cation transporters.
+xenobiotics (Fig. 1).                                                                   In addition to the transporters for the efflux of chemicals from
+   The excretory transport processes responsible for the renal tubular               blood to filtrate, there are also reuptake transporters at both the apical
+secretion of xenobiotics are performed by two distinctively localized                and basolateral membranes of the proximal tubule cells. For example,
+transporters: basolateral excretion transporters and apical excretion                apical sodium bile-acid transporter (Asbt), nucleotide transporter
+transporters (Fig. 1). The basolateral transporters responsible for the              (Cnt1), organic anion and cation transporters [sodium-phosphate co-
+renal tubular uptake of substrates from blood in mice include the                    transporter (Npt) 1, 2a, and 2c, Oat2 and 5, Oatp1a1, 1a4, 1a6, 2a1,
+organic anion transporter (Oat) 1 and 3, organic cation transporter                  2b1, and 3a1, Octn1 and n2, and uric acid transporter (Urat) 1], and
+(Oct) 1 and 2, and the organic anion-transporting polypeptide (Oatp)                 peptide transporter (Pept2) are localized in the apical membrane of
+4c1. The apical efflux transporters are ATP-dependent active trans-                  proximal tubular cells responsible for uptake of organic compounds
+porters and include P-glycoproteins (or multidrug resistance protein
+                                                                                     from the glomerular filtrate into tubular cells. In the basolateral
+                                                                                     membrane of proximal tubular cells, retro-transporters including
+   This work was supported by the National Institutes of Health National Institute   Abca1, equilibrative nucleoside transporter (Ent) 2 and 3, Mrp1, 3, 5,
+of Environmental Health Sciences [Grants ES09649, ES09716, ES013714]; and
+                                                                                     and 6, and organic solute transporter (Ost) ␣/␤ are responsible for
+the National Institutes of Health National Center for Research Resources [Grant
+RR021940].
+                                                                                     transporting compounds from the kidney back into blood (Fig. 1).
+   Article, publication date, and citation information can be found at                  Although the localization of many transporters in kidneys is known,
+http://dmd.aspetjournals.org.                                                        limited information is available about the regulation of some of these
+   doi:10.1124/dmd.109.027177.                                                       transporters, which are noted in black in Fig. 1. Therefore, the purpose
+
+
+ABBREVIATIONS: Oat, organic anion transporter; Oct, organic cation transporter; Oatp, organic anion transporting polypeptide; Mrp, multidrug
+resistance-associated protein; Bcrp, breast cancer resistance protein; Asbt, apical sodium bile-acid transporter; Cnt, concentrative nucleoside
+transporter; Npt, sodium-phosphate cotransporter; Urat1, uric acid transporter 1; Pept, peptide transporter; Abca1, ATP-binding cassette (Abc)
+transporter a1; Ent, equilibrative nucleoside transporter; Ost, organic solute transporter; MOPS, 4-morpholinepropanesulfonic acid; DHT,
+5␣-dihydroxytestosterone; E2, estrogen; GH, growth hormone; lit/lit, mutation in growth hormone-releasing-hormone receptor gene; TEA,
+tetraethylammonium; bDNA, branched DNA signal amplification assay; WT, wild-type.
+
+                                                                                 2178
+                                                              REGULATION OF TRANSPORTERS IN MOUSE KIDNEYS                                                                      2179
+
+                          Proximal Tubular Cells (PTC)                                               placebo-treated, age-matched mice, which were used as controls. Kidneys were
+                                                                                                     collected at 64 days of age from gonadectomized and age-matched control
+                                                                                                     mice.
+                        Excretion                                Reabsorption                           Growth Hormone Administration to lit/lit Mice. Growth hormone-releas-
+                                                                   Asbt                              ing hormone receptor mutant heterozygous mice (C57BL/6J-Ghrhrlit) were
+                                                                   Cnt1
+                                                                                     Abca1           purchased from The Jackson Laboratory. The mice (n ⫽ 6/group) were treated
+                                                                   Npt1
+                                                                   Npt2a
+                                                                   Oat2
+                                                                                     Ent2
+                                                                                                     for 10 days with rat GH in a male pattern (twice daily, intraperitoneal injection,
+                                                                   Npt2b
+           Oat1
+                              Bcrp
+                               Bcrp                                Npt2c             Ent3
+                                                                                                     dose of 2.5 mg of GH/kg/day), a female pattern (continuous infusion via
+
+
+
+
+                                           Lumen (Filtrate)
+
+
+
+
+                                                                                             Blood
+                                                                   Oat2                              subcutaneously implanted 21-day-release 1-mg rat GH pellet), and placebo.
+Blood
+
+
+
+
+           Oat3               Mate1                                                  Mrp1
+                                                                   Oat5
+                                                                   Oat5
+                                                                   Urat1
+                                                                   Urat1
+                                                                                                     After treatment, kidneys were collected for total RNA isolation.
+                              Mdr1b
+                              Mdr1b                                                  Mrp3
+        Oatp4c1                                                    Oatp1a1                              Total RNA Isolation. Total RNA was isolated using RNA-Bee reagents
+                              Mrp2
+                               Mrp2                                Oatp1a4           Mrp5
+           Oct1
+                                                                   Oatp1a6
+                                                                                                     (Tel-Test Inc., Friendswood, TX) according to the manufacturer’s protocol.
+                                                                                     Mrp6
+           Oct2               Mrp4
+                               Mrp4                                Oatp2a1                           RNA pellets were resuspended in diethyl pyrocarbonate-treated deionized
+                                                                   Oatp2b1
+                                                                   Oatp3a1
+                                                                                     Ost             water. Total RNA concentrations were quantified spectrophotometrically at
+                                                                   Octn1
+                                                                   Asbt
+                                                                   Octn1             Ost             260 nm.
+                                                                   Octn2
+                                                                   Octn2
+                                                                   Pept2                                Development of Specific Oligonucleotide Probe Sets for Branched DNA
+                                                                                                     Analysis. Gene sequences of interest were accessed from GenBank. The
+          Basolateral                                                                                strategy of multiple oligonucleotide probe set design has been described
+                                                                             Basolateral
+                                       Apical Side                                                   previously (Hartley and Klaassen, 2000). Oligonucleotide probe sets of mouse
+FIG. 1. Diagram of cellular localization and transport direction of known transport-                 Npt1, 2a, 2b, 2c, Oat5, and Urat1 (including capture extenders, label extenders,
+ers in kidneys. Excretion transporters from basolateral and apical membranes are                     and blockers) are shown in Table 1. Probe sets of mouse Abca1, Asbt (Cheng
+depicted in the proximal tubular cells (PTCs) of kidneys (left). Reabsorption                        and Klaassen, 2006), Bcrp (Tanaka et al., 2005), Cnt1, Ent2, Ent4 (Lu et al.,
+transporters from basolateral and apical membranes are shown in the PTCs of                          2004), Pept2 (Lu and Klaassen, 2006), and Oatp4c1 (Cheng et al., 2005) have
+kidneys (right). Transporters labeled in gray are transporters for which there are
+previously published data concerning tissue distribution, ontogeny, and gender
+                                                                                                     been reported previously. Probe sets were synthesized by Integrated DNA
+difference. Transporters labeled in black are transporters that were not fully char-                 Technologies, Inc. (Coralville, IA).
+acterized previously and are addressed in the present study.                                            bDNA Assay. Reagents required for RNA analysis (i.e., lysis buffer,
+                                                                                                     amplifier/label probe dilution buffer, and substrate solution) were supplied in
+                                                                                                     the Quantigene bDNA signal amplification kit (Panomics Inc., Fremont, CA).
+of this study was to determine the expression of these “less-studied”
+                                                                                                     Each transporter mRNA expression was analyzed according to the method
+transporters in mouse kidneys, with regard to tissue distribution,
+                                                                                                     reported previously (Hartley and Klaassen, 2000). Data are presented as
+ontogeny, and gender-divergent expression patterns.                                                  relative light units per 10 ␮g of total RNA.
+                              Materials and Methods                                                     Statistical Analysis. Data are expressed as mean ⫾ S.E.M. Data obtained
+                                                                                                     from the effects of sex hormones and growth hormones on transporter expres-
+   Materials. Sodium chloride, HEPES sodium salt, HEPES free acid, lithium                           sion in mouse kidneys were analyzed by one-way analysis of variance, fol-
+lauryl sulfate, EDTA, and D-(⫹)-glucose were purchased from Sigma-Aldrich                            lowed by Duncan’s post hoc test. Data for gender differences in the tissue
+(St. Louis, MO). Micro-O-protect was purchased from Roche Diagnostics                                distribution study and ontogeny study were analyzed by Student’s t test.
+(Indianapolis, IN). Formaldehyde, MOPS, sodium citrate, and sodium bicar-                            Statistical significance was considered at p ⬍ 0.05.
+bonate were purchased from Fisher Chemicals (Fairlawn, NJ). Chloroform,
+agarose, and ethidium bromide were purchased from AMRESCO Inc. (Solon,
+OH). Rat growth hormone was obtained through Dr. Albert F. Parlow at the                                                                 Results
+National Hormone and Pituitary Program of the National Institute of Diabetes                            Tissue Distribution of Xenobiotic Transporters. Of the 14 less-
+and Digestive and Kidney Diseases, Harbor-UCLA Medical Center (Torrance,
+                                                                                                     studied renal transporters, the tissue distributions of six of these
+CA). Pellets for subcutaneous release of the hormones used in this study,
+                                                                                                     transporters have been described previously, specifically, Oatp4c1
+5␣-dihydroxytestosterone (DHT), 17␤-estradiol (E2), growth hormone (GH),
+and placebo were purchased from Innovative Research of America (Sarasota,                            (Cheng et al., 2005), Bcrp (Tanaka et al., 2005), Cnt1, Ent2, Ent3 (Lu
+FL). All other chemicals, unless otherwise indicated, were purchased from                            et al., 2004), and Pept2 (Lu and Klaassen, 2006). Thus, the mRNA
+Sigma-Aldrich.                                                                                       expression of the remaining eight transporters was quantified in 13
+   Animals and Breeding. Eight-week-old adult male and female C57BL/6                                mouse tissues (Figs. 2 and 3). Npts are important in maintaining
+mice (n ⫽ 6/gender) were purchased from The Jackson Laboratory (Bar                                  phosphate homeostasis in vertebrates and in transport of ␤-lactam
+Harbor, Maine) and housed according to American Animal Association Lab-                              antibiotics as well as inorganic anions (Yabuuchi et al., 1998). Npt1
+oratory Animal Care guidance. For tissue distribution, 12 tissues (liver, kidney,                    mRNA expression was highest in mouse kidney but was much lower
+lung, stomach, duodenum, jejunum, ileum, colon, heart, brain, testis, and
+                                                                                                     in liver and other tissues. A gender difference in Npt1 mRNA expres-
+ovary) were collected. Placenta was removed from pregnant mice on day ⫺2.
+                                                                                                     sion was observed in mouse kidneys, with 33% higher levels in males.
+The small intestine was longitudinally dissected, rinsed in saline, and divided
+into three equal-length sections (duodenum, jejunum, and ileum), before being                        Npt2a mRNA (Fig. 2) was almost exclusively expressed in mouse
+snap-frozen in liquid nitrogen. For the ontogeny study, mice were bred in the                        kidneys, with 43% higher levels in kidneys of male than female mice.
+animal facilities at the University of Kansas Medical Center. Kidneys from                           Npt2b mRNA expression (Fig. 2) was low in all tissues examined,
+male and female C57BL/6 mice were collected at ⫺2, 0, 5, 10, 15, 22, 30, 35,                         with the highest levels in liver, modest levels in lung, heart, and brain,
+40, and 45 days of age (n ⫽ 5/gender/age), snap-frozen in liquid nitrogen, and                       and lower levels in other tissues. Npt2c mRNA expression was
+stored at ⫺80°C.                                                                                     highest in mouse kidneys, followed by colon and liver, and low in
+   Sex Hormone Administration to Gonadectomized Mice. C57BL/6 mice                                   other tissues. There are gender differences in Npt2c mRNA expres-
+were castrated or ovariectomized at 37 days of age by Charles River Labora-
+                                                                                                     sion in mouse liver (female predominance) and heart (male predom-
+tories (Wilmington, MA). At 54 days of age, DHT (5 mg), E2 (0.5 mg), or
+                                                                                                     inance) (Fig. 2).
+vehicle in 21-day-release pellets (Innovative Research of America) were
+implanted subcutaneously in the gonadectomized male and female mice. The                                Abca1, also named cholesterol efflux regulatory protein, was ex-
+mice were separated into four groups (n ⫽ 6 –7/gender/treatment): 1) gona-                           pressed in many tissues, with the highest levels in mouse placenta and
+dectomized mice (castration in males and ovariectomy in females) ⫹ placebo,                          ovary, followed by lung, liver, and testis, and lower levels in other
+2) gonadectomized mice ⫹ DHT, 3) gonadectomized mice ⫹ E2, and 4)                                    tissues (Fig. 3). Abca1 mRNA expression in livers was higher in male
+2180                                                     CHENG AND KLAASSEN
+
+                                                                    TABLE 1
+       Oligonucleotide probe sets generated for analysis of mouse transporter mRNA expression by the branched DNA signal amplification assay
+             Functiona                                                                     Probe Sequence
+
+             Npt1 (NM_009198)b
+               CE                                             ctgcctcgttctaagggaggtTTTTTctcttggaaagaaagt
+               CE                                             tggcctgttgcatgagggaTTTTTctcttggaaagaaagt
+               CE                                             ggataatggcccagagtggaaTTTTTctcttggaaagaaagt
+               LE                                             tgctggcctgttgacactgttTTTTTaggcataggacccgtgtct
+               LE                                             gcccatttgacccatatttcaTTTTTaggcataggacccgtgtct
+               LE                                             aaccctgatagagtcatagaggtaagtTTTTTaggcataggacccgtgtct
+               LE                                             ggacaataaatggtcccattacaTTTTTaggcataggacccgtgtct
+               LE                                             tgctcatatacgggtggtccttTTTTTaggcataggacccgtgtct
+               LE                                             ggatatgatgtagtccttctcactgcTTTTTaggcataggacccgtgtct
+               LE                                             cagggattgtctgcctgagcTTTTTaggcataggacccgtgtct
+               LE                                             gagatttaagcatagctttgattggTTTTTaggcataggacccgtgtct
+               LE                                             tgtatgtaaccaggagactgttcgTTTTTaggcataggacccgtgtct
+               LE                                             gggaggctggacagcagtcTTTTTaggcataggacccgtgtct
+               LE                                             ccacagatgtaggcaagcagatagTTTTTaggcataggacccgtgtct
+               LE                                             gtctgacatctgacctgctaggataTTTTTaggcataggacccgtgtct
+               BL                                             cagatgaagccactcacaagca
+               BL                                             gggccagcccagaagatca
+               BL                                             aacaataccaaagatgtagaagaccat
+               BL                                             caggaaagactcagaacacaccc
+               BL                                             ggggtcatcaaagaatagaaagaac
+               BL                                             accatatgaaagcaaagctattga
+               BL                                             cagtgctgataaatgtcggcg
+               BL                                             cattctctctaacattaacatgaagca
+             Npt2a (NM_011392)
+               CE                                             ccccaatctctcgctgtaggaTTTTTctcttggaaagaaagt
+               CE                                             acagctgtgctctgtgagggtTTTTTctcttggaaagaaagt
+               CE                                             gctcctcttcctgagccagctTTTTTctcttggaaagaaagt
+               LE                                             gttgccccatgcaccatgTTTTTaggcataggacccgtgtct
+               LE                                             ggctgggcacataagcaaagTTTTTaggcataggacccgtgtct
+               LE                                             atggcataggtggatgttccaTTTTTaggcataggacccgtgtct
+               LE                                             gaccgggctcagactggagTTTTTaggcataggacccgtgtct
+               LE                                             ccaggacttccccacagggTTTTTaggcataggacccgtgtct
+               LE                                             gcctgggctctggcttttTTTTTaggcataggacccgtgtct
+               LE                                             tgggcaagcttctgggacaTTTTTaggcataggacccgtgtct
+               LE                                             caggagcttcgtgccaaccTTTTTaggcataggacccgtgtct
+               LE                                             gccagcatcagaggcaccttTTTTTaggcataggacccgtgtct
+               BL                                             ggggagacagccggtcc
+               BL                                             tgtctcccacggactggaagt
+               BL                                             ggaatcctgtgcaggacttgtg
+               BL                                             tggtaggtagtgggtcatgacatt
+             Npt2b (NM_011402)
+               CE                                             ggcagcggaactgcagcaTTTTTctcttggaaagaaagt
+               CE                                             cccagaagccttgaccggTTTTTctcttggaaagaaagt
+               LE                                             ggtacgcccacgcccacTTTTTaggcataggacccgtgtct
+               LE                                             ggagcagcagcaggatgatgTTTTTaggcataggacccgtgtct
+               LE                                             tccggaggcacagaaccaTTTTTaggcataggacccgtgtct
+               LE                                             gaaattccagtcccggagctTTTTTaggcataggacccgtgtct
+               LE                                             tgacgttgtcccagggtttcTTTTTaggcataggacccgtgtct
+               LE                                             aggtggtggccagggagaTTTTTaggcataggacccgtgtct
+               LE                                             cacacgcggcaacagcagTTTTTaggcataggacccgtgtct
+               LE                                             ccatgcagcagacacggcTTTTTaggcataggacccgtgtct
+               LE                                             agcacttgcagccgcacaTTTTTaggcataggacccgtgtct
+               LE                                             cttcctctccctggtccctgTTTTTaggcataggacccgtgtct
+               LE                                             gatatcctgctccttctcctcctTTTTTaggcataggacccgtgtct
+               BL                                             tcaggggcaagatgcgag
+               BL                                             agagagtgcatccacaagggtag
+               BL                                             cagcaacgcctctggaagc
+               BL                                             cagcacttgctgcagcgac
+             Npt2c (NM_080854)
+               CE                                             cctgcatttctcagactccggTTTTTctcttggaaagaaagt
+               CE                                             cagcggagagaaggtccaggTTTTTctcttggaaagaaagt
+               CE                                             tgccttgagaaagctgctgaTTTTTctcttggaaagaaagt
+               CE                                             tggaaagcagagctgaggatgtTTTTTctcttggaaagaaagt
+               LE                                             tccaccaggtcaaaggcatcTTTTTaggcataggacccgtgtct
+               LE                                             tgctggccatgccaacctTTTTTaggcataggacccgtgtct
+               LE                                             ggcttcccaggagtccacaTTTTTaggcataggacccgtgtct
+               LE                                             gccattttgctgcctagtagcTTTTTaggcataggacccgtgtct
+               LE                                             gacaaggactgtgaccagcacaTTTTTaggcataggacccgtgtct
+               LE                                             ccaccatgctgaccacgatagaTTTTTaggcataggacccgtgtct
+               LE                                             cctggacagtcagcaacttagaggTTTTTaggcataggacccgtgtct
+               BL                                             cctggaatggaaccggagatt
+               BL                                             gatctgtacctccctcttccaag
+               BL                                             ctttcagttggtcagcgttctt
+               BL                                             ccacccggcgaagcc
+                                                  REGULATION OF TRANSPORTERS IN MOUSE KIDNEYS                                                                       2181
+                                                                                TABLE 1—Continued.
+                              a
+                   Function                                                                                   Probe Sequence
+
+                     BL                                                 ccagggagcagatgaaaaagtaga
+                     BL                                                 cattgtccttgaaaatgtctcca
+                     BL                                                 cacagggttggacagcacca
+                     BL                                                 ccaatgaccaagcccgc
+                     BL                                                 ggaagatgtgctggagctctg
+                   Oat5 (NM_144785)
+                     CE                                                 gggaagaatcccatagatgatccTTTTTctcttggaaagaaagt
+                     CE                                                 ttggtctcaggaagaagaagggTTTTTctcttggaaagaaagt
+                     CE                                                 ttttcctcttattttctatatcttggatTTTTTctcttggaaagaaagt
+                     CE                                                 ggccggttggaattctttataatTTTTTctcttggaaagaaagt
+                     LE                                                 caacgaggccaccaaggaaTTTTTaggcataggacccgtgtct
+                     LE                                                 ggtgtcactttggcaaccacaTTTTTaggcataggacccgtgtct
+                     LE                                                 gaccacgatatgctgaatgatatatatTTTTTaggcataggacccgtgtct
+                     LE                                                 ttatacatgacaaactagtataattttaatttaaTTTTTaggcataggacccgtgtct
+                     LE                                                 gattttattcaaatttctttattatagttattTTTTTaggcataggacccgtgtct
+                     BL                                                 cgctcctccagcactgcca
+                     BL                                                 cgtgaggatcataagtagaggagacag
+                     BL                                                 agggcaaggaagcagagtatgt
+                     BL                                                 tgagtcaggcagaggctgattc
+                     BL                                                 tctttctttgcctcttttgagc
+                     BL                                                 tttttcatctttctccttgatcaga
+                     BL                                                 aaatcttgctaacatataggtataattctg
+                     BL                                                 ctcattatttatacagtgacttatatggaa
+                   Urat1 (NM_009203)
+                     CE                                                 tcgcctgggaggtgctgtTTTTTctcttggaaagaaagt
+                     CE                                                 ctctgtaagctgccattgaggtTTTTTctcttggaaagaaagt
+                     CE                                                 caggaagatggactgggccTTTTTctcttggaaagaaagt
+                     LE                                                 tgtccaggagaggcacccaTTTTTaggcataggacccgtgtct
+                     LE                                                 tccaaggtccccagggatacTTTTTaggcataggacccgtgtct
+                     LE                                                 ggaccaggtgggatggagaTTTTTaggcataggacccgtgtct
+                     LE                                                 ggcagcgtcactccagttggTTTTTaggcataggacccgtgtct
+                     LE                                                 ccatcctcgcatggctcagtTTTTTaggcataggacccgtgtct
+                     LE                                                 ggtgctatggtcgtaaacccagTTTTTaggcataggacccgtgtct
+                     LE                                                 gagttacataccaggtcccacgtTTTTTaggcataggacccgtgtct
+                     LE                                                 atgggtctcagggcctggTTTTTaggcataggacccgtgtct
+                     LE                                                 ggctcctaccaggattccagcTTTTTaggcataggacccgtgtct
+                     LE                                                 ggcatggccacacactgcTTTTTaggcataggacccgtgtct
+                     LE                                                 tgcgcccaaacctatctgaTTTTTaggcataggacccgtgtct
+                     BL                                                 cggccagaagaacatcggg
+                     BL                                                 tggtggggttgctggtca
+                     BL                                                 tgtcggaagcggaggcac
+                     BL                                                 tggccgtggcgttgga
+                     BL                                                 ggtcacgattgtggacctgaa
+  CE, capture extender; LE, label extender; BL, blocker.
+  a
+    Function refers to the type of bDNA oligonucleotide probe represented by each sequence.
+  b
+    GenBank accession numbers for each transcript are given in parenthesis after the gene name.
+
+
+than in female mice but is higher in kidney and duodenum of female                                age (Fig. 5). Cnt1 exhibits a gradual increase in expression during the
+than male mice.                                                                                   first 45 days of life (Fig. 5). Pept2 is relatively low until it reaches
+   Asbt mRNA expression was predominant in mouse ileum, followed                                  mature expression by 15 days of age (Fig. 5). Oat5 has low fetal
+by kidney, with lower levels in other tissues. In kidneys and ilea of                             expression in kidneys, increases at birth, and remains relatively con-
+mice, Asbt mRNA expression was female-predominant (Fig. 3).                                       stant until day 22, when it increases more in female than in male mice,
+   Oat5 and Urat1 are both Oat transporters and are almost exclusively                            resulting in a gender difference in expression (Fig. 5). Urat1 (Eno-
+expressed in kidneys of mice (Fig. 3). Oat5 mRNA expression was                                   moto et al., 2002) is expressed at low levels in kidneys during the first
+100% higher in kidneys of female than male mice, whereas Urat1 was                                10 days of age and then gradually increases over the first 6 weeks of
+70% higher in males than in females.                                                              life. At 22 days of age, Urat1 mRNA expression is higher in female
+   Ontogenic Expression of Transporters in Kidneys of Mice.                                       than in male kidneys. Male-predominant expression of Urat1 is de-
+Because Npt2b and Abca1 are lowly expressed in kidneys of mice                                    picted in adult mice as reported previously (Hosoyamada et al., 2004)
+(Figs. 1 and 2), the developmental expression of these two transport-                             (Fig. 5).
+ers in kidneys of mice was not characterized. As depicted in Fig. 1, the                             Ent2 and 3 are two retro-transporters that efflux chemicals from
+12 other less-studied transporters are responsible for uptake of chem-                            kidneys back into blood (Lu et al., 2004). Ent2 is expressed at similar
+icals from blood into proximal tubule cells, efflux into filtrate, reab-                          levels in mouse kidneys at various ages, but in general decreases as
+sorption from the filtrate, or efflux back into blood.                                            the animal matures, whereas Ent3 shows a continuous increase in
+   The ontogenic expression of uptake transporters from the filtrate                              expression from birth through day 45 (Fig. 6). Oatp4c1 transports
+into kidneys (uptake transporters) is shown in Figs. 4 and 5. Npt1, 2a,                           xenobiotics, such as digoxin, from blood into proximal tubule cells
+and 2c share a similar developmental pattern in kidneys, with rela-                               (Mikkaichi et al., 2004). Oatp4c1 expression is relatively constant
+tively low levels until they reach adult expression by 15 days of age                             from before birth until 2 weeks of age, when it doubles to reach adult
+(Fig. 4). Asbt is expressed at very low levels in kidneys during the                              levels (Fig. 6). Oatp4c1 mRNA expression is higher in female than in
+first 2 weeks of life, with higher levels in female mice by 6 weeks of                            male kidneys at 30 days of age. At 45 days of age, Oatp4c1 mRNA
+2182                                                                CHENG AND KLAASSEN
+
+                                 300   Npt1                              Male                                                                             Male
+                                                                                                                               400
+                                 200          *
+                                                                         Female
+                                                                                                                               300
+                                                                                                                                      Abca1               Female
+                                                                                                                                                                   *
+                                 100
+
+
+
+
+                                                                                      Transporter mRNA (RLU/10µg total RNA)
+                                                                                                                               200
+                                  0                                                                                            100     * *        *
+Npt mRNA (RLU/10µg total RNA)
+
+
+
+
+                                1200   Npt2a                                                                                     0
+
+                                 800          *
+                                                                                                                              2000
+                                                                                                                              1500
+                                                                                                                                      Asbt            *
+                                 400                                                                                          1000
+                                                                                                                               500            *
+                                  0
+                                 40    Npt2b
+                                                                                                                                 0     *                           *
+                                                                                                                              1200
+                                 30                                                                                           1000
+                                                                                                                                      Oat5
+                                                                                                                                              *
+                                                                                                                               800
+                                 20                                                                                            600
+                                 10                                                                                            400
+                                                                                                                               200
+                                  0                                                                                               0
+                                                                                                                              5000    Urat1
+                                 100   Npt2c                                                                                  4000
+                                  80
+                                  60    *
+                                                                                                                              3000
+                                                                                                                              2000
+                                                                                                                                              *
+                                  40
+                                                                                                                              1000
+                                  20
+                                   0                         *                                                                   0
+
+
+
+
+                                                                                                                                    ju m
+
+
+
+                                                                                                                                           on
+
+
+
+
+                                                                                                                                           ta
+                                                                                                                                  St ng
+
+
+
+
+                                                                                                                                     Ile m
+                                                                                                                                    de h
+
+
+
+
+                                                                                                                                   G in
+                                                                                                                                         um
+                                                                                                                                      Lu y
+                                                                                                                                   K er
+
+
+
+
+                                                                                                                                      B rt
+
+
+                                                                                                                                  Pl ad
+                                                                                                                                  uo c
+                                                                                                                                        ne
+
+
+
+
+                                                                                                                                  Je nu
+                                     ju m
+
+
+
+
+                                                                                                                                       en
+                                                                                                                                       nu
+
+
+
+
+                                                                                                                                        ra
+                                            ta
+                                      Ile m
+                                     de h
+
+
+
+
+                                           on
+
+
+
+
+                                                                                                                                       ea
+                                   St ng
+
+
+
+
+                                    G in
+
+
+
+
+                                                                                                                                       ol
+                                                                                                                                         v
+                                         um
+
+
+
+
+                                                                                                                                 D ma
+                                       Lu y
+                                    K er
+
+
+
+
+                                       B rt
+
+
+                                   Pl ad
+
+
+
+
+                                                                                                                                     on
+                                   uo c
+
+                                   Je nu
+
+
+
+
+                                                                                                                                      Li
+                                         ne
+
+
+
+
+                                        en
+                                        nu
+
+
+
+
+                                                                                                                                     id
+                                        ra
+
+
+
+
+                                                                                                                                     C
+
+
+
+
+                                                                                                                                    ac
+                                        ea
+
+
+
+
+                                                                                                                                     H
+                                  D ma
+
+
+
+
+                                        ol
+                                         v
+
+
+
+
+                                      on
+
+
+
+
+                                                                                                                                    o
+                                      Li
+                                      id
+
+
+
+
+                                     ac
+                                      C
+
+                                     H
+                                     o
+
+
+
+
+                                                                                      FIG. 3. Tissue distribution of Abca1, Asbt, Oat5, and Urat1. Total RNA from male
+FIG. 2. Tissue distribution of Npt1, 2a, 2b, and 2c. Total RNA from male and          and female C57BL/6 mouse tissues (n ⫽ 6/gender) was analyzed by the bDNA
+female C57BL/6 mouse tissues (n ⫽ 6/gender) was analyzed by the bDNA assay for        assay for mRNA expression of each transporter. Data are presented as mean ⫾
+mRNA expression of each Npt. Data are presented as mean ⫾ S.E.M. ⴱ, statistically     S.E.M. ⴱ, statistically significant difference between male and female mice (p ⬍
+significant difference between male and female mice (p ⬍ 0.05). RLU, relative light   0.05). RLU, relative light units.
+units.
+
+
+                                                                                      Gonadectomy converted male-predominant Oatp4c1 mRNA expres-
+expression is male-predominant in mouse kidneys. Bcrp, a proximal
+                                                                                      sion to female-predominance in mouse kidneys (Fig. 7). In gonadec-
+tubule efflux transporter into the filtrate, is lowly expressed in kidneys
+                                                                                      tomized mice, estrogen administration had no effect, whereas andro-
+before birth, gradually increases after birth, and reaches adult levels at
+22 days of age (Fig. 6).                                                              gen administration increased Oatp4c1 mRNA levels in both male and
+   Effects of Sex Hormones on Regulation of Gender-Divergent                          female mice (Fig. 7). Thus, male-predominant Oatp4c1 expression in
+Expression of Oat5, Urat1, and Oatp4c1 in Kidneys of Mice. Of                         kidneys of mice is primarily due to stimulatory effect of androgens.
+the 14 less-studied renal transporters, tissue distribution and ontogeny                 Effects of Growth-Hormone Secretion Patterns on Regulation
+studies showed that Npt1, Npt2a, Urat1, and Oatp4c1 are male-                         of Gender-Divergent Expression of Oat5, Urat1, and Oatp4c1 in
+predominant (Cheng et al., 2005), whereas Abca1, Asbt, Oat5, and                      Kidneys of Mice. Growth hormone secretion is different between
+Pept2 are female-predominant in kidneys of adult mice (Figs. 2– 6).                   male and female animals. Growth hormone is secreted in a pulsatile
+   Regulatory mechanisms for the gender-dimorphic expression of                       pattern in male animals but in a continuous pattern in females.
+Oat5, Urat1, and Oatp4c1 transporters by sex hormones were further                    Regulatory mechanisms for the gender-dimorphic expression of Oat5,
+determined in kidneys of mice (Fig. 7). Oat5 mRNA expression is                       Urat1, and Oatp4c1 transporters by growth hormone secretion patterns
+female-predominant in kidneys of mice (Fig. 3). Gonadectomy (re-                      were further determined in kidneys of mice (Fig. 8).
+moval of testes in males or removal of ovaries in females) attenuates                    In WT mice, Oat5 mRNA expression is female-predominant in
+the gender-different expression of Oat5. In gonadectomized mice,                      mouse kidneys. Disruption of GH function, as depicted in the lit/lit
+estrogen replacement increased Oat5 mRNA levels, whereas androgen                     mice, markedly decreased constitutive expression of Oat5 and dimin-
+replacement did not alter Oat5 mRNA expression. Therefore, female-                    ished gender-predominant Oat5 mRNA expression. However, GH
+predominant Oat5 expression in kidneys of mice is due to the stim-                    administration to lit/lit mice did not alter kidney Oat5 mRNA expres-
+ulatory effect of estrogens.                                                          sion. Therefore, GH had no effect on constitutive or gender-divergent
+   Urat1 mRNA expression is male-predominant in mouse kidneys                         Oat5 mRNA expression in mouse kidney.
+(Figs. 3 and 5). Gonadectomy abolished gender-different expression                       In WT mice, Urat1 mRNA expression is male-predominant. Urat1
+of Urat1. In gonadectomized mice, androgen administration doubled                     mRNA expression in the lit/lit mice is also male-predominant. How-
+Urat1 mRNA in both male and female mice (Fig. 7), whereas estro-                      ever, GH administration to lit/lit mice did not alter kidney Urat1
+gens produced a small decrease in Urat1 mRNA (Fig. 7). Therefore,                     mRNA expression (Fig. 8).
+male-predominant Urat1 expression in kidneys of mice is due to the                       In WT mice, Oatp4c1 mRNA expression is male-predominant in
+stimulatory effects of androgens.                                                     mouse kidneys. Disruption of GH signaling did not alter constitutive
+   Kidney Oatp4c1 mRNA expression is male-predominant in adult                        Oatp4c1 mRNA expression in kidneys of mice. In lit/lit mice, male-
+mice (Fig. 6), consistent with a previous study (Cheng et al., 2005).                 pattern GH administration increased Oatp4c1 mRNA levels in female
+                                                                                                      REGULATION OF TRANSPORTERS IN MOUSE KIDNEYS                                                                                    2183
+
+                                                                                                                          Male                                                      35
+                                                                             Npt1                                                                                                   30
+                                                                                                                                                                                          Ent2                                    Male
+                                                                   300                                                    Female                                                    25                                            Female
+                                                                                                                         *       *                                                  20
+                                                                                                                                                                                    15
+                                                                   200                                                                                                              10
+
+
+
+
+                                                                                                                                           Transporter mRNA (RLU/10µg total RNA)
+                                                                                                                                                                                     5
+                           Kidney Npt mRNA (RLU/10µg total RNA)
+
+
+
+
+                                                                                                                                                                                     0
+                                                                   100
+                                                                                                                                                                                    400
+                                                                                                                                                                                          Ent3
+                                                                        0                                                                                                           300
+
+                                                                   800       Npt2a                                                                                                  200                  *          *
+                                                                                                                                 *
+                                                                                                                                                                                    100
+                                                                   600
+                                                                                                                                                                                      0
+                                                                   400                                                                                                              32    Oatp4c1                             *
+                                                                                                                                                                                    24
+                                                                   200
+                                                                                         *                                                                                          16                                               *
+                                                                        0
+                                                                                                                                                                                     8
+                                                                   100       Npt2c                                                                                                   0
+                                                                    80                                                                                                             1200
+                                                                                                                                                                                          Bcrp
+                                                                                                                                                                                   1000
+                                                                    60                                                                                                              800
+                                                                    40                                                                                                              600
+                                                                                                                                                                                    400
+                                                                    20                                                                                                              200
+                                                                                                                                                                                      0
+                                                                        0
+                                                                                                                                                                                           -2    0   5       10    15   22   30     45
+                                                                               -2    0       5   10    15       22       30     45
+                                                                                             Days of age                                                                                             Days of age
+                                                                                                                                         FIG. 6. Ontogenic expression of Ent2, Ent3, Oatp4c1, and Bcrp mRNA in mouse
+FIG. 4. Ontogenic expression of Npt1, 2a, and 2c mRNA in mouse kidneys. Total
+                                                                                                                                         kidneys. Total RNA from C57BL/6 mice of each age (n ⫽ 5/gender/age) was
+RNA from C57BL/6 mice of each age (n ⫽ 5/gender/age) was analyzed by the
+                                                                                                                                         analyzed by the bDNA assay. Data are presented as mean ⫾ S.E.M. ⴱ, statistically
+bDNA assay. Data are presented as mean ⫾ S.E.M. ⴱ, statistically significant
+                                                                                                                                         significant difference between male and female mice (p ⬍ 0.05). RLU, relative light
+difference between male and female mice (p ⬍ 0.05). RLU, relative light units.
+                                                                                                                                         units.
+
+                                                                                                                              Male                                                                   Discussion
+                                                                  300                                                         Female
+                                                                  200
+                                                                            Asbt
+                                                                                                                                     *      The tissue distribution and ontogeny of some transporters, which
+                                                                  100                                                *                   exist in kidneys of mice as highlighted in Fig. 1, were determined in
+                                                                                                                                         the present study. In addition to expression in mouse kidneys, some of
+                                                                    0
+  Transporter mRNA (RLU/10µg total RNA)
+
+
+
+
+                                                                   60
+                                                                                                                                         these transporters are also highly expressed in other tissues. For
+                                                                            Cnt1
+                                                                                                                                         example, Npt2b is also expressed in liver and lung, Npt2c in liver and
+                                                                   40
+                                                                                                                                         colon, Abca1 in placenta and ovary, and Asbt in ileum (Figs. 2 and 3).
+                                                                   20
+                                                                                                                                            The kidneys of newborn animals are functionally immature. The
+                                                                    0
+                                                                                                                                         renal clearance of p-aminohippuric acid, an organic acid, is low in
+                                                                  400
+                                                                  300
+                                                                            Pept2                                                    *   young humans (Calcagno and Rubin, 1963), dogs (Horster and Valtin,
+                                                                  200                                                                    1971), rats (Horster and Lewy, 1970), rabbits, and sheep (Phelps et al.,
+                                                                  100                                                                    1976). The renal transport of tetraethylammonium, an organic base, is
+                                                                    0
+                                                                                                                                         also underdeveloped in newborns (Rennick et al., 1961). Because
+                                                                  600
+                                                                            Oat5                                                  *      p-aminohippuric acid and tetraethylammonium are transported by
+                                                                  400                                            *        *              proximal tubule cells into the filtrate, the decrease in renal clearance
+                                                                  200                                                                    of these chemicals in newborns indicates that both organic acid and
+                                                                   0                                                                     base transporters are immature (Rennick et al., 1961). The present and
+                                                 1600                       Urat1                                                        previous studies showed that the developmental patterns of transport-
+                                                 1200
+                                                                                                                     *               *   ers are responsible for the inability of immature kidneys to excrete
+                                                                  800                                                                    many chemicals. Oat1–3 (Buist and Klaassen, 2004), Oct1 and 2,
+                                                                  400                                                                    Octn1 and n2 (Alnouti et al., 2006), Oatp1a1, 1a6, and 3a1 (Cheng et
+                                                                    0
+                                                                              -2     0       5   10        15   22       30      45      al., 2005), and Mrp2– 4 (Maher et al., 2005), combined with the
+                                                                                                                                         currently studied transporters (Npt1, 2a, 2c, Asbt, Cnt1, Pept2, Oat5,
+                                                                                             Days of age
+                                                                                                                                         Urat1, Ent3, Oatp4c1, and Bcrp) are all lowly expressed in mice
+FIG. 5. Ontogenic expression of Asbt, Cnt1, Pept2, Oat5, and Urat1 mRNA in mouse                                                         before 15 days of age (Table 2). However, there are some transporters
+kidneys. Total RNA from C57BL/6 mice of each age (n ⫽ 5/gender/age) was analyzed
+by the bDNA assay. Data are presented as mean ⫾ S.E.M. ⴱ, statistically significant                                                      in kidneys that are expressed at an early age, such as Ent2 (Fig. 6;
+difference between male and female mice (p ⬍ 0.05). RLU, relative light units.                                                           Table 2). In addition to Ent2, Oatp1a4, 2a1, 2b1, and 3a1 (Cheng et
+                                                                                                                                         al., 2005), as well as Mrp1, 5, and 6 (Maher et al., 2005), are also
+mice, but not in male mice, leading to disseemance of gender-                                                                            expressed early, and may be responsible for the adult rate of urinary
+predominant mRNA expression of Oatp4c1. In contrast, female-                                                                             excretion and reuptake of some chemicals at birth. However, because
+pattern GH administration to lit/lit mice did not alter Oatp4c1 mRNA                                                                     of low expression of a majority of the renal transporters, renal func-
+expression (Fig. 8).                                                                                                                     tion, in general, of newborns is immature.
+2184                                                                                                    CHENG AND KLAASSEN
+
+                                                        2500                                                                                                                          2500
+                                                               Oat5                  ‡ ‡      Male                                                                                           Oat5                 Male
+                                                        2000                                  Female                                                                                  2000                        Female
+                                                                  *                                                                                                                             *
+
+
+
+
+                                                                                                                                              Transporter mRNA (RLU/10µg total RNA)
+                Transporter mRNA (RLU/10µg total RNA)                                                                                                                                 1500
+                                                        1500              † †
+                                                                                                                                                                                      1000
+                                                        1000
+                                                                                                                                                                                       500           † †
+                                                         500                                                                                                                             0
+                                                           0                                                                                                                          5000
+                                                        5000                                                                                                                                 Urat1
+                                                               Urat1                                                                                                                  4000
+                                                        4000                                                                                                                          3000
+                                                        3000                               ‡ ‡                                                                                        2000
+                                                                                                                                                                                                *                        *
+                                                        2000                                                                                                                          1000
+                                                                                                                                                                                                         *      *
+                                                        1000      *                  ‡ ‡                                                                                                 0
+
+                                                                                                                                                                                       50    Oatp4c1
+                                                           0
+                                                                                                                                                                                       40                                ‡
+                                                               Oatp4c1
+                                                         50
+                                                                      † †                  ‡ ‡                                                                                         30
+                                                         40                                                                                                                            20
+                                                                                                                                                                                       10
+                                                                                                                                                                                                *       *        *
+                                                         30
+                                                                                                                                                                                        0
+                                                         20
+                                                         10
+                                                                  *                                                                                                                          Naïve   Lit/lit Lit/lit Lit/lit
+                                                                                                                                                                                                               +       +
+                                                          0                                                                                                                                                  GHFP GHMP
+                                                               Naïve      GNX GNX GNX
+                                                                               +   +                                      FIG. 8. Effects of growth hormone on the gender-divergent mRNA expression of
+                                                                               E2 DHT                                     Oat5, Urat1, and Oatp4c1 in kidneys of naive and lit/lit mice. Total kidney RNA was
+                                                                                                                          isolated and analyzed by the bDNA signal amplification assay for mRNA expres-
+FIG. 7. Effects of sex hormones on the gender-divergent mRNA expression of                                                sion of each transporter. The data are presented as mean ⫾ S.E.M. (n ⫽ 6 –7/group).
+Oat5, Urat1, and Oatp4c1 in kidneys of naive and gonadectomized (GNX) mice.                                               The treatments were separated into groups: Lit (placebo administered to lit/lit mice),
+Total kidney RNA was isolated and analyzed by the bDNA signal amplification                                               Lit ⫹ GHMP (rat GH twice daily administered by intraperitoneal injection to lit/lit
+assay for mRNA expression of each transporter. The data are presented as mean ⫾                                           mice mimicking male-pattern GH secretion), and Lit ⫹ GHFP (continuous infusion
+S.E.M. (n ⫽ 6 –7/group). The treatments were separated into groups: GNX (placebo                                          to lit/lit mice via a subcutaneous implanted 21-day-release 1-mg rat GH pellet
+administered to gonadectomized mice), GNX ⫹ DHT (5␣-dihydroxytestosterone                                                 mimicking female-pattern GH secretion). ⴱ, statistical difference (p ⬍ 0.05) be-
+administered to gonadectomized mice), and GNX ⫹ E2 (17␤-estradiol administered                                            tween male and female mice; †, statistically significant difference (p ⬍ 0.05)
+to gonadectomized mice). ⴱ, statistical difference (p ⬍ 0.05) between male and                                            between naive mice and the same gender, placebo-treated lit/lit mice; ‡, statistically
+female mice; †, statistically significant difference (p ⬍ 0.05) between naive mice                                        significant difference (p ⬍ 0.05) between placebo-treated lit/lit mice and the same
+and the same gender, placebo-treated gonadectomized mice; ‡, statistically signif-                                        gender lit/lit mice after growth hormone replacement.
+icant difference (p ⬍ 0.05) between placebo-treated gonadectomized mice and the
+same gender gonadectomized mice after sex hormone replacement.                                                            regulation of Oat5, Urat1, and Oatp4c1 in mouse kidneys was shown
+                                                                                                                          to be mainly controlled by sex hormones (Fig. 7) but not by GH (Fig.
+   Gender differences in the expression of a number of transporters in                                                    8). Consistent with previous studies (Cheng et al., 2006; Maher et al.,
+the kidneys of mice are noted. For example, male-predominant Npt1,                                                        2006), gender differences of transporters in kidneys are mainly deter-
+Npt2a, Urat1, and Oatp4c1, as well as female-predominant Asbt,                                                            mined by sex hormones. For example, male-predominant Oatps
+Oat5, and Pept2 were observed in kidneys of mice. Gender differences                                                      (Oatp1a1 and 3a1) and female-predominant Mrp3 in mouse kidneys
+in transporter gene expression may be the result of regulation by sex                                                     are due to stimulatory effect of androgens and estrogens, respectively
+hormones and/or gender-dimorphic GH secretory patterns. Androgens                                                         (Cheng et al., 2006; Maher et al., 2006).
+and estrogens alter gene expression by directly stimulating gene                                                             One interesting phenomenon is that gender-divergent expression
+transcription or stabilizing the mRNA of genes (Beato, 1989; Paul et                                                      patterns of some transporters, such as Npt1, Oatp4c1, and Urat1, are
+al., 1990; Kimura et al., 1994). Growth hormone is also an important                                                      age-related (Figs. 5–7). For example, Npt1, Oatp4c1, and Urat1 are all
+regulator of gender-divergent gene expression. Gender-divergent se-                                                       male-predominant in mouse kidneys at 45 days of age but are female-
+cretion patterns of GH lead to differential patterns in gene expression.                                                  predominant at certain early ages (30 days of age for Npt1 and
+By using gonadectomized and lit/lit mouse models, gender-divergent                                                        Oatp4c1 and 22 days of age for Urat1). The underlying regulatory
+
+                                                                                                                   TABLE 2
+                                                                                            Developmental patterns of transporters in mouse kidneys
+                                                                       Transporter         Fetal (Day ⫺2)       Birth (Day 0)        Early (Days 5–10)                                          Middle (Days 15–23)            Late (Day 303)
+
+  Renal uptake from blood                                              Oatp4c1                                                                                                                          Xa
+  Renal uptake from filtrate                                           Cnt1                                                                                                                             X
+                                                                       Npt1                                                                                                                             X
+                                                                       Npt2a                                                                                                                            X
+                                                                       Npt2c                                                                                                                            X
+                                                                       Pept2                                                                                                                            X
+                                                                       Oat5                                                                                                                             X
+                                                                       Urat1                                                                                                                            X
+                                                                       Asbt                                                                                                                             X                            X
+  Renal efflux into filtrate                                           Bcrp                                                                                                                             X
+  Renal efflux into blood                                              Ent2                      X                                                                                                      X
+                                                                       Ent3                                                                                                                             X
+  a
+      X, indicates the age when the mRNA expression of the transporter approaches its highest level.
+                                                   REGULATION OF TRANSPORTERS IN MOUSE KIDNEYS                                                                                          2185
+mechanism is unknown. The present study and other studies showed                                 M, Sekine T, Igarashi T, et al. (2002) Molecular identification of a renal urate anion exchanger
+                                                                                                 that regulates blood urate levels. Nature 417:447– 452.
+that gender-divergent gene expression in mouse kidneys is mainly due                           Hartley DP and Klaassen CD (2000) Detection of chemical-induced differential expression of rat
+to either androgens or estrogens. Therefore, the age-related gender-                             hepatic cytochrome P450 mRNA transcripts using branched DNA signal amplification tech-
+                                                                                                 nology. Drug Metab Dispos 28:608 – 616.
+divergent switch of Npt1, Oatp4c1, and Urat1 in mouse kidneys is                               Hilfiker H, Hattenhauer O, Traebert M, Forster I, Murer H, and Biber J (1998) Characterization
+probably due to effects of sex hormones.                                                         of a murine type II sodium-phosphate cotransporter expressed in mammalian small intestine.
+                                                                                                 Proc Natl Acad Sci U S A 95:14564 –14569.
+   Among the transporters examined in this study, Npt1, 2a, and 2c are                         Horster M and Lewy JE (1970) Filtration fraction and extraction of PAH during neonatal period
+highly expressed in mouse kidneys, in accordance with previous                                   in the rat. Am J Physiol 219:1061–1065.
+                                                                                               Horster M and Valtin H (1971) Postnatal development of renal function: micropuncture and
+reports (Tenenhouse et al., 1998; Segawa et al., 2002). In contrast,                             clearance studies in the dog. J Clin Invest 50:779 –795.
+Npt2b is expressed in mouse liver, lung, and brain (Fig. 3). A previous                        Hosoyamada M, Ichida K, Enomoto A, Hosoya T, and Endou H (2004) Function and localization
+report showed that Npt2b is expressed in the small intestine of mice                             of urate transporter 1 in mouse kidney. J Am Soc Nephrol 15:261–268.
+                                                                                               Kimura N, Arai K, Sahara Y, Suzuki H, and Kimura N (1994) Estradiol transcriptionally and
+but not in kidney and is responsible for apical intestinal sodium-Pi                             posttranscriptionally up-regulates thyrotropin-releasing hormone receptor messenger ribonu-
+cotransport (Hilfiker et al., 1998).                                                             cleic acid in rat pituitary cells. Endocrinology 134:432– 440.
+                                                                                               Lu H, Chen C, and Klaassen C (2004) Tissue distribution of concentrative and equilibrative
+   The data described in the present study provide information regard-                           nucleoside transporters in male and female rats and mice. Drug Metab Dispos 32:1455–1461.
+ing the transporters in kidneys and indicate that many of the trans-                           Lu H and Klaassen C (2006) Tissue distribution and thyroid hormone regulation of Pept1 and
+                                                                                                 Pept2 mRNA in rodents. Peptides 27:850 – 857.
+porters involved in transport of chemicals into and out of proximal                            Maher JM, Cheng X, Tanaka Y, Scheffer GL, and Klaassen CD (2006) Hormonal regulation of
+tubular cells have developmental and gender-specific mRNA expres-                                renal multidrug resistance-associated proteins 3 and 4 (Mrp3 and Mrp4) in mice. Biochem
+                                                                                                 Pharmacol 71:1470 –1478.
+sion differences in mouse kidneys. The implication of these observa-                           Maher JM, Slitt AL, Cherrington NJ, Cheng X, and Klaassen CD (2005) Tissue distribution and
+tions is that age- and gender-related differences in pharmacokinetics                            hepatic and renal ontogeny of the multidrug resistance-associated protein (Mrp) family in
+                                                                                                 mice. Drug Metab Dispos 33:947–955.
+of chemicals may in part be ascribed to differences in transporter                             Mikkaichi T, Suzuki T, Onogawa T, Tanemoto M, Mizutamari H, Okada M, Chaki T, Masuda
+expression in mouse kidneys. Therefore, when one is attempting to                                S, Tokui T, Eto N, et al. (2004) Isolation and characterization of a digoxin transporter and its
+                                                                                                 rat homologue expressed in the kidney. Proc Natl Acad Sci U S A 101:3569 –3574.
+explain age- or gender-related discrepancies in xenobiotic pharmaco-                           Paul SJ, Ortolano GA, Haisenleder DJ, Stewart JM, Shupnik MA, and Marshall JC (1990)
+kinetics, functional studies of transporters that display variations in                          Gonadotropin subunit messenger RNA concentrations after blockade of gonadotropin-
+                                                                                                 releasing hormone action: testosterone selectively increases follicle-stimulating hormone
+expression should be considered to exclude or confirm a contribution                             ␤-subunit messenger RNA by posttranscriptional mechanisms. Mol Endocrinol 4:1943–1955.
+of transporter expression patterns to the observed differences in phar-                        Phelps DL, Omori K, and Oh W (1976) PAH clearance, sodium excretion, and PAH extraction
+macokinetics.                                                                                    ratio in acidotic near-term lambs treated with hypertonic sodium bicarbonate. Biol Neonate
+                                                                                                 28:57– 64.
+                                                                                               Rennick B, Hamilton B, and Evans R (1961) Development of renal tubular transports of TEA and
+                                       References                                                PAH in the puppy and piglet. Am J Physiol 201:743–746.
+                                                                                               Segawa H, Kaneko I, Takahashi A, Kuwahata M, Ito M, Ohkido I, Tatsumi S, and Miyamoto K
+Alnouti Y, Petrick JS, and Klaassen CD (2006) Tissue distribution and ontogeny of organic        (2002) Growth-related renal type II Na/Pi cotransporter. J Biol Chem 277:19665–19672.
+  cation transporters in mice. Drug Metab Dispos 34:477– 482.                                  Tanaka Y, Slitt AL, Leazer TM, Maher JM, and Klaassen CD (2005) Tissue distribution and
+Beato M (1989) Gene regulation by steroid hormones. Cell 56:335–344.                             hormonal regulation of the breast cancer resistance protein (Bcrp/Abcg2) in rats and mice.
+Buist SC and Klaassen CD (2004) Rat and mouse differences in gender-predominant expression       Biochem Biophys Res Commun 326:181–187.
+  of organic anion transporter (Oat1–3; Slc22a6 – 8) mRNA levels. Drug Metab Dispos 32:620 –   Tenenhouse HS, Roy S, Martel J, and Gauthier C (1998) Differential expression, abundance, and
+  625.                                                                                           regulation of Na⫹-phosphate cotransporter genes in murine kidney. Am J Physiol Renal
+Calcagno PL and Rubin MI (1963) Renal extraction of para-aminohippurate in infants and           Physiol 275:F527–F534.
+  children. J Clin Invest 42:1632–1639.                                                        Yabuuchi H, Tamai I, Morita K, Kouda T, Miyamoto K, Takeda E, and Tsuji A (1998) Hepatic
+Cheng X and Klaassen CD (2006) Regulation of mRNA expression of xenobiotic transporters by       sinusoidal membrane transport of anionic drugs mediated by anion transporter Npt1. J Phar-
+  the pregnane X receptor in mouse liver, kidney, and intestine. Drug Metab Dispos 34:1863–      macol Exp Ther 286:1391–1396.
+  1867.
+Cheng X, Maher J, Chen C, and Klaassen CD (2005) Tissue distribution and ontogeny of mouse
+  organic anion transporting polypeptides (Oatps). Drug Metab Dispos 33:1062–1073.                Address correspondence to: Dr. Curtis D. Klaassen, Department of Pharma-
+Cheng X, Maher J, Lu H, and Klaassen CD (2006) Endocrine regulation of gender-divergent
+  mouse organic anion-transporting polypeptide (Oatp) expression. Mol Pharmacol 70:1291–       cology, Toxicology and Therapeutics, University of Kansas Medical Center, 3901
+  1297.                                                                                        Rainbow Blvd., Kansas City, KS 66160. E-mail: cklaasse@kumc.edu
+Enomoto A, Kimura H, Chairoungdua A, Shigeta Y, Jutabha P, Cha SH, Hosoyamada M, Takeda
+

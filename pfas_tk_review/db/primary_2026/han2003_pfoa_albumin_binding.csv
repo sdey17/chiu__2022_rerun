@@ -1,0 +1,7 @@
+parameter,value,units,protein,method,ligand_protein_molar_ratio,note,source
+Kd,0.3,mM,rat serum albumin (RSA),19F NMR,"200 uM PFOA : 100 uM RSA = 2:1","approximate value",Han 2003 abstract
+Kd,0.31,mM,RSA,microdesalting column separation,"0.1-3 mM PFOA : 50-60 uM protein","+/- 0.15; 12.5 uM RSA",Han 2003 Results
+Kd,0.27,mM,RSA,microdesalting column separation,"0.1-3 mM PFOA : 50-60 uM protein","+/- 0.05; 25 uM RSA",Han 2003 Results
+Kd_range,0.3-0.4,mM,RSA and HSA,microdesalting column separation,"1.7:1 to 60:1","no significant difference between rat and human",Han 2003 abstract
+n_binding_sites,6-9,sites per albumin,RSA and HSA,microdesalting column separation,"1.7:1 to 60:1",,Han 2003 abstract
+fraction_bound,">90",%,serum albumin,"CALCULATED from Kd and n above plus estimated plasma albumin - NOT a measured free fraction",n/a,"the figure PBPK models inherited; it is a floor, not an estimate",Han 2003 abstract

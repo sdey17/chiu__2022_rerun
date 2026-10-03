@@ -546,7 +546,7 @@ PFOA,rat,sprague-dawley,Female,halflife,0.32264,,,d,5,mg/kg,gavage,terminal log-
 PFOA,rat,sprague-dawley,Female,halflife,2.2871,,,d,25,mg/kg,gavage,terminal log-linear fit computed in this review,,EPA CPHEA Kemper_6302380,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
 PFOA,rat,sprague-dawley,Female,halflife,0.17628,,,d,40,mg/kg,iv,terminal log-linear fit computed in this review,,EPA CPHEA Dzierlenga_5916078,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
 PFOA,rat,sprague-dawley,Female,halflife,0.30825,,,d,40,mg/kg,gavage,terminal log-linear fit computed in this review,,EPA CPHEA Dzierlenga_5916078,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
-PFOA,rat,wistar,Female,halflife,1.4355,,,d,48.63,umol/kg,iv,terminal log-linear fit computed in this review,,EPA CPHEA Kudo_2990271,,,,cphea_fitted_halflives.csv,TAIL-SELECTION FLAG: inflated_vs_dominant_phase
+PFOA,rat,wistar,Female,halflife,1.4355,,,d,48.63,umol/kg,iv,terminal log-linear fit computed in this review,,EPA CPHEA Kudo_2990271,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
 PFOA,rat,wistar,Female,halflife,0.07467,,,d,48.64,umol/kg,iv,terminal log-linear fit computed in this review,,EPA CPHEA Ohmori_3858670,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
 PFOA,rat,sprague-dawley,Female,halflife,1.2135,,,d,80,mg/kg,gavage,terminal log-linear fit computed in this review,,EPA CPHEA Dzierlenga_5916078,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
 PFOA,rat,sprague-dawley,Female,halflife,0.45327,,,d,320,mg/kg,gavage,terminal log-linear fit computed in this review,,EPA CPHEA Dzierlenga_5916078,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
@@ -562,7 +562,7 @@ PFOA,rat,sprague-dawley,Male,halflife,17.43602,,,d,6,mg/kg,gavage,terminal log-l
 PFOA,rat,sprague-dawley,Male,halflife,9.72631,,,d,12,mg/kg,gavage,terminal log-linear fit computed in this review,,EPA CPHEA Dzierlenga_5916078,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
 PFOA,rat,sprague-dawley,Male,halflife,6.97492,,,d,25,mg/kg,gavage,terminal log-linear fit computed in this review,,EPA CPHEA Kemper_6302380,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
 PFOA,rat,sprague-dawley,Male,halflife,11.01372,,,d,48,mg/kg,gavage,terminal log-linear fit computed in this review,,EPA CPHEA Dzierlenga_5916078,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
-PFOA,rat,wistar,Male,halflife,8.07978,,,d,48.63,umol/kg,iv,terminal log-linear fit computed in this review,,EPA CPHEA Kudo_2990271,,,,cphea_fitted_halflives.csv,TAIL-SELECTION FLAG: inflated_vs_dominant_phase
+PFOA,rat,wistar,Male,halflife,8.07978,,,d,48.63,umol/kg,iv,terminal log-linear fit computed in this review,,EPA CPHEA Kudo_2990271,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
 PFOA,rat,wistar,Male,halflife,5.99107,,,d,48.64,umol/kg,iv,terminal log-linear fit computed in this review,,EPA CPHEA Ohmori_3858670,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
 PFOS,mouse,CD-1,Female,halflife,36.57364,,,d,1,mg/kg,gavage,terminal log-linear fit computed in this review,,EPA CPHEA Chang_1289832,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
 PFOS,mouse,CD-1,Female,halflife,27.54767,,,d,20,mg/kg,gavage,terminal log-linear fit computed in this review,,EPA CPHEA Chang_1289832,,,,cphea_fitted_halflives.csv,see REPORT.md section 8 item 9 before using
@@ -705,6 +705,16 @@ PFHxS,monkey (cynomolgus),,female,halflife,87.0,,,d,10,mg/kg,iv,non-compartmenta
 PFHxS,monkey (cynomolgus),,female,clearance,1.93,,,mL/kg-day,10,mg/kg,iv,,3,Sundstrom et al.,2012,21856411 / 10.1016/j.reprotox.2011.07.004,Table 5,primary_2026/sundstrom2012_pfhxs_three_species.csv,SE 27 / 0.41 / 28 / 1396 / 0.033
 PFHxS,monkey (cynomolgus),,female,vd,213.0,,,mL/kg,10,mg/kg,iv,Vdss,3,Sundstrom et al.,2012,21856411 / 10.1016/j.reprotox.2011.07.004,Table 5,primary_2026/sundstrom2012_pfhxs_three_species.csv,SE 27 / 0.41 / 28 / 1396 / 0.033
 PFHxS,monkey (cynomolgus),,female,pct_dose_in_urine_24h,0.055,,,% of dose,10,mg/kg,iv,,3,Sundstrom et al.,2012,21856411 / 10.1016/j.reprotox.2011.07.004,Table 5,primary_2026/sundstrom2012_pfhxs_three_species.csv,SE 27 / 0.41 / 28 / 1396 / 0.033
+PFHpA,rat,,male,halflife,0.1,,,d,,,iv,terminal phase,,Ohmori et al.,2003,12499116,abstract,primary_2026/ohmori2003_rat_chain_length.csv,
+PFHpA,rat,,female,halflife,0.05,,,d,,,iv,terminal phase,,Ohmori et al.,2003,12499116,abstract,primary_2026/ohmori2003_rat_chain_length.csv,
+PFOA,rat,,male,halflife,5.63,,,d,,,iv,terminal phase,,Ohmori et al.,2003,12499116,abstract,primary_2026/ohmori2003_rat_chain_length.csv,the second primary source for the ~70x rat PFOA sex ratio; Kudo 2002 gives 71x
+PFOA,rat,,female,halflife,0.08,,,d,,,iv,terminal phase,,Ohmori et al.,2003,12499116,abstract,primary_2026/ohmori2003_rat_chain_length.csv,the second primary source for the ~70x rat PFOA sex ratio; Kudo 2002 gives 71x
+PFNA,rat,,male,halflife,29.5,,,d,,,iv,terminal phase,,Ohmori et al.,2003,12499116,abstract,primary_2026/ohmori2003_rat_chain_length.csv,
+PFNA,rat,,female,halflife,2.44,,,d,,,iv,terminal phase,,Ohmori et al.,2003,12499116,abstract,primary_2026/ohmori2003_rat_chain_length.csv,
+PFDA,rat,,male,halflife,39.9,,,d,,,iv,terminal phase,,Ohmori et al.,2003,12499116,abstract,primary_2026/ohmori2003_rat_chain_length.csv,the ONLY compound where the female half-life exceeds the male
+PFDA,rat,,female,halflife,58.6,,,d,,,iv,terminal phase,,Ohmori et al.,2003,12499116,abstract,primary_2026/ohmori2003_rat_chain_length.csv,the ONLY compound where the female half-life exceeds the male
+6:2 Cl-PFESA,human,,,total elimination half-life,15.3,,,years,,,,one-compartment,,Shi et al.,2016,26866980 / 10.1021/acs.est.5b05849,abstract,primary_2026/shi2016_clpfesa_human.csv,the longest human PFAS half-life on record
+6:2 Cl-PFESA,human,,,renal clearance half-life,280.0,,,years,,,,one-compartment,,Shi et al.,2016,26866980 / 10.1021/acs.est.5b05849,abstract,primary_2026/shi2016_clpfesa_human.csv,range 7.1-4230; renal route contributes almost nothing to total elimination
 PFOA,rabbit,,female,gfr,4.0,,,L/d/kg,,,,compilation; fu assumed 0.02 for all species,,Han et al.,2012,21985250 / 10.1021/tx200363w,Table 4,primary_2026/han2012_table4_reabsorption_axis.csv,not applicable - net secretion
 PFOA,rabbit,,female,renal_clearance,670.0,,,mL/d/kg,,,,compilation; fu assumed 0.02 for all species,,Han et al.,2012,21985250 / 10.1021/tx200363w,Table 4,primary_2026/han2012_table4_reabsorption_axis.csv,not applicable - net secretion
 PFOA,rabbit,,male,gfr,4.0,,,L/d/kg,,,,compilation; fu assumed 0.02 for all species,,Han et al.,2012,21985250 / 10.1021/tx200363w,Table 4,primary_2026/han2012_table4_reabsorption_axis.csv,not applicable - net secretion

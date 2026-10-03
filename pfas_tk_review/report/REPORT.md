@@ -265,6 +265,29 @@ usable one and is what the table above uses. Even there the female β-phase coul
 not be estimated and a one-compartment model was substituted. Regulatory
 tabulations of rat PFHxS inherit these numbers without the footnotes.
 
+**The rat PFOA sex ratio now has two primary sources that agree.** Ohmori 2003
+measured all four of PFHpA, PFOA, PFNA and PFDA in both sexes:
+
+| | C7 PFHpA | C8 PFOA | C9 PFNA | C10 PFDA |
+|---|---|---|---|---|
+| male t½ (d) | 0.10 | **5.63** | 29.5 | 39.9 |
+| female t½ (d) | 0.05 | **0.08** | 2.44 | 58.6 |
+| ratio M/F | 2.0× | **70.4×** | 12.1× | **0.68×** |
+
+Its PFOA ratio of **70.4×** sits against Kudo 2002's 71× — two independent
+laboratories, same strain-free conclusion. Note the last column: **PFDA is the
+one compound where the female half-life exceeds the male**, so the "female rats
+eliminate PFAS faster" generalisation fails at C10 even within the rat.
+
+Ohmori also states this review's §3.1 conclusion outright, in 2003: *"Distribution
+volumes in steady state (Vss) were not much different between PFCAs and between
+sexes"*, and in the Discussion, *"The difference in Vss between PFCAs was not so
+significant as the difference in t½."* It further reports a correlation between
+total and renal clearance of **r² = 0.981** — total clearance in the rat
+essentially *is* renal clearance. (Its Table 1 is an image in the PDF, so the
+numeric Vss values could not be extracted; the half-lives above are from the
+abstract.)
+
 **The whole pattern replicates in a second compound.** Tatum-Gibbs 2011 is the
 only strain-matched rat-versus-mouse PFNA experiment, run in one laboratory with
 both sexes of both species:
@@ -473,6 +496,31 @@ PFOA, is not sex-divergent. The paper everyone cites for the female-rat
 mechanism proposed a mechanism its own successors refuted, and the surviving
 explanation is the one it declined to endorse.
 
+Two further confirmations now sit at source rather than second-hand:
+
+- **Oat2 carries no PFAS in humans either.** Louisse 2024 tested PFHpA, PFOA,
+  PFNA, PFBS, PFHxS and PFOS against OAT1-, OAT2- and OAT3-transduced human
+  cells and found **no transport by OAT2 for any of them**. With Weaver 2010
+  (rat Oat2) and Nakagawa 2008, that is three independent negatives across two
+  species. The transporter with the largest sex difference is the one that
+  cannot carry the compound, and that is no longer a rat-specific observation.
+- **The rat-versus-mouse difference really is in Oat2.** Buist & Klaassen 2004,
+  now read directly: "the most notable species differences in Oat mRNA
+  expression were **a lack of Oat2 female predominance in mouse kidney** and a
+  less dramatic Oat3 male predominance in mouse liver." The one clear species
+  difference is in the transporter that does not transport PFOA — which is
+  precisely why it cannot explain the species gap.
+
+And **Yang 2009**, the source of the rat Oatp1a1 kinetics this report had been
+quoting through Weaver 2010's Discussion, confirms them directly: Km =
+**162.2 ± 20.2 µM**, no inhibition by C4 or C5 at 1 mM, and an in vitro–to–in
+vivo relationship of `log(CL_total) = 2.233·log(Ki,app) − 2.627` with
+**R² = 0.982** across C6–C10 against male-rat total clearance. It adds one
+methodological caveat: total PFOA uptake into Oatp1a1-expressing cells does
+*not* saturate even at 1 mM, because a large linear passive-diffusion component
+runs alongside — the saturable Km emerges only after subtracting the
+vector-control rate.
+
 **Three competing hypotheses are dead** and should be stated as such:
 
 - **α2u-globulin** — Han 2004 measured Kd ~10⁻³ M and concluded it "cannot
@@ -555,8 +603,15 @@ Cheng 2005's full text in hand and Cheng 2006's abstract recovered in full, the
   expression is exclusively caused by stimulation by androgens". If androgens
   raise it and androgens are the exclusive cause, it cannot be female-predominant.
 
+- **Cheng & Klaassen 2009** — the same laboratory, five years later, *citing
+  Cheng 2006 itself* — writes: "male-predominant Oatps (**Oatp1a1** and 3a1) and
+  female-predominant Mrp3 in mouse kidneys are due to stimulatory effect of
+  androgens and estrogens, respectively (Cheng et al., 2006; Maher et al.,
+  2006)." The authors themselves read their 2006 paper as male-predominant.
+
 So mouse renal Oatp1a1 is **male-predominant and androgen-driven**, same
-direction as the rat. Cheng 2006 adds one clean mechanistic detail worth keeping:
+direction as the rat. Three lines of evidence, one of them the authors' own
+later reading of the contradictory paper. Cheng 2006 adds one clean mechanistic detail worth keeping:
 male-pattern growth hormone raises hepatic Oatp1a1 but **not** renal, so the
 renal sex difference is purely androgenic.
 
@@ -750,9 +805,21 @@ OAT4 at 172.3–310.3 µM, which *widens* the tightest margin from ~117× to
 
 *The PBPK models agencies rely on imply the opposite conclusion.* Han 2012
 Table 7 compiles the transport-affinity constants that published PFOA PBPK
-models actually run on. The human value is **KT = 0.055 mg/L = 0.133 µM** —
-**483–2,336× lower than any in vitro Km ever measured for a human apical
-transporter.** At that value the margins invert:
+models actually run on. The human value is **KT = 0.055 mg/L = 0.133 µM**.
+There are now **six independent in vitro Km values for PFOA against human
+transporters**, from two laboratories:
+
+| transporter | Km (µM) | source |
+|---|---|---|
+| OAT4 | 47 | Louisse 2023, via Louisse 2024 Table 1 |
+| URAT1 | 64.1 | Yang 2010 (zero extracellular chloride) |
+| OAT3 | 90 | Louisse 2024 Table 1 |
+| OAT4 | 172.3 | Yang 2010 (pH 6.0) |
+| OAT1 | 185 | Louisse 2024 Table 1 |
+| OAT4 | 310.3 | Yang 2010 (pH 7.4) |
+
+They span 47–310 µM — a factor of 6.6 — while the fitted KT sits
+**354–2,336× below all of them.** At that value the margins invert:
 
 | human serum PFOA | ÷ PBPK KT (0.133 µM) | ÷ lowest in vitro Km (64.1 µM) |
 |---|---|---|
@@ -766,8 +833,10 @@ contaminated communities — which would make clearance dose-dependent there and
 mean a single clearance factor cannot transfer between exposure settings. That
 is the opposite of this section's conclusion, from the same literature.
 
-**The in vitro side should be believed, for three reasons that are worth
-stating rather than assuming.** (a) The KT values are not measurements: Han's
+**The in vitro side should be believed, and the case is now stronger than when
+this section was first written.** Six measurements from two laboratories agree
+within a factor of 7; the KT values are fitted to plasma curves, not measured.
+Three further reasons, worth stating rather than assuming. (a) The KT values are not measurements: Han's
 footnote says "Tmc and KT are obtained by fitting PFOA plasma elimination
 curves", and the two rows in the same table marked "derived from an in vitro
 measurement" carry KT = 67 mg/L — about 1,200× higher, and squarely inside the
@@ -1312,9 +1381,43 @@ MW < 500) and globulins catch up as the chain lengthens, reaching parity around
 ηpfc 12–13.
 
 Measured serum unbound fractions: **PFOA 0.061%, PFOS 0.042%, PFHxS 0.041%,
-PFHpS 0.035%** — with interindividual variation of only 1.6–2.5×. These conflict
-~100× with Han et al. 2003's ">90% bound" (f_unbound < 10%), so **older PBPK
-models parameterised on Han carry an f_unbound roughly 100× too high.**
+PFHpS 0.035%** — with interindividual variation of only 1.6–2.5×.
+
+**The apparent conflict with Han 2003 is resolved, and it was never a
+contradiction between two measurements.**
+
+```bash
+python3 scripts/binding_conflict_han_vs_fischer.py
+```
+
+Three things fall out of reading Han 2003 directly:
+
+- **">90% bound" is a calculation, not a measurement.** Han's own abstract says
+  so: "*On the basis of these binding parameters and the estimated plasma
+  concentration of serum albumin, greater than 90% of PFOA would be bound*". The
+  measured quantities are Kd = **0.3–0.4 mM** and **n = 6–9 sites** per albumin.
+- **It is a floor, and Fischer's value satisfies it.** f_unbound = 0.00061 is
+  99.94% bound, which is indeed >90%. The error entered downstream, when PBPK
+  models read ">90%" as "≈90%" and used f_unbound ≈ 0.1 — about **164× too
+  high**. That is the real defect, and it is in the inheritance, not in Han.
+- **The underlying disagreement is in Kd, and it is a ratio artefact.** Han
+  titrated **50–60 µM albumin with 0.1–3 mM PFOA** — a ligand:protein ratio of
+  **1.7:1 to 60:1**. Fischer worked at **≤0.004:1**. Human serum sits at
+  1.6 × 10⁻⁵ to 4 × 10⁻³ : 1, so Han's lowest ratio is **414× above even an
+  occupational serum**. At 1.7–60:1 the high-affinity site is saturated
+  instantly and the fitted constant is dominated by the 6–9 low-affinity sites;
+  reproducing Fischer's f_unbound would need Kd ≈ 3.3 µM, about **91–121×**
+  below what Han measured. The two studies measured different things, and only
+  one measured the regime humans are in.
+
+A third value sits between them and agrees with neither extreme: **Ohmori 2003**
+reports rat plasma protein binding "over 98% for all PFCAs tested"
+(f_unbound < 0.02).
+
+Han 2003 also records that **ultrafiltration failed outright** for this assay —
+"PFOA completely nonspecifically bound to the membrane" — which is why
+microdesalting columns were used, and is a standing warning about method choice
+in PFAS binding work.
 
 **A species-matched set now exists for the mouse.** Argoul 2026 Table 4 reports
 equilibrium-dialysis unbound fractions in CD-1 mouse plasma for ten PFAS — the

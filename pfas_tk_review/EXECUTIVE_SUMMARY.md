@@ -135,17 +135,29 @@ it remains useful for within-curve comparison.
 ## The one thing still genuinely unresolved
 
 Whether reabsorptive transport saturates at real human exposures depends on which
-parameter family you believe, and they disagree by **483–2,336×**. Every in vitro
-transporter measurement says human serum sits far below half-saturation. The KT
-constants that published PBPK models actually run on say three of four human
-populations sit *at or above* it — which would make clearance dose-dependent in
-contaminated communities and mean a single clearance factor cannot transfer
-between exposure settings.
+parameter family you believe. There are now **six independent in vitro Km values
+for PFOA against human transporters** — 47–310 µM, from two laboratories,
+agreeing within a factor of 7 — against a PBPK transport-affinity constant of
+**0.133 µM**, which is **354–2,336× lower than anything ever measured in a
+cell**. The in vitro values put human serum far below half-saturation; the fitted
+KT puts three of four human populations at or above it, which would make
+clearance dose-dependent in contaminated communities and mean a single clearance
+factor cannot transfer between exposure settings.
 
-The in vitro side is better supported — the KT values are fitted rather than
-measured, the mouse row has standard errors exceeding its estimates, and the
-dose-response evidence agrees with the in vitro answer. But **nobody has measured
-a human KT**, and that single number would settle it.
+The weight of evidence has moved decisively onto the in vitro side: the KT values
+are fitted to plasma curves rather than measured, the mouse row has standard
+errors exceeding its estimates, and the dose-response evidence agrees with the in
+vitro answer. But **nobody has measured a human KT**, and that single number
+would close it outright.
+
+**One formerly-open conflict is now resolved.** The ~100× disagreement over
+PFOA's plasma free fraction was not a contradiction between two measurements.
+Han 2003's ">90% bound" is a *calculation* from Kd and albumin concentration, and
+it is a floor that Fischer 2024's measured 0.00061 satisfies. The underlying Kd
+gap is a ligand:protein ratio artefact — Han titrated at 1.7:1 to 60:1, Fischer at
+≤0.004:1, and human serum sits at 10⁻⁵–10⁻³:1. The defect was in the
+inheritance: PBPK models read ">90%" as "≈90%" and used a free fraction about
+**164× too high**.
 
 ---
 
@@ -153,9 +165,9 @@ a human KT**, and that single number would settle it.
 
 | | |
 |---|---|
-| `db/combined/` | 1,403 rows in four schemas; 20 chemicals, 8 species groups; every row carries its provenance and primary source. Also one Excel workbook. |
-| `db/primary_2026/` | 15 per-paper extractions from the 11 full texts obtained during this work |
-| `scripts/` | 31 runnable scripts — every figure and table regenerates |
+| `db/combined/` | 1,434 rows in four schemas; 20 chemicals, 8 species groups; every row carries its provenance and primary source. Also one Excel workbook. |
+| `db/primary_2026/` | 20 per-paper extractions from the 21 full texts obtained during this work |
+| `scripts/` | 32 runnable scripts — every figure and table regenerates |
 | `figures/` | 15 figures |
 | `report/REPORT.md` | the full review, ~1,670 lines |
 | `SUMMARY.md` | illustrated summary, 29 citations |

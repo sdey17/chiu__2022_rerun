@@ -1,0 +1,1165 @@
+                                                             Toxicology and Applied Pharmacology 499 (2025) 117336
+
+
+                                                                      Contents lists available at ScienceDirect
+
+
+                                                    Toxicology and Applied Pharmacology
+                                                             journal homepage: www.elsevier.com/locate/taap
+
+
+
+
+Estimation of species- and sex-specific PFAS pharmacokinetics in mice, rats,
+and non-human primates using a Bayesian hierarchical methodology
+Todd J. Zurlinden a,* , Michael W. Dzierlenga a , Dustin F. Kapraun a , Caroline Ring b,
+Amanda S. Bernstein a,c , Paul M. Schlosser a , Viktor Morozov a
+a
+    U.S. Environmental Protection Agency, Office of Research and Development, Center for Public Health and Environmental Assessment, USA
+b
+    U.S. Environmental Protection Agency, Office of Research and Development, Center for Computational Toxicology and Exposure, USA
+c
+    Oak Ridge Institute for Science and Education, Oak Ridge, TN, USA
+
+
+
+
+A R T I C L E I N F O                                       A B S T R A C T
+
+Editor: Dr. Lawrence Lash                                   The carbon chain length, degree of fluorination, and functional group of per- and polyfluoroalkyl substances
+                                                            (PFAS) influences the bioaccumulation and half-lives of these substances in humans and laboratory animals.
+Keywords:                                                   Pharmacokinetic (PK) studies using laboratory animals characterize the absorption, distribution, metabolism,
+Per- and polyfluoroalkyl substances (PFAS)                  and excretion (ADME) of a PFAS and can provide the underlying data for inter-species extrapolation to inform
+Pharmacokinetic models
+                                                            human pharmacokinetics. However, variations in ADME arise due to differences in protein binding and renal and
+Bayesian hierarchical
+                                                            hepatobiliary clearance mechanisms. In particular, sex- and species-specific differences in active transporter
+Inter-species extrapolation
+Allometric scaling                                          abundance and PFAS binding affinity challenge body weight-based extrapolation assumptions from animal
+Pharmacokinetic uncertainty                                 models to human PK parameters. Because these protein-dependent changes in ADME do not always scale with
+                                                            species body weight, classic allometric scaling assumptions can fail to account for species-specific transporter-
+                                                            mediated clearance. In addition, study-dependent differences in pharmacokinetic modeling approaches and
+                                                            parameterization techniques can result in large differences among the PK parameters reported in the literature.
+                                                            To better quantify PFAS pharmacokinetics and characterize the underlying uncertainty, we implemented a
+                                                            Bayesian inference hierarchical model to estimate PFAS PK parameters for multiple species (mice, rats, and non-
+                                                            human primates) using numerous single-dose animal studies. Through an alternative parameterization of the
+                                                            one- and two-compartment models, this method improved parameter identifiability and allowed for the use of
+                                                            prior information on PFAS absorption rate, clearance, and volume of distribution. Using reported time-course
+                                                            concentration data, we estimated sex-specific clearance, volume of distribution, and half-life across mice, rats,
+                                                            and non-human primates using a consistent modeling methodology for eight PFAS: PFHxA, PFHxS, PFNA, PFDA,
+                                                            PFBS, PFBA, PFOA, and PFOS. The resulting comparison to available human data demonstrated that standard
+                                                            volume of distribution body-mass scaling (BW1) for PFAS generally agrees with reported human values while
+                                                            standard assumptions for allometric scaling of clearance (BW3/4) are not appropriate for most of the PFAS
+                                                            investigated in this study. In addition, we demonstrated that there may be considerable differences in clearance
+                                                            for PFAS in some species when comparing across different sexes and routes of exposure.
+
+
+
+
+1. Introduction                                                                                  tendency for bioaccumulation. These properties, coupled with wide-
+                                                                                                 spread usage, have led to their extensive environmental presence
+    Per- and polyfluoroalkyl substances (PFAS) are a large group of                              (Bonato et al., 2020; Kurwadkar et al., 2022). Within the large universe
+synthetic chemicals that have been widely used in a variety of products                          of known PFAS, perfluoroalkyl sulphonic acids (PFSAs) and per­
+including non-stick cookware, stain-resistant fabrics, and fire-fighting                         fluoroalkyl carboxylic acids (PFCAs) are readily found in the environ­
+foams (Gluge et al., 2020). The unique physicochemical properties                                ment (Nakayama et al., 2019) and can have unique properties that
+that make them suitable for these industrial purposes also lead to                               influence the absorption, distribution, metabolism, and excretion
+increased chemical and biological stability, and in many cases, a                                (ADME) of these compounds. For example, some PFSAs and PFCAs have
+
+
+
+    * Corresponding author at: 109 T.W. Alexander Drive (B-321-J), Research Triangle Park, NC 27711, USA.
+      E-mail address: zurlinden.todd@epa.gov (T.J. Zurlinden).
+
+https://doi.org/10.1016/j.taap.2025.117336
+Received 21 October 2024; Received in revised form 14 March 2025; Accepted 6 April 2025
+Available online 8 April 2025
+0041-008X/Published by Elsevier Inc.
+T.J. Zurlinden et al.                                                                                              Toxicology and Applied Pharmacology 499 (2025) 117336
+
+
+the ability to bind to plasma proteins (Smeltz et al., 2023) and/or utilize       the fitted parameters across the different levels of the hierarchy.
+organic anion transporters (OATS) and organic anion-transporting                      To better characterize PFAS pharmacokinetics for use in risk as­
+polypeptides (OATPs) for transporter-mediated tissue distribution (Niu            sessments, we implemented a partially-pooled method in the form of a
+et al., 2023). Additionally, these compounds are generally found to be            Bayesian hierarchical model to develop population-based PK parameter
+rabidly absorbed (ATSDR, 2021) and do not appear to be readily                    estimates for mice, rats, and non-human primates for eight PFAS of in­
+metabolized (Lau, 2015). These ADME properties can result in unique               terest: PFBA, PFBS, PFHxA, PFHxS, PFOA, PFOS, PFNA, and PFDA.
+pharmacokinetic parameters for this class of chemicals.                           These PFAS were chosen as they represented the EPA priorities under
+    In April of 2024, the U.S. EPA Office of Water (EPA/OW) finalized             the 2021–2024 PFAS Strategic Roadmap investigated by EPA/OW and
+the National Primary Drinking Water Regulation (NPDWR) and estab­                 the IRIS program. Similar to previous hierarchical Bayesian methods for
+lished maximum contaminant levels (MCLs) for perfluorooctanesulfonic              pooling PK data (Chiu et al., 2009; Zurlinden et al., 2016; Zurlinden and
+acid (PFOS) and perfluorooctanoate (PFOA). At this time, the Office of            Reisfeld, 2016; Chiu et al., 2022), this approach conducted a meta-
+Water also established a hazard index approach for co-exposure to                 analysis to combine time-course concentration datasets from multiple
+perfluorobutanesulfonic acid (PFBS), perfluorononanoic acid (PFNA),               studies to fit classical one- and two-compartment PK models, incorpo­
+perfluorohexanesulfonic acid (PFHxS), and Hexafluoropropylene oxide               rated prior knowledge of PFAS pharmacokinetics, and characterized
+dimer acid (HFPO-DA, commonly known as Gen X) (U.S. Environmental                 parameter uncertainty based on the available data. This partial-pooling
+Protection Agency, 2024). Concurrently, the Integrated Risk Informa­              of data across multiple studies and dosing regimens differs from a pre­
+tion System (IRIS) program is developing a series of five PFAS Toxico­            vious Bayesian hierarchical pharmacokinetic analysis for PFOA
+logical Reviews for perfluorobutanoic acid (PFBA), perfluorohexanoic              (Wambaugh et al., 2008) where a multi-level model was used to char­
+acid (PFHxA), perfluorohexanesulfonic acid (PFHxS), per­                          acterize rat inter-individual variability. The results from the current
+fluorononanoic acid (PFNA), perfluorodecanoic acid (PFDA), and their              study allow for (i) the determination of critical PK parameters such as
+associated salts. Species- and PFAS-specific PK parameters, such as half-         clearance and half-life for each PFAS/species/sex combination, (ii) the
+life and clearance, in mice, rats, and non-human primates are critical in         investigation of inter-species PK parameter value extrapolation for the
+these assessments for facilitating species-specific internal dosimetry            selected PFAS, and (iii) the ability to compare PK parameter values
+predictions (U.S. Environmental Protection Agency, 2014) and esti­                derived for each dataset to investigate the unique ADME properties of
+mating how long these chemicals remain inside the body following                  these chemicals.
+exposure. These predictions allow for the examination of animal
+bioassay dose response data in terms of internal dose, which reduces              2. Materials and methods
+uncertainty in subsequently calculated human equivalent doses (U.S.
+Environmental Protection Agency, 2014). However, as summarized by                 2.1. Pharmacokinetic models
+ATSDR (2021) and evidenced across the publicly available IRIS assess­
+ments (U.S. Environmental Protection Agency, 2021b; U.S. Environ­                      To select blood (serum) concentration vs. time datasets used for
+mental Protection Agency, 2022; U.S. Environmental Protection                     fitting, we conducted a systematic literature search to identify publica­
+Agency, 2023), the species-specific half-lives and clearances for a given         tions that describe PK studies in mice, rats, or non-human primates that
+PFAS reported in different studies can vary by orders of magnitude                administered at least one of the PFAS of interest (PFBA, PFBS, PFHxA,
+depending on the study design and methods used for analyzing the                  PFHxS, PFOA, PFOS, PFNA, or PFDA) either intravenously or through
+measured concentration vs. time data. In addition, half-lives reported            oral gavage. The identification of published PK data was conducted as
+across species can vary widely, depending on the chemical structure of            part of an overall systematic literature search for information on various
+the PFAS.                                                                         PFAS (U.S. Environmental Protection Agency, 2021b) which limited in
+    There are three primary approaches for utilizing PK data from                 vivo animal studies to those published prior to 2021.
+numerous sources to address the variability originating from different                 Once time-course concentration data were extracted from the liter­
+analysis methodologies and different experimental conditions. In the              ature, we fit one- and two-compartment models (Fig. 1) using these
+first “completely pooled” method, all datasets are pooled together, and           measured blood concentration datasets as the observed central
+one determines a single set of PK parameter values that best describes all        compartment concentrations for each combination of PFAS, species, and
+the data. While this method makes use of all available data, important            sex available. A summary of the analytical solutions for each model are
+information regarding study-to-study variability along with possible              outlined below. See Appendix A for derivation of these analytical solu­
+route of exposure- and dose-dependent effects will be lost. Conversely,           tions from their respective governing equations. In the resulting one-
+each dataset can be fit individually using a unique set of parameter              and two-compartment equations, the use of a tilde signifies a mass-
+values. This “completely un-pooled” method will give N values of each             normalized pharmacokinetic parameter such as systemic clearance
+PK parameter (one for each of N datasets) and is analogous to the                 (C
+                                                                                   ̃ L , L/kg/d) and volume of distribution (Ṽ d , L/kg).
+summary of PK parameters presented by ATSDR (2021). The third op­
+tion, known as partial-pooling (Gelman and Hill, 2006), utilizes a                2.2. One-compartment model
+Bayesian hierarchical approach where the fitted parameters for each
+dataset are sampled from a single population-level distribution to cap­              The closed-form solution (see Appendix A for derivation) to the one-
+ture the similarities between each study, while still allowing for dataset-       compartment system of ordinary differential equations is given by
+and study-specific parameters to characterize the inherent variability
+that exists from dataset to dataset across different studies. Because                              D
+                                                                                  CIV (t) =             e− ke t                                                     (1)
+studies can employ different dose levels and routes of exposure, each                         V
+                                                                                              ̃ d • M(t)
+resulting set of concentration time-course observations within a study
+can be considered a different dataset. This method results in a single                              fa • D      ka ( − ke t           )
+                                                                                  Cgavage (t) =             •        e      − e− ka t                               (2)
+posterior probability distribution (hereafter referred to as a “posterior”)                       ̃ d • M(t) ka − ke
+                                                                                                  V
+for each pharmacokinetic parameter at the population level while also
+providing distributional estimates for each time-course concentration                    C
+                                                                                         ̃L
+                                                                                  ke =                                                                              (3)
+within a given exposure scenario. Within a partially-pooled or hierar­                   V
+                                                                                         ̃d
+chical model, the population mean of a fitted parameter characterizes
+the average value of the parameter across all levels of the hierarchy,            where CIV (t) and Cgavage (t) represent the time-dependent predicted
+while the population variance characterizes the spread or variability of          concentrations (mg/L) in the central compartment (which represents the
+
+                                                                              2
+T.J. Zurlinden et al.                                                                                                              Toxicology and Applied Pharmacology 499 (2025) 117336
+
+
+
+
+Fig. 1. Schematics of models used for this analysis: A) “One-compartment” model and B) “Two-compartment” model. In both cases, the number of compartments
+(one vs. two) refers to the number of compartments that PFAS distributes to within the body (Bourne, 1995). Model A includes a single “central” body compartment,
+representing the blood where observed PFAS concentrations are measured. Model B includes both the central compartment and a tissue compartment to capture a net
+distribution out of the central to tissues with which there is a rate-limited exchange. For route of exposure, intravenous (IV) doses are applied directly to the central
+compartment while gavage doses are applied to an absorption compartment with an absorption constant (ka ) to describe transport of PFAS from the gastrointestinal
+tract to the central compartment. In the case of the two-compartment model, transfer between the central compartment and a generalized tissue compartment is
+governed by inflow and outflow rate constants (k12 and k21 ). Excretion from the central compartment is described by a first-order excretion rate constant (ke ) for
+both models.
+
+
+blood) following an intravenous (IV) or gavage route of exposure,                                     where Civ (t) (Eq. 9) and Cgavage (t) (Eq. 12) represent the time-dependent
+respectively; V
+              ̃ d is the mass-normalized central compartment volume or
+                                                                                                      predicted concentrations in the blood following an IV or gavage route of
+volume of distribution (L/kg); fa is the fraction absorbed (unitless,                                 exposure, respectively. For Eq. 4–12, the variables fit using the available
+gavage only); ka is the absorption rate constant (d− 1, gavage only); ke is
+                                                                                                      pharmacokinetic data are V   ̃ d,ss (L/kg) (the steady-state volume of dis­
+the elimination rate constant (d− 1); C
+                                      ̃ L is the mass-normalized systemic
+                                                                                                      tribution); R (unitless), the ratio of central compartment volume (V    ̃ C ) to
+clearance (L/kg/d); D is the applied initial dose (mg); and M(t) is the
+                                                                                                      tissue compartment volume (V     ̃ T ); k12 (d− 1), the rate of transfer from
+time-dependent mass (kg) of the animal. For Eq. 1–3, ka , fa , V
+                                                               ̃ d , and C
+                                                                         ̃L
+                                                                                                      central to tissue compartment; fa , the fraction absorbed (unitless, gavage
+represent the parameters that are fit using the available pharmacoki­
+                                                                                                      only); ka , the absorption constant (d− 1, gavage only); and C ̃ L , the sys­
+netic data. Finally, for the one-compartment model, the half-life was
+                                                                                                      temic clearance (L/kg/d). For the two-compartment model, V        ̃ d,ss is
+calculated as t1 = log(2) • V
+                            ̃ d /C
+                                 ̃ L where V
+                                           ̃ d and C
+                                                   ̃ L are the selected (“fit”)
+                    2                                                                                 defined as the sum of the central and tissue compartments (Shargel and
+values for the volume of distribution and clearance parameters,                                       Yu, 2016). The known applied dose (mg) and time-dependent mass (kg)
+respectively, and “log” denotes the natural (base e) logarithm.                                       of the animal are represented as D and M(t), respectively. See Appendix
+                                                                                                      B for further details on the reparameterization of Eq. 4–12. Finally, the
+2.3. Two-compartment model                                                                            steady-state half-life (t1 ) for the two-compartment model was calculated
+                                                                                                                              2
+
+   The closed-form solution (see Appendix A for derivation) of the two-                               using the model derived C
+                                                                                                                              ̃ L and V
+                                                                                                                                      ̃ d,ss where t1 = log(2) • V
+                                                                                                                                                                 ̃ d,ss /C
+                                                                                                                                                                         ̃ L where
+                                                                                                                                                        2
+compartment system of ordinary differential equations is given by                                     “log” denotes the natural (base e) logarithm.
+k21 = R • k12                                                                               (4)           Depending on the route of exposure, the model-predicted concen­
+                                                                                                      tration (CP ) is given by
+
+̃ C = R • V d,ss
+          ̃                                                                                                 {
+V                                                                                           (5)                CIV ,        for IV route
+         R+1                                                                                          CP =                                                           (13)
+                                                                                                               Cgavage , for gavage route
+
+       C
+       ̃L                                                                                                 In the case of Tatum-Gibbs et al. (2011), background levels of PFNA
+ke =                                                                                        (6)       were found in the control animals. These sex-specific control animal
+       V
+       ̃c
+                                                                                                      PFNA concentrations were assumed to be a steady-state background
+α + β = k21 + ke + k12                                                                      (7)       concentration and were subtracted from the reported blood concentra­
+                                                                                                      tions in the dosed animals. No other studies reported background levels
+α • β = ke • k21                                                                            (8)       of PFAS in control animals. Finally, the methods accounting for body
+                                                                                                      mass changes in the rat over time, M(t), are described in Appendix A
+                        (                                      )
+                D      k21 − α − α•t k21 − β − β•t                                                    using animal growth curves presented in NTP (2020) for Sprague-
+Civ (t) =                     e     +       e                                               (9)
+            V
+            ̃ c • M(t) β − α          α− β                                                            Dawley rats and NTP (2017) for Wistar rats.
+
+        ka • (k21 − α)                                                                                2.3.1. Hierarchical Bayesian modeling
+A=                                                                                         (10)
+       (ka − α)(β − α)                                                                                   When multiple studies provided time-course concentration data for a
+                                                                                                      particular species, sex, and PFAS, we estimated the pharmacokinetic
+       ka • (k21 − β)                                                                                 parameters for both model structures described by Eq. 1–12 using a
+B=                                                                                         (11)
+      (ka − β)(α − β)                                                                                 hierarchical Bayesian approach. Similar to previous hierarchical phar­
+                                                                                       ⎞              macokinetic parameterizations (Chiu et al., 2009; Zurlinden et al., 2016;
+                    fa D     (                                                     )                  Zurlinden and Reisfeld, 2016; Zurlinden and Reisfeld, 2017; Hsieh et al.,
+Cgavage (t) =                    A•e
+                                   − αt
+                                          +B • e   − βt
+                                                          − (A + B) • e   − ka t       ⎠   (12)       2021; Chiu et al., 2022), this involved determining the population-level
+                V
+                ̃ c • M(t)
+                                                                                                      model parameters and the likelihood of the observed data. For a detailed
+
+                                                                                                  3
+T.J. Zurlinden et al.                                                                                                  Toxicology and Applied Pharmacology 499 (2025) 117336
+
+
+description of the hierarchical Bayesian methods, please see Appendix                   2.5. Bayesian summary
+A.
+                                                                                           When more than two datasets existed for a given PFAS/species/sex
+2.4. Priors for population means and standard deviations                                combination, we implemented the hierarchical framework described
+hyperparameters                                                                         above and summarized in Fig. 2 and Appendix A.
+                                                                                           However, for some PFAS, species, and sex combinations, data were
+    All log-transformed population mean parameters (Мθ ) except the                     only available from one or two datasets in a single study, e.g., one or two
+population fa mode, were estimated using normal prior distributions.                    doses total in a single species. In these instances, a single-level Bayesian
+Details of these priors are summarized in Table 1. The prior used for                   model (complete pooling) was implemented with priors for each phar­
+mean clearance across both models was derived from all summary                          macokinetic parameter being the same as those described in Table 1.
+clearance values for mice, rats, and non-human primates reported by
+ATSDR (2021) which results in a clearance prior with a geometric mean
+of 0.06 L/kg/d and geometric standard deviation (GSD) of 14.5. We
+defined a weakly informative prior on the volume of distribution based
+on the values reported by ATSDR (2021). Therefore, the volume of
+distribution prior is centered at 0.22 L/kg with a GSD of 4.5 to allow for
+a broad range of volumes of distribution to be sampled (Table 1). This
+allowed data for a PFAS that is highly bound to plasma proteins to
+inform a lower volume of distribution while a PFAS with greater tissue
+distribution could still have a volume of distribution greater than one.
+Using these priors, the resulting median and 95th equal-tailed interval
+for the half-life prior (t1 = log2 Vd ) was 2.58 (6.3 × 10− 3–1.1 × 103)
+                                    ̃
+                          2         ̃
+                                    CL
+days. In addition, model priors for the two-compartment parameters
+(k12 and R) were chosen such that k12 ≪1 and R≫1. This choice of priors
+reduced the autocorrelation between k12 and R during sampling which
+increases the posterior effective sample size. Therefore, the two-
+compartment model behaves as a one-compartment model given these
+priors, ensuring that true two-compartment model behavior is only
+exhibited when strongly driven by the observed data. Finally, absorption
+priors were chosen to reflect knowledge of rapid absorption relative to
+elimination presented by ATSDR (2021) where absorption half-lives
+across PFOA, PFHxA, PFBA, and PFBS were shown to be less than 1 h
+with the median reported absorption half-life of ~0.206 h (0.0086
+days). Using ka = log(2)/0.0086 provides a median absorption rate of
+~81 d− 1.
+    Population standard deviations for all log-transformed parameters
+except fa were estimated using half-normal prior distributions (Gelman                  Fig. 2. Summary of hierarchical modeling framework (similar to Fig. 3 of Chiu
+and Hill, 2006; Rover et al., 2021). This weakly informative half-normal                et al. (2009)). Squares represent fixed prior distributions or observed values
+prior regularizes, i.e. constrains, the population mean which allows for                while circles represent the unobserved or random variables. The triangle (CP,j )
+stronger pooling of estimates while also allowing for heterogeneity in                  represents the closed-form solution to the concentration vs. time pharmacoki­
+the dataset-level parameters if discrepancies exist between datasets in                 netic model for each dataset (i) and time (j). Dataset-level (i) parameters are
+the underlying observed data. As outlined by Rover et al. (2021), the                   sampled from the population-level parameters for fa,i (fraction absorbed) and θi
+                                                                                                              {                       }
+HalfNormal(0.5) prior on the population standard deviation for log-                     where θi ∈ ka,i , V             ̃ d,i , C
+                                                                                                                                ̃ L,i   for a one-compartment model and θi ∈
+transformed parameters provides a wide range of lower-level param­                      {                                  }
+eter heterogeneity and allows for sampling in both the stronger pooling                   ka,i , V       ̃ L,i , k12,i , Ri for a two-compartment model. The fraction absorbed
+                                                                                                 ̃ d,i , C
+region (similar parameters across datasets) and in the un-pooled region
+                                                                                        beta-distribution population mode (ωfa ) and ‘concentration’ (κfa ) priors are
+(disparate parameter distributions across datasets).
+                                                                                        described in depth in Appendix A. The population for each PFAS/species/sex
+                                                                                        combination consists of time-course datasets where each dataset comprises
+                                                                                        PFAS serum concentrations presented as either summary-level or individual
+                                                                                        animal data following a single IV or gavage dose.
+
+
+Table 1
+Prior distributions for the hyperparameters describing the means of the pharmacokinetic parameters used in the one- and two-compartment model formulations. All
+instances of log represent a natural log and σθ = logGSDθ for each log-transformed normal distribution.
+  Parameter (units)     Summary                                               Prior distribution                2.5th – 97.5th percentile     Two-compartment model only
+
+  МC̃L (L/kg/d)         Clearance                                             logМCLC ∼ N(log(0.06) , 2.68)     0.00031–11.5
+  МṼd (L/kg)           Volume of distributiona                               logМVd ∼ N(log(0.22) , 1.5)       0.01–4.2
+  Мk12 (d− 1)           Rate of transfer from central to tissue compartment   logМk12 ∼ N(log(0.01) , 1.5)      5.3 × 10− 4–1.9 × 10− 1       ✓
+  МR (unitless)         Ratio of volumes for central and deep compartments    logМR ∼ N(log(100) , 1.5)         5.2–1892                      ✓
+  Мka (d− 1)            Absorption rate constant                              logМka ∼ N(log(81) , 0.25)        50–132
+  ωfa (unitless)        Fraction absorbed                                     ωfa ∼ Beta(6, 1.5)                0.47–0.98
+  a
+    For a one-compartment model, this represents the volume of distribution calculated from the central compartment (VC ). For a two-compartment model, this is the
+steady-state volume of distribution (Vd,ss = VC + VT = VC • (1 + 1/R)).
+
+
+
+                                                                                    4
+T.J. Zurlinden et al.                                                                                        Toxicology and Applied Pharmacology 499 (2025) 117336
+
+
+Finally, this hierarchical framework aims to characterize dataset-to-             2.5.2. Comparing clearances through a region of practical equivalence
+dataset variability as opposed to inter-individual variability because            (ROPE)
+not every study reported individual animal data.                                      Unlike frequentist methods where differences in conditions are
+                                                                                  tested against a single null hypothesis (zero) through a p-value, the re­
+2.5.1. Allometric scaling for inter-species extrapolation                         gion of practical equivalence (ROPE) defines an area around the null
+    To evaluate pharmacokinetic parameters across species, we fit an              that is deemed “practically equivalent” and determines if the effect of
+allometric scaling model for the clearance and volume of distribution.            interest falls sufficiently far away from zero in order to reject the null
+Here, we used the following body weight (mass) allometric power-law               hypothesis. (Kruschke, 2015; Kruschke, 2018). By defining a comparator
+model:                                                                            parameter using the posterior probability distributions for the desired
+                                                                                  conditions to test, the most credible values of this comparator parameter
+Ys = a • Mbs                                                          (14)        e.g., the 95 % HDI, can be compared to the ROPE to aid in decision
+                                                                                  making. The HDI + ROPE decision rule (Kruschke, 2018) determines if
+where Ms is the species-specific mass (kg) and Ys represents the species
+                                                                                  any of the most credible comparator parameters (95 % HDI) fall within
+(s) specific pharmacokinetic parameter of interest adjusted for body
+                                                                                  the ROPE, i.e., the null region. Once this relationship is established,
+weight, e.g., clearance (CL , L/d) or volume of distribution (Vd , L). The
+                                                                                  Kruschke (2018) provides the following rules for the decision making
+parameters a and b are the constants for the power law model. Histori­
+                                                                                  process:
+cally, a represents a chemical-specific scaling coefficient while the
+power law coefficient, b, is set to 1 when scaling volume of distribution
+                                                                                  1. The entire 95 % HDI of the comparator parameter falls within the
+and 0.75 when scaling clearance (U.S. Environmental Protection
+                                                                                     ROPE: accept, the groups are the same for practical purposes.
+Agency, 2011). For volume of distribution, b = 1 indicates the volume of
+                                                                                  2. The entire 95 % HDI of the comparator parameter falls outside the
+distribution is directly proportional to body weight. However, b = 0.75
+                                                                                     ROPE: reject, the groups are not the same for practical purposes.
+for clearance stems from the observation that inter-species metabolic
+                                                                                  3. Some portion of the comparator 95 % HDI falls inside and outside the
+rates are proportional to body weight to the ¾ power through Kleiber’s
+                                                                                     ROPE: withhold a decision.
+rule (Kleiber, 1932), with this property reviewed across numerous spe­
+cies in Thommen et al. (2019). This observation for cellular metabolic
+                                                                                      To evaluate differences in clearance between two conditions, we
+scaling has demonstrated utility for inter-species extrapolation of
+                                                                                  defined our null region or region of practical equivalence as a 20 %
+clearance and is used as the default method for the derivation of oral
+                                                                                  difference in clearance (Kruschke, 2018). As reviewed in (Little, 2015)
+reference doses (U.S. Environmental Protection Agency, 2011).
+                                                                                  and (Kruschke, 2018), acceptance criteria for whether two conditions
+    To investigate how the pharmacokinetic parameters derived from
+                                                                                  are the same should be risk based where higher risks dictate a smaller
+the Bayesian analysis are described by classical allometric scaling, we
+                                                                                  ROPE and smaller risks dictate a larger ROPE. A 20 % difference in
+linearly reparametrized Eq. 14 as:
+                                                                                  parameters represents a moderate risk (Little, 2015) and is in line with
+logYp,sex
+    pred
+          = logap,sex + b • logMs                                     (15)        the confidence interval acceptance criteria for bioequivalence studies
+                                                                                  used in U.S. Food and Drug Administration Center for Drug Evaluation
+            pred
+where logYp,sex  is the allometrically-scaled log-transformed pharmaco­           and Research and Center for Biologics Evaluation and Research (2016).
+kinetic parameter (logCL or logVd ) and logap,sex is the log-transformed          The ramifications of a 20 % difference in clearance are realized through
+                                                                                  predicted steady-state serum concentration where a 20 % difference in
+scaling coefficient for each PFAS (p) and sex. LogMs is the log-
+                                                                                  clearance results in a 20 % change in the steady state serum concen­
+transformed mass for each species (s). For these fits, Ms is defined as:
+      ⎧                                                                           tration. For each comparison, the comparator parameter (ρ) was deter­
+      ⎨ 0.025 kg, ∣for s = mouse                                                  mined as a fractional change in clearance given by
+Ms =       0.25 kg, ∣for s = rat                                     (16)
+      ⎩
+         2.6 kg, ∣for s = primate                                                      C
+                                                                                       ̃ L,1
+                                                                                  ρ=                                                                        (18)
+                                                                                       C
+                                                                                       ̃ L,2
+where reference body weights for mice and rats are determined from (U.
+S. Environmental Protection Agency, 1988) and (Chengelis et al., 2009)            where C
+                                                                                        ̃ L,1 represents the clearance posterior distribution in scenario
+for primates. For mice and rats, these species-specific animal masses             one and C
+                                                                                          ̃ L,1 is the clearance posterior distribution in scenario two. To
+represent default values used by EPA for pharmacokinetic modeling                 test for a 20 % change in clearance, the ROPE is defined from 0.8 to 1.2
+while the primate mass represents the average mass of cynomolgus                  so that the “null-hypothesis” is defined as a 20 % change in clearance
+monkeys (the primate species used for these PK studies) reported in               and overlap with the ROPE is determined from the 95 % HDI of ρ. In this
+Chengelis et al. (2009). The values in Eq. 16 are similar to the masses           study we tested two comparisons: 1) Sex-dependent differences in
+used for fitting the PK models. Finally, b is the power coefficient and is
+                                                                                  population clearance with C ̃ L,1 = Female, C
+                                                                                                                              ̃ L,2 = Male, and 2) Within-
+fixed depending on which pharmacokinetic parameter is analyzed: b = 1
+for Vd and b = 0.75 for CL . Therefore, only ap,sex was determined for the        study differences in routes of exposure where C
+                                                                                                                                ̃ L,1 = IV and C
+                                                                                                                                               ̃ L,2 =
+allometric scaling of volume of distribution and clearance by fitting a           gavage.
+sex- and PFAS-specific ap,sex from Eq. 15 using the default priors of the
+Bayesian Model-Building Interface in Python (Bambi) which formulated              2.5.3. Software and computing platform
+the following regression model                                                        Graphical extraction of concentration vs. time data was conducted
+                                                                                  using Webplot digitizer (Rohatgi, 2022). All MCMC modeling, statistical
+  logap,sex ∼ Normal(0, 28.67),                                                   analysis, and post-processing was conducted in Python v3.12 with PyMC
+                  (             )
+logYp,sex
+     obs
+          ∼ Normal logYp,sex
+                         pred
+                              ,σ ,                                    (17)        v. 5.7.2 (Salvatier et al., 2016; Abril-Pla et al., 2023) used for all MCMC
+                                                                                  sampling. Allometric scaling through linear regression utilized Bambi
+   σ ∼ HalfStudentT(4, 3.02).
+                                                                                  (Capretto et al., 2022), a Bayesian model-building interface imple­
+                                                                   obs
+                                                                                  mented in PyMC. Post-processing of inference data objects from PyMC
+where logap,sex is the log-intercept for each individual PFAS, logYp,sex is
+                                                                                  was done using ArviZ v. 0.16.1 (Kumar et al., 2019) with plotting and
+the mean log-transformed MCMC determined pharmacokinetic param­                   visualizations using Matplotlib v3.7.1 (Hunter, 2007). Each PFAS
+                      pred
+eter (Vd or CL ), logYp,sex is the predicted allometrically scaled pharma­        analysis is conducted in a PFAS-specific Jupyter notebook with python
+cokinetic parameter from Eq. 15, and σ is the regression model error.             code and accompanying Jupyter notebooks for each PFAS available in a
+
+
+                                                                              5
+T.J. Zurlinden et al.                                                                                           Toxicology and Applied Pharmacology 499 (2025) 117336
+
+                                                                                                                                     )
+GitHub repository at https://github.com/USEPA/CPHEA-Anima
+                                                                                    with body-weight normalized clearances (C
+                                                                                                                            ̃L           that could span orders of
+l-PFAS-PK. All calculations were performed on a 64-bit CentOS Linux
+operating system (RHEL 8.9) on a Dell Precision 7920 containing an                  magnitude (Fig. 3 and Table 3). In addition, scaling clearance (CL ) by
+Intel Xeon Silver 4216 processor and 94 GB of RAM.                                  M0.75
+                                                                                      s   resulted in a species-dependent effect on the allometrically-scaled
+                                                                                    clearance (Fig. B.6).
+3. Results                                                                              Because half-life is proportional to V
+                                                                                                                             ̃ d /C
+                                                                                                                                  ̃ L , and V
+                                                                                                                                            ̃ d remained gener­
+                                                                                    ally consistent for PFAS across species, the large differences in PFAS-
+   Extracted time-course concentration data (individual animal and                  specific half-life are driven mainly by differences in systemic clear­
+summary-level concentrations) are available in the GitHub repository.               ance. Here, a distinct reduction in clearance is observed across all spe­
+Prior and posterior predictive checks for the MCMC simulations are                  cies when transitioning between PFAS with 5‑carbon fluoroalkyl chain
+available in Appendix B while time-course fits to the extracted data are            (PFHxA) or less (PFBS/PFBA) and a 6‑carbon fluoroalkyl chain (PFHxS)
+available in Appendix C.                                                            or greater.
+                                                                                        Finally, a prior sensitivity analysis demonstrated that estimations of
+                                                                                    clearance, volume of distribution, and half-life were not meaningfully
+3.1. Pharmacokinetic modeling results                                               impacted by different choices of population mean and variance priors
+                                                                                    (see sensitivity analysis notebook within in supplemental code). Briefly,
+    Following the review of the literature, we extracted time-course                this sensitivity analysis demonstrated that the weakly informative priors
+blood (serum) PK data for mice, rats, and non-human primates from                   for these pharmacokinetic parameters based on previous knowledge of
+20 studies (Table 2) resulting in 48 PFAS/species/sex combinations for              PFAS pharmacokinetics did not significantly impact the resulting pos­
+which we fit a population PK model. Out of the 48 PFAS/species/sex fits,            terior distributions. In addition, a prior predictive check on the observed
+six were chosen to be best fit using a one-compartment model while a                data showed that the 95 % credible intervals for concentrations pre­
+two-compartment model was selected as the most appropriate model for                dicted from the priors chosen for this analysis (Table 1) contained the
+the remaining 42. Models were selected by the lowest EPLD between                   observed data and were not biased towards any measured concentra­
+one- and two-compartment fits following LOO cross validation.                       tions (Appendix B).
+    For the majority of fits, the 95 % credible interval was contained
+within a 3-fold error of the measured concentrations (Fig. B.1). How­               3.2. Clearance and volume of distribution allometric scaling
+ever, reported PFBS concentrations in the individual mice and primates
+used for parameter determination could vary by more than an order of                    Allometric scaling (Eq. 14) using the population mean volume of
+magnitude following the same administered dose and time point which                 distribution (Vd ) posterior distribution showed good agreement with the
+resulted in a mean square log error greater than 0.5 for both species               human values reported by Chiu et al. (2022) (central estimates within a
+across males and females (PFBS fits in Appendix C). When investigating              factor of two) using a power-law coefficient of b = 1 (Fig. 4A, Table 4).
+parameter uncertainty, specifically clearance, the largest posterior                In addition, any sex-dependent differences in Vd across mice, rats, and
+geometric standard deviations pertained to PFAS/species/sex combi­                  non-human primates were negligible as evidenced by the fits having
+nations that contained substantial route- and dose-specific differences in          very similar scaling coefficients (ap,sex ). Similar cross-species volumes of
+clearance (PFBS, PFHxS, PFOA, PFOS). Apart from the model chosen for                distributions are to be expected for PFAS owing to the high degree of
+PFOA PK behavior in the male rat, the LOO-CV selected models pre­                   serum protein binding and distribution primarily to rapidly perfused
+dicted the observed serum concentrations across multiple orders of                  tissues. These results demonstrate the reasonableness in using the non-
+magnitude with central estimates falling within the 3-fold error bounds
+                                                                                    human primate V   ̃ d for human-specific PK calculations.
+(Fig. B.1). However, the over prediction of the lowest serum concen­
+                                                                                       With the exception of PFBA, comparing the best available human
+trations for PFOA (Fig. B.1) indicates that neither model is appropriate
+                                                                                    clearance values (CL ) presented by Chiu et al. (2022) (PFHxS, PFOA,
+for predicting these lowest internal concentrations.
+                                                                                    PFOS, PFNA), U.S. Environmental Protection Agency (2021) (PFBS), U.
+    Posterior distributions of PK parameters demonstrated similar body-
+                                                 )                                  S. Environmental Protection Agency (2023) (PFHxA), and U.S. Envi­
+weight normalized volumes of distribution (V  ̃ d across each PFAS, but             ronmental Protection Agency (2022) (PFBA) to the current results where
+
+Table 2
+Summary of available blood (serum) time-course pharmacokinetic studies for the selected PFAS. For each study, the letter designates which species was studied for
+each PFAS across mouse (M), rat (R), and non-human primate (P).
+  Study                             PFBA             PFBS            PFHxA             PFHxS            PFOA             PFOS               PFNA             PFDA
+
+  Butenhoff et al. (2004)                                                                               P
+  Chang et al. (2012)                                                                                                    M,R,P
+  Chang et al. (2008)               M,R,P
+  Chengelis et al. (2009)                            R,P             R,P
+  Daikin (2010)                                                      M
+  Dzierlenga et al. (2019)                                           R                                  R                                                    R
+  Gannon et al. (2011)                                               M,R
+  Huang et al. (2019)                                R                                 R                                 R
+  Iwabuchi et al. (2017)                                             R                                  R                R                  R
+  Kemper (2003)                                                                                         R
+  Kim et al. (2016)                                                                    R                R                R
+  Kim et al. (2018)                                                                    R
+  Kim et al. (2019)                                                                                                                         R                R
+  Kudo et al. (2002)                                                                                    R
+  Lau et al. (2020)                                  M
+  Lou et al. (2009)                                                                                     M
+  Ohmori et al. (2003)                                                                                  R                                   R                R
+  Olsen et al. (2009)                                R,P
+  Sundström et al. (2012)                                                             M,R,P
+  Tatum-Gibbs et al. (2011)                                                                                                                 M,R
+
+
+                                                                                6
+T.J. Zurlinden et al.                                                                                                   Toxicology and Applied Pharmacology 499 (2025) 117336
+
+
+
+
+Fig. 3. Mean and 95 % credible intervals for clearance (C   ̃ L , L/kg/d), steady-state volume of distribution (V
+                                                                                                                ̃ d , L/kg), and steady state half-life (t1/2 , d). Posterior
+population distributions for clearance (top row), steady-state volume of distribution (middle row), and half-life (bottom row) across mouse (left column), rat (middle
+column), non-human primate (right column).
+
+
+clearance is estimated through allometric scaling (power-law coefficient                  female clearance was about 50 % larger than that for males.
+of b = 0.75) demonstrates that allometric scaling does not reliably                           When comparing pharmacokinetics across different routes of expo­
+predict human clearance for the selected PFAS (Fig. 4B, Table 4).                         sures, the general expectation is that systemic clearance should be in­
+Furthermore, clearance (CL ) for the longer chained PFAS (PFHxS, PFOA,                    dependent of the route, i.e., once a chemical distributes through the
+PFOS, and PFNA) did not substantially change with increasing species                      body, it should clear from the body at the same rate regardless of the
+body weight (Fig. 4) and in some cases, decreased from rats to primates                   route of exposure. However, several studies have reported bioavail­
+to humans (female PFOA).                                                                  ability values, calculated as the dose-normalized ratio of the areas under
+    For both pharmacokinetic parameters predicted through allometric                      the curve (AUCs) for gavage and IV exposures, greater than 100 % (Kim
+scaling (Vd and CL ), we used a human body weight of 80 kg (U.S.                          et al., 2016; Dzierlenga et al., 2019; Huang et al., 2019), indicating that
+Environmental Protection Agency, 2011a) to convert to a per kg volume                     there is more chemical in circulation following gavage dosing than
+                 ̃ d ) and clearance (C
+of distribution (V                    ̃ L ) for comparison to the reported                following IV dosing. Using the ROPE+HDI method, we investigated
+human values in Table 4. Finally, allometric scaling of PFDA was                          differences in clearance between gavage and IV routes of exposure.
+excluded because only rat pharmacokinetic data were available.                            These route-specific comparisons demonstrated that IV routes of expo­
+                                                                                          sure generally produced larger clearances than gavage routes of expo­
+                                                                                          sure in the rat, which was the only species for which dose-matched
+3.3. Quantitating differences in clearance                                                routes of exposure were available (Fig. 5B). The ROPE+HDI results
+                                                                                          shown in Fig. 5B highlight this effect for PFBA (Chang et al., 2008), PFBS
+   Using a ±20% difference in clearance as the ROPE, we compared                          (Huang et al., 2019), PFHxS (Kim et al., 2016; Kim et al., 2018), PFOA
+clearances from two scenarios: 1) female vs. male and 2) intravenous vs                   (Kemper, 2003), PFOS (Huang et al., 2019), and PFDA (Dzierlenga et al.,
+gavage routes of exposure (Fig. 5). The largest differences in clearance                  2019), where a significant difference between IV and gavage clearance
+between sexes was seen in rats, where female rats had substantially                       was determined for female rats when comparing the same dose within a
+greater clearance for PFBS, PFHxA, PFHxS, PFOA, and PFNA (Fig. 5A).                       study. These instances of greater PFAS clearance following IV compared
+The mean relative difference in clearance for these five chemicals in                     to gavage corresponded to datasets where the reported dose normalized
+female rats ranged from two to 32 times larger compared to male                           AUC for gavage is greater than the dose normalized AUC for IV indi­
+clearance. For PFBA, clearance in female rats was greater, but 95 %                       cating fa > 1.
+credible interval estimates of ρ overlapped with the ROPE while esti­
+mates of ρ (relative sex-specific clearance values) for PFOS and PFDA                     4. Discussion
+indicated no significant differences in clearance between the rat sexes.
+For mice, only PFHxA demonstrated a significantly higher clearance for                        By incorporating observed concentration vs. time data from 20
+females compared to males. However, even though none of the confi­                        studies across eight PFAS of interest, the hierarchical Bayesian analysis
+dence interval estimates of ρ excluded the ROPE for the remaining PFAS,                   characterized population- and dataset-level uncertainty and variability
+the central estimates of ρ indicated that female mouse clearance was                      in PFAS PK parameters using single dose pharmacokinetic studies pub­
+higher for several chemicals (PFBA, PFBS, PFOA and PFNA). For PFOS in                     lished in the literature. Posterior population mean, population variance,
+mice, the entire 95 % C.I. was contained within the ROPE indicating                       and dataset-level parameters provide insights into the uncertainty of the
+equivalent PFOS clearances for male and female mice. For non-human                        pharmacokinetic parameters and allow for propagation of that uncer­
+primates, sex-specific differences in ρ did not follow the same trends.                   tainty into PFAS pharmacokinetic predictions. The distributional esti­
+The central estimate for male non-human primate PFOA clearance was                        mate of the population mean PK parameter provides the central estimate
+twice as large as that for females, while the central estimate for PFOS                   and estimated uncertainty of the true population mean while the
+
+                                                                                      7
+T.J. Zurlinden et al.                                                                                                    Toxicology and Applied Pharmacology 499 (2025) 117336
+
+
+Table 3                                                                                  Table 3 (continued )
+Summary clearance (C
+                   ̃ L ), volume of distribution (V
+                                                  ̃ d ), and half-life (t1 ) phar­
+                                                                                          PFAS      Species     Sex         fa          C
+                                                                                                                                        ̃ L (ml/kg/   ̃ d (ml/
+                                                                                                                                                      V           t1 (d)
+                                                                           2                                                                                       2
+macokinetic parameters for mice, rats, and non-human primate. Values for each                                                           d)            kg)
+parameter are presented as means (95 % credible interval) of the posterior                                                              3.14          120.7       26.66
+probability distribution. When a value is not presented for fa, both oral and IV                                Female      –           (2.95,        (111.1,     (25.44,
+data were not available for that specific PFAS/species/sex combination and the                                                          3.32)         130.4)      27.95)
+value was set to 1. Time-course pharmacokinetic data for PFDA in mice and                                                                             272         177.6
+                                                                                                                                        1.17
+primates and PFNA in primates were not available and the corresponding pa­                                      Male        –                         (234.6,     (90.56,
+                                                                                                                                        (0.6, 1.7)
+                                                                                                                                                      311.8)      296.9)
+rameters could not be derived.                                                                      primate
+                                                                                                                                                      222.9       74.38
+                                                                                                                                        2.1
+  PFAS        Species   Sex      fa         C
+                                            ̃ L (ml/kg/    ̃ d (ml/
+                                                           V           t1 (d)                                   Female      –                         (191.2,     (56.84,
+                                                                       2                                                                (1.7, 2.48)
+                                            d)             kg)                                                                                        252.9)      93.43)
+                                                                                                                            0.928       15.07         289.4       14.2
+                                 0.815      528.7          216.7       0.348
+                                                                                                                Male        (0.824,     (8.31,        (190.5,     (6.291,
+                        Male     (0.556,    (102.5,        (82.94,     (0.052,
+                                                                                                                            0.999)      22.63)        380.1)      23.18)
+                                 1)         981)           346.5)      0.744)                       rat
+              rat                                                                                                           0.894       666.3         648.6       0.69
+                                 0.814      1889           221.4       0.098
+                                                                                                                Female      (0.735,     (474.4,       (282.3,     (0.271,
+                        Female   (0.561,    (427,          (68.47,     (0.013,
+                                                                                                                            1)          859)          1183)       1.31)
+                                 0.999)     3364)          390.3)      0.216)
+                                                                                                                                        6.94          252.2       25.63
+                                            298.2          288         0.724
+                                                                                                                Male        –           (6.08,        (206,       (20.12,
+                        Male     –          (137.8,        (114.5,     (0.195,
+                                                                                                                                        7.77)         303.8)      31.97)
+                                            466.8)         472.2)      1.336)             PFOA      mouse
+  PFBA        mouse                                                                                                                     12.38         298.5       21.45
+                                            866.6          214.1       0.186
+                                                                                                                Female      –           (3.28,        (76.39,     (2.501,
+                        Female   –          (378.6,        (102.1,     (0.064,
+                                                                                                                                        25.4)         569.5)      53.1)
+                                            1385)          331.7)      0.343)
+                                                                                                                                        10.83         179         11.45
+                                            2061           592.2       0.197
+                                                                                                                Male        –           (8.06,        (124.3,     (9.765,
+                        Male     –          (1546,         (335.5,     (0.148,
+                                                                                                                                        13.71)        236.2)      13.26)
+                                            2576)          869.2)      0.248)                       primate
+              primate                                                                                                                   4.64          169.4       25.34
+                                            1341           436.9       0.284
+                                                                                                                Female      –           (3.95,        (140.5,     (21.67,
+                        Female   –          (964.6,        (232.2,     (0.229,
+                                                                                                                                        5.39)         199.1)      29.26)
+                                            1742)          649.6)      0.337)
+                                                                                                                            0.853       5.51          441.9       57.08
+                                 0.795      1330           223.9       0.12
+                                                                                                                Male        (0.641,     (3.66,        (289.3,     (33.41,
+                        Male     (0.523,    (782.2,        (132,       (0.065,
+                                                                                                                            0.999)      7.39)         608.6)      85.94)
+                                 0.998)     1944)          337.6)      0.189)                       rat
+              rat                                                                                                           0.885       4.64          345.7       54.73
+                                 0.854      5361           305.1       0.041
+                                                                                                                Female      (0.69,      (2.48,        (214.8,     (25.33,
+                        Female   (0.632,    (3223,         (195.7,     (0.022,
+                                                                                                                            0.999)      6.86)         476.4)      89.66)
+                                 0.999)     7606)          427.8)      0.063)
+                                                                                                                                        5.59          286         35.49
+                                            1150           309.5       0.186
+                                                                                                                Male        –           (5.18,        (257,       (32.35,
+                        Male     –          (927.9,        (216.6,     (0.154,
+                                                                                                                                        6.01)         315.2)      38.55)
+                                            1394)          403.8)      0.221)             PFOS      mouse
+  PFBS        mouse                                                                                                                                   274.2       32.81
+                                            1963           356.9       0.125                                                            5.79
+                                                                                                                Female      –                         (247.4,     (30.25,
+                        Female   –          (1342,         (206.5,     (0.099,                                                          (5.41, 6.2)
+                                                                                                                                                      299.9)      35.3)
+                                            2613)          513.7)      0.154)
+                                                                                                                                        1.1           212.1       135.9
+                                            361            270         0.564
+                                                                                                                Male        –           (0.86,        (189.5,     (100.5,
+                        Male     –          (142.2,        (94.44,     (0.135,
+                                                                                                                                        1.34)         232.2)      178.8)
+                                            609.2)         479.8)      1.077)                       primate
+              primate                                                                                                                   1.91          262.8       96.3
+                                            443.7          298.5       0.528
+                                                                                                                Female      –           (1.56,        (235,       (74.73,
+                        Female   –          (125.2,        (97.43,     (0.101,
+                                                                                                                                        2.25)         291.9)      120.3)
+                                            771.3)         543.5)      1.055)
+                                                                                                                            0.863       3.3           239.8       53.72
+                                 0.911      3118           426.4       0.095
+                                                                                                                Male        (0.646,     (1.73,        (130.4,     (22.22,
+                        Male     (0.786,    (2622,         (292.3,     (0.066,
+                                                                                                                            1)          5.03)         355.2)      90.98)
+                                 0.999)     3597)          557.7)      0.124)                       rat
+              rat                                                                                                           0.937       68.17         277.8       2.831
+                                 0.836      8115           387.8       0.034
+                                                                                                                Female      (0.841,     (58.8,        (225.9,     (2.284,
+                        Female   (0.603,    (4532,         (215.2,     (0.017,
+                                                                                                                            1)          77.35)        330.6)      3.348)
+                                 0.999)     1.17e+04)      576.8)      0.053)             PFNA
+                                                                                                                                        3.93          602.6       227.5
+                                            2207           686.9       0.215
+                                                                                                                Male        –           (0.83,        (508.5,     (46.7,
+                        Male     –          (1841,         (401.1,     (0.141,
+                                                                                                                                        6.35)         729.3)      445.9)
+                                            2595)          1038)       0.309)                       mouse
+  PFHxA       mouse                                                                                                                                   348.4       59.44
+                                            4441           1525        0.251                                                            4.19
+                                                                                                                Female      –                         (304.1,     (39.45,
+                        Female   –          (2865,         (211.9,     (0.025,                                                          (3.1, 5.24)
+                                                                                                                                                      395.1)      84.55)
+                                            6069)          3665)       0.63)
+                                                                                                                                        3.46          405.5       88.41
+                                            4686           827.4       0.121                                                0.849
+                                                                                                                Male                    (1.68,        (249.2,     (35.63,
+                        Male     –          (2778,         (383.3,     (0.09,                                               (0.62, 1)
+                                                                                                                                        5.54)         579)        153.3)
+                                            6877)          1342)       0.16)              PFDA      rat
+              primate                                                                                                       0.867       3.22          300.7       68.78
+                                            5042           392.6       0.054
+                                                                                                                Female      (0.655,     (1.78,        (188.2,     (27.72,
+                        Female   –          (3839,         (255.3,     (0.045,
+                                                                                                                            1)          4.82)         446.4)      116.2)
+                                            6335)          541.2)      0.063)
+                                 0.869      4.79           201.6       29.71
+                        Male     (0.667,    (3.39,         (134.3,     (18.35,
+                                 1)         6.19)          265.6)      42.11)
+                                                                                         population variance (presented as a geometric standard deviation in
+              rat                                                                        Table B.4) quantitates dataset-to-dataset variation and describes the
+                                 0.896      98.21          239.6       1.744
+  PFHxS                 Female   (0.728,    (65.05,        (158.7,     (0.961,           heterogeneity in parameter values across available datasets. Finally,
+                                 0.999)     134.6)         319.5)      2.588)            dataset-level parameters describe how PK parameters derived from each
+                                            3.81           150.6       27.4
+                                                                                         time-course dataset deviate from the population mean. Taken together,
+              mouse     Male     –          (3.49,         (133.8,     (25.62,
+                                            4.13)          168)        29.45)            the resulting posterior probability distributions account for several
+                                                                                         sources of uncertainty, such as those pertaining to the observed data (e.
+                                                                                         g., inter- and intra-study variability, study-specific measurement error,
+                                                                                         etc.), and those involving underlying model assumptions (e.g. only
+
+                                                                                     8
+T.J. Zurlinden et al.                                                                                             Toxicology and Applied Pharmacology 499 (2025) 117336
+
+
+
+
+Fig. 4. Allometric scaling of volume of distribution (A) and clearance (B). Mean fits from the Bayesian allometric scaling fits are shown for male (solid line) and
+female (dashed lines) and compared to mice (blue circles), rats (orange triangles), and non-human primates (green squares) for males (closed symbols) and females
+(open symbols). Using a body weight of 80 kg, mean model fits are extrapolated to humans and compared to human values reported for PFHxS, PFOA, PFOS, and
+PFNA (Chiu et al., 2022), PFBA (U.S. Environmental Protection Agency, 2022), PFBS (U.S. Environmental Protection Agency, 2021), and PFHxA (U.S. Environmental
+Protection Agency, 2023) (red diamonds). PFDA is excluded from the allometric scaling fits because only rat concentration data were available. (For interpretation of
+the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+
+fitting one- vs. two-compartment classical PK models). Using these                    PFAS pharmacokinetics.
+posterior PK distributions, we characterized differences in population-
+level PFAS PK across mice, rats, primates, and humans to demonstrate
+a breakdown in allometric scaling assumptions for clearance in several                4.1. Population-based modeling of PFAS pharmacokinetics
+PFAS. In addition, comparisons of dataset-level posterior distributions
+demonstrated significant differences in clearance within a population                    The partial pooling of PK data ensured clearance calculated from less
+depending on the PFAS route of exposure. Results from this study inform               robust datasets, e.g. shorter measured time, fewer time points, and fewer
+current internal dose predictions for PFAS in animals and help identify               animals did not unduly influence the population PK parameters for each
+data gaps and possible changes to model structure to better characterize              PFAS/species/sex combination. For example, Sundström et al. (2012)
+                                                                                      determined clearances of 40.32 ml/d/kg for male rats and 119 ml/d/kg
+
+                                                                                  9
+T.J. Zurlinden et al.                                                                                              Toxicology and Applied Pharmacology 499 (2025) 117336
+
+
+Table 4
+Predicted human volume of distribution (Ṽ d , L/kg) and clearance (C
+                                                                    ̃ L , L/kg/y) through allometric scaling for male (M) and female (F). Previously reported phar­
+macokinetic parameters are given for comparison with the accompanying source. Calculations assume an 80 kg human and clearances are converted to L/kg/y to aid in
+comparison across sources.
+  PFAS        Volume of Distribution                           Clearance                                            Human Source
+              (L/kg)                                           (L/kg/y)
+
+              M              F             Reported Human V
+                                                          ̃d   M              F                Reported Human C
+                                                                                                              ̃L
+
+              0.33           0.28                              59.5           112
+  PFBA                                     –                                                   43.8                 U.S. Environmental Protection Agency (2022) - IRIS
+              (0.2–0.53)     (0.17–0.45)                       (13.2–247)     (25.4–489)
+              0.27           0.32                              71.4           144
+  PFBS                                     –                                                   1.31                 U.S. Environmental Protection Agency (2021)
+              (0.17–0.43)    (0.2–0.52)                        (15–287)       (33.9–608)
+              0.63           0.62                              275            490
+  PFHxA                                    –                                                   16.2                 U.S. Environmental Protection Agency (2023) - IRIS
+              (0.39–1.0)     (0.38–0.99)                       (66.1–1150)    (116–2080)
+              0.2            0.19          0.29                0.24           0.753            0.025
+  PFHxS
+              (0.13–0.33)    (0.12–0.31)   (0.17–0.45)         (0.053–0.98)   (0.162–2.99)     (0.012–0.039)
+              0.24           0.32          0.43                0.911          2.94             0.095
+  PFOA
+              (0.15–0.38)    (0.2–0.52)    (0.32–0.59)         (0.208–4.07)   (0.665–12.2)     (0.074–0.13)
+                                                                                                                    Chiu et al. (2022)
+              0.3            0.29          0.32                0.28           0.322            0.066
+  PFOS
+              (0.19–0.49)    (0.18–0.48)   (0.22–0.47)         (0.063–1.25)   (0.072–1.33)     (0.048–0.092)
+              0.38           0.31          0.19                0.233          1.1              0.056
+  PFNA
+              (0.2–0.68)     (0.17–0.56)   (0.11–0.3)          (0.039–1.5)    (0.19–7.19)      (0.033–0.093)
+
+
+
+for female rats following an IV administration of PFHxS. Comparatively,                PFOS, PFNA). In some cases, this human-predicted value was several
+Huang et al. (2019) calculated a much lower clearances for IV admin­                   orders of magnitude higher than any reported human value (Table 4). In
+istration of PFHxS of 4.73 ml/d/kg for male rats and 65.5 ml/d/kg for                  addition, clearance across female rats, female non-human primates, and
+female rats. Differences in study-specific PFHxS clearance will arise from             humans either stays the same or decreases for the longer chain PFHxA,
+variations in study designs, such as different applied doses, number of                PFHxS, PFOA, and PFNA indicating a maximal absolute (liter per day)
+animals dosed, study duration, and pharmacokinetic model assump­                       clearance is reached regardless of species size.
+tions. Taking each study- or dataset-specific clearance independently                      One possible explanation for an overprediction of human clearance
+represents a completely un-pooled approach where it is difficult to know               following extrapolation from animal-derived clearances is that PFAS
+which study’s set of PK parameters should be utilized for internal                     internal dosimetry in the animal tends to be much higher than typically
+dosimetry calculations. By pooling data across these studies, outlier                  seen for humans in the general population. For example, the lowest
+datasets will not overly influence the population clearance derived from               animal serum concentrations measured for PFOA in this study were on
+the remaining datasets. Ultimately, we determined a PFHxS population                   the order of 1–10 μg/L after 80 days following a 0.1 mg/kg dose in male
+level clearance (95 % C.I.) of 4.5 (3.2–5.7) ml/d/kg for male rats and                 rats (Kemper, 2003). Comparatively, serum concentrations of PFOA
+98.4 (68.8–127) ml/d/kg for female rats which resembles the lower                      following environmentally relevant exposures in humans are on the
+clearance for male rats presented in Huang et al. (2019) while agreeing                order of 0.002–0.2 μg/L (Lynch et al., 2023). PFAS clearance is limited
+with the higher clearance for female rats presented by Sundström et al.               by extensive binding to plasma proteins (Ng and Hungerbuhler, 2014;
+(2012). These estimates utilize observations from several datasets across              Cheng and Ng, 2017), increased tissue distribution through membrane
+four different studies and assign a probability distribution to the clear­             lipid binding (Allendorf et al., 2021), and active renal resorption
+ance based on the observed PFHxS pharmacokinetics.                                     (Wambaugh et al., 2013; Cheng and Ng, 2017) mediated by organic
+    Additionally, physiologically based pharmacokinetic (PBPK) models                  anion transporters (Zhao et al., 2023). Under a saturable renal resorp­
+do exist for some PFAS, but they do not cover the PFAS space as                        tion hypothesis, fitting the one- and two-compartment PK models using
+comprehensively as this study and require substantially more resources                 data sets from the higher dose experiments would overestimate PFAS
+to parameterize compared to a classical PK analysis. However, when                     clearance at (lower) environmentally relevant doses (Felmlee et al.,
+comparing clearance results from this study (15.1 ± 3.8 ml/kg/d) to the                2013). However, while saturation of renal resorption might explain
+probabilistic population-based PBPK model for PFOA in male rats pre­                   higher clearance in animals compared to humans (when scaled by body
+sented in Cheng and Ng (2021) (25.2 ± 1.6), we find that the Cheng and                 mass to the ¾ power), many of the animal PK data sets do not show
+Ng (2021) reported clearance and in vivo clearance in Kemper (2003)                    higher clearance at higher vs. lower doses (Fig. B.2) and have elimina­
+(20.9 ± 3.8) are within the 90 % credible intervals for the population-                tion phases consistent with a constant clearance rather than one that
+level male rat PFOA clearance from this analysis. While the central es­                decreases as blood concentration decreases. This could indicate that the
+timates for clearance between this analysis and Cheng and Ng (2021) are                animal internal dosimetry following a single large external dose is not
+similar, the larger range of doses and study-to-study variability from                 representative of repeated dosing at much lower external doses for some
+seven studies will contribute to larger uncertainty for the population-                PFAS.
+level clearance value.                                                                     Species dependent differences in the high affinity PFAS transporters
+                                                                                       responsible for renal excretion provide another explanation for observed
+4.2. Inter-species clearance extrapolation through allometric scaling                  inter-species PFAS clearance differences. For example, Niu et al. (2023)
+                                                                                       reviewed the renal transporters most likely to impact PFAS renal
+    As outlined in U.S. Environmental Protection Agency (2014) guide­                  resorption and highlighted organic anion transporting polypeptides
+lines, ratios of systemic clearance can be used to derive inter-species                (OATP) for rats and humans as apical membrane transporters with the
+extrapolation factors for predictions of internal dose. For PFBS, pre­                 ability to facilitate resorption in the proximal tubule for numerous PFAS.
+dicted human clearance based on body mass to the ¾ power scaling                       When comparing PFOS and PFHxS OATP rat vs. human in vitro trans­
+agrees with the values reported by U.S. Environmental Protection                       porter efficiency through ratios of maximum transport rate to affinity
+Agency (2022) within a factor of two for the central estimates. However,               constant (Vmax /KM ), Zhao et al. (2017) determined that OATP Vmax /KM
+the default approach of predicting human clearance using allometric                    was significantly higher for humans compared to rats. Comparatively,
+scaling by body weight significantly overpredicts the observed human                   Niu et al. (2023) identified OAT3 as a basolateral membrane transporter
+clearance for most PFAS investigated here (PFBS, PFHxA, PFHxS, PFOA,                   responsible for transporting PFAS out of the blood and into the proximal
+
+                                                                                  10
+T.J. Zurlinden et al.                                                                                                 Toxicology and Applied Pharmacology 499 (2025) 117336
+
+
+
+
+Fig. 5. Comparison of clearances using a 20% difference in clearance as the ROPE (shaded blue with dash-dot border) with ρ = CL,1 /CL,2 expressed as a log2 fold
+                                                         )
+change. Subfigure A compares CL,1 = female and CL,2 = male results pooled by species and chemical where values to the right of the blue region indicate higher
+female clearance compared to male. Subfigure B compares CL,1 = IV and CL,2 = gavage for rats on the level of single exposure in a study (dose [mg/kg], sex) where
+values to the right of the blue region indicate higher IV clearance. In the figures, the mean and 95 % HDI for each ρ is plotted and log2 ρ > 0 indicates CL,1 > CL,2 while
+log2 ρ < 0 represents CL,2 > CL,1 . A filled symbol signifies the entire 95 % HDI falls outside the ROPE, indicating a practical difference between CL,1 and CL,2 .
+Comparatively, open symbols indicate overlap between the 95 % HDI and the ROPE and no decision is made about a difference in clearances. Finally, an ‘x’ signifies
+the entire 95 % HDI falls within the ROPE and indicates no difference between CL,1 and CL,2 . For intravenous vs gavage comparisons, only studies that tested the same
+dose across both routes of exposure were compared. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of
+this article.)
+
+
+tubule. For PFOA, Nakagawa et al. (2008) determined the rOat3                            which species differences were not evaluated in vitro. While this
+Vmax /KM in rats to be twice that of hOAT3 for humans. Taken together, a                 simplistic view of species-specific differences in apical vs. basolateral
+higher Vmax /KM for rats compared to humans on the basolateral (blood                    membrane transporter efficiency begins to explain the inability to
+facing) membrane and a lower Vmax /KM for rats compared to humans on                     extrapolate PFAS through classical allometric scaling, complex trans­
+the apical (urine facing) membrane would lead to a net higher renal                      porter interactions exist elsewhere in the body that may also contribute
+clearance in the rat compared to human. Furthermore, not all PFAS                        to inter-species differences in systemic clearance. Overall, active trans­
+investigated in this study have been shown to be substrates for human                    porters expressed at different levels across different species and sexes
+OATs. Ryu et al. (2024) demonstrated that PFBA and PFOS were not in                      and with differing affinities to each PFAS mean that it will be difficult to
+vitro substrates for these renal transporters. Interestingly, PFBA and                   extrapolate systemic clearance across species using body mass alone.
+PFOS were the best candidates for inter-species extrapolation (Fig. 3B)
+through default approaches indicating inter-species differences in OAT
+transporter affinity may play a significant role in the species-specific                 4.3. Sex-dependent differences in PFAS clearance
+effect on clearance. Additional explanations for departure from the
+default allometric approaches could also be attributed to other kidney                      From Fig. 5A, we determined that the primary difference between
+transporters such as OATP4C1, MDR1, BCRP, MRP2, and MRP3 for                             male and female clearance occurred in the rat which is in line with
+                                                                                         previous studies looking at male and female matched PK results (Vanden
+
+                                                                                    11
+T.J. Zurlinden et al.                                                                                          Toxicology and Applied Pharmacology 499 (2025) 117336
+
+
+Heuvel et al., 1992; Kudo et al., 2002; Dzierlenga et al., 2019; Huang             4.64 ml/kg/d). This difference of ~6 mL/kg-d is far greater than the
+et al., 2019). Interestingly, this sex-dependent difference is not consis­         difference of 0.9 mL/kg-d estimated for PFHxS and PFOS. Hence, other
+tently observed across mice and non-human primates indicating that                 mechanisms besides menstrual fluid loss appear to be active for non-
+there may be something unique about male vs. female rats such as a sex             human primates, leading to sex-specific results. Irrespective of the
+hormone-dependence on kidney transporters. For example, male rat                   mechanism, the apparent difference in clearance of PFAS in human fe­
+castration significantly reduces Oat3 expression in the male rat renal             males during reproductive years vs males is consistently in the same
+cortex (Ljubojevic et al., 2004) and reduces Oatl1a1 expression in the             direction – higher in females – though the magnitude and duration of the
+male mouse (Cheng et al., 2006) and male rat (Gotoh et al., 2002)                  difference varies among the PFAS evaluated, as illustrated by Jain and
+kidneys. For each species, transporter expression is restored following            Ducatman (2022).
+supplementation with testosterone. While these studies only demon­
+strate sex-hormone effect on renal transporters, Kudo et al. (2002)                4.4. Route of exposure can impact clearance
+demonstrated a positive correlation between basolateral Oat2/Oat3
+expression and renal PFOA clearance in male and female rats.                           As summarized in Fig. 5B, when comparing population mean pos­
+    While there are limited pharmacokinetic datasets for PFAS in non-              terior clearances from the same dose in a given study, clearance
+human primates, the sex-dependent effect in primates appears to be                 following IV dosing was often significantly greater (as evidenced
+much more muted as compared to rats. For comparison in humans, Jain                through rejection of the null hypotheses using the ROPE+HDI decision)
+and Ducatman (2022) evaluated PFAS serum concentrations in the US                  than clearance following gavage dosing for some PFAS in female rats.
+population measured as part of ongoing biomonitoring by NHANES and                 Because the beta distribution prior ensures fa ≤ 1 and these compounds
+demonstrated sex- and age-dependent differences in serum concentra­                are not metabolized, differences in the AUC (e.g. AUCoral > AUCIV ) are
+tions for PFOA, PFNA, PFHxS, and PFOS. At early ages (<12 years),                  attributable to differences in route-specific excretion. For some PFAS,
+serum concentrations in males and females are similar. However, serum              there is evidence of accumulation in the liver (Butenhoff et al., 2009;
+concentrations for these PFAS begin to diverge during teenage years                Conley et al., 2022) with an oral route able to deliver PFAS to the liver
+with female concentrations generally decreasing from age 12 until age              more readily compared to an IV route of exposure. A major contributor
+30–35, while concentrations in males are approximately constant over               to this observation most likely concerns enterohepatic recirculation for
+this range. Concentrations in females then begin to increase but remain            PFAS (Cao et al., 2022) through transporter-mediated uptake in the
+lower than males until age 50–60. While the largest difference between             liver. Furthermore, both human and rat Na+/taurocholate cotransport­
+males and females is during the woman’s reproductive lifespan                      ing polypeptide (NTCP) have demonstrated in vitro affinity to transport
+(approximately age 12–50) and menstrual fluid loss seems a likely                  PFBS, PFHxS, PFOS, PFOA, and PFDA (Vujic et al., 2024) which are five
+explanatory mechanism, the fact that PFAS concentrations begin to                  PFAS from this study with evidence of increased oral AUC. To a lesser
+trend upward in women between ages 35 and 40, when menopause does                  extent, protein binding such as liver fatty acid binding protein (L-FABP)
+not usually occur until age 50, provides reason to consider alternative            (Yang et al., 2020) could also impact accumulation of PFAS in the liver.
+mechanisms for PFAS clearance. Concentrations of PFOS in women                     During the first pass for the gavage route of exposure, these liver-specific
+remained mostly below those of men until age 75, although this was not             effects on PFAS may result in the formation of a depot of PFAS in the
+the case for PFOA, PFNA and PFHxS (Jain and Ducatman, 2022).                       liver that is slowly released to the blood stream. This effect would be
+Further, while concentration differences between males and females is              muted under an IV route of exposure where PFAS would more readily
+indicative of greater clearance in females, exposure levels have not been          make its way to the kidney for excretion before circulation to the liver.
+evaluated for these populations and may also be lower for females than             Interestingly, there is no significant difference in terminal half-life when
+males, contributing to the observed concentration differences. Changes             comparing IV vs gavage (Fig. B.3) following administration of a single
+in body weight over time are also expected to impact serum concen­                 dose. This again indicates a first pass effect in the liver where differences
+trations and the trends for these may also be sex-dependent. Finally,              in AUC and thus systemic clearance are determined during the early
+while it seems likely that menstrual fluid which includes the serum                time-course (distribution phase) while not impacting the terminal half-
+proteins to which PFAS binds will contain PFAS at similar concentra­               life (elimination phase).
+tions as blood serum, experimental confirmation of this assumption is
+not available, and it is possible that some of the PFAS initially lost with        4.5. Limitations and assumptions
+fluid from the uterus is resorbed before the fluid completely leaves the
+woman’s body. Nevertheless, the NHANES data reported by Jain and                       One limitation of the analysis is the potential for non-linear elimi­
+Ducatman (2022) is strongly indicative of menstrual fluid loss as a                nation kinetics often seen with renal clearance of PFAS. Using a one- or
+mechanism of elimination, leading to higher clearance in women. A                  two-compartment model still results in first-order clearance where
+follow up study in humans (Jain and Ducatman, 2023) found that                     previous studies have demonstrated utility of saturable resorption and
+increased estrogen during hormone replacement therapy resulted in                  non-linear elimination to account for dose-dependent changes in clear­
+increased PFAS concentrations, relative to those not using hormone                 ance (Loccisano et al., 2013; Wambaugh et al., 2013). This possibility for
+replacement, both after natural menopause and after hysterectomies,                dose-dependent clearance might explain the larger uncertainty for some
+indicating that hormonal regulation of urinary or fecal excretion was not          PFAS. For example, Lou et al. (2009) demonstrated dose-dependent
+likely to explain the male-female difference.                                      clearance effects for female mice at larger PFOA doses. If both low
+    Overall, menstrual fluid loss in humans is on the order of 0.03 mL/            and high dose time-course concentration data are pooled into a single
+kg-d (calculated from results of Verner and Longnecker (2015)) which               clearance for a given PFAS in mice, this effect will not be accounted for.
+means that it will only significantly impact clearance when clearance by           In addition, a dose-dependent effect on clearance might not be readily
+other routes (in males) is below 0.15 mL/kg-d, i.e., for longer-chain              observed in the animal datasets used to parameterize the pharmacoki­
+PFAS. This will also be a factor for the cynomolgus monkeys used as                netic models in this study owing to the larger applied doses used across
+the non-human primates in these studies, which also menstruate (Kerber             studies. Lower dose concentrations producing internal doses closer to
+and Reese, 1969). Results from this study demonstrate two PFAS with                environmentally relevant exposures in humans, coupled with a more
+the lowest clearance in monkeys (PFHxS and PFOS) both showed close                 mechanistic description of PFAS clearance would better enhance our
+to double the clearance in females vs. males (PFHxS does not reach the             understanding of PFAS half-lives.
+ROPE criteria established for practical significance due to the Sundström             Another limitation is in the animal data available for modeling. The
+et al. (2012) inter-individual variability). On the other hand, male               hierarchical fitting methodology is amenable to multiple datasets
+monkeys had higher clearance for PFOA than female monkeys (10.8 vs.                measured across numerous studies where uncertainty and variability in
+
+                                                                              12
+T.J. Zurlinden et al.                                                                                               Toxicology and Applied Pharmacology 499 (2025) 117336
+
+
+the pharmacokinetic parameters can be more readily quantitated.                   Morozov: Writing – review & editing, Supervision, Methodology,
+However, for mice and non-human primates only one or two time-course              Conceptualization.
+datasets were available for many PFAS, and a hierarchical methodology
+could not be applied to the observed data. In these instances, the pos­           Disclaimer
+terior probability distribution only provides a measure of the underlying
+variability in the study-specific data and is not representative of the              The views expressed in this manuscript are those of the authors and
+larger population of studies and animal species and colonies. In addi­            do not necessarily reflect the views or policies of the U.S. Environmental
+tion, these models were parameterized on single-dose PFAS data. As                Protection Agency. Mention of trade names or commercial products does
+discussed above, differences in internal dosimetry are likely to exist            not constitute endorsement or recommendation for use.
+following repeated, low-dose administration of PFAS when compared to
+these single-doses. Time-course concentration datasets from multiple              Declaration of competing interest
+sources and for repeated dosing regimens are needed to truly charac­
+terize the uncertainty and variability of the PK parameters.                          The authors declare that they have no known competing financial
+                                                                                  interests or personal relationships that could have appeared to influence
+5. Conclusion                                                                     the work reported in this paper.
+
+    In this analysis, we applied a hierarchical Bayesian methodology to           Acknowledgements
+characterize PFAS pharmacokinetics across three laboratory animal
+species frequently used for chemical risk assessment: mice, rats, and                The authors are grateful to Kristin Foley and John Wambaugh for
+non-human primates. In this partial-pooling method, each observed                 their careful review and suggestions to enhance the initial draft of this
+time-course concentration dataset is fit by sampling from a higher-level          manuscript.
+“population” distribution so that all available data are utilized without
+placing undue weight on a single study or two for determining the                 Appendix A. Supplementary data
+pharmacokinetic parameters needed for internal dosimetry predictions.
+Following parameterization of either a one- or two-compartment model,                Supplementary data to this article can be found online at https://doi.
+the resulting posterior distributions allow for direct comparisons of             org/10.1016/j.taap.2025.117336.
+pharmacokinetics between different groups to assess possible differ­
+ences. Ultimately, species- and sex-specific population-level PK values,          Data availability
+with the resulting uncertainty, are determined for each PFAS for which
+time-course blood concentration data exist. These distributional (prob­              Code and underlying data use for fitting will be publicly available
+abilistic) estimates of PFAS PK parameters provide information about              through Github upon publication
+uncertainty and variability in the parameters and can be propagated
+through PK models to determine distributional estimates of PFAS in­               References
+ternal dose.
+    Using these results, routinely applying the default inter-species             Abril-Pla, O., Andreani, V., Carroll, C., Dong, L., Fonnesbeck, C.J., Kochurov, M.,
+                                                                                      Kumar, R., Lao, J., Luhmann, C.C., Martin, O.A., Osthege, M., Vieira, R., Wiecki, T.,
+extrapolation approaches for clearance without considering human-                     Zinkov, R., 2023. PyMC: a modern, and comprehensive probabilistic programming
+specific dosimetric differences does not appear to be appropriate for                 framework in Python. PeerJ Comput. Sci. 9, e1516.
+these PFAS. This is due to numerous pharmacokinetic characteristics               Allendorf, F., Goss, K.U., Ulrich, N., 2021. Estimating the equilibrium distribution of
+                                                                                      Perfluoroalkyl acids and 4 of their alternatives in mammals. Environ. Toxicol. Chem.
+that appear unique to each species and sex. While sex-dependent dif­                  40, 910–920.
+ferences in rat pharmacokinetics have been shown to be driven by sex              ATSDR, 2021. Toxicological Profile for Perfluoroalkyls. U.S. Department of Health and
+hormone mediated effects, this mediator has not been replicated in                    Human Services, Public Health Service, Atlanta, GA.
+                                                                                  Bonato, M., Corra, F., Bellio, M., Guidolin, L., Tallandini, L., Irato, P., Santovito, G.,
+humans even though there appears to also be sex-dependent differences
+                                                                                      2020. PFAS environmental pollution and antioxidant responses: an overview of the
+in human pharmacokinetics. Conversely, we observe only slight (and                    impact on human field. Int. J. Environ. Res. Public Health 17.
+inconsistent with human) sex-dependent effects on clearance in non-               Bourne, D.A., 1995. Mathematical Modeling of Pharmacokinetic Data, 1st ed.
+human primates which indicates clearance extrapolation from non-                  Butenhoff, J.L., Kennedy, G.L., Hinderliter, P.M., Lieder, P.H., Jung, R., Hansen, K.J.,
+                                                                                      Gorman, G.S., Noker, P.E., Thomford, P.J., 2004. Pharmacokinetics of
+human primates may also not be appropriate for characterizing male                    perfluorooctanoate in cynomolgus monkeys. Toxicol. Sci. 82, 394–406.
+vs. female human clearance. Finally, differences in clearance for                 Butenhoff, J.L., Chang, S.C., Ehresman, D.J., York, R.G., 2009. Evaluation of potential
+different routes of exposure in animals indicate the need for inclusion of            reproductive and developmental toxicity of potassium perfluorohexanesulfonate in
+                                                                                      Sprague Dawley rats. Reprod. Toxicol. 27, 331–341.
+first pass effects and subsequent time-course of protein binding. A               Cao, H., Zhou, Z., Hu, Z., Wei, C., Li, J., Wang, L., Liu, G., Zhang, J., Wang, Y., Wang, T.,
+mechanistically-inspired PK model such as that used by Wambaugh et al.                Liang, Y., 2022. Effect of enterohepatic circulation on the accumulation of per- and
+(2013) might have sufficient complexity to shed light on the pharma­                  Polyfluoroalkyl substances: evidence from experimental and computational studies.
+                                                                                      Environ. Sci. Technol. 56, 3214–3224.
+cokinetics of PFAS in a given species and sex at different dose levels via        Capretto, T., Piho, C., Kumar, R., Westfall, J., Yarkoni, T., Martin, O.A., 2022. Bambi: a
+different routes of exposure. Incorporating these targeted physiological              simple Interface for fitting Bayesian linear models in Python. J. Stat. Softw. 103,
+components e.g., saturable resorption and liver binding, would allow for              1–29.
+                                                                                  Chang, S., Das, K., Ehresman, D.J., Ellefson, M.E., Gorman, G.S., Hart, J.A., Noker, P.E.,
+the entire breadth of available PK data to be used to inform PFAS                     Tan, Y., Lieder, P.H., Lau, C., Olsen, G.W., Butenhoff, J.L., 2008. Comparative
+pharmacokinetics.                                                                     pharmacokinetics of perfluorobutyrate in rats, mice, monkeys, and humans and
+                                                                                      relevance to human exposure via drinking water. Toxicol. Sci. 104, 40–53.
+                                                                                  Chang, S.C., Noker, P.E., Gorman, G.S., Gibson, S.J., Hart, J.A., Ehresman, D.J.,
+CRediT authorship contribution statement                                              Butenhoff, J.L., 2012. Comparative pharmacokinetics of perfluorooctanesulfonate
+                                                                                      (PFOS) in rats, mice, and monkeys. Reprod. Toxicol. 33, 428–440.
+   Todd J. Zurlinden: Writing – original draft, Formal analysis, Data             Cheng, W., Ng, C.A., 2017. A permeability-limited physiologically based
+                                                                                      pharmacokinetic (PBPK) model for Perfluorooctanoic acid (PFOA) in male rats.
+curation, Conceptualization. Michael W. Dzierlenga: Writing – original
+                                                                                      Environ. Sci. Technol. 51, 9930–9939.
+draft, Validation, Methodology, Data curation. Dustin F. Kapraun:                 Cheng, W., Ng, C.A., 2021. Bayesian refinement of the permeability-limited
+Writing – review & editing, Methodology. Caroline Ring: Writing –                     physiologically based pharmacokinetic model for Perfluorooctanoic acid in male
+review & editing, Methodology. Amanda S. Bernstein: Writing – re­                     rats. Chem. Res. Toxicol. 34, 2298–2308.
+                                                                                  Cheng, X., Maher, J., Lu, H., Klaassen, C.D., 2006. Endocrine regulation of gender-
+view & editing, Methodology, Data curation. Paul M. Schlosser:                        divergent mouse organic anion-transporting polypeptide (Oatp) expression. Mol.
+Writing – review & editing, Methodology, Data curation. Viktor                        Pharmacol. 70, 1291–1297.
+
+
+                                                                             13
+T.J. Zurlinden et al.                                                                                                                 Toxicology and Applied Pharmacology 499 (2025) 117336
+
+Chengelis, C.P., Kirkpatrick, J.B., Myers, N.R., Shinohara, M., Stetson, P.L., Sved, D.W.,          Lau, C., 2015. Perfluorinated compounds: An overview. In: DeWitt, J.C. (Ed.),
+    2009. Comparison of the toxicokinetic behavior of perfluorohexanoic acid (PFHxA)                     Toxicological Effects of Perfluoroalkyl and Polyfluoroalkyl Substances. Springer
+    and nonafluorobutane-1-sulfonic acid (PFBS) in cynomolgus monkeys and rats.                          International Publishing, Cham, pp. 1–21.
+    Reprod. Toxicol. 27, 400–406.                                                                   Lau, C., Rumpler, J., Das, K.P., Wood, C.R., Schmid, J.E., Strynar, M.J., Wambaugh, J.F.,
+Chiu, W.A., Okino, M.S., Evans, M.V., 2009. Characterizing uncertainty and population                    2020. Pharmacokinetic profile of Perfluorobutane sulfonate and activation of
+    variability in the toxicokinetics of trichloroethylene and metabolites in mice, rats,                hepatic nuclear receptor target genes in mice. Toxicology 441, 152522.
+    and humans using an updated database, physiologically based pharmacokinetic                     Little, T.A., 2015. Equivalence testing for comparability. BioPharm. Intern. 28, 45–48.
+    (PBPK) model, and Bayesian approach. Toxicol. Appl. Pharmacol. 241, 36–60.                      Ljubojevic, M., Herak-Kramberger, C.M., Hagos, Y., Bahn, A., Endou, H., Burckhardt, G.,
+Chiu, W.A., Lynch, M.T., Lay, C.R., Antezana, A., Malek, P., Sokolinski, S., Rogers, R.D.,               Sabolic, I., 2004. Rat renal cortical OAT1 and OAT3 exhibit gender differences
+    2022. Bayesian estimation of human population toxicokinetics of PFOA, PFOS,                          determined by both androgen stimulation and estrogen inhibition. Am. J. Physiol.
+    PFHxS, and PFNA from studies of contaminated drinking water. Environ. Health                         Ren. Physiol. 287, F124–F138.
+    Perspect. 130, 127001.                                                                          Loccisano, A.E., Longnecker, M.P., Campbell Jr., J.L., Andersen, M.E., Clewell 3rd, H.J.,
+Conley, J.M., Lambright, C.S., Evans, N., Medlock-Kakaley, E., Dixon, A., Hill, D.,                      2013. Development of PBPK models for PFOA and PFOS for human pregnancy and
+    McCord, J., Strynar, M.J., Ford, J., Gray Jr., L.E., 2022. Cumulative maternal and                   lactation life stages. J. Toxicol. Environ. Health A 76, 25–57.
+    neonatal effects of combined exposure to a mixture of perfluorooctanoic acid (PFOA)             Lou, I., Wambaugh, J.F., Lau, C., Hanson, R.G., Lindstrom, A.B., Strynar, M.J., Zehr, R.D.,
+    and perfluorooctane sulfonic acid (PFOS) during pregnancy in the Sprague-Dawley                      Setzer, R.W., Barton, H.A., 2009. Modeling single and repeated dose
+    rat. Environ. Int. 170, 107631.                                                                      pharmacokinetics of PFOA in mice. Toxicol. Sci. 107, 331–341.
+Daikin, I., 2010. Oral (gavage) acute pharmacokinetic study of PFH ammonium salt                    Lynch, M.T., Lay, C.R., Sokolinski, S., Antezana, A., Ghio, C., Chiu, W.A., Rogers, R.,
+    (ammonium salt of perflourinated hexanoic acid) in mice, Osaka, Japan.                               2023. Community-facing toxicokineticmodels to estimate PFAS serum levels based
+Dzierlenga, A.L., Robinson, V.G., Waidyanatha, S., Devito, M.J., Eifrid, M.A., Gibbs, S.T.,              on life history and drinking water exposures. Environ. Int. 176, 107974.
+    Granville, C.A., Blystone, C.R., 2019. Toxicokinetics of perfluorohexanoic acid                 Nakagawa, H., Hirata, T., Terada, T., Jutabha, P., Miura, D., Harada, K.H., Inoue, K.,
+    (PFHxA), perfluorooctanoic acid (PFOA) and perfluorodecanoic acid (PFDA) in male                     Anzai, N., Endou, H., Inui, K., Kanai, Y., Koizumi, A., 2008. Roles of organic anion
+    and female Hsd:Sprague dawley SD rats following intravenous or gavage                                transporters in the renal excretion of perfluorooctanoic acid. Basic Clin. Pharmacol.
+    administration. Xenobiotica 50, 1–11.                                                                Toxicol. 103, 1–8.
+Felmlee, M.A., Dave, R.A., Morris, M.E., 2013. Mechanistic models describing active                 Nakayama, S.F., Yoshikane, M., Onoda, Y., Nishihama, Y., Iwai-Shimada, M., Takagi, M.,
+    renal reabsorption and secretion: a simulation-based study. AAPS J. 15, 278–287.                     Kobayashi, Y., Isobe, T., 2019. Worldwide trends in tracing poly- and perfluoroalkyl
+Gannon, S.A., Johnson, T., Nabb, D.L., Serex, T.L., Buck, R.C., Loveless, S.E., 2011.                    substances (PFAS) in the environment. TrAC Trends Anal. Chem. 121, 115410.
+    Absorption, distribution, metabolism, and excretion of [1-14C]-perfluorohexanoate               Ng, C.A., Hungerbuhler, K., 2014. Bioaccumulation of perfluorinated alkyl acids:
+    ([14C]-PFHx) in rats and mice. Toxicology 283, 55–62.                                                observations and models. Environ. Sci. Technol. 48, 4637–4648.
+Gelman, A., Hill, J., 2006. Data Analysis Using Regression and Multilevel/Hierarchical              Niu, S., Cao, Y., Chen, R., Bedi, M., Sanders, A.P., Ducatman, A., Ng, C., 2023. A state-of-
+    Models. Cambridge University Press, Cambridge.                                                       the-science review of interactions of per- and Polyfluoroalkyl substances (PFAS) with
+Gluge, J., Scheringer, M., Cousins, I.T., DeWitt, J.C., Goldenman, G., Herzke, D.,                       renal transporters in health and disease: implications for population variability in
+    Lohmann, R., Ng, C.A., Trier, X., Wang, Z., 2020. An overview of the uses of per- and                PFAS Toxicokinetics. Environ. Health Perspect. 131, 76002.
+    polyfluoroalkyl substances (PFAS). Environ Sci Process Impacts 22, 2345–2373.                   NTP, 2017. NTP Technical Report on the Toxicology and Carcinogenesis Studies of
+Gotoh, Y., Kato, Y., Stieger, B., Meier, P.J., Sugiyama, Y., 2002. Gender difference in the              Antimony Trioxide (CASRN 1309-64-4) in Wistar Han [Crl:WI(Han)] Rats and
+    Oatp1-mediated tubular reabsorption of estradiol 17beta-D-glucuronide in rats. Am.                   B6C3F1/N Mice (Inhalation Studies), Research Triangle Park, NC.
+    J. Physiol. Endocrinol. Metab. 282, E1245–E1254.                                                NTP, 2020. NTP Technical Report on the Toxicology and Carcinogenesis Studies of
+Hsieh, N.H., Bois, F.Y., Tsakalozou, E., Ni, Z., Yoon, M., Sun, W., Klein, M., Reisfeld, B.,             Perfluorooctanoic Acid (CASRN 335–67-1) Administered in Feed to Sprague Dawley
+    Chiu, W.A., 2021. A Bayesian population physiologically based pharmacokinetic                        (Hsd:Sprague Dawley SD) rats, Research Triangle Park, NC.
+    absorption modeling approach to support generic drug development: application to                Ohmori, K., Kudo, N., Katayama, K., Kawashima, Y., 2003. Comparison of the
+    bupropion hydrochloride oral dosage forms. J. Pharmacokinet. Pharmacodyn. 48,                        toxicokinetics between perfluorocarboxylic acids with different carbon chain length.
+    893–908.                                                                                             Toxicology 184, 135–140.
+Huang, M.C., Dzierlenga, A.L., Robinson, V.G., Waidyanatha, S., Devito, M.J., Eifrid, M.            Olsen, G.W., Chang, S.C., Noker, P.E., Gorman, G.S., Ehresman, D.J., Lieder, P.H.,
+    A., Granville, C.A., Gibbs, S.T., Blystone, C.R., 2019. Toxicokinetics of                            Butenhoff, J.L., 2009. A comparison of the pharmacokinetics of
+    perfluorobutane sulfonate (PFBS), perfluorohexane-1-sulphonic acid (PFHxS), and                      perfluorobutanesulfonate (PFBS) in rats, monkeys, and humans. Toxicology 256,
+    perfluorooctane sulfonic acid (PFOS) in male and female Hsd:Sprague Dawley SD                        65–74.
+    rats after intravenous and gavage administration. Toxicol. Rep. 6, 645–655.                     Rohatgi, A., 2022. WebPlotDigitizer, Pacifica,CA,USA.
+Hunter, J.D., 2007. Matplotlib: a 2D graphics environment. Comput. Sci. Eng. 9, 90–95.              Rover, C., Bender, R., Dias, S., Schmid, C.H., Schmidli, H., Sturtz, S., Weber, S.,
+Iwabuchi, K., Senzaki, N., Mazawa, D., Sato, I., Hara, M., Ueda, F., Liu, W., Tsuda, S.,                 Friede, T., 2021. On weakly informative prior distributions for the heterogeneity
+    2017. Tissue toxicokinetics of perfluoro compounds with single and chronic low                       parameter in Bayesian random-effects meta-analysis. Res. Synth. Methods 12,
+    doses in male rats. J. Toxicol. Sci. 42, 301–317.                                                    448–474.
+Jain, R.B., Ducatman, A., 2022. Serum concentrations of selected perfluoroalkyl                     Ryu, S., Yamaguchi, E., Sadegh Modaresi, S.M., Agudelo, J., Costales, C., West, M.A.,
+    substances for US females compared to males as they age. Sci. Total Environ. 842,                    Fischer, F., Slitt, A.L., 2024. Evaluation of 14 PFAS for permeability and organic
+    156891.                                                                                              anion transporter interactions: implications for renal clearance in humans.
+Jain, R.B., Ducatman, A., 2023. Factors affecting serum PFAS concentrations among US                     Chemosphere 361, 142390.
+    females with surgically and naturally induced menopause: data from NHANES 2003-                 Salvatier, J., Wiecki, T., Fonnesbeck, C., 2016. Probabilistic programming in Python
+    2018. Environ. Sci. Pollut. Res. Int. 30, 84705–84724.                                               using PyMC3. PeerJ Comput. Sci. 2.
+Kemper, R., 2003. Perfluorooctanoic Acid: Toxicokinetics in the Rat. E.I. du Pont de                Shargel, L., Yu, A.B.C., 2016. Applied Biopharmaceutics; Pharmacokinetics, 7e. McGraw-
+    Nemours and Company, Haskell Laboratory for Health and Environmental Sciences.                       Hill Education, New York, NY.
+Kerber, W.T., Reese, W.H., 1969. Comparison of the menstrual cycle of cynomolgus and                Smeltz, M., Wambaugh, J.F., Wetmore, B.A., 2023. Plasma protein binding evaluations of
+    Rhesus monkeys. Fertil. Steril. 20, 975–979.                                                         per- and Polyfluoroalkyl substances for category-based Toxicokinetic assessment.
+Kim, S.J., Heo, S.H., Lee, D.S., Hwang, I.G., Lee, Y.B., Cho, H.Y., 2016. Gender                         Chem. Res. Toxicol. 36, 870–881.
+    differences in pharmacokinetics and tissue distribution of 3 perfluoroalkyl and                 Sundström, M., Chang, S.C., Noker, P.E., Gorman, G.S., Hart, J.A., Ehresman, D.J.,
+    polyfluoroalkyl substances in rats. Food Chem. Toxicol. 97, 243–255.                                 Bergman, A., Butenhoff, J.L., 2012. Comparative pharmacokinetics of
+Kim, S.J., Shin, H., Lee, Y.B., Cho, H.Y., 2018. Sex-specific risk assessment of PFHxS                   perfluorohexanesulfonate (PFHxS) in rats, mice, and monkeys. Reprod. Toxicol. 33,
+    using a physiologically based pharmacokinetic model. Arch. Toxicol. 92,                              441–451.
+    1113–1131.                                                                                      Tatum-Gibbs, K., Wambaugh, J.F., Das, K.P., Zehr, R.D., Strynar, M.J., Lindstrom, A.B.,
+Kim, S.J., Choi, E.J., Choi, G.W., Lee, Y.B., Cho, H.Y., 2019. Exploring sex differences in              Delinsky, A., Lau, C., 2011. Comparative pharmacokinetics of perfluorononanoic
+    human health risk assessment for PFNA and PFDA using a PBPK model. Arch.                             acid in rat and mouse. Toxicology 281, 48–55.
+    Toxicol. 93, 311–330.                                                                           Thommen, A., Werner, S., Frank, O., Philipp, J., Knittelfelder, O., Quek, Y., Fahmy, K.,
+Kleiber, M., 1932. Body size and metabolism. Hilgardia 6, 315–353.                                       Shevchenko, A., Friedrich, B.M., Jülicher, F., Rink, J.C., 2019. Body size-dependent
+Kruschke, J.K., 2015. Chapter 12 - Bayesian approaches to testing a point (“null”)                       energy storage causes Kleiber’s law scaling of the metabolic rate in planarians. eLife
+    hypothesis. In: Kruschke, J.K. (Ed.), Doing Bayesian Data Analysis, Second edition.                  8, e38187.
+    Academic Press, Boston, pp. 335–358.                                                            U.S. Environmental Protection Agency, 1988. Reference Physiological Parameters in
+Kruschke, J.K., 2018. Rejecting or accepting parameter values in Bayesian estimation.                    Pharmacokinetic Modeling. U.S. Environmental Proctection Agency, Washington,
+    Adv. Methods Pract. Psychol. Sci. 1, 270–280.                                                        DC.
+Kudo, N., Katakura, M., Sato, Y., Kawashima, Y., 2002. Sex hormone-regulated renal                  U.S. Environmental Protection Agency, 2011. Recommended Use of Body Weight 3/4 as
+    transport of perfluorooctanoic acid. Chem. Biol. Interact. 139, 301–316.                             the Default Method in Derivation of the Oral Reference Dose, Washington, DC.
+Kumar, R., Carroll, C., Hartikainen, A., Martin, O., 2019. ArviZ a unified library for              U.S. Environmental Protection Agency, 2011a. Exposure factors handbook, 2011 edition.
+    exploratory analysis of Bayesian models in Python. J. Open Sourc. Softw. 4.                          U.S. Environmental Protection Agency, Office of Research and Development,
+Kurwadkar, S., Dane, J., Kanel, S.R., Nadagouda, M.N., Cawdrey, R.W., Ambade, B.,                        National Center for Environmental Assessment, Washington, DC.
+    Struckhoff, G.C., Wilkin, R., 2022. Per- and polyfluoroalkyl substances in water and            U.S. Environmental Protection Agency, 2014. Guidance for Applying Quantitative Data
+    wastewater: a critical review of their global occurrence and distribution. Sci. Total                to Develop Data-Derived Extrapolation Factors for Interspecies and Intraspecies
+    Environ. 809, 151003.                                                                                Extrapolation. Risk Assessment Forum, Office of the Science Advisor, Washington,
+                                                                                                         DC.
+
+
+
+
+                                                                                               14
+T.J. Zurlinden et al.                                                                                                             Toxicology and Applied Pharmacology 499 (2025) 117336
+
+U.S. Environmental Protection Agency, 2021. Human Health Toxicity Values for                      Wambaugh, J.F., Barton, H.A., Setzer, R.W., 2008. Comparing models for
+    Perfluorobutane Sulfonic Acid (CASRN 375–73-5) and Related Compound Potassium                     perfluorooctanoic acid pharmacokinetics using Bayesian analysis. J. Pharmacokinet.
+    Perfluorobutane Sulfonate (CASRN 29420–49-3). U.S. Environmental Protection                       Pharmacodyn. 35, 683–712.
+    Agency, Office of Research and Development, Washington, DC.                                   Wambaugh, J.F., Setzer, R.W., Pitruzzello, A.M., Liu, J., Reif, D.M., Kleinstreuer, N.C.,
+U.S. Environmental Protection Agency, 2021b. Systematic Review Protocol for the PFAS                  Wang, N.C., Sipes, N., Martin, M., Das, K., DeWitt, J.C., Strynar, M., Judson, R.,
+    IRIS Assessments. Washington, DC, EPA/635/R-19/050, 2019.                                         Houck, K.A., Lau, C., 2013. Dosimetric anchoring of in vivo and in vitro studies for
+U.S. Environmental Protection Agency, 2022. IRIS Toxicological Review of                              perfluorooctanoate and perfluorooctanesulfonate. Toxicol. Sci. 136, 308–327.
+    Perfluorobutanoic Acid (PFBA) and Related Salts.                                              Yang, D., Han, J., Hall, D.R., Sun, J., Fu, J., Kutarna, S., Houck, K.A., LaLone, C.A.,
+U.S. Environmental Protection Agency, 2023. IRIS Toxicological Review of                              Doering, J.A., Ng, C.A., Peng, H., 2020. Nontarget screening of per- and
+    Perfluorohexanoic Acid [PFHxA, CASRN 307-24-4] and Related Salts. U.S.                            polyfluoroalkyl substances binding to human liver fatty acid binding protein.
+    Environmental Protection Agency: U.S. EPA, Washington, D.C.                                       Environ. Sci. Technol. 54, 5676–5686.
+U.S. Environmental Protection Agency, 2024. PFAS National Primary Drinking Water                  Zhao, L., Teng, M., Zhao, X., Li, Y., Sun, J., Zhao, W., Ruan, Y., Leung, K.M.Y., Wu, F.,
+    Regulation. Fed. Reg. 89 FR 32532, pp. 32532–32757.                                               2023. Insight into the binding model of per- and polyfluoroalkyl substances to
+U.S. Food and Drug Administration Center for Drug Evaluation and Research and Center                  proteins and membranes. Environ. Int. 175, 107951.
+    for Biologics Evaluation and Research, 2016. Non-inferiority Clinical Trials to               Zhao, W., Zitzow, J.D., Weaver, Y., Ehresman, D.J., Chang, S.C., Butenhoff, J.L.,
+    Establish Effectiveness: Guidance for Industry.                                                   Hagenbuch, B., 2017. Organic anion transporting polypeptides contribute to the
+Vanden Heuvel, J.P., Davis 2nd, J.W., Sommers, R., Peterson, R.E., 1992. Renal excretion              disposition of Perfluoroalkyl acids in humans and rats. Toxicol. Sci. 156, 84–95.
+    of perfluorooctanoic acid in male rats: inhibitory effect of testosterone. J. Biochem.        Zurlinden, T.J., Reisfeld, B., 2016. Physiologically based modeling of the
+    Toxicol. 7, 31–36.                                                                                pharmacokinetics of acetaminophen and its major metabolites in humans using a
+Verner, M.A., Longnecker, M.P., 2015. Comment on “enhanced elimination of                             Bayesian population approach. Eur. J. Drug Metab. Pharmacokinet. 41, 267–280.
+    perfluorooctanesulfonic acid by menstruating women: evidence from population-                 Zurlinden, T.J., Reisfeld, B., 2017. Characterizing the effects of race/ethnicity on
+    based pharmacokinetic modeling”. Environ. Sci. Technol. 49, 5836–5837.                            acetaminophen pharmacokinetics using physiologically based pharmacokinetic
+Vujic, E., Ferguson, S.S., Brouwer, K.L.R., 2024. Effects of PFAS on human liver                      modeling. Eur. J. Drug Metab. Pharmacokinet. 42, 143–153.
+    transporters: implications for health outcomes. Toxicol. Sci. 200, 213–227.                   Zurlinden, T.J., Eppers, G.J., Reisfeld, B., 2016. Physiologically based pharmacokinetic
+                                                                                                      model of Rifapentine and 25-Desacetyl Rifapentine disposition in humans.
+                                                                                                      Antimicrob. Agents Chemother. 60, 4860–4868.
+
+
+
+
+                                                                                             15
+

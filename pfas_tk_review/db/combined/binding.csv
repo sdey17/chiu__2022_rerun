@@ -181,6 +181,12 @@ PFUnDA,,bovine serum albumin (BSA),log D_protein/water,,,,,,,binding_summary_log
 PFUnDA,,gamma-globulin,log D_protein/water,,,,,,,binding_summary_logD.csv,
 PFUnDA,,human serum albumin (HSA),log D_protein/water,,,,,,,binding_summary_logD.csv,
 PFUnDA,,whole human serum (surrogate),log D_protein/water,,,,,,,binding_summary_logD.csv,
+PFOA,rat and human,rat serum albumin (RSA),Kd,0.3,mM,19F NMR,Han et al.,2003,12807361 / 10.1021/tx034005w,primary_2026/han2003_pfoa_albumin_binding.csv,ligand:protein 200 uM PFOA : 100 uM RSA = 2:1; approximate value
+PFOA,rat and human,RSA,Kd,0.31,mM,microdesalting column separation,Han et al.,2003,12807361 / 10.1021/tx034005w,primary_2026/han2003_pfoa_albumin_binding.csv,ligand:protein 0.1-3 mM PFOA : 50-60 uM protein; +/- 0.15; 12.5 uM RSA
+PFOA,rat and human,RSA,Kd,0.27,mM,microdesalting column separation,Han et al.,2003,12807361 / 10.1021/tx034005w,primary_2026/han2003_pfoa_albumin_binding.csv,ligand:protein 0.1-3 mM PFOA : 50-60 uM protein; +/- 0.05; 25 uM RSA
+PFOA,rat and human,RSA and HSA,Kd_range,0.3-0.4,mM,microdesalting column separation,Han et al.,2003,12807361 / 10.1021/tx034005w,primary_2026/han2003_pfoa_albumin_binding.csv,ligand:protein 1.7:1 to 60:1; no significant difference between rat and human
+PFOA,rat and human,RSA and HSA,n_binding_sites,6-9,sites per albumin,microdesalting column separation,Han et al.,2003,12807361 / 10.1021/tx034005w,primary_2026/han2003_pfoa_albumin_binding.csv,ligand:protein 1.7:1 to 60:1; 
+PFOA,rat and human,serum albumin,fraction_bound,>90,%,CALCULATED from Kd and n above plus estimated plasma albumin - NOT a measured free fraction,Han et al.,2003,12807361 / 10.1021/tx034005w,primary_2026/han2003_pfoa_albumin_binding.csv,"ligand:protein n/a; the figure PBPK models inherited; it is a floor, not an estimate"
 PFBA,"mouse (CD-1, female)",plasma (whole),unbound fraction fu,77,%,equilibrium dialysis,Argoul et al.,2026,42162713 / 10.1016/j.envres.2026.124802,primary_2026/argoul2026_mouse_tk.csv,Table 4; PFBA value from Ryu 2024
 PFHxA,"mouse (CD-1, female)",plasma (whole),unbound fraction fu,25,%,equilibrium dialysis,Argoul et al.,2026,42162713 / 10.1016/j.envres.2026.124802,primary_2026/argoul2026_mouse_tk.csv,Table 4; PFBA value from Ryu 2024
 PFOA,"mouse (CD-1, female)",plasma (whole),unbound fraction fu,0.87,%,equilibrium dialysis,Argoul et al.,2026,42162713 / 10.1016/j.envres.2026.124802,primary_2026/argoul2026_mouse_tk.csv,Table 4; PFBA value from Ryu 2024

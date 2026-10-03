@@ -1,0 +1,323 @@
+                                                  Toxicology 184 (2003) 135 /140
+                                                                                                  www.elsevier.com/locate/toxicol
+
+
+
+
+Comparison of the toxicokinetics between perfluorocarboxylic
+         acids with different carbon chain length
+                  Kohtaro Ohmori a, Naomi Kudo a,, Kazunori Katayama b,
+                                    Yoichi Kawashima a
+                 a
+                   Faculty of Pharmaceutical Sciences, Josai University, Keyakidai 1-1, Sakado, Saitama 350-0295, Japan
+   b
+       Faculty of Pharmaceutical Sciences, Toyama Medical and Pharmaceutical University, Sugitani 1630, Toyama 930-0194, Japan
+
+                 Received 27 June 2002; received in revised form 10 September 2002; accepted 10 September 2002
+
+
+
+
+Abstract
+
+   Toxicokinetics was compared between perfluoroheptanoic acid (PFHA), perfluorooctanoic acid (PFOA), perfluor-
+ononanoic acid (PFNA) and perfluorodecanoic acid (PFDA) in male and female rats. Half lives (t1/2) in male and
+female rats were calculated to be 0.10 and 0.05 days, respectively, for PFHA, 5.63 and 0.08 days for PFOA, 29.5 and
+2.44 days for PFNA and 39.9 and 58.6 days for PFDA. Total clearance (CLtot) of PFHA was higher than those of other
+perfluorocarboxylic acids (PFCAs) in both male and female rats. By contrast, CLtot of PFDA was extremely low in
+both sexes. PFCAs having shorter carbon chain length showed higher CLtot. There was a significant sex-related
+difference in CLtot of PFOA and PFNA. Distribution volumes in steady state (Vss) were not much different between
+PFCAs and between sexes. To estimate the role of urinary excretion in plasma clearance of PFCA, renal clearance
+(CLR) was determined for PFCAs. CLR of PFCAs were in the order PFHA /PFOA /PFNA #/PFDA and PFHA #/
+PFOA /PDNA /PFDA in male and female rats, respectively. There was a close relationship between CLtot and CLR
+(r2 /0.981). Plasma protein binding, estimated in vitro, was over 98% for all PFCAs tested. The results indicate that
+CLR is responsible for the difference in CLtot between PFCAs having different carbon chain length and between sexes.
+# 2002 Elsevier Science Ireland Ltd. All rights reserved.
+
+Keywords: Perfluorocarboxylic acids; Toxicokinetics; Renal clearance
+
+
+
+                                                                     1. Introduction
+   Abbreviations: AUC, area under the curve; BrAMC, 3-
+bromoacetyl-7-methoxycoumarin; CLR, renal clearance; CLtot,             Perfluorooctanoic acid (PFOA) is an analog of
+total clearance; GFR, glomerular filtration rate; PFCA,
+perfluorocarboxylic acid; PFDA, perfluorodecanoic acid;
+                                                                     octanoic acid of which all aliphatic hydrogen
+PFHA, perfluoroheptanoic acid; PFHexA, perfluorohexanoic             atoms are substituted by fluorine. PFOA is a
+acid;      PFNA,       perfluorononanoic      acid;    PFOA,         potent surfactant and commercially used in a
+perfluorooctanoic acid; t1/2, half-life in the terminal phase;       variety of industrial processes (Guethner and
+Vss, distribution volume in steady state.
+                                                                     Vietor, 1962). Perfluorodecanoic acid (PFDA),
+    Corresponding author. Tel.: /81-49-271-7676; fax: /81-
+49-271-7984                                                          its structure is similar to that of PFOA but having
+   E-mail address: naokudo@josai.ac.jp (N. Kudo).                    two more carbon atoms, was shown to be more
+0300-483X/02/$ - see front matter # 2002 Elsevier Science Ireland Ltd. All rights reserved.
+PII: S 0 3 0 0 - 4 8 3 X ( 0 2 ) 0 0 5 7 3 - 5
+136                                K. Ohmori et al. / Toxicology 184 (2003) 135 /140
+
+
+toxic than PFOA in rats; LD50-values of PFOA                   dark cycle for 1 week before subjected to experi-
+and PFDA were 189 and 41 mg/kg body weight,                    ments. Animals had free access to water and
+respectively (Olson and Andersen, 1983). In the                laboratory chow (CE-2, Clea Japan, Tokyo).
+previous study, we have shown that the rates of
+urinary elimination were quite different between               2.3. Plasma concentration profile
+perfluorocarboxylic acids (PFCAs) having 7/10
+carbon atoms (Kudo et al., 2001). Namely, the                     Rats were underwent surgical catheter (SP-45)
+shorter the carbon chain length is, the more                   implantation via the femoral vein for drug admin-
+rapidly was eliminated PFCA into urine. The                    istration and blood sampling under sodium pen-
+mechanism responsible for the difference in ur-                tobarbital anesthesia (36 mg/kg body weight).
+inary elimination has not been fully studied yet,              PFCAs were dissolved in rat serum obtained
+although it may be due to the difference in the rate           from male and female rats after the addition of
+of tubular secretion (Kudo et al., 2002). Moreover,            equimolar NaOH, and injected to male and female
+it is difficult to elucidate the rate of disappearance         rats, respectively, via a catheter at a dose of 48.64
+from the body between these PFCAs because no                   mmol/(2.5 ml/kg body weight). Blood samples (0.2
+precise toxicokinetic study has been performed on              ml) were withdrawn from the femoral vein catheter
+them. Biological half-life (t1/2) of PFOA in human             at appropriate time. Blood samples were collected
+was calculated to be more than 1 year (Übel et al.,           by puncture of ophthalmic plexus with heparinized
+1980), which was far longer than that in rats                  glass capillary tubes at the third day after the
+(Vanden Heuvel et al., 1991a). It is important,                injection, because the cannula was clogged. Plasma
+therefore, to clarify toxicokinetics of various                was prepared as a supernatant of centrifugation at
+PFCAs to elucidate the mechanism for bioaccu-                  5800/g for 5 min and used for the determination
+mulation of PFCA. In this study, we estimated the              of PFCA. A two-compartment open model was
+total clearance (CLtot), t1/2, and renal clearance             used for toxicokinetic analysis of PFCAs. Toxico-
+(CLR) of PFCAs having different carbon chain                   kinetic parameters (half-life in the terminal phase,
+length and between sexes.                                      t1/2, distribution volume in steady state, Vss, and
+                                                               area under the curve from zero to infinity,
+                                                               AUC0  ) for each rat were calculated using the
+2. Materials and methods                                       curve-fitting program ‘‘MULTI’’ (Yamaoka et al.,
+                                                               1981). CLtot was calculated by dividing the dose by
+2.1. Materials                                                 AUC0  .
+
+  PFOA and PFDA were purchased from Sigma                      2.4. Estimation of CLR
+Aldrich, Japan. Perfluoroheptanoic acid (PFHA)
+and perfluorohexanoic acid (PFHexA) were pur-                     Male and female rats were underwent surgical
+chased from Tokyo Kasei (Japan); perfluorono-                  catheter implantation as described above under
+nanoic acid (PFNA) was from Lancaster Synthesis                urethane anesthesia and then placed in a restrai-
+(Yorkshire, UK). All other chemicals and reagents              ner. Ten percent of mannitol/0.9% NaCl solution
+were of analytical grade. 3-Bromoacetyl-7-meth-                was infused at the rate of 0.1 ml/min throughout
+oxycoumarin (BrAMC) was prepared as described                  the experiments, resulting in excretion of urine
+previously (Ohya et al., 1998).                                being ca. 0.1 ml/min at 1.5 h after starting infusion.
+                                                               One of PFCA (48.64 mmol/kg body weight) was
+2.2. Animals                                                   intravenously injected via the catheter. Urine
+                                                               samples were collected into glass tubes through a
+   Male and female Wistar rats were purchased                  funnel attached to the restrainer. CLR was deter-
+from SLC (Hamamatsu, Japan). All animals were                  mined by dividing the amount excreted in the urine
+acclimatized in a humidity- and temperature (239/              from time zero to t by the corresponding AUC0  t .
+2 8C)-controlled environment with a 12 h light/                The clearance periods of PFHA, PFNA and
+                                  K. Ohmori et al. / Toxicology 184 (2003) 135 /140                             137
+
+
+PFDA were 120, 360 and 360 min, respectively.                 2.7. Statistical analyses
+Those of PFOA in male and female rats were 240
+and 360 min, respectively. AUC0  t was calculated               Analysis of variance was used to test the
+by the trapezoidal rule.                                      significance of difference between four PFCAs.
+                                                              Where differences were significant, the statistical
+                                                              significance between any two means of four
+2.5. Plasma protein binding in vitro
+                                                              experimental groups were determined using Shèf-
+                                                              fe’s multiple range test. Statistical significance was
+   PFCAs were dissolved in the plasma obtained
+                                                              determined between male and female rats by
+from adult male and female rats at the concentra-
+                                                              Student’s t -test or Welch’s test after F -test for
+tion of 300 nmol/ml after adding equimolar
+                                                              two means.
+aqueous NaOH. This concentration corresponds
+to those of PFCAs in plasma 5 min after intrave-
+nous injection with PFCAs in vivo. After incuba-
+                                                              3. Results and discussion
+tion for 30 min at room temperature, 0.4 ml of the
+incubation mixture was placed into ultrafiltration
+                                                                 Our previous study has shown that urinary
+apparatus (Ultrafree MC centrifugal filter unit
+                                                              excretion rates were quite different between
+10000NMWL, Millipore, USA) and centrifuged at
+                                                              PFCAs with different carbon chain length and
+1000 /g for 15 min. Aliquots of the incubation
+                                                              between sexes in rats (Kudo et al., 2001). To date,
+mixture and filtrate were subjected to PFCA
+                                                              however, precise toxicokinetic study for each
+determination.
+                                                              PFCA has not been performed yet. Fig. 1 shows
+                                                              plasma time /concentration profiles of PFHA,
+2.6. Determination of PFCAs                                   PFOA, PFNA and PFDA after an intravenous
+                                                              injection in male and female rats. PFHA was
+   PFCA in plasma and urine samples was ex-                   rapidly cleared from plasma (Fig. 1A) while
+tracted, converted to 3-acetyl-7-methoxycoumarin              PFDA slowly decreased (Fig. 1B) in both male
+derivatives, separated by HPLC and quantified by              and female rats. In the cases of PFOA and PFNA,
+detecting fluorescence as described previously                elimination was faster in female rats compared
+(Ohya et al., 1998). To an aliquot of samples was             with male rats. There is the tendency that the
+added an appropriate amount of internal standard              shorter the carbon chain length of PFCA is, the
+(PFHA for the analysis of PFNA and PFDA,                      more rapidly disappeared PFCA from plasma in
+PFHexA for PFOA analysis and PFDA for PFHA                    both male and female rats.
+analysis, respectively), and then PFCAs were                     Toxicokinetic parameters were calculated from
+extracted with ethyl acetate:hexane (1:1, v/v) as             plasma time/concentration profiles (Table 1). The
+an ion pair with tetrabutylammonium in the                    half-life of PFHA in female rats was the shortest,
+presence of NaCO3 buffer (pH 10). The extract                 which was calculated to be 1 h. The longest half-
+was transferred to a glass tube and was taken to              life was 59 days for PFDA in female rats; it was
+dryness under nitrogen stream. The residue was                more than 1000 times longer than that for PFHA.
+mixed with 0.2% (w/v) of BrAMC in acetone and                 There are three plausible mechanisms by which
+heated at 70 8C for 25 min followed by cooling at             PFCAs having different carbon chain length show
+/20 8C for 2 h. Ten-microliter of filtered reaction          different half lives. Namely, (1) distribution to
+mixture was injected to HPLC with a reverse-                  various organs is different between PFCAs. The
+phase column (Wakosil II 3C-18, 4.6 ID /50                   difference in Vss between PFCAs, however, was
+mm), eluted with acetonitrile:water (140:160 or               not so significant as the difference in t1/2, although
+150:50), and 3-acetyl-7-methoxycoumarin deriva-               Vss of PFDA was larger than those of other
+tives of PFCAs were detected by a fluorescent                 PFCAs (Table 1). In this context, Vanden Heuvel
+detector (Shimadzu, RF-10AXL) at 316 nm excita-               et al. (1991a,b) demonstrated, respectively, that
+tion and 419 nm emission.                                     PFOA and PFDA were primarily found in livers
+138                                      K. Ohmori et al. / Toxicology 184 (2003) 135 /140
+
+
+                                                                        and plasma. They demonstrated that half lives of
+                                                                        PFOA or PFDA were not different between
+                                                                        various tissues (Vanden Heuvel et al., 1991a,b).
+                                                                        It is not plausible, therefore, that the accumulation
+                                                                        of PFOA and PFDA in tissues is responsible for
+                                                                        the difference in t1/2. It is noteworthy that the
+                                                                        initial plasma concentration of PFDA was sig-
+                                                                        nificantly lower than those of PFHA, PFOA and
+                                                                        PFNA. At 10 min after an intravenous injection,
+                                                                        plasma concentrations of PFHA, PFOA, PFNA
+                                                                        and PFDA were 289.59/26.9, 334.79/36.5, 307.59/
+                                                                        15.1 and 214.29/14.4, respectively, in male rats.
+                                                                        This rapid clearance of PFDA from plasma was
+                                                                        not due to urinary elimination since PFDA was
+                                                                        hardly eliminated in urine (Kudo et al., 2001). (2)
+                                                                        Plasma protein binding is different between
+                                                                        PFCAs. In this context, we estimated plasma
+                                                                        protein binding in vitro by rapid centrifugation
+                                                                        method. Over 98% of binding to plasma proteins
+                                                                        was found in any cases of PFCAs tested (data not
+                                                                        shown). The values of CLtot were in the order
+                                                                        PFHA /PFOA /PFNA #/PFDA and PFHA #/
+                                                                        PFOA /PFNA ]/PFDA in male and female
+Fig. 1. Plasma time /concentration profiles of PFCAs in male
+and female rats. PFHA, PFOA, PFNA or PFDA were                          rats, respectively. Therefore, the difference of
+intravenously injected to male and female rats at a dose of             CLtot between PFCAs and between sexes seems
+48.64 mmol/kg body weight: (’") PFHA; (Ij) PFOA; (^')                   to be responsible for difference of t1/2. PFCAs have
+PFNA; (km) PFDA. Open symbols represent male rats and
+                                                                        been shown to be metabolically inert (Ophaug and
+filled symbols represent female rats. (A) Profiles of PFHA in
+both male and female rats and that of PFOA in female rats. (B)          Singer, 1980; Kuslikis et al., 1992). We have
+Profiles of PFOA in male rats and those of PFNA and PFDA in             suggested that urinary elimination was the key
+both male and female rats.                                              determinant in the disappearance of PFCAs from
+
+
+
+
+Table 1
+Toxicokinetic parameters of PFCAs in male and female ratsa
+
+Parameters                                             PFHA                 PFOA                 PFNA               PFDA
+                                                                        a                b                  b
+Total clearance, CLtot (ml/(day/kg))        Male       1603.99/557.6          50.59/17.0           6.99/0.6           5.29/1.3 b
+                                            Female     3070.59/781.3 x      2233.29/805.0 x     105.79/31.1 y       5.39/0.2 y
+Half-life, t1/2 (day)                       Male         0.109/0.05 a         5.639/1.20 a       29.579/2.28 b      39.929/8.62 b
+                                            Female       0.059/0.01 c        0.089/0.03 x       2.449/0.41 x     58.579/5.84 y
+Volume of distribution, Vss (ml/kg)         Male        196.29/18.6 a        338.89/68.1 b       286.89/12.5 ab     347.79/15.2 b
+                                            Female      200.69/29.0 x        211.29/28.2 x      243.19/48.9 x      441.19/55.1 y
+
+  Male and female rats were intravenously injected with PFHA, PFOA, PFNA or PFDA (48.64 mmol/kg body weight). Values are
+means9/S.D. for three rats.a,b Differences between four PFCAs are statistically significant without a common superscript in male rats
+(P B/0.05).x,y Differences between four PFCAs are statistically significant without a common superscript in female rats.
+   The difference from the value of male rats is statistically significant (P B/0.05).
+                                         K. Ohmori et al. / Toxicology 184 (2003) 135 /140                                    139
+
+
+the body since the rates of fecal excretion were not
+different between PFCAs and slower than those of
+urinary elimination (Kudo et al., 2001). These
+facts suggest that the difference of CLtot between
+PFCAs and sexes is due to the difference of CLR.
+   Fig. 2 shows CLR of PFCAs in male and female
+rats. The values of CLR were PFHA /PFOA ]/
+PFNA #/PFDA and PFHA ]/PFOA /PFNA ]/
+PFDA in male and female rats, respectively. CLR
+of PFOA and PFNA in female rats were higher
+than those in male rats. There is a highly sig-
+nificant correlation between CLtot and CLR with
+r2 /0.981 (Fig. 3). The results suggest that renal
+excretion system distinguish individual PFCAs by
+their carbon chain length, and selectively excreted
+                                                                     Fig. 3. Relationship between CLtot and CLR of PFCAs for
+PFCAs into urine. Some of the PFCAs are                              male and female rats. Regression analysis was performed on the
+thought to be actively excreted into urine by renal                  eight mean sets of data on CLtot and CLR of PFCAs for male
+tubular secretion because CLR of free PFCA was                       and female rats. (’) PFHA-male; (") PFHA-female; (I)
+higher than the glomerular filtration rate (GFR;                     PFOA-male; (j) PFOA-female; (') PFNA-female. PFNA-
+                                                                     male, PFDA-male and PFDA-female (these three values are not
+approximately 5.5 ml/(min/kg)) (Shim et al., 1984)                   distinguished on the graph). Values are means for three rats.
+if plasma protein binding in vivo is the same as                     CLtot versus CLR, Y/0.48X/15.63 (r2 /0.981, P B/0.01).
+that observed in vitro. This is supported by the
+                                                                     fact that CLR of PFOA was reduced by the
+                                                                     treatment of rats with probenecid, an inhibitor of
+                                                                     renal tubular secretion (Kudo et al., 2002).
+                                                                        Sex-related difference in CLtot was also ex-
+                                                                     plained by the difference in CLR (Fig. 3). This
+                                                                     suggests that functional expression of the renal
+                                                                     system responsible for urinary excretion of PFCA,
+                                                                     at least PFOA and PFNA, is different between
+                                                                     sexes. Renal mechanism responsible for PFCA
+                                                                     excretion still remains to be elucidated. We have
+                                                                     suggested that organic anion transporters, OAT 2
+                                                                     and 3, are the candidates for PFOA transporter
+                                                                     (Kudo et al., 2002). Studies on molecular basis of
+                                                                     urinary excretion of PFCAs will lead to elucidate
+                                                                     the mechanism underlying sex-related difference as
+                                                                     well as substrate specificity to PFCAs.
+Fig. 2. Comparison of CLR between PFCAs in male and                     The present results demonstrated that CLR was
+female rats. CLR of PFHA, PFOA, PFNA and PFDA were
+determined after an intravenous injection for 2, 4, 6 and 6 h,
+                                                                     different between PFCAs having different carbon
+respectively. Values are means9/S.D. for three rats. a,bDiffer-      chain length, despite their structures are similar to
+ences between the value for PFHA, PFOA, PFNA and PFDA                each other. CLR of PFOA and PFNA were
+are statistically significant without a common superscript in        different between sexes. Uy-Yu et al. (1990)
+male rats (P B/0.05). x-zDifferences between the value for           showed that PFOA caused the induction of
+PFHA, PFOA, PFNA and PFDA are statistically significant
+without a common superscript in female rats (P B/0.05).
+                                                                     peroxisomal b-oxidation in the liver of female
+Differences from the value of male rats are statistically           mice, suggesting that PFOA accumulates in the
+significant (P B/0.05).                                              liver of female mice. By contrast to this, PFOA
+140                                      K. Ohmori et al. / Toxicology 184 (2003) 135 /140
+
+
+was rapidly cleared from blood in female rats                        Olson, C.T., Andersen, M.E., 1983. The acute toxicity of
+(Table 1). In addition, PFOA is highly susceptible                       perfluorooctanoic acid and perfluorodecanoic acid in male
+                                                                         and female rats and effects on tissue fatty acids. Toxicol.
+to accumulate in human (Übel et al., 1980). These
+                                                                         Appl. Pharmacol. 70, 362 /363.
+facts suggest that the clearance of PFOA is                          Ophaug, R., Singer, L., 1980. Metabolic handling of perfluor-
+different between species and that PFCAs may                             ooctanoic acid in rats. Proc. Soc. Exp. Biol. Med. 163, 19 /
+accumulate in human body even if these are                               23.
+rapidly eliminated in experimental animals.                          Shim, C.K., Sawada, Y., Iga, T., Hanano, M., 1984. Estimation
+                                                                         of renal secretory function for organic cations by endogen-
+                                                                         ous N1-methylnicotinamide in rats with experimental renal
+                                                                         failure. J. Pharmacokinet. Biopharm. 12, 23 /42.
+References                                                           .Übel, F.A., Sörenson, S.D., Roach, D.E., 1980. Health
+
+                                                                         status of plant workers exposed to fluorochemicals */
+Guethner, R.A., Vietor, M.L., 1962. Surface active materials             a preliminary report. Am. J. Ind. Hyg. Assoc. 41, 584 /
+  from perfluorocarboxylic acid. Ind. Eng. Chem. Proc. Res.              589.
+  Dev. 1, 165 /167.                                                 Uy-Yu, N., Kawashima, Y., Kozuka, H., 1990. Comparative
+Kudo, N., Suzuki, E., Katakura, M., Ohmori, K., Noshiro, R.,             studies on sex-related difference in biochemical responses of
+  Kawashima, Y., 2001. Comparison of the elimination
+                                                                         livers to perfluorooctanoic acid between rats and mice.
+  between perfluorinated fatty acids with different carbon
+                                                                         Biochem. Pharmacol. 39, 1492 /1495.
+  chain length in rats. Chem. Biol. Interact. 134, 203 /216.
+                                                                     Vanden Heuvel, J.P., Kuskikis, B.I., Van Rafelghem, M.J.,
+Kudo, N., Katakura, M., Sato, Y., Kawashima, Y., 2002. Sex
+                                                                         Peterson, R.E., 1991a. Tissue distribution, metabolism, and
+  hormone-regulated renal transport of perfluorooctanoic
+                                                                         elimination of perfluorooctanoic acid in male and female
+  acid. Chem. Biol. Interact. 193, 301 /316.
+Kuslikis, B.I., Vanden Heuvel, J.P., Peterson, R.E., 1992. Lack          rats. J. Biochem. Toxicol. 6, 83 /92.
+  of evidence for perfluorodecanoyl- and perfluorooctanoyl-          Vanden Heuvel, J.P., Kuskikis, B.I., Van Rafelghem, M.J.,
+  coenzyme A formation in male and female rats. J. Biochem.              Peterson, R.E., 1991b. Deposition of perfluorodecanoic acid
+  Toxicol. 7, 25 /29.                                                   in male and female rats. Toxicol. Appl. Pharmacol. 107,
+Ohya, T., Kudo, N., Suzuki, E., Kawashima, Y., 1998.                     450 /459.
+  Determination of perfluorinated fatty acids in biological          Yamaoka, K., Tanigawa, Y., Nakagawara, T., Uno, T., 1981.
+  samples by high-performance liquid chromatography. J.                  A pharmacokinetic analysis program (MULTI) for micro-
+  Chromatogr. B 720, 1 /7.                                              computer. J. Pharmacol. Dyn. 4, 879 /885.
+

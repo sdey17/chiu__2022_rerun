@@ -1,0 +1,624 @@
+Received: 13 October 2020    Revised: 12 January 2021   Accepted: 1 February 2021
+DOI: 10.1002/pro.4036
+
+
+FULL-LENGTH PAPERS
+
+
+
+
+Unveiling the binding mode of perfluorooctanoic acid to
+human serum albumin
+
+Lorenzo Maso1                    | Matteo Trande2                    | Stefano Liberi2                    | Giulia Moro2,3                   |
+Elise Daems3,4                  | Sara Linciano2                   | Frank Sobott4,5                  |
+Sonia Covaceuszach6                           | Alberto Cassetta6                       |    Silvano Fasolato7   |
+Ligia M. Moretto2   |                         Karolien De Wael3                     |       Laura Cendron  1
+                                                                                                               |
+Alessandro Angelini2,8
+
+1
+ Department of Biology, University of
+Padua, Padova, Italy
+                                                   Abstract
+2
+ Department of Molecular Sciences and              Perfluorooctanoic acid (PFOA) is a toxic compound that is absorbed and dis-
+Nanosystems, Ca' Foscari University of             tributed throughout the body by noncovalent binding to serum proteins such
+Venice, Mestre, Italy
+                                                   as human serum albumin (hSA). Though the interaction between PFOA and
+3
+Department of Bioscience Engineering,
+University of Antwerp, Antwerp, Belgium
+                                                   hSA has been already assessed using various analytical techniques, a high reso-
+4
+ Department of Chemistry, University of
+                                                   lution and detailed analysis of the binding mode is still lacking. We report here
+Antwerp, Antwerp, Belgium                          the crystal structure of hSA in complex with PFOA and a medium-chain satu-
+5
+ Astbury Centre for Structural Molecular           rated fatty acid (FA). A total of eight distinct binding sites, four occupied by
+Biology and School of Molecular and
+                                                   PFOAs and four by FAs, have been identified. In solution binding studies con-
+Cellular Biology, University of Leeds,
+Leeds, UK                                          firmed the 4:1 PFOA-hSA stoichiometry and revealed the presence of one high
+6
+ Istituto di Cristallografia – CNR, Trieste        and three low affinity binding sites. Competition experiments with known
+Outstation, Trieste, Italy                         hSA-binding drugs allowed locating the high affinity binding site in sub-
+7
+ Department of Medicine, University of             domain IIIA. The elucidation of the molecular basis of the interaction between
+Padua, Padova, Italy
+8                                                  PFOA and hSA might provide not only a better assessment of the absorption
+ European Centre for Living Technology
+(ECLT), Venice, Italy                              and elimination mechanisms of these compounds in vivo but also have impli-
+                                                   cations for the development of novel molecular receptors for diagnostic and
+Correspondence
+Laura Cendron, Department of Biology,
+                                                   biotechnological applications.
+University of Padua, Padova, Italy.
+Email: laura.cendron@unipd.it                      KEYWORDS
+                                                   binding mode, crystal structure, fluoroalkyl substances, human serum albumin, molecular
+Alessandro Angelini, Department of                 interaction, perfluorooctanoic acid
+Molecular Sciences and Nanosystems,
+European Centre for Living Technology,
+Ca' Foscari University of Venice, Mestre,
+Italy.
+Email: alessandro.angelini@unive.it
+
+
+Abbreviations and symbols: dhSA, defatted hSA; Dka, capric acid;
+FA, fatty acid; hSA, human serum albumin; ITC, isothermal titration             1 | INTRODUCTION
+calorimetry; KD, dissociation constant; Myr, myristic acid; NaPi, sodium
+phosphate buffer; PFAS, perfluoroalkyl substance; PFOA,                         Perfluorooctanoic acid (PFOA) is a perfluoroalkyl sub-
+Perfluorooctanoic acid; PFOS, perfluorooctanesulfonic acid.                     stance (PFAS) with a carboxyl functional group and
+Lorenzo Maso and Matteo Trande contributed equally.                             seven fluorinated carbon atoms.1 PFOA is a man-made
+
+830      © 2021 The Protein Society                           wileyonlinelibrary.com/journal/pro                        Protein Science. 2021;30:830–841.
+MASO ET AL.                                                                                                               831
+
+
+
+organic compound widely found in consumer and indus-            ranging from 10−2 to 10−6 M,17–23 a high resolution struc-
+trial products as well as in food items.2 Its high resistance   tural analysis of the interaction between PFOA and hSA
+to degradation, in combination with its ubiquity and            is still lacking. In the present study we applied X-ray crys-
+global distribution, gives rise to an increasing public con-    tallography and isothermal titration calorimetry (ITC) to
+cern over its potential risks to human health and its           investigate the nature and locations of the PFOA binding
+impact on the environment.2 Health effects associated to        sites. A total of four PFOA binding sites with different
+PFOA exposure include altered lipid metabolism, modi-           affinities have been determined. Competition experi-
+fied function of the endocrine system, liver toxicity,          ments with known hSA-binding drugs allowed locating
+affected immune function, tumor formation, prenatal             the high affinity binding site in sub-domain IIIA.
+and neonatal toxicity, decreased birth weight and size          The elucidation of the molecular basis of the
+and even obesity.2,3 Currently, there are no proved medi-       interaction between PFOA and hSA is expected to have
+cal interventions to facilitate the removal of persistent       implications for the development of superior hSA-based
+PFOA from the body. In recent years, a number of                molecular receptors for diagnostic and biotechnological
+toxicokinetic studies in humans and animals reported            applications.24
+that PFOA shows low elimination rates and high accu-
+mulation levels in the blood and in vital organs such as
+liver, kidney and lung.4–6 Indeed, the average half-life        2 | RESULTS
+values for serum elimination of PFOA in environmen-
+tally exposed human populations are estimated to be in          2.1 | Overview of the crystal structure of
+the order of years.4,5,7 Notably, PFOA is easily absorbed       hSA in complex with PFOA and
+and distributed throughout the body by noncovalent              myristic acid
+binding to plasma proteins at concentrations ranging
+from 5 nM (general population) to 50 μM (highly exposed         To unveil the binding mode of hSA to PFOA, we applied
+communities).8 The primary binding protein for PFASs            X-ray crystallography and determined the structure of
+in the blood is serum albumin (hSA), the most abundant          the complex. To resemble the physiological conditions,
+protein in plasma, with an average concentration of             we co-crystallized hSA in the presence of both PFOA and
+40 g L−1 (600 μM).9 hSA has important physiological            the representative long FA myristic acid (Myr). The hSA-
+roles, including maintenance of colloid osmotic pressure        PFOA-Myr complex was prepared by incubating the def-
+and pH value. Moreover, hSA is capable of binding a             atted hSA (dhSA) protein with a two-fold molar excess of
+large variety of small endogenous and exogenous organic         PFOA over Myr. The best crystals diffracted to 2.10 Å
+molecules, shielding their hydrophobic character and            maximum resolution and the structure solved by molecu-
+strongly enhancing their solubility and half-life in            lar replacement (Table S1, PDB identification code:
+plasma.9,10 In particular, hSA acts as the key lipid deliv-     7AAE). The polypeptide chain of hSA could be traced
+ery vehicle for the tissues, binding up to seven and nine       unambiguously from His3 to Leu585. The electron den-
+molecules of long- and medium-chain fatty acids (FAs),          sity was clearly visible for all the ligands allowing a defi-
+respectively, for a total of 0.1–2 mol of FAs per mol of        nite assignment of the positions and orientations of both
+protein.11 Short- to medium-length FAs (6–12 carbons)           PFOA (Figure 1a) and Myr (Figure 1b) bound molecules.
+bind hSA with affinities between 0.5 and 60 μM, while           A total of eight distinct binding sites, four occupied by
+the longest ones (14 to 18 carbons) have ten10fold higher       PFOA and four by Myr, have been identified (Figure 1c).
+affinities (below 50 nM).12,13 Given the structural similar-    The binding sites occupied by PFOA are located at the
+ities of PFOA to endogenous FAs it is not surprising that       Sudlow's drug-binding site I (subdomain IIA) and II (sub-
+these fluorinated compounds are capable of binding hSA          domain IIIA). Here, we refer to these two ligands as
+at physiological concentrations above 90% leading to very       PFOA3 and PFOA1. A third molecule, named PFOA2, is
+high concentrations in blood.14,15 Hence, the investiga-        positioned at the interface of subdomains IIA and IIB
+tion of the interaction between PFOA and hSA is crucial         (FA6) whereas a fourth binding site (PFOA4) laid in the
+for a better understanding of the biological process and        cleft at the interface between sub-domains IB and IIIA.
+toxic mechanism of these compounds in vivo. In recent           The remaining binding sites FA1, FA2, FA3, and FA5
+years the binding of PFOA to hSA has been characterized         were all occupied by Myr molecules (Figure 1c). To better
+using multiple analytical techniques16 and while consid-        compare the binding mode of PFOA with that of Myr, we
+erable insights have been accumulated, our understand-          determined the crystal structure of hSA-Myr binary com-
+ing of the PFOA-hSA interactions is far from complete.          plex (Figure 1d, PDB identification code: 7AAI). Superpo-
+Though hSA has been reported to bind between 1 to               sition of our two crystal structure complexes with those
+more than 10 PFOA molecules with binding affinities             of other hSA-FA complexes previously described10,11 does
+832                                                                                                                                MASO ET AL.
+
+
+
+
+F I G U R E 1 Structure of hSA in complex with PFOA and Myr. Chemical structure (top) and composite omit maps depicting the (Fo−Fc)
+electron density (bottom) of PFOA (a) and Myr (b) contoured at 4σ; (c) Crystal structure of hSA-PFOA-Myr complex (white) obtained using
+a twofold molar excess of PFOA over Myr [PDB identification code: 7AAE]; (d) Superimposition of hSA-PFOA-Myr ternary complex (white)
+with aligned hSA-Myr binary complex (blue white) [PDB identification code: 7AAI]. The structure of hSA is organized in homologues
+domains (I, II and III), subdomains (A and B), fatty acids (FA) and Sudlow's binding sites. The α-helices of hSA are represented by cylinders.
+Bound PFOA and Myr are shown in a ball-and-stick representation with a semi-transparent van der Waals and colored by atom type (PFOA:
+carbon = dark salmon, oxygen = firebrick, fluorine = palecyan; Myr: carbon = smudge green, oxygen = firebrick). The electron density
+PFOA and Myr is shown as grey mesh
+
+
+
+not show any striking rearrangements of the main back-                   and narrow Sudlow's drug-binding site II (named FA4),
+bone with root mean square deviations of the Cα-atoms                    located in sub-domain IIIA, and is positioned approxi-
+that never exceed 0.85 Å. Importantly, the pattern of                    mately at right angles to the Myr molecule (Myr3),
+binding of all PFOAs is similar to those of medium-chain                 located in the nearby FA3 site (Figure 2a, b). Alike FAs,
+FAs. Moreover, no major differences are observed for the                 the carboxylate head-group of PFOA1 forms a hydrogen
+side chains of amino acids involved in the binding when                  bond with the side chain of Ser489 and polar interactions
+compared to other hSA-FA complexes (Figure S1).                          with side chains of adjacent Asn391, Arg410, and Tyr411
+Despite several structural analyses reported the presence                (Figure 2b, S3, Table S2). Furthermore, numerous polar
+of different FAs in FA7 site, our binary hSA-Myr complex                 interactions are established between fluorine atoms (F3,
+shows a 2-methyl-2,4-pentanediol (MPD) molecule                          F11, F12, F14, F17, and F20) and the oxygen and nitro-
+bound to it (Figure 1d, S2).11 This evidence is consistent               gen atoms of both main and side chains of nearby
+with earlier studies reporting a poor and truncated elec-                Tyr411, Phe488, and Ser489 (Figure 2b, S3, Table S2).
+tron density lacking the characteristic expansion at one                 The rest of the fluorinated n-octyl tail accommodates in
+end necessary to locate the carboxylate head-group of the                the hydrophobic tunnel and establishes non-polar con-
+Myr, thus corroborating the relatively low biding affinity               tacts with surrounding Leu387, Tyr411, Val415, Leu430,
+of FAs for this site.25 Overall, the structure of hSA in                 Leu453, Leu457, Leu460, Arg485, Phe488, Ser489, and
+complex with PFOA and Myr revealed the presence of                       Leu491 residues (Figure 2b, S3, Table S3). Notably, the
+four distinct PFOA binding sites and no conformational                   positions of the side chains of the amino acids engaged in
+differences with those of other hSA-FA complexes.                        contacts with PFOA1 are similar to those of other hSA-
+                                                                         FA complexes described before (Figure S1).11 The PFOA2
+                                                                         occupies FA6 binding site at the interface of subdomains
+2.2 | Molecular binding mode of PFOA                                     IIA and IIB (Figure 2a, c). The hydrophilic carboxylate
+to hSA                                                                   head-group of PFOA2 is involved in polar interactions
+                                                                         with adjacent main-chain nitrogen atoms of amino acids
+The electronic density of all PFOAs and Myr ligands is                   Lys351, Leu481, and Val482, while the fluorinated n-octyl
+well defined allowing an unambiguous assignment of the                   tail extends linearly within the narrow hydrophobic tun-
+positions of both hydrophilic carboxylate head-groups                    nel making additional stabilizing contacts with the main
+and n-tetradecane (C14) methylene or fluorinated n-octyl                 and side chains of surrounding Phe206, Arg209, Ala210,
+(C8) lipophilic tails. The PFOA1 molecule lies in the long               Ala213, Leu327, Leu347, Ala350, Lys351, Glu354, Ser480,
+MASO ET AL.                                                                                                                            833
+
+
+
+
+F I G U R E 2 Details on the binding mode of PFOA to hSA. (a) Molecular surface representation of the overall hSA-PFOA-Myr complex
+shown in two orientations (90 rotation); (b) PFOA1 bound to FA4 in sub-domain IIIA; (c) PFOA2 bound to FA6 at the interface of
+subdomains IIA and IIB; (d) PFOA3 bound to FA7 in sub-domain IIA; (e) PFOA4 bound to the crevice between sub-domains IB and IIIA.
+The α-helices of hSA are shown in white and the selected amino acid side chains are represented as ball-and-stick and colored by atom type
+(carbon = white, oxygen = firebrick, nitrogen = skyblue). Bound PFOA molecules are depicted as ball-and-stick models (PFOA:
+carbon = dark salmon, oxygen = firebrick, fluorine = palecyan) and the composite omit maps, representing the (<i > F</i > <sub>o</
+sub> − <i > F</i > <sub>c</sub>) electron density contoured at 4σ, are shown as grey mesh. Bound water molecule is shown in lightteal.
+Bound tetraethylene glycol (PG4) molecule is shown as ball-and-stick model and colored by atom type (carbon = wheat, oxygen = firebrick).
+Hydrogen bonds, salt bridges and polar interactions are shown as splitpea dashed lines. For visualization, only inter-molecular polar
+interactions below 3.0 Å are shown
+
+
+Leu481, and Val482 residues (Figure 2c, S3, Table S2, S3).             (PG4) molecule present in the crystallization solution
+The remaining space present at the tip of the fluorinated              (Figure 2d, S2). Notably, the same precipitant molecule
+tail appears to be occupied by a small organic molecule.               appears to play an important role in the formation of
+The detected additional electron density can most likely               polar interactions with the side chains of Arg257 and
+be attributed to a MPD molecule present in the crystalli-              Ser287, forming a “cap” that helps to grip PFOA3 in the
+zation solution (Figure S2). Again, no difference is                   pocket (Figure 2d). Again, the fluorinated n-octyl tail
+observed for the side chains of amino acids involved in                accommodates well within the pocket making additional
+the binding to PFOA2 when compared to other hSA-FA                     polar and non-polar contacts with the main and side
+complexes (Figure S1).11 Interestingly, the extended net-              chains of surrounding Trp214, Arg218, Leu219, Arg222,
+work of hydrogen bonds and polar contacts, made by the                 Leu238, Arg257, Leu260, Ala261, Ile264, Ser287, Ile290,
+side chains of Arg209, Asp324, and Glu354 residues and                 and Ala291 residues (Figure 2d, S3, Table S2, S3). The
+an interacting water molecule, forms a molecular “net”                 majority of the amino acid side chains, involved in the
+that holds and further stabilizes the binding of PFOA2 to              binding to PFOA3 superimposed well with those of other
+FA6 site (Figure 2c, S3, Table S2). The PFOA3 molecule                 hSA-FA complexes, except for Arg218 that reorients in
+occupies the Sudlow's drug-binding site I, also named                  between the following Gln221 and Arg222 residues
+FA7, located in sub-domain IIA (Figure 2d). The carbox-                (Figure S1).11 Finally, PFOA4 molecule lays in a large
+ylate head-group of PFOA3 establishes hydrogen bonds                   cleft located at the interface between sub-domains IB and
+with adjacent Arg218 and Arg222 residues via a bridging                IIIA (Figure 2e). This site has been reported to bind
+water molecule (Figure 2d). One oxygen of the carboxyl-                exclusively short and medium-chain FAs such as
+ate head-group of PFOA3 is further involved in a polar                 decanoic acid (Dka) and it is therefore not surprising to
+contact with an oxygen of the close tetraethylene glycol               see a PFOA molecule bound to it instead of a Myr
+834                                                                                                             MASO ET AL.
+
+
+
+(Figure S1).11 Interestingly, the PFOA4 molecule runs in       complex reveals four PFOA binding sites, while the
+opposite direction than Dka. While the carboxylate head-       binary hSA-PFOS complex identified solely two PFOS
+group of Dka forms a salt bridge with the side chain of        binding sites, one located at Sudlow's drug-binding site II
+Lys436, located at the top of the crevice, the carboxylate     (FA4) and the other at the FA6 binding site
+head-group of PFOA4 points at the opposite site, towards       (Figure 3a–c). Interestingly, despite being very similar
+the solvent, and engages polar contacts with atoms of          molecules and occupying the same sites, the binding
+nearby Lys190, Arg197, and Val455 residues. Again, a           mode of PFOA and PFOS ligands into FA4 and FA6
+water molecule plays a key role in mediating some of           pockets varies significantly. While the PFOS3 molecule
+these interactions (Figure 2e, S1). Furthermore, a salt-       stretches across both FA3 and FA4 binding sites, the
+bridge between Asp187 (domain IB) and Lys432 (domain           PFOA1 ligand occupies solely the FA4 site, with the FA3
+IIIA) forms a side chain strap across the top of the crevice   pocket being filled by a Myr molecule (Myr3, Figure 3b).
+that appears to hold PFOA4 in place (Figure 2d). Binding       Though the two fluorinated n-octyl tails run in opposite
+of PFOA4 to this cleft is further stabilized by polar and      directions, the hydrophilic head-groups converges toward
+non-polar contacts of the fluorinated n-octyl tail with the    the Ser489 residue that establishes a polar interaction
+main and side chains of surrounding Asp187, Lys190,            with both PFOA and PFOS ligands (Figure 3b, S5). The
+Ala191, Asn429, Lys432, Lys436, Tyr452, Val455, Val456,        sulfonate head-group of PFOS3 forms a salt bridge with
+and Gln459 residues (Figure 2d, S3, Table S2, S3). Most        Lys414 and a hydrogen bond with Tyr411, whereas in the
+of the hSA side chains that are engaged in PFOA4 bind-         case of PFOA1 the Tyr411 is shifted upward and the
+ing displayed similar conformations, except for Arg197         rotated Lys414 is situated too far to form contacts with
+(domain IB) and Lys436 (domain IIIA). In the presence          the carboxylate head-group (Figure 3c). Importantly,
+of PFOA4, the Arg197 side chain rotates through about          PFOS3 forms a larger number of inter-molecular interac-
+180 to form polar contacts with the carboxylate head-         tions with the FA4 pocket residues, if compared to
+group of PFOA4 (Figure S1). Similarly, the presence of         PFOA1. Alike PFOA2 molecule, PFOS6 occupies FA6
+the fluorinated tail of PFOA4 appears to push away the         binding site at the interface of subdomains IIA and IIB
+side chain of Lys436 which undergoes a 180 rotation           (Figure 3d). The hydrophilic head-groups of both PFOA2
+toward the solvent (Figure S1).11 Taken together, our          and PFOS6 point toward the same direction of the car-
+data indicate that the binding mode of PFOAs is similar        boxylate head-group of Myr6. While the sulfonate head-
+to those of medium-chain FAs and involves both the car-        group of PFOS3 halts at the center of the tunnel forming
+boxylate head-group and the fluorinated tail that estab-       hydrogen bonds with nearby Arg209 and Glu354, the car-
+lish polar and non-polar contacts with surrounding hSA         boxylate head-group of PFOA1 slides toward subdomains
+residues. Data also suggest that PFOA1, located in the         IIIA by roughly 7 Å (head-to-head spacing) letting the
+FA4 pocket, forms a larger number of inter-molecular           fluorine atoms of the tail to establish polar interactions
+interactions, if compared to other bound PFOA                  with Arg209 and Glu354 (Figure 3e). Overall, we con-
+molecules.                                                     clude that while being similar molecules, PFOA and
+                                                               PFOS occupy FA4 and FA6 sites by exploiting different
+                                                               directions and hSA residues. Though hSA appears to bind
+2.3 | Differences between PFOA and                             more PFOA molecules than PFOSs, the latter establish a
+PFOS interaction with hSA                                      larger number of inter-molecular contacts and cover
+                                                               larger surfaces of interaction (Figure S5, Table S4).
+We next compared our structure with that of hSA in com-
+plex with a similar fluoroalkyl substance, the per-
+fluorooctane sulfonate (PFOS).26 Comparison of the hSA-        2.4 | Binding stoichiometry of PFOA to
+PFOA-Myr and hSA-PFOS (PDB identification code:                hSA in solution
+4E99) structures revealed differences in the respective
+binding modes. Primarily, the overall conformations of         The molecular interaction between PFOA and hSA was
+the two protein complexes diverge from each other.             further characterized using ITC. In solution studies con-
+These major differences can be ascribed to either pres-        firmed a 4:1 binding stoichiometry observed in the X-ray
+ence or absence of Myr in the complex. Our ternary com-        structure of the complex. The four PFOA binding sites
+plex is wider and superimposes well with that of other         are grouped into two pairs of different strength: a high-
+hSA-FA structures. Contrariwise, the hSA-PFOS complex          affinity site (KD = 0.357 μM) and three low-affinity ones
+resembles better that of the dhSA with a large downward        (KD = 27.1 μM) (Figure 4a, Table S5). For all the four
+shift of subdomain IA and IIIB, resulting in a more com-       sites, the energetic of PFOA binding followed an exother-
+pact structure (Figure 3a, S4). Moreover, our ternary          mic reaction. The high affinity site shows a favorable
+MASO ET AL.                                                                                                                             835
+
+
+
+
+F I G U R E 3 Structural comparison of the ligand binding modes of PFOA and PFOS to hSA. (a) The superimposed hSA-PFOA-Myr
+(white/dark salmon/smudge green) and hSA-PFOS (blue white/salmon; PDB identification code 4E99) complexes are shown in two
+orientations (90 rotation); (b) Detailed view of the superimposed PFOA1 and PFOS3 molecules bound to FA4 in sub-domain IIIA of hSA;
+(c) Comparison of polar interaction network formed by PFOA1 (top) and PFOS3 (bottom) molecules bound to FA4; (d) Detailed view of the
+superimposed PFOA2 and PFOS6 molecules bound to FA6 in domain II hSA; (e) Comparison of polar interaction network formed by
+PFOA2 (left) and PFOS6 (right) molecules bound to FA6. The α-helices of hSA in complex with PFOA and PFOS are represented by ribbon
+diagram and shown in white and light blue, respectively. The selected amino acid side chains are represented as ball-and-stick and colored
+by atom type (carbon = white for hSA/PFOA/Myr complex and blue white for hSA/PFOS complex, oxygen = firebrick, nitrogen = skyblue).
+Bound PFOA, PFOS and Myr are shown in a ball-and-stick representation and colored by atom type (PFOA: carbon = dark salmon,
+oxygen = firebrick, fluorine = pale cyan; PFOS: carbon = salmon, oxygen = firebrick, fluorine = pale cyan, sulfur = yellow orange; Myr:
+carbon = smudge green, oxygen = firebrick). For visualization, only inter-molecular polar interactions below 3.0 Å are shown
+
+
+
+
+F I G U R E 4 Isothermal titration calorimetry analysis of PFOA binding to hSA. (a) Representative raw trace (top) of the calorimetric
+titration of PFOA into dhSA and integrated binding isotherm (bottom); (b) Superimposition of hSA structure (white) with aligned hSA-
+ibuprofen [PDB identification code: 2BXG], hSA-CMPF [PDB identification code: 2BXA], hSA-iodipamide [PDB identification code: 2BXN]
+and hSA-warfarin [PDB identification code: 2BXD] complexes. The α-helices of hSA are represented by cylinders. Bound molecules are
+shown in a ball-and-stick representation and colored as follow: ibuprofen = red, CMPF = yellow, iodipamide = green and warfarin = blue;
+(c) Overlay of the individual titration profiles of PFOA to hSA saturated with ibuprofen (red), CMPF (yellow), iodipamide (green) and
+warfarin (blue). Titration profile of PFOA to hSA alone is shown in black
+836                                                                                                               MASO ET AL.
+
+
+
+energetic contribution of both enthalpy (ΔH) and entropy        when the protein is saturated with iodipamide or warfa-
+(ΔS), suggesting that the interaction is achieved through       rin and comparable to that of dhSA (Figure S9). Given
+electrostatic and hydrophobic interactions. Inversely,          that ibuprofen and CMPF share the same FA4 binding
+binding of the PFOAs to the three low-affinity sites is         site and that among all the compounds tested ibuprofen
+mainly characterized by a positive entropic contribution,       is the only one that does not bind FA7, we can conclude
+which can be ascribed to hydrophobic interactions               that FA4 is a high affinity site for PFOA, whereas FA6,
+(Figure S6, Table S5, S6). Next, we assessed the effect of      FA7 and the cleft are the low affinity ones. The results
+the temperature on the binding of PFOA to hSA. Interest-        are consistent with the comparative analysis of the inter-
+ingly, no significant variations were observed in the stoi-     actions of each single molecule of PFOA to the residues
+chiometry nor in the binding affinities when ITC studies        of hSA which shows that PFOA1 molecule bound to FA4
+were performed at temperatures ranging from 12 to 30 C         site establishes a higher number of inter-molecular con-
+(Figure S7, Table S5). On the contrary, a change in the         tacts if compared to other sites (Figure S3, Table S2, S3).
+stoichiometry of the low-affinity binding sites was instead
+observed at physiological temperature (37 C) with one or
+two low-affinity sites that have diminished their binding       3 | DISCUSS I ON AND
+affinities from micromolar to millimolar values. Though,        CONCLUSIONS
+these sites appear to recur when longer titrations are per-
+formed (Figure S7, Table S5). Further native electrospray       PFOA is a man-made toxic compound that is easily
+ionization mass spectrometry (ESI-MS) analysis, using           absorbed and circulate for years throughout the body by
+increasing molar ratio of PFOA to dhSA, revealed the            noncovalent binding to serum proteins, such as hSA.
+presence of up to eight PFOA binding sites (Figure S6).         Though the interaction of PFOA to hSA has been already
+This is in agreement with previous studies21 and con-           assessed using various analytical techniques, a high reso-
+firmed the ability of PFOA to occupy additional hSA             lution and detailed characterization of their binding
+pockets at higher concentrations. A consistent trend in         mode is still lacking. Here we report the biochemical
+the binding stoichiometry was observed when the analy-          analysis of hSA in complex with PFOA and the medium-
+sis was performed using dhSA or untreated hSA                   chain saturated FA Myr. The crystal structure revealed
+(Figure S6). To assign the high affinity binding site, we       four PFOA binding sites, namely FA4 (Sudlow binding
+performed competitive ITC studies using a range of com-         site I), FA6, FA7 (Sudlow binding site II) and crevice.
+mercially available drugs with known binding affinity           The protein complex superimposed well with that of
+and site-selectivity.27 These include ibuprofen (FA4 and        other hSA-FAs. The binding mode of the PFOAs is simi-
+FA6), 3-carboxy-4-methyl-5-propyl-2-furanpropionic acid         lar to those of medium-chain FAs and involves direct or
+(CMPF; FA4 and FA7), warfarin (FA7) and iodipamide              water-mediated interactions of the carboxylate head-
+(FA7 and cleft; Figure 4b). Titration profiles of the four      groups to nearby basic or polar residues. The lipophilic
+compounds to dhSA confirmed the binding to the protein          tails accommodate within the hydrophobic cavities.
+and allowed us to assess the optimal saturating condi-          Though shorter than Myr, PFOA molecules appear to
+tions for each drug (Figure S8, Table S6). The experimen-       establish a larger number of both polar and non-polar
+tal binding parameters were in good agreement with              contacts with hSA residues. Such property could be
+those reported in the literature.28–30 The presence of          attributed to the ability of the carbon–fluorine (C F)
+small amounts of DMSO, needed to solubilize some                bond to participate in multiple non-covalent inter-
+drugs, did not alter the binding parameters of PFOA to          molecular interactions (e.g., C HF C, C FF C,
+dhSA (Figure S8, Table S6). The overlay of the individual       C Fπ, C FX where X = N, O, S, halogen).31 Further
+titration profiles of PFOA to dhSA saturated with single        in solution binding studies confirmed the 4:1 PFOA-hSA
+drug enabled the identification of the highest binding          stoichiometry and revealed the presence of one high and
+affinity site for PFOA. While the titration profiles            three low affinity binding sites. Similarly to FAs, the
+obtained in the presence of warfarin- and iodipamide-           binding of PFOA to hSA appears to be characterized by a
+saturated dhSA are comparable to that of dhSA, those            favorable exothermic process and by a gain in entropy
+obtained in the presence of ibuprofen- and CMPF-                most probably due to desolvatation of the fluoroalkyl
+saturated dhSA revealed a nearly saturated flat curve,          tail.32 While the exothermic process is mainly driven by
+suggesting a direct competition and preservation of the         van der Waals interactions, hydrogen bonding and elec-
+only lower affinity sites (Figure 4c, S8, Table S7). In addi-   trostatic interactions, the gain in entropy is the result of
+tion, the thermodynamics parameters of binding of PFOA          hydrophobic interactions that are stronger than ones
+to dhSA in the presence of ibuprofen or CMPF show little        with their hydrocarbon analogs, which reflects the size of
+or null enthalpic contribution, which is instead present        the structured water cage required to solvate the
+MASO ET AL.                                                                                                         837
+
+
+
+fluorocarbon groups and the entropy gained from               agree with the in-solution biochemical characterization
+desolvating upon protein binding.33 Though numerous           and provide a reliable map of the locations and the bind-
+studies indicate the presence of additional PFOA binding      ing modes of PFOA to hSA. Although many challenges
+sites, our structural and in solution characterization rev-   still remain, the elucidation of the interaction between
+ealed that these are unlikely to be physiologically rele-     PFOA and hSA might provide a better assessment of the
+vant and were probably observed to be occupied only           absorption and elimination mechanisms of these com-
+because of the lack of FAs or the relatively high concen-     pounds in vivo. Moreover, in light of the urgent need to
+trations of PFOA used in the studies. This is in agreement    implement better strategies to detect and reduce exposure
+with the fact that most hSA sites have greater affinity for   to PFOA, our study is also expected to have implications
+long-chain FAs than for PFOA and that the former are          for the development of novel molecular receptors for bio-
+normally most prevalent in the circulation. Competition       sensor, bioremediation and biomedical applications.
+experiments with known hSA-binding drugs identified
+the FA4 pocket in sub-domain IIIA as the high affinity
+binding site for PFOA. Consistent with these evidences,       4 | MATERIALS AND METHODS
+structural analysis of the different PFOA-binding sites
+revealed that PFOA1 located in FA4 pocket forms a             4.1 | Proteins and chemicals
+larger number of inter-molecular interactions, if com-
+pared to other sites. Interestingly, the carboxylate head-    Recombinant human serum albumin (hSA, Albagen XL;
+group of PFOA1 is the only one establishing a hydrogen        UniProt ID: P02768) was purchased from Albumin Bio-
+bond with adjacent hSA residues. The ability of PFOA1         science (Alabama). The charcoal was purchased by Cae-
+to outcompete Myr for the FA4 binding, a primary site         sar & Loretz GmbH. PFOA, sodium myristate (Myr) and
+for medium and long-chain FAs, is remarkable and fur-         warfarin were purchased form Sigma Aldrich, ibuprofen
+ther supports the key role of hSA in enhancing the half-      and 3-carboxy-4-methyl-5-propyl-2-furanpropionic acid
+life of PFOA in plasma. Contrariwise, the low binding of      (CMPF) from Cayman Chemical, and iodipamide from
+affinities of PFOAs to FA6, FA7 and crevice site is antici-   MedChemExpress (MCE). All the reagents were of ana-
+pated as all these pockets lack positive and polar amino      lytical grade and solutions were prepared using double
+acid side chains necessary for the anchoring of the car-      distilled deionized water.
+boxylic group of PFOA. Our observations are consistent
+with previous studies, showing that these three binding
+sites may be the primary site for shorter-chain FAs and       4.2 | Protein preparation and
+are occupied only at high molar ratio of FAs to have.11       purification
+Finally, comparison of the crystal structures of hSA in
+complex with PFOA and PFOS enables to appreciate              The defatted recombinant human serum albumin (dhSA)
+analogies and differences in the binding mode of two, yet     was obtained by adsorption onto activated charcoal as
+similar, fluoroalkyl substances. While the structure of       previously described.36 Briefly, the water-washed char-
+hSA in complex with PFOA is wider and displays four           coal (0.4 mg per mg of hSA) was initially dissolved in
+bound molecules, the structure of hSA in complex with         PBS pH 7.4 and the pH further lowered to 3 using a 1 M
+PFOS is more compact and includes only two bound              HCl solution. The resulting suspension was incubated for
+ligands. Similarly to PFOAs, PFOSs occupy FA4 and FA6         at least 3 hr under gentle shaking at 4 C. The pH of the
+pockets and their binding to hSA appear to be exothermic      suspension was then adjusted to 7.4 by using a 2 M
+and driven by both polar and non-polar interactions.34,35     NaOH solution and filtered using a 0.22 μm membrane
+Yet, the orientations and positions exploited by PFOA         filter. The protein aggregates and the disulfide-bridged
+and PFOS in FA4 and FA6 pockets differs significantly.        dimers formed during this treatment were removed by
+Finally, detailed structural analysis reveals that the        size exclusion chromatography (SEC) using a HiLoad
+greater binding affinity of PFOS toward hSA reported in       16/600 Superdex 200 prep grade column (GE Healthcare)
+literature20,21 could be explained by the presence of an      connected to an ÄKTA pure 25 M system (GE
+additional oxygen of sulfonate head-group of PFOS and         Healthcare) equilibrated with 50 mM sodium phosphate
+its larger van der Waals volume, which ultimately facili-     buffer (NaPi), 100 mM NaCl, pH 7.4. The fractions con-
+tates the formation of a greater number of inter-             taining monomeric dhSA protein were pooled and fur-
+molecular interactions. In conclusion, we report here a       ther concentrated by using 10,000 NMWL Amicon Ultra-
+detailed analysis of the molecular interaction of PFOA        15 ultrafiltration devices (Merck Life Science) at 4000 g
+with hSA, the main protein carrier of these widely found      and 4 C on a Heraeus Multifuge X1R centrifuge (Thermo
+toxic compounds in vivo. The crystallography data well        Fisher Scientific) to a final protein concentration of
+838                                                                                                           MASO ET AL.
+
+
+
+25 mg ml−1 (375 μM). Protein concentration was deter-        (DLS, Oxfordshire, UK). The best crystals of the ternary
+mined using a mySPEC spectrophotometer (VWR). Puri-          complex hSA-PFOA-Myr (1:10:5 ratio), obtained using an
+fied dhSA protein was flash frozen in liquid nitrogen and    excess of PFOA over Myr, diffracted to 2.10 Å maximum
+stored at −80 C. The monodisperse state of concentrated     resolution. Crystals belong to the C2 space group, with
+dhSA protein was confirmed by SEC using a Superdex           unit cell parameters: a = 184.79 Å, b = 38.51 Å,
+200 10/300 GL column (GE Healthcare) connected to an         c = 95.59 Å, α = 90 , β = 104.95 and γ = 90 . The asym-
+ÄKTA pure 25 M system and equilibrated with 50 mM            metric unit contains 1 molecule, corresponding to a Mat-
+NaPi, 100 mM NaCl, pH 7.4. Purified dhSA proteins were       thews coefficient of 2.45 Å3/Da and a solvent content of
+eluted as a single peak at elution volumes that corre-       49.84% of the crystal volume. The best crystals of the
+sponds to apparent molecular mass of about 66 kDa            binary complex hSA-Myr (1:10 ratio) diffracted to 1.80 Å
+(monomer).                                                   maximum resolution. Crystals belong to the I2 space
+                                                             group, with unit cell parameters: a = 95.31 Å,
+                                                             b = 38.54 Å, c = 184.28 Å, α = 90 , β = 104.45 and
+4.3 | Crystallization                                        γ = 90 . The asymmetric unit contains 1 molecule,
+                                                             corresponding to a Matthews coefficient of 2.45 Å3/Da
+Crystallization trials of dhSA in complex with PFOA          and a solvent content of 49.71% of the crystal volume.
+and/or sodium myristate (Myr) were carried out at            Frames were indexed and integrated with software XIA2,
+285 K in a MRC maxi 48-well crystallization plate            merged and scaled with AIMLESS (CCP4i2 crystallo-
+(Hampton Research) using the sitting-drop vapor-             graphic package).37
+diffusion method and the Morpheus MD1-46 protein
+crystallization screen kit (Molecular Dimensions Ltd.).
+Droplets of 1.6 μl volume (0.8 μl of protein complex and     4.5 | Structure determination and model
+0.8 μl of reservoir solution) were set up using an Oryx      refinement
+8 crystallization robot (Douglas Instruments Ltd.) and
+equilibrated against 120 μl reservoir solution. In all the   The structures were solved by molecular replacement
+cases, the largest crystals were obtained by streak- or      with software PHASER38 using as a template the model
+micro-seeding into drops that had been allowed to            1BJ5.25 Refinement was carried on using REFMAC39
+equilibrate for 5–7 days. Best crystals of dhSA (1 mM)       and PHENIX.40 Rebuilding and fitting of the PFOA,
+incubated with a 10-fold molar excess of PFOA (10 mM)        Myr and precipitant/buffer molecules (ethylene glycol,
+and a fivefold molar excess of Myr (5 mM) were               EDO; 2-methyl-2,4-pentanediol, MPD; 3-(N-morpho-
+obtained using the following precipitant agent: 50 mM        lino)propanesulfonic acid, MOPS; tetraethylene glycol,
+HEPES, 50 mM MOPS, 30 mM diethylene glycol,                  PG4; triethylene glycol, PGE) was performed manually
+30 mM triethylene glycol (PGE), 30 mM tetraethylene          with graphic software COOT.41 Since the first cycles of
+glycol (PG4), 30 mM pentaethylene glycol, 12.5% vol/vol      refinement, the electron density corresponding to the
+MPD, 12.5% wt/vol PEG 1000, 12.5% wt/vol PEG 3350            bound PFOA and/or Myr molecules was clearly visible
+pH 7.5. Best crystals of dhSA (1 mM) incubated with a        in the electron density map. The final model of the ter-
+10-fold molar excess of Myr (10 mM) were obtained            nary complex hSA-PFOA-Myr contains 4,650 protein
+using the following precipitant agent: 50 mM HEPES,          atoms, 100 PFOA ligand atoms, 64 Myr ligand atoms,
+50 mM MOPS, 30 mM sodium fluoride, 30 mM sodium              88 water molecules and 88 atoms of other molecules.
+bromide, 30 mM sodium iodide, 12.5% vol/vol MPD,             The final crystallographic R factor is 0.21 (Rfree 0.28).
+12.5% wt/vol PEG 1000, 12.5% w/v PEG 3350 pH 7.5.            The final model of the binary complex hSA-Myr con-
+For X-ray data collection, crystals were mounted on          tains 4,642 protein atoms, 96 Myr ligand atoms, 23 water
+LithoLoops (Molecular Dimensions Ltd.), soaked in            molecules and 48 atoms of other molecules. The final
+cryoprotectant solution (crystallization buffer added        crystallographic R factor is 0.22 (Rfree 0.29).
+with 20% vol/vol ethylene glycol) and flash frozen in        Geometrical parameters of the two models are as
+liquid nitrogen.                                             expected or better for this resolution. The solvent
+                                                             excluded volumes and the corresponding buried
+                                                             surfaces were calculated using PISA software42 and a
+4.4 | X-ray diffraction data collection                      spherical probe of 1.5 Å radius. Intra-molecular and
+and processing                                               inter-molecular hydrogen bond interactions were ana-
+                                                             lyzed by PROFUNC,43 LIGPLOT+44 and PYMOL45 soft-
+X-ray diffraction data of the complexes were collected at    ware. The interactions established by PFOA atoms were
+the i03 and i04 beamline of Diamond Light Source Ltd         calculated using CLICK server.46 Structural alignments
+MASO ET AL.                                                                                                          839
+
+
+
+were performed using GESAMT.47 Protein Data Bank             AUTHOR CONTRIBUTIONS
+(PDB) identification codes for hSA-PFOA-Myr ternary          Lorenzo Maso: Conceptualization; data curation; formal
+complex and for hSA-Myr binary complex are 7AAE              analysis; investigation; methodology; writing-original
+and 7AAI, respectively.                                      draft; writing-review and editing. Matteo Trande: Con-
+                                                             ceptualization; data curation; formal analysis; investiga-
+                                                             tion; methodology; writing-original draft; writing-review
+4.6 | Isothermal titration calorimetry                       and editing. Stefano Liberi: Data curation; formal analy-
+                                                             sis; investigation; methodology; writing-review and
+ITC experiments were performed using a Microcal              editing. Giulia Moro: Data curation; formal analysis;
+PEAQ-ITC instrument (Malvern Panalytical). Recombi-          investigation; methodology; writing-review and editing.
+nant dhSA (120 μM), PFOA (4 mM), ibuprofen (4 mM)            Elise Daems: Data curation; formal analysis; investiga-
+and 3-carboxy-4-methyl-5-propyl-2-furanpropionic acid        tion; methodology; writing-original draft. Sara Linciano:
+(CMPF, 4 mM) were dissolved in 50 mM NaPi, 100 mM            Data curation; formal analysis; investigation; methodol-
+NaCl, pH 7.4, while warfarin (8 mM) and iodipamide           ogy; writing-original draft. Frank Sobott: Data curation;
+(4 mM) were dissolved in the same buffer including 2.5%      formal analysis; investigation; methodology; writing-
+vol/vol DMSO to improve solubility. All working solu-        original draft. Sonia Covaceuszach: Data curation; for-
+tions were properly degassed. Titrations were carried out    mal analysis; investigation; methodology; writing-original
+at different temperature values ranging from 12 to 37 C     draft. Alberto Cassetta: Data curation; formal analysis;
+and 750 rpm stirring rate to ensure rapid mixing. A vol-     investigation; methodology; writing-original draft. Silvano
+ume of 280 μl of dhSA in the cell was titrated with 40 μl    Fasolato: Investigation; methodology; resources; writing-
+of PFOA, ibuprofen, CMPF, warfarin or iodipamide. The        original draft. Ligia Moretto: Project administration;
+injection volume was 1.5 μl and a 120 s interval between     resources; supervision; writing-original draft. Karolien
+injections was applied to guarantee the equilibrium at       De Wael: Project administration; resources; writing-
+each titration point. Each titration involved a total of     original draft; writing-review and editing. Laura Cen-
+25 independent stepwise additions. Initial injection vol-    dron:     Conceptualization;      project   administration;
+ume (0.4 μl) was excluded from the analysis. The heats of    resources; supervision; writing-original draft; writing-
+ligands dilutions were subtracted in all experiments.        review and editing. Alessandro Angelini: Conceptualiza-
+Competition experiments were conducted by adding in          tion; project administration; resources; supervision;
+the cell saturating concentrations of each single molecule   writing-original draft; writing-review and editing.
+(ibuprofen = 250 μM; CMPF = 250 μM; warfarin =
+200 μM; iodipamide = 600 μM) and titrating PFOA              CONFLICT OF INTEREST
+(4 mM). Data were analyzed using the MicroCal PEAQ-          The authors declare no conflicting interests.
+ITC Evaluation software (Malvern). Integrated heat sig-
+nals were fitted to a “one set of sites” or a “two set of    DATA AVAILABILITY STATEMENT
+sites” binding models. Values for the affinity constant      Atomic coordinates and structure factors were deposited
+(KA = KD -1) and enthalpy change (ΔH) together with the      into the Protein Data Bank under the accession codes
+stoichiometry of the PFOA-dhSA reaction were obtained        7AAE and 7AAI.
+from the curve fitting. Free energy and the entropy
+change (ΔS) were calculated from the Gibbs free energy       ORCID
+(ΔG) relationships: –RTlnKA = ΔG = ΔH–TΔS.                   Lorenzo Maso https://orcid.org/0000-0002-3380-2902
+                                                             Matteo Trande https://orcid.org/0000-0002-8602-047X
+A C K N O WL E D G M E N T S                                 Stefano Liberi https://orcid.org/0000-0003-3858-6919
+We thank Prof. G. Pasqual and Prof. G. Zanotti for crit-     Giulia Moro https://orcid.org/0000-0003-4383-936X
+ical reading of this manuscript. Furthermore, we are         Elise Daems https://orcid.org/0000-0003-3910-3149
+grateful to Filippo Vascon all of the group members for      Sara Linciano https://orcid.org/0000-0003-4192-4421
+helpful discussions and technical assistance. The            Frank Sobott https://orcid.org/0000-0001-9029-1865
+authors would like to thank the staff of beamline I03        Sonia Covaceuszach https://orcid.org/0000-0001-7453-
+and I04 of Diamond Light Source Ltd (DLS,                    1099
+Oxfordshire, UK; proposal MX21741) for assistance            Alberto Cassetta https://orcid.org/0000-0002-8600-4162
+with crystal testing and data collection. The financial      Silvano Fasolato https://orcid.org/0000-0002-5730-2267
+contribution from the Fund for Scientific Research           Ligia M. Moretto https://orcid.org/0000-0002-4127-6957
+(FWO) Flanders to E.D. and K.D.W is gratefully               Karolien De Wael https://orcid.org/0000-0003-4495-
+acknowledged.                                                0748
+840                                                                                                                            MASO ET AL.
+
+
+
+Laura Cendron https://orcid.org/0000-0002-0125-0461                       A comparison of analytical methods. Anal Chem. 2010;82:
+Alessandro Angelini https://orcid.org/0000-0001-5923-                     974–981.
+3843                                                                  19. Bischel HN, MacManus-Spencer LA, Luthy RG. Noncovalent
+                                                                          interactions of long-chain perfluoroalkyl acids with serum
+                                                                          albumin. Environ Sci Technol. 2010;44:5263–5269.
+R EF E RE N C E S                                                     20. Beesoon S, Martin JW. Isomer-specific binding affinity of
+ 1. Buck RC, Franklin J, Berger U, et al. Perfluoroalkyl and poly-        perfluorooctanesulfonate (PFOS) and perfluorooctanoate
+    fluoroalkyl substances in the environment: Terminology, clas-         (PFOA) to serum proteins. Environ Sci Technol. 2015;49:
+    sification, and origins. Integr Environ Assess Manag. 2011;7:         5722–5731.
+    513–541.                                                          21. Chi Q, Li Z, Huang J, Ma J, Wang X. Interactions of
+ 2. Sznajder-Katarzy nska K, Surma M, Cieslik I. A review of            perfluorooctanoic acid and perfluorooctanesulfonic acid with
+    perfluoroalkyl acids (PFAAs) in terms of sources, applications,       serum albumins by native mass spectrometry, fluorescence and
+    human exposure, dietary intake, toxicity, legal regulation, and       molecular docking. Chemosphere. 2018;198:442–449.
+    methods of determination. J Chem. 2019;2019:2717528.              22. Chen H, Wang Q, Cai Y, Yuan R, Wang F, Zhou B. Investiga-
+ 3. Li K, Gao P, Xiang P, Zhang X, Cui X, Ma LQ. Molecular                tion of the interaction mechanism of perfluoroalkyl carboxylic
+    mechanisms of PFOA-induced toxicity in animals and humans:            acids with human serum albumin by spectroscopic methods.
+    Implications for health risks. Environ Int. 2017;99:43–54.            Int J Environ Res Public Health. 2020;17:1319.
+ 4. US Environmental Protection Agency. (2016) Health Effects         23. Chen YM, Guo LH. Fluorescence study on site-specific binding
+    Support Document for Perfluorooctanoic Acid (PFOA).                   of perfluoroalkyl acids to human serum albumin. Arch Toxicol.
+ 5. ATSDR. (2018) Toxicological profile for Perfluoroalkyls. (Draft       2009;83:255–261.
+    for Public Comment).                                              24. Moro G, Bottari F, Liberi S, et al. Covalent immobilization of
+ 6. Pérez F, Nadal M, Navarro-Ortega A, et al. Accumulation of            delipidated human serum albumin on poly(pyrrole-2-carbox-
+    perfluoroalkyl substances in human tissues. Environ Int. 2013;        ylic) acid film for the impedimetric detection of perfluorooc-
+    59:354–362.                                                           tanoic acid. Bioelectrochemistry. 2020;134:107540.
+ 7. Pizzurro DM, Seeley M, Kerper LE, Beck BD. Interspecies dif-      25. Curry S, Mandelkow H, Brick P, Franks N. Crystal structure of
+    ferences in perfluoroalkyl substances (PFAS)toxicokinetics and        human serum albumin complexed with fatty acid reveals an
+    application to health-based criteria. Regul Toxicol Pharmacol.        asymmetric distribution of binding sites. Nat Struct Biol. 1998;
+    2019;106:239–250.                                                     5:827–835.
+ 8. Steenland K, Fletcher T, Savitz DA. Epidemiologic evidence on     26. Luo Z, Shi X, Hu Q, Zhao B, Huang M. Structural evidence of
+    the health effects of perfluorooctanoic acid (PFOA). Environ          perfluorooctane sulfonate transport by human serum albumin.
+    Health Perspect. 2010;118:1100–1108.                                  Chem Res Toxicol. 2012;25:990–992.
+ 9. Peters T. All about albumin: Biochemistry, genetics, and medi-    27. Ghuman J, Zunszain PA, Petitpas I, Bhattacharya AA,
+    cal applications. Diego, CA: Acad. Press, 1996.                       Otagiri M, Curry S. Structural basis of the drug-binding
+10. Curry S. Lessons from the crystallographic analysis of small          specificity of human serum albumin. J Mol Biol. 2005;
+    molecule binding to human serum albumin. Drug Metab Phar-             353:38–52.
+    macokinet. 2009;24:342–357.                                       28. Ràfols C, Zarza S, Bosch E. Molecular interactions between
+11. Bhattacharya AA, Grüne T, Curry S. Crystallographic analysis          some non-steroidal anti-inflammatory drugs (NSAID's) and
+    reveals common modes of binding of medium and long-chain fatty        bovine (BSA) or human (HSA) serum albumin estimated by
+    acids to human serum albumin. J Mol Biol. 2000;303:721–732.           means of isothermal titration calorimetry (ITC) and frontal
+12. Spector AA. Fatty acid binding to plasma albumin. J Lipid Res.        analysis capillary electrophoresis (FA/CE). Talanta. 2014;130:
+    1975;16:165–179.                                                      241–250.
+13. Kragh-Hansen U, Watanabe H, Nakajou K, Iwao Y, Otagiri M.         29. Zaidi N. Khan RH. A biophysical insight into structural and
+    Chain length-dependent binding of fatty acid anions to human          functional state of human serum albumin in uremia mimic
+    serum albumin studied by site-directed mutagenesis. J Mol             milieu. Int J Biol Macromol. 2019;31:697–705.
+    Biol. 2006;363:702–712.                                           30. Ràfols C, Amézqueta S, Fuguet E, Bosch E. Molecular interac-
+14. Jones PD, Hu W, De Coen W, Newsted JL, Giesy JP. Binding of           tions between warfarin and human (HSA) or bovine (BSA)
+    perfluorinated fatty acids to serum proteins. Environ Toxicol         serum albumin evaluated by isothermal titration calorimetry
+    Chem. 2003;22:2639–2649.                                              (ITC), fluorescence spectrometry (FS) and frontal analysis cap-
+15. Forsthuber M, Kaiser AM, Granitzer S, et al. Albumin is the           illary electrophoresis (FA/CE). J Pharm Biomed Anal. 2018;
+    major carrier protein for PFOS, PFOA, PFHxS, PFNA and                 150:452–459.
+    PFDA in human plasma. Environ Int. 2020;137:105324.               31. Panini P, Chopra D. Understanding of noncovalent interactions
+16. Liu X, Fang M, Xu F, Chen D. Characterization of the binding          involving organic fluorine, in hydrogen bonded supramolecular
+    of per- and poly-fluorinated substances to proteins: A methodo-       structures. Lecture Notes Chem. 2015;87:37–67.
+    logical review. Trends Anal Chem. 2019;116:177–185.               32. Bojesen E, Bojesen IN. Albumin binding of long-chain fatty
+17. Wu LL, Gao HW, Gao NY, Chen FF, Chen L. Interaction of                acids: Thermodynamics and kinetics. J Phys Chem. 1996;100:
+    perfluorooctanoic acid with human serum albumin. BMC                  17981–17985.
+    Struct Biol. 2009;9:1–7.                                          33. Dalvi VH, Rossky PJ. Molecular origins of fluorocarbon
+18. MacManus-Spencer LA, Tse ML, Hebert PC, Bischel HN,                   hydrophobicity. Proc Natl Acad Sci U S A. 2010;107:
+    Luthy RG. Binding of perfluorocarboxylates to serum albumin:          13603–13607.
+MASO ET AL.                                                                                                                         841
+
+
+
+34. Zhang X, Chen L, Fei XC, Ma YS, Gao HW. Binding of PFOS            43. Laskowski RA, Watson JD, Thornton JM. ProFunc: A server
+    to serum albumin and DNA: Insight into the molecular toxicity          for predicting protein function from 3D structure. Nucleic
+    of perfluorochemicals. BMC Mol Biol. 2009;10:1–12.                     Acids Res. 2005;33:89–93.
+35. Liu Y, Cao Z, Zong W, Liu R. Interaction rule and mechanism        44. Laskowski RA, Swindells MB. LigPlot+: Multiple ligand-
+    of perfluoroalkyl sulfonates containing different carbon chains        protein interaction diagrams for drug discovery. J Chem Inf
+    with human serum albumin. RSC Adv. 2017;7:24781–24788.                 Model. 2011;51:2778–2786.
+36. Chen RF. Removal of fatty acids from serum albumin by char-        45. The PyMOL Molecular Graphics System, Version 2.0.
+    coal treatment. J Biol Chem. 1967;242:173–181.                         Schrodinger LLC.
+37. Potterton L, Agirre J, Ballard C, Cowtan K, Dodson E,              46. Nguyen MN, Tan KP, Madhusudhan MS. CLICK–topology-
+    Evans PR, Jenkins HT, Keegan R, Krissinel E, Stevenson K,              independent comparison of biomolecular 3D structures.
+    Lebedev A, McNicholas SJ, Nicholls RA, Noble M, Pannu NS,              Nucleic Acids Res. 2011;39:W24–W28.
+    Roth C, Sheldrick G, Skubak P, Turkenburg J, Uski V, Von           47. Krissinel E. Enhanced fold recognition using efficient short
+    Delft F, Waterman D, Wilson K, Winn M, Wojdyr M. CCP4i2:               fragment clustering. J Mol Biochem. 2012;1:76–85.
+    The new graphical user interface to the CCP4 program suite.
+    Acta Cryst D 2018;74:68–84.
+38. McCoy AJ, Grosse-Kunstleve RW, Adams PD, Winn MD,                  SU PP O R TI N G I N F O RMA TI O N
+    Storoni LC, Read RJ. Phaser crystallographic software. J Appl      Additional supporting information may be found online
+    Cryst. 2007;40:658–674.                                            in the Supporting Information section at the end of this
+39. Vagin AA, Steiner RA, Lebedev AA, et al. REFMAC5 dictio-           article.
+    nary: Organization of prior chemical knowledge and guidelines
+    for its use. Acta Cryst D. 2004;60:2184–2195.
+40. Adams PD, Afonine PV, Bunkóczi G, et al. PHENIX: A com-               How to cite this article: Maso L, Trande M,
+    prehensive Python-based system for macromolecular structure           Liberi S, et al. Unveiling the binding mode of
+    solution. Acta Cryst D. 2010;66:213–221.                              perfluorooctanoic acid to human serum albumin.
+41. Emsley P, Lohkamp B, Scott WG, Cowtan K. Features and
+                                                                          Protein Science. 2021;30:830–841. https://doi.org/
+    development of Coot. Acta Cryst D. 2010;66:486–501.
+42. Krissinel E, Henrick K. (2007) inference of macromolecular
+                                                                          10.1002/pro.4036
+    assemblies from crystalline state. J Mol Biol. 2007;372:774–797.
+
