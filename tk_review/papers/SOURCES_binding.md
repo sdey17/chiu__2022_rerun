@@ -7,7 +7,7 @@ relevant proteins (globulins, L-FABP, TTR/TBG, thyroid hormone receptor, PPARα,
 Retrieval dates: all attempts 2026-10-01.
 Retrieval route unless stated: Europe PMC REST API
 (`/search` for metadata+abstract, `/{PMCID}/fullTextXML` for full text with tables).
-Files written to `pfas_tk_review/papers/`.
+Files written to `tk_review/papers/`.
 
 **Important caveat on PDFs:** every attempt to download a PDF from
 `https://www.ncbi.nlm.nih.gov/pmc/articles/{PMCID}/pdf/` and from the Europe PMC
@@ -41,7 +41,7 @@ tables flattened and appended at the end of each file under
 |---|---|---|---|
 | `literature/fulltext/Fischer et al. 2024 Environ Sci Technol.txt` | Fischer FC, Ludtke S, Thackray C, Pickard HM, Haque F, Dassuncao C, Endo S, Schaider L, Sunderland EM. Binding of PFAS to Serum Proteins: Implications for Toxicokinetics in Humans. Environ Sci Technol. 2024;58:1055–1063. | 10.1021/acs.est.3c07415 | SUCCESS — **Table S2 fully recovered** (log D_C18/w, D_HSA/w, D_BSA/w, D_glob/w, D_serum/w for 32 PFAS). Column order verified by block counting (11 carboxylates / 7 sulfonates / 4 sulfonamides per column). |
 | `literature/fulltext/Fischer 2025.txt` | Fischer FC, Thackray C, Ferguson N, et al. Understanding Mechanisms of PFAS Absorption, Distribution, and Elimination Using a PBTK Model. Environ Sci Technol. 2025;59:13240–13250. | 10.1021/acs.est.5c05473 | SUCCESS — read for TK linkage (sensitivity of elimination to albumin binding vs phospholipid binding vs transporters). |
-| `pfas_tk_review/papers/Ryu 2024 unbound fractions PFAS rodent tissues(_raw_xml).txt` | Ryu S, Burchett W, Zhang S, et al. Unbound fractions of PFAS in human and rodent tissues: rat liver a suitable proxy for evaluating emerging PFAS? Environ Sci Technol. 2024;58:14641–14650. | 10.1021/acs.est.4c04050 | SUCCESS (file placed by a parallel work stream; read here for tissue f_unbound). PMID 39161261, PMC11825104. |
+| `tk_review/papers/Ryu 2024 unbound fractions PFAS rodent tissues(_raw_xml).txt` | Ryu S, Burchett W, Zhang S, et al. Unbound fractions of PFAS in human and rodent tissues: rat liver a suitable proxy for evaluating emerging PFAS? Environ Sci Technol. 2024;58:14641–14650. | 10.1021/acs.est.4c04050 | SUCCESS (file placed by a parallel work stream; read here for tissue f_unbound). PMID 39161261, PMC11825104. |
 
 ## C. Abstract-only (paywalled; metadata + abstract via Europe PMC `/search?resultType=core`)
 

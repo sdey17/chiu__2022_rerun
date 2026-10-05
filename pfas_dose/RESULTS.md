@@ -1,5 +1,10 @@
 # Does PFAS clearance depend on dose?
 
+> Every number below is also in `per_dataset_fits.csv`,
+> `within_study_dose_contrasts.csv` and `equal_duration_dose_slopes.csv`,
+> one row per dataset or contrast, each with a `provenance` field.
+
+
 Two chemicals so far, both male rats. **PFOA yes, PFHxA no.**
 
 | | PFOA | PFHxA |

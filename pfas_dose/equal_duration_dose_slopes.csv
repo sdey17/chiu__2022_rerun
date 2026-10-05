@@ -1,0 +1,7 @@
+chemical,scope,study_hero,follow_up_d,n_doses,dose_range_mgkg,beta,beta_lo_90,beta_hi_90,p_beta_negative,provenance
+PFOA,single study,5916078,50.0,3,6-48,0.358,-0.037,0.730,0.061,"stdout of duration_check.py, captured 2025-10-01; the script needs EPA_REPO and a PyMC refit to reproduce"
+PFOA,single study,6302380,22.0,3,1-25,0.097,-0.168,0.383,0.224,"stdout of duration_check.py, captured 2025-10-01; the script needs EPA_REPO and a PyMC refit to reproduce"
+PFHxA,single study,2850396,1.0,3,50-300,0.034,-0.37,0.422,0.424,"stdout of duration_check.py, captured 2025-10-01; the script needs EPA_REPO and a PyMC refit to reproduce"
+PFHxA,single study,5916078,1.0,3,40-160,0.104,-0.39,0.551,0.322,"stdout of duration_check.py, captured 2025-10-01; the script needs EPA_REPO and a PyMC refit to reproduce"
+PFOA,"pooled, 2 studies / 6 datasets",,equal within each study,,,0.171,-0.004,0.355,0.05,"stdout of duration_check.py, captured 2025-10-01; the script needs EPA_REPO and a PyMC refit to reproduce"
+PFHxA,"pooled, 2 studies / 6 datasets",,equal within each study,,,0.063,-0.112,0.246,0.26,"stdout of duration_check.py, captured 2025-10-01; the script needs EPA_REPO and a PyMC refit to reproduce"

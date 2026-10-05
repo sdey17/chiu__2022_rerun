@@ -23,24 +23,26 @@ constant is most of the work.
 | if you want… | read |
 |---|---|
 | what the whole project found | [`SUMMARY.md`](SUMMARY.md) — six phases, the short version |
-| the species question answered in full | [`pfas_tk_review/report/REPORT.md`](pfas_tk_review/report/REPORT.md) (~2,000 lines) |
-| that review in two pages | [`pfas_tk_review/EXECUTIVE_SUMMARY.md`](pfas_tk_review/EXECUTIVE_SUMMARY.md) |
-| the whole argument in one figure | [`pfas_tk_review/figures/fig00_master.png`](pfas_tk_review/figures/fig00_master.png) |
+| the species question answered in full | [`tk_review/report/REPORT.md`](tk_review/report/REPORT.md) (~2,000 lines) |
+| that review in two pages | [`tk_review/EXECUTIVE_SUMMARY.md`](tk_review/EXECUTIVE_SUMMARY.md) |
+| the whole argument in one figure | [`tk_review/figures/fig00_master.png`](tk_review/figures/fig00_master.png) |
 | to learn toxicokinetic modelling | [`tk_learning/`](tk_learning/) — twelve runnable lessons |
 | the data behind the lessons | [`tk_learning/data/SOURCES.md`](tk_learning/data/SOURCES.md) — nine studies, traced to figure and table |
 
 ## The six strands
 
 ```
-chiu_replication/     Chiu et al. 2022's human Bayesian model, re-fitted in PyMC
-tk_learning/          twelve lessons: C(t)=C0·exp(-kt) through to a working PBPK model
-pfas_dose/            EPA animal PK pipeline; does clearance depend on dose within a species?
-species_dose/         does dose explain the human/rodent gap? (no — ~13% at best)
-literature/           23 human studies appraised by design rather than reputation
-pfas_tk_review/       the species question at the source: 186 full texts, 1,438 database rows
+chiu_replication/   Chiu et al. 2022's human Bayesian model, re-fitted in PyMC
+tk_learning/        twelve lessons: C(t)=C0·exp(-kt) through to a working PBPK model
+pfas_dose/          EPA animal PK pipeline; does clearance depend on dose within a species?
+species_dose/       does dose explain the human/rodent gap? (no — ~13% at best)
+literature/         23 human studies appraised by design rather than reputation
+tk_review/          the species question at the source: 186 full texts, 1,438 database rows
 ```
 
-Each folder has its own README with the detail. In brief:
+`tk_learning/` and `tk_review/` are the pair to know: the first teaches the
+methods on real animal data, the second applies them to the published
+literature. Each folder has its own README with the detail. In brief:
 
 ### `chiu_replication/` — one paper, reproduced and debugged
 
@@ -89,7 +91,7 @@ need a volume of distribution; mass-balance designs need both a Vd *and* a
 complete excretion accounting, each uncertain 2–6×, multiplying straight
 into the answer.
 
-### `pfas_tk_review/` — the species question, answered
+### `tk_review/` — the species question, answered
 
 186 full texts read, 24 per-paper extractions, 1,438 rows across four
 consolidated tables, 16 figures, 33 runnable scripts. Headline results:
@@ -134,7 +136,7 @@ cd tk_learning && pip install -r requirements.txt
 python 02_explore.py && python test_lessons.py
 
 # the review's analyses (numpy / pandas / matplotlib / scipy)
-cd pfas_tk_review && python scripts/qsar_endpoint_table.py
+cd tk_review && python scripts/qsar_endpoint_table.py
 ```
 
 ## Licensing and attribution
@@ -145,6 +147,6 @@ work is at [wachiuphd/2022-Bayes-PFAS-PK](https://github.com/wachiuphd/2022-Baye
 Animal PK curves come from the EPA's
 [CPHEA-Animal-PFAS-PK](https://github.com/USEPA/CPHEA-Animal-PFAS-PK)
 database; `tk_learning/data/SOURCES.md` traces each one to its original
-study. PDFs under `pfas_tk_review/papers/` are retrieved copies of
+study. PDFs under `tk_review/papers/` are retrieved copies of
 third-party publications, kept for extraction provenance and subject to
 their publishers' terms.

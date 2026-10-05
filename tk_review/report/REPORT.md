@@ -21,7 +21,7 @@ practical summary; section 11 takes the same machinery and asks which *endpoint*
 a structure-activity model would have to predict, which turns out to change the
 species answer too.
 
-Code blocks are runnable from `pfas_tk_review/`. Every number traces to
+Code blocks are runnable from `tk_review/`. Every number traces to
 `db/*.csv`, and every row there carries a PMID or DOI and the table it came
 from.
 
@@ -53,7 +53,7 @@ of the disagreement in this literature is an argument about an assumption, not
 about data.
 
 ```bash
-cd pfas_tk_review
+cd tk_review
 python3 scripts/human_parameter_reconciliation.py
 ```
 

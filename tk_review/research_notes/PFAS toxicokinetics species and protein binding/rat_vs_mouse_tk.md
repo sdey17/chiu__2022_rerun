@@ -1,9 +1,9 @@
 # Rat vs mouse PFAS toxicokinetics: measured half-lives and the renal-transporter mechanism of the rat sex difference
 
 Companion data files written by this researcher:
-- `pfas_tk_review/db/animal_halflife_measured.csv` (217 rows; measured half-lives/clearances by chemical, species, strain, sex, dose, route, plus the Zurlinden/EPA modelled values flagged as `MODELLED, not measured`)
-- `pfas_tk_review/db/transporter_mechanism.csv` (83 rows; transporter, gene, species, sex, Km/Vmax, direction, hormone regulation, evidence type)
-- `pfas_tk_review/papers/SOURCES_rat_mouse.md` (full retrieval log, including every failure)
+- `tk_review/db/animal_halflife_measured.csv` (217 rows; measured half-lives/clearances by chemical, species, strain, sex, dose, route, plus the Zurlinden/EPA modelled values flagged as `MODELLED, not measured`)
+- `tk_review/db/transporter_mechanism.csv` (83 rows; transporter, gene, species, sex, Km/Vmax, direction, hormone regulation, evidence type)
+- `tk_review/papers/SOURCES_rat_mouse.md` (full retrieval log, including every failure)
 
 ## Q1. What are the measured serum/plasma elimination half-lives in rat and mouse, by chemical, sex, strain, dose and route?
 
