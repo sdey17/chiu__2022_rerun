@@ -24,6 +24,7 @@ Needs: reportlab.  Run:  python3 scripts/make_summary_pdf.py
 
 import csv
 import os
+import re
 import sys
 
 from reportlab.lib import colors
@@ -151,10 +152,13 @@ def _styles():
         "eq": ParagraphStyle("e", fontName="Times-Italic", fontSize=11.5,
                              leading=15, textColor=INK, alignment=1,
                              spaceBefore=5, spaceAfter=7),
+        # Reference entries are set ragged-right, not justified. A DOI is an
+        # unbreakable token, so justifying pushes it to the next line and
+        # stretches the one before it into wide gaps -- which is what
+        # happened to the Kudo 2001 and Moller 2024 entries.
         "ref": ParagraphStyle("r", fontSize=8.5, leading=10.8,
-                              alignment=TA_JUSTIFY, spaceAfter=3.5,
-                              leftIndent=7 * mm, firstLineIndent=-7 * mm,
-                              **base),
+                              spaceAfter=3.5, leftIndent=7 * mm,
+                              firstLineIndent=-7 * mm, **base),
         "cell": ParagraphStyle("tc", fontName="Times-Roman", fontSize=8.3,
                                leading=10.2, textColor=INK),
         "cellh": ParagraphStyle("th", fontName="Times-Bold", fontSize=8.1,
@@ -424,6 +428,7 @@ def story_2():
 
     # ===================== 3. where the difference lives =====================
     out += [
+        KeepTogether([
         p("3. Where the species difference lives: distribution or clearance?",
           "h1"),
         p("The identity in section 1 makes this testable rather than "
@@ -437,7 +442,7 @@ def story_2():
             ["span across all six datasets", "<b>1.33 - 2.18&times;</b>",
              "<b>0.78 - 44.3&times;</b>"],
             ["", "a 1.6&times; spread", "a 56&times; spread"],
-        ], [62 * mm, (W - 62 * mm) / 2, (W - 62 * mm) / 2]),
+        ], [62 * mm, (W - 62 * mm) / 2, (W - 62 * mm) / 2])]),
         Spacer(1, 3),
         p("The distribution ratio is male-higher in every dataset and never "
           "leaves a narrow band, which is what one would expect of a quantity "
@@ -894,6 +899,7 @@ def story_4():
     # ===================== 12. coverage =====================
     out += [
         p("12. Coverage: how much of the field is empty", "h1"),
+        KeepTogether([
         p("A review that only reports what is known overstates the state of "
           "the field, so the gap was measured. Crossing 39 chemicals by 11 "
           "species by 4 parameters gives 1,716 cells.", "body"),
@@ -904,7 +910,7 @@ def story_4():
             ["PFOS, the best-covered compound in the world", "29 of 44 filled"],
             ["by species: human / rat / mouse / monkey / dog",
              "71 / 61 / 45 / 28 / <b>2</b>"],
-        ], [68 * mm, W - 68 * mm]),
+        ], [68 * mm, W - 68 * mm])]),
         Spacer(1, 3),
         p("Mining four further compilations " + c("atsdr2021", "efsa2020",
                                                   "epa2025pfhxs",
@@ -1027,8 +1033,19 @@ def story_4():
               "through a secondary source were not obtained in the original; "
               "the review does not quote them as if they had been.",
               "caption")]
+    # A few entries point at another reference ("cited via [andersson2025]").
+    # Those are keys, not display text, so resolve them to their numbers now
+    # that the order is final -- otherwise the reader sees an internal key.
+    def resolve(text):
+        def sub(m):
+            key = m.group(1)
+            if key not in _ORDER:
+                raise KeyError(f"reference text points at uncited key {key!r}")
+            return f"[{_ORDER.index(key) + 1}]"
+        return re.sub(r"\[([a-z]+\d{4}[a-z]*)\]", sub, text)
+
     for i, k in enumerate(_ORDER, 1):
-        out.append(p(f"<b>{i}.</b>&nbsp;&nbsp;{REFS[k]}", "ref"))
+        out.append(p(f"<b>{i}.</b>&nbsp;&nbsp;{resolve(REFS[k])}", "ref"))
     unused = [k for k in REFS if k not in _ORDER]
     if unused:
         raise SystemExit(f"unused references (remove or cite): {unused}")
