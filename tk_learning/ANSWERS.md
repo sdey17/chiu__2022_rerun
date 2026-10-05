@@ -204,6 +204,52 @@ elimination information — become nearly irrelevant to the fit.
 
 ---
 
+**(d) Fit Vd and k directly; how often does it fail?**
+
+Almost never, for this model. Sweeping the start over five orders of
+magnitude in both parameters gave 0 failures in 28 starts on the clean
+9-point monkey curve and 0 in 40 on a noisy 4-point one. The reason is that
+`Vd` enters as `dose/Vd`, so the objective has a barrier at zero:
+
+| Vd | sum of squares |
+|---|---|
+| 0.18 | 0.0 |
+| 0.01 | 33.4 |
+| 1e-5 | 384.0 |
+| 1e-8 | 1116.3 |
+
+The gradient points away from zero long before a step could cross it, so the
+positivity guard the log transform provides is real but rarely load-bearing
+here. What the log parameterisation *does* buy on this fit is the shape of the
+reported uncertainty: `pcov` is then the covariance of the logs, so the
+interval is a fold-factor (`x/ 1.05`) rather than a symmetric width — which is
+how a volume or a rate constant actually behaves.
+
+Evaluate the model by hand at a negative Vd and you get the second half of the
+answer:
+
+```
+prediction with Vd = -0.18 : [-55.37 -54.39 -51.03]
+np.log of it               : [nan nan nan]
+exception raised?          : no — RuntimeWarning: invalid value encountered in log
+```
+
+It does **not** raise. It returns `nan` silently, `curve_fit` sees non-finite
+residuals, and you get either an unhelpful error or a fit that is quietly
+wrong. A crash would be better.
+
+So the outside `np.log` is the thing that breaks, and dropping it is what lets
+you watch the optimiser's trajectory without nan — but the inside `np.exp` is
+the guard that stops the trajectory going there in the first place. They are
+not interchangeable.
+
+Where the guard stops being theoretical is a model that can predict a
+non-positive concentration: add `+ Cbgd` and the background term has no
+barrier at zero at all. (In that three-parameter fit on six noisy points you
+will also find the parameters poorly identified — Cbgd drifting to 7.2 against
+a true 2.0, and k to 0.124 against 0.085 — which is lesson 05's subject
+arriving early.)
+
 ## Lesson 05 — Oral dosing
 
 **1. Why is tmax later when ka is smaller?**

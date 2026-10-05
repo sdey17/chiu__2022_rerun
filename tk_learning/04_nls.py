@@ -30,9 +30,34 @@ t, C, DOSE = one.time_d.values, one.conc_mgL.values, 10.0
 # A. The fit, on the log scale
 # ----------------------------------------------------------------------
 def model_log(t, ln_Vd, ln_k):
-    """Predict ln C. Fitting the LOG of the parameters keeps them
-    positive without constraints, and fitting the LOG of the prediction
-    is what makes the residuals multiplicative (lesson 03, trap 2)."""
+    """Predict ln C.
+
+    There are two logs here and they do unrelated jobs.
+
+    The np.exp INSIDE is a parameter transform: curve_fit optimises
+    ln_Vd and ln_k, so popt comes back as logs and np.exp(popt) is what
+    recovers Vd and k. It also makes pcov the covariance of the LOGS, so
+    exp(1.96*se) is a fold-factor rather than a +/- width -- which is the
+    right shape for a PK parameter, and the reason the print below says
+    "x/" and not "+/-".
+
+    The np.log OUTSIDE is an error-model transform: it is what makes the
+    residuals multiplicative (lesson 03, trap 2).
+
+    The usual justification for the inside one is that it keeps the
+    parameters positive without constraints. True, but for THIS model it
+    almost never binds: Vd enters as dose/Vd, so the objective blows up
+    as Vd -> 0 and the optimiser is repelled before it can cross. Fitting
+    Vd and k directly survived 68 starting points spanning five orders of
+    magnitude, over both a clean 9-point curve and a noisy 4-point one,
+    without a single failure. Exercise (d) has you check that.
+
+    Where it does bite is a model that can predict a NON-POSITIVE
+    concentration -- anything with an additive term, or the oral model
+    when ka approaches k. Then the outside np.log returns nan rather than
+    raising, curve_fit sees non-finite residuals, and you get either an
+    unhelpful error or silent garbage. A nan is worse than a crash.
+    """
     return np.log(iv_1comp(t, DOSE, np.exp(ln_Vd), np.exp(ln_k)))
 
 
@@ -201,4 +226,12 @@ EXERCISES
   c. Change model_log to fit on the linear scale instead (return the
      concentration, pass C not log C). Which points now dominate the
      fit, and what happens to the half-life?
+  d. Fit Vd and k DIRECTLY (drop the np.exp inside, pass p0 untransformed)
+     and sweep the starting guess over several orders of magnitude. How
+     often does it actually fail? Then evaluate the model by hand at a
+     negative Vd and look at what np.log returns -- does it raise, or
+     return something that quietly poisons the fit? Finally, add an
+     additive background term, C = (dose/Vd)*exp(-k*t) + Cbgd, and try
+     again: Cbgd has no barrier at zero, which is where the positivity
+     argument stops being theoretical.
 """)
