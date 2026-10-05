@@ -1,5 +1,18 @@
 # Where these data came from
 
+## How to cite it
+
+**EPA compiled these data; they did not generate them.** Citing only
+the EPA paper under-credits the nine laboratories that ran the
+experiments. Cite the compilation, and cite the primary studies for any
+specific result you lean on:
+
+> Animal serum time-course data were obtained from the US EPA CPHEA
+> PFAS pharmacokinetic compilation (Zurlinden et al. 2025,
+> *Toxicol Appl Pharmacol* 499:117336;
+> https://github.com/USEPA/CPHEA-Animal-PFAS-PK), which digitised and
+> transcribed them from the primary studies listed below.
+
 Nothing in `data/` is synthetic, and nothing in it originates with this
 repository. Every row is a serum concentration measured in a published
 animal study, digitised by the US EPA, and re-exported here in a flat
@@ -46,9 +59,16 @@ but worth knowing.
 ## Link 2 — the EPA digitisation
 
 **Repository:** https://github.com/USEPA/CPHEA-Animal-PFAS-PK
-**Paper:** "Estimation of species- and sex-specific PFAS pharmacokinetics
-in mice, rats, and non-human primates using a Bayesian hierarchical
-methodology", EPA ORD/CPHEA — [PMC12172007](https://pmc.ncbi.nlm.nih.gov/articles/PMC12172007/)
+**Paper:** Zurlinden TJ, Dzierlenga MW, Kapraun DF, Ring C, Bernstein AS,
+Schlosser PM, Morozov V (2025). Estimation of species- and sex-specific
+PFAS pharmacokinetics in mice, rats, and non-human primates using a
+Bayesian hierarchical methodology. *Toxicology and Applied Pharmacology*
+499:117336. [doi:10.1016/j.taap.2025.117336](https://doi.org/10.1016/j.taap.2025.117336)
+· open access at [PMC12172007](https://pmc.ncbi.nlm.nih.gov/articles/PMC12172007/)
+
+Their own methods confirm the account below: "Graphical extraction of
+concentration vs. time data was conducted using WebPlot Digitizer", and
+their data availability statement points at the repository.
 **Licence:** MIT, © U.S. Federal Government
 
 **EPA ships the extracted data as plain CSVs**, one per study, in
