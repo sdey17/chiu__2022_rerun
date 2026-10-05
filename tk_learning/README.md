@@ -118,6 +118,13 @@ look before running anything. The ones that carry the most weight:
 ([USEPA/CPHEA-Animal-PFAS-PK](https://github.com/USEPA/CPHEA-Animal-PFAS-PK)),
 so the lessons run with no database and no network.
 
+**Every row traces to a published study.** The `study` column holds EPA
+HERO reference IDs, which resolve at
+`hero.epa.gov/hero/index.cfm/reference/details/reference_id/<ID>`.
+Full citations for all nine source papers, the digitisation chain, and
+four independent ways to check it are in
+[`data/PROVENANCE.md`](data/PROVENANCE.md).
+
 | file | rows | experiments | note |
 |---|---|---|---|
 | `PFOA_Male_primate.csv` | 43 | 1 | 10 mg/kg IV, 3 monkeys, 123 days — the cleanest decay curve there is |
