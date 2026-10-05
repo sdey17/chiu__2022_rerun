@@ -18,7 +18,7 @@ assumed one is the one everybody quotes.
 
 ---
 
-## The five findings
+## The seven findings
 
 ### 1. The species difference is a clearance difference, and it is a female one
 
@@ -108,6 +108,69 @@ compound in the world, fills 29 of 44. By species: human 71, rat 61, mouse 45,
 monkey 28 — then **dog 2**. Mining four more compilations moved coverage from
 143 to 156 cells, so the hole is real, not a search artefact.
 
+### 6. Humans run two near-complete reabsorption loops, not one
+
+The renal axis in finding 2 leaves a residual: predicted human half-life comes
+out **4.3× short** of observation. The missing term is enterohepatic. Harada 2007
+sampled serum and bile from four gallstone-surgery patients and measured a
+**biliary resorption rate of 0.97**. Bile PFOS (27.9 ng/mL) actually *exceeds*
+serum (23.2), so bile is a real excretion route — but 97% of what is secreted is
+reabsorbed from the gut.
+
+| loop | fraction reabsorbed | source |
+|---|---|---|
+| renal (PFOA) | **99.94%** | Han 2012 Table 4 |
+| biliary (PFOS) | **97%** | Harada 2007, n = 4 |
+
+Both are near-unity, both lengthen the human half-life, and **both are
+interruptible** — which is why bile-acid sequestrants work. Delaere 2025:
+treated PFOS half-life **1.2 y** (n = 19) against **7.3 y** under observation
+(n = 9), a 6.1× difference; PFHxS 2.5 y against 9.4 y. Genuis 2010 and Møller
+2024 agree in direction.
+
+It also reconciles the faecal-route dispute without either side being wrong. At
+97% resorption, **gross** biliary flux is large while **net** faecal elimination
+is small — so Andersson, measuring faeces under ongoing intake, saw a large
+signal, and Abraham, following a labelled bolus, saw almost nothing leave that
+way. Different quantities, one reconciling constant.
+
+The caveat is that n = 4, and the number is now load-bearing.
+
+### 7. Half-life is the wrong endpoint for a structure-activity model
+
+Because `t½ = ln2·Vd/CL`, half-life carries a glomerular filtration term that
+differs **6.5×** between mouse and human with no change in chemistry. A
+structural model fitted to it is being asked to absorb body size. The
+replacement is the dimensionless **renal handling ratio**
+
+```
+R = CL_renal / (fu · GFR)
+```
+
+which divides out GFR and the unbound fraction and leaves the transport step.
+`R < 1` is net reabsorption, `R > 1` net secretion, and `R = 1 − FR`, so it is
+finding 2's axis on a scale that neither saturates near 1 nor runs unboundedly
+negative.
+
+On the nine compounds where both terms were measured in one experiment (Argoul
+2026, male mouse), R spans **875×**, and three results constrain any QSAR:
+chain length alone does **not** order it (within the carboxylates the series is
+non-monotonic, and PFHxA crosses into net secretion); the head group carries
+~3× at matched chain length (PFNA vs PFOS, both 8 fluorinated carbons); and
+ether oxygens move it **1.4 log units** at constant chain length, non-monotonically
+(PFHxA secreted, GenX reabsorbed, PFO2OA secreted).
+
+The same construction sharpens finding 4's successor problem. R is linear in
+`1/fu`, so the three human free fractions in the literature give three different
+answers for human PFOA — log10 R of −3.93 (fu 0.10), −3.23 (fu 0.02, assumed),
+−1.72 (fu 0.00061, measured) — and the mouse-to-human gap in the *transport*
+step is correspondingly **354×, 71× or 2.2×**. Under the measured value the
+species difference is almost entirely **binding**, which would mean the
+transporter literature is explaining a quantity that barely differs between the
+species. Stated as a sensitivity, not a result, because the mouse and human
+values come from different methods at different ligand:protein ratios — the
+exact artefact diagnosed above. One single-method `fu` panel would settle it.
+
 ---
 
 ## What this corrects in the published record
@@ -167,9 +230,10 @@ inheritance: PBPK models read ">90%" as "≈90%" and used a free fraction about
 |---|---|
 | `db/combined/` | 1,438 rows in four schemas; 20 chemicals, 8 species groups; every row carries its provenance and primary source. Also one Excel workbook. |
 | `db/primary_2026/` | 24 per-paper extractions from the 25 full texts obtained during this work |
-| `scripts/` | 32 runnable scripts — every figure and table regenerates |
-| `figures/` | 15 figures |
-| `report/REPORT.md` | the full review, ~1,670 lines |
+| `db/qsar/` | per-compound structure descriptors paired with the renal handling ratio (finding 7) |
+| `scripts/` | 34 runnable scripts — every figure and table regenerates |
+| `figures/` | 16 figures; `fig00_master.png` is the whole argument in one panel pair |
+| `report/REPORT.md` | the full review, ~2,000 lines |
 | `SUMMARY.md` | illustrated summary, 29 citations |
 | `WANTED.md` | the papers still unobtainable, and what each would change |
 

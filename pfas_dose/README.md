@@ -21,7 +21,7 @@ These scripts import the EPA repository rather than vendoring it:
 git clone https://github.com/USEPA/CPHEA-Animal-PFAS-PK   # anywhere
 export EPA_REPO=/path/to/CPHEA-Animal-PFAS-PK
 # build their SQLite database once (see their README: auxiliary_notebooks/create_db.ipynb)
-python fit_rat_pfoa.py                      # ~45-60 min, both model structures
+python fit_animal.py                      # ~45-60 min, both model structures
 python dose_analysis.py PFOA_Male_rat_2cmpt.nc
 python plot_dose.py     PFOA_Male_rat_2cmpt.nc
 ```
@@ -31,7 +31,7 @@ affecting the science:
 
 - their data prep needs `pandas < 2.3` (newer pandas rejects an assignment
   in `pfas_prep.py`)
-- `pm.Data(..., mutable=True)` was removed from PyMC; `fit_rat_pfoa.py`
+- `pm.Data(..., mutable=True)` was removed from PyMC; `fit_animal.py`
   wraps `pm.Data` to drop the argument
 - `PyPKMC.py` line ~1143 hardcodes the posterior-predictive dimension name
   `conc_indiv_dim_2`, which newer PyMC no longer produces. Replace the two
@@ -39,7 +39,7 @@ affecting the science:
   `post_pred.conc_summary.dims[-1]`, or sampling results are discarded by
   their own post-processing
 
-`fit_rat_pfoa.py` saves each trace to disk immediately after sampling,
+`fit_animal.py` saves each trace to disk immediately after sampling,
 before that post-processing runs, so a failure there cannot throw away an
 hour of sampling.
 

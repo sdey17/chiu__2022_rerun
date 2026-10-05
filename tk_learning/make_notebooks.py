@@ -270,7 +270,10 @@ def build(path):
             "    os.chdir('..')\n"
             "sys.path.insert(0, os.getcwd())\n"
             "%matplotlib inline\n"
-            "print('working directory:', os.getcwd())"),
+            "# Print the folder name, not the absolute path: the notebooks are\n"
+            "# committed with their outputs, and a machine path would be\n"
+            "# baked in and go stale.\n"
+            "print('working directory:', os.path.basename(os.getcwd()))"),
     })
     for n, cell in enumerate(nb["cells"]):
         cell["id"] = f"{name}-{n:02d}"          # nbformat >= 4.5 requires ids

@@ -25,6 +25,7 @@ constant is most of the work.
 | what the whole project found | [`SUMMARY.md`](SUMMARY.md) — six phases, the short version |
 | the species question answered in full | [`tk_review/report/REPORT.md`](tk_review/report/REPORT.md) (~2,000 lines) |
 | that review in two pages | [`tk_review/EXECUTIVE_SUMMARY.md`](tk_review/EXECUTIVE_SUMMARY.md) |
+| something to print or hand to someone | [`tk_review/report/PFAS_TK_summary.pdf`](tk_review/report/PFAS_TK_summary.pdf) — 6 pages, A4 |
 | the whole argument in one figure | [`tk_review/figures/fig00_master.png`](tk_review/figures/fig00_master.png) |
 | to learn toxicokinetic modelling | [`tk_learning/`](tk_learning/) — twelve runnable lessons |
 | the data behind the lessons | [`tk_learning/data/SOURCES.md`](tk_learning/data/SOURCES.md) — nine studies, traced to figure and table |
@@ -94,7 +95,7 @@ into the answer.
 ### `tk_review/` — the species question, answered
 
 186 full texts read, 24 per-paper extractions, 1,438 rows across four
-consolidated tables, 16 figures, 33 runnable scripts. Headline results:
+consolidated tables, 16 figures, 34 runnable scripts. Headline results:
 
 - **It is clearance, not distribution.** Vd spans 1.33–2.18× between sexes;
   clearance spans 0.78–44.3× and changes sign between species.
