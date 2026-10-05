@@ -160,7 +160,7 @@ if __name__ == "__main__":
    the population mean by an amount that depends on how much data that
    animal has -- automatically, with no tuning. It is the single most
    useful idea in applied Bayesian modelling, and it is exactly what
-   Chiu's three-level human model (../model.py) is doing at scale.
+   Chiu's three-level human model (../chiu_replication/model.py) is doing at scale.
 """)
 
 

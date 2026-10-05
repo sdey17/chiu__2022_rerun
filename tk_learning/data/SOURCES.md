@@ -195,4 +195,4 @@ and `db/primary_2026/lou2009_mouse_tk.csv`.
 | `../pfas_tk_review/db/primary_2026/*.csv` | 24 per-paper extractions made by reading the papers directly, not via EPA | each row carries `source_table` and a PMID or DOI |
 | `../pfas_tk_review/db/cphea_fitted_halflives.csv` | half-lives fitted in this project from the upstream curves | **read `REPORT.md` §8 item 9 first** — the terminal-window selection is biased on biphasic curves |
 | `../pfas_tk_review/db/combined/` | the consolidated 1,438-row database | every row carries `provenance` |
-| `../data/*.R` | Chiu et al. 2022 human population model inputs | the Chiu paper and its SI, both at the repo root |
+| `../../chiu_replication/data/*.R` | Chiu et al. 2022 human population model inputs | the Chiu paper and its SI are in `chiu_replication/paper/` |

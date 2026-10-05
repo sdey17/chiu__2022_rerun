@@ -223,7 +223,7 @@ C(t) = A·exp(-alpha·t) + B·exp(-beta·t),   alpha > beta
 
 The parent repository is what these lessons are preparation for:
 
-- `../model.py` — Chiu et al. 2022's human model: the same one-compartment
+- `../chiu_replication/model.py` — Chiu et al. 2022's human model: the same one-compartment
   equation, with drinking-water input, fitted hierarchically over
   population → study → person. You now have everything needed to read it.
 - `../pfas_dose/` — the EPA animal pipeline: 1- vs 2-compartment chosen by

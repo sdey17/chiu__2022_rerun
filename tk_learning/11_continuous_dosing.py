@@ -16,7 +16,7 @@ Same compartment, same k, same Vd. Only the input term changes:
     DWI  water intake per kg body weight  L/kg/day
     DWI*DWC  daily intake                 ug/kg/day
 
-That second equation IS the model in ../model.py, which Chiu et al.
+That second equation IS the model in ../chiu_replication/model.py, which Chiu et al.
 2022 fitted to four PFAS in exposed US communities. By the end of this
 lesson you will have built it, and the only thing left to add is the
 hierarchy from lesson 06.
@@ -32,7 +32,7 @@ from tk import half_life, clearance
 
 P.setup()
 
-# Chiu's fitted human values for PFOA (Table 3 / ../model.py priors).
+# Chiu's fitted human values for PFOA (Table 3 / ../chiu_replication/model.py priors).
 # Note the units change from the animal lessons: humans are followed for
 # years, so time is in years and concentration in ug/L.
 DWI = np.exp(-4.3955)          # 0.0123 L/kg/day, fixed by Chiu, not fitted
@@ -176,7 +176,7 @@ print("""
 # ----------------------------------------------------------------------
 # D. This is Chiu's model
 # ----------------------------------------------------------------------
-print("D. What ../model.py adds to what you just built\n")
+print("D. What ../chiu_replication/model.py adds to what you just built\n")
 print("""   You now have the kinetic core of Chiu et al. 2022. The published
    model differs in four ways, none of them about the kinetics:
 
@@ -193,7 +193,7 @@ print("""   You now have the kinetic core of Chiu et al. 2022. The published
                   cannot identify intake and volume separately -- the
                   same identifiability problem as F and Vd in lesson 05.
 
-   Read ../model.py now. It should look familiar rather than foreign:
+   Read ../chiu_replication/model.py now. It should look familiar rather than foreign:
    the differential equation is the one in this file.
 """)
 

@@ -1,228 +1,150 @@
-# PFAS half-lives: Chiu et al. 2022 in Python
+# PFAS toxicokinetics: why the half-lives disagree
 
-This repository re-fits the Bayesian toxicokinetic model of Chiu et al. 2022
-(*Environ Health Perspect* 130(12):127001) for four PFAS: PFOA, PFOS, PFNA and
-PFHxS. The original work used MCSim, a C-based simulation tool driven by
-R-like input files ([original repository](https://github.com/wachiuphd/2022-Bayes-PFAS-PK)).
-This version uses [PyMC](https://www.pymc.io/).
+Published PFAS half-lives disagree by orders of magnitude — between humans
+and animals, between rat and mouse, between male and female, and between
+papers describing the same experiment. This repository works out why, one
+quantity at a time, by re-deriving the numbers from the tables they came
+from rather than from the sentences about them.
 
-It reproduces the published half-lives:
+It began as a Python re-fit of one paper (Chiu et al. 2022) and grew into six
+connected strands. The through-line is a single identity:
 
-| PFAS  | This code, median (95% CI) | Paper, Table 3 |
-|-------|----------------------------|----------------|
-| PFOA  | 3.16 (2.65–3.77)  | 3.14 (2.69–3.73) |
-| PFOS  | 3.34 (2.45–4.45)  | 3.36 (2.52–4.42) |
-| PFNA  | 2.28 (1.53–3.19)  | 2.35 (1.65–3.16) |
+```
+t½ = ln2 · Vd / CL
+```
+
+Half-life is not an independent quantity. Any two of the three terms fix the
+third, so nearly every disagreement in this literature turns out to be about
+**which two were measured and which one was assumed**. Finding the assumed
+constant is most of the work.
+
+## Start here
+
+| if you want… | read |
+|---|---|
+| what the whole project found | [`SUMMARY.md`](SUMMARY.md) — six phases, the short version |
+| the species question answered in full | [`pfas_tk_review/report/REPORT.md`](pfas_tk_review/report/REPORT.md) (~2,000 lines) |
+| that review in two pages | [`pfas_tk_review/EXECUTIVE_SUMMARY.md`](pfas_tk_review/EXECUTIVE_SUMMARY.md) |
+| the whole argument in one figure | [`pfas_tk_review/figures/fig00_master.png`](pfas_tk_review/figures/fig00_master.png) |
+| to learn toxicokinetic modelling | [`tk_learning/`](tk_learning/) — twelve runnable lessons |
+| the data behind the lessons | [`tk_learning/data/SOURCES.md`](tk_learning/data/SOURCES.md) — nine studies, traced to figure and table |
+
+## The six strands
+
+```
+chiu_replication/     Chiu et al. 2022's human Bayesian model, re-fitted in PyMC
+tk_learning/          twelve lessons: C(t)=C0·exp(-kt) through to a working PBPK model
+pfas_dose/            EPA animal PK pipeline; does clearance depend on dose within a species?
+species_dose/         does dose explain the human/rodent gap? (no — ~13% at best)
+literature/           23 human studies appraised by design rather than reputation
+pfas_tk_review/       the species question at the source: 186 full texts, 1,438 database rows
+```
+
+Each folder has its own README with the detail. In brief:
+
+### `chiu_replication/` — one paper, reproduced and debugged
+
+Re-fits the Bayesian population model of Chiu et al. 2022 (*Environ Health
+Perspect* 130(12):127001) in PyMC, against Chiu's own MCSim input files.
+Reproduces all four published half-lives:
+
+| PFAS | this code | paper, Table 3 |
+|---|---|---|
+| PFOA | 3.16 (2.65–3.77) | 3.14 (2.69–3.73) |
+| PFOS | 3.34 (2.45–4.45) | 3.36 (2.52–4.42) |
+| PFNA | 2.28 (1.53–3.19) | 2.35 (1.65–3.16) |
 | PFHxS | 8.52 (5.66–13.01) | 8.30 (5.38–13.5) |
 
-The half-life here is for the population geometric mean (GM), i.e. a
-"typical" person. MCMC is random, so your numbers can differ from these in
-the second decimal place.
+An earlier version gave PFOA 4.30 y. Four bugs explain the gap, and the
+folder README works through all four — including why fixing them one at a
+time makes each look harmless.
 
-## Quick start
+### `tk_learning/` — the methods, from scratch
+
+Twelve runnable lessons on real animal data, 29 figures, 12 executed
+notebooks, 53 worked questions and 35 regression checks. Builds from a
+one-compartment IV bolus to a four-compartment PBPK model, and spends its
+time on the places where the modelling actually goes wrong: four defensible
+terminal-slope fits to one dataset giving half-lives 4.4–10.2 d, two
+parameter sets 520× apart producing an identical curve, and four volumes of
+distribution spanning 17× in the same two-compartment fit.
+
+### `pfas_dose/` and `species_dose/` — testing the dose hypothesis
+
+If PFAS elimination saturates, high-dose animal studies would read as
+long half-lives and the species gap would partly be a dose artefact.
+`pfas_dose/` fits the EPA animal curves (1- vs 2-compartment, chosen by
+LOO) and finds a real but weak within-species dose effect for PFOA
+(slope ≈ 0.11) and none for PFHxA. `species_dose/` matches human and rodent
+studies on serum concentration and finds the dose explanation accounts for
+~13% of the gap at best. Female rats clear PFOA **44× faster than males at
+identical doses** — so the variance is in biology, not dose.
+
+### `literature/` — trusting designs, not authors
+
+Published human PFOA half-lives span 17-fold (0.5–8.5 y). The appraisal
+tiers studies by design and locates the spread in six assumptions. The
+structural finding: serum-decay designs read the rate off a slope and never
+need a volume of distribution; mass-balance designs need both a Vd *and* a
+complete excretion accounting, each uncertain 2–6×, multiplying straight
+into the answer.
+
+### `pfas_tk_review/` — the species question, answered
+
+186 full texts read, 24 per-paper extractions, 1,438 rows across four
+consolidated tables, 16 figures, 33 runnable scripts. Headline results:
+
+- **It is clearance, not distribution.** Vd spans 1.33–2.18× between sexes;
+  clearance spans 0.78–44.3× and changes sign between species.
+- **One mechanistic axis orders every species** — fractional renal
+  reabsorption, from 99.94% in humans to net secretion in the female rat —
+  and predicts every rodent within 1.7× over a 37× span with no fitted
+  parameter.
+- **Humans run two near-complete reabsorption loops,** renal and biliary.
+- **The human Vd that nine regulatory clearance factors inherit is a
+  calculation,** reproducible to three figures from its source paper's own
+  supplementary table given an assumed half-life.
+- **18 corrections to the published record,** each traced to the table that
+  contradicts it.
+- **Half-life is the wrong structure-activity endpoint.** §11 proposes the
+  dimensionless renal handling ratio `R = CL_renal/(fu·GFR)` instead, which
+  divides out body size and binding and leaves the transport step.
+
+## Conventions this repository holds itself to
+
+Every number traces to a named table in a named document. Every database row
+carries a `provenance` field and a PMID or DOI. Where a value was computed
+here rather than read from a paper, the row says so. Where this project's own
+method is known to be biased — the terminal-slope fitter on biphasic curves —
+the affected rows carry a flag and the README says to read §8 item 9 before
+using them. Corrections to earlier conclusions in this repository are kept in
+the text rather than quietly edited out, because the failure mode they
+illustrate (believing a sentence over a table) is the subject.
+
+## Running things
+
+Each strand installs separately; there is no repository-wide environment.
 
 ```bash
-pip install -r requirements.txt
-python parse_chiu_data.py      # optional: see which data are used
-python model.py PFNA           # about 1 minute
-python model.py all            # all four; PFOA takes about 4 minutes
+# the Chiu re-fit
+cd chiu_replication && pip install -r requirements.txt && python model.py PFNA
+
+# the lessons
+cd tk_learning && pip install -r requirements.txt
+python 02_explore.py && python test_lessons.py
+
+# the review's analyses (numpy / pandas / matplotlib / scipy)
+cd pfas_tk_review && python scripts/qsar_endpoint_table.py
 ```
 
-Each run prints the half-life next to the paper's value and saves the full
-posterior to `results_<chem>.nc` (open it with `arviz.from_netcdf`).
+## Licensing and attribution
 
-## Files
-
-```
-model.py               the model (one file for all four chemicals)
-parse_chiu_data.py     reads Chiu's input files into a table
-data/                  Chiu's MCSim input files, unmodified (GPLv3, see data/LICENSE-chiu-GPLv3)
-*.pdf                  the paper and its supplement
-
-SUMMARY.md             what the whole project has found -- start here
-tk_learning/           twelve runnable lessons: 1-compartment TK to PBPK
-  notebooks/           the same twelve as executed Jupyter notebooks
-  figures/             29 figures, regenerated by the lessons
-  ANSWERS.md           worked answers to all 53 questions
-  test_lessons.py      35 regression checks on the lessons' numbers
-pfas_dose/             EPA animal models; does clearance depend on dose?
-species_dose/          does dose explain the human/rodent half-life gap?
-literature/            20 sources appraised, with the numbers reconciled
-```
-
-**New to toxicokinetics?** Read [`SUMMARY.md`](SUMMARY.md) for what the
-project found, then work through [`tk_learning/`](tk_learning/), which
-builds up from `C(t) = C0·exp(-k·t)` on real animal data and ends by
-showing exactly where the one-compartment model breaks.
-
----
-
-## 1. The model in plain words
-
-Treat the body as one well-mixed bucket. PFAS comes in with drinking water
-and leaves at a rate proportional to how much is there:
-
-```
-dC/dt = DWI · DWC / Vd  −  k · (C − Cbgd)
-```
-
-| symbol | meaning | units |
-|---|---|---|
-| C    | serum concentration | µg/L |
-| DWC  | drinking-water concentration | µg/L |
-| DWI  | water intake per kg body weight (fixed, not fitted) | L/kg/day |
-| Vd   | volume of distribution | L/kg |
-| k    | elimination rate — **what we want** | 1/year |
-| Cbgd | background level from food, dust, etc. | µg/L |
-
-Half-life = ln(2) / k. With constant water, the level moves exponentially
-from its starting value C0 towards the steady state `Cbgd + DWI·DWC/(k·Vd)`.
-
-**Try it:** how the serum level approaches steady state.
-
-```python
-import numpy as np
-k, Vd, DWI, DWC, Cbgd, C0 = 0.3, 0.2, 0.0123 * 365.25, 0.05, 0.6, 5.0
-Css = Cbgd + DWI * DWC / (k * Vd)
-for t in [0, 1, 2, 5, 10, 20]:
-    C = Css + (C0 - Css) * np.exp(-k * t)
-    print(f"year {t:2d}: {C:5.2f} ug/L   (steady state {Css:.2f})")
-```
-
-## 2. The hierarchy: three levels of parameters
-
-Nobody's k is known, and one person's data can't pin it down. The model
-therefore assumes each person's value is drawn from a population
-distribution and estimates that distribution from everyone at once.
-
-```
-Population   M_ln_k, V_ln_k, M_ln_Vd, SD_ln_Vd        one set, shared by everyone
-   │
-Study        M_ln_Cbgd_sc, M_ln_C_0_sc,               one set PER STUDY
-   │         (DWC below MRL)                          (Decatur, Arnsberg, Minnesota, ...)
-   │
-Person       k, Vd, DWI, Cbgd, C0                     one set PER PERSON
-```
-
-Each person's value is written as *population value + person's z-score*:
-
-```python
-k = exp(M_ln_k + sqrt(V_ln_k) * z_k)      # z_k ~ Normal(0, 1), one per person
-```
-
-This is called a *non-centred* parameterisation, and it makes MCMC sample
-much more smoothly.
-
-In MCSim, a `Distrib()` placed inside a `Level { }` creates **one copy for
-each child** of that Level. In PyMC you get the same thing by giving the
-parameter a `shape`:
-
-```python
-M_ln_Cbgd_sc = pm.Normal("M_ln_Cbgd_sc", -0.22, 0.41, shape=n_studies)  # one per study
-Cbgd = Cbgd_gm * exp(M_ln_Cbgd_sc[study_of_each_person] + ...)          # pick your study's value
-```
-
-## 3. Four kinds of data
-
-| kind | what was measured | where | formula in `model.py` |
-|---|---|---|---|
-| `Cserum`     | two blood samples, constant water | PFNA, PFHxS Decatur | section 3(a) |
-| `Cserum_t`   | two blood samples, water level changing over time | PFOA Decatur and Arnsberg, PFOS Decatur | section 3(b) |
-| `Cbgd_Css`   | one blood sample at steady state | Minnesota (PFOA, PFOS) | section 3(c) |
-| `M_...`      | community **average** only | Paulsboro, Horsham, Lubeck, Little Hocking | section 4 |
-
-For community averages we need the *mean* over people, not the value for an
-average person. For a lognormal variable, `E[X] = exp(mu + sigma²/2)`, which
-is larger than `exp(mu)`.
-
-Only records inside a `Level` that has a `Likelihood()` are used for fitting
-(the "training" set). The rest are the paper's test set.
-
----
-
-## 4. Why an earlier Python version disagreed with the paper
-
-An earlier version of this repository (see git history) gave PFOA 4.30,
-PFOS 3.10, PFNA 2.89 and PFHxS 6.59 years. Comparing it line by line with
-Chiu's input files turned up four differences. All four are fixed in
-`model.py`.
-
-| # | difference | effect |
-|---|---|---|
-| 1 | Only the **last** blood sample of each person was used. The t = 0 sample was dropped. | Major, all four chemicals |
-| 2 | **One** background scale (`M_ln_Cbgd_sc`, `M_ln_C_0_sc`) for all studies instead of one per study | Major for PFOA |
-| 3 | PFNA priors did not match Chiu's PFNA file | Small |
-| 4 | Water-level changes after the blood draw were simulated | Small (1–2%) |
-
-Median half-life (years) when each difference is added back **on its own**
-to the correct model:
-
-| PFAS  | correct | + #1 | + #2 | + #3 | + #4 | all four |
-|-------|--------:|-----:|-----:|-----:|-----:|---------:|
-| PFOA  | 3.16 | 2.94 | 3.36 | –    | 3.18 | **4.30** |
-| PFOS  | 3.36 | 3.22 | 3.32 | –    | 3.28 | 3.10 |
-| PFNA  | 2.27 | **2.89** | 2.30 | 2.28 | – | 2.74 |
-| PFHxS | 8.51 | **6.69** | 8.48 | – | – | 6.62 |
-
-For PFOA, neither #1 nor #2 matters much alone, but together they move the
-answer by more than a year. When errors interact like this, fixing one at a
-time can make each look harmless. All of them have to be fixed together.
-
-### Why dropping the t = 0 sample matters
-
-Each person's file entry has two samples, for example
-`Data(Cserum, 1.9, 1.1)` at t = 0 and t = 5.8 years. Only the *difference*
-between them tells you k. Without the first sample, the starting level C0
-is known only roughly (its prior allows about ±50%), and a lower start needs
-less decay:
-
-```python
-import numpy as np
-C_start, C_end, T, Cbgd = 1.9, 1.1, 5.802, 0.5    # one PFNA person
-for fraction in [1.0, 0.8, 0.67]:
-    C0 = C_start * fraction
-    k = -np.log((C_end - Cbgd) / (C0 - Cbgd)) / T
-    print(f"start = {fraction:.0%} of measured -> half-life {np.log(2)/k:.1f} yr")
-# 100% -> 4.7 yr,  80% -> 7.6 yr,  67% -> 15.9 yr
-```
-
-In the full fit without the t = 0 samples, PFNA's starting-level scale
-drifted to −0.40 (a start about 33% too low) and became correlated with k
-(r = +0.49). With them it stays at 0.00 ± 0.10 and is uncorrelated.
-
-### Why one shared background scale matters
-
-In Chiu's fitted chains, the background scale is very different between
-studies: Decatur **+0.57**, Arnsberg **−0.69**, Minnesota **−0.77**. A single
-shared value can't fit all three. The model then compensates by distorting
-k and its spread between people (GSD 1.36 instead of the paper's 1.57).
-
----
-
-## 5. How to tell if a run worked
-
-`pm.sample` prints warnings if something went wrong. Check two things:
-
-- **r_hat** below about 1.01: the 4 chains agree. `arviz.summary(idata)` shows it.
-- **divergences** of 0, or a handful: printed by `model.py`. Many divergences
-  mean the sampler could not explore the posterior properly.
-
-Expect a PyMC warning that some r_hat values are above 1.01. In our runs that
-comes from nuisance parameters such as the Minnesota measurement error
-(r_hat 1.02). The half-life, its spread between people and Vd all had
-r_hat = 1.00. To remove the warning, run longer: `fit(chem, draws=2000)`.
-
-```python
-import arviz as az
-idata = az.from_netcdf("results_PFNA.nc")
-print(az.summary(idata, var_names=["halflife", "halflife_GSD", "Vd"]))
-```
-
-## 6. Conventions worth knowing
-
-- MCSim writes `LogNormal(GM, GSD)`. In PyMC that is
-  `pm.LogNormal(mu=log(GM), sigma=log(GSD))`.
-- `LogUniform(1.1, 10)` becomes `Uniform` on `log(GSD)` between `log(1.1)` and `log(10)`.
-- The paper reports **95%** intervals, so compare against 95% intervals.
-- On some sandboxed machines PyMC's parallel chains hang. If that happens,
-  change `cores=4` to `cores=1` in `fit()`.
+`chiu_replication/data/` holds Chiu et al.'s MCSim input files unmodified,
+under GPLv3 — see `chiu_replication/data/LICENSE-chiu-GPLv3`. The original
+work is at [wachiuphd/2022-Bayes-PFAS-PK](https://github.com/wachiuphd/2022-Bayes-PFAS-PK).
+Animal PK curves come from the EPA's
+[CPHEA-Animal-PFAS-PK](https://github.com/USEPA/CPHEA-Animal-PFAS-PK)
+database; `tk_learning/data/SOURCES.md` traces each one to its original
+study. PDFs under `pfas_tk_review/papers/` are retrieved copies of
+third-party publications, kept for extraction provenance and subject to
+their publishers' terms.

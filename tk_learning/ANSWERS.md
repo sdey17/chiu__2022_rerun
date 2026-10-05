@@ -146,7 +146,7 @@ terminal slope. Dropping them truncates the curve early and biases the
 half-life **short**, the same direction as question 3. Proper handling
 treats them as censored (known to be below a limit) rather than
 missing; Chiu's model does this with the MRL fields that
-`../parse_chiu_data.py` extracts.
+`../chiu_replication/parse_chiu_data.py` extracts.
 
 **Exercise (a): cut at t_max/2 and t_max/5.** The half-lives move by
 tens of percent. That movement *is* the analyst's degree of freedom,

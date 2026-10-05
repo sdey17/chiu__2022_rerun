@@ -1,16 +1,17 @@
 # What this project has learned so far
 
-Five phases, each building on the last. This file is the short version;
+Six phases, each building on the last. This file is the short version;
 each phase has its own directory with the code, the data and a longer
 write-up. Read this first, then follow the links.
 
 | phase | question | directory | verdict |
 |---|---|---|---|
-| 1 | Why did our Python re-fit disagree with Chiu et al. 2022? | `./` (`model.py`) | four specific bugs, all found and fixed |
-| 2 | How does the EPA's animal PK pipeline work? | `pfas_dose/` | 1- vs 2-compartment Bayesian fits, chosen by LOO |
-| 3 | Does clearance depend on dose *within* a species? | `pfas_dose/` | yes for PFOA, but weakly (slope ≈ 0.11); no for PFHxA |
-| 4 | Does dose explain the human/rodent half-life gap? | `species_dose/` | **no** — about 13% of it at best |
-| 5 | What does the wider literature actually support? | `literature/` | the 17-fold PFOA controversy is one assumed constant |
+| 1 | Why did our Python re-fit disagree with Chiu et al. 2022? | [`chiu_replication/`](chiu_replication/) | four specific bugs, all found and fixed |
+| 2 | How does the EPA's animal PK pipeline work? | [`pfas_dose/`](pfas_dose/) | 1- vs 2-compartment Bayesian fits, chosen by LOO |
+| 3 | Does clearance depend on dose *within* a species? | [`pfas_dose/`](pfas_dose/) | yes for PFOA, but weakly (slope ≈ 0.11); no for PFHxA |
+| 4 | Does dose explain the human/rodent half-life gap? | [`species_dose/`](species_dose/) | **no** — about 13% of it at best |
+| 5 | What does the wider literature actually support? | [`literature/`](literature/) | the 17-fold PFOA controversy is one assumed constant |
+| 6 | So *why* do the species differ, and what did the field assume? | [`pfas_tk_review/`](pfas_tk_review/) | clearance, not distribution — and one mechanistic axis orders every species |
 
 ---
 
@@ -212,6 +213,70 @@ scoring. Note the I² split: community-water cohorts agree with each other
 
 ---
 
+## Phase 6 — the species question, at the source
+
+Phases 1–5 asked whether *dose* explained the species gap and found it did
+not. Phase 6 asked what does, by reading 186 full texts and re-deriving the
+numbers from the tables they came from. Full write-up in
+[`pfas_tk_review/report/REPORT.md`](pfas_tk_review/report/REPORT.md);
+the short version is
+[`pfas_tk_review/EXECUTIVE_SUMMARY.md`](pfas_tk_review/EXECUTIVE_SUMMARY.md).
+
+**It is clearance, not distribution.** Six datasets that measure both terms
+in both sexes: Vd spans **1.33–2.18×** (male higher every time), clearance
+spans **0.78–44.3×** and changes sign between species. Argoul 2026
+reproduces this inside one experiment — clearance spans 5,254×, Vss 7.7×.
+
+**One axis orders every species.** Fractional renal reabsorption,
+`CL_renal = fu · GFR · (1 − FR)`:
+
+| species | FR |
+|---|---|
+| human | 99.94% |
+| mouse M / F | 97.0 / 95.2% |
+| rat M | 93.7% |
+| macaque M / F | 91.2 / 81.2% |
+| dog M / F | 59 / 52% |
+| rat F, rabbit | net secretion |
+
+It predicts every rodent within **1.7×** over a 37× span with no fitted
+parameter. Of the 333× male-mouse-to-human renal clearance gap, the escape
+fraction carries 50× and the ~6× lower human GFR carries 6.5× (68%/32% on a
+log scale).
+
+**Humans run two near-complete reabsorption loops,** renal (99.94%) and
+biliary (97%, Harada 2007). The second closes the 4.3× human residual and
+reconciles Andersson (faeces dominant) with Abraham (faecal not detected):
+at 97% resorption the gross biliary flux is large while net faecal
+elimination is small.
+
+**The human Vd that nine regulatory clearance factors inherit is a
+calculation, not a measurement.** It is reproducible to three figures from
+Thompson 2010's own Table S1 given an assumed `k = 0.0008/day` — and that
+half-life came from Bartell 2010, measured in the *same two communities*.
+The half-life cancels from any derived clearance; the Vd does not
+(168 mL/kg at 2.3 y → 277 at 3.8 y).
+
+**The binding conflict was a ratio artefact, not a contradiction.** Han's
+">90% bound" is a floor computed from Kd and albumin, and Fischer's measured
+`fu = 0.00061` satisfies it. Han titrated 50–60 µM albumin with 0.1–3 mM
+PFOA (1.7:1 to 60:1); human serum sits at 10⁻⁵–10⁻³:1. The defect was
+downstream: PBPK models read ">90%" as "≈90%", ~164× too high.
+
+**18 corrections to the published record** are listed in §8 of the report,
+including EPA's "2.5-fold" Oatp1a1 ratio (it is OAT-K's number; the real
+value is 23×), two values altered in OEHHA's adaptation of Han Table 4, and
+a transposition of Thompson's PFOA/PFOS volumes in Andersson 2025.
+
+**Half-life is the wrong QSAR endpoint** (§11). Because `t½ = ln2·Vd/CL`, it
+carries a body-size term. The replacement is the dimensionless renal
+handling ratio `R = CL_renal/(fu·GFR)`, which divides out GFR and fu and
+leaves the transport step. On the nine compounds where both terms were
+measured in one experiment, R spans 875× — and chain length alone does not
+order it.
+
+---
+
 ## Five things worth carrying forward
 
 1. **Read the primary numbers.** Chains, not narrative. Supplementary
@@ -228,26 +293,56 @@ scoring. Note the I² split: community-water cohorts agree with each other
    assumption in disguise.
 5. **Ablate errors jointly.** Interacting bugs each look harmless alone.
 
+## Closed since this file was first written
+
+- **Li 2022's tertile analysis, age-adjusted.** Done in phase 6 from the
+  paper's own supplementary variance decomposition rather than
+  individual-level data: age carries 2–13× the partial R² of initial PFAS
+  concentration, and the tertile effect is only 25–37% the size of the age
+  effect. See `pfas_tk_review/db/li2022_age_adjustment.csv`.
+- **Why the species differ.** Phase 6: clearance, not distribution, and one
+  reabsorption axis orders every species.
+- **The Han/Fischer binding conflict.** A ligand:protein ratio artefact, not
+  a contradiction — §6.2 of the report.
+
 ## Still open
 
-1. Re-run Li 2022's tertile analysis with age adjustment (needs
-   individual-level data).
-2. Resolve the Fischer 2025 tension: their PBTK puts short-chain PFAS in
-   the transporter-controlled regime where saturation should be easiest,
-   yet PFHxA (C5) showed no dose slope and PFOA (C7) did.
-3. Female-rat PFOA dose slope — 7 dose levels over 3200× are available.
+1. **A measured human K_T.** Six in vitro Km values span 47–310 µM against a
+   PBPK-fitted 0.133 µM — a 354–2,336× contradiction, and no paper is known
+   to supply the measurement.
+2. **Unbound fraction by a single method across species.** Every value of
+   the renal handling ratio is proportional to `fu`, and the mouse and human
+   numbers currently come from different methods at different
+   ligand:protein ratios. Measuring them one way decides whether the species
+   difference is binding or transport — a ~33× swing. No animals required.
+3. **Whether the biliary 0.97 replicates beyond n = 4.** It is now
+   load-bearing for the human limb.
+4. **The Fischer 2025 tension:** their PBTK puts short-chain PFAS in the
+   transporter-controlled regime where saturation should be easiest, yet
+   PFHxA (C5) showed no dose slope and PFOA (C7) did.
+5. **Female-rat PFOA dose slope** — 7 dose levels over 3200× are available.
    If female clearance is 44× higher because reabsorption is weaker, the
    slope should be *flatter* than males'. Sharp and falsifiable.
 
+The review keeps its own live list in
+[`pfas_tk_review/WANTED.md`](pfas_tk_review/WANTED.md) (papers still wanted)
+and §9 of the report (what nobody knows).
+
 ## Where to go next
 
-`tk_learning/` builds toxicokinetic modelling up from first principles on
-the animal data used above, in twelve runnable lessons with figures,
-worked answers and a regression test suite:
-forward simulation, log-linear fitting, nonlinear least squares, oral
-absorption, Bayesian hierarchical fitting, one-vs-two compartments by
-LOO, numerical ODE solving, volume of distribution, and a working
-four-compartment PBPK model.
+**To learn the methods:** [`tk_learning/`](tk_learning/) builds
+toxicokinetic modelling up from first principles on the animal data used
+above, in twelve runnable lessons with figures, worked answers and a
+regression test suite: forward simulation, log-linear fitting, nonlinear
+least squares, oral absorption, Bayesian hierarchical fitting, one-vs-two
+compartments by LOO, numerical ODE solving, volume of distribution, and a
+working four-compartment PBPK model.
+
+**To continue the science:** the next unblocked step needs no new data — a
+two-loop PK model carrying renal `FR` and biliary 0.97 as explicit terms,
+validated against the bile-acid-sequestrant data (Delaere 2025, Genuis
+2010). After that, the single-method `fu` panel above, which serves both the
+species question and the structure-activity work in §11.
 
 Three of those lessons re-derive this project's own conclusions from
 scratch, which is the best check on them there is:

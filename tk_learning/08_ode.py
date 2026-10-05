@@ -315,7 +315,7 @@ EXERCISES
      against tk.oral_1comp.
   b. Add a CONTINUOUS input (drinking water) instead of a bolus:
      dC/dt = DWI*DWC/Vd - k*C, starting from C(0) = 0. Run it for 30
-     years. You have now built Chiu's human model (../model.py) --
+     years. You have now built Chiu's human model (../chiu_replication/model.py) --
      compare your steady state to DWI*DWC/(k*Vd).
   c. Repeat exercise b but make DWC drop to zero at year 10, as happens
      when a town switches water supply. This is exactly the kind of

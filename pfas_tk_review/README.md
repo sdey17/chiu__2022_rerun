@@ -6,17 +6,23 @@ or to volume of distribution.
 
 Built on top of the existing work in this repository (`../literature`,
 `../species_dose`, `../pfas_dose`), which it extends rather than repeats.
+See the [root README](../README.md) for how this fits with the other strands.
 
 ## Where things are
 
 | Path | What it holds |
 |---|---|
+| `report/REPORT.md` | the written review — start here |
+| `EXECUTIVE_SUMMARY.md` | the same argument in two pages |
 | `db/` | the structured extractions — one CSV per evidence type |
+| `db/primary_2026/` | 24 per-paper extractions, read from the papers directly |
+| `db/combined/` | the consolidated database — 1,438 rows across four tables, plus an `.xlsx` |
+| `db/qsar/` | per-compound structure descriptors paired with the renal handling ratio (§11) |
 | `papers/` | full-text extractions (`.txt`) and the retrieval logs (`SOURCES_*.md`) |
-| `figures/` | the five analysis figures |
+| `figures/` | 16 analysis figures; `fig00_master.png` is the whole argument in one panel pair |
 | `scripts/` | everything that generates the above, runnable in order |
 | `research_notes/` | the per-subtopic research notes behind the extractions |
-| `report/` | the written review |
+| `WANTED.md` | papers still wanted, and why each one would settle something |
 
 ## The databases
 
