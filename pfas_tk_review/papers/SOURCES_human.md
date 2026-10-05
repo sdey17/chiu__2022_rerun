@@ -1,6 +1,6 @@
 # Retrieval log - human PFAS half-life / toxicokinetics (delta search, Oct 2026)
 
-Scope: studies NOT already in `/home/user/chiu__2022_rerun/literature/studies.csv`
+Scope: studies NOT already in `literature/studies.csv`
 (which covers Olsen 2007, Bartell 2010, Seals 2011, Li 2018, Worley 2017, Chiu 2022,
 Zhang 2013, Li 2022, Rosato 2024, Nilsson 2022, GenX Exposure Study 2023, Dourson 2021,
 Campbell/ARA 2022). Search run 2026-10-01 via PubMed (PubCrawl MCP), Europe PMC,

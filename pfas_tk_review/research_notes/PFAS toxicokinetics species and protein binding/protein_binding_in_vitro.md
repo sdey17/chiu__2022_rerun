@@ -1,12 +1,12 @@
 # In vitro measurements of PFAS binding to serum albumin and other toxicokinetically relevant proteins
 
 **Companion files produced by this work stream**
-- Structured database: `/home/user/chiu__2022_rerun/pfas_tk_review/db/protein_binding.csv`
+- Structured database: `pfas_tk_review/db/protein_binding.csv`
   (273 rows, 54 distinct study-years, 30 distinct protein/matrix targets, 15 rows flagged
   `is_computational=yes`)
-- Retrieval log incl. every failure: `/home/user/chiu__2022_rerun/pfas_tk_review/papers/SOURCES_binding.md`
+- Retrieval log incl. every failure: `pfas_tk_review/papers/SOURCES_binding.md`
 - Full-text `.txt` extractions (tables flattened) for 9 papers in
-  `/home/user/chiu__2022_rerun/pfas_tk_review/papers/`
+  `pfas_tk_review/papers/`
 
 **Two cautions for the report writer.** (1) **No PDFs could be downloaded** — the agent
 proxy blocked every PMC and publisher PDF endpoint tried, so the deliverable is `.txt`

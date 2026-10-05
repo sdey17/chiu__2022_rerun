@@ -1,7 +1,7 @@
 # Retrieval log — rat vs mouse PFAS toxicokinetics and renal transporters
 
 Retrieval date: **2026-10-01**. Agent: rat-vs-mouse TK researcher.
-Download target: `/home/user/chiu__2022_rerun/pfas_tk_review/papers/`.
+Download target: `pfas_tk_review/papers/`.
 Naming: `FirstAuthor Year short-topic.pdf` / `.txt`. Where the only machine-readable
 form obtainable was PMC/Europe PMC JATS XML, both `<name>.txt` (tag-stripped text)
 and `<name>_raw_xml.txt` were written; no PDF exists locally for those.
