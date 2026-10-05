@@ -847,7 +847,7 @@ def story_4():
     out += [
         p("11. What this review corrects in the published record", "h1"),
         p("Each entry is traced to the table or figure that contradicts it; "
-          "the full list of eighteen is section 8 of the underlying review.",
+          "the full list of eighteen is section 8 of report/REPORT.md.",
           "body"),
         tbl([
             ["source", "correction"],
@@ -925,7 +925,7 @@ def story_4():
     # ===================== 13. open questions =====================
     out += [
         p("13. Open questions, and what would close them", "h1"),
-        p("1. The unbound fraction, measured one way across species", "h2"),
+        p("13.1  The unbound fraction, measured one way across species", "h2"),
         p("This is the cheapest decisive experiment the review identifies, and "
           "it is first because two separate questions turn on it. Every value "
           "of R in section 10 is proportional to f<sub>u</sub>, and the mouse "
@@ -936,7 +936,7 @@ def story_4():
           "simultaneously supplies the denominator any structure-activity "
           "model needs. It requires plasma, a dialysis or ultrafiltration rig "
           "and a mass spectrometer. No animals.", "body"),
-        p("2. A measured human transport-affinity constant", "h2"),
+        p("13.2  A measured human transport-affinity constant", "h2"),
         p("Whether reabsorptive transport saturates at real human exposures "
           "depends on which parameter family one believes. Six independent in "
           "vitro half-saturation constants for PFOA against human transporters "
@@ -955,21 +955,21 @@ def story_4():
           "dose-response evidence of section 8 agrees with the in vitro answer "
           "- but nobody has measured a human value, and one measurement would "
           "close it outright.", "body"),
-        p("3. Whether the biliary resorption constant replicates", "h2"),
+        p("13.3  Whether the biliary resorption constant replicates", "h2"),
         p("The 0.97 of section 6 is now load-bearing for the human limb, and "
           "it rests on four surgical patients in a single study reached "
           "through an agency document " + c("harada2007") + ". A replication "
           "in any species under a stated protocol would be worth more than its "
           "cost.", "body"),
-        p("4. The mouse renal Oatp1a1 sex ratio", "h2"),
+        p("13.4  The mouse renal Oatp1a1 sex ratio", "h2"),
         p("The rat value is 23&times; " + c("kudo2002") + "; the mouse "
           "equivalent is not established, and the mouse sex difference runs "
           "the opposite way to the rat's " + c("tatum2011") + ". One "
           "quantitative PCR experiment would discriminate between the live "
-          "hypotheses - though if the answer to question 1 is that the species "
+          "hypotheses - though if the answer to 13.1 is that the species "
           "gap is binding, this question loses most of its force, which is why "
           "it is fourth rather than first.", "body"),
-        p("5. Unobtained sources", "h2"),
+        p("13.5  Unobtained sources", "h2"),
         p("Three documents would materially change specific numbers and could "
           "not be obtained: the dog toxicokinetic chapter underlying the dog "
           "column, an unpublished contract report on protein binding, and the "
@@ -1070,8 +1070,7 @@ def figure_block():
           "point sits 4.3&times; high, and the walk-down beneath it - renal "
           "only 4.3&times;, plus faecal 2.7&times;, EPA clearance 2.2&times;, "
           "OEHHA measured clearance 0.9&times; - is what led to the second "
-          "reabsorption loop (section 6). Regenerate with "
-          "scripts/make_master_figure.py.", "caption"),
+          "reabsorption loop (section 6). <b>Note</b> that the panel annotations carry the widely-circulated OEHHA adaptation of the reabsorption table (male rat 93.2%, human 99.8%), while the table in section 4 carries the source values (93.7% and 99.94%). The discrepancy is not an error here - it is one of the corrections listed in section 11, left visible rather than silently harmonised. Regenerate with scripts/make_master_figure.py.", "caption"),
     ]
 
 
