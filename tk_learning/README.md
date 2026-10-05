@@ -119,10 +119,17 @@ look before running anything. The ones that carry the most weight:
 so the lessons run with no database and no network.
 
 **[`data/SOURCES.md`](data/SOURCES.md) traces every row to its original study** —
-nine papers with DOIs and EPA HERO links, which figure or appendix each was
-digitised from, which are group means rather than individual animals, what was
-changed on the way in, and where the mouse data is (there is none in these five
-files; the upstream database has 2,445 mouse rows across eight studies).
+nine papers with DOIs and EPA HERO links, how to cite the compilation, which
+are group means rather than individual animals, what was changed on the way
+in, and where the mouse data is (there is none in these five files; the
+upstream database has 2,445 mouse rows across eight studies).
+
+It also quantifies the digitisation, per file rather than per study. The
+monkey PFOA curve that seven lessons are built on is transcribed from
+Butenhoff's Table 5, not read off a plot; `PFOS_Male_primate.csv` is 100%
+digitised. `data/verify_against_epa.py` re-derives that split and checks all
+1,574 values against EPA's upstream files — 0 unmatched, largest
+disagreement 1.4e-14 mg/L.
 
 | file | rows | experiments | note |
 |---|---|---|---|

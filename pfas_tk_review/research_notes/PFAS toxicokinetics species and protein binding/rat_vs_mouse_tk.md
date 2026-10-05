@@ -1,9 +1,9 @@
 # Rat vs mouse PFAS toxicokinetics: measured half-lives and the renal-transporter mechanism of the rat sex difference
 
 Companion data files written by this researcher:
-- `/home/user/chiu__2022_rerun/pfas_tk_review/db/animal_halflife_measured.csv` (217 rows; measured half-lives/clearances by chemical, species, strain, sex, dose, route, plus the Zurlinden/EPA modelled values flagged as `MODELLED, not measured`)
-- `/home/user/chiu__2022_rerun/pfas_tk_review/db/transporter_mechanism.csv` (83 rows; transporter, gene, species, sex, Km/Vmax, direction, hormone regulation, evidence type)
-- `/home/user/chiu__2022_rerun/pfas_tk_review/papers/SOURCES_rat_mouse.md` (full retrieval log, including every failure)
+- `pfas_tk_review/db/animal_halflife_measured.csv` (217 rows; measured half-lives/clearances by chemical, species, strain, sex, dose, route, plus the Zurlinden/EPA modelled values flagged as `MODELLED, not measured`)
+- `pfas_tk_review/db/transporter_mechanism.csv` (83 rows; transporter, gene, species, sex, Km/Vmax, direction, hormone regulation, evidence type)
+- `pfas_tk_review/papers/SOURCES_rat_mouse.md` (full retrieval log, including every failure)
 
 ## Q1. What are the measured serum/plasma elimination half-lives in rat and mouse, by chemical, sex, strain, dose and route?
 
@@ -347,7 +347,7 @@ The qualitative framing of the puzzle is correct and well supported — the rat-
 **1. Rat PFOA female/male = 0.049 (20×) UNDERSTATES the measured difference, which is 70–78×.**
 - Measured: Ohmori 2003 **70×** (5.63 d vs 0.08 d); Kudo 2002 states the male t½ is "**70 times** longer"; Dzierlenga 2020 **78×** (215 h vs 2.75 h). Kemper 2003 oral gives 63×, 39× and 38× at 0.1, 1 and 5 mg/kg and 9.7× at 25 mg/kg (the dose-dependence discussed in Q9). Only Kim 2016 (~10×) and Kemper's top dose are below 20×.
 - Sources: [Ohmori 2003](https://pubmed.ncbi.nlm.nih.gov/12499116/); [Kudo 2002](https://pubmed.ncbi.nlm.nih.gov/11879818/); [Dzierlenga 2020](https://pubmed.ncbi.nlm.nih.gov/31680603/); [ATSDR Table 3-5](https://www.atsdr.cdc.gov/toxprofiles/tp200.pdf)
-- Likely cause: the EPA value is a **composite t½ = ln2·Vd,ss/CL**, not a terminal β half-life, and the fitted female-rat Vd,ss of 0.649 L/kg is roughly twice the value for every other rat/PFAS combination in the same file (0.20–0.44 L/kg), which inflates the female half-life to 0.690 d (16.6 h). Measured female-rat PFOA terminal half-lives cluster at **1.9–4.6 h** across Kudo 2002, Ohmori 2003, Kemper 2003 and Kim 2016, with only Kemper's 25 mg/kg (16.2 h) and Ylinen 1990's IP 50 mg/kg (24 h) reaching the EPA value. Pooling the high-dose Dzierlenga female data (40–320 mg/kg) with low-dose data in a saturable system would do exactly this — [Zurlinden 2025 methods and Discussion](https://pmc.ncbi.nlm.nih.gov/articles/PMC12172007/); `/home/user/chiu__2022_rerun/species_dose/animal_pk.csv`
+- Likely cause: the EPA value is a **composite t½ = ln2·Vd,ss/CL**, not a terminal β half-life, and the fitted female-rat Vd,ss of 0.649 L/kg is roughly twice the value for every other rat/PFAS combination in the same file (0.20–0.44 L/kg), which inflates the female half-life to 0.690 d (16.6 h). Measured female-rat PFOA terminal half-lives cluster at **1.9–4.6 h** across Kudo 2002, Ohmori 2003, Kemper 2003 and Kim 2016, with only Kemper's 25 mg/kg (16.2 h) and Ylinen 1990's IP 50 mg/kg (24 h) reaching the EPA value. Pooling the high-dose Dzierlenga female data (40–320 mg/kg) with low-dose data in a saturable system would do exactly this — [Zurlinden 2025 methods and Discussion](https://pmc.ncbi.nlm.nih.gov/articles/PMC12172007/); `species_dose/animal_pk.csv`
 
 **2. Mouse PFNA male = 227 d is far outside the measured range of 34.3–68.9 d.**
 - Tatum-Gibbs 2011, the **only** mouse PFNA dataset, reported "terminal estimated serum half-life of 25.8–68.4 days [females] and 34.3–68.9 days [males]". The EPA fit's 227 d (95% CrI 47–446) male mouse value exceeds the upper measured bound by 3.3×, and its credible interval is 10-fold wide — [Tatum-Gibbs 2011](https://pubmed.ncbi.nlm.nih.gov/21237237/); `animal_pk.csv`

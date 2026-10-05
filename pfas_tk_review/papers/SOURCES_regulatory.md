@@ -1,7 +1,7 @@
 # SOURCES — Regulatory and health-agency dossiers (PFAS toxicokinetics)
 
 Retrieval log for the regulatory/agency sub-topic. All retrievals performed **2026-10-01**.
-Files live in `/home/user/chiu__2022_rerun/pfas_tk_review/papers/`.
+Files live in `pfas_tk_review/papers/`.
 Every PDF has a `.txt` sibling produced with `pdftotext -layout`.
 
 | # | Filename | Full citation | URL | Retrieved | Status |

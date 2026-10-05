@@ -1,8 +1,8 @@
 # How regulatory and health-agency dossiers choose, justify and document PFAS half-life, Vd and clearance for dose reconstruction
 
-Structured extraction of every value in this note: `/home/user/chiu__2022_rerun/pfas_tk_review/db/regulatory_values.csv` (173 rows).
-Retrieval log and failures: `/home/user/chiu__2022_rerun/pfas_tk_review/papers/SOURCES_regulatory.md`.
-All primary documents downloaded to `/home/user/chiu__2022_rerun/pfas_tk_review/papers/` with `.txt` extractions.
+Structured extraction of every value in this note: `pfas_tk_review/db/regulatory_values.csv` (173 rows).
+Retrieval log and failures: `pfas_tk_review/papers/SOURCES_regulatory.md`.
+All primary documents downloaded to `pfas_tk_review/papers/` with `.txt` extractions.
 
 ---
 

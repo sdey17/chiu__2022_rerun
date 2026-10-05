@@ -8,18 +8,53 @@ five files.** They cover two species — rat and cynomolgus monkey (labelled
 `primate`). Mouse PFAS kinetics are well covered in the upstream database, just
 not in the subset exported for the lessons; see [§4](#4-the-mouse-data-and-everything-else-not-in-the-lessons).
 
+## How to cite it
+
+**EPA compiled these data; it did not generate them.** Citing only the EPA
+paper under-credits the nine laboratories that ran the experiments, so cite
+the compilation and cite the primary study for any specific result you lean
+on:
+
+> Animal serum time-course data were obtained from the US EPA CPHEA PFAS
+> pharmacokinetic compilation (Zurlinden et al. 2025, *Toxicol Appl
+> Pharmacol* 499:117336;
+> https://github.com/USEPA/CPHEA-Animal-PFAS-PK), which digitised and
+> transcribed them from the primary studies listed in §2.
+
+The compilation paper is Zurlinden TJ, Dzierlenga MW, Kapraun DF, Ring C,
+Bernstein AS, Schlosser PM, Morozov V (2025), *Estimation of species- and
+sex-specific PFAS pharmacokinetics in mice, rats, and non-human primates
+using a Bayesian hierarchical methodology*,
+[doi:10.1016/j.taap.2025.117336](https://doi.org/10.1016/j.taap.2025.117336),
+open access at
+[PMC12172007](https://pmc.ncbi.nlm.nih.gov/articles/PMC12172007/). The
+repository is MIT licensed, © U.S. Federal Government. Its methods confirm
+the digitisation account below — "Graphical extraction of concentration vs.
+time data was conducted using WebPlot Digitizer" — and its data-availability
+statement points at the repository.
+
+Nothing in `data/` is synthetic and nothing originates with this repository.
+Every row is a serum or plasma concentration measured in a published animal
+study, extracted by EPA, and re-exported here in a flat format so the
+lessons run without a database.
+
 ## The chain
 
 ```
-original study
+original study                           9 studies, §2
    └─ published figure / table / supplement
-        └─ digitised or transcribed by EPA CPHEA
+        └─ digitised or transcribed by EPA CPHEA      <- the lossy step, quantified below
              └─ USEPA/CPHEA-Animal-PFAS-PK  (extracted_data/*.csv, one per study)
                   └─ local copy in this repo
                      pfas_tk_review/papers/CPHEA-Animal-PFAS-PK extracted_data/
-                       └─ subset + unit harmonisation
+                       └─ subset + unit harmonisation  <- verified exact, 0 of 1,574 rows differ
                             └─ tk_learning/data/*.csv   (5 files, 1,574 rows)
 ```
+
+Only one link in that chain loses information, and it is not ours: the last
+step is verified value-for-value by `data/verify_against_epa.py`, so all the
+uncertainty sits in EPA's extraction, where the table in §2 says per file
+exactly how much of it there is.
 
 Links for the two upstream layers:
 
@@ -57,6 +92,13 @@ PY
 | `PFOA_Female_rat.csv` | 377 | Kemper 6302380 (238), Dzierlenga 5916078 (110), Kim 3749289 (18), Kudo 2990271 (7), Ohmori 3858670 (4) |
 | `PFOS_Male_rat.csv` | 246 | Huang 5387170 (108), Chang 1289832 (98), Kim 3749289 (29), Iwabuchi 3859701 (11) |
 
+EPA ships these as plain CSVs, one per study, in
+[`extracted_data/`](https://github.com/USEPA/CPHEA-Animal-PFAS-PK/tree/main/extracted_data),
+named `Author_HEROID.csv`, with column definitions in that folder's
+`README.txt`. The SQLite database the EPA notebooks use (`PFAS.db`) is built
+*from* those CSVs by `auxiliary_notebooks/create_db.ipynb`; it is not itself
+checked in, so nothing needs building to read the upstream values.
+
 So the monkey curves come from **one study each**, and the rat files are
 **pooled across six and four studies respectively**. That matters for lesson 10:
 a species or sex contrast drawn from the rat files is a contrast across a study
@@ -78,6 +120,13 @@ Resolved against PubMed; DOIs link to the publisher of record.
 | 8 | [3858670](https://hero.epa.gov/hero/index.cfm/reference/details/reference_id/3858670) | Ohmori K, Kudo N, Katayama K, Kawashima Y (2003) Comparison of the toxicokinetics between perfluorocarboxylic acids with different carbon chain length. *Toxicology* 184(2–3):135–140. [DOI](https://doi.org/10.1016/s0300-483x(02)00573-5) | rat, M+F | PFOA arm of the C7–C10 series — **Figs 1A, 1B** |
 | 9 | [3859701](https://hero.epa.gov/hero/index.cfm/reference/details/reference_id/3859701) | Iwabuchi K, Senzaki N, Mazawa D, et al. (2017) Tissue toxicokinetics of perfluoro compounds with single and chronic low doses in male rats. *J Toxicol Sci* 42(3):301–317. [DOI](https://doi.org/10.2131/jts.42.301) | rat, M only | 0.1 mg/kg gavage, PFOA (C8A) and PFOS (C8S) — **Figs 1, 2** |
 
+Worth noticing: **Kudo 2002 is titled "Sex hormone-regulated renal transport
+of perfluorooctanoic acid."** The mechanism lesson 10 appeals to for the
+28-fold sex difference is the subject of one of the papers the data come
+from. That makes the observation and the explanation non-independent —
+reassuring rather than circular, but worth knowing you are not getting two
+separate pieces of evidence.
+
 ### Three things to know before trusting a row
 
 **Entry 3 is the largest single source and it is not a paper.** Kemper 2003
@@ -95,19 +144,55 @@ Iwabuchi are **means only**; Butenhoff, Chang, Kemper, Dzierlenga and Huang give
 individual animals. Fitting a hierarchical model (lesson 06) across a mixture of
 the two is a modelling decision, not a neutral default.
 
-**The digitisation layer is real and lossy.** Where the `source` column of the
-upstream file names a *Figure*, EPA read points off a published plot. Where it
-names a *Table*, *Appendix*, or *supplementary file*, the numbers are
-transcribed. Check which you have before treating a point as exact:
+**The digitisation layer is real and lossy — but it is quantified.** EPA
+records a `source` field per *record*, naming the table, appendix or figure
+each value came from, so the question is answerable row by row rather than
+study by study. Resolved per lesson file:
+
+| lesson file | from tables / appendices | digitised from figures |
+|---|---|---|
+| `PFOA_Male_primate.csv` | **43 (100%)** — Butenhoff Table 5 | 0 |
+| `PFOA_Male_rat.csv` | 808 (94%) | 52 (6%) |
+| `PFOA_Female_rat.csv` | 348 (92%) | 29 (8%) |
+| `PFOS_Male_rat.csv` | 108 (44%) | 138 (56%) |
+| `PFOS_Male_primate.csv` | 0 | **48 (100%)** — Chang figures |
+
+This matters more than it looks, and it points the opposite way to a blanket
+caveat. The monkey PFOA curve that lessons 02, 03, 04, 06, 07, 08 and 09 are
+all built on is **transcribed from Butenhoff's Table 5**, not read off a
+plot — so the dataset carrying most of the teaching is the most reliable one
+in the set. `PFOS_Male_primate.csv`, by contrast, is wholly digitised, so
+treat its third decimal place as decorative.
+
+None of the lessons' conclusions turn on a few per cent: the effects they
+rest on are 2-fold, 11-fold and 28-fold. If one ever did, go to the original
+paper rather than the CSV.
+
+### Verified against EPA, row by row
+
+`data/verify_against_epa.py` re-derives the table above and checks every
+value against the upstream files, normalising each study's own dose and
+concentration units on the way:
 
 ```bash
-cd "../pfas_tk_review/papers/CPHEA-Animal-PFAS-PK extracted_data"
-python3 -c "
-import csv,collections
-for f in ['Kudo_2990271.csv','Kemper_6302380.csv','Dzierlenga_5916078.csv']:
-    print(f, collections.Counter(r['source'] for r in csv.DictReader(open(f))))
-"
+# against the copy already in this repository
+python3 data/verify_against_epa.py \
+    "../pfas_tk_review/papers/CPHEA-Animal-PFAS-PK extracted_data"
+
+# or against EPA's repository directly
+git clone --depth 1 https://github.com/USEPA/CPHEA-Animal-PFAS-PK /tmp/epa
+python3 data/verify_against_epa.py /tmp/epa/extracted_data
 ```
+
+```
+1574 values compared, 0 unmatched
+largest disagreement anywhere: 1.421e-14 mg/L
+```
+
+That residual is floating-point noise from the unit conversions, not a data
+difference. So the export changed no values, and the uncertainty lives
+entirely in EPA's extraction step, where the table above says exactly how
+much of it there is.
 
 ## 3. What was changed on the way in
 

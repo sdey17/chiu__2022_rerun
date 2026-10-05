@@ -1,6 +1,6 @@
 # Human PFAS half-life estimates since 2022, and an assumption audit of every human estimate
 
-Extraction: `/home/user/chiu__2022_rerun/pfas_tk_review/db/human_halflife_extended.csv`
+Extraction: `pfas_tk_review/db/human_halflife_extended.csv`
 (142 rows, 39 studies, 28 chemical labels; 112 rows carry a half-life, 100 carry an initial
 serum concentration, 42 carry a volume of distribution, 31 carry a drinking-water
 concentration). Columns are a strict superset of `literature/studies.csv`, so the two
