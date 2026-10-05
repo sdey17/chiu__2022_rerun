@@ -46,7 +46,7 @@ original study                           9 studies, §2
         └─ digitised or transcribed by EPA CPHEA      <- the lossy step, quantified below
              └─ USEPA/CPHEA-Animal-PFAS-PK  (extracted_data/*.csv, one per study)
                   └─ local copy in this repo
-                     pfas_tk_review/papers/CPHEA-Animal-PFAS-PK extracted_data/
+                     tk_review/papers/CPHEA-Animal-PFAS-PK extracted_data/
                        └─ subset + unit harmonisation  <- verified exact, 0 of 1,574 rows differ
                             └─ tk_learning/data/*.csv   (5 files, 1,574 rows)
 ```
@@ -136,7 +136,7 @@ submitted to EPA under TSCA; there is no DOI and no journal version. The only
 public route to the primary document is the EPA docket record (AR-226-1499) via
 HERO. EPA's digitisation of its appendices is, in practice, the accessible form
 of that data — which is why it is listed as unobtainable in
-`pfas_tk_review/WANTED.md`.
+`tk_review/WANTED.md`.
 
 **Group means vs individual animals.** The `animal_id` column is `-1` where the
 source published only group means. Of the nine studies, Kudo, Ohmori, Kim and
@@ -177,7 +177,7 @@ concentration units on the way:
 ```bash
 # against the copy already in this repository
 python3 data/verify_against_epa.py \
-    "../pfas_tk_review/papers/CPHEA-Animal-PFAS-PK extracted_data"
+    "../tk_review/papers/CPHEA-Animal-PFAS-PK extracted_data"
 
 # or against EPA's repository directly
 git clone --depth 1 https://github.com/USEPA/CPHEA-Animal-PFAS-PK /tmp/epa
@@ -220,7 +220,7 @@ python3 ../fix_dose_units.py --write  # apply
 
 Not affected: `pfas_dose/`, which reads EPA's own processed data through
 `get_processed_data(dose_label="dose_mg")`; and
-`pfas_tk_review/scripts/fit_cphea_halflives.py`, which filters on
+`tk_review/scripts/fit_cphea_halflives.py`, which filters on
 `dose_units == "mg/kg"` explicitly.
 
 ## 4. The mouse data, and everything else not in the lessons
@@ -235,7 +235,7 @@ across three species — far more than the five lesson files use:
 | monkey (`primate`) | 446 |
 
 ```bash
-ls "../pfas_tk_review/papers/CPHEA-Animal-PFAS-PK extracted_data/"
+ls "../tk_review/papers/CPHEA-Animal-PFAS-PK extracted_data/"
 ```
 
 The eight studies carrying **mouse** rows, all gavage, both sexes except where
@@ -270,14 +270,14 @@ for six of the nine:
 
 To build a mouse lesson file, the loader needs no change — only a subset
 written in the same column layout. The sex contrast is the interesting one,
-because its *sign* differs from the rat: see `pfas_tk_review/REPORT.md` §3.2a
+because its *sign* differs from the rat: see `tk_review/REPORT.md` §3.2a
 and `db/primary_2026/lou2009_mouse_tk.csv`.
 
 ## 5. Related data elsewhere in this repository
 
 | path | what it is | source |
 |---|---|---|
-| `../pfas_tk_review/db/primary_2026/*.csv` | 24 per-paper extractions made by reading the papers directly, not via EPA | each row carries `source_table` and a PMID or DOI |
-| `../pfas_tk_review/db/cphea_fitted_halflives.csv` | half-lives fitted in this project from the upstream curves | **read `REPORT.md` §8 item 9 first** — the terminal-window selection is biased on biphasic curves |
-| `../pfas_tk_review/db/combined/` | the consolidated 1,438-row database | every row carries `provenance` |
+| `../tk_review/db/primary_2026/*.csv` | 24 per-paper extractions made by reading the papers directly, not via EPA | each row carries `source_table` and a PMID or DOI |
+| `../tk_review/db/cphea_fitted_halflives.csv` | half-lives fitted in this project from the upstream curves | **read `REPORT.md` §8 item 9 first** — the terminal-window selection is biased on biphasic curves |
+| `../tk_review/db/combined/` | the consolidated 1,438-row database | every row carries `provenance` |
 | `../../chiu_replication/data/*.R` | Chiu et al. 2022 human population model inputs | the Chiu paper and its SI are in `chiu_replication/paper/` |

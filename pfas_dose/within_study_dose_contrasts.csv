@@ -1,0 +1,6 @@
+chemical,species,sex,study_hero,route,dose_lo_mgkg,dose_hi_mgkg,fold_dose,cl_ratio,ratio_lo,ratio_hi,within_0p8_1p2,provenance
+PFHxA,rat,Male,2850314,gavage,2.0,100.0,50.0,1.135978,0.860546,1.499567,True,"stdout of dose_analysis.py, captured 2025-10-01; the script needs EPA_REPO and a PyMC refit to reproduce"
+PFHxA,rat,Male,2850396,gavage,50.0,150.0,3.0,1.171223,0.873808,1.569867,True,"stdout of dose_analysis.py, captured 2025-10-01; the script needs EPA_REPO and a PyMC refit to reproduce"
+PFHxA,rat,Male,2850396,gavage,50.0,300.0,6.0,1.048537,0.782993,1.404139,True,"stdout of dose_analysis.py, captured 2025-10-01; the script needs EPA_REPO and a PyMC refit to reproduce"
+PFHxA,rat,Male,5916078,gavage,40.0,80.0,2.0,1.195960,0.887829,1.611031,True,"stdout of dose_analysis.py, captured 2025-10-01; the script needs EPA_REPO and a PyMC refit to reproduce"
+PFHxA,rat,Male,5916078,gavage,40.0,160.0,4.0,1.167722,0.852275,1.599924,True,"stdout of dose_analysis.py, captured 2025-10-01; the script needs EPA_REPO and a PyMC refit to reproduce"

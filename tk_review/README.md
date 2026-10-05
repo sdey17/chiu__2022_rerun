@@ -81,7 +81,7 @@ Rebuild with `python3 scripts/build_combined_datasets.py` then
 
 ```bash
 pip install openpyxl matplotlib
-cd pfas_tk_review
+cd tk_review
 
 python3 scripts/parse_xlsx_list.py       # classify the supplied citation list
 python3 scripts/resolve_pmids.py         # resolve each to a PMID via NCBI

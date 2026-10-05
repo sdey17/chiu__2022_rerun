@@ -20,7 +20,7 @@ differences, which is exactly where a spurious factor would mislead.
 Not affected: ../pfas_dose, which reads EPA's own processed data through
 get_processed_data(dose_label="dose_mg") rather than these CSVs, and whose
 meta-regression uses within-study contrasts that are invariant to a constant
-unit error anyway; and ../pfas_tk_review/scripts/fit_cphea_halflives.py, which
+unit error anyway; and ../tk_review/scripts/fit_cphea_halflives.py, which
 filters on dose_units == "mg/kg" explicitly.
 
 Run:  python fix_dose_units.py          # report only

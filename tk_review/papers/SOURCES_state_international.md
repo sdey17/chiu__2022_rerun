@@ -1,7 +1,7 @@
 # SOURCES — US state agencies and non-US national agencies (PFAS toxicokinetics)
 
 Retrieval log for PART 1 (US states) and PART 2 (non-US agencies).
-Files live in `pfas_tk_review/papers/`.
+Files live in `tk_review/papers/`.
 Output CSV: `../db/state_international_regulatory.csv`.
 
 ## A. Already on disk from the prior (terminated) run — read from disk, not re-fetched

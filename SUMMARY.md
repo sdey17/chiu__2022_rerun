@@ -11,7 +11,7 @@ write-up. Read this first, then follow the links.
 | 3 | Does clearance depend on dose *within* a species? | [`pfas_dose/`](pfas_dose/) | yes for PFOA, but weakly (slope ≈ 0.11); no for PFHxA |
 | 4 | Does dose explain the human/rodent half-life gap? | [`species_dose/`](species_dose/) | **no** — about 13% of it at best |
 | 5 | What does the wider literature actually support? | [`literature/`](literature/) | the 17-fold PFOA controversy is one assumed constant |
-| 6 | So *why* do the species differ, and what did the field assume? | [`pfas_tk_review/`](pfas_tk_review/) | clearance, not distribution — and one mechanistic axis orders every species |
+| 6 | So *why* do the species differ, and what did the field assume? | [`tk_review/`](tk_review/) | clearance, not distribution — and one mechanistic axis orders every species |
 
 ---
 
@@ -218,9 +218,9 @@ scoring. Note the I² split: community-water cohorts agree with each other
 Phases 1–5 asked whether *dose* explained the species gap and found it did
 not. Phase 6 asked what does, by reading 186 full texts and re-deriving the
 numbers from the tables they came from. Full write-up in
-[`pfas_tk_review/report/REPORT.md`](pfas_tk_review/report/REPORT.md);
+[`tk_review/report/REPORT.md`](tk_review/report/REPORT.md);
 the short version is
-[`pfas_tk_review/EXECUTIVE_SUMMARY.md`](pfas_tk_review/EXECUTIVE_SUMMARY.md).
+[`tk_review/EXECUTIVE_SUMMARY.md`](tk_review/EXECUTIVE_SUMMARY.md).
 
 **It is clearance, not distribution.** Six datasets that measure both terms
 in both sexes: Vd spans **1.33–2.18×** (male higher every time), clearance
@@ -299,7 +299,7 @@ order it.
   paper's own supplementary variance decomposition rather than
   individual-level data: age carries 2–13× the partial R² of initial PFAS
   concentration, and the tertile effect is only 25–37% the size of the age
-  effect. See `pfas_tk_review/db/li2022_age_adjustment.csv`.
+  effect. See `tk_review/db/li2022_age_adjustment.csv`.
 - **Why the species differ.** Phase 6: clearance, not distribution, and one
   reabsorption axis orders every species.
 - **The Han/Fischer binding conflict.** A ligand:protein ratio artefact, not
@@ -325,7 +325,7 @@ order it.
    slope should be *flatter* than males'. Sharp and falsifiable.
 
 The review keeps its own live list in
-[`pfas_tk_review/WANTED.md`](pfas_tk_review/WANTED.md) (papers still wanted)
+[`tk_review/WANTED.md`](tk_review/WANTED.md) (papers still wanted)
 and §9 of the report (what nobody knows).
 
 ## Where to go next

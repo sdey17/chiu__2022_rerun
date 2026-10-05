@@ -79,7 +79,21 @@ chemicals within rats.
 ## Files
 
 ```
-fit_rat_pfoa.py     fit both model structures, compare by LOO, save traces
+fit_animal.py       fit both model structures, compare by LOO, save traces
 dose_analysis.py    per-dataset clearance, within-study ratios, dose slope
+duration_check.py   is the slope a follow-up-duration artefact?
 plot_dose.py        clearance vs dose, one panel per study
 ```
+
+Results, as data rather than prose. Refitting needs `EPA_REPO` and about an
+hour of PyMC, so the numbers these scripts printed are kept here:
+
+| file | rows | what it holds |
+|---|---|---|
+| `per_dataset_fits.csv` | 25 | one row per (chemical, study, dose, route): half-life, follow-up, points, half-lives observed, clearance with 90% CI where available |
+| `within_study_dose_contrasts.csv` | 5 | PFHxA clearance ratios against the lowest dose of the same study, with the practical-equivalence verdict |
+| `equal_duration_dose_slopes.csv` | 6 | the dose slope beta restricted to equal-follow-up subsets, per study and pooled, for both chemicals |
+| `PFOA_Male_rat_loo.csv`, `PFHxA_Male_rat_loo.csv` | 2 each | the 1- vs 2-compartment LOO comparison |
+
+Each row carries a `provenance` field naming the script that produced it.
+`RESULTS.md` is the write-up; these files are the numbers behind it.
