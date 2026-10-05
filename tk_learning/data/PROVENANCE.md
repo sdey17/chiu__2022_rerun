@@ -51,16 +51,48 @@ in mice, rats, and non-human primates using a Bayesian hierarchical
 methodology", EPA ORD/CPHEA — [PMC12172007](https://pmc.ncbi.nlm.nih.gov/articles/PMC12172007/)
 **Licence:** MIT, © U.S. Federal Government
 
-EPA extracted the time-course values from the published figures and
-tables into a SQLite database (`PFAS.db`), with chemical identity keyed
-to DSSTox substance IDs (`auxiliary/pfas_master.csv`). Several of these
-studies report data only as figures, so the EPA values are
-**digitised from plots**, not transcribed from a table. That is normal
-practice in this field and is the main reason to treat the third
-decimal place as decorative.
+**EPA ships the extracted data as plain CSVs**, one per study, in
+[`extracted_data/`](https://github.com/USEPA/CPHEA-Animal-PFAS-PK/tree/main/extracted_data),
+named `Author_HEROID.csv`. These are the direct upstream of everything
+in this folder, and you do not need to build anything to read them:
 
-To rebuild `PFAS.db` from their repository, follow their README; the
-database is constructed by their build scripts rather than shipped.
+| our file | upstream |
+|---|---|
+| `PFOA_Male_primate.csv` | [`Butenhoff_3749227.csv`](https://github.com/USEPA/CPHEA-Animal-PFAS-PK/blob/main/extracted_data/Butenhoff_3749227.csv) |
+| `PFOS_Male_primate.csv` | [`Chang_1289832.csv`](https://github.com/USEPA/CPHEA-Animal-PFAS-PK/blob/main/extracted_data/Chang_1289832.csv) |
+| `PFOA_Male_rat.csv` | `Kudo_2990271`, `Kim_3749289`, `Ohmori_3858670`, `Iwabuchi_3859701`, `Dzierlenga_5916078`, `Kemper_6302380` |
+| `PFOA_Female_rat.csv` | `Kudo_2990271`, `Kim_3749289`, `Ohmori_3858670`, `Dzierlenga_5916078`, `Kemper_6302380` |
+| `PFOS_Male_rat.csv` | `Chang_1289832`, `Kim_3749289`, `Iwabuchi_3859701`, `Huang_5387170` |
+
+Column definitions are in
+[`extracted_data/README.txt`](https://github.com/USEPA/CPHEA-Animal-PFAS-PK/blob/main/extracted_data/README.txt).
+The SQLite database (`PFAS.db`) the analysis notebooks use is built
+from these CSVs by `auxiliary_notebooks/create_db.ipynb`; it is not
+itself checked in.
+
+### Each record says where it came from
+
+EPA's files carry a `source` column naming the table, appendix or
+figure each value was taken from — so the digitisation question is
+answerable per record rather than per study:
+
+| our file | from tables/appendices | digitised from figures |
+|---|---|---|
+| `PFOA_Male_primate.csv` | **43 (100%)** — Butenhoff Table 5 | 0 |
+| `PFOA_Male_rat.csv` | 808 (94%) | 52 (6%) |
+| `PFOA_Female_rat.csv` | 348 (92%) | 29 (8%) |
+| `PFOS_Male_rat.csv` | 108 (44%) | 138 (56%) |
+| `PFOS_Male_primate.csv` | 0 | **48 (100%)** — Chang figures |
+
+This matters more than it looks. The monkey PFOA curve that lessons 2,
+3, 4, 6, 7, 8 and 9 are built on is **transcribed from Butenhoff's
+Table 5**, not read off a plot — so the dataset carrying most of the
+teaching is the most reliable one in the set. The PFOS primate data,
+by contrast, is entirely digitised from figures.
+
+Units differ per study in EPA's files (`ug/ml`, `ng/ml`, `ug/L`, and
+`nmol/ml` for Kudo and Ohmori, which needs a molecular weight to
+convert). Our export normalises everything to **mg/L**.
 
 ## Link 3 — this repository
 
@@ -83,24 +115,45 @@ No values were altered, filtered or imputed. What changed:
 
 ## Checking this yourself
 
-Any of these, independently of the others:
+**Verified: all 1574 values are identical to EPA's.** Reproduce it:
+
+```bash
+git clone --depth 1 https://github.com/USEPA/CPHEA-Animal-PFAS-PK /tmp/epa
+python data/verify_against_epa.py /tmp/epa/extracted_data
+```
+
+```
+1574 values compared, 0 unmatched
+largest disagreement anywhere: 1.421e-14 mg/L
+```
+
+That residual is floating-point noise from the unit conversions, not a
+data difference. The script also prints the table-versus-figure split
+above, so it re-derives the provenance claims rather than trusting this
+file.
+
+Three further checks, independent of each other:
 
 1. **Resolve a HERO ID** at the URL above and compare the author and
    year against the `author` column in the CSV.
-2. **Compare against the paper.** Butenhoff 2004 is the easiest: three
-   cynomolgus monkeys, 10 mg/kg IV, serum followed to day 123. Open the
-   paper's figure and check it against `PFOA_Male_primate.csv`.
-3. **Rebuild from EPA.** Clone their repository, build `PFAS.db`, and
-   re-run the export. If a row disagrees with ours, theirs is right.
-4. **Check a derived number.** `../test_lessons.py` re-derives every
+2. **Compare against the paper itself.** Butenhoff 2004 is the easiest:
+   three cynomolgus monkeys, 10 mg/kg IV, followed to day 123, reported
+   in that paper's Table 5. Check it against `PFOA_Male_primate.csv`
+   directly.
+3. **Check a derived number.** `../test_lessons.py` re-derives every
    value quoted in the lessons straight from these CSVs.
 
 ## One caveat worth stating plainly
 
-Two links in this chain were done by other people and one by this
-repository, and the digitisation step is the one carrying the most
-uncertainty — reading points off a published figure introduces error
-that no downstream analysis can recover. If a conclusion in these
-lessons turned on a 5% difference, you should go to the original paper
-rather than trust the CSV. None of them do: the effects the lessons
-rest on are 2-fold, 28-fold and 11-fold.
+Link 3 is now verified exactly, so the uncertainty lives entirely in
+link 2: reading values off a published figure introduces error that no
+downstream analysis can recover.
+
+The table above says where that applies. Most of the data is
+transcribed rather than digitised, and the dataset the lessons lean on
+hardest is 100% transcribed — but `PFOS_Male_primate.csv` is wholly
+digitised, so treat its third decimal place as decorative.
+
+If a conclusion in these lessons turned on a 5% difference you should
+go to the original paper rather than trust the CSV. None of them do:
+the effects they rest on are 2-fold, 11-fold and 28-fold.
