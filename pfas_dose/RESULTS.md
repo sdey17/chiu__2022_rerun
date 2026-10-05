@@ -19,7 +19,7 @@ Two chemicals so far, both male rats. **PFOA yes, PFHxA no.**
 
 # PFOA in male rats
 
-First result. Fit of the EPA model (`fit_rat_pfoa.py`) to 860 observations
+First result. Fit of the EPA model (`fit_animal.py`) to 860 observations
 from 6 studies / 14 datasets, then `dose_analysis.py`.
 
 ## The fit reproduces theirs

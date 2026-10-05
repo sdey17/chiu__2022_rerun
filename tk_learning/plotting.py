@@ -67,7 +67,10 @@ def save(fig, name, note=None):
     else:
         plt.close(fig)
         print(f"   [figure] figures/{name}")
-    return path
+    # Return the repo-relative form, not `path`. Nothing uses this as a real
+    # filesystem path; it is echoed as a cell's last expression in the
+    # committed notebooks, where an absolute path would go stale.
+    return f"figures/{name}"
 
 
 def data_points(ax, t, C, label="observed", color=INK, **kw):
@@ -79,8 +82,12 @@ def data_points(ax, t, C, label="observed", color=INK, **kw):
 
 
 def model_line(ax, t, C, label="model", color=BLUE, **kw):
+    # linestyle goes through setdefault rather than a "-" fmt string, so a
+    # caller passing linestyle= overrides it instead of colliding with it
+    # (matplotlib warns and silently prefers the keyword).
     kw.setdefault("lw", 1.8)
-    return ax.plot(t, C, "-", color=color, label=label, **kw)
+    kw.setdefault("linestyle", "-")
+    return ax.plot(t, C, color=color, label=label, **kw)
 
 
 def fit_and_residuals(t_obs, C_obs, t_grid, C_pred, C_pred_at_obs,
