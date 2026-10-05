@@ -1,23 +1,29 @@
 """
-Build the printable summary PDF: report/PFAS_TK_summary.pdf
+Build the printable review: report/PFAS_TK_review.pdf
 
-Why a separate document rather than a rendering of REPORT.md. The report is
-~2,000 lines written for someone working through the evidence, with the
-derivations in line. This is the version to hand someone: the question, the
-figure, the seven findings with the table each one rests on, what the work
-corrects in the published record, and what is still open -- in a form that
-prints.
+A mini literature review, written to stand on its own and be printed: the
+question, the evidence base, nine substantive sections, what the work corrects
+in the published record, what is still open, and a numbered reference list.
 
-Nothing here is retyped from memory. Every table below is either read from
-db/*.csv at build time or transcribed from report/REPORT.md with the section
-noted, so the two cannot silently diverge.
+Two rules this file enforces mechanically rather than by care.
 
-Run:  python3 scripts/make_summary_pdf.py
+  * Every number in a table is read from db/ at build time, or transcribed from
+    report/REPORT.md with the section noted. The document cannot drift from
+    the data it describes.
+  * In-text citations are keys into REFS below, numbered by order of first
+    appearance at render time, so a reference cannot be mis-numbered and an
+    unused or undefined one fails the build.
+
+reportlab's built-in fonts are WinAnsi only; anything outside that set renders
+as a solid black box, so there are no Unicode sub/superscripts anywhere (the
+<sub>/<super> markup is used instead) and check_glyphs() fails the build
+rather than shipping boxes.
+
+Needs: reportlab.  Run:  python3 scripts/make_summary_pdf.py
 """
 
 import csv
 import os
-import re
 import sys
 
 from reportlab.lib import colors
@@ -30,131 +36,201 @@ from reportlab.platypus import (BaseDocTemplate, Frame, Image, KeepTogether,
                                 Paragraph, Spacer, Table, TableStyle)
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUT = os.path.join(HERE, "report", "PFAS_TK_summary.pdf")
+OUT = os.path.join(HERE, "report", "PFAS_TK_review.pdf")
 FIG = os.path.join(HERE, "figures", "fig00_master.png")
 
-INK, SOFT, RULE = colors.HexColor("#111111"), colors.HexColor("#55534f"), \
-    colors.HexColor("#d8d7d3")
+INK = colors.HexColor("#111111")
+SOFT = colors.HexColor("#55534f")
+RULE = colors.HexColor("#d8d7d3")
 ACCENT = colors.HexColor("#2a78d6")
 
-# The 14 built-in Type 1 fonts cover WinAnsi only. Anything outside it renders
-# as a black box, so the content is checked against this set before building
-# and the build fails loudly rather than shipping a page of boxes.
-SAFE_EXTRA = set("µ×·°–—‘’“”"
-                 "…½éöåø")
+SAFE_EXTRA = set("\u00b5\u00d7\u00b7\u00b0\u2013\u2014\u2018\u2019"
+                 "\u201c\u201d\u2026\u00bd\u00e9\u00f6\u00e5\u00f8"
+                 "\u00c5")
+
+REFS = {
+"argoul2026": "Argoul CML, Toutain P-L, Picard-Hagen N, Mselli-Lakhal L, Dauwe Y, Roques BB, Lacroix MZ, Gayrard V (2026). Nonlinear mixed-effects modeling of the intravenous and oral kinetics of eleven perfluoroalkyl substances in female mice. <i>Environmental Research</i> 303:124802. doi:10.1016/j.envres.2026.124802",
+"han2012": "Han X, Nabb DL, Russell MH, Kennedy GL, Rickard RW (2012). Renal elimination of perfluorocarboxylates (PFCAs). <i>Chemical Research in Toxicology</i> 25(1):35-46. doi:10.1021/tx200363w",
+"kudo2001": "Kudo N, Suzuki E, Katakura M, Ohmori K, Noshiro R, Kawashima Y (2001). Comparison of the elimination between perfluorinated fatty acids with different carbon chain length in rats. <i>Chemico-Biological Interactions</i> 134(2):203-216. doi:10.1016/s0009-2797(01)00155-7",
+"kudo2002": "Kudo N, Katakura M, Sato Y, Kawashima Y (2002). Sex hormone-regulated renal transport of perfluorooctanoic acid. <i>Chemico-Biological Interactions</i> 139(3):301-316. doi:10.1016/s0009-2797(02)00006-6",
+"lou2009": "Lou I, Wambaugh JF, Lau C, Hanson RG, Lindstrom AB, Strynar MJ, Zehr RD, Setzer RW, Barton HA (2009). Modeling single and repeated dose pharmacokinetics of PFOA in mice. <i>Toxicological Sciences</i> 107(2):331-341. doi:10.1093/toxsci/kfn234",
+"tatum2011": "Tatum-Gibbs K, Wambaugh JF, Das KP, Zehr RD, Strynar MJ, Lindstrom AB, Delinsky A, Lau C (2011). Comparative pharmacokinetics of perfluorononanoic acid in rat and mouse. <i>Toxicology</i> 281(1-3):48-55. doi:10.1016/j.tox.2011.01.003",
+"thompson2010": "Thompson J, Lorber M, Toms L-ML, Kato K, Calafat AM, Mueller JF (2010). Use of simple pharmacokinetic modeling to characterize exposure of Australians to perfluorooctanoic acid and perfluorooctane sulfonic acid. <i>Environment International</i> 36(4):390-397. doi:10.1016/j.envint.2010.02.008, with its corrigendum, <i>Environment International</i> 36(6):652. doi:10.1016/j.envint.2010.05.008",
+"yang2010": "Yang C-H, Glover KP, Han X (2010). Characterization of cellular uptake of perfluorooctanoate via organic anion-transporting polypeptide 1A2, organic anion transporter 4, and urate transporter 1 for their potential roles in mediating human renal reabsorption of perfluorocarboxylates. <i>Toxicological Sciences</i> 117(2):294-302. doi:10.1093/toxsci/kfq219",
+"sundstrom2012": "Sundstr&ouml;m M, Chang S-C, Noker PE, Gorman GS, Hart JA, Ehresman DJ, Bergman &Aring;, Butenhoff JL (2012). Comparative pharmacokinetics of perfluorohexanesulfonate (PFHxS) in rats, mice, and monkeys. <i>Reproductive Toxicology</i> 33(4):441-451. doi:10.1016/j.reprotox.2011.07.004",
+"cheng2005": "Cheng X, Maher J, Chen C, Klaassen CD (2005). Tissue distribution and ontogeny of mouse organic anion transporting polypeptides (Oatps). <i>Drug Metabolism and Disposition</i> 33(7):1062-1073. doi:10.1124/dmd.105.003640",
+"cheng2006": "Cheng X, Maher J, Lu H, Klaassen CD (2006). Endocrine regulation of gender-divergent mouse organic anion-transporting polypeptide (Oatp) expression. <i>Molecular Pharmacology</i> 70(4):1291-1297. doi:10.1124/mol.106.025122 (abstract only; full text paywalled)",
+"huang2019": "Huang MC, Dzierlenga AL, Robinson VG, Waidyanatha S, DeVito MJ, Eifrid MA, Granville CA, Gibbs ST, Blystone CR (2019). Toxicokinetics of perfluorobutane sulfonate, perfluorohexane-1-sulphonic acid, and perfluorooctane sulfonic acid in male and female Hsd:Sprague Dawley SD rats after intravenous and gavage administration. <i>Toxicology Reports</i> 6:645-655. doi:10.1016/j.toxrep.2019.06.016, with its corrigendum, <i>Toxicology Reports</i> 8:365. doi:10.1016/j.toxrep.2021.02.001",
+"han2003": "Han X, Snow TA, Kemper RA, Jepson GW (2003). Binding of perfluorooctanoic acid to rat and human plasma proteins. <i>Chemical Research in Toxicology</i> 16(6):775-781. doi:10.1021/tx034005w",
+"yang2009": "Yang C-H, Glover KP, Han X (2009). Organic anion transporting polypeptide (Oatp) 1a1-mediated perfluorooctanoate transport and evidence for a renal reabsorption mechanism of Oatp1a1 in renal elimination of perfluorocarboxylates in rats. <i>Toxicology Letters</i> 190(2):163-171. doi:10.1016/j.toxlet.2009.07.011",
+"louisse2024": "Louisse J, Pedroni L, van den Heuvel JJMW, Rijkers D, Leenders L, Noorlander A, Punt A, Russel FGM, Koenderink JB, et al. (2024). In vitro and in silico characterization of the transport of selected perfluoroalkyl carboxylic acids and perfluoroalkyl sulfonic acids by human organic anion transporter 1 (OAT1), OAT2 and OAT3. <i>Toxicology</i> 509:153961. doi:10.1016/j.tox.2024.153961",
+"louisse2023": "Louisse J, et al. (2023). Perfluoroalkyl substances (PFASs) are substrates of the renal human organic anion transporter 4 (OAT4). <i>Archives of Toxicology</i>. doi:10.1007/s00204-022-03428-6",
+"ohmori2003": "Ohmori K, Kudo N, Katayama K, Kawashima Y (2003). Comparison of the toxicokinetics between perfluorocarboxylic acids with different carbon chain length. <i>Toxicology</i> 184(2-3):135-140. doi:10.1016/s0300-483x(02)00573-5",
+"cheng2009": "Cheng X, Klaassen CD (2009). Tissue distribution, ontogeny, and hormonal regulation of xenobiotic transporters in mouse kidneys. <i>Drug Metabolism and Disposition</i> 37(11):2178-2185. doi:10.1124/dmd.109.027177",
+"buist2004": "Buist SCN, Klaassen CD (2004). Rat and mouse differences in gender-predominant expression of organic anion transporter (Oat1-3; Slc22a6-8) mRNA levels. <i>Drug Metabolism and Disposition</i> 32(6):620-625. doi:10.1124/dmd.32.6.620",
+"shi2016": "Shi Y, Vestergren R, Xu L, Zhou Z, Li C, Liang Y, Cai Y (2016). Human exposure and elimination kinetics of chlorinated polyfluoroalkyl ether sulfonic acids (Cl-PFESAs). <i>Environmental Science &amp; Technology</i> 50(5):2396-2404. doi:10.1021/acs.est.5b05849",
+"maso2021": "Maso L, Trande M, Liberi S, Moro G, Daems E, Linciano S, et al. (2021). Unveiling the binding mode of perfluorooctanoic acid to human serum albumin. <i>Protein Science</i> 30(4):830-841. doi:10.1002/pro.4036",
+"zurlinden2025": "Zurlinden TJ, Dzierlenga MW, Kapraun DF, Ring C, Bernstein AS, Schlosser PM, Morozov V (2025). Estimation of species- and sex-specific PFAS pharmacokinetics in mice, rats, and non-human primates using a Bayesian hierarchical methodology. <i>Toxicology and Applied Pharmacology</i> 499:117336. doi:10.1016/j.taap.2025.117336. Data: github.com/USEPA/CPHEA-Animal-PFAS-PK",
+"weaver2010": "Weaver YM, Ehresman DJ, Butenhoff JL, Hagenbuch B (2010). Roles of rat renal organic anion transporters in transporting perfluorinated carboxylates with different chain lengths. <i>Toxicological Sciences</i> 113(2):305-314. doi:10.1093/toxsci/kfp275",
+"zhao2017": "Zhao W, Zitzow JD, Weaver Y, Ehresman DJ, Chang SC, Butenhoff JL, Hagenbuch B (2017). Organic anion transporting polypeptides contribute to the disposition of perfluoroalkyl acids in humans and rats. <i>Toxicological Sciences</i> 156(1):84-95. doi:10.1093/toxsci/kfw236",
+"abraham2024": "Abraham K, Mertens H, Richter L, Mielke H, et al. (2024). Kinetics of 15 PFAS after a single oral dose in one adult volunteer: terminal half-lives, clearances and derived volumes of distribution. <i>Environment International</i>. doi:10.1016/j.envint.2024.109047",
+"fischer2024": "Fischer FC, et al. (2024). Protein binding of PFAS measured by solid-phase microextraction at environmentally relevant PFAS:protein ratios. <i>Environmental Science &amp; Technology</i>. doi:10.1021/acs.est.3c07415, and Fischer FC, et al. (2025). doi:10.1021/acs.est.5c05473",
+"andersson2025": "Andersson AG, et al. (2025). The relative importance of fecal and urinary excretion of perfluorooctane sulfonic acid and perfluorooctanoic acid after high exposure: an observational study in Ronneby, Sweden. <i>Environmental Research</i> 285:122487. doi:10.1016/j.envres.2025.122487",
+"li2022": "Li Y, Andersson A, Xu Y, Pineda D, Nilsson CA, Lindh CH, Jakobsson K, Fletcher T (2022). Determinants of serum half-lives for perfluoroalkyl substances after end of exposure to contaminated drinking water, Ronneby cohort. (Held as a structured abstract; full text paywalled.)",
+"chiu2022": "Chiu WA, et al. (2022). Bayesian estimation of human population toxicokinetics of PFOA, PFOS, PFHxS and PFNA from studies of contaminated drinking water. <i>Environmental Health Perspectives</i> 130(12):127001. doi:10.1289/EHP10103",
+"butenhoff2004": "Butenhoff JL, Kennedy GL, Hinderliter PM, Lieder PH, Jung R, Hansen KJ, Gorman GS, Noker PE, Thomford PJ (2004). Pharmacokinetics of perfluorooctanoate in cynomolgus monkeys. <i>Toxicological Sciences</i> 82(2):394-406. doi:10.1093/toxsci/kfh302",
+"chang2012": "Chang S-C, Noker PE, Gorman GS, Gibson SJ, Hart JA, Ehresman DJ, Butenhoff JL (2012). Comparative pharmacokinetics of perfluorooctanesulfonate (PFOS) in rats, mice, and monkeys. <i>Reproductive Toxicology</i> 33(4):428-440. doi:10.1016/j.reprotox.2011.07.002",
+"dzierlenga2020": "Dzierlenga AL, Robinson VG, Waidyanatha S, DeVito MJ, Eifrid MA, Gibbs ST, Granville CA, Blystone CR (2020). Toxicokinetics of PFHxA, PFOA and PFDA in male and female Hsd:Sprague Dawley SD rats following intravenous or gavage administration. <i>Xenobiotica</i> 50(6):722-732. doi:10.1080/00498254.2019.1683776",
+"kim2016": "Kim S-J, Heo S-H, Lee D-S, Hwang IG, Lee Y-B, Cho H-Y (2016). Gender differences in pharmacokinetics and tissue distribution of 3 perfluoroalkyl and polyfluoroalkyl substances in rats. <i>Food and Chemical Toxicology</i> 97:243-255. doi:10.1016/j.fct.2016.09.017",
+"iwabuchi2017": "Iwabuchi K, Senzaki N, Mazawa D, Sato I, Hara M, Ueda F, Liu W, Tsuda S (2017). Tissue toxicokinetics of perfluoro compounds with single and chronic low doses in male rats. <i>Journal of Toxicological Sciences</i> 42(3):301-317. doi:10.2131/jts.42.301",
+"kemper2003": "Kemper RA (2003). Perfluorooctanoic acid: toxicokinetics in the rat. Unpublished report, DuPont-7473; US EPA public docket AR-226-1499. Haskell Laboratory, E.I. du Pont de Nemours. (Not obtained; its data are used as digitised by the EPA database [zurlinden2025].)",
+"bartell2010": "Bartell SM, Calafat AM, Lyu C, Kato K, Ryan PB, Steenland K (2010). Rate of decline in serum PFOA concentrations after granular activated carbon filtration at two public water systems in Ohio and West Virginia. <i>Environmental Health Perspectives</i> 118(2):222-228. doi:10.1289/ehp.0901252",
+"gasiorowski2022": "Gasiorowski R, Forbes MK, Silver G, Krastev Y, Hamdorf B, Lewis B, et al. (2022). Effect of plasma and blood donations on levels of perfluoroalkyl and polyfluoroalkyl substances in firefighters in Australia: a randomized clinical trial. <i>JAMA Network Open</i> 5(4):e226257. doi:10.1001/jamanetworkopen.2022.6257",
+"harada2007": "Harada K, et al. (2007). Biliary excretion and enterohepatic recirculation of perfluorooctane sulfonate in humans. Values used here are as tabulated by US EPA (2016), <i>Health Effects Support Document for Perfluorooctane Sulfonate</i>; the original was not obtained.",
+"delaere2025": "Delaere I, Harris K, Gaskin S, Tefera Y, Mitchell K, Springer D, Mills S (2025). Changes in serum perfluorooctane sulfonic acid and perfluorohexane sulfonic acid concentrations in firefighters accessing a voluntary PFAS reduction treatment program. <i>Environment International</i> 202:109609. doi:10.1016/j.envint.2025.109609",
+"genuis2010": "Genuis SJ, et al. (2010). Human elimination of perfluorinated compounds under cholestyramine administration. (Cited via [andersson2025] and the EPA assessment; the original was not obtained.)",
+"moller2024": "M&oslash;ller S, et al. (2024). Cholestyramine cross-over trial for PFAS lowering. <i>Environment International</i>. doi:10.1016/j.envint.2024.108471 (cited via [andersson2025])",
+"zhang2013": "Zhang Y, Beesoon S, Zhu L, Martin JW (2013). Biomonitoring of perfluoroalkyl acids in human urine and estimates of biological half-life. <i>Environmental Science &amp; Technology</i> 47(18):10619-10627. doi:10.1021/es401905e",
+"yi2022": "Yi S, et al. (2022). Biotransformation of 6:2 chlorinated polyfluoroalkyl ether sulfonate in the rat. (Held as a structured abstract; see db/primary_2026/yi2022_clpfesa_rat.csv.)",
+"epa2024pfoa": "US EPA (2024). <i>Final Human Health Toxicity Assessment for Perfluorooctanoic Acid (PFOA)</i>, EPA-815R24006, and its Appendix (Table B-26).",
+"epa2024pfos": "US EPA (2024). <i>Final Human Health Toxicity Assessment for Perfluorooctane Sulfonic Acid (PFOS)</i>.",
+"epa2025pfhxs": "US EPA (2025). <i>IRIS Toxicological Review of Perfluorohexanesulfonic Acid (PFHxS)</i>, Table 3-3.",
+"epa2023pfhxa": "US EPA (2023). <i>IRIS Toxicological Review of Perfluorohexanoic Acid (PFHxA)</i>.",
+"oehha2024": "California OEHHA (2024). <i>Public Health Goals for PFOA and PFOS in Drinking Water</i>, Appendix Tables A6.3, A6.4 and 4.8.1.",
+"atsdr2021": "ATSDR (2021). <i>Toxicological Profile for Perfluoroalkyls</i>, Tables 3-5 and 3-6.",
+"efsa2020": "EFSA CONTAM Panel (2020). Risk to human health related to the presence of perfluoroalkyl substances in food. <i>EFSA Journal</i> 18(9):6223. doi:10.2903/j.efsa.2020.6223",
+"njdwqi2018": "New Jersey Drinking Water Quality Institute (2017-2018). Health-based maximum contaminant level support documents for PFOA, PFOS and PFNA.",
+}
+
+# ---------------------------------------------------------------------------
+# citation machinery: numbers assigned by order of first appearance
+# ---------------------------------------------------------------------------
+_ORDER = []
 
 
-# --------------------------------------------------------------------------
+def c(*keys):
+    """Render an in-text citation marker for one or more reference keys."""
+    nums = []
+    for k in keys:
+        if k not in REFS:
+            raise KeyError(f"undefined reference key: {k}")
+        if k not in _ORDER:
+            _ORDER.append(k)
+        nums.append(str(_ORDER.index(k) + 1))
+    return "[" + ", ".join(nums) + "]"
+
+
+# ---------------------------------------------------------------------------
 # styles
-# --------------------------------------------------------------------------
-def styles():
+# ---------------------------------------------------------------------------
+def _styles():
     ss = getSampleStyleSheet()
-    base = dict(fontName="Times-Roman", textColor=INK, leading=12.6)
+    base = dict(fontName="Times-Roman", textColor=INK)
     return {
         "title": ParagraphStyle("t", parent=ss["Title"], fontName="Times-Bold",
-                                fontSize=23, leading=27, textColor=INK,
+                                fontSize=22, leading=26, textColor=INK,
                                 alignment=0, spaceAfter=4),
-        "subtitle": ParagraphStyle("st", fontName="Times-Roman", fontSize=13,
-                                   leading=17, textColor=SOFT, spaceAfter=20),
-        "h1": ParagraphStyle("h1", fontName="Times-Bold", fontSize=14.5,
-                             leading=17, textColor=INK, spaceBefore=16,
-                             spaceAfter=7),
-        "h2": ParagraphStyle("h2", fontName="Times-Bold", fontSize=11,
-                             leading=14, textColor=INK, spaceBefore=12,
-                             spaceAfter=5),
-        "body": ParagraphStyle("b", fontSize=9.6, alignment=TA_JUSTIFY,
-                               spaceAfter=6, **base),
-        "lead": ParagraphStyle("l", fontSize=11, leading=15,
-                               fontName="Times-Roman", textColor=INK,
-                               alignment=TA_JUSTIFY, spaceAfter=8),
-        "caption": ParagraphStyle("c", fontName="Times-Italic", fontSize=8.3,
-                                  leading=11, textColor=SOFT, spaceBefore=4,
-                                  spaceAfter=10),
+        "subtitle": ParagraphStyle("st", fontName="Times-Roman", fontSize=12.5,
+                                   leading=16.5, textColor=SOFT, spaceAfter=16),
+        "h1": ParagraphStyle("h1", fontName="Times-Bold", fontSize=14,
+                             leading=16.5, textColor=INK, spaceBefore=15,
+                             spaceAfter=6),
+        "h2": ParagraphStyle("h2", fontName="Times-Bold", fontSize=10.8,
+                             leading=13.5, textColor=INK, spaceBefore=11,
+                             spaceAfter=4),
+        "body": ParagraphStyle("b", fontSize=9.6, leading=12.8,
+                               alignment=TA_JUSTIFY, spaceAfter=6, **base),
+        "lead": ParagraphStyle("l", fontSize=10.6, leading=14.6,
+                               alignment=TA_JUSTIFY, spaceAfter=7, **base),
+        "abs": ParagraphStyle("ab", fontSize=9.8, leading=13.2,
+                              alignment=TA_JUSTIFY, spaceAfter=6,
+                              leftIndent=6 * mm, rightIndent=6 * mm, **base),
+        "caption": ParagraphStyle("c", fontName="Times-Italic", fontSize=8.2,
+                                  leading=10.8, textColor=SOFT, spaceBefore=3,
+                                  spaceAfter=9),
         "eq": ParagraphStyle("e", fontName="Times-Italic", fontSize=11.5,
                              leading=15, textColor=INK, alignment=1,
-                             spaceBefore=6, spaceAfter=8),
-        "cell": ParagraphStyle("tc", fontName="Times-Roman", fontSize=8.4,
-                               leading=10.4, textColor=INK),
-        "cellb": ParagraphStyle("tb", fontName="Times-Bold", fontSize=8.4,
-                                leading=10.4, textColor=INK),
-        "cellh": ParagraphStyle("th", fontName="Times-Bold", fontSize=8.2,
-                                leading=10.2, textColor=INK),
+                             spaceBefore=5, spaceAfter=7),
+        "ref": ParagraphStyle("r", fontSize=8.5, leading=10.8,
+                              alignment=TA_JUSTIFY, spaceAfter=3.5,
+                              leftIndent=7 * mm, firstLineIndent=-7 * mm,
+                              **base),
+        "cell": ParagraphStyle("tc", fontName="Times-Roman", fontSize=8.3,
+                               leading=10.2, textColor=INK),
+        "cellh": ParagraphStyle("th", fontName="Times-Bold", fontSize=8.1,
+                                leading=10, textColor=INK),
     }
 
 
-S = styles()
+S = _styles()
+W = A4[0] - 40 * mm
 
 
-def para(t, k="body"):
+def p(t, k="body"):
     return Paragraph(t, S[k])
 
 
-def table(rows, widths, head=True, align=None):
-    """rows[0] is the header. Cell text may use reportlab inline markup."""
+def tbl(rows, widths, head=True):
     data = []
     for i, r in enumerate(rows):
         st = "cellh" if (head and i == 0) else "cell"
-        data.append([c if isinstance(c, Paragraph)
-                     else Paragraph(str(c), S[st]) for c in r])
-    t = Table(data, colWidths=widths, hAlign="LEFT", repeatRows=1 if head else 0)
-    cmds = [
-        ("VALIGN", (0, 0), (-1, -1), "TOP"),
-        ("TOPPADDING", (0, 0), (-1, -1), 3.2),
-        ("BOTTOMPADDING", (0, 0), (-1, -1), 3.2),
-        ("LEFTPADDING", (0, 0), (-1, -1), 4),
-        ("RIGHTPADDING", (0, 0), (-1, -1), 4),
-        ("LINEBELOW", (0, 0), (-1, -2), 0.3, RULE),
-    ]
+        data.append([x if isinstance(x, Paragraph) else Paragraph(str(x), S[st])
+                     for x in r])
+    t = Table(data, colWidths=widths, hAlign="LEFT",
+              repeatRows=1 if head else 0)
+    cmds = [("VALIGN", (0, 0), (-1, -1), "TOP"),
+            ("TOPPADDING", (0, 0), (-1, -1), 3),
+            ("BOTTOMPADDING", (0, 0), (-1, -1), 3),
+            ("LEFTPADDING", (0, 0), (-1, -1), 4),
+            ("RIGHTPADDING", (0, 0), (-1, -1), 4),
+            ("LINEBELOW", (0, 0), (-1, -2), 0.3, RULE),
+            ("LINEBELOW", (0, -1), (-1, -1), 0.9, INK)]
     if head:
         cmds += [("LINEABOVE", (0, 0), (-1, 0), 0.9, INK),
                  ("LINEBELOW", (0, 0), (-1, 0), 0.6, INK),
                  ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#f4f3f1"))]
-    cmds.append(("LINEBELOW", (0, -1), (-1, -1), 0.9, INK))
-    for c in (align or []):
-        cmds.append(c)
     t.setStyle(TableStyle(cmds))
     return t
 
 
-# --------------------------------------------------------------------------
-# numbers read from disk at build time, so the PDF cannot drift from the data
-# --------------------------------------------------------------------------
-def read_qsar():
-    p = os.path.join(HERE, "db", "qsar", "qsar_endpoint_table.csv")
-    rows = [r for r in csv.DictReader(open(p))
-            if r["log10R_gfr_argoul"]]
-    rows.sort(key=lambda r: float(r["log10R_gfr_argoul"]))
-    return rows
+# ---------------------------------------------------------------------------
+# numbers read from the database at build time
+# ---------------------------------------------------------------------------
+def _rows(path):
+    return list(csv.DictReader(open(os.path.join(HERE, path), newline="")))
 
 
-def read_axis():
-    p = os.path.join(HERE, "db", "primary_2026",
-                     "han2012_table4_reabsorption_axis.csv")
-    return list(csv.DictReader(open(p)))
+def qsar_rows():
+    r = [x for x in _rows("db/qsar/qsar_endpoint_table.csv")
+         if x["log10R_gfr_argoul"]]
+    r.sort(key=lambda x: float(x["log10R_gfr_argoul"]))
+    return r
+
+
+def axis_rows():
+    return _rows("db/primary_2026/han2012_table4_reabsorption_axis.csv")
 
 
 def inventory():
-    def n(pat, sub=""):
-        import glob
-        return len(glob.glob(os.path.join(HERE, sub, pat)))
+    import glob
     comb = os.path.join(HERE, "db", "combined")
-    rows = sum(len(list(csv.DictReader(open(os.path.join(comb, f)))))
-               for f in sorted(os.listdir(comb)) if f.endswith(".csv"))
     return {
-        "texts": n("*.txt", "papers"),
-        "extracts": n("*.csv", os.path.join("db", "primary_2026")),
-        "figures": n("*.png", "figures"),
-        "scripts": n("*.py", "scripts"),
-        "rows": rows,
+        "texts": len(glob.glob(os.path.join(HERE, "papers", "*.txt"))),
+        "extracts": len(glob.glob(os.path.join(HERE, "db", "primary_2026",
+                                               "*.csv"))),
+        "figures": len(glob.glob(os.path.join(HERE, "figures", "*.png"))),
+        "scripts": len(glob.glob(os.path.join(HERE, "scripts", "*.py"))),
+        "rows": sum(len(list(csv.DictReader(open(os.path.join(comb, f)))))
+                    for f in sorted(os.listdir(comb)) if f.endswith(".csv")),
         "report_lines": sum(1 for _ in open(os.path.join(HERE, "report",
                                                          "REPORT.md"))),
     }
 
 
-# --------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
 # page furniture
-# --------------------------------------------------------------------------
-def footer(canv, doc):
+# ---------------------------------------------------------------------------
+def _footer(canv, doc):
     canv.saveState()
     canv.setStrokeColor(RULE)
     canv.setLineWidth(0.4)
@@ -162,520 +238,882 @@ def footer(canv, doc):
     canv.setFont("Times-Roman", 7.6)
     canv.setFillColor(SOFT)
     canv.drawString(20 * mm, 10 * mm,
-                    "PFAS toxicokinetics - printable summary")
-    canv.drawRightString(A4[0] - 20 * mm, 10 * mm, f"{doc.page}")
+                    "Why PFAS half-lives differ between humans, rats and mice")
+    canv.drawRightString(A4[0] - 20 * mm, 10 * mm, str(doc.page))
     canv.restoreState()
 
 
-def cover_furniture(canv, doc):
+def _cover(canv, doc):
     canv.saveState()
     canv.setFillColor(ACCENT)
     canv.rect(0, A4[1] - 11 * mm, A4[0], 11 * mm, stroke=0, fill=1)
     canv.restoreState()
 
 
-# --------------------------------------------------------------------------
-# content
-# --------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+# the document
+# ---------------------------------------------------------------------------
 def story():
     inv = inventory()
-    qsar = read_qsar()
-    axis = read_axis()
-    W = A4[0] - 40 * mm
     out = []
 
-    # ---------------- cover ----------------
+    # ===================== cover and abstract =====================
     out += [
-        Spacer(1, 26 * mm),
-        para("Why PFAS half-lives differ between humans, rats and mice",
-             "title"),
-        para("A printable summary of the evidence, the assumptions behind the "
-             "published numbers, and what is still unresolved", "subtitle"),
-        table([
-            ["Scope", f"{inv['texts']} full texts read; "
-                      f"{inv['extracts']} per-paper extractions; "
-                      f"{inv['rows']:,} database rows"],
-            ["Full review", f"report/REPORT.md, ~{inv['report_lines']:,} lines, "
-                            f"{inv['scripts']} runnable scripts, "
-                            f"{inv['figures']} figures"],
+        Spacer(1, 22 * mm),
+        p("Why PFAS half-lives differ between humans, rats and mice", "title"),
+        p("A review of the evidence, the assumptions behind the published "
+          "numbers, and what is still unresolved", "subtitle"),
+        tbl([
+            ["Evidence base", f"{inv['texts']} full texts read; "
+                              f"{inv['extracts']} per-paper extractions; "
+                              f"{inv['rows']:,} database rows; "
+                              f"{len(REFS)} references"],
+            ["Underlying review", f"report/REPORT.md, ~{inv['report_lines']:,} "
+                                  f"lines, {inv['scripts']} runnable scripts, "
+                                  f"{inv['figures']} figures"],
             ["Repository", "github.com/sdey17/pfas_tk"],
-            ["Provenance", "every database row carries a PMID or DOI and the "
-                           "table it was read from; values computed in this "
-                           "work are marked as such"],
-        ], [30 * mm, W - 30 * mm], head=False),
-        Spacer(1, 9 * mm),
-        para("The question", "h1"),
-        para("Published PFAS serum half-lives disagree by orders of magnitude "
-             "- between humans and animals, between rat and mouse, between "
-             "male and female, and between papers describing the same "
-             "experiment. This work asks why, and answers it by re-deriving "
-             "the numbers from the tables they came from rather than from the "
-             "sentences written about them.", "lead"),
-        para("One identity governs the whole subject:", "lead"),
-        para("t<sub>1/2</sub> = ln2 &middot; V<sub>d</sub> / CL", "eq"),
-        para("Half-life is not a property of a chemical. It is a ratio of how "
-             "much of the body the chemical occupies to how fast the body "
-             "removes it, and any two of the three terms fix the third. Nearly "
-             "every disagreement in this literature turns out to be about "
-             "<b>which two were measured and which one was assumed</b> - and "
-             "in the most consequential case, the assumed one is the number "
-             "everybody quotes.", "lead"),
-        Spacer(1, 7 * mm),
-        para("What is in here", "h1"),
-        table([
-            ["1", "The species difference is a clearance difference, and it "
-                  "is concentrated in females"],
-            ["2", "One mechanistic axis orders every species: fractional "
-                  "renal reabsorption"],
-            ["3", "Exposure level is related to neither half-life nor volume "
-                  "of distribution"],
-            ["4", "The human volume of distribution that regulation rests on "
-                  "is an assumption"],
-            ["5", "Five sixths of the field is empty"],
-            ["6", "Humans run two near-complete reabsorption loops, not one"],
-            ["7", "Half-life is the wrong endpoint for a structure-activity "
-                  "model"],
-            ["", "<i>then: what this corrects in the published record, what "
-                 "is still unresolved, and how to check any of it</i>"],
-        ], [8 * mm, W - 8 * mm], head=False),
+        ], [32 * mm, W - 32 * mm], head=False),
+        Spacer(1, 5 * mm),
+        KeepTogether([
+        p("Contents", "h1"),
+        tbl([
+            ["1", "Introduction: one identity, three questions"],
+            ["2", "Evidence base and method"],
+            ["3", "Where the species difference lives: distribution or "
+                  "clearance?"],
+            ["4", "The mechanism: fractional renal reabsorption"],
+            ["5", "Transporter identity, and why the mechanism does not "
+                  "transfer"],
+            ["6", "The second loop: enterohepatic recirculation"],
+            ["7", "Plasma protein binding, and a conflict that was not one"],
+            ["8", "Does exposure level change elimination?"],
+            ["9", "The human volume of distribution"],
+            ["10", "Toward structure-activity: the renal handling ratio"],
+            ["11", "What this review corrects in the published record"],
+            ["12", "Coverage: how much of the field is empty"],
+            ["13", "Open questions, and what would close them"],
+            ["14", "Conclusions"],
+            ["", "References"],
+        ], [8 * mm, W - 8 * mm], head=False)]),
         NextPageTemplate("body"),
         PageBreak(),
+        p("Abstract", "h1"),
+        p("Published serum half-lives for the same per- and polyfluoroalkyl "
+          "substance differ by orders of magnitude between humans and "
+          "laboratory animals, between rat and mouse, between male and female, "
+          "and sometimes between papers describing the same experiment. This "
+          "review asks where that variance actually sits. Because half-life is "
+          "not a property but a ratio - the volume a chemical apparently "
+          "occupies divided by the rate the body clears it - the question is "
+          "answerable, and the answer is unambiguous: across six datasets that "
+          "measure both terms in both sexes within single experiments, the "
+          "volume of distribution varies 1.6-fold while clearance varies "
+          "56-fold and changes sign between species. The variance is in "
+          "clearance.", "abs"),
+        p("One mechanistic axis then orders every species for which data "
+          "exist. Fractional renal reabsorption runs from 99.94% in humans "
+          "through 97% in the male mouse and 93.7% in the male rat to net "
+          "tubular secretion in the female rat and the rabbit, and it "
+          "reproduces rodent half-lives within 1.7-fold over a 37-fold span "
+          "with no fitted parameter. Two refinements matter. The axis is two "
+          "factors rather than one: of the 333-fold male-mouse-to-human renal "
+          "clearance gap, the escape fraction carries 50-fold and the "
+          "six-fold lower human glomerular filtration rate carries 6.5-fold. "
+          "And humans run a second, enterohepatic loop of comparable "
+          "completeness, which closes the residual the renal axis leaves and "
+          "explains why bile-acid sequestrants shorten human half-lives "
+          "several-fold.", "abs"),
+        p("The review also audits the provenance of the numbers regulation "
+          "uses. The human volume of distribution behind nine adopted "
+          "clearance factors is a calculation rather than a measurement, "
+          "reproducible to three figures from its source paper's own "
+          "supplementary table given an assumed elimination rate drawn from a "
+          "study in the same two communities; and a widely-inherited plasma "
+          "free fraction is roughly 164-fold too high because a calculated "
+          "lower bound was read as a measurement. Eighteen such corrections "
+          "are documented, one of them to this work's own method.", "abs"),
+        p("Finally, half-life is argued to be the wrong endpoint for any "
+          "structure-activity model, because it carries a body-size term. A "
+          "dimensionless renal handling ratio is proposed in its place and "
+          "evaluated on the only dataset that supports the comparison.", "abs"),
     ]
 
-    # ---------------- the figure ----------------
-    img_w = W
+    # ===================== 1. introduction =====================
     out += [
-        para("The whole argument in one figure", "h1"),
-        Image(FIG, width=img_w, height=img_w / 2.033),
-        para("<b>Left:</b> across five species-by-sex groups, the volume of "
-             "distribution spans 2.6&times; while renal clearance spans "
-             "13,958&times;. The variance is in clearance, not distribution. "
-             "<b>Right:</b> half-life predicted from fractional renal "
-             "reabsorption alone, against observation, on log axes with the "
-             "1:1 line. Every rodent point falls within 1.7&times; over a "
-             "37&times; span, with no fitted parameter. The human point sits "
-             "4.3&times; high, and the walk-down beneath it - renal only "
-             "4.3&times;, plus faecal 2.7&times;, EPA clearance 2.2&times;, "
-             "OEHHA measured clearance 0.9&times; - is what led to the second "
-             "reabsorption loop in finding 6. Regenerate with "
-             "scripts/make_master_figure.py.", "caption"),
+        p("1. Introduction: one identity, three questions", "h1"),
+        p("Per- and polyfluoroalkyl substances persist in the body for a long "
+          "time, and how long is the single number that drives their "
+          "regulation: it converts an external dose into an internal one, and "
+          "it is what any cross-species extrapolation has to carry. The "
+          "published values do not agree. Human PFOA half-life estimates span "
+          "roughly seventeen-fold, from about half a year to eight and a half; "
+          "the male rat and the female rat differ by about seventy-fold in the "
+          "same experiment " + c("kudo2002", "ohmori2003") + "; and the rat "
+          "and the mouse, two rodents of similar size, differ in a direction "
+          "that reverses between sexes " + c("tatum2011") + ".", "lead"),
+        p("Disagreements of that size usually mean a quantity is being "
+          "compared across things that are not comparable. The way into the "
+          "problem is that half-life is not an independent property. It is "
+          "fixed by an identity:", "body"),
+        p("t<sub>1/2</sub> = ln2 &middot; V<sub>d</sub> / CL", "eq"),
+        p("where V<sub>d</sub> is the apparent volume of distribution - the "
+          "number relating total body burden to plasma concentration, not an "
+          "anatomical volume - and CL is clearance, the volume of plasma "
+          "irreversibly cleared per unit time. Any two of the three terms fix "
+          "the third. A study that measures serum decay obtains the rate "
+          "constant directly and never needs a volume; a study that works from "
+          "mass balance needs a volume and a complete excretion accounting, "
+          "each uncertain severalfold, and both multiply into the answer. The "
+          "practical consequence runs through this entire review: most "
+          "published disagreements are not disagreements about measurements. "
+          "They are differences in <b>which two terms were measured and which "
+          "one was assumed</b> - and in the most consequential case, the "
+          "assumed one is the number everybody quotes.", "body"),
+        p("Three questions follow, and this review answers them in order. "
+          "First, is the species difference a difference in how much is held "
+          "or in how much is let go - distribution or clearance? Second, what "
+          "did each reported half-life assume? Third, does exposure level "
+          "itself change elimination, as saturable kinetics would predict?",
+          "body"),
     ]
 
-    # ---------------- findings ----------------
-    out += [para("The seven findings", "h1")]
-
+    # ===================== 2. evidence base =====================
     out += [
-        para("1. The species difference is a clearance difference, and it is "
-             "concentrated in females", "h2"),
-        para("Six datasets measure <i>both</i> terms in <i>both</i> sexes "
-             "inside single experiments - three species, two compounds, four "
-             "laboratories, no cross-study comparison required.", "body"),
-        table([
-            ["", "V<sub>d</sub> male/female", "clearance female/male"],
-            ["span across all six datasets", "<b>1.33 - 2.18&times;</b>",
-             "<b>0.78 - 44.3&times;</b>"],
-            ["", "a 1.6&times; spread", "a 56&times; spread"],
-        ], [60 * mm, (W - 60 * mm) / 2, (W - 60 * mm) / 2]),
-        Spacer(1, 4),
-        para("The distribution ratio is male-higher every single time and "
-             "never leaves a narrow band. The clearance ratio ranges over "
-             "nearly two orders of magnitude <b>and changes sign between "
-             "species</b>. Argoul 2026 reaches the same conclusion inside one "
-             "experiment: across 11 PFAS dosed as a single cocktail, clearance "
-             "spans 5,254&times; while V<sub>ss</sub> spans 7.7&times;. Taking "
-             "both limbs from primary sources, female rat divided by female "
-             "mouse PFOA clearance is 373-496&times;, against 7.0&times; in "
-             "males. Tatum-Gibbs 2011 replicates the structure in a second "
-             "compound with strains matched.", "body"),
-    ]
-
-    axis_rows = [["species", "sex", "GFR (L/d/kg)",
-                  "renal clearance (mL/d/kg)", "reabsorbed"]]
-    order = ["human", "mouse", "rat", "Japanese macaque", "dog", "rabbit"]
-    for sp in order:
-        for r in axis:
-            if r["species"] != sp:
-                continue
-            pct = r["pct_reabsorption"]
-            axis_rows.append([
-                r["species"], r["sex"], r["gfr_L_d_kg"], r["clr_mL_d_kg"],
-                f"<b>{pct}%</b>" if pct else "<b>net secretion</b>"])
-    out += [
-        para("2. One mechanistic axis orders every species: fractional renal "
-             "reabsorption", "h2"),
-        para("CL<sub>renal</sub> = f<sub>u</sub> &middot; GFR &middot; "
-             "(1 - FR)", "eq"),
-        KeepTogether([
-            table(axis_rows, [34 * mm, 18 * mm, 24 * mm, 36 * mm,
-                              W - 112 * mm]),
-            para("Read from Han 2012 Table 4 at source "
-                 "(db/primary_2026/han2012_table4_reabsorption_axis.csv). "
-                 "Two values differ from the widely-cited adaptation of this "
-                 "table - see the corrections overleaf.", "caption"),
-        ]),
-        para("The axis reproduces rodent half-lives within 1.7&times; over a "
-             "37&times; span with no free parameters, and an unrelated dataset "
-             "recomputes mouse PFOA at 95.9%, inside the 95.2-97.0% already in "
-             "use. <b>But it has two factors, not one.</b> Humans have the "
-             "longest half-life yet reabsorb <i>less</i> in absolute terms "
-             "(51 mL/d/kg) than male rats (270) or mice (318-324). Of the "
-             "333&times; male-mouse-to-human renal clearance gap, the escape "
-             "fraction carries 50&times; and the six-fold lower human GFR "
-             "carries 6.5&times; - 68% and 32% on a log scale. Reabsorption is "
-             "the larger term, which is why the single-axis framing works; but "
-             "a third of the difference is filtration rate, which no "
-             "transporter story explains.", "body"),
-        para("<b>The mechanism does not transfer, even though the fraction "
-             "does.</b> A candidate transporter must be both sex-divergent and "
-             "able to carry PFOA. In the rat only Oatp1a1 is both (23&times; "
-             "male-predominant, androgen-induced, transports C8-C10); Oat2 is "
-             "strongly sex-divergent but carries no PFOA, and Oat1/Oat3 carry "
-             "it but are not sex-divergent. In humans, OATP1A2 - the closest "
-             "orthologue of rat Oatp1a1 - does not transport PFOA at all; "
-             "human apical reabsorption runs through OAT4 and URAT1, neither "
-             "androgen-regulated.", "body"),
-    ]
-
-    out += [
-        para("3. Exposure level is related to neither half-life nor volume of "
-             "distribution", "h2"),
-        para("Volume-of-distribution slopes against dose run -0.21 to +0.25 "
-             "with inconsistent sign. Four independent dose slopes for "
-             "half-life cluster at +0.08 to +0.12 against a mechanistic "
-             "ceiling of 1. The between-person association does not survive "
-             "age adjustment: in Li 2022's own variance decomposition, age "
-             "carries 2-13&times; the partial R<super>2</super> of initial "
-             "PFAS concentration, and the exposure-tertile effect is 25-37% "
-             "the size of the age effect. One real exception: the female rat, "
-             "slope +0.21 over a 3,200&times; dose range, consistent with "
-             "saturable <i>secretion</i>; the male rat is -0.02.", "body"),
-    ]
-
-    out += [
-        para("4. The human volume of distribution that regulation rests on is "
-             "an assumption, not a measurement", "h2"),
-        para("Nine of 42 adopted regulatory clearance factors are computed "
-             "from Thompson 2010's 170 mL/kg. That paper's supplementary table "
-             "is headed <i>\"Input data for the calibration of the Vd "
-             "parameter\"</i>, with a final column headed <i>\"calculated "
-             "Vd\"</i> - and its published values reproduce to three figures "
-             "from intake, serum and an assumed elimination rate taken from a "
-             "study in <b>the same two communities</b>.", "body"),
-        para("The consequence is sharper than \"circular\". Forming "
-             "CL = ln2 &middot; V<sub>d</sub> / t<sub>1/2</sub> makes the "
-             "half-life <b>cancel exactly</b>, leaving CL = Dose/Serum = "
-             "0.132-0.138 mL/kg-day. But V<sub>d</sub> does not cancel: it is "
-             "proportional to whatever half-life is assumed.", "body"),
-        table([
-            ["half-life assumed", "V<sub>d</sub> that follows",
-             "derived clearance"],
-            ["2.3 y (the value used)", "<b>168 mL/kg</b>",
-             "0.132-0.138 mL/kg-day"],
-            ["3.8 y", "<b>277 mL/kg</b>", "0.132-0.138 mL/kg-day (unchanged)"],
-        ], [45 * mm, 40 * mm, W - 85 * mm]),
-        Spacer(1, 4),
-        para("So adopting \"170\" alongside a different half-life silently "
-             "contradicts the data it came from. Reproduced from the paper's "
-             "own Table S1 to within 1.000-1.003&times; by "
-             "scripts/thompson_vd_circularity.py. Meanwhile every direct "
-             "measurement (74, 121, 113-199 mL/kg) falls <i>below</i> the "
-             "assigned range, and the one population fit (430) sits far above "
-             "it.", "body"),
-    ]
-
-    out += [
-        para("5. Five sixths of the field is empty", "h2"),
-        para("39 chemicals &times; 11 species &times; 4 parameters = 1,716 "
-             "cells. <b>1,466 have no data at all (85%)</b>; a further 94 rest "
-             "on a single study. Even PFOS, the best-covered compound in the "
-             "world, fills 29 of 44. By species: human 71, rat 61, mouse 45, "
-             "monkey 28 - then <b>dog 2</b>. Mining four further compilations "
-             "moved coverage from 143 to 156 cells, so the hole is real rather "
-             "than a search artefact.", "body"),
-    ]
-
-    out += [
-        para("6. Humans run two near-complete reabsorption loops, not one",
-             "h2"),
-        para("The renal axis leaves a residual: predicted human half-life "
-             "comes out 4.3&times; short of observation. The missing term is "
-             "enterohepatic. Harada 2007 sampled serum and bile from four "
-             "gallstone-surgery patients and measured a biliary resorption "
-             "rate of 0.97. Bile PFOS (27.9 ng/mL) actually <i>exceeds</i> "
-             "serum (23.2), so bile is a real excretion route - but 97% of "
-             "what is secreted is reabsorbed from the gut.", "body"),
-        table([
-            ["loop", "fraction reabsorbed", "source"],
-            ["renal (PFOA)", "<b>99.94%</b>", "Han 2012 Table 4"],
-            ["biliary (PFOS)", "<b>97%</b>", "Harada 2007, n = 4"],
-        ], [40 * mm, 40 * mm, W - 80 * mm]),
-        Spacer(1, 4),
-        para("Both are near-unity, both lengthen the human half-life, and "
-             "<b>both are interruptible</b> - which is why bile-acid "
-             "sequestrants work. Delaere 2025: treated PFOS half-life 1.2 y "
-             "(n = 19) against 7.3 y under observation (n = 9), a 6.1&times; "
-             "difference; PFHxS 2.5 y against 9.4 y. Genuis 2010 and "
-             "M&oslash;ller 2024 agree in direction.", "body"),
-        para("It also reconciles the faecal-route dispute without either side "
-             "being wrong. At 97% resorption, <b>gross</b> biliary flux is "
-             "large while <b>net</b> faecal elimination is small - so "
-             "Andersson, measuring faeces under ongoing intake, saw a large "
-             "signal, and Abraham, following a labelled bolus, saw almost "
-             "nothing leave that way. Different quantities, one reconciling "
-             "constant. The caveat is that n = 4, and the number is now "
-             "load-bearing.", "body"),
-    ]
-
-    qrows = [["compound", "F-carbons", "head group", "ether O",
-              "f<sub>u</sub> %", "log<sub>10</sub> R", "handling"]]
-    for r in qsar:
-        secreted = float(r["log10R_gfr_argoul"]) > 0
-        qrows.append([
-            r["chemical"], r["n_fluorinated_c"],
-            {"carboxylate": "-COOH",
-             "sulfonate": "-SO<sub>3</sub>H",
-             "ether-carboxylate": "-COOH, ether"}[r["head_group"]],
-            r["n_ether_o"], r["fu_pct"], r["log10R_gfr_argoul"],
-            "<b>SECRETED</b>" if secreted else "reabsorbed"])
-    out += [
-        para("7. Half-life is the wrong endpoint for a structure-activity "
-             "model", "h2"),
-        para("Because t<sub>1/2</sub> = ln2 &middot; V<sub>d</sub> / CL, "
-             "half-life carries a glomerular filtration term that differs "
-             "6.5&times; between mouse and human with no change in chemistry. "
-             "A structural model fitted to it is being asked to absorb body "
-             "size. The replacement is the dimensionless renal handling "
-             "ratio:", "body"),
-        para("R = CL<sub>renal</sub> / (f<sub>u</sub> &middot; GFR)", "eq"),
-        para("R &lt; 1 is net reabsorption, R &gt; 1 net secretion, and "
-             "R = 1 - FR, so it is finding 2's axis on a scale that neither "
-             "saturates near 1 nor runs unboundedly negative. On the nine "
-             "compounds where both terms were measured in one experiment "
-             "(Argoul 2026, male mouse), R spans 875&times;:", "body"),
-        KeepTogether([
-            table(qrows, [22 * mm, 17 * mm, 22 * mm, 15 * mm, 15 * mm,
-                          18 * mm, W - 109 * mm]),
-            para("Built by scripts/qsar_endpoint_table.py into "
-                 "db/qsar/qsar_endpoint_table.csv. \"F-carbons\" counts "
-                 "carbons bearing fluorine, which excludes a carboxylate's "
-                 "acid carbon and includes every carbon of a sulfonate.",
-                 "caption"),
-        ]),
-        para("Three results constrain any QSAR. <b>Chain length alone does not "
-             "order the endpoint</b> - within the carboxylates the series is "
-             "non-monotonic and PFHxA crosses into net secretion, so a model "
-             "using carbon number as its only descriptor is already falsified "
-             "on nine compounds. <b>The head group carries about 3&times; at "
-             "matched chain length</b> (PFNA against PFOS, both 8 fluorinated "
-             "carbons, 2.9&times; apart). <b>Ether oxygens move the endpoint "
-             "1.4 log units at constant chain length, non-monotonically</b>: "
-             "PFHxA with none is secreted, GenX with one is reabsorbed, "
-             "PFO2OA with two is secreted - so the replacement chemicals sit "
-             "on both sides of the divide.", "body"),
-        para("The same construction sharpens finding 4's successor problem. R "
-             "is linear in 1/f<sub>u</sub>, so the three human free fractions "
-             "in the literature give three different answers for human PFOA:",
-             "body"),
-        table([
-            ["f<sub>u</sub>", "source", "log<sub>10</sub> R",
-             "gap to male mouse"],
-            ["0.10", "PBPK models reading \"&gt;90% bound\" as \"about 90%\"",
-             "-3.93", "354&times;"],
-            ["0.02", "Han 2012's stated assumption", "-3.23", "71&times;"],
-            ["0.00061", "Fischer, measured at physiological ligand:protein",
-             "-1.72", "<b>2.2&times;</b>"],
-        ], [18 * mm, W - 78 * mm, 22 * mm, 38 * mm]),
-        Spacer(1, 4),
-        para("Under the measured value the species difference is almost "
-             "entirely <b>binding</b>, which would mean the transporter "
-             "literature is explaining a quantity that barely differs between "
-             "the species. This is stated as a sensitivity rather than a "
-             "result, because the mouse and human free fractions come from "
-             "different methods at different ligand:protein ratios - the exact "
-             "artefact diagnosed below. One panel measuring f<sub>u</sub> for "
-             "these compounds in mouse, rat and human plasma by a single "
-             "method would settle it, and needs no animals.", "body"),
-    ]
-
-    # ---------------- corrections ----------------
-    out += [
-        para("What this corrects in the published record", "h1"),
-        para("Each entry is traced to the table or figure that contradicts it. "
-             "The full list of 18 is section 8 of the report.", "body"),
-        table([
-            ["source", "correction"],
-            ["EPA", "the rat Oatp1a1 male/female ratio quoted as "
-                    "\"2.5-fold\" is a <i>different transporter's</i> number "
-                    "(OAT-K); the primary value is <b>23&times;</b>"],
-            ["OEHHA", "its adaptation of the source reabsorption table altered "
-                      "two values (human 99.94 to 99.8, male rat 93.7 to 93.2)"],
-            ["Provenance", "the f<sub>u</sub> = 0.02 assumption behind the "
-                           "axis is Han 2012's, not OEHHA's, and Han calls its "
-                           "own values \"rough estimates\""],
-            ["Andersson 2025", "transposes Thompson's PFOA and PFOS volumes "
-                               "(it is PFOA 170, PFOS 230); an earlier claim "
-                               "in this work that Zhang 2013 did so was itself "
-                               "wrong and is withdrawn"],
-            ["Cheng 2006", "its abstract calls renal Oatp1a1 "
-                           "\"female-predominant\", then reports androgens "
-                           "<i>increase</i> it and concludes androgens are the "
-                           "exclusive cause - self-contradictory, and against "
-                           "Cheng 2005"],
-            ["Metabolic inertness", "\"PFAS are metabolically inert\" fails "
-                                    "for 6:2 Cl-PFESA, which is "
-                                    "biotransformed (Yi 2022)"],
-            ["<b>This work</b>", "<b>its own refits of the EPA raw curves "
-                                 "compress sex ratios about 13&times;</b> - "
-                                 "see below"],
-        ], [30 * mm, W - 30 * mm]),
-        para("The self-correction matters most", "h2"),
-        para("The terminal-slope fits in db/cphea_fitted_halflives.csv select "
-             "the window with the best adjusted R<super>2</super>, which on a "
-             "biphasic curve is the shallow tail. Against a published value "
-             "for the same experiment the fit returns <b>1.44 d against "
-             "0.08 d</b> for the female rat, and compresses a <b>71&times; sex "
-             "ratio to 5.6&times;</b>. The bias runs one way, so every "
-             "conclusion above survives and several strengthen - but that "
-             "column must not be read as comparable to published half-lives. "
-             "It carries a tail_selection_flag and is kept rather than "
-             "deleted, because it remains valid for within-curve comparison.",
-             "body"),
-    ]
-
-    # ---------------- open ----------------
-    out += [
-        para("What is still unresolved", "h1"),
-        KeepTogether([
-        para("1. A measured human transport-affinity constant", "h2"),
-        para("Whether reabsorptive transport saturates at real human exposures "
-             "depends on which parameter family you believe. There are six "
-             "independent in vitro K<sub>m</sub> values for PFOA against human "
-             "transporters - 47 to 310 &micro;M, from two laboratories, "
-             "agreeing within a factor of 7 - against a PBPK "
-             "transport-affinity constant of <b>0.133 &micro;M</b>, which is "
-             "354 to 2,336&times; lower than anything ever measured in a cell. "
-             "The in vitro values put human serum far below half-saturation; "
-             "the fitted value puts three of four human populations at or "
-             "above it, which would make clearance dose-dependent in "
-             "contaminated communities and mean a single clearance factor "
-             "cannot transfer between exposure settings. The weight of "
-             "evidence has moved onto the in vitro side - the fitted values "
-             "are fitted to plasma curves rather than measured, the mouse row "
-             "has standard errors exceeding its estimates, and the "
-             "dose-response evidence agrees with the in vitro answer - but "
-             "nobody has measured a human value, and that single number would "
-             "close it.", "body")]),
-        KeepTogether([
-        para("2. Unbound fraction by one method across species", "h2"),
-        para("Every value of R is proportional to f<sub>u</sub>, and the mouse "
-             "and human numbers currently come from different methods at "
-             "different ligand:protein ratios. Measuring them one way decides "
-             "whether the species difference is binding or transport - a "
-             "33&times; swing in the answer. Plasma, a dialysis or "
-             "ultrafiltration rig, LC-MS/MS; no animals required. This is the "
-             "cheapest decisive experiment the work identifies.", "body")]),
-        KeepTogether([
-        para("3. Whether the biliary 0.97 replicates beyond n = 4", "h2"),
-        para("It is now load-bearing for the human limb of finding 2, and it "
-             "rests on four surgical patients in a single 2007 study.", "body")]),
-        para("One formerly-open conflict is now closed", "h2"),
-        para("The roughly 100&times; disagreement over PFOA's plasma free "
-             "fraction was not a contradiction between two measurements. Han "
-             "2003's \"&gt;90% bound\" is a <i>calculation</i> from "
-             "K<sub>d</sub> and albumin concentration, and it is a floor that "
-             "Fischer's measured 0.00061 satisfies. The underlying "
-             "K<sub>d</sub> gap is a ligand:protein ratio artefact - Han "
-             "titrated at 1.7:1 to 60:1, Fischer at 0.004:1 or below, and "
-             "human serum sits at 10<super>-5</super> to 10<super>-3</super>:1. "
-             "The defect was in the inheritance: PBPK models read \"&gt;90%\" "
-             "as \"about 90%\" and used a free fraction roughly <b>164&times; "
-             "too high</b>.", "body"),
-    ]
-
-    # ---------------- provenance ----------------
-    out += [
-        para("What exists, and how to check it", "h1"),
-        table([
-            ["db/combined/", f"{inv['rows']:,} rows in four schemas; every row "
-                             "carries its provenance and primary source. Also "
-                             "one Excel workbook."],
-            ["db/primary_2026/", f"{inv['extracts']} per-paper extractions, "
-                                 "read from the papers directly"],
-            ["db/qsar/", "per-compound structure descriptors paired with the "
-                         "renal handling ratio of finding 7"],
-            ["scripts/", f"{inv['scripts']} runnable scripts - every figure "
-                          "and table above regenerates"],
-            ["figures/", f"{inv['figures']} figures"],
-            ["report/REPORT.md", f"the full review, about "
-                                 f"{inv['report_lines']:,} lines"],
-            ["WANTED.md", "the papers still unobtainable, and what each would "
-                          "change"],
-        ], [36 * mm, W - 36 * mm], head=False),
-        Spacer(1, 5),
-        para("Nothing in this document is quoted from memory. Where a value "
-             "came from another paper's citation rather than the original, the "
-             "database row says so. Where a value was computed in this work "
-             "rather than read from a paper, the row says that too. Where this "
-             "work's own method is known to be biased, the affected rows carry "
-             "a flag and the report says to read section 8 item 9 before using "
-             "them.", "body"),
-        para("This PDF is generated by scripts/make_summary_pdf.py, which "
-             "reads the reabsorption axis, the structure-activity table and "
-             "every count above from the database at build time - so the "
-             "document cannot drift from the data it describes.", "caption"),
+        p("2. Evidence base and method", "h1"),
+        p(f"The review rests on {inv['texts']} full texts read directly, "
+          f"{inv['extracts']} per-paper extractions made from those texts, and "
+          f"a consolidated database of {inv['rows']:,} rows across four "
+          "schemas - toxicokinetic parameters, protein binding, transporter "
+          "kinetics, and adopted regulatory values. Animal serum time courses "
+          "come from the US EPA's compiled per-record database "
+          + c("zurlinden2025") + ", which digitised or transcribed them from "
+          "the primary studies - principally the monkey intravenous series "
+          + c("butenhoff2004", "chang2012") + ", the rodent dose series "
+          + c("dzierlenga2020", "huang2019", "kemper2003") + " and a "
+          "low-dose chronic study " + c("iwabuchi2017") + ". Human values "
+          "come from the primary papers and from agency assessments "
+          + c("epa2024pfoa", "epa2024pfos", "epa2023pfhxa", "oehha2024",
+              "atsdr2021", "efsa2020") + ".", "body"),
+        p("Three rules govern what is in the database, and they are the reason "
+          "several of this review's conclusions differ from the secondary "
+          "literature.", "body"),
+        p("<b>Read the table, not the sentence.</b> Where a paper's abstract "
+          "and its own tables disagree, the table wins and the discrepancy is "
+          "recorded. Two of the largest corrections in section 11 are of "
+          "exactly this kind, and so is the correction this review makes to "
+          "its own earlier work.", "body"),
+        p("<b>Mark what was computed.</b> Every row records whether a value "
+          "was measured, fitted, assumed, or computed in this work, and "
+          "carries a PMID or DOI and the table it came from. A clearance "
+          "derived from an assumed volume is not the same kind of object as a "
+          "clearance measured from urine, and conflating the two is how the "
+          "problem in section 9 propagated.", "body"),
+        p("<b>Flag your own biases rather than deleting them.</b> This review "
+          "refitted the EPA raw curves and found its own fitting procedure "
+          "biased on biphasic data. The affected column is kept, flagged, and "
+          "documented, because it remains valid for the within-curve "
+          "comparisons it is used for - and because deleting it would hide a "
+          "failure mode that applies to much of the published literature too.",
+          "body"),
     ]
     return out
 
 
-# --------------------------------------------------------------------------
+def story_2():
+    out = []
+
+    # ===================== 3. where the difference lives =====================
+    out += [
+        p("3. Where the species difference lives: distribution or clearance?",
+          "h1"),
+        p("The identity in section 1 makes this testable rather than "
+          "rhetorical, provided both terms are measured in the same animals. "
+          "Six datasets satisfy that condition - three species, two compounds, "
+          "four laboratories, no cross-study comparison required "
+          + c("kudo2002", "ohmori2003", "sundstrom2012", "kim2016",
+              "dzierlenga2020", "huang2019") + ".", "body"),
+        tbl([
+            ["", "V<sub>d</sub> male/female", "clearance female/male"],
+            ["span across all six datasets", "<b>1.33 - 2.18&times;</b>",
+             "<b>0.78 - 44.3&times;</b>"],
+            ["", "a 1.6&times; spread", "a 56&times; spread"],
+        ], [62 * mm, (W - 62 * mm) / 2, (W - 62 * mm) / 2]),
+        Spacer(1, 3),
+        p("The distribution ratio is male-higher in every dataset and never "
+          "leaves a narrow band, which is what one would expect of a quantity "
+          "set mostly by body composition and plasma protein concentration. "
+          "The clearance ratio ranges over nearly two orders of magnitude "
+          "<b>and changes sign between species</b>. That asymmetry is the "
+          "central finding of this review, and everything after it is an "
+          "attempt to explain the clearance term.", "body"),
+        p("A single recent experiment reproduces the result internally. "
+          "Argoul and colleagues dosed eleven PFAS as one cocktail in female "
+          "mice and fitted all of them simultaneously " + c("argoul2026")
+          + "; across those eleven compounds, clearance spans 5,254-fold while "
+          "steady-state volume of distribution spans 7.7-fold. Same animals, "
+          "same assay, same model - and the same conclusion as the "
+          "cross-study comparison.", "body"),
+        p("Taken from primary sources rather than compilations, the species "
+          "gap is also concentrated in one sex. Female rat divided by female "
+          "mouse PFOA clearance is 373-496&times;, against 7.0&times; in males "
+          + c("kudo2002", "lou2009") + ". Tatum-Gibbs and colleagues "
+          "replicate the whole structure in a second compound with strains "
+          "matched: a rat sex ratio of 21.9&times; against a mouse ratio near "
+          "unity " + c("tatum2011") + ". Any account of 'the species "
+          "difference' that does not mention sex is describing an average over "
+          "two quite different animals.", "body"),
+    ]
+
+    # ===================== 4. the axis =====================
+    ax = axis_rows()
+    rows = [["species", "sex", "GFR (L/d/kg)", "renal CL (mL/d/kg)",
+             "reabsorbed"]]
+    for sp in ("human", "mouse", "rat", "Japanese macaque", "dog", "rabbit"):
+        for r in ax:
+            if r["species"] != sp:
+                continue
+            pct = r["pct_reabsorption"]
+            rows.append([r["species"], r["sex"], r["gfr_L_d_kg"],
+                         r["clr_mL_d_kg"],
+                         f"<b>{pct}%</b>" if pct else "<b>net secretion</b>"])
+    out += [
+        p("4. The mechanism: fractional renal reabsorption", "h1"),
+        p("PFAS are filtered freely at the glomerulus to the extent they are "
+          "unbound, and then substantially recovered from the tubular "
+          "filtrate. Renal clearance is therefore what escapes:", "body"),
+        p("CL<sub>renal</sub> = f<sub>u</sub> &middot; GFR &middot; (1 - FR)",
+          "eq"),
+        p("where f<sub>u</sub> is the unbound fraction in plasma and FR the "
+          "fraction reabsorbed. Han and colleagues assembled this across "
+          "species " + c("han2012") + "; the table below is read from that "
+          "paper's Table 4 at source rather than from any adaptation of it.",
+          "body"),
+        KeepTogether([
+            tbl(rows, [32 * mm, 17 * mm, 23 * mm, 32 * mm, W - 104 * mm]),
+            p("Read at source into "
+              "db/primary_2026/han2012_table4_reabsorption_axis.csv. Two "
+              "values differ from a widely-cited adaptation of this table; see "
+              "section 11.", "caption"),
+        ]),
+        p("The ordering is the half-life ordering. More than that, the axis "
+          "<i>predicts</i>: substituting each species' own GFR and unbound "
+          "fraction reproduces rodent half-lives within 1.7&times; over a "
+          "37&times; span with no fitted parameter, and an entirely separate "
+          "dataset recomputes mouse PFOA reabsorption at 95.9% "
+          + c("argoul2026") + ", inside the 95.2-97.0% range already in use. "
+          "For a field in which half-lives disagree seventeen-fold, a "
+          "parameter-free prediction good to 1.7&times; is a strong result.",
+          "body"),
+        p("Elimination hands off from kidney to gut as the chain "
+          "lengthens", "h2"),
+        p("The axis is renal, and for the shorter carboxylates that is nearly "
+          "the whole story: PFHpA leaves the male rat 92% in urine over five "
+          "days. By PFNA that falls to 2.0% and by PFDA to 0.2%, with faeces "
+          "becoming the major route " + c("kudo2001") + ". So a renal "
+          "clearance is close to a total clearance at C7 and is a small "
+          "minority of it at C10, and any human accounting that assigns one "
+          "route fraction across compounds is wrong in a predictable "
+          "direction. The handoff is also sex-dependent: female rats excrete "
+          "51% of a PFNA dose in urine where males excrete 2.0% "
+          + c("kudo2001") + ", which is the same sex difference as section 3 "
+          "seen through the route split rather than the rate.", "body"),
+        p("The axis has two factors, not one", "h2"),
+        p("It is tempting to read the table as 'humans reabsorb more', and "
+          "this review initially did. The absolute numbers say otherwise: "
+          "humans recover 51 mL/d/kg of filtrate, against 270 in the male rat "
+          "and 318-324 in the mouse. Humans reabsorb <i>less</i> in absolute "
+          "terms and still clear far more slowly, because they filter far less "
+          "to begin with. Decomposing the 333&times; male-mouse-to-human renal "
+          "clearance gap gives 50&times; from the escape fraction and "
+          "6.5&times; from the six-fold lower human GFR - 68% and 32% on a log "
+          "scale. Reabsorption is the larger term, which is why the "
+          "single-axis framing works at all; but a third of the difference is "
+          "filtration rate, and no transporter story explains that third.",
+          "body"),
+    ]
+
+    # ===================== 5. transporters =====================
+    out += [
+        p("5. Transporter identity, and why the mechanism does not transfer",
+          "h1"),
+        p("If reabsorption is the controlling step, some apical transporter "
+          "must perform it, and in the rat the sex difference constrains which "
+          "one. A candidate has to satisfy two conditions simultaneously: it "
+          "must be sex-divergent in the right direction, and it must actually "
+          "carry PFOA. Those two conditions are jointly much more restrictive "
+          "than either alone.", "body"),
+        tbl([
+            ["transporter", "sex-divergent?", "transports PFOA?", "verdict"],
+            ["Oatp1a1", "<b>yes</b>, 23&times; male-predominant, "
+                        "androgen-induced", "<b>yes</b>, C8-C10",
+             "<b>the only candidate satisfying both</b>"],
+            ["Oat2", "yes, strongly", "<b>no</b> - three negative reports, "
+                     "two species", "excluded by transport"],
+            ["Oat1 / Oat3", "no", "yes", "excluded by regulation"],
+        ], [26 * mm, 50 * mm, 46 * mm, W - 122 * mm]),
+        Spacer(1, 3),
+        p("The transport evidence is from direct uptake assays "
+          + c("yang2009", "weaver2010", "louisse2024") + " and the regulation "
+          "evidence from expression studies under hormonal manipulation "
+          + c("kudo2002", "cheng2005", "cheng2009", "buist2004") + "; the "
+          "organic anion transporting polypeptides as a family have been "
+          "shown to contribute to PFAA disposition in both humans and rats "
+          + c("zhao2017") + ". The "
+          "23&times; figure is from the primary source; a frequently quoted "
+          "'2.5-fold' belongs to a different transporter (see section 11).",
+          "body"),
+        p("The surprise is in the human", "h2"),
+        p("The reabsorbed <i>fraction</i> transfers across species - that is "
+          "what section 4 shows. The <i>mechanism</i> does not. OATP1A2, the "
+          "closest human orthologue of rat Oatp1a1, does not mediate saturable "
+          "PFOA uptake at all " + c("yang2010") + ". Human apical reabsorption "
+          "instead runs through OAT4 and URAT1 " + c("yang2010", "louisse2023")
+          + ", neither of which is androgen-regulated - which is consistent "
+          "with the absence in humans of anything like the rat's seventyfold "
+          "sex difference. Extrapolating a rat mechanism to humans and "
+          "extrapolating a rat reabsorbed fraction to humans are therefore "
+          "very different acts, and only the second is supported.", "body"),
+    ]
+
+    # ===================== 6. the second loop =====================
+    out += [
+        p("6. The second loop: enterohepatic recirculation", "h1"),
+        p("The renal axis leaves a residual. Predicted human half-life comes "
+          "out about 4.3&times; short of observation - visible as the single "
+          "off-line point in Figure 1. Three candidate explanations exist: the "
+          "human reabsorbed fraction is underestimated, the human clearance "
+          "figure is wrong, or a second elimination route is being "
+          "reabsorbed too.", "body"),
+        p("The third is correct, and the number was already in an agency "
+          "document. Harada and colleagues sampled serum and bile from four "
+          "gallstone-surgery patients and measured a biliary resorption rate "
+          "of 0.97 " + c("harada2007") + ". Bile PFOS (27.9 ng/mL) actually "
+          "<i>exceeds</i> serum (23.2), so bile is a genuine excretion route - "
+          "but 97% of what is secreted is recovered from the gut.", "body"),
+        tbl([
+            ["loop", "fraction reabsorbed", "source"],
+            ["renal (PFOA)", "<b>99.94%</b>", "Han 2012 Table 4 "
+                                              + c("han2012")],
+            ["biliary (PFOS)", "<b>97%</b>", "Harada 2007, n = 4 "
+                                             + c("harada2007")],
+        ], [38 * mm, 38 * mm, W - 76 * mm]),
+        Spacer(1, 3),
+        p("Humans therefore run two near-complete reabsorption loops rather "
+          "than one. Both are near unity, both lengthen the half-life, and - "
+          "the testable part - <b>both are interruptible</b>. If a 97% "
+          "resorption loop is blocked, elimination should accelerate several "
+          "fold, and it does. In a treatment programme using cholestyramine "
+          "and plasma donation, apparent PFOS half-life was 1.2 y in nineteen "
+          "treated participants against 7.3 y in nine observed ones, and "
+          "PFHxS 2.5 y against 9.4 y " + c("delaere2025") + ". Supporting "
+          "evidence comes from a cholestyramine series " + c("genuis2010")
+          + " and a cross-over trial reporting 63% lowering in twelve weeks "
+          "against 3% in controls " + c("moller2024") + ". Plasma donation "
+          "alone, which removes burden without touching either loop, produces "
+          "a much smaller effect " + c("gasiorowski2022") + ".", "body"),
+        p("The loop also settles an apparent contradiction in the human "
+          "excretion literature. One study measuring faeces under ongoing "
+          "intake finds faecal elimination dominant for PFOS "
+          + c("andersson2025") + "; another, following a single labelled "
+          "dose, barely detects it " + c("abraham2024") + ". At 97% "
+          "resorption, <b>gross</b> biliary flux is large while <b>net</b> "
+          "faecal elimination is small, so the two studies measured different "
+          "quantities and both are right. The caveat is that the constant "
+          "doing this work rests on four patients.", "body"),
+    ]
+    return out
+
+
+def story_3():
+    out = []
+
+    # ===================== 7. binding =====================
+    out += [
+        p("7. Plasma protein binding, and a conflict that was not one", "h1"),
+        p("The unbound fraction f<sub>u</sub> enters the reabsorption equation "
+          "directly, so its value propagates into everything above. The "
+          "literature appeared to contain a hundredfold disagreement: a "
+          "long-standing result reports PFOA 'over 90% bound' to plasma "
+          "protein " + c("han2003") + ", implying f<sub>u</sub> near 0.1, "
+          "while recent measurements at environmentally realistic "
+          "ligand:protein ratios give 0.00061 " + c("fischer2024") + ".",
+          "body"),
+        p("Reading both papers at source dissolves the conflict. The '>90%' "
+          "is not a measurement but a <i>calculation</i> from a dissociation "
+          "constant and an albumin concentration, and as a lower bound it is "
+          "satisfied by 0.00061 as comfortably as by 0.1. The underlying "
+          "difference in dissociation constant is a titration artefact: the "
+          "older work titrated 50-60 &micro;M albumin with 0.1-3 mM PFOA, a "
+          "ligand:protein ratio of 1.7:1 to 60:1, against 0.004:1 or below in "
+          "the newer work - while human serum sits at 10<super>-5</super> to "
+          "10<super>-3</super>:1. Near-saturating ratios understate affinity, "
+          "and structural work on the albumin complex is consistent with "
+          "multiple sites of differing affinity " + c("maso2021") + ".",
+          "body"),
+        p("The defect was in the inheritance rather than in either "
+          "measurement. Physiologically based models read '>90% bound' as "
+          "'about 90% bound' and adopted a free fraction roughly "
+          "<b>164&times; too high</b>. Section 10 shows how far that single "
+          "substitution propagates.", "body"),
+    ]
+
+    # ===================== 8. dose =====================
+    out += [
+        p("8. Does exposure level change elimination?", "h1"),
+        p("If reabsorptive transport saturates, elimination should accelerate "
+          "at high burden, half-life should fall with dose, and a single "
+          "clearance factor could not be transferred between a contaminated "
+          "community and the general population. The evidence is weak but not "
+          "null, and it splits informatively by the level at which the "
+          "comparison is made.", "body"),
+        tbl([
+            ["comparison", "direction"],
+            ["within a person over time", "supports dose dependence"],
+            ["within a species across doses (rat refits)",
+             "supports, weakly: slope about +0.11"],
+            ["between people in a cohort",
+             "<b>contradicts</b> - the lowest-exposure tertile declines fastest"],
+            ["between water districts",
+             "slope above the mechanistic ceiling of 1, i.e. bias"],
+        ], [62 * mm, W - 62 * mm]),
+        Spacer(1, 3),
+        p("Within-unit comparisons support concentration dependence and "
+          "between-unit ones do not, which is the signature of a between-unit "
+          "confounder - and the source study names it: age " + c("li2022")
+          + ". Re-running that paper's own variance decomposition, age carries "
+          "2-13&times; the partial R<super>2</super> of initial PFAS "
+          "concentration, and the exposure-tertile effect is 25-37% the size "
+          "of the age effect. Older people eliminate more slowly and have "
+          "higher accumulated burdens, so the between-person association is a "
+          "positive saturation effect minus a larger negative age effect.",
+          "body"),
+        p("Across volume of distribution the slopes run -0.21 to +0.25 with "
+          "inconsistent sign, i.e. no relationship. The one clean exception "
+          "runs the other way: the female rat shows a slope of +0.21 over a "
+          "3,200&times; dose range against -0.02 in the male, which is what "
+          "saturable <i>secretion</i> looks like - consistent with the female "
+          "rat sitting at the secretory end of the axis in section 4.", "body"),
+        p("Whether human exposures reach saturation is unresolved and is taken "
+          "up in section 13.", "body"),
+    ]
+
+    # ===================== 9. the human Vd =====================
+    out += [
+        p("9. The human volume of distribution", "h1"),
+        p("Nine of the 42 adopted regulatory clearance factors catalogued here "
+          "are computed from a single human volume of distribution, 170 mL/kg "
+          + c("thompson2010") + ". That number is not a measurement.", "body"),
+        p("Its source paper's supplementary table is headed <i>'Input data for "
+          "the calibration of the Vd parameter'</i> with a final column headed "
+          "<i>'calculated Vd'</i>, and its published values reproduce to three "
+          "figures from intake, serum concentration and an assumed elimination "
+          "rate. The assumed rate was taken from a study that measured "
+          "half-life in <b>the same two communities</b> " + c("bartell2010")
+          + ", which is what makes the construction circular rather than "
+          "merely indirect.", "body"),
+        p("The consequence is sharper than circularity, and it is "
+          "asymmetric. Forming a clearance from the identity makes the "
+          "half-life cancel exactly:", "body"),
+        tbl([
+            ["half-life assumed", "V<sub>d</sub> that follows",
+             "derived clearance"],
+            ["2.3 y (the value used)", "<b>168 mL/kg</b>",
+             "0.132-0.138 mL/kg-day"],
+            ["3.8 y", "<b>277 mL/kg</b>",
+             "0.132-0.138 mL/kg-day (<i>unchanged</i>)"],
+        ], [46 * mm, 38 * mm, W - 84 * mm]),
+        Spacer(1, 3),
+        p("Clearance reduces to dose divided by serum concentration and is "
+          "robust; the volume does not cancel and is proportional to whatever "
+          "half-life was assumed. So adopting '170' alongside a different "
+          "half-life silently contradicts the data it came from. The "
+          "arithmetic is reproduced from the paper's own supplementary table "
+          "to within 1.000-1.003&times; in scripts/thompson_vd_circularity.py. "
+          "The paper's own corrigendum is an instance of exactly this error, "
+          "corrected by a factor of 0.6 - the ratio of two rate constants.",
+          "body"),
+        p("Independent measurements do not support the adopted value in either "
+          "direction: direct estimates cluster at 74, 121 and 113-199 mL/kg "
+          + c("andersson2025", "abraham2024", "gasiorowski2022") + ", all "
+          "<i>below</i> the assigned range, while the one population "
+          "pharmacokinetic fit gives 430 mL/kg " + c("chiu2022") + ", far "
+          "above it. A mass-balance half-life anchored on 170 mL/kg "
+          + c("zhang2013") + " moves to within 5% of the population fit when "
+          "the fitted volume is substituted instead, which suggests the "
+          "seventeen-fold human controversy is largely one assumed constant.",
+          "body"),
+    ]
+
+    # ===================== 10. the handling ratio =====================
+    q = qsar_rows()
+    qr = [["compound", "F-carbons", "head group", "ether O", "f<sub>u</sub> %",
+           "log<sub>10</sub> R", "handling"]]
+    for r in q:
+        qr.append([
+            r["chemical"], r["n_fluorinated_c"],
+            {"carboxylate": "-COOH", "sulfonate": "-SO<sub>3</sub>H",
+             "ether-carboxylate": "-COOH, ether"}[r["head_group"]],
+            r["n_ether_o"], r["fu_pct"], r["log10R_gfr_argoul"],
+            "<b>SECRETED</b>" if float(r["log10R_gfr_argoul"]) > 0
+            else "reabsorbed"])
+    out += [
+        p("10. Toward structure-activity: the renal handling ratio", "h1"),
+        p("A long-term aim of this work is to relate PFAS toxicokinetics to "
+          "molecular structure. Half-life cannot be that endpoint. Because it "
+          "is ln2&middot;V<sub>d</sub>/CL, it carries a glomerular filtration "
+          "term that differs 6.5&times; between mouse and human with no change "
+          "in chemistry whatever; a structural model fitted to it is being "
+          "asked to absorb body size, and it cannot.", "body"),
+        p("The replacement proposed here is dimensionless - measured renal "
+          "clearance divided by the clearance free filtration alone would "
+          "produce:", "body"),
+        p("R = CL<sub>renal</sub> / (f<sub>u</sub> &middot; GFR)", "eq"),
+        p("R below 1 is net reabsorption, R above 1 net secretion, R = 1 pure "
+          "filtration. It divides out GFR, so species of different size become "
+          "comparable, and divides out f<sub>u</sub>, so the binding step is "
+          "not counted twice; what remains is the transport step, which is the "
+          "part a structural model could plausibly learn. It is the axis of "
+          "section 4 re-expressed, since R = 1 - FR, on a scale that neither "
+          "crowds against a ceiling at 1 nor runs unboundedly negative under "
+          "secretion.", "body"),
+        p("Only one dataset supports the comparison: nine compounds with both "
+          "renal clearance and unbound fraction measured in one experiment, "
+          "one species, one laboratory " + c("argoul2026") + ". R spans "
+          "875&times; across them.", "body"),
+        KeepTogether([
+            tbl(qr, [21 * mm, 16 * mm, 22 * mm, 14 * mm, 14 * mm, 18 * mm,
+                     W - 105 * mm]),
+            p("Built by scripts/qsar_endpoint_table.py into "
+              "db/qsar/qsar_endpoint_table.csv. 'F-carbons' counts carbons "
+              "bearing fluorine, which excludes a carboxylate's acid carbon "
+              "and includes every carbon of a sulfonate - a definition chosen "
+              "so that PFNA and PFOS come out the same size, which the data "
+              "can then falsify.", "caption"),
+        ]),
+        p("Three results constrain any structure-activity model built on this "
+          "endpoint. <b>Chain length alone does not order it</b>: within the "
+          "carboxylates the series is non-monotonic and PFHxA crosses into net "
+          "secretion, so a model using carbon number as its sole descriptor is "
+          "already falsified on nine compounds. <b>The head group carries "
+          "about threefold at matched chain length</b> - PFNA against PFOS, "
+          "both with eight fluorinated carbons, differ 2.9&times;, so the "
+          "equivalence the descriptor assumed is a good approximation but not "
+          "free. <b>Ether oxygens move the endpoint 1.4 log units at constant "
+          "chain length, and non-monotonically</b>: PFHxA with none is "
+          "secreted, GenX with one is reabsorbed, PFO2OA with two is secreted. "
+          "The replacement chemicals sit on both sides of the divide, which is "
+          "a regulatory observation as much as a chemical one.", "body"),
+        p("A sensitivity that bears on the species question", "h2"),
+        p("R is linear in 1/f<sub>u</sub>, so it inherits the uncertainty of "
+          "section 7 in full. For human PFOA, with renal clearance and GFR "
+          "both fixed, the three free fractions in circulation give three "
+          "different answers:", "body"),
+        tbl([
+            ["f<sub>u</sub>", "source", "log<sub>10</sub> R",
+             "gap to male mouse"],
+            ["0.10", "models reading '>90% bound' as 'about 90%'", "-3.93",
+             "354&times;"],
+            ["0.02", "the stated assumption in " + c("han2012"), "-3.23",
+             "71&times;"],
+            ["0.00061", "measured at physiological ligand:protein "
+                        + c("fischer2024"), "-1.72", "<b>2.2&times;</b>"],
+        ], [18 * mm, W - 78 * mm, 22 * mm, 38 * mm]),
+        Spacer(1, 3),
+        p("Under the assumed value the mouse-to-human difference in the "
+          "transport step is about seventyfold and the species gap is "
+          "transport biology. Under the measured value it is about twofold, "
+          "and the species gap is almost entirely <b>binding</b> - which would "
+          "mean the transporter literature of section 5 is explaining a "
+          "quantity that barely differs between the species. This is stated as "
+          "a sensitivity rather than a result, because the mouse and human "
+          "free fractions come from different methods at different "
+          "ligand:protein ratios, which is precisely the artefact section 7 "
+          "diagnoses. It is also why the experiment proposed in section 13 is "
+          "the one worth doing first.", "body"),
+    ]
+    return out
+
+
+def story_4():
+    inv = inventory()
+    out = []
+
+    # ===================== 11. corrections =====================
+    out += [
+        p("11. What this review corrects in the published record", "h1"),
+        p("Each entry is traced to the table or figure that contradicts it; "
+          "the full list of eighteen is section 8 of the underlying review.",
+          "body"),
+        tbl([
+            ["source", "correction"],
+            ["US EPA " + c("epa2024pfoa"),
+             "the rat Oatp1a1 male/female ratio quoted as '2.5-fold' is a "
+             "<i>different transporter's</i> number (OAT-K); the primary value "
+             "is <b>23&times;</b> " + c("kudo2002")],
+            ["OEHHA " + c("oehha2024"),
+             "its adaptation of the reabsorption table altered two values "
+             "(human 99.94 to 99.8, male rat 93.7 to 93.2) relative to the "
+             "source " + c("han2012")],
+            ["Provenance",
+             "the f<sub>u</sub> = 0.02 behind the axis is the source paper's "
+             "assumption, not the agency's, and that paper calls its own "
+             "values 'rough estimates' " + c("han2012")],
+            ["Andersson 2025 " + c("andersson2025"),
+             "transposes the PFOA and PFOS volumes of " + c("thompson2010")
+             + " (it is PFOA 170, PFOS 230); an earlier claim in this work "
+             "that " + c("zhang2013") + " did so was itself wrong and is "
+             "withdrawn"],
+            ["Cheng 2006 " + c("cheng2006"),
+             "its abstract calls renal Oatp1a1 'female-predominant', then "
+             "reports androgens <i>increase</i> it and concludes androgens are "
+             "the exclusive cause - self-contradictory, and against "
+             + c("cheng2005", "cheng2009")],
+            ["Metabolic inertness",
+             "'PFAS are metabolically inert' fails for 6:2 Cl-PFESA, which is "
+             "biotransformed " + c("yi2022", "shi2016")],
+            ["<b>This review</b>",
+             "<b>its own refits of the EPA raw curves compress sex ratios "
+             "about 13&times;</b>, as below"],
+        ], [34 * mm, W - 34 * mm]),
+        p("The self-correction matters most", "h2"),
+        p("This work refitted terminal slopes directly from the EPA raw curves "
+          + c("zurlinden2025") + ", selecting the window with the best "
+          "adjusted R<super>2</super>. On a biphasic curve that criterion "
+          "selects the shallow terminal tail. Tested against a published value "
+          "for the same experiment, the fit returns <b>1.44 d against 0.08 "
+          "d</b> for the female rat and compresses a <b>71&times; sex ratio to "
+          "5.6&times;</b> " + c("kudo2002") + ". The bias runs one way, so "
+          "every conclusion above survives and several strengthen - but that "
+          "column must not be read as comparable to published half-lives. It "
+          "carries a flag and is kept rather than deleted, because it remains "
+          "valid for within-curve comparison and because the same failure mode "
+          "applies wherever a terminal slope is fitted without inspecting the "
+          "window.", "body"),
+    ]
+
+    # ===================== 12. coverage =====================
+    out += [
+        p("12. Coverage: how much of the field is empty", "h1"),
+        p("A review that only reports what is known overstates the state of "
+          "the field, so the gap was measured. Crossing 39 chemicals by 11 "
+          "species by 4 parameters gives 1,716 cells.", "body"),
+        tbl([
+            ["", "cells"],
+            ["no data at all", "<b>1,466 (85%)</b>"],
+            ["resting on a single study", "94"],
+            ["PFOS, the best-covered compound in the world", "29 of 44 filled"],
+            ["by species: human / rat / mouse / monkey / dog",
+             "71 / 61 / 45 / 28 / <b>2</b>"],
+        ], [68 * mm, W - 68 * mm]),
+        Spacer(1, 3),
+        p("Mining four further compilations " + c("atsdr2021", "efsa2020",
+                                                  "epa2025pfhxs",
+                                                  "njdwqi2018")
+          + " moved coverage from 143 to 156 cells, so the hole is real rather "
+          "than a search artefact. The dog column deserves particular notice: "
+          "it is the species that sits furthest down the reabsorption axis "
+          "among the mammals with data, and it rests on two cells, one of "
+          "which traces to a book chapter that could not be obtained.", "body"),
+    ]
+
+    # ===================== 13. open questions =====================
+    out += [
+        p("13. Open questions, and what would close them", "h1"),
+        p("1. The unbound fraction, measured one way across species", "h2"),
+        p("This is the cheapest decisive experiment the review identifies, and "
+          "it is first because two separate questions turn on it. Every value "
+          "of R in section 10 is proportional to f<sub>u</sub>, and the mouse "
+          "and human numbers currently come from different methods at "
+          "different ligand:protein ratios. Measuring them by one method at "
+          "physiological ratio decides whether the species difference is "
+          "binding or transport - a 33&times; swing in the answer - and "
+          "simultaneously supplies the denominator any structure-activity "
+          "model needs. It requires plasma, a dialysis or ultrafiltration rig "
+          "and a mass spectrometer. No animals.", "body"),
+        p("2. A measured human transport-affinity constant", "h2"),
+        p("Whether reabsorptive transport saturates at real human exposures "
+          "depends on which parameter family one believes. Six independent in "
+          "vitro half-saturation constants for PFOA against human transporters "
+          "span 47 to 310 &micro;M, from two laboratories, agreeing within a "
+          "factor of seven " + c("yang2010", "louisse2024", "louisse2023")
+          + ". The transport-affinity constant fitted inside physiologically "
+          "based models is 0.133 &micro;M - <b>354 to 2,336&times; lower than "
+          "anything ever measured in a cell</b>. The in vitro values put human "
+          "serum far below half-saturation; the fitted value puts three of "
+          "four human populations at or above it, which would make clearance "
+          "dose-dependent in contaminated communities and mean a single "
+          "clearance factor cannot transfer between exposure settings. The "
+          "weight of evidence has moved onto the in vitro side - the fitted "
+          "values are fitted to plasma curves rather than measured, the mouse "
+          "row carries standard errors exceeding its estimates, and the "
+          "dose-response evidence of section 8 agrees with the in vitro answer "
+          "- but nobody has measured a human value, and one measurement would "
+          "close it outright.", "body"),
+        p("3. Whether the biliary resorption constant replicates", "h2"),
+        p("The 0.97 of section 6 is now load-bearing for the human limb, and "
+          "it rests on four surgical patients in a single study reached "
+          "through an agency document " + c("harada2007") + ". A replication "
+          "in any species under a stated protocol would be worth more than its "
+          "cost.", "body"),
+        p("4. The mouse renal Oatp1a1 sex ratio", "h2"),
+        p("The rat value is 23&times; " + c("kudo2002") + "; the mouse "
+          "equivalent is not established, and the mouse sex difference runs "
+          "the opposite way to the rat's " + c("tatum2011") + ". One "
+          "quantitative PCR experiment would discriminate between the live "
+          "hypotheses - though if the answer to question 1 is that the species "
+          "gap is binding, this question loses most of its force, which is why "
+          "it is fourth rather than first.", "body"),
+        p("5. Unobtained sources", "h2"),
+        p("Three documents would materially change specific numbers and could "
+          "not be obtained: the dog toxicokinetic chapter underlying the dog "
+          "column, an unpublished contract report on protein binding, and the "
+          "primary rat dose series " + c("kemper2003") + ", which supplies "
+          "roughly 70% of the rat PFOA observations used here only through its "
+          "digitisation by " + c("zurlinden2025") + ".", "body"),
+    ]
+
+    # ===================== 14. conclusions =====================
+    out += [
+        p("14. Conclusions", "h1"),
+        p("The species difference in PFAS elimination is a clearance "
+          "difference, not a distribution difference, and it is concentrated "
+          "in females. One mechanistic axis - the fraction of filtered "
+          "compound recovered from the tubule - orders every species for which "
+          "both terms have been measured, and predicts rodent half-lives "
+          "within 1.7&times; with no fitted parameter. That axis is two "
+          "factors rather than one, roughly two thirds reabsorption and one "
+          "third glomerular filtration rate, and in humans it is joined by a "
+          "second, enterohepatic loop of comparable completeness whose "
+          "interruption shortens human half-lives several-fold.", "body"),
+        p("The reabsorbed fraction transfers between species; the protein "
+          "performing the reabsorption does not. That distinction matters for "
+          "how animal data should be read across to humans: the quantitative "
+          "axis is extrapolable, the mechanism is not.", "body"),
+        p("Against that, two of the most widely inherited human parameters do "
+          "not mean what their users take them to mean. The volume of "
+          "distribution behind nine adopted clearance factors is a calculation "
+          "whose assumed half-life came from the same communities it was "
+          "calibrated on, and a plasma free fraction in general use is roughly "
+          "164&times; too high because a calculated lower bound was read as a "
+          "measurement. Neither is a disputed measurement; both are provenance "
+          "failures, and both are fixable by reading the source tables.",
+          "body"),
+        p("Finally, half-life should not be the endpoint of a structure-"
+          "activity model, because it carries body size. The dimensionless "
+          "renal handling ratio proposed here removes both the filtration and "
+          "the binding terms, spans 875&times; across the nine compounds that "
+          "support the comparison, and shows immediately that chain length "
+          "alone will not do: the head group carries threefold at matched "
+          "length and ether substitution moves the endpoint 1.4 log units "
+          "non-monotonically, placing the replacement chemicals on both sides "
+          "of the reabsorption-secretion divide. Extending that comparison to "
+          "a second species, with unbound fraction measured the same way in "
+          "both, is the single step that would turn this argument into a "
+          "model.", "body"),
+        p("Data and code availability", "h2"),
+        p(f"All extractions, the consolidated {inv['rows']:,}-row database, "
+          f"the {inv['scripts']} analysis scripts that regenerate every figure "
+          "and table above, and the full review are at "
+          "github.com/sdey17/pfas_tk. Every database row carries a PMID or "
+          "DOI, the table it was read from, and whether its value was "
+          "measured, fitted, assumed or computed in this work. Animal serum "
+          "time courses are redistributed from the EPA compilation "
+          + c("zurlinden2025") + " under its MIT licence.", "body"),
+    ]
+
+    # ===================== references =====================
+    out += [p("References", "h1")]
+    out += [p("Numbered by order of first citation. Entries marked as held "
+              "through a secondary source were not obtained in the original; "
+              "the review does not quote them as if they had been.",
+              "caption")]
+    for i, k in enumerate(_ORDER, 1):
+        out.append(p(f"<b>{i}.</b>&nbsp;&nbsp;{REFS[k]}", "ref"))
+    unused = [k for k in REFS if k not in _ORDER]
+    if unused:
+        raise SystemExit(f"unused references (remove or cite): {unused}")
+    return out
+
+
+# ---------------------------------------------------------------------------
+# figure, assembly, validation
+# ---------------------------------------------------------------------------
+def figure_block():
+    return [
+        p("Figure 1", "h1"),
+        Image(FIG, width=W, height=W / 2.033),
+        p("<b>The argument in one pair of panels.</b> <b>Left:</b> across five "
+          "species-by-sex groups in which both terms were measured, the volume "
+          "of distribution spans 2.6&times; while renal clearance spans "
+          "13,958&times; - the variance is in clearance, not distribution "
+          "(section 3). <b>Right:</b> half-life predicted from fractional "
+          "renal reabsorption alone, against observation, on log axes with the "
+          "1:1 line. Every rodent point falls within 1.7&times; over a "
+          "37&times; span with no fitted parameter (section 4). The human "
+          "point sits 4.3&times; high, and the walk-down beneath it - renal "
+          "only 4.3&times;, plus faecal 2.7&times;, EPA clearance 2.2&times;, "
+          "OEHHA measured clearance 0.9&times; - is what led to the second "
+          "reabsorption loop (section 6). Regenerate with "
+          "scripts/make_master_figure.py.", "caption"),
+    ]
+
+
 def check_glyphs(flowables):
-    """Fail loudly rather than ship a page of black boxes."""
+    """reportlab's built-in fonts are WinAnsi; anything else is a black box."""
     bad = {}
+
     def scan(txt):
         for ch in txt:
-            o = ord(ch)
-            if o < 32 or o > 126:
-                if ch not in SAFE_EXTRA:
-                    bad[ch] = bad.get(ch, 0) + 1
-    for f in flowables:
+            if (ord(ch) < 32 or ord(ch) > 126) and ch not in SAFE_EXTRA:
+                bad[ch] = bad.get(ch, 0) + 1
+
+    def walk(f):
         for obj in (f._content if isinstance(f, KeepTogether) else [f]):
             if isinstance(obj, Paragraph):
                 scan(obj.text)
             elif isinstance(obj, Table):
                 for row in obj._cellvalues:
-                    for c in row:
-                        if isinstance(c, Paragraph):
-                            scan(c.text)
+                    for cell in row:
+                        if isinstance(cell, Paragraph):
+                            scan(cell.text)
+
+    for f in flowables:
+        walk(f)
     return bad
 
 
 def main():
-    flow = story()
+    # order matters: citation numbers are assigned as the text is built
+    flow = story() + figure_block() + story_2() + story_3() + story_4()
+
     bad = check_glyphs(flow)
     if bad:
-        print("non-WinAnsi characters found (these render as black boxes):")
+        print("non-WinAnsi characters (these render as black boxes):")
         for ch, n in sorted(bad.items(), key=lambda kv: -kv[1]):
             print(f"   U+{ord(ch):04X} {ch!r} x{n}")
         sys.exit(1)
 
-    doc = BaseDocTemplate(OUT, pagesize=A4,
-                          leftMargin=20 * mm, rightMargin=20 * mm,
-                          topMargin=18 * mm, bottomMargin=20 * mm,
-                          title="PFAS toxicokinetics - printable summary",
-                          author="pfas_tk", subject="PFAS toxicokinetics")
+    doc = BaseDocTemplate(
+        OUT, pagesize=A4, leftMargin=20 * mm, rightMargin=20 * mm,
+        topMargin=18 * mm, bottomMargin=20 * mm,
+        title="Why PFAS half-lives differ between humans, rats and mice",
+        author="pfas_tk", subject="PFAS toxicokinetics review")
     frame = Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height,
                   id="f")
     doc.addPageTemplates([
-        PageTemplate(id="cover", frames=[frame], onPage=cover_furniture),
-        PageTemplate(id="body", frames=[frame], onPage=footer),
+        PageTemplate(id="cover", frames=[frame], onPage=_cover),
+        PageTemplate(id="body", frames=[frame], onPage=_footer),
     ])
     doc.build(flow)
 
-    size = os.path.getsize(OUT)
-    from pypdf import PdfReader
-    pages = len(PdfReader(OUT).pages)
-    print(f"wrote {os.path.relpath(OUT, HERE)}  "
-          f"{pages} pages, {size/1024:.0f} KB")
+    try:
+        from pypdf import PdfReader
+        pages = len(PdfReader(OUT).pages)
+    except ImportError:
+        pages = "?"
+    print(f"wrote {os.path.relpath(OUT, HERE)}  {pages} pages, "
+          f"{os.path.getsize(OUT)/1024:.0f} KB, "
+          f"{len(_ORDER)} references cited")
 
 
 if __name__ == "__main__":
