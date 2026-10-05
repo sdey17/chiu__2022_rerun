@@ -103,7 +103,7 @@ Weaver 2010, Table 2 (CHO cells stably expressing rat Oatp1a1, 1 min) — [sourc
   C8 83.8 µM; C9 44.6 µM; C10 26.8 µM**; no apparent inhibition by C4 or C5 even at 1 mM —
   [Weaver 2010, Discussion](https://pmc.ncbi.nlm.nih.gov/articles/PMC2807038/); the PFHxA value is
   independently quoted as "Ki of 1,858 µM … as compared with 84 µM for PFOA" in
-  [EPA 2023 IRIS PFHxA review, p. 3-11](papers/EPA%202023%20IRIS%20PFHxA%20toxicological%20review.txt)
+  [EPA 2023 IRIS PFHxA review, p. 3-11](../../papers/EPA%202023%20IRIS%20PFHxA%20toxicological%20review.txt)
 - Rat Oat2: no significant net uptake of C7–C10 at 100 µM in either CHO-Oat2 or HEK-Oat2; most PFCAs
   did inhibit Oat2-mediated PAH uptake by 40–60% at 10 µM but with **no chain-length dependence**,
   which Weaver attributed to a poor signal-to-noise ratio — [Weaver 2010, Figs 8A, 9A](https://pmc.ncbi.nlm.nih.gov/articles/PMC2807038/)
@@ -112,7 +112,7 @@ Weaver 2010, Table 2 (CHO cells stably expressing rat Oatp1a1, 1 min) — [sourc
   characterise — [Weaver 2010, Figs 8B, 9B](https://pmc.ncbi.nlm.nih.gov/articles/PMC2807038/)
 - Rat Oat3 and Oatp1a1 (as "Oatp1") both transported PFOA in *Xenopus laevis* oocytes —
   Katakura 2007, reported second-hand in [Weaver 2010, Discussion](https://pmc.ncbi.nlm.nih.gov/articles/PMC2807038/)
-  and tabulated as "both active" in [OEHHA 2021 PHG Table A6.3](papers/OEHHA%202021%20PFOA%20PFOS%20PHG%20first%20draft.txt)
+  and tabulated as "both active" in [OEHHA 2021 PHG Table A6.3](../../papers/OEHHA%202021%20PFOA%20PFOS%20PHG%20first%20draft.txt)
 
 ### Cited Findings — human renal transporters
 
@@ -148,7 +148,7 @@ control-subtracted; SE in brackets) — [source](https://pmc.ncbi.nlm.nih.gov/ar
   inhibited OATP1A2-mediated estrone-3-sulfate uptake — [Yang 2010, Abstract and Fig 1](https://doi.org/10.1093/toxsci/kfq219)
 - Human OAT4 transports PFOA, reported without kinetic parameters —
   Nakagawa 2009 (no PubMed abstract available); characterised as "active; uptake was reported but no
-  kinetic characteristics" in [OEHHA 2021 PHG Table A6.3](papers/OEHHA%202021%20PFOA%20PFOS%20PHG%20first%20draft.txt)
+  kinetic characteristics" in [OEHHA 2021 PHG Table A6.3](../../papers/OEHHA%202021%20PFOA%20PFOS%20PHG%20first%20draft.txt)
 - Human OAT substrate/non-substrate map from OAT-transduced HEK293: OAT1 — only PFHpA and PFOA;
   OAT2 — none of the six tested; OAT3 — PFHpA, PFOA, PFNA and PFHxS but not PFBS or PFOS —
   [Louisse 2024, Abstract](https://doi.org/10.1016/j.tox.2024.153961)
@@ -208,7 +208,7 @@ Zhao 2017, Tables 3 and 4 — [source](https://pmc.ncbi.nlm.nih.gov/articles/PMC
   lower than PFHxS and PFOS (10 µM, 1 and 5 min) — [Zhao 2017, Fig 6](https://pmc.ncbi.nlm.nih.gov/articles/PMC6075085/)
 - For the carboxylates, the same three human OATPs "can transport the longer chain PFOA (C8) and
   perfluorononanoate (C9), but not the shorter chain perfluoroheptanoate (C7)" —
-  [EPA 2024 PFOA assessment §3.3.1.4.2, citing Zhao 2017b](papers/EPA%202024%20PFOA%20human%20health%20toxicity%20assessment.txt)
+  [EPA 2024 PFOA assessment §3.3.1.4.2, citing Zhao 2017b](../../papers/EPA%202024%20PFOA%20human%20health%20toxicity%20assessment.txt)
 - Freshly isolated rat hepatocytes, saturable active PFOA uptake after subtracting the non-saturable
   partition measured on ice: male Km 88.0 ± 9.1 µM, Vmax 5.61 ± 0.88 nmol/min/10⁶ cells, active
   clearance 64.8 ± 15.7 µL/min/10⁶ cells; female Km 76.1 ± 12.0 µM, Vmax 3.59 ± 0.29, clearance
@@ -331,10 +331,10 @@ the rat male/female Oatp1a1 difference varies several-fold between secondary sou
   tubule … In male rats, Oatp1a1 mRNA expression was 2.5-fold greater than in females, undetectable
   in castrated rats … Gotoh et al. (2002) confirmed that Oatp1a1 protein levels were undetectable
   from female rat kidney and highly expressed in male rat kidney" —
-  [EPA 2023 IRIS PFHxA review, p. 3-11](papers/EPA%202023%20IRIS%20PFHxA%20toxicological%20review.txt)
+  [EPA 2023 IRIS PFHxA review, p. 3-11](../../papers/EPA%202023%20IRIS%20PFHxA%20toxicological%20review.txt)
 - **Conflicting magnitude** from the other EPA document: "The level of messenger ribonucleic acid
   (mRNA) of OATP1a1 in male rat kidney is 5–20-fold higher than in female rat kidney and is regulated
-  by sex hormones" — [EPA 2024 PFOA assessment §3.3.1.4.2](papers/EPA%202024%20PFOA%20human%20health%20toxicity%20assessment.txt).
+  by sex hormones" — [EPA 2024 PFOA assessment §3.3.1.4.2](../../papers/EPA%202024%20PFOA%20human%20health%20toxicity%20assessment.txt).
   Neither 2.5-fold nor 5–20-fold appears in the Kudo 2002 abstract, which gives no fold value for
   oatp1 at all; Gotoh 2002 reported the protein as simply undetectable in females.
 - The rat secretory Oats run the *other* way: renal Oat1 is male-predominant and renal Oat2 strongly
@@ -373,10 +373,10 @@ the rat male/female Oatp1a1 difference varies several-fold between secondary sou
 - Regulatory framing: "In rats and mice, expression of OAT1, OAT3, and OATP1a1 is controlled by male
   sex hormones and shows higher activities in males (Buist and Klaassen 2004; Gotoh et al. 2002;
   Kobayashi et al. 2002; Li et al. 2002; Lu et al. 1996; Lubojevic et al. 2004)" —
-  [ATSDR 2021, Section 3](papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt)
+  [ATSDR 2021, Section 3](../../papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt)
 - Net tubular handling by species, from the OEHHA compilation of Han 2012 (Table A6.4): male rat
   93.7% of filtered PFOA reabsorbed vs net secretion in female rats; male mouse 97% reabsorbed and
-  female mouse 95.2%; human 99.8% — [OEHHA 2021 PHG Table A6.4](papers/OEHHA%202021%20PFOA%20PFOS%20PHG%20first%20draft.txt)
+  female mouse 95.2%; human 99.8% — [OEHHA 2021 PHG Table A6.4](../../papers/OEHHA%202021%20PFOA%20PFOS%20PHG%20first%20draft.txt)
 
 ### Inferences
 - The androgen-regulated, male-predominant, apical Oatp1a1 story is **shared by rat and mouse**, so it
@@ -415,13 +415,13 @@ Serum concentrations (all from documents in `papers/`):
 
 | PFAS | Serum (ng/mL) | Serum (nM) | Serum (µM) | Source |
 |---|---|---|---|---|
-| PFOA | 1.56 | 3.8 | 0.0038 | NHANES 2015–2016 geometric mean, CDC 2018 via [ATSDR 2021](papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt) |
-| PFOA | 3.61 | 8.7 | 0.0087 | NHANES 2009–2010 adult males geometric mean, via [ATSDR 2021](papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt) |
-| PFOA | 5.2 | 12.6 | 0.0126 | NHANES 1999–2000 geometric mean, CDC 2018 via [ATSDR 2021](papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt) |
-| PFOA | 9.7 | 23.4 | 0.0234 | NHANES 2007–2008 95th percentile, [EPA 2024](papers/EPA%202024%20PFOA%20human%20health%20toxicity%20assessment.txt) |
-| PFOA | 113 | 272.9 | 0.273 | median serum in fluorochemical workers, 2005, [EPA 2024](papers/EPA%202024%20PFOA%20human%20health%20toxicity%20assessment.txt) |
-| PFOS | 4.72 | 9.4 | 0.0094 | NHANES 2013–2014 geometric mean, CDC 2018 via [ATSDR 2021](papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt) |
-| PFOS | 30.4 | 60.8 | 0.0608 | NHANES 1999–2000 geometric mean, CDC 2018 via [ATSDR 2021](papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt) |
+| PFOA | 1.56 | 3.8 | 0.0038 | NHANES 2015–2016 geometric mean, CDC 2018 via [ATSDR 2021](../../papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt) |
+| PFOA | 3.61 | 8.7 | 0.0087 | NHANES 2009–2010 adult males geometric mean, via [ATSDR 2021](../../papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt) |
+| PFOA | 5.2 | 12.6 | 0.0126 | NHANES 1999–2000 geometric mean, CDC 2018 via [ATSDR 2021](../../papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt) |
+| PFOA | 9.7 | 23.4 | 0.0234 | NHANES 2007–2008 95th percentile, [EPA 2024](../../papers/EPA%202024%20PFOA%20human%20health%20toxicity%20assessment.txt) |
+| PFOA | 113 | 272.9 | 0.273 | median serum in fluorochemical workers, 2005, [EPA 2024](../../papers/EPA%202024%20PFOA%20human%20health%20toxicity%20assessment.txt) |
+| PFOS | 4.72 | 9.4 | 0.0094 | NHANES 2013–2014 geometric mean, CDC 2018 via [ATSDR 2021](../../papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt) |
+| PFOS | 30.4 | 60.8 | 0.0608 | NHANES 1999–2000 geometric mean, CDC 2018 via [ATSDR 2021](../../papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt) |
 
 Km-to-serum ratios (molecular weights from [Ryu 2024, Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11774580/):
 PFOA 414.07, PFOS 500.13, PFHxS 400.12 g/mol; conversions performed by this reviewer):
@@ -438,7 +438,7 @@ PFOA 414.07, PFOS 500.13, PFHxS 400.12 g/mol; conversions performed by this revi
 | human NTCP | PFOS | 130 | 0.0094 | ~13,800× | Zhao 2015 Table 2 |
 | human OATP1B1 | PFOS | 23 | 0.0094 | ~2,400× | Zhao 2017 Table 3 |
 | human OATP2B1 | PFOS | 48 | 0.0094 | ~5,100× | Zhao 2017 Table 3 |
-| human OAT4 | PFHxS | 92 | 0.0054 (2.16 ng/mL GM) | ~17,000× | Louisse 2023 Table 1; serum GM from [ATSDR 2021](papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt) |
+| human OAT4 | PFHxS | 92 | 0.0054 (2.16 ng/mL GM) | ~17,000× | Louisse 2023 Table 1; serum GM from [ATSDR 2021](../../papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt) |
 | Caco-2 OATP | PFOA | 8.3 | 0.0038 | ~2,200× | Kimura 2017 |
 | human OAT4 | PFOA | 47 | 0.273 (fluorochemical workers) | ~170× | Louisse 2023 Table 1 |
 
@@ -448,15 +448,15 @@ PFOA 414.07, PFOS 500.13, PFHxS 400.12 g/mol; conversions performed by this revi
   the remaining fluid will increase proportionately. Thus, the PFHxA concentrations in the proximal
   tubule of these rats (where Oatp1a1 is expressed) could be high enough for significant transporter
   activity, but below the level of saturation." —
-  [EPA 2023 IRIS PFHxA review, p. 3-11](papers/EPA%202023%20IRIS%20PFHxA%20toxicological%20review.txt)
+  [EPA 2023 IRIS PFHxA review, p. 3-11](../../papers/EPA%202023%20IRIS%20PFHxA%20toxicological%20review.txt)
 - Where saturation *has* plausibly been observed, it is at therapeutic/occupational doses, not
   environmental ones: "saturation of this transporter could result in an increase in urinary
   elimination of perfluoroalkyls due to decreased tubular reabsorption. This is consistent with the
   apparent plateau in plasma concentration with increasing dose observed in cancer patients treated
-  with PFOA (Convertino et al. 2018)." — [ATSDR 2021, Section 3](papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt)
+  with PFOA (Convertino et al. 2018)." — [ATSDR 2021, Section 3](../../papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt)
 - Worley & Fisher's rat PBPK model explicitly assumed saturable proximal tubule transporters and the
   model "predicts an increase in" urinary elimination at high doses as a result —
-  [EPA 2024, citing Worley and Fisher](papers/EPA%202024%20PFOA%20human%20health%20toxicity%20assessment.txt);
+  [EPA 2024, citing Worley and Fisher](../../papers/EPA%202024%20PFOA%20human%20health%20toxicity%20assessment.txt);
   the model's own Km values were 27.20 µg/mL (basolateral) and 52.3 µg/mL (apical), i.e. 65.7 and
   126.3 µM — [Worley 2015, Table 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC4662604/)
 - Liu 2020's IVIVE for carboxylesterase inhibition reaches the same conclusion for a different target
@@ -597,7 +597,7 @@ mask apparent transporter effects.
   processes" — [Ebert 2020](https://doi.org/10.1021/acs.est.0c00175). EPA 2024 picks this up:
   "movement across interface membranes was thought to be dominated by transporters or … however,
   support transporter-independent uptake through passive diffusion processes. Ebert et [al.]" —
-  [EPA 2024](papers/EPA%202024%20PFOA%20human%20health%20toxicity%20assessment.txt)
+  [EPA 2024](../../papers/EPA%202024%20PFOA%20human%20health%20toxicity%20assessment.txt)
 - Species-of-origin limitation named by the IVIVE authors themselves: human cells are required because
   of "the vast inter-species differences in PFAS clearance which would limit the utility of the data
   from non-human cells, and the fact that existing models have not been confirmed with extremely long
@@ -681,7 +681,7 @@ failed: OAT4 efficiency did not correlate with human half-life.
   perfluorocarboxylates in male rats. This in vitro-to-in vivo correlation strongly supports a tubular
   reabsorptive role of Oatp1a1" — [Yang 2009, Abstract](https://doi.org/10.1016/j.toxlet.2009.07.011);
   ATSDR reports the strength as r² = 0.98 —
-  [ATSDR 2021, Section 3](papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt)
+  [ATSDR 2021, Section 3](../../papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt)
 - Barrier identified by EFSA/Louisse for human PBPK: the EFSA CONTAM assessment had to assume PFNA
   behaves like PFOA and PFHxS like PFOS because congener-specific models do not exist; "information
   generated using in vitro methods on transporter kinetics … as well as plasma protein binding, are
@@ -690,7 +690,7 @@ failed: OAT4 efficiency did not correlate with human half-life.
   transport of PFOA were derived from in vitro estimates for OATP1a1 (apical) and OAT1 and OAT3
   (basolateral) (Nakagawa et al. 2008; Weaver et al. 2010; Yamada et al. 2007)" and fitting to male and
   female rat observations "resulted in lower values for activity of both transporters" in females —
-  [ATSDR 2021, Section 3](papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt). The
+  [ATSDR 2021, Section 3](../../papers/ATSDR%202021%20Toxicological%20Profile%20Perfluoroalkyls.txt). The
   human counterpart used OAT4 for the apical side — same source.
 
 ### Inferences

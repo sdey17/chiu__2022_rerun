@@ -118,6 +118,12 @@ look before running anything. The ones that carry the most weight:
 ([USEPA/CPHEA-Animal-PFAS-PK](https://github.com/USEPA/CPHEA-Animal-PFAS-PK)),
 so the lessons run with no database and no network.
 
+**[`data/SOURCES.md`](data/SOURCES.md) traces every row to its original study** —
+nine papers with DOIs and EPA HERO links, which figure or appendix each was
+digitised from, which are group means rather than individual animals, what was
+changed on the way in, and where the mouse data is (there is none in these five
+files; the upstream database has 2,445 mouse rows across eight studies).
+
 | file | rows | experiments | note |
 |---|---|---|---|
 | `PFOA_Male_primate.csv` | 43 | 1 | 10 mg/kg IV, 3 monkeys, 123 days — the cleanest decay curve there is |
@@ -217,7 +223,7 @@ C(t) = A·exp(-alpha·t) + B·exp(-beta·t),   alpha > beta
 
 The parent repository is what these lessons are preparation for:
 
-- `../model.py` — Chiu et al. 2022's human model: the same one-compartment
+- `../chiu_replication/model.py` — Chiu et al. 2022's human model: the same one-compartment
   equation, with drinking-water input, fitted hierarchically over
   population → study → person. You now have everything needed to read it.
 - `../pfas_dose/` — the EPA animal pipeline: 1- vs 2-compartment chosen by
