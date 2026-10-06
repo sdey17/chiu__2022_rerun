@@ -26,30 +26,152 @@ LN2 = math.log(2)
 OUT = os.path.join(HERE, "db", "argoul_vs_single_compound.csv")
 PAIRS = []
 
+# ---------------------------------------------------------------------------
+# Provenance. Every comparator is named by a key here, so a value in the output
+# CSV can be traced to a paper, a DOI and the table it was actually read from.
+# "via" matters: several values reach this review through an agency compilation
+# rather than the primary paper, and that is recorded rather than smoothed over.
+# ---------------------------------------------------------------------------
+REFS = {
+ "lou2009": dict(
+   ref="Lou I, Wambaugh JF, Lau C, Hanson RG, Lindstrom AB, Strynar MJ, Zehr RD, "
+       "Setzer RW, Barton HA (2009). Modeling single and repeated dose "
+       "pharmacokinetics of PFOA in mice. Toxicological Sciences 107(2):331-341.",
+   doi="10.1093/toxsci/kfn234", pmid="19005225",
+   via="primary full text; Lou 2009 Table 2 via db/primary_2026/lou2009_mouse_tk.csv"),
+ "fujii2015": dict(
+   ref="Fujii Y, Niisoe T, Harada KH, Uemoto S, Ogura Y, Takenaka K, Koizumi A "
+       "(2015). Toxicokinetics of perfluoroalkyl carboxylic acids with different "
+       "carbon chain lengths in mice and humans. Journal of Occupational Health "
+       "57(1):1-12.",
+   doi="10.1539/joh.14-0136-OA", pmid="25422127",
+   via="OEHHA 2024 PHG Table 4.8.1; ATSDR 2021 Table 3-6 (compilations)"),
+ "sundstrom2012": dict(
+   ref="Sundstrom M, Chang S-C, Noker PE, Gorman GS, Hart JA, Ehresman DJ, "
+       "Bergman A, Butenhoff JL (2012). Comparative pharmacokinetics of "
+       "perfluorohexanesulfonate (PFHxS) in rats, mice, and monkeys. "
+       "Reproductive Toxicology 33(4):441-451.",
+   doi="10.1016/j.reprotox.2011.07.004", pmid="21856411",
+   via="primary full text; Sundstrom 2012 Table 3 via "
+       "db/primary_2026/sundstrom2012_pfhxs_three_species.csv"),
+ "chang2008": dict(
+   ref="Chang S-C, Das K, Ehresman DJ, Ellefson ME, Gorman GS, Hart JA, Noker PE, "
+       "Tan Y-M, Lieder PH, Lau C, Olsen GW, Butenhoff JL (2008). Comparative "
+       "pharmacokinetics of perfluorobutyrate in rats, mice, monkeys, and humans "
+       "and relevance to human exposure via drinking water. Toxicological "
+       "Sciences 104(1):40-53.",
+   doi="10.1093/toxsci/kfn057", pmid="18353799",
+   via="ATSDR 2021 Toxicological Profile for Perfluoroalkyls, Table 3-5 "
+       "(compilation); Chang 2008 abstract"),
+ "chang2012": dict(
+   ref="Chang S-C, Noker PE, Gorman GS, Gibson SJ, Hart JA, Ehresman DJ, "
+       "Butenhoff JL (2012). Comparative pharmacokinetics of "
+       "perfluorooctanesulfonate (PFOS) in rats, mice, and monkeys. "
+       "Reproductive Toxicology 33(4):428-440.",
+   doi="10.1016/j.reprotox.2011.07.002", pmid="21889587",
+   via="ATSDR 2021 Toxicological Profile for Perfluoroalkyls, Table 3-5 "
+       "(compilation)"),
+ "tatum2011": dict(
+   ref="Tatum-Gibbs K, Wambaugh JF, Das KP, Zehr RD, Strynar MJ, Lindstrom AB, "
+       "Delinsky A, Lau C (2011). Comparative pharmacokinetics of "
+       "perfluorononanoic acid in rat and mouse. Toxicology 281(1-3):48-55.",
+   doi="10.1016/j.tox.2011.01.003", pmid="21237237",
+   via="Tatum-Gibbs 2011 abstract; ATSDR 2021 Table 3-5 (compilation)"),
+ "epa2023pfhxa": dict(
+   ref="US EPA (2023). IRIS Toxicological Review of Perfluorohexanoic Acid "
+       "(PFHxA) and Related Salts. EPA/635/R-23/027Fa.",
+   doi="", pmid="",
+   via="EPA 2023 PFHxA IRIS sec 5.2.1 p.5-13; Vd,beta COMPUTED by EPA from "
+       "Gannon et al. 2011, not measured"),
+ "zurlinden2025": dict(
+   ref="Zurlinden TJ, Dzierlenga MW, Kapraun DF, Ring C, Bernstein AS, "
+       "Schlosser PM, Morozov V (2025). Estimation of species- and sex-specific "
+       "PFAS pharmacokinetics in mice, rats, and non-human primates using a "
+       "Bayesian hierarchical methodology. Toxicology and Applied Pharmacology "
+       "499:117336.",
+   doi="10.1016/j.taap.2025.117336", pmid="40210099",
+   via="EPA CPHEA-Animal-PFAS-PK Bayesian hierarchical fit, Table 3; pools the "
+       "single-compound studies above rather than adding new animals"),
+ "argoul2026": dict(
+   ref="Argoul CML, Toutain P-L, Picard-Hagen N, Mselli-Lakhal L, Dauwe Y, "
+       "Roques BB, Lacroix MZ, Gayrard V (2026). Nonlinear mixed-effects "
+       "modeling of the intravenous and oral kinetics of eleven perfluoroalkyl "
+       "substances in female mice. Environmental Research 303:124802.",
+   doi="10.1016/j.envres.2026.124802", pmid="",
+   via="primary full text; Argoul 2026 Tables 1/2/4 via "
+       "db/primary_2026/argoul2026_mouse_tk.csv"),
+}
+
 # Female-mouse comparators from single-compound studies, half-life in DAYS.
 # Chang and Sundstrom report hours for serum; converted here.
 SINGLE = {
-    "PFBA":  [("Chang 2008, 10 mg/kg",  2.87 / 24), ("Chang 2008, 30 mg/kg", 3.08 / 24),
-              ("Chang 2008, 100 mg/kg", 2.79 / 24)],
-    "PFOA":  [("Lou 2009, 1-10 mg/kg", 15.6)],
-    "PFNA":  [("Tatum-Gibbs 2011, 1-10 mg/kg low", 25.8),
-              ("Tatum-Gibbs 2011, 1-10 mg/kg high", 68.4)],
-    "PFHxS": [("Sundstrom 2012, 1 mg/kg", 24.8), ("Sundstrom 2012, 20 mg/kg", 26.8)],
-    "PFOS":  [("Chang 2012, 1 mg/kg", 907 / 24), ("Chang 2012, 20 mg/kg", 731 / 24)],
-    "PFBS":  [("Lau 2020, 30 mg/kg", 3.0 / 24), ("Lau 2020, 300 mg/kg", 3.9 / 24)],
+    "PFBA":  [("Chang 2008, 10 mg/kg",  2.87 / 24, "chang2008"),
+              ("Chang 2008, 30 mg/kg",  3.08 / 24, "chang2008"),
+              ("Chang 2008, 100 mg/kg", 2.79 / 24, "chang2008")],
+    "PFOA":  [("Lou 2009, 1-10 mg/kg", 15.6, "lou2009")],
+    "PFNA":  [("Tatum-Gibbs 2011, 1-10 mg/kg low", 25.8, "tatum2011"),
+              ("Tatum-Gibbs 2011, 1-10 mg/kg high", 68.4, "tatum2011")],
+    "PFHxS": [("Sundstrom 2012, 1 mg/kg", 24.8, "sundstrom2012"),
+              ("Sundstrom 2012, 20 mg/kg", 26.8, "sundstrom2012")],
+    "PFOS":  [("Chang 2012, 1 mg/kg", 907 / 24, "chang2012"),
+              ("Chang 2012, 20 mg/kg", 731 / 24, "chang2012")],
+    "PFBS":  [("Lau 2020, 30 mg/kg", 3.0 / 24, ""),
+              ("Lau 2020, 300 mg/kg", 3.9 / 24, "")],
 }
 # The EPA Bayesian hierarchical fit pools the single-compound studies, so it is
-# a second, independent summary of the same literature rather than a new study.
+# a second summary of the same literature rather than an independent study.
 POOLED = {"PFBA": 0.186, "PFBS": 0.125, "PFHxA": 0.251, "PFHxS": 26.665,
           "PFNA": 59.439, "PFOA": 21.453, "PFOS": 32.810}
 
-# Direct CL / Vd comparators, female mouse (mL/kg/d, mL/kg)
+# Direct CL / Vd comparators, female mouse (mL/kg/d, mL/kg).
+#
+# The last field says whether that study's Vd is INDEPENDENT of its clearance.
+# It usually is not: non-compartmental analysis gives Vz = CL/lambda_z and
+# Vss = CL*MRT, and Lou's clearance is ke*Vd derived in this review, so in those
+# studies "clearance low AND volume low" is one observation seen twice. Fujii is
+# the exception -- Vd from Dose/C(0) by back-extrapolation, CL from Dose/AUC --
+# and is therefore the only row where the two agree independently.
 CLVD = {
-    "PFOA":  [("Lou 2009", 5.99, 135), ("Fujii (via EPA)", 11.8, 150)],
-    "PFHxS": [("Sundstrom 2012, 1 mg/kg", 2.68, 96),
-              ("Sundstrom 2012, 20 mg/kg", 3.79, 147)],
-    "PFHxA": [("US EPA PFHxA IRIS", None, 780)],
+    "PFOA":  [("Lou 2009", 5.99, 135, "lou2009", False),
+              ("Fujii 2015", 11.8, 150, "fujii2015", True)],
+    "PFHxS": [("Sundstrom 2012, 1 mg/kg", 2.68, 96, "sundstrom2012", False),
+              ("Sundstrom 2012, 20 mg/kg", 3.79, 147, "sundstrom2012", False)],
+    "PFHxA": [("US EPA PFHxA IRIS", None, 780, "epa2023pfhxa", False)],
 }
+
+
+def check_refs_against_pdf():
+    """Warn if a comparator's DOI here disagrees with the review's reference
+    list, or is missing from it. A wrong citation in one file and not the other
+    is exactly the error this comparison introduced once already."""
+    import re
+    try:
+        pdf = open(os.path.join(HERE, "scripts", "make_summary_pdf.py")).read()
+    except OSError:
+        return
+    listed = dict(re.findall(r'^"([a-z0-9]+)":\s*"(.*?)",\n', pdf, re.M | re.S))
+    bad = []
+    for k, r in REFS.items():
+        if k not in listed:
+            bad.append(f"{k}: not in the review's reference list")
+        elif r["doi"] and r["doi"] not in listed[k]:
+            bad.append(f"{k}: doi {r['doi']} not in the listed reference")
+    if bad:
+        print("\n  WARNING, references disagree with make_summary_pdf.py:")
+        for b in bad:
+            print(f"    {b}")
+    else:
+        print(f"  references: {len(REFS)} keys agree with the review's list")
+
+
+def cite(key):
+    """Reference fields for one comparator, plus the Argoul side, so a row of
+    the output CSV is traceable without the rest of the repository."""
+    r = REFS.get(key, {})
+    a = REFS["argoul2026"]
+    return dict(comparator_ref=r.get("ref", ""), comparator_doi=r.get("doi", ""),
+                comparator_pmid=r.get("pmid", ""), comparator_via=r.get("via", ""),
+                argoul_ref=a["ref"], argoul_doi=a["doi"])
 
 
 def argoul():
@@ -74,19 +196,21 @@ def main():
         print(f"  {c:<7s} {'Argoul 2026 (cocktail)':<26s} "
               f"{(f'{acl:g}' if acl else '-'):>8s} {avd:>7g} "
               f"{'-':>9s} {'-':>9s}")
-        for name, ccl, cvd in comps:
+        for name, ccl, cvd, key, indep in comps:
             rc = f"{acl/ccl:.2f}x" if (acl and ccl) else "-"
             rv = f"{avd/cvd:.2f}x" if cvd else "-"
             if acl and ccl: cl_r.append(acl / ccl)
             if cvd: vd_r.append(avd / cvd)
             PAIRS.append(dict(
                 parameter="clearance" if (acl and ccl) else "", chemical=c,
-                comparator=name, argoul=acl, single=ccl,
-                ratio=(acl / ccl) if (acl and ccl) else ""))
+                units="mL/kg/d", comparator=name, argoul=acl, single=ccl,
+                ratio=(acl / ccl) if (acl and ccl) else "",
+                vd_independent_of_cl="", **cite(key)))
             PAIRS.append(dict(
                 parameter="volume_of_distribution" if cvd else "", chemical=c,
-                comparator=name, argoul=avd, single=cvd,
-                ratio=(avd / cvd) if cvd else ""))
+                units="mL/kg", comparator=name, argoul=avd, single=cvd,
+                ratio=(avd / cvd) if cvd else "",
+                vd_independent_of_cl="yes" if indep else "no", **cite(key)))
             print(f"  {'':<7s} {name:<26s} {(f'{ccl:g}' if ccl else '-'):>8s} "
                   f"{cvd:>7g} {rc:>9s} {rv:>9s}")
     gm = lambda v: math.exp(sum(math.log(x) for x in v) / len(v))
@@ -101,6 +225,16 @@ def main():
       volume, excluding PFHxA  {gm(vd_no_hxa):.2f}x   ({1/gm(vd_no_hxa):.1f}x low)
 
   Both low, by similar factors. Hold on to that -- it is the whole result.
+
+  One caveat on how much of a check that is. In most of these studies Vd is
+  not measured apart from clearance: non-compartmental analysis gives
+  Vz = CL/lambda_z and Vss = CL*MRT, and Lou's clearance is ke*Vd derived in
+  this review. So for Lou, Sundstrom and the EPA PFHxA value, "clearance low
+  AND volume low" is largely one observation seen twice. Fujii 2015 is the
+  exception: Vd from Dose/C(0) by back-extrapolation, CL from Dose/AUC, which
+  are independent. There CL is 0.38x and Vd 0.59x -- both low, independently.
+  One row is thin evidence, so the defensible statement is the narrower one:
+  the RATE CONSTANT agrees across ten comparisons and the SCALE does not.
 """)
 
     print("=" * 78)
@@ -121,20 +255,22 @@ def main():
         if not r or not r["mrt_d"]:
             continue
         at = LN2 * float(r["mrt_d"])
-        for name, t in SINGLE.get(c, []):
+        for name, t, key in SINGLE.get(c, []):
             ratios.append(at / t)
             print(f"  {c:<7s} {at:>14.3f} {t:>16.3f} {at/t:>6.2f}x   {name}")
-            PAIRS.append(dict(parameter="half_life", chemical=c,
+            PAIRS.append(dict(parameter="half_life", chemical=c, units="d",
                               comparator=name, argoul=at, single=t,
-                              ratio=at / t))
+                              ratio=at / t, vd_independent_of_cl="",
+                              **cite(key)))
         if c in POOLED:
             t = POOLED[c]
             pooled_r.append(at / t)
             print(f"  {c:<7s} {at:>14.3f} {t:>16.3f} {at/t:>6.2f}x   "
                   f"EPA pooled fit (same literature)")
             PAIRS.append(dict(parameter="half_life_pooled", chemical=c,
-                              comparator="EPA pooled fit", argoul=at,
-                              single=t, ratio=at / t))
+                              units="d", comparator="EPA pooled fit", argoul=at,
+                              single=t, ratio=at / t, vd_independent_of_cl="",
+                              **cite("zurlinden2025")))
     both = ratios + pooled_r
     print(f"\n  Over the {len(ratios)} independent single-compound comparisons the "
           f"half-life ratios\n  span {min(ratios):.2f}x to {max(ratios):.2f}x, "
@@ -181,7 +317,10 @@ def main():
   what section 10's endpoint R is built from, and those carry a roughly 2-3x
   low bias relative to the single-compound literature.""")
 
-    fields = ["parameter", "chemical", "comparator", "argoul", "single", "ratio"]
+    fields = ["parameter", "chemical", "units", "argoul", "single", "ratio",
+              "comparator", "comparator_ref", "comparator_doi",
+              "comparator_pmid", "comparator_via", "vd_independent_of_cl",
+              "argoul_ref", "argoul_doi"]
     with open(OUT, "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=fields)
         w.writeheader()
@@ -190,6 +329,7 @@ def main():
                 w.writerow(row)
     print(f"\n  wrote {os.path.relpath(OUT, HERE)} "
           f"({sum(1 for r in PAIRS if r['parameter'])} comparison rows)")
+    check_refs_against_pdf()
 
 
 if __name__ == "__main__":

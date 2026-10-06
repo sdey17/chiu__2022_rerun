@@ -1955,6 +1955,21 @@ matching Argoul. Built by `scripts/argoul_vs_single_compound.py` into
 PFHxA's volume is the one outlier and is held out: it is the only compound
 Argoul places in net secretion, so its kinetics differ in kind.
 
+**How much of a check is that, really?** In most of these studies Vd is not
+measured apart from clearance — non-compartmental analysis gives
+Vz = CL/λz and Vss = CL·MRT, and Lou's clearance is ke·Vd derived in this
+review. So for Lou, Sundström and the EPA PFHxA value, "clearance low *and*
+volume low" is largely one observation seen twice. Fujii 2015 is the
+exception: Vd from Dose/C(0) by back-extrapolation, CL from Dose/AUC, which
+are independent, and there CL is 0.38× and Vd 0.59× — both low, independently.
+One row is thin evidence, so the claim defended here is the narrower one: the
+**rate constant** agrees across ten comparisons and the **scale** does not.
+
+Provenance for every comparator, with DOI, PMID and the table each value was
+actually read from, is in `db/argoul_vs_single_compound.csv` — including which
+values reach this review through an agency compilation (ATSDR Table 3-5, OEHHA
+PHG Table 4.8.1, EPA IRIS) rather than the primary paper.
+
 **The half-life, which is their ratio, is not low at all.** Argoul reports MRT
 rather than a terminal half-life; MRT = Vss/CL holds in its own table to within
 6% for nine of ten compounds, so ln2·MRT is the half-life a one-compartment
