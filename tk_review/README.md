@@ -13,14 +13,14 @@ See the [root README](../README.md) for how this fits with the other strands.
 | Path | What it holds |
 |---|---|
 | `report/REPORT.md` | the written review — start here |
-| `report/PFAS_TK_review.pdf` | the printable review — 12 pages, 14 sections, 51 numbered references; rebuild with `scripts/make_summary_pdf.py` (needs `reportlab`) |
+| `report/PFAS_TK_review.pdf` | the printable review — 14 pages, 14 sections, 4 figures, 52 numbered references; rebuild with `scripts/make_summary_pdf.py` (needs `reportlab`) |
 | `EXECUTIVE_SUMMARY.md` | the same argument in two pages |
 | `db/` | the structured extractions — one CSV per evidence type |
 | `db/primary_2026/` | 24 per-paper extractions, read from the papers directly |
 | `db/combined/` | the consolidated database — 1,438 rows across four tables, plus an `.xlsx` |
 | `db/qsar/` | per-compound structure descriptors paired with the renal handling ratio (§11) |
 | `papers/` | full-text extractions (`.txt`) and the retrieval logs (`SOURCES_*.md`) |
-| `figures/` | 16 analysis figures; `fig00_master.png` is the whole argument in one panel pair |
+| `figures/` | 19 analysis figures; `fig00_master.png` is the whole argument in one panel pair |
 | `scripts/` | everything that generates the above, runnable in order |
 | `research_notes/` | the per-subtopic research notes behind the extractions |
 | `WANTED.md` | papers still wanted, and why each one would settle something |
@@ -108,6 +108,12 @@ python3 scripts/saturation_margin_km_vs_kt.py         # in vitro Km vs PBPK KT
 python3 scripts/build_combined_datasets.py            # -> db/combined/*.csv
 python3 scripts/export_combined_xlsx.py               # -> db/combined/*.xlsx
 python3 scripts/make_figures_primary.py               # -> figures/fig10..fig15
+
+# the QSAR endpoint, and how far its one dataset can be trusted
+python3 scripts/qsar_endpoint_table.py                # -> db/qsar/qsar_endpoint_table.csv
+python3 scripts/argoul_vs_single_compound.py          # -> db/argoul_vs_single_compound.csv
+python3 scripts/make_review_figures.py                # -> figures/fig02..fig04
+python3 scripts/make_summary_pdf.py                   # -> report/PFAS_TK_review.pdf
 ```
 
 `EXECUTIVE_SUMMARY.md` is the two-page version: the five findings, what this

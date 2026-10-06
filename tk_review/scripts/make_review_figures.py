@@ -18,6 +18,7 @@ import os
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+import matplotlib.ticker as mticker
 import numpy as np
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -26,6 +27,10 @@ FIGS = os.path.join(HERE, "figures")
 BLUE, ORANGE, AQUA, PURPLE = "#2a78d6", "#eb6834", "#1baf7a", "#7b5ea7"
 SURFACE, INK, INK2, MUTED = "#fcfcfb", "#0b0b0b", "#52514e", "#8a8984"
 GRID, RULE = "#e6e5e1", "#d8d7d3"
+
+# One colour per compound, shared across the figures that name compounds.
+COMPOUND = {"PFOA": BLUE, "PFHxS": ORANGE, "PFOS": AQUA,
+            "PFNA": PURPLE, "PFBA": INK2, "PFHxA": MUTED}
 
 plt.rcParams.update({
     "figure.facecolor": SURFACE, "axes.facecolor": SURFACE,
@@ -227,8 +232,138 @@ def figure3():
           f"{max(vals)-min(vals):.2f} log units; fu sensitivity 2.21 log units")
 
 
+# ---------------------------------------------------------------- figure 4
+def figure4():
+    """Argoul's cocktail against the single-compound literature. Both terms
+    sit low; their ratio does not. Reads the comparison table written by
+    scripts/argoul_vs_single_compound.py so no number is duplicated here."""
+    q = rows("db/argoul_vs_single_compound.csv")
+    gmean = lambda v: math.exp(sum(math.log(x) for x in v) / len(v))
+
+    def pick(param):
+        return [(r["chemical"], r["comparator"], float(r["ratio"]))
+                for r in q if r["parameter"] == param]
+
+    cl = pick("clearance")
+    vd_all = pick("volume_of_distribution")
+    vd = [x for x in vd_all if x[0] != "PFHxA"]
+    hxa = [x for x in vd_all if x[0] == "PFHxA"][0]
+    hl = pick("half_life")
+
+    def decade_axis(ax):
+        """Log axis labelled only where we put a tick. Matplotlib's default
+        minor labels (3x10^0, 4x10^0, ...) overprint each other here."""
+        ax.set_xscale("log")
+        ax.set_xlim(0.25, 7.0)
+        ax.xaxis.set_minor_locator(mticker.NullLocator())
+        ax.xaxis.set_major_locator(mticker.FixedLocator([0.3, 0.5, 1, 2, 5]))
+        ax.xaxis.set_major_formatter(
+            mticker.FixedFormatter(["0.3", "0.5", "1.0", "2.0", "5.0"]))
+        ax.axvline(1.0, color=MUTED, lw=1.0, ls=(0, (4, 3)), zorder=1)
+        ax.grid(axis="x", color=GRID, lw=0.8, zorder=0)
+        ax.set_axisbelow(True)
+
+    def gmark(ax, v, y0, y1, ytext, color=INK, note=False):
+        """Geometric-mean tick, drawn clear of the data rather than on them.
+        Panel A carries two of these, so its caption goes to the side once
+        instead of under each."""
+        g = gmean(v)
+        ax.plot([g, g], [y0, y1], color=color, lw=2.4, zorder=5)
+        ax.text(g, ytext, f"{g:.2f}\u00d7", ha="center", va="top",
+                fontsize=9.5, color=color, fontweight="bold")
+        if note:
+            # Offset in points, not data units: a data-unit drop scales with
+            # the panel's y range and lands differently on each.
+            ax.annotate("geometric mean", xy=(g, ytext), xytext=(0, -13),
+                        textcoords="offset points", ha="center", va="top",
+                        fontsize=7.2, color=MUTED)
+        return g
+
+    fig, (axA, axB) = plt.subplots(1, 2, figsize=(11.4, 4.4),
+                                   gridspec_kw=dict(width_ratios=[1, 1]))
+
+    # ---- A: one row per comparator study, clearance and volume side by
+    #         side. Shape and colour both carry the parameter, and a joining
+    #         line shows the two moving together rather than apart.
+    cl_by = {(c, src): v for c, src, v in cl}
+    vd_by = {(c, src): v for c, src, v in vd_all}
+    order = [("PFHxS", "Sundstrom 2012, 20 mg/kg", "PFHxS \u00b7 Sundstr\u00f6m, 20 mg/kg"),
+             ("PFHxS", "Sundstrom 2012, 1 mg/kg", "PFHxS \u00b7 Sundstr\u00f6m, 1 mg/kg"),
+             ("PFOA", "Fujii (via EPA)", "PFOA \u00b7 Fujii"),
+             ("PFOA", "Lou 2009", "PFOA \u00b7 Lou 2009"),
+             ("PFHxA", "US EPA PFHxA IRIS", "PFHxA \u00b7 US EPA IRIS")]
+    for i, (c, src, _) in enumerate(order):
+        a, b = cl_by.get((c, src)), vd_by.get((c, src))
+        if a and b:
+            axA.plot([a, b], [i, i], color=GRID, lw=2.4, zorder=2,
+                     solid_capstyle="round")
+        if a:
+            axA.scatter([a], [i], s=90, c=BLUE, marker="o", zorder=4,
+                        edgecolor=SURFACE, linewidth=1.5)
+        if b:
+            axA.scatter([b], [i], s=95, c=AQUA, marker="s", zorder=4,
+                        edgecolor=SURFACE, linewidth=1.5)
+    gmark(axA, [x[2] for x in cl], -0.72, -0.52, -0.76, BLUE)
+    gmark(axA, [x[2] for x in vd], -1.42, -1.22, -1.46, AQUA)
+    axA.text(0.255, -0.95, "geometric\nmeans", fontsize=7.2, color=MUTED,
+             ha="left", va="center", linespacing=1.35)
+    axA.text(hxa[2], 3.72, "held out of the mean:\nthe one compound Argoul\n"
+             "puts in net secretion", fontsize=7.2, color=MUTED, ha="center",
+             va="top", linespacing=1.35)
+    axA.text(1.07, 4.42, "1.0 = agrees with the\nsingle-compound study",
+             fontsize=7.4, color=MUTED, ha="left", va="top", linespacing=1.35)
+    for lab, col, mk in [("clearance", BLUE, "o"),
+                         ("volume of distribution", AQUA, "s")]:
+        axA.scatter([], [], s=90, c=col, marker=mk, label=lab,
+                    edgecolor=SURFACE, linewidth=1.4)
+    axA.legend(loc="center right", bbox_to_anchor=(1.0, 0.40), fontsize=8,
+               handletextpad=0.35, labelspacing=0.6)
+    axA.set_yticks(range(len(order)))
+    axA.set_yticklabels([x[2] for x in order], fontsize=8.5)
+    axA.set_ylim(-1.90, 4.55)
+    decade_axis(axA)
+    axA.set_xlabel("Argoul cocktail / single-compound study   (log scale)")
+    axA.set_title("A \u00b7 Both terms sit about twofold low",
+                  loc="left", fontsize=10.5, color=INK, fontweight="bold",
+                  pad=20)
+
+    # ---- B: half-life, the ratio of the two. Compound on the y-axis, as in
+    #         figure 3 -- no label to collide, no colour to decode.
+    order = ["PFBA", "PFOA", "PFHxS", "PFOS", "PFNA"]
+    for i, c in enumerate(order):
+        v = [x[2] for x in hl if x[0] == c]
+        axB.scatter(v, [i] * len(v), s=85, c=COMPOUND[c], zorder=4,
+                    edgecolor=SURFACE, linewidth=1.5)
+    vals = [x[2] for x in hl]
+    g = gmark(axB, vals, -0.86, -0.68, -0.90, note=True)
+    axB.text(1.06, 4.75, f"{len(vals)} comparisons, {min(vals):.2f}\u00d7 to "
+             f"{max(vals):.2f}\u00d7,\nscattered either side of 1.0",
+             fontsize=7.4, color=MUTED, ha="left", va="top", linespacing=1.35)
+    axB.set_yticks(range(len(order)))
+    axB.set_yticklabels(order, fontsize=9.5)
+    axB.set_ylim(-1.45, 4.8)
+    decade_axis(axB)
+    axB.set_xlabel("Argoul ln2\u00b7MRT / single-compound half-life")
+    axB.set_title("B \u00b7 Their ratio does not",
+                  loc="left", fontsize=10.5, color=INK, fontweight="bold",
+                  pad=20)
+
+    fig.suptitle("A shared scaling, not a disagreement about elimination: "
+                 "the cocktail study against the single-compound literature",
+                 x=0.012, y=0.985, ha="left", fontsize=11.2, color=INK,
+                 fontweight="bold")
+    fig.tight_layout(rect=[0, 0, 1, 0.92])
+    out = os.path.join(FIGS, "fig04_argoul_vs_single_compound.png")
+    fig.savefig(out, bbox_inches="tight")
+    plt.close(fig)
+    print(f"  fig04: CL {gmean([x[2] for x in cl]):.2f}x, "
+          f"Vd {gmean([x[2] for x in vd]):.2f}x (PFHxA held out), "
+          f"half-life {g:.2f}x over {len(vals)} comparisons")
+
+
 if __name__ == "__main__":
     os.makedirs(FIGS, exist_ok=True)
     figure2()
     figure3()
-    print("  wrote figures/fig02_*.png and figures/fig03_*.png")
+    figure4()
+    print("  wrote figures/fig02_*.png, fig03_*.png and fig04_*.png")

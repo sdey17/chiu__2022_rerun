@@ -329,6 +329,11 @@ Even counting PFHxA at face value, clearance varies over a range 81× wider than
 Vss. §3.1 reached this conclusion across studies; it holds with every
 cross-study confound removed.
 
+This study's *absolute* clearances run about twofold below the
+one-compound-at-a-time literature (§11.3a), but the comparison above is a ratio
+within one experiment, and a shared scaling cancels from a ratio. The 5,254×
+against 7.7× stands whatever the common factor turns out to be.
+
 ### 3.3 The axis that unifies all of it
 
 OEHHA's PHG appendix (Table A6.4, pp. 327–328, adapted from Han et al. 2012)
@@ -1925,13 +1930,92 @@ single-ether compound retained and both of its neighbours secreted. Whatever
 the mechanism, it is not a monotonic function of ether count, and the
 replacement chemicals sit on both sides of the divide.
 
+### 11.3a How far the one dataset can be trusted
+
+Everything in §11.3 rests on a single experiment, and that experiment is
+unusual in three ways at once: eleven PFAS dosed as one cocktail, at
+0.019–1.55 mg/kg, fitted by nonlinear mixed effects. Each of those could bias
+the absolute numbers, so the comparison against the one-compound-at-a-time
+literature is worth making explicitly. All comparators below are female mice,
+matching Argoul. Built by `scripts/argoul_vs_single_compound.py` into
+`db/argoul_vs_single_compound.csv`; drawn as Figure 4 by
+`scripts/make_review_figures.py`.
+
+**Clearance and volume are both low, by similar factors.**
+
+| compound | comparator | CL ratio | Vd ratio |
+|---|---|---|---|
+| PFOA | Lou 2009 | 0.75× | 0.66× |
+| PFOA | Fujii, via the EPA database | 0.38× | 0.59× |
+| PFHxS | Sundström 2012, 1 mg/kg | 0.49× | 0.65× |
+| PFHxS | Sundström 2012, 20 mg/kg | 0.34× | 0.42× |
+| PFHxA | US EPA PFHxA IRIS | — | 5.13× |
+| **geometric mean** | | **0.47×** | **0.57×** (PFHxA held out) |
+
+PFHxA's volume is the one outlier and is held out: it is the only compound
+Argoul places in net secretion, so its kinetics differ in kind.
+
+**The half-life, which is their ratio, is not low at all.** Argoul reports MRT
+rather than a terminal half-life; MRT = Vss/CL holds in its own table to within
+6% for nine of ten compounds, so ln2·MRT is the half-life a one-compartment
+system with that Vss and CL would show. Against a measured *terminal* half-life
+that is an approximation, and for a compound with a deep second compartment a
+lower bound, so read the ratios as indicative.
+
+| compound | comparators | ratio range |
+|---|---|---|
+| PFBA | Chang 2008 × 3 | 0.97–1.07× |
+| PFOA | Lou 2009 | 0.87× |
+| PFHxS | Sundström 2012 × 2 | 1.20–1.30× |
+| PFOS | Chang 2012 × 2 | 0.79–0.98× |
+| PFNA | Tatum-Gibbs 2011 × 2 | 0.54–1.42× |
+| **all ten** | | **geometric mean 0.99×** |
+
+The six EPA pooled-fit rows the script also prints are kept out of that mean,
+since the pooled fit is built from the same studies; including them moves it to
+0.95×.
+
+**What the shape of that result means.** A factor that multiplies Vd and CL
+together cancels from ln2·Vd/CL, so "both terms twofold low, half-life
+unchanged" is the signature of a shared scaling rather than a disagreement
+about elimination. Three candidates fit, and the data in hand cannot separate
+them:
+
+- **Dose.** The cocktail was dosed 10–100× below its comparators. §4.4's
+  saturable-reabsorption account predicts clearance rising with dose, and the
+  one three-point series available — PFHxS in female mice at 0.094, 1 and
+  20 mg/kg across two laboratories — does rise monotonically: CL 1.3, 2.68,
+  3.79 mL/kg/d, slope +0.20 on log-log. The cocktail sits at the bottom of that
+  trend rather than off it. This is the candidate most consistent with the rest
+  of the review.
+- **Cocktail competition.** Eleven PFAS competing for the same reabsorptive
+  transporters would *raise* clearance, not lower it, so it argues against the
+  observed direction — unless the competition is for plasma binding sites
+  instead, which would raise fu and lower the apparent volume.
+- **Mixed-effects shrinkage.** Shrinkage toward a population mean compresses
+  spread rather than shifting the centre, so it is the weakest of the three.
+
+**What this costs §11.3, and what it does not.** R is built from an absolute
+renal clearance, so a twofold low bias in that clearance is a twofold low bias
+in R — a flat −0.33 log unit offset on every compound. Because it is flat it
+changes nothing §11.3 actually claims: the ranking, the 2.9-log-unit span, the
+non-monotonicity in chain length, and the head-group and ether contrasts are
+all *differences between compounds*, and a shared factor cancels from every one
+of them. It does move the compounds relative to the fixed divide at R = 1, but
+not far enough to matter: the nearest reabsorbed compound (GenX, −0.98) sits
+0.98 log units below the divide, so the bias would have to be 9.6× rather than
+2.1× to reclassify anything. What it does cost is §11.4, where an absolute
+mouse value is set against an absolute human one — read those gaps as carrying
+a factor of about two on top of the fu uncertainty, in the direction of
+understating the mouse.
+
 ### 11.4 The sensitivity that decides the species question
 
 R is linear in 1/fu, so the endpoint inherits the binding uncertainty of §6.2
 in full. Human PFOA, with CL_renal = 0.03 mL/d/kg and GFR = 2,570 mL/d/kg both
 fixed, under the three unbound fractions the literature carries:
 
-| fu | source | log10 R | gap to male mouse PFOA |
+| fu | source | log10 R | gap to female mouse PFOA |
 |---|---|---|---|
 | 0.10 | PBPK models reading ">90% bound" as "≈90% bound" | −3.93 | 354× |
 | 0.02 | Han 2012's stated assumption | −3.23 | 71× |
