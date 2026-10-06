@@ -85,6 +85,7 @@ REFS = {
 "li2022": "Li Y, Andersson A, Xu Y, Pineda D, Nilsson CA, Lindh CH, Jakobsson K, Fletcher T (2022). Determinants of serum half-lives for perfluoroalkyl substances after end of exposure to contaminated drinking water, Ronneby cohort. (Held as a structured abstract; full text paywalled.)",
 "chiu2022": "Chiu WA, et al. (2022). Bayesian estimation of human population toxicokinetics of PFOA, PFOS, PFHxS and PFNA from studies of contaminated drinking water. <i>Environmental Health Perspectives</i> 130(12):127001. doi:10.1289/EHP10103",
 "butenhoff2004": "Butenhoff JL, Kennedy GL, Hinderliter PM, Lieder PH, Jung R, Hansen KJ, Gorman GS, Noker PE, Thomford PJ (2004). Pharmacokinetics of perfluorooctanoate in cynomolgus monkeys. <i>Toxicological Sciences</i> 82(2):394-406. doi:10.1093/toxsci/kfh302",
+"fujii2015": "Fujii Y, Niisoe T, Harada KH, Uemoto S, Ogura Y, Takenaka K, Koizumi A (2015). Toxicokinetics of perfluoroalkyl carboxylic acids with different carbon chain lengths in mice and humans. <i>Journal of Occupational Health</i> 57(1):1-12. doi:10.1539/joh.14-0136-OA. (Values reached via OEHHA 2024 PHG Table 4.8.1 and ATSDR 2021 Table 3-6.)",
 "chang2008": "Chang S-C, Das K, Ehresman DJ, Ellefson ME, Gorman GS, Hart JA, Noker PE, Tan Y-M, Lieder PH, Lau C, Olsen GW, Butenhoff JL (2008). Comparative pharmacokinetics of perfluorobutyrate in rats, mice, monkeys, and humans and relevance to human exposure via drinking water. <i>Toxicological Sciences</i> 104(1):40-53. doi:10.1093/toxsci/kfn057",
 "chang2012": "Chang S-C, Noker PE, Gorman GS, Gibson SJ, Hart JA, Ehresman DJ, Butenhoff JL (2012). Comparative pharmacokinetics of perfluorooctanesulfonate (PFOS) in rats, mice, and monkeys. <i>Reproductive Toxicology</i> 33(4):428-440. doi:10.1016/j.reprotox.2011.07.002",
 "dzierlenga2020": "Dzierlenga AL, Robinson VG, Waidyanatha S, DeVito MJ, Eifrid MA, Gibbs ST, Granville CA, Blystone CR (2020). Toxicokinetics of PFHxA, PFOA and PFDA in male and female Hsd:Sprague Dawley SD rats following intravenous or gavage administration. <i>Xenobiotica</i> 50(6):722-732. doi:10.1080/00498254.2019.1683776",
@@ -875,8 +876,8 @@ def story_3():
         p("<b>A:</b> every single-compound female-mouse study that reports "
           "both clearance and volume, each on its own row, against the "
           "cocktail. The grey connector joins the two parameters within a "
-          "study; they move together, not apart. Geometric means 0.47&times; "
-          "for clearance " + c("lou2009", "sundstrom2012", "zurlinden2025")
+          "study. Geometric means 0.47&times; for clearance "
+          + c("lou2009", "fujii2015", "sundstrom2012")
           + " and 0.57&times; for volume. PFHxA's volume is 5.1&times; the "
           "other way " + c("epa2023pfhxa") + " and is held out: it is the one "
           "compound the cocktail study places in net secretion, so its "
@@ -888,6 +889,19 @@ def story_3():
           "scripts/argoul_vs_single_compound.py into "
           "db/argoul_vs_single_compound.csv; drawn by "
           "scripts/make_review_figures.py.", "caption")]),
+        p("One caveat on how much of a check the clearance and volume rows "
+          "are. In most of these studies the volume is not measured apart "
+          "from the clearance: non-compartmental analysis gives "
+          "V<sub>z</sub> = CL/&lambda;<sub>z</sub> and V<sub>ss</sub> = "
+          "CL&middot;MRT, and Lou's clearance is k<sub>e</sub>&middot;"
+          "V<sub>d</sub> derived in this review. For those rows 'clearance "
+          "low and volume low' is largely one observation seen twice. "
+          "Fujii is the exception - volume from dose/C(0) by "
+          "back-extrapolation, clearance from dose/AUC - and there the two "
+          "are low independently, 0.38&times; and 0.59&times;. One row is "
+          "thin evidence, so the claim defended here is the narrower one: "
+          "the rate constant agrees across ten comparisons and the scale "
+          "does not.", "body"),
         p("The shape of that result is more informative than either half of "
           "it. Clearance and volume are both low by about twofold, and the "
           "half-life is not low at all - which is what a shared multiplicative "
