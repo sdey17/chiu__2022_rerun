@@ -39,6 +39,9 @@ from reportlab.platypus import (BaseDocTemplate, Frame, Image, KeepTogether,
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(HERE, "report", "PFAS_TK_review.pdf")
 FIG = os.path.join(HERE, "figures", "fig00_master.png")
+FIG2 = os.path.join(HERE, "figures", "fig02_sex_and_species_decomposition.png")
+FIG3 = os.path.join(HERE, "figures",
+                    "fig03_structure_activity_and_sensitivity.png")
 
 INK = colors.HexColor("#111111")
 SOFT = colors.HexColor("#55534f")
@@ -317,9 +320,11 @@ def story():
         p("One mechanistic axis then orders every species for which data "
           "exist. Fractional renal reabsorption runs from 99.94% in humans "
           "through 97% in the male mouse and 93.7% in the male rat to net "
-          "tubular secretion in the female rat and the rabbit, and it "
-          "reproduces rodent half-lives within 1.7-fold over a 37-fold span "
-          "with no fitted parameter. Two refinements matter. The axis is two "
+          "tubular secretion in the female rat and the rabbit. Rodent "
+          "half-lives follow from it within 1.7-fold over a 37-fold span, "
+          "though that agreement establishes that renal clearance is nearly "
+          "all of total clearance in rodents rather than validating an "
+          "independent model. Two refinements matter. The axis is two "
           "factors rather than one: of the 333-fold male-mouse-to-human renal "
           "clearance gap, the escape fraction carries 50-fold and the "
           "six-fold lower human glomerular filtration rate carries 6.5-fold. "
@@ -456,12 +461,18 @@ def story_2():
           "mice and fitted all of them simultaneously " + c("argoul2026")
           + "; across those eleven compounds, clearance spans 5,254-fold while "
           "steady-state volume of distribution spans 7.7-fold. Same animals, "
-          "same assay, same model - and the same conclusion as the "
-          "cross-study comparison.", "body"),
+          "same assay, same model. Note that this varies <i>chemistry</i> "
+          "at fixed species and sex, where the table above varies sex at "
+          "fixed chemistry, so it is corroboration by analogy rather than "
+          "replication - though it is hard to explain why clearance should be "
+          "the volatile term along both axes unless it simply is the volatile "
+          "term.", "body"),
         p("Taken from primary sources rather than compilations, the species "
           "gap is also concentrated in one sex. Female rat divided by female "
           "mouse PFOA clearance is 373-496&times;, against 7.0&times; in males "
-          + c("kudo2002", "lou2009") + ". Tatum-Gibbs and colleagues "
+          + c("kudo2002", "lou2009") + " - this comparison <i>is</i> "
+          "cross-study, rat and mouse from different laboratories, and "
+          "carries the usual caveat. Tatum-Gibbs and colleagues "
           "replicate the whole structure in a second compound with strains "
           "matched: a rat sex ratio of 21.9&times; against a mouse ratio near "
           "unity " + c("tatum2011") + ". Any account of 'the species "
@@ -500,15 +511,23 @@ def story_2():
               "values differ from a widely-cited adaptation of this table; see "
               "section 11.", "caption"),
         ]),
-        p("The ordering is the half-life ordering. More than that, the axis "
-          "<i>predicts</i>: substituting each species' own GFR and unbound "
-          "fraction reproduces rodent half-lives within 1.7&times; over a "
-          "37&times; span with no fitted parameter, and an entirely separate "
-          "dataset recomputes mouse PFOA reabsorption at 95.9% "
-          + c("argoul2026") + ", inside the 95.2-97.0% range already in use. "
-          "For a field in which half-lives disagree seventeen-fold, a "
-          "parameter-free prediction good to 1.7&times; is a strong result.",
+        p("The ordering is the half-life ordering. A caveat on how much that "
+          "demonstrates, because it is easy to overclaim: the reabsorbed "
+          "fraction is <i>derived</i> from the measured renal clearance by "
+          "rearranging the equation above, so predicting a half-life from it "
+          "restates the identity t<sub>1/2</sub> = ln2 &middot; V<sub>d</sub> "
+          "/ CL<sub>renal</sub> rather than testing a reabsorption model "
+          "independently. What the agreement to 1.7&times; over a 37&times; "
+          "span does establish is that <b>renal clearance accounts for nearly "
+          "all of total clearance in these rodents</b> - a real and "
+          "non-trivial result, and the reason the human residual in section 6 "
+          "stands out so sharply. The axis orders the species and names the "
+          "quantity that varies; it does not independently predict them.",
           "body"),
+        p("The reabsorbed fraction does get one independent check. A separate "
+          "dataset, different laboratory and different animals, recomputes "
+          "mouse PFOA reabsorption at 95.9% " + c("argoul2026") + ", inside "
+          "the 95.2-97.0% range already in use.", "body"),
         p("Elimination hands off from kidney to gut as the chain "
           "lengthens", "h2"),
         p("The axis is renal, and for the shorter carboxylates that is nearly "
@@ -539,6 +558,21 @@ def story_2():
 
     # ===================== 5. transporters =====================
     out += [
+        KeepTogether([
+        p("Figure 2", "h2"),
+        Image(FIG2, width=W, height=W / 2.565),
+        p("<b>A:</b> 21 matched female/male pairs - eight compounds across "
+          "three species - with <i>both</i> ratios written in the same "
+          "direction, so the contrast cannot be an artefact of how each was "
+          "expressed. The volume of distribution stays inside a 4.7&times; "
+          "band straddling 1.0; clearance spans 103&times; and crosses it in "
+          "both directions. This is a wider set than the six datasets in the "
+          "table above, and it says the same thing more strongly. <b>B:</b> "
+          "the male-mouse-to-human renal clearance gap split into its two "
+          "multiplicative factors; because they multiply, their logarithms "
+          "add, and the escape fraction takes 68% of the distance. "
+          "Regenerate with scripts/make_review_figures.py.", "caption")]),
+        KeepTogether([
         p("5. Transporter identity, and why the mechanism does not transfer",
           "h1"),
         p("If reabsorption is the controlling step, some apical transporter "
@@ -546,7 +580,10 @@ def story_2():
           "one. A candidate has to satisfy two conditions simultaneously: it "
           "must be sex-divergent in the right direction, and it must actually "
           "carry PFOA. Those two conditions are jointly much more restrictive "
-          "than either alone.", "body"),
+          "than either alone. The table covers the transporters for which "
+          "both properties have been measured, so it is an elimination among "
+          "tested candidates rather than a proof that no untested protein "
+          "qualifies.", "body"),
         tbl([
             ["transporter", "sex-divergent?", "transports PFOA?", "verdict"],
             ["Oatp1a1", "<b>yes</b>, 23&times; male-predominant, "
@@ -555,7 +592,7 @@ def story_2():
             ["Oat2", "yes, strongly", "<b>no</b> - three negative reports, "
                      "two species", "excluded by transport"],
             ["Oat1 / Oat3", "no", "yes", "excluded by regulation"],
-        ], [26 * mm, 50 * mm, 46 * mm, W - 122 * mm]),
+        ], [26 * mm, 50 * mm, 46 * mm, W - 122 * mm])]),
         Spacer(1, 3),
         p("The transport evidence is from direct uptake assays "
           + c("yang2009", "weaver2010", "louisse2024") + " and the regulation "
@@ -744,9 +781,11 @@ def story_3():
           "pharmacokinetic fit gives 430 mL/kg " + c("chiu2022") + ", far "
           "above it. A mass-balance half-life anchored on 170 mL/kg "
           + c("zhang2013") + " moves to within 5% of the population fit when "
-          "the fitted volume is substituted instead, which suggests the "
-          "seventeen-fold human controversy is largely one assumed constant.",
-          "body"),
+          "the fitted volume is substituted instead. That is one study, so "
+          "it does not show the whole seventeen-fold span to be a single "
+          "assumed constant; what it shows is that the mass-balance end of "
+          "the span - the end that needs a volume at all - collapses toward "
+          "the serum-decay end when the volume is changed.", "body"),
     ]
 
     # ===================== 10. the handling ratio =====================
@@ -809,6 +848,7 @@ def story_3():
           "The replacement chemicals sit on both sides of the divide, which is "
           "a regulatory observation as much as a chemical one.", "body"),
         p("A sensitivity that bears on the species question", "h2"),
+        KeepTogether([
         p("R is linear in 1/f<sub>u</sub>, so it inherits the uncertainty of "
           "section 7 in full. For human PFOA, with renal clearance and GFR "
           "both fixed, the three free fractions in circulation give three "
@@ -822,7 +862,7 @@ def story_3():
              "71&times;"],
             ["0.00061", "measured at physiological ligand:protein "
                         + c("fischer2024"), "-1.72", "<b>2.2&times;</b>"],
-        ], [18 * mm, W - 78 * mm, 22 * mm, 38 * mm]),
+        ], [18 * mm, W - 78 * mm, 22 * mm, 38 * mm])]),
         Spacer(1, 3),
         p("Under the assumed value the mouse-to-human difference in the "
           "transport step is about seventyfold and the species gap is "
@@ -833,8 +873,13 @@ def story_3():
           "a sensitivity rather than a result, because the mouse and human "
           "free fractions come from different methods at different "
           "ligand:protein ratios, which is precisely the artefact section 7 "
-          "diagnoses. It is also why the experiment proposed in section 13 is "
-          "the one worth doing first.", "body"),
+          "diagnoses. It is also why the experiment proposed in section 13 "
+          "is the one worth doing first. To size the problem plainly: the "
+          "endpoint spans 2.9 log units across the nine compounds a "
+          "structure-activity model would be fitted to, and the disagreement "
+          "over this one input moves a single compound by 2.2 of them. The "
+          "endpoint is well posed; the inputs are not yet good enough to fit "
+          "it.", "body"),
     ]
     return out
 
@@ -845,6 +890,21 @@ def story_4():
 
     # ===================== 11. corrections =====================
     out += [
+        KeepTogether([
+        p("Figure 3", "h2"),
+        Image(FIG3, width=W, height=W / 2.702),
+        p("<b>A:</b> the nine compounds on the proposed endpoint, ordered by "
+          "it, coloured by head group and labelled with fluorinated-carbon "
+          "count. The vertical rule at zero is the reabsorption/secretion "
+          "divide. The bracket marks the three compounds with five "
+          "fluorinated carbons, which span 1.4 log units - the clearest "
+          "single refutation of chain length as a sole descriptor. <b>B:</b> "
+          "human PFOA on the same endpoint under each of the three unbound "
+          "fractions in circulation, against the male mouse. The quantity a "
+          "structure-activity model would have to explain spans 2.9 log units "
+          "across panel A; the disagreement about one input moves one "
+          "compound by 2.2 of them. Regenerate with "
+          "scripts/make_review_figures.py.", "caption")]),
         p("11. What this review corrects in the published record", "h1"),
         p("Each entry is traced to the table or figure that contradicts it; "
           "the full list of eighteen is section 8 of report/REPORT.md.",
@@ -985,8 +1045,8 @@ def story_4():
           "difference, not a distribution difference, and it is concentrated "
           "in females. One mechanistic axis - the fraction of filtered "
           "compound recovered from the tubule - orders every species for which "
-          "both terms have been measured, and predicts rodent half-lives "
-          "within 1.7&times; with no fitted parameter. That axis is two "
+          "both terms have been measured, and accounts for rodent half-lives "
+          "within 1.7&times;. That axis is two "
           "factors rather than one, roughly two thirds reabsorption and one "
           "third glomerular filtration rate, and in humans it is joined by a "
           "second, enterohepatic loop of comparable completeness whose "
@@ -1066,7 +1126,10 @@ def figure_block():
           "(section 3). <b>Right:</b> half-life predicted from fractional "
           "renal reabsorption alone, against observation, on log axes with the "
           "1:1 line. Every rodent point falls within 1.7&times; over a "
-          "37&times; span with no fitted parameter (section 4). The human "
+          "37&times; span - which, as section 4 notes, shows that renal "
+          "clearance is nearly all of total clearance in rodents rather than "
+          "validating an independent model, since the reabsorbed fraction is "
+          "derived from the same renal clearance. The human "
           "point sits 4.3&times; high, and the walk-down beneath it - renal "
           "only 4.3&times;, plus faecal 2.7&times;, EPA clearance 2.2&times;, "
           "OEHHA measured clearance 0.9&times; - is what led to the second "
