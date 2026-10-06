@@ -163,46 +163,94 @@ quoted without an interval.
 
 ## Lesson 04 — Nonlinear least squares
 
-**1. What fraction of the AUC was extrapolated?**
-1.2 out of 568.2, about **0.2%** — far below the 20% rule of thumb, so
-this AUC is trustworthy. The study ran to 87 days on a ~10-day
-half-life, which is why.
+**1. What fraction of the AUC was extrapolated, and why so small?**
+1.24 out of 568.21, about **0.2%**. It is small because the study ran
+87 days against a ~10-day half-life — roughly 8 half-lives, by which
+point 1/2⁸ ≈ 0.4% of the starting concentration remains, so there is
+almost nothing left to miss.
+
+What makes it big: stopping early relative to the half-life. A study
+run for one half-life leaves ~50% of the area unmeasured. Judge
+duration in half-lives, never in days (lesson 10 section E makes the
+same point).
 
 **2. Why does CL = dose/AUC hold for two compartments?**
-Integrate the mass balance. For any linear model, elimination happens
-only from the central compartment at rate CL·C, so
-dA_total/dt = −CL·C(t). Integrating from 0 to ∞:
-A(∞) − A(0) = −CL·∫C dt, and A(∞) = 0, A(0) = dose. So
-dose = CL·AUC regardless of how many compartments the chemical
-visited in between. The result needs only linearity and that all
-elimination is from the sampled compartment — not any particular
-structure.
+Integrate the mass balance. Elimination happens only from the sampled
+compartment at rate CL·C, so dA/dt = −CL·C(t). Integrating from 0 to ∞:
+
+```
+A(∞) − A(0) = −CL · ∫C dt
+   0 − dose = −CL · AUC
+         CL = dose / AUC
+```
+
+Nothing in that derivation mentions compartments, volumes or the shape
+of C(t). It needs only that elimination is first order and that all of
+it happens from the compartment you sampled. Section D2 works it
+through line by line.
 
 **3. Which term must dominate for CL to beat both Vd and k?**
 var(lnCL) = var(lnVd) + var(lnk) + 2cov. For CL to be tighter than
 *both*, the covariance term must be negative enough to overcome the
-*larger* of the two variances — you would need
-2|cov| > var(lnVd) + var(lnk) − min(var), i.e. a correlation near −1.
-Here r = −0.56, enough to beat Vd (×/1.35 vs ×/1.42) but not k
-(×/1.16). CL beats both only when the two parameters are almost
-perfectly anti-correlated.
+**larger** of the two variances — which needs a correlation close to
+−1. Here r = −0.56, enough to beat Vd (×/1.35 vs ×/1.42) but not k
+(×/1.16).
 
 **4. With only the first 7 days, which of Vd, k, CL is well estimated?**
 **Vd**, and only Vd. It is fixed by the early concentrations, which is
-exactly what you have. k needs the decay you have not observed, and
-CL = k·Vd inherits k's problem. This is the mirror image of the
-terminal-slope situation, where k is well determined and Vd is not.
+exactly what you have. k needs decay you have not observed, and
+CL = k·Vd inherits k's problem. The mirror image of the terminal-slope
+situation, where k is sharp and Vd is not.
+
+**5. If the correlation were −1.0 instead of −0.56?**
+The CL column in section C3 would be **constant** — perfect
+compensation means every (Vd, k) pair along the valley gives the same
+product. CL's interval would collapse towards zero width, and the
+likelihood contours in `04_tradeoff.png` would be an infinitely long
+thin ridge lying exactly on the constant-CL line rather than a tilted
+ellipse.
+
+That is the limiting case worth holding in mind: a correlation of −1
+means the data constrain only the product, and the two factors are
+individually unidentifiable. r = −0.56 gives you partway there — CL
+still drifts 2.1× across the table.
+
+**6. Why does the too-simple model UNDER-estimate clearance?**
+Look at `04_fit_residuals.png` around days 14–28: the observations sit
+*below* the fitted line (residuals −0.4 to −1.1). The single
+exponential cannot bend, so it compromises between the fast early
+phase and the slow tail, and ends up riding **too high** through the
+long tail.
+
+A curve sitting too high has too much area under it. Since CL = dose/AUC,
+too much area means **too little clearance**. Hence the fitted
+0.0151 against NCA's 0.0176.
+
+The general rule: a model that misfits the tail misstates the AUC, and
+AUC errors propagate inversely into clearance.
 
 **Exercise (b): refit with t ≥ 7.** The residual sweep improves and the
 half-life lengthens from 8.59 to about 10.2 days — the same answer
-lesson 03 reached by a different route, which is the point.
+lesson 03 reached by a different route.
 
-**Exercise (c): fit on the linear scale.** The early high-concentration
-points dominate, because their absolute residuals are largest. The
-half-life shortens, and the late points — the ones that actually carry
-elimination information — become nearly irrelevant to the fit.
+**Exercise (c): fit on the linear scale.** The early
+high-concentration points dominate, because their absolute residuals
+are largest. The half-life shortens and the late points — the ones
+carrying the elimination information — become nearly irrelevant.
 
----
+**Exercise (d): widen the forced-Vd range.** The sum of squares rises
+roughly quadratically in log Vd away from the optimum. You start to
+"notice" when it rises by about a factor related to the F-distribution,
+but the practical answer is that the 95% interval corresponds
+approximately to where the residual sum of squares rises by a factor of
+(1 + F/(n−p)) — for 14 points and 2 parameters, a rise of roughly 40%.
+Compare where that happens to the ×/1.42 interval reported in C2.
+
+**Exercise (e): truncate at day 21.** The extrapolated fraction jumps
+from 0.2% to something in the tens of percent, well past the 20%
+threshold, and CL moves accordingly. This is the commonest flaw in the
+published PK literature and the reason `../literature/APPRAISAL.md`
+screens on follow-up duration.
 
 ## Lesson 05 — Oral dosing
 
