@@ -274,7 +274,8 @@ def main():
         print(f"  {fu:>9.5f} {fu*GFR_HUMAN_HAN:>10.2f} {r:>11.6f} {lg:>9.2f} "
               f"{gap:>13.1f}x   {label}")
     print(f"""
-  Mouse male PFOA, measured fu {0.87}%: log10 R = {mouse_pfoa:.2f}.
+  Mouse PFOA (Argoul 2026 is FEMALE mice), measured fu {0.87}%:
+  log10 R = {mouse_pfoa:.2f}.
 
   Read the last column. Under Han's assumed fu the mouse-to-human gap in the
   TRANSPORT step is ~71x and the species difference looks like transport
