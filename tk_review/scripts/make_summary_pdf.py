@@ -822,7 +822,10 @@ def story_3():
           "secretion.", "body"),
         p("Only one dataset supports the comparison: nine compounds with both "
           "renal clearance and unbound fraction measured in one experiment, "
-          "one species, one laboratory " + c("argoul2026") + ". R spans "
+          "one species, one sex and one laboratory - female mice "
+          + c("argoul2026") + ". Note that this is a different animal from the "
+          "male mouse of section 4's table, whose reabsorption figures come "
+          "from a different source " + c("han2012") + ". R spans "
           "875&times; across them.", "body"),
         KeepTogether([
             tbl(qr, [21 * mm, 16 * mm, 22 * mm, 14 * mm, 14 * mm, 18 * mm,
@@ -855,7 +858,7 @@ def story_3():
           "different answers:", "body"),
         tbl([
             ["f<sub>u</sub>", "source", "log<sub>10</sub> R",
-             "gap to male mouse"],
+             "gap to female mouse"],
             ["0.10", "models reading '>90% bound' as 'about 90%'", "-3.93",
              "354&times;"],
             ["0.02", "the stated assumption in " + c("han2012"), "-3.23",
@@ -864,7 +867,7 @@ def story_3():
                         + c("fischer2024"), "-1.72", "<b>2.2&times;</b>"],
         ], [18 * mm, W - 78 * mm, 22 * mm, 38 * mm])]),
         Spacer(1, 3),
-        p("Under the assumed value the mouse-to-human difference in the "
+        p("Under the assumed value the female-mouse-to-human difference in the "
           "transport step is about seventyfold and the species gap is "
           "transport biology. Under the measured value it is about twofold, "
           "and the species gap is almost entirely <b>binding</b> - which would "
@@ -900,7 +903,7 @@ def story_4():
           "fluorinated carbons, which span 1.4 log units - the clearest "
           "single refutation of chain length as a sole descriptor. <b>B:</b> "
           "human PFOA on the same endpoint under each of the three unbound "
-          "fractions in circulation, against the male mouse. The quantity a "
+          "fractions in circulation, against the female mouse. The quantity a "
           "structure-activity model would have to explain spans 2.9 log units "
           "across panel A; the disagreement about one input moves one "
           "compound by 2.2 of them. Regenerate with "

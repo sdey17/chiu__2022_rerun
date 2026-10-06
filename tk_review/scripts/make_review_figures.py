@@ -193,7 +193,7 @@ def figure3():
     mouse = -1.384
     xs = np.arange(len(fus))
     axB.axhline(mouse, color=ORANGE, lw=2.0, zorder=3)
-    axB.text(2.42, mouse + 0.10, "male mouse PFOA", fontsize=8.4,
+    axB.text(2.42, mouse + 0.10, "female mouse PFOA", fontsize=8.4,
              color=ORANGE, ha="right", fontweight="bold")
     for x, (fu, lab, lr, gap) in zip(xs, fus):
         axB.vlines(x, lr, mouse, color=GRID, lw=2.2, zorder=2)
