@@ -42,6 +42,8 @@ FIG = os.path.join(HERE, "figures", "fig00_master.png")
 FIG2 = os.path.join(HERE, "figures", "fig02_sex_and_species_decomposition.png")
 FIG3 = os.path.join(HERE, "figures",
                     "fig03_structure_activity_and_sensitivity.png")
+FIG4 = os.path.join(HERE, "figures",
+                    "fig04_argoul_vs_single_compound.png")
 
 INK = colors.HexColor("#111111")
 SOFT = colors.HexColor("#55534f")
@@ -83,6 +85,7 @@ REFS = {
 "li2022": "Li Y, Andersson A, Xu Y, Pineda D, Nilsson CA, Lindh CH, Jakobsson K, Fletcher T (2022). Determinants of serum half-lives for perfluoroalkyl substances after end of exposure to contaminated drinking water, Ronneby cohort. (Held as a structured abstract; full text paywalled.)",
 "chiu2022": "Chiu WA, et al. (2022). Bayesian estimation of human population toxicokinetics of PFOA, PFOS, PFHxS and PFNA from studies of contaminated drinking water. <i>Environmental Health Perspectives</i> 130(12):127001. doi:10.1289/EHP10103",
 "butenhoff2004": "Butenhoff JL, Kennedy GL, Hinderliter PM, Lieder PH, Jung R, Hansen KJ, Gorman GS, Noker PE, Thomford PJ (2004). Pharmacokinetics of perfluorooctanoate in cynomolgus monkeys. <i>Toxicological Sciences</i> 82(2):394-406. doi:10.1093/toxsci/kfh302",
+"chang2008": "Chang S-C, Das K, Ehresman DJ, Ellefson ME, Gorman GS, Hart JA, Noker PE, Tan Y-M, Lieder PH, Lau C, Olsen GW, Butenhoff JL (2008). Comparative pharmacokinetics of perfluorobutyrate in rats, mice, monkeys, and humans and relevance to human exposure via drinking water. <i>Toxicological Sciences</i> 104(1):40-53. doi:10.1093/toxsci/kfn057",
 "chang2012": "Chang S-C, Noker PE, Gorman GS, Gibson SJ, Hart JA, Ehresman DJ, Butenhoff JL (2012). Comparative pharmacokinetics of perfluorooctanesulfonate (PFOS) in rats, mice, and monkeys. <i>Reproductive Toxicology</i> 33(4):428-440. doi:10.1016/j.reprotox.2011.07.002",
 "dzierlenga2020": "Dzierlenga AL, Robinson VG, Waidyanatha S, DeVito MJ, Eifrid MA, Gibbs ST, Granville CA, Blystone CR (2020). Toxicokinetics of PFHxA, PFOA and PFDA in male and female Hsd:Sprague Dawley SD rats following intravenous or gavage administration. <i>Xenobiotica</i> 50(6):722-732. doi:10.1080/00498254.2019.1683776",
 "kim2016": "Kim S-J, Heo S-H, Lee D-S, Hwang IG, Lee Y-B, Cho H-Y (2016). Gender differences in pharmacokinetics and tissue distribution of 3 perfluoroalkyl and polyfluoroalkyl substances in rats. <i>Food and Chemical Toxicology</i> 97:243-255. doi:10.1016/j.fct.2016.09.017",
@@ -344,7 +347,11 @@ def story():
         p("Finally, half-life is argued to be the wrong endpoint for any "
           "structure-activity model, because it carries a body-size term. A "
           "dimensionless renal handling ratio is proposed in its place and "
-          "evaluated on the only dataset that supports the comparison.", "abs"),
+          "evaluated on the only dataset that supports the comparison - a "
+          "cocktail study whose absolute clearances and volumes both run "
+          "about twofold below the one-compound-at-a-time literature while "
+          "their ratio does not, a shared offset that leaves every "
+          "between-compound contrast the endpoint is built on intact.", "abs"),
     ]
 
     # ===================== 1. introduction =====================
@@ -466,7 +473,11 @@ def story_2():
           "fixed chemistry, so it is corroboration by analogy rather than "
           "replication - though it is hard to explain why clearance should be "
           "the volatile term along both axes unless it simply is the volatile "
-          "term.", "body"),
+          "term. This study's <i>absolute</i> clearances run about twofold "
+          "below the one-compound-at-a-time literature, for reasons set out "
+          "in section 10; the comparison here is a ratio within one "
+          "experiment, from which a shared scaling cancels, so the "
+          "5,254-fold against 7.7-fold is unaffected.", "body"),
         p("Taken from primary sources rather than compilations, the species "
           "gap is also concentrated in one sex. Female rat divided by female "
           "mouse PFOA clearance is 373-496&times;, against 7.0&times; in males "
@@ -850,6 +861,68 @@ def story_3():
           "secreted, GenX with one is reabsorbed, PFO2OA with two is secreted. "
           "The replacement chemicals sit on both sides of the divide, which is "
           "a regulatory observation as much as a chemical one.", "body"),
+        p("How far the one dataset can be trusted", "h2"),
+        p("Everything above rests on a single experiment, and that experiment "
+          "is unusual in three ways at once: eleven PFAS dosed as one cocktail, "
+          "at 0.019-1.55 mg/kg, fitted by nonlinear mixed effects. Each of "
+          "those could bias the absolute numbers, so the comparison against "
+          "the one-compound-at-a-time literature is worth making explicitly. "
+          "All comparators below are female mice, matching "
+          + c("argoul2026") + ".", "body"),
+        KeepTogether([
+        p("Figure 4", "h2"),
+        Image(FIG4, width=W, height=W / 2.578),
+        p("<b>A:</b> every single-compound female-mouse study that reports "
+          "both clearance and volume, each on its own row, against the "
+          "cocktail. The grey connector joins the two parameters within a "
+          "study; they move together, not apart. Geometric means 0.47&times; "
+          "for clearance " + c("lou2009", "sundstrom2012", "zurlinden2025")
+          + " and 0.57&times; for volume. PFHxA's volume is 5.1&times; the "
+          "other way " + c("epa2023pfhxa") + " and is held out: it is the one "
+          "compound the cocktail study places in net secretion, so its "
+          "kinetics differ in kind. <b>B:</b> the same comparison for "
+          "half-life, which is their ratio. Ten comparisons across five "
+          "compounds " + c("chang2008", "lou2009", "sundstrom2012", "chang2012",
+                           "tatum2011")
+          + ", geometric mean 0.99&times;. Built by "
+          "scripts/argoul_vs_single_compound.py into "
+          "db/argoul_vs_single_compound.csv; drawn by "
+          "scripts/make_review_figures.py.", "caption")]),
+        p("The shape of that result is more informative than either half of "
+          "it. Clearance and volume are both low by about twofold, and the "
+          "half-life is not low at all - which is what a shared multiplicative "
+          "factor on both terms looks like, because in "
+          "ln2&middot;V<sub>d</sub>/CL such a factor cancels. Three candidates "
+          "fit and the data in hand cannot separate them. <b>Dose</b> is the "
+          "most consistent with the rest of this review: the cocktail was "
+          "dosed 10-100&times; below its comparators, section 8's saturable-"
+          "reabsorption account predicts clearance rising with dose, and the "
+          "one three-point series available - PFHxS in female mice at 0.094, 1 "
+          "and 20 mg/kg across two laboratories - does rise monotonically "
+          "(CL 1.3, 2.68, 3.79 mL/kg/d; slope +0.20 on log-log), with the "
+          "cocktail at the bottom of that trend rather than off it. "
+          "<b>Cocktail competition</b> for reabsorptive transporters would "
+          "raise clearance, not lower it, so it argues against the observed "
+          "direction - unless the competition is for plasma binding sites, "
+          "which would raise f<sub>u</sub> and lower the apparent volume. "
+          "<b>Mixed-effects shrinkage</b> compresses spread rather than "
+          "shifting the centre, so it is the weakest of the three.", "body"),
+        p("What this does and does not cost the endpoint above. R is built "
+          "from an absolute renal clearance, so a twofold low bias in that "
+          "clearance is a twofold low bias in R - a flat -0.33 log unit offset "
+          "on every compound. Because it is flat, it changes nothing that this "
+          "section actually claims: the ranking, the 2.9-log-unit span, the "
+          "non-monotonicity in chain length and the head-group and ether "
+          "contrasts are all differences between compounds, and a shared "
+          "factor cancels from every one of them. It does move the compounds "
+          "relative to the fixed divide at R = 1, but not far enough to matter "
+          "- the nearest reabsorbed compound sits 0.98 log units below the "
+          "divide, so the bias would have to be 9.6&times; rather than "
+          "2.1&times; to reclassify anything. What it does cost is the "
+          "cross-species comparison in the next subsection, where an absolute "
+          "mouse value is set against an absolute human one; read those gaps "
+          "as carrying a factor of about two on top of the f<sub>u</sub> "
+          "uncertainty, in the direction of understating the mouse.", "body"),
         p("A sensitivity that bears on the species question", "h2"),
         KeepTogether([
         p("R is linear in 1/f<sub>u</sub>, so it inherits the uncertainty of "

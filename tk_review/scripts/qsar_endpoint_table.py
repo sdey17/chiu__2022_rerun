@@ -136,7 +136,7 @@ def main():
         table.append({
             "chemical": chem,
             "species": "mouse",
-            "sex": "male",
+            "sex": "female",  # Argoul dosed FEMALE mice; section 4's table is a different animal
             "n_c_total": n_c,
             "n_fluorinated_c": n_cf,
             "head_group": head,
