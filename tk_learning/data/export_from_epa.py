@@ -24,6 +24,12 @@ WHAT IT KEEPS AND WHAT IT DROPS
             the limit of detection"  <-- see the warning below
     keeps   everything else, values unaltered
 
+    The output carries an explicit `sex` column. Sex used to live only
+    in the filename, which is fine until you concatenate two files --
+    and since PFOA_Male_primate and PFOA_Female_primate are the same
+    study split in two, that is now a real hazard rather than a
+    hypothetical one.
+
 THE BELOW-DETECTION-LIMIT WARNING
 
     Dropping censored values is NOT neutral. Below-LoD rows are always
@@ -143,7 +149,8 @@ def main(epa_root):
                 continue
             w = bw.get((hero, sp, sx), np.nan)
             frames[stem].append(pd.DataFrame({
-                "study": hero, "author": author, "route": g.route.values,
+                "study": hero, "author": author, "sex": sx,
+                "route": g.route.values,
                 "dose_mgkg": pd.to_numeric(g.dose).values,
                 "dose_mg": pd.to_numeric(g.dose).values * w,
                 "bw_kg": w, "time_d": g.t_d.values, "conc_mgL": g.c.values,

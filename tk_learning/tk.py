@@ -136,6 +136,8 @@ def load(name):
     Columns:
         study       EPA reference id for the source paper
         author      first author
+        sex         Male or Female. Also in the filename, but carried
+                    here too so a concatenated frame stays unambiguous
         route       'iv' or 'gavage'
         dose_mgkg   administered dose, mg/kg
         bw_kg       body weight

@@ -134,8 +134,8 @@ four independent ways to check it are in
 | `PFOA_Female_rat.csv` | 377 | 13 | females clear PFOA ~44× faster than males |
 | `PFOS_Male_rat.csv` | 246 | 9 | 0.1–20 mg/kg |
 
-Columns: `study, author, route, dose_mgkg, dose_mg, bw_kg, time_d,
-conc_mgL, conc_sd, n_animals, animal_id, dataset`. One row per measured
+Columns: `study, author, sex, route, dose_mgkg, dose_mg, bw_kg,
+time_d, conc_mgL, conc_sd, n_animals, animal_id, dataset`. One row per measured
 serum concentration; `dataset` identifies one experiment (study + dose +
 route), which is the unit you fit.
 

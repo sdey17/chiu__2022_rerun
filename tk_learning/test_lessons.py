@@ -53,6 +53,23 @@ check("oral AUC == IV AUC (F=1)", auc_oral, 1.0 / clearance(0.05, 0.25),
       1e-3, "mg/L*d")
 
 # ----------------------------------------------------------------------
+print("\ndata files -- schema and self-consistency")
+import os, glob
+SCHEMA = ["study", "author", "sex", "route", "dose_mgkg", "dose_mg", "bw_kg",
+          "time_d", "conc_mgL", "conc_sd", "n_animals", "animal_id", "dataset"]
+for f in sorted(glob.glob(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                       "data", "*.csv"))):
+    stem = os.path.basename(f)[:-4]
+    if stem.count("_") != 2:
+        continue
+    chem, sex, species = stem.split("_")
+    d = pd.read_csv(f)
+    check(f"{stem}: schema", float(list(d.columns) == SCHEMA), 1.0, 1e-9)
+    # the sex column must agree with the filename -- the whole point of
+    # having it is that a concatenated frame stays unambiguous
+    check(f"{stem}: sex column matches name",
+          float(sorted(set(d.sex.astype(str))) == [sex]), 1.0, 1e-9)
+
 print("\nlesson 03/04 -- the monkey, one compartment")
 mk = load("PFOA_Male_primate")
 one = mk[(mk.animal_id == 2054) & (mk.conc_mgL > 0)].sort_values("time_d")
