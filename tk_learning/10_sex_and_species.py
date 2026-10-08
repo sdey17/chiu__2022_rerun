@@ -142,6 +142,84 @@ print("""
 """)
 
 # ----------------------------------------------------------------------
+# C2. The same test in primates -- where it comes out differently
+# ----------------------------------------------------------------------
+print("C2. Does the rat sex effect carry over to primates?\n")
+print("""   Butenhoff 2004 dosed three male AND three female cynomolgus
+   monkeys, 10 mg/kg IV, same study, same day, same protocol. That is
+   the matched design of section B, in a primate -- and primates are
+   the better model for humans. So: does the 28x rat effect appear?
+""")
+
+MP, FP = summarise("PFOA_Male_primate"), summarise("PFOA_Female_primate")
+# one experiment per sex, so compare per-animal rather than per-dataset
+per = {}
+for lab, name in [("male", "PFOA_Male_primate"), ("female", "PFOA_Female_primate")]:
+    df = load(name)
+    df = df[df.conc_mgL > 0]
+    cls = []
+    for aid, g in df.groupby("animal_id"):
+        g = g.sort_values("time_d")
+        t_, c_ = g.time_d.values, g.conc_mgL.values
+        term = t_ >= t_.max() / 3
+        kk = -np.polyfit(t_[term], np.log(c_[term]), 1)[0]
+        cls.append(10.0 / (np.trapezoid(c_, t_) + c_[-1] / kk))
+    per[lab] = np.array(cls)
+    print(f"   {lab:7s} n={len(cls)}  clearances " +
+          "  ".join(f"{x:.4f}" for x in sorted(cls)) +
+          f"   (spread {max(cls)/min(cls):.1f}x)")
+
+gm = lambda x: float(np.exp(np.log(x).mean()))
+ratio_primate = gm(per["female"]) / gm(per["male"])
+print(f"\n   geometric means: male {gm(per['male']):.5f}, "
+      f"female {gm(per['female']):.5f}  ->  F/M {ratio_primate:.2f}x")
+print(f"   compare the rat result from section B:                 "
+      f"F/M {gm_CL:.1f}x")
+
+lm_, lf_ = np.log(per["male"]), np.log(per["female"])
+sd_pool = np.sqrt((lm_.std(ddof=1) ** 2 + lf_.std(ddof=1) ** 2) / 2)
+detectable = np.exp(2.48 * sd_pool * np.sqrt(2 / 3))
+print(f"""
+   TWO THINGS, AND THE SECOND MATTERS MORE
+
+   1. The direction REVERSES. In rats, females clear PFOA {gm_CL:.0f}x FASTER.
+      In monkeys they clear it about half as fast -- the opposite way.
+
+   2. That reversal is NOT statistically established. With three
+      animals per sex and a {np.exp(sd_pool):.1f}-fold spread BETWEEN animals of the
+      same sex, the male and female ranges overlap, and a t-test on
+      log clearance gives p = 0.27. Do not report a primate sex
+      difference from this.
+
+   WHAT YOU CAN SAY, AND IT IS THE USEFUL PART
+
+   With this n and this variability, the smallest difference detectable
+   at ~80% power is about {detectable:.0f}x. The rat effect is {gm_CL:.0f}x. So while this
+   experiment cannot resolve a 2x difference, it would have found a
+   {gm_CL:.0f}x one without difficulty -- and there is nothing like it here.
+
+   A non-significant result is not "no information". It rules out
+   every effect larger than what you were powered to detect. Here that
+   rules out the rat mechanism operating at rat strength in primates.
+
+   WHY THIS MATTERS FOR THE PROJECT
+
+   Section B's 28x is real, large, and mechanistically explained
+   (Kudo 2002, one of the source papers for this very dataset, is
+   titled "Sex hormone-regulated renal transport of perfluorooctanoic
+   acid"). But it is a RAT mechanism. Primates are phylogenetically
+   closer to humans, and humans show no comparable sex difference in
+   PFOA half-life either.
+
+   So the honest reading of sections B and C2 together: a transporter
+   difference can be enormous and still fail to generalise one species
+   sideways. That is a caution about the whole enterprise of reading
+   human kinetics off rodents -- and it is the same caution lesson 12
+   reaches from the modelling side, where correct anatomy still missed
+   the monkey by 11x.
+""")
+
+# ----------------------------------------------------------------------
 # D. Now compare all of this against what dose can do
 # ----------------------------------------------------------------------
 BETA = 0.110          # ../pfas_dose: ln(CL) ~ beta*ln(dose), male rats, PFOA

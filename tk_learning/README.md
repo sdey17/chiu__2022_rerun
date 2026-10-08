@@ -129,6 +129,7 @@ four independent ways to check it are in
 |---|---|---|---|
 | `PFOA_Male_primate.csv` | 43 | 1 | 10 mg/kg IV, 3 monkeys, 123 days — the cleanest decay curve there is |
 | `PFOS_Male_primate.csv` | 48 | 1 | 2 mg/kg IV, 161 days |
+| `PFOA_Female_primate.csv` | 45 | 1 | the same Butenhoff study's females — lesson 10 C2 |
 | `PFOA_Male_rat.csv` | 860 | 14 | 6 studies, 0.1–49 mg/kg, IV and gavage |
 | `PFOA_Female_rat.csv` | 377 | 13 | females clear PFOA ~44× faster than males |
 | `PFOS_Male_rat.csv` | 246 | 9 | 0.1–20 mg/kg |

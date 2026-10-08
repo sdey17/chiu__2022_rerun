@@ -132,6 +132,35 @@ No values were altered, filtered or imputed. What changed:
 | `PFOA_Male_rat.csv` | 860 | 2990271, 3749289, 3858670, 3859701, 5916078, 6302380 |
 | `PFOA_Female_rat.csv` | 377 | 2990271, 3749289, 3858670, 5916078, 6302380 |
 | `PFOS_Male_rat.csv` | 246 | 1289832, 3749289, 3859701, 5387170 |
+| `PFOA_Female_primate.csv` | 45 | 3749227 |
+
+## What this export leaves out
+
+EPA's `extracted_data/` holds **5247 serum/plasma rows**; these files
+carry **1619**, about 31%. `export_from_epa.py` regenerates them and is
+the definitive statement of the filter, but in words:
+
+| left out | rows | why |
+|---|---|---|
+| six of eight chemicals (PFHxA, PFHxS, PFNA, PFDA, PFBA, PFBS) | ~2300 | scope: the lessons teach with PFOA and PFOS |
+| all mouse data | ~800 | scope |
+| PFOS female rats | 244 | scope |
+| female primates for PFOS, PFHxS, PFBS, PFBA, PFHxA | ~180 | scope |
+| all tissue matrices (liver, kidney, brain…) | 2715 | the lessons model serum only |
+| `matrix == "blood"` in Iwabuchi 3859701 | 13 per chemical | whole blood is **not** serum — PFAS sit lower in red cells, so pooling them would put two different measurements on one curve |
+| rows with `conc_mean == -1` | 169 | below the limit of detection, or not reported |
+
+**That last row is the one with scientific consequences.** Censored
+values are always the LATE, low points — exactly the ones carrying the
+terminal slope. Dropping them truncates each curve early and biases
+half-lives **short**. Proper handling treats them as censored rather
+than missing; the lessons use ordinary least squares, which cannot
+express "below 0.05", so they are dropped. Lesson 03 question 4 is
+about this exact bias. Per-file counts are printed by the export
+script.
+
+Everything omitted is available in EPA's repository; nothing was
+altered, and the 1619 rows kept match EPA's values exactly.
 
 ## Checking this yourself
 
