@@ -96,6 +96,22 @@ def two_compartment():
     return m
 
 
+def worst_rhat(idata):
+    """Largest r-hat over every parameter, across ArviZ versions.
+
+    az.rhat returns an xarray Dataset in ArviZ 0.x, but the 1.x
+    refactor returns a DataTree, which has no .to_array(). Writing
+    `az.rhat(idata).to_array().max()` therefore breaks with an
+    AttributeError on newer installs. Handle both.
+    """
+    r = az.rhat(idata)
+    if hasattr(r, "to_array"):                     # Dataset, ArviZ 0.x
+        return float(r.to_array().max())
+    vals = [float(v.max()) for node in r.subtree   # DataTree, ArviZ 1.x
+            for v in node.dataset.data_vars.values()]
+    return max(vals) if vals else float("nan")
+
+
 def fit(m, name):
     """Sample, and cache the result so you can re-analyse without refitting."""
     import os
@@ -109,7 +125,7 @@ def fit(m, name):
                       idata_kwargs={"log_likelihood": True})
     div = int(i.sample_stats.diverging.sum())
     print(f"{name:18s} divergences {div:4d}   "
-          f"worst r-hat {float(az.rhat(i).to_array().max()):.4f}")
+          f"worst r-hat {worst_rhat(i):.4f}")
     i.to_netcdf(cache)
     return i
 

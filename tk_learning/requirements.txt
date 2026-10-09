@@ -6,7 +6,12 @@ matplotlib>=3.6        # height_ratios= in plt.subplots, set_yticks(pos, labels)
 
 # lessons 06-07 (Bayesian fitting)
 pymc>=5
-arviz>=0.17
+# ArviZ is mid-refactor: the 1.x line returns xarray DataTree objects
+# where 0.x returned Datasets, which changes the API of rhat, summary
+# and compare. The lessons are written and verified against 0.x. They
+# carry a worst_rhat() shim that handles both, but az.summary and
+# az.compare are not shimmed, so pin until the lessons are ported.
+arviz>=0.17,<1.0
 
 # only for the notebooks in notebooks/ -- the lessons themselves and
 # make_notebooks.py need none of this

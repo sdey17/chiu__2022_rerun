@@ -34,6 +34,16 @@ thought or three lines of code, and the reasoning is what transfers.
 Lessons 6 and 7 cache their MCMC traces to `trace_*.nc`, so re-running
 to tweak a figure is instant. Delete them to force a refit.
 
+**If lesson 6 fails with `'DataTree' object has no attribute
+'to_array'`**, your ArviZ is from the 1.x refactor, which returns
+`DataTree` where 0.x returned `Dataset`. The lessons carry a shim for
+r-hat, but `az.summary` and `az.compare` are not shimmed. Install a 0.x
+release:
+
+```bash
+pip install "arviz>=0.17,<1.0"
+```
+
 `tk.py` holds the model equations and the data loader. Read it first —
 it is under 200 lines and every one of them is something you should be
 able to derive.
