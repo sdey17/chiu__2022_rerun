@@ -34,15 +34,40 @@ thought or three lines of code, and the reasoning is what transfers.
 Lessons 6 and 7 cache their MCMC traces to `trace_*.nc`, so re-running
 to tweak a figure is instant. Delete them to force a refit.
 
-**If lesson 6 fails with `'DataTree' object has no attribute
-'to_array'`**, your ArviZ is from the 1.x refactor, which returns
-`DataTree` where 0.x returned `Dataset`. The lessons carry a shim for
-r-hat, but `az.summary` and `az.compare` are not shimmed. Install a 0.x
-release:
+### If lesson 6 crashes with a DataTree error
+
+```
+AttributeError: 'DataTree' object has no attribute 'to_array'
+```
+
+Your ArviZ is from the 1.x rewrite. It removed `arviz.InferenceData`,
+returns `DataTree` where 0.x returned `Dataset`, renamed the LOO
+functions and dropped WAIC. Lessons 06 and 07 are written against the
+0.x API and are **not** ported.
+
+**PyMC 6 requires `arviz>=1.1`**, so you cannot simply downgrade ArviZ
+— pip will refuse, or leave you with a broken PyMC. The two have to
+move together. Make a dedicated environment:
 
 ```bash
-pip install "arviz>=0.17,<1.0"
+conda create -n pfas_tk python=3.11
+conda activate pfas_tk
+pip install "pymc>=5,<6" "arviz>=0.17,<1.0" numpy scipy pandas "matplotlib>=3.6"
 ```
+
+Lessons 01-05 and 08-12 use neither PyMC nor ArviZ and run on anything.
+Only 06 and 07 care.
+
+Exact combination these lessons are verified against:
+
+| | |
+|---|---|
+| pymc | 5.28.5 |
+| arviz | 0.23.4 |
+| numpy | 2.4.6 |
+| scipy | 1.17.1 |
+| pandas | 2.2.3 |
+| matplotlib | 3.11.2 |
 
 `tk.py` holds the model equations and the data loader. Read it first —
 it is under 200 lines and every one of them is something you should be
