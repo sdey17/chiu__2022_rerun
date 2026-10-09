@@ -50,7 +50,7 @@ print("""
 # B. Fit a real gavage experiment
 # ----------------------------------------------------------------------
 rat = load("PFOA_Male_rat")
-g = rat[(rat.dataset == "5916078-6.0 mg/kg-gavage") & (rat.conc_mgL > 0)]
+g = rat[(rat.dataset == "5916078-6 mg/kg-gavage") & (rat.conc_mgL > 0)]
 g = g.groupby("time_d", as_index=False).conc_mgL.mean()
 t, C, DOSE = g.time_d.values, g.conc_mgL.values, 6.0
 
@@ -164,7 +164,7 @@ print("""
    half-life here, 5.3 days, is well below the 11.6 days the 6 mg/kg
    gavage arm of a different study gave in section B. Different studies,
    but also a one-compartment model straining against a two-compartment
-   curve -- lesson 06.
+   curve -- lessons 07 and 09.
 
    Design beats statistics. No amount of cleverness in the fitting
    recovers information the experiment did not collect.

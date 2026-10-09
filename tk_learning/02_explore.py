@@ -93,7 +93,8 @@ for i in range(len(t) - 1):
 print("""
    The slope is NOT constant. It is steep in the first day or two and
    then settles down. A single exponential cannot do that -- this is the
-   signature of a second compartment, and it is why lesson 06 exists.
+   signature of a second compartment, and it is why lessons 07 and 09
+   exist.
 
    For now, notice the practical consequence: if you fit one exponential
    to ALL these points you get a half-life somewhere between the fast

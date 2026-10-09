@@ -20,8 +20,8 @@ import pandas as pd
 from scipy.integrate import solve_ivp
 from scipy.optimize import curve_fit
 
-from tk import (load, iv_1comp, oral_1comp, iv_2comp, half_life, clearance,
-                steady_state)
+from tk import (load, available, iv_1comp, oral_1comp, iv_2comp,
+                half_life, clearance, steady_state)
 
 FAILS = []
 
@@ -96,6 +96,40 @@ check("95% interval on Vd (x/)", np.exp(1.96 * se[0]), 1.42, 0.02)
 check("95% interval on CL (x/)", np.exp(1.96 * se_CL), 1.35, 0.02)
 check("CL is wider than k, tighter than Vd",
       float(se[1] < se_CL < se[0]), 1.0, 1e-9)
+
+# ----------------------------------------------------------------------
+print("\nlesson 05 -- oral dosing")
+# A lesson that hardcodes a dataset label breaks SILENTLY when the data
+# are regenerated and a label changes (e.g. "6.0 mg/kg" -> "6 mg/kg").
+# Guard every literal label in every lesson, not just the ones below.
+import re
+HERE = os.path.dirname(os.path.abspath(__file__))
+labels = set()
+for src in sorted(glob.glob(os.path.join(HERE, "[0-9][0-9]_*.py"))):
+    labels |= set(re.findall(r'"(\d{6,7}-[^"]*mg/kg-[a-z]+)"', open(src).read()))
+known = set()
+for name in available():
+    known |= set(load(name).dataset.unique())
+check("every hardcoded dataset label exists",
+      float(bool(labels) and labels <= known), 1.0, 1e-9)
+for miss in sorted(labels - known):
+    FAILS.append(f"unknown dataset label {miss!r}")
+
+# lesson 05 section B: PFOA, male rats, 6 mg/kg gavage, study 5916078
+_g = (load("PFOA_Male_rat")
+      .query('dataset == "5916078-6 mg/kg-gavage" and conc_mgL > 0')
+      .groupby("time_d", as_index=False).conc_mgL.mean())
+check("lesson 05 gavage arm: n time points", len(_g), 10, 1e-9)
+_p, _ = curve_fit(
+    lambda tt, lv, lk, lka: np.log(oral_1comp(tt, 6.0, np.exp(lv),
+                                              np.exp(lk), np.exp(lka))),
+    _g.time_d.values, np.log(_g.conc_mgL.values),
+    p0=[np.log(0.25), np.log(0.05), np.log(2.0)], maxfev=20000)
+_Vd, _k, _ka = np.exp(_p)
+check("lesson 05 Vd/F", _Vd, 0.1593, 1e-3, "L/kg")
+check("lesson 05 half-life", half_life(_k), 11.57, 1e-3, "d")
+check("lesson 05 absorption is fast (flip-flop safe)",
+      float(_ka > 10 * _k), 1.0, 1e-9)
 
 # ----------------------------------------------------------------------
 print("\nlesson 08/09 -- ODEs and volumes")
