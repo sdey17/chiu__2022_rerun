@@ -6,12 +6,16 @@ matplotlib>=3.6        # height_ratios= in plt.subplots, set_yticks(pos, labels)
 
 # lessons 06-07 (Bayesian fitting)
 #
-# These two MUST be pinned together. ArviZ 1.x is a rewrite: it removed
-# arviz.InferenceData, returns xarray DataTree where 0.x returned
-# Dataset, renamed the LOO functions and dropped WAIC. PyMC 6 REQUIRES
-# arviz>=1.1, so "pymc 6 + arviz 0.x" is unsatisfiable and
-# "pymc 5 + arviz 1.x" is untested here. Pin both or neither.
+# These two MUST move together. ArviZ 1.x is a rewrite: it removed
+# arviz.InferenceData in favour of xarray DataTree, renamed hdi_prob ->
+# ci_prob, made the default interval equal-tailed instead of
+# highest-density, dropped WAIC, and flipped the sign of elpd_diff.
+# PyMC 6 REQUIRES arviz>=1.1, so "pymc 6 + arviz 0.x" is unsatisfiable.
 #
-# Lessons 06 and 07 are written against the 0.x API and are not ported.
-pymc>=5,<6
-arviz>=0.17,<1.0
+# Lessons 06 and 07 carry shims (worst_rhat, az_summary, compare_loo)
+# and run on either family. The numbers in their prose were produced on
+# the pinned pair below; only the COLUMN HEADINGS differ on 1.x.
+pymc>=5
+arviz>=0.17
+# verified pair:  pymc==5.28.5  arviz==0.23.4
+# also supported: pymc>=6       arviz>=1.1

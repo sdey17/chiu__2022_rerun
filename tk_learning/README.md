@@ -34,31 +34,30 @@ thought or three lines of code, and the reasoning is what transfers.
 Lessons 6 and 7 cache their MCMC traces to `trace_*.nc`, so re-running
 to tweak a figure is instant. Delete them to force a refit.
 
-### If lesson 6 crashes with a DataTree error
+### Lessons 6-7 on ArviZ 1.x (PyMC 6)
 
-```
-AttributeError: 'DataTree' object has no attribute 'to_array'
-```
+ArviZ 1.x is a rewrite, and PyMC 6 requires it (`arviz>=1.1`), so you
+cannot downgrade ArviZ and keep PyMC 6 — the two move together.
+Lessons 06 and 07 carry three shims so they run on either family:
 
-Your ArviZ is from the 1.x rewrite. It removed `arviz.InferenceData`,
-returns `DataTree` where 0.x returned `Dataset`, renamed the LOO
-functions and dropped WAIC. Lessons 06 and 07 are written against the
-0.x API and are **not** ported.
+| | ArviZ 0.x | ArviZ 1.x | shim |
+|---|---|---|---|
+| r-hat container | `Dataset` (`.to_array()`) | `DataTree` (`.subtree`) | `worst_rhat` |
+| interval argument | `hdi_prob=0.95` | `ci_prob=0.95, ci_kind="hdi"` | `az_summary` |
+| interval columns | `hdi_2.5%` / `hdi_97.5%` | `hdi95_lb` / `hdi95_ub` | — (headings only) |
+| LOO selector | `ic="loo"` | gone; LOO is the only option | `compare_loo` |
+| ELPD column | `elpd_loo` | `elpd` | — |
+| `elpd_diff` sign | positive for the loser | negative for the loser | `abs()` in 07 |
+| group access | `idata.sample_stats` | `idata["sample_stats"]` | bracket form everywhere |
 
-**PyMC 6 requires `arviz>=1.1`**, so you cannot simply downgrade ArviZ
-— pip will refuse, or leave you with a broken PyMC. The two have to
-move together. Make a dedicated environment:
-
-```bash
-conda create -n pfas_tk python=3.11
-conda activate pfas_tk
-pip install "pymc>=5,<6" "arviz>=0.17,<1.0" numpy scipy pandas "matplotlib>=3.6"
-```
+The last two are the dangerous ones: neither raises, they just change
+the answer. Without `abs()`, lesson 07's decisive 5.5-sigma win for two
+compartments reads as "not decisive" on ArviZ 1.x.
 
 Lessons 01-05 and 08-12 use neither PyMC nor ArviZ and run on anything.
 Only 06 and 07 care.
 
-Exact combination these lessons are verified against:
+Exact combination the printed numbers were produced on:
 
 | | |
 |---|---|

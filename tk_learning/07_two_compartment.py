@@ -112,6 +112,46 @@ def worst_rhat(idata):
     return max(vals) if vals else float("nan")
 
 
+def az_summary(idata, var_names, prob=0.95):
+    """az.summary with a `prob` highest-density interval, on ArviZ 0.x or 1.x.
+
+    ArviZ 1.x renamed the argument hdi_prob -> ci_prob, and made the
+    interval EQUAL-TAILED by default rather than highest-density, so you
+    have to ask for "hdi" back. The column names changed with it:
+
+        0.x:  mean  sd  hdi_2.5%  hdi_97.5%  ...
+        1.x:  mean  sd  hdi95_lb  hdi95_ub   ...
+
+    Same numbers, different headings. Do not read a renamed column as a
+    changed result.
+    """
+    try:
+        return az.summary(idata, var_names=var_names, hdi_prob=prob)
+    except TypeError:                                        # ArviZ >= 1.0
+        return az.summary(idata, var_names=var_names,
+                          ci_prob=prob, ci_kind="hdi")
+
+
+def compare_loo(models):
+    """az.compare on LOO, on ArviZ 0.x or 1.x.
+
+    ArviZ 1.x dropped WAIC, so LOO is the only information criterion and
+    the `ic=` argument is gone. Two other things moved:
+
+      * the ELPD column is called `elpd`, not `elpd_loo`;
+      * `elpd_diff` is now elpd_model - elpd_reference, so it is
+        NEGATIVE for the losing models. In 0.x it was positive. Take
+        abs() before comparing it with dse, or a decisive result will
+        silently read as "not decisive".
+
+    round_to="none" keeps raw numbers so the arithmetic below is exact.
+    """
+    try:
+        return az.compare(models, ic="loo")
+    except TypeError:                                        # ArviZ >= 1.0
+        return az.compare(models, round_to="none")
+
+
 def fit(m, name):
     """Sample, and cache the result so you can re-analyse without refitting."""
     import os
@@ -123,7 +163,7 @@ def fit(m, name):
         i = pm.sample(2000, tune=2000, chains=4, random_seed=SEED,
                       target_accept=0.95, progressbar=False,
                       idata_kwargs={"log_likelihood": True})
-    div = int(i.sample_stats.diverging.sum())
+    div = int(i["sample_stats"]["diverging"].sum())
     print(f"{name:18s} divergences {div:4d}   "
           f"worst r-hat {worst_rhat(i):.4f}")
     i.to_netcdf(cache)
@@ -141,21 +181,21 @@ if __name__ == "__main__":
     # ------------------------------------------------------------------
     # B. Parameter estimates
     # ------------------------------------------------------------------
-    print(az.summary(i1, var_names=["half_life_pop", "sigma"],
-                     hdi_prob=0.95).to_string())
+    print(az_summary(i1, ["half_life_pop", "sigma"]).to_string())
     print()
-    print(az.summary(i2, var_names=["half_life_terminal", "half_life_alpha",
-                                    "Vss", "CL", "sigma"],
-                     hdi_prob=0.95).to_string())
+    print(az_summary(i2, ["half_life_terminal", "half_life_alpha",
+                          "Vss", "CL", "sigma"]).to_string())
 
     # ------------------------------------------------------------------
     # C. Which model predicts better? (LOO)
     # ------------------------------------------------------------------
-    comp = az.compare({"1-compartment": i1, "2-compartment": i2}, ic="loo")
+    comp = compare_loo({"1-compartment": i1, "2-compartment": i2})
     print(comp.to_string())
 
     winner = comp.index[0]
-    diff, dse = comp.elpd_diff.iloc[1], comp.dse.iloc[1]
+    # abs(): elpd_diff is positive for the loser in ArviZ 0.x and
+    # negative in 1.x. The MAGNITUDE is what you compare with dse.
+    diff, dse = abs(comp.elpd_diff.iloc[1]), comp.dse.iloc[1]
     print(f"\n   {winner} wins by {diff:.1f} +/- {dse:.1f} elpd")
     print(f"   ratio {diff/max(dse,1e-9):.1f} standard errors "
           f"-- {'decisive' if diff > 4*dse else 'not decisive'}")

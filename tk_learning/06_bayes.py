@@ -118,6 +118,46 @@ def worst_rhat(idata):
     return max(vals) if vals else float("nan")
 
 
+def az_summary(idata, var_names, prob=0.95):
+    """az.summary with a `prob` highest-density interval, on ArviZ 0.x or 1.x.
+
+    ArviZ 1.x renamed the argument hdi_prob -> ci_prob, and made the
+    interval EQUAL-TAILED by default rather than highest-density, so you
+    have to ask for "hdi" back. The column names changed with it:
+
+        0.x:  mean  sd  hdi_2.5%  hdi_97.5%  ...
+        1.x:  mean  sd  hdi95_lb  hdi95_ub   ...
+
+    Same numbers, different headings. Do not read a renamed column as a
+    changed result.
+    """
+    try:
+        return az.summary(idata, var_names=var_names, hdi_prob=prob)
+    except TypeError:                                        # ArviZ >= 1.0
+        return az.summary(idata, var_names=var_names,
+                          ci_prob=prob, ci_kind="hdi")
+
+
+def compare_loo(models):
+    """az.compare on LOO, on ArviZ 0.x or 1.x.
+
+    ArviZ 1.x dropped WAIC, so LOO is the only information criterion and
+    the `ic=` argument is gone. Two other things moved:
+
+      * the ELPD column is called `elpd`, not `elpd_loo`;
+      * `elpd_diff` is now elpd_model - elpd_reference, so it is
+        NEGATIVE for the losing models. In 0.x it was positive. Take
+        abs() before comparing it with dse, or a decisive result will
+        silently read as "not decisive".
+
+    round_to="none" keeps raw numbers so the arithmetic below is exact.
+    """
+    try:
+        return az.compare(models, ic="loo")
+    except TypeError:                                        # ArviZ >= 1.0
+        return az.compare(models, round_to="none")
+
+
 def run(m, name):
     """Sample, and cache to disk so re-running is instant."""
     import os
@@ -130,7 +170,7 @@ def run(m, name):
                           target_accept=0.95, progressbar=False,
                           idata_kwargs={"log_likelihood": True})
     print(f"\n--- {name} ---")
-    div = int(idata.sample_stats.diverging.sum())
+    div = int(idata["sample_stats"]["diverging"].sum())
     rhat = worst_rhat(idata)
     print(f"divergences {div}   worst r-hat {rhat:.4f}"
           f"   {'OK' if div == 0 and rhat < 1.01 else 'CHECK THIS'}")
@@ -140,10 +180,10 @@ def run(m, name):
 
 if __name__ == "__main__":
     ip = run(pooled(), "pooled")
-    print(az.summary(ip, var_names=["Vd", "k", "half_life", "CL", "sigma"],
-                     hdi_prob=0.95).to_string())
+    print(az_summary(ip, ["Vd", "k", "half_life", "CL", "sigma"]).to_string())
     print("""
-   Read the table: 'mean' is the posterior mean, hdi_2.5%/97.5% the
+   Read the table: 'mean' is the posterior mean, hdi_2.5%/97.5%
+   (hdi95_lb/hdi95_ub on ArviZ 1.x -- same numbers) the
    credible interval -- the range containing 95% of the posterior
    probability, which is what most people wrongly think a confidence
    interval is. ess_bulk should be in the thousands, r_hat below 1.01.
@@ -160,9 +200,8 @@ if __name__ == "__main__":
 """)
 
     ih = run(hierarchical(), "hierarchical")
-    print(az.summary(ih, var_names=["half_life_pop", "half_life_i",
-                                    "sd_ln_k", "sigma"],
-                     hdi_prob=0.95).to_string())
+    print(az_summary(ih, ["half_life_pop", "half_life_i",
+                          "sd_ln_k", "sigma"]).to_string())
     print("""
    Now each monkey has its own half-life, and the population value has
    its own uncertainty on top. Look at sigma: it should have dropped
@@ -272,13 +311,15 @@ if __name__ == "__main__":
            "model's admission that it cannot tell these three animals "
            "apart.")
 
-    comp = az.compare({"pooled": ip, "hierarchical": ih}, ic="loo")
+    comp = compare_loo({"pooled": ip, "hierarchical": ih})
     print(comp.to_string())
     print("""
    LOO (leave-one-out cross-validation) estimates out-of-sample
-   predictive accuracy. Higher elpd_loo is better; the ranking is what
-   matters, and elpd_diff should be compared to its own standard error
-   (dse) -- a difference smaller than about 2*dse is not decisive.
+   predictive accuracy. Higher elpd_loo is better (the column is just
+   `elpd` on ArviZ 1.x); the ranking is what matters, and elpd_diff
+   should be compared to its own standard error (dse) -- a difference
+   smaller than about 2*dse is not decisive. Its SIGN is a version
+   trap: positive for the losers in ArviZ 0.x, negative in 1.x.
 
    This is the same tool the EPA pipeline uses to choose between one and
    two compartments, and the same one lesson 07 will use.
